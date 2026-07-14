@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="10">
+  <title>WCYT Now Playing</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #0d0d0d;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ── Header ── */
+    .header {
+      background: #111130;
+      padding: 14px 36px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 4px solid #cc0000;
+      flex-shrink: 0;
+    }
+    .station-name {
+      font-size: 2.2em;
+      font-weight: bold;
+      letter-spacing: 6px;
+    }
+    .header-label {
+      font-size: 0.85em;
+      color: #aaaaaa;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+    }
+
+    /* ── Main layout ── */
+    .main {
+      display: flex;
+      flex: 1;
+      padding: 28px 36px;
+      gap: 32px;
+      min-height: 0;
+    }
+
+    /* ── Album art ── */
+    .art-section {
+      width: 300px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .album-art {
+      width: 280px;
+      height: 280px;
+      object-fit: cover;
+      border-radius: 10px;
+      border: 3px solid #2a2a2a;
+      background: #1a1a1a;
+    }
+
+    /* ── Now playing centre ── */
+    .now-playing {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-width: 0;
+    }
+    .on-air {
+      display: inline-block;
+      background: #cc0000;
+      color: #ffffff;
+      font-size: 0.7em;
+      font-weight: bold;
+      letter-spacing: 4px;
+      padding: 5px 14px;
+      border-radius: 4px;
+      margin-bottom: 18px;
+      text-transform: uppercase;
+      width: fit-content;
+    }
+    .artist {
+      font-size: 2.8em;
+      font-weight: bold;
+      line-height: 1.15;
+      margin-bottom: 10px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .title {
+      font-size: 1.9em;
+      color: #cccccc;
+      font-weight: normal;
+      margin-bottom: 16px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .album {
+      font-size: 1em;
+      color: #999999;
+      margin-bottom: 12px;
+    }
+    .category {
+      font-size: 0.8em;
+      color: #777777;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+    }
+
+    /* ── Sidebar ── */
+    .sidebar {
+      width: 300px;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      overflow: hidden;
+    }
+    .sidebar-block {
+      background: #111122;
+      border-radius: 8px;
+      padding: 16px 18px;
+      border-left: 4px solid #cc0000;
+      flex: 1;
+      overflow: hidden;
+    }
+    .sidebar-block h3 {
+      font-size: 0.7em;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color: #777777;
+      margin-bottom: 12px;
+    }
+    .sidebar-content {
+      font-size: 0.9em;
+      color: #cccccc;
+      line-height: 1.8;
+      white-space: pre-wrap;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="station-name">WCYT</div>
+    <div class="header-label">Now Playing</div>
+  </div>
+
+  <div class="main">
+
+    <div class="art-section">
+      <img class="album-art"
+           src="Album%20Art/Leon Bridges-Coming Home.jpg"
+           alt=""
+           onerror="this.style.visibility='hidden'">
+    </div>
+
+    <div class="now-playing">
+      <div class="on-air">On Air</div>
+      <div class="artist">Leon Bridges</div>
+      <div class="title">Coming Home</div>
+      <div class="album">Coming Home &bull; 2015</div>
+      <div class="category">AUDIO</div>
+    </div>
+
+    <div class="sidebar">
+      <div class="sidebar-block">
+        <h3>Coming Up</h3>
+        <div class="sidebar-content">10:44 am - William DeVaughn - Be Thankful for What You Got (Pt. 1 & Pt. 2)  (1974)<br>10:51 am - Tad - Grease Box  (1993)<br>10:55 am - Liner - Liner<br>10:55 am - The Fleetwoods - Come Softly to Me  (1959)<br>10:57 am - The White Stripes - Dead Leaves and the Dirty Ground  (2002)<br></div>
+      </div>
+      <div class="sidebar-block">
+        <h3>Recently Played</h3>
+        <div class="sidebar-content">7:11 am - The Sugarcubes - Hit  (1992)<br />7:16 am - Liner - Liner<br />7:17 am - Rolling Stones - Start Me Up  (1981)<br />7:22 am - Tears For Fears - Shout  (1985)<br />7:31 am - Koji Kondo - Super Mario Sunshine (Staff Roll)<br />7:33 am - Liner - Liner<br />7:33 am - Wings - Let 'Em In  (1976)<br />7:40 am - Joni Mitchell - The Hissing of Summer Lawns  (1975)<br />7:45 am - Liner - Liner<br />7:45 am - Yeasayer - 2080  (2007)<br />7:52 am - Love - Alone Again Or  (1967)<br />7:56 am - Pink Floyd - Have a Cigar  (1975)<br />8:03 am - Tori Amos - Cornflake Girl  (1994)<br />8:10 am - Liner - Liner<br />8:11 am - Nina Simone - I Loves You, Porgy  (1958)<br />8:16 am - Wilco - I'm the Man Who Loves You  (2002)<br />8:22 am - Liner - Liner<br />8:22 am - Small Faces - Lazy Sunday  (1968)<br />8:26 am - Macklemore - Can't Hold Us ft. Ray Dalton  (2012)<br />8:32 am - Liner - Liner<br />8:32 am - Green Day - Chump  (1994)<br />8:36 am - Sleater-Kinney - Dig Me Out  (1997)<br />8:40 am - Liner - Liner<br />8:40 am - Tina Turner - The Best  (1989)<br />8:46 am - Tom Petty and the Heartbreakers - Straight Into Darkness  (1982)<br />8:51 am - Grimes - We Appreciate Power (feat. Hana)<br />8:59 am - Liner - Liner<br />8:59 am - Grateful Dead - Eyes of the World  (1973)<br />9:07 am - Led Zeppelin - Going to California  (1971)<br />9:11 am - Liner - Liner<br />9:12 am - Songs Ohia - Blue Chicago Moon  (2002)<br />9:21 am - Roy Orbison - Dream Baby (How Long Must I Dream)  (1965)<br />9:25 am - The Clash - Gates of the West  (1979)<br />9:29 am - Sonic Youth - 100%  (1992)<br />9:33 am - James Brown and The Famous Flames - Please, Please, Please  (1958)<br />9:37 am - Spoon - Stay Don't Go  (2002)<br />9:42 am - Liner - Liner<br />9:42 am - Righteous Brothers - Unchained Melody  (1965)<br />9:47 am - Lana Del Rey - Video Games  (2012)<br />9:53 am - Wilco - How to Fight Loneliness  (1999)<br />9:59 am - Liner - Liner<br />9:59 am - Yo La Tengo - Nowhere Near  (1993)<br />10:07 am - Young Marble Giants - Salad Days  (1980</div>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
