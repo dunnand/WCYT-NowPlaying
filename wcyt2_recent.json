@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-16T16:15:15",
+  "updatedAt": "2026-07-16T16:15:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Take A Chance On Me",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 pm",
-      "artist": "ABBA",
-      "title": "Take A Chance On Me"
-    },
     {
       "time": "4:19 pm",
       "artist": "The Decemberists",
@@ -31,9 +26,20 @@
       "time": "4:32 pm",
       "artist": "Soundgarden",
       "title": "Heretic"
+    },
+    {
+      "time": "4:35 pm",
+      "artist": "Kendrick Lamar",
+      "title": "Alright"
     }
   ],
   "recent": [
+    {
+      "time": "4:15 pm",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "4:08 pm",
       "artist": "Daft Punk",
@@ -177,12 +183,6 @@
       "artist": "Coldplay",
       "title": "The Scientist",
       "album": "A Rush of Blood to the Head • 2002"
-    },
-    {
-      "time": "1:55 pm",
-      "artist": "Leon Bridges",
-      "title": "Beyond",
-      "album": "Good Thing • 2018"
     }
   ]
 }
