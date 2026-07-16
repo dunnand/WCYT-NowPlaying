@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-16T14:01:03",
+  "updatedAt": "2026-07-16T14:01:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "The Scientist",
+    "album": "A Rush of Blood to the Head • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 pm",
-      "artist": "Coldplay",
-      "title": "The Scientist"
-    },
     {
       "time": "2:06 pm",
       "artist": "Black Eyed Peas",
@@ -26,9 +21,20 @@
       "time": "2:13 pm",
       "artist": "Nirvana.",
       "title": "Smells Like Teen Spirit"
+    },
+    {
+      "time": "2:18 pm",
+      "artist": "Nirvana",
+      "title": "Drain You"
     }
   ],
   "recent": [
+    {
+      "time": "2:01 pm",
+      "artist": "Coldplay",
+      "title": "The Scientist",
+      "album": "A Rush of Blood to the Head • 2002"
+    },
     {
       "time": "1:55 pm",
       "artist": "Leon Bridges",
@@ -171,11 +177,6 @@
       "time": "11:19 am",
       "artist": "The Avalanches",
       "title": "Frontier Psychiatrist  (200"
-    },
-    {
-      "time": "11:16 am",
-      "artist": "Jamies",
-      "title": "Summertime, Summertime"
     }
   ]
 }
