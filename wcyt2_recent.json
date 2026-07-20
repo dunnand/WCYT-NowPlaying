@@ -1,39 +1,45 @@
 {
-  "updatedAt": "2026-07-20T10:20:49",
+  "updatedAt": "2026-07-20T10:26:33",
   "now": {
-    "artist": "John Lennon",
-    "title": "Mind Games",
-    "album": "Mind Games • 1973",
+    "artist": "blink-182",
+    "title": "Always",
+    "album": "blink-182 • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:24 am",
-      "artist": "blink",
-      "title": "182 - Always"
-    },
-    {
-      "time": "10:29 am",
+      "time": "10:30 am",
       "artist": "Van Morrison",
       "title": "Madame George"
     },
     {
-      "time": "10:38 am",
+      "time": "10:40 am",
       "artist": "Kraftwerk",
       "title": "Radioactivity"
     },
     {
-      "time": "10:45 am",
+      "time": "10:46 am",
       "artist": "The Smashing Pumpkins",
       "title": "Mayonaise"
     },
     {
-      "time": "10:50 am",
+      "time": "10:52 am",
       "artist": "Bobby Darin",
       "title": "Splish Splash"
+    },
+    {
+      "time": "10:54 am",
+      "artist": "Broadcast",
+      "title": "Valerie"
     }
   ],
   "recent": [
+    {
+      "time": "10:26 am",
+      "artist": "blink-182",
+      "title": "Always",
+      "album": "blink-182 • 2003"
+    },
     {
       "time": "10:20 am",
       "artist": "John Lennon",
@@ -177,12 +183,6 @@
       "artist": "The Doors",
       "title": "Hello, I Love You",
       "album": "Waiting for the Sun • 1968"
-    },
-    {
-      "time": "2:48 pm",
-      "artist": "The Doors",
-      "title": "L.A. Woman",
-      "album": "L.A. Woman • 1971"
     }
   ]
 }
