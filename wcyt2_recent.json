@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T12:40:35",
+  "updatedAt": "2026-07-20T12:40:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Julia",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 pm",
-      "artist": "The Beatles",
-      "title": "Julia"
-    },
     {
       "time": "12:43 pm",
       "artist": "Solange",
@@ -26,9 +21,20 @@
       "time": "12:51 pm",
       "artist": "Yo La Tengo",
       "title": "Tom Courtenay"
+    },
+    {
+      "time": "12:54 pm",
+      "artist": "Laura Branigan",
+      "title": "Gloria"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 pm",
+      "artist": "The Beatles",
+      "title": "Julia",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:35 pm",
       "artist": "Feist",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Crown of Love",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "4:44 pm",
-      "artist": "Kendrick Lamar",
-      "title": "Alright",
-      "album": "To Pimp a Butterfly • 2015"
     }
   ]
 }
