@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T12:04:11",
+  "updatedAt": "2026-07-20T12:04:31",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "R.E.M.",
+    "title": "It's the End of the World as We Know It (and I Feel Fine)",
+    "album": "Document • 1987",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 pm",
-      "artist": "R.E.M.",
-      "title": "It's the End of the World as We Know It (and I Feel Fine)"
-    },
     {
       "time": "12:08 pm",
       "artist": "Adrianne Lenker",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:04 pm",
+      "artist": "R.E.M.",
+      "title": "It's the End of the World as We Know It (and I Feel Fine)",
+      "album": "Document • 1987"
+    },
     {
       "time": "12:01 pm",
       "artist": "Alabama Shakes",
@@ -177,12 +178,6 @@
       "artist": "Anna Burch",
       "title": "Party's Over",
       "album": "If You're Dreaming • 2020"
-    },
-    {
-      "time": "10:31 am",
-      "artist": "Mac DeMarco",
-      "title": "Cooking Up Something Good",
-      "album": "2 • 2012"
     }
   ]
 }
