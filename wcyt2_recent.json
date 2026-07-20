@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T19:39:21",
+  "updatedAt": "2026-07-20T19:39:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Les Savy Fav",
+    "title": "The Sweat Descends",
+    "album": "Inches • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:39 pm",
-      "artist": "Les Savy Fav",
-      "title": "The Sweat Descends"
-    },
     {
       "time": "7:43 pm",
       "artist": "Paramore",
@@ -26,9 +21,20 @@
       "time": "7:51 pm",
       "artist": "Belle and Sebastian",
       "title": "I Don't Love Anyone"
+    },
+    {
+      "time": "7:55 pm",
+      "artist": "Built to Spill",
+      "title": "Big Dipper"
     }
   ],
   "recent": [
+    {
+      "time": "7:39 pm",
+      "artist": "Les Savy Fav",
+      "title": "The Sweat Descends",
+      "album": "Inches • 2004"
+    },
     {
       "time": "7:34 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Misfits",
       "title": "Night of the Living Dead",
       "album": "Walk Among Us • 1982"
-    },
-    {
-      "time": "5:05 pm",
-      "artist": "Metallica",
-      "title": "Master of Puppets",
-      "album": "Master of Puppets • 1986"
     }
   ]
 }
