@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T12:55:11",
+  "updatedAt": "2026-07-20T12:55:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Tom Courtenay",
+    "album": "Electropura • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "Yo La Tengo",
-      "title": "Tom Courtenay"
-    },
     {
       "time": "12:58 pm",
       "artist": "Laura Branigan",
@@ -26,9 +21,20 @@
       "time": "1:07 pm",
       "artist": "Chappell Roan",
       "title": "HOT TO GO!"
+    },
+    {
+      "time": "1:10 pm",
+      "artist": "Aphex Twin",
+      "title": "Vordhosbn"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "Yo La Tengo",
+      "title": "Tom Courtenay",
+      "album": "Electropura • 1995"
+    },
     {
       "time": "12:50 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "blink-182",
       "title": "Always",
       "album": "blink-182 • 2003"
-    },
-    {
-      "time": "10:20 am",
-      "artist": "John Lennon",
-      "title": "Mind Games",
-      "album": "Mind Games • 1973"
     }
   ]
 }
