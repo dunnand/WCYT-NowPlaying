@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T13:06:46",
+  "updatedAt": "2026-07-20T13:07:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "LL Cool J",
+    "title": "Rock The Bells",
+    "album": "Radio • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 pm",
-      "artist": "LL Cool J",
-      "title": "Rock The Bells"
-    },
     {
       "time": "1:10 pm",
       "artist": "Chappell Roan",
@@ -26,9 +21,20 @@
       "time": "1:18 pm",
       "artist": "Parliament",
       "title": "Unfunky UFO"
+    },
+    {
+      "time": "1:23 pm",
+      "artist": "The Decemberists",
+      "title": "Sons & Daughters"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 pm",
+      "artist": "LL Cool J",
+      "title": "Rock The Bells",
+      "album": "Radio • 1985"
+    },
     {
       "time": "1:00 pm",
       "artist": "Laura Branigan",
@@ -172,12 +178,6 @@
       "artist": "Kraftwerk",
       "title": "Radioactivity",
       "album": "Radio-Activity • 1975"
-    },
-    {
-      "time": "10:32 am",
-      "artist": "Van Morrison",
-      "title": "Madame George",
-      "album": "Astral Weeks • 1968"
     }
   ]
 }
