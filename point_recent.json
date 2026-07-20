@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T17:53:08",
+  "updatedAt": "2026-07-20T17:53:30",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Clash",
+    "title": "Clampdown",
+    "album": "London Calling • 1979",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 pm",
-      "artist": "The Clash",
-      "title": "Clampdown"
-    },
     {
       "time": "5:57 pm",
       "artist": "King Gizzard & The Lizard Wizard",
@@ -26,9 +21,20 @@
       "time": "6:03 pm",
       "artist": "Talking Heads",
       "title": "Girls Want to Be With the Girls"
+    },
+    {
+      "time": "6:06 pm",
+      "artist": "Angelo De Augustine",
+      "title": "Toil and Trouble"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 pm",
+      "artist": "The Clash",
+      "title": "Clampdown",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "5:49 pm",
       "artist": "The Smiths",
@@ -172,12 +178,6 @@
       "artist": "Ty Segall",
       "title": "Black Paint",
       "album": "Chrome • 2026"
-    },
-    {
-      "time": "4:14 pm",
-      "artist": "Benny Sings",
-      "title": "The World",
-      "album": "Young Hearts • 2023"
     }
   ]
 }
