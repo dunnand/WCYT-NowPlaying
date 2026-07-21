@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-07-20T23:03:09",
+  "updatedAt": "2026-07-20T23:09:57",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Forever Young",
-    "album": "Planet Waves • 1974",
+    "artist": "Queen",
+    "title": "Fat Bottomed Girls",
+    "album": "Jazz • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:07 pm",
-      "artist": "Queen",
-      "title": "Fat Bottomed Girls"
-    },
-    {
-      "time": "11:12 pm",
+      "time": "11:14 pm",
       "artist": "Modest Mouse",
       "title": "Tiny Cities Made of Ashes"
     },
     {
-      "time": "11:15 pm",
+      "time": "11:17 pm",
       "artist": "The Dave Clark Five",
       "title": "Glad All Over"
     },
     {
-      "time": "11:18 pm",
+      "time": "11:20 pm",
       "artist": "ABBA",
       "title": "Mamma Mia"
+    },
+    {
+      "time": "11:23 pm",
+      "artist": "Radiohead",
+      "title": "Electioneering"
     }
   ],
   "recent": [
+    {
+      "time": "11:09 pm",
+      "artist": "Queen",
+      "title": "Fat Bottomed Girls",
+      "album": "Jazz • 1978"
+    },
     {
       "time": "11:03 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "My Morning Jacket",
       "title": "One Big Holiday",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "8:54 pm",
-      "artist": "Radiohead",
-      "title": "True Love Waits",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
