@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T21:53:05",
+  "updatedAt": "2026-07-20T21:55:38",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Can't Do That",
-    "album": "A Hard Day's Night • 1964",
+    "artist": "Andy Gibb",
+    "title": "I Just Want To Be Your Everything",
+    "album": "Flowing Rivers • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:55 pm",
-      "artist": "Andy Gibb",
-      "title": "I Just Want To Be Your Everything"
-    },
     {
       "time": "9:59 pm",
       "artist": "Extreme",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:55 pm",
+      "artist": "Andy Gibb",
+      "title": "I Just Want To Be Your Everything",
+      "album": "Flowing Rivers • 1977"
+    },
     {
       "time": "9:53 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Rihanna",
       "title": "What's My Name",
       "album": "Loud • 2010"
-    },
-    {
-      "time": "7:45 pm",
-      "artist": "Paramore",
-      "title": "Misery Business",
-      "album": "RIOT! • 2007"
     }
   ]
 }
