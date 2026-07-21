@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-21T02:41:22",
+  "updatedAt": "2026-07-21T02:41:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "All I've Got To Do",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:41 am",
-      "artist": "The Beatles",
-      "title": "All I've Got To Do"
-    },
     {
       "time": "2:43 am",
       "artist": "Songs Ohia",
@@ -26,9 +21,20 @@
       "time": "2:50 am",
       "artist": "blink",
       "title": "182 - What's My Age Again?"
+    },
+    {
+      "time": "2:52 am",
+      "artist": "The Smithereens",
+      "title": "Blood And Roses"
     }
   ],
   "recent": [
+    {
+      "time": "2:41 am",
+      "artist": "The Beatles",
+      "title": "All I've Got To Do",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "2:36 am",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "Scorpions",
       "title": "Rock You Like A Hurricane",
       "album": "Love at First Sting • 1984"
-    },
-    {
-      "time": "12:24 am",
-      "artist": "Brian McKnight",
-      "title": "Back At One",
-      "album": "Back at One • 1999"
     }
   ]
 }
