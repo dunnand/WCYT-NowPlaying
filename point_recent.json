@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T22:27:28",
+  "updatedAt": "2026-07-20T22:27:50",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Benny Sings",
+    "title": "Young Hearts",
+    "album": "Young Hearts • 2023",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:27 pm",
-      "artist": "Benny Sings",
-      "title": "Young Hearts"
-    },
     {
       "time": "10:30 pm",
       "artist": "Chvrches",
@@ -26,9 +21,20 @@
       "time": "10:36 pm",
       "artist": "Foxygen",
       "title": "San Francisco"
+    },
+    {
+      "time": "10:40 pm",
+      "artist": "Yves Tumor",
+      "title": "Kerosene!"
     }
   ],
   "recent": [
+    {
+      "time": "10:27 pm",
+      "artist": "Benny Sings",
+      "title": "Young Hearts",
+      "album": "Young Hearts • 2023"
+    },
     {
       "time": "10:17 pm",
       "artist": "Ed O'Brien",
@@ -172,12 +178,6 @@
       "artist": "Angel Olsen",
       "title": "Lights Out",
       "album": "Burn Your Fire For No Witness • 2014"
-    },
-    {
-      "time": "8:49 pm",
-      "artist": "Operation Ivy",
-      "title": "Sound System",
-      "album": "Energy • 1989"
     }
   ]
 }
