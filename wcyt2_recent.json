@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-21T15:43:19",
+  "updatedAt": "2026-07-21T15:43:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Peaceful Easy Feeling",
+    "album": "Eagles • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 pm",
-      "artist": "Eagles",
-      "title": "Peaceful Easy Feeling"
-    },
     {
       "time": "3:47 pm",
       "artist": "The Beatles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:43 pm",
+      "artist": "Eagles",
+      "title": "Peaceful Easy Feeling",
+      "album": "Eagles • 1973"
+    },
     {
       "time": "3:40 pm",
       "artist": "The Beatles",
@@ -177,12 +178,6 @@
       "artist": "Townes Van Zandt",
       "title": "Waiting Around to Die",
       "album": "Townes Van Zandt • 1969"
-    },
-    {
-      "time": "1:17 pm",
-      "artist": "Neko Case",
-      "title": "Deep Red Bells",
-      "album": "Blacklisted • 2002"
     }
   ]
 }
