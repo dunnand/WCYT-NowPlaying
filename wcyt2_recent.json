@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-21T04:14:47",
+  "updatedAt": "2026-07-21T04:14:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Streets Of Philadelphia",
+    "album": "Philadelphia Soundtrack • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:14 am",
-      "artist": "Bruce Springsteen",
-      "title": "Streets Of Philadelphia"
-    },
     {
       "time": "4:18 am",
       "artist": "Celine Dion",
@@ -26,9 +21,20 @@
       "time": "4:27 am",
       "artist": "The Specials",
       "title": "Free Nelson Mandela"
+    },
+    {
+      "time": "4:31 am",
+      "artist": "Harry Styles",
+      "title": "As It Was"
     }
   ],
   "recent": [
+    {
+      "time": "4:14 am",
+      "artist": "Bruce Springsteen",
+      "title": "Streets Of Philadelphia",
+      "album": "Philadelphia Soundtrack • 1994"
+    },
     {
       "time": "4:10 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Love Hurts",
       "album": "A Date with the Everly Brothers • 1960"
-    },
-    {
-      "time": "2:06 am",
-      "artist": "The Specials",
-      "title": "Nite Klub",
-      "album": "Specials • 1979"
     }
   ]
 }
