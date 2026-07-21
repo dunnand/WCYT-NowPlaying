@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T21:14:51",
+  "updatedAt": "2026-07-20T21:15:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Memories",
+    "album": "Hurley • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 pm",
-      "artist": "Weezer",
-      "title": "Memories"
-    },
     {
       "time": "9:18 pm",
       "artist": "They Might Be Giants",
@@ -26,9 +21,20 @@
       "time": "9:24 pm",
       "artist": "Nirvana",
       "title": "Love Buzz"
+    },
+    {
+      "time": "9:28 pm",
+      "artist": "Oingo Boingo",
+      "title": "Weird Science"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "Weezer",
+      "title": "Memories",
+      "album": "Hurley • 2010"
+    },
     {
       "time": "9:08 pm",
       "artist": "Justin Timberlake",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Genesis",
       "album": "Ohms • 2020"
-    },
-    {
-      "time": "6:34 pm",
-      "artist": "Naked Eyes",
-      "title": "Always Something There To Remind Me",
-      "album": "Burning Bridges • 1983"
     }
   ]
 }
