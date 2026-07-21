@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-20T23:02:47",
+  "updatedAt": "2026-07-20T23:03:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Forever Young",
+    "album": "Planet Waves • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:02 pm",
-      "artist": "Bob Dylan",
-      "title": "Forever Young"
-    },
     {
       "time": "11:07 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "11:15 pm",
       "artist": "The Dave Clark Five",
       "title": "Glad All Over"
+    },
+    {
+      "time": "11:18 pm",
+      "artist": "ABBA",
+      "title": "Mamma Mia"
     }
   ],
   "recent": [
+    {
+      "time": "11:03 pm",
+      "artist": "Bob Dylan",
+      "title": "Forever Young",
+      "album": "Planet Waves • 1974"
+    },
     {
       "time": "10:55 pm",
       "artist": "Childish Gambino",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "True Love Waits",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "8:49 pm",
-      "artist": "Rod Stewart",
-      "title": "Have I Told You Lately",
-      "album": "Vagabond Heart • 1993"
     }
   ]
 }
