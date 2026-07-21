@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-21T13:48:36",
+  "updatedAt": "2026-07-21T13:48:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Willie Nelson",
+    "title": "On the Road Again",
+    "album": "Honeysuckle Rose • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:48 pm",
-      "artist": "Willie Nelson",
-      "title": "On the Road Again"
-    },
     {
       "time": "1:51 pm",
       "artist": "X",
@@ -26,9 +21,20 @@
       "time": "1:58 pm",
       "artist": "Grateful Dead",
       "title": "Franklin's Tower"
+    },
+    {
+      "time": "2:02 pm",
+      "artist": "Joni Mitchell",
+      "title": "California"
     }
   ],
   "recent": [
+    {
+      "time": "1:48 pm",
+      "artist": "Willie Nelson",
+      "title": "On the Road Again",
+      "album": "Honeysuckle Rose • 1980"
+    },
     {
       "time": "1:40 pm",
       "artist": "The Prodigy",
@@ -172,12 +178,6 @@
       "artist": "The Shangri-Las",
       "title": "Give Him A Great Big Kiss",
       "album": "Leader of the Pack • 1965"
-    },
-    {
-      "time": "11:24 am",
-      "artist": "Portishead",
-      "title": "The Rip",
-      "album": "Third • 2008"
     }
   ]
 }
