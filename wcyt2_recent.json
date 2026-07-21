@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-07-20T23:24:18",
+  "updatedAt": "2026-07-20T23:29:11",
   "now": {
-    "artist": "ABBA",
-    "title": "Mamma Mia",
-    "album": "ABBA • 1975",
+    "artist": "Radiohead",
+    "title": "Electioneering",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:27 pm",
-      "artist": "Radiohead",
-      "title": "Electioneering"
-    },
-    {
-      "time": "11:31 pm",
+      "time": "11:32 pm",
       "artist": "Muddy Waters",
       "title": "Got My Mojo Working"
     },
     {
-      "time": "11:34 pm",
+      "time": "11:35 pm",
       "artist": "MGMT",
       "title": "Electric Feel"
     },
     {
-      "time": "11:38 pm",
+      "time": "11:39 pm",
       "artist": "The Sonics",
       "title": "Psycho"
+    },
+    {
+      "time": "11:41 pm",
+      "artist": "Sharon Jones and the Dap",
+      "title": "Kings - Matter of Time"
     }
   ],
   "recent": [
+    {
+      "time": "11:29 pm",
+      "artist": "Radiohead",
+      "title": "Electioneering",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "11:24 pm",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty",
       "title": "A Higher Place",
       "album": "Wildflowers • 1994"
-    },
-    {
-      "time": "9:19 pm",
-      "artist": "They Might Be Giants",
-      "title": "Destination Moon",
-      "album": "John Henry • 1994"
     }
   ]
 }
