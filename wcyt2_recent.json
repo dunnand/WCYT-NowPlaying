@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T16:32:17",
+  "updatedAt": "2026-07-22T16:32:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Sugar Magnolia",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:32 pm",
-      "artist": "Grateful Dead",
-      "title": "Sugar Magnolia"
-    },
     {
       "time": "4:35 pm",
       "artist": "The Byrds",
@@ -26,9 +21,20 @@
       "time": "4:43 pm",
       "artist": "The Beatles",
       "title": "I'm Looking Through You"
+    },
+    {
+      "time": "4:46 pm",
+      "artist": "Pink Floyd",
+      "title": "Childhood's End"
     }
   ],
   "recent": [
+    {
+      "time": "4:32 pm",
+      "artist": "Grateful Dead",
+      "title": "Sugar Magnolia",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "4:30 pm",
       "artist": "unknown",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Vega-Tables",
       "album": "The Smile Sessions • 2011"
-    },
-    {
-      "time": "1:48 pm",
-      "artist": "Sheryl Crow",
-      "title": "My Favorite Mistake",
-      "album": "The Globe Sessions • 1998"
     }
   ]
 }
