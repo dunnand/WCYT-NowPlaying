@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T03:54:26",
+  "updatedAt": "2026-07-22T03:54:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Your Song",
+    "album": "Elton John • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:54 am",
-      "artist": "Elton John",
-      "title": "Your Song"
-    },
     {
       "time": "3:58 am",
       "artist": "The Beatles",
@@ -23,7 +18,7 @@
       "title": "Slip On Through"
     },
     {
-      "time": "4:01 am",
+      "time": "4:02 am",
       "artist": "The Apples in Stereo",
       "title": "Tidal Wave"
     },
@@ -31,9 +26,20 @@
       "time": "4:05 am",
       "artist": "Impalas",
       "title": "Sorry (I Ran All The Way Home)"
+    },
+    {
+      "time": "4:07 am",
+      "artist": "Justin Timberlake",
+      "title": "Cry Me a River"
     }
   ],
   "recent": [
+    {
+      "time": "3:54 am",
+      "artist": "Elton John",
+      "title": "Your Song",
+      "album": "Elton John • 1970"
+    },
     {
       "time": "3:50 am",
       "artist": "The Kinks",
@@ -177,12 +183,6 @@
       "artist": "Trini Lopez",
       "title": "If I Had A Hammer",
       "album": "single • 1963"
-    },
-    {
-      "time": "1:42 am",
-      "artist": "OutKast",
-      "title": "Ms. Jackson",
-      "album": "Stankonia • 2000"
     }
   ]
 }
