@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-21T23:34:08",
+  "updatedAt": "2026-07-21T23:34:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Nick Drake",
+    "title": "Pink Moon",
+    "album": "Pink Moon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:34 pm",
-      "artist": "Nick Drake",
-      "title": "Pink Moon"
-    },
     {
       "time": "11:36 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "11:42 pm",
       "artist": "Boyz II Men",
       "title": "End Of The Road"
+    },
+    {
+      "time": "11:48 pm",
+      "artist": "Jack Scott",
+      "title": "What In The World's Come Over You"
     }
   ],
   "recent": [
+    {
+      "time": "11:34 pm",
+      "artist": "Nick Drake",
+      "title": "Pink Moon",
+      "album": "Pink Moon • 1972"
+    },
     {
       "time": "11:29 pm",
       "artist": "Van Morrison",
@@ -172,12 +178,6 @@
       "artist": "Tommy James & The Shondells",
       "title": "Crystal Blue Persuasion",
       "album": "Crimson & Clover • 1969"
-    },
-    {
-      "time": "9:19 pm",
-      "artist": "Phoenix",
-      "title": "If I Ever Feel Better",
-      "album": "United • 2000"
     }
   ]
 }
