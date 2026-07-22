@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T01:10:09",
+  "updatedAt": "2026-07-22T01:10:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rod Stewart",
+    "title": "Hot Legs",
+    "album": "Foot Loose & Fancy Free • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Rod Stewart",
-      "title": "Hot Legs"
-    },
     {
       "time": "1:15 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "1:26 am",
       "artist": "Weezer",
       "title": "Say It Ain't So"
+    },
+    {
+      "time": "1:30 am",
+      "artist": "Sam Cooke",
+      "title": "You Send Me"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Rod Stewart",
+      "title": "Hot Legs",
+      "album": "Foot Loose & Fancy Free • 1978"
+    },
     {
       "time": "1:06 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "The Book of Love",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "10:53 pm",
-      "artist": "Black Crowes",
-      "title": "She Talks To Angels",
-      "album": "Shake Your Money Maker • 1991"
     }
   ]
 }
