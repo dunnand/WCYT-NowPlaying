@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-07-22T10:51:48",
+  "updatedAt": "2026-07-22T10:56:10",
   "now": {
-    "artist": "*NSYNC",
-    "title": "It's Gonna Be Me",
-    "album": "No Strings Attached • 2000",
+    "artist": "The Doors",
+    "title": "People Are Strange",
+    "album": "Strange Days • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:54 am",
-      "artist": "The Doors",
-      "title": "People Are Strange"
-    },
-    {
-      "time": "10:56 am",
+      "time": "10:58 am",
       "artist": "David Bowie",
       "title": "The Man Who Sold the World"
     },
     {
-      "time": "11:00 am",
+      "time": "11:02 am",
       "artist": "De La Soul",
       "title": "Jenifa Taught Me (Derwin's Revenge)"
     },
     {
-      "time": "11:04 am",
+      "time": "11:05 am",
       "artist": "Elton Britt",
       "title": "Uranium Fever"
+    },
+    {
+      "time": "11:07 am",
+      "artist": "The Microphones",
+      "title": "Something"
     }
   ],
   "recent": [
+    {
+      "time": "10:56 am",
+      "artist": "The Doors",
+      "title": "People Are Strange",
+      "album": "Strange Days • 1967"
+    },
     {
       "time": "10:51 am",
       "artist": "*NSYNC",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Lazarus",
       "album": "Blackstar • 2016"
-    },
-    {
-      "time": "8:21 am",
-      "artist": "The Surfaris",
-      "title": "Wipe Out",
-      "album": "Wipe Out • 1963"
     }
   ]
 }
