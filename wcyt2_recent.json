@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-21T23:23:01",
+  "updatedAt": "2026-07-21T23:23:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Sweet Home Alabama",
+    "album": "Second Helping • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:23 pm",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Sweet Home Alabama"
-    },
     {
       "time": "11:27 pm",
       "artist": "Van Morrison",
@@ -26,9 +21,20 @@
       "time": "11:33 pm",
       "artist": "The Beatles",
       "title": "Yest It Is with Billy Preston"
+    },
+    {
+      "time": "11:36 pm",
+      "artist": "Randy Newman",
+      "title": "Short People"
     }
   ],
   "recent": [
+    {
+      "time": "11:23 pm",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Sweet Home Alabama",
+      "album": "Second Helping • 1974"
+    },
     {
       "time": "11:18 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Coasters",
       "title": "Poison Ivy",
       "album": "single • 1959"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Sleater-Kinney",
-      "title": "Good Things",
-      "album": "Call The Doctor • 1996"
     }
   ]
 }
