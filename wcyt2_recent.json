@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T16:40:28",
+  "updatedAt": "2026-07-22T16:40:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Woodstock",
+    "album": "Ladies of the Canyon • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:40 pm",
-      "artist": "Joni Mitchell",
-      "title": "Woodstock"
-    },
     {
       "time": "4:45 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "4:57 pm",
       "artist": "Big Bopper",
       "title": "Chantilly Lace"
+    },
+    {
+      "time": "4:59 pm",
+      "artist": "Guided by Voices",
+      "title": "Everywhere With Helicopter"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 pm",
+      "artist": "Joni Mitchell",
+      "title": "Woodstock",
+      "album": "Ladies of the Canyon • 1970"
+    },
     {
       "time": "4:37 pm",
       "artist": "The Byrds",
@@ -177,12 +183,6 @@
       "artist": "Matchbox Twenty",
       "title": "If You're Gone",
       "album": "Mad Season • 2000"
-    },
-    {
-      "time": "1:59 pm",
-      "artist": "M.I.A.",
-      "title": "Jimmy",
-      "album": "Kala • 2007"
     }
   ]
 }
