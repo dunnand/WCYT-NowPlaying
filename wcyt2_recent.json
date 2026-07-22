@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T19:24:04",
+  "updatedAt": "2026-07-22T19:24:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "I Fought the Law",
+    "album": "The Clash • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:24 pm",
-      "artist": "The Clash",
-      "title": "I Fought the Law"
-    },
     {
       "time": "7:26 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "7:35 pm",
       "artist": "Adele",
       "title": "Set Fire To The Rain"
+    },
+    {
+      "time": "7:39 pm",
+      "artist": "The Beatles",
+      "title": "All You Need Is Love"
     }
   ],
   "recent": [
+    {
+      "time": "7:24 pm",
+      "artist": "The Clash",
+      "title": "I Fought the Law",
+      "album": "The Clash • 1979"
+    },
     {
       "time": "7:20 pm",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Honey Don't",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "5:07 pm",
-      "artist": "Guided by Voices",
-      "title": "Everywhere With Helicopter",
-      "album": "Universal Truths and Cycles • 2002"
     }
   ]
 }
