@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T19:57:49",
+  "updatedAt": "2026-07-22T19:58:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "President of What?",
+    "album": "Something About Airplanes • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:58 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "President of What?"
-    },
     {
       "time": "8:02 pm",
       "artist": "Digable Planets",
@@ -23,12 +18,23 @@
       "title": "Escapade"
     },
     {
-      "time": "8:11 pm",
+      "time": "8:12 pm",
       "artist": "The Jesus and Mary Chain",
       "title": "Happy When It Rains"
+    },
+    {
+      "time": "8:15 pm",
+      "artist": "Akito Nakatsuka, Minako Hamano, Masaru Tajima, Toshiyuki Sudo",
+      "title": "Daigassou! Band Brothers (Barbara the Bat's Theme)"
     }
   ],
   "recent": [
+    {
+      "time": "7:58 pm",
+      "artist": "Death Cab for Cutie",
+      "title": "President of What?",
+      "album": "Something About Airplanes • 1998"
+    },
     {
       "time": "7:51 pm",
       "artist": "FKA twigs",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "DARE",
       "album": "Demon Days • 2005"
-    },
-    {
-      "time": "5:39 pm",
-      "artist": "*NSYNC",
-      "title": "Better Place",
-      "album": "TROLLS Band Together Soundtrack • 2023"
     }
   ]
 }
