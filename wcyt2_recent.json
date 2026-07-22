@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-07-22T01:02:04",
+  "updatedAt": "2026-07-22T01:02:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Still Crazy After All These Years",
+    "album": "Still Crazy After All These Years • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:02 am",
-      "artist": "Paul Simon",
-      "title": "Still Crazy After All These Years"
-    },
     {
       "time": "1:05 am",
       "artist": "The Beatles",
       "title": "Devil In Her Heart"
     },
     {
-      "time": "1:07 am",
+      "time": "1:08 am",
       "artist": "Rod Stewart",
       "title": "Hot Legs"
     },
@@ -26,9 +21,20 @@
       "time": "1:13 am",
       "artist": "The Beatles",
       "title": "Rocky Racoon"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Rolling Stones",
+      "title": "You Can't Always Get What You Want"
     }
   ],
   "recent": [
+    {
+      "time": "1:02 am",
+      "artist": "Paul Simon",
+      "title": "Still Crazy After All These Years",
+      "album": "Still Crazy After All These Years • 1975"
+    },
     {
       "time": "12:58 am",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "California",
       "album": "Art Angels • 2015"
-    },
-    {
-      "time": "10:44 pm",
-      "artist": "My Morning Jacket",
-      "title": "Just Because I Do",
-      "album": "At Dawn • 2001"
     }
   ]
 }
