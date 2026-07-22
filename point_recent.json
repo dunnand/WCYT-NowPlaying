@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T01:06:01",
+  "updatedAt": "2026-07-22T01:11:11",
   "now": {
-    "artist": "My Bloody Valentine",
-    "title": "Sometimes",
-    "album": "Loveless • 1991",
+    "artist": "The Replacements",
+    "title": "Kiss Me on the Bus",
+    "album": "Tim • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:11 am",
-      "artist": "The Replacements",
-      "title": "Kiss Me on the Bus"
-    },
     {
       "time": "1:14 am",
       "artist": "Mazzy Star",
@@ -31,9 +26,20 @@
       "time": "1:24 am",
       "artist": "Hot Chip",
       "title": "Flutes"
+    },
+    {
+      "time": "1:31 am",
+      "artist": "Frankie Rose",
+      "title": "Can't Be Wrong"
     }
   ],
   "recent": [
+    {
+      "time": "1:11 am",
+      "artist": "The Replacements",
+      "title": "Kiss Me on the Bus",
+      "album": "Tim • 1985"
+    },
     {
       "time": "1:06 am",
       "artist": "My Bloody Valentine",
@@ -177,12 +183,6 @@
       "artist": "Bat for Lashes",
       "title": "The Hunger",
       "album": "Lost Girls • 2019"
-    },
-    {
-      "time": "10:43 pm",
-      "artist": "Courting",
-      "title": "Throw",
-      "album": "New Last Name • 2024"
     }
   ]
 }
