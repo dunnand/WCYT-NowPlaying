@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-23T01:01:20",
+  "updatedAt": "2026-07-23T01:02:03",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "If You Say the Word",
+    "album": "Single •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Radiohead",
-      "title": "If You Say the Word"
-    },
     {
       "time": "1:06 am",
       "artist": "My Bloody Valentine",
@@ -31,9 +26,20 @@
       "time": "1:17 am",
       "artist": "Yard Act",
       "title": "New Beginnings"
+    },
+    {
+      "time": "1:20 am",
+      "artist": "Jim James",
+      "title": "Come Again"
     }
   ],
   "recent": [
+    {
+      "time": "1:02 am",
+      "artist": "Radiohead",
+      "title": "If You Say the Word",
+      "album": "Single •"
+    },
     {
       "time": "12:57 am",
       "artist": "The Flaming Lips",
@@ -177,12 +183,6 @@
       "artist": "Weyes Blood",
       "title": "Do You Need My Love",
       "album": "Front Row Seat To Earth • 2016"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "Future Islands",
-      "title": "The Fountain",
-      "album": "From a Hole in the Floor to a Fountain of Youth • 2026"
     }
   ]
 }
