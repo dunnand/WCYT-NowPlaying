@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-07-23T11:58:18",
+  "updatedAt": "2026-07-23T12:01:56",
   "now": {
-    "artist": "The D",
-    "title": "New Rose",
-    "album": "DDD • 1977",
-    "category": "AUDIO"
+    "artist": "M83",
+    "title": "We Own The Sky",
+    "album": "Saturdays = Youth • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "12:00 pm",
-      "artist": "M83",
-      "title": "We Own The Sky"
-    },
-    {
-      "time": "12:04 pm",
+      "time": "12:05 pm",
       "artist": "Carly Rae Jepsen",
       "title": "Call Me Maybe"
     },
     {
-      "time": "12:07 pm",
+      "time": "12:08 pm",
       "artist": "Dolly Parton",
       "title": "I Will Always Love You"
     },
     {
-      "time": "12:10 pm",
+      "time": "12:11 pm",
       "artist": "Mr. Big",
       "title": "To Be With You"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "Fats Domino",
+      "title": "The Fat Man"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "M83",
+      "title": "We Own The Sky",
+      "album": "Saturdays = Youth • 2008"
+    },
     {
       "time": "11:58 am",
       "artist": "The D",
@@ -172,12 +178,6 @@
       "artist": "Kelly Clarkson",
       "title": "A Moment Like This",
       "album": "A Moment Like This • 2002"
-    },
-    {
-      "time": "9:47 am",
-      "artist": "Green Day",
-      "title": "Boulevard Of Broken Dreams",
-      "album": "American Idiot • 2004"
     }
   ]
 }
