@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-22T22:01:14",
+  "updatedAt": "2026-07-22T22:05:38",
   "now": {
-    "artist": "Legal ID",
-    "title": "Legal ID",
-    "album": "",
-    "category": "LEGAL"
+    "artist": "Buck Meek",
+    "title": "Haunted Mountain",
+    "album": "Haunted Mountain • 2023",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 pm",
-      "artist": "Buck Meek",
-      "title": "Haunted Mountain"
-    },
     {
       "time": "10:07 pm",
       "artist": "Grizzly Bear",
@@ -21,9 +16,25 @@
       "time": "10:11 pm",
       "artist": "Bully",
       "title": "Atom Bomb"
+    },
+    {
+      "time": "10:14 pm",
+      "artist": "New Order",
+      "title": "Crystal"
+    },
+    {
+      "time": "10:18 pm",
+      "artist": "Iceage",
+      "title": "No Fear"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Buck Meek",
+      "title": "Haunted Mountain",
+      "album": "Haunted Mountain • 2023"
+    },
     {
       "time": "9:59 pm",
       "artist": "Mac DeMarco",
@@ -167,12 +178,6 @@
       "artist": "The Breeders",
       "title": "Doe",
       "album": "Pod • 1990"
-    },
-    {
-      "time": "8:02 pm",
-      "artist": "Fiona Apple",
-      "title": "Extraordinary Machine",
-      "album": "Extraordinary Machine • 2005"
     }
   ]
 }
