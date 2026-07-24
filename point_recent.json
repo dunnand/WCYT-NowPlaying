@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-24T01:01:45",
+  "updatedAt": "2026-07-24T01:06:09",
   "now": {
-    "artist": "Radiohead",
-    "title": "If You Say the Word",
-    "album": "Single •",
+    "artist": "My Bloody Valentine",
+    "title": "Sometimes",
+    "album": "Loveless • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "My Bloody Valentine",
-      "title": "Sometimes"
-    },
     {
       "time": "1:11 am",
       "artist": "The Replacements",
@@ -31,9 +26,20 @@
       "time": "1:20 am",
       "artist": "Jim James",
       "title": "Come Again"
+    },
+    {
+      "time": "1:24 am",
+      "artist": "Hot Chip",
+      "title": "Flutes"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "My Bloody Valentine",
+      "title": "Sometimes",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "1:01 am",
       "artist": "Radiohead",
@@ -177,12 +183,6 @@
       "artist": "Courting",
       "title": "Throw",
       "album": "New Last Name • 2024"
-    },
-    {
-      "time": "10:39 pm",
-      "artist": "Weyes Blood",
-      "title": "Do You Need My Love",
-      "album": "Front Row Seat To Earth • 2016"
     }
   ]
 }
