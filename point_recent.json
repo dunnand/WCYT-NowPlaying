@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-23T20:06:19",
+  "updatedAt": "2026-07-23T20:08:32",
   "now": {
-    "artist": "The Breeders",
-    "title": "Doe",
-    "album": "Pod • 1990",
+    "artist": "The Jam",
+    "title": "In the City",
+    "album": "In the City • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 pm",
-      "artist": "The Jam",
-      "title": "In the City"
-    },
     {
       "time": "8:10 pm",
       "artist": "The Smiths",
@@ -31,9 +26,20 @@
       "time": "8:19 pm",
       "artist": "Joanna Newsom",
       "title": "Baby Birch"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "Ibibio Sound Machine",
+      "title": "Concept Of Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:08 pm",
+      "artist": "The Jam",
+      "title": "In the City",
+      "album": "In the City • 1977"
+    },
     {
       "time": "8:06 pm",
       "artist": "The Breeders",
@@ -177,12 +183,6 @@
       "artist": "Amber Arcades",
       "title": "Fading Lines",
       "album": "Fading Lines • 2016"
-    },
-    {
-      "time": "6:25 pm",
-      "artist": "Panda Bear & Sonic Boom",
-      "title": "A ? of WHEN",
-      "album": "A ? of WHEN • 2026"
     }
   ]
 }
