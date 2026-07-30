@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-07-29T22:01:29",
+  "updatedAt": "2026-07-29T22:02:02",
   "now": {
-    "artist": "BTYB",
-    "title": "Liner",
-    "album": "",
-    "category": "BTYB"
+    "artist": "Buck Meek",
+    "title": "Haunted Mountain",
+    "album": "Haunted Mountain • 2023",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 pm",
-      "artist": "Buck Meek",
-      "title": "Haunted Mountain"
-    },
     {
       "time": "10:07 pm",
       "artist": "Grizzly Bear",
@@ -26,9 +21,20 @@
       "time": "10:14 pm",
       "artist": "New Order",
       "title": "Crystal"
+    },
+    {
+      "time": "10:18 pm",
+      "artist": "Iceage",
+      "title": "No Fear"
     }
   ],
   "recent": [
+    {
+      "time": "10:02 pm",
+      "artist": "Buck Meek",
+      "title": "Haunted Mountain",
+      "album": "Haunted Mountain • 2023"
+    },
     {
       "time": "9:59 pm",
       "artist": "Mac DeMarco",
@@ -172,12 +178,6 @@
       "artist": "The Breeders",
       "title": "Doe",
       "album": "Pod • 1990"
-    },
-    {
-      "time": "8:02 pm",
-      "artist": "Fiona Apple",
-      "title": "Extraordinary Machine",
-      "album": "Extraordinary Machine • 2005"
     }
   ]
 }
