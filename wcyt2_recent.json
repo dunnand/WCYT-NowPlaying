@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T13:22:16",
+  "updatedAt": "2026-08-03T13:25:00",
   "now": {
-    "artist": "The D",
-    "title": "New Rose",
-    "album": "DDD • 1977",
-    "category": "AUDIO"
+    "artist": "M83",
+    "title": "We Own The Sky",
+    "album": "Saturdays = Youth • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:24 pm",
-      "artist": "M83",
-      "title": "We Own The Sky"
-    },
     {
       "time": "1:28 pm",
       "artist": "Carly Rae Jepsen",
@@ -26,9 +21,20 @@
       "time": "1:34 pm",
       "artist": "Mr. Big",
       "title": "To Be With You"
+    },
+    {
+      "time": "1:38 pm",
+      "artist": "Fats Domino",
+      "title": "The Fat Man"
     }
   ],
   "recent": [
+    {
+      "time": "1:25 pm",
+      "artist": "M83",
+      "title": "We Own The Sky",
+      "album": "Saturdays = Youth • 2008"
+    },
     {
       "time": "1:22 pm",
       "artist": "The D",
@@ -172,12 +178,6 @@
       "artist": "Kelly Clarkson",
       "title": "A Moment Like This",
       "album": "A Moment Like This • 2002"
-    },
-    {
-      "time": "11:52 am",
-      "artist": "Green Day",
-      "title": "Boulevard Of Broken Dreams",
-      "album": "American Idiot • 2004"
     }
   ]
 }
