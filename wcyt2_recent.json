@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T09:04:34",
+  "updatedAt": "2026-08-03T09:14:27",
   "now": {
-    "artist": "David Bowie",
-    "title": "Blackstar",
-    "album": "Blackstar • 2016",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Star�lfur",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:14 am",
-      "artist": "Sigur Ros",
-      "title": "Star�lfur"
-    },
     {
       "time": "9:20 am",
       "artist": "Sting",
@@ -21,9 +16,20 @@
       "time": "9:24 am",
       "artist": "Whitney Houston",
       "title": "Saving All My Love For You"
+    },
+    {
+      "time": "9:28 am",
+      "artist": "Bruce Springsteen",
+      "title": "Glory Days"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 am",
+      "artist": "Sigur Ros",
+      "title": "Star�lfur",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "9:04 am",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Goodie Mob",
       "title": "Cell Therapy",
       "album": "Soul Food • 1995"
-    },
-    {
-      "time": "4:18 pm",
-      "artist": "Little River Band",
-      "title": "Cool Change",
-      "album": "First Under the Wire • 1979"
     }
   ]
 }
