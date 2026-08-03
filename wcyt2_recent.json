@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T09:01:35",
+  "updatedAt": "2026-08-03T09:01:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cat Stevens",
+    "title": "Matthew and Son",
+    "album": "Matthew and Son • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:01 am",
-      "artist": "Cat Stevens",
-      "title": "Matthew and Son"
-    },
     {
       "time": "9:04 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "9:20 am",
       "artist": "Sting",
       "title": "If I Ever Lose My Faith In You"
+    },
+    {
+      "time": "9:24 am",
+      "artist": "Whitney Houston",
+      "title": "Saving All My Love For You"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 am",
+      "artist": "Cat Stevens",
+      "title": "Matthew and Son",
+      "album": "Matthew and Son • 1967"
+    },
     {
       "time": "8:56 am",
       "artist": "Lightning Bolt",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Don't Sit Down 'cause I've Moved Your Chair",
       "album": "Suck It And See • 2011"
-    },
-    {
-      "time": "4:08 pm",
-      "artist": "My Morning Jacket",
-      "title": "Lowdown",
-      "album": "At Dawn • 2001"
     }
   ]
 }
