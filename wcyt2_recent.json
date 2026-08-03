@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T15:36:21",
+  "updatedAt": "2026-08-03T15:38:36",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Roll Over Beethoven",
-    "album": "Berry Is on Top • 1959",
-    "category": "AUDIO"
+    "artist": "Les Savy Fav",
+    "title": "Meet Me in the Dollar Bin",
+    "album": "Inches • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:38 pm",
-      "artist": "Les Savy Fav",
-      "title": "Meet Me in the Dollar Bin"
-    },
     {
       "time": "3:43 pm",
       "artist": "Ella Fitzgerald",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:38 pm",
+      "artist": "Les Savy Fav",
+      "title": "Meet Me in the Dollar Bin",
+      "album": "Inches • 2004"
+    },
     {
       "time": "3:36 pm",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "DEVO",
       "title": "Freedom of Choice",
       "album": "Freedom of Choice • 1980"
-    },
-    {
-      "time": "2:05 pm",
-      "artist": "Alan Parsons Project",
-      "title": "Eye In The Sky",
-      "album": "Eye in the Sky • 1982"
     }
   ]
 }
