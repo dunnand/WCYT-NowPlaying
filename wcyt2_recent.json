@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T17:30:05",
+  "updatedAt": "2026-08-03T17:33:28",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "R U Mine?",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Justice",
+    "title": "DVNO",
+    "album": "Cross (2007( • 2007",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:33 pm",
-      "artist": "Justice",
-      "title": "DVNO"
-    },
     {
       "time": "5:37 pm",
       "artist": "Pearl Jam",
@@ -21,9 +16,25 @@
       "time": "5:40 pm",
       "artist": "Ed Sheeran",
       "title": "Shape of You"
+    },
+    {
+      "time": "5:44 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Ava Adore"
+    },
+    {
+      "time": "5:49 pm",
+      "artist": "Green Day",
+      "title": "Welcome to Paradise"
     }
   ],
   "recent": [
+    {
+      "time": "5:33 pm",
+      "artist": "Justice",
+      "title": "DVNO",
+      "album": "Cross (2007( • 2007"
+    },
     {
       "time": "5:30 pm",
       "artist": "Arctic Monkeys",
@@ -167,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "Maneater",
       "album": "H2O • 1982"
-    },
-    {
-      "time": "3:56 pm",
-      "artist": "The Go-Go's",
-      "title": "Head Over Heels",
-      "album": "Talk Show • 1984"
     }
   ]
 }
