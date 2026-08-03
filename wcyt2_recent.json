@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T09:01:59",
+  "updatedAt": "2026-08-03T09:04:34",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Matthew and Son",
-    "album": "Matthew and Son • 1967",
+    "artist": "David Bowie",
+    "title": "Blackstar",
+    "album": "Blackstar • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:04 am",
-      "artist": "David Bowie",
-      "title": "Blackstar"
-    },
     {
       "time": "9:14 am",
       "artist": "Sigur Ros",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "David Bowie",
+      "title": "Blackstar",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "9:01 am",
       "artist": "Cat Stevens",
@@ -172,12 +173,6 @@
       "artist": "Little River Band",
       "title": "Cool Change",
       "album": "First Under the Wire • 1979"
-    },
-    {
-      "time": "4:13 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Don't Sit Down 'cause I've Moved Your Chair",
-      "album": "Suck It And See • 2011"
     }
   ]
 }
