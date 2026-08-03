@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T17:44:47",
+  "updatedAt": "2026-08-03T17:49:02",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Ava Adore",
-    "album": "Adore • 1998",
+    "artist": "Green Day",
+    "title": "Welcome to Paradise",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:49 pm",
-      "artist": "Green Day",
-      "title": "Welcome to Paradise"
-    },
     {
       "time": "5:52 pm",
       "artist": "The Replacements",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:49 pm",
+      "artist": "Green Day",
+      "title": "Welcome to Paradise",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "5:44 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "My Morning Jacket",
       "title": "Lowdown",
       "album": "At Dawn • 2001"
-    },
-    {
-      "time": "4:11 pm",
-      "artist": "Leonard Cohen",
-      "title": "Who by Fire",
-      "album": "New Skin for the Old Ceremony • 1974"
     }
   ]
 }
