@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T17:26:30",
+  "updatedAt": "2026-08-03T17:30:05",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Hail, Hail",
-    "album": "No Code • 1996",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "R U Mine?",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:30 pm",
-      "artist": "Arctic Monkeys",
-      "title": "R U Mine?"
-    },
     {
       "time": "5:33 pm",
       "artist": "Justice",
@@ -21,9 +16,20 @@
       "time": "5:37 pm",
       "artist": "Pearl Jam",
       "title": "World Wide Suicide"
+    },
+    {
+      "time": "5:40 pm",
+      "artist": "Ed Sheeran",
+      "title": "Shape of You"
     }
   ],
   "recent": [
+    {
+      "time": "5:30 pm",
+      "artist": "Arctic Monkeys",
+      "title": "R U Mine?",
+      "album": "AM • 2013"
+    },
     {
       "time": "5:26 pm",
       "artist": "Pearl Jam",
@@ -167,12 +173,6 @@
       "artist": "The Go-Go's",
       "title": "Head Over Heels",
       "album": "Talk Show • 1984"
-    },
-    {
-      "time": "3:54 pm",
-      "artist": "Guided by Voices",
-      "title": "To Remake the Young Flyer",
-      "album": "Under the Bushes Under the Stars • 1996"
     }
   ]
 }
