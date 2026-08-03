@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T17:58:36",
+  "updatedAt": "2026-08-03T17:58:48",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Ed O'Brien",
+    "title": "Obrigado",
+    "album": "Blue Morpho • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:58 pm",
-      "artist": "Ed O'Brien",
-      "title": "Obrigado"
-    },
     {
       "time": "6:08 pm",
       "artist": "The Linda Lindas",
@@ -26,9 +21,20 @@
       "time": "6:15 pm",
       "artist": "Crumb",
       "title": "The Bug"
+    },
+    {
+      "time": "6:19 pm",
+      "artist": "Jordan Patterson",
+      "title": "Just My Friend"
     }
   ],
   "recent": [
+    {
+      "time": "5:58 pm",
+      "artist": "Ed O'Brien",
+      "title": "Obrigado",
+      "album": "Blue Morpho • 2026"
+    },
     {
       "time": "5:55 pm",
       "artist": "Frog",
@@ -172,12 +178,6 @@
       "artist": "Modest Mouse",
       "title": "Life's a Dream",
       "album": "An Eraser and a Maze • 2026"
-    },
-    {
-      "time": "4:21 pm",
-      "artist": "feeble little horse",
-      "title": "Rewind",
-      "album": "bitknot • 2026"
     }
   ]
 }
