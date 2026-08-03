@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T01:02:04",
+  "updatedAt": "2026-08-03T01:06:21",
   "now": {
-    "artist": "Radiohead",
-    "title": "If You Say the Word",
-    "album": "Single •",
+    "artist": "My Bloody Valentine",
+    "title": "Sometimes",
+    "album": "Loveless • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "My Bloody Valentine",
-      "title": "Sometimes"
-    },
     {
       "time": "1:11 am",
       "artist": "The Replacements",
@@ -31,9 +26,20 @@
       "time": "1:21 am",
       "artist": "Jim James",
       "title": "Come Again"
+    },
+    {
+      "time": "1:24 am",
+      "artist": "Hot Chip",
+      "title": "Flutes"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "My Bloody Valentine",
+      "title": "Sometimes",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "1:02 am",
       "artist": "Radiohead",
@@ -177,12 +183,6 @@
       "artist": "Hannah Jadagu",
       "title": "My Love",
       "album": "Describe • 2025"
-    },
-    {
-      "time": "11:34 pm",
-      "artist": "Ramones",
-      "title": "I Wanna Be Your Boyfriend",
-      "album": "Ramones • 1976"
     }
   ]
 }
