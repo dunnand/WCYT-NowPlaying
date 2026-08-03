@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T00:30:11",
+  "updatedAt": "2026-08-03T00:30:20",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Adult Mom",
+    "title": "Berlin",
+    "album": "Driver • 2021",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 am",
-      "artist": "Adult Mom",
-      "title": "Berlin"
-    },
     {
       "time": "12:33 am",
       "artist": "Brittany Howard",
@@ -26,9 +21,20 @@
       "time": "12:40 am",
       "artist": "The Flaming Lips",
       "title": "Fight Test"
+    },
+    {
+      "time": "12:44 am",
+      "artist": "Dinosaur Jr.",
+      "title": "Several Got Away"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 am",
+      "artist": "Adult Mom",
+      "title": "Berlin",
+      "album": "Driver • 2021"
+    },
     {
       "time": "12:25 am",
       "artist": "Phoebe Bridgers",
@@ -172,12 +178,6 @@
       "artist": "Cloud Nothings",
       "title": "Running Through The Campus",
       "album": "Final Summer • 2024"
-    },
-    {
-      "time": "10:59 pm",
-      "artist": "The Go-Betweens",
-      "title": "Streets of Your Town",
-      "album": "16 Lovers Lane • 1988"
     }
   ]
 }
