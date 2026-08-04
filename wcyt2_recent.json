@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T16:17:51",
+  "updatedAt": "2026-08-04T16:21:58",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "Kool Thing",
-    "album": "Goo • 1990",
-    "category": "TUNES"
+    "artist": "Wilco",
+    "title": "I'm Always in Love",
+    "album": "Summerteeth • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:21 pm",
-      "artist": "Wilco",
-      "title": "I'm Always in Love"
-    },
     {
       "time": "4:25 pm",
       "artist": "Rick Springfield",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:21 pm",
+      "artist": "Wilco",
+      "title": "I'm Always in Love",
+      "album": "Summerteeth • 1999"
+    },
     {
       "time": "4:17 pm",
       "artist": "Sonic Youth",
@@ -172,12 +173,6 @@
       "artist": "Earth, Wind & Fire",
       "title": "Shining Star",
       "album": "That's the Way of the World • 1975"
-    },
-    {
-      "time": "2:57 pm",
-      "artist": "Joni Mitchell",
-      "title": "Both Sides, Now",
-      "album": "Clouds • 1969"
     }
   ]
 }
