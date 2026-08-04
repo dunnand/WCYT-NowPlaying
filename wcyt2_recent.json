@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T02:06:55",
+  "updatedAt": "2026-08-04T02:11:30",
   "now": {
-    "artist": "Adele",
-    "title": "Skyfall",
-    "album": "Skyfall • 2012",
+    "artist": "Aerosmith",
+    "title": "Cryin'",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:11 am",
-      "artist": "Aerosmith",
-      "title": "Cryin'"
-    },
     {
       "time": "2:16 am",
       "artist": "Jeff Buckley",
@@ -21,9 +16,20 @@
       "time": "2:23 am",
       "artist": "Kate Bush",
       "title": "Night of the Swallow"
+    },
+    {
+      "time": "2:28 am",
+      "artist": "Michael Sembello",
+      "title": "Maniac"
     }
   ],
   "recent": [
+    {
+      "time": "2:11 am",
+      "artist": "Aerosmith",
+      "title": "Cryin'",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "2:06 am",
       "artist": "Adele",
@@ -167,12 +173,6 @@
       "artist": "Commodores",
       "title": "Sail On",
       "album": "Midnight Magic • 1979"
-    },
-    {
-      "time": "12:38 am",
-      "artist": "Chicago",
-      "title": "Wishing You Were Here",
-      "album": "Chicago VII • 1974"
     }
   ]
 }
