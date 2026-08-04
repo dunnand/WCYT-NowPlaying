@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T12:20:46",
+  "updatedAt": "2026-08-04T12:25:42",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Blinded by the Light",
-    "album": "Greetings from Asbury Park, N.J. • 1973",
+    "artist": "Roger Miller",
+    "title": "King Of The Road",
+    "album": "The Return of Roger Miller • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:25 pm",
-      "artist": "Roger Miller",
-      "title": "King Of The Road"
-    },
     {
       "time": "12:28 pm",
       "artist": "Carly Simon",
@@ -26,9 +21,20 @@
       "time": "12:35 pm",
       "artist": "Charlie Rich",
       "title": "The Most Beautiful Girl"
+    },
+    {
+      "time": "12:37 pm",
+      "artist": "Duncan Sheik",
+      "title": "Barely Breathing"
     }
   ],
   "recent": [
+    {
+      "time": "12:25 pm",
+      "artist": "Roger Miller",
+      "title": "King Of The Road",
+      "album": "The Return of Roger Miller • 1965"
+    },
     {
       "time": "12:20 pm",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "The Flaming Lips",
       "title": "Fight Test",
       "album": "Yoshimi Battles The Pink Robots • 2002"
-    },
-    {
-      "time": "10:49 am",
-      "artist": "BADBADNOTGOOD",
-      "title": "In Your Eyes (feat. Charlotte Day Wilson)",
-      "album": "IV • 2016"
     }
   ]
 }
