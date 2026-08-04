@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T16:53:07",
+  "updatedAt": "2026-08-04T16:55:11",
   "now": {
-    "artist": "Drifters",
-    "title": "There Goes My Baby",
-    "album": "single • 1959",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Son of Sam",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:55 pm",
-      "artist": "Elliott Smith",
-      "title": "Son of Sam"
-    },
     {
       "time": "4:58 pm",
       "artist": "Peter & Gordon",
@@ -21,9 +16,20 @@
       "time": "5:00 pm",
       "artist": "Dawes",
       "title": "A Little Bit of Everything"
+    },
+    {
+      "time": "5:06 pm",
+      "artist": "Foo Fighters",
+      "title": "Breakout"
     }
   ],
   "recent": [
+    {
+      "time": "4:55 pm",
+      "artist": "Elliott Smith",
+      "title": "Son of Sam",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "4:53 pm",
       "artist": "Drifters",
@@ -167,12 +173,6 @@
       "artist": "Queen",
       "title": "I Want to Break Free",
       "album": "The Works • 1984"
-    },
-    {
-      "time": "3:33 pm",
-      "artist": "Prince",
-      "title": "Little Red Corvette",
-      "album": "1999 • 1982"
     }
   ]
 }
