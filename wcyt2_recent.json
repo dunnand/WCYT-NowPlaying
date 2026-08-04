@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T22:11:14",
+  "updatedAt": "2026-08-03T22:14:38",
   "now": {
-    "artist": "Tom Petty and the Heartbreakers",
-    "title": "American Girl",
-    "album": "Tom Petty and the Heartbreakers • 1976",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Here",
+    "album": "Slanted & Enchanted • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:14 pm",
-      "artist": "Pavement",
-      "title": "Here"
-    },
     {
       "time": "10:18 pm",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "10:27 pm",
       "artist": "The Beach Boys",
       "title": "Good Vibrations"
+    },
+    {
+      "time": "10:30 pm",
+      "artist": "Bruno Mars",
+      "title": "It Will Rain"
     }
   ],
   "recent": [
+    {
+      "time": "10:14 pm",
+      "artist": "Pavement",
+      "title": "Here",
+      "album": "Slanted & Enchanted • 1992"
+    },
     {
       "time": "10:11 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "Portishead",
       "title": "Strangers",
       "album": "Dummy • 1994"
-    },
-    {
-      "time": "8:40 pm",
-      "artist": "Blur",
-      "title": "Parklife",
-      "album": "Parklife • 1994"
     }
   ]
 }
