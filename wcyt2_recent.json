@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T23:40:27",
+  "updatedAt": "2026-08-03T23:44:20",
   "now": {
-    "artist": "Weezer",
-    "title": "Pink Triangle",
-    "album": "Pinkerton • 1996",
+    "artist": "Dazz Band",
+    "title": "Let It Whip",
+    "album": "Keep It Live • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:44 pm",
-      "artist": "Dazz Band",
-      "title": "Let It Whip"
-    },
     {
       "time": "11:48 pm",
       "artist": "George Thorogood & The Destroyers",
@@ -21,9 +16,20 @@
       "time": "11:53 pm",
       "artist": "Koji Kondo",
       "title": "Super Mario World (Ending)"
+    },
+    {
+      "time": "11:57 pm",
+      "artist": "War",
+      "title": "Cisco Kid"
     }
   ],
   "recent": [
+    {
+      "time": "11:44 pm",
+      "artist": "Dazz Band",
+      "title": "Let It Whip",
+      "album": "Keep It Live • 1982"
+    },
     {
       "time": "11:40 pm",
       "artist": "Weezer",
@@ -167,12 +173,6 @@
       "artist": "The Byrds",
       "title": "Mr. Tambourine Man",
       "album": "Mr. Tambourine Man • 1965"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "M.I.A.",
-      "title": "Boys",
-      "album": "Kala • 2007"
     }
   ]
 }
