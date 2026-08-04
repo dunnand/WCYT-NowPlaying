@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T03:35:07",
+  "updatedAt": "2026-08-04T03:35:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "Isn't It a Pity",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:35 am",
-      "artist": "George Harrison",
-      "title": "Isn't It a Pity"
-    },
     {
       "time": "3:42 am",
       "artist": "John Lennon",
@@ -26,9 +21,20 @@
       "time": "3:50 am",
       "artist": "Ketty Lester",
       "title": "Love Letters"
+    },
+    {
+      "time": "3:52 am",
+      "artist": "KISS",
+      "title": "I Was Made for Lovin' You"
     }
   ],
   "recent": [
+    {
+      "time": "3:35 am",
+      "artist": "George Harrison",
+      "title": "Isn't It a Pity",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "3:31 am",
       "artist": "Kings of Leon",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Rock & Roll Music",
       "album": "One Dozen Berrys • 1958"
-    },
-    {
-      "time": "1:50 am",
-      "artist": "Ween",
-      "title": "Voodoo Lady",
-      "album": "Chocolate and Cheese • 1994"
     }
   ]
 }
