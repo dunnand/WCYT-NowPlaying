@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T05:25:12",
+  "updatedAt": "2026-08-04T05:32:32",
   "now": {
-    "artist": "New Order",
-    "title": "Blue Monday",
-    "album": "single • 1983",
+    "artist": "Harry Styles",
+    "title": "As It Was",
+    "album": "Harry's House • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 am",
-      "artist": "Harry Styles",
-      "title": "As It Was"
-    },
     {
       "time": "5:35 am",
       "artist": "Olivia Newton",
@@ -21,9 +16,20 @@
       "time": "5:38 am",
       "artist": "Parliament",
       "title": "Flash Light"
+    },
+    {
+      "time": "5:44 am",
+      "artist": "Animal Collective",
+      "title": "My Girls"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 am",
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "album": "Harry's House • 2022"
+    },
     {
       "time": "5:25 am",
       "artist": "New Order",
@@ -167,12 +173,6 @@
       "artist": "Garbage",
       "title": "Stupid Girl",
       "album": "Garbage • 1995"
-    },
-    {
-      "time": "3:52 am",
-      "artist": "KISS",
-      "title": "I Was Made for Lovin' You",
-      "album": "Dynasty • 1979"
     }
   ]
 }
