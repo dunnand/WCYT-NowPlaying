@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T19:05:11",
+  "updatedAt": "2026-08-04T19:05:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Human Behaviour",
+    "album": "Debut • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:05 pm",
-      "artist": "Bjork",
-      "title": "Human Behaviour"
-    },
     {
       "time": "7:09 pm",
       "artist": "CAKE",
@@ -26,9 +21,20 @@
       "time": "7:19 pm",
       "artist": "Klymaxx",
       "title": "I Miss You"
+    },
+    {
+      "time": "7:23 pm",
+      "artist": "Haim",
+      "title": "Now I'm In It"
     }
   ],
   "recent": [
+    {
+      "time": "7:05 pm",
+      "artist": "Bjork",
+      "title": "Human Behaviour",
+      "album": "Debut • 1993"
+    },
     {
       "time": "7:01 pm",
       "artist": "The Afghan Whigs",
@@ -172,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "Sara Smile",
       "album": "Daryl Hall & John Oates • 1975"
-    },
-    {
-      "time": "5:25 pm",
-      "artist": "Gordon Lightfoot",
-      "title": "Sundown",
-      "album": "Sundown • 1974"
     }
   ]
 }
