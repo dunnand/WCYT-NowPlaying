@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T03:56:48",
+  "updatedAt": "2026-08-04T04:01:05",
   "now": {
-    "artist": "Garbage",
-    "title": "Stupid Girl",
-    "album": "Garbage • 1995",
+    "artist": "Elvis Presley",
+    "title": "Heartbreak Hotel",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:01 am",
-      "artist": "Elvis Presley",
-      "title": "Heartbreak Hotel"
-    },
     {
       "time": "4:03 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "4:08 am",
       "artist": "Clairo",
       "title": "Bags"
+    },
+    {
+      "time": "4:12 am",
+      "artist": "Bonnie Raitt",
+      "title": "I Can't Make You Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:01 am",
+      "artist": "Elvis Presley",
+      "title": "Heartbreak Hotel",
+      "album": "single • 1956"
+    },
     {
       "time": "3:56 am",
       "artist": "Garbage",
@@ -172,12 +178,6 @@
       "artist": "Kate Bush",
       "title": "Night of the Swallow",
       "album": "The Dreaming • 1982"
-    },
-    {
-      "time": "2:16 am",
-      "artist": "Jeff Buckley",
-      "title": "Lover, You Should've Come Over",
-      "album": "Grace • 1994"
     }
   ]
 }
