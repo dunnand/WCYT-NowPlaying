@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T04:01:05",
+  "updatedAt": "2026-08-04T04:03:09",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Heartbreak Hotel",
-    "album": "single • 1956",
+    "artist": "Coldplay",
+    "title": "Don't Panic",
+    "album": "Parachutes • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "Coldplay",
-      "title": "Don't Panic"
-    },
     {
       "time": "4:05 am",
       "artist": "Martha Reeves & The Vandellas",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "Coldplay",
+      "title": "Don't Panic",
+      "album": "Parachutes • 2000"
+    },
     {
       "time": "4:01 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Michael Sembello",
       "title": "Maniac",
       "album": "Bossa Nova Hotel • 1983"
-    },
-    {
-      "time": "2:23 am",
-      "artist": "Kate Bush",
-      "title": "Night of the Swallow",
-      "album": "The Dreaming • 1982"
     }
   ]
 }
