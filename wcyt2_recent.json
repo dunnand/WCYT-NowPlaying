@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T03:35:19",
+  "updatedAt": "2026-08-04T03:42:05",
   "now": {
-    "artist": "George Harrison",
-    "title": "Isn't It a Pity",
-    "album": "All Things Must Pass • 1970",
+    "artist": "John Lennon",
+    "title": "Jealous Guy",
+    "album": "Imagine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:42 am",
-      "artist": "John Lennon",
-      "title": "Jealous Guy"
-    },
     {
       "time": "3:46 am",
       "artist": "Circulatory System",
@@ -26,9 +21,20 @@
       "time": "3:52 am",
       "artist": "KISS",
       "title": "I Was Made for Lovin' You"
+    },
+    {
+      "time": "3:57 am",
+      "artist": "Garbage",
+      "title": "Stupid Girl"
     }
   ],
   "recent": [
+    {
+      "time": "3:42 am",
+      "artist": "John Lennon",
+      "title": "Jealous Guy",
+      "album": "Imagine • 1971"
+    },
     {
       "time": "3:35 am",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Death Cab for Cutie",
       "title": "Transatlanticism",
       "album": "Transatlanticism • 2003"
-    },
-    {
-      "time": "1:53 am",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music",
-      "album": "One Dozen Berrys • 1958"
     }
   ]
 }
