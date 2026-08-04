@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T11:47:12",
+  "updatedAt": "2026-08-04T11:47:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "blink-182",
+    "title": "I Miss You",
+    "album": "blink-182 • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 am",
-      "artist": "blink",
-      "title": "182 - I Miss You"
-    },
     {
       "time": "11:51 am",
       "artist": "Basement Jaxx",
@@ -26,9 +21,20 @@
       "time": "11:58 am",
       "artist": "9 Boyz",
       "title": "Tootsie Roll"
+    },
+    {
+      "time": "12:03 pm",
+      "artist": "Pavement",
+      "title": "Frontwards"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 am",
+      "artist": "blink-182",
+      "title": "I Miss You",
+      "album": "blink-182 • 2003"
+    },
     {
       "time": "11:43 am",
       "artist": "Camp Cope",
@@ -172,12 +178,6 @@
       "artist": "INXS",
       "title": "What You Need",
       "album": "Listen Like Thieves • 1985"
-    },
-    {
-      "time": "10:13 am",
-      "artist": "The Fixx",
-      "title": "One Things Leads To Another",
-      "album": "Reach the Beach • 1983"
     }
   ]
 }
