@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T23:32:08",
+  "updatedAt": "2026-08-03T23:40:27",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Oh Comely",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Pink Triangle",
+    "album": "Pinkerton • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 pm",
-      "artist": "Weezer",
-      "title": "Pink Triangle"
-    },
     {
       "time": "11:44 pm",
       "artist": "Dazz Band",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:40 pm",
+      "artist": "Weezer",
+      "title": "Pink Triangle",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "11:32 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "M.I.A.",
       "title": "Boys",
       "album": "Kala • 2007"
-    },
-    {
-      "time": "10:02 pm",
-      "artist": "The Spinners",
-      "title": "It's A Shame",
-      "album": "2nd Time Around • 1970"
     }
   ]
 }
