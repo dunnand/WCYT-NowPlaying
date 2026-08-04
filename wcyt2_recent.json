@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T11:25:05",
+  "updatedAt": "2026-08-04T11:25:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Boston",
+    "title": "More Than A Feeling",
+    "album": "Boston • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:25 am",
-      "artist": "Boston",
-      "title": "More Than A Feeling"
-    },
     {
       "time": "11:29 am",
       "artist": "Lesley Gore",
@@ -26,9 +21,20 @@
       "time": "11:35 am",
       "artist": "The Temptations",
       "title": "Since I Lost My Baby"
+    },
+    {
+      "time": "11:38 am",
+      "artist": "Eno",
+      "title": "St. Elmo's Fire"
     }
   ],
   "recent": [
+    {
+      "time": "11:25 am",
+      "artist": "Boston",
+      "title": "More Than A Feeling",
+      "album": "Boston • 1976"
+    },
     {
       "time": "11:21 am",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Sweet Little Sixteen",
       "album": "One Dozen Berrys • 1958"
-    },
-    {
-      "time": "9:44 am",
-      "artist": "3rd Bass",
-      "title": "Pop Goes The Weasel",
-      "album": "Derelicts of Dialect • 1991"
     }
   ]
 }
