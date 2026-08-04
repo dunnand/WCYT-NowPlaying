@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T21:30:06",
+  "updatedAt": "2026-08-03T21:30:27",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This is Lorelei",
+    "title": "Billy Came Back",
+    "album": "The Singer Is My Band • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 pm",
-      "artist": "This is Lorelei",
-      "title": "Billy Came Back"
-    },
     {
       "time": "9:33 pm",
       "artist": "Ginger Root",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:30 pm",
+      "artist": "This is Lorelei",
+      "title": "Billy Came Back",
+      "album": "The Singer Is My Band • 2026"
+    },
     {
       "time": "9:26 pm",
       "artist": "Peter Bjorn and John",
@@ -172,12 +173,6 @@
       "artist": "Cherry Glazerr",
       "title": "Wasted Nun",
       "album": "Stuffed & Ready • 2019"
-    },
-    {
-      "time": "8:03 pm",
-      "artist": "Savages",
-      "title": "Hit Me",
-      "album": "Silence Yourself • 2013"
     }
   ]
 }
