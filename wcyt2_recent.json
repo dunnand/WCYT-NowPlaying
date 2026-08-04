@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T07:53:00",
+  "updatedAt": "2026-08-04T07:53:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fats Domino",
+    "title": "Blueberry Hill",
+    "album": "This Is Fats Domino! • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:53 am",
-      "artist": "Fats Domino",
-      "title": "Blueberry Hill"
-    },
     {
       "time": "7:55 am",
       "artist": "Dixie Chicks",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:53 am",
+      "artist": "Fats Domino",
+      "title": "Blueberry Hill",
+      "album": "This Is Fats Domino! • 1956"
+    },
     {
       "time": "7:49 am",
       "artist": "Cher",
@@ -172,12 +173,6 @@
       "artist": "Tom Waits",
       "title": "Rain Dogs",
       "album": "Rain Dogs • 1985"
-    },
-    {
-      "time": "6:18 am",
-      "artist": "Radiohead",
-      "title": "Lucky",
-      "album": "OK Computer • 1997"
     }
   ]
 }
