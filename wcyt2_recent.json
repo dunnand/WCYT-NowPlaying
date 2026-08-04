@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T17:37:30",
+  "updatedAt": "2026-08-04T17:44:13",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Babe I'm Gonna Leave You",
-    "album": "Led Zeppelin • 1969",
+    "artist": "Harry Chapin",
+    "title": "Taxi",
+    "album": "Heads & Tales • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "Harry Chapin",
-      "title": "Taxi"
-    },
     {
       "time": "5:50 pm",
       "artist": "Del Amitri",
@@ -26,9 +21,20 @@
       "time": "5:59 pm",
       "artist": "Arctic Monkeys",
       "title": "Brianstorm"
+    },
+    {
+      "time": "6:01 pm",
+      "artist": "Elton John",
+      "title": "This Train Don't Stop There Anymore"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "Harry Chapin",
+      "title": "Taxi",
+      "album": "Heads & Tales • 1972"
+    },
     {
       "time": "5:37 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Sonic Youth",
       "title": "Kool Thing",
       "album": "Goo • 1990"
-    },
-    {
-      "time": "4:14 pm",
-      "artist": "Demi Lovato",
-      "title": "Give Your Heart A Break",
-      "album": "Demi • 2011"
     }
   ]
 }
