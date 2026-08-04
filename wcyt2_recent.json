@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T07:53:11",
+  "updatedAt": "2026-08-04T07:55:24",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blueberry Hill",
-    "album": "This Is Fats Domino! • 1956",
+    "artist": "Dixie Chicks",
+    "title": "Not Ready to Make Nice",
+    "album": "Taking the Long Way • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:55 am",
-      "artist": "Dixie Chicks",
-      "title": "Not Ready to Make Nice"
-    },
     {
       "time": "7:59 am",
       "artist": "Spencer Davis Group",
@@ -21,9 +16,20 @@
       "time": "8:01 am",
       "artist": "Billie Eilish",
       "title": "bury a friend"
+    },
+    {
+      "time": "8:05 am",
+      "artist": "Edwin McCain",
+      "title": "I'll Be"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "Dixie Chicks",
+      "title": "Not Ready to Make Nice",
+      "album": "Taking the Long Way • 2006"
+    },
     {
       "time": "7:53 am",
       "artist": "Fats Domino",
@@ -167,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "Fall On Me",
       "album": "Lifes Rich Pageant • 1986"
-    },
-    {
-      "time": "6:23 am",
-      "artist": "Tom Waits",
-      "title": "Rain Dogs",
-      "album": "Rain Dogs • 1985"
     }
   ]
 }
