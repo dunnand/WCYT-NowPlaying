@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T00:47:31",
+  "updatedAt": "2026-08-04T00:51:05",
   "now": {
-    "artist": "Eels",
-    "title": "Fresh Feeling",
-    "album": "Souljacker • 2001",
-    "category": "TUNES"
+    "artist": "Roy Orbison",
+    "title": "Blue Bayou",
+    "album": "In Dreams • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:51 am",
-      "artist": "Roy Orbison",
-      "title": "Blue Bayou"
-    },
     {
       "time": "12:53 am",
       "artist": "Crosby, Stills, Nash & Young",
@@ -26,9 +21,20 @@
       "time": "12:58 am",
       "artist": "Coldplay",
       "title": "Paradise"
+    },
+    {
+      "time": "1:03 am",
+      "artist": "Cage The Elephant",
+      "title": "Ain't No Rest for the Wicked"
     }
   ],
   "recent": [
+    {
+      "time": "12:51 am",
+      "artist": "Roy Orbison",
+      "title": "Blue Bayou",
+      "album": "In Dreams • 1963"
+    },
     {
       "time": "12:47 am",
       "artist": "Eels",
@@ -172,12 +178,6 @@
       "artist": "Modest Mouse",
       "title": "Interstate 8",
       "album": "Building Nothing out of Something • 1999"
-    },
-    {
-      "time": "11:05 pm",
-      "artist": "Van Halen",
-      "title": "Runnin' With The Devil",
-      "album": "Van Halen • 1978"
     }
   ]
 }
