@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T08:24:02",
+  "updatedAt": "2026-08-04T08:27:05",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Not That Funny",
-    "album": "Tusk • 1979",
+    "artist": "ABBA",
+    "title": "Take A Chance On Me",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "ABBA",
-      "title": "Take A Chance On Me"
-    },
     {
       "time": "8:31 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "8:39 am",
       "artist": "America",
       "title": "Ventura Highway"
+    },
+    {
+      "time": "8:43 am",
+      "artist": "The Magnetic Fields",
+      "title": "Absolutely Cuckoo"
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "8:24 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "DJ Shadow",
       "title": "Six Days",
       "album": "The Private Press • 2002"
-    },
-    {
-      "time": "6:52 am",
-      "artist": "The Diamonds",
-      "title": "Little Darlin'",
-      "album": "single • 1957"
     }
   ]
 }
