@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T07:20:07",
+  "updatedAt": "2026-08-04T07:20:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Public Image Ltd.",
+    "title": "This Is Not A Love Song",
+    "album": "This Is What You Want... This Is What You Get • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:20 am",
-      "artist": "Public Image Ltd.",
-      "title": "This Is Not A Love Song"
-    },
     {
       "time": "7:24 am",
       "artist": "Maggie Rogers",
@@ -26,9 +21,20 @@
       "time": "7:33 am",
       "artist": "The Doors",
       "title": "L.A. Woman"
+    },
+    {
+      "time": "7:40 am",
+      "artist": "The Decemberists",
+      "title": "Billy Liar"
     }
   ],
   "recent": [
+    {
+      "time": "7:20 am",
+      "artist": "Public Image Ltd.",
+      "title": "This Is Not A Love Song",
+      "album": "This Is What You Want... This Is What You Get • 1984"
+    },
     {
       "time": "7:16 am",
       "artist": "Kim Carnes",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "Uncle Albert/Admiral Halsey",
       "album": "Ram • 1971"
-    },
-    {
-      "time": "5:50 am",
-      "artist": "Nilsson",
-      "title": "One",
-      "album": "Aerial Ballet • 1968"
     }
   ]
 }
