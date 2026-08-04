@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T00:38:37",
+  "updatedAt": "2026-08-04T00:38:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chicago",
+    "title": "Wishing You Were Here",
+    "album": "Chicago VII • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 am",
-      "artist": "Chicago",
-      "title": "Wishing You Were Here"
-    },
     {
       "time": "12:43 am",
       "artist": "Commodores",
@@ -26,9 +21,20 @@
       "time": "12:51 am",
       "artist": "Roy Orbison",
       "title": "Blue Bayou"
+    },
+    {
+      "time": "12:53 am",
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Ohio"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 am",
+      "artist": "Chicago",
+      "title": "Wishing You Were Here",
+      "album": "Chicago VII • 1974"
+    },
     {
       "time": "12:35 am",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "Molly's Chambers",
       "album": "Youth & Young Manhood • 2003"
-    },
-    {
-      "time": "10:56 pm",
-      "artist": "Tom Petty & The Heartbreakers",
-      "title": "Breakdown",
-      "album": "Tom Petty and the Heartbreakers • 1977"
     }
   ]
 }
