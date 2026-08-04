@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T10:23:52",
+  "updatedAt": "2026-08-04T10:27:11",
   "now": {
-    "artist": "Barry White",
-    "title": "You're The First, The Last, My Everything",
-    "album": "Can't Get Enough • 1974",
+    "artist": "Bill Withers",
+    "title": "Loveley Day",
+    "album": "Menagerie • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:27 am",
-      "artist": "Bill Withers",
-      "title": "Loveley Day"
-    },
     {
       "time": "10:31 am",
       "artist": "Bright Eyes",
@@ -26,9 +21,20 @@
       "time": "10:39 am",
       "artist": "Black Sabbath",
       "title": "Children of the Grave"
+    },
+    {
+      "time": "10:44 am",
+      "artist": "Built to Spill",
+      "title": "You Were Right"
     }
   ],
   "recent": [
+    {
+      "time": "10:27 am",
+      "artist": "Bill Withers",
+      "title": "Loveley Day",
+      "album": "Menagerie • 1977"
+    },
     {
       "time": "10:23 am",
       "artist": "Barry White",
@@ -172,12 +178,6 @@
       "artist": "Bloc Party",
       "title": "Helicopter",
       "album": "Silent Alarm • 2005"
-    },
-    {
-      "time": "8:45 am",
-      "artist": "Sister Rosetta Tharpe",
-      "title": "Up Above My Head I Hear Music In The Air",
-      "album": "single • 1948"
     }
   ]
 }
