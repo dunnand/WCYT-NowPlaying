@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T08:31:32",
+  "updatedAt": "2026-08-04T08:36:18",
   "now": {
-    "artist": "Coldplay",
-    "title": "Fix You",
-    "album": "X&Y • 2005",
+    "artist": "The Temptations",
+    "title": "Cloud Nine",
+    "album": "Cloud Nine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:36 am",
-      "artist": "The Temptations",
-      "title": "Cloud Nine"
-    },
     {
       "time": "8:39 am",
       "artist": "America",
@@ -26,9 +21,20 @@
       "time": "8:45 am",
       "artist": "Sister Rosetta Tharpe",
       "title": "Up Above My Head I Hear Music In The Air"
+    },
+    {
+      "time": "8:47 am",
+      "artist": "Bloc Party",
+      "title": "Helicopter"
     }
   ],
   "recent": [
+    {
+      "time": "8:36 am",
+      "artist": "The Temptations",
+      "title": "Cloud Nine",
+      "album": "Cloud Nine • 1969"
+    },
     {
       "time": "8:31 am",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "BADBADNOTGOOD",
       "title": "Speaking Gently",
       "album": "IV • 2016"
-    },
-    {
-      "time": "7:00 am",
-      "artist": "The Beatles",
-      "title": "Happiness Is A Warm Gun",
-      "album": "The Beatles • 1968"
     }
   ]
 }
