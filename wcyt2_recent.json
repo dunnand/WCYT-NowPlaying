@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T15:27:40",
+  "updatedAt": "2026-08-04T15:31:36",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Spaceboy",
-    "album": "Siamese Dream • 1993",
+    "artist": "Green Day",
+    "title": "Coming Clean",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:31 pm",
-      "artist": "Green Day",
-      "title": "Coming Clean"
-    },
     {
       "time": "3:33 pm",
       "artist": "Prince",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:31 pm",
+      "artist": "Green Day",
+      "title": "Coming Clean",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "3:27 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "The Black Keys",
       "title": "Act Nice and Gentle",
       "album": "Rubber Factory • 2004"
-    },
-    {
-      "time": "2:05 pm",
-      "artist": "Dionne Warwick",
-      "title": "I'll Never Love This Way Again",
-      "album": "Dionne • 1979"
     }
   ]
 }
