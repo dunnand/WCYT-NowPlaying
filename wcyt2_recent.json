@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T17:58:41",
+  "updatedAt": "2026-08-04T17:59:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Brianstorm",
+    "album": "Favourite Worst Nightmare • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:59 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Brianstorm"
-    },
     {
       "time": "6:01 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "6:10 pm",
       "artist": "The Magnetic Fields",
       "title": "Promises of Eternity"
+    },
+    {
+      "time": "6:14 pm",
+      "artist": "A Tribe Called Quest",
+      "title": "Jazz (We've Got)"
     }
   ],
   "recent": [
+    {
+      "time": "5:59 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Brianstorm",
+      "album": "Favourite Worst Nightmare • 2007"
+    },
     {
       "time": "5:52 pm",
       "artist": "D'Angelo and The Vanguard",
@@ -172,12 +178,6 @@
       "artist": "Rolling Stones",
       "title": "She's So Cold",
       "album": "Emotional Rescue • 1980"
-    },
-    {
-      "time": "4:25 pm",
-      "artist": "Rick Springfield",
-      "title": "I've Done Everything For You",
-      "album": "Working Class Dog • 1981"
     }
   ]
 }
