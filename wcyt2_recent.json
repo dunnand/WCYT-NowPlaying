@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T22:14:38",
+  "updatedAt": "2026-08-03T22:18:25",
   "now": {
-    "artist": "Pavement",
-    "title": "Here",
-    "album": "Slanted & Enchanted • 1992",
-    "category": "TUNES"
+    "artist": "Ray Charles",
+    "title": "What'd I Say, Pt. 1 & 2",
+    "album": "single • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:18 pm",
-      "artist": "Ray Charles",
-      "title": "What'd I Say, Pt. 1 & 2"
-    },
     {
       "time": "10:23 pm",
       "artist": "Kasabian",
@@ -26,9 +21,20 @@
       "time": "10:30 pm",
       "artist": "Bruno Mars",
       "title": "It Will Rain"
+    },
+    {
+      "time": "10:35 pm",
+      "artist": "Linda Scott",
+      "title": "I've Told Every Little Star"
     }
   ],
   "recent": [
+    {
+      "time": "10:18 pm",
+      "artist": "Ray Charles",
+      "title": "What'd I Say, Pt. 1 & 2",
+      "album": "single • 1959"
+    },
     {
       "time": "10:14 pm",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Bronski Beat",
       "title": "Smalltown Boy",
       "album": "The Age of Consent • 1984"
-    },
-    {
-      "time": "8:43 pm",
-      "artist": "Portishead",
-      "title": "Strangers",
-      "album": "Dummy • 1994"
     }
   ]
 }
