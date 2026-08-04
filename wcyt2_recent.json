@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T09:07:37",
+  "updatedAt": "2026-08-04T09:07:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cyndi Lauper",
+    "title": "True Colors",
+    "album": "True Colors • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 am",
-      "artist": "Cyndi Lauper",
-      "title": "True Colors"
-    },
     {
       "time": "9:11 am",
       "artist": "Duran Duran",
@@ -26,9 +21,20 @@
       "time": "9:20 am",
       "artist": "Aretha Franklin",
       "title": "Don't Play That Song"
+    },
+    {
+      "time": "9:23 am",
+      "artist": "Bachman",
+      "title": "Turner Overdrive - Takin' Care Of Business"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 am",
+      "artist": "Cyndi Lauper",
+      "title": "True Colors",
+      "album": "True Colors • 1986"
+    },
     {
       "time": "9:03 am",
       "artist": "R.E.M.",
@@ -172,12 +178,6 @@
       "artist": "Clairo",
       "title": "Sofia",
       "album": "Immunity • 2019"
-    },
-    {
-      "time": "7:40 am",
-      "artist": "The Decemberists",
-      "title": "Billy Liar",
-      "album": "Her Majesty the Decemberists • 2003"
     }
   ]
 }
