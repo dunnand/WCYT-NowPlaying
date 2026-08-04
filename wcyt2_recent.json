@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T14:04:09",
+  "updatedAt": "2026-08-04T14:05:52",
   "now": {
-    "artist": "Dave Clark Five",
-    "title": "Catch Us If You Can",
-    "album": "The Story of Dave Clark Five • 1979",
+    "artist": "Dionne Warwick",
+    "title": "I'll Never Love This Way Again",
+    "album": "Dionne • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:05 pm",
-      "artist": "Dionne Warwick",
-      "title": "I'll Never Love This Way Again"
-    },
     {
       "time": "2:09 pm",
       "artist": "The Black Keys",
@@ -26,9 +21,20 @@
       "time": "2:14 pm",
       "artist": "Don McLean",
       "title": "Vincent"
+    },
+    {
+      "time": "2:18 pm",
+      "artist": "Radiohead",
+      "title": "Fake Plastic Trees"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 pm",
+      "artist": "Dionne Warwick",
+      "title": "I'll Never Love This Way Again",
+      "album": "Dionne • 1979"
+    },
     {
       "time": "2:04 pm",
       "artist": "Dave Clark Five",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Lost!",
       "album": "Viva la Vida or Death and All His Friends • 2008"
-    },
-    {
-      "time": "12:41 pm",
-      "artist": "Bruno Mars",
-      "title": "Grenade",
-      "album": "Doo-Wops & Hooligans • 2010"
     }
   ]
 }
