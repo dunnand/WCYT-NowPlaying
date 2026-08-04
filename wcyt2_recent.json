@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-03T21:00:11",
+  "updatedAt": "2026-08-03T21:00:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Simon & Garfunkel",
+    "title": "The Only Living Boy in New York",
+    "album": "Bridge Over Troubled Water • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:00 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "The Only Living Boy in New York"
-    },
     {
       "time": "9:04 pm",
       "artist": "Etta James",
@@ -26,9 +21,20 @@
       "time": "9:11 pm",
       "artist": "Impressions",
       "title": "It's All Right"
+    },
+    {
+      "time": "9:13 pm",
+      "artist": "The Chi",
+      "title": "Lites - Have You Seen Her"
     }
   ],
   "recent": [
+    {
+      "time": "9:00 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "The Only Living Boy in New York",
+      "album": "Bridge Over Troubled Water • 1970"
+    },
     {
       "time": "8:57 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Connie Francis",
       "title": "My Happiness",
       "album": "single • 1958"
-    },
-    {
-      "time": "7:24 pm",
-      "artist": "Yo La Tengo",
-      "title": "Upside-Down",
-      "album": "May I Sing with Me • 1992"
     }
   ]
 }
