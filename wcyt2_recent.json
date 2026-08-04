@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T17:06:33",
+  "updatedAt": "2026-08-04T17:06:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Breakout",
+    "album": "There Is Nothing Left to Lose • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:06 pm",
-      "artist": "Foo Fighters",
-      "title": "Breakout"
-    },
     {
       "time": "5:09 pm",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "5:19 pm",
       "artist": "Tina Turner",
       "title": "Private Dancer"
+    },
+    {
+      "time": "5:23 pm",
+      "artist": "Haim",
+      "title": "The story of us"
     }
   ],
   "recent": [
+    {
+      "time": "5:06 pm",
+      "artist": "Foo Fighters",
+      "title": "Breakout",
+      "album": "There Is Nothing Left to Lose • 1999"
+    },
     {
       "time": "5:01 pm",
       "artist": "Dawes",
@@ -172,12 +178,6 @@
       "artist": "Eric Clapton",
       "title": "Lay Down Sally",
       "album": "Slowhand • 1978"
-    },
-    {
-      "time": "3:44 pm",
-      "artist": "Elvis Costello",
-      "title": "Miracle Man",
-      "album": "My Aim Is True • 1977"
     }
   ]
 }
