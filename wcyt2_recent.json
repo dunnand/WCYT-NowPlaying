@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T12:45:11",
+  "updatedAt": "2026-08-04T12:45:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "Lost!",
+    "album": "Viva la Vida or Death and All His Friends • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 pm",
-      "artist": "Coldplay",
-      "title": "Lost!"
-    },
     {
       "time": "12:48 pm",
       "artist": "Camera Obscura",
@@ -26,9 +21,20 @@
       "time": "12:55 pm",
       "artist": "Modest Mouse",
       "title": "Broke"
+    },
+    {
+      "time": "12:58 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "The King of Carrot Flowers, Parts Two & Three"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 pm",
+      "artist": "Coldplay",
+      "title": "Lost!",
+      "album": "Viva la Vida or Death and All His Friends • 2008"
+    },
     {
       "time": "12:41 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Journey",
       "title": "Faithfully",
       "album": "Frontiers • 1983"
-    },
-    {
-      "time": "11:13 am",
-      "artist": "John Cougar Mellencamp",
-      "title": "Lonely Ol' Night",
-      "album": "Scarecrow • 1985"
     }
   ]
 }
