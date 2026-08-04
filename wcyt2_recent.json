@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T08:59:03",
+  "updatedAt": "2026-08-04T08:59:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "The River Of Dreams",
+    "album": "River of Dreams • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 am",
-      "artist": "Billy Joel",
-      "title": "The River Of Dreams"
-    },
     {
       "time": "9:03 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "9:11 am",
       "artist": "Duran Duran",
       "title": "Hungry Like the Wolf"
+    },
+    {
+      "time": "9:15 am",
+      "artist": "Grimes",
+      "title": "We Appreciate Power (feat. Hana)"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 am",
+      "artist": "Billy Joel",
+      "title": "The River Of Dreams",
+      "album": "River of Dreams • 1993"
+    },
     {
       "time": "8:55 am",
       "artist": "Drake",
@@ -172,12 +178,6 @@
       "artist": "The Doors",
       "title": "L.A. Woman",
       "album": "L.A. Woman • 1971"
-    },
-    {
-      "time": "7:28 am",
-      "artist": "Doves",
-      "title": "Black And White Town",
-      "album": "Some Cities • 2005"
     }
   ]
 }
