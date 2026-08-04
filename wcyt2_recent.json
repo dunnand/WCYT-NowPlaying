@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T01:50:05",
+  "updatedAt": "2026-08-04T01:53:50",
   "now": {
-    "artist": "Ween",
-    "title": "Voodoo Lady",
-    "album": "Chocolate and Cheese • 1994",
-    "category": "TUNES"
+    "artist": "Chuck Berry",
+    "title": "Rock & Roll Music",
+    "album": "One Dozen Berrys • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music"
-    },
     {
       "time": "1:56 am",
       "artist": "Death Cab for Cutie",
@@ -26,9 +21,20 @@
       "time": "2:06 am",
       "artist": "Adele",
       "title": "Skyfall"
+    },
+    {
+      "time": "2:11 am",
+      "artist": "Aerosmith",
+      "title": "Cryin'"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "Chuck Berry",
+      "title": "Rock & Roll Music",
+      "album": "One Dozen Berrys • 1958"
+    },
     {
       "time": "1:50 am",
       "artist": "Ween",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "Big Love",
       "album": "Tango in the Night • 1987"
-    },
-    {
-      "time": "12:24 am",
-      "artist": "The Jesus Lizard",
-      "title": "Then Comes Dudley",
-      "album": "Goat • 1991"
     }
   ]
 }
