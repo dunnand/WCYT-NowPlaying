@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T03:22:01",
+  "updatedAt": "2026-08-05T03:25:34",
   "now": {
-    "artist": "Nilsson",
-    "title": "Coconut",
-    "album": "Nilsson Schmilsson • 1971",
-    "category": "AUDIO"
+    "artist": "Bright Eyes",
+    "title": "The Calendar Hung Itself",
+    "album": "Fevers Mirrors • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:25 am",
-      "artist": "Bright Eyes",
-      "title": "The Calendar Hung Itself"
-    },
     {
       "time": "3:29 am",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "3:38 am",
       "artist": "Elliott Smith",
       "title": "Southern Belle"
+    },
+    {
+      "time": "3:41 am",
+      "artist": "The Everly Brothers",
+      "title": "Bye, Bye Love"
     }
   ],
   "recent": [
+    {
+      "time": "3:25 am",
+      "artist": "Bright Eyes",
+      "title": "The Calendar Hung Itself",
+      "album": "Fevers Mirrors • 2000"
+    },
     {
       "time": "3:22 am",
       "artist": "Nilsson",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Something About Us",
       "album": "Discovery • 2001"
-    },
-    {
-      "time": "1:59 am",
-      "artist": "Camera Obscura",
-      "title": "French Navy",
-      "album": "My Maudlin Career • 2009"
     }
   ]
 }
