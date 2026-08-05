@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-05T10:03:19",
+  "updatedAt": "2026-08-05T10:07:15",
   "now": {
-    "artist": "Supertramp",
-    "title": "The Logical Song",
-    "album": "Breakfast in America • 1979",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Castles Made of Sand",
+    "album": "Axis: Bold as Love • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:07 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Castles Made of Sand"
-    },
-    {
-      "time": "10:10 am",
+      "time": "10:09 am",
       "artist": "Sweet",
       "title": "Ballroom Blitz"
     },
@@ -23,12 +18,23 @@
       "title": "Meaningless"
     },
     {
-      "time": "10:16 am",
+      "time": "10:15 am",
       "artist": "AVICII",
       "title": "Levels"
+    },
+    {
+      "time": "10:19 am",
+      "artist": "Death Cab for Cutie",
+      "title": "We Laugh Indoors"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Castles Made of Sand",
+      "album": "Axis: Bold as Love • 1967"
+    },
     {
       "time": "10:03 am",
       "artist": "Supertramp",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "The Fat Man",
       "album": "Rock and Rollin' With Fats Domino • 1956"
-    },
-    {
-      "time": "8:33 am",
-      "artist": "Foo Fighters",
-      "title": "The Pretender",
-      "album": "Echoes, Silence, Patience & Grace • 2007"
     }
   ]
 }
