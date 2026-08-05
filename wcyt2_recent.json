@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T19:23:36",
+  "updatedAt": "2026-08-05T19:26:53",
   "now": {
-    "artist": "Wilco",
-    "title": "Far, Far Away",
-    "album": "Being There • 1996",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Tom Courtenay",
+    "album": "Electropura • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:26 pm",
-      "artist": "Yo La Tengo",
-      "title": "Tom Courtenay"
-    },
     {
       "time": "7:30 pm",
       "artist": "Paul Simon",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:26 pm",
+      "artist": "Yo La Tengo",
+      "title": "Tom Courtenay",
+      "album": "Electropura • 1995"
+    },
     {
       "time": "7:23 pm",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "Rock & Roll",
       "album": "Loaded • 1970"
-    },
-    {
-      "time": "5:45 pm",
-      "artist": "Love",
-      "title": "Alone Again Or",
-      "album": "Forever Changes • 1967"
     }
   ]
 }
