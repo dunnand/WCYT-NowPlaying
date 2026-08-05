@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T20:34:09",
+  "updatedAt": "2026-08-04T20:36:54",
   "now": {
-    "artist": "James Taylor",
-    "title": "Mexico",
-    "album": "Gorilla • 1975",
+    "artist": "Jim Croce",
+    "title": "Operator (That's Not The Way It Feels)",
+    "album": "You Dont Mess Around with Jim • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:36 pm",
-      "artist": "Jim Croce",
-      "title": "Operator (That's Not The Way It Feels)"
-    },
     {
       "time": "8:40 pm",
       "artist": "Florence + The Machine",
@@ -26,9 +21,20 @@
       "time": "8:47 pm",
       "artist": "Joan Baez",
       "title": "Diamonds And Rust"
+    },
+    {
+      "time": "8:52 pm",
+      "artist": "Superchunk",
+      "title": "Like a Fool"
     }
   ],
   "recent": [
+    {
+      "time": "8:36 pm",
+      "artist": "Jim Croce",
+      "title": "Operator (That's Not The Way It Feels)",
+      "album": "You Dont Mess Around with Jim • 1972"
+    },
     {
       "time": "8:34 pm",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "Dave Matthews",
       "title": "Save Me",
       "album": "Some Devil • 2003"
-    },
-    {
-      "time": "6:49 pm",
-      "artist": "Muddy Waters",
-      "title": "Hoochie Coochie Man",
-      "album": "single • 1954"
     }
   ]
 }
