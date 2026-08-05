@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T11:57:02",
+  "updatedAt": "2026-08-05T11:57:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Temptations",
+    "title": "Shakey Ground",
+    "album": "A Song for You • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:57 am",
-      "artist": "The Temptations",
-      "title": "Shakey Ground"
-    },
     {
       "time": "12:01 pm",
       "artist": "The Decemberists",
@@ -31,9 +26,20 @@
       "time": "12:13 pm",
       "artist": "Depeche Mode",
       "title": "It's No Good"
+    },
+    {
+      "time": "12:19 pm",
+      "artist": "Ed Sheeran",
+      "title": "Thinking out Loud"
     }
   ],
   "recent": [
+    {
+      "time": "11:57 am",
+      "artist": "The Temptations",
+      "title": "Shakey Ground",
+      "album": "A Song for You • 1975"
+    },
     {
       "time": "11:52 am",
       "artist": "Aphex Twin",
@@ -177,12 +183,6 @@
       "artist": "Death Cab for Cutie",
       "title": "We Laugh Indoors",
       "album": "The Photo Album • 2001"
-    },
-    {
-      "time": "10:15 am",
-      "artist": "AVICII",
-      "title": "Levels",
-      "album": "Levels • 2011"
     }
   ]
 }
