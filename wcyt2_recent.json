@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T01:10:01",
+  "updatedAt": "2026-08-05T01:10:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Portishead",
+    "title": "All Mine",
+    "album": "Portishead • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Portishead",
-      "title": "All Mine"
-    },
     {
       "time": "1:14 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "1:21 am",
       "artist": "Genesis",
       "title": "No Reply At All"
+    },
+    {
+      "time": "1:26 am",
+      "artist": "HAIM",
+      "title": "Up From a Dream"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Portishead",
+      "title": "All Mine",
+      "album": "Portishead • 1997"
+    },
     {
       "time": "1:06 am",
       "artist": "DJ Shadow",
@@ -172,12 +178,6 @@
       "artist": "The Band",
       "title": "The Night They Drove Old Dixie Down",
       "album": "The Band • 1969"
-    },
-    {
-      "time": "10:28 pm",
-      "artist": "Johnny Thunders & the Heartbreakers",
-      "title": "Chinese Rocks",
-      "album": "L.A. • 1977"
     }
   ]
 }
