@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T22:28:44",
+  "updatedAt": "2026-08-04T22:31:37",
   "now": {
-    "artist": "Johnny Thunders & the Heartbreakers",
-    "title": "Chinese Rocks",
-    "album": "L.A. • 1977",
+    "artist": "The Band",
+    "title": "The Night They Drove Old Dixie Down",
+    "album": "The Band • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:31 pm",
-      "artist": "The Band",
-      "title": "The Night They Drove Old Dixie Down"
-    },
     {
       "time": "10:35 pm",
       "artist": "Joy Division",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:31 pm",
+      "artist": "The Band",
+      "title": "The Night They Drove Old Dixie Down",
+      "album": "The Band • 1969"
+    },
     {
       "time": "10:28 pm",
       "artist": "Johnny Thunders & the Heartbreakers",
@@ -172,12 +173,6 @@
       "artist": "Daft Punk",
       "title": "Harder, Better, Faster, Stronger",
       "album": "Discovery • 2001"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "Bruno Mars",
-      "title": "It Will Rain",
-      "album": "The Twilight Saga: Breaking Dawn, Pt. 1 • 2011"
     }
   ]
 }
