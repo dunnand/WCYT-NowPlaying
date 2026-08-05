@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T03:41:28",
+  "updatedAt": "2026-08-05T03:43:51",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Bye, Bye Love",
-    "album": "The Everly Brothers • 1958",
+    "artist": "Foo Fighters",
+    "title": "Best of You",
+    "album": "In Your Honor • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 am",
-      "artist": "Foo Fighters",
-      "title": "Best of You"
-    },
     {
       "time": "3:48 am",
       "artist": "Steppenwolf",
@@ -21,9 +16,20 @@
       "time": "3:52 am",
       "artist": "Chance the Rapper",
       "title": "Do You Remember"
+    },
+    {
+      "time": "3:56 am",
+      "artist": "Pearl Jam",
+      "title": "Present Tense"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 am",
+      "artist": "Foo Fighters",
+      "title": "Best of You",
+      "album": "In Your Honor • 2005"
+    },
     {
       "time": "3:41 am",
       "artist": "The Everly Brothers",
@@ -167,12 +173,6 @@
       "artist": "Lionel Richie",
       "title": "Dancing On The Ceiling",
       "album": "Dancing on the Ceiling • 1986"
-    },
-    {
-      "time": "2:20 am",
-      "artist": "Joy Division",
-      "title": "Atmosphere",
-      "album": "Single • 1980"
     }
   ]
 }
