@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T01:10:12",
+  "updatedAt": "2026-08-05T01:14:07",
   "now": {
-    "artist": "Portishead",
-    "title": "All Mine",
-    "album": "Portishead • 1997",
+    "artist": "Tom Petty and the Heartbreakers",
+    "title": "Makin' Some Noise",
+    "album": "Into the Great Wide Open • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:14 am",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Makin' Some Noise"
-    },
     {
       "time": "1:17 am",
       "artist": "De La Soul",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:14 am",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Makin' Some Noise",
+      "album": "Into the Great Wide Open • 1991"
+    },
     {
       "time": "1:10 am",
       "artist": "Portishead",
@@ -172,12 +173,6 @@
       "artist": "Joy Division",
       "title": "Shadowplay",
       "album": "Unknown Pleasures • 1979"
-    },
-    {
-      "time": "10:31 pm",
-      "artist": "The Band",
-      "title": "The Night They Drove Old Dixie Down",
-      "album": "The Band • 1969"
     }
   ]
 }
