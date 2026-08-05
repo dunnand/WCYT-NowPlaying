@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T21:47:05",
+  "updatedAt": "2026-08-04T21:51:32",
   "now": {
-    "artist": "John Denver",
-    "title": "Rocky Mountain High",
-    "album": "Rocky Mountain High • 1972",
+    "artist": "Chad & Jeremy",
+    "title": "A Summer Song",
+    "album": "Sing for You / Second Album • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:51 pm",
-      "artist": "Chad & Jeremy",
-      "title": "A Summer Song"
-    },
     {
       "time": "9:54 pm",
       "artist": "Curtis Harding",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:51 pm",
+      "artist": "Chad & Jeremy",
+      "title": "A Summer Song",
+      "album": "Sing for You / Second Album • 1992"
+    },
     {
       "time": "9:47 pm",
       "artist": "John Denver",
@@ -172,12 +173,6 @@
       "artist": "Stone Temple Pilots",
       "title": "Plush",
       "album": "Core • 1992"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "My Friends",
-      "album": "One Hot Minute • 1995"
     }
   ]
 }
