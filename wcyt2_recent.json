@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T01:59:39",
+  "updatedAt": "2026-08-05T02:02:55",
   "now": {
-    "artist": "Camera Obscura",
-    "title": "French Navy",
-    "album": "My Maudlin Career • 2009",
-    "category": "TUNES"
+    "artist": "Daft Punk",
+    "title": "Something About Us",
+    "album": "Discovery • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:02 am",
-      "artist": "Daft Punk",
-      "title": "Something About Us"
-    },
     {
       "time": "2:06 am",
       "artist": "Avenged Sevenfold",
@@ -26,9 +21,20 @@
       "time": "2:16 am",
       "artist": "Radiohead",
       "title": "High and Dry"
+    },
+    {
+      "time": "2:20 am",
+      "artist": "Joy Division",
+      "title": "Atmosphere"
     }
   ],
   "recent": [
+    {
+      "time": "2:02 am",
+      "artist": "Daft Punk",
+      "title": "Something About Us",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "1:59 am",
       "artist": "Camera Obscura",
@@ -172,12 +178,6 @@
       "artist": "HAIM",
       "title": "The Steps",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "12:29 am",
-      "artist": "Billy Joel",
-      "title": "I Go To Extremes",
-      "album": "Storm Front • 1989"
     }
   ]
 }
