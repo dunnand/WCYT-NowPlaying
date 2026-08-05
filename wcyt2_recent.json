@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T01:17:32",
+  "updatedAt": "2026-08-05T01:17:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "De La Soul",
+    "title": "Say No Go",
+    "album": "3 Feet High and Rising • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:17 am",
-      "artist": "De La Soul",
-      "title": "Say No Go"
-    },
     {
       "time": "1:21 am",
       "artist": "Genesis",
@@ -26,9 +21,20 @@
       "time": "1:29 am",
       "artist": "Loretta Lynn",
       "title": "The Pill"
+    },
+    {
+      "time": "1:32 am",
+      "artist": "Lou Reed",
+      "title": "Satellite of Love"
     }
   ],
   "recent": [
+    {
+      "time": "1:17 am",
+      "artist": "De La Soul",
+      "title": "Say No Go",
+      "album": "3 Feet High and Rising • 1989"
+    },
     {
       "time": "1:14 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "Moody Blues",
       "title": "Nights In White Satin",
       "album": "Days of Future Passed • 1967"
-    },
-    {
-      "time": "10:35 pm",
-      "artist": "Joy Division",
-      "title": "Shadowplay",
-      "album": "Unknown Pleasures • 1979"
     }
   ]
 }
