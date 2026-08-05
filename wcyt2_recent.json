@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T18:53:11",
+  "updatedAt": "2026-08-05T18:55:27",
   "now": {
-    "artist": "ZZ Top",
-    "title": "Tush",
-    "album": "Fandango! • 1975",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Disappearer",
+    "album": "Goo • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:55 pm",
-      "artist": "Sonic Youth",
-      "title": "Disappearer"
-    },
     {
       "time": "7:00 pm",
       "artist": "Enrique Iglesias",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:55 pm",
+      "artist": "Sonic Youth",
+      "title": "Disappearer",
+      "album": "Goo • 1990"
+    },
     {
       "time": "6:53 pm",
       "artist": "ZZ Top",
@@ -172,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Indifference",
       "album": "Vs. • 1993"
-    },
-    {
-      "time": "5:20 pm",
-      "artist": "Elliott Smith",
-      "title": "Needle In The Hay",
-      "album": "Elliott Smith • 1995"
     }
   ]
 }
