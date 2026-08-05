@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T21:01:31",
+  "updatedAt": "2026-08-04T21:01:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Harder, Better, Faster, Stronger",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:01 pm",
-      "artist": "Daft Punk",
-      "title": "Harder, Better, Faster, Stronger"
-    },
     {
       "time": "9:05 pm",
       "artist": "Alanis Morissette",
@@ -26,9 +21,20 @@
       "time": "9:13 pm",
       "artist": "U2",
       "title": "Zoo Station"
+    },
+    {
+      "time": "9:17 pm",
+      "artist": "Dinosaur Jr",
+      "title": "Feel The Pain"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 pm",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "8:57 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Klymaxx",
       "title": "I Miss You",
       "album": "Meeting in the Ladies Room • 1984"
-    },
-    {
-      "time": "7:14 pm",
-      "artist": "Peter Schilling",
-      "title": "Major Tom (Coming Home)",
-      "album": "Error In The System / Fehler im System • 1982"
     }
   ]
 }
