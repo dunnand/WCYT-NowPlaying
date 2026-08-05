@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T02:51:40",
+  "updatedAt": "2026-08-05T02:53:55",
   "now": {
-    "artist": "The Fleetwoods",
-    "title": "Mr. Blue",
-    "album": "Mr. Blue • 1959",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "I Bet You Look Good On The Dance Floor",
+    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:53 am",
-      "artist": "Arctic Monkeys",
-      "title": "I Bet You Look Good On The Dance Floor"
-    },
     {
       "time": "2:56 am",
       "artist": "Otis Redding",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:53 am",
+      "artist": "Arctic Monkeys",
+      "title": "I Bet You Look Good On The Dance Floor",
+      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
+    },
     {
       "time": "2:51 am",
       "artist": "The Fleetwoods",
@@ -172,12 +173,6 @@
       "artist": "Genesis",
       "title": "No Reply At All",
       "album": "Abacab • 1981"
-    },
-    {
-      "time": "1:17 am",
-      "artist": "De La Soul",
-      "title": "Say No Go",
-      "album": "3 Feet High and Rising • 1989"
     }
   ]
 }
