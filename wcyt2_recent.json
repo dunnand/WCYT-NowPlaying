@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T01:40:58",
+  "updatedAt": "2026-08-05T01:43:09",
   "now": {
-    "artist": "Peter, Paul & Mary",
-    "title": "If I Had A Hammer",
-    "album": "Peter, Paul and Mary • 1962",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Free Bird",
+    "album": "pronounced leh-nrd skin-nrd • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 am",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Free Bird"
-    },
     {
       "time": "1:52 am",
       "artist": "Faith No More",
@@ -26,9 +21,20 @@
       "time": "1:59 am",
       "artist": "Camera Obscura",
       "title": "French Navy"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Daft Punk",
+      "title": "Something About Us"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 am",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Free Bird",
+      "album": "pronounced leh-nrd skin-nrd • 1973"
+    },
     {
       "time": "1:40 am",
       "artist": "Peter, Paul & Mary",
@@ -172,12 +178,6 @@
       "artist": "Big Audio Dynamite II",
       "title": "Rush",
       "album": "The Globe • 1991"
-    },
-    {
-      "time": "12:14 am",
-      "artist": "Foster The People",
-      "title": "Pumped Up Kicks",
-      "album": "Torches • 2010"
     }
   ]
 }
