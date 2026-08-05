@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T13:28:58",
+  "updatedAt": "2026-08-05T13:33:22",
   "now": {
-    "artist": "Beyonce",
-    "title": "Blue",
-    "album": "Beyonce • 2013",
+    "artist": "Prince",
+    "title": "Pink Cashmere",
+    "album": "single • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:33 pm",
-      "artist": "Prince",
-      "title": "Pink Cashmere"
-    },
     {
       "time": "1:36 pm",
       "artist": "Sheryl Crow",
@@ -26,9 +21,20 @@
       "time": "1:45 pm",
       "artist": "Paula Abdul",
       "title": "Opposites Attract"
+    },
+    {
+      "time": "1:49 pm",
+      "artist": "*NSYNC",
+      "title": "Better Place"
     }
   ],
   "recent": [
+    {
+      "time": "1:33 pm",
+      "artist": "Prince",
+      "title": "Pink Cashmere",
+      "album": "single • 1993"
+    },
     {
       "time": "1:28 pm",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "The Temptations",
       "title": "Shakey Ground",
       "album": "A Song for You • 1975"
-    },
-    {
-      "time": "11:52 am",
-      "artist": "Aphex Twin",
-      "title": "Vordhosbn",
-      "album": "Drukqs • 2001"
     }
   ]
 }
