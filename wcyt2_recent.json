@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T02:16:11",
+  "updatedAt": "2026-08-05T02:20:27",
   "now": {
-    "artist": "Radiohead",
-    "title": "High and Dry",
-    "album": "The Bends • 1995",
+    "artist": "Joy Division",
+    "title": "Atmosphere",
+    "album": "Single • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:20 am",
-      "artist": "Joy Division",
-      "title": "Atmosphere"
-    },
     {
       "time": "2:24 am",
       "artist": "Lionel Richie",
@@ -21,9 +16,20 @@
       "time": "2:28 am",
       "artist": "HAIM",
       "title": "Lost Track"
+    },
+    {
+      "time": "2:31 am",
+      "artist": "Mott the Hoople",
+      "title": "All the Young Dudes"
     }
   ],
   "recent": [
+    {
+      "time": "2:20 am",
+      "artist": "Joy Division",
+      "title": "Atmosphere",
+      "album": "Single • 1980"
+    },
     {
       "time": "2:16 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Stevie Wonder",
       "title": "Fingertips - Pt. 2",
       "album": "Recorded Live: The 12 Year Old Genius • 1963"
-    },
-    {
-      "time": "12:44 am",
-      "artist": "Kenny Rogers",
-      "title": "The Gambler",
-      "album": "The Gambler • 1978"
     }
   ]
 }
