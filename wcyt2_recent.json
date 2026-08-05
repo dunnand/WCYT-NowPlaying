@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T07:51:31",
+  "updatedAt": "2026-08-05T07:51:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Teenage Wildlife",
+    "album": "Scary Monsters • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 am",
-      "artist": "David Bowie",
-      "title": "Teenage Wildlife"
-    },
     {
       "time": "7:58 am",
       "artist": "Kenny Rogers",
@@ -26,9 +21,20 @@
       "time": "8:10 am",
       "artist": "Rodriguez",
       "title": "I Think of You"
+    },
+    {
+      "time": "8:14 am",
+      "artist": "Rose Royce",
+      "title": "I'm Going Down"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 am",
+      "artist": "David Bowie",
+      "title": "Teenage Wildlife",
+      "album": "Scary Monsters • 1980"
+    },
     {
       "time": "7:46 am",
       "artist": "Cornershop",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "This Is America",
       "album": "Guava Island • 2019"
-    },
-    {
-      "time": "6:19 am",
-      "artist": "Coldplay",
-      "title": "Trouble",
-      "album": "Parachutes • 2000"
     }
   ]
 }
