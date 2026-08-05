@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T03:33:48",
+  "updatedAt": "2026-08-05T03:38:14",
   "now": {
-    "artist": "Nina Simone",
-    "title": "Baltimore",
-    "album": "Baltimore • 1978",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Southern Belle",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:38 am",
-      "artist": "Elliott Smith",
-      "title": "Southern Belle"
-    },
     {
       "time": "3:41 am",
       "artist": "The Everly Brothers",
@@ -21,9 +16,20 @@
       "time": "3:43 am",
       "artist": "Foo Fighters",
       "title": "Best of You"
+    },
+    {
+      "time": "3:48 am",
+      "artist": "Steppenwolf",
+      "title": "Magic Carpet Ride"
     }
   ],
   "recent": [
+    {
+      "time": "3:38 am",
+      "artist": "Elliott Smith",
+      "title": "Southern Belle",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "3:33 am",
       "artist": "Nina Simone",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "High and Dry",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "2:11 am",
-      "artist": "Chubb Rock",
-      "title": "Treat 'Em Right",
-      "album": "The One • 1991"
     }
   ]
 }
