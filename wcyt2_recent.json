@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-08-05T08:30:50",
+  "updatedAt": "2026-08-05T08:33:36",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Polar Opposites",
-    "album": "Lonesome Crowded West • 1998",
-    "category": "TUNES"
+    "artist": "Foo Fighters",
+    "title": "The Pretender",
+    "album": "Echoes, Silence, Patience & Grace • 2007",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "8:34 am",
+      "time": "8:37 am",
       "artist": "Fats Domino",
       "title": "The Fat Man"
     },
     {
-      "time": "8:36 am",
+      "time": "8:40 am",
       "artist": "Foo Fighters",
       "title": "The Pretender"
     },
     {
-      "time": "8:41 am",
+      "time": "8:45 am",
       "artist": "Marvin Gaye & Tammi Terrell",
       "title": "Your Precious Love"
     },
     {
-      "time": "8:44 am",
+      "time": "8:48 am",
       "artist": "Brittany Howard",
       "title": "Stay High"
     }
   ],
   "recent": [
+    {
+      "time": "8:33 am",
+      "artist": "Foo Fighters",
+      "title": "The Pretender",
+      "album": "Echoes, Silence, Patience & Grace • 2007"
+    },
     {
       "time": "8:30 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "Papa Don't Preach",
       "album": "True Blue • 1986"
-    },
-    {
-      "time": "6:54 am",
-      "artist": "Sebadoh",
-      "title": "Beauty Of The Ride",
-      "album": "Harmacy • 1996"
     }
   ]
 }
