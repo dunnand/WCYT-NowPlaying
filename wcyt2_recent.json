@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T16:15:09",
+  "updatedAt": "2026-08-05T16:17:04",
   "now": {
-    "artist": "Roger Miller",
-    "title": "Chug-A-Lug",
-    "album": "Roger and Out • 1964",
+    "artist": "David Bowie",
+    "title": "Where Are We Now?",
+    "album": "The Next Day • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:17 pm",
-      "artist": "David Bowie",
-      "title": "Where Are We Now?"
-    },
     {
       "time": "4:21 pm",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "4:26 pm",
       "artist": "R.E.M.",
       "title": "The Great Beyond"
+    },
+    {
+      "time": "4:30 pm",
+      "artist": "Daniel Johnston",
+      "title": "Worried Shoes"
     }
   ],
   "recent": [
+    {
+      "time": "4:17 pm",
+      "artist": "David Bowie",
+      "title": "Where Are We Now?",
+      "album": "The Next Day • 2013"
+    },
     {
       "time": "4:15 pm",
       "artist": "Roger Miller",
@@ -167,12 +173,6 @@
       "artist": "Spinners",
       "title": "I'll Be Around",
       "album": "Spinners • 1973"
-    },
-    {
-      "time": "2:46 pm",
-      "artist": "Son Little",
-      "title": "about her. again",
-      "album": "Aloha • 2020"
     }
   ]
 }
