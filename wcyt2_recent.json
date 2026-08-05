@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T08:20:58",
+  "updatedAt": "2026-08-05T08:27:16",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Sympathy For The Devil",
-    "album": "Beggars Banquet • 1968",
+    "artist": "Santana",
+    "title": "Oye Como Va",
+    "album": "Abraxas • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "Santana",
-      "title": "Oye Como Va"
-    },
     {
       "time": "8:31 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "8:37 am",
       "artist": "Foo Fighters",
       "title": "The Pretender"
+    },
+    {
+      "time": "8:42 am",
+      "artist": "Marvin Gaye & Tammi Terrell",
+      "title": "Your Precious Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "Santana",
+      "title": "Oye Como Va",
+      "album": "Abraxas • 1971"
+    },
     {
       "time": "8:20 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "Ride",
       "title": "Today",
       "album": "Nowhere • 1990"
-    },
-    {
-      "time": "6:44 am",
-      "artist": "Blur",
-      "title": "Lonesome Street",
-      "album": "The Magic Whip • 2015"
     }
   ]
 }
