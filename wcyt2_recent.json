@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T03:41:17",
+  "updatedAt": "2026-08-05T03:41:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Everly Brothers",
+    "title": "Bye, Bye Love",
+    "album": "The Everly Brothers • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:41 am",
-      "artist": "The Everly Brothers",
-      "title": "Bye, Bye Love"
-    },
     {
       "time": "3:43 am",
       "artist": "Foo Fighters",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:41 am",
+      "artist": "The Everly Brothers",
+      "title": "Bye, Bye Love",
+      "album": "The Everly Brothers • 1958"
+    },
     {
       "time": "3:38 am",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Joy Division",
       "title": "Atmosphere",
       "album": "Single • 1980"
-    },
-    {
-      "time": "2:16 am",
-      "artist": "Radiohead",
-      "title": "High and Dry",
-      "album": "The Bends • 1995"
     }
   ]
 }
