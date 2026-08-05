@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T07:31:05",
+  "updatedAt": "2026-08-05T07:33:28",
   "now": {
-    "artist": "Ritchie Valens",
-    "title": "Donna",
-    "album": "Ritchie Valens • 1959",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "I Like Birds",
+    "album": "Daisies of the Galaxy • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:33 am",
-      "artist": "Eels",
-      "title": "I Like Birds"
-    },
     {
       "time": "7:36 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "7:38 am",
       "artist": "Eminem",
       "title": "Love The Way You Lie"
+    },
+    {
+      "time": "7:43 am",
+      "artist": "Pavement",
+      "title": "No Tan Lines"
     }
   ],
   "recent": [
+    {
+      "time": "7:33 am",
+      "artist": "Eels",
+      "title": "I Like Birds",
+      "album": "Daisies of the Galaxy • 2000"
+    },
     {
       "time": "7:31 am",
       "artist": "Ritchie Valens",
@@ -167,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "9-9",
       "album": "Murmur • 1983"
-    },
-    {
-      "time": "5:59 am",
-      "artist": "Malcolm McLaren",
-      "title": "Buffalo Gals",
-      "album": "Duck Rock • 1983"
     }
   ]
 }
