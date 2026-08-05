@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T01:56:14",
+  "updatedAt": "2026-08-05T01:59:39",
   "now": {
-    "artist": "David Byrne",
-    "title": "Everybody's Coming to My House",
-    "album": "American Utopia • 2018",
-    "category": "AUDIO"
+    "artist": "Camera Obscura",
+    "title": "French Navy",
+    "album": "My Maudlin Career • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:59 am",
-      "artist": "Camera Obscura",
-      "title": "French Navy"
-    },
     {
       "time": "2:02 am",
       "artist": "Daft Punk",
@@ -21,9 +16,25 @@
       "time": "2:06 am",
       "artist": "Avenged Sevenfold",
       "title": "Hail To The King"
+    },
+    {
+      "time": "2:11 am",
+      "artist": "Chubb Rock",
+      "title": "Treat 'Em Right"
+    },
+    {
+      "time": "2:16 am",
+      "artist": "Radiohead",
+      "title": "High and Dry"
     }
   ],
   "recent": [
+    {
+      "time": "1:59 am",
+      "artist": "Camera Obscura",
+      "title": "French Navy",
+      "album": "My Maudlin Career • 2009"
+    },
     {
       "time": "1:56 am",
       "artist": "David Byrne",
@@ -167,12 +178,6 @@
       "artist": "Billy Joel",
       "title": "I Go To Extremes",
       "album": "Storm Front • 1989"
-    },
-    {
-      "time": "12:25 am",
-      "artist": "Michael McDonald",
-      "title": "I Keep Forgettin' (Every Time You're Near)",
-      "album": "If Thats What It Takes • 1982"
     }
   ]
 }
