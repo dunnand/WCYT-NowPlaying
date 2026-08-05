@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T17:48:15",
+  "updatedAt": "2026-08-05T17:48:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Velvet Underground",
+    "title": "Rock & Roll",
+    "album": "Loaded • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 pm",
-      "artist": "The Velvet Underground",
-      "title": "Rock & Roll"
-    },
     {
       "time": "5:53 pm",
       "artist": "Small Faces",
@@ -26,9 +21,20 @@
       "time": "6:04 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Mayonaise"
+    },
+    {
+      "time": "6:10 pm",
+      "artist": "Elvis Presley",
+      "title": "Jailhouse Rock"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 pm",
+      "artist": "The Velvet Underground",
+      "title": "Rock & Roll",
+      "album": "Loaded • 1970"
+    },
     {
       "time": "5:45 pm",
       "artist": "Love",
@@ -172,12 +178,6 @@
       "artist": "Roger Miller",
       "title": "Chug-A-Lug",
       "album": "Roger and Out • 1964"
-    },
-    {
-      "time": "4:10 pm",
-      "artist": "Missy Elliott",
-      "title": "Get Ur Freak On",
-      "album": "Miss E ...So Addictive • 2001"
     }
   ]
 }
