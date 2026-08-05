@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T10:03:07",
+  "updatedAt": "2026-08-05T10:03:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Supertramp",
+    "title": "The Logical Song",
+    "album": "Breakfast in America • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:03 am",
-      "artist": "Supertramp",
-      "title": "The Logical Song"
-    },
     {
       "time": "10:07 am",
       "artist": "The Jimi Hendrix Experience",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:03 am",
+      "artist": "Supertramp",
+      "title": "The Logical Song",
+      "album": "Breakfast in America • 1979"
+    },
     {
       "time": "10:00 am",
       "artist": "Strawberry Alarm Clock",
@@ -177,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "The Pretender",
       "album": "Echoes, Silence, Patience & Grace • 2007"
-    },
-    {
-      "time": "8:30 am",
-      "artist": "Modest Mouse",
-      "title": "Polar Opposites",
-      "album": "Lonesome Crowded West • 1998"
     }
   ]
 }
