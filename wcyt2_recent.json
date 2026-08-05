@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T21:34:06",
+  "updatedAt": "2026-08-04T21:34:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joe Cocker",
+    "title": "Feeling Alright",
+    "album": "With a Little Help from My Friends • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:34 pm",
-      "artist": "Joe Cocker",
-      "title": "Feeling Alright"
-    },
     {
       "time": "9:38 pm",
       "artist": "Ruby & The Romantics",
@@ -26,9 +21,20 @@
       "time": "9:44 pm",
       "artist": "The Jimi Hendrix Experience",
       "title": "Purple Haze"
+    },
+    {
+      "time": "9:47 pm",
+      "artist": "John Denver",
+      "title": "Rocky Mountain High"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 pm",
+      "artist": "Joe Cocker",
+      "title": "Feeling Alright",
+      "album": "With a Little Help from My Friends • 1972"
+    },
     {
       "time": "9:30 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "All Shook Up",
       "album": "single • 1957"
-    },
-    {
-      "time": "7:50 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Into My Arms",
-      "album": "The Boatmans Call • 1997"
     }
   ]
 }
