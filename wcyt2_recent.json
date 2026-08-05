@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T00:07:05",
+  "updatedAt": "2026-08-05T00:10:20",
   "now": {
-    "artist": "Beck",
-    "title": "Think I'm in Love",
-    "album": "The Information • 2006",
-    "category": "TUNES"
+    "artist": "Dave Matthews Band",
+    "title": "The Space Between",
+    "album": "Everyday • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 am",
-      "artist": "Dave Matthews Band",
-      "title": "The Space Between"
-    },
     {
       "time": "12:14 am",
       "artist": "Foster The People",
@@ -26,9 +21,20 @@
       "time": "12:21 am",
       "artist": "Deep Blue Something",
       "title": "Breakfast At Tiffany's"
+    },
+    {
+      "time": "12:25 am",
+      "artist": "Michael McDonald",
+      "title": "I Keep Forgettin' (Every Time You're Near)"
     }
   ],
   "recent": [
+    {
+      "time": "12:10 am",
+      "artist": "Dave Matthews Band",
+      "title": "The Space Between",
+      "album": "Everyday • 2001"
+    },
     {
       "time": "12:07 am",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "Haim",
       "title": "Gasoline",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "9:25 pm",
-      "artist": "Talking Heads",
-      "title": "Girlfriend Is Better",
-      "album": "Speaking in Tongues • 1983"
     }
   ]
 }
