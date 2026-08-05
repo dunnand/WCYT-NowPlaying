@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-08-05T12:48:50",
+  "updatedAt": "2026-08-05T12:52:35",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Atlantic City",
-    "album": "Nebraska • 1982",
+    "artist": "Lakeside",
+    "title": "Fantastic Voyage",
+    "album": "Fantastic Voyage • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:52 pm",
+      "time": "12:56 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Atlantic City"
+    },
+    {
+      "time": "1:00 pm",
       "artist": "Lakeside",
       "title": "Fantastic Voyage"
     },
     {
-      "time": "12:56 pm",
+      "time": "1:04 pm",
       "artist": "unknown",
       "title": "Find Mii II (Find Mii II Ending)"
-    },
-    {
-      "time": "12:58 pm",
-      "artist": "The Bar",
-      "title": "Kays - Holy Ghost"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 pm",
+      "artist": "Lakeside",
+      "title": "Fantastic Voyage",
+      "album": "Fantastic Voyage • 1980"
+    },
     {
       "time": "12:48 pm",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "Television",
       "title": "Marquee Moon",
       "album": "Marquee Moon • 1977"
-    },
-    {
-      "time": "11:04 am",
-      "artist": "Rooftop Singers",
-      "title": "Walk Right In",
-      "album": "Walk Right In • 1963"
     }
   ]
 }
