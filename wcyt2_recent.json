@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T01:29:52",
+  "updatedAt": "2026-08-05T01:32:16",
   "now": {
-    "artist": "Loretta Lynn",
-    "title": "The Pill",
-    "album": "Back to the Country • 1975",
+    "artist": "Lou Reed",
+    "title": "Satellite of Love",
+    "album": "Transformer • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:32 am",
-      "artist": "Lou Reed",
-      "title": "Satellite of Love"
-    },
     {
       "time": "1:35 am",
       "artist": "Fatboy Slim",
@@ -26,9 +21,20 @@
       "time": "1:43 am",
       "artist": "Lynyrd Skynyrd",
       "title": "Free Bird"
+    },
+    {
+      "time": "1:52 am",
+      "artist": "Faith No More",
+      "title": "Midlife Crisis"
     }
   ],
   "recent": [
+    {
+      "time": "1:32 am",
+      "artist": "Lou Reed",
+      "title": "Satellite of Love",
+      "album": "Transformer • 1972"
+    },
     {
       "time": "1:29 am",
       "artist": "Loretta Lynn",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Think I'm in Love",
       "album": "The Information • 2006"
-    },
-    {
-      "time": "12:02 am",
-      "artist": "Foals",
-      "title": "Mountain at My Gates",
-      "album": "What Went Down • 2015"
     }
   ]
 }
