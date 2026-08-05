@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T12:34:31",
+  "updatedAt": "2026-08-05T12:39:18",
   "now": {
-    "artist": "Beach House",
-    "title": "Space Song",
-    "album": "Depression Cherry • 2015",
-    "category": "TUNES"
+    "artist": "Janet Jackson",
+    "title": "That's The Way Love Goes",
+    "album": "Janet • 1993",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 pm",
-      "artist": "Janet Jackson",
-      "title": "That's The Way Love Goes"
-    },
     {
       "time": "12:43 pm",
       "artist": "Mazzy Star",
@@ -26,9 +21,20 @@
       "time": "12:52 pm",
       "artist": "Lakeside",
       "title": "Fantastic Voyage"
+    },
+    {
+      "time": "12:56 pm",
+      "artist": "unknown",
+      "title": "Find Mii II (Find Mii II Ending)"
     }
   ],
   "recent": [
+    {
+      "time": "12:39 pm",
+      "artist": "Janet Jackson",
+      "title": "That's The Way Love Goes",
+      "album": "Janet • 1993"
+    },
     {
       "time": "12:34 pm",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "Rolling Stones",
       "title": "The Last Time",
       "album": "single • 1965"
-    },
-    {
-      "time": "10:50 am",
-      "artist": "Syd Barrett",
-      "title": "Terrapin",
-      "album": "The Madcap Laughs • 1970"
     }
   ]
 }
