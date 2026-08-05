@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T08:55:36",
+  "updatedAt": "2026-08-05T08:55:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Smokey Robinson",
+    "title": "Quiet Storm",
+    "album": "A Quiet Storm • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 am",
-      "artist": "Smokey Robinson",
-      "title": "Quiet Storm"
-    },
     {
       "time": "9:03 am",
       "artist": "Fruit Bats",
@@ -31,9 +26,20 @@
       "time": "9:14 am",
       "artist": "Dr. Octagon",
       "title": "Blue Flowers"
+    },
+    {
+      "time": "9:17 am",
+      "artist": "Beach Weather",
+      "title": "Chit Chat"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 am",
+      "artist": "Smokey Robinson",
+      "title": "Quiet Storm",
+      "album": "A Quiet Storm • 1975"
+    },
     {
       "time": "8:52 am",
       "artist": "CAKE",
@@ -177,12 +183,6 @@
       "artist": "Soundgarden",
       "title": "Fell on Black Days",
       "album": "Superunknown • 1994"
-    },
-    {
-      "time": "7:23 am",
-      "artist": "Richard Hell & The Voidoids",
-      "title": "Blank Generation",
-      "album": "ALBUM: Blank Generation • 1977"
     }
   ]
 }
