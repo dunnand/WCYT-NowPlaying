@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T22:35:01",
+  "updatedAt": "2026-08-04T22:35:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joy Division",
+    "title": "Shadowplay",
+    "album": "Unknown Pleasures • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:35 pm",
-      "artist": "Joy Division",
-      "title": "Shadowplay"
-    },
     {
       "time": "10:38 pm",
       "artist": "Moody Blues",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:35 pm",
+      "artist": "Joy Division",
+      "title": "Shadowplay",
+      "album": "Unknown Pleasures • 1979"
+    },
     {
       "time": "10:31 pm",
       "artist": "The Band",
@@ -167,12 +168,6 @@
       "artist": "Alanis Morissette",
       "title": "Hands Clean",
       "album": "Under Rug Swept • 2002"
-    },
-    {
-      "time": "9:01 pm",
-      "artist": "Daft Punk",
-      "title": "Harder, Better, Faster, Stronger",
-      "album": "Discovery • 2001"
     }
   ]
 }
