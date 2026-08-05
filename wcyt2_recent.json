@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T11:07:31",
+  "updatedAt": "2026-08-05T11:18:04",
   "now": {
-    "artist": "Television",
-    "title": "Marquee Moon",
-    "album": "Marquee Moon • 1977",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "Top Expert",
+    "album": "Myra Lee • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:18 am",
-      "artist": "Cat Power",
-      "title": "Top Expert"
-    },
     {
       "time": "11:21 am",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "11:27 am",
       "artist": "The Temptations",
       "title": "My Girl"
+    },
+    {
+      "time": "11:30 am",
+      "artist": "Calvin Harris",
+      "title": "Lets Go feat. Ne-Yo"
     }
   ],
   "recent": [
+    {
+      "time": "11:18 am",
+      "artist": "Cat Power",
+      "title": "Top Expert",
+      "album": "Myra Lee • 1996"
+    },
     {
       "time": "11:07 am",
       "artist": "Television",
@@ -172,12 +178,6 @@
       "artist": "Breathe",
       "title": "Hands To Heaven",
       "album": "All That Jazz • 1990"
-    },
-    {
-      "time": "9:33 am",
-      "artist": "Common",
-      "title": "I Used to Love H.E.R.",
-      "album": "Resurrection • 1994"
     }
   ]
 }
