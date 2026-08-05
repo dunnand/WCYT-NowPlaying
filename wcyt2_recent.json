@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T00:44:30",
+  "updatedAt": "2026-08-05T00:44:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kenny Rogers",
+    "title": "The Gambler",
+    "album": "The Gambler • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:44 am",
-      "artist": "Kenny Rogers",
-      "title": "The Gambler"
-    },
     {
       "time": "12:48 am",
       "artist": "Stevie Wonder",
@@ -26,9 +21,20 @@
       "time": "12:55 am",
       "artist": "Blur",
       "title": "Song 2"
+    },
+    {
+      "time": "12:57 am",
+      "artist": "Bill Allen And The Backbeats",
+      "title": "Please Give Me Something"
     }
   ],
   "recent": [
+    {
+      "time": "12:44 am",
+      "artist": "Kenny Rogers",
+      "title": "The Gambler",
+      "album": "The Gambler • 1978"
+    },
     {
       "time": "12:41 am",
       "artist": "Simon & Garfunkel",
@@ -172,12 +178,6 @@
       "artist": "Fray",
       "title": "Over My Head (Cable Car)",
       "album": "How to Save a Life • 2004"
-    },
-    {
-      "time": "9:58 pm",
-      "artist": "The Avalanches",
-      "title": "Since I Left You",
-      "album": "Since I Left You • 2000"
     }
   ]
 }
