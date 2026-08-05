@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T20:33:58",
+  "updatedAt": "2026-08-04T20:34:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Mexico",
+    "album": "Gorilla • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:34 pm",
-      "artist": "James Taylor",
-      "title": "Mexico"
-    },
     {
       "time": "8:36 pm",
       "artist": "Jim Croce",
@@ -26,9 +21,20 @@
       "time": "8:44 pm",
       "artist": "Ray Charles",
       "title": "I Believe to My Soul"
+    },
+    {
+      "time": "8:47 pm",
+      "artist": "Joan Baez",
+      "title": "Diamonds And Rust"
     }
   ],
   "recent": [
+    {
+      "time": "8:34 pm",
+      "artist": "James Taylor",
+      "title": "Mexico",
+      "album": "Gorilla • 1975"
+    },
     {
       "time": "8:30 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Muddy Waters",
       "title": "Hoochie Coochie Man",
       "album": "single • 1954"
-    },
-    {
-      "time": "6:48 pm",
-      "artist": "Beck",
-      "title": "Cyanide Breath Mint",
-      "album": "One Foot in the Grave • 1994"
     }
   ]
 }
