@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T15:54:42",
+  "updatedAt": "2026-08-05T15:57:47",
   "now": {
-    "artist": "Three Dog Night",
-    "title": "Celebrate",
-    "album": "Suitable for Framing • 1970",
+    "artist": "The Beatles",
+    "title": "Eight Days A Week",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:57 pm",
-      "artist": "The Beatles",
-      "title": "Eight Days A Week"
-    },
     {
       "time": "4:00 pm",
       "artist": "Throbbing Gristle",
@@ -26,9 +21,20 @@
       "time": "4:08 pm",
       "artist": "Elvis Presley",
       "title": "Wear My Ring Around Your Neck"
+    },
+    {
+      "time": "4:10 pm",
+      "artist": "Missy Elliott",
+      "title": "Get Ur Freak On"
     }
   ],
   "recent": [
+    {
+      "time": "3:57 pm",
+      "artist": "The Beatles",
+      "title": "Eight Days A Week",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "3:54 pm",
       "artist": "Three Dog Night",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "Treasure",
       "album": "Unorthodox Jukebox • 2012"
-    },
-    {
-      "time": "2:23 pm",
-      "artist": "Sam Cooke",
-      "title": "(Ain't That) Good News",
-      "album": "Aint That Good News • 1964"
     }
   ]
 }
