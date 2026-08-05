@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T02:31:10",
+  "updatedAt": "2026-08-05T02:31:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mott the Hoople",
+    "title": "All the Young Dudes",
+    "album": "All the Young Dudes • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:31 am",
-      "artist": "Mott the Hoople",
-      "title": "All the Young Dudes"
-    },
     {
       "time": "2:34 am",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "2:43 am",
       "artist": "Jimmy Soul",
       "title": "If You Wanna Be Happy"
+    },
+    {
+      "time": "2:45 am",
+      "artist": "Nick Drake",
+      "title": "From the Morning"
     }
   ],
   "recent": [
+    {
+      "time": "2:31 am",
+      "artist": "Mott the Hoople",
+      "title": "All the Young Dudes",
+      "album": "All the Young Dudes • 1972"
+    },
     {
       "time": "2:28 am",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Bill Allen And The Backbeats",
       "title": "Please Give Me Something",
       "album": "single • 1958"
-    },
-    {
-      "time": "12:55 am",
-      "artist": "Blur",
-      "title": "Song 2",
-      "album": "Blur • 1997"
     }
   ]
 }
