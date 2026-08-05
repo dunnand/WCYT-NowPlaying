@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-04T21:44:22",
+  "updatedAt": "2026-08-04T21:47:05",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Purple Haze",
-    "album": "Are You Experienced • 1967",
+    "artist": "John Denver",
+    "title": "Rocky Mountain High",
+    "album": "Rocky Mountain High • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:47 pm",
-      "artist": "John Denver",
-      "title": "Rocky Mountain High"
-    },
     {
       "time": "9:51 pm",
       "artist": "Chad & Jeremy",
@@ -26,9 +21,20 @@
       "time": "9:58 pm",
       "artist": "The Avalanches",
       "title": "Since I Left You"
+    },
+    {
+      "time": "10:02 pm",
+      "artist": "Fray",
+      "title": "Over My Head (Cable Car)"
     }
   ],
   "recent": [
+    {
+      "time": "9:47 pm",
+      "artist": "John Denver",
+      "title": "Rocky Mountain High",
+      "album": "Rocky Mountain High • 1972"
+    },
     {
       "time": "9:44 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "My Friends",
       "album": "One Hot Minute • 1995"
-    },
-    {
-      "time": "8:04 pm",
-      "artist": "Avenged Sevenfold",
-      "title": "Shepherd of Fire",
-      "album": "Hail to the King • 2013"
     }
   ]
 }
