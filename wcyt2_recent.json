@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T18:44:11",
+  "updatedAt": "2026-08-05T18:49:37",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "One Big Holiday",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "Righteous Brothers",
+    "title": "Unchained Melody",
+    "album": "Just Once in My Life • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:49 pm",
-      "artist": "Righteous Brothers",
-      "title": "Unchained Melody"
-    },
     {
       "time": "6:53 pm",
       "artist": "ZZ Top",
@@ -26,9 +21,20 @@
       "time": "7:00 pm",
       "artist": "Enrique Iglesias",
       "title": "I Like it"
+    },
+    {
+      "time": "7:04 pm",
+      "artist": "Justin Timberlake",
+      "title": "Rock Your Body"
     }
   ],
   "recent": [
+    {
+      "time": "6:49 pm",
+      "artist": "Righteous Brothers",
+      "title": "Unchained Melody",
+      "album": "Just Once in My Life • 1965"
+    },
     {
       "time": "6:44 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "Redbone",
       "album": "Redbone • 2016"
-    },
-    {
-      "time": "5:13 pm",
-      "artist": "Modest Mouse",
-      "title": "Float On",
-      "album": "Good News for People Who Love Bad News • 2004"
     }
   ]
 }
