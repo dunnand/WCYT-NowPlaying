@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T02:02:55",
+  "updatedAt": "2026-08-05T02:06:40",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Something About Us",
-    "album": "Discovery • 2001",
+    "artist": "Avenged Sevenfold",
+    "title": "Hail To The King",
+    "album": "Hail to the King • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:06 am",
-      "artist": "Avenged Sevenfold",
-      "title": "Hail To The King"
-    },
     {
       "time": "2:11 am",
       "artist": "Chubb Rock",
@@ -26,9 +21,20 @@
       "time": "2:20 am",
       "artist": "Joy Division",
       "title": "Atmosphere"
+    },
+    {
+      "time": "2:24 am",
+      "artist": "Lionel Richie",
+      "title": "Dancing On The Ceiling"
     }
   ],
   "recent": [
+    {
+      "time": "2:06 am",
+      "artist": "Avenged Sevenfold",
+      "title": "Hail To The King",
+      "album": "Hail to the King • 2013"
+    },
     {
       "time": "2:02 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Kate Bush",
       "title": "Wuthering Heights",
       "album": "The Kick Inside • 1978"
-    },
-    {
-      "time": "12:32 am",
-      "artist": "HAIM",
-      "title": "The Steps",
-      "album": "Women in Music, Pt. III • 2020"
     }
   ]
 }
