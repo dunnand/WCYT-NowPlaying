@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T15:57:47",
+  "updatedAt": "2026-08-05T16:00:22",
   "now": {
-    "artist": "The Beatles",
-    "title": "Eight Days A Week",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Throbbing Gristle",
+    "title": "Hot on the Heels of Love",
+    "album": "20 Jazz Funk Greats • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:00 pm",
-      "artist": "Throbbing Gristle",
-      "title": "Hot on the Heels of Love"
-    },
     {
       "time": "4:04 pm",
       "artist": "Damien Jurado",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:00 pm",
+      "artist": "Throbbing Gristle",
+      "title": "Hot on the Heels of Love",
+      "album": "20 Jazz Funk Greats • 1979"
+    },
     {
       "time": "3:57 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Slowdive",
       "title": "Catch the Breeze",
       "album": "Just For A Day • 1991"
-    },
-    {
-      "time": "2:25 pm",
-      "artist": "Bruno Mars",
-      "title": "Treasure",
-      "album": "Unorthodox Jukebox • 2012"
     }
   ]
 }
