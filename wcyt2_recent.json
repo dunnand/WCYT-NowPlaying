@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T18:22:21",
+  "updatedAt": "2026-08-05T18:22:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Green Day",
+    "title": "When I Come Around",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:22 pm",
-      "artist": "Green Day",
-      "title": "When I Come Around"
-    },
     {
       "time": "6:25 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "6:32 pm",
       "artist": "The Jesus and Mary Chain",
       "title": "Head On"
+    },
+    {
+      "time": "6:36 pm",
+      "artist": "Mahito Yokota",
+      "title": "Donkey Kong Jungle Beat (Staff Roll)"
     }
   ],
   "recent": [
+    {
+      "time": "6:22 pm",
+      "artist": "Green Day",
+      "title": "When I Come Around",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "6:18 pm",
       "artist": "Drake",
@@ -172,12 +178,6 @@
       "artist": "Tom Jones",
       "title": "Without Love (There Is Nothing)",
       "album": "Tom • 1970"
-    },
-    {
-      "time": "4:43 pm",
-      "artist": "Todd Rundgren",
-      "title": "I Saw The Light",
-      "album": "Something/Anything? • 1972"
     }
   ]
 }
