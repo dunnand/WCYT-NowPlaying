@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-08-05T08:33:36",
+  "updatedAt": "2026-08-05T08:35:00",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "The Pretender",
-    "album": "Echoes, Silence, Patience & Grace • 2007",
+    "artist": "Fats Domino",
+    "title": "The Fat Man",
+    "album": "Rock and Rollin' With Fats Domino • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
     {
       "time": "8:37 am",
-      "artist": "Fats Domino",
-      "title": "The Fat Man"
-    },
-    {
-      "time": "8:40 am",
-      "artist": "Foo Fighters",
-      "title": "The Pretender"
-    },
-    {
-      "time": "8:45 am",
       "artist": "Marvin Gaye & Tammi Terrell",
       "title": "Your Precious Love"
     },
     {
-      "time": "8:48 am",
+      "time": "8:40 am",
       "artist": "Brittany Howard",
       "title": "Stay High"
+    },
+    {
+      "time": "8:43 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Two-Headed Boy, Part Two"
     }
   ],
   "recent": [
+    {
+      "time": "8:35 am",
+      "artist": "Fats Domino",
+      "title": "The Fat Man",
+      "album": "Rock and Rollin' With Fats Domino • 1956"
+    },
     {
       "time": "8:33 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Outfield",
       "title": "Your Love",
       "album": "Play Deep • 1985"
-    },
-    {
-      "time": "6:56 am",
-      "artist": "Madonna",
-      "title": "Papa Don't Preach",
-      "album": "True Blue • 1986"
     }
   ]
 }
