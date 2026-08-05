@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T17:17:23",
+  "updatedAt": "2026-08-05T17:20:48",
   "now": {
-    "artist": "Childish Gambino",
-    "title": "Redbone",
-    "album": "Redbone • 2016",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Needle In The Hay",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:20 pm",
-      "artist": "Elliott Smith",
-      "title": "Needle In The Hay"
-    },
     {
       "time": "5:24 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "5:33 pm",
       "artist": "Huey Lewis & The News",
       "title": "Heart And Soul"
+    },
+    {
+      "time": "5:37 pm",
+      "artist": "Minako Hamano",
+      "title": "Super Metroid (Ending)"
     }
   ],
   "recent": [
+    {
+      "time": "5:20 pm",
+      "artist": "Elliott Smith",
+      "title": "Needle In The Hay",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "5:17 pm",
       "artist": "Childish Gambino",
@@ -172,12 +178,6 @@
       "artist": "Louis Armstrong",
       "title": "Hello, Dolly!",
       "album": "Hello, Dolly! • 1964"
-    },
-    {
-      "time": "3:48 pm",
-      "artist": "Thin Lizzy",
-      "title": "Jailbreak",
-      "album": "Jailbreak • 1976"
     }
   ]
 }
