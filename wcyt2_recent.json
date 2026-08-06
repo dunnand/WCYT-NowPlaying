@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T08:01:06",
+  "updatedAt": "2026-08-06T08:04:35",
   "now": {
-    "artist": "Beyonce",
-    "title": "XO",
-    "album": "Beyonce • 2013",
+    "artist": "Rush",
+    "title": "Closer to the Heart",
+    "album": "A Farewell to Kings • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:04 am",
-      "artist": "Rush",
-      "title": "Closer to the Heart"
-    },
     {
       "time": "8:07 am",
       "artist": "Stone Temple Pilots",
@@ -23,12 +18,23 @@
       "title": "Lonely Teardrops"
     },
     {
-      "time": "8:13 am",
+      "time": "8:14 am",
       "artist": "Katy Perry",
       "title": "Hot N Cold"
+    },
+    {
+      "time": "8:17 am",
+      "artist": "Love",
+      "title": "7 and 7 Is"
     }
   ],
   "recent": [
+    {
+      "time": "8:04 am",
+      "artist": "Rush",
+      "title": "Closer to the Heart",
+      "album": "A Farewell to Kings • 1977"
+    },
     {
       "time": "8:01 am",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Deadweight",
       "album": "Odelay • 1996"
-    },
-    {
-      "time": "6:22 am",
-      "artist": "Bjork",
-      "title": "Stonemilker",
-      "album": "Vulnicura • 2015"
     }
   ]
 }
