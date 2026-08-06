@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T08:07:20",
+  "updatedAt": "2026-08-06T08:11:24",
   "now": {
-    "artist": "Stone Temple Pilots",
-    "title": "Wicked Garden",
-    "album": "Core • 1992",
+    "artist": "Jackie Wilson",
+    "title": "Lonely Teardrops",
+    "album": "Lonely Teardrops • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:11 am",
-      "artist": "Jackie Wilson",
-      "title": "Lonely Teardrops"
-    },
     {
       "time": "8:13 am",
       "artist": "Katy Perry",
@@ -26,9 +21,20 @@
       "time": "8:19 am",
       "artist": "Beyonce",
       "title": "Countdown"
+    },
+    {
+      "time": "8:23 am",
+      "artist": "Superchunk",
+      "title": "Watery Hands"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 am",
+      "artist": "Jackie Wilson",
+      "title": "Lonely Teardrops",
+      "album": "Lonely Teardrops • 1958"
+    },
     {
       "time": "8:07 am",
       "artist": "Stone Temple Pilots",
@@ -172,12 +178,6 @@
       "artist": "Eric B. & Rakim",
       "title": "Paid in Full",
       "album": "Paid in Full • 1987"
-    },
-    {
-      "time": "6:33 am",
-      "artist": "Bjork",
-      "title": "Bachelorette",
-      "album": "Homogenic • 1997"
     }
   ]
 }
