@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T12:41:03",
+  "updatedAt": "2026-08-06T12:45:31",
   "now": {
-    "artist": "T. Rex",
-    "title": "Cosmic Dancer",
-    "album": "Electric Warrior • 1971",
+    "artist": "John Coltrane",
+    "title": "My Favorite Things",
+    "album": "My Favorite Things • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 pm",
-      "artist": "John Coltrane",
-      "title": "My Favorite Things"
-    },
     {
       "time": "12:59 pm",
       "artist": "Van Halen",
@@ -26,9 +21,20 @@
       "time": "1:04 pm",
       "artist": "The Wailers",
       "title": "Duppy Conqueror"
+    },
+    {
+      "time": "1:08 pm",
+      "artist": "Blues Traveler",
+      "title": "Run-Around"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 pm",
+      "artist": "John Coltrane",
+      "title": "My Favorite Things",
+      "album": "My Favorite Things • 1961"
+    },
     {
       "time": "12:41 pm",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "Portishead",
       "title": "The Rip",
       "album": "Third • 2008"
-    },
-    {
-      "time": "11:05 am",
-      "artist": "Joe Turner & His Blues Kings",
-      "title": "Shake, Rattle And Roll",
-      "album": "The Boss of the Blues • 1956"
     }
   ]
 }
