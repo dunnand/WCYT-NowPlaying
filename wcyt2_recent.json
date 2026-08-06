@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T00:04:12",
+  "updatedAt": "2026-08-06T00:06:36",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Peggy Sue",
-    "album": "Buddy Holly • 1958",
+    "artist": "Justice",
+    "title": "We Are Your Friends",
+    "album": "single • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:06 am",
-      "artist": "Justice",
-      "title": "We Are Your Friends"
-    },
     {
       "time": "12:10 am",
       "artist": "Rolling Stones",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:06 am",
+      "artist": "Justice",
+      "title": "We Are Your Friends",
+      "album": "single • 2006"
+    },
     {
       "time": "12:04 am",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "AC/DC",
       "title": "Back in Black",
       "album": "Back in Black • 1980"
-    },
-    {
-      "time": "9:24 pm",
-      "artist": "Mantronix",
-      "title": "Needle To The Groove",
-      "album": "The Album • 1985"
     }
   ]
 }
