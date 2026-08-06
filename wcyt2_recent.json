@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T20:00:56",
+  "updatedAt": "2026-08-05T20:05:52",
   "now": {
-    "artist": "4 Non Blondes",
-    "title": "What's Up",
-    "album": "Bigger, Better, Faster, More • 1993",
+    "artist": "David Bowie",
+    "title": "I Can't Give Everything Away",
+    "album": "Blackstar • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:05 pm",
-      "artist": "David Bowie",
-      "title": "I Can't Give Everything Away"
-    },
     {
       "time": "8:11 pm",
       "artist": "Modest Mouse",
@@ -21,9 +16,20 @@
       "time": "8:14 pm",
       "artist": "MGMT",
       "title": "Electric Feel"
+    },
+    {
+      "time": "8:18 pm",
+      "artist": "Bon Iver",
+      "title": "Holocene"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 pm",
+      "artist": "David Bowie",
+      "title": "I Can't Give Everything Away",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "8:00 pm",
       "artist": "4 Non Blondes",
@@ -167,12 +173,6 @@
       "artist": "Janet Jackson",
       "title": "Let's Wait Awhile",
       "album": "Control • 1987"
-    },
-    {
-      "time": "6:25 pm",
-      "artist": "Sleater-Kinney",
-      "title": "Little Babies",
-      "album": "Dig Me Out • 1997"
     }
   ]
 }
