@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T05:40:37",
+  "updatedAt": "2026-08-06T05:44:22",
   "now": {
-    "artist": "Le Tigre",
-    "title": "Hot Topic",
-    "album": "Le Tigre • 1999",
+    "artist": "Mystik",
+    "title": "Sunshine Rain",
+    "album": "Mystik • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 am",
-      "artist": "Mystik",
-      "title": "Sunshine Rain"
-    },
     {
       "time": "5:49 am",
       "artist": "Jose Gonzalez",
@@ -21,9 +16,20 @@
       "time": "5:51 am",
       "artist": "Dinosaur Jr.",
       "title": "Feel The Pain"
+    },
+    {
+      "time": "5:56 am",
+      "artist": "IDLES",
+      "title": "Car Crash"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 am",
+      "artist": "Mystik",
+      "title": "Sunshine Rain",
+      "album": "Mystik • 2026"
+    },
     {
       "time": "5:40 am",
       "artist": "Le Tigre",
@@ -167,12 +173,6 @@
       "artist": "Turnover",
       "title": "Nightjar",
       "album": "Down On Earth • 2026"
-    },
-    {
-      "time": "4:08 am",
-      "artist": "Beach House",
-      "title": "New Romance",
-      "album": "Once Twice Melody • 2022"
     }
   ]
 }
