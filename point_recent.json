@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T00:46:16",
+  "updatedAt": "2026-08-06T00:46:28",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Massive Attack",
+    "title": "Teardrop",
+    "album": "Mezzanine • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "Massive Attack",
-      "title": "Teardrop"
-    },
     {
       "time": "12:51 am",
       "artist": "The Smiths",
@@ -26,9 +21,20 @@
       "time": "12:59 am",
       "artist": "Man Man",
       "title": "Doo Right"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Angel Olsen",
+      "title": "All Mirrors"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "Massive Attack",
+      "title": "Teardrop",
+      "album": "Mezzanine • 1998"
+    },
     {
       "time": "12:42 am",
       "artist": "POND",
@@ -172,12 +178,6 @@
       "artist": "Telehealth",
       "title": "Cool Job",
       "album": "Green World Image • 2026"
-    },
-    {
-      "time": "11:08 pm",
-      "artist": "Low",
-      "title": "Silver Rider",
-      "album": "The Great Destroyer • 2005"
     }
   ]
 }
