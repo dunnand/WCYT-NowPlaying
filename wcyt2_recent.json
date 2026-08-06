@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T01:33:18",
+  "updatedAt": "2026-08-06T01:36:54",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I'll Keep It With Mine",
-    "album": "Biograph • 1985",
+    "artist": "SAULT",
+    "title": "Strong",
+    "album": "UNTITLED • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:36 am",
-      "artist": "SAULT",
-      "title": "Strong"
-    },
     {
       "time": "1:43 am",
       "artist": "George McCrae",
@@ -21,9 +16,20 @@
       "time": "1:46 am",
       "artist": "Roger Miller",
       "title": "Dang Me"
+    },
+    {
+      "time": "1:48 am",
+      "artist": "Gil Scott",
+      "title": "Heron - The Revolution Will Not Be Televised"
     }
   ],
   "recent": [
+    {
+      "time": "1:36 am",
+      "artist": "SAULT",
+      "title": "Strong",
+      "album": "UNTITLED • 2020"
+    },
     {
       "time": "1:33 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Alice in Chains",
       "title": "Rooster",
       "album": "Dirt • 1992"
-    },
-    {
-      "time": "10:48 pm",
-      "artist": "The D",
-      "title": "Smash It Up, Part I",
-      "album": "Machine Gun Etiquette • 1979"
     }
   ]
 }
