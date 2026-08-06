@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T14:52:42",
+  "updatedAt": "2026-08-06T14:56:58",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "The Man Comes Around",
-    "album": "American IV: The Man Comes Around • 2002",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "No. 1 Party Anthem",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:56 pm",
-      "artist": "Arctic Monkeys",
-      "title": "No. 1 Party Anthem"
-    },
     {
       "time": "3:00 pm",
       "artist": "Ace Frehley",
@@ -26,9 +21,20 @@
       "time": "3:08 pm",
       "artist": "Bruce Springsteen",
       "title": "American Skin (41 Shots)"
+    },
+    {
+      "time": "3:16 pm",
+      "artist": "Joe",
+      "title": "I Wanna Know"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 pm",
+      "artist": "Arctic Monkeys",
+      "title": "No. 1 Party Anthem",
+      "album": "AM • 2013"
+    },
     {
       "time": "2:52 pm",
       "artist": "Johnny Cash",
@@ -172,12 +178,6 @@
       "artist": "Ellie Goulding",
       "title": "Anything Could Happen",
       "album": "Halcyon • 2012"
-    },
-    {
-      "time": "1:21 pm",
-      "artist": "Nina Simone",
-      "title": "I Put a Spell on You",
-      "album": "I Put a Spell on You • 1965"
     }
   ]
 }
