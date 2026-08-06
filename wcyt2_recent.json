@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T21:28:02",
+  "updatedAt": "2026-08-05T21:28:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "AC/DC",
+    "title": "Back in Black",
+    "album": "Back in Black • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:28 pm",
-      "artist": "AC/DC",
-      "title": "Back in Black"
-    },
     {
       "time": "9:32 pm",
       "artist": "Run The Jewels",
@@ -26,9 +21,20 @@
       "time": "9:39 pm",
       "artist": "Captain & Tennille",
       "title": "Muskrat Love"
+    },
+    {
+      "time": "9:42 pm",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "As I Sat Sadly By Her Side"
     }
   ],
   "recent": [
+    {
+      "time": "9:28 pm",
+      "artist": "AC/DC",
+      "title": "Back in Black",
+      "album": "Back in Black • 1980"
+    },
     {
       "time": "9:24 pm",
       "artist": "Mantronix",
@@ -172,12 +178,6 @@
       "artist": "The Allman Brothers Band",
       "title": "Blue Sky",
       "album": "Eat a Peach • 1972"
-    },
-    {
-      "time": "7:52 pm",
-      "artist": "Neil Diamond",
-      "title": "Girl, You'll Be A Woman Soon",
-      "album": "Just for You • 1967"
     }
   ]
 }
