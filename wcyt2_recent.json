@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T15:15:43",
+  "updatedAt": "2026-08-06T15:16:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joe",
+    "title": "I Wanna Know",
+    "album": "My Name Is Joe • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:16 pm",
-      "artist": "Joe",
-      "title": "I Wanna Know"
-    },
     {
       "time": "3:21 pm",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "3:26 pm",
       "artist": "Dinosaur Jr.",
       "title": "Puke + Cry"
+    },
+    {
+      "time": "3:31 pm",
+      "artist": "Eels",
+      "title": "Last Stop: This Town"
     }
   ],
   "recent": [
+    {
+      "time": "3:16 pm",
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "album": "My Name Is Joe • 2000"
+    },
     {
       "time": "3:08 pm",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Leonard Cohen",
       "title": "Hallelujah",
       "album": "Various Positions • 1984"
-    },
-    {
-      "time": "1:34 pm",
-      "artist": "Laurie Anderson",
-      "title": "From the Air",
-      "album": "Big Science • 1982"
     }
   ]
 }
