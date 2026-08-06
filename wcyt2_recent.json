@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T07:54:54",
+  "updatedAt": "2026-08-06T07:55:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Roxy Music",
+    "title": "Virginia Plain",
+    "album": "Roxy Music • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:55 am",
-      "artist": "Roxy Music",
-      "title": "Virginia Plain"
-    },
     {
       "time": "7:57 am",
       "artist": "Modest Mouse",
@@ -31,9 +26,20 @@
       "time": "8:07 am",
       "artist": "Stone Temple Pilots",
       "title": "Wicked Garden"
+    },
+    {
+      "time": "8:11 am",
+      "artist": "Jackie Wilson",
+      "title": "Lonely Teardrops"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "Roxy Music",
+      "title": "Virginia Plain",
+      "album": "Roxy Music • 1972"
+    },
     {
       "time": "7:51 am",
       "artist": "Gnarls Barkley",
@@ -177,12 +183,6 @@
       "artist": "The Postal Service",
       "title": "The District Sleeps Alone Tonight",
       "album": "Give Up • 2003"
-    },
-    {
-      "time": "6:12 am",
-      "artist": "Jerry Lee Lewis",
-      "title": "Great Balls of Fire",
-      "album": "Single • 1957"
     }
   ]
 }
