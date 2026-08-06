@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T03:24:33",
+  "updatedAt": "2026-08-06T03:26:56",
   "now": {
-    "artist": "They Might Be Giants",
-    "title": "Destination Moon",
-    "album": "John Henry • 1994",
+    "artist": "Tom Petty",
+    "title": "A Higher Place",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 am",
-      "artist": "Tom Petty",
-      "title": "A Higher Place"
-    },
     {
       "time": "3:30 am",
       "artist": "Chicago",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:26 am",
+      "artist": "Tom Petty",
+      "title": "A Higher Place",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "3:24 am",
       "artist": "They Might Be Giants",
@@ -172,12 +173,6 @@
       "artist": "Roger Miller",
       "title": "Dang Me",
       "album": "The Return of Roger Miller • 1965"
-    },
-    {
-      "time": "1:43 am",
-      "artist": "George McCrae",
-      "title": "You Can Have It All",
-      "album": "Rock Your Baby • 1974"
     }
   ]
 }
