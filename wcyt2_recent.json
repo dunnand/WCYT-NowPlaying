@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T07:43:03",
+  "updatedAt": "2026-08-06T07:43:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "Got My Mind Set On You",
+    "album": "Cloud Nine • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 am",
-      "artist": "George Harrison",
-      "title": "Got My Mind Set On You"
-    },
     {
       "time": "7:46 am",
       "artist": "SAULT",
@@ -26,9 +21,20 @@
       "time": "7:55 am",
       "artist": "Roxy Music",
       "title": "Virginia Plain"
+    },
+    {
+      "time": "7:58 am",
+      "artist": "Modest Mouse",
+      "title": "Paper Thin Walls"
     }
   ],
   "recent": [
+    {
+      "time": "7:43 am",
+      "artist": "George Harrison",
+      "title": "Got My Mind Set On You",
+      "album": "Cloud Nine • 1987"
+    },
     {
       "time": "7:38 am",
       "artist": "Foreigner",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Kodachrome",
       "album": "There Goes Rhymin Simon • 1973"
-    },
-    {
-      "time": "6:00 am",
-      "artist": "The Beatles",
-      "title": "While My Guitar Gently Weeps",
-      "album": "The Beatles • 1968"
     }
   ]
 }
