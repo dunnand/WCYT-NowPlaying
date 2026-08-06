@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-08-05T22:45:30",
+  "updatedAt": "2026-08-05T22:48:33",
   "now": {
-    "artist": "Billie Eilish",
-    "title": "bad guy",
-    "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? • 2019",
+    "artist": "The D",
+    "title": "Smash It Up, Part I",
+    "album": "Machine Gun Etiquette • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:48 pm",
+      "time": "10:53 pm",
+      "artist": "Billie Eilish",
+      "title": "bad guy"
+    },
+    {
+      "time": "10:56 pm",
       "artist": "The D",
       "title": "Smash It Up, Part I"
     }
   ],
   "recent": [
+    {
+      "time": "10:48 pm",
+      "artist": "The D",
+      "title": "Smash It Up, Part I",
+      "album": "Machine Gun Etiquette • 1979"
+    },
     {
       "time": "10:45 pm",
       "artist": "Billie Eilish",
@@ -157,12 +168,6 @@
       "artist": "Black Sheep",
       "title": "The Choice Is Yours (Revisited)",
       "album": "A Wolf in Sheep's Clothing • 1991"
-    },
-    {
-      "time": "9:13 pm",
-      "artist": "Charles Bradley",
-      "title": "Strictly Reserved For You",
-      "album": "Victim of Love • 2013"
     }
   ]
 }
