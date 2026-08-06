@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-05T23:58:01",
+  "updatedAt": "2026-08-06T00:04:12",
   "now": {
-    "artist": "Alice in Chains",
-    "title": "Rooster",
-    "album": "Dirt • 1992",
+    "artist": "Buddy Holly",
+    "title": "Peggy Sue",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Buddy Holly",
-      "title": "Peggy Sue"
-    },
     {
       "time": "12:06 am",
       "artist": "Justice",
       "title": "We Are Your Friends"
     },
     {
-      "time": "12:11 am",
+      "time": "12:10 am",
       "artist": "Rolling Stones",
       "title": "Under My Thumb"
     },
@@ -26,9 +21,20 @@
       "time": "12:14 am",
       "artist": "Big Time Rush",
       "title": "Music Sounds Better With U feat. Mann"
+    },
+    {
+      "time": "12:17 am",
+      "artist": "Aphex Twin",
+      "title": "Ageispolis"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Buddy Holly",
+      "title": "Peggy Sue",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "11:58 pm",
       "artist": "Alice in Chains",
@@ -172,12 +178,6 @@
       "artist": "Mantronix",
       "title": "Needle To The Groove",
       "album": "The Album • 1985"
-    },
-    {
-      "time": "9:20 pm",
-      "artist": "Aaron Neville",
-      "title": "Everybody Plays The Fool",
-      "album": "Warm Your Heart • 1991"
     }
   ]
 }
