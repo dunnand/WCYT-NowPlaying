@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T15:16:15",
+  "updatedAt": "2026-08-06T15:21:10",
   "now": {
-    "artist": "Joe",
-    "title": "I Wanna Know",
-    "album": "My Name Is Joe • 2000",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Roland",
+    "album": "Turn on the Bright Lights • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:21 pm",
-      "artist": "Interpol",
-      "title": "Roland"
-    },
     {
       "time": "3:24 pm",
       "artist": "Anna Kendrick",
@@ -26,9 +21,20 @@
       "time": "3:31 pm",
       "artist": "Eels",
       "title": "Last Stop: This Town"
+    },
+    {
+      "time": "3:34 pm",
+      "artist": "Missing Persons",
+      "title": "Mental Hopscotch"
     }
   ],
   "recent": [
+    {
+      "time": "3:21 pm",
+      "artist": "Interpol",
+      "title": "Roland",
+      "album": "Turn on the Bright Lights • 2002"
+    },
     {
       "time": "3:16 pm",
       "artist": "Joe",
@@ -172,12 +178,6 @@
       "artist": "Panda Bear & Sonic Boom",
       "title": "Edge of the Edge",
       "album": "Edge of the Edge • 2022"
-    },
-    {
-      "time": "1:38 pm",
-      "artist": "Leonard Cohen",
-      "title": "Hallelujah",
-      "album": "Various Positions • 1984"
     }
   ]
 }
