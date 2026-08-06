@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T22:38:42",
+  "updatedAt": "2026-08-05T22:38:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chic",
+    "title": "Le Freak",
+    "album": "C'est Chic • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:38 pm",
-      "artist": "Chic",
-      "title": "Le Freak"
-    },
     {
       "time": "10:42 pm",
       "artist": "Johnny Cash",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:38 pm",
+      "artist": "Chic",
+      "title": "Le Freak",
+      "album": "C'est Chic • 1978"
+    },
     {
       "time": "10:32 pm",
       "artist": "LCD Soundsystem",
@@ -172,12 +173,6 @@
       "artist": "Jimmy Eat World",
       "title": "Sweetness",
       "album": "Bleed American • 2001"
-    },
-    {
-      "time": "9:05 pm",
-      "artist": "Ritchie Valens",
-      "title": "Come on, Let's Go",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
