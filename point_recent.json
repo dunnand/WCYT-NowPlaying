@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T02:48:05",
+  "updatedAt": "2026-08-06T02:48:15",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "I Promise",
+    "album": "OK Computer • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:48 am",
-      "artist": "Radiohead",
-      "title": "I Promise"
-    },
     {
       "time": "2:52 am",
       "artist": "The Jesus and Mary Chain",
@@ -26,9 +21,20 @@
       "time": "2:57 am",
       "artist": "Wild Nothing",
       "title": "Life of Pause"
+    },
+    {
+      "time": "3:01 am",
+      "artist": "Public Image Ltd.",
+      "title": "Public Image"
     }
   ],
   "recent": [
+    {
+      "time": "2:48 am",
+      "artist": "Radiohead",
+      "title": "I Promise",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "2:45 am",
       "artist": "This is Lorelei",
@@ -172,12 +178,6 @@
       "artist": "Phoebe Bridgers",
       "title": "Lost Boys",
       "album": "Lost Weekend • 2026"
-    },
-    {
-      "time": "1:14 am",
-      "artist": "Westerman",
-      "title": "Confirmation (SSBD)",
-      "album": "Your Hero Is Not Dead • 2020"
     }
   ]
 }
