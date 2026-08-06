@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T19:52:23",
+  "updatedAt": "2026-08-06T19:52:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Idiot Wind",
+    "album": "Blood On the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:52 pm",
-      "artist": "Bob Dylan",
-      "title": "Idiot Wind"
-    },
     {
       "time": "8:00 pm",
       "artist": "Percy Sledge",
@@ -26,9 +21,20 @@
       "time": "8:06 pm",
       "artist": "Roy Orbison",
       "title": "Running Scared"
+    },
+    {
+      "time": "8:08 pm",
+      "artist": "Cat Stevens",
+      "title": "Wild World"
     }
   ],
   "recent": [
+    {
+      "time": "7:52 pm",
+      "artist": "Bob Dylan",
+      "title": "Idiot Wind",
+      "album": "Blood On the Tracks • 1975"
+    },
     {
       "time": "7:48 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Bill Haley & His Comets",
       "title": "See You Later, Alligator",
       "album": "Rockin' the Joint • 1958"
-    },
-    {
-      "time": "6:11 pm",
-      "artist": "Jewel",
-      "title": "You Were Meant For Me",
-      "album": "Pieces of You • 1996"
     }
   ]
 }
