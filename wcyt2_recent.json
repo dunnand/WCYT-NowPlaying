@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T22:01:00",
+  "updatedAt": "2026-08-05T22:03:07",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Hound Dog",
-    "album": "single • 1956",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "The World At Large",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:03 pm",
-      "artist": "Modest Mouse",
-      "title": "The World At Large"
-    },
     {
       "time": "10:07 pm",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:03 pm",
+      "artist": "Modest Mouse",
+      "title": "The World At Large",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "10:01 pm",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "Stereo Sanctity",
       "album": "Sister • 1987"
-    },
-    {
-      "time": "8:32 pm",
-      "artist": "Run-D.M.C.",
-      "title": "Is It Live",
-      "album": "Raising Hell • 1986"
     }
   ]
 }
