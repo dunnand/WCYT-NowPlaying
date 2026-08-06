@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T14:28:46",
+  "updatedAt": "2026-08-06T14:28:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Celine Dion",
+    "title": "My Heart Will Go On",
+    "album": "Let's Talk About Love • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:28 pm",
-      "artist": "Celine Dion",
-      "title": "My Heart Will Go On"
-    },
     {
       "time": "2:33 pm",
       "artist": "Madness",
@@ -26,9 +21,20 @@
       "time": "2:38 pm",
       "artist": "Olivia Rodrigo",
       "title": "bad idea right?"
+    },
+    {
+      "time": "2:41 pm",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "There She Goes, My Beautiful World"
     }
   ],
   "recent": [
+    {
+      "time": "2:28 pm",
+      "artist": "Celine Dion",
+      "title": "My Heart Will Go On",
+      "album": "Let's Talk About Love • 1997"
+    },
     {
       "time": "2:24 pm",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Van Halen",
       "title": "Dance The Night Away",
       "album": "Van Halen II • 1979"
-    },
-    {
-      "time": "12:45 pm",
-      "artist": "John Coltrane",
-      "title": "My Favorite Things",
-      "album": "My Favorite Things • 1961"
     }
   ]
 }
