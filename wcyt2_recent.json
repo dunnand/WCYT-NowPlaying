@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T04:38:48",
+  "updatedAt": "2026-08-06T04:46:06",
   "now": {
-    "artist": "Neil Young & Crazy Horse",
-    "title": "Cortez the Killer",
-    "album": "Zuma • 1975",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Gravity Rides Everything",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "Modest Mouse",
-      "title": "Gravity Rides Everything"
-    },
     {
       "time": "4:50 am",
       "artist": "Brandi Carlile",
@@ -26,9 +21,20 @@
       "time": "4:57 am",
       "artist": "Radiohead",
       "title": "Electioneering"
+    },
+    {
+      "time": "5:01 am",
+      "artist": "Fats Domino",
+      "title": "I Want To Walk You Home"
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "Modest Mouse",
+      "title": "Gravity Rides Everything",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "4:38 am",
       "artist": "Neil Young & Crazy Horse",
@@ -172,12 +178,6 @@
       "artist": "The National",
       "title": "Mistaken for Strangers",
       "album": "Boxer • 2007"
-    },
-    {
-      "time": "3:11 am",
-      "artist": "Arcade Fire",
-      "title": "Sprawl II (MOUNTIANS BEYOND MOUNTIANS)",
-      "album": "The Suburbs • 2010"
     }
   ]
 }
