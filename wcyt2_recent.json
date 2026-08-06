@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T07:55:06",
+  "updatedAt": "2026-08-06T07:57:59",
   "now": {
-    "artist": "Roxy Music",
-    "title": "Virginia Plain",
-    "album": "Roxy Music • 1972",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Paper Thin Walls",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:57 am",
-      "artist": "Modest Mouse",
-      "title": "Paper Thin Walls"
-    },
     {
       "time": "8:00 am",
       "artist": "Beyonce",
@@ -31,9 +26,20 @@
       "time": "8:11 am",
       "artist": "Jackie Wilson",
       "title": "Lonely Teardrops"
+    },
+    {
+      "time": "8:14 am",
+      "artist": "Katy Perry",
+      "title": "Hot N Cold"
     }
   ],
   "recent": [
+    {
+      "time": "7:57 am",
+      "artist": "Modest Mouse",
+      "title": "Paper Thin Walls",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "7:55 am",
       "artist": "Roxy Music",
@@ -177,12 +183,6 @@
       "artist": "Rolling Stones",
       "title": "(I Can't Get No) Satisfaction",
       "album": "single • 1965"
-    },
-    {
-      "time": "6:14 am",
-      "artist": "The Postal Service",
-      "title": "The District Sleeps Alone Tonight",
-      "album": "Give Up • 2003"
     }
   ]
 }
