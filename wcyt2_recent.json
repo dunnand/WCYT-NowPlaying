@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T03:26:56",
+  "updatedAt": "2026-08-06T03:30:44",
   "now": {
-    "artist": "Tom Petty",
-    "title": "A Higher Place",
-    "album": "Wildflowers • 1994",
+    "artist": "Chicago",
+    "title": "You're The Inspiration",
+    "album": "Chicago 17 • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "Chicago",
-      "title": "You're The Inspiration"
-    },
     {
       "time": "3:34 am",
       "artist": "Culture Club",
@@ -21,9 +16,20 @@
       "time": "3:37 am",
       "artist": "SAULT",
       "title": "Wildfires"
+    },
+    {
+      "time": "3:41 am",
+      "artist": "Little River Band",
+      "title": "Reminiscing"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "Chicago",
+      "title": "You're The Inspiration",
+      "album": "Chicago 17 • 1984"
+    },
     {
       "time": "3:26 am",
       "artist": "Tom Petty",
@@ -167,12 +173,6 @@
       "artist": "Gil Scott-Heron",
       "title": "The Revolution Will Not Be Televised",
       "album": "Pieces of a Man • 1971"
-    },
-    {
-      "time": "1:46 am",
-      "artist": "Roger Miller",
-      "title": "Dang Me",
-      "album": "The Return of Roger Miller • 1965"
     }
   ]
 }
