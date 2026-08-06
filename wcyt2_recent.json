@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T00:23:02",
+  "updatedAt": "2026-08-06T00:26:47",
   "now": {
-    "artist": "Archers of Loaf",
-    "title": "Wrong",
-    "album": "Icky Mettle • 1993",
+    "artist": "Beat Happening",
+    "title": "I Love You",
+    "album": "Beat Happening • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:26 am",
-      "artist": "Beat Happening",
-      "title": "I Love You"
-    },
     {
       "time": "12:28 am",
       "artist": "Big Country",
@@ -26,9 +21,20 @@
       "time": "12:35 am",
       "artist": "Public Enemy",
       "title": "Harder Than You Think"
+    },
+    {
+      "time": "12:40 am",
+      "artist": "Dolly Parton",
+      "title": "Coat of Many Colors"
     }
   ],
   "recent": [
+    {
+      "time": "12:26 am",
+      "artist": "Beat Happening",
+      "title": "I Love You",
+      "album": "Beat Happening • 1985"
+    },
     {
       "time": "12:23 am",
       "artist": "Archers of Loaf",
@@ -172,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "The A Team",
       "album": "+ • 2011"
-    },
-    {
-      "time": "9:42 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "As I Sat Sadly By Her Side",
-      "album": "No More Shall We Part • 2001"
     }
   ]
 }
