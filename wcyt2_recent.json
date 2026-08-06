@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T04:54:57",
+  "updatedAt": "2026-08-06T04:57:50",
   "now": {
-    "artist": "Neil Young",
-    "title": "Tell Me Why",
-    "album": "After the Gold Rush • 1970",
+    "artist": "Radiohead",
+    "title": "Electioneering",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Radiohead",
-      "title": "Electioneering"
-    },
     {
       "time": "5:01 am",
       "artist": "Fats Domino",
@@ -21,9 +16,20 @@
       "time": "5:04 am",
       "artist": "Pink Floyd",
       "title": "Echoes"
+    },
+    {
+      "time": "5:20 am",
+      "artist": "Rolling Stones",
+      "title": "Honky Tonk Women"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Radiohead",
+      "title": "Electioneering",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "4:54 am",
       "artist": "Neil Young",
@@ -167,12 +173,6 @@
       "artist": "Tom Petty",
       "title": "A Higher Place",
       "album": "Wildflowers • 1994"
-    },
-    {
-      "time": "3:24 am",
-      "artist": "They Might Be Giants",
-      "title": "Destination Moon",
-      "album": "John Henry • 1994"
     }
   ]
 }
