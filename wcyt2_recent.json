@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T21:01:28",
+  "updatedAt": "2026-08-05T21:05:04",
   "now": {
-    "artist": "Pavement",
-    "title": "Carrot Rope",
-    "album": "Terror Twilight • 1999",
-    "category": "TUNES"
+    "artist": "Ritchie Valens",
+    "title": "Come on, Let's Go",
+    "album": "Ritchie Valens • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 pm",
-      "artist": "Ritchie Valens",
-      "title": "Come on, Let's Go"
-    },
     {
       "time": "9:07 pm",
       "artist": "Jimmy Eat World",
@@ -26,9 +21,20 @@
       "time": "9:13 pm",
       "artist": "Charles Bradley",
       "title": "Strictly Reserved For You"
+    },
+    {
+      "time": "9:16 pm",
+      "artist": "Black Sheep",
+      "title": "The Choice Is Yours (Revisited)"
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "Ritchie Valens",
+      "title": "Come on, Let's Go",
+      "album": "Ritchie Valens • 1959"
+    },
     {
       "time": "9:01 pm",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Rene and Georgette Magritte With Their Dog After the War",
       "album": "Hearts and Bones • 1983"
-    },
-    {
-      "time": "7:26 pm",
-      "artist": "Yo La Tengo",
-      "title": "Tom Courtenay",
-      "album": "Electropura • 1995"
     }
   ]
 }
