@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T19:21:19",
+  "updatedAt": "2026-08-06T19:24:16",
   "now": {
     "artist": "My Morning Jacket",
-    "title": "Just Because I Do",
+    "title": "The Way That He Sings",
     "album": "At Dawn • 2001",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:24 pm",
-      "artist": "My Morning Jacket",
-      "title": "The Way That He Sings"
-    },
     {
       "time": "7:29 pm",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "7:36 pm",
       "artist": "Pantera",
       "title": "Walk"
+    },
+    {
+      "time": "7:41 pm",
+      "artist": "Stevie Nicks",
+      "title": "Talk To Me"
     }
   ],
   "recent": [
+    {
+      "time": "7:24 pm",
+      "artist": "My Morning Jacket",
+      "title": "The Way That He Sings",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "7:21 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Koji Kondo",
       "title": "Super Mario World (Ending)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "5:46 pm",
-      "artist": "Pink Floyd",
-      "title": "The Gunners Dream",
-      "album": "The Final Cut • 1983"
     }
   ]
 }
