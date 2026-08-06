@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T17:12:14",
+  "updatedAt": "2026-08-06T17:14:58",
   "now": {
-    "artist": "The Beatles",
-    "title": "Honey Pie",
-    "album": "The Beatles • 1968",
+    "artist": "The Clash",
+    "title": "Spanish Bombs",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:14 pm",
-      "artist": "The Clash",
-      "title": "Spanish Bombs"
-    },
     {
       "time": "5:18 pm",
       "artist": "Gin Blossoms",
@@ -26,9 +21,20 @@
       "time": "5:26 pm",
       "artist": "Maroon 5",
       "title": "This Love"
+    },
+    {
+      "time": "5:29 pm",
+      "artist": "Phoenix",
+      "title": "If I Ever Feel Better"
     }
   ],
   "recent": [
+    {
+      "time": "5:14 pm",
+      "artist": "The Clash",
+      "title": "Spanish Bombs",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "5:12 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Puke + Cry",
       "album": "Green Mind • 1991"
-    },
-    {
-      "time": "3:24 pm",
-      "artist": "Anna Kendrick",
-      "title": "Cups",
-      "album": "HA201311 6 • 2013"
     }
   ]
 }
