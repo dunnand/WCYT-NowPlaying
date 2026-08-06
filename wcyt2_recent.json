@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T19:55:54",
+  "updatedAt": "2026-08-05T20:00:56",
   "now": {
-    "artist": "The Allman Brothers Band",
-    "title": "Blue Sky",
-    "album": "Eat a Peach • 1972",
+    "artist": "4 Non Blondes",
+    "title": "What's Up",
+    "album": "Bigger, Better, Faster, More • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "4 Non Blondes",
-      "title": "What's Up"
-    },
     {
       "time": "8:05 pm",
       "artist": "David Bowie",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "4 Non Blondes",
+      "title": "What's Up",
+      "album": "Bigger, Better, Faster, More • 1993"
+    },
     {
       "time": "7:55 pm",
       "artist": "The Allman Brothers Band",
@@ -172,12 +173,6 @@
       "artist": "Sleater-Kinney",
       "title": "Little Babies",
       "album": "Dig Me Out • 1997"
-    },
-    {
-      "time": "6:22 pm",
-      "artist": "Green Day",
-      "title": "When I Come Around",
-      "album": "Dookie • 1994"
     }
   ]
 }
