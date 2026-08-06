@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T17:18:13",
+  "updatedAt": "2026-08-06T17:22:31",
   "now": {
-    "artist": "Gin Blossoms",
-    "title": "Follow You Down",
-    "album": "Congratulations I'm Sorry • 1996",
+    "artist": "Adele",
+    "title": "Rolling In The Deep",
+    "album": "21 • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 pm",
-      "artist": "Adele",
-      "title": "Rolling In The Deep"
-    },
     {
       "time": "5:26 pm",
       "artist": "Maroon 5",
@@ -21,9 +16,20 @@
       "time": "5:29 pm",
       "artist": "Phoenix",
       "title": "If I Ever Feel Better"
+    },
+    {
+      "time": "5:34 pm",
+      "artist": "Capital Cities",
+      "title": "Safe & Sound"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 pm",
+      "artist": "Adele",
+      "title": "Rolling In The Deep",
+      "album": "21 • 2010"
+    },
     {
       "time": "5:18 pm",
       "artist": "Gin Blossoms",
@@ -167,12 +173,6 @@
       "artist": "Missing Persons",
       "title": "Mental Hopscotch",
       "album": "Spring Session M • 1982"
-    },
-    {
-      "time": "3:31 pm",
-      "artist": "Eels",
-      "title": "Last Stop: This Town",
-      "album": "Electro Shock Blues • 1998"
     }
   ]
 }
