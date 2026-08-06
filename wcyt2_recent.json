@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T21:57:07",
+  "updatedAt": "2026-08-05T22:01:00",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Learn to Fly",
-    "album": "There Is Nothing Left to Lose • 1999",
+    "artist": "Elvis Presley",
+    "title": "Hound Dog",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 pm",
-      "artist": "Elvis Presley",
-      "title": "Hound Dog"
-    },
     {
       "time": "10:03 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "10:09 pm",
       "artist": "FKA twigs",
       "title": "Video Girl"
+    },
+    {
+      "time": "10:13 pm",
+      "artist": "Madonna",
+      "title": "Beautiful Stranger"
     }
   ],
   "recent": [
+    {
+      "time": "10:01 pm",
+      "artist": "Elvis Presley",
+      "title": "Hound Dog",
+      "album": "single • 1956"
+    },
     {
       "time": "9:57 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Run-D.M.C.",
       "title": "Is It Live",
       "album": "Raising Hell • 1986"
-    },
-    {
-      "time": "8:28 pm",
-      "artist": "DJ Jazzy Jeff & The Fresh Prince",
-      "title": "Summertime",
-      "album": "Homebase • 1991"
     }
   ]
 }
