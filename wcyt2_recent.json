@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T09:05:16",
+  "updatedAt": "2026-08-06T09:07:39",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Punch and Judy",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Adele",
+    "title": "Rumour Has It",
+    "album": "21 • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 am",
-      "artist": "Adele",
-      "title": "Rumour Has It"
-    },
     {
       "time": "9:11 am",
       "artist": "Iron & Wine",
@@ -21,9 +16,20 @@
       "time": "9:13 am",
       "artist": "Interpol",
       "title": "Obstacle 2"
+    },
+    {
+      "time": "9:17 am",
+      "artist": "Against Me!",
+      "title": "I Was a Teenage Anarchist"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 am",
+      "artist": "Adele",
+      "title": "Rumour Has It",
+      "album": "21 • 2012"
+    },
     {
       "time": "9:05 am",
       "artist": "Elliott Smith",
@@ -167,12 +173,6 @@
       "artist": "Foreigner",
       "title": "Urgent",
       "album": "4 • 1981"
-    },
-    {
-      "time": "7:34 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Under The Bridge",
-      "album": "Blood Sugar Sex Magik • 1992"
     }
   ]
 }
