@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-05T20:05:52",
+  "updatedAt": "2026-08-05T20:11:28",
   "now": {
-    "artist": "David Bowie",
-    "title": "I Can't Give Everything Away",
-    "album": "Blackstar • 2016",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Tiny Cities Made of Ashes",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:11 pm",
-      "artist": "Modest Mouse",
-      "title": "Tiny Cities Made of Ashes"
-    },
     {
       "time": "8:14 pm",
       "artist": "MGMT",
@@ -21,9 +16,25 @@
       "time": "8:18 pm",
       "artist": "Bon Iver",
       "title": "Holocene"
+    },
+    {
+      "time": "8:24 pm",
+      "artist": "Bette Midler",
+      "title": "From A Distance"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "title": "Summertime"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 pm",
+      "artist": "Modest Mouse",
+      "title": "Tiny Cities Made of Ashes",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "8:05 pm",
       "artist": "David Bowie",
@@ -167,12 +178,6 @@
       "artist": "The Jesus and Mary Chain",
       "title": "Head On",
       "album": "Automatic • 1989"
-    },
-    {
-      "time": "6:27 pm",
-      "artist": "Janet Jackson",
-      "title": "Let's Wait Awhile",
-      "album": "Control • 1987"
     }
   ]
 }
