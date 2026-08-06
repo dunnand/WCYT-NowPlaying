@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T07:15:06",
+  "updatedAt": "2026-08-06T07:17:50",
   "now": {
-    "artist": "Bo Diddley",
-    "title": "I'm A Man",
-    "album": "Bo Diddley • 1958",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Leif Erikson",
+    "album": "Turn on the Bright Lights • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:17 am",
-      "artist": "Interpol",
-      "title": "Leif Erikson"
-    },
     {
       "time": "7:21 am",
       "artist": "Ray Charles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:17 am",
+      "artist": "Interpol",
+      "title": "Leif Erikson",
+      "album": "Turn on the Bright Lights • 2002"
+    },
     {
       "time": "7:15 am",
       "artist": "Bo Diddley",
@@ -172,12 +173,6 @@
       "artist": "EPMD",
       "title": "So Wat Cha Sayin'",
       "album": "Unfinished Business • 1989"
-    },
-    {
-      "time": "5:32 am",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "I Want You",
-      "album": "Blood & Chocolate • 1986"
     }
   ]
 }
