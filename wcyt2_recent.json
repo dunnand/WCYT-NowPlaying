@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T17:08:19",
+  "updatedAt": "2026-08-06T17:12:14",
   "now": {
-    "artist": "John Mayer",
-    "title": "Daughters",
-    "album": "Heavier Things • 2005",
+    "artist": "The Beatles",
+    "title": "Honey Pie",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 pm",
-      "artist": "The Beatles",
-      "title": "Honey Pie"
-    },
     {
       "time": "5:14 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "5:22 pm",
       "artist": "Adele",
       "title": "Rolling In The Deep"
+    },
+    {
+      "time": "5:26 pm",
+      "artist": "Maroon 5",
+      "title": "This Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 pm",
+      "artist": "The Beatles",
+      "title": "Honey Pie",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "5:08 pm",
       "artist": "John Mayer",
@@ -172,12 +178,6 @@
       "artist": "Anna Kendrick",
       "title": "Cups",
       "album": "HA201311 6 • 2013"
-    },
-    {
-      "time": "3:21 pm",
-      "artist": "Interpol",
-      "title": "Roland",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
