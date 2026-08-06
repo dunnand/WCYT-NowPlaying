@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T08:57:04",
+  "updatedAt": "2026-08-06T08:57:14",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "King Gizzard & The Lizard Wizard",
+    "title": "Ataraxia",
+    "album": "L.W. • 2021",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 am",
-      "artist": "King Gizzard & The Lizard Wizard",
-      "title": "Ataraxia"
-    },
     {
       "time": "9:02 am",
       "artist": "Cocteau Twins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:57 am",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "title": "Ataraxia",
+      "album": "L.W. • 2021"
+    },
     {
       "time": "8:53 am",
       "artist": "Westside Cowboy",
@@ -172,12 +173,6 @@
       "artist": "Neko Case",
       "title": "Star Witness",
       "album": "Fox Confessor Brings The Flood • 2006"
-    },
-    {
-      "time": "7:31 am",
-      "artist": "Cassandra Jenkins",
-      "title": "Hard Drive",
-      "album": "An Overview on Phenomenal Nature • 2021"
     }
   ]
 }
