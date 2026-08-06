@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T04:46:06",
+  "updatedAt": "2026-08-06T04:50:22",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Gravity Rides Everything",
-    "album": "The Moon & Antarctica • 2000",
-    "category": "TUNES"
+    "artist": "Brandi Carlile",
+    "title": "The Joke",
+    "album": "By the Way, I Forgive You • 2018",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Brandi Carlile",
-      "title": "The Joke"
-    },
     {
       "time": "4:54 am",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "5:01 am",
       "artist": "Fats Domino",
       "title": "I Want To Walk You Home"
+    },
+    {
+      "time": "5:04 am",
+      "artist": "Pink Floyd",
+      "title": "Echoes"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Brandi Carlile",
+      "title": "The Joke",
+      "album": "By the Way, I Forgive You • 2018"
+    },
     {
       "time": "4:46 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Drake",
       "title": "Hotline Bling",
       "album": "Views • 2016"
-    },
-    {
-      "time": "3:16 am",
-      "artist": "The National",
-      "title": "Mistaken for Strangers",
-      "album": "Boxer • 2007"
     }
   ]
 }
