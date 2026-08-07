@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T20:03:12",
+  "updatedAt": "2026-08-06T20:06:03",
   "now": {
-    "artist": "Queen",
-    "title": "Killer Queen",
-    "album": "Sheer Heart Attack • 1975",
+    "artist": "Roy Orbison",
+    "title": "Running Scared",
+    "album": "Crying • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:06 pm",
-      "artist": "Roy Orbison",
-      "title": "Running Scared"
-    },
     {
       "time": "8:08 pm",
       "artist": "Cat Stevens",
@@ -26,9 +21,20 @@
       "time": "8:16 pm",
       "artist": "Perez Prado y Su Orquesta",
       "title": "Mambo No. 5"
+    },
+    {
+      "time": "8:19 pm",
+      "artist": "Klaxons",
+      "title": "Golden Skans"
     }
   ],
   "recent": [
+    {
+      "time": "8:06 pm",
+      "artist": "Roy Orbison",
+      "title": "Running Scared",
+      "album": "Crying • 1962"
+    },
     {
       "time": "8:03 pm",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "The Space Program",
       "album": "We got it from Here... Thank You 4 Your service • 2016"
-    },
-    {
-      "time": "6:23 pm",
-      "artist": "Nina Simone",
-      "title": "Four Women",
-      "album": "Wild Is the Wind • 1966"
     }
   ]
 }
