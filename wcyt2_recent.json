@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T09:24:21",
+  "updatedAt": "2026-08-07T09:27:43",
   "now": {
-    "artist": "David Bowie",
-    "title": "Beauty and the Beast",
-    "album": "Heroes • 1977",
+    "artist": "The Paragons",
+    "title": "The Tide Is High",
+    "album": "On the Beach • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 am",
-      "artist": "The Paragons",
-      "title": "The Tide Is High"
-    },
     {
       "time": "9:30 am",
       "artist": "Al Green",
@@ -26,9 +21,20 @@
       "time": "9:34 am",
       "artist": "Billy Joel",
       "title": "She's Always A Woman"
+    },
+    {
+      "time": "9:37 am",
+      "artist": "George Michael",
+      "title": "Freedom"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 am",
+      "artist": "The Paragons",
+      "title": "The Tide Is High",
+      "album": "On the Beach • 1967"
+    },
     {
       "time": "9:24 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "*NSYNC",
       "title": "It's Gonna Be Me",
       "album": "No Strings Attached • 2000"
-    },
-    {
-      "time": "7:49 am",
-      "artist": "Paul McCartney",
-      "title": "New",
-      "album": "New • 2013"
     }
   ]
 }
