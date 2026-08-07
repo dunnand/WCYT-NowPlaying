@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T14:54:19",
+  "updatedAt": "2026-08-07T14:56:44",
   "now": {
-    "artist": "Commodores",
-    "title": "Machine Gun",
-    "album": "Machine Gun • 1974",
+    "artist": "The Beatles",
+    "title": "Twist and Shout",
+    "album": "Please Please Me • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 pm",
-      "artist": "The Beatles",
-      "title": "Twist and Shout"
-    },
     {
       "time": "2:59 pm",
       "artist": "Curtis Mayfield",
@@ -26,9 +21,20 @@
       "time": "3:10 pm",
       "artist": "Chuck Berry",
       "title": "Memphis, Tennessee"
+    },
+    {
+      "time": "3:12 pm",
+      "artist": "Lightning Bolt",
+      "title": "Assassins"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 pm",
+      "artist": "The Beatles",
+      "title": "Twist and Shout",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "2:54 pm",
       "artist": "Commodores",
@@ -172,12 +178,6 @@
       "artist": "Katy Perry",
       "title": "Last Friday Night (TGIF)",
       "album": "Teenage Dream • 2010"
-    },
-    {
-      "time": "1:25 pm",
-      "artist": "The Apples in Stereo",
-      "title": "Tidal Wave",
-      "album": "Fun Trick Noisemaker • 1995"
     }
   ]
 }
