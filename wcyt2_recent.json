@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-07T00:49:06",
+  "updatedAt": "2026-08-07T00:53:01",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yer Blues",
-    "album": "The Beatles • 1968",
+    "artist": "Rod Stewart",
+    "title": "Every Picture Tells A Story",
+    "album": "Every Picture Tells a Story • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:53 am",
-      "artist": "Rod Stewart",
-      "title": "Every Picture Tells A Story"
-    },
-    {
-      "time": "12:59 am",
+      "time": "12:58 am",
       "artist": "Belle and Sebastian",
       "title": "If You're Feeling Sinister"
     },
@@ -26,9 +21,20 @@
       "time": "1:06 am",
       "artist": "PJ Harvey",
       "title": "A Place Called Home"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "The Beatles",
+      "title": "Money (That's What I Want)"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "Rod Stewart",
+      "title": "Every Picture Tells A Story",
+      "album": "Every Picture Tells a Story • 1971"
+    },
     {
       "time": "12:49 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Nirvana",
       "title": "You Know You're Right",
       "album": "Nirvana • 2002"
-    },
-    {
-      "time": "11:19 pm",
-      "artist": "Carl Perkins",
-      "title": "Blue Suede Shoes",
-      "album": "Dance Album of Carl Perkins • 1957"
     }
   ]
 }
