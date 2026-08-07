@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T10:57:49",
+  "updatedAt": "2026-08-07T11:02:20",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Two-Headed Boy",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Queen",
+    "title": "Who Wants to Live Forever",
+    "album": "A Kind of Magic • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:02 am",
-      "artist": "Queen",
-      "title": "Who Wants to Live Forever"
-    },
     {
       "time": "11:07 am",
       "artist": "The Wedding Present",
@@ -21,9 +16,20 @@
       "time": "11:12 am",
       "artist": "Bleachers",
       "title": "I Wanna Get Better"
+    },
+    {
+      "time": "11:16 am",
+      "artist": "Paul McCartney and Wings",
+      "title": "Listen To What The Man Said"
     }
   ],
   "recent": [
+    {
+      "time": "11:02 am",
+      "artist": "Queen",
+      "title": "Who Wants to Live Forever",
+      "album": "A Kind of Magic • 1986"
+    },
     {
       "time": "10:57 am",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Wild Honey Pie",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "9:30 am",
-      "artist": "Al Green",
-      "title": "Call Me (Come Back Home)",
-      "album": "Call Me • 1973"
     }
   ]
 }
