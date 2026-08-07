@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T19:35:09",
+  "updatedAt": "2026-08-07T19:38:14",
   "now": {
-    "artist": "The Beatles",
-    "title": "Penny Lane",
-    "album": "Magical Mystery Tour • 1967",
+    "artist": "The Beach Boys",
+    "title": "Surf's Up",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:38 pm",
-      "artist": "The Beach Boys",
-      "title": "Surf's Up"
-    },
     {
       "time": "7:42 pm",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "7:48 pm",
       "artist": "The New Pornographers",
       "title": "Letter From an Occupant"
+    },
+    {
+      "time": "7:52 pm",
+      "artist": "The Beatles",
+      "title": "I Call Your Name"
     }
   ],
   "recent": [
+    {
+      "time": "7:38 pm",
+      "artist": "The Beach Boys",
+      "title": "Surf's Up",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "7:35 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Prince",
       "title": "New Power Generation",
       "album": "Graffiti Bridge • 1990"
-    },
-    {
-      "time": "6:13 pm",
-      "artist": "PJ Harvey",
-      "title": "Missed",
-      "album": "Rid of Me • 1993"
     }
   ]
 }
