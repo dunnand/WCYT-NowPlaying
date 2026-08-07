@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:52:02",
+  "updatedAt": "2026-08-07T07:52:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "*NSYNC",
+    "title": "It's Gonna Be Me",
+    "album": "No Strings Attached • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:52 am",
-      "artist": "*NSYNC",
-      "title": "It's Gonna Be Me"
-    },
     {
       "time": "7:55 am",
       "artist": "The Microphones",
@@ -26,9 +21,20 @@
       "time": "8:02 am",
       "artist": "Soundgarden",
       "title": "Outshined"
+    },
+    {
+      "time": "8:07 am",
+      "artist": "R.E.M.",
+      "title": "Me in Honey"
     }
   ],
   "recent": [
+    {
+      "time": "7:52 am",
+      "artist": "*NSYNC",
+      "title": "It's Gonna Be Me",
+      "album": "No Strings Attached • 2000"
+    },
     {
       "time": "7:49 am",
       "artist": "Paul McCartney",
@@ -172,12 +178,6 @@
       "artist": "Talking Heads",
       "title": "Stay Up Late",
       "album": "Little Creatures • 1985"
-    },
-    {
-      "time": "6:13 am",
-      "artist": "Pure Prairie League",
-      "title": "Let Me Love You Tonight",
-      "album": "Firin Up • 1980"
     }
   ]
 }
