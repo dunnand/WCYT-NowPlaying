@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T02:35:57",
+  "updatedAt": "2026-08-07T02:36:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "The Name of the Game",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:36 am",
-      "artist": "ABBA",
-      "title": "The Name of the Game"
-    },
     {
       "time": "2:40 am",
       "artist": "The Ronettes",
@@ -26,9 +21,20 @@
       "time": "2:53 am",
       "artist": "Sleater",
       "title": "Kinney - Good Things"
+    },
+    {
+      "time": "2:56 am",
+      "artist": "Doris Day",
+      "title": "Whatever Will Be Will Be (Que Sera, Sera)"
     }
   ],
   "recent": [
+    {
+      "time": "2:36 am",
+      "artist": "ABBA",
+      "title": "The Name of the Game",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "2:33 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Money (That's What I Want)",
       "album": "With the Beatles • 1963"
-    },
-    {
-      "time": "1:06 am",
-      "artist": "PJ Harvey",
-      "title": "A Place Called Home",
-      "album": "Stories from the City, Stories from the Sea • 2000"
     }
   ]
 }
