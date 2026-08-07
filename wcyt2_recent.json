@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T16:29:20",
+  "updatedAt": "2026-08-07T16:33:04",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "What Would You Say",
-    "album": "Under The Table And Dreaming • 1994",
+    "artist": "U2",
+    "title": "Sunday Bloody Sunday",
+    "album": "War • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:32 pm",
-      "artist": "U2",
-      "title": "Sunday Bloody Sunday"
-    },
     {
       "time": "4:37 pm",
       "artist": "The Undertones",
@@ -21,9 +16,20 @@
       "time": "4:40 pm",
       "artist": "Bleachers",
       "title": "Rollercoaster"
+    },
+    {
+      "time": "4:43 pm",
+      "artist": "KISS",
+      "title": "Detroit Rock City"
     }
   ],
   "recent": [
+    {
+      "time": "4:33 pm",
+      "artist": "U2",
+      "title": "Sunday Bloody Sunday",
+      "album": "War • 1983"
+    },
     {
       "time": "4:29 pm",
       "artist": "Dave Matthews Band",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Twist and Shout",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "2:54 pm",
-      "artist": "Commodores",
-      "title": "Machine Gun",
-      "album": "Machine Gun • 1974"
     }
   ]
 }
