@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T21:58:12",
+  "updatedAt": "2026-08-06T22:02:53",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Wish You Were Here",
-    "album": "Wish You Were Here • 1975",
+    "artist": "The Beatles",
+    "title": "The Continuing Story Of Bungalow Bill",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:02 pm",
-      "artist": "The Beatles",
-      "title": "The Continuing Story Of Bungalow Bill"
-    },
     {
       "time": "10:06 pm",
       "artist": "Buckingham Nicks",
@@ -26,9 +21,20 @@
       "time": "10:10 pm",
       "artist": "David Bowie",
       "title": "Win"
+    },
+    {
+      "time": "10:15 pm",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Into the Great Wide Open"
     }
   ],
   "recent": [
+    {
+      "time": "10:02 pm",
+      "artist": "The Beatles",
+      "title": "The Continuing Story Of Bungalow Bill",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "9:58 pm",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Klaxons",
       "title": "Golden Skans",
       "album": "Myths of the Near Future • 2006"
-    },
-    {
-      "time": "8:16 pm",
-      "artist": "Perez Prado y Su Orquesta",
-      "title": "Mambo No. 5",
-      "album": "single • 1949"
     }
   ]
 }
