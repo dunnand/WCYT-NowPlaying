@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T09:50:07",
+  "updatedAt": "2026-08-07T09:50:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "If I Fell",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 am",
-      "artist": "The Beatles",
-      "title": "If I Fell"
-    },
     {
       "time": "9:52 am",
       "artist": "Pitbull",
@@ -26,9 +21,20 @@
       "time": "10:00 am",
       "artist": "Radiohead",
       "title": "(Nice Dream)"
+    },
+    {
+      "time": "10:04 am",
+      "artist": "Pixies",
+      "title": "Wave of Mutilation"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 am",
+      "artist": "The Beatles",
+      "title": "If I Fell",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "9:45 am",
       "artist": "Lupe Fiasco",
@@ -172,12 +178,6 @@
       "artist": "The Neighbourhood",
       "title": "Devil's Advocate",
       "album": "Chip Chrome & the Mono-Tones • 2020"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "Young MC",
-      "title": "Bust A Move",
-      "album": "Stone Cold Rhymin' • 1989"
     }
   ]
 }
