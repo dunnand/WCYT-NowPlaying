@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T09:30:25",
+  "updatedAt": "2026-08-07T09:30:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Al Green",
+    "title": "Call Me (Come Back Home)",
+    "album": "Call Me • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "Al Green",
-      "title": "Call Me (Come Back Home)"
-    },
     {
       "time": "9:33 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "9:44 am",
       "artist": "The Crickets",
       "title": "Maybe Baby"
+    },
+    {
+      "time": "9:46 am",
+      "artist": "Lupe Fiasco",
+      "title": "Kick, Push"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "Al Green",
+      "title": "Call Me (Come Back Home)",
+      "album": "Call Me • 1973"
+    },
     {
       "time": "9:27 am",
       "artist": "The Paragons",
@@ -177,12 +183,6 @@
       "artist": "The Microphones",
       "title": "Something",
       "album": "It Was Hot, We Stayed in the Water • 2000"
-    },
-    {
-      "time": "7:52 am",
-      "artist": "*NSYNC",
-      "title": "It's Gonna Be Me",
-      "album": "No Strings Attached • 2000"
     }
   ]
 }
