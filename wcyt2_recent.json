@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T21:34:58",
+  "updatedAt": "2026-08-06T21:35:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Beyonce",
+    "title": "Formation",
+    "album": "Lemonade • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 pm",
-      "artist": "Beyonce",
-      "title": "Formation"
-    },
     {
       "time": "9:38 pm",
       "artist": "The Chemical Brothers",
@@ -26,9 +21,20 @@
       "time": "9:49 pm",
       "artist": "The Cramps",
       "title": "I Was a Teenage Werewolf"
+    },
+    {
+      "time": "9:52 pm",
+      "artist": "The English Beat",
+      "title": "Tears of a Clown"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 pm",
+      "artist": "Beyonce",
+      "title": "Formation",
+      "album": "Lemonade • 2016"
+    },
     {
       "time": "9:31 pm",
       "artist": "Guided by Voices",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Idiot Wind",
       "album": "Blood On the Tracks • 1975"
-    },
-    {
-      "time": "7:48 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "vampire",
-      "album": "Guts • 2023"
     }
   ]
 }
