@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:27:37",
+  "updatedAt": "2026-08-07T07:27:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "Night Fever",
+    "album": "Saturday Night Fever • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:27 am",
-      "artist": "Bee Gees",
-      "title": "Night Fever"
-    },
     {
       "time": "7:31 am",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "7:40 am",
       "artist": "The Beatles",
       "title": "Lovely Rita"
+    },
+    {
+      "time": "7:43 am",
+      "artist": "John Prine",
+      "title": "Pretty Good"
     }
   ],
   "recent": [
+    {
+      "time": "7:27 am",
+      "artist": "Bee Gees",
+      "title": "Night Fever",
+      "album": "Saturday Night Fever • 1978"
+    },
     {
       "time": "7:25 am",
       "artist": "Thundercat",
@@ -172,12 +178,6 @@
       "artist": "Jamies",
       "title": "Summertime, Summertime",
       "album": "Single • 1958"
-    },
-    {
-      "time": "5:50 am",
-      "artist": "Brandy and Monica",
-      "title": "The Boy Is Mine",
-      "album": "Never Say Never / The Boy Is Mine • 1999"
     }
   ]
 }
