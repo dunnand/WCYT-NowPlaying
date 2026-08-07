@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T17:44:35",
+  "updatedAt": "2026-08-07T17:44:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Mayer",
+    "title": "No Such Thing",
+    "album": "Room for Squares • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "John Mayer",
-      "title": "No Such Thing"
-    },
     {
       "time": "5:48 pm",
       "artist": "The Beatles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "John Mayer",
+      "title": "No Such Thing",
+      "album": "Room for Squares • 2001"
+    },
     {
       "time": "5:40 pm",
       "artist": "Grateful Dead",
@@ -177,12 +178,6 @@
       "artist": "Iron & Wine",
       "title": "Each Coming Night",
       "album": "Our Endless Numbered Days • 2004"
-    },
-    {
-      "time": "4:15 pm",
-      "artist": "Gorillaz",
-      "title": "19-2000",
-      "album": "Gorillaz • 2001"
     }
   ]
 }
