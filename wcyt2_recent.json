@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T18:43:24",
+  "updatedAt": "2026-08-07T18:47:17",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Houses of the Holy",
-    "album": "Physical Graffiti • 1975",
+    "artist": "Sheryl Crow",
+    "title": "My Favorite Mistake",
+    "album": "The Globe Sessions • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:47 pm",
-      "artist": "Sheryl Crow",
-      "title": "My Favorite Mistake"
-    },
     {
       "time": "6:51 pm",
       "artist": "Kingston Trio",
@@ -26,9 +21,20 @@
       "time": "6:57 pm",
       "artist": "The Beatles",
       "title": "Dizzy Miss Lizzy"
+    },
+    {
+      "time": "7:00 pm",
+      "artist": "OK Go",
+      "title": "The Writing's On the Wall"
     }
   ],
   "recent": [
+    {
+      "time": "6:47 pm",
+      "artist": "Sheryl Crow",
+      "title": "My Favorite Mistake",
+      "album": "The Globe Sessions • 1998"
+    },
     {
       "time": "6:43 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Janet Jackson",
       "title": "Love Will Never Do Without You",
       "album": "Janet Jackson's Rhythm Nation 1814 • 1990"
-    },
-    {
-      "time": "5:14 pm",
-      "artist": "Depeche Mode",
-      "title": "Personal Jesus",
-      "album": "Violator • 1990"
     }
   ]
 }
