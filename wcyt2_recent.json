@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T19:51:48",
+  "updatedAt": "2026-08-07T19:51:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Call Your Name",
+    "album": "Long Tall Sally • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 pm",
-      "artist": "The Beatles",
-      "title": "I Call Your Name"
-    },
     {
       "time": "7:54 pm",
       "artist": "Kendrick Lamar",
@@ -26,9 +21,20 @@
       "time": "8:03 pm",
       "artist": "CAKE",
       "title": "Frank Sinatra"
+    },
+    {
+      "time": "8:07 pm",
+      "artist": "The Go",
+      "title": "Go's - Tonite"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 pm",
+      "artist": "The Beatles",
+      "title": "I Call Your Name",
+      "album": "Long Tall Sally • 1964"
+    },
     {
       "time": "7:48 pm",
       "artist": "The New Pornographers",
@@ -172,12 +178,6 @@
       "artist": "Pink Floyd",
       "title": "Another Brick in the Wall, Part 2",
       "album": "The Wall • 1979"
-    },
-    {
-      "time": "6:27 pm",
-      "artist": "Wilco",
-      "title": "All Lives, You Say?",
-      "album": "All Lives, You Say? • 2021"
     }
   ]
 }
