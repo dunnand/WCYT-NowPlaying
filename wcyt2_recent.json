@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T21:55:19",
+  "updatedAt": "2026-08-06T21:58:12",
   "now": {
-    "artist": "Superchunk",
-    "title": "Slack",
-    "album": "Superchunk •",
-    "category": "TUNES"
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "album": "Wish You Were Here • 1975",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:58 pm",
-      "artist": "Pink Floyd",
-      "title": "Wish You Were Here"
-    },
     {
       "time": "10:02 pm",
       "artist": "The Beatles",
@@ -21,9 +16,25 @@
       "time": "10:06 pm",
       "artist": "Buckingham Nicks",
       "title": "Crying in the Night"
+    },
+    {
+      "time": "10:09 pm",
+      "artist": "The Box Tops",
+      "title": "The Letter"
+    },
+    {
+      "time": "10:10 pm",
+      "artist": "David Bowie",
+      "title": "Win"
     }
   ],
   "recent": [
+    {
+      "time": "9:58 pm",
+      "artist": "Pink Floyd",
+      "title": "Wish You Were Here",
+      "album": "Wish You Were Here • 1975"
+    },
     {
       "time": "9:55 pm",
       "artist": "Superchunk",
@@ -167,12 +178,6 @@
       "artist": "Perez Prado y Su Orquesta",
       "title": "Mambo No. 5",
       "album": "single • 1949"
-    },
-    {
-      "time": "8:11 pm",
-      "artist": "Portishead",
-      "title": "Wandering Star",
-      "album": "Dummy • 1994"
     }
   ]
 }
