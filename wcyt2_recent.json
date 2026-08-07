@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T23:54:33",
+  "updatedAt": "2026-08-06T23:54:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "For You Blue",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:54 pm",
-      "artist": "The Beatles",
-      "title": "For You Blue"
-    },
     {
       "time": "11:57 pm",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "12:05 am",
       "artist": "The Beatles",
       "title": "Something"
+    },
+    {
+      "time": "12:08 am",
+      "artist": "Barbra Streisand & Neil Diamond",
+      "title": "You Don't Bring Me Flowers"
     }
   ],
   "recent": [
+    {
+      "time": "11:54 pm",
+      "artist": "The Beatles",
+      "title": "For You Blue",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "11:50 pm",
       "artist": "Hirokazu Ando, Jun Ishikawa, Shogo Sakai, Noriyuki Iwadare, Tadashi Ikegami, Akira Miyagawa, Hiroki Hashimoto, Hironobu Inagaki, Atsuyoshi Isemura, Nobuyoshi Kobayashi, Torine, Sho Okada, Rio Hamamoto, Kanaya Oki, Yoshinori Hirai",
@@ -172,12 +178,6 @@
       "artist": "The Crickets",
       "title": "That'll Be the Day",
       "album": "The Chirping Crickets • 1957"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Into the Great Wide Open",
-      "album": "Into the Great Wide Open • 1991"
     }
   ]
 }
