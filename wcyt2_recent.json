@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T05:02:55",
+  "updatedAt": "2026-08-07T05:07:13",
   "now": {
-    "artist": "Justin Timberlake",
-    "title": "Suit & Tie",
-    "album": "The 20/20 Experience • 2013",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "The Spark That Bled",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:07 am",
-      "artist": "The Flaming Lips",
-      "title": "The Spark That Bled"
-    },
     {
       "time": "5:13 am",
       "artist": "Guided by Voices",
@@ -21,9 +16,20 @@
       "time": "5:15 am",
       "artist": "Waylon Jennings",
       "title": "Theme From The Dukes Of Hazzard (Good Ol' Boys)"
+    },
+    {
+      "time": "5:18 am",
+      "artist": "The Kinks",
+      "title": "Living on a Thin Line"
     }
   ],
   "recent": [
+    {
+      "time": "5:07 am",
+      "artist": "The Flaming Lips",
+      "title": "The Spark That Bled",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "5:02 am",
       "artist": "Justin Timberlake",
@@ -167,12 +173,6 @@
       "artist": "James Taylor",
       "title": "Country Road",
       "album": "Sweet Baby James • 1970"
-    },
-    {
-      "time": "3:30 am",
-      "artist": "Elvis Costello",
-      "title": "(I Don't Want to Go to) Chelsea",
-      "album": "This Year's Model • 1978"
     }
   ]
 }
