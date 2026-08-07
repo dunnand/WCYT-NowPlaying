@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:52:14",
+  "updatedAt": "2026-08-07T07:55:19",
   "now": {
-    "artist": "*NSYNC",
-    "title": "It's Gonna Be Me",
-    "album": "No Strings Attached • 2000",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "Something",
+    "album": "It Was Hot, We Stayed in the Water • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:55 am",
-      "artist": "The Microphones",
-      "title": "Something"
-    },
     {
       "time": "7:59 am",
       "artist": "Justin Bieber",
@@ -26,9 +21,20 @@
       "time": "8:07 am",
       "artist": "R.E.M.",
       "title": "Me in Honey"
+    },
+    {
+      "time": "8:11 am",
+      "artist": "Bruce Springsteen",
+      "title": "The Ties That Bind"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "The Microphones",
+      "title": "Something",
+      "album": "It Was Hot, We Stayed in the Water • 2000"
+    },
     {
       "time": "7:52 am",
       "artist": "*NSYNC",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "UNDERWATER BOI",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "6:16 am",
-      "artist": "Talking Heads",
-      "title": "Stay Up Late",
-      "album": "Little Creatures • 1985"
     }
   ]
 }
