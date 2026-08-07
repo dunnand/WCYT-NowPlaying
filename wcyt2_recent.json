@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T11:07:44",
+  "updatedAt": "2026-08-07T11:12:29",
   "now": {
-    "artist": "The Wedding Present",
-    "title": "Brassneck",
-    "album": "Bizarro • 1989",
+    "artist": "Bleachers",
+    "title": "I Wanna Get Better",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "Bleachers",
-      "title": "I Wanna Get Better"
-    },
     {
       "time": "11:15 am",
       "artist": "Paul McCartney and Wings",
@@ -21,9 +16,20 @@
       "time": "11:19 am",
       "artist": "The Beatles",
       "title": "The End"
+    },
+    {
+      "time": "11:22 am",
+      "artist": "Steely Dan",
+      "title": "Fire In The Hole"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "Bleachers",
+      "title": "I Wanna Get Better",
+      "album": ""
+    },
     {
       "time": "11:07 am",
       "artist": "The Wedding Present",
@@ -167,12 +173,6 @@
       "artist": "George Michael",
       "title": "Freedom",
       "album": "Listen Without Prejudice Vol. 1 • 1990"
-    },
-    {
-      "time": "9:34 am",
-      "artist": "Billy Joel",
-      "title": "She's Always A Woman",
-      "album": "The Stranger • 1977"
     }
   ]
 }
