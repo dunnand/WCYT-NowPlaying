@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T00:45:38",
+  "updatedAt": "2026-08-07T00:46:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Loves Me Like A Rock",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "Paul Simon",
-      "title": "Loves Me Like A Rock"
-    },
     {
       "time": "12:49 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "1:04 am",
       "artist": "Elvis Presley",
       "title": "Mystery Train"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "PJ Harvey",
+      "title": "A Place Called Home"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "Paul Simon",
+      "title": "Loves Me Like A Rock",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "12:42 am",
       "artist": "The Mamas & The Papas",
@@ -177,12 +183,6 @@
       "artist": "Radiohead",
       "title": "Paranoid Android",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "11:08 pm",
-      "artist": "Eagles",
-      "title": "Heartache Tonight",
-      "album": "The Long Run • 1979"
     }
   ]
 }
