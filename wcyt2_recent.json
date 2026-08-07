@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T08:11:49",
+  "updatedAt": "2026-08-07T08:15:15",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "The Ties That Bind",
-    "album": "The River • 1980",
+    "artist": "Young MC",
+    "title": "Bust A Move",
+    "album": "Stone Cold Rhymin' • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 am",
-      "artist": "Young MC",
-      "title": "Bust A Move"
-    },
     {
       "time": "8:19 am",
       "artist": "The Neighbourhood",
@@ -21,9 +16,20 @@
       "time": "8:22 am",
       "artist": "The Who",
       "title": "Behind Blue Eyes"
+    },
+    {
+      "time": "8:26 am",
+      "artist": "The Beatles",
+      "title": "What You're Doing"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Young MC",
+      "title": "Bust A Move",
+      "album": "Stone Cold Rhymin' • 1989"
+    },
     {
       "time": "8:11 am",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "Elton John",
       "title": "Tonight",
       "album": "Blue Moves • 1976"
-    },
-    {
-      "time": "6:37 am",
-      "artist": "Lorde",
-      "title": "Royals",
-      "album": "Pure Heroine • 2013"
     }
   ]
 }
