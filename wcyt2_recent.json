@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T02:36:07",
+  "updatedAt": "2026-08-07T02:40:52",
   "now": {
-    "artist": "ABBA",
-    "title": "The Name of the Game",
-    "album": "ABBA: The Album • 1977",
+    "artist": "The Ronettes",
+    "title": "Be My Baby",
+    "album": "Presenting the Fabulous Ronettes Featuring Veronica • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 am",
-      "artist": "The Ronettes",
-      "title": "Be My Baby"
-    },
     {
       "time": "2:43 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "2:56 am",
       "artist": "Doris Day",
       "title": "Whatever Will Be Will Be (Que Sera, Sera)"
+    },
+    {
+      "time": "2:58 am",
+      "artist": "Justice",
+      "title": "Stress"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 am",
+      "artist": "The Ronettes",
+      "title": "Be My Baby",
+      "album": "Presenting the Fabulous Ronettes Featuring Veronica • 1964"
+    },
     {
       "time": "2:36 am",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "Heartaches and Pain",
       "album": "No Time For Dreaming • 2011"
-    },
-    {
-      "time": "1:10 am",
-      "artist": "The Beatles",
-      "title": "Money (That's What I Want)",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
