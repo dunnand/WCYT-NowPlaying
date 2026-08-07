@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T03:41:51",
+  "updatedAt": "2026-08-07T03:43:24",
   "now": {
-    "artist": "The Beatles",
-    "title": "Golden Slumbers",
-    "album": "Abbey Road • 1969",
+    "artist": "Ramones",
+    "title": "I Wanna Be Your Boyfriend",
+    "album": "Ramones • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 am",
-      "artist": "Ramones",
-      "title": "I Wanna Be Your Boyfriend"
-    },
     {
       "time": "3:45 am",
       "artist": "Yo La Tengo",
@@ -26,9 +21,20 @@
       "time": "3:54 am",
       "artist": "Peter Bjorn and John",
       "title": "Young Folk"
+    },
+    {
+      "time": "3:58 am",
+      "artist": "The Beatles",
+      "title": "A Day In The Life"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 am",
+      "artist": "Ramones",
+      "title": "I Wanna Be Your Boyfriend",
+      "album": "Ramones • 1976"
+    },
     {
       "time": "3:41 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "In the Arms of Sleep",
       "album": "Mellon Collie and the Infinite Sadness • 1995"
-    },
-    {
-      "time": "2:11 am",
-      "artist": "Against Me!",
-      "title": "Transgender Dysphoria Blues",
-      "album": "Transgender Dysphoria Blues • 2014"
     }
   ]
 }
