@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:35:40",
+  "updatedAt": "2026-08-07T07:40:36",
   "now": {
-    "artist": "Interpol",
-    "title": "PDA",
-    "album": "Turn on the Bright Lights • 2002",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Lovely Rita",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:40 am",
-      "artist": "The Beatles",
-      "title": "Lovely Rita"
-    },
     {
       "time": "7:43 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "7:49 am",
       "artist": "Paul McCartney",
       "title": "New"
+    },
+    {
+      "time": "7:52 am",
+      "artist": "*NSYNC",
+      "title": "It's Gonna Be Me"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 am",
+      "artist": "The Beatles",
+      "title": "Lovely Rita",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "7:35 am",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Frank Ocean",
       "title": "Self Control",
       "album": "Blonde • 2016"
-    },
-    {
-      "time": "5:59 am",
-      "artist": "The Who",
-      "title": "Tattoo",
-      "album": "The Who Sell Out • 1967"
     }
   ]
 }
