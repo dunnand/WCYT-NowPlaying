@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T23:24:52",
+  "updatedAt": "2026-08-06T23:27:55",
   "now": {
-    "artist": "The Beatles",
-    "title": "Love You To",
-    "album": "Revolver • 1966",
+    "artist": "Crystal Castles",
+    "title": "Not In Love",
+    "album": "• 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:27 pm",
-      "artist": "Crystal Castles",
-      "title": "Not In Love"
-    },
     {
       "time": "11:31 pm",
       "artist": "Annie Lennox",
@@ -21,9 +16,20 @@
       "time": "11:35 pm",
       "artist": "Fleetwood Mac",
       "title": "Silver Springs"
+    },
+    {
+      "time": "11:40 pm",
+      "artist": "The Waterboys",
+      "title": "This Is the Sea"
     }
   ],
   "recent": [
+    {
+      "time": "11:27 pm",
+      "artist": "Crystal Castles",
+      "title": "Not In Love",
+      "album": "• 2010"
+    },
     {
       "time": "11:24 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Wish You Were Here",
       "album": "Wish You Were Here • 1975"
-    },
-    {
-      "time": "9:55 pm",
-      "artist": "Superchunk",
-      "title": "Slack",
-      "album": "Superchunk •"
     }
   ]
 }
