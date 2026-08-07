@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T11:30:45",
+  "updatedAt": "2026-08-07T11:35:01",
   "now": {
-    "artist": "Weezer",
-    "title": "Say It Ain't So",
-    "album": "Weezer • 1994",
+    "artist": "Chuck Berry",
+    "title": "Roll Over Beethoven",
+    "album": "Berry Is on Top • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:34 am",
-      "artist": "Chuck Berry",
-      "title": "Roll Over Beethoven"
-    },
     {
       "time": "11:37 am",
       "artist": "The Mountain Goats",
@@ -26,9 +21,20 @@
       "time": "11:42 am",
       "artist": "Moses Sumney",
       "title": "Virile"
+    },
+    {
+      "time": "11:47 am",
+      "artist": "311",
+      "title": "Down"
     }
   ],
   "recent": [
+    {
+      "time": "11:35 am",
+      "artist": "Chuck Berry",
+      "title": "Roll Over Beethoven",
+      "album": "Berry Is on Top • 1959"
+    },
     {
       "time": "11:30 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "Wave of Mutilation",
       "album": "Doolittle • 1989"
-    },
-    {
-      "time": "10:00 am",
-      "artist": "Radiohead",
-      "title": "(Nice Dream)",
-      "album": "The Bends • 1995"
     }
   ]
 }
