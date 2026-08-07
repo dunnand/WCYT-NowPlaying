@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T03:30:23",
+  "updatedAt": "2026-08-07T03:33:28",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "(I Don't Want to Go to) Chelsea",
-    "album": "This Year's Model • 1978",
+    "artist": "James Taylor",
+    "title": "Country Road",
+    "album": "Sweet Baby James • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:33 am",
-      "artist": "James Taylor",
-      "title": "Country Road"
-    },
     {
       "time": "3:37 am",
       "artist": "Justin Timberlake",
@@ -26,9 +21,20 @@
       "time": "3:43 am",
       "artist": "Ramones",
       "title": "I Wanna Be Your Boyfriend"
+    },
+    {
+      "time": "3:45 am",
+      "artist": "Yo La Tengo",
+      "title": "Speeding Motorcycle"
     }
   ],
   "recent": [
+    {
+      "time": "3:33 am",
+      "artist": "James Taylor",
+      "title": "Country Road",
+      "album": "Sweet Baby James • 1970"
+    },
     {
       "time": "3:30 am",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Orange Juice",
       "title": "Blue Boy",
       "album": "The Glasgow School • 2005"
-    },
-    {
-      "time": "2:00 am",
-      "artist": "Childish Gambino",
-      "title": "Sober",
-      "album": "STN MTN / Kauai • 2014"
     }
   ]
 }
