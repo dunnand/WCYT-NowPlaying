@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T13:20:39",
+  "updatedAt": "2026-08-07T13:23:16",
   "now": {
-    "artist": "The Beatles",
-    "title": "Mr. Moonlight",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Ann Peebles",
+    "title": "I Can't Stand The Rain",
+    "album": "I Can't Stand The Rain • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:23 pm",
-      "artist": "Ann Peebles",
-      "title": "I Can't Stand The Rain"
-    },
     {
       "time": "1:25 pm",
       "artist": "The Apples in Stereo",
@@ -26,9 +21,20 @@
       "time": "1:32 pm",
       "artist": "Nine Inch Nails",
       "title": "The Hand That Feeds"
+    },
+    {
+      "time": "1:36 pm",
+      "artist": "OK Go",
+      "title": "A Million Ways"
     }
   ],
   "recent": [
+    {
+      "time": "1:23 pm",
+      "artist": "Ann Peebles",
+      "title": "I Can't Stand The Rain",
+      "album": "I Can't Stand The Rain • 1974"
+    },
     {
       "time": "1:20 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "311",
       "title": "Down",
       "album": "311 • 1995"
-    },
-    {
-      "time": "11:42 am",
-      "artist": "Moses Sumney",
-      "title": "Virile",
-      "album": "Aromanticism • 2017"
     }
   ]
 }
