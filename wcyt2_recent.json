@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T19:31:55",
+  "updatedAt": "2026-08-07T19:35:09",
   "now": {
-    "artist": "The Buggles",
-    "title": "Video Killed The Radio Star",
-    "album": "The Age of Plastic • 1979",
+    "artist": "The Beatles",
+    "title": "Penny Lane",
+    "album": "Magical Mystery Tour • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:35 pm",
-      "artist": "The Beatles",
-      "title": "Penny Lane"
-    },
     {
       "time": "7:38 pm",
       "artist": "The Beach Boys",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:35 pm",
+      "artist": "The Beatles",
+      "title": "Penny Lane",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "7:31 pm",
       "artist": "The Buggles",
@@ -177,12 +178,6 @@
       "artist": "PJ Harvey",
       "title": "Missed",
       "album": "Rid of Me • 1993"
-    },
-    {
-      "time": "6:09 pm",
-      "artist": "Radiohead",
-      "title": "Codex",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
