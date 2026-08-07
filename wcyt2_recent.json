@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T11:35:01",
+  "updatedAt": "2026-08-07T11:37:23",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Roll Over Beethoven",
-    "album": "Berry Is on Top • 1959",
-    "category": "AUDIO"
+    "artist": "The Mountain Goats",
+    "title": "No Children",
+    "album": "Tallahassee • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:37 am",
-      "artist": "The Mountain Goats",
-      "title": "No Children"
-    },
     {
       "time": "11:40 am",
       "artist": "The Sonics",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:37 am",
+      "artist": "The Mountain Goats",
+      "title": "No Children",
+      "album": "Tallahassee • 2003"
+    },
     {
       "time": "11:35 am",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "Prince and The Revolution",
       "title": "Raspberry Beret",
       "album": "Around the World in a Day • 1985"
-    },
-    {
-      "time": "10:03 am",
-      "artist": "Pixies",
-      "title": "Wave of Mutilation",
-      "album": "Doolittle • 1989"
     }
   ]
 }
