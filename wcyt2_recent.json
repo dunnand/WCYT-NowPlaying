@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T00:46:00",
+  "updatedAt": "2026-08-07T00:49:06",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Loves Me Like A Rock",
-    "album": "There Goes Rhymin Simon • 1973",
+    "artist": "The Beatles",
+    "title": "Yer Blues",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "The Beatles",
-      "title": "Yer Blues"
-    },
     {
       "time": "12:53 am",
       "artist": "Rod Stewart",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "The Beatles",
+      "title": "Yer Blues",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:46 am",
       "artist": "Paul Simon",
@@ -177,12 +178,6 @@
       "artist": "Carl Perkins",
       "title": "Blue Suede Shoes",
       "album": "Dance Album of Carl Perkins • 1957"
-    },
-    {
-      "time": "11:12 pm",
-      "artist": "Radiohead",
-      "title": "Paranoid Android",
-      "album": "OK Computer • 1997"
     }
   ]
 }
