@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T00:40:19",
+  "updatedAt": "2026-08-07T00:40:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "The Needle and the Damage Done",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 am",
-      "artist": "Neil Young",
-      "title": "The Needle and the Damage Done"
-    },
     {
       "time": "12:42 am",
       "artist": "The Mamas & The Papas",
@@ -26,9 +21,20 @@
       "time": "12:49 am",
       "artist": "The Beatles",
       "title": "Yer Blues"
+    },
+    {
+      "time": "12:53 am",
+      "artist": "Rod Stewart",
+      "title": "Every Picture Tells A Story"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "Neil Young",
+      "title": "The Needle and the Damage Done",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "12:37 am",
       "artist": "Nintendo",
@@ -172,12 +178,6 @@
       "artist": "Baauer",
       "title": "Harlem Shake",
       "album": "single • 2012"
-    },
-    {
-      "time": "11:02 pm",
-      "artist": "Linkin Park",
-      "title": "In The End",
-      "album": "Hybrid Theory • 2001"
     }
   ]
 }
