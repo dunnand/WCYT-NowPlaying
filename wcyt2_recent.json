@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T23:19:03",
+  "updatedAt": "2026-08-06T23:21:19",
   "now": {
-    "artist": "Carl Perkins",
-    "title": "Blue Suede Shoes",
-    "album": "Dance Album of Carl Perkins • 1957",
+    "artist": "Nirvana",
+    "title": "You Know You're Right",
+    "album": "Nirvana • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:21 pm",
-      "artist": "Nirvana",
-      "title": "You Know You're Right"
-    },
     {
       "time": "11:24 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "11:27 pm",
       "artist": "Crystal Castles",
       "title": "Not In Love"
+    },
+    {
+      "time": "11:31 pm",
+      "artist": "Annie Lennox",
+      "title": "Walking On Broken Glass"
     }
   ],
   "recent": [
+    {
+      "time": "11:21 pm",
+      "artist": "Nirvana",
+      "title": "You Know You're Right",
+      "album": "Nirvana • 2002"
+    },
     {
       "time": "11:19 pm",
       "artist": "Carl Perkins",
@@ -167,12 +173,6 @@
       "artist": "The English Beat",
       "title": "Tears of a Clown",
       "album": "I Just Can't Stop It • 1980"
-    },
-    {
-      "time": "9:49 pm",
-      "artist": "The Cramps",
-      "title": "I Was a Teenage Werewolf",
-      "album": "Songs the Lord Taught Us • 1989"
     }
   ]
 }
