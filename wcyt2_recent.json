@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T01:09:55",
+  "updatedAt": "2026-08-07T01:10:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Money (That's What I Want)",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "The Beatles",
-      "title": "Money (That's What I Want)"
-    },
     {
       "time": "1:13 am",
       "artist": "Charles Bradley",
@@ -26,9 +21,20 @@
       "time": "1:18 am",
       "artist": "Elliott Smith",
       "title": "Bottle Up and Explode!"
+    },
+    {
+      "time": "1:21 am",
+      "artist": "Wipers",
+      "title": "Mystery"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "The Beatles",
+      "title": "Money (That's What I Want)",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "1:06 am",
       "artist": "PJ Harvey",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "Silver Springs",
       "album": "The Dance (1997) • 1997"
-    },
-    {
-      "time": "11:31 pm",
-      "artist": "Annie Lennox",
-      "title": "Walking On Broken Glass",
-      "album": "Diva • 1992"
     }
   ]
 }
