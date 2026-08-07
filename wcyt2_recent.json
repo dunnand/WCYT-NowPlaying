@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T21:03:58",
+  "updatedAt": "2026-08-06T21:07:13",
   "now": {
-    "artist": "My Chemical Romance",
-    "title": "Dead!",
-    "album": "The Black Parade • 2006",
+    "artist": "The Velvet Underground",
+    "title": "Run Run Run",
+    "album": "The Velvet Underground & Nico • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "The Velvet Underground",
-      "title": "Run Run Run"
-    },
     {
       "time": "9:11 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "9:20 pm",
       "artist": "Christina Perri",
       "title": "A Thousand Years"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "Interpol",
+      "title": "Stella Was a Diver and She Was Always Down"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "The Velvet Underground",
+      "title": "Run Run Run",
+      "album": "The Velvet Underground & Nico • 1967"
+    },
     {
       "time": "9:03 pm",
       "artist": "My Chemical Romance",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Calamity Song",
       "album": "The King Is Dead • 2011"
-    },
-    {
-      "time": "7:24 pm",
-      "artist": "My Morning Jacket",
-      "title": "The Way That He Sings",
-      "album": "At Dawn • 2001"
     }
   ]
 }
