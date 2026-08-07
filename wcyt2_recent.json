@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-07T08:58:56",
+  "updatedAt": "2026-08-07T09:01:01",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Big Me",
-    "album": "Foo Fighters • 1995",
+    "artist": "Madonna",
+    "title": "Frozen",
+    "album": "Ray of Light • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "9:00 am",
-      "artist": "Madonna",
-      "title": "Frozen"
-    },
-    {
-      "time": "9:06 am",
+      "time": "9:05 am",
       "artist": "William Onyeabor",
       "title": "Good Name"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:01 am",
+      "artist": "Madonna",
+      "title": "Frozen",
+      "album": "Ray of Light • 1998"
+    },
     {
       "time": "8:58 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Interpol",
       "title": "PDA",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "7:31 am",
-      "artist": "Doobie Brothers",
-      "title": "Jesus Is Just Alright",
-      "album": "Toulouse Street • 1972"
     }
   ]
 }
