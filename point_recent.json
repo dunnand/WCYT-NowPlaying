@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T00:46:42",
+  "updatedAt": "2026-08-07T00:46:53",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "No Distraction",
+    "album": "Colors • 2017",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "Beck",
-      "title": "No Distraction"
-    },
     {
       "time": "12:51 am",
       "artist": "Father John Misty",
@@ -26,9 +21,20 @@
       "time": "1:00 am",
       "artist": "Mac DeMarco",
       "title": "Brother"
+    },
+    {
+      "time": "1:03 am",
+      "artist": "Toro y Moi",
+      "title": "Ordinary Pleasure"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "Beck",
+      "title": "No Distraction",
+      "album": "Colors • 2017"
+    },
     {
       "time": "12:42 am",
       "artist": "Steve Gunn with Mdou Moctar",
@@ -172,12 +178,6 @@
       "artist": "Ty Segall",
       "title": "Black Paint",
       "album": "Chrome • 2026"
-    },
-    {
-      "time": "11:15 pm",
-      "artist": "The Weirdos",
-      "title": "We Got the Neutron Bomb",
-      "album": "(single) • 1978"
     }
   ]
 }
