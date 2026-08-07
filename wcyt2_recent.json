@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T09:33:29",
+  "updatedAt": "2026-08-07T09:34:29",
   "now": {
-    "artist": "The Beatles",
-    "title": "Wild Honey Pie",
-    "album": "The Beatles • 1968",
+    "artist": "Billy Joel",
+    "title": "She's Always A Woman",
+    "album": "The Stranger • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:34 am",
-      "artist": "Billy Joel",
-      "title": "She's Always A Woman"
-    },
     {
       "time": "9:37 am",
       "artist": "George Michael",
@@ -23,12 +18,23 @@
       "title": "Maybe Baby"
     },
     {
-      "time": "9:46 am",
+      "time": "9:45 am",
       "artist": "Lupe Fiasco",
       "title": "Kick, Push"
+    },
+    {
+      "time": "9:50 am",
+      "artist": "The Beatles",
+      "title": "If I Fell"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 am",
+      "artist": "Billy Joel",
+      "title": "She's Always A Woman",
+      "album": "The Stranger • 1977"
+    },
     {
       "time": "9:33 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Soundgarden",
       "title": "Outshined",
       "album": "Badmotorfinger • 1991"
-    },
-    {
-      "time": "7:59 am",
-      "artist": "Justin Bieber",
-      "title": "Sorry",
-      "album": "Purpose • 2015"
     }
   ]
 }
