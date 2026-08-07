@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T00:18:15",
+  "updatedAt": "2026-08-07T00:22:12",
   "now": {
-    "artist": "Beach House",
-    "title": "Norway",
-    "album": "Teen Dream • 2010",
-    "category": "TUNES"
+    "artist": "Concrete Blonde",
+    "title": "Joey",
+    "album": "Bloodletting • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:22 am",
-      "artist": "Concrete Blonde",
-      "title": "Joey"
-    },
     {
       "time": "12:26 am",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "12:33 am",
       "artist": "Van Halen",
       "title": "Finish What Ya Started"
+    },
+    {
+      "time": "12:38 am",
+      "artist": "Nintendo",
+      "title": "SNES Donut Plains (Super Mario Kart)"
     }
   ],
   "recent": [
+    {
+      "time": "12:22 am",
+      "artist": "Concrete Blonde",
+      "title": "Joey",
+      "album": "Bloodletting • 1990"
+    },
     {
       "time": "12:18 am",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "The The",
       "title": "The Beat(en) Generation",
       "album": "Mind Bomb • 1989"
-    },
-    {
-      "time": "10:39 pm",
-      "artist": "The Stone Roses",
-      "title": "She Bangs the Drums",
-      "album": "The Stones Roses • 1989"
     }
   ]
 }
