@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:59:05",
+  "updatedAt": "2026-08-07T07:59:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Justin Bieber",
+    "title": "Sorry",
+    "album": "Purpose • 2015",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:59 am",
-      "artist": "Justin Bieber",
-      "title": "Sorry"
-    },
     {
       "time": "8:02 am",
       "artist": "Soundgarden",
@@ -26,9 +21,20 @@
       "time": "8:11 am",
       "artist": "Bruce Springsteen",
       "title": "The Ties That Bind"
+    },
+    {
+      "time": "8:15 am",
+      "artist": "Young MC",
+      "title": "Bust A Move"
     }
   ],
   "recent": [
+    {
+      "time": "7:59 am",
+      "artist": "Justin Bieber",
+      "title": "Sorry",
+      "album": "Purpose • 2015"
+    },
     {
       "time": "7:55 am",
       "artist": "The Microphones",
@@ -172,12 +178,6 @@
       "artist": "of Montreal",
       "title": "Suffer for Fashion",
       "album": "Hissing Fauna, Are You The Destroyer • 2007"
-    },
-    {
-      "time": "6:20 am",
-      "artist": "Turnstile",
-      "title": "UNDERWATER BOI",
-      "album": "GLOW ON • 2021"
     }
   ]
 }
