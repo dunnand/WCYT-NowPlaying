@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T21:52:53",
+  "updatedAt": "2026-08-06T21:55:19",
   "now": {
-    "artist": "The English Beat",
-    "title": "Tears of a Clown",
-    "album": "I Just Can't Stop It • 1980",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Slack",
+    "album": "Superchunk •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:55 pm",
-      "artist": "Superchunk",
-      "title": "Slack"
-    },
     {
       "time": "9:58 pm",
       "artist": "Pink Floyd",
@@ -21,9 +16,20 @@
       "time": "10:02 pm",
       "artist": "The Beatles",
       "title": "The Continuing Story Of Bungalow Bill"
+    },
+    {
+      "time": "10:06 pm",
+      "artist": "Buckingham Nicks",
+      "title": "Crying in the Night"
     }
   ],
   "recent": [
+    {
+      "time": "9:55 pm",
+      "artist": "Superchunk",
+      "title": "Slack",
+      "album": "Superchunk •"
+    },
     {
       "time": "9:52 pm",
       "artist": "The English Beat",
@@ -167,12 +173,6 @@
       "artist": "Portishead",
       "title": "Wandering Star",
       "album": "Dummy • 1994"
-    },
-    {
-      "time": "8:08 pm",
-      "artist": "Cat Stevens",
-      "title": "Wild World",
-      "album": "Tea for the Tillerman • 1970"
     }
   ]
 }
