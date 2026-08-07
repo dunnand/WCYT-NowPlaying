@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T23:21:19",
+  "updatedAt": "2026-08-06T23:24:52",
   "now": {
-    "artist": "Nirvana",
-    "title": "You Know You're Right",
-    "album": "Nirvana • 2002",
+    "artist": "The Beatles",
+    "title": "Love You To",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:24 pm",
-      "artist": "The Beatles",
-      "title": "Love You To"
-    },
     {
       "time": "11:27 pm",
       "artist": "Crystal Castles",
@@ -21,9 +16,20 @@
       "time": "11:31 pm",
       "artist": "Annie Lennox",
       "title": "Walking On Broken Glass"
+    },
+    {
+      "time": "11:35 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Silver Springs"
     }
   ],
   "recent": [
+    {
+      "time": "11:24 pm",
+      "artist": "The Beatles",
+      "title": "Love You To",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "11:21 pm",
       "artist": "Nirvana",
@@ -167,12 +173,6 @@
       "artist": "Superchunk",
       "title": "Slack",
       "album": "Superchunk •"
-    },
-    {
-      "time": "9:52 pm",
-      "artist": "The English Beat",
-      "title": "Tears of a Clown",
-      "album": "I Just Can't Stop It • 1980"
     }
   ]
 }
