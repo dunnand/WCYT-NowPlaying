@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:31:12",
+  "updatedAt": "2026-08-07T07:35:40",
   "now": {
-    "artist": "Doobie Brothers",
-    "title": "Jesus Is Just Alright",
-    "album": "Toulouse Street • 1972",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "PDA",
+    "album": "Turn on the Bright Lights • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:35 am",
-      "artist": "Interpol",
-      "title": "PDA"
-    },
     {
       "time": "7:40 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:46 am",
       "artist": "Sebadoh",
       "title": "Skull"
+    },
+    {
+      "time": "7:49 am",
+      "artist": "Paul McCartney",
+      "title": "New"
     }
   ],
   "recent": [
+    {
+      "time": "7:35 am",
+      "artist": "Interpol",
+      "title": "PDA",
+      "album": "Turn on the Bright Lights • 2002"
+    },
     {
       "time": "7:31 am",
       "artist": "Doobie Brothers",
@@ -172,12 +178,6 @@
       "artist": "The Who",
       "title": "Tattoo",
       "album": "The Who Sell Out • 1967"
-    },
-    {
-      "time": "5:56 am",
-      "artist": "Phoenix",
-      "title": "1901",
-      "album": "Wolfgang Amadeus Phoenix • 2009"
     }
   ]
 }
