@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T19:52:35",
+  "updatedAt": "2026-08-06T20:00:15",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Idiot Wind",
-    "album": "Blood On the Tracks • 1975",
+    "artist": "Percy Sledge",
+    "title": "When A Man Loves A Woman",
+    "album": "When a Man Loves a Woman • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "Percy Sledge",
-      "title": "When A Man Loves A Woman"
-    },
     {
       "time": "8:03 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "8:08 pm",
       "artist": "Cat Stevens",
       "title": "Wild World"
+    },
+    {
+      "time": "8:11 pm",
+      "artist": "Portishead",
+      "title": "Wandering Star"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "Percy Sledge",
+      "title": "When A Man Loves A Woman",
+      "album": "When a Man Loves a Woman • 1966"
+    },
     {
       "time": "7:52 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Uprising",
       "album": "The Resistance • 2009"
-    },
-    {
-      "time": "6:15 pm",
-      "artist": "Bill Haley & His Comets",
-      "title": "See You Later, Alligator",
-      "album": "Rockin' the Joint • 1958"
     }
   ]
 }
