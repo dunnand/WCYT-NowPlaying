@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T03:58:37",
+  "updatedAt": "2026-08-07T03:58:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "A Day In The Life",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 am",
-      "artist": "The Beatles",
-      "title": "A Day In The Life"
-    },
     {
       "time": "4:04 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "4:14 am",
       "artist": "The Magnetic Fields",
       "title": "The Book of Love"
+    },
+    {
+      "time": "4:17 am",
+      "artist": "The Cult",
+      "title": "She Sells Sanctuary"
     }
   ],
   "recent": [
+    {
+      "time": "3:58 am",
+      "artist": "The Beatles",
+      "title": "A Day In The Life",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "3:54 am",
       "artist": "Peter Bjorn and John",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "You'll miss me when I'm not around",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "2:24 am",
-      "artist": "Social Distortion",
-      "title": "Mommy's Little Monster",
-      "album": "Mommys Little Monster • 1983"
     }
   ]
 }
