@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:46:46",
+  "updatedAt": "2026-08-07T07:49:09",
   "now": {
-    "artist": "Sebadoh",
-    "title": "Skull",
-    "album": "Bakesale • 1994",
-    "category": "TUNES"
+    "artist": "Paul McCartney",
+    "title": "New",
+    "album": "New • 2013",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:49 am",
-      "artist": "Paul McCartney",
-      "title": "New"
-    },
     {
       "time": "7:52 am",
       "artist": "*NSYNC",
@@ -21,9 +16,20 @@
       "time": "7:55 am",
       "artist": "The Microphones",
       "title": "Something"
+    },
+    {
+      "time": "7:59 am",
+      "artist": "Justin Bieber",
+      "title": "Sorry"
     }
   ],
   "recent": [
+    {
+      "time": "7:49 am",
+      "artist": "Paul McCartney",
+      "title": "New",
+      "album": "New • 2013"
+    },
     {
       "time": "7:46 am",
       "artist": "Sebadoh",
@@ -167,12 +173,6 @@
       "artist": "Pure Prairie League",
       "title": "Let Me Love You Tonight",
       "album": "Firin Up • 1980"
-    },
-    {
-      "time": "6:10 am",
-      "artist": "Nirvana.",
-      "title": "On a Plain",
-      "album": "Nevermind • 1991"
     }
   ]
 }
