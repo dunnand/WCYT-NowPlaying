@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T18:18:23",
+  "updatedAt": "2026-08-07T18:21:59",
   "now": {
-    "artist": "Prince",
-    "title": "New Power Generation",
-    "album": "Graffiti Bridge • 1990",
+    "artist": "R.E.M.",
+    "title": "The One I Love",
+    "album": "Document • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:21 pm",
-      "artist": "R.E.M.",
-      "title": "The One I Love"
-    },
     {
       "time": "6:25 pm",
       "artist": "Soft Cell",
@@ -21,9 +16,20 @@
       "time": "6:27 pm",
       "artist": "Wilco",
       "title": "All Lives, You Say?"
+    },
+    {
+      "time": "6:30 pm",
+      "artist": "Pink Floyd",
+      "title": "Another Brick in the Wall, Part 2"
     }
   ],
   "recent": [
+    {
+      "time": "6:21 pm",
+      "artist": "R.E.M.",
+      "title": "The One I Love",
+      "album": "Document • 1987"
+    },
     {
       "time": "6:18 pm",
       "artist": "Prince",
@@ -167,12 +173,6 @@
       "artist": "The Kinks",
       "title": "Tired of Waiting for You",
       "album": "Kinda Kinks • 1965"
-    },
-    {
-      "time": "4:50 pm",
-      "artist": "Sparks",
-      "title": "Amateur Hour",
-      "album": "Kimono My House • 1974"
     }
   ]
 }
