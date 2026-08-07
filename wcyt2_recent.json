@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T19:38:14",
+  "updatedAt": "2026-08-07T19:42:17",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Surf's Up",
-    "album": "Surf's Up • 1971",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Mixed Bizness",
+    "album": "Midnite Vultures • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:42 pm",
-      "artist": "Beck",
-      "title": "Mixed Bizness"
-    },
     {
       "time": "7:45 pm",
       "artist": "Ricky Nelson",
@@ -23,12 +18,23 @@
       "title": "Letter From an Occupant"
     },
     {
-      "time": "7:52 pm",
+      "time": "7:51 pm",
       "artist": "The Beatles",
       "title": "I Call Your Name"
+    },
+    {
+      "time": "7:54 pm",
+      "artist": "Kendrick Lamar",
+      "title": "These Walls feat. Bilal,  Anna Wise, Thundercat"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 pm",
+      "artist": "Beck",
+      "title": "Mixed Bizness",
+      "album": "Midnite Vultures • 1999"
+    },
     {
       "time": "7:38 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "The One I Love",
       "album": "Document • 1987"
-    },
-    {
-      "time": "6:18 pm",
-      "artist": "Prince",
-      "title": "New Power Generation",
-      "album": "Graffiti Bridge • 1990"
     }
   ]
 }
