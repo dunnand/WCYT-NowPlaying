@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T09:30:35",
+  "updatedAt": "2026-08-07T09:33:29",
   "now": {
-    "artist": "Al Green",
-    "title": "Call Me (Come Back Home)",
-    "album": "Call Me • 1973",
+    "artist": "The Beatles",
+    "title": "Wild Honey Pie",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:33 am",
-      "artist": "The Beatles",
-      "title": "Wild Honey Pie"
-    },
     {
       "time": "9:34 am",
       "artist": "Billy Joel",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:33 am",
+      "artist": "The Beatles",
+      "title": "Wild Honey Pie",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "9:30 am",
       "artist": "Al Green",
@@ -177,12 +178,6 @@
       "artist": "Justin Bieber",
       "title": "Sorry",
       "album": "Purpose • 2015"
-    },
-    {
-      "time": "7:55 am",
-      "artist": "The Microphones",
-      "title": "Something",
-      "album": "It Was Hot, We Stayed in the Water • 2000"
     }
   ]
 }
