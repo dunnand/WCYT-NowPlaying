@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T08:46:40",
+  "updatedAt": "2026-08-07T08:46:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Hold Steady",
+    "title": "Stuck Between Stations",
+    "album": "Boys and Girls in America • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:46 am",
-      "artist": "The Hold Steady",
-      "title": "Stuck Between Stations"
-    },
     {
       "time": "8:50 am",
       "artist": "Kaiser Chiefs",
@@ -26,9 +21,20 @@
       "time": "8:58 am",
       "artist": "Foo Fighters",
       "title": "Big Me"
+    },
+    {
+      "time": "9:01 am",
+      "artist": "Madonna",
+      "title": "Frozen"
     }
   ],
   "recent": [
+    {
+      "time": "8:46 am",
+      "artist": "The Hold Steady",
+      "title": "Stuck Between Stations",
+      "album": "Boys and Girls in America • 2006"
+    },
     {
       "time": "8:43 am",
       "artist": "Kendrick Lamar",
@@ -172,12 +178,6 @@
       "artist": "The Who",
       "title": "Eminence Front",
       "album": "It's Hard • 1982"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "The Church",
-      "title": "Under the Milky Way",
-      "album": "Under the Milky Way • 1988"
     }
   ]
 }
