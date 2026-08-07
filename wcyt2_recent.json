@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T02:04:32",
+  "updatedAt": "2026-08-07T02:04:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Orange Juice",
+    "title": "Blue Boy",
+    "album": "The Glasgow School • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:04 am",
-      "artist": "Orange Juice",
-      "title": "Blue Boy"
-    },
     {
       "time": "2:07 am",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "2:14 am",
       "artist": "The Smashing Pumpkins",
       "title": "In the Arms of Sleep"
+    },
+    {
+      "time": "2:18 am",
+      "artist": "Green Day",
+      "title": "In the End"
     }
   ],
   "recent": [
+    {
+      "time": "2:04 am",
+      "artist": "Orange Juice",
+      "title": "Blue Boy",
+      "album": "The Glasgow School • 2005"
+    },
     {
       "time": "2:00 am",
       "artist": "Childish Gambino",
@@ -172,12 +178,6 @@
       "artist": "Van Halen",
       "title": "Finish What Ya Started",
       "album": "OU812 • 1988"
-    },
-    {
-      "time": "12:29 am",
-      "artist": "Toto",
-      "title": "Africa",
-      "album": "Toto IV • 1982"
     }
   ]
 }
