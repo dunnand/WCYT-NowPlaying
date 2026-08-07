@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T22:15:30",
+  "updatedAt": "2026-08-06T22:19:15",
   "now": {
-    "artist": "Tom Petty and the Heartbreakers",
-    "title": "Into the Great Wide Open",
-    "album": "Into the Great Wide Open • 1991",
+    "artist": "The Crickets",
+    "title": "That'll Be the Day",
+    "album": "The Chirping Crickets • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:19 pm",
-      "artist": "The Crickets",
-      "title": "That'll Be the Day"
-    },
     {
       "time": "10:21 pm",
       "artist": "My Chemical Romance",
@@ -26,9 +21,20 @@
       "time": "10:27 pm",
       "artist": "Bruno Mars",
       "title": "Locked Out Of Heaven"
+    },
+    {
+      "time": "10:31 pm",
+      "artist": "Wilson Phillips",
+      "title": "Hold On"
     }
   ],
   "recent": [
+    {
+      "time": "10:19 pm",
+      "artist": "The Crickets",
+      "title": "That'll Be the Day",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "10:15 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "The Sugarcubes",
       "title": "Blue Eyed Pop",
       "album": "Life's Too Good • 1989"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Suede",
-      "title": "Metal Mickey",
-      "album": "Suede • 1993"
     }
   ]
 }
