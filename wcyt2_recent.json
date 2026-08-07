@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T08:22:52",
+  "updatedAt": "2026-08-07T08:26:25",
   "now": {
-    "artist": "The Who",
-    "title": "Behind Blue Eyes",
-    "album": "Who's Next • 1971",
+    "artist": "The Beatles",
+    "title": "What You're Doing",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:26 am",
-      "artist": "The Beatles",
-      "title": "What You're Doing"
-    },
     {
       "time": "8:29 am",
       "artist": "Al Stewart",
@@ -26,9 +21,20 @@
       "time": "8:36 am",
       "artist": "Aliotta haynes Jeremiah",
       "title": "Lake Shore Drive"
+    },
+    {
+      "time": "8:40 am",
+      "artist": "Deee",
+      "title": "Lite - Groove Is in the Heart"
     }
   ],
   "recent": [
+    {
+      "time": "8:26 am",
+      "artist": "The Beatles",
+      "title": "What You're Doing",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "8:22 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Feel Good Inc.",
       "album": "Demon Days • 2005"
-    },
-    {
-      "time": "6:53 am",
-      "artist": "Nina Simone",
-      "title": "My Baby Just Cares for Me",
-      "album": "Little Girl Blue • 1959"
     }
   ]
 }
