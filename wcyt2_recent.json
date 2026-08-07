@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T09:01:01",
+  "updatedAt": "2026-08-07T09:05:59",
   "now": {
-    "artist": "Madonna",
-    "title": "Frozen",
-    "album": "Ray of Light • 1998",
+    "artist": "William Onyeabor",
+    "title": "Good Name",
+    "album": "Good Name • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 am",
-      "artist": "William Onyeabor",
-      "title": "Good Name"
-    },
     {
       "time": "9:16 am",
       "artist": "Peter Gabriel",
@@ -21,9 +16,20 @@
       "time": "9:21 am",
       "artist": "Taylor Swift",
       "title": "Mastermind"
+    },
+    {
+      "time": "9:24 am",
+      "artist": "David Bowie",
+      "title": "Beauty and the Beast"
     }
   ],
   "recent": [
+    {
+      "time": "9:05 am",
+      "artist": "William Onyeabor",
+      "title": "Good Name",
+      "album": "Good Name • 1983"
+    },
     {
       "time": "9:01 am",
       "artist": "Madonna",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Lovely Rita",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "7:35 am",
-      "artist": "Interpol",
-      "title": "PDA",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
