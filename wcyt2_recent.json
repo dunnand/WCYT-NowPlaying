@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T00:58:45",
+  "updatedAt": "2026-08-07T01:03:54",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "If You're Feeling Sinister",
-    "album": "If You're Feeling Sinister • 1996",
-    "category": "TUNES"
+    "artist": "Elvis Presley",
+    "title": "Mystery Train",
+    "album": "Rock N Roll • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Elvis Presley",
-      "title": "Mystery Train"
-    },
     {
       "time": "1:06 am",
       "artist": "PJ Harvey",
@@ -26,9 +21,20 @@
       "time": "1:13 am",
       "artist": "Charles Bradley",
       "title": "Heartaches and Pain"
+    },
+    {
+      "time": "1:15 am",
+      "artist": "Built to Spill",
+      "title": "In The Morning"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Elvis Presley",
+      "title": "Mystery Train",
+      "album": "Rock N Roll • 1956"
+    },
     {
       "time": "12:58 am",
       "artist": "Belle and Sebastian",
@@ -172,12 +178,6 @@
       "artist": "Crystal Castles",
       "title": "Not In Love",
       "album": "• 2010"
-    },
-    {
-      "time": "11:24 pm",
-      "artist": "The Beatles",
-      "title": "Love You To",
-      "album": "Revolver • 1966"
     }
   ]
 }
