@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T01:03:54",
+  "updatedAt": "2026-08-07T01:06:18",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Mystery Train",
-    "album": "Rock N Roll • 1956",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "A Place Called Home",
+    "album": "Stories from the City, Stories from the Sea • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "PJ Harvey",
-      "title": "A Place Called Home"
-    },
     {
       "time": "1:10 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "PJ Harvey",
+      "title": "A Place Called Home",
+      "album": "Stories from the City, Stories from the Sea • 2000"
+    },
     {
       "time": "1:03 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Annie Lennox",
       "title": "Walking On Broken Glass",
       "album": "Diva • 1992"
-    },
-    {
-      "time": "11:27 pm",
-      "artist": "Crystal Castles",
-      "title": "Not In Love",
-      "album": "• 2010"
     }
   ]
 }
