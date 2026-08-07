@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T23:54:45",
+  "updatedAt": "2026-08-06T23:57:09",
   "now": {
-    "artist": "The Beatles",
-    "title": "For You Blue",
-    "album": "Let It Be • 1970",
+    "artist": "Fleetwood Mac",
+    "title": "Tusk",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:57 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Tusk"
-    },
     {
       "time": "12:00 am",
       "artist": "Oasis",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:57 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Tusk",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "11:54 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "My Chemical Romance",
       "title": "Helena",
       "album": "Three Cheers for Sweet Revenge • 2004"
-    },
-    {
-      "time": "10:19 pm",
-      "artist": "The Crickets",
-      "title": "That'll Be the Day",
-      "album": "The Chirping Crickets • 1957"
     }
   ]
 }
