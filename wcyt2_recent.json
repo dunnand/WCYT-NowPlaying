@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T03:58:58",
+  "updatedAt": "2026-08-07T04:04:09",
   "now": {
-    "artist": "The Beatles",
-    "title": "A Day In The Life",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Coldplay",
+    "title": "A Sky Full of Stars",
+    "album": "Ghost Stories • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:04 am",
-      "artist": "Coldplay",
-      "title": "A Sky Full of Stars"
-    },
     {
       "time": "4:08 am",
       "artist": "Black Crowes",
@@ -23,12 +18,18 @@
       "title": "The Book of Love"
     },
     {
-      "time": "4:17 am",
+      "time": "4:16 am",
       "artist": "The Cult",
       "title": "She Sells Sanctuary"
     }
   ],
   "recent": [
+    {
+      "time": "4:04 am",
+      "artist": "Coldplay",
+      "title": "A Sky Full of Stars",
+      "album": "Ghost Stories • 2014"
+    },
     {
       "time": "3:58 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "T. Rex",
       "title": "Solid Gold Easy Action",
       "album": "Solid Gold Easy Action • 1972"
-    },
-    {
-      "time": "2:28 am",
-      "artist": "Grimes",
-      "title": "You'll miss me when I'm not around",
-      "album": "Miss Anthropocene • 2020"
     }
   ]
 }
