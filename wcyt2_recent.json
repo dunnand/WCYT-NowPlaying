@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T17:51:17",
+  "updatedAt": "2026-08-07T17:55:22",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Don't Interrupt the Sorrow",
-    "album": "The Hissing of Summer Lawns • 1975",
-    "category": "AUDIO"
+    "artist": "Mazzy Star",
+    "title": "Fade Into You",
+    "album": "So Tonight That I Might See • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:55 pm",
-      "artist": "Mazzy Star",
-      "title": "Fade Into You"
-    },
     {
       "time": "6:00 pm",
       "artist": "M83",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:55 pm",
+      "artist": "Mazzy Star",
+      "title": "Fade Into You",
+      "album": "So Tonight That I Might See • 1993"
+    },
     {
       "time": "5:51 pm",
       "artist": "Joni Mitchell",
@@ -172,12 +173,6 @@
       "artist": "Dave Matthews Band",
       "title": "What Would You Say",
       "album": "Under The Table And Dreaming • 1994"
-    },
-    {
-      "time": "4:25 pm",
-      "artist": "Cat Power",
-      "title": "Nude as the News",
-      "album": "What Would the Community Think • 1996"
     }
   ]
 }
