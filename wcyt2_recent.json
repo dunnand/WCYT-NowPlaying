@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:00:29",
+  "updatedAt": "2026-08-07T07:00:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I'll Get You",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 am",
-      "artist": "The Beatles",
-      "title": "I'll Get You"
-    },
     {
       "time": "7:02 am",
       "artist": "Kendrick Lamar",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:00 am",
+      "artist": "The Beatles",
+      "title": "I'll Get You",
+      "album": "single • 1963"
+    },
     {
       "time": "6:56 am",
       "artist": "Gorillaz",
@@ -172,12 +173,6 @@
       "artist": "Weezer",
       "title": "All My Favorite Songs",
       "album": "OK Human • 2021"
-    },
-    {
-      "time": "5:18 am",
-      "artist": "The Kinks",
-      "title": "Living on a Thin Line",
-      "album": "Word of Mouth • 1984"
     }
   ]
 }
