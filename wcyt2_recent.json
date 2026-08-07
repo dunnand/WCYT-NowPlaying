@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T06:53:20",
+  "updatedAt": "2026-08-07T06:56:56",
   "now": {
-    "artist": "Nina Simone",
-    "title": "My Baby Just Cares for Me",
-    "album": "Little Girl Blue • 1959",
+    "artist": "Gorillaz",
+    "title": "Feel Good Inc.",
+    "album": "Demon Days • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:56 am",
-      "artist": "Gorillaz",
-      "title": "Feel Good Inc."
-    },
     {
       "time": "7:00 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "7:02 am",
       "artist": "Kendrick Lamar",
       "title": "i"
+    },
+    {
+      "time": "7:05 am",
+      "artist": "Oasis",
+      "title": "Slide Away"
     }
   ],
   "recent": [
+    {
+      "time": "6:56 am",
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc.",
+      "album": "Demon Days • 2005"
+    },
     {
       "time": "6:53 am",
       "artist": "Nina Simone",
@@ -167,12 +173,6 @@
       "artist": "The Kinks",
       "title": "Living on a Thin Line",
       "album": "Word of Mouth • 1984"
-    },
-    {
-      "time": "5:15 am",
-      "artist": "Waylon Jennings",
-      "title": "Theme From The Dukes Of Hazzard (Good Ol' Boys)",
-      "album": "Music Man • 1980"
     }
   ]
 }
