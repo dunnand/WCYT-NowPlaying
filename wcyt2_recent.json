@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T04:31:29",
+  "updatedAt": "2026-08-07T04:31:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Rock and Roll",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:31 am",
-      "artist": "Led Zeppelin",
-      "title": "Rock and Roll"
-    },
     {
       "time": "4:35 am",
       "artist": "Justin Timberlake",
@@ -31,9 +26,20 @@
       "time": "4:46 am",
       "artist": "Boyz II Men",
       "title": "End Of The Road"
+    },
+    {
+      "time": "4:52 am",
+      "artist": "Elvis Presley",
+      "title": "Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:31 am",
+      "artist": "Led Zeppelin",
+      "title": "Rock and Roll",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "4:27 am",
       "artist": "M83",
@@ -177,12 +183,6 @@
       "artist": "Justice",
       "title": "Stress",
       "album": "Cross • 2007"
-    },
-    {
-      "time": "2:56 am",
-      "artist": "Doris Day",
-      "title": "Whatever Will Be Will Be (Que Sera, Sera)",
-      "album": "single • 1956"
     }
   ]
 }
