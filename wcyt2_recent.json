@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T08:22:40",
+  "updatedAt": "2026-08-07T08:22:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Behind Blue Eyes",
+    "album": "Who's Next • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:22 am",
-      "artist": "The Who",
-      "title": "Behind Blue Eyes"
-    },
     {
       "time": "8:26 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "8:33 am",
       "artist": "The Kinks",
       "title": "Death of a Clown"
+    },
+    {
+      "time": "8:36 am",
+      "artist": "Aliotta haynes Jeremiah",
+      "title": "Lake Shore Drive"
     }
   ],
   "recent": [
+    {
+      "time": "8:22 am",
+      "artist": "The Who",
+      "title": "Behind Blue Eyes",
+      "album": "Who's Next • 1971"
+    },
     {
       "time": "8:19 am",
       "artist": "The Neighbourhood",
@@ -172,12 +178,6 @@
       "artist": "Nina Simone",
       "title": "My Baby Just Cares for Me",
       "album": "Little Girl Blue • 1959"
-    },
-    {
-      "time": "6:48 am",
-      "artist": "Nirvana",
-      "title": "Heart-Shaped Box",
-      "album": "In Utero • 1993"
     }
   ]
 }
