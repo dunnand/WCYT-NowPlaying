@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-06T23:08:00",
+  "updatedAt": "2026-08-06T23:12:25",
   "now": {
-    "artist": "Eagles",
-    "title": "Heartache Tonight",
-    "album": "The Long Run • 1979",
+    "artist": "Radiohead",
+    "title": "Paranoid Android",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 pm",
-      "artist": "Radiohead",
-      "title": "Paranoid Android"
-    },
     {
       "time": "11:19 pm",
       "artist": "Carl Perkins",
@@ -21,9 +16,20 @@
       "time": "11:21 pm",
       "artist": "Nirvana",
       "title": "You Know You're Right"
+    },
+    {
+      "time": "11:24 pm",
+      "artist": "The Beatles",
+      "title": "Love You To"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 pm",
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "11:08 pm",
       "artist": "Eagles",
@@ -167,12 +173,6 @@
       "artist": "The Prodigy",
       "title": "Breathe",
       "album": "The Fat of the Land • 1997"
-    },
-    {
-      "time": "9:38 pm",
-      "artist": "The Chemical Brothers",
-      "title": "Setting Sun",
-      "album": "Dig Your Own Hole • 1997"
     }
   ]
 }
