@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T00:40:31",
+  "updatedAt": "2026-08-07T00:42:35",
   "now": {
-    "artist": "Neil Young",
-    "title": "The Needle and the Damage Done",
-    "album": "Harvest • 1972",
+    "artist": "The Mamas & The Papas",
+    "title": "I Saw Her Again Last Night",
+    "album": "The Mamas & the Papas • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "The Mamas & The Papas",
-      "title": "I Saw Her Again Last Night"
-    },
     {
       "time": "12:45 am",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "12:53 am",
       "artist": "Rod Stewart",
       "title": "Every Picture Tells A Story"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "Belle and Sebastian",
+      "title": "If You're Feeling Sinister"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "The Mamas & The Papas",
+      "title": "I Saw Her Again Last Night",
+      "album": "The Mamas & the Papas • 1966"
+    },
     {
       "time": "12:40 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "Eagles",
       "title": "Heartache Tonight",
       "album": "The Long Run • 1979"
-    },
-    {
-      "time": "11:05 pm",
-      "artist": "Baauer",
-      "title": "Harlem Shake",
-      "album": "single • 2012"
     }
   ]
 }
