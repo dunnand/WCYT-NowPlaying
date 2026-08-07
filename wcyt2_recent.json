@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T19:04:06",
+  "updatedAt": "2026-08-07T19:08:40",
   "now": {
-    "artist": "Slowdive",
-    "title": "When the Sun Hits",
-    "album": "Souvlaki • 1993",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "You and Me and the Moon",
+    "album": "Get Lost • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:08 pm",
-      "artist": "The Magnetic Fields",
-      "title": "You and Me and the Moon"
-    },
     {
       "time": "7:11 pm",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "7:19 pm",
       "artist": "Fleetwood Mac",
       "title": "Gypsy"
+    },
+    {
+      "time": "7:23 pm",
+      "artist": "Bleachers",
+      "title": "Tiny Moves"
     }
   ],
   "recent": [
+    {
+      "time": "7:08 pm",
+      "artist": "The Magnetic Fields",
+      "title": "You and Me and the Moon",
+      "album": "Get Lost • 1995"
+    },
     {
       "time": "7:04 pm",
       "artist": "Slowdive",
@@ -172,12 +178,6 @@
       "artist": "John Mayer",
       "title": "No Such Thing",
       "album": "Room for Squares • 2001"
-    },
-    {
-      "time": "5:40 pm",
-      "artist": "Grateful Dead",
-      "title": "Scarlet Begonias",
-      "album": "From the Mars Hotel • 1974"
     }
   ]
 }
