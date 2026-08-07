@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T01:34:23",
+  "updatedAt": "2026-08-07T01:34:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Miss You",
+    "album": "Some Girls • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:34 am",
-      "artist": "Rolling Stones",
-      "title": "Miss You"
-    },
     {
       "time": "1:39 am",
       "artist": "OutKast",
@@ -31,9 +26,20 @@
       "time": "1:56 am",
       "artist": "Pearl Jam",
       "title": "Nothingman"
+    },
+    {
+      "time": "2:00 am",
+      "artist": "Childish Gambino",
+      "title": "Sober"
     }
   ],
   "recent": [
+    {
+      "time": "1:34 am",
+      "artist": "Rolling Stones",
+      "title": "Miss You",
+      "album": "Some Girls • 1978"
+    },
     {
       "time": "1:29 am",
       "artist": "Lady Gaga",
@@ -177,12 +183,6 @@
       "artist": "Nick Cave and the Bad Seeds",
       "title": "O Children",
       "album": "Abattoir Blues / The Lyre of Orpheus • 2004"
-    },
-    {
-      "time": "12:03 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Dis Generation",
-      "album": "We got it from Here... Thank You 4 Your service • 2016"
     }
   ]
 }
