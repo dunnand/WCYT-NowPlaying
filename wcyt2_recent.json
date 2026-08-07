@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T02:31:07",
+  "updatedAt": "2026-08-07T02:33:21",
   "now": {
-    "artist": "T. Rex",
-    "title": "Solid Gold Easy Action",
-    "album": "Solid Gold Easy Action • 1972",
+    "artist": "The Beatles",
+    "title": "Yellow Submarine",
+    "album": "Yellow Submarine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:33 am",
-      "artist": "The Beatles",
-      "title": "Yellow Submarine"
-    },
     {
       "time": "2:36 am",
       "artist": "ABBA",
@@ -26,9 +21,20 @@
       "time": "2:43 am",
       "artist": "Bruce Springsteen",
       "title": "New York City Serenade"
+    },
+    {
+      "time": "2:53 am",
+      "artist": "Sleater",
+      "title": "Kinney - Good Things"
     }
   ],
   "recent": [
+    {
+      "time": "2:33 am",
+      "artist": "The Beatles",
+      "title": "Yellow Submarine",
+      "album": "Yellow Submarine • 1969"
+    },
     {
       "time": "2:31 am",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "PJ Harvey",
       "title": "A Place Called Home",
       "album": "Stories from the City, Stories from the Sea • 2000"
-    },
-    {
-      "time": "1:03 am",
-      "artist": "Elvis Presley",
-      "title": "Mystery Train",
-      "album": "Rock N Roll • 1956"
     }
   ]
 }
