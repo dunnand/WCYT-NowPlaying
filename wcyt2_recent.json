@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T07:40:36",
+  "updatedAt": "2026-08-07T07:43:20",
   "now": {
-    "artist": "The Beatles",
-    "title": "Lovely Rita",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "John Prine",
+    "title": "Pretty Good",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 am",
-      "artist": "John Prine",
-      "title": "Pretty Good"
-    },
     {
       "time": "7:46 am",
       "artist": "Sebadoh",
@@ -26,9 +21,20 @@
       "time": "7:52 am",
       "artist": "*NSYNC",
       "title": "It's Gonna Be Me"
+    },
+    {
+      "time": "7:55 am",
+      "artist": "The Microphones",
+      "title": "Something"
     }
   ],
   "recent": [
+    {
+      "time": "7:43 am",
+      "artist": "John Prine",
+      "title": "Pretty Good",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "7:40 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Mariah Carey",
       "title": "Hero",
       "album": "Music Box • 1993"
-    },
-    {
-      "time": "6:02 am",
-      "artist": "Frank Ocean",
-      "title": "Self Control",
-      "album": "Blonde • 2016"
     }
   ]
 }
