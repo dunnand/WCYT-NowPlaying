@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T17:44:47",
+  "updatedAt": "2026-08-07T17:48:24",
   "now": {
-    "artist": "John Mayer",
-    "title": "No Such Thing",
-    "album": "Room for Squares • 2001",
+    "artist": "The Beatles",
+    "title": "Long, Long, Long",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 pm",
-      "artist": "The Beatles",
-      "title": "Long, Long, Long"
-    },
     {
       "time": "5:51 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "6:00 pm",
       "artist": "M83",
       "title": "Steve McQueen"
+    },
+    {
+      "time": "6:04 pm",
+      "artist": "The Microphones",
+      "title": "I Felt Your Shape"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 pm",
+      "artist": "The Beatles",
+      "title": "Long, Long, Long",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "5:44 pm",
       "artist": "John Mayer",
@@ -172,12 +178,6 @@
       "artist": "One Direction",
       "title": "Live While We're Young",
       "album": "Take Me Home • 2012"
-    },
-    {
-      "time": "4:18 pm",
-      "artist": "Iron & Wine",
-      "title": "Each Coming Night",
-      "album": "Our Endless Numbered Days • 2004"
     }
   ]
 }
