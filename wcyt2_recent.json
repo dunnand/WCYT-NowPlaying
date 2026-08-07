@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T16:15:01",
+  "updatedAt": "2026-08-07T16:18:24",
   "now": {
-    "artist": "Gorillaz",
-    "title": "19-2000",
-    "album": "Gorillaz • 2001",
-    "category": "AUDIO"
+    "artist": "Iron & Wine",
+    "title": "Each Coming Night",
+    "album": "Our Endless Numbered Days • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:18 pm",
-      "artist": "Iron & Wine",
-      "title": "Each Coming Night"
-    },
     {
       "time": "4:21 pm",
       "artist": "One Direction",
@@ -26,9 +21,20 @@
       "time": "4:29 pm",
       "artist": "Dave Matthews Band",
       "title": "What Would You Say"
+    },
+    {
+      "time": "4:33 pm",
+      "artist": "U2",
+      "title": "Sunday Bloody Sunday"
     }
   ],
   "recent": [
+    {
+      "time": "4:18 pm",
+      "artist": "Iron & Wine",
+      "title": "Each Coming Night",
+      "album": "Our Endless Numbered Days • 2004"
+    },
     {
       "time": "4:15 pm",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "you and forever",
       "album": "everyone for ten minutes • 2026"
-    },
-    {
-      "time": "2:40 pm",
-      "artist": "Kate Bush",
-      "title": "Babooshka",
-      "album": "Never for Ever • 1980"
     }
   ]
 }
