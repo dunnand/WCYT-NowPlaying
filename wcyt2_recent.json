@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T13:52:25",
+  "updatedAt": "2026-08-08T13:52:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Your Mother Should Know",
+    "album": "Magical Mystery Tour • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:52 pm",
-      "artist": "The Beatles",
-      "title": "Your Mother Should Know"
-    },
     {
       "time": "1:54 pm",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:52 pm",
+      "artist": "The Beatles",
+      "title": "Your Mother Should Know",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "1:49 pm",
       "artist": "Ke$ha",
@@ -172,12 +173,6 @@
       "artist": "Taylor Swift",
       "title": "Exile feat. Bon Iver",
       "album": "folklore • 2020"
-    },
-    {
-      "time": "12:15 pm",
-      "artist": "Bad Brains",
-      "title": "I Against I",
-      "album": "I Against I • 1986"
     }
   ]
 }
