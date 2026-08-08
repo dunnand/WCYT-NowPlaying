@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T21:45:42",
+  "updatedAt": "2026-08-07T21:50:37",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "Sleep the Clock Around",
-    "album": "The Boy with the Arab Strap • 1998",
-    "category": "TUNES"
+    "artist": "The Flamingos",
+    "title": "I Only Have Eyes for You",
+    "album": "Flamingo Serenade • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 pm",
-      "artist": "The Flamingos",
-      "title": "I Only Have Eyes for You"
-    },
     {
       "time": "9:53 pm",
       "artist": "Nine Inch Nails",
@@ -23,12 +18,23 @@
       "title": "Fare Thee Well, Miss Carousel"
     },
     {
-      "time": "10:02 pm",
+      "time": "10:01 pm",
       "artist": "Passion Pit",
       "title": "Take A Walk"
+    },
+    {
+      "time": "10:05 pm",
+      "artist": "Boards of Canada",
+      "title": "Roygbiv"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 pm",
+      "artist": "The Flamingos",
+      "title": "I Only Have Eyes for You",
+      "album": "Flamingo Serenade • 1959"
+    },
     {
       "time": "9:45 pm",
       "artist": "Belle and Sebastian",
@@ -172,12 +178,6 @@
       "artist": "Saccharine Trust",
       "title": "A Human Certainty",
       "album": "Paganicons • 1981"
-    },
-    {
-      "time": "8:11 pm",
-      "artist": "Spiritualized",
-      "title": "Run",
-      "album": "Lazer Guided Melodies • 1992"
     }
   ]
 }
