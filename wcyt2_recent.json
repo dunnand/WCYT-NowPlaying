@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T02:38:12",
+  "updatedAt": "2026-08-08T02:42:09",
   "now": {
-    "artist": "John Lennon",
-    "title": "Mind Games",
-    "album": "Mind Games • 1973",
+    "artist": "Green Day",
+    "title": "Boulevard Of Broken Dreams",
+    "album": "American Idiot • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 am",
-      "artist": "Green Day",
-      "title": "Boulevard Of Broken Dreams"
-    },
     {
       "time": "2:46 am",
       "artist": "Radiohead",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:42 am",
+      "artist": "Green Day",
+      "title": "Boulevard Of Broken Dreams",
+      "album": "American Idiot • 2004"
+    },
     {
       "time": "2:38 am",
       "artist": "John Lennon",
@@ -177,12 +178,6 @@
       "artist": "Lupe Fiasco",
       "title": "Superstar (feat. Matthew Santos)",
       "album": "Lupe Fiasco’s The Cool • 2007"
-    },
-    {
-      "time": "1:07 am",
-      "artist": "JAY-Z",
-      "title": "Run This Town",
-      "album": "The Blueprint 3 • 2009"
     }
   ]
 }
