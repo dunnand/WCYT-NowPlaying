@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T08:19:29",
+  "updatedAt": "2026-08-08T08:22:53",
   "now": {
-    "artist": "Pixies",
-    "title": "Hey",
-    "album": "Doolittle • 1999",
+    "artist": "Meat Puppets",
+    "title": "Reward",
+    "album": "Meat Puppets • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:22 am",
-      "artist": "Meat Puppets",
-      "title": "Reward"
-    },
     {
       "time": "8:24 am",
       "artist": "Minutemen",
@@ -21,9 +16,20 @@
       "time": "8:26 am",
       "artist": "Taylor Swift",
       "title": "Glitch"
+    },
+    {
+      "time": "8:28 am",
+      "artist": "Paul Simon",
+      "title": "Something So Right"
     }
   ],
   "recent": [
+    {
+      "time": "8:22 am",
+      "artist": "Meat Puppets",
+      "title": "Reward",
+      "album": "Meat Puppets • 1982"
+    },
     {
       "time": "8:19 am",
       "artist": "Pixies",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "It's All Too Much",
       "album": "Yellow Submarine • 1969"
-    },
-    {
-      "time": "6:33 am",
-      "artist": "Mark Ronson",
-      "title": "Valerie (feat. Amy Winehouse)",
-      "album": "Version • 2007"
     }
   ]
 }
