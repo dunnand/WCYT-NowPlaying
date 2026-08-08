@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T05:18:52",
+  "updatedAt": "2026-08-08T05:23:39",
   "now": {
-    "artist": "Zapp",
-    "title": "Computer Love",
-    "album": "The New Zapp IV U • 1985",
+    "artist": "Billy Joel",
+    "title": "We Didn't Start The Fire",
+    "album": "Storm Front • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:23 am",
-      "artist": "Billy Joel",
-      "title": "We Didn't Start The Fire"
-    },
     {
       "time": "5:28 am",
       "artist": "Kassi Valazza",
@@ -21,9 +16,20 @@
       "time": "5:32 am",
       "artist": "The Doors",
       "title": "Roadhouse Blues"
+    },
+    {
+      "time": "5:36 am",
+      "artist": "The Beatles",
+      "title": "She's A Woman"
     }
   ],
   "recent": [
+    {
+      "time": "5:23 am",
+      "artist": "Billy Joel",
+      "title": "We Didn't Start The Fire",
+      "album": "Storm Front • 1989"
+    },
     {
       "time": "5:18 am",
       "artist": "Zapp",
@@ -167,12 +173,6 @@
       "artist": "Parliament",
       "title": "Unfunky UFO",
       "album": "Mothership Connection • 1975"
-    },
-    {
-      "time": "3:46 am",
-      "artist": "The Byrds",
-      "title": "I'll Feel a Whole Lot Better",
-      "album": "Mr. Tambourine Man • 1965"
     }
   ]
 }
