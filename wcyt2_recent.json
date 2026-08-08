@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T01:19:07",
+  "updatedAt": "2026-08-08T01:23:34",
   "now": {
-    "artist": "Counting Crows",
-    "title": "Mr. Jones",
-    "album": "August and Everything After • 1994",
+    "artist": "Daft Punk",
+    "title": "Around the World",
+    "album": "Homework • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:23 am",
-      "artist": "Daft Punk",
-      "title": "Around the World"
-    },
     {
       "time": "1:30 am",
       "artist": "Sister Nancy",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:23 am",
+      "artist": "Daft Punk",
+      "title": "Around the World",
+      "album": "Homework • 1997"
+    },
     {
       "time": "1:19 am",
       "artist": "Counting Crows",
@@ -172,12 +173,6 @@
       "artist": "Jesu",
       "title": "Silver",
       "album": "Silver • 2006"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "Eagles",
-      "title": "One Of These Nights",
-      "album": "One of These Nights • 1975"
     }
   ]
 }
