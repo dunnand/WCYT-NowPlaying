@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T17:17:45",
+  "updatedAt": "2026-08-08T17:22:31",
   "now": {
-    "artist": "Rodriguez",
-    "title": "Climb Up on My Music",
-    "album": "Coming from Reality • 1971",
+    "artist": "The Beatles",
+    "title": "All My Loving",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 pm",
-      "artist": "The Beatles",
-      "title": "All My Loving"
-    },
     {
       "time": "5:24 pm",
       "artist": "Santana",
@@ -26,9 +21,20 @@
       "time": "5:31 pm",
       "artist": "Dell",
       "title": "Vikings - Come Go With Me"
+    },
+    {
+      "time": "5:33 pm",
+      "artist": "OK Go",
+      "title": "Here It Goes Again"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 pm",
+      "artist": "The Beatles",
+      "title": "All My Loving",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "5:17 pm",
       "artist": "Rodriguez",
@@ -172,12 +178,6 @@
       "artist": "Preservation Hall Jazz Band",
       "title": "That's It!",
       "album": "Preservation Hall Jazz Band • 2013"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "The Turtles",
-      "title": "Elenore",
-      "album": "The Turtles Present the Battle of the Bands • 1968"
     }
   ]
 }
