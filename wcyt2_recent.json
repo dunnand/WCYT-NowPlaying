@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T10:33:44",
+  "updatedAt": "2026-08-08T10:35:46",
   "now": {
-    "artist": "Black Flag",
-    "title": "Nervous Breakdown",
-    "album": "Nervous Breakdown • 1979",
+    "artist": "The Beatles",
+    "title": "Birthday",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:35 am",
-      "artist": "The Beatles",
-      "title": "Birthday"
-    },
     {
       "time": "10:38 am",
       "artist": "Bobby Bland",
@@ -26,9 +21,20 @@
       "time": "10:45 am",
       "artist": "Blue Oyster Cult",
       "title": "(Don't Fear) The Reaper"
+    },
+    {
+      "time": "10:49 am",
+      "artist": "Seal",
+      "title": "Fly Like An Eagle"
     }
   ],
   "recent": [
+    {
+      "time": "10:35 am",
+      "artist": "The Beatles",
+      "title": "Birthday",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "10:33 am",
       "artist": "Black Flag",
@@ -172,12 +178,6 @@
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Supernaturally",
       "album": "Abattoir Blues / The Lyre of Orpheus • 2004"
-    },
-    {
-      "time": "8:53 am",
-      "artist": "Johnny Cash",
-      "title": "Folsom Prison Blues",
-      "album": "Folsom Prison Blues • 1955"
     }
   ]
 }
