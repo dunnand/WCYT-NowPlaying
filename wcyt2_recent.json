@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T01:45:16",
+  "updatedAt": "2026-08-08T01:48:34",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Kentucky Rain",
-    "album": "single • 1970",
+    "artist": "The Beatles",
+    "title": "Yesterday",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:48 am",
-      "artist": "The Beatles",
-      "title": "Yesterday"
-    },
     {
       "time": "1:50 am",
       "artist": "Funkadelic",
@@ -23,7 +18,7 @@
       "title": "Angels"
     },
     {
-      "time": "1:59 am",
+      "time": "1:58 am",
       "artist": "James Brown and The Famous Flames",
       "title": "Please, Please, Please"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:48 am",
+      "artist": "The Beatles",
+      "title": "Yesterday",
+      "album": "Help! • 1965"
+    },
     {
       "time": "1:45 am",
       "artist": "Elvis Presley",
@@ -177,12 +178,6 @@
       "artist": "Lorde",
       "title": "The Louvre",
       "album": "Melodrama • 2017"
-    },
-    {
-      "time": "12:12 am",
-      "artist": "The Beatles",
-      "title": "Baby You're a Rich Man",
-      "album": "single • 1967"
     }
   ]
 }
