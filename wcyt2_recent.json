@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T07:04:16",
+  "updatedAt": "2026-08-08T07:04:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "All I Want",
+    "album": "This Is Happening • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:04 am",
-      "artist": "LCD Soundsystem",
-      "title": "All I Want"
-    },
     {
       "time": "7:10 am",
       "artist": "Metallica",
@@ -26,9 +21,20 @@
       "time": "7:19 am",
       "artist": "Joy Division",
       "title": "Atrocity Exhibition"
+    },
+    {
+      "time": "7:26 am",
+      "artist": "Lionel Richie",
+      "title": "Running With The Night"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 am",
+      "artist": "LCD Soundsystem",
+      "title": "All I Want",
+      "album": "This Is Happening • 2010"
+    },
     {
       "time": "7:00 am",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "The Doors",
       "title": "Roadhouse Blues",
       "album": "Morrison Hotel • 1970"
-    },
-    {
-      "time": "5:28 am",
-      "artist": "Kassi Valazza",
-      "title": "Weight of the Wheel",
-      "album": "From Newman Street • 2024"
     }
   ]
 }
