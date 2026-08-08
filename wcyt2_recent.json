@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T04:45:13",
+  "updatedAt": "2026-08-08T04:47:37",
   "now": {
-    "artist": "The Beatles",
-    "title": "Please Mister Postman",
-    "album": "With the Beatles • 1963",
+    "artist": "Talking Heads",
+    "title": "Uh-Oh, Love Comes to Town",
+    "album": "Talking Heads: 77 • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:47 am",
-      "artist": "Talking Heads",
-      "title": "Uh-Oh, Love Comes to Town"
-    },
     {
       "time": "4:50 am",
       "artist": "Genesis",
@@ -26,9 +21,20 @@
       "time": "4:58 am",
       "artist": "The Postal Service",
       "title": "Such Great Heights"
+    },
+    {
+      "time": "5:03 am",
+      "artist": "John Mayer",
+      "title": "Why Georgia"
     }
   ],
   "recent": [
+    {
+      "time": "4:47 am",
+      "artist": "Talking Heads",
+      "title": "Uh-Oh, Love Comes to Town",
+      "album": "Talking Heads: 77 • 1977"
+    },
     {
       "time": "4:45 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Elastica",
       "title": "Stutter",
       "album": "Elastica • 1995"
-    },
-    {
-      "time": "3:14 am",
-      "artist": "Jason Isbell and the 400 Unit",
-      "title": "If We Were Vampires",
-      "album": "The Nashville Sound • 2017"
     }
   ]
 }
