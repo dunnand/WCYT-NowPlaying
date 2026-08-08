@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T12:22:55",
+  "updatedAt": "2026-08-08T12:23:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Mamma Mia",
+    "album": "ABBA • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:23 pm",
-      "artist": "ABBA",
-      "title": "Mamma Mia"
-    },
     {
       "time": "12:26 pm",
       "artist": "Barry Manilow",
@@ -26,9 +21,20 @@
       "time": "12:35 pm",
       "artist": "Tommy James & The Shondells",
       "title": "Mony Mony"
+    },
+    {
+      "time": "12:37 pm",
+      "artist": "Bill Withers",
+      "title": "Use Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:23 pm",
+      "artist": "ABBA",
+      "title": "Mamma Mia",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "12:18 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Don't",
       "album": "single • 1958"
-    },
-    {
-      "time": "10:49 am",
-      "artist": "Seal",
-      "title": "Fly Like An Eagle",
-      "album": "Space Jam Soundtrack • 1996"
     }
   ]
 }
