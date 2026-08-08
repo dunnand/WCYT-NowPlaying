@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T03:20:27",
+  "updatedAt": "2026-08-08T03:25:10",
   "now": {
-    "artist": "Elton John",
-    "title": "Circle Of Life",
-    "album": "The Lion King: Original Motion Picture Soundtrack • 1994",
+    "artist": "Thompson Twins",
+    "title": "Hold Me Now",
+    "album": "Into the Gap • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:25 am",
-      "artist": "Thompson Twins",
-      "title": "Hold Me Now"
-    },
     {
       "time": "3:29 am",
       "artist": "Warrant",
@@ -21,9 +16,20 @@
       "time": "3:33 am",
       "artist": "Turnstile",
       "title": "Blackout"
+    },
+    {
+      "time": "3:36 am",
+      "artist": "Marvin Gaye",
+      "title": "I Want You"
     }
   ],
   "recent": [
+    {
+      "time": "3:25 am",
+      "artist": "Thompson Twins",
+      "title": "Hold Me Now",
+      "album": "Into the Gap • 1984"
+    },
     {
       "time": "3:20 am",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Yesterday",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "1:45 am",
-      "artist": "Elvis Presley",
-      "title": "Kentucky Rain",
-      "album": "single • 1970"
     }
   ]
 }
