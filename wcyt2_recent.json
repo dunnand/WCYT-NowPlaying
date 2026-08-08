@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T04:33:35",
+  "updatedAt": "2026-08-08T04:37:12",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Another Day",
-    "album": "single • 1971",
+    "artist": "Styx",
+    "title": "Babe",
+    "album": "Cornerstone • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:37 am",
-      "artist": "Styx",
-      "title": "Babe"
-    },
     {
       "time": "4:41 am",
       "artist": "M83",
@@ -26,9 +21,20 @@
       "time": "4:47 am",
       "artist": "Talking Heads",
       "title": "Uh-Oh, Love Comes to Town"
+    },
+    {
+      "time": "4:50 am",
+      "artist": "Genesis",
+      "title": "I Can't Dance"
     }
   ],
   "recent": [
+    {
+      "time": "4:37 am",
+      "artist": "Styx",
+      "title": "Babe",
+      "album": "Cornerstone • 1979"
+    },
     {
       "time": "4:33 am",
       "artist": "Paul McCartney",
@@ -172,12 +178,6 @@
       "artist": "Kelly Clarkson",
       "title": "A Moment Like This",
       "album": "A Moment Like This • 2002"
-    },
-    {
-      "time": "3:02 am",
-      "artist": "Muse",
-      "title": "Madness",
-      "album": "The 2nd Law • 2012"
     }
   ]
 }
