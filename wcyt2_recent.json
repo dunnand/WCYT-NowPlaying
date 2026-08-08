@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T20:58:19",
+  "updatedAt": "2026-08-07T20:58:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I'll Follow The Sun",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:58 pm",
-      "artist": "The Beatles",
-      "title": "I'll Follow The Sun"
-    },
     {
       "time": "9:00 pm",
       "artist": "Gorillaz",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:58 pm",
+      "artist": "The Beatles",
+      "title": "I'll Follow The Sun",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "8:54 pm",
       "artist": "of Montreal",
@@ -172,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "I'll Be Your Mirror",
       "album": "The Velvet Underground & Nico • 1967"
-    },
-    {
-      "time": "7:27 pm",
-      "artist": "Anne Murray",
-      "title": "Daydream Believer",
-      "album": "I'll Always Love You • 1979"
     }
   ]
 }
