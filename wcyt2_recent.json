@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T04:41:38",
+  "updatedAt": "2026-08-08T04:45:13",
   "now": {
-    "artist": "M83",
-    "title": "We Own The Sky",
-    "album": "Saturdays = Youth • 2008",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Please Mister Postman",
+    "album": "With the Beatles • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "The Beatles",
-      "title": "Please Mister Postman"
-    },
     {
       "time": "4:47 am",
       "artist": "Talking Heads",
@@ -26,9 +21,20 @@
       "time": "4:54 am",
       "artist": "James Blake",
       "title": "The Wilhelm Scream"
+    },
+    {
+      "time": "4:58 am",
+      "artist": "The Postal Service",
+      "title": "Such Great Heights"
     }
   ],
   "recent": [
+    {
+      "time": "4:45 am",
+      "artist": "The Beatles",
+      "title": "Please Mister Postman",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "4:41 am",
       "artist": "M83",
@@ -172,12 +178,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "If We Were Vampires",
       "album": "The Nashville Sound • 2017"
-    },
-    {
-      "time": "3:11 am",
-      "artist": "Kings of Leon",
-      "title": "Red Morning Light",
-      "album": "Youth & Young Manhood • 2003"
     }
   ]
 }
