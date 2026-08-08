@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T07:34:26",
+  "updatedAt": "2026-08-08T07:42:26",
   "now": {
-    "artist": "Donna Summer",
-    "title": "I Feel Love",
-    "album": "I Remember Yesterday • 1977",
+    "artist": "The Beatles",
+    "title": "Misery",
+    "album": "Please Please Me • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "The Beatles",
-      "title": "Misery"
-    },
     {
       "time": "7:44 am",
       "artist": "Dion",
@@ -26,9 +21,25 @@
       "time": "7:53 am",
       "artist": "Neil Young",
       "title": "Heart Of Gold"
+    },
+    {
+      "time": "7:56 am",
+      "artist": "Michael Jackson",
+      "title": "Earth Song"
+    },
+    {
+      "time": "8:02 am",
+      "artist": "Prince",
+      "title": "Manic Monday"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "The Beatles",
+      "title": "Misery",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "7:34 am",
       "artist": "Donna Summer",
@@ -172,12 +183,6 @@
       "artist": "The Mountain Goats",
       "title": "Letter From Belgium",
       "album": "We Shall All Be Healed • 2004"
-    },
-    {
-      "time": "5:55 am",
-      "artist": "Chuck Berry",
-      "title": "Maybelene",
-      "album": "After School Session • 1957"
     }
   ]
 }
