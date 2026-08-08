@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T01:33:58",
+  "updatedAt": "2026-08-08T01:36:21",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "I'm On Fire",
-    "album": "Born in the U.S.A. • 1985",
+    "artist": "Grimes",
+    "title": "Delete Forever.",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:36 am",
-      "artist": "Grimes",
-      "title": "Delete Forever."
-    },
     {
       "time": "1:40 am",
       "artist": "Crosby, Stills, Nash & Young",
@@ -21,9 +16,20 @@
       "time": "1:43 am",
       "artist": "The Beatles",
       "title": "I'm Happy Just To Dance With You"
+    },
+    {
+      "time": "1:45 am",
+      "artist": "Elvis Presley",
+      "title": "Kentucky Rain"
     }
   ],
   "recent": [
+    {
+      "time": "1:36 am",
+      "artist": "Grimes",
+      "title": "Delete Forever.",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "1:33 am",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "The Boo Radleys",
       "title": "Lazarus",
       "album": "Giant Steps • 1993"
-    },
-    {
-      "time": "10:47 pm",
-      "artist": "The Beatles",
-      "title": "Get Back",
-      "album": "Let It Be • 1970"
     }
   ]
 }
