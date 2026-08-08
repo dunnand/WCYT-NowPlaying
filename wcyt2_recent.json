@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T08:43:08",
+  "updatedAt": "2026-08-08T08:50:25",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Can't You Hear Me Knocking",
-    "album": "Sticky Fingers • 1971",
+    "artist": "The Presidents of the United States of America",
+    "title": "Peaches",
+    "album": "The Presidents of the United States of America • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 am",
-      "artist": "The Presidents of the United States of America",
-      "title": "Peaches"
-    },
     {
       "time": "8:53 am",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "9:00 am",
       "artist": "Turtles",
       "title": "Happy Together"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "Justin Bieber",
+      "title": "Boyfriend"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 am",
+      "artist": "The Presidents of the United States of America",
+      "title": "Peaches",
+      "album": "The Presidents of the United States of America • 1995"
+    },
     {
       "time": "8:43 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "Michael Bolton",
       "title": "When A Man Loves A Woman",
       "album": "Time, Love & Tenderness • 1991"
-    },
-    {
-      "time": "7:10 am",
-      "artist": "Metallica",
-      "title": "Enter Sandman",
-      "album": "Metallica • 1991"
     }
   ]
 }
