@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T09:21:17",
+  "updatedAt": "2026-08-08T09:21:40",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Joy Division",
+    "title": "Heart and Soul",
+    "album": "Closer • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:21 am",
-      "artist": "Joy Division",
-      "title": "Heart and Soul"
-    },
     {
       "time": "9:27 am",
       "artist": "Way Dynamic",
@@ -26,9 +21,20 @@
       "time": "9:34 am",
       "artist": "Gorillaz",
       "title": "Orange County"
+    },
+    {
+      "time": "9:37 am",
+      "artist": "Stereolab",
+      "title": "Transmuted Matter"
     }
   ],
   "recent": [
+    {
+      "time": "9:21 am",
+      "artist": "Joy Division",
+      "title": "Heart and Soul",
+      "album": "Closer • 1980"
+    },
     {
       "time": "9:18 am",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "Panda Bear",
       "title": "Praise",
       "album": "Sinister Grift • 2025"
-    },
-    {
-      "time": "7:46 am",
-      "artist": "This Is Lorelei",
-      "title": "Name the Band",
-      "album": "Holo Boy • 2025"
     }
   ]
 }
