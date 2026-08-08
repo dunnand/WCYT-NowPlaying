@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T14:19:10",
+  "updatedAt": "2026-08-08T14:19:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "I Shot The Sheriff",
+    "album": "461 Ocean Boulevard • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:19 pm",
-      "artist": "Eric Clapton",
-      "title": "I Shot The Sheriff"
-    },
     {
       "time": "2:23 pm",
       "artist": "James Brown",
@@ -26,9 +21,20 @@
       "time": "2:31 pm",
       "artist": "The Kinks",
       "title": "Victoria"
+    },
+    {
+      "time": "2:34 pm",
+      "artist": "James Taylor",
+      "title": "Fire And Rain"
     }
   ],
   "recent": [
+    {
+      "time": "2:19 pm",
+      "artist": "Eric Clapton",
+      "title": "I Shot The Sheriff",
+      "album": "461 Ocean Boulevard • 1974"
+    },
     {
       "time": "2:15 pm",
       "artist": "Toosii",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "('Til) I Kissed You",
       "album": "single • 1959"
-    },
-    {
-      "time": "12:41 pm",
-      "artist": "Talk Talk",
-      "title": "New Grass",
-      "album": "Laughing Stock • 1991"
     }
   ]
 }
