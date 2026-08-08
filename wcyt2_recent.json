@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T08:04:51",
+  "updatedAt": "2026-08-08T08:05:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Lowdown",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:04 am",
-      "artist": "My Morning Jacket",
-      "title": "Lowdown"
-    },
     {
       "time": "8:08 am",
       "artist": "Nine Inch Nails",
@@ -26,9 +21,20 @@
       "time": "8:17 am",
       "artist": "The Olivia Tremor Control",
       "title": "Define a Transparent Dream"
+    },
+    {
+      "time": "8:19 am",
+      "artist": "Pixies",
+      "title": "Hey"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 am",
+      "artist": "My Morning Jacket",
+      "title": "Lowdown",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "8:02 am",
       "artist": "Prince",
@@ -172,12 +178,6 @@
       "artist": "Genesis",
       "title": "Tonight, Tonight, Tonight",
       "album": "Invisible Touch • 1987"
-    },
-    {
-      "time": "6:15 am",
-      "artist": "De La Soul",
-      "title": "Breakadawn",
-      "album": "3 Feet High and Rising • 1989"
     }
   ]
 }
