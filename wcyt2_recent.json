@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T19:11:12",
+  "updatedAt": "2026-08-08T19:15:09",
   "now": {
-    "artist": "The Kinks",
-    "title": "Lola",
-    "album": "Lola Versus Powerman and the Moneygoround, Part One • 1970",
+    "artist": "The Beatles",
+    "title": "Dear Prudence",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 pm",
-      "artist": "The Beatles",
-      "title": "Dear Prudence"
-    },
     {
       "time": "7:19 pm",
       "artist": "The Specials",
@@ -26,9 +21,20 @@
       "time": "7:24 pm",
       "artist": "Three Dog Night",
       "title": "Black & White"
+    },
+    {
+      "time": "7:27 pm",
+      "artist": "Pearl Jam",
+      "title": "Hail, Hail"
     }
   ],
   "recent": [
+    {
+      "time": "7:15 pm",
+      "artist": "The Beatles",
+      "title": "Dear Prudence",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "7:11 pm",
       "artist": "The Kinks",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "Here It Goes Again",
       "album": "Oh No • 2005"
-    },
-    {
-      "time": "5:31 pm",
-      "artist": "Dell-Vikings",
-      "title": "Come Go With Me",
-      "album": "Come Go With the Del-Vikings • 1957"
     }
   ]
 }
