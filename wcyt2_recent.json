@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T06:37:34",
+  "updatedAt": "2026-08-08T06:43:33",
   "now": {
-    "artist": "The Beatles",
-    "title": "It's All Too Much",
-    "album": "Yellow Submarine • 1969",
+    "artist": "Fleetwood Mac",
+    "title": "Never Going Back Again",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:43 am",
-      "artist": "Fleetwood Mac",
-      "title": "Never Going Back Again"
-    },
     {
       "time": "6:45 am",
       "artist": "Lush",
@@ -26,9 +21,20 @@
       "time": "6:56 am",
       "artist": "Les Savy Fav",
       "title": "Meet Me in the Dollar Bin"
+    },
+    {
+      "time": "7:00 am",
+      "artist": "Gorillaz",
+      "title": "Dirty Harry"
     }
   ],
   "recent": [
+    {
+      "time": "6:43 am",
+      "artist": "Fleetwood Mac",
+      "title": "Never Going Back Again",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "6:37 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Heavenly",
       "title": "C Is The Heavenly Option",
       "album": "Le Jardin de Heavenly • 1992"
-    },
-    {
-      "time": "5:07 am",
-      "artist": "Justin Bieber",
-      "title": "All Around The World",
-      "album": "Believe • 2012"
     }
   ]
 }
