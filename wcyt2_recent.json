@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T17:12:28",
+  "updatedAt": "2026-08-08T17:12:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ramones",
+    "title": "Pinhead",
+    "album": "Leave Home • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 pm",
-      "artist": "Ramones",
-      "title": "Pinhead"
-    },
     {
       "time": "5:15 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "5:22 pm",
       "artist": "The Beatles",
       "title": "All My Loving"
+    },
+    {
+      "time": "5:24 pm",
+      "artist": "Santana",
+      "title": "Evil Ways"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 pm",
+      "artist": "Ramones",
+      "title": "Pinhead",
+      "album": "Leave Home • 1977"
+    },
     {
       "time": "5:08 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "Ain't That A Shame?",
       "album": "Rock and Rollin' with Fats Domino • 1956"
-    },
-    {
-      "time": "3:35 pm",
-      "artist": "Mr. Big",
-      "title": "To Be With You",
-      "album": "Lean into It • 1991"
     }
   ]
 }
