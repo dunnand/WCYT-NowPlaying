@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T02:45:54",
+  "updatedAt": "2026-08-08T02:52:01",
   "now": {
-    "artist": "Radiohead",
-    "title": "Ful Stop",
-    "album": "A Moon Shaped Pool • 2016",
+    "artist": "Kraftwerk",
+    "title": "Radioactivity",
+    "album": "Radio-Activity • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:51 am",
-      "artist": "Kraftwerk",
-      "title": "Radioactivity"
-    },
     {
       "time": "2:58 am",
       "artist": "The Dismemberment Plan",
@@ -26,9 +21,20 @@
       "time": "3:07 am",
       "artist": "Kelly Clarkson",
       "title": "A Moment Like This"
+    },
+    {
+      "time": "3:11 am",
+      "artist": "Kings of Leon",
+      "title": "Red Morning Light"
     }
   ],
   "recent": [
+    {
+      "time": "2:52 am",
+      "artist": "Kraftwerk",
+      "title": "Radioactivity",
+      "album": "Radio-Activity • 1975"
+    },
     {
       "time": "2:45 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Counting Crows",
       "title": "Mr. Jones",
       "album": "August and Everything After • 1994"
-    },
-    {
-      "time": "1:16 am",
-      "artist": "Lil Nas X",
-      "title": "Old Town Road (feat. Billy Ray Cyrus)",
-      "album": "7 • 2019"
     }
   ]
 }
