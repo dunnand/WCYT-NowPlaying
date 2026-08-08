@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T08:05:02",
+  "updatedAt": "2026-08-08T08:08:44",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Lowdown",
-    "album": "At Dawn • 2001",
-    "category": "TUNES"
+    "artist": "Nine Inch Nails",
+    "title": "Survivalism",
+    "album": "Year Zero • 2007",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 am",
-      "artist": "Nine Inch Nails",
-      "title": "Survivalism"
-    },
     {
       "time": "8:13 am",
       "artist": "Joey Bad",
@@ -26,9 +21,20 @@
       "time": "8:19 am",
       "artist": "Pixies",
       "title": "Hey"
+    },
+    {
+      "time": "8:22 am",
+      "artist": "Meat Puppets",
+      "title": "Reward"
     }
   ],
   "recent": [
+    {
+      "time": "8:08 am",
+      "artist": "Nine Inch Nails",
+      "title": "Survivalism",
+      "album": "Year Zero • 2007"
+    },
     {
       "time": "8:05 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "NEVER ENOUGH",
       "album": "NEVER ENOUGH • 2025"
-    },
-    {
-      "time": "6:19 am",
-      "artist": "Genesis",
-      "title": "Tonight, Tonight, Tonight",
-      "album": "Invisible Touch • 1987"
     }
   ]
 }
