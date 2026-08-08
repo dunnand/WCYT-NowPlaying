@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-08T12:58:03",
+  "updatedAt": "2026-08-08T12:58:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Eleanor Rigby",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:58 pm",
-      "artist": "The Beatles",
-      "title": "Eleanor Rigby"
-    },
     {
       "time": "1:00 pm",
       "artist": "Lizzo",
       "title": "Juice"
     },
     {
-      "time": "1:03 pm",
+      "time": "1:04 pm",
       "artist": "Teenage Fanclub",
       "title": "Neil Jung"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:58 pm",
+      "artist": "The Beatles",
+      "title": "Eleanor Rigby",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "12:53 pm",
       "artist": "Ladysmith Black Mambazo",
@@ -172,12 +173,6 @@
       "artist": "Turnstile",
       "title": "HOLIDAY",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "11:20 am",
-      "artist": "Air Supply",
-      "title": "All Out of Love",
-      "album": "Lost in Love • 1980"
     }
   ]
 }
