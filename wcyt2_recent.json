@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T04:33:24",
+  "updatedAt": "2026-08-08T04:33:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney",
+    "title": "Another Day",
+    "album": "single • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:33 am",
-      "artist": "Paul McCartney",
-      "title": "Another Day"
-    },
     {
       "time": "4:37 am",
       "artist": "Styx",
@@ -26,9 +21,20 @@
       "time": "4:45 am",
       "artist": "The Beatles",
       "title": "Please Mister Postman"
+    },
+    {
+      "time": "4:47 am",
+      "artist": "Talking Heads",
+      "title": "Uh-Oh, Love Comes to Town"
     }
   ],
   "recent": [
+    {
+      "time": "4:33 am",
+      "artist": "Paul McCartney",
+      "title": "Another Day",
+      "album": "single • 1971"
+    },
     {
       "time": "4:29 am",
       "artist": "Malcolm Todd",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Madness",
       "album": "The 2nd Law • 2012"
-    },
-    {
-      "time": "2:58 am",
-      "artist": "The Dismemberment Plan",
-      "title": "What Do You Want Me to Say?",
-      "album": "Emergency & I • 1999"
     }
   ]
 }
