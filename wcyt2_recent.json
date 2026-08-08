@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T19:39:35",
+  "updatedAt": "2026-08-08T19:39:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I've Just Seen A Face",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:39 pm",
-      "artist": "The Beatles",
-      "title": "I've Just Seen A Face"
-    },
     {
       "time": "7:41 pm",
       "artist": "Paramore",
@@ -26,9 +21,20 @@
       "time": "7:50 pm",
       "artist": "Green Day",
       "title": "Welcome to Paradise"
+    },
+    {
+      "time": "7:54 pm",
+      "artist": "Neil Diamond",
+      "title": "Heartlight"
     }
   ],
   "recent": [
+    {
+      "time": "7:39 pm",
+      "artist": "The Beatles",
+      "title": "I've Just Seen A Face",
+      "album": "Help! • 1965"
+    },
     {
       "time": "7:33 pm",
       "artist": "Muse",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "SEEIN' STARS",
       "album": "NEVER ENOUGH • 2025"
-    },
-    {
-      "time": "5:57 pm",
-      "artist": "John Lennon & Yoko Ono",
-      "title": "Watching the Wheels",
-      "album": "Double Fantasy • 1980"
     }
   ]
 }
