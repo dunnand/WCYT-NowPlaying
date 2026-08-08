@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T19:46:23",
+  "updatedAt": "2026-08-08T19:50:41",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Ava Adore",
-    "album": "Adore • 1998",
+    "artist": "Green Day",
+    "title": "Welcome to Paradise",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 pm",
-      "artist": "Green Day",
-      "title": "Welcome to Paradise"
-    },
     {
       "time": "7:54 pm",
       "artist": "Neil Diamond",
@@ -21,9 +16,25 @@
       "time": "7:58 pm",
       "artist": "Nirvana",
       "title": "Been a Son"
+    },
+    {
+      "time": "8:01 pm",
+      "artist": "Turnstile",
+      "title": "DULL"
+    },
+    {
+      "time": "8:03 pm",
+      "artist": "OK Go",
+      "title": "Get Over It"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 pm",
+      "artist": "Green Day",
+      "title": "Welcome to Paradise",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "7:46 pm",
       "artist": "The Smashing Pumpkins",
@@ -167,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Daft Punk Is Playing At My House",
       "album": "LCD Soundsystem • 2005"
-    },
-    {
-      "time": "6:08 pm",
-      "artist": "Syd Barrett",
-      "title": "Octopus",
-      "album": "The Madcap Laughs • 1970"
     }
   ]
 }
