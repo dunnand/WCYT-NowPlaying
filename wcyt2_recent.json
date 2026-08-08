@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T21:04:38",
+  "updatedAt": "2026-08-07T21:04:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Amy Grant",
+    "title": "Every Heartbeat",
+    "album": "Heart in Motion • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:04 pm",
-      "artist": "Amy Grant",
-      "title": "Every Heartbeat"
-    },
     {
       "time": "9:08 pm",
       "artist": "Arrested Development",
@@ -26,9 +21,20 @@
       "time": "9:15 pm",
       "artist": "Scandal",
       "title": "The Warrior feat. Patty Smyth"
+    },
+    {
+      "time": "9:19 pm",
+      "artist": "The Killers",
+      "title": "Caution"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 pm",
+      "artist": "Amy Grant",
+      "title": "Every Heartbeat",
+      "album": "Heart in Motion • 1991"
+    },
     {
       "time": "9:00 pm",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Penny Lane",
       "album": "Magical Mystery Tour • 1967"
-    },
-    {
-      "time": "7:31 pm",
-      "artist": "The Buggles",
-      "title": "Video Killed The Radio Star",
-      "album": "The Age of Plastic • 1979"
     }
   ]
 }
