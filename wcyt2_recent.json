@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T05:47:04",
+  "updatedAt": "2026-08-08T05:50:10",
   "now": {
-    "artist": "Delta 5",
-    "title": "Mind Your Own Business",
-    "album": "Mind Your Own Business • 1979",
+    "artist": "Jeff Buckley",
+    "title": "Grace",
+    "album": "Grace • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:50 am",
-      "artist": "Jeff Buckley",
-      "title": "Grace"
-    },
     {
       "time": "5:55 am",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "5:57 am",
       "artist": "The Mountain Goats",
       "title": "Letter From Belgium"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "The Beatles",
+      "title": "P.S. I Love You"
     }
   ],
   "recent": [
+    {
+      "time": "5:50 am",
+      "artist": "Jeff Buckley",
+      "title": "Grace",
+      "album": "Grace • 1994"
+    },
     {
       "time": "5:47 am",
       "artist": "Delta 5",
@@ -167,12 +173,6 @@
       "artist": "Gang Starr",
       "title": "Mass Appeal",
       "album": "Hard to Earn • 1994"
-    },
-    {
-      "time": "4:13 am",
-      "artist": "Fugees",
-      "title": "Fu-Gee-La",
-      "album": "The Score • 1996"
     }
   ]
 }
