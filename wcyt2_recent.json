@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T12:23:06",
+  "updatedAt": "2026-08-08T12:26:31",
   "now": {
-    "artist": "ABBA",
-    "title": "Mamma Mia",
-    "album": "ABBA • 1975",
+    "artist": "Barry Manilow",
+    "title": "I Write The Songs",
+    "album": "Tryin' to Get the Feeling • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:26 pm",
-      "artist": "Barry Manilow",
-      "title": "I Write The Songs"
-    },
     {
       "time": "12:30 pm",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "12:37 pm",
       "artist": "Bill Withers",
       "title": "Use Me"
+    },
+    {
+      "time": "12:41 pm",
+      "artist": "Talk Talk",
+      "title": "New Grass"
     }
   ],
   "recent": [
+    {
+      "time": "12:26 pm",
+      "artist": "Barry Manilow",
+      "title": "I Write The Songs",
+      "album": "Tryin' to Get the Feeling • 1975"
+    },
     {
       "time": "12:23 pm",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "King of the Rodeo",
       "album": "Aha Shake Heartbreak • 2004"
-    },
-    {
-      "time": "10:53 am",
-      "artist": "Elvis Presley",
-      "title": "Don't",
-      "album": "single • 1958"
     }
   ]
 }
