@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T05:32:41",
+  "updatedAt": "2026-08-08T05:36:38",
   "now": {
-    "artist": "The Doors",
-    "title": "Roadhouse Blues",
-    "album": "Morrison Hotel • 1970",
+    "artist": "The Beatles",
+    "title": "She's A Woman",
+    "album": "single • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:36 am",
-      "artist": "The Beatles",
-      "title": "She's A Woman"
-    },
     {
       "time": "5:39 am",
       "artist": "Wire",
@@ -26,9 +21,20 @@
       "time": "5:47 am",
       "artist": "Delta 5",
       "title": "Mind Your Own Business"
+    },
+    {
+      "time": "5:50 am",
+      "artist": "Jeff Buckley",
+      "title": "Grace"
     }
   ],
   "recent": [
+    {
+      "time": "5:36 am",
+      "artist": "The Beatles",
+      "title": "She's A Woman",
+      "album": "single • 1964"
+    },
     {
       "time": "5:32 am",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "Modest Mouse",
       "title": "One Chance",
       "album": "Good News for People Who Love Bad News • 2004"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "Patsy Cline",
-      "title": "Walkin' After Midnight",
-      "album": "Patsy Cline • 1957"
     }
   ]
 }
