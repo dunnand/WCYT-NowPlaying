@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T00:12:12",
+  "updatedAt": "2026-08-08T00:12:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Baby You're a Rich Man",
+    "album": "single • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 am",
-      "artist": "The Beatles",
-      "title": "Baby You're a Rich Man"
-    },
     {
       "time": "12:15 am",
       "artist": "Lorde",
@@ -26,9 +21,20 @@
       "time": "12:24 am",
       "artist": "Built to Spill",
       "title": "I Would Hurt a Fly"
+    },
+    {
+      "time": "12:29 am",
+      "artist": "Prince",
+      "title": "Uptown"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 am",
+      "artist": "The Beatles",
+      "title": "Baby You're a Rich Man",
+      "album": "single • 1967"
+    },
     {
       "time": "12:07 am",
       "artist": "Lightning Bolt",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Caution",
       "album": "Imploding the Mirage • 2020"
-    },
-    {
-      "time": "9:15 pm",
-      "artist": "Scandal",
-      "title": "The Warrior feat. Patty Smyth",
-      "album": "Warrior • 1984"
     }
   ]
 }
