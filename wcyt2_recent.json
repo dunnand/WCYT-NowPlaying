@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T00:52:34",
+  "updatedAt": "2026-08-08T00:56:38",
   "now": {
-    "artist": "Pink",
-    "title": "Just Give Me A Reason",
-    "album": "The Truth About Love • 2012",
+    "artist": "Chicago",
+    "title": "Saturday In The Park",
+    "album": "Chicago V • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:56 am",
-      "artist": "Chicago",
-      "title": "Saturday In The Park"
-    },
     {
       "time": "1:00 am",
       "artist": "Bush",
@@ -26,9 +21,20 @@
       "time": "1:08 am",
       "artist": "JAY",
       "title": "Z - Run This Town"
+    },
+    {
+      "time": "1:12 am",
+      "artist": "Lupe Fiasco",
+      "title": "Superstar (feat. Matthew Santos)"
     }
   ],
   "recent": [
+    {
+      "time": "12:56 am",
+      "artist": "Chicago",
+      "title": "Saturday In The Park",
+      "album": "Chicago V • 1972"
+    },
     {
       "time": "12:52 am",
       "artist": "Pink",
@@ -172,12 +178,6 @@
       "artist": "Boards of Canada",
       "title": "Roygbiv",
       "album": "Music Has The Right To Children • 1998"
-    },
-    {
-      "time": "10:01 pm",
-      "artist": "Passion Pit",
-      "title": "Take A Walk",
-      "album": "Gossamer • 2012"
     }
   ]
 }
