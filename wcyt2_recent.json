@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T02:03:46",
+  "updatedAt": "2026-08-08T02:03:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Doors",
+    "title": "Hello, I Love You",
+    "album": "Waiting for the Sun • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 am",
-      "artist": "The Doors",
-      "title": "Hello, I Love You"
-    },
     {
       "time": "2:06 am",
       "artist": "M.I.A.",
@@ -26,9 +21,20 @@
       "time": "2:14 am",
       "artist": "Digable Planets",
       "title": "9th Wonder (Blackitolism)"
+    },
+    {
+      "time": "2:18 am",
+      "artist": "Madonna",
+      "title": "Borderline"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 am",
+      "artist": "The Doors",
+      "title": "Hello, I Love You",
+      "album": "Waiting for the Sun • 1968"
+    },
     {
       "time": "2:01 am",
       "artist": "The Mountain Goats",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "august",
       "album": "folklore • 2020"
-    },
-    {
-      "time": "12:35 am",
-      "artist": "Queen Latifah",
-      "title": "Ladies First",
-      "album": "All Hail the Queen • 1989"
     }
   ]
 }
