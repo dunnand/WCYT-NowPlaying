@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T05:32:29",
+  "updatedAt": "2026-08-08T05:32:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Doors",
+    "title": "Roadhouse Blues",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 am",
-      "artist": "The Doors",
-      "title": "Roadhouse Blues"
-    },
     {
       "time": "5:36 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "5:41 am",
       "artist": "Traffic",
       "title": "Dear Mr. Fantasy"
+    },
+    {
+      "time": "5:47 am",
+      "artist": "Delta 5",
+      "title": "Mind Your Own Business"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 am",
+      "artist": "The Doors",
+      "title": "Roadhouse Blues",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "5:28 am",
       "artist": "Kassi Valazza",
@@ -172,12 +178,6 @@
       "artist": "Patsy Cline",
       "title": "Walkin' After Midnight",
       "album": "Patsy Cline • 1957"
-    },
-    {
-      "time": "3:53 am",
-      "artist": "Fugazi",
-      "title": "Repeater",
-      "album": "Repeater • 1990"
     }
   ]
 }
