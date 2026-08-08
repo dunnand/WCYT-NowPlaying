@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T00:39:23",
+  "updatedAt": "2026-08-08T00:43:38",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "august",
-    "album": "folklore • 2020",
-    "category": "AUDIO"
+    "artist": "The National",
+    "title": "Abel",
+    "album": "Alligator • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:43 am",
-      "artist": "The National",
-      "title": "Abel"
-    },
     {
       "time": "12:47 am",
       "artist": "Buzzcocks",
@@ -26,9 +21,20 @@
       "time": "12:52 am",
       "artist": "Pink",
       "title": "Just Give Me A Reason"
+    },
+    {
+      "time": "12:56 am",
+      "artist": "Chicago",
+      "title": "Saturday In The Park"
     }
   ],
   "recent": [
+    {
+      "time": "12:43 am",
+      "artist": "The National",
+      "title": "Abel",
+      "album": "Alligator • 2005"
+    },
     {
       "time": "12:39 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "The Flamingos",
       "title": "I Only Have Eyes for You",
       "album": "Flamingo Serenade • 1959"
-    },
-    {
-      "time": "9:45 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Sleep the Clock Around",
-      "album": "The Boy with the Arab Strap • 1998"
     }
   ]
 }
