@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T17:15:12",
+  "updatedAt": "2026-08-08T17:17:45",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Like Me Too Much",
-    "album": "Help! • 1965",
+    "artist": "Rodriguez",
+    "title": "Climb Up on My Music",
+    "album": "Coming from Reality • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:17 pm",
-      "artist": "Rodriguez",
-      "title": "Climb Up on My Music"
-    },
     {
       "time": "5:22 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "5:27 pm",
       "artist": "L7",
       "title": "Pretend We're Dead"
+    },
+    {
+      "time": "5:31 pm",
+      "artist": "Dell",
+      "title": "Vikings - Come Go With Me"
     }
   ],
   "recent": [
+    {
+      "time": "5:17 pm",
+      "artist": "Rodriguez",
+      "title": "Climb Up on My Music",
+      "album": "Coming from Reality • 1971"
+    },
     {
       "time": "5:15 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Turtles",
       "title": "Elenore",
       "album": "The Turtles Present the Battle of the Bands • 1968"
-    },
-    {
-      "time": "3:41 pm",
-      "artist": "Kings of Leon",
-      "title": "Molly's Chambers",
-      "album": "Youth & Young Manhood • 2003"
     }
   ]
 }
