@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-08T07:52:52",
+  "updatedAt": "2026-08-08T07:55:55",
   "now": {
-    "artist": "Neil Young",
-    "title": "Heart Of Gold",
-    "album": "Harvest • 1972",
+    "artist": "Michael Jackson",
+    "title": "Earth Song",
+    "album": "HIStory: Past, Present And Future - Book I • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:55 am",
-      "artist": "Michael Jackson",
-      "title": "Earth Song"
-    },
-    {
-      "time": "8:02 am",
+      "time": "8:01 am",
       "artist": "Prince",
       "title": "Manic Monday"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "Michael Jackson",
+      "title": "Earth Song",
+      "album": "HIStory: Past, Present And Future - Book I • 1995"
+    },
     {
       "time": "7:52 am",
       "artist": "Neil Young",
@@ -172,12 +173,6 @@
       "artist": "Low",
       "title": "Over the Ocean",
       "album": "The Curtain Hits The Cast • 1996"
-    },
-    {
-      "time": "6:07 am",
-      "artist": "John Prine",
-      "title": "The Sins of Memphisto",
-      "album": "The Missing Years • 1991"
     }
   ]
 }
