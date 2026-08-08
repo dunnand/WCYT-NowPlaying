@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T02:37:41",
+  "updatedAt": "2026-08-08T02:38:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Lennon",
+    "title": "Mind Games",
+    "album": "Mind Games • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:38 am",
-      "artist": "John Lennon",
-      "title": "Mind Games"
-    },
     {
       "time": "2:42 am",
       "artist": "Green Day",
@@ -31,9 +26,20 @@
       "time": "2:59 am",
       "artist": "The Dismemberment Plan",
       "title": "What Do You Want Me to Say?"
+    },
+    {
+      "time": "3:03 am",
+      "artist": "Muse",
+      "title": "Madness"
     }
   ],
   "recent": [
+    {
+      "time": "2:38 am",
+      "artist": "John Lennon",
+      "title": "Mind Games",
+      "album": "Mind Games • 1973"
+    },
     {
       "time": "2:32 am",
       "artist": "Joanna Newsom",
@@ -177,12 +183,6 @@
       "artist": "JAY-Z",
       "title": "Run This Town",
       "album": "The Blueprint 3 • 2009"
-    },
-    {
-      "time": "1:04 am",
-      "artist": "Jason Isbell and the 400 Unit",
-      "title": "Hope the High Road",
-      "album": "The Nashville Sound • 2017"
     }
   ]
 }
