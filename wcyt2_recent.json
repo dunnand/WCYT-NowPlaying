@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T17:22:31",
+  "updatedAt": "2026-08-08T17:24:35",
   "now": {
-    "artist": "The Beatles",
-    "title": "All My Loving",
-    "album": "With the Beatles • 1963",
+    "artist": "Santana",
+    "title": "Evil Ways",
+    "album": "Santana • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:24 pm",
-      "artist": "Santana",
-      "title": "Evil Ways"
-    },
     {
       "time": "5:27 pm",
       "artist": "L7",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:24 pm",
+      "artist": "Santana",
+      "title": "Evil Ways",
+      "album": "Santana • 1970"
+    },
     {
       "time": "5:22 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Climbing Up the Walls",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "3:46 pm",
-      "artist": "Preservation Hall Jazz Band",
-      "title": "That's It!",
-      "album": "Preservation Hall Jazz Band • 2013"
     }
   ]
 }
