@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T08:36:49",
+  "updatedAt": "2026-08-08T08:40:45",
   "now": {
-    "artist": "Rod Stewart",
-    "title": "Gasoline Alley",
-    "album": "Gasoline Alley • 1970",
+    "artist": "The Beatles",
+    "title": "The Inner Light",
+    "album": "I Call Your Name • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 am",
-      "artist": "The Beatles",
-      "title": "The Inner Light"
-    },
     {
       "time": "8:43 am",
       "artist": "Rolling Stones",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:40 am",
+      "artist": "The Beatles",
+      "title": "The Inner Light",
+      "album": "I Call Your Name • 1968"
+    },
     {
       "time": "8:36 am",
       "artist": "Rod Stewart",
@@ -177,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "All I Want",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "7:00 am",
-      "artist": "Gorillaz",
-      "title": "Dirty Harry",
-      "album": "Demon Days • 2005"
     }
   ]
 }
