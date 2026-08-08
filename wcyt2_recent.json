@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T01:48:34",
+  "updatedAt": "2026-08-08T01:50:36",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yesterday",
-    "album": "Help! • 1965",
+    "artist": "Funkadelic",
+    "title": "Hit It and Quit It",
+    "album": "Maggot Brain • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 am",
-      "artist": "Funkadelic",
-      "title": "Hit It and Quit It"
-    },
     {
       "time": "1:54 am",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "2:01 am",
       "artist": "The Mountain Goats",
       "title": "Onions"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "The Doors",
+      "title": "Hello, I Love You"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "Funkadelic",
+      "title": "Hit It and Quit It",
+      "album": "Maggot Brain • 1971"
+    },
     {
       "time": "1:48 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Bryan Adams",
       "title": "Please Forgive Me",
       "album": "So Far So Good • 1993"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "Lorde",
-      "title": "The Louvre",
-      "album": "Melodrama • 2017"
     }
   ]
 }
