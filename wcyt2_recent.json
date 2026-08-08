@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T07:34:14",
+  "updatedAt": "2026-08-08T07:34:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Donna Summer",
+    "title": "I Feel Love",
+    "album": "I Remember Yesterday • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:34 am",
-      "artist": "Donna Summer",
-      "title": "I Feel Love"
-    },
     {
       "time": "7:42 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:50 am",
       "artist": "Townes Van Zandt",
       "title": "Lungs"
+    },
+    {
+      "time": "7:53 am",
+      "artist": "Neil Young",
+      "title": "Heart Of Gold"
     }
   ],
   "recent": [
+    {
+      "time": "7:34 am",
+      "artist": "Donna Summer",
+      "title": "I Feel Love",
+      "album": "I Remember Yesterday • 1977"
+    },
     {
       "time": "7:31 am",
       "artist": "Yola",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Maybelene",
       "album": "After School Session • 1957"
-    },
-    {
-      "time": "5:50 am",
-      "artist": "Jeff Buckley",
-      "title": "Grace",
-      "album": "Grace • 1994"
     }
   ]
 }
