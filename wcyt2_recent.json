@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T15:23:56",
+  "updatedAt": "2026-08-08T15:24:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Denver",
+    "title": "Back Home Again",
+    "album": "Back Home Again • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:23 pm",
-      "artist": "John Denver",
-      "title": "Back Home Again"
-    },
     {
       "time": "3:28 pm",
       "artist": "The Byrds",
@@ -31,9 +26,20 @@
       "time": "3:38 pm",
       "artist": "Fats Domino",
       "title": "Ain't That A Shame?"
+    },
+    {
+      "time": "3:41 pm",
+      "artist": "Kings of Leon",
+      "title": "Molly's Chambers"
     }
   ],
   "recent": [
+    {
+      "time": "3:24 pm",
+      "artist": "John Denver",
+      "title": "Back Home Again",
+      "album": "Back Home Again • 1974"
+    },
     {
       "time": "3:21 pm",
       "artist": "The Kinks",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Your Mother Should Know",
       "album": "Magical Mystery Tour • 1967"
-    },
-    {
-      "time": "1:49 pm",
-      "artist": "Ke$ha",
-      "title": "Tik Tok",
-      "album": "Animal • 2009"
     }
   ]
 }
