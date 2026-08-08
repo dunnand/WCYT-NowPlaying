@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T07:04:26",
+  "updatedAt": "2026-08-08T07:10:54",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "All I Want",
-    "album": "This Is Happening • 2010",
-    "category": "TUNES"
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "album": "Metallica • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 am",
-      "artist": "Metallica",
-      "title": "Enter Sandman"
-    },
     {
       "time": "7:16 am",
       "artist": "Michael Bolton",
@@ -26,9 +21,20 @@
       "time": "7:26 am",
       "artist": "Lionel Richie",
       "title": "Running With The Night"
+    },
+    {
+      "time": "7:32 am",
+      "artist": "Yola",
+      "title": "Shady Grove"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 am",
+      "artist": "Metallica",
+      "title": "Enter Sandman",
+      "album": "Metallica • 1991"
+    },
     {
       "time": "7:04 am",
       "artist": "LCD Soundsystem",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "She's A Woman",
       "album": "single • 1964"
-    },
-    {
-      "time": "5:32 am",
-      "artist": "The Doors",
-      "title": "Roadhouse Blues",
-      "album": "Morrison Hotel • 1970"
     }
   ]
 }
