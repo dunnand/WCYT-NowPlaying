@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T15:28:43",
+  "updatedAt": "2026-08-08T15:31:47",
   "now": {
-    "artist": "The Byrds",
-    "title": "My Back Pages",
-    "album": "Younger Than Yesterday • 1967",
+    "artist": "Joy Division",
+    "title": "Transmission",
+    "album": "Single • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:31 pm",
-      "artist": "Joy Division",
-      "title": "Transmission"
-    },
     {
       "time": "3:35 pm",
       "artist": "Mr. Big",
@@ -26,9 +21,20 @@
       "time": "3:41 pm",
       "artist": "Kings of Leon",
       "title": "Molly's Chambers"
+    },
+    {
+      "time": "3:43 pm",
+      "artist": "The Turtles",
+      "title": "Elenore"
     }
   ],
   "recent": [
+    {
+      "time": "3:31 pm",
+      "artist": "Joy Division",
+      "title": "Transmission",
+      "album": "Single • 1979"
+    },
     {
       "time": "3:28 pm",
       "artist": "The Byrds",
@@ -172,12 +178,6 @@
       "artist": "Wallflowers",
       "title": "The Difference",
       "album": "Bringing Down the Horse • 1997"
-    },
-    {
-      "time": "1:54 pm",
-      "artist": "Radiohead",
-      "title": "Lotus Flower",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
