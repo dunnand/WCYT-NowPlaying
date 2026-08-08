@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T01:40:27",
+  "updatedAt": "2026-08-08T01:43:22",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Our House",
-    "album": "Dj Vu • 1970",
+    "artist": "The Beatles",
+    "title": "I'm Happy Just To Dance With You",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 am",
-      "artist": "The Beatles",
-      "title": "I'm Happy Just To Dance With You"
-    },
     {
       "time": "1:45 am",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "1:50 am",
       "artist": "Funkadelic",
       "title": "Hit It and Quit It"
+    },
+    {
+      "time": "1:54 am",
+      "artist": "David Byrne",
+      "title": "Angels"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 am",
+      "artist": "The Beatles",
+      "title": "I'm Happy Just To Dance With You",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "1:40 am",
       "artist": "Crosby, Stills, Nash & Young",
@@ -172,12 +178,6 @@
       "artist": "Lightning Bolt",
       "title": "Dracula Mountain",
       "album": "Wonderful Rainbow • 2003"
-    },
-    {
-      "time": "12:02 am",
-      "artist": "Louis Armstrong",
-      "title": "A Kiss to Build a Dream On",
-      "album": "Hello, Dolly! • 1951"
     }
   ]
 }
