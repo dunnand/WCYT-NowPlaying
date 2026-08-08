@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T08:40:45",
+  "updatedAt": "2026-08-08T08:43:08",
   "now": {
-    "artist": "The Beatles",
-    "title": "The Inner Light",
-    "album": "I Call Your Name • 1968",
+    "artist": "Rolling Stones",
+    "title": "Can't You Hear Me Knocking",
+    "album": "Sticky Fingers • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:43 am",
-      "artist": "Rolling Stones",
-      "title": "Can't You Hear Me Knocking"
-    },
     {
       "time": "8:50 am",
       "artist": "The Presidents of the United States of America",
@@ -26,9 +21,20 @@
       "time": "8:55 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Supernaturally"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "Turtles",
+      "title": "Happy Together"
     }
   ],
   "recent": [
+    {
+      "time": "8:43 am",
+      "artist": "Rolling Stones",
+      "title": "Can't You Hear Me Knocking",
+      "album": "Sticky Fingers • 1971"
+    },
     {
       "time": "8:40 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Metallica",
       "title": "Enter Sandman",
       "album": "Metallica • 1991"
-    },
-    {
-      "time": "7:04 am",
-      "artist": "LCD Soundsystem",
-      "title": "All I Want",
-      "album": "This Is Happening • 2010"
     }
   ]
 }
