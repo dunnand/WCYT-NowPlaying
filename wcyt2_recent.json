@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T09:55:45",
+  "updatedAt": "2026-08-08T10:00:20",
   "now": {
-    "artist": "Public Enemy",
-    "title": "Fight the Power",
-    "album": "Fear of a Black Planet • 1990",
+    "artist": "Leon Bridges",
+    "title": "River",
+    "album": "Coming Home • 2015",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 am",
-      "artist": "Leon Bridges",
-      "title": "River"
-    },
     {
       "time": "10:04 am",
       "artist": "Pearl Jam",
@@ -21,9 +16,20 @@
       "time": "10:07 am",
       "artist": "Kings of Leon",
       "title": "Closer"
+    },
+    {
+      "time": "10:11 am",
+      "artist": "Johnny Cash",
+      "title": "Ain't No Grave"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 am",
+      "artist": "Leon Bridges",
+      "title": "River",
+      "album": "Coming Home • 2015"
+    },
     {
       "time": "9:55 am",
       "artist": "Public Enemy",
@@ -167,12 +173,6 @@
       "artist": "Meat Puppets",
       "title": "Reward",
       "album": "Meat Puppets • 1982"
-    },
-    {
-      "time": "8:19 am",
-      "artist": "Pixies",
-      "title": "Hey",
-      "album": "Doolittle • 1999"
     }
   ]
 }
