@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T19:18:44",
+  "updatedAt": "2026-08-08T19:18:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Specials",
+    "title": "Nite Klub",
+    "album": "Specials • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:18 pm",
-      "artist": "The Specials",
-      "title": "Nite Klub"
-    },
     {
       "time": "7:22 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "7:31 pm",
       "artist": "Chuck Berry",
       "title": "Brown Eyed Handsome Man"
+    },
+    {
+      "time": "7:33 pm",
+      "artist": "Muse",
+      "title": "Knights of Cydonia"
     }
   ],
   "recent": [
+    {
+      "time": "7:18 pm",
+      "artist": "The Specials",
+      "title": "Nite Klub",
+      "album": "Specials • 1979"
+    },
     {
       "time": "7:15 pm",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Doors",
       "title": "Light My Fire",
       "album": "The Doors • 1967"
-    },
-    {
-      "time": "5:33 pm",
-      "artist": "OK Go",
-      "title": "Here It Goes Again",
-      "album": "Oh No • 2005"
     }
   ]
 }
