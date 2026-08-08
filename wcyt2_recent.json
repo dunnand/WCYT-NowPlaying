@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-07T20:58:29",
+  "updatedAt": "2026-08-07T21:00:01",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'll Follow The Sun",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Gorillaz",
+    "title": "Stylo feat. Mos Def and Bobby Womack",
+    "album": "Plastic Beach • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:00 pm",
-      "artist": "Gorillaz",
-      "title": "Stylo feat. Mos Def and Bobby Womack"
-    },
     {
       "time": "9:04 pm",
       "artist": "Amy Grant",
@@ -21,9 +16,20 @@
       "time": "9:08 pm",
       "artist": "Arrested Development",
       "title": "People Everyday"
+    },
+    {
+      "time": "9:12 pm",
+      "artist": "Todd Rundgren",
+      "title": "Bang The Drum All Day"
     }
   ],
   "recent": [
+    {
+      "time": "9:00 pm",
+      "artist": "Gorillaz",
+      "title": "Stylo feat. Mos Def and Bobby Womack",
+      "album": "Plastic Beach • 2010"
+    },
     {
       "time": "8:58 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The Buggles",
       "title": "Video Killed The Radio Star",
       "album": "The Age of Plastic • 1979"
-    },
-    {
-      "time": "7:29 pm",
-      "artist": "The Velvet Underground",
-      "title": "I'll Be Your Mirror",
-      "album": "The Velvet Underground & Nico • 1967"
     }
   ]
 }
