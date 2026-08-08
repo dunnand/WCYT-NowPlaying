@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T08:26:13",
+  "updatedAt": "2026-08-08T08:28:46",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Glitch",
-    "album": "Midnights 3am • 2022",
+    "artist": "Paul Simon",
+    "title": "Something So Right",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:28 am",
-      "artist": "Paul Simon",
-      "title": "Something So Right"
-    },
     {
       "time": "8:33 am",
       "artist": "The Beatles",
@@ -21,9 +16,25 @@
       "time": "8:36 am",
       "artist": "Rod Stewart",
       "title": "Gasoline Alley"
+    },
+    {
+      "time": "8:40 am",
+      "artist": "The Beatles",
+      "title": "The Inner Light"
+    },
+    {
+      "time": "8:43 am",
+      "artist": "Rolling Stones",
+      "title": "Can't You Hear Me Knocking"
     }
   ],
   "recent": [
+    {
+      "time": "8:28 am",
+      "artist": "Paul Simon",
+      "title": "Something So Right",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "8:26 am",
       "artist": "Taylor Swift",
@@ -167,12 +178,6 @@
       "artist": "Jason Isbell",
       "title": "Cover Me Up",
       "album": "Southeastern • 2013"
-    },
-    {
-      "time": "6:45 am",
-      "artist": "Lush",
-      "title": "Nothing Natural",
-      "album": "Spooky • 1992"
     }
   ]
 }
