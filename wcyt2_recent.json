@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T02:18:55",
+  "updatedAt": "2026-08-09T02:27:05",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Oh Comely",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Pink Triangle",
+    "album": "Pinkerton • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:27 am",
-      "artist": "Weezer",
-      "title": "Pink Triangle"
-    },
     {
       "time": "2:31 am",
       "artist": "Rob Base & D.J. E",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:27 am",
+      "artist": "Weezer",
+      "title": "Pink Triangle",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "2:18 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Panic At The Disco",
       "title": "I Write Sins Not Tragedies",
       "album": "album • 2005"
-    },
-    {
-      "time": "12:43 am",
-      "artist": "Sparks",
-      "title": "The Number One Song in Heaven",
-      "album": "No. 1 in Heaven • 1979"
     }
   ]
 }
