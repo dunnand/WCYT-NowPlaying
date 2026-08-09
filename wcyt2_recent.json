@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T13:49:26",
+  "updatedAt": "2026-08-09T13:51:22",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "All Shook Up",
-    "album": "single • 1957",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "Disco Infiltrator",
+    "album": "LCD Soundsystem • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:51 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Disco Infiltrator"
-    },
     {
       "time": "1:56 pm",
       "artist": "Toots & The Maytals",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:51 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Disco Infiltrator",
+      "album": "LCD Soundsystem • 2005"
+    },
     {
       "time": "1:49 pm",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Terence Trent D'Arby",
       "title": "Wishing Well",
       "album": "Introducing the Hardline According to Terence Trent DArby • 1988"
-    },
-    {
-      "time": "12:24 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Cover Me",
-      "album": "Born in the U.S.A. • 1984"
     }
   ]
 }
