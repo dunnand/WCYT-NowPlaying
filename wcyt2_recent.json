@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T12:31:12",
+  "updatedAt": "2026-08-09T12:34:58",
   "now": {
-    "artist": "Alice Merton",
-    "title": "run away girl",
-    "album": "Heron II • 2024",
-    "category": "AUDIO"
+    "artist": "Low",
+    "title": "Dinosaur Act",
+    "album": "Things We Lost In The Fire • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Low",
-      "title": "Dinosaur Act"
-    },
     {
       "time": "12:39 pm",
       "artist": "Lou Reed",
@@ -26,9 +21,20 @@
       "time": "12:46 pm",
       "artist": "FUN.",
       "title": "Carry On"
+    },
+    {
+      "time": "12:50 pm",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Sweet Home Alabama"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Low",
+      "title": "Dinosaur Act",
+      "album": "Things We Lost In The Fire • 2001"
+    },
     {
       "time": "12:31 pm",
       "artist": "Alice Merton",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Words of Love",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "11:03 am",
-      "artist": "Pearl Jam",
-      "title": "Better Man",
-      "album": "Vitalogy • 1994"
     }
   ]
 }
