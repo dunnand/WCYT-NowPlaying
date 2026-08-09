@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T03:11:23",
+  "updatedAt": "2026-08-09T03:14:58",
   "now": {
-    "artist": "Jessie J",
-    "title": "Price Tag",
-    "album": "Who You Are • 2011",
+    "artist": "Radiohead",
+    "title": "Subterranean Homesick Alien",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 am",
-      "artist": "Radiohead",
-      "title": "Subterranean Homesick Alien"
-    },
     {
       "time": "3:19 am",
       "artist": "Natalie Imbruglia",
@@ -21,9 +16,20 @@
       "time": "3:23 am",
       "artist": "Strawberry Switchblade",
       "title": "Trees and Flowers"
+    },
+    {
+      "time": "3:26 am",
+      "artist": "The Crash Crew",
+      "title": "On the Radio"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 am",
+      "artist": "Radiohead",
+      "title": "Subterranean Homesick Alien",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "3:11 am",
       "artist": "Jessie J",
@@ -167,12 +173,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "No Woman, No Cry",
       "album": "Natty Dread • 1974"
-    },
-    {
-      "time": "1:35 am",
-      "artist": "Fleetwood Mac",
-      "title": "Songbird",
-      "album": "Rumours • 1977"
     }
   ]
 }
