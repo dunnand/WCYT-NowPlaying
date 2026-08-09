@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T17:02:54",
+  "updatedAt": "2026-08-09T17:05:57",
   "now": {
-    "artist": "Radiohead",
-    "title": "Feral",
-    "album": "The King of Limbs • 2011",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Born on a Train",
+    "album": "The Charm of the Highway Strip • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:05 pm",
-      "artist": "The Magnetic Fields",
-      "title": "Born on a Train"
-    },
     {
       "time": "5:09 pm",
       "artist": "A Tribe Called Quest",
@@ -21,9 +16,20 @@
       "time": "5:14 pm",
       "artist": "Aerosmith",
       "title": "Janie's Got A Gun"
+    },
+    {
+      "time": "5:19 pm",
+      "artist": "Beastie Boys",
+      "title": "Hey Ladies"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 pm",
+      "artist": "The Magnetic Fields",
+      "title": "Born on a Train",
+      "album": "The Charm of the Highway Strip • 1994"
+    },
     {
       "time": "5:02 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Muse",
       "title": "Supermassive Black Hole",
       "album": "Black Holes and Revelations • 2006"
-    },
-    {
-      "time": "3:21 pm",
-      "artist": "Neil Young",
-      "title": "Shut It Down 2020",
-      "album": "Shut It Down 2020 • 2020"
     }
   ]
 }
