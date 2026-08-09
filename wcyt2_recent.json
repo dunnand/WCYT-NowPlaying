@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T09:30:48",
+  "updatedAt": "2026-08-09T09:33:43",
   "now": {
-    "artist": "They Might Be Giants",
-    "title": "I Should Be Allowed to Think",
-    "album": "John Henry • 1994",
+    "artist": "Tom Petty",
+    "title": "It's Good to Be King",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:33 am",
-      "artist": "Tom Petty",
-      "title": "It's Good to Be King"
-    },
     {
       "time": "9:38 am",
       "artist": "Janet Jackson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:33 am",
+      "artist": "Tom Petty",
+      "title": "It's Good to Be King",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "9:30 am",
       "artist": "They Might Be Giants",
@@ -172,12 +173,6 @@
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Fire Down Below",
       "album": "Night Moves • 1976"
-    },
-    {
-      "time": "7:52 am",
-      "artist": "Thunderclap Newman",
-      "title": "Something In The Air",
-      "album": "Hollywood Dream • 1969"
     }
   ]
 }
