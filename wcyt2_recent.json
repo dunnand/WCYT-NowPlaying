@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T18:14:34",
+  "updatedAt": "2026-08-09T18:16:56",
   "now": {
-    "artist": "CAKE",
-    "title": "Perhaps, Perhaps, Perhaps",
-    "album": "Fashion Nugget • 1996",
+    "artist": "Cyndi Lauper",
+    "title": "Change Of Heart",
+    "album": "True Colors • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:16 pm",
-      "artist": "Cyndi Lauper",
-      "title": "Change Of Heart"
-    },
     {
       "time": "6:21 pm",
       "artist": "Duran Duran",
@@ -21,9 +16,20 @@
       "time": "6:24 pm",
       "artist": "Foo Fighters",
       "title": "Shame Shame"
+    },
+    {
+      "time": "6:29 pm",
+      "artist": "Led Zeppelin",
+      "title": "D'yer Mak'er"
     }
   ],
   "recent": [
+    {
+      "time": "6:16 pm",
+      "artist": "Cyndi Lauper",
+      "title": "Change Of Heart",
+      "album": "True Colors • 1987"
+    },
     {
       "time": "6:14 pm",
       "artist": "CAKE",
@@ -167,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "All Tomorrow's Parties",
       "album": "The Velvet Underground & Nico • 1967"
-    },
-    {
-      "time": "4:37 pm",
-      "artist": "Dionne Warwick & The Spinners",
-      "title": "Then Came You",
-      "album": "Then Came You • 1974"
     }
   ]
 }
