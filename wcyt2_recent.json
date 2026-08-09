@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T09:19:18",
+  "updatedAt": "2026-08-09T09:19:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Ocean Breathes Salty",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:19 am",
-      "artist": "Modest Mouse",
-      "title": "Ocean Breathes Salty"
-    },
     {
       "time": "9:23 am",
       "artist": "Matchbox Twenty",
@@ -26,9 +21,20 @@
       "time": "9:31 am",
       "artist": "They Might Be Giants",
       "title": "I Should Be Allowed to Think"
+    },
+    {
+      "time": "9:34 am",
+      "artist": "Tom Petty",
+      "title": "It's Good to Be King"
     }
   ],
   "recent": [
+    {
+      "time": "9:19 am",
+      "artist": "Modest Mouse",
+      "title": "Ocean Breathes Salty",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "9:14 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Depeche Mode",
       "title": "Strangelove",
       "album": "Music for the Masses • 1987"
-    },
-    {
-      "time": "7:32 am",
-      "artist": "Daniel Johnston",
-      "title": "The Story of an Artist",
-      "album": "Don't Be Scared • 1982"
     }
   ]
 }
