@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T15:36:19",
+  "updatedAt": "2026-08-09T15:41:57",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "Oh Baby",
-    "album": "American Dream • 2017",
-    "category": "TUNES"
+    "artist": "Barbra Streisand",
+    "title": "The Way We Were",
+    "album": "The Way We Were • 1974",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:41 pm",
-      "artist": "Barbra Streisand",
-      "title": "The Way We Were"
-    },
     {
       "time": "3:45 pm",
       "artist": "Soundgarden",
@@ -26,9 +21,20 @@
       "time": "3:57 pm",
       "artist": "Modest Mouse",
       "title": "Dark Center of the Universe"
+    },
+    {
+      "time": "4:02 pm",
+      "artist": "OutKast",
+      "title": "The Way You Move"
     }
   ],
   "recent": [
+    {
+      "time": "3:41 pm",
+      "artist": "Barbra Streisand",
+      "title": "The Way We Were",
+      "album": "The Way We Were • 1974"
+    },
     {
       "time": "3:36 pm",
       "artist": "LCD Soundsystem",
@@ -172,12 +178,6 @@
       "artist": "Nirvana.",
       "title": "Lithium",
       "album": "Nevermind • 1991"
-    },
-    {
-      "time": "1:59 pm",
-      "artist": "Lana Del Rey",
-      "title": "Brooklyn Baby",
-      "album": "Ultraviolence • 2014"
     }
   ]
 }
