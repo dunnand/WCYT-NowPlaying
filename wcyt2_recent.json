@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T03:55:25",
+  "updatedAt": "2026-08-09T04:01:41",
   "now": {
-    "artist": "The Who",
-    "title": "Who Are You",
-    "album": "Who Are You • 1978",
+    "artist": "Marc Anthony",
+    "title": "I Need To Know",
+    "album": "Marc Anthony • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:01 am",
-      "artist": "Marc Anthony",
-      "title": "I Need To Know"
-    },
     {
       "time": "4:04 am",
       "artist": "Ritchie Valens",
@@ -21,9 +16,20 @@
       "time": "4:06 am",
       "artist": "Panda Bear",
       "title": "Bros"
+    },
+    {
+      "time": "4:19 am",
+      "artist": "The Beatles",
+      "title": "Tell Me Why"
     }
   ],
   "recent": [
+    {
+      "time": "4:01 am",
+      "artist": "Marc Anthony",
+      "title": "I Need To Know",
+      "album": "Marc Anthony • 1999"
+    },
     {
       "time": "3:55 am",
       "artist": "The Who",
@@ -167,12 +173,6 @@
       "artist": "Weezer",
       "title": "Pink Triangle",
       "album": "Pinkerton • 1996"
-    },
-    {
-      "time": "2:18 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Oh Comely",
-      "album": "In The Aeroplane Over The Sea • 1998"
     }
   ]
 }
