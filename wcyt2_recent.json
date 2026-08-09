@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T05:21:07",
+  "updatedAt": "2026-08-09T05:25:23",
   "now": {
-    "artist": "Aerosmith",
-    "title": "I Don't Want To Miss A Thing",
-    "album": "Armageddon: The Album • 1998",
+    "artist": "Alice in Chains",
+    "title": "Down in a Hole",
+    "album": "Dirt • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:25 am",
-      "artist": "Alice in Chains",
-      "title": "Down in a Hole"
-    },
     {
       "time": "5:31 am",
       "artist": "Talking Heads",
@@ -23,12 +18,18 @@
       "title": "You Dropped A Bomb On Me"
     },
     {
-      "time": "5:41 am",
+      "time": "5:40 am",
       "artist": "Yola",
       "title": "I Don't Wanna Lie"
     }
   ],
   "recent": [
+    {
+      "time": "5:25 am",
+      "artist": "Alice in Chains",
+      "title": "Down in a Hole",
+      "album": "Dirt • 1992"
+    },
     {
       "time": "5:21 am",
       "artist": "Aerosmith",
@@ -172,12 +173,6 @@
       "artist": "LCD Soundsystem",
       "title": "Losing My Edge",
       "album": "LCD Soundsystem • 2005"
-    },
-    {
-      "time": "3:39 am",
-      "artist": "John Prine",
-      "title": "Sam Stone",
-      "album": "John Prine • 1971"
     }
   ]
 }
