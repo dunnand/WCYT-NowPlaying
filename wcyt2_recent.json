@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T15:56:57",
+  "updatedAt": "2026-08-09T15:57:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Dark Center of the Universe",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:57 pm",
-      "artist": "Modest Mouse",
-      "title": "Dark Center of the Universe"
-    },
     {
       "time": "4:02 pm",
       "artist": "OutKast",
@@ -26,9 +21,20 @@
       "time": "4:09 pm",
       "artist": "Mase",
       "title": "Feels So Good"
+    },
+    {
+      "time": "4:13 pm",
+      "artist": "Nine Inch Nails",
+      "title": "Hurt"
     }
   ],
   "recent": [
+    {
+      "time": "3:57 pm",
+      "artist": "Modest Mouse",
+      "title": "Dark Center of the Universe",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "3:50 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "The Pysychedlic Furs",
       "title": "Pretty In Pink",
       "album": "Talk Talk Talk • 1981"
-    },
-    {
-      "time": "2:12 pm",
-      "artist": "U2",
-      "title": "Pride (In The Name Of Love)",
-      "album": "The Unforgettable Fire • 1984"
     }
   ]
 }
