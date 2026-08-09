@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T22:35:56",
+  "updatedAt": "2026-08-08T22:36:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Parklife",
+    "album": "Parklife • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:36 pm",
-      "artist": "Blur",
-      "title": "Parklife"
-    },
     {
       "time": "10:39 pm",
       "artist": "Portishead",
@@ -26,9 +21,20 @@
       "time": "10:45 pm",
       "artist": "They Might Be Giants",
       "title": "Don't Let's Start"
+    },
+    {
+      "time": "10:48 pm",
+      "artist": "Grimes",
+      "title": "IDORU"
     }
   ],
   "recent": [
+    {
+      "time": "10:36 pm",
+      "artist": "Blur",
+      "title": "Parklife",
+      "album": "Parklife • 1994"
+    },
     {
       "time": "10:32 pm",
       "artist": "Katy Perry",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Changes",
       "album": "Hunky Dory • 1971"
-    },
-    {
-      "time": "9:05 pm",
-      "artist": "Loretta Lynn",
-      "title": "Portland, Oregon feat. Jack White",
-      "album": "Van Lear Rose • 2004"
     }
   ]
 }
