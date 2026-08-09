@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T17:00:24",
+  "updatedAt": "2026-08-09T17:00:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "You're Going To Lose That Girl",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 pm",
-      "artist": "The Beatles",
-      "title": "You're Going To Lose That Girl"
-    },
     {
       "time": "5:02 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:10 pm",
       "artist": "A Tribe Called Quest",
       "title": "Can I Kick It?"
+    },
+    {
+      "time": "5:14 pm",
+      "artist": "Aerosmith",
+      "title": "Janie's Got A Gun"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 pm",
+      "artist": "The Beatles",
+      "title": "You're Going To Lose That Girl",
+      "album": "Help! • 1965"
+    },
     {
       "time": "4:57 pm",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "The D.O.C.",
       "title": "It's Funky Enough",
       "album": "No One Can Do It Better • 1989"
-    },
-    {
-      "time": "3:12 pm",
-      "artist": "Rufus",
-      "title": "Ain't Nobody Feat. Chaka Khan",
-      "album": "Stompin' at the Savoy • 1983"
     }
   ]
 }
