@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T17:58:05",
+  "updatedAt": "2026-08-09T17:58:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Prince",
+    "title": "Musicology",
+    "album": "Musicology • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:58 pm",
-      "artist": "Prince",
-      "title": "Musicology"
-    },
     {
       "time": "6:02 pm",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "6:10 pm",
       "artist": "Bjork",
       "title": "I Miss You"
+    },
+    {
+      "time": "6:14 pm",
+      "artist": "CAKE",
+      "title": "Perhaps, Perhaps, Perhaps"
     }
   ],
   "recent": [
+    {
+      "time": "5:58 pm",
+      "artist": "Prince",
+      "title": "Musicology",
+      "album": "Musicology • 2004"
+    },
     {
       "time": "5:54 pm",
       "artist": "Joey Bad",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "Live To Tell",
       "album": "True Blue • 1986"
-    },
-    {
-      "time": "4:13 pm",
-      "artist": "Nine Inch Nails",
-      "title": "Hurt",
-      "album": "The Downward Spiral • 1994"
     }
   ]
 }
