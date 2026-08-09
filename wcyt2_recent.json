@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T08:30:46",
+  "updatedAt": "2026-08-09T08:31:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Phil Collins",
+    "title": "Everyday",
+    "album": "Both Sides • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:31 am",
-      "artist": "Phil Collins",
-      "title": "Everyday"
-    },
     {
       "time": "8:36 am",
       "artist": "Galaxie 500",
@@ -26,9 +21,20 @@
       "time": "8:44 am",
       "artist": "Little Simz",
       "title": "Introvert"
+    },
+    {
+      "time": "8:50 am",
+      "artist": "Pearl Jam",
+      "title": "Life Wasted"
     }
   ],
   "recent": [
+    {
+      "time": "8:31 am",
+      "artist": "Phil Collins",
+      "title": "Everyday",
+      "album": "Both Sides • 1993"
+    },
     {
       "time": "8:26 am",
       "artist": "New Radicals",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "The Long and Winding Road",
       "album": "Let It Be • 1970"
-    },
-    {
-      "time": "6:52 am",
-      "artist": "The Kinks",
-      "title": "Waterloo Sunset",
-      "album": "Something Else by the Kinks • 1967"
     }
   ]
 }
