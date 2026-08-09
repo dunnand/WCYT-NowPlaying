@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T12:58:38",
+  "updatedAt": "2026-08-09T13:00:52",
   "now": {
-    "artist": "Little Richard",
-    "title": "Keep a Knockin'",
-    "album": "Little Richard • 1958",
-    "category": "AUDIO"
+    "artist": "Iron & Wine",
+    "title": "Passing Afternoon",
+    "album": "Our Endless Numbered Days • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:00 pm",
-      "artist": "Iron & Wine",
-      "title": "Passing Afternoon"
-    },
     {
       "time": "1:04 pm",
       "artist": "The Zombies",
@@ -21,9 +16,20 @@
       "time": "1:08 pm",
       "artist": "Mike Posner",
       "title": "Cooler Than Me"
+    },
+    {
+      "time": "1:12 pm",
+      "artist": "The Flaming Lips",
+      "title": "Waitin' For a Superman"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 pm",
+      "artist": "Iron & Wine",
+      "title": "Passing Afternoon",
+      "album": "Our Endless Numbered Days • 2004"
+    },
     {
       "time": "12:58 pm",
       "artist": "Little Richard",
@@ -167,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "'Cross the Breeze",
       "album": "Daydream Nation • 1988"
-    },
-    {
-      "time": "11:25 am",
-      "artist": "Run-D.M.C.",
-      "title": "It's Like That",
-      "album": "Run-D.M.C. • 1984"
     }
   ]
 }
