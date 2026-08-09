@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T01:53:59",
+  "updatedAt": "2026-08-09T01:59:05",
   "now": {
-    "artist": "Elton John",
-    "title": "Honky Cat",
-    "album": "Honky Chteau • 1972",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Interstate 8",
+    "album": "Building Nothing out of Something • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:59 am",
-      "artist": "Modest Mouse",
-      "title": "Interstate 8"
-    },
     {
       "time": "2:03 am",
       "artist": "Macklemore",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:59 am",
+      "artist": "Modest Mouse",
+      "title": "Interstate 8",
+      "album": "Building Nothing out of Something • 1999"
+    },
     {
       "time": "1:53 am",
       "artist": "Elton John",
@@ -172,12 +173,6 @@
       "artist": "Goldfinger",
       "title": "Superman",
       "album": "Hang-Ups • 1997"
-    },
-    {
-      "time": "12:13 am",
-      "artist": "Macy Gray",
-      "title": "I Try",
-      "album": "On How Life Is • 1999"
     }
   ]
 }
