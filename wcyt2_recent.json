@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T18:29:14",
+  "updatedAt": "2026-08-09T18:33:29",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "D'yer Mak'er",
-    "album": "Houses of the Holy • 1973",
+    "artist": "The Beatles",
+    "title": "I Want To Hold Your Hand",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:33 pm",
-      "artist": "The Beatles",
-      "title": "I Want To Hold Your Hand"
-    },
     {
       "time": "6:35 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "6:42 pm",
       "artist": "Contortions",
       "title": "Contort Yourself"
+    },
+    {
+      "time": "6:46 pm",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "Red Right Hand"
     }
   ],
   "recent": [
+    {
+      "time": "6:33 pm",
+      "artist": "The Beatles",
+      "title": "I Want To Hold Your Hand",
+      "album": "single • 1963"
+    },
     {
       "time": "6:29 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "C'mere",
       "album": "Antics • 2004"
-    },
-    {
-      "time": "4:55 pm",
-      "artist": "Duane Eddy",
-      "title": "Rebel-'Rouser",
-      "album": "Have 'Twangy' Guitar Will Travel • 1958"
     }
   ]
 }
