@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T06:56:05",
+  "updatedAt": "2026-08-09T06:59:30",
   "now": {
     "artist": "The Beatles",
-    "title": "The Long and Winding Road",
-    "album": "Let It Be • 1970",
+    "title": "The Word",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:59 am",
-      "artist": "The Beatles",
-      "title": "The Word"
-    },
     {
       "time": "7:02 am",
       "artist": "Al Green",
@@ -26,9 +21,20 @@
       "time": "7:08 am",
       "artist": "Kendrick Lamar",
       "title": "DNA."
+    },
+    {
+      "time": "7:12 am",
+      "artist": "Interpol",
+      "title": "Narc"
     }
   ],
   "recent": [
+    {
+      "time": "6:59 am",
+      "artist": "The Beatles",
+      "title": "The Word",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "6:56 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "CAN'T STOP THE FEELING!",
       "album": "Trolls: Original Motion Picture Soundtrack • 2016"
-    },
-    {
-      "time": "5:14 am",
-      "artist": "The Beatles",
-      "title": "With A Little Help From My Friends",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
     }
   ]
 }
