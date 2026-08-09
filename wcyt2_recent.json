@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T10:53:21",
+  "updatedAt": "2026-08-09T10:57:05",
   "now": {
-    "artist": "Goo Goo Dolls",
-    "title": "Here Is Gone",
-    "album": "Gutterflower • 2002",
+    "artist": "Radiohead",
+    "title": "Desert Island Disk",
+    "album": "A Moon Shaped Pool • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:57 am",
-      "artist": "Radiohead",
-      "title": "Desert Island Disk"
-    },
     {
       "time": "11:00 am",
       "artist": "Elvis Costello & The Attractions",
@@ -26,9 +21,20 @@
       "time": "11:08 am",
       "artist": "Buddy Holly",
       "title": "Words of Love"
+    },
+    {
+      "time": "11:10 am",
+      "artist": "No Doubt",
+      "title": "It's My Life"
     }
   ],
   "recent": [
+    {
+      "time": "10:57 am",
+      "artist": "Radiohead",
+      "title": "Desert Island Disk",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "10:53 am",
       "artist": "Goo Goo Dolls",
@@ -172,12 +178,6 @@
       "artist": "Matchbox Twenty",
       "title": "Bent",
       "album": "Mad Season • 2000"
-    },
-    {
-      "time": "9:19 am",
-      "artist": "Modest Mouse",
-      "title": "Ocean Breathes Salty",
-      "album": "Good News for People Who Love Bad News • 2004"
     }
   ]
 }
