@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-08-09T17:14:09",
+  "updatedAt": "2026-08-09T17:19:24",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Janie's Got A Gun",
-    "album": "Pump • 1989",
+    "artist": "Beastie Boys",
+    "title": "Hey Ladies",
+    "album": "Paul's Boutique • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "5:19 pm",
+      "time": "5:23 pm",
+      "artist": "Aerosmith",
+      "title": "Janie's Got A Gun"
+    },
+    {
+      "time": "5:28 pm",
       "artist": "Beastie Boys",
       "title": "Hey Ladies"
     },
     {
-      "time": "5:23 pm",
+      "time": "5:32 pm",
       "artist": "Beyonce",
       "title": "BLACK PARADE"
     },
     {
-      "time": "5:27 pm",
+      "time": "5:36 pm",
       "artist": "My Morning Jacket",
       "title": "Bermuda Highway"
     }
   ],
   "recent": [
+    {
+      "time": "5:19 pm",
+      "artist": "Beastie Boys",
+      "title": "Hey Ladies",
+      "album": "Paul's Boutique • 1989"
+    },
     {
       "time": "5:14 pm",
       "artist": "Aerosmith",
@@ -167,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Oh Baby",
       "album": "American Dream • 2017"
-    },
-    {
-      "time": "3:32 pm",
-      "artist": "The Hold Steady",
-      "title": "Sequestered In Memphis",
-      "album": "Stay Positive • 2008"
     }
   ]
 }
