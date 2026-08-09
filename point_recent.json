@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T21:20:29",
+  "updatedAt": "2026-08-08T21:20:51",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Model/Actriz",
+    "title": "Diva",
+    "album": "Pirouette • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 pm",
-      "artist": "Model/Actriz",
-      "title": "Diva"
-    },
     {
       "time": "9:25 pm",
       "artist": "Slow Pulp",
@@ -26,9 +21,20 @@
       "time": "9:33 pm",
       "artist": "The Antlers",
       "title": "Carnage"
+    },
+    {
+      "time": "9:36 pm",
+      "artist": "Gorillaz",
+      "title": "Delirium"
     }
   ],
   "recent": [
+    {
+      "time": "9:20 pm",
+      "artist": "Model/Actriz",
+      "title": "Diva",
+      "album": "Pirouette • 2025"
+    },
     {
       "time": "9:16 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Amber Arcades",
       "title": "Come with Me",
       "album": "Fading Lines • 2016"
-    },
-    {
-      "time": "7:36 pm",
-      "artist": "Whitney",
-      "title": "See You Later, I'm Gone",
-      "album": "See You Later, I'm Gone • 2026"
     }
   ]
 }
