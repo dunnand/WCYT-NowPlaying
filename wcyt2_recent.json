@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T05:44:00",
+  "updatedAt": "2026-08-09T05:44:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "California",
+    "album": "Blue • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 am",
-      "artist": "Joni Mitchell",
-      "title": "California"
-    },
     {
       "time": "5:47 am",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "5:57 am",
       "artist": "The Tokens",
       "title": "The Lion Sleeps Tonight"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "David Bowie",
+      "title": "Five Years"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 am",
+      "artist": "Joni Mitchell",
+      "title": "California",
+      "album": "Blue • 1971"
+    },
     {
       "time": "5:40 am",
       "artist": "Yola",
@@ -172,12 +178,6 @@
       "artist": "Ritchie Valens",
       "title": "La Bamba",
       "album": "Ritchie Valens • 1959"
-    },
-    {
-      "time": "4:01 am",
-      "artist": "Marc Anthony",
-      "title": "I Need To Know",
-      "album": "Marc Anthony • 1999"
     }
   ]
 }
