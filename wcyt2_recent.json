@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T02:51:30",
+  "updatedAt": "2026-08-09T02:53:23",
   "now": {
-    "artist": "The Beatles",
-    "title": "A Taste Of Honey",
-    "album": "Please Please Me • 1963",
+    "artist": "Doobie Brothers",
+    "title": "Listen To The Music",
+    "album": "Toulouse Street • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:53 am",
-      "artist": "Doobie Brothers",
-      "title": "Listen To The Music"
-    },
     {
       "time": "2:57 am",
       "artist": "Monica",
@@ -26,9 +21,20 @@
       "time": "3:03 am",
       "artist": "Outkast",
       "title": "So Fresh, So Clean"
+    },
+    {
+      "time": "3:08 am",
+      "artist": "The Beatles",
+      "title": "Oh! Darling"
     }
   ],
   "recent": [
+    {
+      "time": "2:53 am",
+      "artist": "Doobie Brothers",
+      "title": "Listen To The Music",
+      "album": "Toulouse Street • 1972"
+    },
     {
       "time": "2:51 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Linda Scott",
       "title": "I've Told Every Little Star",
       "album": "Donna Reeds Dinner Party • 1995"
-    },
-    {
-      "time": "1:14 am",
-      "artist": "James Blake",
-      "title": "Limit to Your Love",
-      "album": "James Blake • 2011"
     }
   ]
 }
