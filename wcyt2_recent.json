@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T21:09:46",
+  "updatedAt": "2026-08-08T21:13:23",
   "now": {
-    "artist": "David Bowie",
-    "title": "Changes",
-    "album": "Hunky Dory • 1971",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "All My Friends",
+    "album": "Sound of Silver • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:13 pm",
-      "artist": "LCD Soundsystem",
-      "title": "All My Friends"
-    },
     {
       "time": "9:20 pm",
       "artist": "Joey Bad",
@@ -26,9 +21,20 @@
       "time": "9:30 pm",
       "artist": "Yo La Tengo",
       "title": "Upside-Down"
+    },
+    {
+      "time": "9:33 pm",
+      "artist": "Don Gibson",
+      "title": "Blue Blue Day"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 pm",
+      "artist": "LCD Soundsystem",
+      "title": "All My Friends",
+      "album": "Sound of Silver • 2007"
+    },
     {
       "time": "9:09 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "I've Just Seen A Face",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "7:33 pm",
-      "artist": "Muse",
-      "title": "Knights of Cydonia",
-      "album": "Black Holes and Revelations • 2006"
     }
   ]
 }
