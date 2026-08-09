@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T12:54:53",
+  "updatedAt": "2026-08-09T12:58:38",
   "now": {
-    "artist": "Pavement",
-    "title": "In the Mouth a Desert",
-    "album": "Slanted & Enchanted • 1992",
-    "category": "TUNES"
+    "artist": "Little Richard",
+    "title": "Keep a Knockin'",
+    "album": "Little Richard • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:58 pm",
-      "artist": "Little Richard",
-      "title": "Keep a Knockin'"
-    },
     {
       "time": "1:00 pm",
       "artist": "Iron & Wine",
@@ -21,9 +16,20 @@
       "time": "1:04 pm",
       "artist": "The Zombies",
       "title": "Care of Cell 44"
+    },
+    {
+      "time": "1:08 pm",
+      "artist": "Mike Posner",
+      "title": "Cooler Than Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:58 pm",
+      "artist": "Little Richard",
+      "title": "Keep a Knockin'",
+      "album": "Little Richard • 1958"
+    },
     {
       "time": "12:54 pm",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "Run-D.M.C.",
       "title": "It's Like That",
       "album": "Run-D.M.C. • 1984"
-    },
-    {
-      "time": "11:21 am",
-      "artist": "Lonestar",
-      "title": "Amazed",
-      "album": "Lonely Grill • 1999"
     }
   ]
 }
