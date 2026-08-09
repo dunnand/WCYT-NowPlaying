@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T10:16:15",
+  "updatedAt": "2026-08-09T10:16:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Got To Get You Into My Life",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:16 am",
-      "artist": "The Beatles",
-      "title": "Got To Get You Into My Life"
-    },
     {
       "time": "10:18 am",
       "artist": "Leonard Cohen",
@@ -26,9 +21,20 @@
       "time": "10:26 am",
       "artist": "Mary J. Blige",
       "title": "Real Love"
+    },
+    {
+      "time": "10:31 am",
+      "artist": "Paul Simon",
+      "title": "Diamonds on the Soles of Her Shoes"
     }
   ],
   "recent": [
+    {
+      "time": "10:16 am",
+      "artist": "The Beatles",
+      "title": "Got To Get You Into My Life",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "10:11 am",
       "artist": "JAY-Z",
@@ -172,12 +178,6 @@
       "artist": "Huey Lewis & The News",
       "title": "Doing It All For My Baby",
       "album": "Fore! • 1987"
-    },
-    {
-      "time": "8:36 am",
-      "artist": "Galaxie 500",
-      "title": "Snowstorm",
-      "album": "On Fire • 1989"
     }
   ]
 }
