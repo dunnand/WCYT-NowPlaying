@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T18:21:22",
+  "updatedAt": "2026-08-09T18:24:47",
   "now": {
-    "artist": "Duran Duran",
-    "title": "Girls on Film",
-    "album": "Duran Duran • 1981",
+    "artist": "Foo Fighters",
+    "title": "Shame Shame",
+    "album": "Medicine at Midnight • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:24 pm",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame"
-    },
     {
       "time": "6:29 pm",
       "artist": "Led Zeppelin",
@@ -21,9 +16,20 @@
       "time": "6:33 pm",
       "artist": "The Beatles",
       "title": "I Want To Hold Your Hand"
+    },
+    {
+      "time": "6:35 pm",
+      "artist": "The Clash",
+      "title": "Brand New Cadillac"
     }
   ],
   "recent": [
+    {
+      "time": "6:24 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame",
+      "album": "Medicine at Midnight • 2021"
+    },
     {
       "time": "6:21 pm",
       "artist": "Duran Duran",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Bullet Proof..I Wish I Was",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "4:47 pm",
-      "artist": "Badfinger",
-      "title": "Without You",
-      "album": "No Dice • 1970"
     }
   ]
 }
