@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T19:50:57",
+  "updatedAt": "2026-08-09T19:55:42",
   "now": {
-    "artist": "Queen",
-    "title": "Somebody To Love",
-    "album": "A Day at the Races • 1977",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Hyper Enough",
+    "album": "Here's Where the Strings Come In • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:55 pm",
-      "artist": "Superchunk",
-      "title": "Hyper Enough"
-    },
     {
       "time": "7:59 pm",
       "artist": "Silhouettes",
@@ -21,9 +16,20 @@
       "time": "8:02 pm",
       "artist": "*NSYNC",
       "title": "Bye Bye Bye"
+    },
+    {
+      "time": "8:06 pm",
+      "artist": "The Beatles",
+      "title": "All Together Now"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 pm",
+      "artist": "Superchunk",
+      "title": "Hyper Enough",
+      "album": "Here's Where the Strings Come In • 1995"
+    },
     {
       "time": "7:50 pm",
       "artist": "Queen",
@@ -167,12 +173,6 @@
       "artist": "CAKE",
       "title": "Perhaps, Perhaps, Perhaps",
       "album": "Fashion Nugget • 1996"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "Bjork",
-      "title": "I Miss You",
-      "album": "Post • 1995"
     }
   ]
 }
