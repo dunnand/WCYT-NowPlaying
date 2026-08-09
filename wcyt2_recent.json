@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-08-09T01:42:34",
+  "updatedAt": "2026-08-09T01:51:45",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "I Will Sing You Songs",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Help",
+    "album": "Help! • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:51 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "No Woman, No Cry"
-    },
-    {
-      "time": "1:55 am",
-      "artist": "My Morning Jacket",
-      "title": "I Will Sing You Songs"
-    },
-    {
-      "time": "2:04 am",
-      "artist": "The Beatles",
-      "title": "Help"
-    },
-    {
-      "time": "2:07 am",
+      "time": "1:54 am",
       "artist": "Elton John",
       "title": "Honky Cat"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "Modest Mouse",
+      "title": "Interstate 8"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Macklemore",
+      "title": "Same Love ft. Mary Lambert"
+    },
+    {
+      "time": "2:08 am",
+      "artist": "of Montreal",
+      "title": "Disconnect the Dots"
     }
   ],
   "recent": [
+    {
+      "time": "1:51 am",
+      "artist": "The Beatles",
+      "title": "Help",
+      "album": "Help! • 1965"
+    },
     {
       "time": "1:42 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Mumford & Sons",
       "title": "I Will Wait",
       "album": "HA201234 7 • 2012"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "The Beatles",
-      "title": "Mean Mr. Mustard",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
