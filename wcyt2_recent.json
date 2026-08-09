@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T01:51:45",
+  "updatedAt": "2026-08-09T01:53:59",
   "now": {
-    "artist": "The Beatles",
-    "title": "Help",
-    "album": "Help! • 1965",
+    "artist": "Elton John",
+    "title": "Honky Cat",
+    "album": "Honky Chteau • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:54 am",
-      "artist": "Elton John",
-      "title": "Honky Cat"
-    },
     {
       "time": "1:59 am",
       "artist": "Modest Mouse",
@@ -23,12 +18,23 @@
       "title": "Same Love ft. Mary Lambert"
     },
     {
-      "time": "2:08 am",
+      "time": "2:07 am",
       "artist": "of Montreal",
       "title": "Disconnect the Dots"
+    },
+    {
+      "time": "2:12 am",
+      "artist": "PJ Harvey",
+      "title": "The Letter"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "Elton John",
+      "title": "Honky Cat",
+      "album": "Honky Chteau • 1972"
+    },
     {
       "time": "1:51 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Macy Gray",
       "title": "I Try",
       "album": "On How Life Is • 1999"
-    },
-    {
-      "time": "12:09 am",
-      "artist": "Mumford & Sons",
-      "title": "I Will Wait",
-      "album": "HA201234 7 • 2012"
     }
   ]
 }
