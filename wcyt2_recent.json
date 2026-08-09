@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T08:54:52",
+  "updatedAt": "2026-08-09T08:57:57",
   "now": {
-    "artist": "Paul McCartney and Wings",
-    "title": "Live And Let Die",
-    "album": "single • 1973",
-    "category": "AUDIO"
+    "artist": "Les Savy Fav",
+    "title": "Hold On to Your Genre",
+    "album": "Inches • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:57 am",
-      "artist": "Les Savy Fav",
-      "title": "Hold On to Your Genre"
-    },
     {
       "time": "9:03 am",
       "artist": "Katy Perry",
@@ -28,12 +23,18 @@
       "title": "Rhythm Of My Heart"
     },
     {
-      "time": "9:15 am",
+      "time": "9:14 am",
       "artist": "Radiohead",
       "title": "Give Up the Ghost"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 am",
+      "artist": "Les Savy Fav",
+      "title": "Hold On to Your Genre",
+      "album": "Inches • 2004"
+    },
     {
       "time": "8:54 am",
       "artist": "Paul McCartney and Wings",
@@ -177,12 +178,6 @@
       "artist": "Grandaddy",
       "title": "The Crystal Lake",
       "album": "The Sophtware Slump • 2000"
-    },
-    {
-      "time": "7:11 am",
-      "artist": "Interpol",
-      "title": "Narc",
-      "album": "Antics • 2004"
     }
   ]
 }
