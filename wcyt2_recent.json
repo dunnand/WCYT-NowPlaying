@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T22:10:48",
+  "updatedAt": "2026-08-08T22:12:51",
   "now": {
-    "artist": "The Beatles",
-    "title": "If I Needed Someone",
-    "album": "Rubber Soul • 1965",
+    "artist": "Led Zeppelin",
+    "title": "Since I've Been Loving You",
+    "album": "Led Zeppelin III • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:12 pm",
-      "artist": "Led Zeppelin",
-      "title": "Since I've Been Loving You"
-    },
     {
       "time": "10:20 pm",
       "artist": "His Name Is Alive",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:12 pm",
+      "artist": "Led Zeppelin",
+      "title": "Since I've Been Loving You",
+      "album": "Led Zeppelin III • 1970"
+    },
     {
       "time": "10:10 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "Sugar Kane",
       "album": "Dirty • 1992"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Mariah Carey",
-      "title": "#Beautiful",
-      "album": "Me. I Am Mariah The Elusive Chanteuse • 2014"
     }
   ]
 }
