@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T09:19:40",
+  "updatedAt": "2026-08-09T09:23:26",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Ocean Breathes Salty",
-    "album": "Good News for People Who Love Bad News • 2004",
-    "category": "TUNES"
+    "artist": "Matchbox Twenty",
+    "title": "Bent",
+    "album": "Mad Season • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:23 am",
-      "artist": "Matchbox Twenty",
-      "title": "Bent"
-    },
     {
       "time": "9:27 am",
       "artist": "Gorillaz",
@@ -26,9 +21,20 @@
       "time": "9:34 am",
       "artist": "Tom Petty",
       "title": "It's Good to Be King"
+    },
+    {
+      "time": "9:39 am",
+      "artist": "Janet Jackson",
+      "title": "Control"
     }
   ],
   "recent": [
+    {
+      "time": "9:23 am",
+      "artist": "Matchbox Twenty",
+      "title": "Bent",
+      "album": "Mad Season • 2000"
+    },
     {
       "time": "9:19 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "My Name Is Dark",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "7:38 am",
-      "artist": "Depeche Mode",
-      "title": "Strangelove",
-      "album": "Music for the Masses • 1987"
     }
   ]
 }
