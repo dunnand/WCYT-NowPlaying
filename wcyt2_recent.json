@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-08T20:32:29",
+  "updatedAt": "2026-08-08T20:32:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Thank Your Girl",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:32 pm",
-      "artist": "The Beatles",
-      "title": "Thank Your Girl"
-    },
     {
       "time": "8:34 pm",
       "artist": "Mariah Carey",
@@ -26,9 +21,20 @@
       "time": "8:44 pm",
       "artist": "Wilco",
       "title": "Via Chicago"
+    },
+    {
+      "time": "8:49 pm",
+      "artist": "The Pogues",
+      "title": "Streets of Sorrow / Birmingham Six"
     }
   ],
   "recent": [
+    {
+      "time": "8:32 pm",
+      "artist": "The Beatles",
+      "title": "Thank Your Girl",
+      "album": "single • 1963"
+    },
     {
       "time": "8:25 pm",
       "artist": "Lemon Jelly",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "T.L.C. (Turnstile Love Connection)",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "7:02 pm",
-      "artist": "Metallica",
-      "title": "One",
-      "album": "...And Justice for All • 1988"
     }
   ]
 }
