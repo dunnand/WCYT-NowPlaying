@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T04:57:17",
+  "updatedAt": "2026-08-09T05:01:35",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Franklin's Tower",
-    "album": "Blues for Allah • 1975",
+    "artist": "Pretenders",
+    "title": "I'll Stand By You",
+    "album": "Last of the Independents • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:01 am",
-      "artist": "Pretenders",
-      "title": "I'll Stand By You"
-    },
     {
       "time": "5:05 am",
       "artist": "Penguins",
@@ -21,9 +16,20 @@
       "time": "5:08 am",
       "artist": "My Morning Jacket",
       "title": "Mahgeetah"
+    },
+    {
+      "time": "5:14 am",
+      "artist": "The Beatles",
+      "title": "With A Little Help From My Friends"
     }
   ],
   "recent": [
+    {
+      "time": "5:01 am",
+      "artist": "Pretenders",
+      "title": "I'll Stand By You",
+      "album": "Last of the Independents • 1994"
+    },
     {
       "time": "4:57 am",
       "artist": "Grateful Dead",
@@ -167,12 +173,6 @@
       "artist": "Natalie Imbruglia",
       "title": "Torn",
       "album": "Left of the Middle • 1998"
-    },
-    {
-      "time": "3:14 am",
-      "artist": "Radiohead",
-      "title": "Subterranean Homesick Alien",
-      "album": "OK Computer • 1997"
     }
   ]
 }
