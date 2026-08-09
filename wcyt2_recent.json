@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T03:51:40",
+  "updatedAt": "2026-08-09T03:55:25",
   "now": {
-    "artist": "Katy Perry",
-    "title": "Teenage Dream",
-    "album": "Teenage Dream • 2010",
+    "artist": "The Who",
+    "title": "Who Are You",
+    "album": "Who Are You • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:55 am",
-      "artist": "The Who",
-      "title": "Who Are You"
-    },
     {
       "time": "4:01 am",
       "artist": "Marc Anthony",
@@ -23,12 +18,18 @@
       "title": "La Bamba"
     },
     {
-      "time": "4:07 am",
+      "time": "4:06 am",
       "artist": "Panda Bear",
       "title": "Bros"
     }
   ],
   "recent": [
+    {
+      "time": "3:55 am",
+      "artist": "The Who",
+      "title": "Who Are You",
+      "album": "Who Are You • 1978"
+    },
     {
       "time": "3:51 am",
       "artist": "Katy Perry",
@@ -172,12 +173,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "Oh Comely",
       "album": "In The Aeroplane Over The Sea • 1998"
-    },
-    {
-      "time": "2:15 am",
-      "artist": "Maroon 5",
-      "title": "Moves Like Jagger feat. Christina Aguilera",
-      "album": "Hands All Over • 2011"
     }
   ]
 }
