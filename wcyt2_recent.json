@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T05:44:12",
+  "updatedAt": "2026-08-09T05:47:58",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "California",
-    "album": "Blue • 1971",
+    "artist": "Pink Floyd",
+    "title": "Comfortably Numb",
+    "album": "The Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:47 am",
-      "artist": "Pink Floyd",
-      "title": "Comfortably Numb"
-    },
     {
       "time": "5:54 am",
       "artist": "Kings of Leon",
@@ -26,9 +21,20 @@
       "time": "6:00 am",
       "artist": "David Bowie",
       "title": "Five Years"
+    },
+    {
+      "time": "6:04 am",
+      "artist": "Aphex Twin",
+      "title": "Windowlicker"
     }
   ],
   "recent": [
+    {
+      "time": "5:47 am",
+      "artist": "Pink Floyd",
+      "title": "Comfortably Numb",
+      "album": "The Wall • 1979"
+    },
     {
       "time": "5:44 am",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Panda Bear",
       "title": "Bros",
       "album": "Person Pitch • 2007"
-    },
-    {
-      "time": "4:05 am",
-      "artist": "Ritchie Valens",
-      "title": "La Bamba",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
