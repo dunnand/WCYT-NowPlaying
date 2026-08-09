@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T00:07:49",
+  "updatedAt": "2026-08-09T00:08:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Mean Mr. Mustard",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 am",
-      "artist": "The Beatles",
-      "title": "Mean Mr. Mustard"
-    },
     {
       "time": "12:09 am",
       "artist": "Mumford & Sons",
@@ -26,9 +21,20 @@
       "time": "12:17 am",
       "artist": "Goldfinger",
       "title": "Superman"
+    },
+    {
+      "time": "12:20 am",
+      "artist": "ZZ Top",
+      "title": "Cheap Sunglasses"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "The Beatles",
+      "title": "Mean Mr. Mustard",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "12:04 am",
       "artist": "Junior Senior",
@@ -172,12 +178,6 @@
       "artist": "Bershy",
       "title": "Radio",
       "album": "Single • 2022"
-    },
-    {
-      "time": "9:53 pm",
-      "artist": "The Jam",
-      "title": "That's Entertainment",
-      "album": "Sound Affects • 1980"
     }
   ]
 }
