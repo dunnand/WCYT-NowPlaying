@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T09:50:14",
+  "updatedAt": "2026-08-09T09:53:42",
   "now": {
-    "artist": "Steve Miller Band",
-    "title": "Jet Airliner",
-    "album": "Book of Dreams • 1977",
+    "artist": "The Beatles",
+    "title": "I'm A Loser",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:53 am",
-      "artist": "The Beatles",
-      "title": "I'm A Loser"
-    },
     {
       "time": "9:56 am",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "10:01 am",
       "artist": "Black Sabbath",
       "title": "Black Sabbath"
+    },
+    {
+      "time": "10:07 am",
+      "artist": "Primus",
+      "title": "Jerry Was A Race Car Driver"
     }
   ],
   "recent": [
+    {
+      "time": "9:53 am",
+      "artist": "The Beatles",
+      "title": "I'm A Loser",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "9:47 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "Mess Around",
       "album": "single • 1953"
-    },
-    {
-      "time": "8:06 am",
-      "artist": "Hootie & The Blowfish",
-      "title": "Let Her Cry",
-      "album": "Cracked Rear View • 1995"
     }
   ]
 }
