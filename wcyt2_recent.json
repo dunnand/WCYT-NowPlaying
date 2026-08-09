@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T11:14:05",
+  "updatedAt": "2026-08-09T11:14:27",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yer Majesty",
-    "album": "Abbey Road • 1969",
+    "artist": "Maroon 5",
+    "title": "Love Somebody",
+    "album": "HA201314 4 • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:14 am",
-      "artist": "Maroon 5",
-      "title": "Love Somebody"
-    },
     {
       "time": "11:18 am",
       "artist": "The Smashing Pumpkins",
@@ -21,9 +16,20 @@
       "time": "11:21 am",
       "artist": "Lonestar",
       "title": "Amazed"
+    },
+    {
+      "time": "11:25 am",
+      "artist": "Run",
+      "title": "D.M.C. - It's Like That"
     }
   ],
   "recent": [
+    {
+      "time": "11:14 am",
+      "artist": "Maroon 5",
+      "title": "Love Somebody",
+      "album": "HA201314 4 • 2012"
+    },
     {
       "time": "11:14 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "John Prine",
       "title": "I Remember Everything",
       "album": "I Remeber Everything • 2020"
-    },
-    {
-      "time": "9:44 am",
-      "artist": "The Jesus and Mary Chain",
-      "title": "Never Understand",
-      "album": "Psychocandy • 1985"
     }
   ]
 }
