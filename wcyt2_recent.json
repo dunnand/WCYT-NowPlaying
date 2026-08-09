@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T03:31:34",
+  "updatedAt": "2026-08-09T03:34:47",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Anti-Hero",
-    "album": "Midnights • 2022",
+    "artist": "Pearl Jam",
+    "title": "Light Years",
+    "album": "Binaural • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:34 am",
-      "artist": "Pearl Jam",
-      "title": "Light Years"
-    },
     {
       "time": "3:39 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "3:51 am",
       "artist": "Katy Perry",
       "title": "Teenage Dream"
+    },
+    {
+      "time": "3:55 am",
+      "artist": "The Who",
+      "title": "Who Are You"
     }
   ],
   "recent": [
+    {
+      "time": "3:34 am",
+      "artist": "Pearl Jam",
+      "title": "Light Years",
+      "album": "Binaural • 2000"
+    },
     {
       "time": "3:31 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Macklemore",
       "title": "Same Love ft. Mary Lambert",
       "album": "The Heist • 2012"
-    },
-    {
-      "time": "1:59 am",
-      "artist": "Modest Mouse",
-      "title": "Interstate 8",
-      "album": "Building Nothing out of Something • 1999"
     }
   ]
 }
