@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T05:08:29",
+  "updatedAt": "2026-08-09T05:14:17",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Mahgeetah",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "With A Little Help From My Friends",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:14 am",
-      "artist": "The Beatles",
-      "title": "With A Little Help From My Friends"
-    },
     {
       "time": "5:17 am",
       "artist": "Justin Timberlake",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:14 am",
+      "artist": "The Beatles",
+      "title": "With A Little Help From My Friends",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "5:08 am",
       "artist": "My Morning Jacket",
@@ -172,12 +173,6 @@
       "artist": "Taylor Swift",
       "title": "Anti-Hero",
       "album": "Midnights • 2022"
-    },
-    {
-      "time": "3:26 am",
-      "artist": "The Crash Crew",
-      "title": "On the Radio",
-      "album": "The Crash Crew • 1984"
     }
   ]
 }
