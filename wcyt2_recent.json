@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T06:48:10",
+  "updatedAt": "2026-08-09T06:48:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Peaceful Easy Feeling",
+    "album": "Eagles • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:48 am",
-      "artist": "Eagles",
-      "title": "Peaceful Easy Feeling"
-    },
     {
       "time": "6:52 am",
       "artist": "The Kinks",
@@ -26,9 +21,20 @@
       "time": "6:59 am",
       "artist": "The Beatles",
       "title": "The Word"
+    },
+    {
+      "time": "7:02 am",
+      "artist": "Al Green",
+      "title": "Let's Stay Together"
     }
   ],
   "recent": [
+    {
+      "time": "6:48 am",
+      "artist": "Eagles",
+      "title": "Peaceful Easy Feeling",
+      "album": "Eagles • 1973"
+    },
     {
       "time": "6:44 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Penguins",
       "title": "Earth Angel (Will You Be Mine)",
       "album": "single • 1954"
-    },
-    {
-      "time": "5:01 am",
-      "artist": "Pretenders",
-      "title": "I'll Stand By You",
-      "album": "Last of the Independents • 1994"
     }
   ]
 }
