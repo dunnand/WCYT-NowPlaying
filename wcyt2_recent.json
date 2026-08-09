@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T07:48:41",
+  "updatedAt": "2026-08-09T07:49:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "Big Shot",
+    "album": "52nd Street • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:48 am",
-      "artist": "Billy Joel",
-      "title": "Big Shot"
-    },
     {
       "time": "7:52 am",
       "artist": "Thunderclap Newman",
@@ -26,9 +21,20 @@
       "time": "8:01 am",
       "artist": "The Beatles",
       "title": "We Can Work It Out"
+    },
+    {
+      "time": "8:03 am",
+      "artist": "The Carpenters",
+      "title": "We've Only Just Begun"
     }
   ],
   "recent": [
+    {
+      "time": "7:49 am",
+      "artist": "Billy Joel",
+      "title": "Big Shot",
+      "album": "52nd Street • 1979"
+    },
     {
       "time": "7:43 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Home",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "6:04 am",
-      "artist": "Aphex Twin",
-      "title": "Windowlicker",
-      "album": "single • 1999"
     }
   ]
 }
