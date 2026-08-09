@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T03:39:57",
+  "updatedAt": "2026-08-09T03:44:02",
   "now": {
-    "artist": "John Prine",
-    "title": "Sam Stone",
-    "album": "John Prine • 1971",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "Losing My Edge",
+    "album": "LCD Soundsystem • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "LCD Soundsystem",
-      "title": "Losing My Edge"
-    },
     {
       "time": "3:51 am",
       "artist": "Katy Perry",
@@ -26,9 +21,20 @@
       "time": "4:01 am",
       "artist": "Marc Anthony",
       "title": "I Need To Know"
+    },
+    {
+      "time": "4:04 am",
+      "artist": "Ritchie Valens",
+      "title": "La Bamba"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "LCD Soundsystem",
+      "title": "Losing My Edge",
+      "album": "LCD Soundsystem • 2005"
+    },
     {
       "time": "3:39 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "PJ Harvey",
       "title": "The Letter",
       "album": "Uh Huh Her • 2004"
-    },
-    {
-      "time": "2:07 am",
-      "artist": "of Montreal",
-      "title": "Disconnect the Dots",
-      "album": "Satanic Panic in the Attic • 2004"
     }
   ]
 }
