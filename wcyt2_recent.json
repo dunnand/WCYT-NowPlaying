@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T01:35:33",
+  "updatedAt": "2026-08-09T01:35:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Songbird",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 am",
-      "artist": "Fleetwood Mac",
-      "title": "Songbird"
-    },
     {
       "time": "1:38 am",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "1:51 am",
       "artist": "The Beatles",
       "title": "Help"
+    },
+    {
+      "time": "1:54 am",
+      "artist": "Elton John",
+      "title": "Honky Cat"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 am",
+      "artist": "Fleetwood Mac",
+      "title": "Songbird",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "1:32 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Platters",
       "title": "Twilight Time",
       "album": "single • 1958"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "All or Nothin'",
-      "album": "Into the Great Wide Open • 1991"
     }
   ]
 }
