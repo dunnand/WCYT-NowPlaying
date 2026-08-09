@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T19:30:53",
+  "updatedAt": "2026-08-09T19:41:54",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Joey",
-    "album": "Desire • 1976",
-    "category": "AUDIO"
+    "artist": "The Postal Service",
+    "title": "Natural Anthem",
+    "album": "Give Up • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:41 pm",
-      "artist": "The Postal Service",
-      "title": "Natural Anthem"
-    },
     {
       "time": "7:46 pm",
       "artist": "Leon Bridges",
@@ -26,9 +21,20 @@
       "time": "7:55 pm",
       "artist": "Superchunk",
       "title": "Hyper Enough"
+    },
+    {
+      "time": "7:59 pm",
+      "artist": "Silhouettes",
+      "title": "Get A Job"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 pm",
+      "artist": "The Postal Service",
+      "title": "Natural Anthem",
+      "album": "Give Up • 2003"
+    },
     {
       "time": "7:30 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "Untitled",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "5:58 pm",
-      "artist": "Prince",
-      "title": "Musicology",
-      "album": "Musicology • 2004"
     }
   ]
 }
