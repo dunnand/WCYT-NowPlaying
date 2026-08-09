@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T11:58:52",
+  "updatedAt": "2026-08-09T12:02:49",
   "now": {
-    "artist": "New Order",
-    "title": "Regret",
-    "album": "Republic • 1993",
+    "artist": "The Everly Brothers",
+    "title": "All I Have To Do Is Dream",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:02 pm",
-      "artist": "The Everly Brothers",
-      "title": "All I Have To Do Is Dream"
-    },
     {
       "time": "12:05 pm",
       "artist": "Kings of Leon",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Pharrell Williams",
       "title": "Happy"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts"
     }
   ],
   "recent": [
+    {
+      "time": "12:02 pm",
+      "artist": "The Everly Brothers",
+      "title": "All I Have To Do Is Dream",
+      "album": "single • 1958"
+    },
     {
       "time": "11:58 am",
       "artist": "New Order",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Diamonds on the Soles of Her Shoes",
       "album": "Graceland • 1986"
-    },
-    {
-      "time": "10:26 am",
-      "artist": "Mary J. Blige",
-      "title": "Real Love",
-      "album": "What's the 411? • 1992"
     }
   ]
 }
