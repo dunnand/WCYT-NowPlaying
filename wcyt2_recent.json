@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T09:59:11",
+  "updatedAt": "2026-08-09T10:01:13",
   "now": {
-    "artist": "The Beatles",
-    "title": "Sgt. Pepper's Lonely Hearts Club Band",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Black Sabbath",
+    "title": "Black Sabbath",
+    "album": "Black Sabbath • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 am",
-      "artist": "Black Sabbath",
-      "title": "Black Sabbath"
-    },
     {
       "time": "10:06 am",
       "artist": "Primus",
@@ -26,9 +21,20 @@
       "time": "10:11 am",
       "artist": "JAY",
       "title": "Z - Empire State Of Mind feat Alicia Keys"
+    },
+    {
+      "time": "10:16 am",
+      "artist": "The Beatles",
+      "title": "Got To Get You Into My Life"
     }
   ],
   "recent": [
+    {
+      "time": "10:01 am",
+      "artist": "Black Sabbath",
+      "title": "Black Sabbath",
+      "album": "Black Sabbath • 1970"
+    },
     {
       "time": "9:59 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "White Knuckles",
       "album": "Of the Blue Colour of the Sky • 2010"
-    },
-    {
-      "time": "8:18 am",
-      "artist": "The Velvet Underground",
-      "title": "Lady Godiva's Operation",
-      "album": "White Light/White Heat • 1968"
     }
   ]
 }
