@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-08-09T01:38:59",
+  "updatedAt": "2026-08-09T01:42:34",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "No Woman, No Cry",
-    "album": "Natty Dread • 1974",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "I Will Sing You Songs",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "1:42 am",
+      "time": "1:51 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "No Woman, No Cry"
+    },
+    {
+      "time": "1:55 am",
       "artist": "My Morning Jacket",
       "title": "I Will Sing You Songs"
     },
     {
-      "time": "1:51 am",
+      "time": "2:04 am",
       "artist": "The Beatles",
       "title": "Help"
     },
     {
-      "time": "1:54 am",
+      "time": "2:07 am",
       "artist": "Elton John",
       "title": "Honky Cat"
-    },
-    {
-      "time": "1:59 am",
-      "artist": "Modest Mouse",
-      "title": "Interstate 8"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "1:38 am",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Mean Mr. Mustard",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "Junior Senior",
-      "title": "Move Your Feet",
-      "album": "D-D-Don't Don't Stop the Beat • 2002"
     }
   ]
 }
