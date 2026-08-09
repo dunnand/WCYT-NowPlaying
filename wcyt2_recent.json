@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T18:06:33",
+  "updatedAt": "2026-08-09T18:10:38",
   "now": {
-    "artist": "Gotye",
-    "title": "Somebody That I Used To Know",
-    "album": "Making Mirrors • 2011",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "I Miss You",
+    "album": "Post • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:10 pm",
-      "artist": "Bjork",
-      "title": "I Miss You"
-    },
     {
       "time": "6:14 pm",
       "artist": "CAKE",
@@ -26,9 +21,20 @@
       "time": "6:21 pm",
       "artist": "Duran Duran",
       "title": "Girls on Film"
+    },
+    {
+      "time": "6:24 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame"
     }
   ],
   "recent": [
+    {
+      "time": "6:10 pm",
+      "artist": "Bjork",
+      "title": "I Miss You",
+      "album": "Post • 1995"
+    },
     {
       "time": "6:06 pm",
       "artist": "Gotye",
@@ -172,12 +178,6 @@
       "artist": "The Ventures",
       "title": "Walk Don't Run",
       "album": "Walk Don't Run • 1960"
-    },
-    {
-      "time": "4:31 pm",
-      "artist": "Dobie Gray",
-      "title": "Drift Away",
-      "album": "Drift Away • 1973"
     }
   ]
 }
