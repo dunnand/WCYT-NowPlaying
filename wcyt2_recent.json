@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T10:23:33",
+  "updatedAt": "2026-08-10T10:28:07",
   "now": {
-    "artist": "Billy Paul",
-    "title": "Me and Mrs. Jones",
-    "album": "360 Degrees of Billy Paul • 1972",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "Cross Bones Style",
+    "album": "Moon Pix • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:28 am",
-      "artist": "Cat Power",
-      "title": "Cross Bones Style"
-    },
     {
       "time": "10:32 am",
       "artist": "Bobby Darin",
@@ -21,9 +16,20 @@
       "time": "10:34 am",
       "artist": "Interpol",
       "title": "NYC"
+    },
+    {
+      "time": "10:39 am",
+      "artist": "The Monks",
+      "title": "Monk Time"
     }
   ],
   "recent": [
+    {
+      "time": "10:28 am",
+      "artist": "Cat Power",
+      "title": "Cross Bones Style",
+      "album": "Moon Pix • 1998"
+    },
     {
       "time": "10:23 am",
       "artist": "Billy Paul",
@@ -167,12 +173,6 @@
       "artist": "Hall & Oates",
       "title": "So Close",
       "album": "Change of Season • 1990"
-    },
-    {
-      "time": "8:38 am",
-      "artist": "Foo Fighters",
-      "title": "Everlong",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
