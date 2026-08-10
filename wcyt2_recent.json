@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T03:59:54",
+  "updatedAt": "2026-08-10T04:02:07",
   "now": {
-    "artist": "Big Bopper",
-    "title": "Chantilly Lace",
-    "album": "Chantilly Lace • 1959",
-    "category": "AUDIO"
+    "artist": "Neko Case",
+    "title": "I Wish I Was the Moon",
+    "album": "Blacklisted • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:02 am",
-      "artist": "Neko Case",
-      "title": "I Wish I Was the Moon"
-    },
     {
       "time": "4:05 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "4:08 am",
       "artist": "Leon Bridges",
       "title": "Bad Bad News"
+    },
+    {
+      "time": "4:11 am",
+      "artist": "Built to Spill",
+      "title": "Center of The Universe"
     }
   ],
   "recent": [
+    {
+      "time": "4:02 am",
+      "artist": "Neko Case",
+      "title": "I Wish I Was the Moon",
+      "album": "Blacklisted • 2002"
+    },
     {
       "time": "3:59 am",
       "artist": "Big Bopper",
@@ -167,12 +173,6 @@
       "artist": "Rolling Stones",
       "title": "Start Me Up",
       "album": "Tattoo You • 1981"
-    },
-    {
-      "time": "2:22 am",
-      "artist": "Rick Springfield",
-      "title": "Human Touch",
-      "album": "Living in Oz • 1983"
     }
   ]
 }
