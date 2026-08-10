@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T13:01:01",
+  "updatedAt": "2026-08-10T13:03:37",
   "now": {
-    "artist": "Jose Gonzalez",
-    "title": "Crosses",
-    "album": "Veneer • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Back In The U.S.S.R.",
+    "album": "The Beatles • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 pm",
-      "artist": "The Beatles",
-      "title": "Back In The U.S.S.R."
-    },
     {
       "time": "1:06 pm",
       "artist": "Don Cherry",
@@ -26,9 +21,20 @@
       "time": "1:15 pm",
       "artist": "Radiohead",
       "title": "Glass Eyes"
+    },
+    {
+      "time": "1:18 pm",
+      "artist": "Lady Gaga",
+      "title": "Paparazzi"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 pm",
+      "artist": "The Beatles",
+      "title": "Back In The U.S.S.R.",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "1:01 pm",
       "artist": "Jose Gonzalez",
@@ -172,12 +178,6 @@
       "artist": "Lady Gaga",
       "title": "Born This Way",
       "album": "Born This Way • 2011"
-    },
-    {
-      "time": "11:37 am",
-      "artist": "Hot Chip",
-      "title": "And I Was a Boy From School",
-      "album": "The Warning • 2006"
     }
   ]
 }
