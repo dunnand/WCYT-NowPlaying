@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T06:58:38",
+  "updatedAt": "2026-08-10T07:03:17",
   "now": {
-    "artist": "Tom Tom Club",
-    "title": "On the Line Again",
-    "album": "Close to the Bone • 1983",
+    "artist": "Bob Dylan",
+    "title": "False Prophet",
+    "album": "Rough and Rowdy Ways • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:03 am",
-      "artist": "Bob Dylan",
-      "title": "False Prophet"
-    },
     {
       "time": "7:09 am",
       "artist": "James Taylor",
@@ -21,9 +16,20 @@
       "time": "7:12 am",
       "artist": "Ramones",
       "title": "Rockaway Beach"
+    },
+    {
+      "time": "7:15 am",
+      "artist": "Justice",
+      "title": "Genesis"
     }
   ],
   "recent": [
+    {
+      "time": "7:03 am",
+      "artist": "Bob Dylan",
+      "title": "False Prophet",
+      "album": "Rough and Rowdy Ways • 2020"
+    },
     {
       "time": "6:58 am",
       "artist": "Tom Tom Club",
@@ -167,12 +173,6 @@
       "artist": "Medicine",
       "title": "Time Baby III",
       "album": "The Crow Soundtrack • 1994"
-    },
-    {
-      "time": "5:32 am",
-      "artist": "ABBA",
-      "title": "Voulez-Vous",
-      "album": "Voulez-Vous • 1979"
     }
   ]
 }
