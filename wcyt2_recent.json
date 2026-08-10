@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T01:52:57",
+  "updatedAt": "2026-08-10T01:56:31",
   "now": {
-    "artist": "Commodores",
-    "title": "Brick House",
-    "album": "Commodores • 1977",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Head South",
+    "album": "This is a Long Drive for Someone with Nothing to Think About • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "Modest Mouse",
-      "title": "Head South"
-    },
     {
       "time": "2:00 am",
       "artist": "Buddy Holly",
@@ -21,9 +16,20 @@
       "time": "2:02 am",
       "artist": "Guided by Voices",
       "title": "The Best of Jill Hives"
+    },
+    {
+      "time": "2:05 am",
+      "artist": "The Creation",
+      "title": "Making Time"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "Modest Mouse",
+      "title": "Head South",
+      "album": "This is a Long Drive for Someone with Nothing to Think About • 1996"
+    },
     {
       "time": "1:52 am",
       "artist": "Commodores",
@@ -167,12 +173,6 @@
       "artist": "Wilco",
       "title": "Box Full of Letters",
       "album": "A.M • 1995"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "Sonic Youth",
-      "title": "Tunic (Song for Karen)",
-      "album": "Goo • 1990"
     }
   ]
 }
