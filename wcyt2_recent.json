@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T03:37:33",
+  "updatedAt": "2026-08-10T03:41:58",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Golden",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "George Harrison",
+    "title": "Awaiting On You All",
+    "album": "All Things Must Pass • 1970",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:41 am",
-      "artist": "George Harrison",
-      "title": "Awaiting On You All"
-    },
     {
       "time": "3:44 am",
       "artist": "PJ Harvey",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:41 am",
+      "artist": "George Harrison",
+      "title": "Awaiting On You All",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "3:37 am",
       "artist": "My Morning Jacket",
@@ -177,12 +178,6 @@
       "artist": "Guided by Voices",
       "title": "The Best of Jill Hives",
       "album": "Earthquake Glue • 2003"
-    },
-    {
-      "time": "2:00 am",
-      "artist": "Buddy Holly",
-      "title": "I'm Gonna Love You Too",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
