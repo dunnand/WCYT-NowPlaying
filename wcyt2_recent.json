@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T02:12:10",
+  "updatedAt": "2026-08-10T02:16:56",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Naomi",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Undone - The Sweater Song",
+    "album": "Weezer • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:16 am",
-      "artist": "Weezer",
-      "title": "Undone - The Sweater Song"
-    },
     {
       "time": "2:21 am",
       "artist": "Rick Springfield",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:16 am",
+      "artist": "Weezer",
+      "title": "Undone - The Sweater Song",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "2:12 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Blondie",
       "title": "Atomic",
       "album": "Eat to the Beat • 1979"
-    },
-    {
-      "time": "12:37 am",
-      "artist": "The Beatles",
-      "title": "I Want To Tell You",
-      "album": "Revolver • 1966"
     }
   ]
 }
