@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T20:33:09",
+  "updatedAt": "2026-08-09T20:33:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Aerosmith",
+    "title": "Sweet Emotion",
+    "album": "Toys in the Attic • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:33 pm",
-      "artist": "Aerosmith",
-      "title": "Sweet Emotion"
-    },
     {
       "time": "8:37 pm",
       "artist": "Dave Loggins",
@@ -26,9 +21,20 @@
       "time": "8:46 pm",
       "artist": "The Who",
       "title": "Pinball Wizard"
+    },
+    {
+      "time": "8:49 pm",
+      "artist": "Neil Young",
+      "title": "Old Man"
     }
   ],
   "recent": [
+    {
+      "time": "8:33 pm",
+      "artist": "Aerosmith",
+      "title": "Sweet Emotion",
+      "album": "Toys in the Attic • 1975"
+    },
     {
       "time": "8:26 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -172,12 +178,6 @@
       "artist": "Ricky Nelson",
       "title": "Poor Little Fool",
       "album": "single • 1958"
-    },
-    {
-      "time": "6:46 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Red Right Hand",
-      "album": "Let Love In • 1994"
     }
   ]
 }
