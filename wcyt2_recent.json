@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T20:05:41",
+  "updatedAt": "2026-08-09T20:06:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "All Together Now",
+    "album": "Yellow Submarine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:06 pm",
-      "artist": "The Beatles",
-      "title": "All Together Now"
-    },
     {
       "time": "8:08 pm",
       "artist": "Gorillaz",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:06 pm",
+      "artist": "The Beatles",
+      "title": "All Together Now",
+      "album": "Yellow Submarine • 1969"
+    },
     {
       "time": "8:02 pm",
       "artist": "*NSYNC",
@@ -172,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Shame Shame",
       "album": "Medicine at Midnight • 2021"
-    },
-    {
-      "time": "6:21 pm",
-      "artist": "Duran Duran",
-      "title": "Girls on Film",
-      "album": "Duran Duran • 1981"
     }
   ]
 }
