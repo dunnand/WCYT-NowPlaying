@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T15:43:04",
+  "updatedAt": "2026-08-10T15:43:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Prine",
+    "title": "Hello in There",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 pm",
-      "artist": "John Prine",
-      "title": "Hello in There"
-    },
     {
       "time": "3:47 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "3:55 pm",
       "artist": "The Doors",
       "title": "Break On Through (to the Other Side)"
+    },
+    {
+      "time": "3:57 pm",
+      "artist": "The Who",
+      "title": "Squeeze Box"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 pm",
+      "artist": "John Prine",
+      "title": "Hello in There",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "3:37 pm",
       "artist": "Deftones",
@@ -172,12 +178,6 @@
       "artist": "Air",
       "title": "All I Need (feat. Beth Hirsch)",
       "album": "Moon Safari • 1998"
-    },
-    {
-      "time": "2:02 pm",
-      "artist": "The Beatles",
-      "title": "Two of Us",
-      "album": "Let It Be • 1970"
     }
   ]
 }
