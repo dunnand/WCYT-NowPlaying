@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-10T06:15:13",
+  "updatedAt": "2026-08-10T06:19:49",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Thunder Road",
-    "album": "Born to Run • 1975",
-    "category": "AUDIO"
+    "artist": "The New Pornographers",
+    "title": "The Electric Version",
+    "album": "Electric Version • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:19 am",
-      "artist": "The New Pornographers",
-      "title": "The Electric Version"
-    },
     {
       "time": "6:22 am",
       "artist": "The Highwomen",
       "title": "Crowded Table"
     },
     {
-      "time": "6:26 am",
+      "time": "6:25 am",
       "artist": "Elvis Costello",
       "title": "This Year's Girl"
     },
@@ -26,9 +21,20 @@
       "time": "6:29 am",
       "artist": "Elliott Smith",
       "title": "Alameda"
+    },
+    {
+      "time": "6:33 am",
+      "artist": "Mickey & Sylvia",
+      "title": "Love Is Strange"
     }
   ],
   "recent": [
+    {
+      "time": "6:19 am",
+      "artist": "The New Pornographers",
+      "title": "The Electric Version",
+      "album": "Electric Version • 2003"
+    },
     {
       "time": "6:15 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Here Comes The Sun",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "4:52 am",
-      "artist": "Jose Gonzalez",
-      "title": "Heartbeats",
-      "album": "Veneer • 2003"
     }
   ]
 }
