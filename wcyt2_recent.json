@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T14:15:31",
+  "updatedAt": "2026-08-10T14:15:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "For No One",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:15 pm",
-      "artist": "The Beatles",
-      "title": "For No One"
-    },
     {
       "time": "2:17 pm",
       "artist": "One Direction",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:15 pm",
+      "artist": "The Beatles",
+      "title": "For No One",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "2:11 pm",
       "artist": "Johnny Cash",
@@ -172,12 +173,6 @@
       "artist": "James Brown",
       "title": "We Got To Change",
       "album": "Single • 2024"
-    },
-    {
-      "time": "12:46 pm",
-      "artist": "Beat Happening",
-      "title": "Bewitched",
-      "album": "Jamboree • 1988"
     }
   ]
 }
