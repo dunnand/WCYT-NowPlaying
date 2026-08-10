@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T07:38:30",
+  "updatedAt": "2026-08-10T07:42:27",
   "now": {
-    "artist": "Qt",
-    "title": "Hey QT",
-    "album": "single • 2014",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Rattled By The Rush",
+    "album": "Wowee Zowee • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "Pavement",
-      "title": "Rattled By The Rush"
-    },
     {
       "time": "7:46 am",
       "artist": "The Flaming Lips",
@@ -21,9 +16,20 @@
       "time": "7:50 am",
       "artist": "David Bowie",
       "title": "Modern Love"
+    },
+    {
+      "time": "7:55 am",
+      "artist": "The Clash",
+      "title": "Straight to Hell"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "Pavement",
+      "title": "Rattled By The Rush",
+      "album": "Wowee Zowee • 1995"
+    },
     {
       "time": "7:38 am",
       "artist": "Qt",
@@ -167,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "Thunder Road",
       "album": "Born to Run • 1975"
-    },
-    {
-      "time": "6:10 am",
-      "artist": "Lady Gaga",
-      "title": "Poker Face",
-      "album": "The Fame • 2008"
     }
   ]
 }
