@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T09:23:32",
+  "updatedAt": "2026-08-10T09:27:38",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Childhood's End",
-    "album": "Obscured by Clouds • 1972",
+    "artist": "Madonna",
+    "title": "I'll Remember",
+    "album": "Something to Remember • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 am",
-      "artist": "Madonna",
-      "title": "I'll Remember"
-    },
     {
       "time": "9:31 am",
       "artist": "Dean Martin",
@@ -26,9 +21,20 @@
       "time": "9:39 am",
       "artist": "The Young Rascals",
       "title": "Good Lovin'"
+    },
+    {
+      "time": "9:41 am",
+      "artist": "LCD Soundsystem",
+      "title": "Call the Police"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 am",
+      "artist": "Madonna",
+      "title": "I'll Remember",
+      "album": "Something to Remember • 1994"
+    },
     {
       "time": "9:23 am",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "The Flaming Lips",
       "title": "Slow Motion",
       "album": "The Soft Bulletin • 1999"
-    },
-    {
-      "time": "7:42 am",
-      "artist": "Pavement",
-      "title": "Rattled By The Rush",
-      "album": "Wowee Zowee • 1995"
     }
   ]
 }
