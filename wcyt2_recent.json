@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T12:53:05",
+  "updatedAt": "2026-08-10T12:53:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Drive-In Saturday",
+    "album": "Aladdin Sane • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 pm",
-      "artist": "David Bowie",
-      "title": "Drive-In Saturday"
-    },
     {
       "time": "12:57 pm",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "1:03 pm",
       "artist": "The Beatles",
       "title": "Back In The U.S.S.R."
+    },
+    {
+      "time": "1:06 pm",
+      "artist": "Don Cherry",
+      "title": "Brown Rice"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 pm",
+      "artist": "David Bowie",
+      "title": "Drive-In Saturday",
+      "album": "Aladdin Sane • 1973"
+    },
     {
       "time": "12:49 pm",
       "artist": "James Brown",
@@ -172,12 +178,6 @@
       "artist": "Portugal The Man",
       "title": "Feel It Still",
       "album": "Woodstock • 2017"
-    },
-    {
-      "time": "11:25 am",
-      "artist": "Depeche Mode",
-      "title": "World in My Eyes",
-      "album": "Violator • 1990"
     }
   ]
 }
