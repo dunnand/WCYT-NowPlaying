@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T19:14:56",
+  "updatedAt": "2026-08-10T19:15:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Hello Goodbye",
+    "album": "single • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 pm",
-      "artist": "The Beatles",
-      "title": "Hello Goodbye"
-    },
     {
       "time": "7:18 pm",
       "artist": "Psy",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:15 pm",
+      "artist": "The Beatles",
+      "title": "Hello Goodbye",
+      "album": "single • 1967"
+    },
     {
       "time": "7:11 pm",
       "artist": "Justin Timberlake",
@@ -172,12 +173,6 @@
       "artist": "Lizzo",
       "title": "2 Be Loved (Am I Ready)",
       "album": "Special • 2022"
-    },
-    {
-      "time": "5:25 pm",
-      "artist": "Van Halen",
-      "title": "When It's Love",
-      "album": "OU812 • 1988"
     }
   ]
 }
