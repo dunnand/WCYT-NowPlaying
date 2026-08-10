@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T14:00:18",
+  "updatedAt": "2026-08-10T14:02:24",
   "now": {
     "artist": "The Beatles",
-    "title": "Doctor Robert",
-    "album": "Revolver • 1966",
+    "title": "Two of Us",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:02 pm",
-      "artist": "The Beatles",
-      "title": "Two of Us"
-    },
     {
       "time": "2:05 pm",
       "artist": "Air",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:02 pm",
+      "artist": "The Beatles",
+      "title": "Two of Us",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "2:00 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Prince",
       "title": "The Holy River",
       "album": "Emancipation • 1997"
-    },
-    {
-      "time": "12:27 pm",
-      "artist": "Kamasi Washington",
-      "title": "Show Us the Way",
-      "album": "Heaven and Earth • 2018"
     }
   ]
 }
