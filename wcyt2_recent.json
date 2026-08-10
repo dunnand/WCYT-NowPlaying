@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T00:40:01",
+  "updatedAt": "2026-08-10T00:44:27",
   "now": {
-    "artist": "Blondie",
-    "title": "Atomic",
-    "album": "Eat to the Beat • 1979",
+    "artist": "The Beatles",
+    "title": "Helter Skelter",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:44 am",
-      "artist": "The Beatles",
-      "title": "Helter Skelter"
-    },
     {
       "time": "12:48 am",
       "artist": "The Cars",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:44 am",
+      "artist": "The Beatles",
+      "title": "Helter Skelter",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:40 am",
       "artist": "Blondie",
@@ -177,12 +178,6 @@
       "artist": "Kendrick Lamar",
       "title": "Alright",
       "album": "To Pimp a Butterfly • 2015"
-    },
-    {
-      "time": "10:58 pm",
-      "artist": "The Kinks",
-      "title": "The Village Green Preservation Society",
-      "album": "The Kinks Are the Village Green Preservation Society • 1968"
     }
   ]
 }
