@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-08-10T02:08:37",
+  "updatedAt": "2026-08-10T02:12:10",
   "now": {
-    "artist": "Nicki Minaj",
-    "title": "Starships",
-    "album": "Pink Friday: Roman Reloaded • 2012",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Naomi",
+    "album": "On Avery Island • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:12 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Naomi"
-    },
     {
       "time": "2:16 am",
       "artist": "Weezer",
       "title": "Undone - The Sweater Song"
     },
     {
-      "time": "2:22 am",
+      "time": "2:21 am",
       "artist": "Rick Springfield",
       "title": "Human Touch"
+    },
+    {
+      "time": "2:25 am",
+      "artist": "Rolling Stones",
+      "title": "Start Me Up"
+    },
+    {
+      "time": "2:29 am",
+      "artist": "Jason Isbell and the 400 Unit",
+      "title": "Be Afriad"
     }
   ],
   "recent": [
+    {
+      "time": "2:12 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Naomi",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "2:08 am",
       "artist": "Nicki Minaj",
@@ -167,12 +178,6 @@
       "artist": "The Beatles",
       "title": "I Want To Tell You",
       "album": "Revolver • 1966"
-    },
-    {
-      "time": "12:35 am",
-      "artist": "The Beach Boys",
-      "title": "Slip On Through",
-      "album": "Sunflower • 1970"
     }
   ]
 }
