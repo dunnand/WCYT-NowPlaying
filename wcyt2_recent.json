@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T01:35:22",
+  "updatedAt": "2026-08-10T01:40:08",
   "now": {
-    "artist": "Billie Eilish",
-    "title": "Happier Than Ever",
-    "album": "Happier Than Ever • 2021",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "3rd Planet",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:40 am",
-      "artist": "Modest Mouse",
-      "title": "3rd Planet"
-    },
     {
       "time": "1:44 am",
       "artist": "Cat Stevens",
@@ -26,9 +21,20 @@
       "time": "1:50 am",
       "artist": "Post Malone",
       "title": "Sunflower"
+    },
+    {
+      "time": "1:52 am",
+      "artist": "Commodores",
+      "title": "Brick House"
     }
   ],
   "recent": [
+    {
+      "time": "1:40 am",
+      "artist": "Modest Mouse",
+      "title": "3rd Planet",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "1:35 am",
       "artist": "Billie Eilish",
@@ -172,12 +178,6 @@
       "artist": "Justin Bieber",
       "title": "Beauty And A Beat",
       "album": "Believe • 2012"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "Sleater-Kinney",
-      "title": "Anonymous",
-      "album": "Call The Doctor • 1996"
     }
   ]
 }
