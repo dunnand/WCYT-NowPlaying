@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T03:00:56",
+  "updatedAt": "2026-08-10T03:03:12",
   "now": {
-    "artist": "Neil Sedaka",
-    "title": "Oh! Carol",
-    "album": "single • 1959",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "I Want Wind to Blow",
+    "album": "The Glow, Part 2 • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:03 am",
-      "artist": "The Microphones",
-      "title": "I Want Wind to Blow"
-    },
     {
       "time": "3:08 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:03 am",
+      "artist": "The Microphones",
+      "title": "I Want Wind to Blow",
+      "album": "The Glow, Part 2 • 2001"
+    },
     {
       "time": "3:00 am",
       "artist": "Neil Sedaka",
@@ -172,12 +173,6 @@
       "artist": "Queen",
       "title": "Dragon Attack",
       "album": "The Game • 1980"
-    },
-    {
-      "time": "1:25 am",
-      "artist": "Prince",
-      "title": "Alphabet St.",
-      "album": "Lovesexy • 1988"
     }
   ]
 }
