@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T08:07:32",
+  "updatedAt": "2026-08-10T08:11:26",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Rhiannon",
-    "album": "Fleetwood Mac • 1976",
-    "category": "AUDIO"
+    "artist": "The Mountain Goats",
+    "title": "Your Belgian Things",
+    "album": "We Shall All Be Healed • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:11 am",
-      "artist": "The Mountain Goats",
-      "title": "Your Belgian Things"
-    },
     {
       "time": "8:15 am",
       "artist": "Harry Styles",
@@ -23,17 +18,28 @@
       "title": "Sugar Magnolia"
     },
     {
-      "time": "8:24 am",
+      "time": "8:23 am",
       "artist": "Guided by Voices",
       "title": "Motor Away"
     },
     {
-      "time": "8:26 am",
+      "time": "8:25 am",
       "artist": "The Everly Brothers",
       "title": "Devoted To You"
+    },
+    {
+      "time": "8:28 am",
+      "artist": "Kings of Leon",
+      "title": "Use Somebody"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 am",
+      "artist": "The Mountain Goats",
+      "title": "Your Belgian Things",
+      "album": "We Shall All Be Healed • 2004"
+    },
     {
       "time": "8:07 am",
       "artist": "Fleetwood Mac",
@@ -177,12 +183,6 @@
       "artist": "Townes Van Zandt",
       "title": "I'll Be Here in the Morning",
       "album": "Townes Van Zandt • 1969"
-    },
-    {
-      "time": "6:36 am",
-      "artist": "PJ Harvey",
-      "title": "This Mess We're In",
-      "album": "Stories from the City, Stories from the Sea • 2000"
     }
   ]
 }
