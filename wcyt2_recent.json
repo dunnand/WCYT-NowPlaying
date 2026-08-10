@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T08:15:11",
+  "updatedAt": "2026-08-10T08:20:48",
   "now": {
-    "artist": "Harry Styles",
-    "title": "Sign of the Times",
-    "album": "Harry Styles • 2017",
+    "artist": "Grateful Dead",
+    "title": "Sugar Magnolia",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 am",
-      "artist": "Grateful Dead",
-      "title": "Sugar Magnolia"
-    },
     {
       "time": "8:23 am",
       "artist": "Guided by Voices",
@@ -26,9 +21,20 @@
       "time": "8:28 am",
       "artist": "Kings of Leon",
       "title": "Use Somebody"
+    },
+    {
+      "time": "8:32 am",
+      "artist": "The Doors",
+      "title": "The Crystal Ship"
     }
   ],
   "recent": [
+    {
+      "time": "8:20 am",
+      "artist": "Grateful Dead",
+      "title": "Sugar Magnolia",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "8:15 am",
       "artist": "Harry Styles",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Once",
       "album": "Ten • 1991"
-    },
-    {
-      "time": "6:43 am",
-      "artist": "Lizzo",
-      "title": "Truth Hurts",
-      "album": "Cuz I Love You • 2019"
     }
   ]
 }
