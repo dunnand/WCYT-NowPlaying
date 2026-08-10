@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-08-10T14:02:24",
+  "updatedAt": "2026-08-10T14:05:48",
   "now": {
-    "artist": "The Beatles",
-    "title": "Two of Us",
-    "album": "Let It Be • 1970",
+    "artist": "Air",
+    "title": "All I Need (feat. Beth Hirsch)",
+    "album": "Moon Safari • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:05 pm",
-      "artist": "Air",
-      "title": "All I Need (feat. Beth Hirsch)"
-    },
     {
       "time": "2:10 pm",
       "artist": "Buddy Holly",
       "title": "Take Your Time"
     },
     {
-      "time": "2:12 pm",
+      "time": "2:11 pm",
       "artist": "Johnny Cash",
       "title": "Hurt"
+    },
+    {
+      "time": "2:15 pm",
+      "artist": "The Beatles",
+      "title": "For No One"
+    },
+    {
+      "time": "2:17 pm",
+      "artist": "One Direction",
+      "title": "If I Could Fly"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 pm",
+      "artist": "Air",
+      "title": "All I Need (feat. Beth Hirsch)",
+      "album": "Moon Safari • 1998"
+    },
     {
       "time": "2:02 pm",
       "artist": "The Beatles",
@@ -167,12 +178,6 @@
       "artist": "Sheryl Crow",
       "title": "All I Wanna Do",
       "album": "Tuesday Night Music Club • 1994"
-    },
-    {
-      "time": "12:34 pm",
-      "artist": "Prince",
-      "title": "The Holy River",
-      "album": "Emancipation • 1997"
     }
   ]
 }
