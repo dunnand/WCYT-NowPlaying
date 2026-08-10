@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T20:42:16",
+  "updatedAt": "2026-08-09T20:46:42",
   "now": {
-    "artist": "Interpol",
-    "title": "Say Hello to the Angels",
-    "album": "Turn on the Bright Lights • 2002",
-    "category": "TUNES"
+    "artist": "The Who",
+    "title": "Pinball Wizard",
+    "album": "Tommy • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:46 pm",
-      "artist": "The Who",
-      "title": "Pinball Wizard"
-    },
     {
       "time": "8:49 pm",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "8:57 pm",
       "artist": "Coasters",
       "title": "Poison Ivy"
+    },
+    {
+      "time": "9:00 pm",
+      "artist": "Modest Mouse",
+      "title": "Blame It on the Tetons"
     }
   ],
   "recent": [
+    {
+      "time": "8:46 pm",
+      "artist": "The Who",
+      "title": "Pinball Wizard",
+      "album": "Tommy • 1969"
+    },
     {
       "time": "8:42 pm",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Saturnz Barz feat. Popcaan",
       "album": "Humanz • 2017"
-    },
-    {
-      "time": "6:58 pm",
-      "artist": "The Flying Burrito Brothers",
-      "title": "Sin City",
-      "album": "The Gilded Palace of Sin • 1969"
     }
   ]
 }
