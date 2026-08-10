@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T17:37:24",
+  "updatedAt": "2026-08-10T17:40:10",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Burning Love",
-    "album": "single • 1972",
+    "artist": "Jurassic 5",
+    "title": "Quality Control",
+    "album": "Quality Control • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:40 pm",
-      "artist": "Jurassic 5",
-      "title": "Quality Control"
-    },
     {
       "time": "5:44 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:56 pm",
       "artist": "Coolio",
       "title": "Gangsta Paradise"
+    },
+    {
+      "time": "6:00 pm",
+      "artist": "Buddy Holly",
+      "title": "Everyday"
     }
   ],
   "recent": [
+    {
+      "time": "5:40 pm",
+      "artist": "Jurassic 5",
+      "title": "Quality Control",
+      "album": "Quality Control • 2000"
+    },
     {
       "time": "5:37 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Matchbox",
       "album": "Long Tall Sally EP • 1964"
-    },
-    {
-      "time": "4:05 pm",
-      "artist": "Kimya Dawson",
-      "title": "Tire Swing",
-      "album": "Remember That I Love You • 2006"
     }
   ]
 }
