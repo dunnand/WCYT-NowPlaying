@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T01:44:13",
+  "updatedAt": "2026-08-10T01:48:30",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "The Hurt",
-    "album": "Foreigner • 1973",
+    "artist": "Kings of Leon",
+    "title": "Four Kicks",
+    "album": "Aha Shake Heartbreak • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:48 am",
-      "artist": "Kings of Leon",
-      "title": "Four Kicks"
-    },
     {
       "time": "1:50 am",
       "artist": "Post Malone",
@@ -26,9 +21,20 @@
       "time": "1:56 am",
       "artist": "Modest Mouse",
       "title": "Head South"
+    },
+    {
+      "time": "2:00 am",
+      "artist": "Buddy Holly",
+      "title": "I'm Gonna Love You Too"
     }
   ],
   "recent": [
+    {
+      "time": "1:48 am",
+      "artist": "Kings of Leon",
+      "title": "Four Kicks",
+      "album": "Aha Shake Heartbreak • 2004"
+    },
     {
       "time": "1:44 am",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Green Day",
       "title": "Holiday",
       "album": "American Idiot • 2004"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "Kylie Minogue",
-      "title": "Can't Get You out of My Head",
-      "album": "Fever • 2001"
     }
   ]
 }
