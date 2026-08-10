@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T14:45:58",
+  "updatedAt": "2026-08-10T14:50:33",
   "now": {
-    "artist": "Bee Gees",
-    "title": "Stayin' Alive",
-    "album": "Saturday Night Fever • 1978",
+    "artist": "Bob Dylan",
+    "title": "You're Gonna Make Me Lonesome When You Go",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:50 pm",
-      "artist": "Bob Dylan",
-      "title": "You're Gonna Make Me Lonesome When You Go"
-    },
     {
       "time": "2:53 pm",
       "artist": "Muse",
@@ -26,9 +21,20 @@
       "time": "3:02 pm",
       "artist": "Doobie Brothers",
       "title": "What A Fool Believes"
+    },
+    {
+      "time": "3:06 pm",
+      "artist": "Another Sunny Day",
+      "title": "I'm In Love With A Girl Who Doesn't Know I Exist"
     }
   ],
   "recent": [
+    {
+      "time": "2:50 pm",
+      "artist": "Bob Dylan",
+      "title": "You're Gonna Make Me Lonesome When You Go",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "2:45 pm",
       "artist": "Bee Gees",
@@ -172,12 +178,6 @@
       "artist": "Lady Gaga",
       "title": "Paparazzi",
       "album": "The Fame • 2008"
-    },
-    {
-      "time": "1:14 pm",
-      "artist": "Radiohead",
-      "title": "Glass Eyes",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
