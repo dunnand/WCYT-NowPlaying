@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T16:49:38",
+  "updatedAt": "2026-08-10T16:53:55",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Carry On",
-    "album": "Dj Vu • 1970",
+    "artist": "Bruce Springsteen",
+    "title": "The Ghost of Tom Joad",
+    "album": "The Ghost of Tom Joad • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:53 pm",
-      "artist": "Bruce Springsteen",
-      "title": "The Ghost of Tom Joad"
-    },
     {
       "time": "4:58 pm",
       "artist": "Nat King Cole",
@@ -26,9 +21,20 @@
       "time": "5:05 pm",
       "artist": "The Who",
       "title": "Armenia City in the Sky"
+    },
+    {
+      "time": "5:08 pm",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness"
     }
   ],
   "recent": [
+    {
+      "time": "4:53 pm",
+      "artist": "Bruce Springsteen",
+      "title": "The Ghost of Tom Joad",
+      "album": "The Ghost of Tom Joad • 1995"
+    },
     {
       "time": "4:49 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -172,12 +178,6 @@
       "artist": "Backstreet Boys",
       "title": "I Want It That Way",
       "album": "Millennium • 1999"
-    },
-    {
-      "time": "3:20 pm",
-      "artist": "Phoebe Bridgers",
-      "title": "Motion Sickness",
-      "album": "Stranger in the Alps • 2017"
     }
   ]
 }
