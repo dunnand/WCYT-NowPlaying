@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T00:51:39",
+  "updatedAt": "2026-08-10T00:58:37",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Big Day Coming",
-    "album": "Painful • 1993",
-    "category": "TUNES"
+    "artist": "Ray Charles",
+    "title": "Lonely Avenue",
+    "album": "single • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:58 am",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue"
-    },
     {
       "time": "1:01 am",
       "artist": "Maroon 5",
@@ -26,9 +21,20 @@
       "time": "1:12 am",
       "artist": "Pink",
       "title": "Try"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Michael W. Smith",
+      "title": "Place In This World"
     }
   ],
   "recent": [
+    {
+      "time": "12:58 am",
+      "artist": "Ray Charles",
+      "title": "Lonely Avenue",
+      "album": "single • 1956"
+    },
     {
       "time": "12:51 am",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "G.i.g.a.n.t.i.c.",
       "album": "Surfer Rosa • 1988"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "K-Ci & JoJo",
-      "title": "All My Life",
-      "album": "Love Always • 1997"
     }
   ]
 }
