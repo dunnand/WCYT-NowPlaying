@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-08-10T01:01:13",
+  "updatedAt": "2026-08-10T01:05:00",
   "now": {
-    "artist": "Maroon 5",
-    "title": "Sunday Morning",
-    "album": "Songs About Jane • 2004",
+    "artist": "The Beatles",
+    "title": "I Want You (She's So Heavy)",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:05 am",
+      "time": "1:12 am",
       "artist": "The Beatles",
       "title": "I Want You (She's So Heavy)"
     },
     {
-      "time": "1:12 am",
+      "time": "1:20 am",
       "artist": "Pink",
       "title": "Try"
     },
     {
-      "time": "1:16 am",
+      "time": "1:24 am",
       "artist": "Michael W. Smith",
       "title": "Place In This World"
+    },
+    {
+      "time": "1:28 am",
+      "artist": "Pavement",
+      "title": "Grounded"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "The Beatles",
+      "title": "I Want You (She's So Heavy)",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "1:01 am",
       "artist": "Maroon 5",
@@ -167,12 +178,6 @@
       "artist": "Naoto Ishida",
       "title": "F-ZERO (Ending)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "11:13 pm",
-      "artist": "The Police",
-      "title": "King Of Pain",
-      "album": "Synchronicity • 1983"
     }
   ]
 }
