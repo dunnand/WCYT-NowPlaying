@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:40:04",
+  "updatedAt": "2026-08-09T21:42:28",
   "now": {
-    "artist": "The Beatles",
-    "title": "Drive My Car",
-    "album": "Rubber Soul • 1965",
+    "artist": "Rolling Stones",
+    "title": "You Can't Always Get What You Want",
+    "album": "Let It Bleed • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:42 pm",
-      "artist": "Rolling Stones",
-      "title": "You Can't Always Get What You Want"
-    },
     {
       "time": "9:49 pm",
       "artist": "Opus III",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:42 pm",
+      "artist": "Rolling Stones",
+      "title": "You Can't Always Get What You Want",
+      "album": "Let It Bleed • 1973"
+    },
     {
       "time": "9:40 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "U2",
       "title": "Even Better Than The Real Thing",
       "album": "Achtung Baby • 1992"
-    },
-    {
-      "time": "8:08 pm",
-      "artist": "Gorillaz",
-      "title": "Andromeda feat. D.R.A.M.",
-      "album": "Humanz • 2017"
     }
   ]
 }
