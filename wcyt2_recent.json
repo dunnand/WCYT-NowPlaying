@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T13:45:38",
+  "updatedAt": "2026-08-10T13:50:42",
   "now": {
-    "artist": "Elton John",
-    "title": "Levon",
-    "album": "Madman Across the Water • 1972",
+    "artist": "The Who",
+    "title": "The Kids Are Alright",
+    "album": "My Generation • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 pm",
-      "artist": "The Who",
-      "title": "The Kids Are Alright"
-    },
     {
       "time": "1:53 pm",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "2:02 pm",
       "artist": "The Beatles",
       "title": "Two of Us"
+    },
+    {
+      "time": "2:05 pm",
+      "artist": "Air",
+      "title": "All I Need (feat. Beth Hirsch)"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "The Who",
+      "title": "The Kids Are Alright",
+      "album": "My Generation • 1965"
+    },
     {
       "time": "1:45 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "Wasted Time",
       "album": "Youth & Young Manhood • 2003"
-    },
-    {
-      "time": "12:20 pm",
-      "artist": "Ritchie Valens",
-      "title": "Donna",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
