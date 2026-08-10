@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:05:31",
+  "updatedAt": "2026-08-09T21:07:05",
   "now": {
-    "artist": "The Beatles",
-    "title": "Little Child",
-    "album": "With the Beatles • 1963",
+    "artist": "Imagine Dragons",
+    "title": "Radioactive",
+    "album": "HA201306 3 • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "Imagine Dragons",
-      "title": "Radioactive"
-    },
     {
       "time": "9:10 pm",
       "artist": "Kristin Hersh",
@@ -21,9 +16,20 @@
       "time": "9:13 pm",
       "artist": "Elliott Smith",
       "title": "Roman Candle"
+    },
+    {
+      "time": "9:17 pm",
+      "artist": "Kraftwerk",
+      "title": "Tour de France"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "Imagine Dragons",
+      "title": "Radioactive",
+      "album": "HA201306 3 • 2012"
+    },
     {
       "time": "9:05 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The Magnetic Fields",
       "title": "I Thought You Were My Boyfriend",
       "album": "i • 2004"
-    },
-    {
-      "time": "7:22 pm",
-      "artist": "American Football",
-      "title": "Uncomfortably Numb (feat. Hayley Williams)",
-      "album": "American Football •"
     }
   ]
 }
