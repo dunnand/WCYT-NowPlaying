@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T16:42:08",
+  "updatedAt": "2026-08-10T16:47:14",
   "now": {
-    "artist": "My Chemical Romance",
-    "title": "Welcome to the Black Parade",
-    "album": "The Black Parade • 2006",
+    "artist": "The Beatles",
+    "title": "And I Love Her",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:47 pm",
-      "artist": "The Beatles",
-      "title": "And I Love Her"
-    },
     {
       "time": "4:49 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:47 pm",
+      "artist": "The Beatles",
+      "title": "And I Love Her",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "4:42 pm",
       "artist": "My Chemical Romance",
@@ -177,12 +178,6 @@
       "artist": "Guided by Voices",
       "title": "Chasing Heather Crazy",
       "album": "Isolation Drills • 2001"
-    },
-    {
-      "time": "3:13 pm",
-      "artist": "OutKast",
-      "title": "Hey Ya!",
-      "album": "Speakerboxxx/The Love Below • 2003"
     }
   ]
 }
