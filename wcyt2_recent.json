@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T20:46:42",
+  "updatedAt": "2026-08-09T20:49:34",
   "now": {
-    "artist": "The Who",
-    "title": "Pinball Wizard",
-    "album": "Tommy • 1969",
+    "artist": "Neil Young",
+    "title": "Old Man",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:49 pm",
-      "artist": "Neil Young",
-      "title": "Old Man"
-    },
     {
       "time": "8:52 pm",
       "artist": "Jann Arden",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:49 pm",
+      "artist": "Neil Young",
+      "title": "Old Man",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "8:46 pm",
       "artist": "The Who",
@@ -172,12 +173,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Soul To Squeeze",
       "album": "Coneheads Soundtrack • 1993"
-    },
-    {
-      "time": "7:02 pm",
-      "artist": "Gorillaz",
-      "title": "Saturnz Barz feat. Popcaan",
-      "album": "Humanz • 2017"
     }
   ]
 }
