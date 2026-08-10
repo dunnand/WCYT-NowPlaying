@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T00:08:12",
+  "updatedAt": "2026-08-10T00:12:06",
   "now": {
-    "artist": "Green Day",
-    "title": "Holiday",
-    "album": "American Idiot • 2004",
+    "artist": "One Direction",
+    "title": "Kiss You",
+    "album": "Take Me Home • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 am",
-      "artist": "One Direction",
-      "title": "Kiss You"
-    },
     {
       "time": "12:15 am",
       "artist": "Sonic Youth",
@@ -26,9 +21,20 @@
       "time": "12:24 am",
       "artist": "Pretenders",
       "title": "Brass In Pocket"
+    },
+    {
+      "time": "12:27 am",
+      "artist": "Prince and The Revolution",
+      "title": "Paisley Park"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 am",
+      "artist": "One Direction",
+      "title": "Kiss You",
+      "album": "Take Me Home • 2012"
+    },
     {
       "time": "12:08 am",
       "artist": "Green Day",
@@ -172,12 +178,6 @@
       "artist": "Stevie Wonder",
       "title": "Signed, Sealed, Delivered I'm Yours",
       "album": "Signed, Sealed & Delivered • 1970"
-    },
-    {
-      "time": "10:24 pm",
-      "artist": "Chappell Roan",
-      "title": "Red Wine Supernova",
-      "album": "The Rise and Fall of a Midwest Princess • 2024"
     }
   ]
 }
