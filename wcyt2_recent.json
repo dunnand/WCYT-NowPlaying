@@ -1,19 +1,35 @@
 {
-  "updatedAt": "2026-08-09T23:36:06",
+  "updatedAt": "2026-08-09T23:58:01",
   "now": {
-    "artist": "Elton John",
-    "title": "Your Song",
-    "album": "Elton John • 1970",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "Anonymous",
+    "album": "Call The Doctor • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "11:39 pm",
-      "artist": "Elton John",
-      "title": "Your Song"
+      "time": "12:00 am",
+      "artist": "Justin Bieber",
+      "title": "Beauty And A Beat"
+    },
+    {
+      "time": "12:04 am",
+      "artist": "Kylie Minogue",
+      "title": "Can't Get You out of My Head"
+    },
+    {
+      "time": "12:08 am",
+      "artist": "Green Day",
+      "title": "Holiday"
     }
   ],
   "recent": [
+    {
+      "time": "11:58 pm",
+      "artist": "Sleater-Kinney",
+      "title": "Anonymous",
+      "album": "Call The Doctor • 1996"
+    },
     {
       "time": "11:36 pm",
       "artist": "Elton John",
@@ -157,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Zero",
       "album": "Mellon Collie and the Infinite Sadness • 1995"
-    },
-    {
-      "time": "10:08 pm",
-      "artist": "Pearl Jam",
-      "title": "Daughter",
-      "album": "Vs. • 1993"
     }
   ]
 }
