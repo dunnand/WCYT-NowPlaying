@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T12:37:13",
+  "updatedAt": "2026-08-10T12:37:33",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Big Red Machine",
+    "title": "Hymnostic",
+    "album": "Big Red Machine • 2018",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:37 pm",
-      "artist": "Big Red Machine",
-      "title": "Hymnostic"
-    },
     {
       "time": "12:40 pm",
       "artist": "Caribou",
@@ -26,9 +21,20 @@
       "time": "12:47 pm",
       "artist": "Good Dear Good",
       "title": "Slick"
+    },
+    {
+      "time": "12:52 pm",
+      "artist": "DEVO",
+      "title": "Through Being Cool"
     }
   ],
   "recent": [
+    {
+      "time": "12:37 pm",
+      "artist": "Big Red Machine",
+      "title": "Hymnostic",
+      "album": "Big Red Machine • 2018"
+    },
     {
       "time": "12:34 pm",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "The Happy Dictator",
       "album": "The Mountain • 2026"
-    },
-    {
-      "time": "10:44 am",
-      "artist": "Grizzly Bear",
-      "title": "Sleeping Ute",
-      "album": "Shields • 2012"
     }
   ]
 }
