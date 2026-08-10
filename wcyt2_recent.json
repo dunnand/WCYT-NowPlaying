@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T17:24:54",
+  "updatedAt": "2026-08-10T17:25:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Van Halen",
+    "title": "When It's Love",
+    "album": "OU812 • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:25 pm",
-      "artist": "Van Halen",
-      "title": "When It's Love"
-    },
     {
       "time": "5:29 pm",
       "artist": "Lizzo",
@@ -26,9 +21,20 @@
       "time": "5:37 pm",
       "artist": "Elvis Presley",
       "title": "Burning Love"
+    },
+    {
+      "time": "5:40 pm",
+      "artist": "Jurassic 5",
+      "title": "Quality Control"
     }
   ],
   "recent": [
+    {
+      "time": "5:25 pm",
+      "artist": "Van Halen",
+      "title": "When It's Love",
+      "album": "OU812 • 1988"
+    },
     {
       "time": "5:20 pm",
       "artist": "Tom Petty",
@@ -172,12 +178,6 @@
       "artist": "The Who",
       "title": "Squeeze Box",
       "album": "The Who By Numbers • 1975"
-    },
-    {
-      "time": "3:55 pm",
-      "artist": "The Doors",
-      "title": "Break On Through (to the Other Side)",
-      "album": "The Doors • 1967"
     }
   ]
 }
