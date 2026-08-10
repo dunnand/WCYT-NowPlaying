@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T18:44:40",
+  "updatedAt": "2026-08-10T18:47:56",
   "now": {
-    "artist": "Norah Jones",
-    "title": "Don't Know Why",
-    "album": "Come Away with Me • 2002",
+    "artist": "The Beatles",
+    "title": "I Will",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:47 pm",
-      "artist": "The Beatles",
-      "title": "I Will"
-    },
     {
       "time": "6:49 pm",
       "artist": "Marvin Gaye",
@@ -26,9 +21,20 @@
       "time": "7:05 pm",
       "artist": "The Dave Brubeck Quartet",
       "title": "Take Five"
+    },
+    {
+      "time": "7:10 pm",
+      "artist": "Justin Timberlake",
+      "title": "What Goes Around Comes Around"
     }
   ],
   "recent": [
+    {
+      "time": "6:47 pm",
+      "artist": "The Beatles",
+      "title": "I Will",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "6:44 pm",
       "artist": "Norah Jones",
@@ -172,12 +178,6 @@
       "artist": "Lana Del Rey",
       "title": "Summertime Sadness",
       "album": "Born to Die • 2012"
-    },
-    {
-      "time": "5:04 pm",
-      "artist": "The Who",
-      "title": "Armenia City in the Sky",
-      "album": "The Who Sell Out • 1967"
     }
   ]
 }
