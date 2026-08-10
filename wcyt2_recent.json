@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T23:58:01",
+  "updatedAt": "2026-08-10T00:00:36",
   "now": {
-    "artist": "Sleater-Kinney",
-    "title": "Anonymous",
-    "album": "Call The Doctor • 1996",
-    "category": "TUNES"
+    "artist": "Justin Bieber",
+    "title": "Beauty And A Beat",
+    "album": "Believe • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 am",
-      "artist": "Justin Bieber",
-      "title": "Beauty And A Beat"
-    },
     {
       "time": "12:04 am",
       "artist": "Kylie Minogue",
@@ -21,9 +16,20 @@
       "time": "12:08 am",
       "artist": "Green Day",
       "title": "Holiday"
+    },
+    {
+      "time": "12:12 am",
+      "artist": "One Direction",
+      "title": "Kiss You"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 am",
+      "artist": "Justin Bieber",
+      "title": "Beauty And A Beat",
+      "album": "Believe • 2012"
+    },
     {
       "time": "11:58 pm",
       "artist": "Sleater-Kinney",
@@ -167,12 +173,6 @@
       "artist": "Peter Gabriel",
       "title": "Shock the Monkey",
       "album": "Peter Gabriel • 1982"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Zero",
-      "album": "Mellon Collie and the Infinite Sadness • 1995"
     }
   ]
 }
