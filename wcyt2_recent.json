@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T04:42:36",
+  "updatedAt": "2026-08-10T04:46:23",
   "now": {
-    "artist": "David Bowie",
-    "title": "The Man Who Sold the World",
-    "album": "The Man Who Sold the World • 1970",
+    "artist": "Radiohead",
+    "title": "Bones",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "Radiohead",
-      "title": "Bones"
-    },
     {
       "time": "4:49 am",
       "artist": "Doris Day",
@@ -26,9 +21,20 @@
       "time": "4:54 am",
       "artist": "The Beatles",
       "title": "Here Comes The Sun"
+    },
+    {
+      "time": "4:57 am",
+      "artist": "Justin Bieber",
+      "title": "Baby"
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "Radiohead",
+      "title": "Bones",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "4:42 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Drive",
       "album": "Automatic for the People • 1992"
-    },
-    {
-      "time": "3:15 am",
-      "artist": "House of Pain",
-      "title": "Jump Around",
-      "album": "House of Pain • 1992"
     }
   ]
 }
