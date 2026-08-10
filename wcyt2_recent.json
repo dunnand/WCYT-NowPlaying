@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T13:54:00",
+  "updatedAt": "2026-08-10T14:00:18",
   "now": {
-    "artist": "Eagles",
-    "title": "Lyin' Eyes",
-    "album": "One of These Nights • 1975",
+    "artist": "The Beatles",
+    "title": "Doctor Robert",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 pm",
-      "artist": "The Beatles",
-      "title": "Doctor Robert"
-    },
     {
       "time": "2:02 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "2:10 pm",
       "artist": "Buddy Holly",
       "title": "Take Your Time"
+    },
+    {
+      "time": "2:12 pm",
+      "artist": "Johnny Cash",
+      "title": "Hurt"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "The Beatles",
+      "title": "Doctor Robert",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "1:54 pm",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Kamasi Washington",
       "title": "Show Us the Way",
       "album": "Heaven and Earth • 2018"
-    },
-    {
-      "time": "12:25 pm",
-      "artist": "The Beatles",
-      "title": "Bad Boy",
-      "album": "single • 1965"
     }
   ]
 }
