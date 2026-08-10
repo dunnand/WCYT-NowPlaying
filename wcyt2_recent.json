@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T15:34:00",
+  "updatedAt": "2026-08-10T15:37:57",
   "now": {
-    "artist": "Stevie Wonder",
-    "title": "Go Home",
-    "album": "In Square Circle • 1985",
+    "artist": "Deftones",
+    "title": "Genesis",
+    "album": "Ohms • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:38 pm",
-      "artist": "Deftones",
-      "title": "Genesis"
-    },
     {
       "time": "3:43 pm",
       "artist": "John Prine",
@@ -21,9 +16,20 @@
       "time": "3:47 pm",
       "artist": "The Beatles",
       "title": "Nowhere Man"
+    },
+    {
+      "time": "3:50 pm",
+      "artist": "Queen",
+      "title": "We Will Rock You/ We Are The Champions"
     }
   ],
   "recent": [
+    {
+      "time": "3:37 pm",
+      "artist": "Deftones",
+      "title": "Genesis",
+      "album": "Ohms • 2020"
+    },
     {
       "time": "3:34 pm",
       "artist": "Stevie Wonder",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Two of Us",
       "album": "Let It Be • 1970"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "The Beatles",
-      "title": "Doctor Robert",
-      "album": "Revolver • 1966"
     }
   ]
 }
