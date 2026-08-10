@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:37:20",
+  "updatedAt": "2026-08-09T21:40:04",
   "now": {
-    "artist": "Jimmy Eat World",
-    "title": "Pain",
-    "album": "Futures • 2004",
+    "artist": "The Beatles",
+    "title": "Drive My Car",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:39 pm",
-      "artist": "The Beatles",
-      "title": "Drive My Car"
-    },
     {
       "time": "9:42 pm",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "9:53 pm",
       "artist": "Ritchie Valens",
       "title": "Come on, Let's Go"
+    },
+    {
+      "time": "9:55 pm",
+      "artist": "Hot Chip",
+      "title": "Over and Over"
     }
   ],
   "recent": [
+    {
+      "time": "9:40 pm",
+      "artist": "The Beatles",
+      "title": "Drive My Car",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "9:37 pm",
       "artist": "Jimmy Eat World",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Andromeda feat. D.R.A.M.",
       "album": "Humanz • 2017"
-    },
-    {
-      "time": "8:06 pm",
-      "artist": "The Beatles",
-      "title": "All Together Now",
-      "album": "Yellow Submarine • 1969"
     }
   ]
 }
