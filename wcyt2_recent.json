@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:05:20",
+  "updatedAt": "2026-08-09T21:05:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Little Child",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 pm",
-      "artist": "The Beatles",
-      "title": "Little Child"
-    },
     {
       "time": "9:07 pm",
       "artist": "Imagine Dragons",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "The Beatles",
+      "title": "Little Child",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "9:00 pm",
       "artist": "Modest Mouse",
@@ -172,12 +173,6 @@
       "artist": "American Football",
       "title": "Uncomfortably Numb (feat. Hayley Williams)",
       "album": "American Football •"
-    },
-    {
-      "time": "7:18 pm",
-      "artist": "INXS",
-      "title": "Need You Tonight",
-      "album": "Kick • 1987"
     }
   ]
 }
