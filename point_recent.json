@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T00:07:48",
+  "updatedAt": "2026-08-10T00:08:00",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Jack White",
+    "title": "Dollar Bill",
+    "album": "Frozen Charlotte • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:07 am",
-      "artist": "Jack White",
-      "title": "Dollar Bill"
-    },
     {
       "time": "12:10 am",
       "artist": "Liquid, Liquid",
@@ -26,9 +21,20 @@
       "time": "12:18 am",
       "artist": "Sufjan Stevens",
       "title": "Decatur, or, Round of Applause for Your Stepmother!"
+    },
+    {
+      "time": "12:21 am",
+      "artist": "Kurt Vile",
+      "title": "99 BPM"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "Jack White",
+      "title": "Dollar Bill",
+      "album": "Frozen Charlotte • 2026"
+    },
     {
       "time": "12:04 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "SAULT",
       "title": "Free",
       "album": "Untitled (Rise) • 2021"
-    },
-    {
-      "time": "10:30 pm",
-      "artist": "Bon Iver",
-      "title": "RABi",
-      "album": "i,i • 2019"
     }
   ]
 }
