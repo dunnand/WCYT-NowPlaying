@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T03:41:58",
+  "updatedAt": "2026-08-10T03:44:43",
   "now": {
-    "artist": "George Harrison",
-    "title": "Awaiting On You All",
-    "album": "All Things Must Pass • 1970",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "You Said Something",
+    "album": "Stories from the City, Stories from the Sea • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "PJ Harvey",
-      "title": "You Said Something"
-    },
     {
       "time": "3:47 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "3:55 am",
       "artist": "Belle and Sebastian",
       "title": "Me and the Major"
+    },
+    {
+      "time": "3:59 am",
+      "artist": "Big Bopper",
+      "title": "Chantilly Lace"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "PJ Harvey",
+      "title": "You Said Something",
+      "album": "Stories from the City, Stories from the Sea • 2000"
+    },
     {
       "time": "3:41 am",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "The Creation",
       "title": "Making Time",
       "album": "We Are Paintermen • 1967"
-    },
-    {
-      "time": "2:03 am",
-      "artist": "Guided by Voices",
-      "title": "The Best of Jill Hives",
-      "album": "Earthquake Glue • 2003"
     }
   ]
 }
