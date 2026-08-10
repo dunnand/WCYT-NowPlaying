@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T20:33:21",
+  "updatedAt": "2026-08-09T20:37:36",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Sweet Emotion",
-    "album": "Toys in the Attic • 1975",
+    "artist": "Dave Loggins",
+    "title": "Please Come To Boston",
+    "album": "Apprentice • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:37 pm",
-      "artist": "Dave Loggins",
-      "title": "Please Come To Boston"
-    },
     {
       "time": "8:42 pm",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "8:49 pm",
       "artist": "Neil Young",
       "title": "Old Man"
+    },
+    {
+      "time": "8:52 pm",
+      "artist": "Jann Arden",
+      "title": "Insensitive"
     }
   ],
   "recent": [
+    {
+      "time": "8:37 pm",
+      "artist": "Dave Loggins",
+      "title": "Please Come To Boston",
+      "album": "Apprentice • 1974"
+    },
     {
       "time": "8:33 pm",
       "artist": "Aerosmith",
@@ -172,12 +178,6 @@
       "artist": "The Mountain Goats",
       "title": "Cotton",
       "album": "We Shall All Be Healed • 2004"
-    },
-    {
-      "time": "6:52 pm",
-      "artist": "Ricky Nelson",
-      "title": "Poor Little Fool",
-      "album": "single • 1958"
     }
   ]
 }
