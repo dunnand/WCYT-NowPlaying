@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T01:30:35",
+  "updatedAt": "2026-08-10T01:30:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "Dragon Attack",
+    "album": "The Game • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:30 am",
-      "artist": "Queen",
-      "title": "Dragon Attack"
-    },
     {
       "time": "1:35 am",
       "artist": "Billie Eilish",
@@ -26,9 +21,20 @@
       "time": "1:44 am",
       "artist": "Cat Stevens",
       "title": "The Hurt"
+    },
+    {
+      "time": "1:48 am",
+      "artist": "Kings of Leon",
+      "title": "Four Kicks"
     }
   ],
   "recent": [
+    {
+      "time": "1:30 am",
+      "artist": "Queen",
+      "title": "Dragon Attack",
+      "album": "The Game • 1980"
+    },
     {
       "time": "1:25 am",
       "artist": "Prince",
@@ -172,12 +178,6 @@
       "artist": "Elton John",
       "title": "Your Song",
       "album": "Elton John • 1970"
-    },
-    {
-      "time": "11:32 pm",
-      "artist": "Pitbull",
-      "title": "Give Me Everything feat. Ne-Yo Afrojack & Nayer",
-      "album": "Planet Pit • 2011"
     }
   ]
 }
