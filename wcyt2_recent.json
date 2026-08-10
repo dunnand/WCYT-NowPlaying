@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T03:03:12",
+  "updatedAt": "2026-08-10T03:08:41",
   "now": {
-    "artist": "The Microphones",
-    "title": "I Want Wind to Blow",
-    "album": "The Glow, Part 2 • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Rain",
+    "album": "single • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:08 am",
-      "artist": "The Beatles",
-      "title": "Rain"
-    },
     {
       "time": "3:11 am",
       "artist": "Marina & The Diamonds",
@@ -21,9 +16,25 @@
       "time": "3:15 am",
       "artist": "House of Pain",
       "title": "Jump Around"
+    },
+    {
+      "time": "3:18 am",
+      "artist": "R.E.M.",
+      "title": "Drive"
+    },
+    {
+      "time": "3:23 am",
+      "artist": "Tears For Fears",
+      "title": "Shout"
     }
   ],
   "recent": [
+    {
+      "time": "3:08 am",
+      "artist": "The Beatles",
+      "title": "Rain",
+      "album": "single • 1966"
+    },
     {
       "time": "3:03 am",
       "artist": "The Microphones",
@@ -167,12 +178,6 @@
       "artist": "Billie Eilish",
       "title": "Happier Than Ever",
       "album": "Happier Than Ever • 2021"
-    },
-    {
-      "time": "1:30 am",
-      "artist": "Queen",
-      "title": "Dragon Attack",
-      "album": "The Game • 1980"
     }
   ]
 }
