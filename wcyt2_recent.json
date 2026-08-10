@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T07:46:54",
+  "updatedAt": "2026-08-10T07:50:32",
   "now": {
-    "artist": "The Flaming Lips",
-    "title": "Slow Motion",
-    "album": "The Soft Bulletin • 1999",
-    "category": "TUNES"
+    "artist": "David Bowie",
+    "title": "Modern Love",
+    "album": "Lets Dance • 1983",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "David Bowie",
-      "title": "Modern Love"
-    },
     {
       "time": "7:55 am",
       "artist": "The Clash",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "David Bowie",
+      "title": "Modern Love",
+      "album": "Lets Dance • 1983"
+    },
     {
       "time": "7:46 am",
       "artist": "The Flaming Lips",
@@ -172,12 +173,6 @@
       "artist": "The Highwomen",
       "title": "Crowded Table",
       "album": "The Highwomen • 2019"
-    },
-    {
-      "time": "6:19 am",
-      "artist": "The New Pornographers",
-      "title": "The Electric Version",
-      "album": "Electric Version • 2003"
     }
   ]
 }
