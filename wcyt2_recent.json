@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T22:14:56",
+  "updatedAt": "2026-08-09T22:15:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Peter Gabriel",
+    "title": "Shock the Monkey",
+    "album": "Peter Gabriel • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "Peter Gabriel",
-      "title": "Shock the Monkey"
-    },
     {
       "time": "10:20 pm",
       "artist": "Pet Shop Boys",
@@ -26,9 +21,20 @@
       "time": "10:27 pm",
       "artist": "Stevie Wonder",
       "title": "Signed, Sealed, Delivered I'm Yours"
+    },
+    {
+      "time": "10:30 pm",
+      "artist": "T. Rex",
+      "title": "Mad Donna"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "Peter Gabriel",
+      "title": "Shock the Monkey",
+      "album": "Peter Gabriel • 1982"
+    },
     {
       "time": "10:12 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +178,6 @@
       "artist": "The Who",
       "title": "Pinball Wizard",
       "album": "Tommy • 1969"
-    },
-    {
-      "time": "8:42 pm",
-      "artist": "Interpol",
-      "title": "Say Hello to the Angels",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
