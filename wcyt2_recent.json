@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T10:34:54",
+  "updatedAt": "2026-08-10T10:39:12",
   "now": {
-    "artist": "Interpol",
-    "title": "NYC",
-    "album": "Turn on the Bright Lights • 2002",
-    "category": "TUNES"
+    "artist": "The Monks",
+    "title": "Monk Time",
+    "album": "Black Monk Time • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:39 am",
-      "artist": "The Monks",
-      "title": "Monk Time"
-    },
     {
       "time": "10:41 am",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "10:46 am",
       "artist": "Dave Matthews Band",
       "title": "Satellite"
+    },
+    {
+      "time": "10:51 am",
+      "artist": "De La Soul",
+      "title": "Ring Ring Ring (Ha Ha Hey)"
     }
   ],
   "recent": [
+    {
+      "time": "10:39 am",
+      "artist": "The Monks",
+      "title": "Monk Time",
+      "album": "Black Monk Time • 1966"
+    },
     {
       "time": "10:34 am",
       "artist": "Interpol",
@@ -167,12 +173,6 @@
       "artist": "Jessie Ware",
       "title": "Spotlight",
       "album": "What's Your Pleasure • 2020"
-    },
-    {
-      "time": "8:49 am",
-      "artist": "The Reverbs",
-      "title": "Trusted Woods",
-      "album": "single • 1984"
     }
   ]
 }
