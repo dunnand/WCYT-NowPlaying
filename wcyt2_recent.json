@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T04:54:56",
+  "updatedAt": "2026-08-10T04:57:50",
   "now": {
-    "artist": "The Beatles",
-    "title": "Here Comes The Sun",
-    "album": "Abbey Road • 1969",
+    "artist": "Justin Bieber",
+    "title": "Baby",
+    "album": "My World 2.0 • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Justin Bieber",
-      "title": "Baby"
-    },
     {
       "time": "5:01 am",
       "artist": "I Monster",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Justin Bieber",
+      "title": "Baby",
+      "album": "My World 2.0 • 2010"
+    },
     {
       "time": "4:54 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "My Morning Jacket",
       "title": "Golden",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "3:33 am",
-      "artist": "Beyonce",
-      "title": "16 CARRIAGES",
-      "album": "Cowboy Carter • 2024"
     }
   ]
 }
