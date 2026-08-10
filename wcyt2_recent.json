@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T17:08:02",
+  "updatedAt": "2026-08-10T17:12:29",
   "now": {
-    "artist": "Lana Del Rey",
-    "title": "Summertime Sadness",
-    "album": "Born to Die • 2012",
+    "artist": "Celine Dion",
+    "title": "Because You Loved Me",
+    "album": "Falling Into You • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 pm",
-      "artist": "Celine Dion",
-      "title": "Because You Loved Me"
-    },
     {
       "time": "5:17 pm",
       "artist": "Cocteau Twins",
@@ -21,9 +16,20 @@
       "time": "5:20 pm",
       "artist": "Tom Petty",
       "title": "Runnin' Down A Dream"
+    },
+    {
+      "time": "5:25 pm",
+      "artist": "Van Halen",
+      "title": "When It's Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 pm",
+      "artist": "Celine Dion",
+      "title": "Because You Loved Me",
+      "album": "Falling Into You • 1996"
+    },
     {
       "time": "5:08 pm",
       "artist": "Lana Del Rey",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Nowhere Man",
       "album": "Rubber Soul • 1965"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "John Prine",
-      "title": "Hello in There",
-      "album": "John Prine • 1971"
     }
   ]
 }
