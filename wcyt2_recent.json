@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T10:46:39",
+  "updatedAt": "2026-08-10T10:46:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dave Matthews Band",
+    "title": "Satellite",
+    "album": "Under The Table And Dreaming • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:46 am",
-      "artist": "Dave Matthews Band",
-      "title": "Satellite"
-    },
     {
       "time": "10:51 am",
       "artist": "De La Soul",
@@ -26,9 +21,20 @@
       "time": "10:59 am",
       "artist": "New Order",
       "title": "Procession"
+    },
+    {
+      "time": "11:03 am",
+      "artist": "Beyonce",
+      "title": "HEATED"
     }
   ],
   "recent": [
+    {
+      "time": "10:46 am",
+      "artist": "Dave Matthews Band",
+      "title": "Satellite",
+      "album": "Under The Table And Dreaming • 1995"
+    },
     {
       "time": "10:41 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Joni Mitchell",
       "title": "Woodstock",
       "album": "Ladies of the Canyon • 1970"
-    },
-    {
-      "time": "8:58 am",
-      "artist": "of Montreal",
-      "title": "The Past Is a Grotesque Animal",
-      "album": "Hissing Fauna, Are You The Destroyer • 2007"
     }
   ]
 }
