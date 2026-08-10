@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T12:03:07",
+  "updatedAt": "2026-08-10T12:06:04",
   "now": {
-    "artist": "Dr. John",
-    "title": "Right Place Wrong Time",
-    "album": "In the Right Place • 1973",
+    "artist": "The Beatles",
+    "title": "You've Got To Hide Your Love Away",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 pm",
-      "artist": "The Beatles",
-      "title": "You've Got To Hide Your Love Away"
-    },
     {
       "time": "12:08 pm",
       "artist": "Bellamy Brothers",
@@ -26,9 +21,20 @@
       "time": "12:13 pm",
       "artist": "Ace",
       "title": "How Long"
+    },
+    {
+      "time": "12:17 pm",
+      "artist": "PJ Harvey",
+      "title": "A Perfect Day Elise"
     }
   ],
   "recent": [
+    {
+      "time": "12:06 pm",
+      "artist": "The Beatles",
+      "title": "You've Got To Hide Your Love Away",
+      "album": "Help! • 1965"
+    },
     {
       "time": "12:03 pm",
       "artist": "Dr. John",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "NYC",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "10:32 am",
-      "artist": "Bobby Darin",
-      "title": "Splish Splash",
-      "album": "Bobby Darin • 1958"
     }
   ]
 }
