@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T04:05:34",
+  "updatedAt": "2026-08-10T04:05:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Black Bird",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 am",
-      "artist": "The Beatles",
-      "title": "Black Bird"
-    },
     {
       "time": "4:08 am",
       "artist": "Leon Bridges",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:05 am",
+      "artist": "The Beatles",
+      "title": "Black Bird",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "4:02 am",
       "artist": "Neko Case",
@@ -172,12 +173,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Be Afriad",
       "album": "Reunions • 2020"
-    },
-    {
-      "time": "2:25 am",
-      "artist": "Rolling Stones",
-      "title": "Start Me Up",
-      "album": "Tattoo You • 1981"
     }
   ]
 }
