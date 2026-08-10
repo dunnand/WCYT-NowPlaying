@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:42:28",
+  "updatedAt": "2026-08-09T21:49:48",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "You Can't Always Get What You Want",
-    "album": "Let It Bleed • 1973",
+    "artist": "Opus III",
+    "title": "It's A Fine Day",
+    "album": "Mind Fruit • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:49 pm",
-      "artist": "Opus III",
-      "title": "It's A Fine Day"
-    },
     {
       "time": "9:53 pm",
       "artist": "Ritchie Valens",
@@ -21,9 +16,20 @@
       "time": "9:55 pm",
       "artist": "Hot Chip",
       "title": "Over and Over"
+    },
+    {
+      "time": "10:00 pm",
+      "artist": "The Ronettes",
+      "title": "Walking in the Rain"
     }
   ],
   "recent": [
+    {
+      "time": "9:49 pm",
+      "artist": "Opus III",
+      "title": "It's A Fine Day",
+      "album": "Mind Fruit • 1992"
+    },
     {
       "time": "9:42 pm",
       "artist": "Rolling Stones",
@@ -167,12 +173,6 @@
       "artist": "Mudhoney",
       "title": "Suck You Dry",
       "album": "Piece of Cake • 1992"
-    },
-    {
-      "time": "8:11 pm",
-      "artist": "U2",
-      "title": "Even Better Than The Real Thing",
-      "album": "Achtung Baby • 1992"
     }
   ]
 }
