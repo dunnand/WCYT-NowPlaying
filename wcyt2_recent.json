@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:53:23",
+  "updatedAt": "2026-08-09T21:55:26",
   "now": {
-    "artist": "Ritchie Valens",
-    "title": "Come on, Let's Go",
-    "album": "Ritchie Valens • 1959",
-    "category": "AUDIO"
+    "artist": "Hot Chip",
+    "title": "Over and Over",
+    "album": "The Warning • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:55 pm",
-      "artist": "Hot Chip",
-      "title": "Over and Over"
-    },
     {
       "time": "10:00 pm",
       "artist": "The Ronettes",
@@ -21,9 +16,20 @@
       "time": "10:03 pm",
       "artist": "Justin Timberlake",
       "title": "Mirrors"
+    },
+    {
+      "time": "10:08 pm",
+      "artist": "Pearl Jam",
+      "title": "Daughter"
     }
   ],
   "recent": [
+    {
+      "time": "9:55 pm",
+      "artist": "Hot Chip",
+      "title": "Over and Over",
+      "album": "The Warning • 2006"
+    },
     {
       "time": "9:53 pm",
       "artist": "Ritchie Valens",
@@ -167,12 +173,6 @@
       "artist": "Journey",
       "title": "Separate Ways (Worlds Apart)",
       "album": "Frontiers • 1983"
-    },
-    {
-      "time": "8:18 pm",
-      "artist": "John Cougar Mellencamp",
-      "title": "R.O.C.K. In The U.S.A.",
-      "album": "Scarecrow • 1986"
     }
   ]
 }
