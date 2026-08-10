@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T14:10:03",
+  "updatedAt": "2026-08-10T14:11:56",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Take Your Time",
-    "album": "Buddy Holly • 1958",
+    "artist": "Johnny Cash",
+    "title": "Hurt",
+    "album": "American IV: The Man Comes Around • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:11 pm",
-      "artist": "Johnny Cash",
-      "title": "Hurt"
-    },
     {
       "time": "2:15 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "2:17 pm",
       "artist": "One Direction",
       "title": "If I Could Fly"
+    },
+    {
+      "time": "2:21 pm",
+      "artist": "All",
+      "title": "4-One - I Can Love You Like That"
     }
   ],
   "recent": [
+    {
+      "time": "2:11 pm",
+      "artist": "Johnny Cash",
+      "title": "Hurt",
+      "album": "American IV: The Man Comes Around • 2002"
+    },
     {
       "time": "2:10 pm",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Beat Happening",
       "title": "Bewitched",
       "album": "Jamboree • 1988"
-    },
-    {
-      "time": "12:43 pm",
-      "artist": "Bauhaus",
-      "title": "Kick in the Eye",
-      "album": "Mask • 1981"
     }
   ]
 }
