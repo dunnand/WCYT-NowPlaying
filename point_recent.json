@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T15:22:01",
+  "updatedAt": "2026-08-10T15:22:13",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Cate Le Bon",
+    "title": "Jerome",
+    "album": "Michelangelo Dying • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 pm",
-      "artist": "Cate Le Bon",
-      "title": "Jerome"
-    },
     {
       "time": "3:26 pm",
       "artist": "Greg Freeman",
@@ -26,9 +21,20 @@
       "time": "3:33 pm",
       "artist": "Stereolab",
       "title": "Wow and Flutter"
+    },
+    {
+      "time": "3:36 pm",
+      "artist": "Julien Baker",
+      "title": "Shadowboxing"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 pm",
+      "artist": "Cate Le Bon",
+      "title": "Jerome",
+      "album": "Michelangelo Dying • 2025"
+    },
     {
       "time": "3:18 pm",
       "artist": "Andrew Bird",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "Death With Dignity",
       "album": "Carrie & Lowell • 2015"
-    },
-    {
-      "time": "1:26 pm",
-      "artist": "Gigi",
-      "title": "WAIT A MINUTE",
-      "album": "Thank You Sam • 2025"
     }
   ]
 }
