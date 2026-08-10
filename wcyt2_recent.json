@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T11:08:16",
+  "updatedAt": "2026-08-10T11:15:14",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "When The Levee Breaks",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "The Clash",
+    "title": "I Fought the Law",
+    "album": "The Clash • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 am",
-      "artist": "The Clash",
-      "title": "I Fought the Law"
-    },
     {
       "time": "11:17 am",
       "artist": "Lily Allen",
@@ -26,9 +21,20 @@
       "time": "11:23 am",
       "artist": "Barry Louis Polisar",
       "title": "Me and You"
+    },
+    {
+      "time": "11:25 am",
+      "artist": "Depeche Mode",
+      "title": "World in My Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 am",
+      "artist": "The Clash",
+      "title": "I Fought the Law",
+      "album": "The Clash • 1979"
+    },
     {
       "time": "11:08 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Lady Gaga",
       "title": "Bad Romance",
       "album": "The Fame Monster • 2009"
-    },
-    {
-      "time": "9:31 am",
-      "artist": "Dean Martin",
-      "title": "That's Amore",
-      "album": "Dean Martin Sings • 1953"
     }
   ]
 }
