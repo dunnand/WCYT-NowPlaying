@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T00:35:22",
+  "updatedAt": "2026-08-10T00:37:25",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Slip On Through",
-    "album": "Sunflower • 1970",
+    "artist": "The Beatles",
+    "title": "I Want To Tell You",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:37 am",
-      "artist": "The Beatles",
-      "title": "I Want To Tell You"
-    },
     {
       "time": "12:39 am",
       "artist": "Blondie",
@@ -26,9 +21,20 @@
       "time": "12:48 am",
       "artist": "The Cars",
       "title": "Good Times Roll"
+    },
+    {
+      "time": "12:51 am",
+      "artist": "Yo La Tengo",
+      "title": "Big Day Coming"
     }
   ],
   "recent": [
+    {
+      "time": "12:37 am",
+      "artist": "The Beatles",
+      "title": "I Want To Tell You",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "12:35 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Grandaddy",
       "title": "He's Simple, He's Dumb, He's the Pilot",
       "album": "The Sophtware Slump • 2000"
-    },
-    {
-      "time": "10:46 pm",
-      "artist": "Jimmy \"C\" Newman",
-      "title": "A Fallen Star",
-      "album": "A Fallen Star • 1958"
     }
   ]
 }
