@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T00:39:49",
+  "updatedAt": "2026-08-10T00:40:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Blondie",
+    "title": "Atomic",
+    "album": "Eat to the Beat • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 am",
-      "artist": "Blondie",
-      "title": "Atomic"
-    },
     {
       "time": "12:44 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "12:58 am",
       "artist": "Ray Charles",
       "title": "Lonely Avenue"
+    },
+    {
+      "time": "1:01 am",
+      "artist": "Maroon 5",
+      "title": "Sunday Morning"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "Blondie",
+      "title": "Atomic",
+      "album": "Eat to the Beat • 1979"
+    },
     {
       "time": "12:37 am",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Kinks",
       "title": "The Village Green Preservation Society",
       "album": "The Kinks Are the Village Green Preservation Society • 1968"
-    },
-    {
-      "time": "10:48 pm",
-      "artist": "Grandaddy",
-      "title": "He's Simple, He's Dumb, He's the Pilot",
-      "album": "The Sophtware Slump • 2000"
     }
   ]
 }
