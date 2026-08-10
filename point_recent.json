@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:12:23",
+  "updatedAt": "2026-08-09T21:12:44",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Geese",
+    "title": "3D Country",
+    "album": "3D Country • 2023",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Geese",
-      "title": "3D Country"
-    },
     {
       "time": "9:17 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "9:25 pm",
       "artist": "Slow Pulp",
       "title": "Better Man"
+    },
+    {
+      "time": "9:28 pm",
+      "artist": "Sufjan Stevens",
+      "title": "The Predatory Wasp of the Palisades Is Out to Get Us!"
     }
   ],
   "recent": [
+    {
+      "time": "9:12 pm",
+      "artist": "Geese",
+      "title": "3D Country",
+      "album": "3D Country • 2023"
+    },
     {
       "time": "9:06 pm",
       "artist": "Father John Misty",
@@ -172,12 +178,6 @@
       "artist": "Whitney",
       "title": "See You Later, I'm Gone",
       "album": "See You Later, I'm Gone • 2026"
-    },
-    {
-      "time": "7:31 pm",
-      "artist": "Lucy Dacus",
-      "title": "Bullseye",
-      "album": "Forever Is A Feeling • 2025"
     }
   ]
 }
