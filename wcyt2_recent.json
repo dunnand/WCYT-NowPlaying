@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T16:47:14",
+  "updatedAt": "2026-08-10T16:49:38",
   "now": {
-    "artist": "The Beatles",
-    "title": "And I Love Her",
-    "album": "A Hard Day's Night • 1964",
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Carry On",
+    "album": "Dj Vu • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:49 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Carry On"
-    },
     {
       "time": "4:53 pm",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "5:01 pm",
       "artist": "Matchbox Twenty",
       "title": "Unwell"
+    },
+    {
+      "time": "5:05 pm",
+      "artist": "The Who",
+      "title": "Armenia City in the Sky"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 pm",
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Carry On",
+      "album": "Dj Vu • 1970"
+    },
     {
       "time": "4:47 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Phoebe Bridgers",
       "title": "Motion Sickness",
       "album": "Stranger in the Alps • 2017"
-    },
-    {
-      "time": "3:17 pm",
-      "artist": "Guided by Voices",
-      "title": "Chasing Heather Crazy",
-      "album": "Isolation Drills • 2001"
     }
   ]
 }
