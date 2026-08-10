@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T15:43:16",
+  "updatedAt": "2026-08-10T15:47:42",
   "now": {
-    "artist": "John Prine",
-    "title": "Hello in There",
-    "album": "John Prine • 1971",
+    "artist": "The Beatles",
+    "title": "Nowhere Man",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:47 pm",
-      "artist": "The Beatles",
-      "title": "Nowhere Man"
-    },
     {
       "time": "3:50 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "3:57 pm",
       "artist": "The Who",
       "title": "Squeeze Box"
+    },
+    {
+      "time": "4:00 pm",
+      "artist": "blink",
+      "title": "182 - All the Small Things"
     }
   ],
   "recent": [
+    {
+      "time": "3:47 pm",
+      "artist": "The Beatles",
+      "title": "Nowhere Man",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "3:43 pm",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Take Your Time",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "2:05 pm",
-      "artist": "Air",
-      "title": "All I Need (feat. Beth Hirsch)",
-      "album": "Moon Safari • 1998"
     }
   ]
 }
