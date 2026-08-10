@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:36:59",
+  "updatedAt": "2026-08-09T21:37:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Jimmy Eat World",
+    "title": "Pain",
+    "album": "Futures • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:37 pm",
-      "artist": "Jimmy Eat World",
-      "title": "Pain"
-    },
     {
       "time": "9:39 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "9:49 pm",
       "artist": "Opus III",
       "title": "It's A Fine Day"
+    },
+    {
+      "time": "9:53 pm",
+      "artist": "Ritchie Valens",
+      "title": "Come on, Let's Go"
     }
   ],
   "recent": [
+    {
+      "time": "9:37 pm",
+      "artist": "Jimmy Eat World",
+      "title": "Pain",
+      "album": "Futures • 2004"
+    },
     {
       "time": "9:31 pm",
       "artist": "Rod Stewart",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "All Together Now",
       "album": "Yellow Submarine • 1969"
-    },
-    {
-      "time": "8:02 pm",
-      "artist": "*NSYNC",
-      "title": "Bye Bye Bye",
-      "album": "No Strings Attached • 2000"
     }
   ]
 }
