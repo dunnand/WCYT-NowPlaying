@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T13:45:26",
+  "updatedAt": "2026-08-10T13:45:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Levon",
+    "album": "Madman Across the Water • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 pm",
-      "artist": "Elton John",
-      "title": "Levon"
-    },
     {
       "time": "1:50 pm",
       "artist": "The Who",
@@ -26,9 +21,20 @@
       "time": "2:00 pm",
       "artist": "The Beatles",
       "title": "Doctor Robert"
+    },
+    {
+      "time": "2:02 pm",
+      "artist": "The Beatles",
+      "title": "Two of Us"
     }
   ],
   "recent": [
+    {
+      "time": "1:45 pm",
+      "artist": "Elton John",
+      "title": "Levon",
+      "album": "Madman Across the Water • 1972"
+    },
     {
       "time": "1:42 pm",
       "artist": "Kacey Musgraves",
@@ -172,12 +178,6 @@
       "artist": "Ritchie Valens",
       "title": "Donna",
       "album": "Ritchie Valens • 1959"
-    },
-    {
-      "time": "12:17 pm",
-      "artist": "PJ Harvey",
-      "title": "A Perfect Day Elise",
-      "album": "Is This Desire • 1998"
     }
   ]
 }
