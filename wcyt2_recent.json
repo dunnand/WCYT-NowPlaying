@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T03:44:43",
+  "updatedAt": "2026-08-10T03:47:56",
   "now": {
-    "artist": "PJ Harvey",
-    "title": "You Said Something",
-    "album": "Stories from the City, Stories from the Sea • 2000",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "Identikit",
+    "album": "A Moon Shaped Pool • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:47 am",
-      "artist": "Radiohead",
-      "title": "Identikit"
-    },
     {
       "time": "3:52 am",
       "artist": "KISS",
@@ -26,9 +21,20 @@
       "time": "3:59 am",
       "artist": "Big Bopper",
       "title": "Chantilly Lace"
+    },
+    {
+      "time": "4:02 am",
+      "artist": "Neko Case",
+      "title": "I Wish I Was the Moon"
     }
   ],
   "recent": [
+    {
+      "time": "3:47 am",
+      "artist": "Radiohead",
+      "title": "Identikit",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "3:44 am",
       "artist": "PJ Harvey",
@@ -172,12 +178,6 @@
       "artist": "Nicki Minaj",
       "title": "Starships",
       "album": "Pink Friday: Roman Reloaded • 2012"
-    },
-    {
-      "time": "2:05 am",
-      "artist": "The Creation",
-      "title": "Making Time",
-      "album": "We Are Paintermen • 1967"
     }
   ]
 }
