@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T16:59:35",
+  "updatedAt": "2026-08-10T16:59:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "Bloom",
+    "album": "The King of Limbs • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:59 pm",
-      "artist": "Radiohead",
-      "title": "Bloom"
-    },
     {
       "time": "5:04 pm",
       "artist": "Low",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:59 pm",
+      "artist": "Radiohead",
+      "title": "Bloom",
+      "album": "The King of Limbs • 2011"
+    },
     {
       "time": "4:55 pm",
       "artist": "Phoebe Bridgers",
@@ -172,12 +173,6 @@
       "artist": "Stereolab",
       "title": "Wow and Flutter",
       "album": "Mars Audiac Quintet • 1994"
-    },
-    {
-      "time": "3:29 pm",
-      "artist": "The Smile",
-      "title": "The Smoke",
-      "album": "A Light for Attracting attention • 2022"
     }
   ]
 }
