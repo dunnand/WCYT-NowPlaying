@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T04:46:23",
+  "updatedAt": "2026-08-10T04:49:27",
   "now": {
-    "artist": "Radiohead",
-    "title": "Bones",
-    "album": "The Bends • 1995",
+    "artist": "Doris Day",
+    "title": "A Guy Is A Guy",
+    "album": "single • 1952",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:49 am",
-      "artist": "Doris Day",
-      "title": "A Guy Is A Guy"
-    },
     {
       "time": "4:52 am",
       "artist": "Jose Gonzalez",
@@ -26,9 +21,20 @@
       "time": "4:57 am",
       "artist": "Justin Bieber",
       "title": "Baby"
+    },
+    {
+      "time": "5:01 am",
+      "artist": "I Monster",
+      "title": "Daydream In Blue"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 am",
+      "artist": "Doris Day",
+      "title": "A Guy Is A Guy",
+      "album": "single • 1952"
+    },
     {
       "time": "4:46 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Tears For Fears",
       "title": "Shout",
       "album": "Songs from the Big Chair • 1985"
-    },
-    {
-      "time": "3:18 am",
-      "artist": "R.E.M.",
-      "title": "Drive",
-      "album": "Automatic for the People • 1992"
     }
   ]
 }
