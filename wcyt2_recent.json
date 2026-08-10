@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T08:07:20",
+  "updatedAt": "2026-08-10T08:07:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Rhiannon",
+    "album": "Fleetwood Mac • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "Fleetwood Mac",
-      "title": "Rhiannon"
-    },
     {
       "time": "8:11 am",
       "artist": "The Mountain Goats",
@@ -31,9 +26,20 @@
       "time": "8:24 am",
       "artist": "Guided by Voices",
       "title": "Motor Away"
+    },
+    {
+      "time": "8:26 am",
+      "artist": "The Everly Brothers",
+      "title": "Devoted To You"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "Fleetwood Mac",
+      "title": "Rhiannon",
+      "album": "Fleetwood Mac • 1976"
+    },
     {
       "time": "8:02 am",
       "artist": "Hanson",
@@ -177,12 +183,6 @@
       "artist": "PJ Harvey",
       "title": "This Mess We're In",
       "album": "Stories from the City, Stories from the Sea • 2000"
-    },
-    {
-      "time": "6:33 am",
-      "artist": "Mickey & Sylvia",
-      "title": "Love Is Strange",
-      "album": "Single • 1956"
     }
   ]
 }
