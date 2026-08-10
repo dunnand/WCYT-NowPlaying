@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T03:52:13",
+  "updatedAt": "2026-08-10T03:55:59",
   "now": {
-    "artist": "KISS",
-    "title": "Rock and Roll All Nite",
-    "album": "Dressed to Kill • 1975",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "Me and the Major",
+    "album": "If You're Feeling Sinister • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:55 am",
-      "artist": "Belle and Sebastian",
-      "title": "Me and the Major"
-    },
     {
       "time": "3:59 am",
       "artist": "Big Bopper",
@@ -21,9 +16,20 @@
       "time": "4:02 am",
       "artist": "Neko Case",
       "title": "I Wish I Was the Moon"
+    },
+    {
+      "time": "4:05 am",
+      "artist": "The Beatles",
+      "title": "Black Bird"
     }
   ],
   "recent": [
+    {
+      "time": "3:55 am",
+      "artist": "Belle and Sebastian",
+      "title": "Me and the Major",
+      "album": "If You're Feeling Sinister • 1996"
+    },
     {
       "time": "3:52 am",
       "artist": "KISS",
@@ -167,12 +173,6 @@
       "artist": "Weezer",
       "title": "Undone - The Sweater Song",
       "album": "Weezer • 1994"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Naomi",
-      "album": "On Avery Island • 1996"
     }
   ]
 }
