@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T05:18:23",
+  "updatedAt": "2026-08-10T05:21:08",
   "now": {
-    "artist": "Iron & Wine",
-    "title": "Lion's Mane",
-    "album": "The Creek Drank the Cradle • 2002",
-    "category": "TUNES"
+    "artist": "Andrew Gold",
+    "title": "Thank You For Being A Friend",
+    "album": "All This and Heaven Too • 1978",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:21 am",
-      "artist": "Andrew Gold",
-      "title": "Thank You For Being A Friend"
-    },
     {
       "time": "5:25 am",
       "artist": "No Age",
@@ -26,9 +21,25 @@
       "time": "5:32 am",
       "artist": "ABBA",
       "title": "Voulez-Vous"
+    },
+    {
+      "time": "5:37 am",
+      "artist": "Medicine",
+      "title": "Time Baby III"
+    },
+    {
+      "time": "5:41 am",
+      "artist": "Doris Day",
+      "title": "Whatever Will Be Will Be (Que Sera, Sera)"
     }
   ],
   "recent": [
+    {
+      "time": "5:21 am",
+      "artist": "Andrew Gold",
+      "title": "Thank You For Being A Friend",
+      "album": "All This and Heaven Too • 1978"
+    },
     {
       "time": "5:18 am",
       "artist": "Iron & Wine",
@@ -172,12 +183,6 @@
       "artist": "Neko Case",
       "title": "I Wish I Was the Moon",
       "album": "Blacklisted • 2002"
-    },
-    {
-      "time": "3:59 am",
-      "artist": "Big Bopper",
-      "title": "Chantilly Lace",
-      "album": "Chantilly Lace • 1959"
     }
   ]
 }
