@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T05:50:01",
+  "updatedAt": "2026-08-10T05:50:13",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Wilco",
+    "title": "We Were Lucky",
+    "album": "Ode To Joy • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:50 am",
-      "artist": "Wilco",
-      "title": "We Were Lucky"
-    },
     {
       "time": "5:55 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "6:02 am",
       "artist": "Cheekface",
       "title": "No Fly Zone"
+    },
+    {
+      "time": "6:06 am",
+      "artist": "Trembler",
+      "title": "Love Leave The Body"
     }
   ],
   "recent": [
+    {
+      "time": "5:50 am",
+      "artist": "Wilco",
+      "title": "We Were Lucky",
+      "album": "Ode To Joy • 2019"
+    },
     {
       "time": "5:45 am",
       "artist": "Father John Misty",
@@ -172,12 +178,6 @@
       "artist": "The National",
       "title": "Mistaken for Strangers",
       "album": "Boxer • 2007"
-    },
-    {
-      "time": "4:17 am",
-      "artist": "Ween",
-      "title": "Learnin' to Love",
-      "album": "La Cucaracha • 2007"
     }
   ]
 }
