@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T02:00:43",
+  "updatedAt": "2026-08-10T02:00:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "I'm Gonna Love You Too",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 am",
-      "artist": "Buddy Holly",
-      "title": "I'm Gonna Love You Too"
-    },
     {
       "time": "2:02 am",
       "artist": "Guided by Voices",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:00 am",
+      "artist": "Buddy Holly",
+      "title": "I'm Gonna Love You Too",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "1:56 am",
       "artist": "Modest Mouse",
@@ -172,12 +173,6 @@
       "artist": "Pretenders",
       "title": "Brass In Pocket",
       "album": "Pretenders • 1980"
-    },
-    {
-      "time": "12:21 am",
-      "artist": "Wilco",
-      "title": "Box Full of Letters",
-      "album": "A.M • 1995"
     }
   ]
 }
