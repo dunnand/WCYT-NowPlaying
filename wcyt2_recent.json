@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T08:34:34",
+  "updatedAt": "2026-08-10T08:38:19",
   "now": {
-    "artist": "Jessie J",
-    "title": "Domino",
-    "album": "Who You Are • 2011",
+    "artist": "Foo Fighters",
+    "title": "Everlong",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:38 am",
-      "artist": "Foo Fighters",
-      "title": "Everlong"
-    },
     {
       "time": "8:42 am",
       "artist": "Hall & Oates",
@@ -21,9 +16,20 @@
       "time": "8:46 am",
       "artist": "Yello",
       "title": "Oh Yeah"
+    },
+    {
+      "time": "8:49 am",
+      "artist": "The Reverbs",
+      "title": "Trusted Woods"
     }
   ],
   "recent": [
+    {
+      "time": "8:38 am",
+      "artist": "Foo Fighters",
+      "title": "Everlong",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "8:34 am",
       "artist": "Jessie J",
@@ -167,12 +173,6 @@
       "artist": "Ramones",
       "title": "Rockaway Beach",
       "album": "Rocket to Russia (1977 • 1977"
-    },
-    {
-      "time": "7:09 am",
-      "artist": "James Taylor",
-      "title": "How Sweet It Is (To Be Loved By You)",
-      "album": "Gorilla • 1975"
     }
   ]
 }
