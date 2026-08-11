@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T21:21:08",
+  "updatedAt": "2026-08-10T21:24:55",
   "now": {
-    "artist": "OK Go",
-    "title": "I Wont Let You Down",
-    "album": "Hungry Ghosts • 2014",
+    "artist": "Eric Clapton",
+    "title": "Layla",
+    "album": "Unplugged • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:24 pm",
-      "artist": "Eric Clapton",
-      "title": "Layla"
-    },
     {
       "time": "9:29 pm",
       "artist": "Erykah Badu",
@@ -21,9 +16,25 @@
       "time": "9:34 pm",
       "artist": "Richard Marx",
       "title": "Right Here Waiting"
+    },
+    {
+      "time": "9:38 pm",
+      "artist": "Madonna",
+      "title": "Into The Groove"
+    },
+    {
+      "time": "9:42 pm",
+      "artist": "Arctic Monkeys",
+      "title": "There'd Better Be A Mirrorball"
     }
   ],
   "recent": [
+    {
+      "time": "9:24 pm",
+      "artist": "Eric Clapton",
+      "title": "Layla",
+      "album": "Unplugged • 1992"
+    },
     {
       "time": "9:21 pm",
       "artist": "OK Go",
@@ -167,12 +178,6 @@
       "artist": "Parliament",
       "title": "Mothership Connection (Star Child)",
       "album": "Mothership Connection • 1975"
-    },
-    {
-      "time": "7:46 pm",
-      "artist": "Olivia Newton-John",
-      "title": "A Little More Love",
-      "album": "Totally Hot • 1978"
     }
   ]
 }
