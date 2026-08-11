@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T12:55:43",
+  "updatedAt": "2026-08-11T12:58:57",
   "now": {
-    "artist": "The Who",
-    "title": "My Generation",
-    "album": "My Generation • 1965",
+    "artist": "Fleetwood Mac",
+    "title": "Sara",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:58 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Sara"
-    },
     {
       "time": "1:05 pm",
       "artist": "Smash Mouth",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:58 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Sara",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "12:55 pm",
       "artist": "The Who",
@@ -172,12 +173,6 @@
       "artist": "Rancid",
       "title": "Time Bomb",
       "album": "...And Out Come the Wolves • 1995"
-    },
-    {
-      "time": "11:16 am",
-      "artist": "Usher",
-      "title": "DJ Got Us Falling In Love",
-      "album": "Raymond v. Raymond • 2010"
     }
   ]
 }
