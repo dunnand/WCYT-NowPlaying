@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T12:58:57",
+  "updatedAt": "2026-08-11T13:05:18",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Sara",
-    "album": "Tusk • 1979",
+    "artist": "Smash Mouth",
+    "title": "All Star",
+    "album": "Astro Lounge • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 pm",
-      "artist": "Smash Mouth",
-      "title": "All Star"
-    },
     {
       "time": "1:08 pm",
       "artist": "Eddie Cochran",
@@ -21,9 +16,20 @@
       "time": "1:10 pm",
       "artist": "Sigur Ros",
       "title": "Vio spilum endalaust  (We Play Endlessly)"
+    },
+    {
+      "time": "1:14 pm",
+      "artist": "The Beatles",
+      "title": "Ob-La-Di, Ob-La-Da"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 pm",
+      "artist": "Smash Mouth",
+      "title": "All Star",
+      "album": "Astro Lounge • 1999"
+    },
     {
       "time": "12:58 pm",
       "artist": "Fleetwood Mac",
@@ -167,12 +173,6 @@
       "artist": "Rolling Stones",
       "title": "Out Of Tears",
       "album": "Voodoo Lounge • 1994"
-    },
-    {
-      "time": "11:20 am",
-      "artist": "Rancid",
-      "title": "Time Bomb",
-      "album": "...And Out Come the Wolves • 1995"
     }
   ]
 }
