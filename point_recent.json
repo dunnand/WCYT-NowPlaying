@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T06:18:15",
+  "updatedAt": "2026-08-11T06:18:27",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "My Bloody Valentine",
+    "title": "Soon",
+    "album": "Loveless • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:18 am",
-      "artist": "My Bloody Valentine",
-      "title": "Soon"
-    },
     {
       "time": "6:25 am",
       "artist": "The National",
@@ -26,9 +21,20 @@
       "time": "6:35 am",
       "artist": "The War on Drugs",
       "title": "Best Night"
+    },
+    {
+      "time": "6:40 am",
+      "artist": "The Last Dinner Party",
+      "title": "Sinner"
     }
   ],
   "recent": [
+    {
+      "time": "6:18 am",
+      "artist": "My Bloody Valentine",
+      "title": "Soon",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "6:15 am",
       "artist": "Frankie Rose",
@@ -172,12 +178,6 @@
       "artist": "Yard Act",
       "title": "New Beginnings",
       "album": "You're Gonna Need A Little Music • 2026"
-    },
-    {
-      "time": "4:42 am",
-      "artist": "mary in the junkyard",
-      "title": "New Muscles",
-      "album": "Role Model Hermit • 2026"
     }
   ]
 }
