@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T20:00:09",
+  "updatedAt": "2026-08-10T20:02:27",
   "now": {
-    "artist": "The Beatles",
-    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
-    "album": "The Beatles • 1968",
+    "artist": "Paul McCartney",
+    "title": "Junk",
+    "album": "McCartney • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 pm",
-      "artist": "Paul McCartney",
-      "title": "Junk"
-    },
     {
       "time": "8:04 pm",
       "artist": "Drive Like Jehu",
@@ -26,9 +21,20 @@
       "time": "8:15 pm",
       "artist": "The Mountain Goats",
       "title": "Color in Your Cheeks"
+    },
+    {
+      "time": "8:17 pm",
+      "artist": "Jurassic 5",
+      "title": "What's Golden"
     }
   ],
   "recent": [
+    {
+      "time": "8:02 pm",
+      "artist": "Paul McCartney",
+      "title": "Junk",
+      "album": "McCartney • 1970"
+    },
     {
       "time": "8:00 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Miley Cyrus",
       "title": "Wrecking Ball",
       "album": "Bangerz • 2013"
-    },
-    {
-      "time": "6:07 pm",
-      "artist": "The Beatles",
-      "title": "Please Please Me",
-      "album": "Please Please Me • 1963"
     }
   ]
 }
