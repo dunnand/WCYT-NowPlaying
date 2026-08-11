@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T21:10:00",
+  "updatedAt": "2026-08-10T21:12:34",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "I Walk The Line",
-    "album": "I Walk The Line • 1956",
+    "artist": "Pulp",
+    "title": "Sunrise",
+    "album": "We Love Life • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Pulp",
-      "title": "Sunrise"
-    },
     {
       "time": "9:18 pm",
       "artist": "The Lovin' Spoonful",
@@ -21,9 +16,20 @@
       "time": "9:21 pm",
       "artist": "OK Go",
       "title": "I Wont Let You Down"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "Eric Clapton",
+      "title": "Layla"
     }
   ],
   "recent": [
+    {
+      "time": "9:12 pm",
+      "artist": "Pulp",
+      "title": "Sunrise",
+      "album": "We Love Life • 2002"
+    },
     {
       "time": "9:10 pm",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Sting",
       "title": "We'll Be Together",
       "album": "Nothing Like the Sun • 1987"
-    },
-    {
-      "time": "7:25 pm",
-      "artist": "DJ Shadow",
-      "title": "Building Steam With A Grain Of Salt",
-      "album": "Endtroducing • 1996"
     }
   ]
 }
