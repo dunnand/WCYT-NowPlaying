@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T00:41:49",
+  "updatedAt": "2026-08-11T00:45:35",
   "now": {
-    "artist": "Spoon",
-    "title": "The Underdog",
-    "album": "Ga Ga Ga Ga Ga • 2007",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "A Hard Days Night",
+    "album": "A Hard Day's Night • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "The Beatles",
-      "title": "A Hard Days Night"
-    },
     {
       "time": "12:47 am",
       "artist": "Carole King",
@@ -26,9 +21,20 @@
       "time": "12:53 am",
       "artist": "Nicki Minaj",
       "title": "Super Bass"
+    },
+    {
+      "time": "12:57 am",
+      "artist": "The White Stripes",
+      "title": "We're Going to Be Friends"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 am",
+      "artist": "The Beatles",
+      "title": "A Hard Days Night",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "12:41 am",
       "artist": "Spoon",
@@ -172,12 +178,6 @@
       "artist": "Nicki Minaj",
       "title": "Va Va Voom",
       "album": "Pink Friday: Roman Reloaded • 2012"
-    },
-    {
-      "time": "10:17 pm",
-      "artist": "Whitney Houston & Enrique Iglesias",
-      "title": "Could I Have This Kiss Forever",
-      "album": "Enrique • 2000"
     }
   ]
 }
