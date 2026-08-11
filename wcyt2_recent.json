@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T00:03:03",
+  "updatedAt": "2026-08-11T00:05:10",
   "now": {
-    "artist": "Bill Haley and his Comets",
-    "title": "(We're Gonna) Rock Around the Clock",
-    "album": "Shake Rattle and Roll • 1955",
+    "artist": "Radiohead",
+    "title": "Life in a Glasshouse",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "Radiohead",
-      "title": "Life in a Glasshouse"
-    },
     {
       "time": "12:09 am",
       "artist": "The Zombies",
@@ -21,9 +16,20 @@
       "time": "12:12 am",
       "artist": "Gorillaz",
       "title": "On Melancholy Hill"
+    },
+    {
+      "time": "12:15 am",
+      "artist": "Gin Blossoms",
+      "title": "Til I Hear It From You"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "Radiohead",
+      "title": "Life in a Glasshouse",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "12:03 am",
       "artist": "Bill Haley and his Comets",
@@ -167,12 +173,6 @@
       "artist": "Madonna",
       "title": "Into The Groove",
       "album": "single • 1985"
-    },
-    {
-      "time": "9:34 pm",
-      "artist": "Richard Marx",
-      "title": "Right Here Waiting",
-      "album": "Repeat Offender • 1989"
     }
   ]
 }
