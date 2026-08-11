@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T10:33:37",
+  "updatedAt": "2026-08-11T10:36:10",
   "now": {
-    "artist": "Tom Petty & The Heartbreakers",
-    "title": "Breakdown",
-    "album": "Tom Petty and the Heartbreakers • 1977",
+    "artist": "The Doors",
+    "title": "The End",
+    "album": "The Doors • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:36 am",
-      "artist": "The Doors",
-      "title": "The End"
-    },
     {
       "time": "10:47 am",
       "artist": "Van Halen",
@@ -26,9 +21,20 @@
       "time": "10:56 am",
       "artist": "War",
       "title": "Cisco Kid"
+    },
+    {
+      "time": "11:00 am",
+      "artist": "Rage Against the Machine",
+      "title": "No Shelter"
     }
   ],
   "recent": [
+    {
+      "time": "10:36 am",
+      "artist": "The Doors",
+      "title": "The End",
+      "album": "The Doors • 1967"
+    },
     {
       "time": "10:33 am",
       "artist": "Tom Petty & The Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Impossible Germany",
       "album": "Sky Blue Sky • 2007"
-    },
-    {
-      "time": "9:01 am",
-      "artist": "McGuire Sisters",
-      "title": "Sincerely",
-      "album": "Single • 1954"
     }
   ]
 }
