@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T10:07:10",
+  "updatedAt": "2026-08-11T10:10:45",
   "now": {
-    "artist": "Red Hot Chili Peppers",
-    "title": "By the Way",
-    "album": "By the Way • 2002",
+    "artist": "Taylor Swift",
+    "title": "Bad Blood",
+    "album": "1989 • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 am",
-      "artist": "Taylor Swift",
-      "title": "Bad Blood"
-    },
     {
       "time": "10:14 am",
       "artist": "Pulp",
@@ -26,9 +21,20 @@
       "time": "10:22 am",
       "artist": "Billy Joel",
       "title": "And So It Goes"
+    },
+    {
+      "time": "10:25 am",
+      "artist": "De La Soul",
+      "title": "Plug Tunin'"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 am",
+      "artist": "Taylor Swift",
+      "title": "Bad Blood",
+      "album": "1989 • 2014"
+    },
     {
       "time": "10:07 am",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +178,6 @@
       "artist": "Simon & Garfunkel",
       "title": "The Only Living Boy in New York",
       "album": "Bridge Over Troubled Water • 1970"
-    },
-    {
-      "time": "8:33 am",
-      "artist": "Koji Kondo",
-      "title": "Super Mario Sunshine (Staff Roll)",
-      "album": "Nintendo Music •"
     }
   ]
 }
