@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T02:09:01",
+  "updatedAt": "2026-08-11T02:09:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Everywhere",
+    "album": "Tango in the Night • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:09 am",
-      "artist": "Fleetwood Mac",
-      "title": "Everywhere"
-    },
     {
       "time": "2:12 am",
       "artist": "Khruangbin & Leon Bridges",
@@ -26,9 +21,20 @@
       "time": "2:20 am",
       "artist": "Gang of Four",
       "title": "Damaged Goods"
+    },
+    {
+      "time": "2:23 am",
+      "artist": "Wilco",
+      "title": "Radio Cure"
     }
   ],
   "recent": [
+    {
+      "time": "2:09 am",
+      "artist": "Fleetwood Mac",
+      "title": "Everywhere",
+      "album": "Tango in the Night • 1988"
+    },
     {
       "time": "2:05 am",
       "artist": "Echo & The Bunnymen",
@@ -172,12 +178,6 @@
       "artist": "Carole King",
       "title": "I Feel The Earth Move",
       "album": "Tapestry • 1971"
-    },
-    {
-      "time": "12:45 am",
-      "artist": "The Beatles",
-      "title": "A Hard Days Night",
-      "album": "A Hard Day's Night • 1964"
     }
   ]
 }
