@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T12:09:29",
+  "updatedAt": "2026-08-11T12:13:54",
   "now": {
-    "artist": "Red Hot Chili Peppers",
-    "title": "Can't Stop",
-    "album": "By the Way • 2002",
+    "artist": "Sonic Youth",
+    "title": "The Empty Page",
+    "album": "Murray Street • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 pm",
-      "artist": "Sonic Youth",
-      "title": "The Empty Page"
-    },
     {
       "time": "12:18 pm",
       "artist": "Slowdive",
@@ -26,9 +21,20 @@
       "time": "12:27 pm",
       "artist": "Slint",
       "title": "Nosferatu Man"
+    },
+    {
+      "time": "12:33 pm",
+      "artist": "Lionel Richie",
+      "title": "Say You, Say Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 pm",
+      "artist": "Sonic Youth",
+      "title": "The Empty Page",
+      "album": "Murray Street • 2002"
+    },
     {
       "time": "12:09 pm",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +178,6 @@
       "artist": "OK GO",
       "title": "All Together Now",
       "album": "single • 2020"
-    },
-    {
-      "time": "10:25 am",
-      "artist": "De La Soul",
-      "title": "Plug Tunin'",
-      "album": "3 Feet High and Rising • 1989"
     }
   ]
 }
