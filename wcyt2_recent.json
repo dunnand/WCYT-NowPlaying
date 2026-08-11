@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T08:05:36",
+  "updatedAt": "2026-08-11T08:07:39",
   "now": {
-    "artist": "Little Richard and His Band",
-    "title": "Long Tall Sally",
-    "album": "Heres Little Richard • 1957",
-    "category": "AUDIO"
+    "artist": "TV on the Radio",
+    "title": "Ambulance",
+    "album": "Desperate Youth, Blood Thirsty Babes • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "TV on the Radio",
-      "title": "Ambulance"
-    },
     {
       "time": "8:12 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "8:14 am",
       "artist": "Vampire Weekend",
       "title": "Diane Young"
+    },
+    {
+      "time": "8:17 am",
+      "artist": "Pantera",
+      "title": "Cowboys from Hell"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "TV on the Radio",
+      "title": "Ambulance",
+      "album": "Desperate Youth, Blood Thirsty Babes • 2004"
+    },
     {
       "time": "8:05 am",
       "artist": "Little Richard and His Band",
@@ -167,12 +173,6 @@
       "artist": "Tesla",
       "title": "Love Song",
       "album": "The Great Radio Controversy • 1989"
-    },
-    {
-      "time": "6:36 am",
-      "artist": "When In Rome",
-      "title": "The Promise",
-      "album": "When in Rome • 1988"
     }
   ]
 }
