@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T05:11:28",
+  "updatedAt": "2026-08-11T05:15:15",
   "now": {
-    "artist": "Neil Diamond",
-    "title": "Longfellow Serenade",
-    "album": "Serenade • 1974",
+    "artist": "Melissa Etheridge",
+    "title": "Come To My Window",
+    "album": "Yes I Am • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:15 am",
-      "artist": "Melissa Etheridge",
-      "title": "Come To My Window"
-    },
     {
       "time": "5:18 am",
       "artist": "Buddy Holly",
@@ -21,9 +16,20 @@
       "time": "5:20 am",
       "artist": "Weezer",
       "title": "Pork and Beans"
+    },
+    {
+      "time": "5:24 am",
+      "artist": "The Lovin' Spoonful",
+      "title": "Daydream"
     }
   ],
   "recent": [
+    {
+      "time": "5:15 am",
+      "artist": "Melissa Etheridge",
+      "title": "Come To My Window",
+      "album": "Yes I Am • 1994"
+    },
     {
       "time": "5:11 am",
       "artist": "Neil Diamond",
@@ -167,12 +173,6 @@
       "artist": "Massive Attack",
       "title": "Teardrop",
       "album": "Mezzanine • 1998"
-    },
-    {
-      "time": "3:43 am",
-      "artist": "Mad Season",
-      "title": "I Don't Know Anything",
-      "album": "Above • 1995"
     }
   ]
 }
