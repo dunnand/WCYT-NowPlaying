@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T01:32:34",
+  "updatedAt": "2026-08-11T01:35:08",
   "now": {
-    "artist": "The D",
-    "title": "New Rose",
-    "album": "DDD • 1977",
+    "artist": "Tom Jones",
+    "title": "It's Not Unusual",
+    "album": "Along Came Jones • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:34 am",
-      "artist": "Tom Jones",
-      "title": "It's Not Unusual"
-    },
     {
       "time": "1:36 am",
       "artist": "Dolly Parton",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:35 am",
+      "artist": "Tom Jones",
+      "title": "It's Not Unusual",
+      "album": "Along Came Jones • 1965"
+    },
     {
       "time": "1:32 am",
       "artist": "The D",
@@ -177,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "On Melancholy Hill",
       "album": "Plastic Beach • 2010"
-    },
-    {
-      "time": "12:09 am",
-      "artist": "The Zombies",
-      "title": "She's Not There",
-      "album": "Begin Here • 1964"
     }
   ]
 }
