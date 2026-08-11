@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T05:05:08",
+  "updatedAt": "2026-08-11T05:05:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Red Hot Chili Peppers",
+    "title": "The Zephyr Song",
+    "album": "By the Way • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "The Zephyr Song"
-    },
     {
       "time": "5:09 am",
       "artist": "Yardbirds",
@@ -26,9 +21,20 @@
       "time": "5:15 am",
       "artist": "Melissa Etheridge",
       "title": "Come To My Window"
+    },
+    {
+      "time": "5:18 am",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 am",
+      "artist": "Red Hot Chili Peppers",
+      "title": "The Zephyr Song",
+      "album": "By the Way • 2002"
+    },
     {
       "time": "5:03 am",
       "artist": "The Modern Lovers",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Carry That Weight",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "3:36 am",
-      "artist": "Sufjan Stevens",
-      "title": "To Be Alone With You",
-      "album": "Seven Swans • 2004"
     }
   ]
 }
