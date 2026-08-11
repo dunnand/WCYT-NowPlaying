@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T11:22:40",
+  "updatedAt": "2026-08-11T11:27:57",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Out Of Tears",
-    "album": "Voodoo Lounge • 1994",
+    "artist": "Genesis",
+    "title": "Misunderstanding",
+    "album": "Duke • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:27 am",
-      "artist": "Genesis",
-      "title": "Misunderstanding"
-    },
     {
       "time": "11:31 am",
       "artist": "Joy Division",
@@ -21,9 +16,20 @@
       "time": "11:36 am",
       "artist": "Olivia Rodrigo",
       "title": "deja vu"
+    },
+    {
+      "time": "11:40 am",
+      "artist": "Yes",
+      "title": "I've Seen All Good People"
     }
   ],
   "recent": [
+    {
+      "time": "11:27 am",
+      "artist": "Genesis",
+      "title": "Misunderstanding",
+      "album": "Duke • 1980"
+    },
     {
       "time": "11:22 am",
       "artist": "Rolling Stones",
@@ -167,12 +173,6 @@
       "artist": "? & The Mysterians",
       "title": "96 Tears",
       "album": "96 Tears • 1966"
-    },
-    {
-      "time": "9:44 am",
-      "artist": "Vanessa Carlton",
-      "title": "Ordinary Day",
-      "album": "Be Not Nobody • 2002"
     }
   ]
 }
