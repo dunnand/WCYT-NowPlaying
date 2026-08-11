@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T08:12:19",
+  "updatedAt": "2026-08-11T08:14:32",
   "now": {
-    "artist": "The Beatles",
-    "title": "Wait",
-    "album": "Rubber Soul • 1965",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Diane Young",
+    "album": "Modern Vampires Of The City • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:14 am",
-      "artist": "Vampire Weekend",
-      "title": "Diane Young"
-    },
     {
       "time": "8:17 am",
       "artist": "Pantera",
@@ -21,9 +16,20 @@
       "time": "8:21 am",
       "artist": "Paul Simon",
       "title": "The Obvious Child"
+    },
+    {
+      "time": "8:25 am",
+      "artist": "Prince",
+      "title": "Partyman"
     }
   ],
   "recent": [
+    {
+      "time": "8:14 am",
+      "artist": "Vampire Weekend",
+      "title": "Diane Young",
+      "album": "Modern Vampires Of The City • 2013"
+    },
     {
       "time": "8:12 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The Mars Volta",
       "title": "Roulette Dares (The Haunt Of)",
       "album": "De-Loused in the Comatorium • 2003"
-    },
-    {
-      "time": "6:45 am",
-      "artist": "Black Pumas",
-      "title": "I'm Ready",
-      "album": "Black Pumas • 2021"
     }
   ]
 }
