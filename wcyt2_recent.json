@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T19:18:10",
+  "updatedAt": "2026-08-11T19:20:33",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Jimmy the Exploder",
-    "album": "The White Stripes • 1999",
-    "category": "TUNES"
+    "artist": "Whitney Houston",
+    "title": "I Will Always Love You",
+    "album": "The Bodyguard • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:20 pm",
-      "artist": "Whitney Houston",
-      "title": "I Will Always Love You"
-    },
     {
       "time": "7:25 pm",
       "artist": "Galaxie 500",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:20 pm",
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You",
+      "album": "The Bodyguard • 1992"
+    },
     {
       "time": "7:18 pm",
       "artist": "The White Stripes",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Backdrifts. (Honeymoon Is Over.)",
       "album": "Hail to the Thief • 2003"
-    },
-    {
-      "time": "5:45 pm",
-      "artist": "The Clash",
-      "title": "Safe European Home",
-      "album": "Give 'Em Enough Rope • 1978"
     }
   ]
 }
