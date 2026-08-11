@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T07:23:08",
+  "updatedAt": "2026-08-11T07:25:21",
   "now": {
-    "artist": "The Beatles",
-    "title": "Boys",
-    "album": "Please Please Me • 1963",
+    "artist": "Wilco",
+    "title": "Everyone Hides",
+    "album": "Ode to Joy • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 am",
-      "artist": "Wilco",
-      "title": "Everyone Hides"
-    },
     {
       "time": "7:28 am",
       "artist": "Naughty by Nature",
@@ -21,9 +16,20 @@
       "time": "7:32 am",
       "artist": "No Doubt",
       "title": "Don't Speak"
+    },
+    {
+      "time": "7:37 am",
+      "artist": "Simple Minds",
+      "title": "Don't You (Forget About Me)"
     }
   ],
   "recent": [
+    {
+      "time": "7:25 am",
+      "artist": "Wilco",
+      "title": "Everyone Hides",
+      "album": "Ode to Joy • 2019"
+    },
     {
       "time": "7:23 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Neil Young & Crazy Horse",
       "title": "Hey Hey, My My (Into the Black)",
       "album": "Rust Never Sleeps • 1979"
-    },
-    {
-      "time": "5:46 am",
-      "artist": "Harry Styles",
-      "title": "As It Was",
-      "album": "Harry's House • 2022"
     }
   ]
 }
