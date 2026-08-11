@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T14:07:00",
+  "updatedAt": "2026-08-11T14:10:36",
   "now": {
-    "artist": "System of a Down",
-    "title": "Toxicity",
-    "album": "Toxicity • 2001",
+    "artist": "Radiohead",
+    "title": "Motion Picture Soundtrack",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 pm",
-      "artist": "Radiohead",
-      "title": "Motion Picture Soundtrack"
-    },
     {
       "time": "2:14 pm",
       "artist": "Travis Scott",
@@ -26,9 +21,20 @@
       "time": "2:22 pm",
       "artist": "Spoon",
       "title": "The Agony of Laffitte"
+    },
+    {
+      "time": "2:25 pm",
+      "artist": "The Fall",
+      "title": "Eat Y'self Fitter"
     }
   ],
   "recent": [
+    {
+      "time": "2:10 pm",
+      "artist": "Radiohead",
+      "title": "Motion Picture Soundtrack",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "2:07 pm",
       "artist": "System of a Down",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Dance Of The Clairvoyants",
       "album": "Gigaton • 2020"
-    },
-    {
-      "time": "12:36 pm",
-      "artist": "Meat Puppets",
-      "title": "Up on the Sun",
-      "album": "Up on the Sun • 1985"
     }
   ]
 }
