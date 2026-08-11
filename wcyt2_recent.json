@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T01:35:08",
+  "updatedAt": "2026-08-11T01:37:03",
   "now": {
-    "artist": "Tom Jones",
-    "title": "It's Not Unusual",
-    "album": "Along Came Jones • 1965",
+    "artist": "Dolly Parton",
+    "title": "I Will Always Love You",
+    "album": "Jolene • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:36 am",
-      "artist": "Dolly Parton",
-      "title": "I Will Always Love You"
-    },
     {
       "time": "1:39 am",
       "artist": "Jewel",
@@ -26,9 +21,20 @@
       "time": "1:45 am",
       "artist": "Radiohead",
       "title": "How to Disappear Completely"
+    },
+    {
+      "time": "1:51 am",
+      "artist": "The Beatles",
+      "title": "When I Get Home"
     }
   ],
   "recent": [
+    {
+      "time": "1:37 am",
+      "artist": "Dolly Parton",
+      "title": "I Will Always Love You",
+      "album": "Jolene • 1974"
+    },
     {
       "time": "1:35 am",
       "artist": "Tom Jones",
@@ -172,12 +178,6 @@
       "artist": "Gin Blossoms",
       "title": "Til I Hear It From You",
       "album": "Empire Records: The Soundtrack • 1995"
-    },
-    {
-      "time": "12:12 am",
-      "artist": "Gorillaz",
-      "title": "On Melancholy Hill",
-      "album": "Plastic Beach • 2010"
     }
   ]
 }
