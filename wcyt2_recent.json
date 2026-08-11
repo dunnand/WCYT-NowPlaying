@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T01:06:35",
+  "updatedAt": "2026-08-11T01:10:52",
   "now": {
-    "artist": "Goo Goo Dolls",
-    "title": "Name",
-    "album": "A Boy Named Goo • 1995",
+    "artist": "Hole",
+    "title": "Malibu",
+    "album": "Celebrity Skin • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Hole",
-      "title": "Malibu"
-    },
     {
       "time": "1:14 am",
       "artist": "Spinners",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Hole",
+      "title": "Malibu",
+      "album": "Celebrity Skin • 1998"
+    },
     {
       "time": "1:06 am",
       "artist": "Goo Goo Dolls",
@@ -172,12 +173,6 @@
       "artist": "The Wailers",
       "title": "I Shot The Sheriff",
       "album": "Burnin' • 1973"
-    },
-    {
-      "time": "10:47 pm",
-      "artist": "Townes Van Zandt",
-      "title": "For the Sake of the Song",
-      "album": "Townes Van Zandt • 1969"
     }
   ]
 }
