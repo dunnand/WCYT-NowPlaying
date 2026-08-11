@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-10T20:24:44",
+  "updatedAt": "2026-08-10T20:31:54",
   "now": {
-    "artist": "Eagles",
-    "title": "Hotel California",
-    "album": "Hotel California • 1994",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "3 Speed",
+    "album": "Electro Shock Blues • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:31 pm",
-      "artist": "Eels",
-      "title": "3 Speed"
-    },
     {
       "time": "8:34 pm",
       "artist": "The Communards",
@@ -23,12 +18,18 @@
       "title": "Strut"
     },
     {
-      "time": "8:43 pm",
+      "time": "8:42 pm",
       "artist": "Lana Del Rey",
       "title": "White Dress"
     }
   ],
   "recent": [
+    {
+      "time": "8:31 pm",
+      "artist": "Eels",
+      "title": "3 Speed",
+      "album": "Electro Shock Blues • 1998"
+    },
     {
       "time": "8:24 pm",
       "artist": "Eagles",
@@ -172,12 +173,6 @@
       "artist": "Kraftwerk",
       "title": "Trans-Europe Express",
       "album": "Trans-Europe Express • 1977"
-    },
-    {
-      "time": "6:34 pm",
-      "artist": "John Lennon",
-      "title": "Instant Karma! (We All Shine On)",
-      "album": "Instant Karma! • 1970"
     }
   ]
 }
