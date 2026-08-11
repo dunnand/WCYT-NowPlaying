@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T05:18:32",
+  "updatedAt": "2026-08-11T05:18:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:18 am",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "5:20 am",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:18 am",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "5:15 am",
       "artist": "Melissa Etheridge",
@@ -172,12 +173,6 @@
       "artist": "Husker Du",
       "title": "Pink Turns to Blue",
       "album": "Zen Arcade • 1984"
-    },
-    {
-      "time": "3:48 am",
-      "artist": "Massive Attack",
-      "title": "Teardrop",
-      "album": "Mezzanine • 1998"
     }
   ]
 }
