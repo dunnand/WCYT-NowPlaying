@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T09:10:23",
+  "updatedAt": "2026-08-11T09:10:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Baby's In Black",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 am",
-      "artist": "The Beatles",
-      "title": "Baby's In Black"
-    },
     {
       "time": "9:12 am",
       "artist": "Swedish House Mafia",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:10 am",
+      "artist": "The Beatles",
+      "title": "Baby's In Black",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "9:04 am",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "Maggie Rogers",
       "title": "That's Where I Am",
       "album": "That's Where I Am • 2022"
-    },
-    {
-      "time": "7:41 am",
-      "artist": "Salt-N-Pepa",
-      "title": "Push It",
-      "album": "Hot, Cool & Vicious • 1986"
     }
   ]
 }
