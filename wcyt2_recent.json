@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T08:25:21",
+  "updatedAt": "2026-08-11T08:25:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Prince",
+    "title": "Partyman",
+    "album": "Batman • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:25 am",
-      "artist": "Prince",
-      "title": "Partyman"
-    },
     {
       "time": "8:28 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "8:35 am",
       "artist": "Simon & Garfunkel",
       "title": "The Only Living Boy in New York"
+    },
+    {
+      "time": "8:38 am",
+      "artist": "Stevie Wright",
+      "title": "Evie (I'm Losing You)"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 am",
+      "artist": "Prince",
+      "title": "Partyman",
+      "album": "Batman • 1989"
+    },
     {
       "time": "8:21 am",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Bloom",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "The Ting Tings",
-      "title": "Great DJ",
-      "album": "We Started Nothing • 2008"
     }
   ]
 }
