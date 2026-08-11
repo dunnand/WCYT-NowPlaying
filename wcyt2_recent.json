@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T01:51:47",
+  "updatedAt": "2026-08-11T01:51:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "When I Get Home",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:51 am",
-      "artist": "The Beatles",
-      "title": "When I Get Home"
-    },
     {
       "time": "1:54 am",
       "artist": "Maggie Rogers",
@@ -26,9 +21,20 @@
       "time": "2:01 am",
       "artist": "Lauryn Hill",
       "title": "Doo Wop (That Thing)"
+    },
+    {
+      "time": "2:05 am",
+      "artist": "Echo & The Bunnymen",
+      "title": "Bring on the Dancing Horses"
     }
   ],
   "recent": [
+    {
+      "time": "1:51 am",
+      "artist": "The Beatles",
+      "title": "When I Get Home",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "1:45 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "H.E.R.",
       "title": "Fight For You",
       "album": "Judas and the Black Messiah Soundtrack • 2021"
-    },
-    {
-      "time": "12:26 am",
-      "artist": "R.E.M.",
-      "title": "World Leader Pretend",
-      "album": "Green • 1988"
     }
   ]
 }
