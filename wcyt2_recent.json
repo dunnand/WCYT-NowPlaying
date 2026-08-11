@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T19:36:18",
+  "updatedAt": "2026-08-11T19:36:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "My Life",
+    "album": "52nd Street • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:36 pm",
-      "artist": "Billy Joel",
-      "title": "My Life"
-    },
     {
       "time": "7:40 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "7:50 pm",
       "artist": "Van Morrison",
       "title": "Madame George"
+    },
+    {
+      "time": "8:00 pm",
+      "artist": "The Carpenters",
+      "title": "Rainy Days And Mondays"
     }
   ],
   "recent": [
+    {
+      "time": "7:36 pm",
+      "artist": "Billy Joel",
+      "title": "My Life",
+      "album": "52nd Street • 1979"
+    },
     {
       "time": "7:32 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Lover",
       "album": "Lover • 2019"
-    },
-    {
-      "time": "6:01 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Out in the Cold",
-      "album": "Into the Great Wide Open • 1991"
     }
   ]
 }
