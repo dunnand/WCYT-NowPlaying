@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T12:52:07",
+  "updatedAt": "2026-08-11T12:55:43",
   "now": {
-    "artist": "John Martyn",
-    "title": "May You Never",
-    "album": "Solid Air • 1973",
+    "artist": "The Who",
+    "title": "My Generation",
+    "album": "My Generation • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "The Who",
-      "title": "My Generation"
-    },
     {
       "time": "12:58 pm",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "1:08 pm",
       "artist": "Eddie Cochran",
       "title": "Summertime Blues"
+    },
+    {
+      "time": "1:10 pm",
+      "artist": "Sigur Ros",
+      "title": "Vio spilum endalaust  (We Play Endlessly)"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "The Who",
+      "title": "My Generation",
+      "album": "My Generation • 1965"
+    },
     {
       "time": "12:52 pm",
       "artist": "John Martyn",
@@ -172,12 +178,6 @@
       "artist": "Usher",
       "title": "DJ Got Us Falling In Love",
       "album": "Raymond v. Raymond • 2010"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "Yo La Tengo",
-      "title": "You Can Have It All",
-      "album": "And Then Nothing Turned Itself Inside • 2000"
     }
   ]
 }
