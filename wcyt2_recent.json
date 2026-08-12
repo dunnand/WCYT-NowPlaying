@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T18:11:58",
+  "updatedAt": "2026-08-12T18:15:22",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Staring at the Sun",
-    "album": "Young Liars • 2003",
-    "category": "TUNES"
+    "artist": "The Kinks",
+    "title": "Sunny Afternoon",
+    "album": "Face to Face • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:15 pm",
-      "artist": "The Kinks",
-      "title": "Sunny Afternoon"
-    },
     {
       "time": "6:18 pm",
       "artist": "Grimes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:15 pm",
+      "artist": "The Kinks",
+      "title": "Sunny Afternoon",
+      "album": "Face to Face • 1966"
+    },
     {
       "time": "6:11 pm",
       "artist": "TV on the Radio",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "drivers license",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "4:40 pm",
-      "artist": "Red Rider",
-      "title": "Lunatic Fringe",
-      "album": "As Far as Siam • 1981"
     }
   ]
 }
