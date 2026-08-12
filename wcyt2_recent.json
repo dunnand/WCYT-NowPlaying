@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T04:15:01",
+  "updatedAt": "2026-08-12T04:15:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pixies",
+    "title": "Bone Machine",
+    "album": "Surfer Rosa • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 am",
-      "artist": "Pixies",
-      "title": "Bone Machine"
-    },
     {
       "time": "4:18 am",
       "artist": "Prince and The Revolution",
@@ -26,9 +21,20 @@
       "time": "4:25 am",
       "artist": "Barry Manilow",
       "title": "Mandy"
+    },
+    {
+      "time": "4:28 am",
+      "artist": "Bill Withers",
+      "title": "Ain't No Sunshine"
     }
   ],
   "recent": [
+    {
+      "time": "4:15 am",
+      "artist": "Pixies",
+      "title": "Bone Machine",
+      "album": "Surfer Rosa • 1988"
+    },
     {
       "time": "4:10 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "The Kinks",
       "title": "You Really Got Me",
       "album": "Kinks • 1964"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "Bob Dylan",
-      "title": "Isis",
-      "album": "Desire • 1976"
     }
   ]
 }
