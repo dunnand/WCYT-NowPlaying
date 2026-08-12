@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T03:17:48",
+  "updatedAt": "2026-08-12T03:20:43",
   "now": {
-    "artist": "Green Day",
-    "title": "Basket Case",
-    "album": "Dookie • 1994",
+    "artist": "Supertramp",
+    "title": "Breakfast In America",
+    "album": "Breakfast in America • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:20 am",
-      "artist": "Supertramp",
-      "title": "Breakfast In America"
-    },
     {
       "time": "3:23 am",
       "artist": "Peter Gabriel",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:20 am",
+      "artist": "Supertramp",
+      "title": "Breakfast In America",
+      "album": "Breakfast in America • 1980"
+    },
     {
       "time": "3:17 am",
       "artist": "Green Day",
@@ -172,12 +173,6 @@
       "artist": "The Who",
       "title": "Substitute",
       "album": "single • 1966"
-    },
-    {
-      "time": "1:45 am",
-      "artist": "The Fall",
-      "title": "Blindness",
-      "album": "Fall Heads Roll • 2005"
     }
   ]
 }
