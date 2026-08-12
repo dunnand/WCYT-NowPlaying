@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T22:37:09",
+  "updatedAt": "2026-08-11T22:37:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Big Yellow Taxi",
+    "album": "Ladies of the Canyon • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:37 pm",
-      "artist": "Joni Mitchell",
-      "title": "Big Yellow Taxi"
-    },
     {
       "time": "10:39 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "10:46 pm",
       "artist": "The Beatles",
       "title": "Getting Better"
+    },
+    {
+      "time": "10:49 pm",
+      "artist": "Magazine",
+      "title": "Shot By Both Sides"
     }
   ],
   "recent": [
+    {
+      "time": "10:37 pm",
+      "artist": "Joni Mitchell",
+      "title": "Big Yellow Taxi",
+      "album": "Ladies of the Canyon • 1970"
+    },
     {
       "time": "10:34 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Unbelievers",
       "album": "Modern Vampires Of The City • 2013"
-    },
-    {
-      "time": "8:58 pm",
-      "artist": "Radiohead",
-      "title": "Let Down",
-      "album": "OK Computer • 1997"
     }
   ]
 }
