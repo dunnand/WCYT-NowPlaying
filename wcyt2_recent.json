@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-08-12T11:34:54",
+  "updatedAt": "2026-08-12T11:38:41",
   "now": {
-    "artist": "Wilco",
-    "title": "Random Name Generator",
-    "album": "Star Wars • 2015",
-    "category": "AUDIO"
+    "artist": "Ride",
+    "title": "Twisterella",
+    "album": "Going Blank Again • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:38 am",
-      "artist": "Ride",
-      "title": "Twisterella"
-    },
     {
       "time": "11:42 am",
       "artist": "Sebadoh",
       "title": "Weird"
     },
     {
-      "time": "11:46 am",
+      "time": "11:45 am",
       "artist": "The Korgis",
       "title": "Everybody's Got To Learn Sometime"
+    },
+    {
+      "time": "11:50 am",
+      "artist": "Husker Du",
+      "title": "Don't Want to Know If You Are Lonely"
     }
   ],
   "recent": [
+    {
+      "time": "11:38 am",
+      "artist": "Ride",
+      "title": "Twisterella",
+      "album": "Going Blank Again • 1992"
+    },
     {
       "time": "11:34 am",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "Tommy James & The Shondells",
       "title": "I Think We're Alone Now",
       "album": "I Think We're Alone Now • 1967"
-    },
-    {
-      "time": "9:58 am",
-      "artist": "Santana",
-      "title": "No One To Depend On",
-      "album": "Santana III • 1972"
     }
   ]
 }
