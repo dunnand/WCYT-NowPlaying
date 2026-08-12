@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T07:50:55",
+  "updatedAt": "2026-08-12T07:51:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "The River",
+    "album": "The River • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 am",
-      "artist": "Bruce Springsteen",
-      "title": "The River"
-    },
     {
       "time": "7:55 am",
       "artist": "Ric Ocasek",
@@ -26,9 +21,20 @@
       "time": "8:07 am",
       "artist": "Joy Division",
       "title": "She's Lost Control"
+    },
+    {
+      "time": "8:11 am",
+      "artist": "Kenny Rogers",
+      "title": "She Believes In Me"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 am",
+      "artist": "Bruce Springsteen",
+      "title": "The River",
+      "album": "The River • 1980"
+    },
     {
       "time": "7:47 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Blank Space",
       "album": "1989 • 2014"
-    },
-    {
-      "time": "6:19 am",
-      "artist": "Sufjan Stevens",
-      "title": "Holland",
-      "album": "Michigan • 2003"
     }
   ]
 }
