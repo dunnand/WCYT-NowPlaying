@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T04:33:47",
+  "updatedAt": "2026-08-12T04:36:24",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Can't Do That",
-    "album": "A Hard Day's Night • 1964",
+    "artist": "Eno",
+    "title": "On Some Faraway Beach",
+    "album": "Here Come the Warm Jets • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:36 am",
-      "artist": "Eno",
-      "title": "On Some Faraway Beach"
-    },
     {
       "time": "4:40 am",
       "artist": "Yo La Tengo",
@@ -26,9 +21,20 @@
       "time": "4:45 am",
       "artist": "Wilco",
       "title": "Ashes of American Flags"
+    },
+    {
+      "time": "4:50 am",
+      "artist": "The Velvet Underground",
+      "title": "Candy Says"
     }
   ],
   "recent": [
+    {
+      "time": "4:36 am",
+      "artist": "Eno",
+      "title": "On Some Faraway Beach",
+      "album": "Here Come the Warm Jets • 1974"
+    },
     {
       "time": "4:33 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Go West",
       "title": "King Of Wishful Thinking",
       "album": "Pretty Woman:Soundtrack • 1990"
-    },
-    {
-      "time": "3:08 am",
-      "artist": "Washed Out",
-      "title": "All I Know",
-      "album": "Paracosm • 2013"
     }
   ]
 }
