@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T03:23:27",
+  "updatedAt": "2026-08-12T03:30:03",
   "now": {
-    "artist": "Peter Gabriel",
-    "title": "Biko",
-    "album": "Peter Gabriel • 1982",
+    "artist": "HAIM",
+    "title": "Lost Track",
+    "album": "Single •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "HAIM",
-      "title": "Lost Track"
-    },
     {
       "time": "3:32 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "3:39 am",
       "artist": "The Shins",
       "title": "Saint Simon"
+    },
+    {
+      "time": "3:43 am",
+      "artist": "Vampire Weekend",
+      "title": "Cousins"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "HAIM",
+      "title": "Lost Track",
+      "album": "Single •"
+    },
     {
       "time": "3:23 am",
       "artist": "Peter Gabriel",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Tonight, Tonight",
       "album": "Mellon Collie and the Infinite Sadness • 1995"
-    },
-    {
-      "time": "1:56 am",
-      "artist": "Fleetwood Mac",
-      "title": "Second Hand News",
-      "album": "Rumours • 1977"
     }
   ]
 }
