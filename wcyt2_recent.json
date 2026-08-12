@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T07:17:59",
+  "updatedAt": "2026-08-12T07:21:47",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Love Story",
-    "album": "Fearless • 2008",
+    "artist": "The Beatles",
+    "title": "Fixing A Hole",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:21 am",
-      "artist": "The Beatles",
-      "title": "Fixing A Hole"
-    },
     {
       "time": "7:24 am",
       "artist": "John Denver",
@@ -26,9 +21,20 @@
       "time": "7:30 am",
       "artist": "Nina Simone",
       "title": "I Loves You, Porgy"
+    },
+    {
+      "time": "7:34 am",
+      "artist": "Ted Leo and the Pharmacists",
+      "title": "Me and Mia"
     }
   ],
   "recent": [
+    {
+      "time": "7:21 am",
+      "artist": "The Beatles",
+      "title": "Fixing A Hole",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "7:17 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Whole Love",
       "album": "The Whole Love • 2011"
-    },
-    {
-      "time": "5:43 am",
-      "artist": "The Dave Clark Five",
-      "title": "Glad All Over",
-      "album": "Glad All Over • 1964"
     }
   ]
 }
