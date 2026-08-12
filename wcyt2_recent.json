@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-12T05:30:01",
+  "updatedAt": "2026-08-12T05:33:16",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Pump It Up",
-    "album": "This Year's Model • 1978",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Teenage Wastebasket",
+    "album": "One Foot in the Grave • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:33 am",
-      "artist": "Beck",
-      "title": "Teenage Wastebasket"
-    },
     {
       "time": "5:35 am",
       "artist": "The Isley Brothers",
       "title": "Shout, Pts. 1 & 2"
     },
     {
-      "time": "5:40 am",
+      "time": "5:39 am",
       "artist": "The Darkness",
       "title": "I Believe in a Thing Called Love"
     },
@@ -26,9 +21,20 @@
       "time": "5:43 am",
       "artist": "The Dave Clark Five",
       "title": "Glad All Over"
+    },
+    {
+      "time": "5:46 am",
+      "artist": "Wilco",
+      "title": "Whole Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:33 am",
+      "artist": "Beck",
+      "title": "Teenage Wastebasket",
+      "album": "One Foot in the Grave • 1994"
+    },
     {
       "time": "5:30 am",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "A Shot In The Arm",
       "album": "Summerteeth • 1999"
-    },
-    {
-      "time": "4:06 am",
-      "artist": "Sonic Youth",
-      "title": "Sunday",
-      "album": "A Thousand Leaves • 1998"
     }
   ]
 }
