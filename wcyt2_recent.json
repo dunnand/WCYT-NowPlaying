@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T04:50:32",
+  "updatedAt": "2026-08-12T04:50:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Velvet Underground",
+    "title": "Candy Says",
+    "album": "The Velvet Underground • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "The Velvet Underground",
-      "title": "Candy Says"
-    },
     {
       "time": "4:54 am",
       "artist": "Son Little",
@@ -26,9 +21,20 @@
       "time": "5:01 am",
       "artist": "A Tribe Called Quest",
       "title": "Bonita Applebum"
+    },
+    {
+      "time": "5:04 am",
+      "artist": "Queen",
+      "title": "Crazy Little Thing Called Love"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "The Velvet Underground",
+      "title": "Candy Says",
+      "album": "The Velvet Underground • 1969"
+    },
     {
       "time": "4:45 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "HAIM",
       "title": "Lost Track",
       "album": "Single •"
-    },
-    {
-      "time": "3:23 am",
-      "artist": "Peter Gabriel",
-      "title": "Biko",
-      "album": "Peter Gabriel • 1982"
     }
   ]
 }
