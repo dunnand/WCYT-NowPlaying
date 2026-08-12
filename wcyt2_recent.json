@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T11:59:35",
+  "updatedAt": "2026-08-12T11:59:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Three Dog Night",
+    "title": "Mama Told Me (Not To Come)",
+    "album": "It Ain't Easy • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:59 am",
-      "artist": "Three Dog Night",
-      "title": "Mama Told Me (Not To Come)"
-    },
     {
       "time": "12:03 pm",
       "artist": "Radiohead",
@@ -31,9 +26,20 @@
       "time": "12:14 pm",
       "artist": "Soundgarden",
       "title": "Rusty Cage"
+    },
+    {
+      "time": "12:19 pm",
+      "artist": "Vampire Weekend",
+      "title": "Horchata"
     }
   ],
   "recent": [
+    {
+      "time": "11:59 am",
+      "artist": "Three Dog Night",
+      "title": "Mama Told Me (Not To Come)",
+      "album": "It Ain't Easy • 1970"
+    },
     {
       "time": "11:57 am",
       "artist": "Wilco",
@@ -177,12 +183,6 @@
       "artist": "Spoon",
       "title": "Jonathon Fisk",
       "album": "Kill The Moonlight • 2002"
-    },
-    {
-      "time": "10:21 am",
-      "artist": "Weezer",
-      "title": "Thank God for Girls",
-      "album": "Weezer • 2016"
     }
   ]
 }
