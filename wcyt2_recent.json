@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T10:59:00",
+  "updatedAt": "2026-08-12T10:59:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Band",
+    "title": "Ophelia",
+    "album": "Northern Lights - Southern Cross • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:59 am",
-      "artist": "The Band",
-      "title": "Ophelia"
-    },
     {
       "time": "11:02 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "11:09 am",
       "artist": "The Beatles",
       "title": "Taxman"
+    },
+    {
+      "time": "11:12 am",
+      "artist": "The Specials",
+      "title": "Too Much Too Young"
     }
   ],
   "recent": [
+    {
+      "time": "10:59 am",
+      "artist": "The Band",
+      "title": "Ophelia",
+      "album": "Northern Lights - Southern Cross • 1975"
+    },
     {
       "time": "10:52 am",
       "artist": "Yuka Tsujiyoko",
@@ -172,12 +178,6 @@
       "artist": "Jamie Foxx",
       "title": "Fly Love",
       "album": "Rio Soundtrack • 2011"
-    },
-    {
-      "time": "9:19 am",
-      "artist": "Neil Young",
-      "title": "Harvest Moon",
-      "album": "Harvest Moon • 1992"
     }
   ]
 }
