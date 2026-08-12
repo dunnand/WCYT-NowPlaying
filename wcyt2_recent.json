@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T00:53:08",
+  "updatedAt": "2026-08-12T00:55:31",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Need You",
-    "album": "Help! • 1965",
+    "artist": "Manu Dibango",
+    "title": "Soul Makossa",
+    "album": "Soul Makossa • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "Manu Dibango",
-      "title": "Soul Makossa"
-    },
     {
       "time": "12:59 am",
       "artist": "Jane Child",
@@ -23,12 +18,18 @@
       "title": "Mess Around"
     },
     {
-      "time": "1:07 am",
+      "time": "1:06 am",
       "artist": "R.E.M.",
       "title": "All the Way to Reno (You're Gonna Be a Star)"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "Manu Dibango",
+      "title": "Soul Makossa",
+      "album": "Soul Makossa • 1972"
+    },
     {
       "time": "12:53 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "Texarkana",
       "album": "Out of Time • 1991"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Thom Yorke",
-      "title": "Twist",
-      "album": "ANIMA • 2019"
     }
   ]
 }
