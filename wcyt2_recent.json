@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T04:40:59",
+  "updatedAt": "2026-08-12T04:43:34",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "The Summer",
-    "album": "Fakebook • 1990",
-    "category": "TUNES"
+    "artist": "Lloyd Price",
+    "title": "Stagger Lee",
+    "album": "The Exciting Lloyd Price • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:43 am",
-      "artist": "Lloyd Price",
-      "title": "Stagger Lee"
-    },
     {
       "time": "4:45 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "4:54 am",
       "artist": "Son Little",
       "title": "hey rose"
+    },
+    {
+      "time": "4:57 am",
+      "artist": "The Magnetic Fields",
+      "title": "100,000 Fireflies"
     }
   ],
   "recent": [
+    {
+      "time": "4:43 am",
+      "artist": "Lloyd Price",
+      "title": "Stagger Lee",
+      "album": "The Exciting Lloyd Price • 1959"
+    },
     {
       "time": "4:40 am",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "Supertramp",
       "title": "Breakfast In America",
       "album": "Breakfast in America • 1980"
-    },
-    {
-      "time": "3:17 am",
-      "artist": "Green Day",
-      "title": "Basket Case",
-      "album": "Dookie • 1994"
     }
   ]
 }
