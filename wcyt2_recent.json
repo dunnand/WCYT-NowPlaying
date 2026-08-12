@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T18:41:31",
+  "updatedAt": "2026-08-12T18:45:03",
   "now": {
-    "artist": "DEVO",
-    "title": "Jocko Homo",
-    "album": "Q: Are We Not Men? A: We Are Devo! • 1978",
+    "artist": "Electric Light Orchestra",
+    "title": "Livin' Thing",
+    "album": "A New World Record • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:45 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "Livin' Thing"
-    },
     {
       "time": "6:48 pm",
       "artist": "Snow Patrol",
@@ -23,12 +18,23 @@
       "title": "5D (Fifth Dimension)"
     },
     {
-      "time": "6:57 pm",
+      "time": "6:56 pm",
       "artist": "George Harrison",
       "title": "Blow Away"
+    },
+    {
+      "time": "7:00 pm",
+      "artist": "Phil Collins",
+      "title": "You'll Be In My Heart"
     }
   ],
   "recent": [
+    {
+      "time": "6:45 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Livin' Thing",
+      "album": "A New World Record • 1976"
+    },
     {
       "time": "6:41 pm",
       "artist": "DEVO",
@@ -172,12 +178,6 @@
       "artist": "Jennifer Lopez",
       "title": "Love Don't Cost A Thing",
       "album": "J.Lo • 2001"
-    },
-    {
-      "time": "5:08 pm",
-      "artist": "Wilco",
-      "title": "Taste the Ceiling",
-      "album": "Star Wars • 2015"
     }
   ]
 }
