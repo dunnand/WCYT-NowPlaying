@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T16:48:18",
+  "updatedAt": "2026-08-12T16:48:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "A Day in the Life of a Tree",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:48 pm",
-      "artist": "The Beach Boys",
-      "title": "A Day in the Life of a Tree"
-    },
     {
       "time": "4:51 pm",
       "artist": "Blondie",
@@ -26,9 +21,20 @@
       "time": "4:57 pm",
       "artist": "The Beatles",
       "title": "Not A Second Time"
+    },
+    {
+      "time": "4:59 pm",
+      "artist": "The Cars",
+      "title": "Let's Go"
     }
   ],
   "recent": [
+    {
+      "time": "4:48 pm",
+      "artist": "The Beach Boys",
+      "title": "A Day in the Life of a Tree",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "4:44 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "I Knew You Were Trouble",
       "album": "Red • 2012"
-    },
-    {
-      "time": "3:09 pm",
-      "artist": "MF DOOM",
-      "title": "Doomsday",
-      "album": "Operation: Doomsday • 1999"
     }
   ]
 }
