@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T02:21:11",
+  "updatedAt": "2026-08-12T02:24:27",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Gardenhead / Leave Me Alone",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Madonna",
+    "title": "Material Girl",
+    "album": "Like a Virgin • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:24 am",
-      "artist": "Madonna",
-      "title": "Material Girl"
-    },
     {
       "time": "2:28 am",
       "artist": "R.E.M.",
@@ -21,9 +16,20 @@
       "time": "2:32 am",
       "artist": "HAIM",
       "title": "Up From a Dream"
+    },
+    {
+      "time": "2:36 am",
+      "artist": "Manfred Mann's Earth Band",
+      "title": "Blinded By The Light"
     }
   ],
   "recent": [
+    {
+      "time": "2:24 am",
+      "artist": "Madonna",
+      "title": "Material Girl",
+      "album": "Like a Virgin • 1985"
+    },
     {
       "time": "2:21 am",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "I Need You",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "12:47 am",
-      "artist": "Elton John",
-      "title": "Crazy Water",
-      "album": "Blue Moves • 1976"
     }
   ]
 }
