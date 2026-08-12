@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T10:25:10",
+  "updatedAt": "2026-08-12T10:25:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Jonathon Fisk",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:25 am",
-      "artist": "Spoon",
-      "title": "Jonathon Fisk"
-    },
     {
       "time": "10:28 am",
       "artist": "Vic Chesnutt",
@@ -26,9 +21,20 @@
       "time": "10:37 am",
       "artist": "Nirvana.",
       "title": "Breed"
+    },
+    {
+      "time": "10:40 am",
+      "artist": "Nirvana",
+      "title": "All Apologies"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 am",
+      "artist": "Spoon",
+      "title": "Jonathon Fisk",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "10:21 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Tom Waits",
       "title": "Tango Till They're Sore",
       "album": "Rain Dogs • 1985"
-    },
-    {
-      "time": "8:47 am",
-      "artist": "New Order",
-      "title": "Bizarre Love Triangle",
-      "album": "Brotherhood • 1986"
     }
   ]
 }
