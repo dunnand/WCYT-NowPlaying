@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T16:02:37",
+  "updatedAt": "2026-08-12T16:09:57",
   "now": {
-    "artist": "Grace Jones",
-    "title": "La vie en rose",
-    "album": "Portfolio • 1977",
+    "artist": "Aerosmith",
+    "title": "Livin' On The Edge",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 pm",
-      "artist": "Aerosmith",
-      "title": "Livin' On The Edge"
-    },
     {
       "time": "4:16 pm",
       "artist": "Ray Price",
@@ -21,9 +16,20 @@
       "time": "4:18 pm",
       "artist": "Sonic Youth",
       "title": "Incinerate"
+    },
+    {
+      "time": "4:23 pm",
+      "artist": "The Impressions",
+      "title": "People Get Ready"
     }
   ],
   "recent": [
+    {
+      "time": "4:09 pm",
+      "artist": "Aerosmith",
+      "title": "Livin' On The Edge",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "4:02 pm",
       "artist": "Grace Jones",
@@ -167,12 +173,6 @@
       "artist": "LL Cool J",
       "title": "Mama Said Knock You Out",
       "album": "Mama Said Knock You Out • 1990"
-    },
-    {
-      "time": "2:24 pm",
-      "artist": "R.E.M.",
-      "title": "Near Wild Heaven",
-      "album": "Out of Time • 1991"
     }
   ]
 }
