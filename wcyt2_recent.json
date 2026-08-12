@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T22:29:30",
+  "updatedAt": "2026-08-11T22:34:04",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "Schizophrenia",
-    "album": "Sister • 1987",
-    "category": "TUNES"
+    "artist": "Haim",
+    "title": "Gasoline",
+    "album": "Women in Music, Pt. III • 2020",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:33 pm",
-      "artist": "Haim",
-      "title": "Gasoline"
-    },
     {
       "time": "10:37 pm",
       "artist": "Joni Mitchell",
@@ -21,9 +16,20 @@
       "time": "10:39 pm",
       "artist": "The Beatles",
       "title": "From Me To You"
+    },
+    {
+      "time": "10:41 pm",
+      "artist": "Pink Floyd",
+      "title": "Hey You"
     }
   ],
   "recent": [
+    {
+      "time": "10:34 pm",
+      "artist": "Haim",
+      "title": "Gasoline",
+      "album": "Women in Music, Pt. III • 2020"
+    },
     {
       "time": "10:29 pm",
       "artist": "Sonic Youth",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Let Down",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "8:50 pm",
-      "artist": "The Beatles",
-      "title": "Julia",
-      "album": "The Beatles • 1968"
     }
   ]
 }
