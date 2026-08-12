@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T05:54:27",
+  "updatedAt": "2026-08-12T05:59:32",
   "now": {
-    "artist": "CAKE",
-    "title": "I Will Survive",
-    "album": "Fashion Nugget • 1996",
+    "artist": "David Bowie",
+    "title": "Scary Monsters (and Super Creeps)",
+    "album": "Scary Monsters • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:59 am",
-      "artist": "David Bowie",
-      "title": "Scary Monsters (and Super Creeps)"
-    },
     {
       "time": "6:04 am",
       "artist": "The Clash",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:59 am",
+      "artist": "David Bowie",
+      "title": "Scary Monsters (and Super Creeps)",
+      "album": "Scary Monsters • 1980"
+    },
     {
       "time": "5:54 am",
       "artist": "CAKE",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "You Can't Do That",
       "album": "A Hard Day's Night • 1964"
-    },
-    {
-      "time": "4:30 am",
-      "artist": "The Shins",
-      "title": "Kissing the Lipless",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
