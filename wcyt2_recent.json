@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T00:47:16",
+  "updatedAt": "2026-08-12T00:47:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Crazy Water",
+    "album": "Blue Moves • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 am",
-      "artist": "Elton John",
-      "title": "Crazy Water"
-    },
     {
       "time": "12:53 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "12:59 am",
       "artist": "Jane Child",
       "title": "Don't Wanna Fall In Love"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "Ray Charles",
+      "title": "Mess Around"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "Elton John",
+      "title": "Crazy Water",
+      "album": "Blue Moves • 1976"
+    },
     {
       "time": "12:45 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Smile Like You Mean It",
       "album": "Hot Fuss • 2004"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "The Hives",
-      "title": "Hate to Say I Told You So",
-      "album": "Veni Vidi Vicious • 2000"
     }
   ]
 }
