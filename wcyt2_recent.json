@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T01:38:11",
+  "updatedAt": "2026-08-12T01:41:25",
   "now": {
-    "artist": "The Normal",
-    "title": "Warm Leatherette",
-    "album": "ALBUM: Warm Leatherette • 1978",
+    "artist": "The Guess Who",
+    "title": "American Woman",
+    "album": "American Woman • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:41 am",
-      "artist": "The Guess Who",
-      "title": "American Woman"
-    },
     {
       "time": "1:45 am",
       "artist": "The Fall",
@@ -26,9 +21,20 @@
       "time": "1:56 am",
       "artist": "Fleetwood Mac",
       "title": "Second Hand News"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "The Smashing Pumpkins",
+      "title": "Tonight, Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 am",
+      "artist": "The Guess Who",
+      "title": "American Woman",
+      "album": "American Woman • 1970"
+    },
     {
       "time": "1:38 am",
       "artist": "The Normal",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Spaceman",
       "album": "Day & Age • 2008"
-    },
-    {
-      "time": "12:02 am",
-      "artist": "Train",
-      "title": "Drive By",
-      "album": "California 37 • 2011"
     }
   ]
 }
