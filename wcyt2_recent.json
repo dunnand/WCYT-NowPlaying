@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T01:16:57",
+  "updatedAt": "2026-08-12T01:17:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "No Name No. 5",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:17 am",
-      "artist": "Elliott Smith",
-      "title": "No Name No. 5"
-    },
     {
       "time": "1:21 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "1:29 am",
       "artist": "'Til Tuesday",
       "title": "Voices Carry"
+    },
+    {
+      "time": "1:34 am",
+      "artist": "HAIM",
+      "title": "The Steps"
     }
   ],
   "recent": [
+    {
+      "time": "1:17 am",
+      "artist": "Elliott Smith",
+      "title": "No Name No. 5",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "1:14 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "From Me To You",
       "album": "single • 1963"
-    },
-    {
-      "time": "10:37 pm",
-      "artist": "Joni Mitchell",
-      "title": "Big Yellow Taxi",
-      "album": "Ladies of the Canyon • 1970"
     }
   ]
 }
