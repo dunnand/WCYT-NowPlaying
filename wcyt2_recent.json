@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T13:51:30",
+  "updatedAt": "2026-08-12T14:01:18",
   "now": {
-    "artist": "Neu!",
-    "title": "Hallogallo",
-    "album": "Neu! • 1972",
+    "artist": "The Everly Brothers",
+    "title": "Love Hurts",
+    "album": "A Date with the Everly Brothers • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 pm",
-      "artist": "The Everly Brothers",
-      "title": "Love Hurts"
-    },
     {
       "time": "2:03 pm",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "2:10 pm",
       "artist": "The Fleetwoods",
       "title": "Come Softly to Me"
+    },
+    {
+      "time": "2:12 pm",
+      "artist": "Radiohead",
+      "title": "Reckoner"
     }
   ],
   "recent": [
+    {
+      "time": "2:01 pm",
+      "artist": "The Everly Brothers",
+      "title": "Love Hurts",
+      "album": "A Date with the Everly Brothers • 1960"
+    },
     {
       "time": "1:51 pm",
       "artist": "Neu!",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Optimistic",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "12:22 pm",
-      "artist": "The Script",
-      "title": "Breakeven",
-      "album": "The Script • 2008"
     }
   ]
 }
