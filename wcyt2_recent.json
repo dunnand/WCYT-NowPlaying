@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T03:17:36",
+  "updatedAt": "2026-08-12T03:17:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Green Day",
+    "title": "Basket Case",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:17 am",
-      "artist": "Green Day",
-      "title": "Basket Case"
-    },
     {
       "time": "3:20 am",
       "artist": "Supertramp",
@@ -26,9 +21,20 @@
       "time": "3:30 am",
       "artist": "HAIM",
       "title": "Lost Track"
+    },
+    {
+      "time": "3:32 am",
+      "artist": "Wilco",
+      "title": "Theologians"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 am",
+      "artist": "Green Day",
+      "title": "Basket Case",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "3:13 am",
       "artist": "Go West",
@@ -172,12 +178,6 @@
       "artist": "The Fall",
       "title": "Blindness",
       "album": "Fall Heads Roll • 2005"
-    },
-    {
-      "time": "1:41 am",
-      "artist": "The Guess Who",
-      "title": "American Woman",
-      "album": "American Woman • 1970"
     }
   ]
 }
