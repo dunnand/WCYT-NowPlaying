@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T15:17:54",
+  "updatedAt": "2026-08-12T15:18:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "Know Your Onion!",
+    "album": "Oh Inverted World • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:17 pm",
-      "artist": "The Shins",
-      "title": "Know Your Onion!"
-    },
     {
       "time": "3:20 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "3:28 pm",
       "artist": "Foo Fighters",
       "title": "This Is a Call"
+    },
+    {
+      "time": "3:32 pm",
+      "artist": "Madonna",
+      "title": "You'll See"
     }
   ],
   "recent": [
+    {
+      "time": "3:18 pm",
+      "artist": "The Shins",
+      "title": "Know Your Onion!",
+      "album": "Oh Inverted World • 2001"
+    },
     {
       "time": "3:14 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Survivor",
       "title": "Eye Of The Tiger",
       "album": "Eye of the Tiger • 1982"
-    },
-    {
-      "time": "1:32 pm",
-      "artist": "Pearl Jam",
-      "title": "Even Flow",
-      "album": "Ten • 1991"
     }
   ]
 }
