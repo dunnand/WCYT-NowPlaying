@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T09:12:58",
+  "updatedAt": "2026-08-12T09:16:03",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Delicate",
-    "album": "reputation • 2017",
+    "artist": "Rodriguez",
+    "title": "Inner City Blues",
+    "album": "Cold Fact • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 am",
-      "artist": "Rodriguez",
-      "title": "Inner City Blues"
-    },
     {
       "time": "9:19 am",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "9:27 am",
       "artist": "Ted Leo and the Pharmacists",
       "title": "Timorous Me"
+    },
+    {
+      "time": "9:30 am",
+      "artist": "Radiohead",
+      "title": "You and Whose Army?"
     }
   ],
   "recent": [
+    {
+      "time": "9:16 am",
+      "artist": "Rodriguez",
+      "title": "Inner City Blues",
+      "album": "Cold Fact • 1970"
+    },
     {
       "time": "9:12 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Until The End Of The World",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "7:40 am",
-      "artist": "The xx",
-      "title": "Angels",
-      "album": "Coexist • 2012"
     }
   ]
 }
