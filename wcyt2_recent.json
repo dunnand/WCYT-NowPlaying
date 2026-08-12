@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T21:55:13",
+  "updatedAt": "2026-08-11T21:59:18",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Ripple",
-    "album": "American Beauty • 1970",
-    "category": "AUDIO"
+    "artist": "of Montreal",
+    "title": "Jacques Lamure",
+    "album": "The Parade • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "of Montreal",
-      "title": "Jacques Lamure"
-    },
     {
       "time": "10:01 pm",
       "artist": "Grimes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "of Montreal",
+      "title": "Jacques Lamure",
+      "album": "The Parade • 1999"
+    },
     {
       "time": "9:55 pm",
       "artist": "Grateful Dead",
@@ -172,12 +173,6 @@
       "artist": "Jesus Jones",
       "title": "Right Here, Right Now",
       "album": "Doubt • 1991"
-    },
-    {
-      "time": "8:15 pm",
-      "artist": "Zedd",
-      "title": "Clarity",
-      "album": "Clarity • 2012"
     }
   ]
 }
