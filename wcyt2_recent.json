@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T22:29:18",
+  "updatedAt": "2026-08-11T22:29:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Schizophrenia",
+    "album": "Sister • 1987",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:29 pm",
-      "artist": "Sonic Youth",
-      "title": "Schizophrenia"
-    },
     {
       "time": "10:33 pm",
       "artist": "Haim",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:29 pm",
+      "artist": "Sonic Youth",
+      "title": "Schizophrenia",
+      "album": "Sister • 1987"
+    },
     {
       "time": "10:26 pm",
       "artist": "Run-D.M.C.",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Julia",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "8:46 pm",
-      "artist": "The Walkmen",
-      "title": "The Rat",
-      "album": "Bows + Arrows • 2004"
     }
   ]
 }
