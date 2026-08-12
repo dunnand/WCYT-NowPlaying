@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T02:43:12",
+  "updatedAt": "2026-08-12T02:43:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Isis",
+    "album": "Desire • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 am",
-      "artist": "Bob Dylan",
-      "title": "Isis"
-    },
     {
       "time": "2:50 am",
       "artist": "The Kinks",
@@ -31,9 +26,20 @@
       "time": "2:58 am",
       "artist": "Jimmie Rodgers",
       "title": "Honeycomb"
+    },
+    {
+      "time": "3:00 am",
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "Bob Dylan",
+      "title": "Isis",
+      "album": "Desire • 1976"
+    },
     {
       "time": "2:39 am",
       "artist": "The Byrds",
@@ -177,12 +183,6 @@
       "artist": "The Crystals",
       "title": "He's a Rebel",
       "album": "He's a Rebel • 1963"
-    },
-    {
-      "time": "1:07 am",
-      "artist": "R.E.M.",
-      "title": "All the Way to Reno (You're Gonna Be a Star)",
-      "album": "Reveal • 2001"
     }
   ]
 }
