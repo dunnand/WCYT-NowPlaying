@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T02:13:01",
+  "updatedAt": "2026-08-12T02:16:55",
   "now": {
-    "artist": "will.i.am",
-    "title": "#thatPOWER",
-    "album": "#willpower • 2013",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Doin' the Cockroach",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:16 am",
-      "artist": "Modest Mouse",
-      "title": "Doin' the Cockroach"
-    },
     {
       "time": "2:21 am",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "2:28 am",
       "artist": "R.E.M.",
       "title": "Turn You Inside-out"
+    },
+    {
+      "time": "2:32 am",
+      "artist": "HAIM",
+      "title": "Up From a Dream"
     }
   ],
   "recent": [
+    {
+      "time": "2:16 am",
+      "artist": "Modest Mouse",
+      "title": "Doin' the Cockroach",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "2:13 am",
       "artist": "will.i.am",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "I'll Be Back",
       "album": "A Hard Day's Night • 1964"
-    },
-    {
-      "time": "12:42 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "One Love / People Get Ready",
-      "album": "Exodus • 1977"
     }
   ]
 }
