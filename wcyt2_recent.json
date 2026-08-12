@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T07:21:47",
+  "updatedAt": "2026-08-12T07:24:20",
   "now": {
-    "artist": "The Beatles",
-    "title": "Fixing A Hole",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "John Denver",
+    "title": "Thank God I'm A Country Boy",
+    "album": "Back Home Again • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:24 am",
-      "artist": "John Denver",
-      "title": "Thank God I'm A Country Boy"
-    },
     {
       "time": "7:27 am",
       "artist": "Superchunk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:24 am",
+      "artist": "John Denver",
+      "title": "Thank God I'm A Country Boy",
+      "album": "Back Home Again • 1974"
+    },
     {
       "time": "7:21 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Bjork",
       "title": "Army of Me",
       "album": "Post • 1995"
-    },
-    {
-      "time": "5:46 am",
-      "artist": "Wilco",
-      "title": "Whole Love",
-      "album": "The Whole Love • 2011"
     }
   ]
 }
