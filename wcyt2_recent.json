@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T20:58:40",
+  "updatedAt": "2026-08-11T21:03:35",
   "now": {
-    "artist": "Radiohead",
-    "title": "Let Down",
-    "album": "OK Computer • 1997",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Unbelievers",
+    "album": "Modern Vampires Of The City • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:03 pm",
-      "artist": "Vampire Weekend",
-      "title": "Unbelievers"
-    },
     {
       "time": "9:07 pm",
       "artist": "Sleater",
@@ -21,9 +16,20 @@
       "time": "9:11 pm",
       "artist": "Regina Spektor",
       "title": "Fidelity"
+    },
+    {
+      "time": "9:15 pm",
+      "artist": "Thom Yorke",
+      "title": "Dawn Chorus"
     }
   ],
   "recent": [
+    {
+      "time": "9:03 pm",
+      "artist": "Vampire Weekend",
+      "title": "Unbelievers",
+      "album": "Modern Vampires Of The City • 2013"
+    },
     {
       "time": "8:58 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Whitney Houston",
       "title": "I Will Always Love You",
       "album": "The Bodyguard • 1992"
-    },
-    {
-      "time": "7:18 pm",
-      "artist": "The White Stripes",
-      "title": "Jimmy the Exploder",
-      "album": "The White Stripes • 1999"
     }
   ]
 }
