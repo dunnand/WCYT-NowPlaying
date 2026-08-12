@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T11:55:27",
+  "updatedAt": "2026-08-12T11:55:49",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Neutral Milk Hotel",
+    "title": "Song Against X",
+    "album": "On Avery Island • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Song Against X"
-    },
     {
       "time": "11:59 am",
       "artist": "Panda Bear & Sonic Boom",
@@ -26,9 +21,20 @@
       "time": "12:08 pm",
       "artist": "Mac DeMarco",
       "title": "Passing Out Pieces"
+    },
+    {
+      "time": "12:11 pm",
+      "artist": "Sigur Ros",
+      "title": "Gobbledigook"
     }
   ],
   "recent": [
+    {
+      "time": "11:55 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Song Against X",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "11:52 am",
       "artist": "Death Cab For Cutie",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Big Blue",
       "album": "Father of the Bride • 2019"
-    },
-    {
-      "time": "10:21 am",
-      "artist": "Chinese American Bear",
-      "title": "Forever Lover (永远的爱人)",
-      "album": "Dim Sum & Then Some • 2026"
     }
   ]
 }
