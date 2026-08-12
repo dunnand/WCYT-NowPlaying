@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T19:35:01",
+  "updatedAt": "2026-08-12T19:35:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Syd Barrett",
+    "title": "Opel",
+    "album": "Opel • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:35 pm",
-      "artist": "Syd Barrett",
-      "title": "Opel"
-    },
     {
       "time": "7:41 pm",
       "artist": "Mahito Yokota",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:35 pm",
+      "artist": "Syd Barrett",
+      "title": "Opel",
+      "album": "Opel • 1988"
+    },
     {
       "time": "7:29 pm",
       "artist": "Spacemen 3",
@@ -172,12 +173,6 @@
       "artist": "Curtis Mayfield",
       "title": "Underground",
       "album": "Roots • 1971"
-    },
-    {
-      "time": "5:56 pm",
-      "artist": "The Beatles",
-      "title": "Lucy In The Sky With Diamonds",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
     }
   ]
 }
