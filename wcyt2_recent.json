@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-12T16:57:31",
+  "updatedAt": "2026-08-12T16:59:34",
   "now": {
-    "artist": "The Beatles",
-    "title": "Not A Second Time",
-    "album": "With the Beatles • 1963",
+    "artist": "The Cars",
+    "title": "Let's Go",
+    "album": "Candy-O • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "4:59 pm",
-      "artist": "The Cars",
-      "title": "Let's Go"
-    },
-    {
-      "time": "5:03 pm",
+      "time": "5:02 pm",
       "artist": "Archers of Loaf",
       "title": "White Trash Heroes"
     },
@@ -23,12 +18,23 @@
       "title": "Taste the Ceiling"
     },
     {
-      "time": "5:12 pm",
+      "time": "5:11 pm",
       "artist": "Jennifer Lopez",
       "title": "Love Don't Cost A Thing"
+    },
+    {
+      "time": "5:15 pm",
+      "artist": "Spoon",
+      "title": "The Way We Get By"
     }
   ],
   "recent": [
+    {
+      "time": "4:59 pm",
+      "artist": "The Cars",
+      "title": "Let's Go",
+      "album": "Candy-O • 1979"
+    },
     {
       "time": "4:57 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "This Is a Call",
       "album": "Foo Fighters • 1995"
-    },
-    {
-      "time": "3:24 pm",
-      "artist": "Usher",
-      "title": "OMG feat. will.i.am",
-      "album": "Raymond v. Raymond • 2010"
     }
   ]
 }
