@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T15:28:43",
+  "updatedAt": "2026-08-12T15:32:35",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "This Is a Call",
-    "album": "Foo Fighters • 1995",
+    "artist": "Madonna",
+    "title": "You'll See",
+    "album": "Something to Remember • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 pm",
-      "artist": "Madonna",
-      "title": "You'll See"
-    },
     {
       "time": "3:36 pm",
       "artist": "The Egyptian Lover",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:32 pm",
+      "artist": "Madonna",
+      "title": "You'll See",
+      "album": "Something to Remember • 1995"
+    },
     {
       "time": "3:28 pm",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Neu!",
       "title": "Hallogallo",
       "album": "Neu! • 1972"
-    },
-    {
-      "time": "1:46 pm",
-      "artist": "David Bowie",
-      "title": "Fantastic Voyage",
-      "album": "Lodger • 1979"
     }
   ]
 }
