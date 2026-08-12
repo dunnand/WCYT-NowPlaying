@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T19:44:04",
+  "updatedAt": "2026-08-12T19:47:21",
   "now": {
-    "artist": "KISS",
-    "title": "Black Diamond",
-    "album": "Kiss • 1974",
+    "artist": "The Beatles",
+    "title": "Tell Me What You See",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 pm",
-      "artist": "The Beatles",
-      "title": "Tell Me What You See"
-    },
     {
       "time": "7:50 pm",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "7:54 pm",
       "artist": "Fleetwood Mac",
       "title": "Say You Love Me"
+    },
+    {
+      "time": "7:58 pm",
+      "artist": "Tom Petty",
+      "title": "Wildflowers"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 pm",
+      "artist": "The Beatles",
+      "title": "Tell Me What You See",
+      "album": "Help! • 1965"
+    },
     {
       "time": "7:44 pm",
       "artist": "KISS",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Staring at the Sun",
       "album": "Young Liars • 2003"
-    },
-    {
-      "time": "6:09 pm",
-      "artist": "Little Anthony & The Imperials",
-      "title": "Tears On My Pillow",
-      "album": "We Are The Imperials Featuring Little Anthony • 1959"
     }
   ]
 }
