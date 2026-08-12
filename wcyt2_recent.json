@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T18:54:35",
+  "updatedAt": "2026-08-12T18:57:00",
   "now": {
-    "artist": "The Byrds",
-    "title": "5D (Fifth Dimension)",
-    "album": "Fifth Dimension • 1966",
+    "artist": "George Harrison",
+    "title": "Blow Away",
+    "album": "George Harrison • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:56 pm",
-      "artist": "George Harrison",
-      "title": "Blow Away"
-    },
     {
       "time": "7:00 pm",
       "artist": "Phil Collins",
@@ -26,9 +21,20 @@
       "time": "7:08 pm",
       "artist": "The Strokes",
       "title": "Someday."
+    },
+    {
+      "time": "7:12 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Casimir Pulaski Day"
     }
   ],
   "recent": [
+    {
+      "time": "6:57 pm",
+      "artist": "George Harrison",
+      "title": "Blow Away",
+      "album": "George Harrison • 1979"
+    },
     {
       "time": "6:54 pm",
       "artist": "The Byrds",
@@ -172,12 +178,6 @@
       "artist": "Beat Happening",
       "title": "Tiger Trap",
       "album": "You Turn Me • 1992"
-    },
-    {
-      "time": "5:18 pm",
-      "artist": "Toro y Moi",
-      "title": "Rose Quartz",
-      "album": "Anything in Return • 2013"
     }
   ]
 }
