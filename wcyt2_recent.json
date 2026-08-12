@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T21:43:45",
+  "updatedAt": "2026-08-11T21:47:09",
   "now": {
-    "artist": "M",
-    "title": "Pop Muzik",
-    "album": "New York - London - Paris - Munich • 1979",
+    "artist": "The Beatles",
+    "title": "Glass Onion",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:46 pm",
-      "artist": "The Beatles",
-      "title": "Glass Onion"
-    },
     {
       "time": "9:49 pm",
       "artist": "Kenny Loggins",
@@ -26,9 +21,20 @@
       "time": "9:55 pm",
       "artist": "Grateful Dead",
       "title": "Ripple"
+    },
+    {
+      "time": "9:59 pm",
+      "artist": "of Montreal",
+      "title": "Jacques Lamure"
     }
   ],
   "recent": [
+    {
+      "time": "9:47 pm",
+      "artist": "The Beatles",
+      "title": "Glass Onion",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "9:43 pm",
       "artist": "M",
@@ -172,12 +178,6 @@
       "artist": "Shirley & Lee",
       "title": "Let The Good Times Roll",
       "album": "single • 1956"
-    },
-    {
-      "time": "8:03 pm",
-      "artist": "Wilson Phillips",
-      "title": "You're In Love",
-      "album": "Wilson Phillips • 1990"
     }
   ]
 }
