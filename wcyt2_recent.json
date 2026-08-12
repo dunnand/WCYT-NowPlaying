@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T02:06:09",
+  "updatedAt": "2026-08-12T02:06:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Paper Tiger",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:06 am",
-      "artist": "Spoon",
-      "title": "Paper Tiger"
-    },
     {
       "time": "2:09 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "2:16 am",
       "artist": "Modest Mouse",
       "title": "Doin' the Cockroach"
+    },
+    {
+      "time": "2:21 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Gardenhead / Leave Me Alone"
     }
   ],
   "recent": [
+    {
+      "time": "2:06 am",
+      "artist": "Spoon",
+      "title": "Paper Tiger",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "2:03 am",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Whispers",
       "title": "Rock Steady",
       "album": "Just Gets Better with Time • 1987"
-    },
-    {
-      "time": "12:30 am",
-      "artist": "The Stranglers",
-      "title": "Golden Brown",
-      "album": "La Folie • 1981"
     }
   ]
 }
