@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T03:43:26",
+  "updatedAt": "2026-08-12T03:45:58",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Cousins",
-    "album": "Contra • 2010",
-    "category": "TUNES"
+    "artist": "ABBA",
+    "title": "SOS",
+    "album": "ABBA • 1975",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:45 am",
-      "artist": "ABBA",
-      "title": "SOS"
-    },
     {
       "time": "3:49 am",
       "artist": "Sleater",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:45 am",
+      "artist": "ABBA",
+      "title": "SOS",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "3:43 am",
       "artist": "Vampire Weekend",
@@ -172,12 +173,6 @@
       "artist": "Modest Mouse",
       "title": "Doin' the Cockroach",
       "album": "Lonesome Crowded West • 1998"
-    },
-    {
-      "time": "2:13 am",
-      "artist": "will.i.am",
-      "title": "#thatPOWER",
-      "album": "#willpower • 2013"
     }
   ]
 }
