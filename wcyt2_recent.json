@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T04:28:30",
+  "updatedAt": "2026-08-12T04:30:33",
   "now": {
-    "artist": "Bill Withers",
-    "title": "Ain't No Sunshine",
-    "album": "Just As I Am • 1971",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "Kissing the Lipless",
+    "album": "Chutes Too Narrow • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:30 am",
-      "artist": "The Shins",
-      "title": "Kissing the Lipless"
-    },
     {
       "time": "4:33 am",
       "artist": "The Beatles",
@@ -26,9 +21,25 @@
       "time": "4:40 am",
       "artist": "Yo La Tengo",
       "title": "The Summer"
+    },
+    {
+      "time": "4:43 am",
+      "artist": "Lloyd Price",
+      "title": "Stagger Lee"
+    },
+    {
+      "time": "4:45 am",
+      "artist": "Wilco",
+      "title": "Ashes of American Flags"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 am",
+      "artist": "The Shins",
+      "title": "Kissing the Lipless",
+      "album": "Chutes Too Narrow • 2003"
+    },
     {
       "time": "4:28 am",
       "artist": "Bill Withers",
@@ -172,12 +183,6 @@
       "artist": "The Who",
       "title": "I Can See For Miles",
       "album": "The Who Sell Out • 1967"
-    },
-    {
-      "time": "3:00 am",
-      "artist": "Vanessa Carlton",
-      "title": "A Thousand Miles",
-      "album": "Be Not Nobody • 2002"
     }
   ]
 }
