@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T12:14:38",
+  "updatedAt": "2026-08-12T12:19:05",
   "now": {
-    "artist": "Soundgarden",
-    "title": "Rusty Cage",
-    "album": "Badmotorfinger • 1991",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Horchata",
+    "album": "Contra • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:19 pm",
-      "artist": "Vampire Weekend",
-      "title": "Horchata"
-    },
     {
       "time": "12:22 pm",
       "artist": "The Script",
@@ -21,9 +16,20 @@
       "time": "12:26 pm",
       "artist": "Radiohead",
       "title": "Optimistic"
+    },
+    {
+      "time": "12:31 pm",
+      "artist": "Thom Yorke",
+      "title": "Not the News"
     }
   ],
   "recent": [
+    {
+      "time": "12:19 pm",
+      "artist": "Vampire Weekend",
+      "title": "Horchata",
+      "album": "Contra • 2010"
+    },
     {
       "time": "12:14 pm",
       "artist": "Soundgarden",
@@ -167,12 +173,6 @@
       "artist": "Talking Heads",
       "title": "Once in a Lifetime",
       "album": "Remain in Light • 1980"
-    },
-    {
-      "time": "10:40 am",
-      "artist": "Nirvana",
-      "title": "All Apologies",
-      "album": "In Utero • 1993"
     }
   ]
 }
