@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T01:38:00",
+  "updatedAt": "2026-08-12T01:38:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Normal",
+    "title": "Warm Leatherette",
+    "album": "ALBUM: Warm Leatherette • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:38 am",
-      "artist": "The Normal",
-      "title": "Warm Leatherette"
-    },
     {
       "time": "1:41 am",
       "artist": "The Guess Who",
@@ -26,9 +21,20 @@
       "time": "1:52 am",
       "artist": "The Who",
       "title": "Substitute"
+    },
+    {
+      "time": "1:56 am",
+      "artist": "Fleetwood Mac",
+      "title": "Second Hand News"
     }
   ],
   "recent": [
+    {
+      "time": "1:38 am",
+      "artist": "The Normal",
+      "title": "Warm Leatherette",
+      "album": "ALBUM: Warm Leatherette • 1978"
+    },
     {
       "time": "1:33 am",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Train",
       "title": "Drive By",
       "album": "California 37 • 2011"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "Belle and Sebastian",
-      "title": "A Century Of Fakers",
-      "album": "3...6...9 Seconds of Light •"
     }
   ]
 }
