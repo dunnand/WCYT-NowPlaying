@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T19:21:50",
+  "updatedAt": "2026-08-12T19:25:56",
   "now": {
-    "artist": "Rod Stewart",
-    "title": "This Old Heart Of Mine",
-    "album": "Soulbook • 1990",
+    "artist": "They Might Be Giants",
+    "title": "Birdhouse in Your Soul",
+    "album": "Flood • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 pm",
-      "artist": "They Might Be Giants",
-      "title": "Birdhouse in Your Soul"
-    },
     {
       "time": "7:29 pm",
       "artist": "Spacemen 3",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:25 pm",
+      "artist": "They Might Be Giants",
+      "title": "Birdhouse in Your Soul",
+      "album": "Flood • 1990"
+    },
     {
       "time": "7:21 pm",
       "artist": "Rod Stewart",
@@ -172,12 +173,6 @@
       "artist": "Commodores",
       "title": "Just To Be Close To You",
       "album": "Hot on the Tracks • 1976"
-    },
-    {
-      "time": "5:47 pm",
-      "artist": "The Beatles",
-      "title": "She Came In Through The Bathroom Window",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
