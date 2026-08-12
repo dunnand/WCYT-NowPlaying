@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T02:43:42",
+  "updatedAt": "2026-08-12T02:50:30",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Isis",
-    "album": "Desire • 1976",
+    "artist": "The Kinks",
+    "title": "You Really Got Me",
+    "album": "Kinks • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:50 am",
-      "artist": "The Kinks",
-      "title": "You Really Got Me"
-    },
     {
       "time": "2:52 am",
       "artist": "Queen",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:50 am",
+      "artist": "The Kinks",
+      "title": "You Really Got Me",
+      "album": "Kinks • 1964"
+    },
     {
       "time": "2:43 am",
       "artist": "Bob Dylan",
@@ -177,12 +178,6 @@
       "artist": "Wilco",
       "title": "More...",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "1:11 am",
-      "artist": "The Crystals",
-      "title": "He's a Rebel",
-      "album": "He's a Rebel • 1963"
     }
   ]
 }
