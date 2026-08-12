@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T00:42:09",
+  "updatedAt": "2026-08-12T00:45:02",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "One Love / People Get Ready",
-    "album": "Exodus • 1977",
+    "artist": "The Beatles",
+    "title": "I'll Be Back",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "The Beatles",
-      "title": "I'll Be Back"
-    },
     {
       "time": "12:47 am",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "12:55 am",
       "artist": "Manu Dibango",
       "title": "Soul Makossa"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "Jane Child",
+      "title": "Don't Wanna Fall In Love"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 am",
+      "artist": "The Beatles",
+      "title": "I'll Be Back",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "12:42 am",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "The Hives",
       "title": "Hate to Say I Told You So",
       "album": "Veni Vidi Vicious • 2000"
-    },
-    {
-      "time": "10:01 pm",
-      "artist": "Grimes",
-      "title": "Violence",
-      "album": "Miss Anthropocene • 2019"
     }
   ]
 }
