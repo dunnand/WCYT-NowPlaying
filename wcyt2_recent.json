@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T13:45:50",
+  "updatedAt": "2026-08-12T13:46:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Fantastic Voyage",
+    "album": "Lodger • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 pm",
-      "artist": "David Bowie",
-      "title": "Fantastic Voyage"
-    },
     {
       "time": "1:51 pm",
       "artist": "Neu!",
@@ -21,9 +16,20 @@
       "time": "2:01 pm",
       "artist": "The Everly Brothers",
       "title": "Love Hurts"
+    },
+    {
+      "time": "2:03 pm",
+      "artist": "Eagles",
+      "title": "Take It Easy"
     }
   ],
   "recent": [
+    {
+      "time": "1:46 pm",
+      "artist": "David Bowie",
+      "title": "Fantastic Voyage",
+      "album": "Lodger • 1979"
+    },
     {
       "time": "1:44 pm",
       "artist": "unknown",
@@ -167,12 +173,6 @@
       "artist": "Vampire Weekend",
       "title": "Horchata",
       "album": "Contra • 2010"
-    },
-    {
-      "time": "12:14 pm",
-      "artist": "Soundgarden",
-      "title": "Rusty Cage",
-      "album": "Badmotorfinger • 1991"
     }
   ]
 }
