@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T11:09:28",
+  "updatedAt": "2026-08-12T11:12:02",
   "now": {
-    "artist": "The Beatles",
-    "title": "Taxman",
-    "album": "Revolver • 1966",
+    "artist": "The Specials",
+    "title": "Too Much Too Young",
+    "album": "Specials • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:11 am",
-      "artist": "The Specials",
-      "title": "Too Much Too Young"
-    },
     {
       "time": "11:18 am",
       "artist": "Oasis",
@@ -26,9 +21,20 @@
       "time": "11:25 am",
       "artist": "Radiohead",
       "title": "Weird Fishes/Arpeggi"
+    },
+    {
+      "time": "11:31 am",
+      "artist": "The Beatles",
+      "title": "She's Leaving Home"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "The Specials",
+      "title": "Too Much Too Young",
+      "album": "Specials • 1979"
+    },
     {
       "time": "11:09 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Joan Osborne",
       "title": "One Of Us",
       "album": "Relish • 1995"
-    },
-    {
-      "time": "9:34 am",
-      "artist": "Usher",
-      "title": "Numb",
-      "album": "Looking 4 Myself • 2012"
     }
   ]
 }
