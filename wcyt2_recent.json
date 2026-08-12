@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T08:15:04",
+  "updatedAt": "2026-08-12T08:15:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Walcott",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:15 am",
-      "artist": "Vampire Weekend",
-      "title": "Walcott"
-    },
     {
       "time": "8:18 am",
       "artist": "Grateful Dead",
@@ -31,9 +26,20 @@
       "time": "8:28 am",
       "artist": "Dion & The Belmonts",
       "title": "Where Or When"
+    },
+    {
+      "time": "8:30 am",
+      "artist": "TV on the Radio",
+      "title": "New Health Rock"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Vampire Weekend",
+      "title": "Walcott",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "8:10 am",
       "artist": "Kenny Rogers",
@@ -177,12 +183,6 @@
       "artist": "The Sonics",
       "title": "Psycho",
       "album": "Here Are The Sonics!!! • 1965"
-    },
-    {
-      "time": "6:40 am",
-      "artist": "The Shins",
-      "title": "Pink Bullets",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
