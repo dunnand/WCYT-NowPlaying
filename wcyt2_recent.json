@@ -1,24 +1,25 @@
 {
-  "updatedAt": "2026-08-11T22:41:37",
+  "updatedAt": "2026-08-11T22:46:11",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Hey You",
-    "album": "The Wall • 1979",
+    "artist": "The Beatles",
+    "title": "Getting Better",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:46 pm",
-      "artist": "The Beatles",
-      "title": "Getting Better"
-    },
-    {
-      "time": "10:49 pm",
+      "time": "10:48 pm",
       "artist": "Magazine",
       "title": "Shot By Both Sides"
     }
   ],
   "recent": [
+    {
+      "time": "10:46 pm",
+      "artist": "The Beatles",
+      "title": "Getting Better",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "10:41 pm",
       "artist": "Pink Floyd",
@@ -162,12 +163,6 @@
       "artist": "Thom Yorke",
       "title": "Dawn Chorus",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Regina Spektor",
-      "title": "Fidelity",
-      "album": "Begin to Hope • 2006"
     }
   ]
 }
