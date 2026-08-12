@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T04:25:06",
+  "updatedAt": "2026-08-12T04:25:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barry Manilow",
+    "title": "Mandy",
+    "album": "Barry Manilow II • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:25 am",
-      "artist": "Barry Manilow",
-      "title": "Mandy"
-    },
     {
       "time": "4:28 am",
       "artist": "Bill Withers",
@@ -26,9 +21,20 @@
       "time": "4:33 am",
       "artist": "The Beatles",
       "title": "You Can't Do That"
+    },
+    {
+      "time": "4:36 am",
+      "artist": "Eno",
+      "title": "On Some Faraway Beach"
     }
   ],
   "recent": [
+    {
+      "time": "4:25 am",
+      "artist": "Barry Manilow",
+      "title": "Mandy",
+      "album": "Barry Manilow II • 1974"
+    },
     {
       "time": "4:21 am",
       "artist": "Kenji Yamamoto, Kouichi Kyuma",
@@ -172,12 +178,6 @@
       "artist": "Jimmie Rodgers",
       "title": "Honeycomb",
       "album": "Honeycomb • 1957"
-    },
-    {
-      "time": "2:55 am",
-      "artist": "Weezer",
-      "title": "Susanne",
-      "album": "Mallrats Soundtrack • 1995"
     }
   ]
 }
