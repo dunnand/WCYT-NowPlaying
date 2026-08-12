@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T12:31:36",
+  "updatedAt": "2026-08-12T12:31:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Not the News",
+    "album": "ANIMA • 2019",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Thom Yorke",
-      "title": "Not the News"
-    },
     {
       "time": "12:35 pm",
       "artist": "Lou Bega",
@@ -26,9 +21,20 @@
       "time": "12:42 pm",
       "artist": "Kate Bush",
       "title": "Breathing"
+    },
+    {
+      "time": "12:48 pm",
+      "artist": "U2",
+      "title": "40"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Thom Yorke",
+      "title": "Not the News",
+      "album": "ANIMA • 2019"
+    },
     {
       "time": "12:26 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "The Band",
       "title": "Ophelia",
       "album": "Northern Lights - Southern Cross • 1975"
-    },
-    {
-      "time": "10:52 am",
-      "artist": "Yuka Tsujiyoko",
-      "title": "Fire Emblem: Seisen no Keifu (The Continent Thereafter)",
-      "album": "Nintendo Music •"
     }
   ]
 }
