@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T07:10:27",
+  "updatedAt": "2026-08-12T07:14:44",
   "now": {
-    "artist": "James Taylor",
-    "title": "You've Got A Friend",
-    "album": "Mud Slide Slim and the Blue Horizon • 1971",
+    "artist": "Jim Croce",
+    "title": "I Got A Name",
+    "album": "I Got a Name • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:14 am",
-      "artist": "Jim Croce",
-      "title": "I Got A Name"
-    },
     {
       "time": "7:17 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "7:24 am",
       "artist": "John Denver",
       "title": "Thank God I'm A Country Boy"
+    },
+    {
+      "time": "7:27 am",
+      "artist": "Superchunk",
+      "title": "Precision Auto"
     }
   ],
   "recent": [
+    {
+      "time": "7:14 am",
+      "artist": "Jim Croce",
+      "title": "I Got A Name",
+      "album": "I Got a Name • 1973"
+    },
     {
       "time": "7:10 am",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "The Darkness",
       "title": "I Believe in a Thing Called Love",
       "album": "Permission to Land • 2003"
-    },
-    {
-      "time": "5:35 am",
-      "artist": "The Isley Brothers",
-      "title": "Shout, Pts. 1 & 2",
-      "album": "Shout! • 1959"
     }
   ]
 }
