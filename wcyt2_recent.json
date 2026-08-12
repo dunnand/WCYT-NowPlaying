@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T04:36:24",
+  "updatedAt": "2026-08-12T04:40:59",
   "now": {
-    "artist": "Eno",
-    "title": "On Some Faraway Beach",
-    "album": "Here Come the Warm Jets • 1974",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "The Summer",
+    "album": "Fakebook • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:40 am",
-      "artist": "Yo La Tengo",
-      "title": "The Summer"
-    },
     {
       "time": "4:43 am",
       "artist": "Lloyd Price",
@@ -26,9 +21,20 @@
       "time": "4:50 am",
       "artist": "The Velvet Underground",
       "title": "Candy Says"
+    },
+    {
+      "time": "4:54 am",
+      "artist": "Son Little",
+      "title": "hey rose"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 am",
+      "artist": "Yo La Tengo",
+      "title": "The Summer",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "4:36 am",
       "artist": "Eno",
@@ -172,12 +178,6 @@
       "artist": "Green Day",
       "title": "Basket Case",
       "album": "Dookie • 1994"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "Go West",
-      "title": "King Of Wishful Thinking",
-      "album": "Pretty Woman:Soundtrack • 1990"
     }
   ]
 }
