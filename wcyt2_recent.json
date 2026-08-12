@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T07:17:47",
+  "updatedAt": "2026-08-12T07:17:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Taylor Swift",
+    "title": "Love Story",
+    "album": "Fearless • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:17 am",
-      "artist": "Taylor Swift",
-      "title": "Love Story"
-    },
     {
       "time": "7:21 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:27 am",
       "artist": "Superchunk",
       "title": "Precision Auto"
+    },
+    {
+      "time": "7:30 am",
+      "artist": "Nina Simone",
+      "title": "I Loves You, Porgy"
     }
   ],
   "recent": [
+    {
+      "time": "7:17 am",
+      "artist": "Taylor Swift",
+      "title": "Love Story",
+      "album": "Fearless • 2008"
+    },
     {
       "time": "7:14 am",
       "artist": "Jim Croce",
@@ -172,12 +178,6 @@
       "artist": "The Dave Clark Five",
       "title": "Glad All Over",
       "album": "Glad All Over • 1964"
-    },
-    {
-      "time": "5:39 am",
-      "artist": "The Darkness",
-      "title": "I Believe in a Thing Called Love",
-      "album": "Permission to Land • 2003"
     }
   ]
 }
