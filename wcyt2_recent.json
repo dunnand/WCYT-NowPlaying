@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T16:48:30",
+  "updatedAt": "2026-08-12T16:51:24",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "A Day in the Life of a Tree",
-    "album": "Surf's Up • 1971",
+    "artist": "Blondie",
+    "title": "Dreaming",
+    "album": "Eat to the Beat • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:51 pm",
-      "artist": "Blondie",
-      "title": "Dreaming"
-    },
     {
       "time": "4:54 pm",
       "artist": "The Shins",
@@ -26,9 +21,20 @@
       "time": "4:59 pm",
       "artist": "The Cars",
       "title": "Let's Go"
+    },
+    {
+      "time": "5:03 pm",
+      "artist": "Archers of Loaf",
+      "title": "White Trash Heroes"
     }
   ],
   "recent": [
+    {
+      "time": "4:51 pm",
+      "artist": "Blondie",
+      "title": "Dreaming",
+      "album": "Eat to the Beat • 1979"
+    },
     {
       "time": "4:48 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "The Shins",
       "title": "Know Your Onion!",
       "album": "Oh Inverted World • 2001"
-    },
-    {
-      "time": "3:14 pm",
-      "artist": "Taylor Swift",
-      "title": "I Knew You Were Trouble",
-      "album": "Red • 2012"
     }
   ]
 }
