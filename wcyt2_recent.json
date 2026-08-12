@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-11T22:37:19",
+  "updatedAt": "2026-08-11T22:39:34",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Big Yellow Taxi",
-    "album": "Ladies of the Canyon • 1970",
+    "artist": "The Beatles",
+    "title": "From Me To You",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:39 pm",
-      "artist": "The Beatles",
-      "title": "From Me To You"
-    },
     {
       "time": "10:41 pm",
       "artist": "Pink Floyd",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:39 pm",
+      "artist": "The Beatles",
+      "title": "From Me To You",
+      "album": "single • 1963"
+    },
     {
       "time": "10:37 pm",
       "artist": "Joni Mitchell",
@@ -172,12 +173,6 @@
       "artist": "Sleater-Kinney",
       "title": "Combat Rock",
       "album": "One Beat • 2002"
-    },
-    {
-      "time": "9:03 pm",
-      "artist": "Vampire Weekend",
-      "title": "Unbelievers",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
