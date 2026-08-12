@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T09:16:03",
+  "updatedAt": "2026-08-12T09:19:19",
   "now": {
-    "artist": "Rodriguez",
-    "title": "Inner City Blues",
-    "album": "Cold Fact • 1970",
+    "artist": "Neil Young",
+    "title": "Harvest Moon",
+    "album": "Harvest Moon • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:19 am",
-      "artist": "Neil Young",
-      "title": "Harvest Moon"
-    },
     {
       "time": "9:24 am",
       "artist": "Jamie Foxx",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:19 am",
+      "artist": "Neil Young",
+      "title": "Harvest Moon",
+      "album": "Harvest Moon • 1992"
+    },
     {
       "time": "9:16 am",
       "artist": "Rodriguez",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Sulk",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "7:42 am",
-      "artist": "U2",
-      "title": "Until The End Of The World",
-      "album": "Achtung Baby • 1991"
     }
   ]
 }
