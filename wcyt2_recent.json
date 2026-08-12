@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T07:24:20",
+  "updatedAt": "2026-08-12T07:27:36",
   "now": {
-    "artist": "John Denver",
-    "title": "Thank God I'm A Country Boy",
-    "album": "Back Home Again • 1974",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Precision Auto",
+    "album": "On The Mouth • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:27 am",
-      "artist": "Superchunk",
-      "title": "Precision Auto"
-    },
     {
       "time": "7:30 am",
       "artist": "Nina Simone",
@@ -21,9 +16,20 @@
       "time": "7:34 am",
       "artist": "Ted Leo and the Pharmacists",
       "title": "Me and Mia"
+    },
+    {
+      "time": "7:37 am",
+      "artist": "The Beatles",
+      "title": "Till There Was You"
     }
   ],
   "recent": [
+    {
+      "time": "7:27 am",
+      "artist": "Superchunk",
+      "title": "Precision Auto",
+      "album": "On The Mouth • 1993"
+    },
     {
       "time": "7:24 am",
       "artist": "John Denver",
@@ -167,12 +173,6 @@
       "artist": "CAKE",
       "title": "I Will Survive",
       "album": "Fashion Nugget • 1996"
-    },
-    {
-      "time": "5:50 am",
-      "artist": "Bjork",
-      "title": "Army of Me",
-      "album": "Post • 1995"
     }
   ]
 }
