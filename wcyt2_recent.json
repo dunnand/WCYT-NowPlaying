@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T00:47:38",
+  "updatedAt": "2026-08-12T00:53:08",
   "now": {
-    "artist": "Elton John",
-    "title": "Crazy Water",
-    "album": "Blue Moves • 1976",
+    "artist": "The Beatles",
+    "title": "I Need You",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "The Beatles",
-      "title": "I Need You"
-    },
     {
       "time": "12:55 am",
       "artist": "Manu Dibango",
@@ -26,9 +21,20 @@
       "time": "1:04 am",
       "artist": "Ray Charles",
       "title": "Mess Around"
+    },
+    {
+      "time": "1:07 am",
+      "artist": "R.E.M.",
+      "title": "All the Way to Reno (You're Gonna Be a Star)"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "The Beatles",
+      "title": "I Need You",
+      "album": "Help! • 1965"
+    },
     {
       "time": "12:47 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Twist",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "10:08 pm",
-      "artist": "The Killers",
-      "title": "Smile Like You Mean It",
-      "album": "Hot Fuss • 2004"
     }
   ]
 }
