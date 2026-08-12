@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T10:59:30",
+  "updatedAt": "2026-08-12T11:02:57",
   "now": {
-    "artist": "The Band",
-    "title": "Ophelia",
-    "album": "Northern Lights - Southern Cross • 1975",
+    "artist": "The Beatles",
+    "title": "Good Night",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:02 am",
-      "artist": "The Beatles",
-      "title": "Good Night"
-    },
     {
       "time": "11:06 am",
       "artist": "The Kinks",
@@ -26,9 +21,20 @@
       "time": "11:12 am",
       "artist": "The Specials",
       "title": "Too Much Too Young"
+    },
+    {
+      "time": "11:18 am",
+      "artist": "Oasis",
+      "title": "Morning Glory"
     }
   ],
   "recent": [
+    {
+      "time": "11:02 am",
+      "artist": "The Beatles",
+      "title": "Good Night",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "10:59 am",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "Ted Leo and the Pharmacists",
       "title": "Timorous Me",
       "album": "The Tyranny of Distance • 2001"
-    },
-    {
-      "time": "9:24 am",
-      "artist": "Jamie Foxx",
-      "title": "Fly Love",
-      "album": "Rio Soundtrack • 2011"
     }
   ]
 }
