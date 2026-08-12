@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T07:37:57",
+  "updatedAt": "2026-08-12T07:40:00",
   "now": {
-    "artist": "The Beatles",
-    "title": "Till There Was You",
-    "album": "With the Beatles • 1963",
-    "category": "AUDIO"
+    "artist": "The xx",
+    "title": "Angels",
+    "album": "Coexist • 2012",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:40 am",
-      "artist": "The xx",
-      "title": "Angels"
-    },
     {
       "time": "7:42 am",
       "artist": "U2",
@@ -21,9 +16,25 @@
       "time": "7:47 am",
       "artist": "Radiohead",
       "title": "Sulk"
+    },
+    {
+      "time": "7:51 am",
+      "artist": "Bruce Springsteen",
+      "title": "The River"
+    },
+    {
+      "time": "7:56 am",
+      "artist": "Ric Ocasek",
+      "title": "Emotion In Motion"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 am",
+      "artist": "The xx",
+      "title": "Angels",
+      "album": "Coexist • 2012"
+    },
     {
       "time": "7:37 am",
       "artist": "The Beatles",
@@ -167,12 +178,6 @@
       "artist": "The Chemical Brothers",
       "title": "The Boxer",
       "album": "Push the Button • 2005"
-    },
-    {
-      "time": "6:08 am",
-      "artist": "CHAMY.Ishi, Toshiyuki Sudo, Daisuke Matsuoka",
-      "title": "Wii Play: Motion (Staff Roll)",
-      "album": "Nintendo Music •"
     }
   ]
 }
