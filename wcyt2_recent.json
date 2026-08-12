@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T14:01:18",
+  "updatedAt": "2026-08-12T14:03:37",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Love Hurts",
-    "album": "A Date with the Everly Brothers • 1960",
+    "artist": "Eagles",
+    "title": "Take It Easy",
+    "album": "Eagles • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 pm",
-      "artist": "Eagles",
-      "title": "Take It Easy"
-    },
     {
       "time": "2:06 pm",
       "artist": "The Smashing Pumpkins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:03 pm",
+      "artist": "Eagles",
+      "title": "Take It Easy",
+      "album": "Eagles • 1972"
+    },
     {
       "time": "2:01 pm",
       "artist": "The Everly Brothers",
@@ -172,12 +173,6 @@
       "artist": "Thom Yorke",
       "title": "Not the News",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "12:26 pm",
-      "artist": "Radiohead",
-      "title": "Optimistic",
-      "album": "Kid A • 2000"
     }
   ]
 }
