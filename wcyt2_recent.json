@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T01:52:45",
+  "updatedAt": "2026-08-12T01:56:31",
   "now": {
-    "artist": "The Who",
-    "title": "Substitute",
-    "album": "single • 1966",
+    "artist": "Fleetwood Mac",
+    "title": "Second Hand News",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "Fleetwood Mac",
-      "title": "Second Hand News"
-    },
     {
       "time": "1:59 am",
       "artist": "The Smashing Pumpkins",
@@ -26,9 +21,20 @@
       "time": "2:06 am",
       "artist": "Spoon",
       "title": "Paper Tiger"
+    },
+    {
+      "time": "2:09 am",
+      "artist": "Radiohead",
+      "title": "Go to Sleep. (Little Man Being Erased.)"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "Fleetwood Mac",
+      "title": "Second Hand News",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "1:52 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Broken Chairs",
       "album": "Keep It Like A Secret • 1999"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "Shontelle",
-      "title": "Impossible",
-      "album": "No Gravity • 2010"
     }
   ]
 }
