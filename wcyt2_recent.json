@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T16:54:27",
+  "updatedAt": "2026-08-12T16:57:31",
   "now": {
-    "artist": "The Shins",
-    "title": "Turn a Square",
-    "album": "Chutes Too Narrow • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Not A Second Time",
+    "album": "With the Beatles • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 pm",
-      "artist": "The Beatles",
-      "title": "Not A Second Time"
-    },
     {
       "time": "4:59 pm",
       "artist": "The Cars",
@@ -26,9 +21,20 @@
       "time": "5:08 pm",
       "artist": "Wilco",
       "title": "Taste the Ceiling"
+    },
+    {
+      "time": "5:12 pm",
+      "artist": "Jennifer Lopez",
+      "title": "Love Don't Cost A Thing"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 pm",
+      "artist": "The Beatles",
+      "title": "Not A Second Time",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "4:54 pm",
       "artist": "The Shins",
@@ -172,12 +178,6 @@
       "artist": "Usher",
       "title": "OMG feat. will.i.am",
       "album": "Raymond v. Raymond • 2010"
-    },
-    {
-      "time": "3:20 pm",
-      "artist": "Vampire Weekend",
-      "title": "M79",
-      "album": "Vampire Weekend • 2008"
     }
   ]
 }
