@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T15:48:33",
+  "updatedAt": "2026-08-12T15:54:02",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Trampled Under Foot",
-    "album": "Physical Graffiti • 1975",
+    "artist": "The Velvet Underground",
+    "title": "After Hours",
+    "album": "The Velvet Underground • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:53 pm",
-      "artist": "The Velvet Underground",
-      "title": "After Hours"
-    },
     {
       "time": "3:56 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "4:02 pm",
       "artist": "Grace Jones",
       "title": "La vie en rose"
+    },
+    {
+      "time": "4:10 pm",
+      "artist": "Aerosmith",
+      "title": "Livin' On The Edge"
     }
   ],
   "recent": [
+    {
+      "time": "3:54 pm",
+      "artist": "The Velvet Underground",
+      "title": "After Hours",
+      "album": "The Velvet Underground • 1969"
+    },
     {
       "time": "3:48 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Reckoner",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "2:10 pm",
-      "artist": "The Fleetwoods",
-      "title": "Come Softly to Me",
-      "album": "Mr. Blue • 1959"
     }
   ]
 }
