@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T15:56:06",
+  "updatedAt": "2026-08-12T15:56:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Death or Glory",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:56 pm",
-      "artist": "The Clash",
-      "title": "Death or Glory"
-    },
     {
       "time": "4:00 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "4:10 pm",
       "artist": "Aerosmith",
       "title": "Livin' On The Edge"
+    },
+    {
+      "time": "4:16 pm",
+      "artist": "Ray Price",
+      "title": "Crazy Arms"
     }
   ],
   "recent": [
+    {
+      "time": "3:56 pm",
+      "artist": "The Clash",
+      "title": "Death or Glory",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "3:54 pm",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "The Lovin' Spoonful",
       "title": "You Didn't Have to Be So Nice",
       "album": "Daydream • 1966"
-    },
-    {
-      "time": "2:12 pm",
-      "artist": "Radiohead",
-      "title": "Reckoner",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
