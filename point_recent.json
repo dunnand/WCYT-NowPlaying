@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T08:18:39",
+  "updatedAt": "2026-08-12T08:18:59",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Yo La Tengo",
+    "title": "You Can Have It All",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:18 am",
-      "artist": "Yo La Tengo",
-      "title": "You Can Have It All"
-    },
     {
       "time": "8:23 am",
       "artist": "Turnover",
@@ -26,9 +21,20 @@
       "time": "8:30 am",
       "artist": "Wilco",
       "title": "Via Chicago"
+    },
+    {
+      "time": "8:35 am",
+      "artist": "Sincere Engineer",
+      "title": "Tourniquet"
     }
   ],
   "recent": [
+    {
+      "time": "8:18 am",
+      "artist": "Yo La Tengo",
+      "title": "You Can Have It All",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "8:15 am",
       "artist": "Destroyer",
@@ -172,12 +178,6 @@
       "artist": "Arlo Parks",
       "title": "2SIDED",
       "album": "Ambiguous Desire • 2026"
-    },
-    {
-      "time": "6:47 am",
-      "artist": "LCD Soundsystem",
-      "title": "you wanted a hit (electric lady sessions)",
-      "album": "Electric Lady Sessions • 2019"
     }
   ]
 }
