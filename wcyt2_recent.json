@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T06:16:03",
+  "updatedAt": "2026-08-12T06:19:08",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "After Midnight",
-    "album": "Eric Clapton • 1970",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Holland",
+    "album": "Michigan • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:19 am",
-      "artist": "Sufjan Stevens",
-      "title": "Holland"
-    },
     {
       "time": "6:22 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "6:33 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "I Let Love In"
+    },
+    {
+      "time": "6:37 am",
+      "artist": "Sister Rosetta Tharpe",
+      "title": "Strange Things Happening Every Day"
     }
   ],
   "recent": [
+    {
+      "time": "6:19 am",
+      "artist": "Sufjan Stevens",
+      "title": "Holland",
+      "album": "Michigan • 2003"
+    },
     {
       "time": "6:16 am",
       "artist": "Eric Clapton",
@@ -172,12 +178,6 @@
       "artist": "The Velvet Underground",
       "title": "Candy Says",
       "album": "The Velvet Underground • 1969"
-    },
-    {
-      "time": "4:45 am",
-      "artist": "Wilco",
-      "title": "Ashes of American Flags",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
