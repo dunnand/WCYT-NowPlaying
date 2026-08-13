@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T18:36:17",
+  "updatedAt": "2026-08-13T18:41:17",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "It's Only Rock 'N Roll (But I Like It)",
-    "album": "Its Only Rock n Roll • 1974",
+    "artist": "The Beatles",
+    "title": "Good Morning Good Morning",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:41 pm",
-      "artist": "The Beatles",
-      "title": "Good Morning Good Morning"
-    },
     {
       "time": "6:43 pm",
       "artist": "Stevie Wonder",
@@ -28,12 +23,18 @@
       "title": "Twilight Time"
     },
     {
-      "time": "6:52 pm",
+      "time": "6:51 pm",
       "artist": "Wilco",
       "title": "I Am Trying to Break Your Heart"
     }
   ],
   "recent": [
+    {
+      "time": "6:41 pm",
+      "artist": "The Beatles",
+      "title": "Good Morning Good Morning",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "6:36 pm",
       "artist": "Rolling Stones",
@@ -177,12 +178,6 @@
       "artist": "Wilco",
       "title": "Quiet Amplifier",
       "album": "Ode to Joy • 2019"
-    },
-    {
-      "time": "5:00 pm",
-      "artist": "The Beatles",
-      "title": "I Saw Her Standing There",
-      "album": "Please Please Me • 1963"
     }
   ]
 }
