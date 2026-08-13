@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T20:48:50",
+  "updatedAt": "2026-08-12T20:52:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "Don't Pass Me By",
-    "album": "The Beatles • 1968",
+    "artist": "Elton John",
+    "title": "Goodbye Yellow Brick Road",
+    "album": "Goodbye Yellow Brick Road • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:52 pm",
-      "artist": "Elton John",
-      "title": "Goodbye Yellow Brick Road"
-    },
     {
       "time": "8:55 pm",
       "artist": "Paula Abdul",
@@ -26,9 +21,20 @@
       "time": "9:02 pm",
       "artist": "Sufjan Stevens",
       "title": "Flint (For the Unemployed and Underpaid)"
+    },
+    {
+      "time": "9:06 pm",
+      "artist": "Townes Van Zandt",
+      "title": "Waiting Around to Die"
     }
   ],
   "recent": [
+    {
+      "time": "8:52 pm",
+      "artist": "Elton John",
+      "title": "Goodbye Yellow Brick Road",
+      "album": "Goodbye Yellow Brick Road • 1973"
+    },
     {
       "time": "8:48 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "This Old Heart Of Mine",
       "album": "Soulbook • 1990"
-    },
-    {
-      "time": "7:17 pm",
-      "artist": "Vampire Weekend",
-      "title": "Run",
-      "album": "Contra • 2010"
     }
   ]
 }
