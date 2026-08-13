@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T11:19:20",
+  "updatedAt": "2026-08-13T11:23:26",
   "now": {
-    "artist": "Grimes",
-    "title": "Oblivion",
-    "album": "Visions • 2012",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Jamming",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:23 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Jamming"
-    },
     {
       "time": "11:26 am",
       "artist": "Superchunk",
@@ -26,9 +21,20 @@
       "time": "11:34 am",
       "artist": "Yeah Yeah Yeahs",
       "title": "Rich"
+    },
+    {
+      "time": "11:38 am",
+      "artist": "Rage Against the Machine",
+      "title": "Renegades of Funk"
     }
   ],
   "recent": [
+    {
+      "time": "11:23 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Jamming",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "11:19 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Bjork",
       "title": "Big Time Sensuality",
       "album": "Debut • 1993"
-    },
-    {
-      "time": "9:48 am",
-      "artist": "Superchunk",
-      "title": "Learned to Surf",
-      "album": "Majestry Shredding • 2010"
     }
   ]
 }
