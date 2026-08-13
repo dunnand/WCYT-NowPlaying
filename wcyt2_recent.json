@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T09:25:56",
+  "updatedAt": "2026-08-13T09:27:09",
   "now": {
-    "artist": "The Beatles",
-    "title": "Polythene Pam",
-    "album": "Abbey Road • 1969",
+    "artist": "Guy Clark",
+    "title": "L.A. Freeway",
+    "album": "Old No. 1 • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 am",
-      "artist": "Guy Clark",
-      "title": "L.A. Freeway"
-    },
     {
       "time": "9:31 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "9:38 am",
       "artist": "Thom Yorke",
       "title": "Harrowdown Hill"
+    },
+    {
+      "time": "9:43 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Y Control"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 am",
+      "artist": "Guy Clark",
+      "title": "L.A. Freeway",
+      "album": "Old No. 1 • 1975"
+    },
     {
       "time": "9:25 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Father to a Sister of Thought",
       "album": "Wowee Zowee • 1995"
-    },
-    {
-      "time": "7:51 am",
-      "artist": "Vampire Weekend",
-      "title": "This Life",
-      "album": "Father of the Bride • 2019"
     }
   ]
 }
