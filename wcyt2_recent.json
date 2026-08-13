@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T19:58:34",
+  "updatedAt": "2026-08-12T20:01:46",
   "now": {
-    "artist": "Tom Petty",
-    "title": "Wildflowers",
-    "album": "Wildflowers • 1994",
-    "category": "AUDIO"
+    "artist": "Slowdive",
+    "title": "No Longer Making Time",
+    "album": "Slowdive • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:01 pm",
-      "artist": "Slowdive",
-      "title": "No Longer Making Time"
-    },
     {
       "time": "8:07 pm",
       "artist": "Smog",
@@ -21,9 +16,20 @@
       "time": "8:12 pm",
       "artist": "Sleater",
       "title": "Kinney - Oh!"
+    },
+    {
+      "time": "8:16 pm",
+      "artist": "Regina Spektor",
+      "title": "Two Birds"
     }
   ],
   "recent": [
+    {
+      "time": "8:01 pm",
+      "artist": "Slowdive",
+      "title": "No Longer Making Time",
+      "album": "Slowdive • 2017"
+    },
     {
       "time": "7:58 pm",
       "artist": "Tom Petty",
@@ -167,12 +173,6 @@
       "artist": "Ray Charles",
       "title": "Shake a Tail Feather",
       "album": "Blues Brothers • 1980"
-    },
-    {
-      "time": "6:27 pm",
-      "artist": "Hootie & The Blowfish",
-      "title": "Time",
-      "album": "Cracked Rear View • 1995"
     }
   ]
 }
