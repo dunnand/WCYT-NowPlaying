@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T00:21:27",
+  "updatedAt": "2026-08-13T00:21:39",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Yo La Tengo",
+    "title": "Aselestine",
+    "album": "This Stupid World • 2023",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:21 am",
-      "artist": "Yo La Tengo",
-      "title": "Aselestine"
-    },
     {
       "time": "12:25 am",
       "artist": "This Is Lorelei",
@@ -26,9 +21,20 @@
       "time": "12:30 am",
       "artist": "Weird Nightmare",
       "title": "Baby Don't"
+    },
+    {
+      "time": "12:34 am",
+      "artist": "Laura Marlin",
+      "title": "Alexandra"
     }
   ],
   "recent": [
+    {
+      "time": "12:21 am",
+      "artist": "Yo La Tengo",
+      "title": "Aselestine",
+      "album": "This Stupid World • 2023"
+    },
     {
       "time": "12:15 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +178,6 @@
       "artist": "Phoebe Bridgers",
       "title": "Lost Boys",
       "album": "Lost Weekend • 2026"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "Foals",
-      "title": "Cassius",
-      "album": "Antidotes • 2008"
     }
   ]
 }
