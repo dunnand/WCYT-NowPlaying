@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T14:55:42",
+  "updatedAt": "2026-08-13T14:58:51",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Oxford Comma",
-    "album": "Vampire Weekend • 2008",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Here, There & Everywhere",
+    "album": "Revolver • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:58 pm",
-      "artist": "The Beatles",
-      "title": "Here, There & Everywhere"
-    },
     {
       "time": "3:01 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "3:10 pm",
       "artist": "Lisa Loeb & Nine Stories",
       "title": "Stay (I Missed You)"
+    },
+    {
+      "time": "3:13 pm",
+      "artist": "Daniel Johnston",
+      "title": "Cold Hard World"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 pm",
+      "artist": "The Beatles",
+      "title": "Here, There & Everywhere",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "2:55 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "System of a Down",
       "title": "Lonely Day",
       "album": "Hypnotize • 2005"
-    },
-    {
-      "time": "1:14 pm",
-      "artist": "Radiohead",
-      "title": "Burn the Witch",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
