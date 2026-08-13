@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T21:51:39",
+  "updatedAt": "2026-08-12T21:54:57",
   "now": {
-    "artist": "Doobie Brothers",
-    "title": "China Grove",
-    "album": "The Captain and Me • 1973",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Stereo",
+    "album": "Brighten the Corners • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:54 pm",
-      "artist": "Pavement",
-      "title": "Stereo"
-    },
     {
       "time": "9:57 pm",
       "artist": "Little Richard",
@@ -26,9 +21,20 @@
       "time": "10:07 pm",
       "artist": "The Beatles",
       "title": "Don't Want To Spoil The Party"
+    },
+    {
+      "time": "10:10 pm",
+      "artist": "Grimes",
+      "title": "Kill V. Maim"
     }
   ],
   "recent": [
+    {
+      "time": "9:54 pm",
+      "artist": "Pavement",
+      "title": "Stereo",
+      "album": "Brighten the Corners • 1997"
+    },
     {
       "time": "9:51 pm",
       "artist": "Doobie Brothers",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "Why I Cry",
       "album": "Get Lost • 1995"
-    },
-    {
-      "time": "8:20 pm",
-      "artist": "Radiohead",
-      "title": "Black Star",
-      "album": "The Bends • 1995"
     }
   ]
 }
