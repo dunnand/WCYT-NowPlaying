@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T18:22:17",
+  "updatedAt": "2026-08-13T18:22:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Late In The Evening",
+    "album": "One-Trick Pony • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:22 pm",
-      "artist": "Paul Simon",
-      "title": "Late In The Evening"
-    },
     {
       "time": "6:26 pm",
       "artist": "Koji Kondo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:22 pm",
+      "artist": "Paul Simon",
+      "title": "Late In The Evening",
+      "album": "One-Trick Pony • 1980"
+    },
     {
       "time": "6:20 pm",
       "artist": "The Jesus and Mary Chain",
@@ -172,12 +173,6 @@
       "artist": "David Bowie",
       "title": "Aladdin Sane (1913-1938-197?)",
       "album": "Aladdin Sane • 1973"
-    },
-    {
-      "time": "4:40 pm",
-      "artist": "The Beatles",
-      "title": "I'm Only Sleeping",
-      "album": "Revolver • 1966"
     }
   ]
 }
