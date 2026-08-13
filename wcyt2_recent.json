@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T20:20:02",
+  "updatedAt": "2026-08-12T20:24:10",
   "now": {
-    "artist": "Radiohead",
-    "title": "Black Star",
-    "album": "The Bends • 1995",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Why I Cry",
+    "album": "Get Lost • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:24 pm",
-      "artist": "The Magnetic Fields",
-      "title": "Why I Cry"
-    },
     {
       "time": "8:27 pm",
       "artist": "Tommy Tutone",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:24 pm",
+      "artist": "The Magnetic Fields",
+      "title": "Why I Cry",
+      "album": "Get Lost • 1995"
+    },
     {
       "time": "8:20 pm",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Snow Patrol",
       "title": "Run",
       "album": "Final Straw • 2003"
-    },
-    {
-      "time": "6:45 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "Livin' Thing",
-      "album": "A New World Record • 1976"
     }
   ]
 }
