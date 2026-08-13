@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T14:58:51",
+  "updatedAt": "2026-08-13T15:01:14",
   "now": {
-    "artist": "The Beatles",
-    "title": "Here, There & Everywhere",
-    "album": "Revolver • 1966",
+    "artist": "Radiohead",
+    "title": "Separator",
+    "album": "The King of Limbs • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:01 pm",
-      "artist": "Radiohead",
-      "title": "Separator"
-    },
     {
       "time": "3:06 pm",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:01 pm",
+      "artist": "Radiohead",
+      "title": "Separator",
+      "album": "The King of Limbs • 2011"
+    },
     {
       "time": "2:58 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Thom Yorke",
       "title": "Black Swan",
       "album": "The Eraser • 2006"
-    },
-    {
-      "time": "1:18 pm",
-      "artist": "System of a Down",
-      "title": "Lonely Day",
-      "album": "Hypnotize • 2005"
     }
   ]
 }
