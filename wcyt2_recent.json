@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T11:34:53",
+  "updatedAt": "2026-08-13T11:38:29",
   "now": {
-    "artist": "Yeah Yeah Yeahs",
-    "title": "Rich",
-    "album": "Fever To Tell • 2003",
-    "category": "TUNES"
+    "artist": "Rage Against the Machine",
+    "title": "Renegades of Funk",
+    "album": "Renegades • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:38 am",
-      "artist": "Rage Against the Machine",
-      "title": "Renegades of Funk"
-    },
     {
       "time": "11:42 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "11:50 am",
       "artist": "Alanis Morissette",
       "title": "Thank U"
+    },
+    {
+      "time": "11:54 am",
+      "artist": "Kate Bush",
+      "title": "Running Up That Hill (A Deal With God)"
     }
   ],
   "recent": [
+    {
+      "time": "11:38 am",
+      "artist": "Rage Against the Machine",
+      "title": "Renegades of Funk",
+      "album": "Renegades • 2000"
+    },
     {
       "time": "11:34 am",
       "artist": "Yeah Yeah Yeahs",
@@ -172,12 +178,6 @@
       "artist": "SAULT",
       "title": "Stop Dem",
       "album": "UNTITLED • 2020"
-    },
-    {
-      "time": "10:00 am",
-      "artist": "Hall & Oates",
-      "title": "Out Of Touch",
-      "album": "Big Bam Boom • 1984"
     }
   ]
 }
