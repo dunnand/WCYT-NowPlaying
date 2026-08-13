@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T14:01:47",
+  "updatedAt": "2026-08-13T14:04:10",
   "now": {
-    "artist": "The Beatles",
-    "title": "Baby It's You",
-    "album": "Please Please Me • 1963",
+    "artist": "Steve Miller Band",
+    "title": "Fly Like An Eagle",
+    "album": "Fly Like an Eagle • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:04 pm",
-      "artist": "Steve Miller Band",
-      "title": "Fly Like An Eagle"
-    },
     {
       "time": "2:07 pm",
       "artist": "Sheryl Crow",
@@ -23,12 +18,18 @@
       "title": "Put Your Head On My Shoulder"
     },
     {
-      "time": "2:14 pm",
+      "time": "2:13 pm",
       "artist": "The Killers",
       "title": "Somebody Told Me"
     }
   ],
   "recent": [
+    {
+      "time": "2:04 pm",
+      "artist": "Steve Miller Band",
+      "title": "Fly Like An Eagle",
+      "album": "Fly Like an Eagle • 1976"
+    },
     {
       "time": "2:01 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Depeche Mode",
       "title": "Policy of Truth",
       "album": "Violator • 1990"
-    },
-    {
-      "time": "12:31 pm",
-      "artist": "Vampire Weekend",
-      "title": "Step",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
