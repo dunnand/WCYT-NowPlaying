@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T10:38:32",
+  "updatedAt": "2026-08-13T10:40:37",
   "now": {
-    "artist": "The Beatles",
-    "title": "Piggies",
-    "album": "The Beatles • 1968",
+    "artist": "Taylor Swift",
+    "title": "We Are Never Ever Getting Back Together",
+    "album": "Red • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:40 am",
-      "artist": "Taylor Swift",
-      "title": "We Are Never Ever Getting Back Together"
-    },
     {
       "time": "10:43 am",
       "artist": "Red Hot Chili Peppers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:40 am",
+      "artist": "Taylor Swift",
+      "title": "We Are Never Ever Getting Back Together",
+      "album": "Red • 2012"
+    },
     {
       "time": "10:38 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Gladys Knight & The Pips",
       "title": "Midnight Train to Georgia",
       "album": "Imagination • 1973"
-    },
-    {
-      "time": "9:10 am",
-      "artist": "Silk Sonic",
-      "title": "Leave the Door Open",
-      "album": "An Evening With Silk Sonic • 2021"
     }
   ]
 }
