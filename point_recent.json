@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T11:26:30",
+  "updatedAt": "2026-08-13T11:26:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Wipers",
+    "title": "Doom Town",
+    "album": "Over the Edge • 1983",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:26 am",
-      "artist": "Wipers",
-      "title": "Doom Town"
-    },
     {
       "time": "11:30 am",
       "artist": "Future Islands",
@@ -26,9 +21,20 @@
       "time": "11:39 am",
       "artist": "Silver Jews",
       "title": "Pretty Eyes"
+    },
+    {
+      "time": "11:43 am",
+      "artist": "Pillow Queens",
+      "title": "Handsome Wife"
     }
   ],
   "recent": [
+    {
+      "time": "11:26 am",
+      "artist": "Wipers",
+      "title": "Doom Town",
+      "album": "Over the Edge • 1983"
+    },
     {
       "time": "11:22 am",
       "artist": "Westerman",
@@ -172,12 +178,6 @@
       "artist": "The Orielles",
       "title": "The Room",
       "album": "Tableau • 2022"
-    },
-    {
-      "time": "9:46 am",
-      "artist": "King Gizzard & The Lizard Wizard",
-      "title": "Ice V",
-      "album": "Ice, Death, Planets, Lungs, Mushrooms and Lava • 2022"
     }
   ]
 }
