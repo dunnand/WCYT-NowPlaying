@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T03:57:41",
+  "updatedAt": "2026-08-13T03:59:25",
   "now": {
-    "artist": "Green Day",
-    "title": "Emenius Sleepus",
-    "album": "Dookie • 1994",
+    "artist": "Platters",
+    "title": "Twilight Time",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "Platters",
-      "title": "Twilight Time"
-    },
     {
       "time": "4:01 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "4:10 am",
       "artist": "Tegan & Sara",
       "title": "Closer"
+    },
+    {
+      "time": "4:13 am",
+      "artist": "Sleater",
+      "title": "Kinney - Get Up"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 am",
+      "artist": "Platters",
+      "title": "Twilight Time",
+      "album": "single • 1958"
+    },
     {
       "time": "3:57 am",
       "artist": "Green Day",
@@ -172,12 +178,6 @@
       "artist": "Huey Lewis & The News",
       "title": "If This Is It",
       "album": "Sports • 1984"
-    },
-    {
-      "time": "2:24 am",
-      "artist": "Poison",
-      "title": "Something To Believe In",
-      "album": "Open Up and Say... Ahh! • 1990"
     }
   ]
 }
