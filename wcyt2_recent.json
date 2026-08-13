@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T04:42:54",
+  "updatedAt": "2026-08-13T04:47:21",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Satellite",
-    "album": "Young Liars • 2003",
-    "category": "TUNES"
+    "artist": "Ride",
+    "title": "Home Is a Feeling",
+    "album": "Weather Diaries • 2017",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:47 am",
-      "artist": "Ride",
-      "title": "Home Is a Feeling"
-    },
     {
       "time": "4:50 am",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "4:57 am",
       "artist": "Elvis Presley",
       "title": "Love Me"
+    },
+    {
+      "time": "5:00 am",
+      "artist": "Radiohead",
+      "title": "All I Need"
     }
   ],
   "recent": [
+    {
+      "time": "4:47 am",
+      "artist": "Ride",
+      "title": "Home Is a Feeling",
+      "album": "Weather Diaries • 2017"
+    },
     {
       "time": "4:42 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Traffic",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "album": "All That You Can't Leave Behind • 2000"
     }
   ]
 }
