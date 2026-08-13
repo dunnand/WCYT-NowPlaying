@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T17:48:58",
+  "updatedAt": "2026-08-13T17:52:45",
   "now": {
-    "artist": "Paul Simon",
-    "title": "American Tune",
-    "album": "There Goes Rhymin Simon • 1973",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Independence Day",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:52 pm",
-      "artist": "Elliott Smith",
-      "title": "Independence Day"
-    },
     {
       "time": "5:55 pm",
       "artist": "Tyler, The Creator",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:52 pm",
+      "artist": "Elliott Smith",
+      "title": "Independence Day",
+      "album": "XO • 1998"
+    },
     {
       "time": "5:48 pm",
       "artist": "Paul Simon",
@@ -172,12 +173,6 @@
       "artist": "Portishead",
       "title": "Numb",
       "album": "Dummy • 1994"
-    },
-    {
-      "time": "4:11 pm",
-      "artist": "Blur",
-      "title": "Coffee & TV",
-      "album": "13 • 1999"
     }
   ]
 }
