@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T16:36:23",
+  "updatedAt": "2026-08-13T16:40:06",
   "now": {
-    "artist": "Jimmy Cliff",
-    "title": "The Harder They Come",
-    "album": "The Harder They Come • 1972",
+    "artist": "The Beatles",
+    "title": "I'm Only Sleeping",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:39 pm",
-      "artist": "The Beatles",
-      "title": "I'm Only Sleeping"
-    },
     {
       "time": "4:42 pm",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "4:52 pm",
       "artist": "Link Wray & His Ray Men",
       "title": "Rumble"
+    },
+    {
+      "time": "4:55 pm",
+      "artist": "Richard Thompson",
+      "title": "Dad's Gonna Kill Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 pm",
+      "artist": "The Beatles",
+      "title": "I'm Only Sleeping",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "4:36 pm",
       "artist": "Jimmy Cliff",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Separator",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "2:58 pm",
-      "artist": "The Beatles",
-      "title": "Here, There & Everywhere",
-      "album": "Revolver • 1966"
     }
   ]
 }
