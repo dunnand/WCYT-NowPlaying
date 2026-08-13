@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-08-13T14:40:57",
+  "updatedAt": "2026-08-13T14:50:21",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
-    "category": ""
+    "artist": "Neutral Milk Hotel",
+    "title": "Holland, 1945",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
-  "comingUp": [],
+  "comingUp": [
+    {
+      "time": "2:53 pm",
+      "artist": "Little Richard and His Band",
+      "title": "Ready Teddy"
+    },
+    {
+      "time": "2:55 pm",
+      "artist": "Vampire Weekend",
+      "title": "Oxford Comma"
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "The Beatles",
+      "title": "Here, There & Everywhere"
+    },
+    {
+      "time": "3:01 pm",
+      "artist": "Radiohead",
+      "title": "Separator"
+    }
+  ],
   "recent": [
+    {
+      "time": "2:50 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Holland, 1945",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "2:37 pm",
       "artist": "U2",
@@ -151,12 +178,6 @@
       "artist": "The Carpenters",
       "title": "For All We Know",
       "album": "Carpenters • 1971"
-    },
-    {
-      "time": "1:07 pm",
-      "artist": "Grimes",
-      "title": "Life in the Vivid Dream",
-      "album": "Art Angels • 2015"
     }
   ]
 }
