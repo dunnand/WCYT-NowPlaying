@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T07:17:37",
+  "updatedAt": "2026-08-13T07:20:34",
   "now": {
-    "artist": "The Strokes",
-    "title": "What Ever Happened?",
-    "album": "Room on Fire • 2003",
+    "artist": "Jimmy Buffett",
+    "title": "Margaritaville",
+    "album": "Changes in Latitudes, Changes in Attitudes • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:20 am",
-      "artist": "Jimmy Buffett",
-      "title": "Margaritaville"
-    },
     {
       "time": "7:24 am",
       "artist": "Queens of the Stone Age",
@@ -26,9 +21,25 @@
       "time": "7:33 am",
       "artist": "Led Zeppelin",
       "title": "All My Love"
+    },
+    {
+      "time": "7:39 am",
+      "artist": "R.E.M.",
+      "title": "At My Most Beautiful"
+    },
+    {
+      "time": "7:42 am",
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue"
     }
   ],
   "recent": [
+    {
+      "time": "7:20 am",
+      "artist": "Jimmy Buffett",
+      "title": "Margaritaville",
+      "album": "Changes in Latitudes, Changes in Attitudes • 1977"
+    },
     {
       "time": "7:17 am",
       "artist": "The Strokes",
@@ -172,12 +183,6 @@
       "artist": "Sleater-Kinney",
       "title": "All Hands On The Bad One",
       "album": "All Hands On The Bad One • 2000"
-    },
-    {
-      "time": "5:54 am",
-      "artist": "Ricky Nelson",
-      "title": "Never Be Anyone Else But You",
-      "album": "single • 1959"
     }
   ]
 }
