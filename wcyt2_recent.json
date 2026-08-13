@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T13:01:40",
+  "updatedAt": "2026-08-13T13:01:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Old Time Rock & Roll",
+    "album": "Stranger in Town • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Old Time Rock & Roll"
-    },
     {
       "time": "1:04 pm",
       "artist": "The Unicorns",
@@ -31,9 +26,20 @@
       "time": "1:11 pm",
       "artist": "Mazzy Star",
       "title": "Halah"
+    },
+    {
+      "time": "1:14 pm",
+      "artist": "Radiohead",
+      "title": "Burn the Witch"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Old Time Rock & Roll",
+      "album": "Stranger in Town • 1979"
+    },
     {
       "time": "12:55 pm",
       "artist": "Sigur Ros",
@@ -177,12 +183,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Jamming",
       "album": "Exodus • 1977"
-    },
-    {
-      "time": "11:19 am",
-      "artist": "Grimes",
-      "title": "Oblivion",
-      "album": "Visions • 2012"
     }
   ]
 }
