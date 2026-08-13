@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T20:52:17",
+  "updatedAt": "2026-08-12T20:55:33",
   "now": {
-    "artist": "Elton John",
-    "title": "Goodbye Yellow Brick Road",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Paula Abdul",
+    "title": "Rush Rush",
+    "album": "Spellbound • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 pm",
-      "artist": "Paula Abdul",
-      "title": "Rush Rush"
-    },
     {
       "time": "8:59 pm",
       "artist": "Gary U.S. Bonds",
@@ -26,9 +21,20 @@
       "time": "9:06 pm",
       "artist": "Townes Van Zandt",
       "title": "Waiting Around to Die"
+    },
+    {
+      "time": "9:08 pm",
+      "artist": "Slowdive",
+      "title": "Slomo"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 pm",
+      "artist": "Paula Abdul",
+      "title": "Rush Rush",
+      "album": "Spellbound • 1991"
+    },
     {
       "time": "8:52 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "They Might Be Giants",
       "title": "Birdhouse in Your Soul",
       "album": "Flood • 1990"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "Rod Stewart",
-      "title": "This Old Heart Of Mine",
-      "album": "Soulbook • 1990"
     }
   ]
 }
