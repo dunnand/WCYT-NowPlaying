@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T04:57:30",
+  "updatedAt": "2026-08-13T04:57:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Love Me",
+    "album": "Elvis • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Elvis Presley",
-      "title": "Love Me"
-    },
     {
       "time": "5:00 am",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Elvis Presley",
+      "title": "Love Me",
+      "album": "Elvis • 1956"
+    },
     {
       "time": "4:54 am",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "The Jesus and Mary Chain",
       "title": "You Trip Me Up",
       "album": "Psychocandy • 1985"
-    },
-    {
-      "time": "3:26 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Untitled",
-      "album": "The Aeroplane Flies High • 1996"
     }
   ]
 }
