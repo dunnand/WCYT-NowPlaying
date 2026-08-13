@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T00:01:21",
+  "updatedAt": "2026-08-13T00:03:26",
   "now": {
-    "artist": "Little Richard and His Band",
-    "title": "Ready Teddy",
-    "album": "Heres Little Richard • 1957",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Oxford Comma",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "Vampire Weekend",
-      "title": "Oxford Comma"
-    },
     {
       "time": "12:06 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "Vampire Weekend",
+      "title": "Oxford Comma",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "12:01 am",
       "artist": "Little Richard and His Band",
@@ -172,12 +173,6 @@
       "artist": "New Order",
       "title": "Temptation (original 7\" version)",
       "album": "single • 1982"
-    },
-    {
-      "time": "9:24 pm",
-      "artist": "R.E.M.",
-      "title": "Talk About the Passion",
-      "album": "Murmur • 1983"
     }
   ]
 }
