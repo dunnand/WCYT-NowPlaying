@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T20:38:44",
+  "updatedAt": "2026-08-12T20:42:08",
   "now": {
-    "artist": "Paul Davis",
-    "title": "Sweet Life",
-    "album": "Singer of Songs  Teller of Tales • 1978",
+    "artist": "The Beatles",
+    "title": "You Won't See Me",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:42 pm",
-      "artist": "The Beatles",
-      "title": "You Won't See Me"
-    },
     {
       "time": "8:45 pm",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "8:52 pm",
       "artist": "Elton John",
       "title": "Goodbye Yellow Brick Road"
+    },
+    {
+      "time": "8:55 pm",
+      "artist": "Paula Abdul",
+      "title": "Rush Rush"
     }
   ],
   "recent": [
+    {
+      "time": "8:42 pm",
+      "artist": "The Beatles",
+      "title": "You Won't See Me",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "8:38 pm",
       "artist": "Paul Davis",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "Someday.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "7:05 pm",
-      "artist": "School Of Seven Bells",
-      "title": "Windstorm",
-      "album": "Disconnect From Desire • 2010"
     }
   ]
 }
