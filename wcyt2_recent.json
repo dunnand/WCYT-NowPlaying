@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-13T08:00:01",
+  "updatedAt": "2026-08-13T08:03:47",
   "now": {
-    "artist": "Radiohead",
-    "title": "Just",
-    "album": "The Bends • 1995",
+    "artist": "DEVO",
+    "title": "Whip It",
+    "album": "Freedom of Choice • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:03 am",
-      "artist": "DEVO",
-      "title": "Whip It"
-    },
     {
       "time": "8:06 am",
       "artist": "Echo & The Bunnymen",
       "title": "Nocturnal Me"
     },
     {
-      "time": "8:11 am",
+      "time": "8:10 am",
       "artist": "SAULT",
       "title": "Free"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:03 am",
+      "artist": "DEVO",
+      "title": "Whip It",
+      "album": "Freedom of Choice • 1980"
+    },
     {
       "time": "8:00 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "Femme Fatale",
       "album": "The Velvet Underground & Nico • 1967"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "The Go! Team",
-      "title": "Ladyflash",
-      "album": "Thunder, Lightning, Strike • 2004"
     }
   ]
 }
