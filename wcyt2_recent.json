@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T20:45:45",
+  "updatedAt": "2026-08-12T20:48:50",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Bend Down Low",
-    "album": "Natty Dread • 1974",
+    "artist": "The Beatles",
+    "title": "Don't Pass Me By",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 pm",
-      "artist": "The Beatles",
-      "title": "Don't Pass Me By"
-    },
     {
       "time": "8:52 pm",
       "artist": "Elton John",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:48 pm",
+      "artist": "The Beatles",
+      "title": "Don't Pass Me By",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "8:45 pm",
       "artist": "Bob Marley and the Wailers",
@@ -177,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Run",
       "album": "Contra • 2010"
-    },
-    {
-      "time": "7:12 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Casimir Pulaski Day",
-      "album": "Illinois • 2005"
     }
   ]
 }
