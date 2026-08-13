@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T13:50:14",
+  "updatedAt": "2026-08-13T13:55:24",
   "now": {
-    "artist": "Paul McCartney and Wings",
-    "title": "Band On The Run",
-    "album": "Band on the Run • 1973",
+    "artist": "The Beatles",
+    "title": "Long Tall Sally",
+    "album": "Long Tall Sally EP • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 pm",
-      "artist": "The Beatles",
-      "title": "Long Tall Sally"
-    },
     {
       "time": "1:57 pm",
       "artist": "Steely Dan",
@@ -26,9 +21,20 @@
       "time": "2:04 pm",
       "artist": "Steve Miller Band",
       "title": "Fly Like An Eagle"
+    },
+    {
+      "time": "2:07 pm",
+      "artist": "Sheryl Crow",
+      "title": "Everyday Is A Winding Road"
     }
   ],
   "recent": [
+    {
+      "time": "1:55 pm",
+      "artist": "The Beatles",
+      "title": "Long Tall Sally",
+      "album": "Long Tall Sally EP • 1964"
+    },
     {
       "time": "1:50 pm",
       "artist": "Paul McCartney and Wings",
@@ -172,12 +178,6 @@
       "artist": "Paul Anka",
       "title": "(You're) Having My Baby",
       "album": "Anka • 1974"
-    },
-    {
-      "time": "12:22 pm",
-      "artist": "The Beatles",
-      "title": "Sexy Sadie",
-      "album": "The Beatles • 1968"
     }
   ]
 }
