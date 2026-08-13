@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T05:31:49",
+  "updatedAt": "2026-08-13T05:34:56",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Help Me",
-    "album": "Court and Spark • 1974",
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 am",
-      "artist": "Pink Floyd",
-      "title": "Time"
-    },
     {
       "time": "5:41 am",
       "artist": "Stephen Malkmus",
@@ -26,9 +21,20 @@
       "time": "5:47 am",
       "artist": "Mungo Jerry",
       "title": "In the Summertime"
+    },
+    {
+      "time": "5:50 am",
+      "artist": "Love Battery",
+      "title": "Foot"
     }
   ],
   "recent": [
+    {
+      "time": "5:34 am",
+      "artist": "Pink Floyd",
+      "title": "Time",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "5:31 am",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "I Am Trying to Break Your Heart",
       "album": "Yankee Hotel Foxtrot • 2002"
-    },
-    {
-      "time": "3:59 am",
-      "artist": "Platters",
-      "title": "Twilight Time",
-      "album": "single • 1958"
     }
   ]
 }
