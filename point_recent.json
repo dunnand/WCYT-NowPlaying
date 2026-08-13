@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T08:50:03",
+  "updatedAt": "2026-08-13T08:50:23",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Deerhunter",
+    "title": "Strange Lights",
+    "album": "Cryptograms • 2007",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 am",
-      "artist": "Deerhunter",
-      "title": "Strange Lights"
-    },
     {
       "time": "8:53 am",
       "artist": "Protomartyr",
@@ -26,9 +21,20 @@
       "time": "9:02 am",
       "artist": "Future Islands",
       "title": "Long Flight"
+    },
+    {
+      "time": "9:07 am",
+      "artist": "Joy Division",
+      "title": "Shadowplay"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 am",
+      "artist": "Deerhunter",
+      "title": "Strange Lights",
+      "album": "Cryptograms • 2007"
+    },
     {
       "time": "8:46 am",
       "artist": "Queens of the Stone Age",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "In Orbit",
       "album": "Cityfolk • 2025"
-    },
-    {
-      "time": "7:20 am",
-      "artist": "Yard Act",
-      "title": "Dream Job",
-      "album": "Where's My Utopia • 2023"
     }
   ]
 }
