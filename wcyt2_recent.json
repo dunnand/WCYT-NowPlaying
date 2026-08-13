@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T20:45:14",
+  "updatedAt": "2026-08-12T20:45:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Bend Down Low",
+    "album": "Natty Dread • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:45 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Bend Down Low"
-    },
     {
       "time": "8:48 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "8:59 pm",
       "artist": "Gary U.S. Bonds",
       "title": "Quarter To Three"
+    },
+    {
+      "time": "9:02 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Flint (For the Unemployed and Underpaid)"
     }
   ],
   "recent": [
+    {
+      "time": "8:45 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Bend Down Low",
+      "album": "Natty Dread • 1974"
+    },
     {
       "time": "8:42 pm",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "Sufjan Stevens",
       "title": "Casimir Pulaski Day",
       "album": "Illinois • 2005"
-    },
-    {
-      "time": "7:08 pm",
-      "artist": "The Strokes",
-      "title": "Someday.",
-      "album": "Is This It • 2001"
     }
   ]
 }
