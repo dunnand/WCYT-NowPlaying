@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T05:31:37",
+  "updatedAt": "2026-08-13T05:31:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Help Me",
+    "album": "Court and Spark • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:31 am",
-      "artist": "Joni Mitchell",
-      "title": "Help Me"
-    },
     {
       "time": "5:34 am",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "5:44 am",
       "artist": "The Beatles",
       "title": "Being For The Benefit Of Mr. Kite!"
+    },
+    {
+      "time": "5:47 am",
+      "artist": "Mungo Jerry",
+      "title": "In the Summertime"
     }
   ],
   "recent": [
+    {
+      "time": "5:31 am",
+      "artist": "Joni Mitchell",
+      "title": "Help Me",
+      "album": "Court and Spark • 1974"
+    },
     {
       "time": "5:27 am",
       "artist": "unknown",
@@ -172,12 +178,6 @@
       "artist": "Platters",
       "title": "Twilight Time",
       "album": "single • 1958"
-    },
-    {
-      "time": "3:57 am",
-      "artist": "Green Day",
-      "title": "Emenius Sleepus",
-      "album": "Dookie • 1994"
     }
   ]
 }
