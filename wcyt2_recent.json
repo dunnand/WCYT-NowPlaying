@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T19:43:59",
+  "updatedAt": "2026-08-13T19:47:36",
   "now": {
-    "artist": "Wilco",
-    "title": "Can't Stand It",
-    "album": "Summerteeth • 1999",
+    "artist": "Elvis Presley",
+    "title": "Love Me",
+    "album": "Elvis • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 pm",
-      "artist": "Elvis Presley",
-      "title": "Love Me"
-    },
     {
       "time": "7:50 pm",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "7:54 pm",
       "artist": "The Beatles",
       "title": "Every Little Thing"
+    },
+    {
+      "time": "7:56 pm",
+      "artist": "Grimes",
+      "title": "Genesis"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 pm",
+      "artist": "Elvis Presley",
+      "title": "Love Me",
+      "album": "Elvis • 1956"
+    },
     {
       "time": "7:43 pm",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "The Jesus and Mary Chain",
       "title": "You Trip Me Up",
       "album": "Psychocandy • 1985"
-    },
-    {
-      "time": "6:16 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Untitled",
-      "album": "The Aeroplane Flies High • 1996"
     }
   ]
 }
