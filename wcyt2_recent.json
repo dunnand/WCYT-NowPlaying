@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T18:41:17",
+  "updatedAt": "2026-08-13T18:43:51",
   "now": {
-    "artist": "The Beatles",
-    "title": "Good Morning Good Morning",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Stevie Wonder",
+    "title": "Sir Duke",
+    "album": "Songs in the Key of Life • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:43 pm",
-      "artist": "Stevie Wonder",
-      "title": "Sir Duke"
-    },
     {
       "time": "6:47 pm",
       "artist": "Green Day",
@@ -26,9 +21,20 @@
       "time": "6:51 pm",
       "artist": "Wilco",
       "title": "I Am Trying to Break Your Heart"
+    },
+    {
+      "time": "6:57 pm",
+      "artist": "The Troggs",
+      "title": "Wild Thing"
     }
   ],
   "recent": [
+    {
+      "time": "6:43 pm",
+      "artist": "Stevie Wonder",
+      "title": "Sir Duke",
+      "album": "Songs in the Key of Life • 1977"
+    },
     {
       "time": "6:41 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Swingin'",
       "album": "Echo • 1999"
-    },
-    {
-      "time": "5:02 pm",
-      "artist": "Wilco",
-      "title": "Quiet Amplifier",
-      "album": "Ode to Joy • 2019"
     }
   ]
 }
