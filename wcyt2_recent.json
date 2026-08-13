@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T12:17:18",
+  "updatedAt": "2026-08-13T12:17:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "New Kid In Town",
+    "album": "Hotel California • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 pm",
-      "artist": "Eagles",
-      "title": "New Kid In Town"
-    },
     {
       "time": "12:22 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "12:28 pm",
       "artist": "Tom Jones",
       "title": "Delilah"
+    },
+    {
+      "time": "12:31 pm",
+      "artist": "Vampire Weekend",
+      "title": "Step"
     }
   ],
   "recent": [
+    {
+      "time": "12:17 pm",
+      "artist": "Eagles",
+      "title": "New Kid In Town",
+      "album": "Hotel California • 1976"
+    },
     {
       "time": "12:15 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Piggies",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "10:34 am",
-      "artist": "R.E.M.",
-      "title": "Imitation of Life",
-      "album": "Reveal • 2001"
     }
   ]
 }
