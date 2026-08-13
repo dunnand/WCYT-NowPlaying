@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T19:47:36",
+  "updatedAt": "2026-08-13T19:50:20",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Love Me",
-    "album": "Elvis • 1956",
+    "artist": "Radiohead",
+    "title": "All I Need",
+    "album": "In Rainbows • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 pm",
-      "artist": "Radiohead",
-      "title": "All I Need"
-    },
     {
       "time": "7:54 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "7:56 pm",
       "artist": "Grimes",
       "title": "Genesis"
+    },
+    {
+      "time": "8:00 pm",
+      "artist": "Yo La Tengo",
+      "title": "Stockholm Syndrome"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 pm",
+      "artist": "Radiohead",
+      "title": "All I Need",
+      "album": "In Rainbows • 2007"
+    },
     {
       "time": "7:47 pm",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Paul Simon",
       "title": "Late In The Evening",
       "album": "One-Trick Pony • 1980"
-    },
-    {
-      "time": "6:20 pm",
-      "artist": "The Jesus and Mary Chain",
-      "title": "You Trip Me Up",
-      "album": "Psychocandy • 1985"
     }
   ]
 }
