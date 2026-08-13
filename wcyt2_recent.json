@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T03:46:20",
+  "updatedAt": "2026-08-13T03:51:21",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "It's Only Rock 'N Roll (But I Like It)",
-    "album": "Its Only Rock n Roll • 1974",
+    "artist": "The Beatles",
+    "title": "Good Morning Good Morning",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:51 am",
-      "artist": "The Beatles",
-      "title": "Good Morning Good Morning"
-    },
     {
       "time": "3:53 am",
       "artist": "Stevie Wonder",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:51 am",
+      "artist": "The Beatles",
+      "title": "Good Morning Good Morning",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "3:46 am",
       "artist": "Rolling Stones",
@@ -177,12 +178,6 @@
       "artist": "Wilco",
       "title": "Quiet Amplifier",
       "album": "Ode to Joy • 2019"
-    },
-    {
-      "time": "2:10 am",
-      "artist": "The Beatles",
-      "title": "I Saw Her Standing There",
-      "album": "Please Please Me • 1963"
     }
   ]
 }
