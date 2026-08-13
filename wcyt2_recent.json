@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T08:11:00",
+  "updatedAt": "2026-08-13T08:16:08",
   "now": {
-    "artist": "SAULT",
-    "title": "Free",
-    "album": "UNTITLED • 2020",
-    "category": "AUDIO"
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Our Time",
+    "album": "Yeah Yeah Yeahs • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:16 am",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Our Time"
-    },
     {
       "time": "8:19 am",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "8:26 am",
       "artist": "Vince Staples",
       "title": "Black&Blue"
+    },
+    {
+      "time": "8:29 am",
+      "artist": "Looking Glass",
+      "title": "Brandy (You're A Fine Girl)"
     }
   ],
   "recent": [
+    {
+      "time": "8:16 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Our Time",
+      "album": "Yeah Yeah Yeahs • 2001"
+    },
     {
       "time": "8:11 am",
       "artist": "SAULT",
@@ -172,12 +178,6 @@
       "artist": "Wilbert Harrison",
       "title": "Kansas City",
       "album": "single • 1959"
-    },
-    {
-      "time": "6:44 am",
-      "artist": "Guided by Voices",
-      "title": "I Am a Scientist",
-      "album": "Bee Thousand • 1994"
     }
   ]
 }
