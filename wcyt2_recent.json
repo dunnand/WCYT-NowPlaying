@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T12:28:04",
+  "updatedAt": "2026-08-13T12:28:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Jones",
+    "title": "Delilah",
+    "album": "The Tom Jones Fever Zone • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:28 pm",
-      "artist": "Tom Jones",
-      "title": "Delilah"
-    },
     {
       "time": "12:31 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "12:40 pm",
       "artist": "Janet Jackson",
       "title": "Again"
+    },
+    {
+      "time": "12:44 pm",
+      "artist": "The Replacements",
+      "title": "Can't Hardly Wait"
     }
   ],
   "recent": [
+    {
+      "time": "12:28 pm",
+      "artist": "Tom Jones",
+      "title": "Delilah",
+      "album": "The Tom Jones Fever Zone • 1968"
+    },
     {
       "time": "12:25 pm",
       "artist": "Paul Anka",
@@ -172,12 +178,6 @@
       "artist": "Stone Temple Pilots",
       "title": "Big Empty",
       "album": "The Crow soundtrack • 1994"
-    },
-    {
-      "time": "10:43 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Parallel Universe",
-      "album": "Californication • 1999"
     }
   ]
 }
