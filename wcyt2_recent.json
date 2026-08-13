@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T03:30:01",
+  "updatedAt": "2026-08-13T03:32:24",
   "now": {
-    "artist": "The Jesus and Mary Chain",
-    "title": "You Trip Me Up",
-    "album": "Psychocandy • 1985",
+    "artist": "Paul Simon",
+    "title": "Late In The Evening",
+    "album": "One-Trick Pony • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 am",
-      "artist": "Paul Simon",
-      "title": "Late In The Evening"
-    },
     {
       "time": "3:36 am",
       "artist": "Koji Kondo",
@@ -21,9 +16,20 @@
       "time": "3:39 am",
       "artist": "Rod Stewart",
       "title": "Reason To Believe"
+    },
+    {
+      "time": "3:43 am",
+      "artist": "Wilson Pickett",
+      "title": "I'm in Love"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 am",
+      "artist": "Paul Simon",
+      "title": "Late In The Evening",
+      "album": "One-Trick Pony • 1980"
+    },
     {
       "time": "3:30 am",
       "artist": "The Jesus and Mary Chain",
@@ -167,12 +173,6 @@
       "artist": "David Bowie",
       "title": "Aladdin Sane (1913-1938-197?)",
       "album": "Aladdin Sane • 1973"
-    },
-    {
-      "time": "1:50 am",
-      "artist": "The Beatles",
-      "title": "I'm Only Sleeping",
-      "album": "Revolver • 1966"
     }
   ]
 }
