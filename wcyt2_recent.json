@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T12:17:38",
+  "updatedAt": "2026-08-13T12:22:36",
   "now": {
-    "artist": "Eagles",
-    "title": "New Kid In Town",
-    "album": "Hotel California • 1976",
+    "artist": "The Beatles",
+    "title": "Sexy Sadie",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:22 pm",
-      "artist": "The Beatles",
-      "title": "Sexy Sadie"
-    },
     {
       "time": "12:25 pm",
       "artist": "Paul Anka",
@@ -26,9 +21,20 @@
       "time": "12:31 pm",
       "artist": "Vampire Weekend",
       "title": "Step"
+    },
+    {
+      "time": "12:35 pm",
+      "artist": "Depeche Mode",
+      "title": "Policy of Truth"
     }
   ],
   "recent": [
+    {
+      "time": "12:22 pm",
+      "artist": "The Beatles",
+      "title": "Sexy Sadie",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:17 pm",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "We Are Never Ever Getting Back Together",
       "album": "Red • 2012"
-    },
-    {
-      "time": "10:38 am",
-      "artist": "The Beatles",
-      "title": "Piggies",
-      "album": "The Beatles • 1968"
     }
   ]
 }
