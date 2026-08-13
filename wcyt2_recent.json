@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T04:39:18",
+  "updatedAt": "2026-08-13T04:42:54",
   "now": {
-    "artist": "T. Rex",
-    "title": "20th Century Boy",
-    "album": "single • 1973",
-    "category": "AUDIO"
+    "artist": "TV on the Radio",
+    "title": "Satellite",
+    "album": "Young Liars • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:42 am",
-      "artist": "TV on the Radio",
-      "title": "Satellite"
-    },
     {
       "time": "4:47 am",
       "artist": "Ride",
@@ -26,9 +21,20 @@
       "time": "4:53 am",
       "artist": "Wilco",
       "title": "Can't Stand It"
+    },
+    {
+      "time": "4:57 am",
+      "artist": "Elvis Presley",
+      "title": "Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:42 am",
+      "artist": "TV on the Radio",
+      "title": "Satellite",
+      "album": "Young Liars • 2003"
+    },
     {
       "time": "4:39 am",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Beautiful Day",
       "album": "All That You Can't Leave Behind • 2000"
-    },
-    {
-      "time": "3:08 am",
-      "artist": "Ugly Casanova",
-      "title": "Barnacles",
-      "album": "Sharpen Your Teeth • 2002"
     }
   ]
 }
