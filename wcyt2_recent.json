@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T13:01:52",
+  "updatedAt": "2026-08-13T13:04:55",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Old Time Rock & Roll",
-    "album": "Stranger in Town • 1979",
-    "category": "AUDIO"
+    "artist": "The Unicorns",
+    "title": "Rocket Ship",
+    "album": "Who Will Cut Our Hair When We're Gone • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:04 pm",
-      "artist": "The Unicorns",
-      "title": "Rocket Ship"
-    },
     {
       "time": "1:07 pm",
       "artist": "Grimes",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:04 pm",
+      "artist": "The Unicorns",
+      "title": "Rocket Ship",
+      "album": "Who Will Cut Our Hair When We're Gone • 2003"
+    },
     {
       "time": "1:01 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -177,12 +178,6 @@
       "artist": "Superchunk",
       "title": "Throwing Things",
       "album": "No Pocky For Kitty • 1991"
-    },
-    {
-      "time": "11:23 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Jamming",
-      "album": "Exodus • 1977"
     }
   ]
 }
