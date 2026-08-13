@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T22:17:16",
+  "updatedAt": "2026-08-12T22:17:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Custom Concern",
+    "album": "This is a Long Drive for Someone with Nothing to Think About • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:17 pm",
-      "artist": "Modest Mouse",
-      "title": "Custom Concern"
-    },
     {
       "time": "10:22 pm",
       "artist": "Tom Waits",
@@ -26,9 +21,20 @@
       "time": "10:31 pm",
       "artist": "Run The Jewels",
       "title": "JU$T (feat. Pharrell Williams & Zack de la Rocha)"
+    },
+    {
+      "time": "10:34 pm",
+      "artist": "The Strokes",
+      "title": "Barely Legal."
     }
   ],
   "recent": [
+    {
+      "time": "10:17 pm",
+      "artist": "Modest Mouse",
+      "title": "Custom Concern",
+      "album": "This is a Long Drive for Someone with Nothing to Think About • 1996"
+    },
     {
       "time": "10:14 pm",
       "artist": "Lightning Bolt",
@@ -172,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Bend Down Low",
       "album": "Natty Dread • 1974"
-    },
-    {
-      "time": "8:42 pm",
-      "artist": "The Beatles",
-      "title": "You Won't See Me",
-      "album": "Rubber Soul • 1965"
     }
   ]
 }
