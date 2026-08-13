@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T17:46:43",
+  "updatedAt": "2026-08-13T17:48:58",
   "now": {
-    "artist": "The Beatles",
-    "title": "Don't Bother Me",
-    "album": "With the Beatles • 1963",
+    "artist": "Paul Simon",
+    "title": "American Tune",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:49 pm",
-      "artist": "Paul Simon",
-      "title": "American Tune"
-    },
     {
       "time": "5:52 pm",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "5:58 pm",
       "artist": "Ugly Casanova",
       "title": "Barnacles"
+    },
+    {
+      "time": "6:03 pm",
+      "artist": "U2",
+      "title": "Beautiful Day"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 pm",
+      "artist": "Paul Simon",
+      "title": "American Tune",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "5:46 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Blur",
       "title": "Coffee & TV",
       "album": "13 • 1999"
-    },
-    {
-      "time": "4:05 pm",
-      "artist": "Still Corners",
-      "title": "The Trip",
-      "album": "Strange Pleasures • 2013"
     }
   ]
 }
