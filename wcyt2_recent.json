@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T21:54:57",
+  "updatedAt": "2026-08-12T21:58:02",
   "now": {
-    "artist": "Pavement",
-    "title": "Stereo",
-    "album": "Brighten the Corners • 1997",
-    "category": "TUNES"
+    "artist": "Little Richard",
+    "title": "Lucille",
+    "album": "Little Richard • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:57 pm",
-      "artist": "Little Richard",
-      "title": "Lucille"
-    },
     {
       "time": "10:00 pm",
       "artist": "Songs Ohia",
@@ -26,9 +21,20 @@
       "time": "10:10 pm",
       "artist": "Grimes",
       "title": "Kill V. Maim"
+    },
+    {
+      "time": "10:14 pm",
+      "artist": "Lightning Bolt",
+      "title": "13 Monsters"
     }
   ],
   "recent": [
+    {
+      "time": "9:58 pm",
+      "artist": "Little Richard",
+      "title": "Lucille",
+      "album": "Little Richard • 1958"
+    },
     {
       "time": "9:54 pm",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Tommy Tutone",
       "title": "867-5309/Jenny",
       "album": "Tommy Tutone 2 • 1982"
-    },
-    {
-      "time": "8:24 pm",
-      "artist": "The Magnetic Fields",
-      "title": "Why I Cry",
-      "album": "Get Lost • 1995"
     }
   ]
 }
