@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T13:18:38",
+  "updatedAt": "2026-08-13T13:21:22",
   "now": {
-    "artist": "System of a Down",
-    "title": "Lonely Day",
-    "album": "Hypnotize • 2005",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Black Swan",
+    "album": "The Eraser • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:21 pm",
-      "artist": "Thom Yorke",
-      "title": "Black Swan"
-    },
     {
       "time": "1:26 pm",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "1:32 pm",
       "artist": "Prince",
       "title": "The Most Beautiful Girl In The World"
+    },
+    {
+      "time": "1:36 pm",
+      "artist": "Rush",
+      "title": "Red Barchetta"
     }
   ],
   "recent": [
+    {
+      "time": "1:21 pm",
+      "artist": "Thom Yorke",
+      "title": "Black Swan",
+      "album": "The Eraser • 2006"
+    },
     {
       "time": "1:18 pm",
       "artist": "System of a Down",
@@ -172,12 +178,6 @@
       "artist": "Alanis Morissette",
       "title": "Thank U",
       "album": "Supposed Former Infatuation Junkie • 1998"
-    },
-    {
-      "time": "11:46 am",
-      "artist": "U2",
-      "title": "Love Is Blindness",
-      "album": "Achtung Baby • 1991"
     }
   ]
 }
