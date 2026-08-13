@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-12T23:58:02",
+  "updatedAt": "2026-08-13T00:01:21",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Holland, 1945",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Little Richard and His Band",
+    "title": "Ready Teddy",
+    "album": "Heres Little Richard • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Little Richard and His Band",
-      "title": "Ready Teddy"
-    },
     {
       "time": "12:03 am",
       "artist": "Vampire Weekend",
@@ -23,12 +18,23 @@
       "title": "Here, There & Everywhere"
     },
     {
-      "time": "12:08 am",
+      "time": "12:09 am",
       "artist": "Radiohead",
       "title": "Separator"
+    },
+    {
+      "time": "12:14 am",
+      "artist": "Weezer",
+      "title": "Across the Sea"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Little Richard and His Band",
+      "title": "Ready Teddy",
+      "album": "Heres Little Richard • 1957"
+    },
     {
       "time": "11:58 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Talk About the Passion",
       "album": "Murmur • 1983"
-    },
-    {
-      "time": "9:21 pm",
-      "artist": "JAY-Z",
-      "title": "Hard Knock Life",
-      "album": "Vol. 2... Hard Knock Life • 1998"
     }
   ]
 }
