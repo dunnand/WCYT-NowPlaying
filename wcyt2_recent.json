@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T12:28:14",
+  "updatedAt": "2026-08-13T12:31:28",
   "now": {
-    "artist": "Tom Jones",
-    "title": "Delilah",
-    "album": "The Tom Jones Fever Zone • 1968",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Step",
+    "album": "Modern Vampires Of The City • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Vampire Weekend",
-      "title": "Step"
-    },
     {
       "time": "12:35 pm",
       "artist": "Depeche Mode",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Vampire Weekend",
+      "title": "Step",
+      "album": "Modern Vampires Of The City • 2013"
+    },
     {
       "time": "12:28 pm",
       "artist": "Tom Jones",
@@ -172,12 +173,6 @@
       "artist": "Husker Du",
       "title": "Could You Be the One?",
       "album": "Warehouse: Songs And Stories • 1987"
-    },
-    {
-      "time": "10:48 am",
-      "artist": "Stone Temple Pilots",
-      "title": "Big Empty",
-      "album": "The Crow soundtrack • 1994"
     }
   ]
 }
