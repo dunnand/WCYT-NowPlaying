@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T00:55:12",
+  "updatedAt": "2026-08-13T01:01:54",
   "now": {
-    "artist": "Pet Shop Boys",
-    "title": "Being Boring",
-    "album": "Behaviour • 1990",
+    "artist": "Weezer",
+    "title": "Feels Like Summer",
+    "album": "Pacific Daydream • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Weezer",
-      "title": "Feels Like Summer"
-    },
     {
       "time": "1:05 am",
       "artist": "TV on the Radio",
@@ -21,9 +16,20 @@
       "time": "1:10 am",
       "artist": "Radiohead",
       "title": "Sail to the Moon. (Brush the Cobwebs Out of the Sky.)"
+    },
+    {
+      "time": "1:15 am",
+      "artist": "Still Corners",
+      "title": "The Trip"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Weezer",
+      "title": "Feels Like Summer",
+      "album": "Pacific Daydream • 2017"
+    },
     {
       "time": "12:55 am",
       "artist": "Pet Shop Boys",
@@ -167,12 +173,6 @@
       "artist": "Tom Waits",
       "title": "Gun Street Girl",
       "album": "Rain Dogs • 1985"
-    },
-    {
-      "time": "10:17 pm",
-      "artist": "Modest Mouse",
-      "title": "Custom Concern",
-      "album": "This is a Long Drive for Someone with Nothing to Think About • 1996"
     }
   ]
 }
