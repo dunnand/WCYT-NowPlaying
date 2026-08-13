@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T12:08:33",
+  "updatedAt": "2026-08-13T12:15:03",
   "now": {
-    "artist": "Elton John",
-    "title": "Bite Your Lip (Get Up and Dance!)",
-    "album": "Blue Moves • 1976",
+    "artist": "The Beatles",
+    "title": "In My Life",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 pm",
-      "artist": "The Beatles",
-      "title": "In My Life"
-    },
     {
       "time": "12:17 pm",
       "artist": "Eagles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:15 pm",
+      "artist": "The Beatles",
+      "title": "In My Life",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "12:08 pm",
       "artist": "Elton John",
@@ -172,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "Imitation of Life",
       "album": "Reveal • 2001"
-    },
-    {
-      "time": "10:31 am",
-      "artist": "Platters",
-      "title": "Only You (And You Alone)",
-      "album": "Only You • 1955"
     }
   ]
 }
