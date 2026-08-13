@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T05:00:18",
+  "updatedAt": "2026-08-13T05:04:08",
   "now": {
-    "artist": "Radiohead",
-    "title": "All I Need",
-    "album": "In Rainbows • 2007",
+    "artist": "The Beatles",
+    "title": "Every Little Thing",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:04 am",
-      "artist": "The Beatles",
-      "title": "Every Little Thing"
-    },
     {
       "time": "5:06 am",
       "artist": "Grimes",
@@ -21,9 +16,20 @@
       "time": "5:10 am",
       "artist": "Yo La Tengo",
       "title": "Stockholm Syndrome"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "Pink Floyd",
+      "title": "High Hopes"
     }
   ],
   "recent": [
+    {
+      "time": "5:04 am",
+      "artist": "The Beatles",
+      "title": "Every Little Thing",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "5:00 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Koji Kondo",
       "title": "Super Mario 64 (Staff Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "3:32 am",
-      "artist": "Paul Simon",
-      "title": "Late In The Evening",
-      "album": "One-Trick Pony • 1980"
     }
   ]
 }
