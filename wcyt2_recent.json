@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T13:49:54",
+  "updatedAt": "2026-08-13T13:50:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney and Wings",
+    "title": "Band On The Run",
+    "album": "Band on the Run • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 pm",
-      "artist": "Paul McCartney and Wings",
-      "title": "Band On The Run"
-    },
     {
       "time": "1:55 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "2:01 pm",
       "artist": "The Beatles",
       "title": "Baby It's You"
+    },
+    {
+      "time": "2:04 pm",
+      "artist": "Steve Miller Band",
+      "title": "Fly Like An Eagle"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "Paul McCartney and Wings",
+      "title": "Band On The Run",
+      "album": "Band on the Run • 1973"
+    },
     {
       "time": "1:46 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Sexy Sadie",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "12:17 pm",
-      "artist": "Eagles",
-      "title": "New Kid In Town",
-      "album": "Hotel California • 1976"
     }
   ]
 }
