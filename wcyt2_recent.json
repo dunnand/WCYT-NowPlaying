@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T20:00:08",
+  "updatedAt": "2026-08-13T20:00:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Stockholm Syndrome",
+    "album": "I Can Hear the Heart Beating as One • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "Yo La Tengo",
-      "title": "Stockholm Syndrome"
-    },
     {
       "time": "8:02 pm",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "8:14 pm",
       "artist": "Talking Heads",
       "title": "Burning Down The House"
+    },
+    {
+      "time": "8:18 pm",
+      "artist": "unknown",
+      "title": "NES Remix Pack (Records Roll)"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "Yo La Tengo",
+      "title": "Stockholm Syndrome",
+      "album": "I Can Hear the Heart Beating as One • 1997"
+    },
     {
       "time": "7:56 pm",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Wilson Pickett",
       "title": "I'm in Love",
       "album": "I'm In Love • 1968"
-    },
-    {
-      "time": "6:29 pm",
-      "artist": "Rod Stewart",
-      "title": "Reason To Believe",
-      "album": "Every Picture Tells a Story • 1971"
     }
   ]
 }
