@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T01:14:25",
+  "updatedAt": "2026-08-14T01:14:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Magic Bus",
+    "album": "Magic Bus • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:14 am",
-      "artist": "The Who",
-      "title": "Magic Bus"
-    },
     {
       "time": "1:17 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "Low",
       "title": "Words"
+    },
+    {
+      "time": "1:29 am",
+      "artist": "Duran Duran",
+      "title": "Notorious"
     }
   ],
   "recent": [
+    {
+      "time": "1:14 am",
+      "artist": "The Who",
+      "title": "Magic Bus",
+      "album": "Magic Bus • 1968"
+    },
     {
       "time": "1:11 am",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "House of Cards",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "11:29 pm",
-      "artist": "Sun Kil Moon",
-      "title": "Carry Me Ohio",
-      "album": "Ghosts of the Great Highway • 2003"
     }
   ]
 }
