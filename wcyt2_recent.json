@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T02:42:43",
+  "updatedAt": "2026-08-14T02:42:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cher",
+    "title": "Half-Breed",
+    "album": "Half-Breed • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 am",
-      "artist": "Cher",
-      "title": "Half-Breed"
-    },
     {
       "time": "2:45 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "2:52 am",
       "artist": "Michael Jackson",
       "title": "They Don't Care About Us"
+    },
+    {
+      "time": "2:56 am",
+      "artist": "Platters",
+      "title": "(You've Got) The Magic Touch"
     }
   ],
   "recent": [
+    {
+      "time": "2:42 am",
+      "artist": "Cher",
+      "title": "Half-Breed",
+      "album": "Half-Breed • 1973"
+    },
     {
       "time": "2:40 am",
       "artist": "The Byrds",
@@ -172,12 +178,6 @@
       "artist": "The Who",
       "title": "Magic Bus",
       "album": "Magic Bus • 1968"
-    },
-    {
-      "time": "1:11 am",
-      "artist": "Sonic Youth",
-      "title": "Do You Believe in Rapture?",
-      "album": "Rather Ripped • 2006"
     }
   ]
 }
