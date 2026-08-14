@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T23:22:30",
+  "updatedAt": "2026-08-13T23:25:34",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Heartbreakin Man",
-    "album": "The Tennessee Fire • 1999",
-    "category": "TUNES"
+    "artist": "Yola",
+    "title": "Love All Night (Work All Day)",
+    "album": "Walk Through Fire • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:25 pm",
-      "artist": "Yola",
-      "title": "Love All Night (Work All Day)"
-    },
     {
       "time": "11:29 pm",
       "artist": "Sun Kil Moon",
@@ -21,9 +16,20 @@
       "time": "11:35 pm",
       "artist": "Radiohead",
       "title": "House of Cards"
+    },
+    {
+      "time": "11:41 pm",
+      "artist": "Wilco",
+      "title": "Citizens"
     }
   ],
   "recent": [
+    {
+      "time": "11:25 pm",
+      "artist": "Yola",
+      "title": "Love All Night (Work All Day)",
+      "album": "Walk Through Fire • 2019"
+    },
     {
       "time": "11:22 pm",
       "artist": "My Morning Jacket",
@@ -167,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "Pink Cadillac",
       "album": "single • 1988"
-    },
-    {
-      "time": "9:53 pm",
-      "artist": "Johnny Cash",
-      "title": "Rusty Cage",
-      "album": "Unchained • 1996"
     }
   ]
 }
