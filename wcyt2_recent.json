@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:55:49",
+  "updatedAt": "2026-08-14T01:00:09",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Born To Run",
-    "album": "Born to Run • 1975",
+    "artist": "Jeff Buckley",
+    "title": "Hallelujah",
+    "album": "Grace • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Jeff Buckley",
-      "title": "Hallelujah"
-    },
     {
       "time": "1:06 am",
       "artist": "Louis Armstrong",
@@ -26,9 +21,20 @@
       "time": "1:14 am",
       "artist": "The Who",
       "title": "Magic Bus"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "Wilco",
+      "title": "The Joke Explained"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "Jeff Buckley",
+      "title": "Hallelujah",
+      "album": "Grace • 1994"
+    },
     {
       "time": "12:55 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "My Morning Jacket",
       "title": "Heartbreakin Man",
       "album": "The Tennessee Fire • 1999"
-    },
-    {
-      "time": "11:19 pm",
-      "artist": "Looking Glass",
-      "title": "Brandy (You're A Fine Girl)",
-      "album": "Looking Glass • 1972"
     }
   ]
 }
