@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T04:22:00",
+  "updatedAt": "2026-08-14T04:30:32",
   "now": {
-    "artist": "Don McLean",
-    "title": "American Pie",
-    "album": "American Pie • 1971",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "Girl Inform Me",
+    "album": "Oh Inverted World • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:30 am",
-      "artist": "The Shins",
-      "title": "Girl Inform Me"
-    },
     {
       "time": "4:32 am",
       "artist": "Travis Scott",
@@ -31,9 +26,20 @@
       "time": "4:44 am",
       "artist": "John Lee Hooker",
       "title": "I'm in the Mood"
+    },
+    {
+      "time": "4:46 am",
+      "artist": "Uncle Kracker",
+      "title": "Follow Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 am",
+      "artist": "The Shins",
+      "title": "Girl Inform Me",
+      "album": "Oh Inverted World • 2001"
+    },
     {
       "time": "4:22 am",
       "artist": "Don McLean",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Honey Don't",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "2:59 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Dani California",
-      "album": "Stadium Arcadium • 2006"
     }
   ]
 }
