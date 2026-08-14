@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T17:29:39",
+  "updatedAt": "2026-08-14T17:34:25",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "The Final Cut",
-    "album": "The Final Cut • 1983",
+    "artist": "Bleachers",
+    "title": "dirty wedding dress",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 pm",
-      "artist": "Bleachers",
-      "title": "dirty wedding dress"
-    },
     {
       "time": "5:39 pm",
       "artist": "Patti Smith Group",
@@ -21,9 +16,20 @@
       "time": "5:42 pm",
       "artist": "Donovan",
       "title": "Jennifer Juniper"
+    },
+    {
+      "time": "5:46 pm",
+      "artist": "Pere Ubu",
+      "title": "30 Seconds Over Tokyo"
     }
   ],
   "recent": [
+    {
+      "time": "5:34 pm",
+      "artist": "Bleachers",
+      "title": "dirty wedding dress",
+      "album": ""
+    },
     {
       "time": "5:29 pm",
       "artist": "Pink Floyd",
@@ -167,12 +173,6 @@
       "artist": "Nirvana.",
       "title": "Come as You Are",
       "album": "Nevermind • 1991"
-    },
-    {
-      "time": "3:48 pm",
-      "artist": "Nina Simone",
-      "title": "To Be Young, Gifted and Black",
-      "album": "Black Gold • 1970"
     }
   ]
 }
