@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T21:45:54",
+  "updatedAt": "2026-08-13T21:49:54",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Eyes Open",
-    "album": "The Hunger Games • 2012",
+    "artist": "Jonathan Richman",
+    "title": "Dancing in a lesbian Bar",
+    "album": "I, Jonathan • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:49 pm",
-      "artist": "Jonathan Richman",
-      "title": "Dancing in a lesbian Bar"
-    },
     {
       "time": "9:53 pm",
       "artist": "Johnny Cash",
@@ -21,9 +16,20 @@
       "time": "9:56 pm",
       "artist": "Bruce Springsteen",
       "title": "Pink Cadillac"
+    },
+    {
+      "time": "10:00 pm",
+      "artist": "De La Soul",
+      "title": "The Magic Number"
     }
   ],
   "recent": [
+    {
+      "time": "9:49 pm",
+      "artist": "Jonathan Richman",
+      "title": "Dancing in a lesbian Bar",
+      "album": "I, Jonathan • 1992"
+    },
     {
       "time": "9:45 pm",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Time",
       "album": "The Dark Side of the Moon • 1973"
-    },
-    {
-      "time": "8:21 pm",
-      "artist": "Joni Mitchell",
-      "title": "Help Me",
-      "album": "Court and Spark • 1974"
     }
   ]
 }
