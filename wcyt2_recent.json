@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:53:44",
+  "updatedAt": "2026-08-14T00:55:49",
   "now": {
-    "artist": "The Beatles",
-    "title": "Flying",
-    "album": "Magical Mystery Tour • 1967",
+    "artist": "Bruce Springsteen",
+    "title": "Born To Run",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "Bruce Springsteen",
-      "title": "Born To Run"
-    },
     {
       "time": "1:00 am",
       "artist": "Jeff Buckley",
@@ -26,9 +21,20 @@
       "time": "1:11 am",
       "artist": "Sonic Youth",
       "title": "Do You Believe in Rapture?"
+    },
+    {
+      "time": "1:14 am",
+      "artist": "The Who",
+      "title": "Magic Bus"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "Bruce Springsteen",
+      "title": "Born To Run",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "12:53 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Looking Glass",
       "title": "Brandy (You're A Fine Girl)",
       "album": "Looking Glass • 1972"
-    },
-    {
-      "time": "11:16 pm",
-      "artist": "Vince Staples",
-      "title": "Black&Blue",
-      "album": "Big Fish Theory • 2017"
     }
   ]
 }
