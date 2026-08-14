@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T14:40:31",
+  "updatedAt": "2026-08-14T14:46:09",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Simple Man",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Hardest Button To Button",
+    "album": "Elephant • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:46 pm",
-      "artist": "The White Stripes",
-      "title": "Hardest Button To Button"
-    },
     {
       "time": "2:49 pm",
       "artist": "Selena Gomez",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:46 pm",
+      "artist": "The White Stripes",
+      "title": "Hardest Button To Button",
+      "album": "Elephant • 2003"
+    },
     {
       "time": "2:40 pm",
       "artist": "Lynyrd Skynyrd",
@@ -177,12 +178,6 @@
       "artist": "Tegan & Sara",
       "title": "I'll Be Back Someday",
       "album": "The Con • 2007"
-    },
-    {
-      "time": "1:08 pm",
-      "artist": "The Thermals",
-      "title": "A Pillar of Salt",
-      "album": "The Body, the Blood, the Machine • 2006"
     }
   ]
 }
