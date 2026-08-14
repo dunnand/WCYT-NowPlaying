@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T09:28:29",
+  "updatedAt": "2026-08-14T09:30:54",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Ain't That A Shame?",
-    "album": "Rock and Rollin' with Fats Domino • 1956",
-    "category": "AUDIO"
+    "artist": "St. Vincent",
+    "title": "The Strangers",
+    "album": "Actor • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "St. Vincent",
-      "title": "The Strangers"
-    },
     {
       "time": "9:34 am",
       "artist": "Herman's Hermits",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "St. Vincent",
+      "title": "The Strangers",
+      "album": "Actor • 2009"
+    },
     {
       "time": "9:28 am",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "Joan Jett & The Blackhearts",
       "title": "Do You Wanna Touch Me (Oh Yeah)",
       "album": "Bad Reputation • 1981"
-    },
-    {
-      "time": "8:04 am",
-      "artist": "J. Geils Band",
-      "title": "Love Stinks",
-      "album": "Love Stinks • 1980"
     }
   ]
 }
