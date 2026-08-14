@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T06:47:35",
+  "updatedAt": "2026-08-14T06:51:32",
   "now": {
-    "artist": "The Beatles",
-    "title": "All You Need Is Love",
-    "album": "Yellow Submarine • 1969",
+    "artist": "Son Little",
+    "title": "Lay Down",
+    "album": "New Magic • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:51 am",
-      "artist": "Son Little",
-      "title": "Lay Down"
-    },
     {
       "time": "6:55 am",
       "artist": "Super Furry Animals",
@@ -21,9 +16,20 @@
       "time": "6:57 am",
       "artist": "Talk Talk",
       "title": "After the Flood"
+    },
+    {
+      "time": "7:07 am",
+      "artist": "Jackson Browne",
+      "title": "That Girl Could Sing"
     }
   ],
   "recent": [
+    {
+      "time": "6:51 am",
+      "artist": "Son Little",
+      "title": "Lay Down",
+      "album": "New Magic • 2017"
+    },
     {
       "time": "6:47 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The Killers",
       "title": "For Reasons Unknown",
       "album": "Sam's Town • 2006"
-    },
-    {
-      "time": "5:17 am",
-      "artist": "Turnstile",
-      "title": "New Heart Design",
-      "album": "Glow On • 2021"
     }
   ]
 }
