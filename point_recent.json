@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:06:45",
+  "updatedAt": "2026-08-14T00:06:57",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Catholic Action",
+    "title": "I'm No Artist",
+    "album": "Celebrated By Strangers • 2020",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:06 am",
-      "artist": "Catholic Action",
-      "title": "I'm No Artist"
-    },
     {
       "time": "12:10 am",
       "artist": "Bumper",
@@ -26,9 +21,20 @@
       "time": "12:18 am",
       "artist": "julie",
       "title": "flutter"
+    },
+    {
+      "time": "12:22 am",
+      "artist": "Katy Kirby",
+      "title": "Cool Dry Place"
     }
   ],
   "recent": [
+    {
+      "time": "12:06 am",
+      "artist": "Catholic Action",
+      "title": "I'm No Artist",
+      "album": "Celebrated By Strangers • 2020"
+    },
     {
       "time": "12:04 am",
       "artist": "Lucrecia Dalt",
@@ -172,12 +178,6 @@
       "artist": "feeble little horse",
       "title": "Doorway",
       "album": "bitknot • 2026"
-    },
-    {
-      "time": "9:53 pm",
-      "artist": "Queens of the Stone Age",
-      "title": "Easy Street",
-      "album": "• 2026"
     }
   ]
 }
