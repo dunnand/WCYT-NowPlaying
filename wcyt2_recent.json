@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T09:06:29",
+  "updatedAt": "2026-08-14T09:10:05",
   "now": {
-    "artist": "Harry Chapin",
-    "title": "Cat's In The Cradle",
-    "album": "Verities & Balderdash • 1974",
+    "artist": "Jefferson Airplane",
+    "title": "Somebody to Love",
+    "album": "Surrealistic Pillow • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 am",
-      "artist": "Jefferson Airplane",
-      "title": "Somebody to Love"
-    },
     {
       "time": "9:13 am",
       "artist": "Ian Dury",
@@ -26,9 +21,20 @@
       "time": "9:19 am",
       "artist": "Iggy Pop",
       "title": "Five Foot One"
+    },
+    {
+      "time": "9:24 am",
+      "artist": "The Orb",
+      "title": "Little Fluffy Clouds"
     }
   ],
   "recent": [
+    {
+      "time": "9:10 am",
+      "artist": "Jefferson Airplane",
+      "title": "Somebody to Love",
+      "album": "Surrealistic Pillow • 1967"
+    },
     {
       "time": "9:06 am",
       "artist": "Harry Chapin",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "Last Days of Disco",
       "album": "And Then Nothing Turned Itself Inside • 2000"
-    },
-    {
-      "time": "7:39 am",
-      "artist": "Vampire Weekend",
-      "title": "Harmony Hall",
-      "album": "Father of the Bride • 2019"
     }
   ]
 }
