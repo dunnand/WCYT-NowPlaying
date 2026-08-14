@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T10:11:09",
+  "updatedAt": "2026-08-14T10:14:35",
   "now": {
-    "artist": "Super Furry Animals",
-    "title": "Hello Sunshine",
-    "album": "Rings Around the World • 2001",
-    "category": "AUDIO"
+    "artist": "Slowdive",
+    "title": "Sugar For The Pill",
+    "album": "Slowdive • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:14 am",
-      "artist": "Slowdive",
-      "title": "Sugar For The Pill"
-    },
     {
       "time": "10:18 am",
       "artist": "The Jacksons",
@@ -26,9 +21,20 @@
       "time": "10:25 am",
       "artist": "Wilco",
       "title": "You Satellite"
+    },
+    {
+      "time": "10:30 am",
+      "artist": "Sufjan Stevens",
+      "title": "For the Widows in Paradise, For the Fatherless in Ypsilanti"
     }
   ],
   "recent": [
+    {
+      "time": "10:14 am",
+      "artist": "Slowdive",
+      "title": "Sugar For The Pill",
+      "album": "Slowdive • 2017"
+    },
     {
       "time": "10:11 am",
       "artist": "Super Furry Animals",
@@ -172,12 +178,6 @@
       "artist": "Sturgill Simpson",
       "title": "Sing Along",
       "album": "Sing Along • 2019"
-    },
-    {
-      "time": "8:41 am",
-      "artist": "The White Stripes",
-      "title": "Black Math",
-      "album": "Elephant • 2003"
     }
   ]
 }
