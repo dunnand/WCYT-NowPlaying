@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T04:50:50",
+  "updatedAt": "2026-08-14T04:54:55",
   "now": {
-    "artist": "The Beatles",
-    "title": "Come Together",
-    "album": "Abbey Road • 1969",
+    "artist": "Radiohead",
+    "title": "True Love Waits",
+    "album": "A Moon Shaped Pool • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:54 am",
-      "artist": "Radiohead",
-      "title": "True Love Waits"
-    },
     {
       "time": "4:59 am",
       "artist": "Roxette",
@@ -23,12 +18,18 @@
       "title": "Kiss From A Rose"
     },
     {
-      "time": "5:08 am",
+      "time": "5:07 am",
       "artist": "George Harrison",
       "title": "All Those Years Ago"
     }
   ],
   "recent": [
+    {
+      "time": "4:54 am",
+      "artist": "Radiohead",
+      "title": "True Love Waits",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "4:50 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Dave Clark Five",
       "title": "Over And Over",
       "album": "The Story of Dave Clark Five • 1979"
-    },
-    {
-      "time": "3:25 am",
-      "artist": "Grimes",
-      "title": "You'll miss me when I'm not around",
-      "album": "Miss Anthropocene • 2020"
     }
   ]
 }
