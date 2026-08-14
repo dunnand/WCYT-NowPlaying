@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T17:29:27",
+  "updatedAt": "2026-08-14T17:29:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "The Final Cut",
+    "album": "The Final Cut • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "Pink Floyd",
-      "title": "The Final Cut"
-    },
     {
       "time": "5:34 pm",
       "artist": "Bleachers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:29 pm",
+      "artist": "Pink Floyd",
+      "title": "The Final Cut",
+      "album": "The Final Cut • 1983"
+    },
     {
       "time": "5:24 pm",
       "artist": "Pet Shop Boys",
@@ -172,12 +173,6 @@
       "artist": "Nina Simone",
       "title": "To Be Young, Gifted and Black",
       "album": "Black Gold • 1970"
-    },
-    {
-      "time": "3:45 pm",
-      "artist": "Cat Stevens",
-      "title": "Matthew and Son",
-      "album": "Matthew and Son • 1967"
     }
   ]
 }
