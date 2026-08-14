@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T23:55:21",
+  "updatedAt": "2026-08-13T23:55:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Genesis",
+    "title": "That's All",
+    "album": "Genesis • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 pm",
-      "artist": "Genesis",
-      "title": "That's All"
-    },
     {
       "time": "12:00 am",
       "artist": "Silk Sonic",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:55 pm",
+      "artist": "Genesis",
+      "title": "That's All",
+      "album": "Genesis • 1984"
+    },
     {
       "time": "11:51 pm",
       "artist": "Fleetwood Mac",
@@ -172,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "All My Love",
       "album": "In Through the Out Door • 1979"
-    },
-    {
-      "time": "10:18 pm",
-      "artist": "Wilco",
-      "title": "We Were Lucky",
-      "album": "Ode To Joy • 2019"
     }
   ]
 }
