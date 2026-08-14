@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-13T21:29:27",
+  "updatedAt": "2026-08-13T21:34:14",
   "now": {
-    "artist": "The Knack",
-    "title": "My Sharona",
-    "album": "Proof: The Very Best Of The Knack • 1979",
-    "category": "AUDIO"
+    "artist": "Guided by Voices",
+    "title": "I Am a Scientist",
+    "album": "Bee Thousand • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:34 pm",
-      "artist": "Guided by Voices",
-      "title": "I Am a Scientist"
-    },
     {
       "time": "9:36 pm",
       "artist": "Wilbert Harrison",
       "title": "Kansas City"
     },
     {
-      "time": "9:39 pm",
+      "time": "9:38 pm",
       "artist": "Wilco",
       "title": "Jesus, Etc."
     },
@@ -26,9 +21,20 @@
       "time": "9:42 pm",
       "artist": "Van Morrison",
       "title": "Brown Eyed Girl"
+    },
+    {
+      "time": "9:45 pm",
+      "artist": "Taylor Swift",
+      "title": "Eyes Open"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 pm",
+      "artist": "Guided by Voices",
+      "title": "I Am a Scientist",
+      "album": "Bee Thousand • 1994"
+    },
     {
       "time": "9:29 pm",
       "artist": "The Knack",
@@ -172,12 +178,6 @@
       "artist": "Pink Floyd",
       "title": "High Hopes",
       "album": "The Division Bell • 1994"
-    },
-    {
-      "time": "8:00 pm",
-      "artist": "Yo La Tengo",
-      "title": "Stockholm Syndrome",
-      "album": "I Can Hear the Heart Beating as One • 1997"
     }
   ]
 }
