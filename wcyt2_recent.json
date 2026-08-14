@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T01:33:45",
+  "updatedAt": "2026-08-14T01:33:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "I'm Still Standing",
+    "album": "Too Low for Zero • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:33 am",
-      "artist": "Elton John",
-      "title": "I'm Still Standing"
-    },
     {
       "time": "1:36 am",
       "artist": "Nintendo",
@@ -26,9 +21,20 @@
       "time": "1:42 am",
       "artist": "Carly Simon",
       "title": "Nobody Does It Better"
+    },
+    {
+      "time": "1:45 am",
+      "artist": "Wilco",
+      "title": "Handshake Drugs"
     }
   ],
   "recent": [
+    {
+      "time": "1:33 am",
+      "artist": "Elton John",
+      "title": "I'm Still Standing",
+      "album": "Too Low for Zero • 1983"
+    },
     {
       "time": "1:29 am",
       "artist": "Duran Duran",
@@ -172,12 +178,6 @@
       "artist": "Genesis",
       "title": "That's All",
       "album": "Genesis • 1984"
-    },
-    {
-      "time": "11:51 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Little Lies",
-      "album": "Tango in the Night • 1987"
     }
   ]
 }
