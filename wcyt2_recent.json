@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T03:32:33",
+  "updatedAt": "2026-08-14T03:32:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Mansard Roof",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:32 am",
-      "artist": "Vampire Weekend",
-      "title": "Mansard Roof"
-    },
     {
       "time": "3:34 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "3:44 am",
       "artist": "Elvis Presley",
       "title": "(Let Me Be Your) Teddy Bear"
+    },
+    {
+      "time": "3:46 am",
+      "artist": "Radiohead",
+      "title": "Dollars and Cents"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 am",
+      "artist": "Vampire Weekend",
+      "title": "Mansard Roof",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "3:29 am",
       "artist": "Dionne Warwick",
@@ -177,12 +183,6 @@
       "artist": "Yo La Tengo",
       "title": "Cherry Chapstick",
       "album": "And Then Nothing Turned Itself Inside • 2000"
-    },
-    {
-      "time": "2:04 am",
-      "artist": "The Ready Set",
-      "title": "Give Me Your Hand",
-      "album": "Im Alive, Im Dreaming • 2009"
     }
   ]
 }
