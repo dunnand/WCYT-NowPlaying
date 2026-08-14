@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T19:52:11",
+  "updatedAt": "2026-08-14T19:52:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buffalo Springfield",
+    "title": "Mr. Soul",
+    "album": "Buffalo Springfield Again • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:52 pm",
-      "artist": "Buffalo Springfield",
-      "title": "Mr. Soul"
-    },
     {
       "time": "7:54 pm",
       "artist": "Run The Jewels",
@@ -26,9 +21,20 @@
       "time": "8:01 pm",
       "artist": "Wilco",
       "title": "She's a Jar"
+    },
+    {
+      "time": "8:06 pm",
+      "artist": "Queen",
+      "title": "Radio Ga-Ga"
     }
   ],
   "recent": [
+    {
+      "time": "7:52 pm",
+      "artist": "Buffalo Springfield",
+      "title": "Mr. Soul",
+      "album": "Buffalo Springfield Again • 1967"
+    },
     {
       "time": "7:45 pm",
       "artist": "Sigur Ros",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "Rollercoaster",
       "album": ""
-    },
-    {
-      "time": "6:25 pm",
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "album": "Synchronicity • 1983"
     }
   ]
 }
