@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T11:38:29",
+  "updatedAt": "2026-08-14T11:38:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Ghost",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:38 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Ghost"
-    },
     {
       "time": "11:42 am",
       "artist": "Kraftwerk",
@@ -26,9 +21,20 @@
       "time": "11:56 am",
       "artist": "Bleachers",
       "title": "I Wanna Get Better"
+    },
+    {
+      "time": "11:59 am",
+      "artist": "The Shins",
+      "title": "So Says I"
     }
   ],
   "recent": [
+    {
+      "time": "11:38 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Ghost",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "11:35 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Super Furry Animals",
       "title": "Hello Sunshine",
       "album": "Rings Around the World • 2001"
-    },
-    {
-      "time": "10:06 am",
-      "artist": "Isaac Hayes",
-      "title": "Never Can Say Goodbye",
-      "album": "Black Moses • 1971"
     }
   ]
 }
