@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T10:11:18",
+  "updatedAt": "2026-08-14T10:11:40",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This is Lorelei",
+    "title": "Oh No Now My",
+    "album": "Oh No Now My • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:11 am",
-      "artist": "This is Lorelei",
-      "title": "Oh No Now My"
-    },
     {
       "time": "10:14 am",
       "artist": "Alex G",
@@ -26,9 +21,20 @@
       "time": "10:20 am",
       "artist": "Benny Sings",
       "title": "The World"
+    },
+    {
+      "time": "10:23 am",
+      "artist": "Swapmeet",
+      "title": "I Know!"
     }
   ],
   "recent": [
+    {
+      "time": "10:11 am",
+      "artist": "This is Lorelei",
+      "title": "Oh No Now My",
+      "album": "Oh No Now My • 2026"
+    },
     {
       "time": "10:08 am",
       "artist": "Young Fathers",
@@ -172,12 +178,6 @@
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "The River",
       "album": "Quarters • 2015"
-    },
-    {
-      "time": "8:35 am",
-      "artist": "Black Belt Eagle Scout",
-      "title": "At the Party",
-      "album": "At the Party With My Brown Friends • 2019"
     }
   ]
 }
