@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T06:41:23",
+  "updatedAt": "2026-08-14T06:43:16",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Blue Suede Shoes",
-    "album": "Elvis Presley • 1956",
+    "artist": "Rihanna",
+    "title": "Pon de Replay",
+    "album": "Music of the Sun • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:43 am",
-      "artist": "Rihanna",
-      "title": "Pon de Replay"
-    },
     {
       "time": "6:47 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "6:51 am",
       "artist": "Son Little",
       "title": "Lay Down"
+    },
+    {
+      "time": "6:55 am",
+      "artist": "Super Furry Animals",
+      "title": "The International Language of Screaming"
     }
   ],
   "recent": [
+    {
+      "time": "6:43 am",
+      "artist": "Rihanna",
+      "title": "Pon de Replay",
+      "album": "Music of the Sun • 2005"
+    },
     {
       "time": "6:41 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "George Michael",
       "title": "One More Try",
       "album": "Faith • 1988"
-    },
-    {
-      "time": "5:07 am",
-      "artist": "George Harrison",
-      "title": "All Those Years Ago",
-      "album": "Somewhere in England • 1981"
     }
   ]
 }
