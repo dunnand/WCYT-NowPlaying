@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T21:08:21",
+  "updatedAt": "2026-08-13T21:11:25",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Uptown Girl",
-    "album": "An Innocent Man • 1983",
+    "artist": "Mahito Yokota",
+    "title": "Super Mario Galaxy",
+    "album": "Nintendo Music •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Mahito Yokota",
-      "title": "Super Mario Galaxy"
-    },
     {
       "time": "9:15 pm",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "9:18 pm",
       "artist": "Queen",
       "title": "A Kind of Magic"
+    },
+    {
+      "time": "9:22 pm",
+      "artist": "The Go! Team",
+      "title": "Ladyflash"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Mahito Yokota",
+      "title": "Super Mario Galaxy",
+      "album": "Nintendo Music •"
+    },
     {
       "time": "9:08 pm",
       "artist": "Billy Joel",
@@ -167,12 +173,6 @@
       "artist": "Wilco",
       "title": "Can't Stand It",
       "album": "Summerteeth • 1999"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Grateful Dead",
-      "title": "Friend of the Devil",
-      "album": "American Beauty • 1970"
     }
   ]
 }
