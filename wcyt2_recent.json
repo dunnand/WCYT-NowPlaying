@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T21:05:05",
+  "updatedAt": "2026-08-13T21:05:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Should I Stay or Should I Go",
+    "album": "Combat Rock • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 pm",
-      "artist": "The Clash",
-      "title": "Should I Stay or Should I Go"
-    },
     {
       "time": "9:08 pm",
       "artist": "Billy Joel",
@@ -26,9 +21,20 @@
       "time": "9:15 pm",
       "artist": "Bob Dylan",
       "title": "Knockin' on Heaven's Door"
+    },
+    {
+      "time": "9:18 pm",
+      "artist": "Queen",
+      "title": "A Kind of Magic"
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "The Clash",
+      "title": "Should I Stay or Should I Go",
+      "album": "Combat Rock • 1982"
+    },
     {
       "time": "9:01 pm",
       "artist": "The Flaming Lips",
@@ -172,12 +178,6 @@
       "artist": "Ride",
       "title": "Home Is a Feeling",
       "album": "Weather Diaries • 2017"
-    },
-    {
-      "time": "7:32 pm",
-      "artist": "TV on the Radio",
-      "title": "Satellite",
-      "album": "Young Liars • 2003"
     }
   ]
 }
