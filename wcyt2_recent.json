@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:49:56",
+  "updatedAt": "2026-08-14T00:53:44",
   "now": {
-    "artist": "Brian Eno",
-    "title": "King's Lead Hat",
-    "album": "Before and After Science • 1977",
+    "artist": "The Beatles",
+    "title": "Flying",
+    "album": "Magical Mystery Tour • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "The Beatles",
-      "title": "Flying"
-    },
     {
       "time": "12:55 am",
       "artist": "Bruce Springsteen",
@@ -23,7 +18,7 @@
       "title": "Hallelujah"
     },
     {
-      "time": "1:07 am",
+      "time": "1:06 am",
       "artist": "Louis Armstrong",
       "title": "A Kiss to Build a Dream On"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "The Beatles",
+      "title": "Flying",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "12:49 am",
       "artist": "Brian Eno",
@@ -177,12 +178,6 @@
       "artist": "Vince Staples",
       "title": "Black&Blue",
       "album": "Big Fish Theory • 2017"
-    },
-    {
-      "time": "11:12 pm",
-      "artist": "Train",
-      "title": "Hey Soul Sister",
-      "album": "Save Me, San Francisco • 2009"
     }
   ]
 }
