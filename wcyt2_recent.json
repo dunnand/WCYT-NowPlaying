@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:41:01",
+  "updatedAt": "2026-08-14T00:46:59",
   "now": {
-    "artist": "Boston",
-    "title": "Don't Look Back",
-    "album": "Don’t Look Back • 1978",
+    "artist": "The Beatles",
+    "title": "You Really Got A Hold On Me",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "The Beatles",
-      "title": "You Really Got A Hold On Me"
-    },
     {
       "time": "12:49 am",
       "artist": "Brian Eno",
@@ -26,9 +21,20 @@
       "time": "12:55 am",
       "artist": "Bruce Springsteen",
       "title": "Born To Run"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Jeff Buckley",
+      "title": "Hallelujah"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "The Beatles",
+      "title": "You Really Got A Hold On Me",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "12:41 am",
       "artist": "Boston",
@@ -172,12 +178,6 @@
       "artist": "The Clash",
       "title": "London Calling",
       "album": "London Calling • 1979"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Our Time",
-      "album": "Yeah Yeah Yeahs • 2001"
     }
   ]
 }
