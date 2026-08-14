@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T09:32:47",
+  "updatedAt": "2026-08-14T09:33:09",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Gorillaz",
+    "title": "The Happy Dictator",
+    "album": "The Mountain • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:33 am",
-      "artist": "Gorillaz",
-      "title": "The Happy Dictator"
-    },
     {
       "time": "9:37 am",
       "artist": "Freak Slug",
@@ -26,9 +21,20 @@
       "time": "9:44 am",
       "artist": "Khruangbin",
       "title": "White Gloves ii"
+    },
+    {
+      "time": "9:50 am",
+      "artist": "Modest Mouse",
+      "title": "Doin' the Cockroach"
     }
   ],
   "recent": [
+    {
+      "time": "9:33 am",
+      "artist": "Gorillaz",
+      "title": "The Happy Dictator",
+      "album": "The Mountain • 2026"
+    },
     {
       "time": "9:30 am",
       "artist": "Zalerno",
@@ -172,12 +178,6 @@
       "artist": "Mac DeMarco",
       "title": "Rock and Roll Night Club",
       "album": "Rock and Roll Night Club • 2012"
-    },
-    {
-      "time": "8:02 am",
-      "artist": "Radiohead",
-      "title": "True Love Waits",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
