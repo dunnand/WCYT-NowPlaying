@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T17:02:41",
+  "updatedAt": "2026-08-14T17:07:15",
   "now": {
     "artist": "Radiohead",
-    "title": "Videotape",
-    "album": "In Rainbows • 2007",
+    "title": "Idioteque",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:07 pm",
-      "artist": "Radiohead",
-      "title": "Idioteque"
-    },
     {
       "time": "5:12 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:19 pm",
       "artist": "Soundgarden",
       "title": "The Day I Tried to Live"
+    },
+    {
+      "time": "5:24 pm",
+      "artist": "Pet Shop Boys",
+      "title": "King's Cross"
     }
   ],
   "recent": [
+    {
+      "time": "5:07 pm",
+      "artist": "Radiohead",
+      "title": "Idioteque",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "5:02 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "Me Before You",
       "album": "Bleachers • 2024"
-    },
-    {
-      "time": "3:30 pm",
-      "artist": "Operation Ivy",
-      "title": "Knowledge",
-      "album": "Energy • 1989"
     }
   ]
 }
