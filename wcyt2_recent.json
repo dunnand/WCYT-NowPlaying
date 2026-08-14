@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T05:49:05",
+  "updatedAt": "2026-08-14T05:53:03",
   "now": {
-    "artist": "Radiohead",
-    "title": "Bodysnatchers",
-    "album": "In Rainbows • 2007",
+    "artist": "The Beatles",
+    "title": "Ask Me Why",
+    "album": "Please Please Me • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 am",
-      "artist": "The Beatles",
-      "title": "Ask Me Why"
-    },
     {
       "time": "5:55 am",
       "artist": "Rihanna",
@@ -21,9 +16,25 @@
       "time": "5:59 am",
       "artist": "Sting",
       "title": "Brand New Day"
+    },
+    {
+      "time": "6:03 am",
+      "artist": "Sugar",
+      "title": "A Good Idea"
+    },
+    {
+      "time": "6:07 am",
+      "artist": "Guns N' Roses",
+      "title": "Patience"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 am",
+      "artist": "The Beatles",
+      "title": "Ask Me Why",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "5:49 am",
       "artist": "Radiohead",
@@ -167,12 +178,6 @@
       "artist": "Grimes",
       "title": "4ÆM",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "4:09 am",
-      "artist": "Foreigner",
-      "title": "I Want To Know What Love Is",
-      "album": "Agent Provocateur • 1985"
     }
   ]
 }
