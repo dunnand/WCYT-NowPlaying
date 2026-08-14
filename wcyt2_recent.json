@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T21:15:42",
+  "updatedAt": "2026-08-13T21:18:04",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Knockin' on Heaven's Door",
-    "album": "Knockin' on Heaven's Door • 1973",
+    "artist": "Queen",
+    "title": "A Kind of Magic",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:18 pm",
-      "artist": "Queen",
-      "title": "A Kind of Magic"
-    },
     {
       "time": "9:22 pm",
       "artist": "The Go! Team",
@@ -26,9 +21,20 @@
       "time": "9:29 pm",
       "artist": "The Knack",
       "title": "My Sharona"
+    },
+    {
+      "time": "9:34 pm",
+      "artist": "Guided by Voices",
+      "title": "I Am a Scientist"
     }
   ],
   "recent": [
+    {
+      "time": "9:18 pm",
+      "artist": "Queen",
+      "title": "A Kind of Magic",
+      "album": ""
+    },
     {
       "time": "9:15 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "All I Need",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "7:47 pm",
-      "artist": "Elvis Presley",
-      "title": "Love Me",
-      "album": "Elvis • 1956"
     }
   ]
 }
