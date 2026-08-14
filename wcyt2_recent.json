@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T21:15:31",
+  "updatedAt": "2026-08-13T21:15:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Knockin' on Heaven's Door",
+    "album": "Knockin' on Heaven's Door • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "Bob Dylan",
-      "title": "Knockin' on Heaven's Door"
-    },
     {
       "time": "9:18 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "9:26 pm",
       "artist": "The Velvet Underground",
       "title": "Femme Fatale"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "The Knack",
+      "title": "My Sharona"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "Bob Dylan",
+      "title": "Knockin' on Heaven's Door",
+      "album": "Knockin' on Heaven's Door • 1973"
+    },
     {
       "time": "9:11 pm",
       "artist": "Mahito Yokota",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Love Me",
       "album": "Elvis • 1956"
-    },
-    {
-      "time": "7:43 pm",
-      "artist": "Wilco",
-      "title": "Can't Stand It",
-      "album": "Summerteeth • 1999"
     }
   ]
 }
