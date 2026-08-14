@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T13:00:48",
+  "updatedAt": "2026-08-14T13:04:44",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "I'll Stick Around",
-    "album": "Foo Fighters • 1995",
+    "artist": "Weezer",
+    "title": "Cleopatra",
+    "album": "Everything Will Be Alright in the End • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:04 pm",
-      "artist": "Weezer",
-      "title": "Cleopatra"
-    },
     {
       "time": "1:07 pm",
       "artist": "The Thermals",
@@ -21,9 +16,20 @@
       "time": "1:10 pm",
       "artist": "Tegan & Sara",
       "title": "I'll Be Back Someday"
+    },
+    {
+      "time": "1:14 pm",
+      "artist": "Wilco",
+      "title": "Cold Slope"
     }
   ],
   "recent": [
+    {
+      "time": "1:04 pm",
+      "artist": "Weezer",
+      "title": "Cleopatra",
+      "album": "Everything Will Be Alright in the End • 2014"
+    },
     {
       "time": "1:00 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Kraftwerk",
       "title": "Pocket Calculator",
       "album": "Computer World • 1981"
-    },
-    {
-      "time": "11:38 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Ghost",
-      "album": "In The Aeroplane Over The Sea • 1998"
     }
   ]
 }
