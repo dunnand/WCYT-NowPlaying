@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T05:11:18",
+  "updatedAt": "2026-08-14T05:11:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Michael",
+    "title": "One More Try",
+    "album": "Faith • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:11 am",
-      "artist": "George Michael",
-      "title": "One More Try"
-    },
     {
       "time": "5:17 am",
       "artist": "Turnstile",
@@ -26,9 +21,20 @@
       "time": "5:23 am",
       "artist": "Earth, Wind & Fire",
       "title": "Boogie Wonderland feat. The Emotions"
+    },
+    {
+      "time": "5:27 am",
+      "artist": "Radiohead",
+      "title": "Like Spinning Plates"
     }
   ],
   "recent": [
+    {
+      "time": "5:11 am",
+      "artist": "George Michael",
+      "title": "One More Try",
+      "album": "Faith • 1988"
+    },
     {
       "time": "5:07 am",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Dire Straits",
       "title": "Sultans Of Swing",
       "album": "Dire Straits • 1979"
-    },
-    {
-      "time": "3:34 am",
-      "artist": "The Beatles",
-      "title": "She Loves You",
-      "album": "single • 1963"
     }
   ]
 }
