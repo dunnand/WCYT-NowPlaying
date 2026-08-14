@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T08:20:30",
+  "updatedAt": "2026-08-14T08:23:14",
   "now": {
-    "artist": "Gordon Lightfoot",
-    "title": "Rainy Day People",
-    "album": "Cold on the Shoulder • 1975",
+    "artist": "The Beatles",
+    "title": "Words Of Love",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:23 am",
-      "artist": "The Beatles",
-      "title": "Words Of Love"
-    },
     {
       "time": "8:25 am",
       "artist": "Hall & Oates",
@@ -26,9 +21,20 @@
       "time": "8:34 am",
       "artist": "Weezer",
       "title": "The Futurescope Trilogy: II. Anonymous"
+    },
+    {
+      "time": "8:38 am",
+      "artist": "Sonic Youth",
+      "title": "What We Know"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 am",
+      "artist": "The Beatles",
+      "title": "Words Of Love",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "8:20 am",
       "artist": "Gordon Lightfoot",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "Lay Down",
       "album": "New Magic • 2017"
-    },
-    {
-      "time": "6:47 am",
-      "artist": "The Beatles",
-      "title": "All You Need Is Love",
-      "album": "Yellow Submarine • 1969"
     }
   ]
 }
