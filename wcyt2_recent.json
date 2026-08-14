@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T08:37:34",
+  "updatedAt": "2026-08-14T08:37:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "What We Know",
+    "album": "The Eternal • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:37 am",
-      "artist": "Sonic Youth",
-      "title": "What We Know"
-    },
     {
       "time": "8:41 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "8:47 am",
       "artist": "Wallflowers",
       "title": "One Headlight"
+    },
+    {
+      "time": "8:52 am",
+      "artist": "Ween",
+      "title": "Ocean Man"
     }
   ],
   "recent": [
+    {
+      "time": "8:37 am",
+      "artist": "Sonic Youth",
+      "title": "What We Know",
+      "album": "The Eternal • 2009"
+    },
     {
       "time": "8:34 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Jane's Addiction",
       "title": "Mountain Song",
       "album": "Nothing's Shocking • 1988"
-    },
-    {
-      "time": "7:07 am",
-      "artist": "Jackson Browne",
-      "title": "That Girl Could Sing",
-      "album": "Hold Out • 1980"
     }
   ]
 }
