@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T12:02:06",
+  "updatedAt": "2026-08-14T12:02:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joe Cocker",
+    "title": "You Are So Beautiful",
+    "album": "I Can Stand a Little Rain • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:02 pm",
-      "artist": "Joe Cocker",
-      "title": "You Are So Beautiful"
-    },
     {
       "time": "12:04 pm",
       "artist": "The White Stripes",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:02 pm",
+      "artist": "Joe Cocker",
+      "title": "You Are So Beautiful",
+      "album": "I Can Stand a Little Rain • 1974"
+    },
     {
       "time": "11:59 am",
       "artist": "The Shins",
@@ -177,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
       "album": "Michigan • 2003"
-    },
-    {
-      "time": "10:25 am",
-      "artist": "Wilco",
-      "title": "You Satellite",
-      "album": "Star Wars • 2015"
     }
   ]
 }
