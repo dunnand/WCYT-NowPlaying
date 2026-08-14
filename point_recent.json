@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T03:54:55",
+  "updatedAt": "2026-08-14T03:58:22",
   "now": {
     "artist": "The Strokes",
-    "title": "The Modern Age",
-    "album": "Is This It • 2001",
+    "title": "You Talk Way Too Much",
+    "album": "Room on Fire • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 am",
-      "artist": "The Strokes",
-      "title": "You Talk Way Too Much"
-    },
     {
       "time": "4:01 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:08 am",
       "artist": "Telehealth",
       "title": "Cool Job"
+    },
+    {
+      "time": "4:10 am",
+      "artist": "Be Your Own Pet",
+      "title": "Hand Grenade"
     }
   ],
   "recent": [
+    {
+      "time": "3:58 am",
+      "artist": "The Strokes",
+      "title": "You Talk Way Too Much",
+      "album": "Room on Fire • 2003"
+    },
     {
       "time": "3:54 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Fleet Foxes",
       "title": "Battery Kinzie",
       "album": "Helplessness Blues • 2011"
-    },
-    {
-      "time": "2:23 am",
-      "artist": "St. Vincent",
-      "title": "Cruel",
-      "album": "Strange Mercy • 2011"
     }
   ]
 }
