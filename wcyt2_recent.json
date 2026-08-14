@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T04:50:28",
+  "updatedAt": "2026-08-14T04:50:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Come Together",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "The Beatles",
-      "title": "Come Together"
-    },
     {
       "time": "4:54 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:03 am",
       "artist": "Seal",
       "title": "Kiss From A Rose"
+    },
+    {
+      "time": "5:08 am",
+      "artist": "George Harrison",
+      "title": "All Those Years Ago"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "The Beatles",
+      "title": "Come Together",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "4:46 am",
       "artist": "Uncle Kracker",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "You'll miss me when I'm not around",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "3:22 am",
-      "artist": "The Feelies",
-      "title": "Fa ce-La",
-      "album": "Crazy Rhythms • 1980"
     }
   ]
 }
