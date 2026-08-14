@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T03:32:45",
+  "updatedAt": "2026-08-14T03:34:38",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Mansard Roof",
-    "album": "Vampire Weekend • 2008",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "She Loves You",
+    "album": "single • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:34 am",
-      "artist": "The Beatles",
-      "title": "She Loves You"
-    },
     {
       "time": "3:36 am",
       "artist": "Dire Straits",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:34 am",
+      "artist": "The Beatles",
+      "title": "She Loves You",
+      "album": "single • 1963"
+    },
     {
       "time": "3:32 am",
       "artist": "Vampire Weekend",
@@ -177,12 +178,6 @@
       "artist": "Wilco",
       "title": "I Might",
       "album": "The Whole Love • 2011"
-    },
-    {
-      "time": "2:08 am",
-      "artist": "Yo La Tengo",
-      "title": "Cherry Chapstick",
-      "album": "And Then Nothing Turned Itself Inside • 2000"
     }
   ]
 }
