@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:59:25",
+  "updatedAt": "2026-08-14T00:59:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Dummy",
+    "title": "Mono Retriever",
+    "album": "Single (2022) • 2022",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "Dummy",
-      "title": "Mono Retriever"
-    },
     {
       "time": "1:02 am",
       "artist": "Mac DeMarco",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "Dummy",
+      "title": "Mono Retriever",
+      "album": "Single (2022) • 2022"
+    },
     {
       "time": "12:56 am",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "Kepler-22b",
       "album": "Omnium Gatherum • 2022"
-    },
-    {
-      "time": "10:46 pm",
-      "artist": "IAN SWEET",
-      "title": "Criminal Kissing",
-      "album": "Shiverstruck • 2026"
     }
   ]
 }
