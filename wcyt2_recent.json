@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T17:02:31",
+  "updatedAt": "2026-08-14T17:02:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Videotape",
+    "album": "In Rainbows • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:02 pm",
-      "artist": "Radiohead",
-      "title": "Videotape"
-    },
     {
       "time": "5:07 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:17 pm",
       "artist": "Sebadoh",
       "title": "Rebound"
+    },
+    {
+      "time": "5:19 pm",
+      "artist": "Soundgarden",
+      "title": "The Day I Tried to Live"
     }
   ],
   "recent": [
+    {
+      "time": "5:02 pm",
+      "artist": "Radiohead",
+      "title": "Videotape",
+      "album": "In Rainbows • 2007"
+    },
     {
       "time": "4:59 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Operation Ivy",
       "title": "Knowledge",
       "album": "Energy • 1989"
-    },
-    {
-      "time": "3:25 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "From Her to Eternity",
-      "album": "From Her to Eternity • 1984"
     }
   ]
 }
