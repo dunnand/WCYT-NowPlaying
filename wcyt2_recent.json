@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T15:55:03",
+  "updatedAt": "2026-08-14T15:57:24",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Maybelene",
-    "album": "After School Session • 1957",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Death Letter",
+    "album": "De Stijl • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:57 pm",
-      "artist": "The White Stripes",
-      "title": "Death Letter"
-    },
     {
       "time": "4:01 pm",
       "artist": "B.J. Thomas",
@@ -21,9 +16,20 @@
       "time": "4:04 pm",
       "artist": "Taylor Swift",
       "title": "22"
+    },
+    {
+      "time": "4:08 pm",
+      "artist": "Nirvana",
+      "title": "Jesus Doesn't Want Me for a Sunbeam"
     }
   ],
   "recent": [
+    {
+      "time": "3:57 pm",
+      "artist": "The White Stripes",
+      "title": "Death Letter",
+      "album": "De Stijl • 2000"
+    },
     {
       "time": "3:55 pm",
       "artist": "Chuck Berry",
@@ -167,12 +173,6 @@
       "artist": "Morrissey",
       "title": "Suedehead",
       "album": "Viva Hate • 1988"
-    },
-    {
-      "time": "2:24 pm",
-      "artist": "Mission of Burma",
-      "title": "That's How I Escaped My Certain Fate",
-      "album": "Vs. • 1982"
     }
   ]
 }
