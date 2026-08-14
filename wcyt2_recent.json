@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T12:51:31",
+  "updatedAt": "2026-08-14T12:55:37",
   "now": {
-    "artist": "Radiohead",
-    "title": "Nude",
-    "album": "In Rainbows • 2007",
+    "artist": "Gerry & The Pacemakers",
+    "title": "You'll Never Walk Alone",
+    "album": "How Do You Like It? • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "Gerry & The Pacemakers",
-      "title": "You'll Never Walk Alone"
-    },
     {
       "time": "12:58 pm",
       "artist": "Kate Bush",
@@ -26,9 +21,20 @@
       "time": "1:04 pm",
       "artist": "Weezer",
       "title": "Cleopatra"
+    },
+    {
+      "time": "1:07 pm",
+      "artist": "The Thermals",
+      "title": "A Pillar of Salt"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "Gerry & The Pacemakers",
+      "title": "You'll Never Walk Alone",
+      "album": "How Do You Like It? • 1963"
+    },
     {
       "time": "12:51 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "Arabian Heights",
       "album": "In Spades • 2017"
-    },
-    {
-      "time": "11:27 am",
-      "artist": "Drifters",
-      "title": "Up On The Roof",
-      "album": "single • 1962"
     }
   ]
 }
