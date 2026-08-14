@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T13:52:36",
+  "updatedAt": "2026-08-14T13:54:58",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "I Can Hear Music",
-    "album": "20/20 • 1969",
+    "artist": "Lou Reed",
+    "title": "Vicious",
+    "album": "Transformer • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:54 pm",
-      "artist": "Lou Reed",
-      "title": "Vicious"
-    },
     {
       "time": "1:57 pm",
       "artist": "The Flaming Lips",
@@ -26,9 +21,20 @@
       "time": "2:03 pm",
       "artist": "Rihanna",
       "title": "Don't Stop the Music"
+    },
+    {
+      "time": "2:08 pm",
+      "artist": "Bob Dylan",
+      "title": "Temporary Like Achilles"
     }
   ],
   "recent": [
+    {
+      "time": "1:54 pm",
+      "artist": "Lou Reed",
+      "title": "Vicious",
+      "album": "Transformer • 1972"
+    },
     {
       "time": "1:52 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Violent Femmes",
       "title": "American Music",
       "album": "Why Do Birds Sing? • 1991"
-    },
-    {
-      "time": "12:22 pm",
-      "artist": "Songs Ohia",
-      "title": "Hot Black Silk",
-      "album": "Axxess & Ace • 2014"
     }
   ]
 }
