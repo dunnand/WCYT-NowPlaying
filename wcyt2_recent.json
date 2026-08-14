@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-14T04:44:18",
+  "updatedAt": "2026-08-14T04:46:52",
   "now": {
-    "artist": "John Lee Hooker",
-    "title": "I'm in the Mood",
-    "album": "single • 1951",
+    "artist": "Uncle Kracker",
+    "title": "Follow Me",
+    "album": "Double Wide • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "Uncle Kracker",
-      "title": "Follow Me"
-    },
     {
       "time": "4:50 am",
       "artist": "The Beatles",
       "title": "Come Together"
     },
     {
-      "time": "4:55 am",
+      "time": "4:54 am",
       "artist": "Radiohead",
       "title": "True Love Waits"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "Uncle Kracker",
+      "title": "Follow Me",
+      "album": "Double Wide • 2000"
+    },
     {
       "time": "4:44 am",
       "artist": "John Lee Hooker",
@@ -172,12 +173,6 @@
       "artist": "The Feelies",
       "title": "Fa ce-La",
       "album": "Crazy Rhythms • 1980"
-    },
-    {
-      "time": "3:16 am",
-      "artist": "Eric B. & Rakim",
-      "title": "My Melody",
-      "album": "Paid in Full • 1987"
     }
   ]
 }
