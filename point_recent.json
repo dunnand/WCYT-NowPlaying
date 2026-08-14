@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:17:27",
+  "updatedAt": "2026-08-14T00:17:49",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "julie",
+    "title": "flutter",
+    "album": "flutter • 2020",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 am",
-      "artist": "julie",
-      "title": "flutter"
-    },
     {
       "time": "12:22 am",
       "artist": "Katy Kirby",
@@ -26,9 +21,20 @@
       "time": "12:30 am",
       "artist": "The Chemical Brothers",
       "title": "Go"
+    },
+    {
+      "time": "12:34 am",
+      "artist": "Sun June",
+      "title": "Everything I Had"
     }
   ],
   "recent": [
+    {
+      "time": "12:17 am",
+      "artist": "julie",
+      "title": "flutter",
+      "album": "flutter • 2020"
+    },
     {
       "time": "12:13 am",
       "artist": "Sons of Kemet",
@@ -172,12 +178,6 @@
       "artist": "Elbow",
       "title": "Red",
       "album": "Asleep In the Back • 2001"
-    },
-    {
-      "time": "10:04 pm",
-      "artist": "Beirut",
-      "title": "No No No",
-      "album": "No No No • 2015"
     }
   ]
 }
