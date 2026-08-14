@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T11:38:41",
+  "updatedAt": "2026-08-14T11:42:55",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Ghost",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Kraftwerk",
+    "title": "Pocket Calculator",
+    "album": "Computer World • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:42 am",
-      "artist": "Kraftwerk",
-      "title": "Pocket Calculator"
-    },
     {
       "time": "11:47 am",
       "artist": "Laurie Anderson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:42 am",
+      "artist": "Kraftwerk",
+      "title": "Pocket Calculator",
+      "album": "Computer World • 1981"
+    },
     {
       "time": "11:38 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Slowdive",
       "title": "Sugar For The Pill",
       "album": "Slowdive • 2017"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Super Furry Animals",
-      "title": "Hello Sunshine",
-      "album": "Rings Around the World • 2001"
     }
   ]
 }
