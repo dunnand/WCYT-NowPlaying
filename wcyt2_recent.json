@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T04:21:48",
+  "updatedAt": "2026-08-14T04:22:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Don McLean",
+    "title": "American Pie",
+    "album": "American Pie • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:21 am",
-      "artist": "Don McLean",
-      "title": "American Pie"
-    },
     {
       "time": "4:30 am",
       "artist": "The Shins",
@@ -31,9 +26,20 @@
       "time": "4:41 am",
       "artist": "Public Enemy",
       "title": "He Got Game feat. Stephen Stills"
+    },
+    {
+      "time": "4:44 am",
+      "artist": "John Lee Hooker",
+      "title": "I'm in the Mood"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 am",
+      "artist": "Don McLean",
+      "title": "American Pie",
+      "album": "American Pie • 1971"
+    },
     {
       "time": "4:18 am",
       "artist": "The Shins",
@@ -177,12 +183,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Dani California",
       "album": "Stadium Arcadium • 2006"
-    },
-    {
-      "time": "2:56 am",
-      "artist": "Platters",
-      "title": "(You've Got) The Magic Touch",
-      "album": "single • 1956"
     }
   ]
 }
