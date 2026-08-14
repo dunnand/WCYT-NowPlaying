@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T21:53:41",
+  "updatedAt": "2026-08-13T21:56:27",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Rusty Cage",
-    "album": "Unchained • 1996",
+    "artist": "Bruce Springsteen",
+    "title": "Pink Cadillac",
+    "album": "single • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Pink Cadillac"
-    },
     {
       "time": "10:00 pm",
       "artist": "De La Soul",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:56 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Pink Cadillac",
+      "album": "single • 1988"
+    },
     {
       "time": "9:53 pm",
       "artist": "Johnny Cash",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Being For The Benefit Of Mr. Kite!",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "8:31 pm",
-      "artist": "Stephen Malkmus",
-      "title": "Jenny & the Ess-Dog",
-      "album": "Stephen Malkmus • 2001"
     }
   ]
 }
