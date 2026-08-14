@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T00:49:44",
+  "updatedAt": "2026-08-14T00:49:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Brian Eno",
+    "title": "King's Lead Hat",
+    "album": "Before and After Science • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "Brian Eno",
-      "title": "King's Lead Hat"
-    },
     {
       "time": "12:53 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "1:07 am",
       "artist": "Louis Armstrong",
       "title": "A Kiss to Build a Dream On"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Sonic Youth",
+      "title": "Do You Believe in Rapture?"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "Brian Eno",
+      "title": "King's Lead Hat",
+      "album": "Before and After Science • 1977"
+    },
     {
       "time": "12:46 am",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "Train",
       "title": "Hey Soul Sister",
       "album": "Save Me, San Francisco • 2009"
-    },
-    {
-      "time": "11:09 pm",
-      "artist": "The Clash",
-      "title": "London Calling",
-      "album": "London Calling • 1979"
     }
   ]
 }
