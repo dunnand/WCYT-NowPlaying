@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T05:34:46",
+  "updatedAt": "2026-08-14T05:37:30",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "(The Angels Wanna Wear My) Red Shoes",
-    "album": "My Aim Is True • 1977",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Svefn-g-englar",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:37 am",
-      "artist": "Sigur Ros",
-      "title": "Svefn-g-englar"
-    },
     {
       "time": "5:46 am",
       "artist": "Chuck Berry",
@@ -26,9 +21,20 @@
       "time": "5:53 am",
       "artist": "The Beatles",
       "title": "Ask Me Why"
+    },
+    {
+      "time": "5:55 am",
+      "artist": "Rihanna",
+      "title": "Diamonds"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 am",
+      "artist": "Sigur Ros",
+      "title": "Svefn-g-englar",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "5:34 am",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Prince and the New Power Generation",
       "title": "Cream",
       "album": "Diamonds and Pearls • 1991"
-    },
-    {
-      "time": "3:58 am",
-      "artist": "Primal Scream",
-      "title": "Higher Than The Sun",
-      "album": "Screamadelica • 1991"
     }
   ]
 }
