@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T02:17:09",
+  "updatedAt": "2026-08-14T02:22:34",
   "now": {
-    "artist": "Metallica",
-    "title": "Sad but True",
-    "album": "Metallica • 1991",
+    "artist": "Michael Bolton",
+    "title": "Time, Love And Tenderness",
+    "album": "Time, Love & Tenderness • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:22 am",
-      "artist": "Michael Bolton",
-      "title": "Time, Love And Tenderness"
-    },
     {
       "time": "2:26 am",
       "artist": "Elvis Costello & The Attractions",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:22 am",
+      "artist": "Michael Bolton",
+      "title": "Time, Love And Tenderness",
+      "album": "Time, Love & Tenderness • 1991"
+    },
     {
       "time": "2:17 am",
       "artist": "Metallica",
@@ -172,12 +173,6 @@
       "artist": "Brian Eno",
       "title": "King's Lead Hat",
       "album": "Before and After Science • 1977"
-    },
-    {
-      "time": "12:46 am",
-      "artist": "The Beatles",
-      "title": "You Really Got A Hold On Me",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
