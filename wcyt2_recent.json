@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-14T12:58:14",
+  "updatedAt": "2026-08-14T13:00:48",
   "now": {
-    "artist": "Kate Bush",
-    "title": "The Man With the Child in His Eyes",
-    "album": "The Kick Inside • 1978",
+    "artist": "Foo Fighters",
+    "title": "I'll Stick Around",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 pm",
-      "artist": "Foo Fighters",
-      "title": "I'll Stick Around"
-    },
     {
       "time": "1:04 pm",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:00 pm",
+      "artist": "Foo Fighters",
+      "title": "I'll Stick Around",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "12:58 pm",
       "artist": "Kate Bush",
@@ -172,12 +173,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "Ghost",
       "album": "In The Aeroplane Over The Sea • 1998"
-    },
-    {
-      "time": "11:35 am",
-      "artist": "Modest Mouse",
-      "title": "Never Ending Math Equation",
-      "album": "Building Nothing out of Something • 1999"
     }
   ]
 }
