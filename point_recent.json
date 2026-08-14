@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-13T21:36:27",
+  "updatedAt": "2026-08-13T21:36:39",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
+    "artist": "This is Lorelei",
+    "title": "Oh No Now My",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:36 pm",
-      "artist": "This is Lorelei",
-      "title": "Oh No Now My"
-    },
     {
       "time": "9:39 pm",
       "artist": "Swapmeet",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:36 pm",
+      "artist": "This is Lorelei",
+      "title": "Oh No Now My",
+      "album": ""
+    },
     {
       "time": "9:32 pm",
       "artist": "Broken Social Scene",
@@ -172,12 +173,6 @@
       "artist": "Whitney",
       "title": "Golden Days",
       "album": "Light Upon The Lake • 2016"
-    },
-    {
-      "time": "8:03 pm",
-      "artist": "Avalon Emerson",
-      "title": "Happy Birthday",
-      "album": "Written into Changes • 2026"
     }
   ]
 }
