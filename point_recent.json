@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T07:13:26",
+  "updatedAt": "2026-08-15T07:13:38",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Jim James",
+    "title": "Come Again",
+    "album": "Wowed Out • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:13 am",
-      "artist": "Jim James",
-      "title": "Come Again"
-    },
     {
       "time": "7:17 am",
       "artist": "Geese",
@@ -26,9 +21,20 @@
       "time": "7:24 am",
       "artist": "Boygenius",
       "title": "True Blue"
+    },
+    {
+      "time": "7:29 am",
+      "artist": "Stef Chura",
+      "title": "Danny"
     }
   ],
   "recent": [
+    {
+      "time": "7:13 am",
+      "artist": "Jim James",
+      "title": "Come Again",
+      "album": "Wowed Out • 2026"
+    },
     {
       "time": "7:09 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Arlo Parks",
       "title": "Heaven",
       "album": "Ambiguous Desire • 2025"
-    },
-    {
-      "time": "5:29 am",
-      "artist": "Black Country, New Road",
-      "title": "Strangers",
-      "album": "HELP • 2026"
     }
   ]
 }
