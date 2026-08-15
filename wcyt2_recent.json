@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T13:16:38",
+  "updatedAt": "2026-08-15T13:19:12",
   "now": {
-    "artist": "The Magnetic Fields",
-    "title": "Strange Powers",
-    "album": "Holiday • 1994",
-    "category": "TUNES"
+    "artist": "Black Flag",
+    "title": "My War",
+    "album": "My War • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:19 pm",
-      "artist": "Black Flag",
-      "title": "My War"
-    },
     {
       "time": "1:22 pm",
       "artist": "Bobby Brown",
@@ -26,9 +21,20 @@
       "time": "1:31 pm",
       "artist": "Paul Simon",
       "title": "Was a Sunny Day"
+    },
+    {
+      "time": "1:35 pm",
+      "artist": "Rod Stewart",
+      "title": "You're In My Heart (The Final Acclaim)"
     }
   ],
   "recent": [
+    {
+      "time": "1:19 pm",
+      "artist": "Black Flag",
+      "title": "My War",
+      "album": "My War • 1984"
+    },
     {
       "time": "1:16 pm",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "Brenda Lee",
       "title": "I'm sorry",
       "album": "Brenda Lee • 1960"
-    },
-    {
-      "time": "11:41 am",
-      "artist": "The White Stripes",
-      "title": "There's No Home for You Here",
-      "album": "Elephant • 2003"
     }
   ]
 }
