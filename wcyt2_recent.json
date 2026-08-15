@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T15:03:15",
+  "updatedAt": "2026-08-15T15:06:29",
   "now": {
-    "artist": "System of a Down",
-    "title": "Hypnotize",
-    "album": "Hypnotize • 2005",
+    "artist": "David Bowie",
+    "title": "Lazarus",
+    "album": "Blackstar • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:06 pm",
-      "artist": "David Bowie",
-      "title": "Lazarus"
-    },
     {
       "time": "3:12 pm",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "3:21 pm",
       "artist": "Boogie Down Productions",
       "title": "Stop the Violence"
+    },
+    {
+      "time": "3:26 pm",
+      "artist": "Commodores",
+      "title": "Nightshift"
     }
   ],
   "recent": [
+    {
+      "time": "3:06 pm",
+      "artist": "David Bowie",
+      "title": "Lazarus",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "3:03 pm",
       "artist": "System of a Down",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Was a Sunny Day",
       "album": "There Goes Rhymin Simon • 1973"
-    },
-    {
-      "time": "1:27 pm",
-      "artist": "Taylor Swift",
-      "title": "Exile feat. Bon Iver",
-      "album": "folklore • 2020"
     }
   ]
 }
