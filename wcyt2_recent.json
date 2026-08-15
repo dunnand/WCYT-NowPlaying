@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T11:09:52",
+  "updatedAt": "2026-08-15T11:12:17",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Baby, Let Me Follow You Down",
-    "album": "Bob Dylan • 1962",
+    "artist": "Black Eyed Peas",
+    "title": "Just Can't Get Enough",
+    "album": "The Beginning • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "Black Eyed Peas",
-      "title": "Just Can't Get Enough"
-    },
     {
       "time": "11:16 am",
       "artist": "Santana",
@@ -21,9 +16,20 @@
       "time": "11:20 am",
       "artist": "R.E.M.",
       "title": "E-Bow the Letter"
+    },
+    {
+      "time": "11:25 am",
+      "artist": "The B",
+      "title": "52's - Private Idaho"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "Black Eyed Peas",
+      "title": "Just Can't Get Enough",
+      "album": "The Beginning • 2010"
+    },
     {
       "time": "11:09 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Songs Ohia",
       "title": "Blue Chicago Moon",
       "album": "Didn't It Rain • 2002"
-    },
-    {
-      "time": "9:30 am",
-      "artist": "Taylor Swift",
-      "title": "Glitch",
-      "album": "Midnights 3am • 2022"
     }
   ]
 }
