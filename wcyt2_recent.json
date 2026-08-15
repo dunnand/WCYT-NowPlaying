@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T01:42:12",
+  "updatedAt": "2026-08-15T01:42:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Stooges",
+    "title": "Down on the Street",
+    "album": "Fun House • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "The Stooges",
-      "title": "Down on the Street"
-    },
     {
       "time": "1:45 am",
       "artist": "Gary Puckett & The Union Gap",
@@ -31,9 +26,20 @@
       "time": "2:00 am",
       "artist": "Archie Bleyer",
       "title": "Hernando's Hideaway"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Spoon",
+      "title": "Anything You Want"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "The Stooges",
+      "title": "Down on the Street",
+      "album": "Fun House • 1970"
+    },
     {
       "time": "1:39 am",
       "artist": "Aretha Franklin",
@@ -177,12 +183,6 @@
       "artist": "Elvis Presley",
       "title": "Can't Help Falling In Love",
       "album": "Blue Hawaii • 1961"
-    },
-    {
-      "time": "12:05 am",
-      "artist": "Radiohead",
-      "title": "Morning Bell/Amnesiac",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
