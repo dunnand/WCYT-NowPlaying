@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T07:01:00",
+  "updatedAt": "2026-08-15T07:01:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Wilco",
+    "title": "I'll Fight",
+    "album": "Wilco • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:01 am",
-      "artist": "Wilco",
-      "title": "I'll Fight"
-    },
     {
       "time": "7:05 am",
       "artist": "Regina Spektor",
@@ -26,9 +21,20 @@
       "time": "7:12 am",
       "artist": "Natalie Merchant",
       "title": "Kind & Generous"
+    },
+    {
+      "time": "7:16 am",
+      "artist": "Pantera",
+      "title": "This Love"
     }
   ],
   "recent": [
+    {
+      "time": "7:01 am",
+      "artist": "Wilco",
+      "title": "I'll Fight",
+      "album": "Wilco • 2009"
+    },
     {
       "time": "6:57 am",
       "artist": "Blood Orange",
@@ -172,12 +178,6 @@
       "artist": "Toto",
       "title": "Rosanna",
       "album": "Toto IV • 1982"
-    },
-    {
-      "time": "5:15 am",
-      "artist": "Tom Petty",
-      "title": "Jammin' Me",
-      "album": "Let Me Up • 1987"
     }
   ]
 }
