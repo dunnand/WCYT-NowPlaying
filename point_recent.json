@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T11:01:03",
+  "updatedAt": "2026-08-15T11:05:30",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Third Side Of The Moon",
-    "album": "An Eraser and a Maze • 2026",
+    "artist": "The Flaming Lips",
+    "title": "A Spoonful Weighs a Ton",
+    "album": "The Soft Bulletin • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 am",
-      "artist": "The Flaming Lips",
-      "title": "A Spoonful Weighs a Ton"
-    },
     {
       "time": "11:09 am",
       "artist": "Freak Slug",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:05 am",
+      "artist": "The Flaming Lips",
+      "title": "A Spoonful Weighs a Ton",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "11:01 am",
       "artist": "Modest Mouse",
@@ -172,12 +173,6 @@
       "artist": "Death Cab For Cutie",
       "title": "Punching The Flowers",
       "album": "I Built You A Tower • 2026"
-    },
-    {
-      "time": "9:26 am",
-      "artist": "Feist",
-      "title": "So Sorry",
-      "album": "The Reminder • 2007"
     }
   ]
 }
