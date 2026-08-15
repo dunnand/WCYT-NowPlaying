@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-15T04:54:37",
+  "updatedAt": "2026-08-15T05:00:37",
   "now": {
-    "artist": "Songs Ohia",
-    "title": "Ring The Bell",
-    "album": "Didn't It Rain • 2002",
-    "category": "TUNES"
+    "artist": "The Killers",
+    "title": "All These Things That I've Done",
+    "album": "Hot Fuss • 2004",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "The Killers",
-      "title": "All These Things That I've Done"
-    },
     {
       "time": "5:05 am",
       "artist": "Wilco",
       "title": "Locator"
     },
     {
-      "time": "5:08 am",
+      "time": "5:07 am",
       "artist": "Golden Smog",
       "title": "Until You Came Along"
     },
@@ -26,9 +21,20 @@
       "time": "5:12 am",
       "artist": "Hole",
       "title": "Celebrity Skin"
+    },
+    {
+      "time": "5:15 am",
+      "artist": "Tom Petty",
+      "title": "Jammin' Me"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "The Killers",
+      "title": "All These Things That I've Done",
+      "album": "Hot Fuss • 2004"
+    },
     {
       "time": "4:54 am",
       "artist": "Songs Ohia",
@@ -172,12 +178,6 @@
       "artist": "The Weeknd",
       "title": "After Hours",
       "album": "After Hours • 2020"
-    },
-    {
-      "time": "3:26 am",
-      "artist": "The Waterboys",
-      "title": "The Whole of the Moon",
-      "album": "This Is the Sea • 1985"
     }
   ]
 }
