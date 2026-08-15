@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T00:20:21",
+  "updatedAt": "2026-08-15T00:20:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Neutral Milk Hotel",
+    "title": "Everything Is",
+    "album": "Everything Is • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:20 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Everything Is"
-    },
     {
       "time": "12:23 am",
       "artist": "florence road",
@@ -26,9 +21,20 @@
       "time": "12:31 am",
       "artist": "Friko",
       "title": "Still Around"
+    },
+    {
+      "time": "12:35 am",
+      "artist": "Death Cab for Cutie",
+      "title": "Riptides"
     }
   ],
   "recent": [
+    {
+      "time": "12:20 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Everything Is",
+      "album": "Everything Is • 1994"
+    },
     {
       "time": "12:17 am",
       "artist": "of Montreal",
@@ -172,12 +178,6 @@
       "artist": "Jack White",
       "title": "Neighbors Blues",
       "album": "Frozen Charlotte • 2026"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "Beck",
-      "title": "Sexx Laws",
-      "album": "Midnite Vultures • 1999"
     }
   ]
 }
