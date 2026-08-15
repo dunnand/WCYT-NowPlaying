@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T19:43:14",
+  "updatedAt": "2026-08-15T19:47:32",
   "now": {
-    "artist": "Madonna",
-    "title": "Secret",
-    "album": "Bedtime Stories • 1994",
+    "artist": "Foo Fighters",
+    "title": "Monkey Wrench",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 pm",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench"
-    },
     {
       "time": "7:51 pm",
       "artist": "Don Henley",
@@ -21,9 +16,25 @@
       "time": "7:57 pm",
       "artist": "Doug E. Fresh",
       "title": "La-Di-Da-Di"
+    },
+    {
+      "time": "8:01 pm",
+      "artist": "Turnstile",
+      "title": "T.L.C. (Turnstile Love Connection)"
+    },
+    {
+      "time": "8:03 pm",
+      "artist": "The Roots",
+      "title": "The Seed (2.0)"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 pm",
+      "artist": "Foo Fighters",
+      "title": "Monkey Wrench",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "7:43 pm",
       "artist": "Madonna",
@@ -167,12 +178,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Cheated Hearts",
       "album": "Show Your Bones • 2006"
-    },
-    {
-      "time": "6:29 pm",
-      "artist": "England Dan & John Ford Coley",
-      "title": "I'd Really Love To See You Tonight",
-      "album": "Nights Are Forever • 1976"
     }
   ]
 }
