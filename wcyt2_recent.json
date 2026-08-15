@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T13:46:22",
+  "updatedAt": "2026-08-15T13:50:39",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Angie",
-    "album": "Goats Head Soup • 1973",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Trailer Trash",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:50 pm",
-      "artist": "Modest Mouse",
-      "title": "Trailer Trash"
-    },
     {
       "time": "1:56 pm",
       "artist": "Buddy Holly",
@@ -21,9 +16,20 @@
       "time": "1:58 pm",
       "artist": "Vampire Weekend",
       "title": "Cape Cod Kwassa Kwassa"
+    },
+    {
+      "time": "2:02 pm",
+      "artist": "American Breed",
+      "title": "Bend Me, Shape Me"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "Modest Mouse",
+      "title": "Trailer Trash",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "1:46 pm",
       "artist": "Rolling Stones",
@@ -167,12 +173,6 @@
       "artist": "Elliott Smith",
       "title": "Waltz #2 (XO)",
       "album": "XO • 1998"
-    },
-    {
-      "time": "12:11 pm",
-      "artist": "Pavement",
-      "title": "Spit on a Stranger",
-      "album": "Terror Twilight • 1999"
     }
   ]
 }
