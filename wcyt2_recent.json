@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T17:45:29",
+  "updatedAt": "2026-08-15T17:51:17",
   "now": {
-    "artist": "The Who",
-    "title": "Love, Reign O'er Me",
-    "album": "Quadrophenia • 1973",
+    "artist": "Radiohead",
+    "title": "The Bends",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:51 pm",
-      "artist": "Radiohead",
-      "title": "The Bends"
-    },
     {
       "time": "5:55 pm",
       "artist": "Jack Scott",
@@ -21,9 +16,20 @@
       "time": "5:57 pm",
       "artist": "Talib Kweli",
       "title": "Get By"
+    },
+    {
+      "time": "6:01 pm",
+      "artist": "Dion",
+      "title": "Donna The Prima Donna"
     }
   ],
   "recent": [
+    {
+      "time": "5:51 pm",
+      "artist": "Radiohead",
+      "title": "The Bends",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "5:45 pm",
       "artist": "The Who",
@@ -167,12 +173,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Scar Tissue",
       "album": "Californication • 1999"
-    },
-    {
-      "time": "4:18 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Henry Lee",
-      "album": "Murder Ballads • 1996"
     }
   ]
 }
