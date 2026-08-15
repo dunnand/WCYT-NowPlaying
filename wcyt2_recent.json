@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T10:13:36",
+  "updatedAt": "2026-08-15T10:13:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Big Thief",
+    "title": "Mary",
+    "album": "Capacity • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:13 am",
-      "artist": "Big Thief",
-      "title": "Mary"
-    },
     {
       "time": "10:19 am",
       "artist": "Van Halen",
@@ -26,9 +21,20 @@
       "time": "10:28 am",
       "artist": "A Flock Of Seagulls",
       "title": "I Ran (So Far Away)"
+    },
+    {
+      "time": "10:33 am",
+      "artist": "Air Supply",
+      "title": "Even The Nights Are Better"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 am",
+      "artist": "Big Thief",
+      "title": "Mary",
+      "album": "Capacity • 2017"
+    },
     {
       "time": "10:09 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Stairway to Heaven",
       "album": "Led Zeppelin IV • 1971"
-    },
-    {
-      "time": "8:26 am",
-      "artist": "Yola",
-      "title": "Shady Grove",
-      "album": "Stand for Myself • 2021"
     }
   ]
 }
