@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T14:09:04",
+  "updatedAt": "2026-08-15T14:12:30",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Song Against Sex",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "album": "Weezer • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:12 pm",
-      "artist": "Weezer",
-      "title": "Buddy Holly"
-    },
     {
       "time": "2:15 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:12 pm",
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "2:09 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "The Dandy Warhols",
       "title": "We Used to Be Friends",
       "album": "Welcome to the Monkey's Game • 2003"
-    },
-    {
-      "time": "12:34 pm",
-      "artist": "Karen Dalton",
-      "title": "Something on Your Mind",
-      "album": "In My Own Time • 1970"
     }
   ]
 }
