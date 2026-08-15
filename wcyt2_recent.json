@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T17:51:17",
+  "updatedAt": "2026-08-15T17:55:15",
   "now": {
-    "artist": "Radiohead",
-    "title": "The Bends",
-    "album": "The Bends • 1995",
+    "artist": "Jack Scott",
+    "title": "What In The World's Come Over You",
+    "album": "Single • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:55 pm",
-      "artist": "Jack Scott",
-      "title": "What In The World's Come Over You"
-    },
     {
       "time": "5:57 pm",
       "artist": "Talib Kweli",
@@ -21,9 +16,20 @@
       "time": "6:01 pm",
       "artist": "Dion",
       "title": "Donna The Prima Donna"
+    },
+    {
+      "time": "6:04 pm",
+      "artist": "Adele",
+      "title": "Someone Like You"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 pm",
+      "artist": "Jack Scott",
+      "title": "What In The World's Come Over You",
+      "album": "Single • 1959"
+    },
     {
       "time": "5:51 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Crosby, Stills & Nash",
       "title": "Wasted On The Way",
       "album": "Daylight Again • 1982"
-    },
-    {
-      "time": "4:23 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Scar Tissue",
-      "album": "Californication • 1999"
     }
   ]
 }
