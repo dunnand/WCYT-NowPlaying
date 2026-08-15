@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T13:31:12",
+  "updatedAt": "2026-08-15T13:31:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Was a Sunny Day",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:31 pm",
-      "artist": "Paul Simon",
-      "title": "Was a Sunny Day"
-    },
     {
       "time": "1:35 pm",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "1:43 pm",
       "artist": "Astrud Gilberto",
       "title": "Summer Samba (So Nice)"
+    },
+    {
+      "time": "1:46 pm",
+      "artist": "Rolling Stones",
+      "title": "Angie"
     }
   ],
   "recent": [
+    {
+      "time": "1:31 pm",
+      "artist": "Paul Simon",
+      "title": "Was a Sunny Day",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "1:27 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "The Crests",
       "title": "Sixteen Candles",
       "album": "single • 1958"
-    },
-    {
-      "time": "11:52 am",
-      "artist": "The Verve",
-      "title": "Bitter Sweet Symphony",
-      "album": "Urban Hymns • 1997"
     }
   ]
 }
