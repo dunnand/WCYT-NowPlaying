@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T14:12:30",
+  "updatedAt": "2026-08-15T14:15:15",
   "now": {
-    "artist": "Weezer",
-    "title": "Buddy Holly",
-    "album": "Weezer • 1994",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Against The Wind",
+    "album": "Against the Wind • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:15 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Against The Wind"
-    },
     {
       "time": "2:20 pm",
       "artist": "Bon Jovi",
@@ -21,9 +16,25 @@
       "time": "2:26 pm",
       "artist": "Turnstile",
       "title": "I CARE"
+    },
+    {
+      "time": "2:30 pm",
+      "artist": "Stevie Wonder",
+      "title": "Isn't She Lovely"
+    },
+    {
+      "time": "2:36 pm",
+      "artist": "T. Rex",
+      "title": "Children of the Revolution"
     }
   ],
   "recent": [
+    {
+      "time": "2:15 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Against The Wind",
+      "album": "Against the Wind • 1980"
+    },
     {
       "time": "2:12 pm",
       "artist": "Weezer",
@@ -167,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "I Want You",
       "album": "Blonde on Blonde • 1966"
-    },
-    {
-      "time": "12:37 pm",
-      "artist": "The Dandy Warhols",
-      "title": "We Used to Be Friends",
-      "album": "Welcome to the Monkey's Game • 2003"
     }
   ]
 }
