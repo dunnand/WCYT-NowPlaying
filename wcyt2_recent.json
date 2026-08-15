@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T05:19:15",
+  "updatedAt": "2026-08-15T05:19:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Toto",
+    "title": "Rosanna",
+    "album": "Toto IV • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:19 am",
-      "artist": "Toto",
-      "title": "Rosanna"
-    },
     {
       "time": "5:23 am",
       "artist": "Malcolm Todd",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:19 am",
+      "artist": "Toto",
+      "title": "Rosanna",
+      "album": "Toto IV • 1982"
+    },
     {
       "time": "5:15 am",
       "artist": "Tom Petty",
@@ -172,12 +173,6 @@
       "artist": "Townes Van Zandt",
       "title": "If I Needed You",
       "album": "The Late Great Townes Van Zandt • 1972"
-    },
-    {
-      "time": "3:47 am",
-      "artist": "Dionne Warwick",
-      "title": "Walk on By",
-      "album": "Make Way for Dionne Warwick • 1964"
     }
   ]
 }
