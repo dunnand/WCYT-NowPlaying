@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-15T13:11:09",
+  "updatedAt": "2026-08-15T13:16:38",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Rhinoceros",
-    "album": "Gish • 1991",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Strange Powers",
+    "album": "Holiday • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:16 pm",
-      "artist": "The Magnetic Fields",
-      "title": "Strange Powers"
-    },
     {
       "time": "1:19 pm",
       "artist": "Black Flag",
       "title": "My War"
     },
     {
-      "time": "1:23 pm",
+      "time": "1:22 pm",
       "artist": "Bobby Brown",
       "title": "Every Little Step"
     },
@@ -26,9 +21,20 @@
       "time": "1:26 pm",
       "artist": "Taylor Swift",
       "title": "Exile feat. Bon Iver"
+    },
+    {
+      "time": "1:31 pm",
+      "artist": "Paul Simon",
+      "title": "Was a Sunny Day"
     }
   ],
   "recent": [
+    {
+      "time": "1:16 pm",
+      "artist": "The Magnetic Fields",
+      "title": "Strange Powers",
+      "album": "Holiday • 1994"
+    },
     {
       "time": "1:11 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "There's No Home for You Here",
       "album": "Elephant • 2003"
-    },
-    {
-      "time": "11:37 am",
-      "artist": "Ozark Mountain Daredevils",
-      "title": "Jackie Blue",
-      "album": "Itll Shine When It Shines • 1975"
     }
   ]
 }
