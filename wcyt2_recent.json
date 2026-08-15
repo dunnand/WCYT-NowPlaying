@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T08:29:32",
+  "updatedAt": "2026-08-15T08:37:33",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Stairway to Heaven",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Cream",
+    "title": "Tales of Brave Ulysses",
+    "album": "Disraeli Gears • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:37 am",
-      "artist": "Cream",
-      "title": "Tales of Brave Ulysses"
-    },
     {
       "time": "8:40 am",
       "artist": "The Clash",
@@ -23,12 +18,23 @@
       "title": "Don't Say Nothin' Bad (About My Baby)"
     },
     {
-      "time": "8:48 am",
+      "time": "8:49 am",
       "artist": "Bob Dylan",
       "title": "Tangled Up in Blue"
+    },
+    {
+      "time": "8:54 am",
+      "artist": "Supergrass",
+      "title": "Pumping On Your Stereo"
     }
   ],
   "recent": [
+    {
+      "time": "8:37 am",
+      "artist": "Cream",
+      "title": "Tales of Brave Ulysses",
+      "album": "Disraeli Gears • 1967"
+    },
     {
       "time": "8:29 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "I'll Fight",
       "album": "Wilco • 2009"
-    },
-    {
-      "time": "6:57 am",
-      "artist": "Blood Orange",
-      "title": "You're Not Good Enough",
-      "album": "Cupid Deluxe • 2013"
     }
   ]
 }
