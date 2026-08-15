@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T12:29:41",
+  "updatedAt": "2026-08-15T12:29:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Janis Joplin",
+    "title": "Me And Bobby McGee",
+    "album": "Pearl • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:29 pm",
-      "artist": "Janis Joplin",
-      "title": "Me And Bobby McGee"
-    },
     {
       "time": "12:34 pm",
       "artist": "Karen Dalton",
@@ -26,9 +21,20 @@
       "time": "12:41 pm",
       "artist": "Bob Dylan",
       "title": "I Want You"
+    },
+    {
+      "time": "12:44 pm",
+      "artist": "Neil Young",
+      "title": "Ambulance Blues"
     }
   ],
   "recent": [
+    {
+      "time": "12:29 pm",
+      "artist": "Janis Joplin",
+      "title": "Me And Bobby McGee",
+      "album": "Pearl • 1971"
+    },
     {
       "time": "12:26 pm",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Ritchie Valens",
       "title": "La Bamba",
       "album": "Ritchie Valens • 1959"
-    },
-    {
-      "time": "11:01 am",
-      "artist": "Rembrandts",
-      "title": "I'll Be There For You",
-      "album": "L.P. • 1995"
     }
   ]
 }
