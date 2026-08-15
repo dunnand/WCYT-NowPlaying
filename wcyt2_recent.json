@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T00:11:54",
+  "updatedAt": "2026-08-15T00:15:40",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Delicate",
-    "album": "reputation • 2017",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "Like Dylan in the Movies",
+    "album": "If You're Feeling Sinister • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:15 am",
-      "artist": "Belle and Sebastian",
-      "title": "Like Dylan in the Movies"
-    },
     {
       "time": "12:19 am",
       "artist": "Built to Spill",
@@ -21,9 +16,20 @@
       "time": "12:22 am",
       "artist": "The Sugarcubes",
       "title": "Regina"
+    },
+    {
+      "time": "12:26 am",
+      "artist": "Talk Talk",
+      "title": "The Rainbow"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 am",
+      "artist": "Belle and Sebastian",
+      "title": "Like Dylan in the Movies",
+      "album": "If You're Feeling Sinister • 1996"
+    },
     {
       "time": "12:11 am",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "Television",
       "title": "See No Evil",
       "album": "Marquee Moon • 1977"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Sweet",
-      "title": "Fox On The Run",
-      "album": "Desolation Boulevard • 1975"
     }
   ]
 }
