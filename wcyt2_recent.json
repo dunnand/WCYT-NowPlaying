@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T16:38:55",
+  "updatedAt": "2026-08-15T16:42:41",
   "now": {
-    "artist": "Bee Gees",
-    "title": "Jive Talkin'",
-    "album": "Main Course • 1975",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "I Just Don't Know What to Do With Myself",
+    "album": "Elephant • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:42 pm",
-      "artist": "The White Stripes",
-      "title": "I Just Don't Know What to Do With Myself"
-    },
     {
       "time": "4:45 pm",
       "artist": "Arctic Monkeys",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:42 pm",
+      "artist": "The White Stripes",
+      "title": "I Just Don't Know What to Do With Myself",
+      "album": "Elephant • 2003"
+    },
     {
       "time": "4:38 pm",
       "artist": "Bee Gees",
@@ -177,12 +178,6 @@
       "artist": "System of a Down",
       "title": "Hypnotize",
       "album": "Hypnotize • 2005"
-    },
-    {
-      "time": "2:59 pm",
-      "artist": "Wilco",
-      "title": "What Light",
-      "album": "Sky Blue Sky • 2007"
     }
   ]
 }
