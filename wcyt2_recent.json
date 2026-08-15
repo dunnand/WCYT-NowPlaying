@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T10:47:37",
+  "updatedAt": "2026-08-15T10:47:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Amelia",
+    "album": "Hejira • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:47 am",
-      "artist": "Joni Mitchell",
-      "title": "Amelia"
-    },
     {
       "time": "10:53 am",
       "artist": "The Everly Brothers",
@@ -26,9 +21,20 @@
       "time": "11:01 am",
       "artist": "Rembrandts",
       "title": "I'll Be There For You"
+    },
+    {
+      "time": "11:04 am",
+      "artist": "Ritchie Valens",
+      "title": "La Bamba"
     }
   ],
   "recent": [
+    {
+      "time": "10:47 am",
+      "artist": "Joni Mitchell",
+      "title": "Amelia",
+      "album": "Hejira • 1976"
+    },
     {
       "time": "10:44 am",
       "artist": "Frankie Valli",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Surfer Girl",
       "album": "Surfer Girl • 1963"
-    },
-    {
-      "time": "9:02 am",
-      "artist": "Wilco",
-      "title": "I'm the Man Who Loves You",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
