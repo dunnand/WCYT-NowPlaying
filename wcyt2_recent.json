@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T08:48:54",
+  "updatedAt": "2026-08-15T08:54:42",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Tangled Up in Blue",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "Supergrass",
+    "title": "Pumping On Your Stereo",
+    "album": "Supergrass • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 am",
-      "artist": "Supergrass",
-      "title": "Pumping On Your Stereo"
-    },
     {
       "time": "8:57 am",
       "artist": "Sister Rosetta Tharpe",
@@ -26,9 +21,20 @@
       "time": "9:07 am",
       "artist": "The Beach Boys",
       "title": "Surfer Girl"
+    },
+    {
+      "time": "9:09 am",
+      "artist": "Charles Bradley",
+      "title": "Ain't It a Sin"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 am",
+      "artist": "Supergrass",
+      "title": "Pumping On Your Stereo",
+      "album": "Supergrass • 1999"
+    },
     {
       "time": "8:48 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Pantera",
       "title": "This Love",
       "album": "Vulgar Display of Power • 1992"
-    },
-    {
-      "time": "7:12 am",
-      "artist": "Natalie Merchant",
-      "title": "Kind & Generous",
-      "album": "Ophelia • 1998"
     }
   ]
 }
