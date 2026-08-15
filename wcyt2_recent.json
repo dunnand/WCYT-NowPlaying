@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T12:41:01",
+  "updatedAt": "2026-08-15T12:44:09",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I Want You",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "Neil Young",
+    "title": "Ambulance Blues",
+    "album": "On the Beach • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:44 pm",
-      "artist": "Neil Young",
-      "title": "Ambulance Blues"
-    },
     {
       "time": "12:52 pm",
       "artist": "Pearl Jam",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:44 pm",
+      "artist": "Neil Young",
+      "title": "Ambulance Blues",
+      "album": "On the Beach • 1974"
+    },
     {
       "time": "12:41 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Santana",
       "title": "Smooth Feat. Rob Thomas",
       "album": "Supernatural • 1999"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "Black Eyed Peas",
-      "title": "Just Can't Get Enough",
-      "album": "The Beginning • 2010"
     }
   ]
 }
