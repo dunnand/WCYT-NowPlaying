@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T15:06:29",
+  "updatedAt": "2026-08-15T15:12:47",
   "now": {
-    "artist": "David Bowie",
-    "title": "Lazarus",
-    "album": "Blackstar • 2016",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Loser",
+    "album": "Mellow Gold • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:12 pm",
-      "artist": "Beck",
-      "title": "Loser"
-    },
     {
       "time": "3:16 pm",
       "artist": "Bjork",
@@ -26,9 +21,20 @@
       "time": "3:26 pm",
       "artist": "Commodores",
       "title": "Nightshift"
+    },
+    {
+      "time": "3:30 pm",
+      "artist": "Toosii",
+      "title": "Favorite Song"
     }
   ],
   "recent": [
+    {
+      "time": "3:12 pm",
+      "artist": "Beck",
+      "title": "Loser",
+      "album": "Mellow Gold • 1994"
+    },
     {
       "time": "3:06 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "You're In My Heart (The Final Acclaim)",
       "album": "Foot Loose & Fancy Free • 1978"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "Paul Simon",
-      "title": "Was a Sunny Day",
-      "album": "There Goes Rhymin Simon • 1973"
     }
   ]
 }
