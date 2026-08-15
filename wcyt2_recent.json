@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T11:41:47",
+  "updatedAt": "2026-08-15T11:45:32",
   "now": {
-    "artist": "The White Stripes",
-    "title": "There's No Home for You Here",
-    "album": "Elephant • 2003",
-    "category": "TUNES"
+    "artist": "Brenda Lee",
+    "title": "I'm sorry",
+    "album": "Brenda Lee • 1960",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:45 am",
-      "artist": "Brenda Lee",
-      "title": "I'm sorry"
-    },
     {
       "time": "11:48 am",
       "artist": "Norman Greenbaum",
@@ -26,9 +21,20 @@
       "time": "11:56 am",
       "artist": "The Crests",
       "title": "Sixteen Candles"
+    },
+    {
+      "time": "11:59 am",
+      "artist": "Radiohead",
+      "title": "Kid A"
     }
   ],
   "recent": [
+    {
+      "time": "11:45 am",
+      "artist": "Brenda Lee",
+      "title": "I'm sorry",
+      "album": "Brenda Lee • 1960"
+    },
     {
       "time": "11:41 am",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Big Thief",
       "title": "Mary",
       "album": "Capacity • 2017"
-    },
-    {
-      "time": "10:09 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Dig, Lazarus, Dig!!!",
-      "album": ""
     }
   ]
 }
