@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T11:09:40",
+  "updatedAt": "2026-08-15T11:09:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Baby, Let Me Follow You Down",
+    "album": "Bob Dylan • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:09 am",
-      "artist": "Bob Dylan",
-      "title": "Baby, Let Me Follow You Down"
-    },
     {
       "time": "11:12 am",
       "artist": "Black Eyed Peas",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:09 am",
+      "artist": "Bob Dylan",
+      "title": "Baby, Let Me Follow You Down",
+      "album": "Bob Dylan • 1962"
+    },
     {
       "time": "11:06 am",
       "artist": "The White Stripes",
@@ -172,12 +173,6 @@
       "artist": "Taylor Swift",
       "title": "Glitch",
       "album": "Midnights 3am • 2022"
-    },
-    {
-      "time": "9:25 am",
-      "artist": "A.C. Marias",
-      "title": "One of Our Girls Has Gone Missing",
-      "album": "One of Our Girls • 1989"
     }
   ]
 }
