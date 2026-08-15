@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T16:38:43",
+  "updatedAt": "2026-08-15T16:38:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "Jive Talkin'",
+    "album": "Main Course • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:38 pm",
-      "artist": "Bee Gees",
-      "title": "Jive Talkin'"
-    },
     {
       "time": "4:42 pm",
       "artist": "The White Stripes",
@@ -31,9 +26,20 @@
       "time": "4:53 pm",
       "artist": "Stone Temple Pilots",
       "title": "Tumble in the Rough"
+    },
+    {
+      "time": "4:56 pm",
+      "artist": "Beach House",
+      "title": "Zebra"
     }
   ],
   "recent": [
+    {
+      "time": "4:38 pm",
+      "artist": "Bee Gees",
+      "title": "Jive Talkin'",
+      "album": "Main Course • 1975"
+    },
     {
       "time": "4:36 pm",
       "artist": "The White Stripes",
@@ -177,12 +183,6 @@
       "artist": "Wilco",
       "title": "What Light",
       "album": "Sky Blue Sky • 2007"
-    },
-    {
-      "time": "2:55 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Do I Wanna Know",
-      "album": "AM • 2013"
     }
   ]
 }
