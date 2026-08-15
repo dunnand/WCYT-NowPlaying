@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T16:45:15",
+  "updatedAt": "2026-08-15T16:49:43",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Four Out Of Five",
-    "album": "Tranquility Base Hotel & Casino •",
-    "category": "TUNES"
+    "artist": "Doobie Brothers",
+    "title": "Takin' It To The Streets",
+    "album": "Takin' It to the Streets • 1976",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:49 pm",
-      "artist": "Doobie Brothers",
-      "title": "Takin' It To The Streets"
-    },
     {
       "time": "4:53 pm",
       "artist": "Stone Temple Pilots",
@@ -26,9 +21,20 @@
       "time": "5:01 pm",
       "artist": "Spiritualized",
       "title": "Stop Your Crying"
+    },
+    {
+      "time": "5:06 pm",
+      "artist": "Radiohead",
+      "title": "2 + 2 = 5 (The Lukewarm.)"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 pm",
+      "artist": "Doobie Brothers",
+      "title": "Takin' It To The Streets",
+      "album": "Takin' It to the Streets • 1976"
+    },
     {
       "time": "4:45 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Loser",
       "album": "Mellow Gold • 1994"
-    },
-    {
-      "time": "3:06 pm",
-      "artist": "David Bowie",
-      "title": "Lazarus",
-      "album": "Blackstar • 2016"
     }
   ]
 }
