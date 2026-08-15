@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T19:37:44",
+  "updatedAt": "2026-08-15T19:37:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Little Sister",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:37 pm",
-      "artist": "Elvis Presley",
-      "title": "Little Sister"
-    },
     {
       "time": "7:40 pm",
       "artist": "Curtis Harding",
@@ -26,9 +21,20 @@
       "time": "7:47 pm",
       "artist": "Foo Fighters",
       "title": "Monkey Wrench"
+    },
+    {
+      "time": "7:51 pm",
+      "artist": "Don Henley",
+      "title": "Dirty Laundry"
     }
   ],
   "recent": [
+    {
+      "time": "7:37 pm",
+      "artist": "Elvis Presley",
+      "title": "Little Sister",
+      "album": "single • 1961"
+    },
     {
       "time": "7:34 pm",
       "artist": "The Exploding Hearts",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "cardigan",
       "album": "Folklore • 2020"
-    },
-    {
-      "time": "6:19 pm",
-      "artist": "Descendents",
-      "title": "Suburban Home",
-      "album": "Milo Goes to College • 1982"
     }
   ]
 }
