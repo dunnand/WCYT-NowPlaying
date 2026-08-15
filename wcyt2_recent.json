@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T10:56:03",
+  "updatedAt": "2026-08-15T11:01:25",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Mother",
-    "album": "The Wall • 1979",
+    "artist": "Rembrandts",
+    "title": "I'll Be There For You",
+    "album": "L.P. • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:01 am",
-      "artist": "Rembrandts",
-      "title": "I'll Be There For You"
-    },
     {
       "time": "11:04 am",
       "artist": "Ritchie Valens",
@@ -21,9 +16,20 @@
       "time": "11:06 am",
       "artist": "The White Stripes",
       "title": "Dead Leaves and the Dirty Ground"
+    },
+    {
+      "time": "11:09 am",
+      "artist": "Bob Dylan",
+      "title": "Baby, Let Me Follow You Down"
     }
   ],
   "recent": [
+    {
+      "time": "11:01 am",
+      "artist": "Rembrandts",
+      "title": "I'll Be There For You",
+      "album": "L.P. • 1995"
+    },
     {
       "time": "10:56 am",
       "artist": "Pink Floyd",
@@ -167,12 +173,6 @@
       "artist": "The Prodigy",
       "title": "Out Of Space",
       "album": "Experience • 1992"
-    },
-    {
-      "time": "9:13 am",
-      "artist": "The Chemical Brothers",
-      "title": "Let Forever Be",
-      "album": "Surrender • 1999"
     }
   ]
 }
