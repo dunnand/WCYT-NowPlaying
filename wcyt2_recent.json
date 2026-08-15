@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T02:07:58",
+  "updatedAt": "2026-08-15T02:10:34",
   "now": {
-    "artist": "St. Vincent",
-    "title": "New York",
-    "album": "Masseduction • 2018",
-    "category": "TUNES"
+    "artist": "Bruce Springsteen",
+    "title": "Secret Garden",
+    "album": "Jerry Maguire Soundtrack • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 am",
-      "artist": "Bruce Springsteen",
-      "title": "Secret Garden"
-    },
     {
       "time": "2:15 am",
       "artist": "Celine Dion",
@@ -21,9 +16,20 @@
       "time": "2:19 am",
       "artist": "The English Beat",
       "title": "I Confess"
+    },
+    {
+      "time": "2:24 am",
+      "artist": "The Stone Roses",
+      "title": "I Wanna Be Adored"
     }
   ],
   "recent": [
+    {
+      "time": "2:10 am",
+      "artist": "Bruce Springsteen",
+      "title": "Secret Garden",
+      "album": "Jerry Maguire Soundtrack • 1997"
+    },
     {
       "time": "2:07 am",
       "artist": "St. Vincent",
@@ -167,12 +173,6 @@
       "artist": "The Meters",
       "title": "People Say",
       "album": "Rejuvenation • 1974"
-    },
-    {
-      "time": "12:38 am",
-      "artist": "The Zutons",
-      "title": "Valerie",
-      "album": "Tired of Hanging Around • 2006"
     }
   ]
 }
