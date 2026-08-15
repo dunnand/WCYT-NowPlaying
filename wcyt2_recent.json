@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T04:35:55",
+  "updatedAt": "2026-08-15T04:40:54",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Young Liars",
-    "album": "Young Liars • 2003",
-    "category": "TUNES"
+    "artist": "Impressions",
+    "title": "It's All Right",
+    "album": "The Impressions • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:40 am",
-      "artist": "Impressions",
-      "title": "It's All Right"
-    },
     {
       "time": "4:43 am",
       "artist": "Willie Nelson",
@@ -26,9 +21,20 @@
       "time": "4:50 am",
       "artist": "Vampire Weekend",
       "title": "Obvious Bicycle"
+    },
+    {
+      "time": "4:54 am",
+      "artist": "Songs Ohia",
+      "title": "Ring The Bell"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 am",
+      "artist": "Impressions",
+      "title": "It's All Right",
+      "album": "The Impressions • 1963"
+    },
     {
       "time": "4:35 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Africa",
       "album": "Weezer • 2019"
-    },
-    {
-      "time": "3:01 am",
-      "artist": "Sonic Youth",
-      "title": "Antenna",
-      "album": "The Eternal • 2009"
     }
   ]
 }
