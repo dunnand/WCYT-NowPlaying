@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T03:44:38",
+  "updatedAt": "2026-08-15T03:47:13",
   "now": {
-    "artist": "Tom Jones",
-    "title": "She's A Lady",
-    "album": "Tom Jones Sings She's a Lady • 1971",
+    "artist": "Dionne Warwick",
+    "title": "Walk on By",
+    "album": "Make Way for Dionne Warwick • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:47 am",
-      "artist": "Dionne Warwick",
-      "title": "Walk on By"
-    },
     {
       "time": "3:50 am",
       "artist": "Townes Van Zandt",
@@ -26,9 +21,20 @@
       "time": "3:58 am",
       "artist": "Elvis Presley",
       "title": "Don't Be Cruel"
+    },
+    {
+      "time": "4:00 am",
+      "artist": "Sonic Youth",
+      "title": "Sacred Trickster"
     }
   ],
   "recent": [
+    {
+      "time": "3:47 am",
+      "artist": "Dionne Warwick",
+      "title": "Walk on By",
+      "album": "Make Way for Dionne Warwick • 1964"
+    },
     {
       "time": "3:44 am",
       "artist": "Tom Jones",
@@ -172,12 +178,6 @@
       "artist": "St. Vincent",
       "title": "New York",
       "album": "Masseduction • 2018"
-    },
-    {
-      "time": "2:05 am",
-      "artist": "Hank Ballard & The Midnighters",
-      "title": "Finger Poppin' Time",
-      "album": "Mr. Rhythm and Blues • 1960"
     }
   ]
 }
