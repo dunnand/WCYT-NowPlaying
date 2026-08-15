@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T05:19:27",
+  "updatedAt": "2026-08-15T05:23:23",
   "now": {
-    "artist": "Toto",
-    "title": "Rosanna",
-    "album": "Toto IV • 1982",
+    "artist": "Malcolm Todd",
+    "title": "Roommates",
+    "album": "Single • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:23 am",
-      "artist": "Malcolm Todd",
-      "title": "Roommates"
-    },
     {
       "time": "5:27 am",
       "artist": "X",
@@ -21,9 +16,20 @@
       "time": "5:30 am",
       "artist": "Donovan",
       "title": "Wear Your Love Like Heaven"
+    },
+    {
+      "time": "5:33 am",
+      "artist": "ZZ Top",
+      "title": "La Grange"
     }
   ],
   "recent": [
+    {
+      "time": "5:23 am",
+      "artist": "Malcolm Todd",
+      "title": "Roommates",
+      "album": "Single • 2023"
+    },
     {
       "time": "5:19 am",
       "artist": "Toto",
@@ -167,12 +173,6 @@
       "artist": "Eric Clapton",
       "title": "My Father's Eyes",
       "album": "Pilgrim • 1998"
-    },
-    {
-      "time": "3:50 am",
-      "artist": "Townes Van Zandt",
-      "title": "If I Needed You",
-      "album": "The Late Great Townes Van Zandt • 1972"
     }
   ]
 }
