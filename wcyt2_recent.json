@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T12:19:21",
+  "updatedAt": "2026-08-15T12:19:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bananarama",
+    "title": "Venus",
+    "album": "True Confessions • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:19 pm",
-      "artist": "Bananarama",
-      "title": "Venus"
-    },
     {
       "time": "12:23 pm",
       "artist": "Barbra Streisand",
@@ -26,9 +21,20 @@
       "time": "12:30 pm",
       "artist": "Janis Joplin",
       "title": "Me And Bobby McGee"
+    },
+    {
+      "time": "12:34 pm",
+      "artist": "Karen Dalton",
+      "title": "Something on Your Mind"
     }
   ],
   "recent": [
+    {
+      "time": "12:19 pm",
+      "artist": "Bananarama",
+      "title": "Venus",
+      "album": "True Confessions • 1986"
+    },
     {
       "time": "12:14 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "So Sad (To Watch Good Love Go Bad)",
       "album": "It's Everly Time • 1960"
-    },
-    {
-      "time": "10:47 am",
-      "artist": "Joni Mitchell",
-      "title": "Amelia",
-      "album": "Hejira • 1976"
     }
   ]
 }
