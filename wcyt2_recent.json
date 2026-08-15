@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T05:32:49",
+  "updatedAt": "2026-08-15T05:33:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ZZ Top",
+    "title": "La Grange",
+    "album": "Tres Hombres • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:33 am",
-      "artist": "ZZ Top",
-      "title": "La Grange"
-    },
     {
       "time": "5:36 am",
       "artist": "The Byrds",
@@ -26,9 +21,20 @@
       "time": "5:48 am",
       "artist": "Jewel",
       "title": "Hands"
+    },
+    {
+      "time": "5:52 am",
+      "artist": "Ray Charles",
+      "title": "Take These Chains From My Heart"
     }
   ],
   "recent": [
+    {
+      "time": "5:33 am",
+      "artist": "ZZ Top",
+      "title": "La Grange",
+      "album": "Tres Hombres • 1974"
+    },
     {
       "time": "5:30 am",
       "artist": "Donovan",
@@ -172,12 +178,6 @@
       "artist": "Etta James",
       "title": "Something's Got a Hold on Me",
       "album": "Etta James • 1962"
-    },
-    {
-      "time": "4:00 am",
-      "artist": "Sonic Youth",
-      "title": "Sacred Trickster",
-      "album": "The Eternal • 2009"
     }
   ]
 }
