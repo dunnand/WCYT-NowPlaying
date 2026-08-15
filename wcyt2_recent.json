@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T16:23:15",
+  "updatedAt": "2026-08-15T16:26:51",
   "now": {
-    "artist": "Red Hot Chili Peppers",
-    "title": "Scar Tissue",
-    "album": "Californication • 1999",
+    "artist": "Crosby, Stills & Nash",
+    "title": "Wasted On The Way",
+    "album": "Daylight Again • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:26 pm",
-      "artist": "Crosby, Stills & Nash",
-      "title": "Wasted On The Way"
-    },
     {
       "time": "4:30 pm",
       "artist": "Crowded House",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:26 pm",
+      "artist": "Crosby, Stills & Nash",
+      "title": "Wasted On The Way",
+      "album": "Daylight Again • 1982"
+    },
     {
       "time": "4:23 pm",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +173,6 @@
       "artist": "Bobby Darin",
       "title": "Dream Lover",
       "album": "The Bobby Darin Story • 1961"
-    },
-    {
-      "time": "2:41 pm",
-      "artist": "Spoon",
-      "title": "Lines in the Suit",
-      "album": "Girls Can Tell • 2002"
     }
   ]
 }
