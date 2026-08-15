@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T12:29:53",
+  "updatedAt": "2026-08-15T12:34:20",
   "now": {
-    "artist": "Janis Joplin",
-    "title": "Me And Bobby McGee",
-    "album": "Pearl • 1971",
+    "artist": "Karen Dalton",
+    "title": "Something on Your Mind",
+    "album": "In My Own Time • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Karen Dalton",
-      "title": "Something on Your Mind"
-    },
     {
       "time": "12:37 pm",
       "artist": "The Dandy Warhols",
@@ -26,9 +21,20 @@
       "time": "12:44 pm",
       "artist": "Neil Young",
       "title": "Ambulance Blues"
+    },
+    {
+      "time": "12:52 pm",
+      "artist": "Pearl Jam",
+      "title": "Immortality"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Karen Dalton",
+      "title": "Something on Your Mind",
+      "album": "In My Own Time • 1970"
+    },
     {
       "time": "12:29 pm",
       "artist": "Janis Joplin",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "Dead Leaves and the Dirty Ground",
       "album": "White Blood Cells • 2002"
-    },
-    {
-      "time": "11:04 am",
-      "artist": "Ritchie Valens",
-      "title": "La Bamba",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
