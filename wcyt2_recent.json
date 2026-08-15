@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T03:01:10",
+  "updatedAt": "2026-08-15T03:07:25",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "Antenna",
-    "album": "The Eternal • 2009",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Africa",
+    "album": "Weezer • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:07 am",
-      "artist": "Weezer",
-      "title": "Africa"
-    },
     {
       "time": "3:11 am",
       "artist": "Dinosaur Jr.",
@@ -26,9 +21,20 @@
       "time": "3:19 am",
       "artist": "The The",
       "title": "Uncertain Smile"
+    },
+    {
+      "time": "3:26 am",
+      "artist": "The Waterboys",
+      "title": "The Whole of the Moon"
     }
   ],
   "recent": [
+    {
+      "time": "3:07 am",
+      "artist": "Weezer",
+      "title": "Africa",
+      "album": "Weezer • 2019"
+    },
     {
       "time": "3:01 am",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Spinners",
       "title": "Could It Be I'm Falling In Love",
       "album": "Spinners • 1973"
-    },
-    {
-      "time": "1:31 am",
-      "artist": "Taylor Swift",
-      "title": "august",
-      "album": "folklore • 2020"
     }
   ]
 }
