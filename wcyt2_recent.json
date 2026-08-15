@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T17:34:06",
+  "updatedAt": "2026-08-15T17:37:44",
   "now": {
-    "artist": "John Prine",
-    "title": "Angel From Montgomery",
-    "album": "John Prine • 1971",
+    "artist": "Bob Dylan",
+    "title": "Blowin' in the Wind",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:37 pm",
-      "artist": "Bob Dylan",
-      "title": "Blowin' in the Wind"
-    },
     {
       "time": "5:40 pm",
       "artist": "Jonathan Richman & The Modern Lovers",
@@ -26,9 +21,20 @@
       "time": "5:45 pm",
       "artist": "The Who",
       "title": "Love, Reign O'er Me"
+    },
+    {
+      "time": "5:51 pm",
+      "artist": "Radiohead",
+      "title": "The Bends"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 pm",
+      "artist": "Bob Dylan",
+      "title": "Blowin' in the Wind",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "5:34 pm",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "When You Were Young",
       "album": "Sam's Town • 2006"
-    },
-    {
-      "time": "3:59 pm",
-      "artist": "Louis Armstrong & His All-Stars",
-      "title": "Ain't Misbehavin'",
-      "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
     }
   ]
 }
