@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T19:47:32",
+  "updatedAt": "2026-08-15T19:51:28",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Monkey Wrench",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Don Henley",
+    "title": "Dirty Laundry",
+    "album": "I Can't Stand Still • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 pm",
-      "artist": "Don Henley",
-      "title": "Dirty Laundry"
-    },
     {
       "time": "7:57 pm",
       "artist": "Doug E. Fresh",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:51 pm",
+      "artist": "Don Henley",
+      "title": "Dirty Laundry",
+      "album": "I Can't Stand Still • 1982"
+    },
     {
       "time": "7:47 pm",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Diana Ross & The Supremes",
       "title": "Someday We'll Be Together",
       "album": "Cream of the Crop • 1969"
-    },
-    {
-      "time": "6:32 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Cheated Hearts",
-      "album": "Show Your Bones • 2006"
     }
   ]
 }
