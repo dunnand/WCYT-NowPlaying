@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T02:58:21",
+  "updatedAt": "2026-08-15T02:58:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Someone Something",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:58 am",
-      "artist": "Spoon",
-      "title": "Someone Something"
-    },
     {
       "time": "3:01 am",
       "artist": "Sonic Youth",
@@ -26,9 +21,20 @@
       "time": "3:11 am",
       "artist": "Dinosaur Jr.",
       "title": "Start Choppin"
+    },
+    {
+      "time": "3:16 am",
+      "artist": "Eels",
+      "title": "Novocaine For The Soul"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 am",
+      "artist": "Spoon",
+      "title": "Someone Something",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "2:54 am",
       "artist": "Reina del Cid",
@@ -172,12 +178,6 @@
       "artist": "The Cramps",
       "title": "I Can't Hardly Stand It",
       "album": "Bad Music for Bad People • 1984"
-    },
-    {
-      "time": "1:25 am",
-      "artist": "Tears For Fears",
-      "title": "Everybody Wants To Rule The World",
-      "album": "Songs from the Big Chair • 1985"
     }
   ]
 }
