@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T05:05:39",
+  "updatedAt": "2026-08-15T05:05:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Wilco",
+    "title": "Locator",
+    "album": "Schmilco • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 am",
-      "artist": "Wilco",
-      "title": "Locator"
-    },
     {
       "time": "5:07 am",
       "artist": "Golden Smog",
@@ -26,9 +21,20 @@
       "time": "5:15 am",
       "artist": "Tom Petty",
       "title": "Jammin' Me"
+    },
+    {
+      "time": "5:19 am",
+      "artist": "Toto",
+      "title": "Rosanna"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 am",
+      "artist": "Wilco",
+      "title": "Locator",
+      "album": "Schmilco • 2016"
+    },
     {
       "time": "5:00 am",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Todd Rundgren",
       "title": "Hello It's Me",
       "album": "Something/Anything? • 1973"
-    },
-    {
-      "time": "3:31 am",
-      "artist": "The Weeknd",
-      "title": "After Hours",
-      "album": "After Hours • 2020"
     }
   ]
 }
