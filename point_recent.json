@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T00:07:35",
+  "updatedAt": "2026-08-15T00:07:46",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Alabama Shakes",
+    "title": "Garden",
+    "album": "I Must Be Dreaming • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:07 am",
-      "artist": "Alabama Shakes",
-      "title": "Garden"
-    },
     {
       "time": "12:12 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "12:20 am",
       "artist": "Neutral Milk Hotel",
       "title": "Everything Is"
+    },
+    {
+      "time": "12:23 am",
+      "artist": "florence road",
+      "title": "7563"
     }
   ],
   "recent": [
+    {
+      "time": "12:07 am",
+      "artist": "Alabama Shakes",
+      "title": "Garden",
+      "album": "I Must Be Dreaming • 2026"
+    },
     {
       "time": "12:04 am",
       "artist": "Grizzly Bear",
@@ -172,12 +178,6 @@
       "artist": "Goose",
       "title": "Good Times // End Times",
       "album": "Big Modern • 2026"
-    },
-    {
-      "time": "10:31 pm",
-      "artist": "Boygenius",
-      "title": "Emily I'm Sorry",
-      "album": "the record • 2023"
     }
   ]
 }
