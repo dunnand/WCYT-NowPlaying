@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T00:27:36",
+  "updatedAt": "2026-08-15T00:31:31",
   "now": {
-    "artist": "Television",
-    "title": "Venus",
-    "album": "Marquee Moon • 1977",
+    "artist": "Friko",
+    "title": "Still Around",
+    "album": "Something Worth Waiting For • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 am",
-      "artist": "Friko",
-      "title": "Still Around"
-    },
     {
       "time": "12:34 am",
       "artist": "Death Cab for Cutie",
@@ -26,9 +21,20 @@
       "time": "12:42 am",
       "artist": "Operation Ivy",
       "title": "Unity"
+    },
+    {
+      "time": "12:45 am",
+      "artist": "Beatrix",
+      "title": "Turn You Down"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 am",
+      "artist": "Friko",
+      "title": "Still Around",
+      "album": "Something Worth Waiting For • 2026"
+    },
     {
       "time": "12:27 am",
       "artist": "Television",
@@ -172,12 +178,6 @@
       "artist": "The Bug Club",
       "title": "Watching the Omnibus",
       "album": "Every Single Muscle • 2026"
-    },
-    {
-      "time": "10:55 pm",
-      "artist": "King Gizzard And The Lizard Wizard",
-      "title": "Alien Metal",
-      "album": "Alien Metal • 2026"
     }
   ]
 }
