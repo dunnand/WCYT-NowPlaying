@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T04:36:07",
+  "updatedAt": "2026-08-16T04:36:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Pyramid Song",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:36 am",
-      "artist": "Radiohead",
-      "title": "Pyramid Song"
-    },
     {
       "time": "4:41 am",
       "artist": "Dion",
@@ -26,9 +21,20 @@
       "time": "4:47 am",
       "artist": "Sonic Youth",
       "title": "100%"
+    },
+    {
+      "time": "4:50 am",
+      "artist": "The Everly Brothers",
+      "title": "Bye, Bye Love"
     }
   ],
   "recent": [
+    {
+      "time": "4:36 am",
+      "artist": "Radiohead",
+      "title": "Pyramid Song",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "4:33 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "James Carr",
       "title": "The Dark End of the Street",
       "album": "You Got My Mind Messed Up • 1967"
-    },
-    {
-      "time": "3:01 am",
-      "artist": "Robert Randolph and the Family Band",
-      "title": "Baptise Me",
-      "album": "Live at the Wetlands • 2002"
     }
   ]
 }
