@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T13:53:15",
+  "updatedAt": "2026-08-16T13:56:09",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Speed Trials",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Oingo Boingo",
+    "title": "Weird Science",
+    "album": "Weird Science soundtrack • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 pm",
-      "artist": "Oingo Boingo",
-      "title": "Weird Science"
-    },
     {
       "time": "2:00 pm",
       "artist": "Orange Juice",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:56 pm",
+      "artist": "Oingo Boingo",
+      "title": "Weird Science",
+      "album": "Weird Science soundtrack • 1985"
+    },
     {
       "time": "1:53 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Billie Eilish",
       "title": "bury a friend",
       "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? • 2019"
-    },
-    {
-      "time": "12:28 pm",
-      "artist": "Coldplay",
-      "title": "Violet Hill",
-      "album": "Viva la Vida or Death and All His Friends • 2008"
     }
   ]
 }
