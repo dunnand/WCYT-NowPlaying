@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T11:46:13",
+  "updatedAt": "2026-08-16T11:50:20",
   "now": {
-    "artist": "Slowdive",
-    "title": "Machine Gun",
-    "album": "Souvlaki • 1993",
-    "category": "TUNES"
+    "artist": "The Everly Brothers",
+    "title": "Wake Up Little Susie",
+    "album": "The Everly Brothers • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:50 am",
-      "artist": "The Everly Brothers",
-      "title": "Wake Up Little Susie"
-    },
     {
       "time": "11:52 am",
       "artist": "Arcade Fire",
@@ -23,12 +18,23 @@
       "title": "Little Duce Coup"
     },
     {
-      "time": "11:59 am",
+      "time": "11:58 am",
       "artist": "Clairo",
       "title": "Sofia"
+    },
+    {
+      "time": "12:02 pm",
+      "artist": "Spiritualized",
+      "title": "Ladies & Gentlemen We Are Floating in Space (I Can't Help Falling in Love)"
     }
   ],
   "recent": [
+    {
+      "time": "11:50 am",
+      "artist": "The Everly Brothers",
+      "title": "Wake Up Little Susie",
+      "album": "The Everly Brothers • 1958"
+    },
     {
       "time": "11:46 am",
       "artist": "Slowdive",
@@ -172,12 +178,6 @@
       "artist": "Misfits",
       "title": "Night of the Living Dead",
       "album": "Walk Among Us • 1982"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Mazzy Star",
-      "title": "Look on Down From the Bridge",
-      "album": "Among My Swan • 1996"
     }
   ]
 }
