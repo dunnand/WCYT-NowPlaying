@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T05:56:44",
+  "updatedAt": "2026-08-16T05:56:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "Paradise",
+    "album": "Mylo Xyloto • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:56 am",
-      "artist": "Coldplay",
-      "title": "Paradise"
-    },
     {
       "time": "6:01 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "6:09 am",
       "artist": "Kurtis Blow",
       "title": "The Breaks"
+    },
+    {
+      "time": "6:17 am",
+      "artist": "Laura Branigan",
+      "title": "Gloria"
     }
   ],
   "recent": [
+    {
+      "time": "5:56 am",
+      "artist": "Coldplay",
+      "title": "Paradise",
+      "album": "Mylo Xyloto • 2011"
+    },
     {
       "time": "5:52 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "If Not For You",
       "album": "New Morning • 1970"
-    },
-    {
-      "time": "4:27 am",
-      "artist": "Taylor Swift",
-      "title": "Anti-Hero",
-      "album": "Midnights • 2022"
     }
   ]
 }
