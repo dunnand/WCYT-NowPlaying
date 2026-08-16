@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T17:44:20",
+  "updatedAt": "2026-08-16T17:44:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "R U Mine?",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "Arctic Monkeys",
-      "title": "R U Mine?"
-    },
     {
       "time": "5:47 pm",
       "artist": "Ride",
@@ -26,9 +21,20 @@
       "time": "5:53 pm",
       "artist": "Randy Newman",
       "title": "I Love to See You Smile"
+    },
+    {
+      "time": "5:55 pm",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Fight Like a Brave"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "Arctic Monkeys",
+      "title": "R U Mine?",
+      "album": "AM • 2013"
+    },
     {
       "time": "5:40 pm",
       "artist": "Elbow",
@@ -172,12 +178,6 @@
       "artist": "John Travolta & Olivia Newton-John",
       "title": "You're The One That I Want",
       "album": "Grease: The Original Soundtrack from the Motion Picture • 1978"
-    },
-    {
-      "time": "4:11 pm",
-      "artist": "Neil Young",
-      "title": "Shut It Down 2020",
-      "album": "Shut It Down 2020 • 2020"
     }
   ]
 }
