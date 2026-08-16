@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T06:58:48",
+  "updatedAt": "2026-08-16T07:03:21",
   "now": {
-    "artist": "Adele",
-    "title": "Skyfall",
-    "album": "Skyfall • 2012",
+    "artist": "Radiohead",
+    "title": "The Tourist",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:03 am",
-      "artist": "Radiohead",
-      "title": "The Tourist"
-    },
     {
       "time": "7:08 am",
       "artist": "The Magnetic Fields",
@@ -26,9 +21,20 @@
       "time": "7:16 am",
       "artist": "Lucinda Williams",
       "title": "Changed the Locks"
+    },
+    {
+      "time": "7:19 am",
+      "artist": "Weezer",
+      "title": "Hero"
     }
   ],
   "recent": [
+    {
+      "time": "7:03 am",
+      "artist": "Radiohead",
+      "title": "The Tourist",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "6:58 am",
       "artist": "Adele",
@@ -172,12 +178,6 @@
       "artist": "Barry Manilow",
       "title": "Can't Smile Without You",
       "album": "Even Now • 1978"
-    },
-    {
-      "time": "5:22 am",
-      "artist": "ABBA",
-      "title": "Fernando",
-      "album": "Greatest Hits • 1975"
     }
   ]
 }
