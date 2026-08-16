@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T20:44:12",
+  "updatedAt": "2026-08-15T20:46:36",
   "now": {
-    "artist": "Alice in Chains",
-    "title": "Them Bones",
-    "album": "Dirt • 1992",
+    "artist": "Dow Jones & The Industrials",
+    "title": "Can't Stand The Midwest",
+    "album": "Can't Stand The Midwest • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:46 pm",
-      "artist": "Dow Jones & The Industrials",
-      "title": "Can't Stand The Midwest"
-    },
     {
       "time": "8:48 pm",
       "artist": "Eagles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:46 pm",
+      "artist": "Dow Jones & The Industrials",
+      "title": "Can't Stand The Midwest",
+      "album": "Can't Stand The Midwest • 1980"
+    },
     {
       "time": "8:44 pm",
       "artist": "Alice in Chains",
@@ -172,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "Good to My Baby",
       "album": "The Beach Boys Today! • 1965"
-    },
-    {
-      "time": "7:20 pm",
-      "artist": "The Beach Boys",
-      "title": "Forever",
-      "album": "Sunflower • 1970"
     }
   ]
 }
