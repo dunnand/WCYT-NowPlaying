@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T21:44:40",
+  "updatedAt": "2026-08-15T21:50:00",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Man Out of Time",
-    "album": "Imperial Bedroom • 1982",
+    "artist": "Eurythmics",
+    "title": "Sweet Dreams (Are Made Of This)",
+    "album": "Sweet Dreams • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 pm",
-      "artist": "Eurythmics",
-      "title": "Sweet Dreams (Are Made Of This)"
-    },
     {
       "time": "9:53 pm",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:50 pm",
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "album": "Sweet Dreams • 1983"
+    },
     {
       "time": "9:44 pm",
       "artist": "Elvis Costello",
@@ -172,12 +173,6 @@
       "artist": "Cat Stevens",
       "title": "Sitting",
       "album": "Catch Bull at Four • 1972"
-    },
-    {
-      "time": "8:15 pm",
-      "artist": "Bat for Lashes",
-      "title": "Laura",
-      "album": "The Haunted Man • 2012"
     }
   ]
 }
