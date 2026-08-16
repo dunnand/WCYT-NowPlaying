@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T09:14:20",
+  "updatedAt": "2026-08-16T09:22:40",
   "now": {
-    "artist": "Metallica",
-    "title": "Master of Puppets",
-    "album": "Master of Puppets • 1986",
+    "artist": "Little Simz",
+    "title": "Introvert",
+    "album": "Sometimes I Might Be Introvert • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:22 am",
-      "artist": "Little Simz",
-      "title": "Introvert"
-    },
     {
       "time": "9:28 am",
       "artist": "Joy Division",
@@ -21,9 +16,20 @@
       "time": "9:33 am",
       "artist": "Dusty Springfield",
       "title": "I Just Don't Know What To Do With Myself"
+    },
+    {
+      "time": "9:36 am",
+      "artist": "Kenny Rogers",
+      "title": "Lucille"
     }
   ],
   "recent": [
+    {
+      "time": "9:22 am",
+      "artist": "Little Simz",
+      "title": "Introvert",
+      "album": "Sometimes I Might Be Introvert • 2021"
+    },
     {
       "time": "9:14 am",
       "artist": "Metallica",
@@ -167,12 +173,6 @@
       "artist": "Sixpence None The Richer",
       "title": "Kiss Me",
       "album": "Sixpence None the Richer • 1998"
-    },
-    {
-      "time": "7:38 am",
-      "artist": "James Taylor",
-      "title": "Up On The Roof",
-      "album": "Flag • 1979"
     }
   ]
 }
