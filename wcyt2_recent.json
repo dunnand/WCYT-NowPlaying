@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T22:12:51",
+  "updatedAt": "2026-08-15T22:15:26",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Corrina, Corrina",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "artist": "George Harrison",
+    "title": "What Is Life",
+    "album": "All Things Must Pass • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "George Harrison",
-      "title": "What Is Life"
-    },
     {
       "time": "10:19 pm",
       "artist": "Belle and Sebastian",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "George Harrison",
+      "title": "What Is Life",
+      "album": "All Things Must Pass • 1971"
+    },
     {
       "time": "10:12 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Aerosmith",
       "title": "Amazing",
       "album": "Get a Grip • 1993"
-    },
-    {
-      "time": "8:36 pm",
-      "artist": "Charles Bradley",
-      "title": "Lucifer",
-      "album": "single • 2019"
     }
   ]
 }
