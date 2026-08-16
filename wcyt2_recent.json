@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T04:01:41",
+  "updatedAt": "2026-08-16T04:03:56",
   "now": {
-    "artist": "Carl Perkins",
-    "title": "Blue Suede Shoes",
-    "album": "Dance Album of Carl Perkins • 1957",
+    "artist": "Tom Petty and the Heartbreakers",
+    "title": "The Last DJ",
+    "album": "The Last DJ • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "The Last DJ"
-    },
     {
       "time": "4:07 am",
       "artist": "Dusty Springfield",
@@ -21,9 +16,20 @@
       "time": "4:10 am",
       "artist": "Billie Eilish",
       "title": "everything i wanted"
+    },
+    {
+      "time": "4:15 am",
+      "artist": "Green Day",
+      "title": "Chump"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "The Last DJ",
+      "album": "The Last DJ • 2002"
+    },
     {
       "time": "4:01 am",
       "artist": "Carl Perkins",
@@ -167,12 +173,6 @@
       "artist": "The Go-Betweens",
       "title": "Bow Down",
       "album": "Liberty Belle and the Black Diamond Express • 1986"
-    },
-    {
-      "time": "2:23 am",
-      "artist": "Glenn Frey",
-      "title": "You Belong To The City",
-      "album": "Miami Vice soundtrack • 1985"
     }
   ]
 }
