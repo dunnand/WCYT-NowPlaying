@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T13:29:49",
+  "updatedAt": "2026-08-16T13:32:45",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "You've Passed",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Coleman Hawkins",
+    "title": "La Rosita",
+    "album": "Coleman Hawkins Encounters Ben Webster • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:32 pm",
-      "artist": "Coleman Hawkins",
-      "title": "La Rosita"
-    },
     {
       "time": "1:37 pm",
       "artist": "Franz Ferdinand",
@@ -26,9 +21,20 @@
       "time": "1:45 pm",
       "artist": "Charles Bradley",
       "title": "Victim Of Loving"
+    },
+    {
+      "time": "1:48 pm",
+      "artist": "Weezer",
+      "title": "The Good Life"
     }
   ],
   "recent": [
+    {
+      "time": "1:32 pm",
+      "artist": "Coleman Hawkins",
+      "title": "La Rosita",
+      "album": "Coleman Hawkins Encounters Ben Webster • 1959"
+    },
     {
       "time": "1:29 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "Neil Young",
       "title": "Transformer Man",
       "album": "Trans • 1982"
-    },
-    {
-      "time": "12:06 pm",
-      "artist": "Pavement",
-      "title": "Date With IKEA",
-      "album": "Brighten the Corners • 1997"
     }
   ]
 }
