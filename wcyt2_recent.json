@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T11:36:35",
+  "updatedAt": "2026-08-16T11:36:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Aerodynamic",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:36 am",
-      "artist": "Daft Punk",
-      "title": "Aerodynamic"
-    },
     {
       "time": "11:40 am",
       "artist": "The Beach Boys",
@@ -31,9 +26,20 @@
       "time": "11:50 am",
       "artist": "The Everly Brothers",
       "title": "Wake Up Little Susie"
+    },
+    {
+      "time": "11:52 am",
+      "artist": "Arcade Fire",
+      "title": "Neighborhood #3 (Power Out)"
     }
   ],
   "recent": [
+    {
+      "time": "11:36 am",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "11:32 am",
       "artist": "Supertramp",
@@ -177,12 +183,6 @@
       "artist": "The Cookies",
       "title": "Chains",
       "album": "single • 1962"
-    },
-    {
-      "time": "9:52 am",
-      "artist": "Beyonce",
-      "title": "Sweet Dreams",
-      "album": "I Am... Sasha Fierce • 2008"
     }
   ]
 }
