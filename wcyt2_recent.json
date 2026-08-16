@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T06:50:42",
+  "updatedAt": "2026-08-16T06:53:49",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Little Bird",
-    "album": "De Stijl • 2000",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "I Might Be Wrong",
+    "album": "Amnesiac • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:53 am",
-      "artist": "Radiohead",
-      "title": "I Might Be Wrong"
-    },
     {
       "time": "6:58 am",
       "artist": "Adele",
@@ -26,9 +21,20 @@
       "time": "7:08 am",
       "artist": "The Magnetic Fields",
       "title": "Fear of Trains"
+    },
+    {
+      "time": "7:11 am",
+      "artist": "LL Cool J",
+      "title": "Rock The Bells"
     }
   ],
   "recent": [
+    {
+      "time": "6:53 am",
+      "artist": "Radiohead",
+      "title": "I Might Be Wrong",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "6:50 am",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Mario 3D World Big Band",
       "title": "The Credits Roll",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "5:15 am",
-      "artist": "Juice Newton",
-      "title": "Angel Of The Morning",
-      "album": "Juice • 1981"
     }
   ]
 }
