@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T07:23:47",
+  "updatedAt": "2026-08-16T07:27:13",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "Wonderful Tonight",
-    "album": "Slowhand • 1978",
+    "artist": "The Beach Boys",
+    "title": "Sloop John B.",
+    "album": "Pet Sounds • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:27 am",
-      "artist": "The Beach Boys",
-      "title": "Sloop John B."
-    },
     {
       "time": "7:30 am",
       "artist": "James Brown",
@@ -26,9 +21,20 @@
       "time": "7:38 am",
       "artist": "James Taylor",
       "title": "Up On The Roof"
+    },
+    {
+      "time": "7:43 am",
+      "artist": "Sixpence None The Richer",
+      "title": "Kiss Me"
     }
   ],
   "recent": [
+    {
+      "time": "7:27 am",
+      "artist": "The Beach Boys",
+      "title": "Sloop John B.",
+      "album": "Pet Sounds • 1966"
+    },
     {
       "time": "7:23 am",
       "artist": "Eric Clapton",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Everything in Its Right Place",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "5:43 am",
-      "artist": "Bad Meets Evil (Eminem & Royce Da 59)",
-      "title": "Lighters feat. Bruno Mars",
-      "album": "Hell: The Sequel • 2011"
     }
   ]
 }
