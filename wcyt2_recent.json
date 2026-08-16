@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-08-16T10:41:27",
+  "updatedAt": "2026-08-16T10:45:13",
   "now": {
-    "artist": "PJ Harvey",
-    "title": "The Wind",
-    "album": "Is This Desire • 1998",
-    "category": "TUNES"
+    "artist": "Ray Charles",
+    "title": "What'd I Say, Pt. 1 & 2",
+    "album": "single • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:45 am",
+      "time": "10:50 am",
+      "artist": "PJ Harvey",
+      "title": "The Wind"
+    },
+    {
+      "time": "10:54 am",
       "artist": "Ray Charles",
       "title": "What'd I Say, Pt. 1 & 2"
     },
     {
-      "time": "10:50 am",
+      "time": "10:59 am",
       "artist": "DJ Shadow",
       "title": "You Can't Go Home Again"
-    },
-    {
-      "time": "10:57 am",
-      "artist": "Cream",
-      "title": "I'm So Glad"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 am",
+      "artist": "Ray Charles",
+      "title": "What'd I Say, Pt. 1 & 2",
+      "album": "single • 1959"
+    },
     {
       "time": "10:41 am",
       "artist": "PJ Harvey",
@@ -167,12 +173,6 @@
       "artist": "Men At Work",
       "title": "It's A Mistake",
       "album": "Cargo • 1983"
-    },
-    {
-      "time": "9:06 am",
-      "artist": "De La Soul",
-      "title": "Let, Let Me In",
-      "album": "De La Soul is Dead • 1991"
     }
   ]
 }
