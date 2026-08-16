@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T04:14:26",
+  "updatedAt": "2026-08-16T04:14:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Green Day",
+    "title": "Chump",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:14 am",
-      "artist": "Green Day",
-      "title": "Chump"
-    },
     {
       "time": "4:17 am",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "4:24 am",
       "artist": "John Cougar",
       "title": "Hand To Hold On To"
+    },
+    {
+      "time": "4:27 am",
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero"
     }
   ],
   "recent": [
+    {
+      "time": "4:14 am",
+      "artist": "Green Day",
+      "title": "Chump",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "4:10 am",
       "artist": "Billie Eilish",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "I Don't Believe You",
       "album": "Another Side of Bob Dylan • 1964"
-    },
-    {
-      "time": "2:36 am",
-      "artist": "Herman Kelly & Life",
-      "title": "Dance to the Drummer's Beat",
-      "album": "Percussion Explosion • 1978"
     }
   ]
 }
