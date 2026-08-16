@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T06:38:22",
+  "updatedAt": "2026-08-16T06:40:55",
   "now": {
-    "artist": "Buffalo Springfield",
-    "title": "For What It's Worth",
-    "album": "Buffalo Springfield • 1967",
+    "artist": "Elvis Costello",
+    "title": "Radio, Radio",
+    "album": "This Year's Model • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:40 am",
-      "artist": "Elvis Costello",
-      "title": "Radio, Radio"
-    },
     {
       "time": "6:43 am",
       "artist": "Q",
@@ -26,9 +21,20 @@
       "time": "6:50 am",
       "artist": "The White Stripes",
       "title": "Little Bird"
+    },
+    {
+      "time": "6:53 am",
+      "artist": "Radiohead",
+      "title": "I Might Be Wrong"
     }
   ],
   "recent": [
+    {
+      "time": "6:40 am",
+      "artist": "Elvis Costello",
+      "title": "Radio, Radio",
+      "album": "This Year's Model • 1978"
+    },
     {
       "time": "6:38 am",
       "artist": "Buffalo Springfield",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "How to Fight Loneliness",
       "album": "Summerteeth • 1999"
-    },
-    {
-      "time": "4:59 am",
-      "artist": "Bruno Mars",
-      "title": "When I Was Your Man",
-      "album": "Unorthodox Jukebox • 2012"
     }
   ]
 }
