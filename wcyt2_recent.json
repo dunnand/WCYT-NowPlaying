@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T09:14:08",
+  "updatedAt": "2026-08-16T09:14:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Metallica",
+    "title": "Master of Puppets",
+    "album": "Master of Puppets • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 am",
-      "artist": "Metallica",
-      "title": "Master of Puppets"
-    },
     {
       "time": "9:22 am",
       "artist": "Little Simz",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:14 am",
+      "artist": "Metallica",
+      "title": "Master of Puppets",
+      "album": "Master of Puppets • 1986"
+    },
     {
       "time": "9:09 am",
       "artist": "Men At Work",
@@ -172,12 +173,6 @@
       "artist": "James Taylor",
       "title": "Up On The Roof",
       "album": "Flag • 1979"
-    },
-    {
-      "time": "7:35 am",
-      "artist": "Dionne Warwick",
-      "title": "I Say A Little Prayer",
-      "album": "The Windows of the World • 1967"
     }
   ]
 }
