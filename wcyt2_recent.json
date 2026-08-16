@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T01:50:06",
+  "updatedAt": "2026-08-16T01:52:33",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I'll Be Your Baby Tonight",
-    "album": "John Wesley Harding • 1967",
+    "artist": "Eagles",
+    "title": "Witchy Woman",
+    "album": "Eagles • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:52 am",
-      "artist": "Eagles",
-      "title": "Witchy Woman"
-    },
     {
       "time": "1:56 am",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "Wolf Parade",
       "title": "I'll Believe In Anything"
+    },
+    {
+      "time": "2:08 am",
+      "artist": "Radiohead",
+      "title": "Knives Out"
     }
   ],
   "recent": [
+    {
+      "time": "1:52 am",
+      "artist": "Eagles",
+      "title": "Witchy Woman",
+      "album": "Eagles • 1972"
+    },
     {
       "time": "1:50 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Phil Collins",
       "title": "True Colors",
       "album": "...Hits • 1998"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "Adele",
-      "title": "Set Fire To The Rain",
-      "album": "21 • 2011"
     }
   ]
 }
