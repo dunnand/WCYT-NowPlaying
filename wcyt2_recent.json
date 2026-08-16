@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T12:06:09",
+  "updatedAt": "2026-08-16T12:08:42",
   "now": {
-    "artist": "Pavement",
-    "title": "Date With IKEA",
-    "album": "Brighten the Corners • 1997",
-    "category": "TUNES"
+    "artist": "Neil Young",
+    "title": "Transformer Man",
+    "album": "Trans • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 pm",
-      "artist": "Neil Young",
-      "title": "Transformer Man"
-    },
     {
       "time": "12:12 pm",
       "artist": "Nick Drake",
@@ -23,12 +18,18 @@
       "title": "Flowers"
     },
     {
-      "time": "12:18 pm",
+      "time": "12:17 pm",
       "artist": "Destroyer",
       "title": "The Sublimation Hour"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 pm",
+      "artist": "Neil Young",
+      "title": "Transformer Man",
+      "album": "Trans • 1982"
+    },
     {
       "time": "12:06 pm",
       "artist": "Pavement",
@@ -172,12 +173,6 @@
       "artist": "David Guetta",
       "title": "Without You feat. Usher",
       "album": "Nothing But the Beat • 2011"
-    },
-    {
-      "time": "10:31 am",
-      "artist": "Arcade Fire",
-      "title": "Neighborhood #4 (7 Kettles)",
-      "album": "Funeral • 2004"
     }
   ]
 }
