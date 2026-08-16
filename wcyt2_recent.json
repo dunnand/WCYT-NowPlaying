@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T05:33:31",
+  "updatedAt": "2026-08-16T05:35:55",
   "now": {
-    "artist": "Jackie DeShannon",
-    "title": "Put A Little Love In Your Heart",
-    "album": "Put a Little Love in Your Heart • 1969",
+    "artist": "Bill Withers",
+    "title": "Lean on Me",
+    "album": "Still Bill • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 am",
-      "artist": "Bill Withers",
-      "title": "Lean on Me"
-    },
     {
       "time": "5:40 am",
       "artist": "Tad",
@@ -26,9 +21,20 @@
       "time": "5:48 am",
       "artist": "Radiohead",
       "title": "Everything in Its Right Place"
+    },
+    {
+      "time": "5:52 am",
+      "artist": "Weezer",
+      "title": "Perfect Situation"
     }
   ],
   "recent": [
+    {
+      "time": "5:35 am",
+      "artist": "Bill Withers",
+      "title": "Lean on Me",
+      "album": "Still Bill • 1972"
+    },
     {
       "time": "5:33 am",
       "artist": "Jackie DeShannon",
@@ -172,12 +178,6 @@
       "artist": "Green Day",
       "title": "Chump",
       "album": "Dookie • 1994"
-    },
-    {
-      "time": "4:10 am",
-      "artist": "Billie Eilish",
-      "title": "everything i wanted",
-      "album": "single • 2019"
     }
   ]
 }
