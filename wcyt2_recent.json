@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T06:24:57",
+  "updatedAt": "2026-08-16T06:25:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eno",
+    "title": "Baby's on Fire",
+    "album": "Here Come the Warm Jets • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:25 am",
-      "artist": "Eno",
-      "title": "Baby's on Fire"
-    },
     {
       "time": "6:30 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "6:38 am",
       "artist": "Buffalo Springfield",
       "title": "For What It's Worth"
+    },
+    {
+      "time": "6:41 am",
+      "artist": "Elvis Costello",
+      "title": "Radio, Radio"
     }
   ],
   "recent": [
+    {
+      "time": "6:25 am",
+      "artist": "Eno",
+      "title": "Baby's on Fire",
+      "album": "Here Come the Warm Jets • 1974"
+    },
     {
       "time": "6:22 am",
       "artist": "Yola",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Bye, Bye Love",
       "album": "The Everly Brothers • 1958"
-    },
-    {
-      "time": "4:47 am",
-      "artist": "Sonic Youth",
-      "title": "100%",
-      "album": "Dirty • 1992"
     }
   ]
 }
