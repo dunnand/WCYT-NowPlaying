@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-16T07:03:21",
+  "updatedAt": "2026-08-16T07:08:39",
   "now": {
-    "artist": "Radiohead",
-    "title": "The Tourist",
-    "album": "OK Computer • 1997",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Fear of Trains",
+    "album": "The Charm of the Highway Strip • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:08 am",
-      "artist": "The Magnetic Fields",
-      "title": "Fear of Trains"
-    },
     {
       "time": "7:11 am",
       "artist": "LL Cool J",
       "title": "Rock The Bells"
     },
     {
-      "time": "7:16 am",
+      "time": "7:15 am",
       "artist": "Lucinda Williams",
       "title": "Changed the Locks"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:08 am",
+      "artist": "The Magnetic Fields",
+      "title": "Fear of Trains",
+      "album": "The Charm of the Highway Strip • 1994"
+    },
     {
       "time": "7:03 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "The Killers",
       "title": "Read My Mind",
       "album": "Sam's Town • 2006"
-    },
-    {
-      "time": "5:26 am",
-      "artist": "Barry Manilow",
-      "title": "Can't Smile Without You",
-      "album": "Even Now • 1978"
     }
   ]
 }
