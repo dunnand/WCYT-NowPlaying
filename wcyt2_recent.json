@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T04:31:06",
+  "updatedAt": "2026-08-16T04:31:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "If Not For You",
+    "album": "New Morning • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:31 am",
-      "artist": "Bob Dylan",
-      "title": "If Not For You"
-    },
     {
       "time": "4:33 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "4:41 am",
       "artist": "Dion",
       "title": "Abraham, Martin And John"
+    },
+    {
+      "time": "4:44 am",
+      "artist": "Melissa Manchester",
+      "title": "Don't Cry Out Loud"
     }
   ],
   "recent": [
+    {
+      "time": "4:31 am",
+      "artist": "Bob Dylan",
+      "title": "If Not For You",
+      "album": "New Morning • 1970"
+    },
     {
       "time": "4:27 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Don Gibson",
       "title": "Blue Blue Day",
       "album": "Oh Lonesome Me • 1958"
-    },
-    {
-      "time": "2:55 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Thirty-Three",
-      "album": "Mellon Collie and the Infinite Sadness • 1995"
     }
   ]
 }
