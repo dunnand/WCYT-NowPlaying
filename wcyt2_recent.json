@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T21:24:20",
+  "updatedAt": "2026-08-15T21:24:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billie Holiday",
+    "title": "I'll Be Seeing You",
+    "album": "Billie Holiday • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:24 pm",
-      "artist": "Billie Holiday",
-      "title": "I'll Be Seeing You"
-    },
     {
       "time": "9:27 pm",
       "artist": "Wilco",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:24 pm",
+      "artist": "Billie Holiday",
+      "title": "I'll Be Seeing You",
+      "album": "Billie Holiday • 1957"
+    },
     {
       "time": "9:19 pm",
       "artist": "Aphex Twin",
@@ -172,12 +173,6 @@
       "artist": "Don Henley",
       "title": "Dirty Laundry",
       "album": "I Can't Stand Still • 1982"
-    },
-    {
-      "time": "7:47 pm",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
