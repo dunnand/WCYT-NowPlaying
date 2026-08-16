@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T08:21:47",
+  "updatedAt": "2026-08-16T08:27:04",
   "now": {
-    "artist": "Sufjan Stevens",
-    "title": "Chicago",
-    "album": "Illinois • 2005",
-    "category": "TUNES"
+    "artist": "Jim Croce",
+    "title": "Bad, Bad Leroy Brown",
+    "album": "Life and Times • 1973",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "Jim Croce",
-      "title": "Bad, Bad Leroy Brown"
-    },
     {
       "time": "8:30 am",
       "artist": "Fall Out Boy",
@@ -26,9 +21,25 @@
       "time": "8:36 am",
       "artist": "John Denver",
       "title": "Sunshine On My Shoulders"
+    },
+    {
+      "time": "8:41 am",
+      "artist": "Cat Power",
+      "title": "Metal Heart"
+    },
+    {
+      "time": "8:45 am",
+      "artist": "Clairo",
+      "title": "Bags"
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "Jim Croce",
+      "title": "Bad, Bad Leroy Brown",
+      "album": "Life and Times • 1973"
+    },
     {
       "time": "8:21 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +183,6 @@
       "artist": "The White Stripes",
       "title": "Little Bird",
       "album": "De Stijl • 2000"
-    },
-    {
-      "time": "6:47 am",
-      "artist": "Christina Perri",
-      "title": "Jar Of Hearts",
-      "album": "Lovestrong. • 2011"
     }
   ]
 }
