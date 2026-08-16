@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T08:50:03",
+  "updatedAt": "2026-08-16T08:50:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Heart of Chambers",
+    "album": "Devotion • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:50 am",
-      "artist": "Beach House",
-      "title": "Heart of Chambers"
-    },
     {
       "time": "8:54 am",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "9:02 am",
       "artist": "Dave Matthews Band",
       "title": "Ants Marching"
+    },
+    {
+      "time": "9:06 am",
+      "artist": "De La Soul",
+      "title": "Let, Let Me In"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 am",
+      "artist": "Beach House",
+      "title": "Heart of Chambers",
+      "album": "Devotion • 2008"
+    },
     {
       "time": "8:45 am",
       "artist": "Clairo",
@@ -172,12 +178,6 @@
       "artist": "Lucinda Williams",
       "title": "Changed the Locks",
       "album": "Lucinda Williams • 1988"
-    },
-    {
-      "time": "7:11 am",
-      "artist": "LL Cool J",
-      "title": "Rock The Bells",
-      "album": "Radio • 1985"
     }
   ]
 }
