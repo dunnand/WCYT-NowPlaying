@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T01:33:52",
+  "updatedAt": "2026-08-16T01:40:01",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Fool in the Rain",
-    "album": "In Through the Out Door • 1979",
+    "artist": "The Clash",
+    "title": "Tommy Gun",
+    "album": "Give 'Em Enough Rope • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:40 am",
-      "artist": "The Clash",
-      "title": "Tommy Gun"
-    },
     {
       "time": "1:43 am",
       "artist": "Songs Ohia",
@@ -26,9 +21,20 @@
       "time": "1:52 am",
       "artist": "Eagles",
       "title": "Witchy Woman"
+    },
+    {
+      "time": "1:56 am",
+      "artist": "Elliott Smith",
+      "title": "Pictures of Me"
     }
   ],
   "recent": [
+    {
+      "time": "1:40 am",
+      "artist": "The Clash",
+      "title": "Tommy Gun",
+      "album": "Give 'Em Enough Rope • 1978"
+    },
     {
       "time": "1:33 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Kamera",
       "album": "Yankee Hotel Foxtrot • 2002"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Maurice Williams & The Zodiacs",
-      "title": "Stay",
-      "album": "Single • 1953"
     }
   ]
 }
