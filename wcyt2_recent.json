@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T19:43:09",
+  "updatedAt": "2026-08-16T19:45:22",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Fun, Fun, Fun",
-    "album": "Shut Down Volume 2 • 1964",
+    "artist": "Demi Lovato",
+    "title": "Give Your Heart A Break",
+    "album": "Demi • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:45 pm",
-      "artist": "Demi Lovato",
-      "title": "Give Your Heart A Break"
-    },
     {
       "time": "7:48 pm",
       "artist": "Built to Spill",
@@ -21,9 +16,20 @@
       "time": "7:54 pm",
       "artist": "Wipers",
       "title": "When It's Over"
+    },
+    {
+      "time": "8:00 pm",
+      "artist": "Romeo Void",
+      "title": "Never Say Never"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 pm",
+      "artist": "Demi Lovato",
+      "title": "Give Your Heart A Break",
+      "album": "Demi • 2011"
+    },
     {
       "time": "7:43 pm",
       "artist": "The Beach Boys",
@@ -167,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Us and Them",
       "album": "The Dark Side of the Moon • 1973"
-    },
-    {
-      "time": "5:59 pm",
-      "artist": "Beyonce",
-      "title": "BLACK PARADE",
-      "album": "The Lion King: The Gift • 2020"
     }
   ]
 }
