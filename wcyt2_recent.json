@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T05:07:04",
+  "updatedAt": "2026-08-16T05:13:02",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Nowhere Near",
-    "album": "Painful • 1993",
-    "category": "TUNES"
+    "artist": "Jonathan Richman & The Modern Lovers",
+    "title": "When Harpo Played His Harp",
+    "album": "Modern Lovers 88 • 1987",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:13 am",
-      "artist": "Jonathan Richman & The Modern Lovers",
-      "title": "When Harpo Played His Harp"
-    },
     {
       "time": "5:15 am",
       "artist": "Juice Newton",
@@ -21,9 +16,25 @@
       "time": "5:19 am",
       "artist": "Mario 3D World Big Band",
       "title": "The Credits Roll"
+    },
+    {
+      "time": "5:22 am",
+      "artist": "ABBA",
+      "title": "Fernando"
+    },
+    {
+      "time": "5:26 am",
+      "artist": "Barry Manilow",
+      "title": "Can't Smile Without You"
     }
   ],
   "recent": [
+    {
+      "time": "5:13 am",
+      "artist": "Jonathan Richman & The Modern Lovers",
+      "title": "When Harpo Played His Harp",
+      "album": "Modern Lovers 88 • 1987"
+    },
     {
       "time": "5:07 am",
       "artist": "Yo La Tengo",
@@ -167,12 +178,6 @@
       "artist": "clipping.",
       "title": "Nothing Is Safe",
       "album": "There Existed an Addiction to Blood • 2019"
-    },
-    {
-      "time": "3:44 am",
-      "artist": "Sheryl Crow",
-      "title": "Steve McQueen",
-      "album": "Cmon, Cmon • 2002"
     }
   ]
 }
