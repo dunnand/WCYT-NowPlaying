@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T09:52:30",
+  "updatedAt": "2026-08-16T09:53:02",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bauhaus",
+    "title": "Title Track",
+    "album": "In the Flat Field • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:52 am",
-      "artist": "Bauhaus",
-      "title": "Title Track"
-    },
     {
       "time": "9:57 am",
       "artist": "Bauhaus",
@@ -26,9 +21,20 @@
       "time": "10:05 am",
       "artist": "Panda Bear & Sonic Boom",
       "title": "Graveyard"
+    },
+    {
+      "time": "10:09 am",
+      "artist": "Angel Olsen",
+      "title": "Acrobat"
     }
   ],
   "recent": [
+    {
+      "time": "9:53 am",
+      "artist": "Bauhaus",
+      "title": "Title Track",
+      "album": "In the Flat Field • 1980"
+    },
     {
       "time": "9:49 am",
       "artist": "Juliana Hatfield",
@@ -172,12 +178,6 @@
       "artist": "The Damned",
       "title": "Smash It Up, Part I",
       "album": "Machine Gun Etiquette • 1979"
-    },
-    {
-      "time": "8:11 am",
-      "artist": "Field Guide",
-      "title": "Rootin' For Ya",
-      "album": "Rootin' For Ya • 2024"
     }
   ]
 }
