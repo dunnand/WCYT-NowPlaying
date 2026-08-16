@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T02:45:42",
+  "updatedAt": "2026-08-16T02:45:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Me Mine",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:45 am",
-      "artist": "The Beatles",
-      "title": "I Me Mine"
-    },
     {
       "time": "2:48 am",
       "artist": "Chicago",
@@ -31,9 +26,20 @@
       "time": "2:59 am",
       "artist": "Don Gibson",
       "title": "Blue Blue Day"
+    },
+    {
+      "time": "3:01 am",
+      "artist": "Robert Randolph and the Family Band",
+      "title": "Baptise Me"
     }
   ],
   "recent": [
+    {
+      "time": "2:45 am",
+      "artist": "The Beatles",
+      "title": "I Me Mine",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "2:41 am",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "All I Really Want To Do",
       "album": "Another Side of Bob Dylan • 1964"
-    },
-    {
-      "time": "12:56 am",
-      "artist": "Vampire Weekend",
-      "title": "A-Punk",
-      "album": "Vampire Weekend • 2008"
     }
   ]
 }
