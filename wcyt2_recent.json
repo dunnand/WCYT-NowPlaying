@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T14:05:28",
+  "updatedAt": "2026-08-16T14:10:06",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Body Paint",
-    "album": "The Car • 2022",
-    "category": "AUDIO"
+    "artist": "Bright Eyes",
+    "title": "First Day Of My Life",
+    "album": "I'm Wide Awake, It's Morning • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:10 pm",
-      "artist": "Bright Eyes",
-      "title": "First Day Of My Life"
-    },
     {
       "time": "2:13 pm",
       "artist": "Lipps Inc.",
@@ -26,9 +21,20 @@
       "time": "2:20 pm",
       "artist": "BADBADNOTGOOD",
       "title": "In Your Eyes (feat. Charlotte Day Wilson)"
+    },
+    {
+      "time": "2:24 pm",
+      "artist": "Jimi Hendrix",
+      "title": "Machine Gun"
     }
   ],
   "recent": [
+    {
+      "time": "2:10 pm",
+      "artist": "Bright Eyes",
+      "title": "First Day Of My Life",
+      "album": "I'm Wide Awake, It's Morning • 2005"
+    },
     {
       "time": "2:05 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Ritchie Valens",
       "title": "Come on, Let's Go",
       "album": "Ritchie Valens • 1959"
-    },
-    {
-      "time": "12:40 pm",
-      "artist": "Wyclef Jean",
-      "title": "Gone Till November (feat. The New York Philharmonic Orchestra)",
-      "album": "The Carnival • 1997"
     }
   ]
 }
