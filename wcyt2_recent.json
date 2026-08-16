@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T18:59:42",
+  "updatedAt": "2026-08-16T19:04:00",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Shame Shame",
-    "album": "Medicine at Midnight • 2021",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Junk Bond Trader",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:03 pm",
-      "artist": "Elliott Smith",
-      "title": "Junk Bond Trader"
-    },
     {
       "time": "7:07 pm",
       "artist": "Faces",
@@ -26,9 +21,20 @@
       "time": "7:14 pm",
       "artist": "Chance the Rapper feat. Saba",
       "title": "Angels"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "Peter Frampton",
+      "title": "Do You Feel Like We Do"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 pm",
+      "artist": "Elliott Smith",
+      "title": "Junk Bond Trader",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "6:59 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "AWOLNATION",
       "title": "Sail",
       "album": "Megalithic Symphony • 2011"
-    },
-    {
-      "time": "5:26 pm",
-      "artist": "Oasis",
-      "title": "Don't Look Back in Anger",
-      "album": "Whats the Story) Morning Glory? • 1995"
     }
   ]
 }
