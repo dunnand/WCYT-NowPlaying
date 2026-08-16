@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T20:07:48",
+  "updatedAt": "2026-08-15T20:08:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "Just What I Needed",
+    "album": "The Cars • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 pm",
-      "artist": "The Cars",
-      "title": "Just What I Needed"
-    },
     {
       "time": "8:11 pm",
       "artist": "Radiohead",
@@ -31,9 +26,20 @@
       "time": "8:23 pm",
       "artist": "Pavement",
       "title": "Shady Lane / J vs. S"
+    },
+    {
+      "time": "8:27 pm",
+      "artist": "Tommy Edwards",
+      "title": "It's All In The Game"
     }
   ],
   "recent": [
+    {
+      "time": "8:08 pm",
+      "artist": "The Cars",
+      "title": "Just What I Needed",
+      "album": "The Cars • 1978"
+    },
     {
       "time": "8:03 pm",
       "artist": "The Roots",
@@ -177,12 +183,6 @@
       "artist": "The Shins",
       "title": "Fighting in a Sack",
       "album": "Chutes Too Narrow • 2003"
-    },
-    {
-      "time": "6:44 pm",
-      "artist": "The Beach Boys",
-      "title": "Vega-Tables",
-      "album": "The Smile Sessions • 2011"
     }
   ]
 }
