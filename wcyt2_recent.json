@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T02:45:54",
+  "updatedAt": "2026-08-16T02:48:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Me Mine",
-    "album": "Let It Be • 1970",
+    "artist": "Chicago",
+    "title": "Does Anybody Really Know What Time It Is?",
+    "album": "Chicago Transit Authority • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:48 am",
-      "artist": "Chicago",
-      "title": "Does Anybody Really Know What Time It Is?"
-    },
     {
       "time": "2:52 am",
       "artist": "Lene Lovich",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:48 am",
+      "artist": "Chicago",
+      "title": "Does Anybody Really Know What Time It Is?",
+      "album": "Chicago Transit Authority • 1969"
+    },
     {
       "time": "2:45 am",
       "artist": "The Beatles",
@@ -177,12 +178,6 @@
       "artist": "FKA twigs",
       "title": "Pendulum",
       "album": "LP1 • 2014"
-    },
-    {
-      "time": "12:59 am",
-      "artist": "Bob Dylan",
-      "title": "All I Really Want To Do",
-      "album": "Another Side of Bob Dylan • 1964"
     }
   ]
 }
