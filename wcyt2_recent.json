@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T00:56:51",
+  "updatedAt": "2026-08-16T00:59:08",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "A-Punk",
-    "album": "Vampire Weekend • 2008",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "All I Really Want To Do",
+    "album": "Another Side of Bob Dylan • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "Bob Dylan",
-      "title": "All I Really Want To Do"
-    },
     {
       "time": "1:03 am",
       "artist": "FKA twigs",
@@ -21,9 +16,20 @@
       "time": "1:08 am",
       "artist": "Tom Petty",
       "title": "You Don't Know How It Feels"
+    },
+    {
+      "time": "1:12 am",
+      "artist": "Warren G",
+      "title": "Regulate"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "Bob Dylan",
+      "title": "All I Really Want To Do",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "12:56 am",
       "artist": "Vampire Weekend",
@@ -167,12 +173,6 @@
       "artist": "Bershy",
       "title": "Radio",
       "album": "Single • 2022"
-    },
-    {
-      "time": "10:47 pm",
-      "artist": "Falco",
-      "title": "Rock Me Amadeus",
-      "album": "Falco 3 • 1986"
     }
   ]
 }
