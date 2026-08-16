@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T08:15:58",
+  "updatedAt": "2026-08-16T08:21:47",
   "now": {
-    "artist": "Grimes",
-    "title": "My Name Is Dark",
-    "album": "Miss Anthropocene • 2020",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Chicago",
+    "album": "Illinois • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:21 am",
-      "artist": "Sufjan Stevens",
-      "title": "Chicago"
-    },
     {
       "time": "8:27 am",
       "artist": "Jim Croce",
@@ -26,9 +21,20 @@
       "time": "8:33 am",
       "artist": "David Guetta",
       "title": "Play Hard Feat. Ne-Yo & Akon"
+    },
+    {
+      "time": "8:36 am",
+      "artist": "John Denver",
+      "title": "Sunshine On My Shoulders"
     }
   ],
   "recent": [
+    {
+      "time": "8:21 am",
+      "artist": "Sufjan Stevens",
+      "title": "Chicago",
+      "album": "Illinois • 2005"
+    },
     {
       "time": "8:15 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Christina Perri",
       "title": "Jar Of Hearts",
       "album": "Lovestrong. • 2011"
-    },
-    {
-      "time": "6:43 am",
-      "artist": "Q-Tip",
-      "title": "Vivrant Thing",
-      "album": "Amplified • 1999"
     }
   ]
 }
