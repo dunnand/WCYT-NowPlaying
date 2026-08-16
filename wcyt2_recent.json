@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T18:23:33",
+  "updatedAt": "2026-08-16T18:27:41",
   "now": {
-    "artist": "Soundgarden",
-    "title": "Spoonman",
-    "album": "Superunknown • 1994",
+    "artist": "Chuck Berry",
+    "title": "Too Much Monkey Business",
+    "album": "After School Session • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:27 pm",
-      "artist": "Chuck Berry",
-      "title": "Too Much Monkey Business"
-    },
     {
       "time": "6:30 pm",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "6:39 pm",
       "artist": "Ed Sheeran",
       "title": "Shape of You"
+    },
+    {
+      "time": "6:43 pm",
+      "artist": "Radiohead",
+      "title": "My Iron Lung"
     }
   ],
   "recent": [
+    {
+      "time": "6:27 pm",
+      "artist": "Chuck Berry",
+      "title": "Too Much Monkey Business",
+      "album": "After School Session • 1957"
+    },
     {
       "time": "6:23 pm",
       "artist": "Soundgarden",
@@ -172,12 +178,6 @@
       "artist": "Public Enemy",
       "title": "Can't Do Nuttin' For Ya, Man!",
       "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
-    },
-    {
-      "time": "4:50 pm",
-      "artist": "Nirvana.",
-      "title": "Something in the Way",
-      "album": "Nevermind • 1991"
     }
   ]
 }
