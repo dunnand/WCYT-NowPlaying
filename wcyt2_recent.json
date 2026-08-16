@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T01:43:27",
+  "updatedAt": "2026-08-16T01:50:06",
   "now": {
-    "artist": "Songs Ohia",
-    "title": "Lioness",
-    "album": "The Lioness • 2000",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "I'll Be Your Baby Tonight",
+    "album": "John Wesley Harding • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:49 am",
-      "artist": "Bob Dylan",
-      "title": "I'll Be Your Baby Tonight"
-    },
     {
       "time": "1:52 am",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "2:00 am",
       "artist": "David Guetta",
       "title": "Turn Me On feat. Nicki Minaj"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Wolf Parade",
+      "title": "I'll Believe In Anything"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "Bob Dylan",
+      "title": "I'll Be Your Baby Tonight",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "1:43 am",
       "artist": "Songs Ohia",
@@ -172,12 +178,6 @@
       "artist": "Adele",
       "title": "Set Fire To The Rain",
       "album": "21 • 2011"
-    },
-    {
-      "time": "12:06 am",
-      "artist": "Four Tops",
-      "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "album": "Four Tops Second Album • 1965"
     }
   ]
 }
