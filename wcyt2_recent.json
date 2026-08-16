@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T00:23:43",
+  "updatedAt": "2026-08-16T00:23:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Flipper",
+    "title": "Ever",
+    "album": "Generic Flipper • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:23 am",
-      "artist": "Flipper",
-      "title": "Ever"
-    },
     {
       "time": "12:26 am",
       "artist": "Grimes",
@@ -26,9 +21,20 @@
       "time": "12:36 am",
       "artist": "David Bowie",
       "title": "Fame"
+    },
+    {
+      "time": "12:40 am",
+      "artist": "Wilco",
+      "title": "Heavy Metal Drummer"
     }
   ],
   "recent": [
+    {
+      "time": "12:23 am",
+      "artist": "Flipper",
+      "title": "Ever",
+      "album": "Generic Flipper • 1982"
+    },
     {
       "time": "12:20 am",
       "artist": "fIREHOSE",
@@ -172,12 +178,6 @@
       "artist": "George Harrison",
       "title": "What Is Life",
       "album": "All Things Must Pass • 1971"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "Bob Dylan",
-      "title": "Corrina, Corrina",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
