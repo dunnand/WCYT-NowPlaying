@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T05:22:01",
+  "updatedAt": "2026-08-16T05:26:05",
   "now": {
-    "artist": "ABBA",
-    "title": "Fernando",
-    "album": "Greatest Hits • 1975",
+    "artist": "Barry Manilow",
+    "title": "Can't Smile Without You",
+    "album": "Even Now • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:26 am",
-      "artist": "Barry Manilow",
-      "title": "Can't Smile Without You"
-    },
     {
       "time": "5:29 am",
       "artist": "The Killers",
@@ -26,9 +21,20 @@
       "time": "5:36 am",
       "artist": "Bill Withers",
       "title": "Lean on Me"
+    },
+    {
+      "time": "5:40 am",
+      "artist": "Tad",
+      "title": "Grease Box"
     }
   ],
   "recent": [
+    {
+      "time": "5:26 am",
+      "artist": "Barry Manilow",
+      "title": "Can't Smile Without You",
+      "album": "Even Now • 1978"
+    },
     {
       "time": "5:22 am",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "The Last DJ",
       "album": "The Last DJ • 2002"
-    },
-    {
-      "time": "4:01 am",
-      "artist": "Carl Perkins",
-      "title": "Blue Suede Shoes",
-      "album": "Dance Album of Carl Perkins • 1957"
     }
   ]
 }
