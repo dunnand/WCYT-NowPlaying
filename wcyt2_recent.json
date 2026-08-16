@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-15T21:07:02",
+  "updatedAt": "2026-08-15T21:10:48",
   "now": {
-    "artist": "Beach House",
-    "title": "Used to Be",
-    "album": "Teen Dream • 2010",
-    "category": "TUNES"
+    "artist": "Curtis Mayfield",
+    "title": "Move on Up",
+    "album": "Curtis • 1970",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 pm",
-      "artist": "Curtis Mayfield",
-      "title": "Move on Up"
-    },
     {
       "time": "9:19 pm",
       "artist": "Aphex Twin",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:10 pm",
+      "artist": "Curtis Mayfield",
+      "title": "Move on Up",
+      "album": "Curtis • 1970"
+    },
     {
       "time": "9:07 pm",
       "artist": "Beach House",
@@ -172,12 +173,6 @@
       "artist": "Madonna",
       "title": "Secret",
       "album": "Bedtime Stories • 1994"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Curtis Harding",
-      "title": "Need Your Love",
-      "album": "Face Your Fear • 2017"
     }
   ]
 }
