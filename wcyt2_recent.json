@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T12:44:18",
+  "updatedAt": "2026-08-16T12:46:11",
   "now": {
-    "artist": "Ritchie Valens",
-    "title": "Come on, Let's Go",
-    "album": "Ritchie Valens • 1959",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Already Dead",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:46 pm",
-      "artist": "Beck",
-      "title": "Already Dead"
-    },
     {
       "time": "12:49 pm",
       "artist": "The Four Seasons",
@@ -21,9 +16,20 @@
       "time": "12:52 pm",
       "artist": "Drake",
       "title": "Find Your Love"
+    },
+    {
+      "time": "12:55 pm",
+      "artist": "Randy Newman",
+      "title": "You've Got a Friend in Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 pm",
+      "artist": "Beck",
+      "title": "Already Dead",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "12:44 pm",
       "artist": "Ritchie Valens",
@@ -167,12 +173,6 @@
       "artist": "Neil Diamond",
       "title": "America",
       "album": "The Jazz Singer • 1980"
-    },
-    {
-      "time": "11:16 am",
-      "artist": "Naked Eyes",
-      "title": "Always Something There To Remind Me",
-      "album": "Burning Bridges • 1983"
     }
   ]
 }
