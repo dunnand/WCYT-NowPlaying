@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T06:58:36",
+  "updatedAt": "2026-08-16T06:58:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Adele",
+    "title": "Skyfall",
+    "album": "Skyfall • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:58 am",
-      "artist": "Adele",
-      "title": "Skyfall"
-    },
     {
       "time": "7:03 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "7:11 am",
       "artist": "LL Cool J",
       "title": "Rock The Bells"
+    },
+    {
+      "time": "7:16 am",
+      "artist": "Lucinda Williams",
+      "title": "Changed the Locks"
     }
   ],
   "recent": [
+    {
+      "time": "6:58 am",
+      "artist": "Adele",
+      "title": "Skyfall",
+      "album": "Skyfall • 2012"
+    },
     {
       "time": "6:53 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "ABBA",
       "title": "Fernando",
       "album": "Greatest Hits • 1975"
-    },
-    {
-      "time": "5:19 am",
-      "artist": "Mario 3D World Big Band",
-      "title": "The Credits Roll",
-      "album": "Nintendo Music •"
     }
   ]
 }
