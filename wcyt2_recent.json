@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T18:27:41",
+  "updatedAt": "2026-08-16T18:30:35",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Too Much Monkey Business",
-    "album": "After School Session • 1957",
+    "artist": "Daft Punk",
+    "title": "Face to Face",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:30 pm",
-      "artist": "Daft Punk",
-      "title": "Face to Face"
-    },
     {
       "time": "6:34 pm",
       "artist": "James Brown",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:30 pm",
+      "artist": "Daft Punk",
+      "title": "Face to Face",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "6:27 pm",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "Ramones",
       "title": "Do You Remember Rock'N'Roll Radio",
       "album": "End of the Century • 1980"
-    },
-    {
-      "time": "4:53 pm",
-      "artist": "Public Enemy",
-      "title": "Can't Do Nuttin' For Ya, Man!",
-      "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
     }
   ]
 }
