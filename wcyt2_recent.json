@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T10:46:15",
+  "updatedAt": "2026-08-17T10:50:01",
   "now": {
-    "artist": "R.E.M.",
-    "title": "Shiny Happy People",
-    "album": "Out of Time • 1991",
+    "artist": "Bryan Adams",
+    "title": "Cuts Like A Knife",
+    "album": "So Far So Good • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:50 am",
-      "artist": "Bryan Adams",
-      "title": "Cuts Like A Knife"
-    },
     {
       "time": "10:54 am",
       "artist": "Georgia Satellites",
@@ -21,9 +16,25 @@
       "time": "10:58 am",
       "artist": "Chappell Roan",
       "title": "Pink Pony Club"
+    },
+    {
+      "time": "11:02 am",
+      "artist": "The Who",
+      "title": "The Real Me"
+    },
+    {
+      "time": "11:06 am",
+      "artist": "Buzzcocks",
+      "title": "I Don't Mind"
     }
   ],
   "recent": [
+    {
+      "time": "10:50 am",
+      "artist": "Bryan Adams",
+      "title": "Cuts Like A Knife",
+      "album": "So Far So Good • 1983"
+    },
     {
       "time": "10:46 am",
       "artist": "R.E.M.",
@@ -167,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "This Is America",
       "album": "Guava Island • 2019"
-    },
-    {
-      "time": "9:12 am",
-      "artist": "Black Eyed Peas",
-      "title": "Let's Get It Started",
-      "album": "Elephunk • 2004"
     }
   ]
 }
