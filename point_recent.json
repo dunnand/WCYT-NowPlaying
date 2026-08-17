@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T09:37:05",
+  "updatedAt": "2026-08-17T09:37:17",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Yves Jarvis",
+    "title": "Bootstrap Jubilee",
+    "album": "The Zug • 2022",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:37 am",
-      "artist": "Yves Jarvis",
-      "title": "Bootstrap Jubilee"
-    },
     {
       "time": "9:39 am",
       "artist": "Sigur Ros",
@@ -26,9 +21,20 @@
       "time": "9:52 am",
       "artist": "Kate Bush",
       "title": "The Big Sky"
+    },
+    {
+      "time": "9:57 am",
+      "artist": "Sharon Van Etten",
+      "title": "One Day"
     }
   ],
   "recent": [
+    {
+      "time": "9:37 am",
+      "artist": "Yves Jarvis",
+      "title": "Bootstrap Jubilee",
+      "album": "The Zug • 2022"
+    },
     {
       "time": "9:32 am",
       "artist": "Tame Impala",
@@ -172,12 +178,6 @@
       "artist": "Nation of Language",
       "title": "I've Thought About Chicago",
       "album": "I've Thought About Chicago • 2017"
-    },
-    {
-      "time": "8:03 am",
-      "artist": "Death Cab For Cutie",
-      "title": "Pep Talk",
-      "album": "I Built You A Tower • 2026"
     }
   ]
 }
