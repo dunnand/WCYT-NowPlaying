@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T21:23:59",
+  "updatedAt": "2026-08-16T21:27:48",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Only Yesterday",
-    "album": "Horizon • 1975",
+    "artist": "Paul McCartney and Wings",
+    "title": "Junior's Farm",
+    "album": "single • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 pm",
-      "artist": "Paul McCartney and Wings",
-      "title": "Junior's Farm"
-    },
     {
       "time": "9:32 pm",
       "artist": "Antony and the Johnsons",
@@ -26,9 +21,20 @@
       "time": "9:39 pm",
       "artist": "Steely Dan",
       "title": "Peg"
+    },
+    {
+      "time": "9:43 pm",
+      "artist": "Portishead",
+      "title": "Sour Times"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 pm",
+      "artist": "Paul McCartney and Wings",
+      "title": "Junior's Farm",
+      "album": "single • 1974"
+    },
     {
       "time": "9:23 pm",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Basement Jaxx",
       "title": "Where's Your Head At",
       "album": "Rooty • 2001"
-    },
-    {
-      "time": "7:35 pm",
-      "artist": "The Orioles",
-      "title": "Crying in the Chapel",
-      "album": "single • 1953"
     }
   ]
 }
