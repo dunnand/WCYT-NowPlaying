@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T00:52:22",
+  "updatedAt": "2026-08-17T00:54:45",
   "now": {
-    "artist": "Herman's Hermits",
-    "title": "I'm Into Something Good",
-    "album": "Herman's Hermits • 1965",
+    "artist": "Rod Stewart",
+    "title": "The First Cut Is The Deepest",
+    "album": "A Night on the Town • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:54 am",
-      "artist": "Rod Stewart",
-      "title": "The First Cut Is The Deepest"
-    },
     {
       "time": "12:59 am",
       "artist": "Red Hot Chili Peppers",
@@ -26,9 +21,20 @@
       "time": "1:06 am",
       "artist": "Erykah Badu",
       "title": "Didn't Cha Know"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "Elvis Presley",
+      "title": "It's Now Or Never"
     }
   ],
   "recent": [
+    {
+      "time": "12:54 am",
+      "artist": "Rod Stewart",
+      "title": "The First Cut Is The Deepest",
+      "album": "A Night on the Town • 1976"
+    },
     {
       "time": "12:52 am",
       "artist": "Herman's Hermits",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Award Tour",
       "album": "Midnight Marauders • 1993"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "The Decemberists",
-      "title": "Don't Carry It All",
-      "album": "The King Is Dead • 2011"
     }
   ]
 }
