@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T12:22:14",
+  "updatedAt": "2026-08-17T12:29:02",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "A Hard Rain's A-Gonna Fall",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "artist": "Eminem",
+    "title": "Not Afraid",
+    "album": "Recovery • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:29 pm",
-      "artist": "Eminem",
-      "title": "Not Afraid"
-    },
     {
       "time": "12:33 pm",
       "artist": "Q Lazzarus",
@@ -21,9 +16,20 @@
       "time": "12:36 pm",
       "artist": "Elliott Smith",
       "title": "Bled White"
+    },
+    {
+      "time": "12:39 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Twilight"
     }
   ],
   "recent": [
+    {
+      "time": "12:29 pm",
+      "artist": "Eminem",
+      "title": "Not Afraid",
+      "album": "Recovery • 2010"
+    },
     {
       "time": "12:22 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "The Who",
       "title": "The Real Me",
       "album": "Quadrophenia • 1973"
-    },
-    {
-      "time": "10:58 am",
-      "artist": "Chappell Roan",
-      "title": "Pink Pony Club",
-      "album": "The Rise and Fall of a Midwest Princess • 2024"
     }
   ]
 }
