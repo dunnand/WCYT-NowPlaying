@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T00:08:22",
+  "updatedAt": "2026-08-17T00:13:41",
   "now": {
     "artist": "Daft Punk",
-    "title": "One More Time",
-    "album": "Discovery • 2001",
+    "title": "Technologic",
+    "album": "Human After All • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 am",
-      "artist": "Daft Punk",
-      "title": "Technologic"
-    },
     {
       "time": "12:18 am",
       "artist": "Bruno Mars",
@@ -26,9 +21,20 @@
       "time": "12:25 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Do You Love Me?"
+    },
+    {
+      "time": "12:31 am",
+      "artist": "The Smiths",
+      "title": "William, It Was Really Nothing"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 am",
+      "artist": "Daft Punk",
+      "title": "Technologic",
+      "album": "Human After All • 2005"
+    },
     {
       "time": "12:08 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Lizzo",
       "title": "Special",
       "album": "Special • 2022"
-    },
-    {
-      "time": "10:17 pm",
-      "artist": "Siouxsie and the Banshees",
-      "title": "She's a Carnival",
-      "album": "Juju • 1981"
     }
   ]
 }
