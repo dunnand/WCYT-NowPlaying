@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T00:49:47",
+  "updatedAt": "2026-08-17T00:52:22",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Me and Julio Down by the Schoolyard",
-    "album": "Paul Simon • 1972",
+    "artist": "Herman's Hermits",
+    "title": "I'm Into Something Good",
+    "album": "Herman's Hermits • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:52 am",
-      "artist": "Herman's Hermits",
-      "title": "I'm Into Something Good"
-    },
     {
       "time": "12:54 am",
       "artist": "Rod Stewart",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:52 am",
+      "artist": "Herman's Hermits",
+      "title": "I'm Into Something Good",
+      "album": "Herman's Hermits • 1965"
+    },
     {
       "time": "12:49 am",
       "artist": "Paul Simon",
@@ -177,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Don't Carry It All",
       "album": "The King Is Dead • 2011"
-    },
-    {
-      "time": "11:03 pm",
-      "artist": "Gary Puckett & The Union Gap",
-      "title": "Young Girl",
-      "album": "Young Girl • 1968"
     }
   ]
 }
