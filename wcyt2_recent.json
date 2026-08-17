@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T20:14:57",
+  "updatedAt": "2026-08-16T20:18:02",
   "now": {
-    "artist": "Al Green",
-    "title": "I'm Still in Love With You",
-    "album": "I'm Still in Love with You • 1972",
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "album": "Piano Man • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:18 pm",
-      "artist": "Billy Joel",
-      "title": "Piano Man"
-    },
     {
       "time": "8:21 pm",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "8:29 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "We’ve Got Tonight"
+    },
+    {
+      "time": "8:33 pm",
+      "artist": "Pavement",
+      "title": "Major Leagues"
     }
   ],
   "recent": [
+    {
+      "time": "8:18 pm",
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "album": "Piano Man • 1973"
+    },
     {
       "time": "8:14 pm",
       "artist": "Al Green",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Face to Face",
       "album": "Discovery • 2001"
-    },
-    {
-      "time": "6:27 pm",
-      "artist": "Chuck Berry",
-      "title": "Too Much Monkey Business",
-      "album": "After School Session • 1957"
     }
   ]
 }
