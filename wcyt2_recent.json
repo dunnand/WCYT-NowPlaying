@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T21:23:47",
+  "updatedAt": "2026-08-16T21:23:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Only Yesterday",
+    "album": "Horizon • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:23 pm",
-      "artist": "The Carpenters",
-      "title": "Only Yesterday"
-    },
     {
       "time": "9:27 pm",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "9:36 pm",
       "artist": "Aretha Franklin",
       "title": "I Say a Little Prayer"
+    },
+    {
+      "time": "9:39 pm",
+      "artist": "Steely Dan",
+      "title": "Peg"
     }
   ],
   "recent": [
+    {
+      "time": "9:23 pm",
+      "artist": "The Carpenters",
+      "title": "Only Yesterday",
+      "album": "Horizon • 1975"
+    },
     {
       "time": "9:17 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -172,12 +178,6 @@
       "artist": "The Orioles",
       "title": "Crying in the Chapel",
       "album": "single • 1953"
-    },
-    {
-      "time": "7:31 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Is It Wicked Not to Care?",
-      "album": "The Boy with the Arab Strap • 1998"
     }
   ]
 }
