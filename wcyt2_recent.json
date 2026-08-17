@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T22:13:33",
+  "updatedAt": "2026-08-16T22:17:05",
   "now": {
-    "artist": "Sheila E.",
-    "title": "The Glamorous Life",
-    "album": "The Glamorous Life • 1984",
+    "artist": "Siouxsie and the Banshees",
+    "title": "She's a Carnival",
+    "album": "Juju • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:17 pm",
-      "artist": "Siouxsie and the Banshees",
-      "title": "She's a Carnival"
-    },
     {
       "time": "10:19 pm",
       "artist": "Lizzo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:17 pm",
+      "artist": "Siouxsie and the Banshees",
+      "title": "She's a Carnival",
+      "album": "Juju • 1981"
+    },
     {
       "time": "10:13 pm",
       "artist": "Sheila E.",
@@ -172,12 +173,6 @@
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "We’ve Got Tonight",
       "album": "Stranger in Town • 1979"
-    },
-    {
-      "time": "8:25 pm",
-      "artist": "Bob Dylan",
-      "title": "Maggie's Farm",
-      "album": "Bringing It All Back Home • 1965"
     }
   ]
 }
