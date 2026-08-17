@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T12:01:24",
+  "updatedAt": "2026-08-17T12:01:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "An American Trilogy",
+    "album": "single • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "Elvis Presley",
-      "title": "An American Trilogy"
-    },
     {
       "time": "12:06 pm",
       "artist": "Bobby Vee",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Ricky Martin",
       "title": "Livin' La Vida Loca"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Elvis Presley",
+      "title": "An American Trilogy",
+      "album": "single • 1972"
+    },
     {
       "time": "11:59 am",
       "artist": "The Four Seasons",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Crying In The Chapel",
       "album": "How Great Thou Art • 1967"
-    },
-    {
-      "time": "10:31 am",
-      "artist": "Arcade Fire",
-      "title": "Crown of Love",
-      "album": "Funeral • 2004"
     }
   ]
 }
