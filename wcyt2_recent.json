@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T01:40:13",
+  "updatedAt": "2026-08-17T01:43:37",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Tumbling Dice",
-    "album": "Exile on Main St. • 1972",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "Dear Catastrophe Waitress",
+    "album": "Dear Catastrophe Waitress • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:43 am",
-      "artist": "Belle and Sebastian",
-      "title": "Dear Catastrophe Waitress"
-    },
     {
       "time": "1:45 am",
       "artist": "Curtis Harding",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "U2",
       "title": "One"
+    },
+    {
+      "time": "1:58 am",
+      "artist": "Buddy Holly",
+      "title": "Words of Love"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 am",
+      "artist": "Belle and Sebastian",
+      "title": "Dear Catastrophe Waitress",
+      "album": "Dear Catastrophe Waitress • 2003"
+    },
     {
       "time": "1:40 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Technologic",
       "album": "Human After All • 2005"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "Daft Punk",
-      "title": "One More Time",
-      "album": "Discovery • 2001"
     }
   ]
 }
