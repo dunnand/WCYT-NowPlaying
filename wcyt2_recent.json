@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T00:49:35",
+  "updatedAt": "2026-08-17T00:49:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Me and Julio Down by the Schoolyard",
+    "album": "Paul Simon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "Paul Simon",
-      "title": "Me and Julio Down by the Schoolyard"
-    },
     {
       "time": "12:52 am",
       "artist": "Herman's Hermits",
@@ -31,9 +26,20 @@
       "time": "1:04 am",
       "artist": "The Diamonds",
       "title": "Little Darlin'"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Erykah Badu",
+      "title": "Didn't Cha Know"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "Paul Simon",
+      "title": "Me and Julio Down by the Schoolyard",
+      "album": "Paul Simon • 1972"
+    },
     {
       "time": "12:47 am",
       "artist": "Cream",
@@ -177,12 +183,6 @@
       "artist": "Gary Puckett & The Union Gap",
       "title": "Young Girl",
       "album": "Young Girl • 1968"
-    },
-    {
-      "time": "10:58 pm",
-      "artist": "Cat Power",
-      "title": "Werewolf",
-      "album": "You Are Free • 2003"
     }
   ]
 }
