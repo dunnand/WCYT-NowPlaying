@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T08:27:40",
+  "updatedAt": "2026-08-17T08:32:36",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Shelter From the Storm",
-    "album": "Shelter From the Storm • 1975",
+    "artist": "The La's",
+    "title": "There She Goes",
+    "album": "The La’s • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:32 am",
-      "artist": "The La's",
-      "title": "There She Goes"
-    },
     {
       "time": "8:35 am",
       "artist": "Frankie Lymon & The Teenagers",
@@ -26,9 +21,20 @@
       "time": "8:41 am",
       "artist": "Bobby Day",
       "title": "Rockin' Robin"
+    },
+    {
+      "time": "8:43 am",
+      "artist": "Cee",
+      "title": "Lo Green - Forget You"
     }
   ],
   "recent": [
+    {
+      "time": "8:32 am",
+      "artist": "The La's",
+      "title": "There She Goes",
+      "album": "The La’s • 1990"
+    },
     {
       "time": "8:27 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "No Surprises",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Queensryche",
-      "title": "Silent Lucidity",
-      "album": "Empire • 1991"
     }
   ]
 }
