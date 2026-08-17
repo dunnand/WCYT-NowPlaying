@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T02:52:43",
+  "updatedAt": "2026-08-17T02:52:54",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This is Lorelei",
+    "title": "Oh No Now My",
+    "album": "Oh No Now My • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:52 am",
-      "artist": "This is Lorelei",
-      "title": "Oh No Now My"
-    },
     {
       "time": "2:55 am",
       "artist": "The New Pornographers",
@@ -26,9 +21,20 @@
       "time": "3:03 am",
       "artist": "Alabama Shakes",
       "title": "Garden"
+    },
+    {
+      "time": "3:08 am",
+      "artist": "Unknown Mortal Orchestra",
+      "title": "The World Is Crowded"
     }
   ],
   "recent": [
+    {
+      "time": "2:52 am",
+      "artist": "This is Lorelei",
+      "title": "Oh No Now My",
+      "album": "Oh No Now My • 2026"
+    },
     {
       "time": "2:48 am",
       "artist": "Angine De Poitrine",
@@ -172,12 +178,6 @@
       "artist": "Cheekface",
       "title": "There Is A God",
       "album": "Podium • 2026"
-    },
-    {
-      "time": "1:12 am",
-      "artist": "The Strokes",
-      "title": "Lonely in the Future",
-      "album": "Reality Awaits • 2026"
     }
   ]
 }
