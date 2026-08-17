@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T15:32:30",
+  "updatedAt": "2026-08-17T15:35:54",
   "now": {
-    "artist": "Air",
-    "title": "Playground Love",
-    "album": "The Virgin Suicides • 2000",
+    "artist": "Bob Dylan",
+    "title": "Highway 61 Revisited",
+    "album": "Highway 61 Revisited • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:35 pm",
-      "artist": "Bob Dylan",
-      "title": "Highway 61 Revisited"
-    },
     {
       "time": "3:39 pm",
       "artist": "The Doors",
@@ -26,9 +21,20 @@
       "time": "3:47 pm",
       "artist": "FKA twigs",
       "title": "home with you"
+    },
+    {
+      "time": "3:51 pm",
+      "artist": "Bright Eyes",
+      "title": "Lua"
     }
   ],
   "recent": [
+    {
+      "time": "3:35 pm",
+      "artist": "Bob Dylan",
+      "title": "Highway 61 Revisited",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "3:32 pm",
       "artist": "Air",
@@ -172,12 +178,6 @@
       "artist": "B.O.B.",
       "title": "So Good",
       "album": "Strange Clouds • 2012"
-    },
-    {
-      "time": "1:25 pm",
-      "artist": "Bright Eyes",
-      "title": "Haligh, Haligh, A Lie, Haligh",
-      "album": "Fevers Mirrors • 2000"
     }
   ]
 }
