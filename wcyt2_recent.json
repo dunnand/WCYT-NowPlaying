@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T04:10:02",
+  "updatedAt": "2026-08-17T04:12:34",
   "now": {
-    "artist": "The Jam",
-    "title": "Start!",
-    "album": "Sound Affects • 1980",
+    "artist": "The Vaselines",
+    "title": "Son of a Gun",
+    "album": "Son of a Gun • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:12 am",
-      "artist": "The Vaselines",
-      "title": "Son of a Gun"
-    },
     {
       "time": "4:16 am",
       "artist": "Beyonce",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:12 am",
+      "artist": "The Vaselines",
+      "title": "Son of a Gun",
+      "album": "Son of a Gun • 1987"
+    },
     {
       "time": "4:10 am",
       "artist": "The Jam",
@@ -172,12 +173,6 @@
       "artist": "Cat Stevens",
       "title": "Moonshadow",
       "album": "Teaser and the Firecat • 1971"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "Cream",
-      "title": "I Feel Free",
-      "album": "Fresh Cream • 1967"
     }
   ]
 }
