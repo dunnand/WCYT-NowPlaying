@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T22:23:10",
+  "updatedAt": "2026-08-16T22:26:26",
   "now": {
-    "artist": "Steve Miller Band",
-    "title": "Swingtown",
-    "album": "Book of Dreams • 1977",
+    "artist": "George Duke",
+    "title": "Dukey Stick",
+    "album": "Don't Let Go • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:26 pm",
-      "artist": "George Duke",
-      "title": "Dukey Stick"
-    },
     {
       "time": "10:32 pm",
       "artist": "Depeche Mode",
@@ -26,9 +21,20 @@
       "time": "10:48 pm",
       "artist": "Led Zeppelin",
       "title": "Black Dog"
+    },
+    {
+      "time": "10:52 pm",
+      "artist": "Sophie B. Hawkins",
+      "title": "As I Lay Me Down"
     }
   ],
   "recent": [
+    {
+      "time": "10:26 pm",
+      "artist": "George Duke",
+      "title": "Dukey Stick",
+      "album": "Don't Let Go • 1978"
+    },
     {
       "time": "10:23 pm",
       "artist": "Steve Miller Band",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "Stay Loose",
       "album": "Dear Catastrophe Waitress • 2003"
-    },
-    {
-      "time": "8:36 pm",
-      "artist": "Fats Domino",
-      "title": "The Fat Man",
-      "album": "Rock and Rollin' With Fats Domino • 1956"
     }
   ]
 }
