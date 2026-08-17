@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T12:39:38",
+  "updatedAt": "2026-08-17T12:39:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Electric Light Orchestra",
+    "title": "Twilight",
+    "album": "Time • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "Twilight"
-    },
     {
       "time": "12:43 pm",
       "artist": "Au Pairs",
@@ -26,9 +21,20 @@
       "time": "12:50 pm",
       "artist": "John Lennon",
       "title": "#9 Dream"
+    },
+    {
+      "time": "12:55 pm",
+      "artist": "Kraftwerk",
+      "title": "The Robots"
     }
   ],
   "recent": [
+    {
+      "time": "12:39 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Twilight",
+      "album": "Time • 1981"
+    },
     {
       "time": "12:36 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "God Only Knows",
       "album": "Pet Sounds • 1966"
-    },
-    {
-      "time": "11:08 am",
-      "artist": "Broken Social Scene",
-      "title": "Anthems for a Seventeen Year-Old Girl",
-      "album": "You Forgot It In People • 2002"
     }
   ]
 }
