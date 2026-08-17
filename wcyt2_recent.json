@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T00:33:46",
+  "updatedAt": "2026-08-17T00:33:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Spandau Ballet",
+    "title": "Gold",
+    "album": "True • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:33 am",
-      "artist": "Spandau Ballet",
-      "title": "Gold"
-    },
     {
       "time": "12:37 am",
       "artist": "Naoto Ishida",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:33 am",
+      "artist": "Spandau Ballet",
+      "title": "Gold",
+      "album": "True • 1983"
+    },
     {
       "time": "12:31 am",
       "artist": "The Smiths",
@@ -172,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "Black Dog",
       "album": "Led Zeppelin IV • 1971"
-    },
-    {
-      "time": "10:36 pm",
-      "artist": "Bob Dylan",
-      "title": "Desolation Row",
-      "album": "Highway 61 Revisited • 1965"
     }
   ]
 }
