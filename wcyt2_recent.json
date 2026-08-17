@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T11:08:21",
+  "updatedAt": "2026-08-17T11:12:36",
   "now": {
-    "artist": "Broken Social Scene",
-    "title": "Anthems for a Seventeen Year-Old Girl",
-    "album": "You Forgot It In People • 2002",
-    "category": "TUNES"
+    "artist": "The Beach Boys",
+    "title": "God Only Knows",
+    "album": "Pet Sounds • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "The Beach Boys",
-      "title": "God Only Knows"
-    },
     {
       "time": "11:15 am",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "11:23 am",
       "artist": "Bruno Mars",
       "title": "Just the Way You Are"
+    },
+    {
+      "time": "11:27 am",
+      "artist": "Deftones",
+      "title": "Knife Prty"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "The Beach Boys",
+      "title": "God Only Knows",
+      "album": "Pet Sounds • 1966"
+    },
     {
       "time": "11:08 am",
       "artist": "Broken Social Scene",
@@ -172,12 +178,6 @@
       "artist": "Blur",
       "title": "Lonesome Street",
       "album": "The Magic Whip • 2015"
-    },
-    {
-      "time": "9:36 am",
-      "artist": "The Beatles",
-      "title": "Only A Northern Song",
-      "album": "Yellow Submarine • 1969"
     }
   ]
 }
