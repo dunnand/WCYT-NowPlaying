@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T08:57:30",
+  "updatedAt": "2026-08-17T08:57:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cher",
+    "title": "If I Could Turn Back Time",
+    "album": "Heart of Stone • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 am",
-      "artist": "Cher",
-      "title": "If I Could Turn Back Time"
-    },
     {
       "time": "9:01 am",
       "artist": "Shinobu Tanaka, Kazumi Totaka",
@@ -26,9 +21,20 @@
       "time": "9:09 am",
       "artist": "Doobie Brothers",
       "title": "Rockin' Down The Highway"
+    },
+    {
+      "time": "9:12 am",
+      "artist": "Black Eyed Peas",
+      "title": "Let's Get It Started"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 am",
+      "artist": "Cher",
+      "title": "If I Could Turn Back Time",
+      "album": "Heart of Stone • 1989"
+    },
     {
       "time": "8:53 am",
       "artist": "ZZ Top",
@@ -172,12 +178,6 @@
       "artist": "Fela Kuti",
       "title": "Upside Down",
       "album": "Upside Down • 1976"
-    },
-    {
-      "time": "7:22 am",
-      "artist": "David Bowie",
-      "title": "Space Oddity",
-      "album": "David Bowie • 1969"
     }
   ]
 }
