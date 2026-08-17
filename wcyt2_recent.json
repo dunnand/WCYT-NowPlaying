@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T20:06:23",
+  "updatedAt": "2026-08-16T20:10:29",
   "now": {
-    "artist": "Roxy Music",
-    "title": "Avalon",
-    "album": "Avalon • 1982",
+    "artist": "American Football",
+    "title": "Uncomfortably Numb (feat. Hayley Williams)",
+    "album": "American Football •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:10 pm",
-      "artist": "American Football",
-      "title": "Uncomfortably Numb (feat. Hayley Williams)"
-    },
     {
       "time": "8:15 pm",
       "artist": "Al Green",
@@ -21,9 +16,20 @@
       "time": "8:18 pm",
       "artist": "Billy Joel",
       "title": "Piano Man"
+    },
+    {
+      "time": "8:21 pm",
+      "artist": "Coldplay",
+      "title": "Viva la Vida"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 pm",
+      "artist": "American Football",
+      "title": "Uncomfortably Numb (feat. Hayley Williams)",
+      "album": "American Football •"
+    },
     {
       "time": "8:06 pm",
       "artist": "Roxy Music",
@@ -167,12 +173,6 @@
       "artist": "Soundgarden",
       "title": "Spoonman",
       "album": "Superunknown • 1994"
-    },
-    {
-      "time": "6:20 pm",
-      "artist": "David Bowie",
-      "title": "Oh! You Pretty Things / Eight Line Poem",
-      "album": "Hunky Dory • 1971"
     }
   ]
 }
