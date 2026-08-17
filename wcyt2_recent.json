@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T10:29:27",
+  "updatedAt": "2026-08-17T10:31:44",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Memphis, Tennessee",
-    "album": "single • 1958",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Crown of Love",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:31 am",
-      "artist": "Arcade Fire",
-      "title": "Crown of Love"
-    },
     {
       "time": "10:36 am",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "10:38 am",
       "artist": "Brittany Howard",
       "title": "Stay High"
+    },
+    {
+      "time": "10:41 am",
+      "artist": "Tina Turner",
+      "title": "I Don't Wanna Fight"
     }
   ],
   "recent": [
+    {
+      "time": "10:31 am",
+      "artist": "Arcade Fire",
+      "title": "Crown of Love",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "10:29 am",
       "artist": "Chuck Berry",
@@ -167,12 +173,6 @@
       "artist": "Cher",
       "title": "If I Could Turn Back Time",
       "album": "Heart of Stone • 1989"
-    },
-    {
-      "time": "8:53 am",
-      "artist": "ZZ Top",
-      "title": "Sharp Dressed Man",
-      "album": "Eliminator • 1983"
     }
   ]
 }
