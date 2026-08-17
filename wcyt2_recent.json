@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T15:51:14",
+  "updatedAt": "2026-08-17T15:55:29",
   "now": {
-    "artist": "Bright Eyes",
-    "title": "Lua",
-    "album": "Fevers Mirrors • 2000",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Mississippi",
+    "album": "Love and Theft • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:55 pm",
-      "artist": "Bob Dylan",
-      "title": "Mississippi"
-    },
     {
       "time": "4:01 pm",
       "artist": "Ed Sheeran",
@@ -26,9 +21,20 @@
       "time": "4:09 pm",
       "artist": "Scorpions",
       "title": "Wind Of Change"
+    },
+    {
+      "time": "4:12 pm",
+      "artist": "Escape Club",
+      "title": "Wild Wild West"
     }
   ],
   "recent": [
+    {
+      "time": "3:55 pm",
+      "artist": "Bob Dylan",
+      "title": "Mississippi",
+      "album": "Love and Theft • 2001"
+    },
     {
       "time": "3:51 pm",
       "artist": "Bright Eyes",
@@ -172,12 +178,6 @@
       "artist": "James Brown",
       "title": "We Got To Change",
       "album": "Single • 2024"
-    },
-    {
-      "time": "1:47 pm",
-      "artist": "Debbie GIbson",
-      "title": "Shake Your Love",
-      "album": "Out of the Blue • 1987"
     }
   ]
 }
