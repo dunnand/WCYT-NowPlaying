@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T05:30:19",
+  "updatedAt": "2026-08-17T05:30:41",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Angel Olsen",
+    "title": "Intern",
+    "album": "My Woman • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:30 am",
-      "artist": "Angel Olsen",
-      "title": "Intern"
-    },
     {
       "time": "5:33 am",
       "artist": "Sharon Van Etten",
@@ -26,9 +21,20 @@
       "time": "5:43 am",
       "artist": "Talking Heads",
       "title": "Radio Head"
+    },
+    {
+      "time": "5:46 am",
+      "artist": "Kurt Vile",
+      "title": "Shame Chamber"
     }
   ],
   "recent": [
+    {
+      "time": "5:30 am",
+      "artist": "Angel Olsen",
+      "title": "Intern",
+      "album": "My Woman • 2016"
+    },
     {
       "time": "5:27 am",
       "artist": "Bon Iver",
@@ -172,12 +178,6 @@
       "artist": "Kiwi Jr",
       "title": "Painting After Painting",
       "album": "Blowin Up • 2026"
-    },
-    {
-      "time": "3:58 am",
-      "artist": "Alvvays",
-      "title": "Adult Diversion",
-      "album": "Alvvays • 2014"
     }
   ]
 }
