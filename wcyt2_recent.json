@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T06:24:22",
+  "updatedAt": "2026-08-17T06:28:42",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Rope",
-    "album": "Wasting Light • 2011",
+    "artist": "Elton John",
+    "title": "Harmony",
+    "album": "Goodbye Yellow Brick Road • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:28 am",
-      "artist": "Elton John",
-      "title": "Harmony"
-    },
     {
       "time": "6:31 am",
       "artist": "Yo La Tengo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:28 am",
+      "artist": "Elton John",
+      "title": "Harmony",
+      "album": "Goodbye Yellow Brick Road • 1973"
+    },
     {
       "time": "6:24 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "The Offspring",
       "title": "The Kids Aren't Alright",
       "album": "Americana • 1998"
-    },
-    {
-      "time": "4:57 am",
-      "artist": "David Byrne",
-      "title": "Everybody's Coming to My House",
-      "album": "American Utopia • 2018"
     }
   ]
 }
