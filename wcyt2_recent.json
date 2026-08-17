@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T06:28:42",
+  "updatedAt": "2026-08-17T06:31:15",
   "now": {
-    "artist": "Elton John",
-    "title": "Harmony",
-    "album": "Goodbye Yellow Brick Road • 1973",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "From a Motel 6",
+    "album": "Painful • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:31 am",
-      "artist": "Yo La Tengo",
-      "title": "From a Motel 6"
-    },
     {
       "time": "6:35 am",
       "artist": "Mark Dinning",
@@ -21,9 +16,20 @@
       "time": "6:38 am",
       "artist": "Blonde Redhead",
       "title": "23"
+    },
+    {
+      "time": "6:43 am",
+      "artist": "The Association",
+      "title": "Windy"
     }
   ],
   "recent": [
+    {
+      "time": "6:31 am",
+      "artist": "Yo La Tengo",
+      "title": "From a Motel 6",
+      "album": "Painful • 1993"
+    },
     {
       "time": "6:28 am",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "Green Day",
       "title": "Pulling Teeth",
       "album": "Dookie • 1994"
-    },
-    {
-      "time": "5:00 am",
-      "artist": "The Offspring",
-      "title": "The Kids Aren't Alright",
-      "album": "Americana • 1998"
     }
   ]
 }
