@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T06:59:33",
+  "updatedAt": "2026-08-17T06:59:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Whitesnake",
+    "title": "Here I Go Again",
+    "album": "Saints & Sinners • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:59 am",
-      "artist": "Whitesnake",
-      "title": "Here I Go Again"
-    },
     {
       "time": "7:04 am",
       "artist": "Willie Nelson",
@@ -26,9 +21,20 @@
       "time": "7:09 am",
       "artist": "Eagles",
       "title": "Best Of My Love"
+    },
+    {
+      "time": "7:14 am",
+      "artist": "The Beatles",
+      "title": "Let It Be"
     }
   ],
   "recent": [
+    {
+      "time": "6:59 am",
+      "artist": "Whitesnake",
+      "title": "Here I Go Again",
+      "album": "Saints & Sinners • 1987"
+    },
     {
       "time": "6:55 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Avenged Sevenfold",
       "title": "Hail To The King",
       "album": "Hail to the King • 2013"
-    },
-    {
-      "time": "5:24 am",
-      "artist": "Daft Punk",
-      "title": "Digital Love",
-      "album": "Discovery • 2001"
     }
   ]
 }
