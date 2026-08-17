@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T09:36:02",
+  "updatedAt": "2026-08-17T09:39:10",
   "now": {
-    "artist": "The Beatles",
-    "title": "Only A Northern Song",
-    "album": "Yellow Submarine • 1969",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Lonesome Street",
+    "album": "The Magic Whip • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:39 am",
-      "artist": "Blur",
-      "title": "Lonesome Street"
-    },
     {
       "time": "9:42 am",
       "artist": "Neutral Milk Hotel",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:39 am",
+      "artist": "Blur",
+      "title": "Lonesome Street",
+      "album": "The Magic Whip • 2015"
+    },
     {
       "time": "9:36 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Beyonce",
       "title": "Halo",
       "album": "I Am... Sasha Fierce • 2008"
-    },
-    {
-      "time": "8:05 am",
-      "artist": "Bob Dylan",
-      "title": "False Prophet",
-      "album": "Rough and Rowdy Ways • 2020"
     }
   ]
 }
