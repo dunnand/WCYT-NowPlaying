@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T06:00:37",
+  "updatedAt": "2026-08-17T06:00:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Wilco",
+    "title": "Casino Queen",
+    "album": "A.M • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:00 am",
-      "artist": "Wilco",
-      "title": "Casino Queen"
-    },
     {
       "time": "6:03 am",
       "artist": "Tracy Chapman",
@@ -26,9 +21,20 @@
       "time": "6:10 am",
       "artist": "Aaron Frazer",
       "title": "Over You"
+    },
+    {
+      "time": "6:12 am",
+      "artist": "Arctic Monkeys",
+      "title": "Still Take You Home"
     }
   ],
   "recent": [
+    {
+      "time": "6:00 am",
+      "artist": "Wilco",
+      "title": "Casino Queen",
+      "album": "A.M • 1995"
+    },
     {
       "time": "5:55 am",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Animal Collective",
       "title": "Alvin Row",
       "album": "Spirit They're Gone Spirit They've Vanished • 2000"
-    },
-    {
-      "time": "4:22 am",
-      "artist": "Genesis",
-      "title": "Follow You Follow Me",
-      "album": "... And Then There Were Three... • 1978"
     }
   ]
 }
