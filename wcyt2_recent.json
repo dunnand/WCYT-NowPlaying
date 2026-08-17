@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T12:50:36",
+  "updatedAt": "2026-08-17T12:55:24",
   "now": {
-    "artist": "John Lennon",
-    "title": "#9 Dream",
-    "album": "Walls and Bridges • 1974",
+    "artist": "Kraftwerk",
+    "title": "The Robots",
+    "album": "The Man-Machine • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "Kraftwerk",
-      "title": "The Robots"
-    },
     {
       "time": "1:01 pm",
       "artist": "Bloc Party",
@@ -26,9 +21,20 @@
       "time": "1:07 pm",
       "artist": "Marvin Gaye",
       "title": "What's Going On"
+    },
+    {
+      "time": "1:11 pm",
+      "artist": "Pearl Jam",
+      "title": "Yellow Ledbetter"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "Kraftwerk",
+      "title": "The Robots",
+      "album": "The Man-Machine • 1978"
+    },
     {
       "time": "12:50 pm",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Knife Prty",
       "album": "White Pony • 2000"
-    },
-    {
-      "time": "11:23 am",
-      "artist": "Bruno Mars",
-      "title": "Just the Way You Are",
-      "album": "Doo-Wops & Hooligans • 2010"
     }
   ]
 }
