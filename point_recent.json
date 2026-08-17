@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T13:59:26",
+  "updatedAt": "2026-08-17T13:59:46",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beat Happening",
+    "title": "I Love You",
+    "album": "Beat Happening • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:59 pm",
-      "artist": "Beat Happening",
-      "title": "I Love You"
-    },
     {
       "time": "2:01 pm",
       "artist": "Hockey Dad",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:59 pm",
+      "artist": "Beat Happening",
+      "title": "I Love You",
+      "album": "Beat Happening • 1985"
+    },
     {
       "time": "1:56 pm",
       "artist": "Soccer Mommy",
@@ -172,12 +173,6 @@
       "artist": "The Beths",
       "title": "Future Me Hates Me",
       "album": "Future Me Hates Me • 2018"
-    },
-    {
-      "time": "12:23 pm",
-      "artist": "Friko",
-      "title": "Still Around",
-      "album": "Something Worth Waiting For • 2026"
     }
   ]
 }
