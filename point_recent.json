@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T08:28:51",
+  "updatedAt": "2026-08-17T08:31:33",
   "now": {
-    "artist": "Wilco",
-    "title": "More...",
-    "album": "Star Wars • 2015",
+    "artist": "Radiohead",
+    "title": "Optimistic",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:31 am",
-      "artist": "Radiohead",
-      "title": "Optimistic"
-    },
     {
       "time": "8:37 am",
       "artist": "Amber Arcades",
@@ -26,9 +21,20 @@
       "time": "8:44 am",
       "artist": "glass beach",
       "title": "the CIA"
+    },
+    {
+      "time": "8:48 am",
+      "artist": "The Sophs",
+      "title": "SWEETIEPIE"
     }
   ],
   "recent": [
+    {
+      "time": "8:31 am",
+      "artist": "Radiohead",
+      "title": "Optimistic",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "8:28 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Eaves Wilder",
       "title": "Everybody Talks",
       "album": "Little Miss Sunshine • 2026"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Protomartyr",
-      "title": "Sounds We Cannot Hear",
-      "album": "Hotel Usona • 2026"
     }
   ]
 }
