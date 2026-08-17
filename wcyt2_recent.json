@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T13:54:50",
+  "updatedAt": "2026-08-17T13:58:04",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "Please Mr. Please",
-    "album": "Have You Never Been Mellow • 1975",
+    "artist": "Ben E. King",
+    "title": "Stand by Me",
+    "album": "Don't Play That Song! • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:58 pm",
-      "artist": "Ben E. King",
-      "title": "Stand by Me"
-    },
     {
       "time": "2:01 pm",
       "artist": "Parliament",
@@ -26,9 +21,20 @@
       "time": "2:11 pm",
       "artist": "Paul McCartney",
       "title": "Maybe I'm Amazed"
+    },
+    {
+      "time": "2:15 pm",
+      "artist": "The Reverend Horton Heat",
+      "title": "Psychobilly Freakout"
     }
   ],
   "recent": [
+    {
+      "time": "1:58 pm",
+      "artist": "Ben E. King",
+      "title": "Stand by Me",
+      "album": "Don't Play That Song! • 1962"
+    },
     {
       "time": "1:54 pm",
       "artist": "Olivia Newton-John",
@@ -172,12 +178,6 @@
       "artist": "Eminem",
       "title": "Lose Yourself",
       "album": "8 Mile Soundtrack • 2002"
-    },
-    {
-      "time": "12:15 pm",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'",
-      "album": "Ricky • 1957"
     }
   ]
 }
