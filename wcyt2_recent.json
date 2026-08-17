@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T05:20:33",
+  "updatedAt": "2026-08-17T05:24:19",
   "now": {
-    "artist": "Michael Jackson",
-    "title": "Rock With You",
-    "album": "Off the Wall • 1979",
+    "artist": "Daft Punk",
+    "title": "Digital Love",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:24 am",
-      "artist": "Daft Punk",
-      "title": "Digital Love"
-    },
     {
       "time": "5:29 am",
       "artist": "Avenged Sevenfold",
@@ -31,9 +26,20 @@
       "time": "5:43 am",
       "artist": "Monotones",
       "title": "Book Of Love"
+    },
+    {
+      "time": "5:45 am",
+      "artist": "The Black Keys",
+      "title": "Thickfreakness"
     }
   ],
   "recent": [
+    {
+      "time": "5:24 am",
+      "artist": "Daft Punk",
+      "title": "Digital Love",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "5:20 am",
       "artist": "Michael Jackson",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "One of Us Must Know (Sooner or Later)",
       "album": "One of Us Must Know • 1966"
-    },
-    {
-      "time": "3:49 am",
-      "artist": "The Apples in Stereo",
-      "title": "Please",
-      "album": "Velocity of Sound • 2002"
     }
   ]
 }
