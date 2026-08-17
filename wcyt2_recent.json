@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T20:21:30",
+  "updatedAt": "2026-08-16T20:25:25",
   "now": {
-    "artist": "Coldplay",
-    "title": "Viva la Vida",
-    "album": "Viva la Vida or Death and All His Friends • 2008",
+    "artist": "Bob Dylan",
+    "title": "Maggie's Farm",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:25 pm",
-      "artist": "Bob Dylan",
-      "title": "Maggie's Farm"
-    },
     {
       "time": "8:29 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "8:36 pm",
       "artist": "Fats Domino",
       "title": "The Fat Man"
+    },
+    {
+      "time": "8:39 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Stay Loose"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 pm",
+      "artist": "Bob Dylan",
+      "title": "Maggie's Farm",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "8:21 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "album": "Single • 2017"
-    },
-    {
-      "time": "6:34 pm",
-      "artist": "James Brown",
-      "title": "Say It Loud: I'm Black and I'm Proud, Part 1",
-      "album": "A Soulful Christmas • 1968"
     }
   ]
 }
