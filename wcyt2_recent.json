@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T00:08:10",
+  "updatedAt": "2026-08-17T00:08:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "One More Time",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 am",
-      "artist": "Daft Punk",
-      "title": "One More Time"
-    },
     {
       "time": "12:13 am",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "12:22 am",
       "artist": "CAKE",
       "title": "The Distance"
+    },
+    {
+      "time": "12:25 am",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "Do You Love Me?"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "12:03 am",
       "artist": "Avenged Sevenfold",
@@ -172,12 +178,6 @@
       "artist": "Siouxsie and the Banshees",
       "title": "She's a Carnival",
       "album": "Juju • 1981"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Sheila E.",
-      "title": "The Glamorous Life",
-      "album": "The Glamorous Life • 1984"
     }
   ]
 }
