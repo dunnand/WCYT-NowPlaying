@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T03:46:41",
+  "updatedAt": "2026-08-17T03:49:23",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "I Walk The Line",
-    "album": "I Walk The Line • 1956",
-    "category": "AUDIO"
+    "artist": "The Apples in Stereo",
+    "title": "Please",
+    "album": "Velocity of Sound • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "The Apples in Stereo",
-      "title": "Please"
-    },
     {
       "time": "3:51 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "3:56 am",
       "artist": "DJ Shadow",
       "title": "Rocket Fuel (Feat. De La Soul)"
+    },
+    {
+      "time": "4:00 am",
+      "artist": "The Smashing Pumpkins",
+      "title": "Bullet With Butterfly Wings"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "The Apples in Stereo",
+      "title": "Please",
+      "album": "Velocity of Sound • 2002"
+    },
     {
       "time": "3:46 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Steve Perry",
       "title": "Foolish Heart",
       "album": "Foolish Heart • 1984"
-    },
-    {
-      "time": "2:19 am",
-      "artist": "Starship",
-      "title": "Nothing's Gonna Stop Us Now",
-      "album": "No Protection • 1987"
     }
   ]
 }
