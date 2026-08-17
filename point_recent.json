@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T04:53:12",
+  "updatedAt": "2026-08-17T04:53:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Husker Du",
+    "title": "New Day Rising",
+    "album": "New Day Rising • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:53 am",
-      "artist": "Husker Du",
-      "title": "New Day Rising"
-    },
     {
       "time": "4:55 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "5:04 am",
       "artist": "R.E.M.",
       "title": "What's the Frequency, Kenneth?"
+    },
+    {
+      "time": "5:08 am",
+      "artist": "Pulp",
+      "title": "The Man Comes Around"
     }
   ],
   "recent": [
+    {
+      "time": "4:53 am",
+      "artist": "Husker Du",
+      "title": "New Day Rising",
+      "album": "New Day Rising • 1985"
+    },
     {
       "time": "4:49 am",
       "artist": "Goose",
@@ -172,12 +178,6 @@
       "artist": "florence road",
       "title": "7563",
       "album": "• 2026"
-    },
-    {
-      "time": "3:11 am",
-      "artist": "Father John Misty",
-      "title": "Screamland",
-      "album": "Mahashmashana • 2024"
     }
   ]
 }
