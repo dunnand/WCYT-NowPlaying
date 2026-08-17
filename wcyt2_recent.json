@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T21:49:40",
+  "updatedAt": "2026-08-16T21:55:31",
   "now": {
-    "artist": "Elbow",
-    "title": "Any Day Now",
-    "album": "Asleep in the Back • 2001",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Just Like a Woman",
+    "album": "Blonde on Blonde • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:55 pm",
-      "artist": "Bob Dylan",
-      "title": "Just Like a Woman"
-    },
     {
       "time": "10:00 pm",
       "artist": "D'Angelo and The Vanguard",
@@ -21,9 +16,20 @@
       "time": "10:06 pm",
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Mary Jane's Last Dance"
+    },
+    {
+      "time": "10:10 pm",
+      "artist": "The Magnetic Fields",
+      "title": "The One You Really Love"
     }
   ],
   "recent": [
+    {
+      "time": "9:55 pm",
+      "artist": "Bob Dylan",
+      "title": "Just Like a Woman",
+      "album": "Blonde on Blonde • 1966"
+    },
     {
       "time": "9:49 pm",
       "artist": "Elbow",
@@ -167,12 +173,6 @@
       "artist": "American Football",
       "title": "Uncomfortably Numb (feat. Hayley Williams)",
       "album": "American Football •"
-    },
-    {
-      "time": "8:06 pm",
-      "artist": "Roxy Music",
-      "title": "Avalon",
-      "album": "Avalon • 1982"
     }
   ]
 }
