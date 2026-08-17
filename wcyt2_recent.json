@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T04:09:50",
+  "updatedAt": "2026-08-17T04:10:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Jam",
+    "title": "Start!",
+    "album": "Sound Affects • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:10 am",
-      "artist": "The Jam",
-      "title": "Start!"
-    },
     {
       "time": "4:12 am",
       "artist": "The Vaselines",
@@ -26,9 +21,20 @@
       "time": "4:20 am",
       "artist": "Partridge Family",
       "title": "I Think I Love You"
+    },
+    {
+      "time": "4:22 am",
+      "artist": "Genesis",
+      "title": "Follow You Follow Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:10 am",
+      "artist": "The Jam",
+      "title": "Start!",
+      "album": "Sound Affects • 1980"
+    },
     {
       "time": "4:04 am",
       "artist": "Madonna",
@@ -172,12 +178,6 @@
       "artist": "Cream",
       "title": "I Feel Free",
       "album": "Fresh Cream • 1967"
-    },
-    {
-      "time": "2:39 am",
-      "artist": "Death Cab for Cutie",
-      "title": "A Movie Script Ending",
-      "album": "The Photo Album • 2001"
     }
   ]
 }
