@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T07:54:14",
+  "updatedAt": "2026-08-17T07:57:20",
   "now": {
-    "artist": "Eric's Trip",
-    "title": "Behind The Garage",
-    "album": "Love Tara • 1993",
+    "artist": "X",
+    "title": "Sugarlight",
+    "album": "Los Angeles • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:57 am",
-      "artist": "X",
-      "title": "Sugarlight"
-    },
     {
       "time": "7:59 am",
       "artist": "John Lennon & Yoko Ono",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:57 am",
+      "artist": "X",
+      "title": "Sugarlight",
+      "album": "Los Angeles • 1982"
+    },
     {
       "time": "7:54 am",
       "artist": "Eric's Trip",
@@ -172,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Rope",
       "album": "Wasting Light • 2011"
-    },
-    {
-      "time": "6:20 am",
-      "artist": "Common",
-      "title": "The Light",
-      "album": "Like Water for Chocolate • 2000"
     }
   ]
 }
