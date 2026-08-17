@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T07:09:26",
+  "updatedAt": "2026-08-17T07:09:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Best Of My Love",
+    "album": "On the Border • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:09 am",
-      "artist": "Eagles",
-      "title": "Best Of My Love"
-    },
     {
       "time": "7:14 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:23 am",
       "artist": "David Bowie",
       "title": "Space Oddity"
+    },
+    {
+      "time": "7:27 am",
+      "artist": "Fela Kuti",
+      "title": "Upside Down"
     }
   ],
   "recent": [
+    {
+      "time": "7:09 am",
+      "artist": "Eagles",
+      "title": "Best Of My Love",
+      "album": "On the Border • 1974"
+    },
     {
       "time": "7:06 am",
       "artist": "Charli XCX",
@@ -172,12 +178,6 @@
       "artist": "Monotones",
       "title": "Book Of Love",
       "album": "Book of Love • 1958"
-    },
-    {
-      "time": "5:40 am",
-      "artist": "Sleater-Kinney",
-      "title": "The Day I Went Away",
-      "album": "Sleater Kinney • 1995"
     }
   ]
 }
