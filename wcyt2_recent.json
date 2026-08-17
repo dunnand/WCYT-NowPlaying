@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T04:20:06",
+  "updatedAt": "2026-08-17T04:22:52",
   "now": {
-    "artist": "Partridge Family",
-    "title": "I Think I Love You",
-    "album": "The Partridge Family Album • 1970",
+    "artist": "Genesis",
+    "title": "Follow You Follow Me",
+    "album": "... And Then There Were Three... • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:22 am",
-      "artist": "Genesis",
-      "title": "Follow You Follow Me"
-    },
     {
       "time": "4:26 am",
       "artist": "Animal Collective",
@@ -26,9 +21,20 @@
       "time": "4:41 am",
       "artist": "Fleetwood Mac",
       "title": "Dreams"
+    },
+    {
+      "time": "4:45 am",
+      "artist": "Foo Fighters",
+      "title": "Wind Up"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 am",
+      "artist": "Genesis",
+      "title": "Follow You Follow Me",
+      "album": "... And Then There Were Three... • 1978"
+    },
     {
       "time": "4:20 am",
       "artist": "Partridge Family",
@@ -172,12 +178,6 @@
       "artist": "Britney Spears",
       "title": "Oops....I Did It Again",
       "album": "Oops!... I Did It Again • 2000"
-    },
-    {
-      "time": "2:52 am",
-      "artist": "Bill Allen And The Backbeats",
-      "title": "Please Give Me Something",
-      "album": "single • 1958"
     }
   ]
 }
