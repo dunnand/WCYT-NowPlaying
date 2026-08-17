@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T22:47:58",
+  "updatedAt": "2026-08-16T22:52:43",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Black Dog",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Sophie B. Hawkins",
+    "title": "As I Lay Me Down",
+    "album": "Whaler • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:52 pm",
-      "artist": "Sophie B. Hawkins",
-      "title": "As I Lay Me Down"
-    },
     {
       "time": "10:56 pm",
       "artist": "Little Richard",
@@ -26,9 +21,20 @@
       "time": "11:03 pm",
       "artist": "Gary Puckett & The Union Gap",
       "title": "Young Girl"
+    },
+    {
+      "time": "11:06 pm",
+      "artist": "The Decemberists",
+      "title": "Don't Carry It All"
     }
   ],
   "recent": [
+    {
+      "time": "10:52 pm",
+      "artist": "Sophie B. Hawkins",
+      "title": "As I Lay Me Down",
+      "album": "Whaler • 1995"
+    },
     {
       "time": "10:47 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Blur",
       "title": "Beetlebum",
       "album": "Blur • 1997"
-    },
-    {
-      "time": "8:58 pm",
-      "artist": "R.E.M.",
-      "title": "Man On The Moon",
-      "album": "Automatic for the People • 1992"
     }
   ]
 }
