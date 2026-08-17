@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T01:20:45",
+  "updatedAt": "2026-08-17T01:20:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Detroit Has a Skyline",
+    "album": "Here's Where the Strings Come In • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:20 am",
-      "artist": "Superchunk",
-      "title": "Detroit Has a Skyline"
-    },
     {
       "time": "1:23 am",
       "artist": "The Specials",
@@ -26,9 +21,20 @@
       "time": "1:32 am",
       "artist": "Lil Nas X",
       "title": "INDUSTRY BABY"
+    },
+    {
+      "time": "1:36 am",
+      "artist": "Arcade Fire",
+      "title": "Neighborhood #2 (Laïka)"
     }
   ],
   "recent": [
+    {
+      "time": "1:20 am",
+      "artist": "Superchunk",
+      "title": "Detroit Has a Skyline",
+      "album": "Here's Where the Strings Come In • 1995"
+    },
     {
       "time": "1:17 am",
       "artist": "Stone Temple Pilots",
@@ -172,12 +178,6 @@
       "artist": "Camera Obscura",
       "title": "Suspended From Class",
       "album": "Underachievers Please Try Harder • 2003"
-    },
-    {
-      "time": "11:32 pm",
-      "artist": "The Clash",
-      "title": "Clash Citry Rockers",
-      "album": "The Clash • 1979"
     }
   ]
 }
