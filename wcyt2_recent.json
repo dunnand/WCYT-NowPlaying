@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T12:15:07",
+  "updatedAt": "2026-08-17T12:15:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ricky Nelson",
+    "title": "I'm Walkin'",
+    "album": "Ricky • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 pm",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'"
-    },
     {
       "time": "12:17 pm",
       "artist": "Eminem",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:15 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'",
+      "album": "Ricky • 1957"
+    },
     {
       "time": "12:11 pm",
       "artist": "Ricky Martin",
@@ -172,12 +173,6 @@
       "artist": "Bryan Adams",
       "title": "Cuts Like A Knife",
       "album": "So Far So Good • 1983"
-    },
-    {
-      "time": "10:46 am",
-      "artist": "R.E.M.",
-      "title": "Shiny Happy People",
-      "album": "Out of Time • 1991"
     }
   ]
 }
