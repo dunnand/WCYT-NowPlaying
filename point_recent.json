@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T09:52:30",
+  "updatedAt": "2026-08-17T09:52:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Kate Bush",
+    "title": "The Big Sky",
+    "album": "Hounds of Love • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:52 am",
-      "artist": "Kate Bush",
-      "title": "The Big Sky"
-    },
     {
       "time": "9:56 am",
       "artist": "Sharon Van Etten",
@@ -26,9 +21,20 @@
       "time": "10:03 am",
       "artist": "Helado Negro",
       "title": "Best For You and Me"
+    },
+    {
+      "time": "10:06 am",
+      "artist": "Mac DeMarco",
+      "title": "Freaking Out the Neighborhood"
     }
   ],
   "recent": [
+    {
+      "time": "9:52 am",
+      "artist": "Kate Bush",
+      "title": "The Big Sky",
+      "album": "Hounds of Love • 1985"
+    },
     {
       "time": "9:48 am",
       "artist": "mary in the junkyard",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "Here Comes Your Man",
       "album": "Doolittle • 1989"
-    },
-    {
-      "time": "8:14 am",
-      "artist": "Deep Sea Diver",
-      "title": "Teardrop",
-      "album": "• 2026"
     }
   ]
 }
