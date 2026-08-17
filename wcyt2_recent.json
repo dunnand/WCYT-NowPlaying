@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T09:42:36",
+  "updatedAt": "2026-08-17T09:45:40",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Everything Is",
-    "album": "Everything Is • 1994",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Falling for You",
+    "album": "Pinkerton • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:45 am",
-      "artist": "Weezer",
-      "title": "Falling for You"
-    },
     {
       "time": "9:49 am",
       "artist": "3rd Bass",
@@ -26,9 +21,20 @@
       "time": "9:58 am",
       "artist": "Jessie Ware",
       "title": "Spotlight"
+    },
+    {
+      "time": "10:03 am",
+      "artist": "Daft Punk",
+      "title": "Robot Rock"
     }
   ],
   "recent": [
+    {
+      "time": "9:45 am",
+      "artist": "Weezer",
+      "title": "Falling for You",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "9:42 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "I Fought in a War",
       "album": "Fold Your Hands Child You Walk Like A Peasant • 2000"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "Bee Gees",
-      "title": "You Should Be Dancing",
-      "album": "Children of the World • 1976"
     }
   ]
 }
