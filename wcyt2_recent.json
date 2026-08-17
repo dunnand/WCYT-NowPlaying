@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T12:50:16",
+  "updatedAt": "2026-08-17T12:50:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Lennon",
+    "title": "#9 Dream",
+    "album": "Walls and Bridges • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:50 pm",
-      "artist": "John Lennon",
-      "title": "#9 Dream"
-    },
     {
       "time": "12:55 pm",
       "artist": "Kraftwerk",
@@ -26,9 +21,20 @@
       "time": "1:04 pm",
       "artist": "Bob Dylan",
       "title": "Song to Woody"
+    },
+    {
+      "time": "1:07 pm",
+      "artist": "Marvin Gaye",
+      "title": "What's Going On"
     }
   ],
   "recent": [
+    {
+      "time": "12:50 pm",
+      "artist": "John Lennon",
+      "title": "#9 Dream",
+      "album": "Walls and Bridges • 1974"
+    },
     {
       "time": "12:47 pm",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "Just the Way You Are",
       "album": "Doo-Wops & Hooligans • 2010"
-    },
-    {
-      "time": "11:18 am",
-      "artist": "The Magnetic Fields",
-      "title": "Papa Was a Rodeo",
-      "album": "69 Love Songs • 1999"
     }
   ]
 }
