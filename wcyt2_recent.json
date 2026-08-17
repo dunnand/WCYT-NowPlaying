@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T07:43:58",
+  "updatedAt": "2026-08-17T07:44:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "It's All Over Now, Baby Blue",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 am",
-      "artist": "Bob Dylan",
-      "title": "It's All Over Now, Baby Blue"
-    },
     {
       "time": "7:48 am",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "7:54 am",
       "artist": "Eric's Trip",
       "title": "Behind The Garage"
+    },
+    {
+      "time": "7:57 am",
+      "artist": "X",
+      "title": "Sugarlight"
     }
   ],
   "recent": [
+    {
+      "time": "7:44 am",
+      "artist": "Bob Dylan",
+      "title": "It's All Over Now, Baby Blue",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "7:40 am",
       "artist": "The Dandy Warhols",
@@ -172,12 +178,6 @@
       "artist": "Aaron Frazer",
       "title": "Over You",
       "album": "Introducing... • 2021"
-    },
-    {
-      "time": "6:06 am",
-      "artist": "Wang Chung",
-      "title": "Dance Hall Days",
-      "album": "Points on the Curve • 1984"
     }
   ]
 }
