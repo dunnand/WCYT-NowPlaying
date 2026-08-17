@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T20:29:11",
+  "updatedAt": "2026-08-16T20:33:37",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "We’ve Got Tonight",
-    "album": "Stranger in Town • 1979",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Major Leagues",
+    "album": "Terror Twilight • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:33 pm",
-      "artist": "Pavement",
-      "title": "Major Leagues"
-    },
     {
       "time": "8:36 pm",
       "artist": "Fats Domino",
@@ -21,9 +16,20 @@
       "time": "8:39 pm",
       "artist": "Belle and Sebastian",
       "title": "Stay Loose"
+    },
+    {
+      "time": "8:45 pm",
+      "artist": "Bob Dylan",
+      "title": "With God on Our Side"
     }
   ],
   "recent": [
+    {
+      "time": "8:33 pm",
+      "artist": "Pavement",
+      "title": "Major Leagues",
+      "album": "Terror Twilight • 1999"
+    },
     {
       "time": "8:29 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -167,12 +173,6 @@
       "artist": "Sunny Day Real Estate",
       "title": "In Circles",
       "album": "Diary • 1994"
-    },
-    {
-      "time": "6:43 pm",
-      "artist": "Radiohead",
-      "title": "My Iron Lung",
-      "album": "The Bends • 1995"
     }
   ]
 }
