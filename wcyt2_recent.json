@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T07:59:44",
+  "updatedAt": "2026-08-17T08:05:35",
   "now": {
-    "artist": "John Lennon & Yoko Ono",
-    "title": "Walking on Thin Ice",
-    "album": "Walking on Thin Ice • 1981",
+    "artist": "Bob Dylan",
+    "title": "False Prophet",
+    "album": "Rough and Rowdy Ways • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:05 am",
-      "artist": "Bob Dylan",
-      "title": "False Prophet"
-    },
     {
       "time": "8:11 am",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "8:19 am",
       "artist": "Belle and Sebastian",
       "title": "I Fought in a War"
+    },
+    {
+      "time": "8:23 am",
+      "artist": "Ariana Grande",
+      "title": "The Way"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 am",
+      "artist": "Bob Dylan",
+      "title": "False Prophet",
+      "album": "Rough and Rowdy Ways • 2020"
+    },
     {
       "time": "7:59 am",
       "artist": "John Lennon & Yoko Ono",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "From a Motel 6",
       "album": "Painful • 1993"
-    },
-    {
-      "time": "6:28 am",
-      "artist": "Elton John",
-      "title": "Harmony",
-      "album": "Goodbye Yellow Brick Road • 1973"
     }
   ]
 }
