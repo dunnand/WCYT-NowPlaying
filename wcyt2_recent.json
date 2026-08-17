@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T15:51:02",
+  "updatedAt": "2026-08-17T15:51:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Bright Eyes",
+    "title": "Lua",
+    "album": "Fevers Mirrors • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:51 pm",
-      "artist": "Bright Eyes",
-      "title": "Lua"
-    },
     {
       "time": "3:55 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "4:05 pm",
       "artist": "Seatbelts",
       "title": "Tank!"
+    },
+    {
+      "time": "4:09 pm",
+      "artist": "Scorpions",
+      "title": "Wind Of Change"
     }
   ],
   "recent": [
+    {
+      "time": "3:51 pm",
+      "artist": "Bright Eyes",
+      "title": "Lua",
+      "album": "Fevers Mirrors • 2000"
+    },
     {
       "time": "3:47 pm",
       "artist": "FKA twigs",
@@ -172,12 +178,6 @@
       "artist": "Debbie GIbson",
       "title": "Shake Your Love",
       "album": "Out of the Blue • 1987"
-    },
-    {
-      "time": "1:44 pm",
-      "artist": "Madonna",
-      "title": "Like A Virgin",
-      "album": "Like a Virgin • 1984"
     }
   ]
 }
