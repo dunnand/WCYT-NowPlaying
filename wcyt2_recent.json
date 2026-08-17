@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T13:05:08",
+  "updatedAt": "2026-08-17T13:07:42",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Song to Woody",
-    "album": "Bob Dylan • 1962",
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "album": "Whats Going On • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 pm",
-      "artist": "Marvin Gaye",
-      "title": "What's Going On"
-    },
     {
       "time": "1:11 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "1:20 pm",
       "artist": "Avenged Sevenfold",
       "title": "Bat Country"
+    },
+    {
+      "time": "1:25 pm",
+      "artist": "Bright Eyes",
+      "title": "Haligh, Haligh, A Lie, Haligh"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 pm",
+      "artist": "Marvin Gaye",
+      "title": "What's Going On",
+      "album": "Whats Going On • 1971"
+    },
     {
       "time": "1:05 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "A Summer Wasting",
       "album": "The Boy with the Arab Strap • 1998"
-    },
-    {
-      "time": "11:35 am",
-      "artist": "Beach Weather",
-      "title": "Chit Chat",
-      "album": "Chit Chat • 2016"
     }
   ]
 }
