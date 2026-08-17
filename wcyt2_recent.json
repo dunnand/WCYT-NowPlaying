@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T11:12:36",
+  "updatedAt": "2026-08-17T11:15:21",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "God Only Knows",
-    "album": "Pet Sounds • 1966",
+    "artist": "Chicago",
+    "title": "Baby, What A Big Surprise",
+    "album": "Chicago XI • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 am",
-      "artist": "Chicago",
-      "title": "Baby, What A Big Surprise"
-    },
     {
       "time": "11:18 am",
       "artist": "The Magnetic Fields",
@@ -26,9 +21,20 @@
       "time": "11:27 am",
       "artist": "Deftones",
       "title": "Knife Prty"
+    },
+    {
+      "time": "11:31 am",
+      "artist": "Built to Spill",
+      "title": "In Your Mind"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 am",
+      "artist": "Chicago",
+      "title": "Baby, What A Big Surprise",
+      "album": "Chicago XI • 1977"
+    },
     {
       "time": "11:12 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "Everything Is",
       "album": "Everything Is • 1994"
-    },
-    {
-      "time": "9:39 am",
-      "artist": "Blur",
-      "title": "Lonesome Street",
-      "album": "The Magic Whip • 2015"
     }
   ]
 }
