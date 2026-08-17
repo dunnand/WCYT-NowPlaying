@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T05:17:36",
+  "updatedAt": "2026-08-17T05:20:33",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Mardy Bum",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "Michael Jackson",
+    "title": "Rock With You",
+    "album": "Off the Wall • 1979",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:20 am",
-      "artist": "Michael Jackson",
-      "title": "Rock With You"
-    },
     {
       "time": "5:24 am",
       "artist": "Daft Punk",
@@ -26,9 +21,25 @@
       "time": "5:34 am",
       "artist": "David Bowie",
       "title": "\"Heroes\""
+    },
+    {
+      "time": "5:40 am",
+      "artist": "Sleater",
+      "title": "Kinney - The Day I Went Away"
+    },
+    {
+      "time": "5:43 am",
+      "artist": "Monotones",
+      "title": "Book Of Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:20 am",
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "album": "Off the Wall • 1979"
+    },
     {
       "time": "5:17 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +183,6 @@
       "artist": "The Apples in Stereo",
       "title": "Please",
       "album": "Velocity of Sound • 2002"
-    },
-    {
-      "time": "3:46 am",
-      "artist": "Johnny Cash",
-      "title": "I Walk The Line",
-      "album": "I Walk The Line • 1956"
     }
   ]
 }
