@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T07:09:48",
+  "updatedAt": "2026-08-17T07:14:06",
   "now": {
-    "artist": "Eagles",
-    "title": "Best Of My Love",
-    "album": "On the Border • 1974",
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:14 am",
-      "artist": "The Beatles",
-      "title": "Let It Be"
-    },
     {
       "time": "7:18 am",
       "artist": "The Avalanches",
@@ -26,9 +21,20 @@
       "time": "7:27 am",
       "artist": "Fela Kuti",
       "title": "Upside Down"
+    },
+    {
+      "time": "7:34 am",
+      "artist": "Tom Petty & The Heartbreakers",
+      "title": "Learning To Fly"
     }
   ],
   "recent": [
+    {
+      "time": "7:14 am",
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "7:09 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "The Black Keys",
       "title": "Thickfreakness",
       "album": "Thickfreakness • 2003"
-    },
-    {
-      "time": "5:42 am",
-      "artist": "Monotones",
-      "title": "Book Of Love",
-      "album": "Book of Love • 1958"
     }
   ]
 }
