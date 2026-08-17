@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T13:01:46",
+  "updatedAt": "2026-08-17T13:05:08",
   "now": {
-    "artist": "Bloc Party",
-    "title": "Banquet",
-    "album": "Silent Alarm • 2005",
+    "artist": "Bob Dylan",
+    "title": "Song to Woody",
+    "album": "Bob Dylan • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:04 pm",
-      "artist": "Bob Dylan",
-      "title": "Song to Woody"
-    },
     {
       "time": "1:07 pm",
       "artist": "Marvin Gaye",
@@ -26,9 +21,20 @@
       "time": "1:16 pm",
       "artist": "AVICII",
       "title": "Levels"
+    },
+    {
+      "time": "1:20 pm",
+      "artist": "Avenged Sevenfold",
+      "title": "Bat Country"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 pm",
+      "artist": "Bob Dylan",
+      "title": "Song to Woody",
+      "album": "Bob Dylan • 1962"
+    },
     {
       "time": "1:01 pm",
       "artist": "Bloc Party",
@@ -172,12 +178,6 @@
       "artist": "Beach Weather",
       "title": "Chit Chat",
       "album": "Chit Chat • 2016"
-    },
-    {
-      "time": "11:31 am",
-      "artist": "Built to Spill",
-      "title": "In Your Mind",
-      "album": "Ancient Melodies of the Future • 2001"
     }
   ]
 }
