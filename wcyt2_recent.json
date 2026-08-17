@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T11:02:29",
+  "updatedAt": "2026-08-17T11:02:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "The Real Me",
+    "album": "Quadrophenia • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:02 am",
-      "artist": "The Who",
-      "title": "The Real Me"
-    },
     {
       "time": "11:05 am",
       "artist": "Buzzcocks",
@@ -26,9 +21,20 @@
       "time": "11:12 am",
       "artist": "The Beach Boys",
       "title": "God Only Knows"
+    },
+    {
+      "time": "11:15 am",
+      "artist": "Chicago",
+      "title": "Baby, What A Big Surprise"
     }
   ],
   "recent": [
+    {
+      "time": "11:02 am",
+      "artist": "The Who",
+      "title": "The Real Me",
+      "album": "Quadrophenia • 1973"
+    },
     {
       "time": "10:58 am",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Huey \"Piano\" Smith",
       "title": "Rocking Pneumonia and the Boogie Woogie Flu",
       "album": "Rocking Pneumonia • 1957"
-    },
-    {
-      "time": "9:22 am",
-      "artist": "Modest Mouse",
-      "title": "Other People's Lives",
-      "album": "Building Nothing Out of Something • 1999"
     }
   ]
 }
