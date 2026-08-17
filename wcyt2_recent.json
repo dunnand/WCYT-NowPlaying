@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T02:39:27",
+  "updatedAt": "2026-08-17T02:43:43",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "A Movie Script Ending",
-    "album": "The Photo Album • 2001",
-    "category": "TUNES"
+    "artist": "Cream",
+    "title": "I Feel Free",
+    "album": "Fresh Cream • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 am",
-      "artist": "Cream",
-      "title": "I Feel Free"
-    },
     {
       "time": "2:46 am",
       "artist": "Cat Stevens",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "Cream",
+      "title": "I Feel Free",
+      "album": "Fresh Cream • 1967"
+    },
     {
       "time": "2:39 am",
       "artist": "Death Cab for Cutie",
@@ -177,12 +178,6 @@
       "artist": "Flo-Rida",
       "title": "Wild Ones feat. Sia",
       "album": "Wild Ones • 2012"
-    },
-    {
-      "time": "1:10 am",
-      "artist": "Elvis Presley",
-      "title": "It's Now Or Never",
-      "album": "single • 1960"
     }
   ]
 }
