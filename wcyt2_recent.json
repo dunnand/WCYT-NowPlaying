@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T06:20:13",
+  "updatedAt": "2026-08-17T06:24:22",
   "now": {
-    "artist": "Common",
-    "title": "The Light",
-    "album": "Like Water for Chocolate • 2000",
+    "artist": "Foo Fighters",
+    "title": "Rope",
+    "album": "Wasting Light • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:24 am",
-      "artist": "Foo Fighters",
-      "title": "Rope"
-    },
     {
       "time": "6:28 am",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "6:35 am",
       "artist": "Mark Dinning",
       "title": "Teen Angel"
+    },
+    {
+      "time": "6:38 am",
+      "artist": "Blonde Redhead",
+      "title": "23"
     }
   ],
   "recent": [
+    {
+      "time": "6:24 am",
+      "artist": "Foo Fighters",
+      "title": "Rope",
+      "album": "Wasting Light • 2011"
+    },
     {
       "time": "6:20 am",
       "artist": "Common",
@@ -172,12 +178,6 @@
       "artist": "David Byrne",
       "title": "Everybody's Coming to My House",
       "album": "American Utopia • 2018"
-    },
-    {
-      "time": "4:54 am",
-      "artist": "Herb Alpert & The Tijuana Brass",
-      "title": "Taste Of Honey",
-      "album": "Whipped Cream & Other Delights • 1965"
     }
   ]
 }
