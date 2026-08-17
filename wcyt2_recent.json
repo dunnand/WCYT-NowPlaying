@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T15:35:54",
+  "updatedAt": "2026-08-17T15:39:10",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Highway 61 Revisited",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "The Doors",
+    "title": "Waiting for the Sun",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:39 pm",
-      "artist": "The Doors",
-      "title": "Waiting for the Sun"
-    },
     {
       "time": "3:43 pm",
       "artist": "Soul Asylum",
@@ -26,9 +21,20 @@
       "time": "3:51 pm",
       "artist": "Bright Eyes",
       "title": "Lua"
+    },
+    {
+      "time": "3:55 pm",
+      "artist": "Bob Dylan",
+      "title": "Mississippi"
     }
   ],
   "recent": [
+    {
+      "time": "3:39 pm",
+      "artist": "The Doors",
+      "title": "Waiting for the Sun",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "3:35 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Soma",
       "album": "Siamese Dream • 1993"
-    },
-    {
-      "time": "1:30 pm",
-      "artist": "B.O.B.",
-      "title": "So Good",
-      "album": "Strange Clouds • 2012"
     }
   ]
 }
