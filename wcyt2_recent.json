@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T07:57:20",
+  "updatedAt": "2026-08-17T07:59:44",
   "now": {
-    "artist": "X",
-    "title": "Sugarlight",
-    "album": "Los Angeles • 1982",
+    "artist": "John Lennon & Yoko Ono",
+    "title": "Walking on Thin Ice",
+    "album": "Walking on Thin Ice • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:59 am",
-      "artist": "John Lennon & Yoko Ono",
-      "title": "Walking on Thin Ice"
-    },
     {
       "time": "8:05 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,25 @@
       "time": "8:11 am",
       "artist": "Beyonce",
       "title": "Halo"
+    },
+    {
+      "time": "8:15 am",
+      "artist": "Bee Gees",
+      "title": "You Should Be Dancing"
+    },
+    {
+      "time": "8:19 am",
+      "artist": "Belle and Sebastian",
+      "title": "I Fought in a War"
     }
   ],
   "recent": [
+    {
+      "time": "7:59 am",
+      "artist": "John Lennon & Yoko Ono",
+      "title": "Walking on Thin Ice",
+      "album": "Walking on Thin Ice • 1981"
+    },
     {
       "time": "7:57 am",
       "artist": "X",
@@ -167,12 +178,6 @@
       "artist": "Elton John",
       "title": "Harmony",
       "album": "Goodbye Yellow Brick Road • 1973"
-    },
-    {
-      "time": "6:24 am",
-      "artist": "Foo Fighters",
-      "title": "Rope",
-      "album": "Wasting Light • 2011"
     }
   ]
 }
