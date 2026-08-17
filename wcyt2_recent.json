@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T06:09:56",
+  "updatedAt": "2026-08-17T06:12:31",
   "now": {
-    "artist": "Aaron Frazer",
-    "title": "Over You",
-    "album": "Introducing... • 2021",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Still Take You Home",
+    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:12 am",
-      "artist": "Arctic Monkeys",
-      "title": "Still Take You Home"
-    },
     {
       "time": "6:15 am",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "6:24 am",
       "artist": "Foo Fighters",
       "title": "Rope"
+    },
+    {
+      "time": "6:28 am",
+      "artist": "Elton John",
+      "title": "Harmony"
     }
   ],
   "recent": [
+    {
+      "time": "6:12 am",
+      "artist": "Arctic Monkeys",
+      "title": "Still Take You Home",
+      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
+    },
     {
       "time": "6:09 am",
       "artist": "Aaron Frazer",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Rave On",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "4:45 am",
-      "artist": "Foo Fighters",
-      "title": "Wind Up",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
