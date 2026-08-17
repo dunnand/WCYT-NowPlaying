@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T05:43:10",
+  "updatedAt": "2026-08-17T05:43:22",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Talking Heads",
+    "title": "Radio Head",
+    "album": "True Stories • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:43 am",
-      "artist": "Talking Heads",
-      "title": "Radio Head"
-    },
     {
       "time": "5:46 am",
       "artist": "Kurt Vile",
@@ -26,9 +21,20 @@
       "time": "5:56 am",
       "artist": "Night Moves",
       "title": "Trying To Steal A Smile"
+    },
+    {
+      "time": "6:01 am",
+      "artist": "Perfume Genius",
+      "title": "Describe"
     }
   ],
   "recent": [
+    {
+      "time": "5:43 am",
+      "artist": "Talking Heads",
+      "title": "Radio Head",
+      "album": "True Stories • 1986"
+    },
     {
       "time": "5:39 am",
       "artist": "Swapmeet",
@@ -172,12 +178,6 @@
       "artist": "Rebounder",
       "title": "Downtown People (Squeaky Clean Version)",
       "album": ""
-    },
-    {
-      "time": "4:10 am",
-      "artist": "C.y.m.",
-      "title": "Justify",
-      "album": "• 2025"
     }
   ]
 }
