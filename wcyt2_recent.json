@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-16T20:25:25",
+  "updatedAt": "2026-08-16T20:29:11",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Maggie's Farm",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "We’ve Got Tonight",
+    "album": "Stranger in Town • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:29 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "We’ve Got Tonight"
-    },
     {
       "time": "8:33 pm",
       "artist": "Pavement",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:29 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "We’ve Got Tonight",
+      "album": "Stranger in Town • 1979"
+    },
     {
       "time": "8:25 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "My Iron Lung",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "6:39 pm",
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "album": "Single • 2017"
     }
   ]
 }
