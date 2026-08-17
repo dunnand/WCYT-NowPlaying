@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T03:08:40",
+  "updatedAt": "2026-08-17T03:11:46",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Coming Up Roses",
-    "album": "Elliott Smith • 1995",
-    "category": "TUNES"
+    "artist": "Styx",
+    "title": "Too Much Time On My Hands",
+    "album": "Pieces of Eight • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:11 am",
-      "artist": "Styx",
-      "title": "Too Much Time On My Hands"
-    },
     {
       "time": "3:16 am",
       "artist": "The Gizmos",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:11 am",
+      "artist": "Styx",
+      "title": "Too Much Time On My Hands",
+      "album": "Pieces of Eight • 1980"
+    },
     {
       "time": "3:08 am",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Curtis Harding",
       "title": "Next Time",
       "album": "Soul Power • 2014"
-    },
-    {
-      "time": "1:43 am",
-      "artist": "Belle and Sebastian",
-      "title": "Dear Catastrophe Waitress",
-      "album": "Dear Catastrophe Waitress • 2003"
     }
   ]
 }
