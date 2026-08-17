@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T09:15:50",
+  "updatedAt": "2026-08-17T09:19:26",
   "now": {
-    "artist": "Childish Gambino",
-    "title": "This Is America",
-    "album": "Guava Island • 2019",
+    "artist": "John Prine",
+    "title": "Illegal Smile",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:19 am",
-      "artist": "John Prine",
-      "title": "Illegal Smile"
-    },
     {
       "time": "9:22 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "9:32 am",
       "artist": "Aesop Rock",
       "title": "None Shall Pass"
+    },
+    {
+      "time": "9:36 am",
+      "artist": "The Beatles",
+      "title": "Only A Northern Song"
     }
   ],
   "recent": [
+    {
+      "time": "9:19 am",
+      "artist": "John Prine",
+      "title": "Illegal Smile",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "9:15 am",
       "artist": "Childish Gambino",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Unseen Power of the Picket Fence",
       "album": "No Alternative • 1993"
-    },
-    {
-      "time": "7:48 am",
-      "artist": "A Tribe Called Quest",
-      "title": "We The People",
-      "album": "We The People.... • 2016"
     }
   ]
 }
