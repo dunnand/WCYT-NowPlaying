@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T01:49:03",
+  "updatedAt": "2026-08-18T01:49:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Roxy Music",
+    "title": "Love Is The Drug",
+    "album": "Siren • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:49 am",
-      "artist": "Roxy Music",
-      "title": "Love Is The Drug"
-    },
     {
       "time": "1:53 am",
       "artist": "The Everly Brothers",
@@ -31,9 +26,20 @@
       "time": "2:06 am",
       "artist": "Elvis Presley",
       "title": "Jailhouse Rock"
+    },
+    {
+      "time": "2:09 am",
+      "artist": "Deerhoof",
+      "title": "This Magnificent Bird Will Rise"
     }
   ],
   "recent": [
+    {
+      "time": "1:49 am",
+      "artist": "Roxy Music",
+      "title": "Love Is The Drug",
+      "album": "Siren • 1975"
+    },
     {
       "time": "1:42 am",
       "artist": "Charles Mingus",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "When the Ship Comes In",
       "album": "The Times They Are A-Changin' • 1964"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "Common",
-      "title": "GO!",
-      "album": "Be • 2005"
     }
   ]
 }
