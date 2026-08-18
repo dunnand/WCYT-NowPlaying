@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T01:03:22",
+  "updatedAt": "2026-08-18T01:06:16",
   "now": {
-    "artist": "The National",
-    "title": "Lit Up",
-    "album": "Alligator • 2005",
+    "artist": "Sonic Youth",
+    "title": "Disappearer",
+    "album": "Goo •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "Sonic Youth",
-      "title": "Disappearer"
-    },
     {
       "time": "1:11 am",
       "artist": "The Magnetic Fields",
@@ -31,9 +26,20 @@
       "time": "1:24 am",
       "artist": "Slowdive",
       "title": "Slomo"
+    },
+    {
+      "time": "1:30 am",
+      "artist": "Alabama Shakes",
+      "title": "Garden"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "Sonic Youth",
+      "title": "Disappearer",
+      "album": "Goo •"
+    },
     {
       "time": "1:03 am",
       "artist": "The National",
@@ -177,12 +183,6 @@
       "artist": "Angel Olsen",
       "title": "Waving, Smiling",
       "album": "Whole New Mess • 2020"
-    },
-    {
-      "time": "11:20 pm",
-      "artist": "Iron & Wine",
-      "title": "Resurrection Fern",
-      "album": "The Shepherd's Dog • 2007"
     }
   ]
 }
