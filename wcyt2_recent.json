@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T09:34:33",
+  "updatedAt": "2026-08-18T09:35:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Fire on the Mountain",
+    "album": "Shakedown Street • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 am",
-      "artist": "Grateful Dead",
-      "title": "Fire on the Mountain"
-    },
     {
       "time": "9:38 am",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "9:46 am",
       "artist": "Bobby Vinton",
       "title": "Blue Velvet"
+    },
+    {
+      "time": "9:49 am",
+      "artist": "Pink Floyd",
+      "title": "Run Like Hell"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 am",
+      "artist": "Grateful Dead",
+      "title": "Fire on the Mountain",
+      "album": "Shakedown Street • 1978"
+    },
     {
       "time": "9:30 am",
       "artist": "Maggie Rogers",
@@ -172,12 +178,6 @@
       "artist": "Muddy Waters",
       "title": "Got My Mojo Working",
       "album": "single • 1957"
-    },
-    {
-      "time": "7:49 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "The King of Carrot Flowers Pt. One",
-      "album": "In The Aeroplane Over The Sea • 1998"
     }
   ]
 }
