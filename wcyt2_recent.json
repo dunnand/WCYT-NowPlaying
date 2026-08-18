@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T07:25:03",
+  "updatedAt": "2026-08-18T07:25:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "I Want It All",
+    "album": "The Miracle • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 am",
-      "artist": "Queen",
-      "title": "I Want It All"
-    },
     {
       "time": "7:29 am",
       "artist": "Harry Styles",
@@ -26,9 +21,20 @@
       "time": "7:35 am",
       "artist": "The Staple Singers",
       "title": "I'll Take You There"
+    },
+    {
+      "time": "7:38 am",
+      "artist": "Amy Winehouse",
+      "title": "Back to Black"
     }
   ],
   "recent": [
+    {
+      "time": "7:25 am",
+      "artist": "Queen",
+      "title": "I Want It All",
+      "album": "The Miracle • 1989"
+    },
     {
       "time": "7:21 am",
       "artist": "Prince and The Revolution",
@@ -172,12 +178,6 @@
       "artist": "Van Halen",
       "title": "Jamie's Cryin'",
       "album": "Van Halen • 1978"
-    },
-    {
-      "time": "5:49 am",
-      "artist": "Ike and Tina Turner",
-      "title": "River Deep - Mountain High",
-      "album": "River Deep  Mountain High • 1966"
     }
   ]
 }
