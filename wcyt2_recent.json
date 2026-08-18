@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T08:27:03",
+  "updatedAt": "2026-08-18T08:27:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Kashmir",
+    "album": "Physical Graffiti • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "Led Zeppelin",
-      "title": "Kashmir"
-    },
     {
       "time": "8:35 am",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "8:43 am",
       "artist": "Herman's Hermits",
       "title": "I'm Henry The VIII, I Am"
+    },
+    {
+      "time": "8:44 am",
+      "artist": "Serge Gainsbourg",
+      "title": "Melody"
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "Led Zeppelin",
+      "title": "Kashmir",
+      "album": "Physical Graffiti • 1975"
+    },
     {
       "time": "8:23 am",
       "artist": "Black Pumas",
@@ -172,12 +178,6 @@
       "artist": "Kingston Trio",
       "title": "Tom Dooley",
       "album": "Tom Dooley • 1958"
-    },
-    {
-      "time": "6:54 am",
-      "artist": "Spiritualized",
-      "title": "Electricity",
-      "album": "Ladies and Gentlemen We Are Floating in Space • 1997"
     }
   ]
 }
