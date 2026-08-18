@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T08:07:30",
+  "updatedAt": "2026-08-18T08:07:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Nirvana.",
+    "title": "Smells Like Teen Spirit",
+    "album": "Nevermind • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "Nirvana.",
-      "title": "Smells Like Teen Spirit"
-    },
     {
       "time": "8:12 am",
       "artist": "Nirvana",
@@ -26,9 +21,20 @@
       "time": "8:19 am",
       "artist": "Madonna",
       "title": "Crazy For You"
+    },
+    {
+      "time": "8:23 am",
+      "artist": "Black Pumas",
+      "title": "I'm Ready"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "Nirvana.",
+      "title": "Smells Like Teen Spirit",
+      "album": "Nevermind • 1991"
+    },
     {
       "time": "8:01 am",
       "artist": "Bill Callahan",
@@ -172,12 +178,6 @@
       "artist": "Yes",
       "title": "Roundabout",
       "album": "Fragile • 1972"
-    },
-    {
-      "time": "6:34 am",
-      "artist": "War",
-      "title": "Low Rider",
-      "album": "Why Can't We Be Friends? • 1975"
     }
   ]
 }
