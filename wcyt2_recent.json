@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T21:43:44",
+  "updatedAt": "2026-08-17T21:48:31",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Heroes and Villains",
-    "album": "The Smile Sessions • 2011",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Did I Tell You",
+    "album": "Fakebook • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:48 pm",
-      "artist": "Yo La Tengo",
-      "title": "Did I Tell You"
-    },
     {
       "time": "9:51 pm",
       "artist": "Green Day",
@@ -21,9 +16,25 @@
       "time": "9:54 pm",
       "artist": "Talking Heads",
       "title": "Crosseyed and Painless"
+    },
+    {
+      "time": "9:59 pm",
+      "artist": "Dionne Warwick & Friends",
+      "title": "That's What Friends Are For"
+    },
+    {
+      "time": "10:03 pm",
+      "artist": "The Everly Brothers",
+      "title": "Walk Right Back"
     }
   ],
   "recent": [
+    {
+      "time": "9:48 pm",
+      "artist": "Yo La Tengo",
+      "title": "Did I Tell You",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "9:43 pm",
       "artist": "The Beach Boys",
@@ -167,12 +178,6 @@
       "artist": "Dolly Parton",
       "title": "Jolene",
       "album": "Jolene • 1974"
-    },
-    {
-      "time": "8:16 pm",
-      "artist": "The D",
-      "title": "Neat Neat Neat",
-      "album": "DDD • 1977"
     }
   ]
 }
