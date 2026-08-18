@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T01:10:42",
+  "updatedAt": "2026-08-18T01:10:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "I Can't Give Everything Away",
+    "album": "Blackstar • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "David Bowie",
-      "title": "I Can't Give Everything Away"
-    },
     {
       "time": "1:16 am",
       "artist": "Stone Temple Pilots",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "Bette Midler",
       "title": "Wind Beneath My Wings"
+    },
+    {
+      "time": "1:27 am",
+      "artist": "Benny Mardones",
+      "title": "Into The Night"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "David Bowie",
+      "title": "I Can't Give Everything Away",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "1:07 am",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Nobody's Fault but My Own",
       "album": "Mutations • 1998"
-    },
-    {
-      "time": "11:01 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "Check The Rhime",
-      "album": "Check the Rhime • 1991"
     }
   ]
 }
