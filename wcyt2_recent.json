@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T17:56:20",
+  "updatedAt": "2026-08-18T17:56:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "John Wesley Harding",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:56 pm",
-      "artist": "Bob Dylan",
-      "title": "John Wesley Harding"
-    },
     {
       "time": "5:59 pm",
       "artist": "Black Pumas",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:56 pm",
+      "artist": "Bob Dylan",
+      "title": "John Wesley Harding",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "5:52 pm",
       "artist": "Bon Iver",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "happier",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "4:23 pm",
-      "artist": "Billy Joel",
-      "title": "Tell Her About It",
-      "album": "An Innocent Man • 1983"
     }
   ]
 }
