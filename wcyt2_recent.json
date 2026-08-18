@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T08:56:51",
+  "updatedAt": "2026-08-18T08:59:55",
   "now": {
-    "artist": "Billie Holiday",
-    "title": "Strange Fruit",
-    "album": "Billie Holiday • 1947",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "He War",
+    "album": "You Are Free • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:59 am",
-      "artist": "Cat Power",
-      "title": "He War"
-    },
     {
       "time": "9:03 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "9:06 am",
       "artist": "Arcade Fire",
       "title": "Sprawl II (MOUNTIANS BEYOND MOUNTIANS)"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Ride",
+      "title": "Leave Them All Behind"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 am",
+      "artist": "Cat Power",
+      "title": "He War",
+      "album": "You Are Free • 2003"
+    },
     {
       "time": "8:56 am",
       "artist": "Billie Holiday",
@@ -167,12 +173,6 @@
       "artist": "Queen",
       "title": "I Want It All",
       "album": "The Miracle • 1989"
-    },
-    {
-      "time": "7:21 am",
-      "artist": "Prince and The Revolution",
-      "title": "Let's Go Crazy",
-      "album": "Purple Rain • 1984"
     }
   ]
 }
