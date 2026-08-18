@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T21:08:09",
+  "updatedAt": "2026-08-17T21:14:19",
   "now": {
-    "artist": "George McCrae",
-    "title": "Rock Your Baby",
-    "album": "Rock Your Baby • 1974",
+    "artist": "The Beach Boys",
+    "title": "In My Room",
+    "album": "Surfer Girl • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 pm",
-      "artist": "The Beach Boys",
-      "title": "In My Room"
-    },
     {
       "time": "9:16 pm",
       "artist": "Gil Scott",
@@ -26,9 +21,20 @@
       "time": "9:22 pm",
       "artist": "Herbie Hancock",
       "title": "Watermelon Man"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "Wilco",
+      "title": "Monday"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 pm",
+      "artist": "The Beach Boys",
+      "title": "In My Room",
+      "album": "Surfer Girl • 1963"
+    },
     {
       "time": "9:08 pm",
       "artist": "George McCrae",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Talk",
       "album": "X&Y • 2005"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Santo & Johnny",
-      "title": "Sleepwalk",
-      "album": "Sleep Walk • 1959"
     }
   ]
 }
