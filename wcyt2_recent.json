@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T01:01:57",
+  "updatedAt": "2026-08-18T01:07:28",
   "now": {
-    "artist": "Broken Social Scene",
-    "title": "Cause = Time",
-    "album": "You Forgot It In People • 2002",
-    "category": "TUNES"
+    "artist": "Beyonce",
+    "title": "Diva",
+    "album": "I Am... Sasha Fierce • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 am",
-      "artist": "Beyonce",
-      "title": "Diva"
-    },
     {
       "time": "1:10 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "1:19 am",
       "artist": "Superchunk",
       "title": "Hello Hawk"
+    },
+    {
+      "time": "1:23 am",
+      "artist": "Bette Midler",
+      "title": "Wind Beneath My Wings"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 am",
+      "artist": "Beyonce",
+      "title": "Diva",
+      "album": "I Am... Sasha Fierce • 2008"
+    },
     {
       "time": "1:01 am",
       "artist": "Broken Social Scene",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Check The Rhime",
       "album": "Check the Rhime • 1991"
-    },
-    {
-      "time": "10:57 pm",
-      "artist": "Drake",
-      "title": "Best I Ever Had",
-      "album": "Thank Me Later • 2010"
     }
   ]
 }
