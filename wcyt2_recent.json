@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T11:47:55",
+  "updatedAt": "2026-08-18T11:51:32",
   "now": {
-    "artist": "ABBA",
-    "title": "Dancing Queen",
-    "album": "Arrival • 1977",
+    "artist": "Another Sunny Day",
+    "title": "You Should All Be",
+    "album": "London Weekend • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:51 am",
-      "artist": "Another Sunny Day",
-      "title": "You Should All Be"
-    },
     {
       "time": "11:56 am",
       "artist": "Alexandra Stan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:51 am",
+      "artist": "Another Sunny Day",
+      "title": "You Should All Be",
+      "album": "London Weekend • 1992"
+    },
     {
       "time": "11:47 am",
       "artist": "ABBA",
@@ -172,12 +173,6 @@
       "artist": "The Afghan Whigs",
       "title": "Uptown Again",
       "album": "1965 • 1998"
-    },
-    {
-      "time": "10:12 am",
-      "artist": "Weezer",
-      "title": "The World Has Turned and Left Me Here",
-      "album": "Weezer • 1994"
     }
   ]
 }
