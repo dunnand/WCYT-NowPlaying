@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T02:25:18",
+  "updatedAt": "2026-08-18T02:27:31",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Up in Arms",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Bruce Springsteen",
+    "title": "Hungry Heart",
+    "album": "The River • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:27 am",
-      "artist": "Bruce Springsteen",
-      "title": "Hungry Heart"
-    },
     {
       "time": "2:30 am",
       "artist": "Audio Two",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:27 am",
+      "artist": "Bruce Springsteen",
+      "title": "Hungry Heart",
+      "album": "The River • 1981"
+    },
     {
       "time": "2:25 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Bobby \"Blue\" Bland",
       "title": "I'll Take Care Of You",
       "album": "Two Steps from the Blues • 1961"
-    },
-    {
-      "time": "12:42 am",
-      "artist": "Bjork",
-      "title": "Pagan Poetry",
-      "album": "Vespertine • 2001"
     }
   ]
 }
