@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T13:23:55",
+  "updatedAt": "2026-08-18T13:24:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "I Know What I Know",
+    "album": "Graceland • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:24 pm",
-      "artist": "Paul Simon",
-      "title": "I Know What I Know"
-    },
     {
       "time": "1:27 pm",
       "artist": "Olivia Rodrigo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:24 pm",
+      "artist": "Paul Simon",
+      "title": "I Know What I Know",
+      "album": "Graceland • 1986"
+    },
     {
       "time": "1:20 pm",
       "artist": "The Jesus and Mary Chain",
@@ -172,12 +173,6 @@
       "artist": "ABBA",
       "title": "Dancing Queen",
       "album": "Arrival • 1977"
-    },
-    {
-      "time": "11:45 am",
-      "artist": "Diana Ross & The Supremes",
-      "title": "Where Did Our Love Go",
-      "album": "Where Did Our Love Go • 1964"
     }
   ]
 }
