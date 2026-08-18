@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T02:25:06",
+  "updatedAt": "2026-08-18T02:25:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Up in Arms",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:25 am",
-      "artist": "Foo Fighters",
-      "title": "Up in Arms"
-    },
     {
       "time": "2:27 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "2:33 am",
       "artist": "Chappell Roan",
       "title": "Good Luck, Babe!"
+    },
+    {
+      "time": "2:37 am",
+      "artist": "Belle and Sebastian",
+      "title": "Step Into My Office, Baby"
     }
   ],
   "recent": [
+    {
+      "time": "2:25 am",
+      "artist": "Foo Fighters",
+      "title": "Up in Arms",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "2:21 am",
       "artist": "Madonna",
@@ -172,12 +178,6 @@
       "artist": "Bjork",
       "title": "Pagan Poetry",
       "album": "Vespertine • 2001"
-    },
-    {
-      "time": "12:34 am",
-      "artist": "The O'Jays",
-      "title": "For the Love of Money",
-      "album": "Ship Ahoy • 1973"
     }
   ]
 }
