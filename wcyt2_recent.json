@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-08-18T01:19:17",
+  "updatedAt": "2026-08-18T01:23:12",
   "now": {
-    "artist": "Superchunk",
-    "title": "Hello Hawk",
-    "album": "Come Pick Me Up • 1999",
-    "category": "TUNES"
+    "artist": "Bette Midler",
+    "title": "Wind Beneath My Wings",
+    "album": "Beaches • 1988",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:23 am",
-      "artist": "Bette Midler",
-      "title": "Wind Beneath My Wings"
-    },
     {
       "time": "1:27 am",
       "artist": "Benny Mardones",
       "title": "Into The Night"
     },
     {
-      "time": "1:32 am",
+      "time": "1:31 am",
       "artist": "H.E.R.",
       "title": "Fight For You"
+    },
+    {
+      "time": "1:36 am",
+      "artist": "Prince",
+      "title": "I Wanna Be Your Lover"
     }
   ],
   "recent": [
+    {
+      "time": "1:23 am",
+      "artist": "Bette Midler",
+      "title": "Wind Beneath My Wings",
+      "album": "Beaches • 1988"
+    },
     {
       "time": "1:19 am",
       "artist": "Superchunk",
@@ -167,12 +173,6 @@
       "artist": "Arctic Monkeys",
       "title": "There'd Better Be A Mirrorball",
       "album": "The Car • 2022"
-    },
-    {
-      "time": "11:14 pm",
-      "artist": "A Taste Of Honey",
-      "title": "Sukiyaki",
-      "album": "Twice as Sweet • 1980"
     }
   ]
 }
