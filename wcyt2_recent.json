@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T02:30:37",
+  "updatedAt": "2026-08-18T02:30:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Audio Two",
+    "title": "Top Billin'",
+    "album": "What More Can I Say? • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:30 am",
-      "artist": "Audio Two",
-      "title": "Top Billin'"
-    },
     {
       "time": "2:33 am",
       "artist": "Chappell Roan",
@@ -26,9 +21,20 @@
       "time": "2:41 am",
       "artist": "Sex Pistols",
       "title": "God Save the Queen"
+    },
+    {
+      "time": "2:44 am",
+      "artist": "Arctic Monkeys",
+      "title": "505"
     }
   ],
   "recent": [
+    {
+      "time": "2:30 am",
+      "artist": "Audio Two",
+      "title": "Top Billin'",
+      "album": "What More Can I Say? • 1988"
+    },
     {
       "time": "2:27 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Patti Smith",
       "title": "Free Money",
       "album": "Horses • 1975"
-    },
-    {
-      "time": "12:47 am",
-      "artist": "Bobby \"Blue\" Bland",
-      "title": "I'll Take Care Of You",
-      "album": "Two Steps from the Blues • 1961"
     }
   ]
 }
