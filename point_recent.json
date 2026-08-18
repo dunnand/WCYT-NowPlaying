@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T01:56:38",
+  "updatedAt": "2026-08-18T02:00:03",
   "now": {
-    "artist": "Gorillaz",
-    "title": "Orange County",
-    "album": "The Mountain • 2026",
+    "artist": "American Football",
+    "title": "Wake Her Up (feat. Wisp)",
+    "album": "American Football • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 am",
-      "artist": "American Football",
-      "title": "Wake Her Up (feat. Wisp)"
-    },
     {
       "time": "2:05 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "2:12 am",
       "artist": "Tame Impala",
       "title": "The Moment"
+    },
+    {
+      "time": "2:16 am",
+      "artist": "Bon Iver",
+      "title": "Hey, Ma"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 am",
+      "artist": "American Football",
+      "title": "Wake Her Up (feat. Wisp)",
+      "album": "American Football • 2026"
+    },
     {
       "time": "1:56 am",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "Big Audio Dynamite",
       "title": "E=MC2",
       "album": "This Is Big Audio Dynamite • 1985"
-    },
-    {
-      "time": "12:07 am",
-      "artist": "Ibibio Sound Machine",
-      "title": "Got to Be Who U Are",
-      "album": "Pull The Rope • 2024"
     }
   ]
 }
