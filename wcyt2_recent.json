@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T01:53:09",
+  "updatedAt": "2026-08-18T01:55:34",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Cathy's Clown",
-    "album": "A Date with the Everly Brothers • 1960",
+    "artist": "Rush",
+    "title": "Working Man",
+    "album": "Rush • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 am",
-      "artist": "Rush",
-      "title": "Working Man"
-    },
     {
       "time": "2:02 am",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "2:09 am",
       "artist": "Deerhoof",
       "title": "This Magnificent Bird Will Rise"
+    },
+    {
+      "time": "2:12 am",
+      "artist": "Brenton Wood",
+      "title": "The Oogum Boogum Song"
     }
   ],
   "recent": [
+    {
+      "time": "1:55 am",
+      "artist": "Rush",
+      "title": "Working Man",
+      "album": "Rush • 1974"
+    },
     {
       "time": "1:53 am",
       "artist": "The Everly Brothers",
@@ -172,12 +178,6 @@
       "artist": "CAKE",
       "title": "Never There",
       "album": "Prolonging the Magic • 1998"
-    },
-    {
-      "time": "12:11 am",
-      "artist": "Enrique Iglesias",
-      "title": "I Like it",
-      "album": "Euphoria • 2010"
     }
   ]
 }
