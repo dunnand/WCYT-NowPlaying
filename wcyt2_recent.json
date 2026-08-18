@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-17T21:32:53",
+  "updatedAt": "2026-08-17T21:34:47",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "That's All Right",
-    "album": "single • 1956",
+    "artist": "Bob Dylan",
+    "title": "Thunder on the Mountain",
+    "album": "Modern Times • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:34 pm",
-      "artist": "Bob Dylan",
-      "title": "Thunder on the Mountain"
-    },
     {
       "time": "9:40 pm",
       "artist": "The Foundations",
@@ -21,9 +16,20 @@
       "time": "9:43 pm",
       "artist": "The Beach Boys",
       "title": "Heroes and Villains"
+    },
+    {
+      "time": "9:48 pm",
+      "artist": "Yo La Tengo",
+      "title": "Did I Tell You"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 pm",
+      "artist": "Bob Dylan",
+      "title": "Thunder on the Mountain",
+      "album": "Modern Times • 2006"
+    },
     {
       "time": "9:32 pm",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "U2",
       "title": "Bad",
       "album": "The Unforgettable Fire • 1984"
-    },
-    {
-      "time": "8:03 pm",
-      "artist": "Kate Bush",
-      "title": "Hounds of Love",
-      "album": "Hounds of Love • 1985"
     }
   ]
 }
