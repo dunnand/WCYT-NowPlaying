@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T08:23:37",
+  "updatedAt": "2026-08-18T08:24:07",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Smiths",
+    "title": "Still Ill",
+    "album": "The Smiths • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 am",
-      "artist": "The Smiths",
-      "title": "Still Ill"
-    },
     {
       "time": "8:27 am",
       "artist": "THAO",
@@ -26,9 +21,20 @@
       "time": "8:32 am",
       "artist": "The Durutti Column",
       "title": "Liars"
+    },
+    {
+      "time": "8:36 am",
+      "artist": "Bon Iver",
+      "title": "8 (circle)"
     }
   ],
   "recent": [
+    {
+      "time": "8:24 am",
+      "artist": "The Smiths",
+      "title": "Still Ill",
+      "album": "The Smiths • 1984"
+    },
     {
       "time": "8:20 am",
       "artist": "Squirrel Flower",
@@ -172,12 +178,6 @@
       "artist": "Tame Impala",
       "title": "New Person, Same Old Mistakes",
       "album": "Currents • 2015"
-    },
-    {
-      "time": "6:40 am",
-      "artist": "Hurray for the Riff Raff",
-      "title": "Colossus of Roads",
-      "album": "The Past Is Still Alive • 2024"
     }
   ]
 }
