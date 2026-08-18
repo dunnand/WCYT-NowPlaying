@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T00:08:52",
+  "updatedAt": "2026-08-18T00:11:57",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "When the Ship Comes In",
-    "album": "The Times They Are A-Changin' • 1964",
+    "artist": "Enrique Iglesias",
+    "title": "I Like it",
+    "album": "Euphoria • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:11 am",
-      "artist": "Enrique Iglesias",
-      "title": "I Like it"
-    },
     {
       "time": "12:16 am",
       "artist": "CAKE",
@@ -21,9 +16,20 @@
       "time": "12:18 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Where the Wild Roses Grow"
+    },
+    {
+      "time": "12:22 am",
+      "artist": "New Order",
+      "title": "Sub-Culture"
     }
   ],
   "recent": [
+    {
+      "time": "12:11 am",
+      "artist": "Enrique Iglesias",
+      "title": "I Like it",
+      "album": "Euphoria • 2010"
+    },
     {
       "time": "12:08 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "The Modern Lovers",
       "title": "Roadrunner",
       "album": "The Modern Lovers • 1976"
-    },
-    {
-      "time": "10:03 pm",
-      "artist": "The Everly Brothers",
-      "title": "Walk Right Back",
-      "album": "single • 1961"
     }
   ]
 }
