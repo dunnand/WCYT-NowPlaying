@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T18:53:55",
+  "updatedAt": "2026-08-18T18:54:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Times Like These",
+    "album": "One by One • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:53 pm",
-      "artist": "Foo Fighters",
-      "title": "Times Like These"
-    },
     {
       "time": "6:58 pm",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "7:05 pm",
       "artist": "Fiona Apple",
       "title": "Criminal"
+    },
+    {
+      "time": "7:11 pm",
+      "artist": "Galaxie 500",
+      "title": "Fourth of July"
     }
   ],
   "recent": [
+    {
+      "time": "6:54 pm",
+      "artist": "Foo Fighters",
+      "title": "Times Like These",
+      "album": "One by One • 2002"
+    },
     {
       "time": "6:51 pm",
       "artist": "Death Grips",
@@ -172,12 +178,6 @@
       "artist": "Genesis",
       "title": "In Too Deep",
       "album": "Invisible Touch • 1987"
-    },
-    {
-      "time": "5:16 pm",
-      "artist": "De La Soul",
-      "title": "Potholes in My Lawn",
-      "album": "3 Feet High and Rising • 1989"
     }
   ]
 }
