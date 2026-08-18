@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T10:36:38",
+  "updatedAt": "2026-08-18T10:40:11",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "The New Year",
-    "album": "Transatlanticism • 2003",
-    "category": "TUNES"
+    "artist": "Albert King",
+    "title": "Born Under a Bad Sign",
+    "album": "Born Under a Bad Sign • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:40 am",
-      "artist": "Albert King",
-      "title": "Born Under a Bad Sign"
-    },
     {
       "time": "10:42 am",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "10:53 am",
       "artist": "Breathe Carolina",
       "title": "Blackout"
+    },
+    {
+      "time": "10:56 am",
+      "artist": "Air France",
+      "title": "Collapsing Outside Your Doorstep"
     }
   ],
   "recent": [
+    {
+      "time": "10:40 am",
+      "artist": "Albert King",
+      "title": "Born Under a Bad Sign",
+      "album": "Born Under a Bad Sign • 1967"
+    },
     {
       "time": "10:36 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Sprawl II (MOUNTIANS BEYOND MOUNTIANS)",
       "album": "The Suburbs • 2010"
-    },
-    {
-      "time": "9:03 am",
-      "artist": "Bob Dylan",
-      "title": "One Too Many Mornings",
-      "album": "The Times They Are A-Changin • 1964"
     }
   ]
 }
