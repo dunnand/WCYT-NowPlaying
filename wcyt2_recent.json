@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-18T08:27:15",
+  "updatedAt": "2026-08-18T08:35:37",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Kashmir",
-    "album": "Physical Graffiti • 1975",
+    "artist": "The Clash",
+    "title": "(White Man) In Hammersmith Palais",
+    "album": "The Clash • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:35 am",
-      "artist": "The Clash",
-      "title": "(White Man) In Hammersmith Palais"
-    },
     {
       "time": "8:39 am",
       "artist": "Death Cab for Cutie",
       "title": "405"
     },
     {
-      "time": "8:43 am",
+      "time": "8:42 am",
       "artist": "Herman's Hermits",
       "title": "I'm Henry The VIII, I Am"
     },
@@ -26,9 +21,20 @@
       "time": "8:44 am",
       "artist": "Serge Gainsbourg",
       "title": "Melody"
+    },
+    {
+      "time": "8:52 am",
+      "artist": "Oasis",
+      "title": "Live Forever"
     }
   ],
   "recent": [
+    {
+      "time": "8:35 am",
+      "artist": "The Clash",
+      "title": "(White Man) In Hammersmith Palais",
+      "album": "The Clash • 1979"
+    },
     {
       "time": "8:27 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Clinic",
       "title": "Distortions",
       "album": "Internal Wrangler • 2007"
-    },
-    {
-      "time": "6:57 am",
-      "artist": "Kingston Trio",
-      "title": "Tom Dooley",
-      "album": "Tom Dooley • 1958"
     }
   ]
 }
