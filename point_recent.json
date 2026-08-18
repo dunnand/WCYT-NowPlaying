@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T03:20:18",
+  "updatedAt": "2026-08-18T03:20:30",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sigur Ros",
+    "title": "Olsen Olsen",
+    "album": "Agaetis byrjun • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:20 am",
-      "artist": "Sigur Ros",
-      "title": "Olsen Olsen"
-    },
     {
       "time": "3:26 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "3:32 am",
       "artist": "Mitski",
       "title": "Heat Lightning"
+    },
+    {
+      "time": "3:35 am",
+      "artist": "Julia Holter",
+      "title": "Spinning"
     }
   ],
   "recent": [
+    {
+      "time": "3:20 am",
+      "artist": "Sigur Ros",
+      "title": "Olsen Olsen",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "3:16 am",
       "artist": "Dinosaur Jr.",
@@ -172,12 +178,6 @@
       "artist": "Chanel Beads",
       "title": "Song for the Messenger",
       "album": "Your Day Will Come • 2026"
-    },
-    {
-      "time": "1:47 am",
-      "artist": "Friko",
-      "title": "Something Worth Waiting For",
-      "album": "Something Worth Waiting For • 2026"
     }
   ]
 }
