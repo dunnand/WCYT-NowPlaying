@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T15:03:27",
+  "updatedAt": "2026-08-18T15:03:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Adele",
+    "title": "Rumour Has It",
+    "album": "21 • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 pm",
-      "artist": "Adele",
-      "title": "Rumour Has It"
-    },
     {
       "time": "3:07 pm",
       "artist": "Cranberries",
@@ -26,9 +21,20 @@
       "time": "3:17 pm",
       "artist": "Sonic Youth",
       "title": "The Sprawl"
+    },
+    {
+      "time": "3:25 pm",
+      "artist": "Dream Academy",
+      "title": "Life In A Northern Town"
     }
   ],
   "recent": [
+    {
+      "time": "3:03 pm",
+      "artist": "Adele",
+      "title": "Rumour Has It",
+      "album": "21 • 2012"
+    },
     {
       "time": "2:59 pm",
       "artist": "Aesop Rock",
@@ -172,12 +178,6 @@
       "artist": "Ramones",
       "title": "Havana Affair",
       "album": "Ramones • 1976"
-    },
-    {
-      "time": "1:27 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "deja vu",
-      "album": "SOUR • 2021"
     }
   ]
 }
