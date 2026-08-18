@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T01:56:16",
+  "updatedAt": "2026-08-18T01:56:38",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Gorillaz",
+    "title": "Orange County",
+    "album": "The Mountain • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "Gorillaz",
-      "title": "Orange County"
-    },
     {
       "time": "2:00 am",
       "artist": "American Football",
@@ -26,9 +21,20 @@
       "time": "2:09 am",
       "artist": "Vampire Weekend",
       "title": "Hold You Now"
+    },
+    {
+      "time": "2:12 am",
+      "artist": "Tame Impala",
+      "title": "The Moment"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "Gorillaz",
+      "title": "Orange County",
+      "album": "The Mountain • 2026"
+    },
     {
       "time": "1:53 am",
       "artist": "Chanel Beads",
@@ -172,12 +178,6 @@
       "artist": "Ibibio Sound Machine",
       "title": "Got to Be Who U Are",
       "album": "Pull The Rope • 2024"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "Hospitality",
-      "title": "Friends of Friends",
-      "album": "Hospitality • 2012"
     }
   ]
 }
