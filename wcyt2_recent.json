@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T09:03:20",
+  "updatedAt": "2026-08-18T09:03:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "One Too Many Mornings",
+    "album": "The Times They Are A-Changin • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:03 am",
-      "artist": "Bob Dylan",
-      "title": "One Too Many Mornings"
-    },
     {
       "time": "9:06 am",
       "artist": "Arcade Fire",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:03 am",
+      "artist": "Bob Dylan",
+      "title": "One Too Many Mornings",
+      "album": "The Times They Are A-Changin • 1964"
+    },
     {
       "time": "8:59 am",
       "artist": "Cat Power",
@@ -172,12 +173,6 @@
       "artist": "Harry Styles",
       "title": "As It Was",
       "album": "Harry's House • 2022"
-    },
-    {
-      "time": "7:25 am",
-      "artist": "Queen",
-      "title": "I Want It All",
-      "album": "The Miracle • 1989"
     }
   ]
 }
