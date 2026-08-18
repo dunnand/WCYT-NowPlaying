@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T12:34:21",
+  "updatedAt": "2026-08-18T12:34:31",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sonic Youth",
+    "title": "I Love You Golden Blue",
+    "album": "Sonic Nurse • 2004",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Sonic Youth",
-      "title": "I Love You Golden Blue"
-    },
     {
       "time": "12:41 pm",
       "artist": "Fiona Apple",
@@ -26,9 +21,20 @@
       "time": "12:48 pm",
       "artist": "Kevin Morby",
       "title": "Parade"
+    },
+    {
+      "time": "12:53 pm",
+      "artist": "Kim Deal",
+      "title": "Nobody Loves You More"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Sonic Youth",
+      "title": "I Love You Golden Blue",
+      "album": "Sonic Nurse • 2004"
+    },
     {
       "time": "12:30 pm",
       "artist": "mary in the junkyard",
@@ -172,12 +178,6 @@
       "artist": "IDLES",
       "title": "Gift Horse",
       "album": "Tangk • 2024"
-    },
-    {
-      "time": "10:57 am",
-      "artist": "Son Little",
-      "title": "In Orbit",
-      "album": "Cityfolk • 2025"
     }
   ]
 }
