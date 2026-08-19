@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T21:28:12",
+  "updatedAt": "2026-08-18T21:32:37",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "My Back Pages",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "Stevie Wonder",
+    "title": "Superstition",
+    "album": "Talking Book • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:32 pm",
-      "artist": "Stevie Wonder",
-      "title": "Superstition"
-    },
     {
       "time": "9:36 pm",
       "artist": "KRS",
@@ -26,9 +21,20 @@
       "time": "9:45 pm",
       "artist": "Air",
       "title": "Cherry Blossom Girl"
+    },
+    {
+      "time": "9:49 pm",
+      "artist": "Carrie Underwood",
+      "title": "Before He Cheats"
     }
   ],
   "recent": [
+    {
+      "time": "9:32 pm",
+      "artist": "Stevie Wonder",
+      "title": "Superstition",
+      "album": "Talking Book • 1973"
+    },
     {
       "time": "9:28 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Gloria Estefan",
       "title": "Live For Loving You",
       "album": "Into the Light • 1991"
-    },
-    {
-      "time": "7:54 pm",
-      "artist": "FKA twigs",
-      "title": "Two Weeks",
-      "album": "LP1 • 2014"
     }
   ]
 }
