@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T19:40:34",
+  "updatedAt": "2026-08-19T19:45:21",
   "now": {
-    "artist": "Arcade Fire",
-    "title": "Neighborhood #1 (Tunnels)",
-    "album": "Funeral • 2004",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Like a Rolling Stone",
+    "album": "Highway 61 Revisited • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:45 pm",
-      "artist": "Bob Dylan",
-      "title": "Like a Rolling Stone"
-    },
     {
       "time": "7:51 pm",
       "artist": "Stories",
@@ -26,9 +21,20 @@
       "time": "8:00 pm",
       "artist": "FUN.",
       "title": "We Are Young"
+    },
+    {
+      "time": "8:04 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Funny Little Frog"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 pm",
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "7:40 pm",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "One Direction",
       "title": "Little Things",
       "album": "Take Me Home • 2012"
-    },
-    {
-      "time": "5:59 pm",
-      "artist": "Beyonce",
-      "title": "Irreplaceable",
-      "album": "B-Day • 2006"
     }
   ]
 }
