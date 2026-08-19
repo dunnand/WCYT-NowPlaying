@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T20:30:28",
+  "updatedAt": "2026-08-18T20:33:02",
   "now": {
-    "artist": "Donovan",
-    "title": "Colours",
-    "album": "Fairytale • 1965",
+    "artist": "Paul Simon",
+    "title": "Duncan",
+    "album": "Paul Simon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:33 pm",
-      "artist": "Paul Simon",
-      "title": "Duncan"
-    },
     {
       "time": "8:37 pm",
       "artist": "Goo Goo Dolls",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:33 pm",
+      "artist": "Paul Simon",
+      "title": "Duncan",
+      "album": "Paul Simon • 1972"
+    },
     {
       "time": "8:30 pm",
       "artist": "Donovan",
@@ -172,12 +173,6 @@
       "artist": "Fiona Apple",
       "title": "Criminal",
       "album": "Tidal • 1996"
-    },
-    {
-      "time": "7:01 pm",
-      "artist": "Daft Punk",
-      "title": "Doin' It Right (feat. Panda Bear)",
-      "album": "Random Access Memories • 2013"
     }
   ]
 }
