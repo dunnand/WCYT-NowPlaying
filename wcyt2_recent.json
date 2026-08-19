@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T08:45:47",
+  "updatedAt": "2026-08-19T08:46:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dave Matthews Band",
+    "title": "Where Are You Going",
+    "album": "Busted Stuff • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:46 am",
-      "artist": "Dave Matthews Band",
-      "title": "Where Are You Going"
-    },
     {
       "time": "8:49 am",
       "artist": "The Beach Boys",
@@ -31,9 +26,20 @@
       "time": "8:58 am",
       "artist": "Platters",
       "title": "The Great Pretender"
+    },
+    {
+      "time": "9:01 am",
+      "artist": "Elliott Smith",
+      "title": "Somebody That I Used To Know"
     }
   ],
   "recent": [
+    {
+      "time": "8:46 am",
+      "artist": "Dave Matthews Band",
+      "title": "Where Are You Going",
+      "album": "Busted Stuff • 2002"
+    },
     {
       "time": "8:42 am",
       "artist": "Nick Drake",
@@ -177,12 +183,6 @@
       "artist": "Donovan",
       "title": "Sunshine Superman",
       "album": "Sunshine Superman • 1966"
-    },
-    {
-      "time": "7:04 am",
-      "artist": "Belle and Sebastian",
-      "title": "I'm a Cuckoo",
-      "album": "Dear Catastrophe Waitress • 2003"
     }
   ]
 }
