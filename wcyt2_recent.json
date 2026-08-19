@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T04:47:21",
+  "updatedAt": "2026-08-19T04:51:27",
   "now": {
-    "artist": "Arcade Fire",
-    "title": "Windowsill",
-    "album": "Neon Bible • 2007",
-    "category": "TUNES"
+    "artist": "Elvis Presley",
+    "title": "Return To Sender",
+    "album": "Girls! Girls! Girls! • 1962",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:51 am",
-      "artist": "Elvis Presley",
-      "title": "Return To Sender"
-    },
     {
       "time": "4:53 am",
       "artist": "Aretha Franklin",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:51 am",
+      "artist": "Elvis Presley",
+      "title": "Return To Sender",
+      "album": "Girls! Girls! Girls! • 1962"
+    },
     {
       "time": "4:47 am",
       "artist": "Arcade Fire",
@@ -177,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Calamity Song",
       "album": "The King Is Dead • 2011"
-    },
-    {
-      "time": "3:08 am",
-      "artist": "Bob Dylan",
-      "title": "Don't Think Twice, It's All Right",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
