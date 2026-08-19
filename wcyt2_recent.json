@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T01:37:46",
+  "updatedAt": "2026-08-19T01:42:56",
   "now": {
-    "artist": "Tower of Power",
-    "title": "What Is Hip?",
-    "album": "Tower of Power • 1973",
+    "artist": "Eagles",
+    "title": "Desperado",
+    "album": "Desperado • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "Eagles",
-      "title": "Desperado"
-    },
     {
       "time": "1:46 am",
       "artist": "Alicia Keys",
@@ -26,9 +21,20 @@
       "time": "1:58 am",
       "artist": "The Beatles",
       "title": "I've Got a Feeling"
+    },
+    {
+      "time": "2:01 am",
+      "artist": "Misfits",
+      "title": "Last Caress"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "Eagles",
+      "title": "Desperado",
+      "album": "Desperado • 1973"
+    },
     {
       "time": "1:37 am",
       "artist": "Tower of Power",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Digital Bath",
       "album": "White Pony • 2000"
-    },
-    {
-      "time": "12:03 am",
-      "artist": "Florence + The Machine",
-      "title": "Shake It Out",
-      "album": "Ceremonials • 2011"
     }
   ]
 }
