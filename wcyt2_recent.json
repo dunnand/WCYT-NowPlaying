@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T01:46:31",
+  "updatedAt": "2026-08-19T01:50:37",
   "now": {
-    "artist": "Alicia Keys",
-    "title": "No One",
-    "album": "As I Am • 2007",
+    "artist": "Bob Dylan",
+    "title": "Visions of Johanna",
+    "album": "Blonde on Blonde • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 am",
-      "artist": "Bob Dylan",
-      "title": "Visions of Johanna"
-    },
     {
       "time": "1:58 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "A Tribe Called Quest",
       "title": "The Space Program"
+    },
+    {
+      "time": "2:09 am",
+      "artist": "Beck",
+      "title": "Guess I'm Doing Fine"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "Bob Dylan",
+      "title": "Visions of Johanna",
+      "album": "Blonde on Blonde • 1966"
+    },
     {
       "time": "1:46 am",
       "artist": "Alicia Keys",
@@ -172,12 +178,6 @@
       "artist": "Adele",
       "title": "Rolling In The Deep",
       "album": "21 • 2010"
-    },
-    {
-      "time": "12:11 am",
-      "artist": "Audioslave",
-      "title": "Cochise",
-      "album": "Audioslave • 2002"
     }
   ]
 }
