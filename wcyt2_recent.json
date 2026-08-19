@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T00:43:22",
+  "updatedAt": "2026-08-19T00:47:20",
   "now": {
-    "artist": "David Bowie",
-    "title": "Starman",
-    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
+    "artist": "Dusty Springfield",
+    "title": "Son of a Preacher Man",
+    "album": "Dusty in Memphis • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 am",
-      "artist": "Dusty Springfield",
-      "title": "Son of a Preacher Man"
-    },
     {
       "time": "12:49 am",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "12:57 am",
       "artist": "Robert Palmer",
       "title": "Bad Case Of Loving You"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Meat Puppets",
+      "title": "Violet Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "Dusty Springfield",
+      "title": "Son of a Preacher Man",
+      "album": "Dusty in Memphis • 1969"
+    },
     {
       "time": "12:43 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Fugazi",
       "title": "Cashout",
       "album": "The Argument • 2001"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "Bruce Springsteen",
-      "title": "American Skin (41 Shots)",
-      "album": "High Hopes • 2014"
     }
   ]
 }
