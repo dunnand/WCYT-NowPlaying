@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T17:28:11",
+  "updatedAt": "2026-08-19T17:32:37",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "All My Life",
-    "album": "One by One • 2002",
+    "artist": "Bob Dylan",
+    "title": "The Lonesome Death of Hattie Carroll",
+    "album": "The Times They Are A-Changin' • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 pm",
-      "artist": "Bob Dylan",
-      "title": "The Lonesome Death of Hattie Carroll"
-    },
     {
       "time": "5:38 pm",
       "artist": "Rickie Lee Jones",
@@ -26,9 +21,20 @@
       "time": "5:45 pm",
       "artist": "Pitbull",
       "title": "Hey Baby"
+    },
+    {
+      "time": "5:49 pm",
+      "artist": "The Decemberists",
+      "title": "California One / Youth and Beauty Brigade"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 pm",
+      "artist": "Bob Dylan",
+      "title": "The Lonesome Death of Hattie Carroll",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "5:28 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Kendrick Lamar",
       "title": "HUMBLE.",
       "album": "Single • 2017"
-    },
-    {
-      "time": "3:56 pm",
-      "artist": "Arcade Fire",
-      "title": "Une année sans lumière",
-      "album": "Funeral • 2004"
     }
   ]
 }
