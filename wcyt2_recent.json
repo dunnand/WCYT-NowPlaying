@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T16:29:53",
+  "updatedAt": "2026-08-19T16:34:47",
   "now": {
-    "artist": "The Who",
-    "title": "Baba O'Reilly",
-    "album": "Who's Next • 1971",
+    "artist": "James Brown",
+    "title": "I Got You (I Feel Good)",
+    "album": "Single • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:34 pm",
-      "artist": "James Brown",
-      "title": "I Got You (I Feel Good)"
-    },
     {
       "time": "4:37 pm",
       "artist": "The Raincoats",
@@ -26,9 +21,20 @@
       "time": "4:45 pm",
       "artist": "Jimmy \"C\" Newman",
       "title": "A Fallen Star"
+    },
+    {
+      "time": "4:47 pm",
+      "artist": "Coldplay",
+      "title": "In My Place"
     }
   ],
   "recent": [
+    {
+      "time": "4:34 pm",
+      "artist": "James Brown",
+      "title": "I Got You (I Feel Good)",
+      "album": "Single • 1965"
+    },
     {
       "time": "4:29 pm",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "New",
       "album": "New • 2013"
-    },
-    {
-      "time": "3:02 pm",
-      "artist": "Crystals",
-      "title": "Da Doo Ron Ron",
-      "album": "single • 1963"
     }
   ]
 }
