@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T11:57:26",
+  "updatedAt": "2026-08-19T12:01:21",
   "now": {
-    "artist": "Suede",
-    "title": "Trash",
-    "album": "Coming Up • 1996",
+    "artist": "Fats Domino",
+    "title": "Ain't That A Shame?",
+    "album": "Rock and Rollin' with Fats Domino • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "Fats Domino",
-      "title": "Ain't That A Shame?"
-    },
     {
       "time": "12:03 pm",
       "artist": "Dilated Peoples",
@@ -26,9 +21,20 @@
       "time": "12:09 pm",
       "artist": "Frank Ocean",
       "title": "White Ferrari"
+    },
+    {
+      "time": "12:13 pm",
+      "artist": "Supergrass",
+      "title": "Alright"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Fats Domino",
+      "title": "Ain't That A Shame?",
+      "album": "Rock and Rollin' with Fats Domino • 1956"
+    },
     {
       "time": "11:57 am",
       "artist": "Suede",
@@ -172,12 +178,6 @@
       "artist": "Grace Jones",
       "title": "Pull Up To The Bumper",
       "album": "Nightclubbing • 1981"
-    },
-    {
-      "time": "10:17 am",
-      "artist": "Spice Girls",
-      "title": "Wannabe",
-      "album": "Spice • 1996"
     }
   ]
 }
