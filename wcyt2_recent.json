@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T12:42:25",
+  "updatedAt": "2026-08-19T12:45:29",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Carey",
-    "album": "Blue • 1971",
-    "category": "AUDIO"
+    "artist": "The Black Keys",
+    "title": "10 A.M. Automatic",
+    "album": "Rubber Factory • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:45 pm",
-      "artist": "The Black Keys",
-      "title": "10 A.M. Automatic"
-    },
     {
       "time": "12:48 pm",
       "artist": "Justin Timberlake",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:45 pm",
+      "artist": "The Black Keys",
+      "title": "10 A.M. Automatic",
+      "album": "Rubber Factory • 2004"
+    },
     {
       "time": "12:42 pm",
       "artist": "Joni Mitchell",
@@ -177,12 +178,6 @@
       "artist": "Common",
       "title": "Testify",
       "album": "Be • 2005"
-    },
-    {
-      "time": "11:05 am",
-      "artist": "Circulatory System",
-      "title": "Yesterday's World",
-      "album": "Circulatory System • 2001"
     }
   ]
 }
