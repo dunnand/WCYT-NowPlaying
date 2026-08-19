@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T04:32:46",
+  "updatedAt": "2026-08-19T04:36:21",
   "now": {
-    "artist": "The Go-Go's",
-    "title": "Head Over Heels",
-    "album": "Talk Show • 1984",
+    "artist": "HAIM",
+    "title": "Lost Track",
+    "album": "Single •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:36 am",
-      "artist": "HAIM",
-      "title": "Lost Track"
-    },
     {
       "time": "4:38 am",
       "artist": "Steely Dan",
@@ -21,9 +16,20 @@
       "time": "4:44 am",
       "artist": "Steve Miller Band",
       "title": "Take The Money And Run"
+    },
+    {
+      "time": "4:47 am",
+      "artist": "Arcade Fire",
+      "title": "Windowsill"
     }
   ],
   "recent": [
+    {
+      "time": "4:36 am",
+      "artist": "HAIM",
+      "title": "Lost Track",
+      "album": "Single •"
+    },
     {
       "time": "4:32 am",
       "artist": "The Go-Go's",
@@ -167,12 +173,6 @@
       "artist": "Ned's Atomic Dustbin",
       "title": "Grey Cell Green",
       "album": "God Fodder • 1991"
-    },
-    {
-      "time": "2:53 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Still The Same",
-      "album": "Stranger in Town • 1978"
     }
   ]
 }
