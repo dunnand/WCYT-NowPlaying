@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T22:58:38",
+  "updatedAt": "2026-08-18T23:00:42",
   "now": {
-    "artist": "Anna Kendrick",
-    "title": "Cups",
-    "album": "HA201311 6 • 2013",
-    "category": "AUDIO"
+    "artist": "Le Tigre",
+    "title": "Hot Topic",
+    "album": "Le Tigre • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:00 pm",
-      "artist": "Le Tigre",
-      "title": "Hot Topic"
-    },
     {
       "time": "11:04 pm",
       "artist": "Lucinda Williams",
@@ -26,9 +21,20 @@
       "time": "11:13 pm",
       "artist": "Prince",
       "title": "I Could Never Take the Place of Your Man"
+    },
+    {
+      "time": "11:19 pm",
+      "artist": "Haim",
+      "title": "I Know Alone"
     }
   ],
   "recent": [
+    {
+      "time": "11:00 pm",
+      "artist": "Le Tigre",
+      "title": "Hot Topic",
+      "album": "Le Tigre • 1999"
+    },
     {
       "time": "10:58 pm",
       "artist": "Anna Kendrick",
@@ -172,12 +178,6 @@
       "artist": "Rolling Stones",
       "title": "Beast Of Burden",
       "album": "Some Girls • 1978"
-    },
-    {
-      "time": "9:15 pm",
-      "artist": "Rod Stewart",
-      "title": "(I Know) I'm Losing You",
-      "album": "Every Picture Tells a Story • 1971"
     }
   ]
 }
