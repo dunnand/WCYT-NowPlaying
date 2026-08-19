@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T16:23:02",
+  "updatedAt": "2026-08-19T16:26:36",
   "now": {
-    "artist": "John Prine",
-    "title": "How Lucky",
-    "album": "Pink Cadillac • 1979",
+    "artist": "Bob Dylan",
+    "title": "The Times They Are A-Changin'",
+    "album": "The Times They Are A-Changin' • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:26 pm",
-      "artist": "Bob Dylan",
-      "title": "The Times They Are A-Changin'"
-    },
     {
       "time": "4:29 pm",
       "artist": "The Who",
@@ -26,9 +21,20 @@
       "time": "4:37 pm",
       "artist": "The Raincoats",
       "title": "In Love"
+    },
+    {
+      "time": "4:40 pm",
+      "artist": "Dinosaur Jr.",
+      "title": "The Wagon"
     }
   ],
   "recent": [
+    {
+      "time": "4:26 pm",
+      "artist": "Bob Dylan",
+      "title": "The Times They Are A-Changin'",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "4:23 pm",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Fluorescent Adolescent",
       "album": "Favourite Worst Nightmare • 2007"
-    },
-    {
-      "time": "2:56 pm",
-      "artist": "Mickey & Sylvia",
-      "title": "Love Is Strange",
-      "album": "Single • 1956"
     }
   ]
 }
