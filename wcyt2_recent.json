@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T00:15:12",
+  "updatedAt": "2026-08-19T00:15:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Adele",
+    "title": "Rolling In The Deep",
+    "album": "21 • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 am",
-      "artist": "Adele",
-      "title": "Rolling In The Deep"
-    },
     {
       "time": "12:19 am",
       "artist": "Massive Attack",
@@ -26,9 +21,20 @@
       "time": "12:29 am",
       "artist": "Alannah Myles",
       "title": "Black Velvet"
+    },
+    {
+      "time": "12:34 am",
+      "artist": "808 State",
+      "title": "Pacific 202"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 am",
+      "artist": "Adele",
+      "title": "Rolling In The Deep",
+      "album": "21 • 2010"
+    },
     {
       "time": "12:11 am",
       "artist": "Audioslave",
@@ -172,12 +178,6 @@
       "artist": "T. Rex",
       "title": "Bang A Gong (Get It On)",
       "album": "Electric Warrior • 1972"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "Haim",
-      "title": "Now I'm In It",
-      "album": "Women in Music, Pt. III • 2020"
     }
   ]
 }
