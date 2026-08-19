@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T00:15:23",
+  "updatedAt": "2026-08-19T00:19:01",
   "now": {
-    "artist": "Adele",
-    "title": "Rolling In The Deep",
-    "album": "21 • 2010",
+    "artist": "Massive Attack",
+    "title": "Unfinished Sympathy",
+    "album": "Blue Lines • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:19 am",
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy"
-    },
     {
       "time": "12:24 am",
       "artist": "Matchbox Twenty",
@@ -26,9 +21,20 @@
       "time": "12:34 am",
       "artist": "808 State",
       "title": "Pacific 202"
+    },
+    {
+      "time": "12:40 am",
+      "artist": "Haim",
+      "title": "Gasoline"
     }
   ],
   "recent": [
+    {
+      "time": "12:19 am",
+      "artist": "Massive Attack",
+      "title": "Unfinished Sympathy",
+      "album": "Blue Lines • 1991"
+    },
     {
       "time": "12:15 am",
       "artist": "Adele",
@@ -172,12 +178,6 @@
       "artist": "Howlin' Wolf",
       "title": "Spoonful",
       "album": "Howlin' Wolf • 1962"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "T. Rex",
-      "title": "Bang A Gong (Get It On)",
-      "album": "Electric Warrior • 1972"
     }
   ]
 }
