@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T21:52:26",
+  "updatedAt": "2026-08-18T21:56:23",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "No. 1 Party Anthem",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Lauryn Hill",
+    "title": "Everything Is Everything",
+    "album": "The Miseducation of Lauryn Hill • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 pm",
-      "artist": "Lauryn Hill",
-      "title": "Everything Is Everything"
-    },
     {
       "time": "10:01 pm",
       "artist": "The Lemonheads",
@@ -26,9 +21,20 @@
       "time": "10:08 pm",
       "artist": "Bau",
       "title": "haus - Dark Entries"
+    },
+    {
+      "time": "10:12 pm",
+      "artist": "Haim",
+      "title": "Now I'm In It"
     }
   ],
   "recent": [
+    {
+      "time": "9:56 pm",
+      "artist": "Lauryn Hill",
+      "title": "Everything Is Everything",
+      "album": "The Miseducation of Lauryn Hill • 1998"
+    },
     {
       "time": "9:52 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Neil Young",
       "title": "Don't Let It Bring You Down",
       "album": "After the Gold Rush • 1970"
-    },
-    {
-      "time": "8:19 pm",
-      "artist": "Pure Prairie League",
-      "title": "Amie",
-      "album": "Bustin Out • 1975"
     }
   ]
 }
