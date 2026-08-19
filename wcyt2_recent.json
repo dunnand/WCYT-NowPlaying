@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T08:49:55",
+  "updatedAt": "2026-08-19T08:51:38",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Shut Down",
-    "album": "Surfin' U.S.A. • 1963",
+    "artist": "Randy Newman",
+    "title": "Political Science",
+    "album": "Sail Away • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:51 am",
-      "artist": "Randy Newman",
-      "title": "Political Science"
-    },
     {
       "time": "8:53 am",
       "artist": "Sinead O'Connor",
@@ -26,9 +21,20 @@
       "time": "9:01 am",
       "artist": "Elliott Smith",
       "title": "Somebody That I Used To Know"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "Grateful Dead",
+      "title": "St. Stephen"
     }
   ],
   "recent": [
+    {
+      "time": "8:51 am",
+      "artist": "Randy Newman",
+      "title": "Political Science",
+      "album": "Sail Away • 1972"
+    },
     {
       "time": "8:49 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Queen",
       "title": "Innuendo",
       "album": "Innuendo • 1991"
-    },
-    {
-      "time": "7:13 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Dis Generation",
-      "album": "We got it from Here... Thank You 4 Your service • 2016"
     }
   ]
 }
