@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T03:08:20",
+  "updatedAt": "2026-08-19T03:11:54",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Don't Think Twice, It's All Right",
-    "album": "The Freewheelin Bob Dylan • 1963",
-    "category": "AUDIO"
+    "artist": "The Decemberists",
+    "title": "Calamity Song",
+    "album": "The King Is Dead • 2011",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:11 am",
-      "artist": "The Decemberists",
-      "title": "Calamity Song"
-    },
     {
       "time": "3:15 am",
       "artist": "Nas",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:11 am",
+      "artist": "The Decemberists",
+      "title": "Calamity Song",
+      "album": "The King Is Dead • 2011"
+    },
     {
       "time": "3:08 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Tower of Power",
       "title": "What Is Hip?",
       "album": "Tower of Power • 1973"
-    },
-    {
-      "time": "1:34 am",
-      "artist": "Haim",
-      "title": "Don't Wanna",
-      "album": "Women in Music, Pt. III • 2020"
     }
   ]
 }
