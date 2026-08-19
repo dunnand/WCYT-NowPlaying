@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T23:30:01",
+  "updatedAt": "2026-08-18T23:34:38",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Misty Mountain Hop",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Bob Dylan",
+    "title": "Subterranean Homesick Blues",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:34 pm",
-      "artist": "Bob Dylan",
-      "title": "Subterranean Homesick Blues"
-    },
     {
       "time": "11:36 pm",
       "artist": "The Clash",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:34 pm",
+      "artist": "Bob Dylan",
+      "title": "Subterranean Homesick Blues",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "11:30 pm",
       "artist": "Led Zeppelin",
@@ -162,12 +163,6 @@
       "artist": "Arctic Monkeys",
       "title": "No. 1 Party Anthem",
       "album": "AM • 2013"
-    },
-    {
-      "time": "9:48 pm",
-      "artist": "Carrie Underwood",
-      "title": "Before He Cheats",
-      "album": "Some Hearts • 2005"
     }
   ]
 }
