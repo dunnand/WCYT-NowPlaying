@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T21:56:23",
+  "updatedAt": "2026-08-18T22:01:10",
   "now": {
-    "artist": "Lauryn Hill",
-    "title": "Everything Is Everything",
-    "album": "The Miseducation of Lauryn Hill • 1998",
+    "artist": "The Lemonheads",
+    "title": "It's a Shame About Ray",
+    "album": "It's A Shame About Ray • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 pm",
-      "artist": "The Lemonheads",
-      "title": "It's a Shame About Ray"
-    },
     {
       "time": "10:04 pm",
       "artist": "Bruce Springsteen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:01 pm",
+      "artist": "The Lemonheads",
+      "title": "It's a Shame About Ray",
+      "album": "It's A Shame About Ray • 1992"
+    },
     {
       "time": "9:56 pm",
       "artist": "Lauryn Hill",
@@ -172,12 +173,6 @@
       "artist": "Black Eyed Peas",
       "title": "I Got A Feeling",
       "album": "The E.N.D. • 2009"
-    },
-    {
-      "time": "8:23 pm",
-      "artist": "Neil Young",
-      "title": "Don't Let It Bring You Down",
-      "album": "After the Gold Rush • 1970"
     }
   ]
 }
