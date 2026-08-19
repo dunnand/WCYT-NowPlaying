@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T01:50:37",
+  "updatedAt": "2026-08-19T01:57:57",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Visions of Johanna",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "The Beatles",
+    "title": "I've Got a Feeling",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:58 am",
-      "artist": "The Beatles",
-      "title": "I've Got a Feeling"
-    },
     {
       "time": "2:01 am",
       "artist": "Misfits",
@@ -26,9 +21,20 @@
       "time": "2:09 am",
       "artist": "Beck",
       "title": "Guess I'm Doing Fine"
+    },
+    {
+      "time": "2:13 am",
+      "artist": "Broken Social Scene",
+      "title": "Almost Crimes (Radio Kills remix)"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 am",
+      "artist": "The Beatles",
+      "title": "I've Got a Feeling",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "1:50 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
       "album": "Blue Lines • 1991"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "Adele",
-      "title": "Rolling In The Deep",
-      "album": "21 • 2010"
     }
   ]
 }
