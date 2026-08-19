@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T19:45:21",
+  "updatedAt": "2026-08-19T19:51:23",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Like a Rolling Stone",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Stories",
+    "title": "Brother Louie",
+    "album": "About Us • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 pm",
-      "artist": "Stories",
-      "title": "Brother Louie"
-    },
     {
       "time": "7:55 pm",
       "artist": "Boards of Canada",
@@ -26,9 +21,20 @@
       "time": "8:04 pm",
       "artist": "Belle and Sebastian",
       "title": "Funny Little Frog"
+    },
+    {
+      "time": "8:07 pm",
+      "artist": "Electric Six",
+      "title": "Danger! High Voltage"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 pm",
+      "artist": "Stories",
+      "title": "Brother Louie",
+      "album": "About Us • 1973"
+    },
     {
       "time": "7:45 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Aphex Twin",
       "title": "Come To Daddy (Pappy Mix)",
       "album": "Come to Daddy [EP] • 1997"
-    },
-    {
-      "time": "6:03 pm",
-      "artist": "One Direction",
-      "title": "Little Things",
-      "album": "Take Me Home • 2012"
     }
   ]
 }
