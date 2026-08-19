@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T22:15:45",
+  "updatedAt": "2026-08-18T22:20:10",
   "now": {
-    "artist": "T. Rex",
-    "title": "Bang A Gong (Get It On)",
-    "album": "Electric Warrior • 1972",
+    "artist": "Howlin' Wolf",
+    "title": "Spoonful",
+    "album": "Howlin' Wolf • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 pm",
-      "artist": "Howlin' Wolf",
-      "title": "Spoonful"
-    },
     {
       "time": "10:22 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "10:32 pm",
       "artist": "Queen",
       "title": "The March of the Black Queen"
+    },
+    {
+      "time": "10:38 pm",
+      "artist": "Lenny Kravitz",
+      "title": "It Ain't Over 'Til It's Over"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 pm",
+      "artist": "Howlin' Wolf",
+      "title": "Spoonful",
+      "album": "Howlin' Wolf • 1962"
+    },
     {
       "time": "10:15 pm",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Summer Days",
       "album": "Love and Theft • 2001"
-    },
-    {
-      "time": "8:42 pm",
-      "artist": "Sister Rosetta Tharpe",
-      "title": "Up Above My Head I Hear Music In The Air",
-      "album": "single • 1948"
     }
   ]
 }
