@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T05:12:36",
+  "updatedAt": "2026-08-19T05:16:00",
   "now": {
-    "artist": "Beyonce",
-    "title": "Formation",
-    "album": "Lemonade • 2016",
+    "artist": "Paul Simon",
+    "title": "The Coast",
+    "album": "The Rhythm of the Saints • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:16 am",
-      "artist": "Paul Simon",
-      "title": "The Coast"
-    },
     {
       "time": "5:21 am",
       "artist": "Peter Gabriel",
@@ -21,9 +16,20 @@
       "time": "5:26 am",
       "artist": "Hall & Oates",
       "title": "Maneater"
+    },
+    {
+      "time": "5:30 am",
+      "artist": "Husker Du",
+      "title": "Chartered Trips"
     }
   ],
   "recent": [
+    {
+      "time": "5:16 am",
+      "artist": "Paul Simon",
+      "title": "The Coast",
+      "album": "The Rhythm of the Saints • 1990"
+    },
     {
       "time": "5:12 am",
       "artist": "Beyonce",
@@ -167,12 +173,6 @@
       "artist": "The Carpenters",
       "title": "Yesterday Once More",
       "album": "Now and Then • 1973"
-    },
-    {
-      "time": "3:36 am",
-      "artist": "DeVotchKa",
-      "title": "How It Ends",
-      "album": "How It Ends • 2004"
     }
   ]
 }
