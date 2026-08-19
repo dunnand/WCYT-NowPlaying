@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T03:53:45",
+  "updatedAt": "2026-08-19T03:59:32",
   "now": {
-    "artist": "Paul McCartney and Wings",
-    "title": "Silly Love Songs",
-    "album": "Wings at the Speed of Sound • 1976",
+    "artist": "Naughty By Nature",
+    "title": "O.P.P",
+    "album": "Naughty by Nature • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "Naughty By Nature",
-      "title": "O.P.P"
-    },
     {
       "time": "4:04 am",
       "artist": "Little Richard",
@@ -21,9 +16,20 @@
       "time": "4:06 am",
       "artist": "Beck",
       "title": "Paper Tiger"
+    },
+    {
+      "time": "4:11 am",
+      "artist": "Bob Dylan",
+      "title": "In My Time of Dyin'"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 am",
+      "artist": "Naughty By Nature",
+      "title": "O.P.P",
+      "album": "Naughty by Nature • 1991"
+    },
     {
       "time": "3:53 am",
       "artist": "Paul McCartney and Wings",
@@ -167,12 +173,6 @@
       "artist": "Morrissey",
       "title": "That's Entertainment",
       "album": "Single • 1991"
-    },
-    {
-      "time": "2:21 am",
-      "artist": "Mojave 3",
-      "title": "Who Do You Love",
-      "album": "Out of Tune • 1998"
     }
   ]
 }
