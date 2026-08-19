@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T08:58:29",
+  "updatedAt": "2026-08-19T09:01:03",
   "now": {
-    "artist": "Platters",
-    "title": "The Great Pretender",
-    "album": "single • 1955",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Somebody That I Used To Know",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:01 am",
-      "artist": "Elliott Smith",
-      "title": "Somebody That I Used To Know"
-    },
     {
       "time": "9:03 am",
       "artist": "Grateful Dead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:01 am",
+      "artist": "Elliott Smith",
+      "title": "Somebody That I Used To Know",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "8:58 am",
       "artist": "Platters",
@@ -172,12 +173,6 @@
       "artist": "U2",
       "title": "New Year's Day",
       "album": "War • 1983"
-    },
-    {
-      "time": "7:27 am",
-      "artist": "Rush",
-      "title": "The Spirit of Radio",
-      "album": "Permanent Waves • 1980"
     }
   ]
 }
