@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T08:52:30",
+  "updatedAt": "2026-08-19T08:52:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sonic Youth",
+    "title": "100%",
+    "album": "Dirty • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:52 am",
-      "artist": "Sonic Youth",
-      "title": "100%"
-    },
     {
       "time": "8:55 am",
       "artist": "Panda Bear & Sonic Boom",
@@ -26,9 +21,20 @@
       "time": "9:02 am",
       "artist": "Japanese Breakfast",
       "title": "Paprika"
+    },
+    {
+      "time": "9:06 am",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do"
     }
   ],
   "recent": [
+    {
+      "time": "8:52 am",
+      "artist": "Sonic Youth",
+      "title": "100%",
+      "album": "Dirty • 1992"
+    },
     {
       "time": "8:49 am",
       "artist": "feeble little horse",
@@ -172,12 +178,6 @@
       "artist": "Bon Iver",
       "title": "Death Breast",
       "album": "22, A Million • 2016"
-    },
-    {
-      "time": "7:10 am",
-      "artist": "Ed O'Brien",
-      "title": "Obrigado",
-      "album": "Blue Morpho • 2026"
     }
   ]
 }
