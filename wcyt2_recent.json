@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T11:12:19",
+  "updatedAt": "2026-08-19T11:16:35",
   "now": {
-    "artist": "Coldplay",
-    "title": "A Sky Full of Stars",
-    "album": "Ghost Stories • 2014",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "30 Gallon Tank",
+    "album": "A Series of Sneaks • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:16 am",
-      "artist": "Spoon",
-      "title": "30 Gallon Tank"
-    },
     {
       "time": "11:20 am",
       "artist": "Stereolab",
@@ -26,9 +21,20 @@
       "time": "11:30 am",
       "artist": "Adam Ant",
       "title": "Goody Two Shoes"
+    },
+    {
+      "time": "11:33 am",
+      "artist": "SAULT",
+      "title": "Fearless"
     }
   ],
   "recent": [
+    {
+      "time": "11:16 am",
+      "artist": "Spoon",
+      "title": "30 Gallon Tank",
+      "album": "A Series of Sneaks • 1998"
+    },
     {
       "time": "11:12 am",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "The Jam",
       "title": "The Eton Rifles",
       "album": "Setting Sons • 1979"
-    },
-    {
-      "time": "9:35 am",
-      "artist": "Camera Obscura",
-      "title": "Eighties Fan",
-      "album": "Biggest Bluest Hi-Fi • 2001"
     }
   ]
 }
