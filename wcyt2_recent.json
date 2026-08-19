@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T07:41:26",
+  "updatedAt": "2026-08-19T07:45:02",
   "now": {
-    "artist": "Iggy Pop",
-    "title": "Some Weird Sin",
-    "album": "Lust for Life • 1977",
+    "artist": "Kool & The Gang",
+    "title": "Funky Stuff",
+    "album": "Wild and Peaceful • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:45 am",
-      "artist": "Kool & The Gang",
-      "title": "Funky Stuff"
-    },
     {
       "time": "7:48 am",
       "artist": "El",
@@ -26,9 +21,20 @@
       "time": "7:54 am",
       "artist": "Lou Reed",
       "title": "Sad Song"
+    },
+    {
+      "time": "8:01 am",
+      "artist": "Rancid",
+      "title": "Ruby Soho"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 am",
+      "artist": "Kool & The Gang",
+      "title": "Funky Stuff",
+      "album": "Wild and Peaceful • 1973"
+    },
     {
       "time": "7:41 am",
       "artist": "Iggy Pop",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Change (In the House of Flies)",
       "album": "White Pony • 2000"
-    },
-    {
-      "time": "6:03 am",
-      "artist": "Johnny Cash",
-      "title": "Ballad Of A Teenage Queen",
-      "album": "Ballad Of A Teenage Queen • 1958"
     }
   ]
 }
