@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T03:08:10",
+  "updatedAt": "2026-08-19T03:08:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Don't Think Twice, It's All Right",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:08 am",
-      "artist": "Bob Dylan",
-      "title": "Don't Think Twice, It's All Right"
-    },
     {
       "time": "3:11 am",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "3:20 am",
       "artist": "Natalie Merchant",
       "title": "Carnival"
+    },
+    {
+      "time": "3:24 am",
+      "artist": "DEVO",
+      "title": "Freedom of Choice"
     }
   ],
   "recent": [
+    {
+      "time": "3:08 am",
+      "artist": "Bob Dylan",
+      "title": "Don't Think Twice, It's All Right",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "3:03 am",
       "artist": "Erykah Badu",
@@ -172,12 +178,6 @@
       "artist": "Haim",
       "title": "Don't Wanna",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "1:28 am",
-      "artist": "Felt",
-      "title": "Primitive Painters",
-      "album": "Ignite the Seven Cannons • 1985"
     }
   ]
 }
