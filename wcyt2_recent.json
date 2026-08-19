@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T04:04:13",
+  "updatedAt": "2026-08-19T04:06:35",
   "now": {
-    "artist": "Little Richard",
-    "title": "Tutti Frutti",
-    "album": "Heres Little Richard • 1957",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Paper Tiger",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:06 am",
-      "artist": "Beck",
-      "title": "Paper Tiger"
-    },
     {
       "time": "4:11 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "4:13 am",
       "artist": "Christina Perri",
       "title": "A Thousand Years"
+    },
+    {
+      "time": "4:17 am",
+      "artist": "No Doubt",
+      "title": "Spiderwebs"
     }
   ],
   "recent": [
+    {
+      "time": "4:06 am",
+      "artist": "Beck",
+      "title": "Paper Tiger",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "4:04 am",
       "artist": "Little Richard",
@@ -167,12 +173,6 @@
       "artist": "Alan Parsons Project",
       "title": "Eye In The Sky",
       "album": "Eye in the Sky • 1982"
-    },
-    {
-      "time": "2:28 am",
-      "artist": "Christopher Cross",
-      "title": "Think Of Laura",
-      "album": "Another Page • 1983"
     }
   ]
 }
