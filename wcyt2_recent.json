@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T04:11:02",
+  "updatedAt": "2026-08-19T04:11:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "In My Time of Dyin'",
+    "album": "Bob Dylan • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:11 am",
-      "artist": "Bob Dylan",
-      "title": "In My Time of Dyin'"
-    },
     {
       "time": "4:13 am",
       "artist": "Christina Perri",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:11 am",
+      "artist": "Bob Dylan",
+      "title": "In My Time of Dyin'",
+      "album": "Bob Dylan • 1962"
+    },
     {
       "time": "4:06 am",
       "artist": "Beck",
@@ -172,12 +173,6 @@
       "artist": "HAIM",
       "title": "The Steps",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "2:32 am",
-      "artist": "Alan Parsons Project",
-      "title": "Eye In The Sky",
-      "album": "Eye in the Sky • 1982"
     }
   ]
 }
