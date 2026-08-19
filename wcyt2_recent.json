@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T17:06:52",
+  "updatedAt": "2026-08-19T17:11:40",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Most of the Time",
-    "album": "Oh Mercy • 1989",
+    "artist": "Elvis Costello & The Attractions",
+    "title": "Everyday I Write The Book",
+    "album": "Punch the Clock • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:11 pm",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "Everyday I Write The Book"
-    },
     {
       "time": "5:15 pm",
       "artist": "Son Little",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:11 pm",
+      "artist": "Elvis Costello & The Attractions",
+      "title": "Everyday I Write The Book",
+      "album": "Punch the Clock • 1983"
+    },
     {
       "time": "5:06 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Doobie Brothers",
       "title": "Take Me In Your Arms (Rock Me)",
       "album": "Stampede • 1975"
-    },
-    {
-      "time": "3:39 pm",
-      "artist": "Drifters with Ben E. King",
-      "title": "Save The Last Dance For Me",
-      "album": "Save The Last Dance For Me • 1962"
     }
   ]
 }
