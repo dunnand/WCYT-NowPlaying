@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-18T20:26:33",
+  "updatedAt": "2026-08-18T20:30:28",
   "now": {
-    "artist": "Black Eyed Peas",
-    "title": "I Got A Feeling",
-    "album": "The E.N.D. • 2009",
+    "artist": "Donovan",
+    "title": "Colours",
+    "album": "Fairytale • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:30 pm",
-      "artist": "Donovan",
-      "title": "Colours"
-    },
     {
       "time": "8:33 pm",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "8:42 pm",
       "artist": "Sister Rosetta Tharpe",
       "title": "Up Above My Head I Hear Music In The Air"
+    },
+    {
+      "time": "8:45 pm",
+      "artist": "Bob Dylan",
+      "title": "Summer Days"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 pm",
+      "artist": "Donovan",
+      "title": "Colours",
+      "album": "Fairytale • 1965"
+    },
     {
       "time": "8:26 pm",
       "artist": "Black Eyed Peas",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Doin' It Right (feat. Panda Bear)",
       "album": "Random Access Memories • 2013"
-    },
-    {
-      "time": "6:58 pm",
-      "artist": "Beck",
-      "title": "It's All in Your Mind",
-      "album": "Sea Change • 2002"
     }
   ]
 }
