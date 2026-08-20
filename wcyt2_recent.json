@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T03:11:39",
+  "updatedAt": "2026-08-20T03:15:46",
   "now": {
-    "artist": "Chaka Khan",
-    "title": "I Feel For You",
-    "album": "I Feel for You • 1984",
+    "artist": "George Clinton",
+    "title": "Atomic Dog",
+    "album": "Computer Games • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 am",
-      "artist": "George Clinton",
-      "title": "Atomic Dog"
-    },
     {
       "time": "3:20 am",
       "artist": "SAULT",
@@ -21,9 +16,20 @@
       "time": "3:26 am",
       "artist": "Nilsson",
       "title": "Jump Into the Fire"
+    },
+    {
+      "time": "3:33 am",
+      "artist": "David Ruffin",
+      "title": "My Whole World Ended (The Moment You Left Me)"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 am",
+      "artist": "George Clinton",
+      "title": "Atomic Dog",
+      "album": "Computer Games • 1982"
+    },
     {
       "time": "3:11 am",
       "artist": "Chaka Khan",
@@ -167,12 +173,6 @@
       "artist": "Jim Croce",
       "title": "Time In A Bottle",
       "album": "You Dont Mess Around with Jim • 1972"
-    },
-    {
-      "time": "1:41 am",
-      "artist": "Count Five",
-      "title": "Psychotic Reaction",
-      "album": "Psychotic Reaction • 1966"
     }
   ]
 }
