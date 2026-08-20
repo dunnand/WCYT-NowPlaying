@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T23:58:06",
+  "updatedAt": "2026-08-20T00:00:25",
   "now": {
-    "artist": "Elastica",
-    "title": "Connection",
-    "album": "Elastica • 1995",
+    "artist": "Jerry Lee Lewis",
+    "title": "Great Balls of Fire",
+    "album": "Single • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 am",
-      "artist": "Jerry Lee Lewis",
-      "title": "Great Balls of Fire"
-    },
     {
       "time": "12:02 am",
       "artist": "CSS",
@@ -26,9 +21,20 @@
       "time": "12:07 am",
       "artist": "John Prine",
       "title": "When I Get to Heaven"
+    },
+    {
+      "time": "12:11 am",
+      "artist": "Elton John",
+      "title": "Can You Feel The Love Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 am",
+      "artist": "Jerry Lee Lewis",
+      "title": "Great Balls of Fire",
+      "album": "Single • 1957"
+    },
     {
       "time": "11:58 pm",
       "artist": "Elastica",
@@ -172,12 +178,6 @@
       "artist": "Wipers",
       "title": "Return of the Rat",
       "album": "Is This Real? • 1980"
-    },
-    {
-      "time": "10:20 pm",
-      "artist": "David Byrne",
-      "title": "Miss America",
-      "album": "Feelings • 1997"
     }
   ]
 }
