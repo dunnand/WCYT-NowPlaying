@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T03:21:15",
+  "updatedAt": "2026-08-20T03:21:27",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Elliott Smith",
+    "title": "Punch and Judy",
+    "album": "Either Or • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:21 am",
-      "artist": "Elliott Smith",
-      "title": "Punch and Judy"
-    },
     {
       "time": "3:23 am",
       "artist": "Juliana Hatfield",
@@ -26,9 +21,20 @@
       "time": "3:30 am",
       "artist": "The Jam",
       "title": "That's Entertainment"
+    },
+    {
+      "time": "3:33 am",
+      "artist": "Lunar Vacation",
+      "title": "Peddler"
     }
   ],
   "recent": [
+    {
+      "time": "3:21 am",
+      "artist": "Elliott Smith",
+      "title": "Punch and Judy",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "3:16 am",
       "artist": "Future Islands",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "Falling Out of Love",
       "album": "Reality Awaits • 2026"
-    },
-    {
-      "time": "1:45 am",
-      "artist": "Low",
-      "title": "Sunflower",
-      "album": "Things We Lost In The Fire • 2001"
     }
   ]
 }
