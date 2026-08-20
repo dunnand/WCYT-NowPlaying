@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:24:19",
+  "updatedAt": "2026-08-20T17:25:00",
   "now": {
-    "artist": "The Beatles",
-    "title": "Maggie Mae",
-    "album": "Let It Be • 1970",
+    "artist": "Buzzcocks",
+    "title": "Boredom",
+    "album": "Spiral Scratch • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:24 pm",
-      "artist": "Buzzcocks",
-      "title": "Boredom"
-    },
     {
       "time": "5:27 pm",
       "artist": "The Black Keys",
@@ -26,9 +21,20 @@
       "time": "5:34 pm",
       "artist": "Chicago",
       "title": "Beginnings"
+    },
+    {
+      "time": "5:42 pm",
+      "artist": "Bad Religion",
+      "title": "American Jesus"
     }
   ],
   "recent": [
+    {
+      "time": "5:25 pm",
+      "artist": "Buzzcocks",
+      "title": "Boredom",
+      "album": "Spiral Scratch • 1977"
+    },
     {
       "time": "5:24 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Black Keys",
       "title": "Everywhere I Go",
       "album": "Thickfreakness • 2003"
-    },
-    {
-      "time": "3:36 pm",
-      "artist": "Kamasi Washington",
-      "title": "Miss Understanding",
-      "album": "The Epic • 2015"
     }
   ]
 }
