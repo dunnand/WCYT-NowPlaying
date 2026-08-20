@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T22:36:38",
+  "updatedAt": "2026-08-19T22:39:54",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "Somewhere In The Night",
-    "album": "Even Now • 1978",
-    "category": "AUDIO"
+    "artist": "Animal Collective",
+    "title": "Grass",
+    "album": "Feels • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:39 pm",
-      "artist": "Animal Collective",
-      "title": "Grass"
-    },
     {
       "time": "10:42 pm",
       "artist": "Jamila Woods",
@@ -23,7 +18,7 @@
       "title": "Grandma's Hands"
     },
     {
-      "time": "10:49 pm",
+      "time": "10:48 pm",
       "artist": "Death Cab for Cutie",
       "title": "Amputations"
     },
@@ -31,9 +26,20 @@
       "time": "10:53 pm",
       "artist": "Dion & The Belmonts",
       "title": "A Teenager In Love"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "Chromatics",
+      "title": "In The City"
     }
   ],
   "recent": [
+    {
+      "time": "10:39 pm",
+      "artist": "Animal Collective",
+      "title": "Grass",
+      "album": "Feels • 2005"
+    },
     {
       "time": "10:36 pm",
       "artist": "Barry Manilow",
@@ -177,12 +183,6 @@
       "artist": "Akon",
       "title": "Don't Matter",
       "album": "Konvicted • 2006"
-    },
-    {
-      "time": "9:05 pm",
-      "artist": "Boards of Canada",
-      "title": "Music Is Math",
-      "album": "Geogaddi • 2002"
     }
   ]
 }
