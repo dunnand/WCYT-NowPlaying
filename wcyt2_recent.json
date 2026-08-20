@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T20:36:22",
+  "updatedAt": "2026-08-19T20:41:07",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Over The Hills and Far Away",
-    "album": "Houses of the Holy • 1973",
+    "artist": "The Beach Boys",
+    "title": "Little Honda",
+    "album": "All Summer Long • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 pm",
-      "artist": "The Beach Boys",
-      "title": "Little Honda"
-    },
     {
       "time": "8:42 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "8:49 pm",
       "artist": "Players Association",
       "title": "Turn The Music Up!"
+    },
+    {
+      "time": "8:55 pm",
+      "artist": "Bryan Adams",
+      "title": "(Everything I Do) I Do It For You"
     }
   ],
   "recent": [
+    {
+      "time": "8:41 pm",
+      "artist": "The Beach Boys",
+      "title": "Little Honda",
+      "album": "All Summer Long • 1964"
+    },
     {
       "time": "8:36 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Haiti",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "6:50 pm",
-      "artist": "Nina Simone",
-      "title": "My Baby Just Cares for Me",
-      "album": "Little Girl Blue • 1959"
     }
   ]
 }
