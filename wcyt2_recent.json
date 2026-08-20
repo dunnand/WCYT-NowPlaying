@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T11:21:36",
+  "updatedAt": "2026-08-20T11:24:39",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Old Yellow Bricks",
-    "album": "Favourite Worst Nightmare • 2007",
-    "category": "TUNES"
+    "artist": "Buffalo Springfield",
+    "title": "Sit Down I Think I Love You",
+    "album": "Buffalo Springfield • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:24 am",
-      "artist": "Buffalo Springfield",
-      "title": "Sit Down I Think I Love You"
-    },
     {
       "time": "11:26 am",
       "artist": "Kenny Rogers",
@@ -26,9 +21,20 @@
       "time": "11:36 am",
       "artist": "Hot Chelle Rae",
       "title": "Tonight Tonight"
+    },
+    {
+      "time": "11:40 am",
+      "artist": "Eels",
+      "title": "Fresh Feeling"
     }
   ],
   "recent": [
+    {
+      "time": "11:24 am",
+      "artist": "Buffalo Springfield",
+      "title": "Sit Down I Think I Love You",
+      "album": "Buffalo Springfield • 1967"
+    },
     {
       "time": "11:21 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Leon Bridges",
       "title": "Coming Home",
       "album": "Coming Home • 2015"
-    },
-    {
-      "time": "9:57 am",
-      "artist": "Elliott Smith",
-      "title": "Everything Reminds Me of Her",
-      "album": "Figure 8 • 2000"
     }
   ]
 }
