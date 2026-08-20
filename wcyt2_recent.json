@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T16:59:21",
+  "updatedAt": "2026-08-20T16:59:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Aerosmith",
+    "title": "Cryin'",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:59 pm",
-      "artist": "Aerosmith",
-      "title": "Cryin'"
-    },
     {
       "time": "5:04 pm",
       "artist": "Jeff Buckley",
@@ -26,9 +21,20 @@
       "time": "5:16 pm",
       "artist": "Prince and The Revolution",
       "title": "When Doves Cry"
+    },
+    {
+      "time": "5:20 pm",
+      "artist": "Run The Jewels",
+      "title": "walking in the snow"
     }
   ],
   "recent": [
+    {
+      "time": "4:59 pm",
+      "artist": "Aerosmith",
+      "title": "Cryin'",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "4:55 pm",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Exodus",
       "album": "Exodus • 1977"
-    },
-    {
-      "time": "3:12 pm",
-      "artist": "Bloc Party",
-      "title": "Helicopter",
-      "album": "Silent Alarm • 2005"
     }
   ]
 }
