@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:31:03",
+  "updatedAt": "2026-08-20T17:34:35",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Girl From the North Country",
-    "album": "Girl From the North Country • 1963",
+    "artist": "Chicago",
+    "title": "Beginnings",
+    "album": "Chicago Transit Authority • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 pm",
-      "artist": "Chicago",
-      "title": "Beginnings"
-    },
     {
       "time": "5:42 pm",
       "artist": "Bad Religion",
@@ -26,9 +21,20 @@
       "time": "5:47 pm",
       "artist": "blink",
       "title": "182 - I Miss You"
+    },
+    {
+      "time": "5:51 pm",
+      "artist": "Bob Dylan",
+      "title": "Sad-Eyed Lady of the Lowlands"
     }
   ],
   "recent": [
+    {
+      "time": "5:34 pm",
+      "artist": "Chicago",
+      "title": "Beginnings",
+      "album": "Chicago Transit Authority • 1971"
+    },
     {
       "time": "5:31 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty",
       "title": "You Wreck Me",
       "album": "Wildflowers • 1994"
-    },
-    {
-      "time": "3:54 pm",
-      "artist": "James Blake",
-      "title": "The Wilhelm Scream",
-      "album": "James Blake • 2011"
     }
   ]
 }
