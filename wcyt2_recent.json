@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T19:32:13",
+  "updatedAt": "2026-08-20T19:32:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "album": "Imagine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:32 pm",
-      "artist": "John Lennon",
-      "title": "Imagine"
-    },
     {
       "time": "7:35 pm",
       "artist": "Exciters",
@@ -26,9 +21,20 @@
       "time": "7:50 pm",
       "artist": "Candlebox",
       "title": "Far Behind"
+    },
+    {
+      "time": "7:55 pm",
+      "artist": "Johnny Cash",
+      "title": "Cry! Cry! Cry!"
     }
   ],
   "recent": [
+    {
+      "time": "7:32 pm",
+      "artist": "John Lennon",
+      "title": "Imagine",
+      "album": "Imagine • 1971"
+    },
     {
       "time": "7:30 pm",
       "artist": "Chet Atkins",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Sad-Eyed Lady of the Lowlands",
       "album": "Blonde on Blonde • 1966"
-    },
-    {
-      "time": "5:47 pm",
-      "artist": "blink-182",
-      "title": "I Miss You",
-      "album": "blink-182 • 2003"
     }
   ]
 }
