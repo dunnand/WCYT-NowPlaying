@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T08:49:52",
+  "updatedAt": "2026-08-20T08:52:05",
   "now": {
-    "artist": "Elastica",
-    "title": "Connection",
-    "album": "Elastica • 1995",
+    "artist": "Jerry Lee Lewis",
+    "title": "Great Balls of Fire",
+    "album": "Single • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:52 am",
-      "artist": "Jerry Lee Lewis",
-      "title": "Great Balls of Fire"
-    },
     {
       "time": "8:53 am",
       "artist": "CSS",
@@ -26,9 +21,20 @@
       "time": "8:59 am",
       "artist": "John Prine",
       "title": "When I Get to Heaven"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "Elton John",
+      "title": "Can You Feel The Love Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "8:52 am",
+      "artist": "Jerry Lee Lewis",
+      "title": "Great Balls of Fire",
+      "album": "Single • 1957"
+    },
     {
       "time": "8:49 am",
       "artist": "Elastica",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "So Far Away",
       "album": "Great American Songbook, Vol. 2 • 1995"
-    },
-    {
-      "time": "7:03 am",
-      "artist": "Public Enemy",
-      "title": "Welcome to the Terrordome",
-      "album": "Fear of a Black Planet • 1990"
     }
   ]
 }
