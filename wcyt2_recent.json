@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T11:53:43",
+  "updatedAt": "2026-08-20T12:03:35",
   "now": {
-    "artist": "Low",
-    "title": "Lullaby",
-    "album": "I Could Live in Hope • 1994",
-    "category": "TUNES"
+    "artist": "Chaka Khan",
+    "title": "I Feel For You",
+    "album": "I Feel for You • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 pm",
-      "artist": "Chaka Khan",
-      "title": "I Feel For You"
-    },
     {
       "time": "12:07 pm",
       "artist": "George Clinton",
@@ -21,9 +16,20 @@
       "time": "12:12 pm",
       "artist": "SAULT",
       "title": "Strong"
+    },
+    {
+      "time": "12:18 pm",
+      "artist": "Nilsson",
+      "title": "Jump Into the Fire"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 pm",
+      "artist": "Chaka Khan",
+      "title": "I Feel For You",
+      "album": "I Feel for You • 1984"
+    },
     {
       "time": "11:53 am",
       "artist": "Low",
@@ -167,12 +173,6 @@
       "artist": "Count Five",
       "title": "Psychotic Reaction",
       "album": "Psychotic Reaction • 1966"
-    },
-    {
-      "time": "10:30 am",
-      "artist": "James Taylor",
-      "title": "Don't Let Me Be Lonely Tonight",
-      "album": "One Man Dog • 1972"
     }
   ]
 }
