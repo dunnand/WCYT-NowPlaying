@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T02:48:07",
+  "updatedAt": "2026-08-20T02:48:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "Fresh Feeling",
+    "album": "Souljacker • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:48 am",
-      "artist": "Eels",
-      "title": "Fresh Feeling"
-    },
     {
       "time": "2:51 am",
       "artist": "Cage The Elephant",
@@ -26,9 +21,20 @@
       "time": "2:58 am",
       "artist": "John Prine",
       "title": "All the Best"
+    },
+    {
+      "time": "3:02 am",
+      "artist": "Low",
+      "title": "Lullaby"
     }
   ],
   "recent": [
+    {
+      "time": "2:48 am",
+      "artist": "Eels",
+      "title": "Fresh Feeling",
+      "album": "Souljacker • 2001"
+    },
     {
       "time": "2:44 am",
       "artist": "Hot Chelle Rae",
@@ -172,12 +178,6 @@
       "artist": "Chris DeBurgh",
       "title": "The Lady In Red",
       "album": "Into the Light • 1986"
-    },
-    {
-      "time": "1:21 am",
-      "artist": "R.E.M.",
-      "title": "It's the End of the World as We Know It (and I Feel Fine)",
-      "album": "Document • 1987"
     }
   ]
 }
