@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T06:32:37",
+  "updatedAt": "2026-08-20T06:35:14",
   "now": {
-    "artist": "The Specials",
-    "title": "You're Wondering Now",
-    "album": "Specials • 1979",
+    "artist": "Three Dog Night",
+    "title": "Shambala",
+    "album": "Cyan • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:35 am",
-      "artist": "Three Dog Night",
-      "title": "Shambala"
-    },
     {
       "time": "6:38 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "6:43 am",
       "artist": "Van Morrison",
       "title": "Wild Night"
+    },
+    {
+      "time": "6:47 am",
+      "artist": "Prince and the New Power Generation",
+      "title": "7"
     }
   ],
   "recent": [
+    {
+      "time": "6:35 am",
+      "artist": "Three Dog Night",
+      "title": "Shambala",
+      "album": "Cyan • 1973"
+    },
     {
       "time": "6:32 am",
       "artist": "The Specials",
@@ -172,12 +178,6 @@
       "artist": "Broken Social Scene",
       "title": "Stars and Sons",
       "album": "You Forgot it in People • 2002"
-    },
-    {
-      "time": "4:53 am",
-      "artist": "Johnny & The Hurricanes",
-      "title": "Red River Rock",
-      "album": "Red River Rock • 1959"
     }
   ]
 }
