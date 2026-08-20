@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T22:11:41",
+  "updatedAt": "2026-08-19T22:15:27",
   "now": {
-    "artist": "Katy Perry",
-    "title": "Last Friday Night (TGIF)",
-    "album": "Teenage Dream • 2010",
+    "artist": "Daft Punk",
+    "title": "Revolution 909",
+    "album": "Homework • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "Daft Punk",
-      "title": "Revolution 909"
-    },
     {
       "time": "10:20 pm",
       "artist": "David Byrne",
@@ -21,9 +16,20 @@
       "time": "10:24 pm",
       "artist": "Wipers",
       "title": "Return of the Rat"
+    },
+    {
+      "time": "10:26 pm",
+      "artist": "XTC",
+      "title": "Earn Enough for Us"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "Daft Punk",
+      "title": "Revolution 909",
+      "album": "Homework • 1997"
+    },
     {
       "time": "10:11 pm",
       "artist": "Katy Perry",
@@ -167,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "Little Honda",
       "album": "All Summer Long • 1964"
-    },
-    {
-      "time": "8:36 pm",
-      "artist": "Led Zeppelin",
-      "title": "Over The Hills and Far Away",
-      "album": "Houses of the Holy • 1973"
     }
   ]
 }
