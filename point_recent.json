@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-19T22:20:26",
+  "updatedAt": "2026-08-19T22:20:48",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Fleet Foxes",
+    "title": "Young Man's Game",
+    "album": "Shore • 2020",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 pm",
-      "artist": "Fleet Foxes",
-      "title": "Young Man's Game"
-    },
     {
       "time": "10:23 pm",
       "artist": "Sharp Pins",
@@ -26,9 +21,20 @@
       "time": "10:31 pm",
       "artist": "Mitski",
       "title": "Lightning"
+    },
+    {
+      "time": "10:34 pm",
+      "artist": "Rebounder",
+      "title": "Downtown People"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 pm",
+      "artist": "Fleet Foxes",
+      "title": "Young Man's Game",
+      "album": "Shore • 2020"
+    },
     {
       "time": "10:17 pm",
       "artist": "Magdalena Bay",
@@ -172,12 +178,6 @@
       "artist": "Downtown Boys",
       "title": "Yellow Sun",
       "album": "Public Luxury • 2026"
-    },
-    {
-      "time": "8:46 pm",
-      "artist": "R.E.M.",
-      "title": "It's the End of the World as We Know It (and I Feel Fine)",
-      "album": "Document • 1987"
     }
   ]
 }
