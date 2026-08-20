@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T09:25:40",
+  "updatedAt": "2026-08-20T09:25:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Costello",
+    "title": "Welcome to the Working Week",
+    "album": "My Aim Is True • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 am",
-      "artist": "Elvis Costello",
-      "title": "Welcome to the Working Week"
-    },
     {
       "time": "9:27 am",
       "artist": "CAKE",
@@ -31,9 +26,20 @@
       "time": "9:39 am",
       "artist": "Fugees",
       "title": "Killing Me Softly"
+    },
+    {
+      "time": "9:44 am",
+      "artist": "Lana Del Rey",
+      "title": "Video Games"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 am",
+      "artist": "Elvis Costello",
+      "title": "Welcome to the Working Week",
+      "album": "My Aim Is True • 1977"
+    },
     {
       "time": "9:22 am",
       "artist": "Bon Iver",
@@ -177,12 +183,6 @@
       "artist": "Bill Haley & His Comets",
       "title": "See You Later, Alligator",
       "album": "Rockin' the Joint • 1958"
-    },
-    {
-      "time": "7:52 am",
-      "artist": "The Roots",
-      "title": "What They Do",
-      "album": "Illadelph Halflife • 1996"
     }
   ]
 }
