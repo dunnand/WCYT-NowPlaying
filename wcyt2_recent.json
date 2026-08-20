@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-08-20T00:11:31",
+  "updatedAt": "2026-08-20T00:15:37",
   "now": {
-    "artist": "Elton John",
-    "title": "Can You Feel The Love Tonight",
-    "album": "The Lion King: Original Motion Picture Soundtrack • 1994",
+    "artist": "Fugazi",
+    "title": "Blueprint",
+    "album": "Repeater • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 am",
-      "artist": "Fugazi",
-      "title": "Blueprint"
-    },
     {
       "time": "12:19 am",
       "artist": "Bruce Springsteen",
       "title": "Tougher Than the Rest"
     },
     {
-      "time": "12:23 am",
+      "time": "12:24 am",
       "artist": "Billy Idol",
       "title": "Dancing With Myself"
+    },
+    {
+      "time": "12:27 am",
+      "artist": "Run The Jewels",
+      "title": "JU$T (feat. Pharrell Williams & Zack de la Rocha)"
+    },
+    {
+      "time": "12:30 am",
+      "artist": "Bon Iver",
+      "title": "Flume"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 am",
+      "artist": "Fugazi",
+      "title": "Blueprint",
+      "album": "Repeater • 1990"
+    },
     {
       "time": "12:11 am",
       "artist": "Elton John",
@@ -167,12 +178,6 @@
       "artist": "Animal Collective",
       "title": "Grass",
       "album": "Feels • 2005"
-    },
-    {
-      "time": "10:36 pm",
-      "artist": "Barry Manilow",
-      "title": "Somewhere In The Night",
-      "album": "Even Now • 1978"
     }
   ]
 }
