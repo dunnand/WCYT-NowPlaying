@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T16:31:53",
+  "updatedAt": "2026-08-20T16:35:29",
   "now": {
-    "artist": "Rick Derringer",
-    "title": "Rock And Roll, Hoochie Koo",
-    "album": "All American Boy • 1974",
+    "artist": "Jan & Dean",
+    "title": "Surf City",
+    "album": "Surf City and Other Swingin' Cities • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 pm",
-      "artist": "Jan & Dean",
-      "title": "Surf City"
-    },
     {
       "time": "4:37 pm",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "4:46 pm",
       "artist": "Perez Prado",
       "title": "Patricia"
+    },
+    {
+      "time": "4:48 pm",
+      "artist": "The Flaming Lips",
+      "title": "Fight Test"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 pm",
+      "artist": "Jan & Dean",
+      "title": "Surf City",
+      "album": "Surf City and Other Swingin' Cities • 1963"
+    },
     {
       "time": "4:31 pm",
       "artist": "Rick Derringer",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Boots of Spanish Leather",
       "album": "The Times They Are A-Changin • 1964"
-    },
-    {
-      "time": "2:40 pm",
-      "artist": "Coldplay",
-      "title": "Fix You",
-      "album": "X&Y • 2005"
     }
   ]
 }
