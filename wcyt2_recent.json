@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T05:27:28",
+  "updatedAt": "2026-08-20T05:29:23",
   "now": {
-    "artist": "Syd Barrett",
-    "title": "Dark Globe",
-    "album": "The Madcap Laughs • 1970",
+    "artist": "The Band",
+    "title": "Stage Fright",
+    "album": "Stage Fright • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:29 am",
-      "artist": "The Band",
-      "title": "Stage Fright"
-    },
     {
       "time": "5:33 am",
       "artist": "Erykah Badu",
@@ -26,9 +21,20 @@
       "time": "5:42 am",
       "artist": "The Kinks",
       "title": "Celluloid Heroes"
+    },
+    {
+      "time": "5:48 am",
+      "artist": "Pixies",
+      "title": "Dig for Fire"
     }
   ],
   "recent": [
+    {
+      "time": "5:29 am",
+      "artist": "The Band",
+      "title": "Stage Fright",
+      "album": "Stage Fright • 1970"
+    },
     {
       "time": "5:27 am",
       "artist": "Syd Barrett",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Almost Ready",
       "album": "Beyond • 2007"
-    },
-    {
-      "time": "3:50 am",
-      "artist": "Bobby Darin",
-      "title": "Beyond the Sea",
-      "album": "single • 1950"
     }
   ]
 }
