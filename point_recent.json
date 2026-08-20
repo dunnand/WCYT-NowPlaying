@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T16:56:36",
+  "updatedAt": "2026-08-20T16:56:58",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Wild Pink",
+    "title": "Box Store",
+    "album": "Still Coming Down • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:56 pm",
-      "artist": "Wild Pink",
-      "title": "Box Store"
-    },
     {
       "time": "4:59 pm",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "5:05 pm",
       "artist": "Broken Social Scene",
       "title": "Hug of Thunder"
+    },
+    {
+      "time": "5:10 pm",
+      "artist": "Talking Heads",
+      "title": "Stay Up Late"
     }
   ],
   "recent": [
+    {
+      "time": "4:56 pm",
+      "artist": "Wild Pink",
+      "title": "Box Store",
+      "album": "Still Coming Down • 2026"
+    },
     {
       "time": "4:53 pm",
       "artist": "Dinosaur Jr.",
@@ -172,12 +178,6 @@
       "artist": "Caribou",
       "title": "Never Come Back",
       "album": "Suddenly • 2020"
-    },
-    {
-      "time": "3:05 pm",
-      "artist": "Husker Du",
-      "title": "Don't Want to Know If You Are Lonely",
-      "album": "Candy Apple Grey • 1986"
     }
   ]
 }
