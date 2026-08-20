@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T07:08:57",
+  "updatedAt": "2026-08-20T07:09:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rod Stewart",
+    "title": "So Far Away",
+    "album": "Great American Songbook, Vol. 2 • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:09 am",
-      "artist": "Rod Stewart",
-      "title": "So Far Away"
-    },
     {
       "time": "7:13 am",
       "artist": "Duran Duran",
@@ -26,9 +21,20 @@
       "time": "7:22 am",
       "artist": "Mahito Yokota",
       "title": "Super Mario Galaxy"
+    },
+    {
+      "time": "7:26 am",
+      "artist": "The Decemberists",
+      "title": "July, July!"
     }
   ],
   "recent": [
+    {
+      "time": "7:09 am",
+      "artist": "Rod Stewart",
+      "title": "So Far Away",
+      "album": "Great American Songbook, Vol. 2 • 1995"
+    },
     {
       "time": "7:03 am",
       "artist": "Public Enemy",
@@ -172,12 +178,6 @@
       "artist": "Erykah Badu",
       "title": "Penitentiary Philosophy",
       "album": "Mama's Gun • 2000"
-    },
-    {
-      "time": "5:29 am",
-      "artist": "The Band",
-      "title": "Stage Fright",
-      "album": "Stage Fright • 1970"
     }
   ]
 }
