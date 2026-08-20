@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T00:05:43",
+  "updatedAt": "2026-08-20T00:05:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "You're So Good to Me",
+    "album": "Summer Days • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "The Beach Boys",
-      "title": "You're So Good to Me"
-    },
     {
       "time": "12:07 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "12:15 am",
       "artist": "Fugazi",
       "title": "Blueprint"
+    },
+    {
+      "time": "12:19 am",
+      "artist": "Bruce Springsteen",
+      "title": "Tougher Than the Rest"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "The Beach Boys",
+      "title": "You're So Good to Me",
+      "album": "Summer Days • 1965"
+    },
     {
       "time": "12:02 am",
       "artist": "CSS",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "jealousy, jealousy",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "XTC",
-      "title": "Earn Enough for Us",
-      "album": "Skylarking • 1986"
     }
   ]
 }
