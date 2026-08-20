@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T00:07:57",
+  "updatedAt": "2026-08-20T00:11:31",
   "now": {
-    "artist": "John Prine",
-    "title": "When I Get to Heaven",
-    "album": "The Tree of Forgiveness • 2018",
+    "artist": "Elton John",
+    "title": "Can You Feel The Love Tonight",
+    "album": "The Lion King: Original Motion Picture Soundtrack • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:11 am",
-      "artist": "Elton John",
-      "title": "Can You Feel The Love Tonight"
-    },
     {
       "time": "12:15 am",
       "artist": "Fugazi",
@@ -21,9 +16,20 @@
       "time": "12:19 am",
       "artist": "Bruce Springsteen",
       "title": "Tougher Than the Rest"
+    },
+    {
+      "time": "12:23 am",
+      "artist": "Billy Idol",
+      "title": "Dancing With Myself"
     }
   ],
   "recent": [
+    {
+      "time": "12:11 am",
+      "artist": "Elton John",
+      "title": "Can You Feel The Love Tonight",
+      "album": "The Lion King: Original Motion Picture Soundtrack • 1994"
+    },
     {
       "time": "12:07 am",
       "artist": "John Prine",
@@ -167,12 +173,6 @@
       "artist": "Barry Manilow",
       "title": "Somewhere In The Night",
       "album": "Even Now • 1978"
-    },
-    {
-      "time": "10:32 pm",
-      "artist": "Del the Funky Homosapien",
-      "title": "If You Must",
-      "album": "Both Sides of the Brain • 2000"
     }
   ]
 }
