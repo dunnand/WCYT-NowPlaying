@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T18:27:31",
+  "updatedAt": "2026-08-20T18:30:59",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Helpless",
-    "album": "Dj Vu • 1970",
+    "artist": "Coldplay",
+    "title": "Lost!",
+    "album": "Viva la Vida or Death and All His Friends • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:30 pm",
-      "artist": "Coldplay",
-      "title": "Lost!"
-    },
     {
       "time": "6:34 pm",
       "artist": "Jason Isbell",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:30 pm",
+      "artist": "Coldplay",
+      "title": "Lost!",
+      "album": "Viva la Vida or Death and All His Friends • 2008"
+    },
     {
       "time": "6:27 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -177,12 +178,6 @@
       "artist": "Diana Ross & The Supremes",
       "title": "Back In My Arms Again",
       "album": "More Hits by The Supremes • 1965"
-    },
-    {
-      "time": "4:48 pm",
-      "artist": "The Flaming Lips",
-      "title": "Fight Test",
-      "album": "Yoshimi Battles The Pink Robots • 2002"
     }
   ]
 }
