@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-08-20T09:15:22",
+  "updatedAt": "2026-08-20T09:15:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Idol",
+    "title": "Dancing With Myself",
+    "album": "Billy Idol • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "9:15 am",
+      "time": "9:18 am",
+      "artist": "Bruce Springsteen",
+      "title": "Tougher Than the Rest"
+    },
+    {
+      "time": "9:23 am",
       "artist": "Billy Idol",
       "title": "Dancing With Myself"
     },
     {
-      "time": "9:18 am",
+      "time": "9:26 am",
       "artist": "Run The Jewels",
       "title": "JU$T (feat. Pharrell Williams & Zack de la Rocha)"
     },
     {
-      "time": "9:22 am",
+      "time": "9:30 am",
       "artist": "Bon Iver",
       "title": "Flume"
-    },
-    {
-      "time": "9:25 am",
-      "artist": "Elvis Costello",
-      "title": "Welcome to the Working Week"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 am",
+      "artist": "Billy Idol",
+      "title": "Dancing With Myself",
+      "album": "Billy Idol • 1982"
+    },
     {
       "time": "9:11 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Dance Yrself Clean",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "7:34 am",
-      "artist": "Counting Crows",
-      "title": "She Don't Want Nobody Near",
-      "album": "Films About Ghosts • 2003"
     }
   ]
 }
