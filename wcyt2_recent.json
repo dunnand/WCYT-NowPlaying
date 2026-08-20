@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-08-19T23:40:33",
+  "updatedAt": "2026-08-19T23:44:18",
   "now": {
-    "artist": "Jason Isbell and the 400 Unit",
-    "title": "Alabama Pines",
-    "album": "Here We Rest • 2011",
+    "artist": "Bruce Springsteen",
+    "title": "Tenth Avenue Freeze-Out",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:44 pm",
+      "time": "11:47 pm",
+      "artist": "Jason Isbell and the 400 Unit",
+      "title": "Alabama Pines"
+    },
+    {
+      "time": "11:51 pm",
       "artist": "Bruce Springsteen",
       "title": "Tenth Avenue Freeze-Out"
     }
   ],
   "recent": [
+    {
+      "time": "11:44 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Tenth Avenue Freeze-Out",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "11:40 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -157,12 +168,6 @@
       "artist": "Daft Punk",
       "title": "Revolution 909",
       "album": "Homework • 1997"
-    },
-    {
-      "time": "10:11 pm",
-      "artist": "Katy Perry",
-      "title": "Last Friday Night (TGIF)",
-      "album": "Teenage Dream • 2010"
     }
   ]
 }
