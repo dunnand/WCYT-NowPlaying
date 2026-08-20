@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T16:06:09",
+  "updatedAt": "2026-08-20T16:06:43",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Galaxie 500",
+    "title": "Tugboat",
+    "album": "Today • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:06 pm",
-      "artist": "Galaxie 500",
-      "title": "Tugboat"
-    },
     {
       "time": "4:10 pm",
       "artist": "The Hold Steady",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:06 pm",
+      "artist": "Galaxie 500",
+      "title": "Tugboat",
+      "album": "Today • 1988"
+    },
     {
       "time": "4:02 pm",
       "artist": "Fleet Foxes",
@@ -172,12 +173,6 @@
       "artist": "Phoebe Bridgers",
       "title": "Bobby",
       "album": "Lost Weekend • 2026"
-    },
-    {
-      "time": "1:41 pm",
-      "artist": "Sharon Van Etten",
-      "title": "Consolation Prize",
-      "album": "Because I Was In Love • 2009"
     }
   ]
 }
