@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T19:32:44",
+  "updatedAt": "2026-08-20T19:35:38",
   "now": {
-    "artist": "John Lennon",
-    "title": "Imagine",
-    "album": "Imagine • 1971",
+    "artist": "Exciters",
+    "title": "Tell Him",
+    "album": "Tell Him • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:35 pm",
-      "artist": "Exciters",
-      "title": "Tell Him"
-    },
     {
       "time": "7:38 pm",
       "artist": "Kraftwerk",
@@ -26,9 +21,20 @@
       "time": "7:55 pm",
       "artist": "Johnny Cash",
       "title": "Cry! Cry! Cry!"
+    },
+    {
+      "time": "7:58 pm",
+      "artist": "The Black Keys",
+      "title": "Act Nice and Gentle"
     }
   ],
   "recent": [
+    {
+      "time": "7:35 pm",
+      "artist": "Exciters",
+      "title": "Tell Him",
+      "album": "Tell Him • 1962"
+    },
     {
       "time": "7:32 pm",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "KOKOKO!",
       "title": "Buka Dansa",
       "album": "single • 2019"
-    },
-    {
-      "time": "5:51 pm",
-      "artist": "Bob Dylan",
-      "title": "Sad-Eyed Lady of the Lowlands",
-      "album": "Blonde on Blonde • 1966"
     }
   ]
 }
