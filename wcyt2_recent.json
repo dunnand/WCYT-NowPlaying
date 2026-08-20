@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T18:42:08",
+  "updatedAt": "2026-08-20T18:46:26",
   "now": {
-    "artist": "Garbage",
-    "title": "Stupid Girl",
-    "album": "Garbage • 1995",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "All I Want",
+    "album": "This Is Happening • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:46 pm",
-      "artist": "LCD Soundsystem",
-      "title": "All I Want"
-    },
     {
       "time": "6:52 pm",
       "artist": "Camera Obscura",
@@ -21,9 +16,20 @@
       "time": "6:56 pm",
       "artist": "Death Cab For Cutie",
       "title": "Company Calls"
+    },
+    {
+      "time": "7:00 pm",
+      "artist": "Prince",
+      "title": "Manic Monday"
     }
   ],
   "recent": [
+    {
+      "time": "6:46 pm",
+      "artist": "LCD Soundsystem",
+      "title": "All I Want",
+      "album": "This Is Happening • 2010"
+    },
     {
       "time": "6:42 pm",
       "artist": "Garbage",
@@ -167,12 +173,6 @@
       "artist": "Prince",
       "title": "Sign 'O' the Times",
       "album": "Sign o the Times • 1987"
-    },
-    {
-      "time": "5:04 pm",
-      "artist": "Jeff Buckley",
-      "title": "Lover, You Should've Come Over",
-      "album": "Grace • 1994"
     }
   ]
 }
