@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:24:07",
+  "updatedAt": "2026-08-20T17:24:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Maggie Mae",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:24 pm",
-      "artist": "The Beatles",
-      "title": "Maggie Mae"
-    },
     {
       "time": "5:24 pm",
       "artist": "Buzzcocks",
@@ -26,9 +21,20 @@
       "time": "5:31 pm",
       "artist": "Bob Dylan",
       "title": "Girl From the North Country"
+    },
+    {
+      "time": "5:34 pm",
+      "artist": "Chicago",
+      "title": "Beginnings"
     }
   ],
   "recent": [
+    {
+      "time": "5:24 pm",
+      "artist": "The Beatles",
+      "title": "Maggie Mae",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "5:20 pm",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Kamasi Washington",
       "title": "Miss Understanding",
       "album": "The Epic • 2015"
-    },
-    {
-      "time": "3:33 pm",
-      "artist": "They Might Be Giants",
-      "title": "Istanbul (Not Constantinople)",
-      "album": "Flood • 1990"
     }
   ]
 }
