@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T19:20:30",
+  "updatedAt": "2026-08-20T19:30:11",
   "now": {
-    "artist": "Funkadelic",
-    "title": "Maggot Brain",
-    "album": "Maggot Brain • 1971",
+    "artist": "Chet Atkins",
+    "title": "Yakety, Axe",
+    "album": "More of That Guitar Country • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 pm",
-      "artist": "Chet Atkins",
-      "title": "Yakety, Axe"
-    },
     {
       "time": "7:32 pm",
       "artist": "John Lennon",
@@ -26,9 +21,20 @@
       "time": "7:38 pm",
       "artist": "Kraftwerk",
       "title": "Autobahn"
+    },
+    {
+      "time": "7:50 pm",
+      "artist": "Candlebox",
+      "title": "Far Behind"
     }
   ],
   "recent": [
+    {
+      "time": "7:30 pm",
+      "artist": "Chet Atkins",
+      "title": "Yakety, Axe",
+      "album": "More of That Guitar Country • 1965"
+    },
     {
       "time": "7:20 pm",
       "artist": "Funkadelic",
@@ -172,12 +178,6 @@
       "artist": "blink-182",
       "title": "I Miss You",
       "album": "blink-182 • 2003"
-    },
-    {
-      "time": "5:45 pm",
-      "artist": "Elvis Presley",
-      "title": "Wear My Ring Around Your Neck",
-      "album": "single • 1958"
     }
   ]
 }
