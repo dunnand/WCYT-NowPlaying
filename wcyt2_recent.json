@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T06:38:29",
+  "updatedAt": "2026-08-20T06:38:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "Don't Panic",
+    "album": "Parachutes • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:38 am",
-      "artist": "Coldplay",
-      "title": "Don't Panic"
-    },
     {
       "time": "6:41 am",
       "artist": "The Beach Boys",
@@ -31,9 +26,20 @@
       "time": "6:52 am",
       "artist": "Eddie Cochran",
       "title": "C'mon Everybody"
+    },
+    {
+      "time": "6:54 am",
+      "artist": "Alicia Keys",
+      "title": "Un Thinkable"
     }
   ],
   "recent": [
+    {
+      "time": "6:38 am",
+      "artist": "Coldplay",
+      "title": "Don't Panic",
+      "album": "Parachutes • 2000"
+    },
     {
       "time": "6:35 am",
       "artist": "Three Dog Night",
@@ -177,12 +183,6 @@
       "artist": "Happenings",
       "title": "See You In September",
       "album": "The Happenings • 1966"
-    },
-    {
-      "time": "4:55 am",
-      "artist": "Broken Social Scene",
-      "title": "Stars and Sons",
-      "album": "You Forgot it in People • 2002"
     }
   ]
 }
