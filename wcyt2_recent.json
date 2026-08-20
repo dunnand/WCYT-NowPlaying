@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T07:58:48",
+  "updatedAt": "2026-08-20T08:01:34",
   "now": {
-    "artist": "Bill Haley & His Comets",
-    "title": "See You Later, Alligator",
-    "album": "Rockin' the Joint • 1958",
-    "category": "AUDIO"
+    "artist": "Animal Collective",
+    "title": "My Girls",
+    "album": "Merriweather Post Pavilion • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:01 am",
-      "artist": "Animal Collective",
-      "title": "My Girls"
-    },
     {
       "time": "8:07 am",
       "artist": "The Cascades",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:01 am",
+      "artist": "Animal Collective",
+      "title": "My Girls",
+      "album": "Merriweather Post Pavilion • 2009"
+    },
     {
       "time": "7:58 am",
       "artist": "Bill Haley & His Comets",
@@ -172,12 +173,6 @@
       "artist": "Cyndi Lauper",
       "title": "Time After Time",
       "album": "She's So Unusual • 1983"
-    },
-    {
-      "time": "6:20 am",
-      "artist": "Beastie Boys",
-      "title": "No Sleep Till Brooklyn",
-      "album": "Licensed to Ill • 1986"
     }
   ]
 }
