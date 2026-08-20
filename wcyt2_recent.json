@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T02:32:48",
+  "updatedAt": "2026-08-20T02:35:22",
   "now": {
-    "artist": "Buffalo Springfield",
-    "title": "Sit Down I Think I Love You",
-    "album": "Buffalo Springfield • 1967",
+    "artist": "Kenny Rogers",
+    "title": "Coward Of The County",
+    "album": "Kenny • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:35 am",
-      "artist": "Kenny Rogers",
-      "title": "Coward Of The County"
-    },
     {
       "time": "2:39 am",
       "artist": "Jamiroquai",
@@ -26,9 +21,20 @@
       "time": "2:48 am",
       "artist": "Eels",
       "title": "Fresh Feeling"
+    },
+    {
+      "time": "2:51 am",
+      "artist": "Cage The Elephant",
+      "title": "Ain't No Rest for the Wicked"
     }
   ],
   "recent": [
+    {
+      "time": "2:35 am",
+      "artist": "Kenny Rogers",
+      "title": "Coward Of The County",
+      "album": "Kenny • 1979"
+    },
     {
       "time": "2:32 am",
       "artist": "Buffalo Springfield",
@@ -172,12 +178,6 @@
       "artist": "Gang Starr",
       "title": "Take It Personal",
       "album": "Daily Operation • 1992"
-    },
-    {
-      "time": "1:08 am",
-      "artist": "Leon Bridges",
-      "title": "Coming Home",
-      "album": "Coming Home • 2015"
     }
   ]
 }
