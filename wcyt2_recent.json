@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T15:15:37",
+  "updatedAt": "2026-08-20T15:15:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Exodus",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Exodus"
-    },
     {
       "time": "3:20 pm",
       "artist": "Belle and Sebastian",
@@ -31,9 +26,20 @@
       "time": "3:33 pm",
       "artist": "They Might Be Giants",
       "title": "Istanbul (Not Constantinople)"
+    },
+    {
+      "time": "3:35 pm",
+      "artist": "Kamasi Washington",
+      "title": "Miss Understanding"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Exodus",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "3:12 pm",
       "artist": "Bloc Party",
@@ -177,12 +183,6 @@
       "artist": "M.I.A.",
       "title": "Borders",
       "album": "AIM • 2016"
-    },
-    {
-      "time": "1:32 pm",
-      "artist": "Sugar Ray",
-      "title": "Fly",
-      "album": "Floored • 1997"
     }
   ]
 }
