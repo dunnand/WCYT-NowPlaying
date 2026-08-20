@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:11:24",
+  "updatedAt": "2026-08-20T17:11:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Prince",
+    "title": "Sign 'O' the Times",
+    "album": "Sign o the Times • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:11 pm",
-      "artist": "Prince",
-      "title": "Sign 'O' the Times"
-    },
     {
       "time": "5:16 pm",
       "artist": "Prince and The Revolution",
@@ -26,9 +21,20 @@
       "time": "5:24 pm",
       "artist": "The Beatles",
       "title": "Maggie Mae"
+    },
+    {
+      "time": "5:24 pm",
+      "artist": "Buzzcocks",
+      "title": "Boredom"
     }
   ],
   "recent": [
+    {
+      "time": "5:11 pm",
+      "artist": "Prince",
+      "title": "Sign 'O' the Times",
+      "album": "Sign o the Times • 1987"
+    },
     {
       "time": "5:04 pm",
       "artist": "Jeff Buckley",
@@ -172,12 +178,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "If We Were Vampires",
       "album": "The Nashville Sound • 2017"
-    },
-    {
-      "time": "3:21 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Waiting for the Moon to Rise",
-      "album": "Fold Your Hands Child You Walk Like A Peasant • 2000"
     }
   ]
 }
