@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T12:37:03",
+  "updatedAt": "2026-08-20T12:42:10",
   "now": {
-    "artist": "Lush",
-    "title": "Sweetness and Light",
-    "album": "Gala • 1990",
+    "artist": "Bobby Darin",
+    "title": "Beyond the Sea",
+    "album": "single • 1950",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 pm",
-      "artist": "Bobby Darin",
-      "title": "Beyond the Sea"
-    },
     {
       "time": "12:45 pm",
       "artist": "Dinosaur Jr.",
@@ -26,9 +21,20 @@
       "time": "12:50 pm",
       "artist": "Radiohead",
       "title": "Codex"
+    },
+    {
+      "time": "12:55 pm",
+      "artist": "Metallica",
+      "title": "The Unforgiven"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 pm",
+      "artist": "Bobby Darin",
+      "title": "Beyond the Sea",
+      "album": "single • 1950"
+    },
     {
       "time": "12:37 pm",
       "artist": "Lush",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Ashes to Ashes",
       "album": "Scary Monsters • 1980"
-    },
-    {
-      "time": "10:58 am",
-      "artist": "Hootie & The Blowfish",
-      "title": "Hold My Hand",
-      "album": "Cracked Rear View • 1994"
     }
   ]
 }
