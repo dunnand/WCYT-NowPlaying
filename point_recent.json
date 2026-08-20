@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T17:06:28",
+  "updatedAt": "2026-08-20T17:09:41",
   "now": {
-    "artist": "Panda Bear",
-    "title": "Praise",
-    "album": "Sinister Grift • 2025",
+    "artist": "Elliott Smith",
+    "title": "Coming Up Roses",
+    "album": "Elliott Smith • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:09 pm",
-      "artist": "Elliott Smith",
-      "title": "Coming Up Roses"
-    },
     {
       "time": "5:13 pm",
       "artist": "Mitski",
@@ -21,9 +16,20 @@
       "time": "5:15 pm",
       "artist": "Parannoul",
       "title": "Polaris"
+    },
+    {
+      "time": "5:19 pm",
+      "artist": "The Strokes",
+      "title": "Falling Out of Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 pm",
+      "artist": "Elliott Smith",
+      "title": "Coming Up Roses",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "5:06 pm",
       "artist": "Panda Bear",
@@ -167,12 +173,6 @@
       "artist": "Iron & Wine",
       "title": "About a Bruise",
       "album": "Beast Epic • 2017"
-    },
-    {
-      "time": "3:32 pm",
-      "artist": "Khruangbin",
-      "title": "White Gloves ii",
-      "album": "The Universe Smiles Upon You ii • 2025"
     }
   ]
 }
