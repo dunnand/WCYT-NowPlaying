@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T07:37:05",
+  "updatedAt": "2026-08-20T07:45:58",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "Dance Yrself Clean",
-    "album": "This Is Happening • 2010",
-    "category": "TUNES"
+    "artist": "Neil Young",
+    "title": "On the Beach",
+    "album": "On the Beach • 1974",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:45 am",
-      "artist": "Neil Young",
-      "title": "On the Beach"
-    },
     {
       "time": "7:52 am",
       "artist": "The Roots",
@@ -26,9 +21,20 @@
       "time": "8:01 am",
       "artist": "Animal Collective",
       "title": "My Girls"
+    },
+    {
+      "time": "8:07 am",
+      "artist": "The Cascades",
+      "title": "Rhythm Of The Rain"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 am",
+      "artist": "Neil Young",
+      "title": "On the Beach",
+      "album": "On the Beach • 1974"
+    },
     {
       "time": "7:37 am",
       "artist": "LCD Soundsystem",
@@ -172,12 +178,6 @@
       "artist": "The Presidents of the United States of America",
       "title": "Video Killed The Radio Star",
       "album": "Pure Frosting • 1997"
-    },
-    {
-      "time": "6:02 am",
-      "artist": "Gorillaz",
-      "title": "Stylo feat. Mos Def and Bobby Womack",
-      "album": "Plastic Beach • 2010"
     }
   ]
 }
