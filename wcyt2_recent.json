@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:10:18",
+  "updatedAt": "2026-08-21T08:13:12",
   "now": {
-    "artist": "Four Tops",
-    "title": "Reach Out I'll Be There",
-    "album": "Reach Out • 1967",
+    "artist": "Ray Charles",
+    "title": "America The Beautiful",
+    "album": "A Message From the People • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:13 am",
-      "artist": "Ray Charles",
-      "title": "America The Beautiful"
-    },
     {
       "time": "8:16 am",
       "artist": "Superchunk",
@@ -26,9 +21,20 @@
       "time": "8:24 am",
       "artist": "The Black Keys",
       "title": "When The Lights Go Out"
+    },
+    {
+      "time": "8:28 am",
+      "artist": "Foo Fighters",
+      "title": "The Pretender"
     }
   ],
   "recent": [
+    {
+      "time": "8:13 am",
+      "artist": "Ray Charles",
+      "title": "America The Beautiful",
+      "album": "A Message From the People • 1972"
+    },
     {
       "time": "8:10 am",
       "artist": "Four Tops",
@@ -172,12 +178,6 @@
       "artist": "Bjork",
       "title": "Human Behaviour",
       "album": "Debut • 1993"
-    },
-    {
-      "time": "6:37 am",
-      "artist": "Icona Pop",
-      "title": "I Love It",
-      "album": "HA201247 6 • 2013"
     }
   ]
 }
