@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T07:09:00",
+  "updatedAt": "2026-08-21T07:12:24",
   "now": {
-    "artist": "The Decemberists",
-    "title": "Red Right Ankle",
-    "album": "Her Majesty the Decemberists • 2003",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Balad of a Thin Man",
+    "album": "Highway 61 Revisited • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:12 am",
-      "artist": "Bob Dylan",
-      "title": "Balad of a Thin Man"
-    },
     {
       "time": "7:18 am",
       "artist": "Steve Miller Band",
@@ -26,9 +21,20 @@
       "time": "7:25 am",
       "artist": "James Blake",
       "title": "Limit to Your Love"
+    },
+    {
+      "time": "7:30 am",
+      "artist": "Counting Crows",
+      "title": "Big Yellow Taxi"
     }
   ],
   "recent": [
+    {
+      "time": "7:12 am",
+      "artist": "Bob Dylan",
+      "title": "Balad of a Thin Man",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "7:09 am",
       "artist": "The Decemberists",
@@ -172,12 +178,6 @@
       "artist": "Katy Perry",
       "title": "California Gurls feat. Snoop Dogg",
       "album": "Teenage Dream • 2010"
-    },
-    {
-      "time": "5:41 am",
-      "artist": "Gary Puckett & The Union Gap",
-      "title": "Lady Willpower",
-      "album": "Incredible • 1968"
     }
   ]
 }
