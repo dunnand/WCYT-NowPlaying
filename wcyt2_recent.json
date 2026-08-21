@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T19:40:57",
+  "updatedAt": "2026-08-21T19:44:54",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "River",
-    "album": "Blue • 1971",
+    "artist": "Dion",
+    "title": "The Wanderer",
+    "album": "Runaround Sue • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 pm",
-      "artist": "Dion",
-      "title": "The Wanderer"
-    },
     {
       "time": "7:47 pm",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "7:54 pm",
       "artist": "Grateful Dead",
       "title": "One More Saturday Night"
+    },
+    {
+      "time": "7:59 pm",
+      "artist": "Dr. Octagon",
+      "title": "Blue Flowers"
     }
   ],
   "recent": [
+    {
+      "time": "7:44 pm",
+      "artist": "Dion",
+      "title": "The Wanderer",
+      "album": "Runaround Sue • 1961"
+    },
     {
       "time": "7:40 pm",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "Hands Away",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "5:59 pm",
-      "artist": "Elvis Presley",
-      "title": "Heartbreak Hotel",
-      "album": "single • 1956"
     }
   ]
 }
