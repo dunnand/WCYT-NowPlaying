@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T19:40:46",
+  "updatedAt": "2026-08-21T19:40:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "River",
+    "album": "Blue • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:40 pm",
-      "artist": "Joni Mitchell",
-      "title": "River"
-    },
     {
       "time": "7:44 pm",
       "artist": "Dion",
@@ -26,9 +21,20 @@
       "time": "7:51 pm",
       "artist": "Donovan",
       "title": "Hurdy Gurdy Man"
+    },
+    {
+      "time": "7:54 pm",
+      "artist": "Grateful Dead",
+      "title": "One More Saturday Night"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 pm",
+      "artist": "Joni Mitchell",
+      "title": "River",
+      "album": "Blue • 1971"
+    },
     {
       "time": "7:37 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Heartbreak Hotel",
       "album": "single • 1956"
-    },
-    {
-      "time": "5:55 pm",
-      "artist": "Soundgarden",
-      "title": "Fell on Black Days",
-      "album": "Superunknown • 1994"
     }
   ]
 }
