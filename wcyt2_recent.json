@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T10:59:11",
+  "updatedAt": "2026-08-21T10:59:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "London's Burning",
+    "album": "The Clash • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:59 am",
-      "artist": "The Clash",
-      "title": "London's Burning"
-    },
     {
       "time": "11:01 am",
       "artist": "Aretha Franklin",
@@ -31,9 +26,20 @@
       "time": "11:16 am",
       "artist": "Elvis Presley",
       "title": "(Let Me Be Your) Teddy Bear"
+    },
+    {
+      "time": "11:18 am",
+      "artist": "Coldplay",
+      "title": "Speed of Sound"
     }
   ],
   "recent": [
+    {
+      "time": "10:59 am",
+      "artist": "The Clash",
+      "title": "London's Burning",
+      "album": "The Clash • 1977"
+    },
     {
       "time": "10:56 am",
       "artist": "The Four Seasons",
@@ -177,12 +183,6 @@
       "artist": "Cat Stevens",
       "title": "The First Cut Is The Deepest",
       "album": "New Masters • 1967"
-    },
-    {
-      "time": "9:18 am",
-      "artist": "CAKE",
-      "title": "Comfort Eagle",
-      "album": "Comfort Eagle • 2001"
     }
   ]
 }
