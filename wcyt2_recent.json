@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T11:16:37",
+  "updatedAt": "2026-08-21T11:18:18",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "(Let Me Be Your) Teddy Bear",
-    "album": "Loving You • 1957",
+    "artist": "Coldplay",
+    "title": "Speed of Sound",
+    "album": "X&Y • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:18 am",
-      "artist": "Coldplay",
-      "title": "Speed of Sound"
-    },
     {
       "time": "11:23 am",
       "artist": "Diana Ross & The Supremes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:18 am",
+      "artist": "Coldplay",
+      "title": "Speed of Sound",
+      "album": "X&Y • 2005"
+    },
     {
       "time": "11:16 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "New Order",
       "title": "The Village",
       "album": "Power, Corruption & Lies • 1983"
-    },
-    {
-      "time": "9:36 am",
-      "artist": "A-Ha",
-      "title": "Take Me On",
-      "album": "Hunting High and Low • 1985"
     }
   ]
 }
