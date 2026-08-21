@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T11:03:52",
+  "updatedAt": "2026-08-21T11:14:35",
   "now": {
-    "artist": "The Trammps",
-    "title": "Disco Inferno",
-    "album": "Disco Inferno • 1976",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Song 2",
+    "album": "Blur • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:14 am",
-      "artist": "Blur",
-      "title": "Song 2"
-    },
     {
       "time": "11:16 am",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "11:23 am",
       "artist": "Diana Ross & The Supremes",
       "title": "My World Is Empty Without You"
+    },
+    {
+      "time": "11:25 am",
+      "artist": "The Highwomen",
+      "title": "Highwomen"
     }
   ],
   "recent": [
+    {
+      "time": "11:14 am",
+      "artist": "Blur",
+      "title": "Song 2",
+      "album": "Blur • 1997"
+    },
     {
       "time": "11:03 am",
       "artist": "The Trammps",
@@ -172,12 +178,6 @@
       "artist": "Des'ree",
       "title": "You Gotta Be",
       "album": "I Ain't Movin' • 1994"
-    },
-    {
-      "time": "9:29 am",
-      "artist": "Pavement",
-      "title": "Silence Kid",
-      "album": "Crooked Rain, Crooked Rain • 1994"
     }
   ]
 }
