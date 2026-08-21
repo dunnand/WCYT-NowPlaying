@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T16:49:17",
+  "updatedAt": "2026-08-21T16:52:12",
   "now": {
-    "artist": "Ben E. King",
-    "title": "Spanish Harlem",
-    "album": "Spanish Harlem • 1961",
+    "artist": "Rolling Stones",
+    "title": "Shattered",
+    "album": "Some Girls • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:52 pm",
-      "artist": "Rolling Stones",
-      "title": "Shattered"
-    },
     {
       "time": "4:55 pm",
       "artist": "Oasis",
@@ -26,9 +21,20 @@
       "time": "5:04 pm",
       "artist": "Paramore",
       "title": "Misery Business"
+    },
+    {
+      "time": "5:07 pm",
+      "artist": "Modest Mouse",
+      "title": "Float On"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 pm",
+      "artist": "Rolling Stones",
+      "title": "Shattered",
+      "album": "Some Girls • 1978"
+    },
     {
       "time": "4:49 pm",
       "artist": "Ben E. King",
@@ -172,12 +178,6 @@
       "artist": "The Flaming Lips",
       "title": "Suddenly Everything Has Changed",
       "album": "The Soft Bulletin • 1999"
-    },
-    {
-      "time": "3:13 pm",
-      "artist": "Radiohead",
-      "title": "Desert Island Disk",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
