@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T04:10:16",
+  "updatedAt": "2026-08-21T04:10:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Phil Collins",
+    "title": "Two Hearts",
+    "album": "Buster soundtrack • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:10 am",
-      "artist": "Phil Collins",
-      "title": "Two Hearts"
-    },
     {
       "time": "4:13 am",
       "artist": "Grimes",
@@ -26,9 +21,20 @@
       "time": "4:20 am",
       "artist": "Rufus",
       "title": "Tell Me Something Good"
+    },
+    {
+      "time": "4:24 am",
+      "artist": "Foo Fighters",
+      "title": "Best of You"
     }
   ],
   "recent": [
+    {
+      "time": "4:10 am",
+      "artist": "Phil Collins",
+      "title": "Two Hearts",
+      "album": "Buster soundtrack • 1989"
+    },
     {
       "time": "4:06 am",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Sister Sledge",
       "title": "We Are Family",
       "album": "We Are Family • 1979"
-    },
-    {
-      "time": "2:47 am",
-      "artist": "The Beach Boys",
-      "title": "Help Me, Rhonda",
-      "album": "Summer Days • 1965"
     }
   ]
 }
