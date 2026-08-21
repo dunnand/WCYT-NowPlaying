@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T18:19:04",
+  "updatedAt": "2026-08-21T18:23:39",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Shame On The Moon",
-    "album": "The Distance • 1982",
+    "artist": "Bon Jovi",
+    "title": "Wanted Dead Or Alive",
+    "album": "Slippery When Wet • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:23 pm",
-      "artist": "Bon Jovi",
-      "title": "Wanted Dead Or Alive"
-    },
     {
       "time": "6:28 pm",
       "artist": "Bleachers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:23 pm",
+      "artist": "Bon Jovi",
+      "title": "Wanted Dead Or Alive",
+      "album": "Slippery When Wet • 1986"
+    },
     {
       "time": "6:19 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +173,6 @@
       "artist": "Rolling Stones",
       "title": "Shattered",
       "album": "Some Girls • 1978"
-    },
-    {
-      "time": "4:49 pm",
-      "artist": "Ben E. King",
-      "title": "Spanish Harlem",
-      "album": "Spanish Harlem • 1961"
     }
   ]
 }
