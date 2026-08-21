@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:21:26",
+  "updatedAt": "2026-08-21T08:24:51",
   "now": {
-    "artist": "Maroon 5",
-    "title": "Moves Like Jagger feat. Christina Aguilera",
-    "album": "Hands All Over • 2011",
-    "category": "AUDIO"
+    "artist": "The Black Keys",
+    "title": "When The Lights Go Out",
+    "album": "Rubber Factory • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:24 am",
-      "artist": "The Black Keys",
-      "title": "When The Lights Go Out"
-    },
     {
       "time": "8:28 am",
       "artist": "Foo Fighters",
@@ -21,9 +16,25 @@
       "time": "8:32 am",
       "artist": "Jessie J",
       "title": "Price Tag"
+    },
+    {
+      "time": "8:36 am",
+      "artist": "U2",
+      "title": "Zoo Station"
+    },
+    {
+      "time": "8:40 am",
+      "artist": "Dinosaur Jr",
+      "title": "Feel The Pain"
     }
   ],
   "recent": [
+    {
+      "time": "8:24 am",
+      "artist": "The Black Keys",
+      "title": "When The Lights Go Out",
+      "album": "Rubber Factory • 2004"
+    },
     {
       "time": "8:21 am",
       "artist": "Maroon 5",
@@ -167,12 +178,6 @@
       "artist": "Berlin",
       "title": "The Metro",
       "album": "Pleasure Victim • 1982"
-    },
-    {
-      "time": "6:48 am",
-      "artist": "R.E.M.",
-      "title": "Harborcoat",
-      "album": "Reckoning • 1984"
     }
   ]
 }
