@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-08-21T12:04:58",
+  "updatedAt": "2026-08-21T12:09:05",
   "now": {
-    "artist": "Faith No More",
-    "title": "Midlife Crisis",
-    "album": "Angel Dust • 1992",
+    "artist": "Buddy Holly",
+    "title": "Oh, Boy!",
+    "album": "The Chirping Crickets • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:09 pm",
+      "time": "12:11 pm",
+      "artist": "Faith No More",
+      "title": "Midlife Crisis"
+    },
+    {
+      "time": "12:15 pm",
       "artist": "Buddy Holly",
       "title": "Oh, Boy!"
     },
     {
-      "time": "12:11 pm",
+      "time": "12:17 pm",
       "artist": "The Decemberists",
       "title": "Sons & Daughters"
-    },
-    {
-      "time": "12:16 pm",
-      "artist": "Barbra Streisand",
-      "title": "People"
     }
   ],
   "recent": [
+    {
+      "time": "12:09 pm",
+      "artist": "Buddy Holly",
+      "title": "Oh, Boy!",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "12:04 pm",
       "artist": "Faith No More",
@@ -167,12 +173,6 @@
       "artist": "Tom Waits",
       "title": "16 Shells From a Thirty-Ought-Six",
       "album": "Swordfishtrombones • 1983"
-    },
-    {
-      "time": "10:38 am",
-      "artist": "Deep Blue Something",
-      "title": "Breakfast At Tiffany's",
-      "album": "11th Song • 1995"
     }
   ]
 }
