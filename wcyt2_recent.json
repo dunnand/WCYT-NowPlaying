@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T03:11:43",
+  "updatedAt": "2026-08-21T03:15:39",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Spaceboy",
-    "album": "Siamese Dream • 1993",
+    "artist": "Green Day",
+    "title": "Coming Clean",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 am",
-      "artist": "Green Day",
-      "title": "Coming Clean"
-    },
     {
       "time": "3:17 am",
       "artist": "Janet Jackson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:15 am",
+      "artist": "Green Day",
+      "title": "Coming Clean",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "3:11 am",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "The Decemberists",
       "title": "Los Angeles, I'm Yours",
       "album": "Her Majesty the Decemberists • 2003"
-    },
-    {
-      "time": "1:35 am",
-      "artist": "Electric Light Orchestra",
-      "title": "Mr. Blue Sky",
-      "album": "Out of the Blue • 1977"
     }
   ]
 }
