@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T01:02:15",
+  "updatedAt": "2026-08-21T01:02:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Mr. Tambourine Man",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:02 am",
-      "artist": "Bob Dylan",
-      "title": "Mr. Tambourine Man"
-    },
     {
       "time": "1:07 am",
       "artist": "Moses Sumney",
@@ -26,9 +21,20 @@
       "time": "1:15 am",
       "artist": "Babes in Toyland",
       "title": "Sweet '69"
+    },
+    {
+      "time": "1:19 am",
+      "artist": "Daniel Johnston",
+      "title": "Walking the Cow"
     }
   ],
   "recent": [
+    {
+      "time": "1:02 am",
+      "artist": "Bob Dylan",
+      "title": "Mr. Tambourine Man",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "12:59 am",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "Pink Floyd",
       "title": "Have a Cigar",
       "album": "Wish You Were Here • 1975"
-    },
-    {
-      "time": "11:32 pm",
-      "artist": "The Beach Boys",
-      "title": "I'm So Young",
-      "album": "The Beach Boys Today! • 1965"
     }
   ]
 }
