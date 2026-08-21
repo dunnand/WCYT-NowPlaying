@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T04:44:34",
+  "updatedAt": "2026-08-21T04:45:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Dear Landlord",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "Bob Dylan",
-      "title": "Dear Landlord"
-    },
     {
       "time": "4:48 am",
       "artist": "Joey Bad",
@@ -26,9 +21,20 @@
       "time": "4:56 am",
       "artist": "Madonna",
       "title": "Take A Bow"
+    },
+    {
+      "time": "5:01 am",
+      "artist": "Run",
+      "title": "D.M.C. - It's Tricky"
     }
   ],
   "recent": [
+    {
+      "time": "4:45 am",
+      "artist": "Bob Dylan",
+      "title": "Dear Landlord",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "4:42 am",
       "artist": "be your own PET",
@@ -172,12 +178,6 @@
       "artist": "Malcolm Todd",
       "title": "Earrings",
       "album": "Sweet Boy • 2024"
-    },
-    {
-      "time": "3:21 am",
-      "artist": "The Jesus and Mary Chain",
-      "title": "Darklands",
-      "album": "Darklands • 1987"
     }
   ]
 }
