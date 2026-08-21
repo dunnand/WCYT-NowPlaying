@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T06:12:22",
+  "updatedAt": "2026-08-21T06:15:35",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "When the Sun Goes Down",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "Mumford & Sons",
+    "title": "I Will Wait",
+    "album": "HA201234 7 • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:15 am",
-      "artist": "Mumford & Sons",
-      "title": "I Will Wait"
-    },
     {
       "time": "6:20 am",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "6:25 am",
       "artist": "Ray Charles",
       "title": "Lonely Avenue"
+    },
+    {
+      "time": "6:28 am",
+      "artist": "Coldplay",
+      "title": "Trouble"
     }
   ],
   "recent": [
+    {
+      "time": "6:15 am",
+      "artist": "Mumford & Sons",
+      "title": "I Will Wait",
+      "album": "HA201234 7 • 2012"
+    },
     {
       "time": "6:12 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Joey Bad",
       "title": "Land of the Free",
       "album": "All-Amerikkkan • 2017"
-    },
-    {
-      "time": "4:45 am",
-      "artist": "Bob Dylan",
-      "title": "Dear Landlord",
-      "album": "John Wesley Harding • 1967"
     }
   ]
 }
