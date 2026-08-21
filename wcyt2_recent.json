@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T09:51:52",
+  "updatedAt": "2026-08-21T09:56:39",
   "now": {
-    "artist": "John Prine",
-    "title": "The Great Compromise",
-    "album": "Diamonds in the Rough • 1972",
+    "artist": "blink-182",
+    "title": "Always",
+    "album": "blink-182 • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 am",
-      "artist": "blink",
-      "title": "182 - Always"
-    },
     {
       "time": "10:00 am",
       "artist": "M.I.A.",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:56 am",
+      "artist": "blink-182",
+      "title": "Always",
+      "album": "blink-182 • 2003"
+    },
     {
       "time": "9:51 am",
       "artist": "John Prine",
@@ -177,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "The Pretender",
       "album": "Echoes, Silence, Patience & Grace • 2007"
-    },
-    {
-      "time": "8:24 am",
-      "artist": "The Black Keys",
-      "title": "When The Lights Go Out",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
