@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T13:59:36",
+  "updatedAt": "2026-08-21T14:02:33",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Southern Belle",
-    "album": "Elliott Smith • 1995",
-    "category": "TUNES"
+    "artist": "Danny & The Juniors",
+    "title": "At The Hop",
+    "album": "single • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:02 pm",
-      "artist": "Danny & The Juniors",
-      "title": "At The Hop"
-    },
     {
       "time": "2:05 pm",
       "artist": "Camera Obscura",
@@ -26,9 +21,20 @@
       "time": "2:11 pm",
       "artist": "Radiohead",
       "title": "Give Up the Ghost"
+    },
+    {
+      "time": "2:15 pm",
+      "artist": "Pearl Jam",
+      "title": "Present Tense"
     }
   ],
   "recent": [
+    {
+      "time": "2:02 pm",
+      "artist": "Danny & The Juniors",
+      "title": "At The Hop",
+      "album": "single • 1957"
+    },
     {
       "time": "1:59 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Joy Division",
       "title": "Isolation",
       "album": "Closer • 1980"
-    },
-    {
-      "time": "12:29 pm",
-      "artist": "Radiohead",
-      "title": "High and Dry",
-      "album": "The Bends • 1995"
     }
   ]
 }
