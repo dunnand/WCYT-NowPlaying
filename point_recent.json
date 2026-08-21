@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T12:35:34",
+  "updatedAt": "2026-08-21T12:35:56",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "American Football",
+    "title": "No Feeling",
+    "album": "American Football • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 pm",
-      "artist": "American Football",
-      "title": "No Feeling"
-    },
     {
       "time": "12:40 pm",
       "artist": "Hovvdy",
@@ -26,9 +21,20 @@
       "time": "12:48 pm",
       "artist": "Future Islands",
       "title": "Sail"
+    },
+    {
+      "time": "12:53 pm",
+      "artist": "Sampha",
+      "title": "Spirit 2.0"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 pm",
+      "artist": "American Football",
+      "title": "No Feeling",
+      "album": "American Football • 2026"
+    },
     {
       "time": "12:32 pm",
       "artist": "Beatrix",
@@ -172,12 +178,6 @@
       "artist": "Ora the Molecule",
       "title": "Prince Of The Rhythm",
       "album": "Dance Therapy • 2025"
-    },
-    {
-      "time": "11:02 am",
-      "artist": "TV on the Radio",
-      "title": "Dirtywhirl",
-      "album": "Return To Cookie Mountain • 2006"
     }
   ]
 }
