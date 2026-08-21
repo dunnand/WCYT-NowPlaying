@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T04:10:38",
+  "updatedAt": "2026-08-21T04:13:42",
   "now": {
-    "artist": "Phil Collins",
-    "title": "Two Hearts",
-    "album": "Buster soundtrack • 1989",
+    "artist": "Grimes",
+    "title": "You'll miss me when I'm not around",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:13 am",
-      "artist": "Grimes",
-      "title": "You'll miss me when I'm not around"
-    },
     {
       "time": "4:16 am",
       "artist": "Bright Eyes",
@@ -26,9 +21,20 @@
       "time": "4:24 am",
       "artist": "Foo Fighters",
       "title": "Best of You"
+    },
+    {
+      "time": "4:29 am",
+      "artist": "Mariah Carey",
+      "title": "#Beautiful"
     }
   ],
   "recent": [
+    {
+      "time": "4:13 am",
+      "artist": "Grimes",
+      "title": "You'll miss me when I'm not around",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "4:10 am",
       "artist": "Phil Collins",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Do the Evolution",
       "album": "Yield • 1998"
-    },
-    {
-      "time": "2:49 am",
-      "artist": "Sister Sledge",
-      "title": "We Are Family",
-      "album": "We Are Family • 1979"
     }
   ]
 }
