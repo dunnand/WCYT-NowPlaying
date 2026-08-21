@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T06:25:30",
+  "updatedAt": "2026-08-21T06:25:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ray Charles",
+    "title": "Lonely Avenue",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:25 am",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue"
-    },
     {
       "time": "6:28 am",
       "artist": "Coldplay",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:25 am",
+      "artist": "Ray Charles",
+      "title": "Lonely Avenue",
+      "album": "single • 1956"
+    },
     {
       "time": "6:23 am",
       "artist": "Beck",
@@ -172,12 +173,6 @@
       "artist": "Run-D.M.C.",
       "title": "It's Tricky",
       "album": "Raising Hell • 1986"
-    },
-    {
-      "time": "4:56 am",
-      "artist": "Madonna",
-      "title": "Take A Bow",
-      "album": "Bedtime Stories • 1994"
     }
   ]
 }
