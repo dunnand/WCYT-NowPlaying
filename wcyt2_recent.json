@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T03:41:49",
+  "updatedAt": "2026-08-21T03:44:34",
   "now": {
-    "artist": "Queen",
-    "title": "You're My Best Friend",
-    "album": "A Night at the Opera • 1976",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "One More Hour",
+    "album": "Dig Me Out • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "Sleater",
-      "title": "Kinney - One More Hour"
-    },
     {
       "time": "3:47 am",
       "artist": "Five Satins",
@@ -26,9 +21,20 @@
       "time": "3:52 am",
       "artist": "Bobby Vee",
       "title": "Rubber Ball"
+    },
+    {
+      "time": "3:55 am",
+      "artist": "Maggie Rogers",
+      "title": "On + Off"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "Sleater-Kinney",
+      "title": "One More Hour",
+      "album": "Dig Me Out • 1997"
+    },
     {
       "time": "3:41 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Say Yes",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "2:14 am",
-      "artist": "Chapterhouse",
-      "title": "Pearl",
-      "album": "Whirlpool • 1991"
     }
   ]
 }
