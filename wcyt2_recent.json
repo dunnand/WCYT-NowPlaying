@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T18:39:35",
+  "updatedAt": "2026-08-21T18:44:50",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "One Big Holiday",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "Bobby Vinton",
+    "title": "Mr. Lonely",
+    "album": "Roses Are Red • 1962",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:44 pm",
-      "artist": "Bobby Vinton",
-      "title": "Mr. Lonely"
-    },
     {
       "time": "6:47 pm",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "6:55 pm",
       "artist": "Lana Del Rey",
       "title": "Brooklyn Baby"
+    },
+    {
+      "time": "7:01 pm",
+      "artist": "Justin Timberlake",
+      "title": "Rock Your Body"
     }
   ],
   "recent": [
+    {
+      "time": "6:44 pm",
+      "artist": "Bobby Vinton",
+      "title": "Mr. Lonely",
+      "album": "Roses Are Red • 1962"
+    },
     {
       "time": "6:39 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "FUN.",
       "title": "Carry On",
       "album": "Some Nights • 2012"
-    },
-    {
-      "time": "5:07 pm",
-      "artist": "Modest Mouse",
-      "title": "Float On",
-      "album": "Good News for People Who Love Bad News • 2004"
     }
   ]
 }
