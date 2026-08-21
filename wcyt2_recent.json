@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T07:12:24",
+  "updatedAt": "2026-08-21T07:18:12",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Balad of a Thin Man",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Steve Miller Band",
+    "title": "Rock'n Me",
+    "album": "Fly Like an Eagle • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:18 am",
-      "artist": "Steve Miller Band",
-      "title": "Rock'n Me"
-    },
     {
       "time": "7:21 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -23,12 +18,23 @@
       "title": "Limit to Your Love"
     },
     {
-      "time": "7:30 am",
+      "time": "7:29 am",
       "artist": "Counting Crows",
       "title": "Big Yellow Taxi"
+    },
+    {
+      "time": "7:33 am",
+      "artist": "Eels",
+      "title": "I Like Birds"
     }
   ],
   "recent": [
+    {
+      "time": "7:18 am",
+      "artist": "Steve Miller Band",
+      "title": "Rock'n Me",
+      "album": "Fly Like an Eagle • 1976"
+    },
     {
       "time": "7:12 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "Promises of Eternity",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "5:44 am",
-      "artist": "Katy Perry",
-      "title": "California Gurls feat. Snoop Dogg",
-      "album": "Teenage Dream • 2010"
     }
   ]
 }
