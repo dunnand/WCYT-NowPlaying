@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T03:29:44",
+  "updatedAt": "2026-08-21T03:33:51",
   "now": {
-    "artist": "David Bowie",
-    "title": "The Jean Genie",
-    "album": "Aladdin Sane • 1973",
+    "artist": "Bob Dylan",
+    "title": "Mozambique",
+    "album": "Desire • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:33 am",
-      "artist": "Bob Dylan",
-      "title": "Mozambique"
-    },
     {
       "time": "3:36 am",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "3:41 am",
       "artist": "Queen",
       "title": "You're My Best Friend"
+    },
+    {
+      "time": "3:44 am",
+      "artist": "Sleater",
+      "title": "Kinney - One More Hour"
     }
   ],
   "recent": [
+    {
+      "time": "3:33 am",
+      "artist": "Bob Dylan",
+      "title": "Mozambique",
+      "album": "Desire • 1976"
+    },
     {
       "time": "3:29 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Fatboy Slim",
       "title": "Weapon of Choice",
       "album": "Halfway Between the Gutter & The Stars • 2000"
-    },
-    {
-      "time": "1:55 am",
-      "artist": "Radiohead",
-      "title": "Morning Mr. Magpie",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
