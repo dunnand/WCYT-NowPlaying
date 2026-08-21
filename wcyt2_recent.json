@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T11:14:35",
+  "updatedAt": "2026-08-21T11:16:37",
   "now": {
-    "artist": "Blur",
-    "title": "Song 2",
-    "album": "Blur • 1997",
-    "category": "TUNES"
+    "artist": "Elvis Presley",
+    "title": "(Let Me Be Your) Teddy Bear",
+    "album": "Loving You • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:16 am",
-      "artist": "Elvis Presley",
-      "title": "(Let Me Be Your) Teddy Bear"
-    },
     {
       "time": "11:18 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "11:25 am",
       "artist": "The Highwomen",
       "title": "Highwomen"
+    },
+    {
+      "time": "11:29 am",
+      "artist": "Portishead",
+      "title": "All Mine"
     }
   ],
   "recent": [
+    {
+      "time": "11:16 am",
+      "artist": "Elvis Presley",
+      "title": "(Let Me Be Your) Teddy Bear",
+      "album": "Loving You • 1957"
+    },
     {
       "time": "11:14 am",
       "artist": "Blur",
@@ -172,12 +178,6 @@
       "artist": "A-Ha",
       "title": "Take Me On",
       "album": "Hunting High and Low • 1985"
-    },
-    {
-      "time": "9:32 am",
-      "artist": "Des'ree",
-      "title": "You Gotta Be",
-      "album": "I Ain't Movin' • 1994"
     }
   ]
 }
