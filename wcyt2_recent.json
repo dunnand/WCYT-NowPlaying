@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-21T15:13:46",
+  "updatedAt": "2026-08-21T15:17:30",
   "now": {
-    "artist": "Radiohead",
-    "title": "Desert Island Disk",
-    "album": "A Moon Shaped Pool • 2016",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "Suddenly Everything Has Changed",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:17 pm",
-      "artist": "The Flaming Lips",
-      "title": "Suddenly Everything Has Changed"
-    },
     {
       "time": "3:21 pm",
       "artist": "Guided by Voices",
       "title": "I Am a Tree"
     },
     {
-      "time": "3:26 pm",
+      "time": "3:25 pm",
       "artist": "Violent Femmes",
       "title": "Please Do Not Go"
     },
@@ -26,9 +21,20 @@
       "time": "3:30 pm",
       "artist": "Whitney Houston",
       "title": "You Give Good Love"
+    },
+    {
+      "time": "3:34 pm",
+      "artist": "Bleachers",
+      "title": "Tiny Moves"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 pm",
+      "artist": "The Flaming Lips",
+      "title": "Suddenly Everything Has Changed",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "3:13 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "The Four Seasons",
       "title": "Rag Doll",
       "album": "Rag Doll • 1964"
-    },
-    {
-      "time": "1:42 pm",
-      "artist": "Ramones",
-      "title": "Teenage Lobotomy",
-      "album": "Rocket to Russia • 1977"
     }
   ]
 }
