@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T00:15:29",
+  "updatedAt": "2026-08-21T00:19:03",
   "now": {
-    "artist": "Katy Perry",
-    "title": "The One That Got Away",
-    "album": "Teenage Dream • 2010",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Broke",
+    "album": "Building Nothing Out of Something • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:19 am",
-      "artist": "Modest Mouse",
-      "title": "Broke"
-    },
     {
       "time": "12:22 am",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "12:29 am",
       "artist": "Cocteau Twins",
       "title": "Lorelei"
+    },
+    {
+      "time": "12:32 am",
+      "artist": "Turnstile",
+      "title": "ALIEN LOVE CALL (feat. Blood Orange)"
     }
   ],
   "recent": [
+    {
+      "time": "12:19 am",
+      "artist": "Modest Mouse",
+      "title": "Broke",
+      "album": "Building Nothing Out of Something • 1999"
+    },
     {
       "time": "12:15 am",
       "artist": "Katy Perry",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "Ain't No Grave",
       "album": "American VI: Ain't No Grave • 2010"
-    },
-    {
-      "time": "10:41 pm",
-      "artist": "Cher",
-      "title": "Believe",
-      "album": "Believe • 1998"
     }
   ]
 }
