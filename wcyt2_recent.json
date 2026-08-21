@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:32:49",
+  "updatedAt": "2026-08-21T08:36:13",
   "now": {
-    "artist": "Jessie J",
-    "title": "Price Tag",
-    "album": "Who You Are • 2011",
+    "artist": "U2",
+    "title": "Zoo Station",
+    "album": "Achtung Baby • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:36 am",
-      "artist": "U2",
-      "title": "Zoo Station"
-    },
     {
       "time": "8:40 am",
       "artist": "Dinosaur Jr",
@@ -26,9 +21,20 @@
       "time": "8:49 am",
       "artist": "Grateful Dead",
       "title": "Touch of Grey"
+    },
+    {
+      "time": "8:54 am",
+      "artist": "Thundercat",
+      "title": "Funny Thing"
     }
   ],
   "recent": [
+    {
+      "time": "8:36 am",
+      "artist": "U2",
+      "title": "Zoo Station",
+      "album": "Achtung Baby • 1991"
+    },
     {
       "time": "8:32 am",
       "artist": "Jessie J",
@@ -172,12 +178,6 @@
       "artist": "Steely Dan",
       "title": "Rikki Don't Lose That Number",
       "album": "Pretzel Logic • 1974"
-    },
-    {
-      "time": "7:00 am",
-      "artist": "Paul McCartney and Wings",
-      "title": "Let Me Roll It",
-      "album": "Band on the Run • 1973"
     }
   ]
 }
