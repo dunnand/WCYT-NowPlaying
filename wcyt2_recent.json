@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T12:36:40",
+  "updatedAt": "2026-08-21T12:40:43",
   "now": {
-    "artist": "Lionel Richie",
-    "title": "All Night Long (All Night)",
-    "album": "Cant Slow Down • 1983",
+    "artist": "Bleachers",
+    "title": "I Wanna Get Better",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 pm",
-      "artist": "Bleachers",
-      "title": "I Wanna Get Better"
-    },
     {
       "time": "12:44 pm",
       "artist": "Bruce Springsteen",
@@ -21,9 +16,20 @@
       "time": "12:51 pm",
       "artist": "Elvis Costello",
       "title": "Watching the Detectives"
+    },
+    {
+      "time": "12:55 pm",
+      "artist": "Common",
+      "title": "Love Is..."
     }
   ],
   "recent": [
+    {
+      "time": "12:40 pm",
+      "artist": "Bleachers",
+      "title": "I Wanna Get Better",
+      "album": ""
+    },
     {
       "time": "12:36 pm",
       "artist": "Lionel Richie",
@@ -167,12 +173,6 @@
       "artist": "Blur",
       "title": "Song 2",
       "album": "Blur • 1997"
-    },
-    {
-      "time": "11:03 am",
-      "artist": "The Trammps",
-      "title": "Disco Inferno",
-      "album": "Disco Inferno • 1976"
     }
   ]
 }
