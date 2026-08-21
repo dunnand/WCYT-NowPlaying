@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T18:51:40",
+  "updatedAt": "2026-08-21T18:55:04",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Polar Opposites",
-    "album": "Lonesome Crowded West • 1998",
-    "category": "TUNES"
+    "artist": "Lana Del Rey",
+    "title": "Brooklyn Baby",
+    "album": "Ultraviolence • 2014",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:55 pm",
-      "artist": "Lana Del Rey",
-      "title": "Brooklyn Baby"
-    },
     {
       "time": "7:01 pm",
       "artist": "Justin Timberlake",
@@ -21,9 +16,20 @@
       "time": "7:05 pm",
       "artist": "The Microphones",
       "title": "The Glow"
+    },
+    {
+      "time": "7:16 pm",
+      "artist": "Men I Trust",
+      "title": "Show Me How"
     }
   ],
   "recent": [
+    {
+      "time": "6:55 pm",
+      "artist": "Lana Del Rey",
+      "title": "Brooklyn Baby",
+      "album": "Ultraviolence • 2014"
+    },
     {
       "time": "6:51 pm",
       "artist": "Modest Mouse",
@@ -167,12 +173,6 @@
       "artist": "Bad Brains",
       "title": "Banned in D.C.",
       "album": "Bad Brains • 1982"
-    },
-    {
-      "time": "5:21 pm",
-      "artist": "Sebadoh",
-      "title": "Beauty Of The Ride",
-      "album": "Harmacy • 1996"
     }
   ]
 }
