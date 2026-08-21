@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:00:47",
+  "updatedAt": "2026-08-21T08:03:52",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Them Belly Full (But We Hungry)",
-    "album": "Natty Dread • 1974",
+    "artist": "Four Tops",
+    "title": "It's The Same Old Song",
+    "album": "Four Tops Second Album • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:03 am",
-      "artist": "Four Tops",
-      "title": "It's The Same Old Song"
-    },
     {
       "time": "8:06 am",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "8:13 am",
       "artist": "Ray Charles",
       "title": "America The Beautiful"
+    },
+    {
+      "time": "8:16 am",
+      "artist": "Superchunk",
+      "title": "Like a Fool"
     }
   ],
   "recent": [
+    {
+      "time": "8:03 am",
+      "artist": "Four Tops",
+      "title": "It's The Same Old Song",
+      "album": "Four Tops Second Album • 1965"
+    },
     {
       "time": "8:00 am",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Trouble",
       "album": "Parachutes • 2000"
-    },
-    {
-      "time": "6:25 am",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue",
-      "album": "single • 1956"
     }
   ]
 }
