@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T00:03:48",
+  "updatedAt": "2026-08-21T00:07:05",
   "now": {
-    "artist": "Gorillaz",
-    "title": "Rhinestone Eyes",
-    "album": "Plastic Beach • 2010",
-    "category": "AUDIO"
+    "artist": "The Avalanches",
+    "title": "Since I Left You",
+    "album": "Since I Left You • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:07 am",
-      "artist": "The Avalanches",
-      "title": "Since I Left You"
-    },
     {
       "time": "12:11 am",
       "artist": "Fray",
@@ -21,9 +16,25 @@
       "time": "12:15 am",
       "artist": "Katy Perry",
       "title": "The One That Got Away"
+    },
+    {
+      "time": "12:19 am",
+      "artist": "Modest Mouse",
+      "title": "Broke"
+    },
+    {
+      "time": "12:22 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "The King of Carrot Flowers, Parts Two & Three"
     }
   ],
   "recent": [
+    {
+      "time": "12:07 am",
+      "artist": "The Avalanches",
+      "title": "Since I Left You",
+      "album": "Since I Left You • 2000"
+    },
     {
       "time": "12:03 am",
       "artist": "Gorillaz",
@@ -167,12 +178,6 @@
       "artist": "Chubby Checker",
       "title": "Limbo Rock",
       "album": "Limbo Party • 1962"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "Flo Rida",
-      "title": "Low feat. T-Pain",
-      "album": "Mail on Sunday • 2007"
     }
   ]
 }
