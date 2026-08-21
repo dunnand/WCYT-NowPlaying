@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T04:24:52",
+  "updatedAt": "2026-08-21T04:29:08",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Best of You",
-    "album": "In Your Honor • 2005",
+    "artist": "Mariah Carey",
+    "title": "#Beautiful",
+    "album": "Me. I Am Mariah The Elusive Chanteuse • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:29 am",
-      "artist": "Mariah Carey",
-      "title": "#Beautiful"
-    },
     {
       "time": "4:32 am",
       "artist": "Fleetwood Mac",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:29 am",
+      "artist": "Mariah Carey",
+      "title": "#Beautiful",
+      "album": "Me. I Am Mariah The Elusive Chanteuse • 2014"
+    },
     {
       "time": "4:24 am",
       "artist": "Foo Fighters",
@@ -177,12 +178,6 @@
       "artist": "Paramore",
       "title": "Ain't It Fun",
       "album": "Paramore • 2013"
-    },
-    {
-      "time": "3:03 am",
-      "artist": "Dixie Cups",
-      "title": "Chapel Of Love",
-      "album": "Chapel of Love • 1964"
     }
   ]
 }
