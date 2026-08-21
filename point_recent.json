@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T22:42:04",
+  "updatedAt": "2026-08-20T22:45:28",
   "now": {
-    "artist": "The National",
-    "title": "Apartment Story",
-    "album": "Boxer • 2007",
+    "artist": "Jim James",
+    "title": "Come Again",
+    "album": "Wowed Out • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 pm",
-      "artist": "Jim James",
-      "title": "Come Again"
-    },
     {
       "time": "10:49 pm",
       "artist": "Gigi",
@@ -21,9 +16,20 @@
       "time": "10:52 pm",
       "artist": "The Tubs",
       "title": "Stoop To Me"
+    },
+    {
+      "time": "10:56 pm",
+      "artist": "Stef Chura",
+      "title": "Danny"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 pm",
+      "artist": "Jim James",
+      "title": "Come Again",
+      "album": "Wowed Out • 2026"
+    },
     {
       "time": "10:42 pm",
       "artist": "The National",
@@ -167,12 +173,6 @@
       "artist": "Panchiko",
       "title": "Failed at Math(s)",
       "album": "Failed at Math(s) • 2023"
-    },
-    {
-      "time": "9:19 pm",
-      "artist": "The Smile",
-      "title": "The Opposite",
-      "album": "A Light for Attracting Attention • 2022"
     }
   ]
 }

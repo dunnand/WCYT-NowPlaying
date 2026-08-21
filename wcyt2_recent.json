@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T22:41:40",
+  "updatedAt": "2026-08-20T22:45:28",
   "now": {
-    "artist": "Cher",
-    "title": "Believe",
-    "album": "Believe • 1998",
+    "artist": "Johnny Cash",
+    "title": "Ain't No Grave",
+    "album": "American VI: Ain't No Grave • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 pm",
-      "artist": "Johnny Cash",
-      "title": "Ain't No Grave"
-    },
     {
       "time": "10:48 pm",
       "artist": "Audioslave",
@@ -21,9 +16,20 @@
       "time": "10:53 pm",
       "artist": "Elliott Smith",
       "title": "Son of Sam"
+    },
+    {
+      "time": "10:56 pm",
+      "artist": "Neon Trees",
+      "title": "Lessons In Love (All Day, All Night)"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 pm",
+      "artist": "Johnny Cash",
+      "title": "Ain't No Grave",
+      "album": "American VI: Ain't No Grave • 2010"
+    },
     {
       "time": "10:41 pm",
       "artist": "Cher",
@@ -167,12 +173,6 @@
       "artist": "Young Marble Giants",
       "title": "N.I.T.A.",
       "album": "Colossal Youth • 1980"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Radiohead",
-      "title": "Lucky",
-      "album": "OK Computer • 1997"
     }
   ]
 }
