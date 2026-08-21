@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:06:39",
+  "updatedAt": "2026-08-21T08:10:18",
   "now": {
-    "artist": "Elton John",
-    "title": "Candle in the Wind",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Four Tops",
+    "title": "Reach Out I'll Be There",
+    "album": "Reach Out • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:10 am",
-      "artist": "Four Tops",
-      "title": "Reach Out I'll Be There"
-    },
     {
       "time": "8:13 am",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "8:21 am",
       "artist": "Maroon 5",
       "title": "Moves Like Jagger feat. Christina Aguilera"
+    },
+    {
+      "time": "8:24 am",
+      "artist": "The Black Keys",
+      "title": "When The Lights Go Out"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 am",
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There",
+      "album": "Reach Out • 1967"
+    },
     {
       "time": "8:06 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Icona Pop",
       "title": "I Love It",
       "album": "HA201247 6 • 2013"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Bob Dylan",
-      "title": "Masters of War",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
