@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T02:32:04",
+  "updatedAt": "2026-08-21T02:32:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "KISS",
+    "title": "Strutter",
+    "album": "Kiss • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:32 am",
-      "artist": "KISS",
-      "title": "Strutter"
-    },
     {
       "time": "2:35 am",
       "artist": "Crosby, Stills & Nash",
@@ -26,9 +21,20 @@
       "time": "2:46 am",
       "artist": "The Beach Boys",
       "title": "Help Me, Rhonda"
+    },
+    {
+      "time": "2:49 am",
+      "artist": "Sister Sledge",
+      "title": "We Are Family"
     }
   ],
   "recent": [
+    {
+      "time": "2:32 am",
+      "artist": "KISS",
+      "title": "Strutter",
+      "album": "Kiss • 1974"
+    },
     {
       "time": "2:29 am",
       "artist": "Nintendo",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Rock & Roll Music",
       "album": "One Dozen Berrys • 1958"
-    },
-    {
-      "time": "12:52 am",
-      "artist": "Weezer",
-      "title": "El Scorcho",
-      "album": "Pinkerton • 1996"
     }
   ]
 }
