@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T00:52:39",
+  "updatedAt": "2026-08-21T00:56:26",
   "now": {
-    "artist": "Weezer",
-    "title": "El Scorcho",
-    "album": "Pinkerton • 1996",
+    "artist": "Chuck Berry",
+    "title": "Rock & Roll Music",
+    "album": "One Dozen Berrys • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:56 am",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music"
-    },
     {
       "time": "12:58 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "1:07 am",
       "artist": "Moses Sumney",
       "title": "Cut Me"
+    },
+    {
+      "time": "1:12 am",
+      "artist": "Blessid Union of Souls",
+      "title": "Hey Leonardo"
     }
   ],
   "recent": [
+    {
+      "time": "12:56 am",
+      "artist": "Chuck Berry",
+      "title": "Rock & Roll Music",
+      "album": "One Dozen Berrys • 1958"
+    },
     {
       "time": "12:52 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Joni Mitchell",
       "title": "The Hissing of Summer Lawns",
       "album": "The Hissing of Summer Lawns • 1975"
-    },
-    {
-      "time": "11:26 pm",
-      "artist": "Jeannie C. Riley",
-      "title": "Harper Valley P.T.A.",
-      "album": "Harper Valley P.T.A. • 1968"
     }
   ]
 }
