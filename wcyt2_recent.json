@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T12:44:08",
+  "updatedAt": "2026-08-21T12:44:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Backstreets",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:44 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Backstreets"
-    },
     {
       "time": "12:51 pm",
       "artist": "Elvis Costello",
@@ -26,9 +21,20 @@
       "time": "12:59 pm",
       "artist": "Browns",
       "title": "The Old Lamplighter"
+    },
+    {
+      "time": "1:01 pm",
+      "artist": "James Taylor",
+      "title": "Your Smiling Face"
     }
   ],
   "recent": [
+    {
+      "time": "12:44 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Backstreets",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "12:40 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "(Let Me Be Your) Teddy Bear",
       "album": "Loving You • 1957"
-    },
-    {
-      "time": "11:14 am",
-      "artist": "Blur",
-      "title": "Song 2",
-      "album": "Blur • 1997"
     }
   ]
 }
