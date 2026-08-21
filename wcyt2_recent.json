@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T21:09:13",
+  "updatedAt": "2026-08-20T21:11:56",
   "now": {
-    "artist": "Pavement",
-    "title": "Trigger Cut",
-    "album": "Slanted and Enchanted • 1992",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "Lucky",
+    "album": "OK Computer • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Radiohead",
-      "title": "Lucky"
-    },
     {
       "time": "9:16 pm",
       "artist": "Young Marble Giants",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Radiohead",
+      "title": "Lucky",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "9:09 pm",
       "artist": "Pavement",
@@ -172,12 +173,6 @@
       "artist": "John Lennon",
       "title": "Imagine",
       "album": "Imagine • 1971"
-    },
-    {
-      "time": "7:30 pm",
-      "artist": "Chet Atkins",
-      "title": "Yakety, Axe",
-      "album": "More of That Guitar Country • 1965"
     }
   ]
 }
