@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T01:35:01",
+  "updatedAt": "2026-08-21T01:40:00",
   "now": {
-    "artist": "Electric Light Orchestra",
-    "title": "Mr. Blue Sky",
-    "album": "Out of the Blue • 1977",
-    "category": "AUDIO"
+    "artist": "The Decemberists",
+    "title": "Los Angeles, I'm Yours",
+    "album": "Her Majesty the Decemberists • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:39 am",
-      "artist": "The Decemberists",
-      "title": "Los Angeles, I'm Yours"
-    },
     {
       "time": "1:44 am",
       "artist": "Lady Gaga",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:40 am",
+      "artist": "The Decemberists",
+      "title": "Los Angeles, I'm Yours",
+      "album": "Her Majesty the Decemberists • 2003"
+    },
     {
       "time": "1:35 am",
       "artist": "Electric Light Orchestra",
@@ -177,12 +178,6 @@
       "artist": "Fray",
       "title": "Over My Head (Cable Car)",
       "album": "How to Save a Life • 2004"
-    },
-    {
-      "time": "12:07 am",
-      "artist": "The Avalanches",
-      "title": "Since I Left You",
-      "album": "Since I Left You • 2000"
     }
   ]
 }
