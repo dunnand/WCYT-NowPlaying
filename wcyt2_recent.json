@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T14:11:18",
+  "updatedAt": "2026-08-21T14:15:56",
   "now": {
-    "artist": "Radiohead",
-    "title": "Give Up the Ghost",
-    "album": "The King of Limbs • 2011",
+    "artist": "Pearl Jam",
+    "title": "Present Tense",
+    "album": "No Code • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:15 pm",
-      "artist": "Pearl Jam",
-      "title": "Present Tense"
-    },
     {
       "time": "2:21 pm",
       "artist": "The Smashing Pumpkins",
@@ -21,9 +16,20 @@
       "time": "2:25 pm",
       "artist": "Rod Stewart",
       "title": "Downtown Train"
+    },
+    {
+      "time": "2:30 pm",
+      "artist": "The Fall",
+      "title": "The Classical"
     }
   ],
   "recent": [
+    {
+      "time": "2:15 pm",
+      "artist": "Pearl Jam",
+      "title": "Present Tense",
+      "album": "No Code • 1996"
+    },
     {
       "time": "2:11 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Elvis Costello",
       "title": "Watching the Detectives",
       "album": "single • 1977"
-    },
-    {
-      "time": "12:44 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Backstreets",
-      "album": "Born to Run • 1975"
     }
   ]
 }
