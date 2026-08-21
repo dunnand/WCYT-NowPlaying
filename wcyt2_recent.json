@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T08:56:47",
+  "updatedAt": "2026-08-21T08:59:49",
   "now": {
-    "artist": "The Selecter",
-    "title": "On My Radio",
-    "album": "single • 1979",
+    "artist": "Don Gibson",
+    "title": "Lonesome Number One",
+    "album": "I Wrote a Song • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 am",
-      "artist": "Don Gibson",
-      "title": "Lonesome Number One"
-    },
     {
       "time": "9:02 am",
       "artist": "Bee Gees",
@@ -26,9 +21,20 @@
       "time": "9:09 am",
       "artist": "Doobie Brothers",
       "title": "Black Water"
+    },
+    {
+      "time": "9:13 am",
+      "artist": "Chad & Jeremy",
+      "title": "A Summer Song"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 am",
+      "artist": "Don Gibson",
+      "title": "Lonesome Number One",
+      "album": "I Wrote a Song • 1961"
+    },
     {
       "time": "8:56 am",
       "artist": "The Selecter",
@@ -172,12 +178,6 @@
       "artist": "Counting Crows",
       "title": "Big Yellow Taxi",
       "album": "Hard Candy • 2002"
-    },
-    {
-      "time": "7:25 am",
-      "artist": "James Blake",
-      "title": "Limit to Your Love",
-      "album": "James Blake • 2011"
     }
   ]
 }
