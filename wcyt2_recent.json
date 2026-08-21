@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T19:47:39",
+  "updatedAt": "2026-08-21T19:47:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Brain Damage",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 pm",
-      "artist": "Pink Floyd",
-      "title": "Brain Damage"
-    },
     {
       "time": "7:51 pm",
       "artist": "Donovan",
@@ -31,9 +26,20 @@
       "time": "8:02 pm",
       "artist": "Johnny Cash",
       "title": "Don't Take Your Guns To Town"
+    },
+    {
+      "time": "8:05 pm",
+      "artist": "Modest Mouse",
+      "title": "Tiny Cities Made of Ashes"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 pm",
+      "artist": "Pink Floyd",
+      "title": "Brain Damage",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "7:44 pm",
       "artist": "Dion",
@@ -177,12 +183,6 @@
       "artist": "The Beach Boys",
       "title": "409",
       "album": "Surfin' Safari • 1962"
-    },
-    {
-      "time": "6:02 pm",
-      "artist": "Interpol",
-      "title": "Hands Away",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
