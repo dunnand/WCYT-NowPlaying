@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T19:20:00",
+  "updatedAt": "2026-08-21T19:24:38",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Two-Headed Boy, Part Two",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "My Name Is Jonas",
+    "album": "Weezer • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:24 pm",
-      "artist": "Weezer",
-      "title": "My Name Is Jonas"
-    },
     {
       "time": "7:27 pm",
       "artist": "Boogie Down Productions",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:24 pm",
+      "artist": "Weezer",
+      "title": "My Name Is Jonas",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "7:20 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "T. Rex",
       "title": "Jeepster",
       "album": "Electric Warrior • 1971"
-    },
-    {
-      "time": "5:36 pm",
-      "artist": "Bob Dylan",
-      "title": "Chimes of Freedom",
-      "album": "Chimes of Freedom • 1964"
     }
   ]
 }
