@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T19:24:38",
+  "updatedAt": "2026-08-21T19:27:54",
   "now": {
-    "artist": "Weezer",
-    "title": "My Name Is Jonas",
-    "album": "Weezer • 1994",
+    "artist": "Boogie Down Productions",
+    "title": "South Bronx",
+    "album": "Criminal Minded • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:27 pm",
-      "artist": "Boogie Down Productions",
-      "title": "South Bronx"
-    },
     {
       "time": "7:33 pm",
       "artist": "Dead Kennedys",
@@ -21,9 +16,20 @@
       "time": "7:37 pm",
       "artist": "Bleachers",
       "title": "Rollercoaster"
+    },
+    {
+      "time": "7:40 pm",
+      "artist": "Joni Mitchell",
+      "title": "River"
     }
   ],
   "recent": [
+    {
+      "time": "7:27 pm",
+      "artist": "Boogie Down Productions",
+      "title": "South Bronx",
+      "album": "Criminal Minded • 1987"
+    },
     {
       "time": "7:24 pm",
       "artist": "Weezer",
@@ -167,12 +173,6 @@
       "artist": "Eddie Holman",
       "title": "Hey There Lonely Girl",
       "album": "I Love You • 1969"
-    },
-    {
-      "time": "5:43 pm",
-      "artist": "T. Rex",
-      "title": "Jeepster",
-      "album": "Electric Warrior • 1971"
     }
   ]
 }
