@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T20:57:10",
+  "updatedAt": "2026-08-20T20:57:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Amy Winehouse",
+    "title": "You Know I'm No Good",
+    "album": "Back to Black • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 pm",
-      "artist": "Amy Winehouse",
-      "title": "You Know I'm No Good"
-    },
     {
       "time": "9:01 pm",
       "artist": "Amerie",
@@ -26,9 +21,20 @@
       "time": "9:09 pm",
       "artist": "Pavement",
       "title": "Trigger Cut"
+    },
+    {
+      "time": "9:11 pm",
+      "artist": "Radiohead",
+      "title": "Lucky"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 pm",
+      "artist": "Amy Winehouse",
+      "title": "You Know I'm No Good",
+      "album": "Back to Black • 2006"
+    },
     {
       "time": "8:54 pm",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "Tears For Fears",
       "title": "Head Over Heels",
       "album": "Songs from the Big Chair • 1985"
-    },
-    {
-      "time": "7:11 pm",
-      "artist": "Rolling Stones",
-      "title": "Hang Fire",
-      "album": "Tattoo You • 1982"
     }
   ]
 }
