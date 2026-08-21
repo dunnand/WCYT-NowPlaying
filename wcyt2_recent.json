@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T14:21:37",
+  "updatedAt": "2026-08-21T14:25:34",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Rocket",
-    "album": "Siamese Dream • 1993",
+    "artist": "Rod Stewart",
+    "title": "Downtown Train",
+    "album": "Storyteller • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:25 pm",
-      "artist": "Rod Stewart",
-      "title": "Downtown Train"
-    },
     {
       "time": "2:30 pm",
       "artist": "The Fall",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:25 pm",
+      "artist": "Rod Stewart",
+      "title": "Downtown Train",
+      "album": "Storyteller • 1989"
+    },
     {
       "time": "2:21 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "Browns",
       "title": "The Old Lamplighter",
       "album": "Town & Country • 1960"
-    },
-    {
-      "time": "12:55 pm",
-      "artist": "Common",
-      "title": "Love Is...",
-      "album": "Be • 2005"
     }
   ]
 }
