@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T23:35:16",
+  "updatedAt": "2026-08-20T23:40:05",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Have a Cigar",
-    "album": "Wish You Were Here • 1975",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Absolutely Cuckoo",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:40 pm",
-      "artist": "The Magnetic Fields",
-      "title": "Absolutely Cuckoo"
-    },
     {
       "time": "11:41 pm",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "11:44 pm",
       "artist": "Audioslave",
       "title": "Like a Stone"
+    },
+    {
+      "time": "11:49 pm",
+      "artist": "Bobby Bare",
+      "title": "Four Strong Winds"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 pm",
+      "artist": "The Magnetic Fields",
+      "title": "Absolutely Cuckoo",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "11:35 pm",
       "artist": "Pink Floyd",
@@ -167,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Geek U.S.A.",
       "album": "Siamese Dream • 1993"
-    },
-    {
-      "time": "10:03 pm",
-      "artist": "Pearl Jam",
-      "title": "Rearviewmirror",
-      "album": "Vs. • 1993"
     }
   ]
 }
