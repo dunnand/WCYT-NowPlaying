@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T04:20:13",
+  "updatedAt": "2026-08-21T04:20:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rufus",
+    "title": "Tell Me Something Good",
+    "album": "Rags to Rufus • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:20 am",
-      "artist": "Rufus",
-      "title": "Tell Me Something Good"
-    },
     {
       "time": "4:24 am",
       "artist": "Foo Fighters",
@@ -31,9 +26,20 @@
       "time": "4:36 am",
       "artist": "Yo La Tengo",
       "title": "Sugarcube"
+    },
+    {
+      "time": "4:39 am",
+      "artist": "Frankie Lymon & The Teenagers",
+      "title": "Why Do Fools Fall In Love"
     }
   ],
   "recent": [
+    {
+      "time": "4:20 am",
+      "artist": "Rufus",
+      "title": "Tell Me Something Good",
+      "album": "Rags to Rufus • 1974"
+    },
     {
       "time": "4:16 am",
       "artist": "Bright Eyes",
@@ -177,12 +183,6 @@
       "artist": "Daft Punk",
       "title": "Something About Us",
       "album": "Discovery • 2001"
-    },
-    {
-      "time": "2:57 am",
-      "artist": "Patsy Cline",
-      "title": "Walkin' After Midnight",
-      "album": "Patsy Cline • 1957"
     }
   ]
 }
