@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T02:19:53",
+  "updatedAt": "2026-08-21T02:22:08",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Say Yes",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Galaxie 500",
+    "title": "Tugboat",
+    "album": "Today • 1988",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:22 am",
-      "artist": "Galaxie 500",
-      "title": "Tugboat"
-    },
     {
       "time": "2:26 am",
       "artist": "Huey Lewis & The News",
@@ -21,9 +16,20 @@
       "time": "2:29 am",
       "artist": "Nintendo",
       "title": "SNES Donut Plains (Super Mario Kart)"
+    },
+    {
+      "time": "2:32 am",
+      "artist": "KISS",
+      "title": "Strutter"
     }
   ],
   "recent": [
+    {
+      "time": "2:22 am",
+      "artist": "Galaxie 500",
+      "title": "Tugboat",
+      "album": "Today • 1988"
+    },
     {
       "time": "2:19 am",
       "artist": "Elliott Smith",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "All Along the Watchtower",
       "album": "John Wesley Harding • 1967"
-    },
-    {
-      "time": "12:41 am",
-      "artist": "Curtis Mayfield",
-      "title": "Freddie's Dead (Theme from 'Superfly')",
-      "album": "Super Fly • 1972"
     }
   ]
 }
