@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T16:45:10",
+  "updatedAt": "2026-08-21T16:49:17",
   "now": {
-    "artist": "Les Savy Fav",
-    "title": "The Sweat Descends",
-    "album": "Inches • 2004",
-    "category": "TUNES"
+    "artist": "Ben E. King",
+    "title": "Spanish Harlem",
+    "album": "Spanish Harlem • 1961",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:49 pm",
-      "artist": "Ben E. King",
-      "title": "Spanish Harlem"
-    },
     {
       "time": "4:52 pm",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "5:00 pm",
       "artist": "Pharrell Williams",
       "title": "Happy"
+    },
+    {
+      "time": "5:04 pm",
+      "artist": "Paramore",
+      "title": "Misery Business"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 pm",
+      "artist": "Ben E. King",
+      "title": "Spanish Harlem",
+      "album": "Spanish Harlem • 1961"
+    },
     {
       "time": "4:45 pm",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Desert Island Disk",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "3:09 pm",
-      "artist": "Grandaddy",
-      "title": "Now It's On",
-      "album": "Sumday • 2003"
     }
   ]
 }
