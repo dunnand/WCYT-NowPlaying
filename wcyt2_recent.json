@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T12:02:24",
+  "updatedAt": "2026-08-21T12:04:58",
   "now": {
-    "artist": "ABBA",
-    "title": "Waterloo",
-    "album": "Waterloo • 1974",
+    "artist": "Faith No More",
+    "title": "Midlife Crisis",
+    "album": "Angel Dust • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 pm",
-      "artist": "Faith No More",
-      "title": "Midlife Crisis"
-    },
     {
       "time": "12:09 pm",
       "artist": "Buddy Holly",
@@ -21,9 +16,20 @@
       "time": "12:11 pm",
       "artist": "The Decemberists",
       "title": "Sons & Daughters"
+    },
+    {
+      "time": "12:16 pm",
+      "artist": "Barbra Streisand",
+      "title": "People"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 pm",
+      "artist": "Faith No More",
+      "title": "Midlife Crisis",
+      "album": "Angel Dust • 1992"
+    },
     {
       "time": "12:02 pm",
       "artist": "ABBA",
@@ -167,12 +173,6 @@
       "artist": "Deep Blue Something",
       "title": "Breakfast At Tiffany's",
       "album": "11th Song • 1995"
-    },
-    {
-      "time": "10:35 am",
-      "artist": "Big Audio Dynamite II",
-      "title": "Rush",
-      "album": "The Globe • 1991"
     }
   ]
 }
