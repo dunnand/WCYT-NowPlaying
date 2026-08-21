@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T19:47:51",
+  "updatedAt": "2026-08-21T19:51:38",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Brain Damage",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "Donovan",
+    "title": "Hurdy Gurdy Man",
+    "album": "The Hurdy Gurdy Man • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 pm",
-      "artist": "Donovan",
-      "title": "Hurdy Gurdy Man"
-    },
     {
       "time": "7:54 pm",
       "artist": "Grateful Dead",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:51 pm",
+      "artist": "Donovan",
+      "title": "Hurdy Gurdy Man",
+      "album": "The Hurdy Gurdy Man • 1968"
+    },
     {
       "time": "7:47 pm",
       "artist": "Pink Floyd",
@@ -177,12 +178,6 @@
       "artist": "Mike Posner",
       "title": "Cooler Than Me",
       "album": "31 Minutes to Takeoff • 2010"
-    },
-    {
-      "time": "6:05 pm",
-      "artist": "The Beach Boys",
-      "title": "409",
-      "album": "Surfin' Safari • 1962"
     }
   ]
 }
