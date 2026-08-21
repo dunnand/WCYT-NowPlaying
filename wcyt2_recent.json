@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-20T23:29:55",
+  "updatedAt": "2026-08-20T23:32:52",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "The Hissing of Summer Lawns",
-    "album": "The Hissing of Summer Lawns • 1975",
+    "artist": "The Beach Boys",
+    "title": "I'm So Young",
+    "album": "The Beach Boys Today! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:32 pm",
-      "artist": "The Beach Boys",
-      "title": "I'm So Young"
-    },
     {
       "time": "11:35 pm",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "11:41 pm",
       "artist": "Elvis Presley",
       "title": "Love Me Tender"
+    },
+    {
+      "time": "11:44 pm",
+      "artist": "Audioslave",
+      "title": "Like a Stone"
     }
   ],
   "recent": [
+    {
+      "time": "11:32 pm",
+      "artist": "The Beach Boys",
+      "title": "I'm So Young",
+      "album": "The Beach Boys Today! • 1965"
+    },
     {
       "time": "11:29 pm",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Leon Bridges",
       "title": "River",
       "album": "Coming Home • 2015"
-    },
-    {
-      "time": "9:56 pm",
-      "artist": "Barbara Lewis",
-      "title": "Hello Stranger",
-      "album": "Hello Stranger • 1963"
     }
   ]
 }
