@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T10:47:12",
+  "updatedAt": "2026-08-21T10:51:07",
   "now": {
-    "artist": "Billy Joel",
-    "title": "You May Be Right",
-    "album": "Glass Houses • 1980",
+    "artist": "Taylor Swift",
+    "title": "Mastermind",
+    "album": "Midnights • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:51 am",
-      "artist": "Taylor Swift",
-      "title": "Mastermind"
-    },
     {
       "time": "10:54 am",
       "artist": "Led Zeppelin",
@@ -21,9 +16,20 @@
       "time": "10:56 am",
       "artist": "The Four Seasons",
       "title": "Candy Girl"
+    },
+    {
+      "time": "10:59 am",
+      "artist": "The Clash",
+      "title": "London's Burning"
     }
   ],
   "recent": [
+    {
+      "time": "10:51 am",
+      "artist": "Taylor Swift",
+      "title": "Mastermind",
+      "album": "Midnights • 2022"
+    },
     {
       "time": "10:47 am",
       "artist": "Billy Joel",
@@ -167,12 +173,6 @@
       "artist": "Chad & Jeremy",
       "title": "A Summer Song",
       "album": "Sing for You / Second Album • 1992"
-    },
-    {
-      "time": "9:09 am",
-      "artist": "Doobie Brothers",
-      "title": "Black Water",
-      "album": "What Were Once Vices Are Now Habits • 1974"
     }
   ]
 }
