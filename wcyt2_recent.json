@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T02:32:36",
+  "updatedAt": "2026-08-21T02:35:40",
   "now": {
-    "artist": "KISS",
-    "title": "Strutter",
-    "album": "Kiss • 1974",
+    "artist": "Crosby, Stills & Nash",
+    "title": "Suite: Judy Blue Eyes",
+    "album": "Crosby, Stills & Nash • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:35 am",
-      "artist": "Crosby, Stills & Nash",
-      "title": "Suite: Judy Blue Eyes"
-    },
     {
       "time": "2:43 am",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "2:49 am",
       "artist": "Sister Sledge",
       "title": "We Are Family"
+    },
+    {
+      "time": "2:53 am",
+      "artist": "Pearl Jam",
+      "title": "Do the Evolution"
     }
   ],
   "recent": [
+    {
+      "time": "2:35 am",
+      "artist": "Crosby, Stills & Nash",
+      "title": "Suite: Judy Blue Eyes",
+      "album": "Crosby, Stills & Nash • 1969"
+    },
     {
       "time": "2:32 am",
       "artist": "KISS",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Think I'm in Love",
       "album": "The Information • 2006"
-    },
-    {
-      "time": "12:56 am",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music",
-      "album": "One Dozen Berrys • 1958"
     }
   ]
 }
