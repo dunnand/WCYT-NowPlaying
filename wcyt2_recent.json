@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T19:33:13",
+  "updatedAt": "2026-08-22T19:35:40",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Punch and Judy",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "The Crickets",
+    "title": "Not Fade Away",
+    "album": "The Chirping Crickets • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:35 pm",
-      "artist": "The Crickets",
-      "title": "Not Fade Away"
-    },
     {
       "time": "7:37 pm",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "7:44 pm",
       "artist": "Radiohead",
       "title": "Glass Eyes"
+    },
+    {
+      "time": "7:47 pm",
+      "artist": "Pearl Jam",
+      "title": "Last Kiss"
     }
   ],
   "recent": [
+    {
+      "time": "7:35 pm",
+      "artist": "The Crickets",
+      "title": "Not Fade Away",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "7:33 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "DEVO",
       "title": "Girl U Want",
       "album": "Freedom of Choice • 1980"
-    },
-    {
-      "time": "6:00 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Under The Bridge",
-      "album": "Blood Sugar Sex Magik • 1992"
     }
   ]
 }
