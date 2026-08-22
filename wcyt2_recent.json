@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T16:53:32",
+  "updatedAt": "2026-08-22T16:58:18",
   "now": {
-    "artist": "Radiohead",
-    "title": "Decks Dark",
-    "album": "A Moon Shaped Pool • 2016",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Deadweight",
+    "album": "Odelay • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:58 pm",
-      "artist": "Beck",
-      "title": "Deadweight"
-    },
     {
       "time": "5:02 pm",
       "artist": "Bjork",
@@ -26,9 +21,20 @@
       "time": "5:12 pm",
       "artist": "Boston",
       "title": "Amanda"
+    },
+    {
+      "time": "5:16 pm",
+      "artist": "The Killers",
+      "title": "Bright Lights"
     }
   ],
   "recent": [
+    {
+      "time": "4:58 pm",
+      "artist": "Beck",
+      "title": "Deadweight",
+      "album": "Odelay • 1996"
+    },
     {
       "time": "4:53 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Johnny Rivers",
       "title": "Secret Agent Man",
       "album": "...And I Know You Wanna Dance • 1966"
-    },
-    {
-      "time": "3:18 pm",
-      "artist": "Paul McCartney and Wings",
-      "title": "Jet",
-      "album": "Band on the Run • 1973"
     }
   ]
 }
