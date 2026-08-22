@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T16:06:21",
+  "updatedAt": "2026-08-22T16:06:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Avengers",
+    "title": "We Are the One",
+    "album": "Avengers • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:06 pm",
-      "artist": "Avengers",
-      "title": "We Are the One"
-    },
     {
       "time": "4:09 pm",
       "artist": "Toosii",
@@ -26,9 +21,20 @@
       "time": "4:17 pm",
       "artist": "The Clash",
       "title": "Clampdown"
+    },
+    {
+      "time": "4:21 pm",
+      "artist": "Interpol",
+      "title": "Roland"
     }
   ],
   "recent": [
+    {
+      "time": "4:06 pm",
+      "artist": "Avengers",
+      "title": "We Are the One",
+      "album": "Avengers • 1983"
+    },
     {
       "time": "4:01 pm",
       "artist": "Gang Starr",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Dancing Days",
       "album": "Houses of the Holy • 1973"
-    },
-    {
-      "time": "2:24 pm",
-      "artist": "The McCoys",
-      "title": "Hang On Sloopy",
-      "album": "Hang On Sloopy • 1965"
     }
   ]
 }
