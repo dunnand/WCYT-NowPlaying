@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T03:56:32",
+  "updatedAt": "2026-08-22T03:59:17",
   "now": {
-    "artist": "Jerry Lee Lewis",
-    "title": "Whole Lotta Shakin' Going on",
-    "album": "Single • 1957",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "I Don't Believe You",
+    "album": "i • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "The Magnetic Fields",
-      "title": "I Don't Believe You"
-    },
     {
       "time": "4:03 am",
       "artist": "The Barbarians",
@@ -21,9 +16,20 @@
       "time": "4:05 am",
       "artist": "Kendrick Lamar",
       "title": "Alright"
+    },
+    {
+      "time": "4:09 am",
+      "artist": "Radiohead",
+      "title": "Karma Police"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 am",
+      "artist": "The Magnetic Fields",
+      "title": "I Don't Believe You",
+      "album": "i • 2004"
+    },
     {
       "time": "3:56 am",
       "artist": "Jerry Lee Lewis",
@@ -167,12 +173,6 @@
       "artist": "Nirvana",
       "title": "Negative Creep",
       "album": "Bleach • 1989"
-    },
-    {
-      "time": "2:22 am",
-      "artist": "Def Leppard",
-      "title": "Have You Ever Needed Someone So Bad",
-      "album": "Adrenalize • 1992"
     }
   ]
 }
