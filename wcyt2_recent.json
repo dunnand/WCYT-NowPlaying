@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T08:38:27",
+  "updatedAt": "2026-08-22T08:40:52",
   "now": {
-    "artist": "Sam Cooke",
-    "title": "Chain Gang",
-    "album": "Swing Low • 1961",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Soul Rebel",
+    "album": "Soul Rebels • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Soul Rebel"
-    },
     {
       "time": "8:44 am",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "8:50 am",
       "artist": "Okkervil River",
       "title": "For Real"
+    },
+    {
+      "time": "8:55 am",
+      "artist": "Otis Redding",
+      "title": "Pain in My Heart"
     }
   ],
   "recent": [
+    {
+      "time": "8:40 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Soul Rebel",
+      "album": "Soul Rebels • 1970"
+    },
     {
       "time": "8:38 am",
       "artist": "Sam Cooke",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Far, Far Away",
       "album": "Being There • 1996"
-    },
-    {
-      "time": "7:05 am",
-      "artist": "Post Malone",
-      "title": "Sunflower",
-      "album": "Spider-Man: Into the Spider-Verse soundtrack • 2018"
     }
   ]
 }
