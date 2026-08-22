@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T11:32:34",
+  "updatedAt": "2026-08-22T11:36:48",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Simple Twist of Fate",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "Beat Happening",
+    "title": "Godsend",
+    "album": "You Turn Me On • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:36 am",
-      "artist": "Beat Happening",
-      "title": "Godsend"
-    },
     {
       "time": "11:46 am",
       "artist": "Chordettes",
@@ -21,9 +16,20 @@
       "time": "11:49 am",
       "artist": "Gorillaz",
       "title": "Rock the House"
+    },
+    {
+      "time": "11:53 am",
+      "artist": "Peter, Paul & Mary",
+      "title": "Puff The Magic Dragon"
     }
   ],
   "recent": [
+    {
+      "time": "11:36 am",
+      "artist": "Beat Happening",
+      "title": "Godsend",
+      "album": "You Turn Me On • 1992"
+    },
     {
       "time": "11:32 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Aerosmith",
       "title": "Crazy",
       "album": "Get a Grip • 1994"
-    },
-    {
-      "time": "9:56 am",
-      "artist": "Madonna",
-      "title": "Beautiful Stranger",
-      "album": "Austin Powers: The Spy Who Shagged Me Soundtrack • 1999"
     }
   ]
 }
