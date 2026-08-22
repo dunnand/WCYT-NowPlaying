@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T15:18:16",
+  "updatedAt": "2026-08-22T15:22:21",
   "now": {
-    "artist": "Paul McCartney and Wings",
-    "title": "Jet",
-    "album": "Band on the Run • 1973",
+    "artist": "Johnny Rivers",
+    "title": "Secret Agent Man",
+    "album": "...And I Know You Wanna Dance • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 pm",
-      "artist": "Johnny Rivers",
-      "title": "Secret Agent Man"
-    },
     {
       "time": "3:25 pm",
       "artist": "Steely Dan",
@@ -26,9 +21,20 @@
       "time": "3:35 pm",
       "artist": "Steve Miller Band",
       "title": "Jungle Love"
+    },
+    {
+      "time": "3:38 pm",
+      "artist": "Radiohead",
+      "title": "Electioneering"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 pm",
+      "artist": "Johnny Rivers",
+      "title": "Secret Agent Man",
+      "album": "...And I Know You Wanna Dance • 1966"
+    },
     {
       "time": "3:18 pm",
       "artist": "Paul McCartney and Wings",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Get Innocuous!",
       "album": "Sound of Silver • 2007"
-    },
-    {
-      "time": "1:36 pm",
-      "artist": "Serge Gainsbourg",
-      "title": "Le poinconneur des Lilas",
-      "album": "Du chant  la une! • 1958"
     }
   ]
 }
