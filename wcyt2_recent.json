@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T19:40:49",
+  "updatedAt": "2026-08-22T19:44:25",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "A Boy Named Sue",
-    "album": "At San Quentin • 1969",
+    "artist": "Radiohead",
+    "title": "Glass Eyes",
+    "album": "A Moon Shaped Pool • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 pm",
-      "artist": "Radiohead",
-      "title": "Glass Eyes"
-    },
     {
       "time": "7:47 pm",
       "artist": "Pearl Jam",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:44 pm",
+      "artist": "Radiohead",
+      "title": "Glass Eyes",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "7:40 pm",
       "artist": "Johnny Cash",
@@ -172,12 +173,6 @@
       "artist": "Cat Stevens",
       "title": "(Remember the Days of the) Old Schoolyard",
       "album": "Izitso • 1977"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "Travis Scott",
-      "title": "FRANCHISE",
-      "album": "UTOPIA • 2023"
     }
   ]
 }
