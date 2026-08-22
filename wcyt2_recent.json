@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T19:21:00",
+  "updatedAt": "2026-08-22T19:21:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Curtis Mayfield",
+    "title": "Superfly",
+    "album": "Super Fly • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:21 pm",
-      "artist": "Curtis Mayfield",
-      "title": "Superfly"
-    },
     {
       "time": "7:25 pm",
       "artist": "Neil Young",
@@ -31,9 +26,20 @@
       "time": "7:35 pm",
       "artist": "The Crickets",
       "title": "Not Fade Away"
+    },
+    {
+      "time": "7:37 pm",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do"
     }
   ],
   "recent": [
+    {
+      "time": "7:21 pm",
+      "artist": "Curtis Mayfield",
+      "title": "Superfly",
+      "album": "Super Fly • 1972"
+    },
     {
       "time": "7:18 pm",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "Rolling Stones",
       "title": "Ruby Tuesday",
       "album": "single • 1967"
-    },
-    {
-      "time": "5:45 pm",
-      "artist": "Maroon 5",
-      "title": "This Love",
-      "album": "Songs About Jane • 2002"
     }
   ]
 }
