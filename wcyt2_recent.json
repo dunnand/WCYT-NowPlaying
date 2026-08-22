@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T18:25:45",
+  "updatedAt": "2026-08-22T18:28:19",
   "now": {
-    "artist": "Marvelettes",
-    "title": "Playboy",
-    "album": "Playboy • 1962",
+    "artist": "Commodores",
+    "title": "Sail On",
+    "album": "Midnight Magic • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:28 pm",
-      "artist": "Commodores",
-      "title": "Sail On"
-    },
     {
       "time": "6:32 pm",
       "artist": "Stone Temple Pilots",
@@ -26,9 +21,20 @@
       "time": "6:40 pm",
       "artist": "Muse",
       "title": "Uprising"
+    },
+    {
+      "time": "6:45 pm",
+      "artist": "Muse",
+      "title": "Bliss"
     }
   ],
   "recent": [
+    {
+      "time": "6:28 pm",
+      "artist": "Commodores",
+      "title": "Sail On",
+      "album": "Midnight Magic • 1979"
+    },
     {
       "time": "6:25 pm",
       "artist": "Marvelettes",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Deadweight",
       "album": "Odelay • 1996"
-    },
-    {
-      "time": "4:53 pm",
-      "artist": "Radiohead",
-      "title": "Decks Dark",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
