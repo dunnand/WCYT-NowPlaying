@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T10:23:27",
+  "updatedAt": "2026-08-22T10:23:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Estimated Prophet",
+    "album": "Terrapin Station • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:23 am",
-      "artist": "Grateful Dead",
-      "title": "Estimated Prophet"
-    },
     {
       "time": "10:29 am",
       "artist": "The Stooges",
@@ -26,9 +21,20 @@
       "time": "10:36 am",
       "artist": "Alice in Chains",
       "title": "Rooster"
+    },
+    {
+      "time": "10:43 am",
+      "artist": "Silhouettes",
+      "title": "Get A Job"
     }
   ],
   "recent": [
+    {
+      "time": "10:23 am",
+      "artist": "Grateful Dead",
+      "title": "Estimated Prophet",
+      "album": "Terrapin Station • 1977"
+    },
     {
       "time": "10:20 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Otis Redding",
       "title": "Pain in My Heart",
       "album": "Pain in My Heart • 1964"
-    },
-    {
-      "time": "8:50 am",
-      "artist": "Okkervil River",
-      "title": "For Real",
-      "album": "Black Sheep Boy • 2005"
     }
   ]
 }
