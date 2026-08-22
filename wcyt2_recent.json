@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T03:43:16",
+  "updatedAt": "2026-08-22T03:47:03",
   "now": {
-    "artist": "The Clash",
-    "title": "Lost in the Supermarket",
-    "album": "London Calling • 1979",
+    "artist": "The Beatles",
+    "title": "Any Time At All",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:47 am",
-      "artist": "The Beatles",
-      "title": "Any Time At All"
-    },
     {
       "time": "3:49 am",
       "artist": "Ten Years After",
@@ -26,9 +21,20 @@
       "time": "3:56 am",
       "artist": "Jerry Lee Lewis",
       "title": "Whole Lotta Shakin' Going on"
+    },
+    {
+      "time": "3:59 am",
+      "artist": "The Magnetic Fields",
+      "title": "I Don't Believe You"
     }
   ],
   "recent": [
+    {
+      "time": "3:47 am",
+      "artist": "The Beatles",
+      "title": "Any Time At All",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "3:43 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "The Mamas & The Papas",
       "title": "Straight Shooter",
       "album": "If You Can Believe Your Eyes And Ears • 1966"
-    },
-    {
-      "time": "2:05 am",
-      "artist": "Joanna Newsom",
-      "title": "Sprout and the Bean",
-      "album": "The Milk Eyed Mender • 2004"
     }
   ]
 }
