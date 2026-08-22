@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T16:08:58",
+  "updatedAt": "2026-08-22T16:12:24",
   "now": {
-    "artist": "Toosii",
-    "title": "Favorite Song",
-    "album": "NAUJOUR • 2023",
+    "artist": "Joe",
+    "title": "I Wanna Know",
+    "album": "My Name Is Joe • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:12 pm",
-      "artist": "Joe",
-      "title": "I Wanna Know"
-    },
     {
       "time": "4:17 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "4:24 pm",
       "artist": "LCD Soundsystem",
       "title": "Call the Police"
+    },
+    {
+      "time": "4:31 pm",
+      "artist": "The Beach Boys",
+      "title": "Disney Girls (1957)"
     }
   ],
   "recent": [
+    {
+      "time": "4:12 pm",
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "album": "My Name Is Joe • 2000"
+    },
     {
       "time": "4:08 pm",
       "artist": "Toosii",
@@ -172,12 +178,6 @@
       "artist": "Harry Styles",
       "title": "Sign of the Times",
       "album": "Harry Styles • 2017"
-    },
-    {
-      "time": "2:31 pm",
-      "artist": "Extreme",
-      "title": "More Than Words",
-      "album": "Extreme II • 1991"
     }
   ]
 }
