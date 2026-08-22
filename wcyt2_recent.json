@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T04:52:22",
+  "updatedAt": "2026-08-22T05:08:47",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Echoes",
-    "album": "Echoes - The Best Of Pink Floyd • 2001",
+    "artist": "Mew",
+    "title": "Special",
+    "album": "And the Glass Handed Kites • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:08 am",
-      "artist": "Mew",
-      "title": "Special"
-    },
     {
       "time": "5:12 am",
       "artist": "Justin Bieber",
@@ -26,9 +21,20 @@
       "time": "5:20 am",
       "artist": "Pearl Jam",
       "title": "Indifference"
+    },
+    {
+      "time": "5:24 am",
+      "artist": "They Might Be Giants",
+      "title": "They'll Need a Crane"
     }
   ],
   "recent": [
+    {
+      "time": "5:08 am",
+      "artist": "Mew",
+      "title": "Special",
+      "album": "And the Glass Handed Kites • 2005"
+    },
     {
       "time": "4:52 am",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "Delete Forever.",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "3:22 am",
-      "artist": "The Smiths",
-      "title": "How Soon Is Now",
-      "album": "single • 1984"
     }
   ]
 }
