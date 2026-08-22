@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-22T00:42:25",
+  "updatedAt": "2026-08-22T00:45:50",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Buckets of Rain",
-    "album": "Blood on the Tracks • 1975",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "The New",
+    "album": "Turn on the Bright Lights • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "Interpol",
-      "title": "The New"
-    },
     {
       "time": "12:51 am",
       "artist": "Joey Bad",
       "title": "Waves"
     },
     {
-      "time": "12:55 am",
+      "time": "12:54 am",
       "artist": "Queen",
       "title": "Keep Yourself Alive"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:45 am",
+      "artist": "Interpol",
+      "title": "The New",
+      "album": "Turn on the Bright Lights • 2002"
+    },
     {
       "time": "12:42 am",
       "artist": "Bob Dylan",
@@ -177,12 +178,6 @@
       "artist": "Booker T. & The MG's",
       "title": "Green Onions",
       "album": "Green Onions • 1962"
-    },
-    {
-      "time": "10:01 pm",
-      "artist": "Modest Mouse",
-      "title": "The World At Large",
-      "album": "Good News for People Who Love Bad News • 2004"
     }
   ]
 }
