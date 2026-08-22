@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T09:36:43",
+  "updatedAt": "2026-08-22T09:40:30",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Learn to Fly",
-    "album": "There Is Nothing Left to Lose • 1999",
+    "artist": "Justin Bieber",
+    "title": "Baby",
+    "album": "My World 2.0 • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:40 am",
-      "artist": "Justin Bieber",
-      "title": "Baby"
-    },
     {
       "time": "9:44 am",
       "artist": "Interpol",
@@ -21,9 +16,20 @@
       "time": "9:47 am",
       "artist": "Justin Timberlake",
       "title": "Like I Love You"
+    },
+    {
+      "time": "9:52 am",
+      "artist": "Ke$ha",
+      "title": "Die Young"
     }
   ],
   "recent": [
+    {
+      "time": "9:40 am",
+      "artist": "Justin Bieber",
+      "title": "Baby",
+      "album": "My World 2.0 • 2010"
+    },
     {
       "time": "9:36 am",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "The Dead Milkmen",
       "title": "Punk Rock Girl",
       "album": "Beelzebubba • 1988"
-    },
-    {
-      "time": "8:13 am",
-      "artist": "DJ Jazzy Jeff & The Fresh Prince",
-      "title": "Summertime",
-      "album": "Homebase • 1991"
     }
   ]
 }
