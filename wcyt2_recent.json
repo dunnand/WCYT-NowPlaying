@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T10:14:35",
+  "updatedAt": "2026-08-22T10:20:54",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Money",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "The Beatles",
+    "title": "Magical Mystery Tour",
+    "album": "Magical Mystery Tour • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 am",
-      "artist": "The Beatles",
-      "title": "Magical Mystery Tour"
-    },
     {
       "time": "10:23 am",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "10:32 am",
       "artist": "Eagles",
       "title": "Life In The Fast Lane"
+    },
+    {
+      "time": "10:37 am",
+      "artist": "Alice in Chains",
+      "title": "Rooster"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 am",
+      "artist": "The Beatles",
+      "title": "Magical Mystery Tour",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "10:14 am",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Okkervil River",
       "title": "For Real",
       "album": "Black Sheep Boy • 2005"
-    },
-    {
-      "time": "8:48 am",
-      "artist": "Champs",
-      "title": "Tequila",
-      "album": "single • 1958"
     }
   ]
 }
