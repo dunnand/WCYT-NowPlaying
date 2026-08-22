@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T17:24:01",
+  "updatedAt": "2026-08-22T17:27:16",
   "now": {
-    "artist": "The Band",
-    "title": "To Kingdom Come",
-    "album": "Music from Big Pink • 1968",
+    "artist": "Buzzcocks",
+    "title": "Autonomy",
+    "album": "Another Music In A Different Kitchen • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:27 pm",
-      "artist": "Buzzcocks",
-      "title": "Autonomy"
-    },
     {
       "time": "5:31 pm",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "5:38 pm",
       "artist": "CAKE",
       "title": "I Will Survive"
+    },
+    {
+      "time": "5:43 pm",
+      "artist": "Buddy Holly",
+      "title": "Take Your Time"
     }
   ],
   "recent": [
+    {
+      "time": "5:27 pm",
+      "artist": "Buzzcocks",
+      "title": "Autonomy",
+      "album": "Another Music In A Different Kitchen • 1978"
+    },
     {
       "time": "5:24 pm",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "All Along the Watchtower",
       "album": "Electric Ladyland • 1968"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "Johnny Cash",
-      "title": "The Man Comes Around",
-      "album": "American IV: The Man Comes Around • 2002"
     }
   ]
 }
