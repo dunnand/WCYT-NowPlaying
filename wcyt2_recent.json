@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T00:30:23",
+  "updatedAt": "2026-08-22T00:34:09",
   "now": {
-    "artist": "Men At Work",
-    "title": "Overkill",
-    "album": "Cargo • 1983",
+    "artist": "The Killers",
+    "title": "Caution",
+    "album": "Imploding the Mirage • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 am",
-      "artist": "The Killers",
-      "title": "Caution"
-    },
     {
       "time": "12:37 am",
       "artist": "Public Enemy",
@@ -26,9 +21,20 @@
       "time": "12:45 am",
       "artist": "Interpol",
       "title": "The New"
+    },
+    {
+      "time": "12:51 am",
+      "artist": "Joey Bad",
+      "title": "Waves"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 am",
+      "artist": "The Killers",
+      "title": "Caution",
+      "album": "Imploding the Mirage • 2020"
+    },
     {
       "time": "12:30 am",
       "artist": "Men At Work",
@@ -172,12 +178,6 @@
       "artist": "Cat Power",
       "title": "Top Expert",
       "album": "Myra Lee • 1996"
-    },
-    {
-      "time": "9:53 pm",
-      "artist": "Iggy and The Stooges",
-      "title": "Search and Destroy",
-      "album": "Raw Power • 1973"
     }
   ]
 }
