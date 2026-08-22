@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T00:30:11",
+  "updatedAt": "2026-08-22T00:30:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Men At Work",
+    "title": "Overkill",
+    "album": "Cargo • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 am",
-      "artist": "Men At Work",
-      "title": "Overkill"
-    },
     {
       "time": "12:34 am",
       "artist": "The Killers",
@@ -26,9 +21,20 @@
       "time": "12:42 am",
       "artist": "Bob Dylan",
       "title": "Buckets of Rain"
+    },
+    {
+      "time": "12:45 am",
+      "artist": "Interpol",
+      "title": "The New"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 am",
+      "artist": "Men At Work",
+      "title": "Overkill",
+      "album": "Cargo • 1983"
+    },
     {
       "time": "12:26 am",
       "artist": "John Lennon & Yoko Ono",
@@ -172,12 +178,6 @@
       "artist": "Iggy and The Stooges",
       "title": "Search and Destroy",
       "album": "Raw Power • 1973"
-    },
-    {
-      "time": "9:50 pm",
-      "artist": "The Association",
-      "title": "Cherish",
-      "album": "And Then...Along Comes the Association • 1966"
     }
   ]
 }
