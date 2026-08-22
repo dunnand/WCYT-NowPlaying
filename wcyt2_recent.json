@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T05:12:15",
+  "updatedAt": "2026-08-22T05:15:51",
   "now": {
-    "artist": "Justin Bieber",
-    "title": "Beauty And A Beat",
-    "album": "Believe • 2012",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Needle In The Hay",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:15 am",
-      "artist": "Elliott Smith",
-      "title": "Needle In The Hay"
-    },
     {
       "time": "5:20 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "5:27 am",
       "artist": "ZZ Top",
       "title": "Gimme All Your Lovin'"
+    },
+    {
+      "time": "5:31 am",
+      "artist": "Turnstile",
+      "title": "Blackout"
     }
   ],
   "recent": [
+    {
+      "time": "5:15 am",
+      "artist": "Elliott Smith",
+      "title": "Needle In The Hay",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "5:12 am",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "Roy Orbison",
       "title": "It's Over",
       "album": "Orbisongs • 1965"
-    },
-    {
-      "time": "3:29 am",
-      "artist": "Led Zeppelin",
-      "title": "Achilles Last Stand",
-      "album": "Presence • 1976"
     }
   ]
 }
