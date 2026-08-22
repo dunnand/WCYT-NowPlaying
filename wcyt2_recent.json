@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T17:02:49",
+  "updatedAt": "2026-08-22T17:07:55",
   "now": {
-    "artist": "Bjork",
-    "title": "Bachelorette",
-    "album": "Homogenic • 1997",
-    "category": "TUNES"
+    "artist": "Barry Manilow",
+    "title": "I Made It Through The Rain",
+    "album": "Barry • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:07 pm",
-      "artist": "Barry Manilow",
-      "title": "I Made It Through The Rain"
-    },
     {
       "time": "5:12 pm",
       "artist": "Boston",
@@ -21,9 +16,20 @@
       "time": "5:16 pm",
       "artist": "The Killers",
       "title": "Bright Lights"
+    },
+    {
+      "time": "5:20 pm",
+      "artist": "Blondie",
+      "title": "One Way or Another"
     }
   ],
   "recent": [
+    {
+      "time": "5:07 pm",
+      "artist": "Barry Manilow",
+      "title": "I Made It Through The Rain",
+      "album": "Barry • 1980"
+    },
     {
       "time": "5:02 pm",
       "artist": "Bjork",
@@ -167,12 +173,6 @@
       "artist": "Tammy Wynette",
       "title": "D-I-V-O-R-C-E",
       "album": "D-I-V-O-R-C-E • 1968"
-    },
-    {
-      "time": "3:25 pm",
-      "artist": "Steely Dan",
-      "title": "Deacon Blues",
-      "album": "Aja • 1977"
     }
   ]
 }
