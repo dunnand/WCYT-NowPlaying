@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T21:56:42",
+  "updatedAt": "2026-08-21T21:59:56",
   "now": {
-    "artist": "Cat Power",
-    "title": "Top Expert",
-    "album": "Myra Lee • 1996",
-    "category": "TUNES"
+    "artist": "Elvis Presley",
+    "title": "All Shook Up",
+    "album": "single • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "Elvis Presley",
-      "title": "All Shook Up"
-    },
     {
       "time": "10:01 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "10:09 pm",
       "artist": "Kendrick Lamar",
       "title": "King Kunta"
+    },
+    {
+      "time": "10:13 pm",
+      "artist": "Dave Matthews Band",
+      "title": "Crash into Me"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "Elvis Presley",
+      "title": "All Shook Up",
+      "album": "single • 1957"
+    },
     {
       "time": "9:56 pm",
       "artist": "Cat Power",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Little Fury Things",
       "album": "You're Living All Over Me • 1987"
-    },
-    {
-      "time": "8:21 pm",
-      "artist": "Breathe",
-      "title": "Hands To Heaven",
-      "album": "All That Jazz • 1990"
     }
   ]
 }
