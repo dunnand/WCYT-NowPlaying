@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T09:20:48",
+  "updatedAt": "2026-08-22T09:23:01",
   "now": {
-    "artist": "Madvillain",
-    "title": "All Caps",
-    "album": "Madvillainy • 2004",
+    "artist": "Elton John",
+    "title": "Rocket Man",
+    "album": "Honky Chteau • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:23 am",
-      "artist": "Elton John",
-      "title": "Rocket Man"
-    },
     {
       "time": "9:27 am",
       "artist": "Iron & Wine",
@@ -26,9 +21,25 @@
       "time": "9:33 am",
       "artist": "Joni Mitchell",
       "title": "In France They Kiss on Main Street"
+    },
+    {
+      "time": "9:36 am",
+      "artist": "Foo Fighters",
+      "title": "Learn to Fly"
+    },
+    {
+      "time": "9:40 am",
+      "artist": "Justin Bieber",
+      "title": "Baby"
     }
   ],
   "recent": [
+    {
+      "time": "9:23 am",
+      "artist": "Elton John",
+      "title": "Rocket Man",
+      "album": "Honky Chteau • 1972"
+    },
     {
       "time": "9:20 am",
       "artist": "Madvillain",
@@ -172,12 +183,6 @@
       "artist": "Modest Mouse",
       "title": "Paper Thin Walls",
       "album": "The Moon & Antarctica • 2000"
-    },
-    {
-      "time": "7:55 am",
-      "artist": "Nicki Minaj",
-      "title": "Starships",
-      "album": "Pink Friday: Roman Reloaded • 2012"
     }
   ]
 }
