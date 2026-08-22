@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T11:55:16",
+  "updatedAt": "2026-08-22T11:58:28",
   "now": {
-    "artist": "Beck",
-    "title": "Hotwax",
-    "album": "Odelay • 1996",
+    "artist": "Radiohead",
+    "title": "I Want None Of This",
+    "album": "x • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:58 am",
-      "artist": "Radiohead",
-      "title": "I Want None Of This"
-    },
     {
       "time": "12:01 pm",
       "artist": "Goose",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Curtis Harding",
       "title": "The Power"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "Friko",
+      "title": "Still Around"
     }
   ],
   "recent": [
+    {
+      "time": "11:58 am",
+      "artist": "Radiohead",
+      "title": "I Want None Of This",
+      "album": "x • 2005"
+    },
     {
       "time": "11:55 am",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "Yard Act",
       "title": "New Beginnings",
       "album": "You're Gonna Need A Little Music • 2026"
-    },
-    {
-      "time": "10:23 am",
-      "artist": "Saya Gray",
-      "title": "LIE DOWN..",
-      "album": "Saya • 2025"
     }
   ]
 }
