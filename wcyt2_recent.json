@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T09:59:54",
+  "updatedAt": "2026-08-22T10:03:58",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Crazy",
-    "album": "Get a Grip • 1994",
+    "artist": "Prince",
+    "title": "When You Were Mine",
+    "album": "Dirty Mind • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:03 am",
-      "artist": "Prince",
-      "title": "When You Were Mine"
-    },
     {
       "time": "10:07 am",
       "artist": "Deniece Williams",
@@ -21,9 +16,20 @@
       "time": "10:11 am",
       "artist": "Taylor Swift",
       "title": "Glitch"
+    },
+    {
+      "time": "10:14 am",
+      "artist": "Pink Floyd",
+      "title": "Money"
     }
   ],
   "recent": [
+    {
+      "time": "10:03 am",
+      "artist": "Prince",
+      "title": "When You Were Mine",
+      "album": "Dirty Mind • 1980"
+    },
     {
       "time": "9:59 am",
       "artist": "Aerosmith",
@@ -167,12 +173,6 @@
       "artist": "Sam Cooke",
       "title": "Chain Gang",
       "album": "Swing Low • 1961"
-    },
-    {
-      "time": "8:35 am",
-      "artist": "David Bowie",
-      "title": "Rock 'n' Roll Suicide",
-      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
     }
   ]
 }
