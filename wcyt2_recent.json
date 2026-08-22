@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T21:59:56",
+  "updatedAt": "2026-08-21T22:01:53",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "All Shook Up",
-    "album": "single • 1957",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "The World At Large",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:01 pm",
-      "artist": "Modest Mouse",
-      "title": "The World At Large"
-    },
     {
       "time": "10:06 pm",
       "artist": "Booker T. & The MG's",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:01 pm",
+      "artist": "Modest Mouse",
+      "title": "The World At Large",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "9:59 pm",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Don Henley",
       "title": "The Heart Of The Matter",
       "album": "The End of the Innocence • 1989"
-    },
-    {
-      "time": "8:25 pm",
-      "artist": "Dinosaur Jr.",
-      "title": "Little Fury Things",
-      "album": "You're Living All Over Me • 1987"
     }
   ]
 }
