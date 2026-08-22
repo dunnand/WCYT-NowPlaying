@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T17:20:23",
+  "updatedAt": "2026-08-22T17:20:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Blondie",
+    "title": "One Way or Another",
+    "album": "Parallel Lines • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:20 pm",
-      "artist": "Blondie",
-      "title": "One Way or Another"
-    },
     {
       "time": "5:23 pm",
       "artist": "The Band",
@@ -26,9 +21,20 @@
       "time": "5:31 pm",
       "artist": "Rolling Stones",
       "title": "Let's Spend The Night Together"
+    },
+    {
+      "time": "5:34 pm",
+      "artist": "The Cars",
+      "title": "Bye Bye Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:20 pm",
+      "artist": "Blondie",
+      "title": "One Way or Another",
+      "album": "Parallel Lines • 1978"
+    },
     {
       "time": "5:16 pm",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Maurice Williams & The Zodiacs",
       "title": "Stay",
       "album": "Single • 1953"
-    },
-    {
-      "time": "3:38 pm",
-      "artist": "Radiohead",
-      "title": "Electioneering",
-      "album": "OK Computer • 1997"
     }
   ]
 }
