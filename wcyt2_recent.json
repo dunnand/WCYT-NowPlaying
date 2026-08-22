@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T10:14:23",
+  "updatedAt": "2026-08-22T10:14:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Money",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:14 am",
-      "artist": "Pink Floyd",
-      "title": "Money"
-    },
     {
       "time": "10:20 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "10:29 am",
       "artist": "The Stooges",
       "title": "I Wanna Be Your Dog"
+    },
+    {
+      "time": "10:32 am",
+      "artist": "Eagles",
+      "title": "Life In The Fast Lane"
     }
   ],
   "recent": [
+    {
+      "time": "10:14 am",
+      "artist": "Pink Floyd",
+      "title": "Money",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "10:11 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Champs",
       "title": "Tequila",
       "album": "single • 1958"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "Pavement",
-      "title": "Carrot Rope",
-      "album": "Terror Twilight • 1999"
     }
   ]
 }
