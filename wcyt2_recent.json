@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-22T08:44:16",
+  "updatedAt": "2026-08-22T08:48:02",
   "now": {
-    "artist": "Pavement",
-    "title": "Carrot Rope",
-    "album": "Terror Twilight • 1999",
-    "category": "TUNES"
+    "artist": "Champs",
+    "title": "Tequila",
+    "album": "single • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 am",
-      "artist": "Champs",
-      "title": "Tequila"
-    },
     {
       "time": "8:50 am",
       "artist": "Okkervil River",
       "title": "For Real"
     },
     {
-      "time": "8:55 am",
+      "time": "8:54 am",
       "artist": "Otis Redding",
       "title": "Pain in My Heart"
     },
@@ -26,9 +21,20 @@
       "time": "8:57 am",
       "artist": "Radiohead",
       "title": "Identikit"
+    },
+    {
+      "time": "9:01 am",
+      "artist": "Black Sheep",
+      "title": "The Choice Is Yours (Revisited)"
     }
   ],
   "recent": [
+    {
+      "time": "8:48 am",
+      "artist": "Champs",
+      "title": "Tequila",
+      "album": "single • 1958"
+    },
     {
       "time": "8:44 am",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Cece Rogers",
       "title": "Someday",
       "album": "CeCe Rogers • 1989"
-    },
-    {
-      "time": "7:11 am",
-      "artist": "Yo La Tengo",
-      "title": "Tom Courtenay",
-      "album": "Electropura • 1995"
     }
   ]
 }
