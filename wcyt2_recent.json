@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T04:38:28",
+  "updatedAt": "2026-08-22T04:41:11",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Mother's Little Helper",
-    "album": "Aftermath • 1966",
+    "artist": "Player",
+    "title": "Baby Come Back",
+    "album": "Player • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:41 am",
-      "artist": "Player",
-      "title": "Baby Come Back"
-    },
     {
       "time": "4:44 am",
       "artist": "Blind Melon",
@@ -26,9 +21,20 @@
       "time": "4:52 am",
       "artist": "Pink Floyd",
       "title": "Echoes"
+    },
+    {
+      "time": "5:08 am",
+      "artist": "Mew",
+      "title": "Special"
     }
   ],
   "recent": [
+    {
+      "time": "4:41 am",
+      "artist": "Player",
+      "title": "Baby Come Back",
+      "album": "Player • 1977"
+    },
     {
       "time": "4:38 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "The Beta Band",
       "title": "Dry the Rain",
       "album": "Champion Version EP • 1997"
-    },
-    {
-      "time": "3:04 am",
-      "artist": "Justin Timberlake",
-      "title": "Mirrors",
-      "album": "The 20/20 Experience • 2013"
     }
   ]
 }
