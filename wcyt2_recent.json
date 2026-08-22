@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T10:29:16",
+  "updatedAt": "2026-08-22T10:32:22",
   "now": {
-    "artist": "The Stooges",
-    "title": "I Wanna Be Your Dog",
-    "album": "The Stooges • 1969",
+    "artist": "Eagles",
+    "title": "Life In The Fast Lane",
+    "album": "Hotel California • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:32 am",
-      "artist": "Eagles",
-      "title": "Life In The Fast Lane"
-    },
     {
       "time": "10:36 am",
       "artist": "Alice in Chains",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:32 am",
+      "artist": "Eagles",
+      "title": "Life In The Fast Lane",
+      "album": "Hotel California • 1977"
+    },
     {
       "time": "10:29 am",
       "artist": "The Stooges",
@@ -172,12 +173,6 @@
       "artist": "Black Sheep",
       "title": "The Choice Is Yours (Revisited)",
       "album": "A Wolf in Sheep's Clothing • 1991"
-    },
-    {
-      "time": "8:57 am",
-      "artist": "Radiohead",
-      "title": "Identikit",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
