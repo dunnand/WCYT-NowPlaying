@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T17:43:52",
+  "updatedAt": "2026-08-22T17:45:45",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Take Your Time",
-    "album": "Buddy Holly • 1958",
+    "artist": "Maroon 5",
+    "title": "This Love",
+    "album": "Songs About Jane • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:45 pm",
-      "artist": "Maroon 5",
-      "title": "This Love"
-    },
     {
       "time": "5:49 pm",
       "artist": "Rolling Stones",
@@ -21,9 +16,20 @@
       "time": "5:52 pm",
       "artist": "Portugal The Man",
       "title": "Feel It Still"
+    },
+    {
+      "time": "5:55 pm",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "The Ship Song"
     }
   ],
   "recent": [
+    {
+      "time": "5:45 pm",
+      "artist": "Maroon 5",
+      "title": "This Love",
+      "album": "Songs About Jane • 2002"
+    },
     {
       "time": "5:43 pm",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Avengers",
       "title": "We Are the One",
       "album": "Avengers • 1983"
-    },
-    {
-      "time": "4:01 pm",
-      "artist": "Gang Starr",
-      "title": "Words I Manifest",
-      "album": "single • 1989"
     }
   ]
 }
