@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T05:54:16",
+  "updatedAt": "2026-08-22T05:59:56",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Mayonaise",
-    "album": "Siamese Dream • 1993",
+    "artist": "McGuire Sisters",
+    "title": "Sincerely",
+    "album": "Single • 1954",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:00 am",
-      "artist": "McGuire Sisters",
-      "title": "Sincerely"
-    },
     {
       "time": "6:02 am",
       "artist": "The Postal Service",
@@ -21,9 +16,20 @@
       "time": "6:07 am",
       "artist": "Righteous Brothers",
       "title": "(You're My) Soul And Inspiration"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "One Direction",
+      "title": "Kiss You"
     }
   ],
   "recent": [
+    {
+      "time": "5:59 am",
+      "artist": "McGuire Sisters",
+      "title": "Sincerely",
+      "album": "Single • 1954"
+    },
     {
       "time": "5:54 am",
       "artist": "The Smashing Pumpkins",
@@ -167,12 +173,6 @@
       "artist": "The Jam",
       "title": "Beat Surrender",
       "album": "single • 1982"
-    },
-    {
-      "time": "4:13 am",
-      "artist": "R.E.M.",
-      "title": "The Great Beyond",
-      "album": "Man on the Moon Soundtrack • 1999"
     }
   ]
 }
