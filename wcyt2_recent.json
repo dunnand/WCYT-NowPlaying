@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-21T22:42:46",
+  "updatedAt": "2026-08-21T22:45:51",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Morning Has Broken",
-    "album": "Teaser and the Firecat • 1971",
+    "artist": "Johnny Cash",
+    "title": "Personal Jesus",
+    "album": "American IV: The Man Comes Around • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 pm",
-      "artist": "Johnny Cash",
-      "title": "Personal Jesus"
-    },
     {
       "time": "10:49 pm",
       "artist": "Radiohead",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:45 pm",
+      "artist": "Johnny Cash",
+      "title": "Personal Jesus",
+      "album": "American IV: The Man Comes Around • 2002"
+    },
     {
       "time": "10:42 pm",
       "artist": "Cat Stevens",
@@ -167,12 +168,6 @@
       "artist": "Barry McGuire",
       "title": "Eve Of Destruction",
       "album": "Eve of Destruction • 1965"
-    },
-    {
-      "time": "9:00 pm",
-      "artist": "M.I.A.",
-      "title": "Bucky Done Gun",
-      "album": "Arular • 2005"
     }
   ]
 }
