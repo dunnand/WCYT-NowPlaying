@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T08:40:52",
+  "updatedAt": "2026-08-22T08:44:16",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Soul Rebel",
-    "album": "Soul Rebels • 1970",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Carrot Rope",
+    "album": "Terror Twilight • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:44 am",
-      "artist": "Pavement",
-      "title": "Carrot Rope"
-    },
     {
       "time": "8:48 am",
       "artist": "Champs",
@@ -26,9 +21,20 @@
       "time": "8:55 am",
       "artist": "Otis Redding",
       "title": "Pain in My Heart"
+    },
+    {
+      "time": "8:57 am",
+      "artist": "Radiohead",
+      "title": "Identikit"
     }
   ],
   "recent": [
+    {
+      "time": "8:44 am",
+      "artist": "Pavement",
+      "title": "Carrot Rope",
+      "album": "Terror Twilight • 1999"
+    },
     {
       "time": "8:40 am",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "Tom Courtenay",
       "album": "Electropura • 1995"
-    },
-    {
-      "time": "7:08 am",
-      "artist": "Wilco",
-      "title": "Far, Far Away",
-      "album": "Being There • 1996"
     }
   ]
 }
