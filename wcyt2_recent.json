@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T11:53:37",
+  "updatedAt": "2026-08-22T11:57:03",
   "now": {
-    "artist": "Peter, Paul & Mary",
-    "title": "Puff The Magic Dragon",
-    "album": "Moving • 1963",
+    "artist": "The Highwomen",
+    "title": "Crowded Table",
+    "album": "The Highwomen • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:57 am",
-      "artist": "The Highwomen",
-      "title": "Crowded Table"
-    },
     {
       "time": "12:00 pm",
       "artist": "Belle and Sebastian",
@@ -21,9 +16,20 @@
       "time": "12:04 pm",
       "artist": "Built to Spill",
       "title": "Big Dipper"
+    },
+    {
+      "time": "12:09 pm",
+      "artist": "The Carpenters",
+      "title": "Touch Me When We're Dancing"
     }
   ],
   "recent": [
+    {
+      "time": "11:57 am",
+      "artist": "The Highwomen",
+      "title": "Crowded Table",
+      "album": "The Highwomen • 2019"
+    },
     {
       "time": "11:53 am",
       "artist": "Peter, Paul & Mary",
@@ -167,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Money",
       "album": "The Dark Side of the Moon • 1973"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Taylor Swift",
-      "title": "Glitch",
-      "album": "Midnights 3am • 2022"
     }
   ]
 }
