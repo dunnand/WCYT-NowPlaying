@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T17:43:40",
+  "updatedAt": "2026-08-22T17:43:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Take Your Time",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:43 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time"
-    },
     {
       "time": "5:45 pm",
       "artist": "Maroon 5",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:43 pm",
+      "artist": "Buddy Holly",
+      "title": "Take Your Time",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "5:38 pm",
       "artist": "CAKE",
@@ -172,12 +173,6 @@
       "artist": "Gang Starr",
       "title": "Words I Manifest",
       "album": "single • 1989"
-    },
-    {
-      "time": "3:58 pm",
-      "artist": "The Magnetic Fields",
-      "title": "All My Little Words",
-      "album": "69 Love Songs • 1999"
     }
   ]
 }
