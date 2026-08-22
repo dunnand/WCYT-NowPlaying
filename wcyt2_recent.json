@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T11:17:38",
+  "updatedAt": "2026-08-22T11:21:34",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Know My Name (Look Up The Number)",
-    "album": "single • 1970",
+    "artist": "Bee Gees",
+    "title": "More Than a Woman",
+    "album": "Saturday Night Fever • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:21 am",
-      "artist": "Bee Gees",
-      "title": "More Than a Woman"
-    },
     {
       "time": "11:25 am",
       "artist": "Portishead",
@@ -26,9 +21,20 @@
       "time": "11:32 am",
       "artist": "Bob Dylan",
       "title": "Simple Twist of Fate"
+    },
+    {
+      "time": "11:36 am",
+      "artist": "Beat Happening",
+      "title": "Godsend"
     }
   ],
   "recent": [
+    {
+      "time": "11:21 am",
+      "artist": "Bee Gees",
+      "title": "More Than a Woman",
+      "album": "Saturday Night Fever • 1977"
+    },
     {
       "time": "11:17 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "Obstacle 2",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "9:40 am",
-      "artist": "Justin Bieber",
-      "title": "Baby",
-      "album": "My World 2.0 • 2010"
     }
   ]
 }
