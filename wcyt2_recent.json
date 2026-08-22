@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T04:08:54",
+  "updatedAt": "2026-08-22T04:09:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Karma Police",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 am",
-      "artist": "Radiohead",
-      "title": "Karma Police"
-    },
     {
       "time": "4:13 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "4:21 am",
       "artist": "The Vaselines",
       "title": "Molly's Lips"
+    },
+    {
+      "time": "4:22 am",
+      "artist": "The Weeknd",
+      "title": "After Hours"
     }
   ],
   "recent": [
+    {
+      "time": "4:09 am",
+      "artist": "Radiohead",
+      "title": "Karma Police",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "4:05 am",
       "artist": "Kendrick Lamar",
@@ -172,12 +178,6 @@
       "artist": "P.O.S",
       "title": "Drumroll (We're All Thirsty)",
       "album": "Never Better • 2009"
-    },
-    {
-      "time": "2:33 am",
-      "artist": "Taylor Swift",
-      "title": "august",
-      "album": "folklore • 2020"
     }
   ]
 }
