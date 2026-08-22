@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T01:30:30",
+  "updatedAt": "2026-08-22T01:30:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Diamond",
+    "title": "Love On The Rocks",
+    "album": "The Jazz Singer • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:30 am",
-      "artist": "Neil Diamond",
-      "title": "Love On The Rocks"
-    },
     {
       "time": "1:34 am",
       "artist": "The Olivia Tremor Control",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:30 am",
+      "artist": "Neil Diamond",
+      "title": "Love On The Rocks",
+      "album": "The Jazz Singer • 1980"
+    },
     {
       "time": "1:23 am",
       "artist": "Metallica",
@@ -172,12 +173,6 @@
       "artist": "Sparks",
       "title": "Girl From Germany",
       "album": "A Woofer in Tweeter's Clothing • 1973"
-    },
-    {
-      "time": "10:49 pm",
-      "artist": "Radiohead",
-      "title": "Feral",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
