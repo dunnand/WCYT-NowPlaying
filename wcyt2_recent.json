@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T00:41:53",
+  "updatedAt": "2026-08-22T00:42:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Buckets of Rain",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "Bob Dylan",
-      "title": "Buckets of Rain"
-    },
     {
       "time": "12:45 am",
       "artist": "Interpol",
@@ -31,9 +26,20 @@
       "time": "12:58 am",
       "artist": "PJ Harvey",
       "title": "Sheela-Na-Gig"
+    },
+    {
+      "time": "1:01 am",
+      "artist": "Gotye",
+      "title": "Somebody That I Used To Know"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "Bob Dylan",
+      "title": "Buckets of Rain",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "12:37 am",
       "artist": "Public Enemy",
@@ -177,12 +183,6 @@
       "artist": "Modest Mouse",
       "title": "The World At Large",
       "album": "Good News for People Who Love Bad News • 2004"
-    },
-    {
-      "time": "9:59 pm",
-      "artist": "Elvis Presley",
-      "title": "All Shook Up",
-      "album": "single • 1957"
     }
   ]
 }
