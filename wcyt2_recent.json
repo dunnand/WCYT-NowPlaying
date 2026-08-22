@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T19:37:55",
+  "updatedAt": "2026-08-22T19:40:49",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Just Because I Do",
-    "album": "At Dawn • 2001",
-    "category": "TUNES"
+    "artist": "Johnny Cash",
+    "title": "A Boy Named Sue",
+    "album": "At San Quentin • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:40 pm",
-      "artist": "Johnny Cash",
-      "title": "A Boy Named Sue"
-    },
     {
       "time": "7:44 pm",
       "artist": "Radiohead",
@@ -21,9 +16,25 @@
       "time": "7:47 pm",
       "artist": "Pearl Jam",
       "title": "Last Kiss"
+    },
+    {
+      "time": "7:50 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "1979"
+    },
+    {
+      "time": "7:54 pm",
+      "artist": "Hall & Oates",
+      "title": "Adult Education"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 pm",
+      "artist": "Johnny Cash",
+      "title": "A Boy Named Sue",
+      "album": "At San Quentin • 1969"
+    },
     {
       "time": "7:37 pm",
       "artist": "My Morning Jacket",
@@ -167,12 +178,6 @@
       "artist": "Travis Scott",
       "title": "FRANCHISE",
       "album": "UTOPIA • 2023"
-    },
-    {
-      "time": "6:07 pm",
-      "artist": "Echo & The Bunnymen",
-      "title": "Seven Seas",
-      "album": "Ocean Rain • 1984"
     }
   ]
 }
