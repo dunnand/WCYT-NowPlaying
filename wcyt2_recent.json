@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T12:59:59",
+  "updatedAt": "2026-08-22T13:00:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "China Girl",
+    "album": "Lets Dance • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 pm",
-      "artist": "David Bowie",
-      "title": "China Girl"
-    },
     {
       "time": "1:05 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "1:13 pm",
       "artist": "The Who",
       "title": "The Punk Meets the Godfather"
+    },
+    {
+      "time": "1:18 pm",
+      "artist": "Al Green",
+      "title": "Love and Happiness"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 pm",
+      "artist": "David Bowie",
+      "title": "China Girl",
+      "album": "Lets Dance • 1983"
+    },
     {
       "time": "12:55 pm",
       "artist": "Phil Collins",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "Orange Blossom Special",
       "album": "Orange Blossom Special • 1965"
-    },
-    {
-      "time": "11:25 am",
-      "artist": "Portishead",
-      "title": "The Rip",
-      "album": "Third • 2008"
     }
   ]
 }
