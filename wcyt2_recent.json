@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T07:58:58",
+  "updatedAt": "2026-08-22T08:01:47",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Paper Thin Walls",
-    "album": "The Moon & Antarctica • 2000",
-    "category": "TUNES"
+    "artist": "Katy Perry",
+    "title": "Hot N Cold",
+    "album": "Hot N Cold • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:01 am",
-      "artist": "Katy Perry",
-      "title": "Hot N Cold"
-    },
     {
       "time": "8:05 am",
       "artist": "Marina & The Diamonds",
@@ -26,9 +21,20 @@
       "time": "8:13 am",
       "artist": "DJ Jazzy Jeff & The Fresh Prince",
       "title": "Summertime"
+    },
+    {
+      "time": "8:17 am",
+      "artist": "The Dead Milkmen",
+      "title": "Punk Rock Girl"
     }
   ],
   "recent": [
+    {
+      "time": "8:01 am",
+      "artist": "Katy Perry",
+      "title": "Hot N Cold",
+      "album": "Hot N Cold • 2008"
+    },
     {
       "time": "7:58 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Malcolm Todd",
       "title": "Roommates",
       "album": "Single • 2023"
-    },
-    {
-      "time": "6:21 am",
-      "artist": "Annie Lennox & Al Green",
-      "title": "Put A Little Love In Your Heart",
-      "album": "Scrooged • 1988"
     }
   ]
 }
