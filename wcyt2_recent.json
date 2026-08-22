@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T04:52:10",
+  "updatedAt": "2026-08-22T04:52:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Echoes",
+    "album": "Echoes - The Best Of Pink Floyd • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:52 am",
-      "artist": "Pink Floyd",
-      "title": "Echoes"
-    },
     {
       "time": "5:08 am",
       "artist": "Mew",
@@ -26,9 +21,20 @@
       "time": "5:15 am",
       "artist": "Elliott Smith",
       "title": "Needle In The Hay"
+    },
+    {
+      "time": "5:20 am",
+      "artist": "Pearl Jam",
+      "title": "Indifference"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 am",
+      "artist": "Pink Floyd",
+      "title": "Echoes",
+      "album": "Echoes - The Best Of Pink Floyd • 2001"
+    },
     {
       "time": "4:48 am",
       "artist": "Pitbull",
@@ -172,12 +178,6 @@
       "artist": "The Smiths",
       "title": "How Soon Is Now",
       "album": "single • 1984"
-    },
-    {
-      "time": "3:18 am",
-      "artist": "Public Enemy",
-      "title": "Bring The Noise",
-      "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
     }
   ]
 }
