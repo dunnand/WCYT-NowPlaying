@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T21:20:18",
+  "updatedAt": "2026-08-22T21:27:08",
   "now": {
-    "artist": "George Harrison",
-    "title": "Isn't It a Pity",
-    "album": "All Things Must Pass • 1970",
+    "artist": "Weezer",
+    "title": "Butterfly",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 pm",
-      "artist": "Weezer",
-      "title": "Butterfly"
-    },
     {
       "time": "9:30 pm",
       "artist": "Fats Domino",
@@ -21,9 +16,20 @@
       "time": "9:32 pm",
       "artist": "My Chemical Romance",
       "title": "Helena"
+    },
+    {
+      "time": "9:35 pm",
+      "artist": "John Lee Hooker",
+      "title": "Boom Boom"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 pm",
+      "artist": "Weezer",
+      "title": "Butterfly",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "9:20 pm",
       "artist": "George Harrison",
@@ -167,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "1979",
       "album": "Mellon Collie and the Infinite Sadness • 1995"
-    },
-    {
-      "time": "7:47 pm",
-      "artist": "Pearl Jam",
-      "title": "Last Kiss",
-      "album": "single • 1999"
     }
   ]
 }
