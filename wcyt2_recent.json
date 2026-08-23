@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T01:01:33",
+  "updatedAt": "2026-08-23T01:03:28",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Words of Love",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "A Place Called Home",
+    "album": "Stories from the City, Stories from the Sea • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "PJ Harvey",
-      "title": "A Place Called Home"
-    },
     {
       "time": "1:07 am",
       "artist": "Marcels",
@@ -21,9 +16,20 @@
       "time": "1:09 am",
       "artist": "Miley Cyrus",
       "title": "Wrecking Ball"
+    },
+    {
+      "time": "1:13 am",
+      "artist": "Bruce Springsteen",
+      "title": "Streets Of Philadelphia"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "PJ Harvey",
+      "title": "A Place Called Home",
+      "album": "Stories from the City, Stories from the Sea • 2000"
+    },
     {
       "time": "1:01 am",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Afrika Bambaataa & Soulsonic Force",
       "title": "Planet Rock",
       "album": "Planet Rock • 1982"
-    },
-    {
-      "time": "10:52 pm",
-      "artist": "Donna Summer",
-      "title": "State of Independence",
-      "album": "Donna Summer • 1982"
     }
   ]
 }
