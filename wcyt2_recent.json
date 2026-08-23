@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T17:45:36",
+  "updatedAt": "2026-08-23T17:48:50",
   "now": {
-    "artist": "Ride",
-    "title": "Taste",
-    "album": "Nowhere • 1990",
-    "category": "TUNES"
+    "artist": "Bob Marley and the Wailers",
+    "title": "Could You Be Loved",
+    "album": "Uprising • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Could You Be Loved"
-    },
     {
       "time": "5:52 pm",
       "artist": "The Cars",
@@ -21,9 +16,20 @@
       "time": "5:55 pm",
       "artist": "Beyonce",
       "title": "BREAK MY SOUL"
+    },
+    {
+      "time": "6:00 pm",
+      "artist": "Jim Croce",
+      "title": "Operator (That's Not The Way It Feels)"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Could You Be Loved",
+      "album": "Uprising • 1980"
+    },
     {
       "time": "5:45 pm",
       "artist": "Ride",
@@ -167,12 +173,6 @@
       "artist": "Jim Reeves",
       "title": "Is It Really Over?",
       "album": "Single • 1965"
-    },
-    {
-      "time": "4:06 pm",
-      "artist": "The Jacksons",
-      "title": "Shake Your Body (Down to the Ground)",
-      "album": "Destiny • 1978"
     }
   ]
 }
