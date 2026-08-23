@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T19:42:11",
+  "updatedAt": "2026-08-23T19:46:48",
   "now": {
-    "artist": "Elton John",
-    "title": "I Guess That's Why They Call It The Blues",
-    "album": "Too Low for Zero • 1983",
+    "artist": "Foo Fighters",
+    "title": "Shame Shame",
+    "album": "Medicine at Midnight • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:46 pm",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame"
-    },
     {
       "time": "7:51 pm",
       "artist": "Johnny Thunders & the Heartbreakers",
@@ -21,9 +16,20 @@
       "time": "7:54 pm",
       "artist": "Joy Division",
       "title": "Shadowplay"
+    },
+    {
+      "time": "7:58 pm",
+      "artist": "Joanna Newsom",
+      "title": "Peach, Plum, Pear"
     }
   ],
   "recent": [
+    {
+      "time": "7:46 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame",
+      "album": "Medicine at Midnight • 2021"
+    },
     {
       "time": "7:42 pm",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "Sebadoh",
       "title": "Skull",
       "album": "Bakesale • 1994"
-    },
-    {
-      "time": "6:14 pm",
-      "artist": "Joe Cocker",
-      "title": "Feeling Alright",
-      "album": "With a Little Help from My Friends • 1972"
     }
   ]
 }
