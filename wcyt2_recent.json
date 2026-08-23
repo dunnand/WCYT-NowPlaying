@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T09:41:56",
+  "updatedAt": "2026-08-23T09:48:15",
   "now": {
-    "artist": "Radiohead",
-    "title": "Paranoid Android",
-    "album": "OK Computer • 1997",
+    "artist": "The Fleetwoods",
+    "title": "Come Softly to Me",
+    "album": "Mr. Blue • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 am",
-      "artist": "The Fleetwoods",
-      "title": "Come Softly to Me"
-    },
     {
       "time": "9:50 am",
       "artist": "The Hold Steady",
@@ -26,9 +21,20 @@
       "time": "9:58 am",
       "artist": "Olly Murs",
       "title": "Troublemaker"
+    },
+    {
+      "time": "10:01 am",
+      "artist": "Annie Lennox",
+      "title": "Walking On Broken Glass"
     }
   ],
   "recent": [
+    {
+      "time": "9:48 am",
+      "artist": "The Fleetwoods",
+      "title": "Come Softly to Me",
+      "album": "Mr. Blue • 1959"
+    },
     {
       "time": "9:41 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "The Perfect Kiss",
       "album": "Low-Life • 1985"
-    },
-    {
-      "time": "8:10 am",
-      "artist": "The Prodigy",
-      "title": "Breathe",
-      "album": "The Fat of the Land • 1997"
     }
   ]
 }
