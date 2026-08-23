@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T19:04:24",
+  "updatedAt": "2026-08-23T19:07:18",
   "now": {
-    "artist": "Thundercat",
-    "title": "Them Changes",
-    "album": "Drunk • 2017",
+    "artist": "John Denver",
+    "title": "Rocky Mountain High",
+    "album": "Rocky Mountain High • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:07 pm",
-      "artist": "John Denver",
-      "title": "Rocky Mountain High"
-    },
     {
       "time": "7:11 pm",
       "artist": "Deee",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:07 pm",
+      "artist": "John Denver",
+      "title": "Rocky Mountain High",
+      "album": "Rocky Mountain High • 1972"
+    },
     {
       "time": "7:04 pm",
       "artist": "Thundercat",
@@ -172,12 +173,6 @@
       "artist": "Oasis",
       "title": "Slide Away",
       "album": "Definitely Maybe • 1994"
-    },
-    {
-      "time": "5:35 pm",
-      "artist": "Travis Scott",
-      "title": "goosebumps",
-      "album": "Birds in the Trap Sing McKnight • 2016"
     }
   ]
 }
