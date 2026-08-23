@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T20:22:29",
+  "updatedAt": "2026-08-22T20:26:05",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Always On My Mind",
-    "album": "Separate Ways • 1972",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Zurich Is Stained",
+    "album": "Slanted & Enchanted • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:26 pm",
-      "artist": "Pavement",
-      "title": "Zurich Is Stained"
-    },
     {
       "time": "8:27 pm",
       "artist": "Jack Scott",
@@ -26,9 +21,20 @@
       "time": "8:33 pm",
       "artist": "Simon & Garfunkel",
       "title": "Homeward Bound"
+    },
+    {
+      "time": "8:36 pm",
+      "artist": "One Direction",
+      "title": "If I Could Fly"
     }
   ],
   "recent": [
+    {
+      "time": "8:26 pm",
+      "artist": "Pavement",
+      "title": "Zurich Is Stained",
+      "album": "Slanted & Enchanted • 1992"
+    },
     {
       "time": "8:22 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Who's Gonna Ride Your Wild Horses",
       "album": "Achtung Baby • 1992"
-    },
-    {
-      "time": "6:56 pm",
-      "artist": "Superchunk",
-      "title": "Watery Hands",
-      "album": "Indoor Living • 1997"
     }
   ]
 }
