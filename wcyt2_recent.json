@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T22:03:48",
+  "updatedAt": "2026-08-22T22:07:45",
   "now": {
-    "artist": "John Lennon",
-    "title": "Jealous Guy",
-    "album": "Imagine • 1971",
+    "artist": "KISS",
+    "title": "I Was Made for Lovin' You",
+    "album": "Dynasty • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 pm",
-      "artist": "KISS",
-      "title": "I Was Made for Lovin' You"
-    },
     {
       "time": "10:12 pm",
       "artist": "LCD Soundsystem",
@@ -26,9 +21,20 @@
       "time": "10:19 pm",
       "artist": "Kraftwerk",
       "title": "The Model"
+    },
+    {
+      "time": "10:23 pm",
+      "artist": "The Brian Jonestown Massacre",
+      "title": "Anenome"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 pm",
+      "artist": "KISS",
+      "title": "I Was Made for Lovin' You",
+      "album": "Dynasty • 1979"
+    },
     {
       "time": "10:03 pm",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "My Chemical Romance",
       "title": "Dead!",
       "album": "The Black Parade • 2006"
-    },
-    {
-      "time": "8:27 pm",
-      "artist": "Jack Scott",
-      "title": "What In The World's Come Over You",
-      "album": "Single • 1959"
     }
   ]
 }
