@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T02:55:05",
+  "updatedAt": "2026-08-23T02:58:51",
   "now": {
-    "artist": "ABBA",
-    "title": "Take A Chance On Me",
-    "album": "ABBA: The Album • 1977",
+    "artist": "Eric Clapton",
+    "title": "Tears In Heaven",
+    "album": "Rush {soundtrack} • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:58 am",
-      "artist": "Eric Clapton",
-      "title": "Tears In Heaven"
-    },
     {
       "time": "3:03 am",
       "artist": "Fats Domino",
@@ -26,9 +21,20 @@
       "time": "3:09 am",
       "artist": "Neil Young & Crazy Horse",
       "title": "Down by the River"
+    },
+    {
+      "time": "3:18 am",
+      "artist": "Pitbull",
+      "title": "Feel This Moment"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 am",
+      "artist": "Eric Clapton",
+      "title": "Tears In Heaven",
+      "album": "Rush {soundtrack} • 1992"
+    },
     {
       "time": "2:55 am",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Celine Dion",
       "title": "My Heart Will Go On",
       "album": "Let's Talk About Love • 1997"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "Bruce Springsteen",
-      "title": "Streets Of Philadelphia",
-      "album": "Philadelphia Soundtrack • 1994"
     }
   ]
 }
