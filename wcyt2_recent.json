@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T23:58:04",
+  "updatedAt": "2026-08-23T00:02:06",
   "now": {
-    "artist": "Blues Traveler",
-    "title": "Run-Around",
-    "album": "Four • 1995",
+    "artist": "Fats Domino",
+    "title": "Blueberry Hill",
+    "album": "This Is Fats Domino! • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:02 am",
-      "artist": "Fats Domino",
-      "title": "Blueberry Hill"
-    },
     {
       "time": "12:04 am",
       "artist": "Oasis",
@@ -26,9 +21,20 @@
       "time": "12:13 am",
       "artist": "Lana Del Rey",
       "title": "Summertime Sadness"
+    },
+    {
+      "time": "12:18 am",
+      "artist": "The Afghan Whigs",
+      "title": "66"
     }
   ],
   "recent": [
+    {
+      "time": "12:02 am",
+      "artist": "Fats Domino",
+      "title": "Blueberry Hill",
+      "album": "This Is Fats Domino! • 1956"
+    },
     {
       "time": "11:58 pm",
       "artist": "Blues Traveler",
@@ -172,12 +178,6 @@
       "artist": "Rush",
       "title": "YYZ",
       "album": "Moving Pictures • 1981"
-    },
-    {
-      "time": "9:47 pm",
-      "artist": "Brian McKnight",
-      "title": "Back At One",
-      "album": "Back at One • 1999"
     }
   ]
 }
