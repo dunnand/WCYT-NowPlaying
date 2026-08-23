@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T20:45:30",
+  "updatedAt": "2026-08-22T20:45:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "In the Aeroplane Over the Sea",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:45 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "In the Aeroplane Over the Sea"
-    },
     {
       "time": "8:48 pm",
       "artist": "Kate Bush",
@@ -26,9 +21,20 @@
       "time": "8:59 pm",
       "artist": "Turnstile",
       "title": "T.L.C. (Turnstile Love Connection)"
+    },
+    {
+      "time": "9:00 pm",
+      "artist": "Interpol",
+      "title": "Stella Was a Diver and She Was Always Down"
     }
   ],
   "recent": [
+    {
+      "time": "8:45 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "In the Aeroplane Over the Sea",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "8:39 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Curtis Mayfield",
       "title": "Superfly",
       "album": "Super Fly • 1972"
-    },
-    {
-      "time": "7:18 pm",
-      "artist": "The Beatles",
-      "title": "Good Day Sunshine",
-      "album": "Revolver • 1966"
     }
   ]
 }
