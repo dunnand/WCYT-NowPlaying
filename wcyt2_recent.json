@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T22:12:23",
+  "updatedAt": "2026-08-22T22:15:28",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "Movement",
-    "album": "LCD Soundsystem • 2005",
-    "category": "TUNES"
+    "artist": "The Stooges",
+    "title": "1969",
+    "album": "The Stooges • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "The Stooges",
-      "title": "1969"
-    },
     {
       "time": "10:19 pm",
       "artist": "Kraftwerk",
@@ -26,9 +21,20 @@
       "time": "10:28 pm",
       "artist": "Little Willie John",
       "title": "Fever"
+    },
+    {
+      "time": "10:31 pm",
+      "artist": "Linkin Park",
+      "title": "In The End"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "The Stooges",
+      "title": "1969",
+      "album": "The Stooges • 1969"
+    },
     {
       "time": "10:12 pm",
       "artist": "LCD Soundsystem",
@@ -172,12 +178,6 @@
       "artist": "One Direction",
       "title": "If I Could Fly",
       "album": "Made in the A.M. • 2015"
-    },
-    {
-      "time": "8:33 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "Homeward Bound",
-      "album": "Parsley, Sage, Rosemary and Thyme • 1966"
     }
   ]
 }
