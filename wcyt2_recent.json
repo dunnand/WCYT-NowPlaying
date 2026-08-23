@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T19:28:44",
+  "updatedAt": "2026-08-23T19:28:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Big Me",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:28 pm",
-      "artist": "Foo Fighters",
-      "title": "Big Me"
-    },
     {
       "time": "7:30 pm",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "7:42 pm",
       "artist": "Elton John",
       "title": "I Guess That's Why They Call It The Blues"
+    },
+    {
+      "time": "7:46 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame"
     }
   ],
   "recent": [
+    {
+      "time": "7:28 pm",
+      "artist": "Foo Fighters",
+      "title": "Big Me",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "7:25 pm",
       "artist": "Tyler, the Creator",
@@ -172,12 +178,6 @@
       "artist": "Peter, Paul & Mary",
       "title": "Blowin' In The Wind",
       "album": "Peter, Paul and Mary • 1962"
-    },
-    {
-      "time": "6:00 pm",
-      "artist": "Jim Croce",
-      "title": "Operator (That's Not The Way It Feels)",
-      "album": "You Dont Mess Around with Jim • 1972"
     }
   ]
 }
