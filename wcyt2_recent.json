@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T22:12:11",
+  "updatedAt": "2026-08-22T22:12:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "Movement",
+    "album": "LCD Soundsystem • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:12 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Movement"
-    },
     {
       "time": "10:15 pm",
       "artist": "The Stooges",
@@ -26,9 +21,20 @@
       "time": "10:23 pm",
       "artist": "The Brian Jonestown Massacre",
       "title": "Anenome"
+    },
+    {
+      "time": "10:28 pm",
+      "artist": "Little Willie John",
+      "title": "Fever"
     }
   ],
   "recent": [
+    {
+      "time": "10:12 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Movement",
+      "album": "LCD Soundsystem • 2005"
+    },
     {
       "time": "10:07 pm",
       "artist": "KISS",
@@ -172,12 +178,6 @@
       "artist": "Simon & Garfunkel",
       "title": "Homeward Bound",
       "album": "Parsley, Sage, Rosemary and Thyme • 1966"
-    },
-    {
-      "time": "8:30 pm",
-      "artist": "My Chemical Romance",
-      "title": "Dead!",
-      "album": "The Black Parade • 2006"
     }
   ]
 }
