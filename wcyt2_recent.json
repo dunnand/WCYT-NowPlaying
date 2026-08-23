@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T12:34:34",
+  "updatedAt": "2026-08-23T12:34:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "King Crimson",
+    "title": "21st Century Schizoid Man (including Mirrors)",
+    "album": "In the Court of the Crimson King • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "King Crimson",
-      "title": "21st Century Schizoid Man (including Mirrors)"
-    },
     {
       "time": "12:41 pm",
       "artist": "Vampire Weekend",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "King Crimson",
+      "title": "21st Century Schizoid Man (including Mirrors)",
+      "album": "In the Court of the Crimson King • 1969"
+    },
     {
       "time": "12:32 pm",
       "artist": "Guided by Voices",
@@ -172,12 +173,6 @@
       "artist": "John Prine",
       "title": "I Remember Everything",
       "album": "I Remeber Everything • 2020"
-    },
-    {
-      "time": "11:08 am",
-      "artist": "Janet Jackson",
-      "title": "Nasty",
-      "album": "Control • 1986"
     }
   ]
 }
