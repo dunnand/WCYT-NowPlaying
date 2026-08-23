@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T01:50:13",
+  "updatedAt": "2026-08-23T01:53:17",
   "now": {
-    "artist": "The Band",
-    "title": "This Wheel's on Fire",
-    "album": "Music from Big Pink • 1968",
+    "artist": "The Doors",
+    "title": "L.A. Woman",
+    "album": "L.A. Woman • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "The Doors",
-      "title": "L.A. Woman"
-    },
     {
       "time": "2:00 am",
       "artist": "Cocteau Twins",
@@ -26,9 +21,20 @@
       "time": "2:09 am",
       "artist": "OutKast",
       "title": "Ms. Jackson"
+    },
+    {
+      "time": "2:13 am",
+      "artist": "Orange Juice",
+      "title": "Blue Boy"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "The Doors",
+      "title": "L.A. Woman",
+      "album": "L.A. Woman • 1971"
+    },
     {
       "time": "1:50 am",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "66",
       "album": "1965 • 1998"
-    },
-    {
-      "time": "12:13 am",
-      "artist": "Lana Del Rey",
-      "title": "Summertime Sadness",
-      "album": "Born to Die • 2012"
     }
   ]
 }
