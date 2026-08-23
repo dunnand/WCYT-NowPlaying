@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-23T01:45:43",
+  "updatedAt": "2026-08-23T01:50:13",
   "now": {
-    "artist": "Lady Gaga",
-    "title": "Alejandro",
-    "album": "The Fame Monster • 2009",
+    "artist": "The Band",
+    "title": "This Wheel's on Fire",
+    "album": "Music from Big Pink • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 am",
-      "artist": "The Band",
-      "title": "This Wheel's on Fire"
-    },
     {
       "time": "1:53 am",
       "artist": "The Doors",
       "title": "L.A. Woman"
     },
     {
-      "time": "2:01 am",
+      "time": "2:00 am",
       "artist": "Cocteau Twins",
       "title": "Heaven or Las Vegas"
     },
@@ -26,9 +21,20 @@
       "time": "2:05 am",
       "artist": "Psy",
       "title": "Gangnam Style"
+    },
+    {
+      "time": "2:09 am",
+      "artist": "OutKast",
+      "title": "Ms. Jackson"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "The Band",
+      "title": "This Wheel's on Fire",
+      "album": "Music from Big Pink • 1968"
+    },
     {
       "time": "1:45 am",
       "artist": "Lady Gaga",
@@ -172,12 +178,6 @@
       "artist": "Lana Del Rey",
       "title": "Summertime Sadness",
       "album": "Born to Die • 2012"
-    },
-    {
-      "time": "12:09 am",
-      "artist": "Leonard Cohen",
-      "title": "One of Us Cannot Be Wrong",
-      "album": "Songs of Leonard Cohen • 1967"
     }
   ]
 }
