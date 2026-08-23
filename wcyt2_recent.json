@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T03:59:50",
+  "updatedAt": "2026-08-23T04:02:44",
   "now": {
-    "artist": "Aretha Franklin",
-    "title": "Don't Play That Song",
-    "album": "Spirit in the Dark • 1970",
+    "artist": "Gin Blossoms",
+    "title": "Follow You Down",
+    "album": "Congratulations I'm Sorry • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:02 am",
-      "artist": "Gin Blossoms",
-      "title": "Follow You Down"
-    },
     {
       "time": "4:07 am",
       "artist": "Ray Charles",
@@ -21,9 +16,20 @@
       "time": "4:09 am",
       "artist": "Peter Bjorn and John",
       "title": "Young Folk"
+    },
+    {
+      "time": "4:14 am",
+      "artist": "Led Zeppelin",
+      "title": "Ramble On"
     }
   ],
   "recent": [
+    {
+      "time": "4:02 am",
+      "artist": "Gin Blossoms",
+      "title": "Follow You Down",
+      "album": "Congratulations I'm Sorry • 1996"
+    },
     {
       "time": "3:59 am",
       "artist": "Aretha Franklin",
@@ -167,12 +173,6 @@
       "artist": "Eels",
       "title": "Last Stop: This Town",
       "album": "Electro Shock Blues • 1998"
-    },
-    {
-      "time": "2:21 am",
-      "artist": "Dinosaur Jr.",
-      "title": "Puke + Cry",
-      "album": "Green Mind • 1991"
     }
   ]
 }
