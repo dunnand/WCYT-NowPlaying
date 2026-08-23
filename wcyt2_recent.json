@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T09:27:01",
+  "updatedAt": "2026-08-23T09:27:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dionne Warwick",
+    "title": "I'll Never Love This Way Again",
+    "album": "Dionne • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 am",
-      "artist": "Dionne Warwick",
-      "title": "I'll Never Love This Way Again"
-    },
     {
       "time": "9:30 am",
       "artist": "Nico",
@@ -23,7 +18,7 @@
       "title": "Vincent"
     },
     {
-      "time": "9:41 am",
+      "time": "9:42 am",
       "artist": "Radiohead",
       "title": "Paranoid Android"
     },
@@ -31,9 +26,20 @@
       "time": "9:48 am",
       "artist": "The Fleetwoods",
       "title": "Come Softly to Me"
+    },
+    {
+      "time": "9:50 am",
+      "artist": "The Hold Steady",
+      "title": "Stuck Between Stations"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 am",
+      "artist": "Dionne Warwick",
+      "title": "I'll Never Love This Way Again",
+      "album": "Dionne • 1979"
+    },
     {
       "time": "9:23 am",
       "artist": "Kenny Rogers & The First Edition",
@@ -177,12 +183,6 @@
       "artist": "Johnny Rivers",
       "title": "Baby I Need Your Lovin'",
       "album": "Rewind • 1967"
-    },
-    {
-      "time": "7:49 am",
-      "artist": "Kate Bush",
-      "title": "Nocturn",
-      "album": "Aerial • 2005"
     }
   ]
 }
