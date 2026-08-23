@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T12:29:45",
+  "updatedAt": "2026-08-23T12:29:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Everyday",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:29 pm",
-      "artist": "Buddy Holly",
-      "title": "Everyday"
-    },
     {
       "time": "12:32 pm",
       "artist": "Guided by Voices",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:29 pm",
+      "artist": "Buddy Holly",
+      "title": "Everyday",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "12:25 pm",
       "artist": "Pearl Jam",
@@ -172,12 +173,6 @@
       "artist": "Huey Lewis & The News",
       "title": "Walking On A Thin Line",
       "album": "Sports • 1983"
-    },
-    {
-      "time": "11:00 am",
-      "artist": "Pavement",
-      "title": "Elevate Me Later",
-      "album": "Crooked Rain, Crooked Rain • 1994"
     }
   ]
 }
