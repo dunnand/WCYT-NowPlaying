@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T07:25:40",
+  "updatedAt": "2026-08-23T07:25:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Carly Simon",
+    "title": "You're So Vain",
+    "album": "No Secrets • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 am",
-      "artist": "Carly Simon",
-      "title": "You're So Vain"
-    },
     {
       "time": "7:30 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:36 am",
       "artist": "Otis Redding",
       "title": "Respect"
+    },
+    {
+      "time": "7:39 am",
+      "artist": "Cheap Trick",
+      "title": "Surrender"
     }
   ],
   "recent": [
+    {
+      "time": "7:25 am",
+      "artist": "Carly Simon",
+      "title": "You're So Vain",
+      "album": "No Secrets • 1973"
+    },
     {
       "time": "7:22 am",
       "artist": "Yola",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "On Melancholy Hill",
       "album": "Plastic Beach • 2010"
-    },
-    {
-      "time": "5:55 am",
-      "artist": "Matchbox Twenty",
-      "title": "Push",
-      "album": "Yourself or Someone Like You • 1997"
     }
   ]
 }
