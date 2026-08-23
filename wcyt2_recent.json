@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T20:33:37",
+  "updatedAt": "2026-08-22T20:33:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Simon & Garfunkel",
+    "title": "Homeward Bound",
+    "album": "Parsley, Sage, Rosemary and Thyme • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:33 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "Homeward Bound"
-    },
     {
       "time": "8:36 pm",
       "artist": "One Direction",
@@ -26,9 +21,20 @@
       "time": "8:45 pm",
       "artist": "Neutral Milk Hotel",
       "title": "In the Aeroplane Over the Sea"
+    },
+    {
+      "time": "8:48 pm",
+      "artist": "Kate Bush",
+      "title": "Deeper Understanding"
     }
   ],
   "recent": [
+    {
+      "time": "8:33 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "Homeward Bound",
+      "album": "Parsley, Sage, Rosemary and Thyme • 1966"
+    },
     {
       "time": "8:30 pm",
       "artist": "My Chemical Romance",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "cardigan",
       "album": "Folklore • 2020"
-    },
-    {
-      "time": "7:09 pm",
-      "artist": "The Go-Go's",
-      "title": "Our Lips Are Sealed",
-      "album": "Beauty and the Beat • 1981"
     }
   ]
 }
