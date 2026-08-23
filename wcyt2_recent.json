@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T01:01:11",
+  "updatedAt": "2026-08-23T01:01:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Words of Love",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Buddy Holly",
-      "title": "Words of Love"
-    },
     {
       "time": "1:03 am",
       "artist": "PJ Harvey",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Buddy Holly",
+      "title": "Words of Love",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "12:57 am",
       "artist": "Blur",
@@ -172,12 +173,6 @@
       "artist": "Donna Summer",
       "title": "State of Independence",
       "album": "Donna Summer • 1982"
-    },
-    {
-      "time": "10:48 pm",
-      "artist": "Everclear",
-      "title": "So Much For The Afterglow",
-      "album": "So Much for the Afterglow • 1997"
     }
   ]
 }
