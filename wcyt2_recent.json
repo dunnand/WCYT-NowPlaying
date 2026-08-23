@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T20:45:42",
+  "updatedAt": "2026-08-22T20:48:58",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "In the Aeroplane Over the Sea",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Kate Bush",
+    "title": "Deeper Understanding",
+    "album": "The Sensual World • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 pm",
-      "artist": "Kate Bush",
-      "title": "Deeper Understanding"
-    },
     {
       "time": "8:55 pm",
       "artist": "The Replacements",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:48 pm",
+      "artist": "Kate Bush",
+      "title": "Deeper Understanding",
+      "album": "The Sensual World • 1989"
+    },
     {
       "time": "8:45 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Neil Young",
       "title": "Mr. Soul",
       "album": "Buffalo Springfield Again • 1967"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "Curtis Mayfield",
-      "title": "Superfly",
-      "album": "Super Fly • 1972"
     }
   ]
 }
