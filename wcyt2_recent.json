@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T19:36:13",
+  "updatedAt": "2026-08-23T19:42:11",
   "now": {
-    "artist": "Dire Straits",
-    "title": "Romeo and Juliet",
-    "album": "Making Movies • 1980",
+    "artist": "Elton John",
+    "title": "I Guess That's Why They Call It The Blues",
+    "album": "Too Low for Zero • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 pm",
-      "artist": "Elton John",
-      "title": "I Guess That's Why They Call It The Blues"
-    },
     {
       "time": "7:46 pm",
       "artist": "Foo Fighters",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:42 pm",
+      "artist": "Elton John",
+      "title": "I Guess That's Why They Call It The Blues",
+      "album": "Too Low for Zero • 1983"
+    },
     {
       "time": "7:36 pm",
       "artist": "Dire Straits",
@@ -172,12 +173,6 @@
       "artist": "Joe Cocker",
       "title": "Feeling Alright",
       "album": "With a Little Help from My Friends • 1972"
-    },
-    {
-      "time": "6:12 pm",
-      "artist": "Marvin Gaye",
-      "title": "You're All I Need to Get By",
-      "album": "Youre All I Need • 1968"
     }
   ]
 }
