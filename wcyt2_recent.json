@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T08:52:04",
+  "updatedAt": "2026-08-23T08:55:08",
   "now": {
-    "artist": "*NSYNC",
-    "title": "It's Gonna Be Me",
-    "album": "No Strings Attached • 2000",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "Something",
+    "album": "It Was Hot, We Stayed in the Water • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:55 am",
-      "artist": "The Microphones",
-      "title": "Something"
-    },
     {
       "time": "8:59 am",
       "artist": "Frank Ocean",
@@ -26,9 +21,20 @@
       "time": "9:06 am",
       "artist": "Collective Soul",
       "title": "Shine"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Cocteau Twins",
+      "title": "Blue Bell Knoll"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 am",
+      "artist": "The Microphones",
+      "title": "Something",
+      "album": "It Was Hot, We Stayed in the Water • 2000"
+    },
     {
       "time": "8:52 am",
       "artist": "*NSYNC",
@@ -172,12 +178,6 @@
       "artist": "Yola",
       "title": "I Don't Wanna Lie",
       "album": "Stand for Myself • 2021"
-    },
-    {
-      "time": "7:16 am",
-      "artist": "Black Sabbath",
-      "title": "Heaven and Hell",
-      "album": "Heaven and Hell • 1980"
     }
   ]
 }
