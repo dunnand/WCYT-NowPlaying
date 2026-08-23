@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T22:03:16",
+  "updatedAt": "2026-08-22T22:03:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Lennon",
+    "title": "Jealous Guy",
+    "album": "Imagine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:03 pm",
-      "artist": "John Lennon",
-      "title": "Jealous Guy"
-    },
     {
       "time": "10:07 pm",
       "artist": "KISS",
@@ -26,9 +21,20 @@
       "time": "10:15 pm",
       "artist": "The Stooges",
       "title": "1969"
+    },
+    {
+      "time": "10:19 pm",
+      "artist": "Kraftwerk",
+      "title": "The Model"
     }
   ],
   "recent": [
+    {
+      "time": "10:03 pm",
+      "artist": "John Lennon",
+      "title": "Jealous Guy",
+      "album": "Imagine • 1971"
+    },
     {
       "time": "10:00 pm",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Jack Scott",
       "title": "What In The World's Come Over You",
       "album": "Single • 1959"
-    },
-    {
-      "time": "8:26 pm",
-      "artist": "Pavement",
-      "title": "Zurich Is Stained",
-      "album": "Slanted & Enchanted • 1992"
     }
   ]
 }
