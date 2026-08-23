@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T14:17:02",
+  "updatedAt": "2026-08-23T14:20:18",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Speeding Motorcycle",
-    "album": "Fakebook • 1990",
-    "category": "TUNES"
+    "artist": "Ray Charles",
+    "title": "Mess Around",
+    "album": "single • 1953",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:20 pm",
-      "artist": "Ray Charles",
-      "title": "Mess Around"
-    },
     {
       "time": "2:22 pm",
       "artist": "OK Go",
@@ -26,9 +21,20 @@
       "time": "2:28 pm",
       "artist": "Taylor Swift",
       "title": "Bad Blood"
+    },
+    {
+      "time": "2:31 pm",
+      "artist": "Black Crowes",
+      "title": "She Talks To Angels"
     }
   ],
   "recent": [
+    {
+      "time": "2:20 pm",
+      "artist": "Ray Charles",
+      "title": "Mess Around",
+      "album": "single • 1953"
+    },
     {
       "time": "2:17 pm",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "Phil Collins",
       "title": "Don't Lose My Number",
       "album": "No Jacket Required • 1985"
-    },
-    {
-      "time": "12:48 pm",
-      "artist": "Green Day",
-      "title": "In the End",
-      "album": "Dookie • 1994"
     }
   ]
 }
