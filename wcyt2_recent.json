@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T03:37:16",
+  "updatedAt": "2026-08-23T03:37:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Cadillac Ranch",
+    "album": "The River • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:37 am",
-      "artist": "Bruce Springsteen",
-      "title": "Cadillac Ranch"
-    },
     {
       "time": "3:40 am",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "3:48 am",
       "artist": "America",
       "title": "Ventura Highway"
+    },
+    {
+      "time": "3:51 am",
+      "artist": "Justin Timberlake",
+      "title": "Cry Me a River"
     }
   ],
   "recent": [
+    {
+      "time": "3:37 am",
+      "artist": "Bruce Springsteen",
+      "title": "Cadillac Ranch",
+      "album": "The River • 1980"
+    },
     {
       "time": "3:33 am",
       "artist": "Eddy Grant",
@@ -172,12 +178,6 @@
       "artist": "The Doors",
       "title": "L.A. Woman",
       "album": "L.A. Woman • 1971"
-    },
-    {
-      "time": "1:50 am",
-      "artist": "The Band",
-      "title": "This Wheel's on Fire",
-      "album": "Music from Big Pink • 1968"
     }
   ]
 }
