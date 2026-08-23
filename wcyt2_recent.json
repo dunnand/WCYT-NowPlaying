@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T11:24:47",
+  "updatedAt": "2026-08-23T11:29:34",
   "now": {
-    "artist": "John Lennon",
-    "title": "Give Peace a Chance",
-    "album": "Give Peace a Chance • 1969",
+    "artist": "Eric Clapton",
+    "title": "Lay Down Sally",
+    "album": "Slowhand • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:29 am",
-      "artist": "Eric Clapton",
-      "title": "Lay Down Sally"
-    },
     {
       "time": "11:33 am",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "11:40 am",
       "artist": "Matchbox Twenty",
       "title": "If You're Gone"
+    },
+    {
+      "time": "11:45 am",
+      "artist": "Peter & Gordon",
+      "title": "I Go To Pieces"
     }
   ],
   "recent": [
+    {
+      "time": "11:29 am",
+      "artist": "Eric Clapton",
+      "title": "Lay Down Sally",
+      "album": "Slowhand • 1978"
+    },
     {
       "time": "11:24 am",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "Annie Lennox",
       "title": "Walking On Broken Glass",
       "album": "Diva • 1992"
-    },
-    {
-      "time": "9:57 am",
-      "artist": "Olly Murs",
-      "title": "Troublemaker",
-      "album": "Right Place Right Time • 2012"
     }
   ]
 }
