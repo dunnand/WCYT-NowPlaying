@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T11:47:18",
+  "updatedAt": "2026-08-23T11:52:27",
   "now": {
-    "artist": "Radiohead",
-    "title": "Bloom",
-    "album": "The King of Limbs • 2011",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "In The Morning",
+    "album": "Theres Nothing Wrong With Love • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:52 am",
-      "artist": "Built to Spill",
-      "title": "In The Morning"
-    },
     {
       "time": "11:55 am",
       "artist": "Elliott Smith",
@@ -21,9 +16,20 @@
       "time": "11:57 am",
       "artist": "The Jesus and Mary Chain",
       "title": "April Skies"
+    },
+    {
+      "time": "12:01 pm",
+      "artist": "Paul Simon",
+      "title": "Train in the Distance"
     }
   ],
   "recent": [
+    {
+      "time": "11:52 am",
+      "artist": "Built to Spill",
+      "title": "In The Morning",
+      "album": "Theres Nothing Wrong With Love • 1994"
+    },
     {
       "time": "11:47 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Donna Fargo",
       "title": "Funny Face",
       "album": "The Happiest Girl in the Whole U.S.A. • 1972"
-    },
-    {
-      "time": "10:24 am",
-      "artist": "Kaiser Chiefs",
-      "title": "I Predict a Riot",
-      "album": "Employment • 2005"
     }
   ]
 }
