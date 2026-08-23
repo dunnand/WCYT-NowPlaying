@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T09:30:39",
+  "updatedAt": "2026-08-23T09:37:59",
   "now": {
-    "artist": "Nico",
-    "title": "Chelsea Girls",
-    "album": "Chelsea Girl • 1967",
+    "artist": "Don McLean",
+    "title": "Vincent",
+    "album": "American Pie • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:37 am",
-      "artist": "Don McLean",
-      "title": "Vincent"
-    },
     {
       "time": "9:41 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "9:50 am",
       "artist": "The Hold Steady",
       "title": "Stuck Between Stations"
+    },
+    {
+      "time": "9:55 am",
+      "artist": "Monkees",
+      "title": "Daydream Believer"
     }
   ],
   "recent": [
+    {
+      "time": "9:37 am",
+      "artist": "Don McLean",
+      "title": "Vincent",
+      "album": "American Pie • 1971"
+    },
     {
       "time": "9:30 am",
       "artist": "Nico",
@@ -172,12 +178,6 @@
       "artist": "The Chemical Brothers",
       "title": "Setting Sun",
       "album": "Dig Your Own Hole • 1997"
-    },
-    {
-      "time": "8:01 am",
-      "artist": "Harry Styles",
-      "title": "Adore You",
-      "album": "Fine Line • 2019"
     }
   ]
 }
