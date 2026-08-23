@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T17:28:18",
+  "updatedAt": "2026-08-23T17:28:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Gorillaz",
+    "title": "19-2000",
+    "album": "Gorillaz • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:28 pm",
-      "artist": "Gorillaz",
-      "title": "19-2000"
-    },
     {
       "time": "5:31 pm",
       "artist": "Iron & Wine",
@@ -26,9 +21,20 @@
       "time": "5:39 pm",
       "artist": "Oasis",
       "title": "Slide Away"
+    },
+    {
+      "time": "5:45 pm",
+      "artist": "Ride",
+      "title": "Taste"
     }
   ],
   "recent": [
+    {
+      "time": "5:28 pm",
+      "artist": "Gorillaz",
+      "title": "19-2000",
+      "album": "Gorillaz • 2001"
+    },
     {
       "time": "5:22 pm",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Big Country",
       "title": "Porrohman",
       "album": "The Crossing • 1983"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "Beat Happening",
-      "title": "Indian Summer",
-      "album": "Jamboree • 1988"
     }
   ]
 }
