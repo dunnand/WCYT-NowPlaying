@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T08:23:34",
+  "updatedAt": "2026-08-23T08:27:30",
   "now": {
-    "artist": "Weezer",
-    "title": "Hero",
-    "album": "Van Weezer • 2021",
+    "artist": "Gorillaz",
+    "title": "Feel Good Inc.",
+    "album": "Demon Days • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "Gorillaz",
-      "title": "Feel Good Inc."
-    },
     {
       "time": "8:31 am",
       "artist": "Cher",
@@ -26,9 +21,20 @@
       "time": "8:38 am",
       "artist": "Leon Bridges",
       "title": "Smooth Sailin'"
+    },
+    {
+      "time": "8:41 am",
+      "artist": "Christopher Cross",
+      "title": "Ride Like The Wind"
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc.",
+      "album": "Demon Days • 2005"
+    },
     {
       "time": "8:23 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Karmin",
       "title": "Broken Hearted",
       "album": "Hello • 2012"
-    },
-    {
-      "time": "6:46 am",
-      "artist": "Portishead",
-      "title": "Wandering Star",
-      "album": "Dummy • 1994"
     }
   ]
 }
