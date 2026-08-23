@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T02:09:06",
+  "updatedAt": "2026-08-23T02:09:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "OutKast",
+    "title": "Ms. Jackson",
+    "album": "Stankonia • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:09 am",
-      "artist": "OutKast",
-      "title": "Ms. Jackson"
-    },
     {
       "time": "2:13 am",
       "artist": "Orange Juice",
@@ -26,9 +21,20 @@
       "time": "2:21 am",
       "artist": "Dinosaur Jr.",
       "title": "Puke + Cry"
+    },
+    {
+      "time": "2:25 am",
+      "artist": "Eels",
+      "title": "Last Stop: This Town"
     }
   ],
   "recent": [
+    {
+      "time": "2:09 am",
+      "artist": "OutKast",
+      "title": "Ms. Jackson",
+      "album": "Stankonia • 2000"
+    },
     {
       "time": "2:05 am",
       "artist": "Psy",
@@ -172,12 +178,6 @@
       "artist": "Eric Clapton",
       "title": "I Can't Stand It",
       "album": "Another Ticket • 1981"
-    },
-    {
-      "time": "12:24 am",
-      "artist": "Eddie Money",
-      "title": "Take Me Home Tonight",
-      "album": "Can't Hold Back • 1986"
     }
   ]
 }
