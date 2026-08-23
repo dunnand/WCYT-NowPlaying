@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T09:37:59",
+  "updatedAt": "2026-08-23T09:41:56",
   "now": {
-    "artist": "Don McLean",
-    "title": "Vincent",
-    "album": "American Pie • 1971",
+    "artist": "Radiohead",
+    "title": "Paranoid Android",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:41 am",
-      "artist": "Radiohead",
-      "title": "Paranoid Android"
-    },
     {
       "time": "9:48 am",
       "artist": "The Fleetwoods",
@@ -26,9 +21,20 @@
       "time": "9:55 am",
       "artist": "Monkees",
       "title": "Daydream Believer"
+    },
+    {
+      "time": "9:58 am",
+      "artist": "Olly Murs",
+      "title": "Troublemaker"
     }
   ],
   "recent": [
+    {
+      "time": "9:41 am",
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "9:37 am",
       "artist": "Don McLean",
@@ -172,12 +178,6 @@
       "artist": "The Prodigy",
       "title": "Breathe",
       "album": "The Fat of the Land • 1997"
-    },
-    {
-      "time": "8:04 am",
-      "artist": "The Chemical Brothers",
-      "title": "Setting Sun",
-      "album": "Dig Your Own Hole • 1997"
     }
   ]
 }
