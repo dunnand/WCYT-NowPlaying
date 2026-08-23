@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T13:14:16",
+  "updatedAt": "2026-08-23T13:16:39",
   "now": {
-    "artist": "The Beatles",
-    "title": "Hold Me Tight",
-    "album": "With the Beatles • 1963",
+    "artist": "Gordon Lightfoot",
+    "title": "Sundown",
+    "album": "Sundown • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:16 pm",
-      "artist": "Gordon Lightfoot",
-      "title": "Sundown"
-    },
     {
       "time": "1:20 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "1:25 pm",
       "artist": "Kings of Leon",
       "title": "Fans"
+    },
+    {
+      "time": "1:29 pm",
+      "artist": "Sam the Sham and the Pharaohs",
+      "title": "Wooly Bully"
     }
   ],
   "recent": [
+    {
+      "time": "1:16 pm",
+      "artist": "Gordon Lightfoot",
+      "title": "Sundown",
+      "album": "Sundown • 1974"
+    },
     {
       "time": "1:14 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "In The Morning",
       "album": "Theres Nothing Wrong With Love • 1994"
-    },
-    {
-      "time": "11:47 am",
-      "artist": "Radiohead",
-      "title": "Bloom",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
