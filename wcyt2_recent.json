@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T12:41:38",
+  "updatedAt": "2026-08-23T12:44:31",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Diane Young",
-    "album": "Modern Vampires Of The City • 2013",
-    "category": "TUNES"
+    "artist": "The Smashing Pumpkins",
+    "title": "In the Arms of Sleep",
+    "album": "Mellon Collie and the Infinite Sadness • 1995",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:44 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "In the Arms of Sleep"
-    },
     {
       "time": "12:48 pm",
       "artist": "Green Day",
@@ -21,9 +16,25 @@
       "time": "12:50 pm",
       "artist": "Phil Collins",
       "title": "Don't Lose My Number"
+    },
+    {
+      "time": "12:55 pm",
+      "artist": "Run",
+      "title": "D.M.C. - Walk This Way"
+    },
+    {
+      "time": "1:00 pm",
+      "artist": "Miley Cyrus",
+      "title": "Flowers"
     }
   ],
   "recent": [
+    {
+      "time": "12:44 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "In the Arms of Sleep",
+      "album": "Mellon Collie and the Infinite Sadness • 1995"
+    },
     {
       "time": "12:41 pm",
       "artist": "Vampire Weekend",
@@ -167,12 +178,6 @@
       "artist": "Elvis Costello",
       "title": "Miracle Man",
       "album": "My Aim Is True • 1977"
-    },
-    {
-      "time": "11:14 am",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "Accidents Will Happen",
-      "album": "Armed Forces • 1979"
     }
   ]
 }
