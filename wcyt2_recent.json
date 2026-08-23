@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T00:27:33",
+  "updatedAt": "2026-08-23T00:27:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "I Can't Stand It",
+    "album": "Another Ticket • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:27 am",
-      "artist": "Eric Clapton",
-      "title": "I Can't Stand It"
-    },
     {
       "time": "12:31 am",
       "artist": "Bershy",
@@ -26,9 +21,20 @@
       "time": "12:41 am",
       "artist": "Paul McCartney",
       "title": "Uncle Albert/Admiral Halsey"
+    },
+    {
+      "time": "12:46 am",
+      "artist": "Justin Timberlake",
+      "title": "My Love feat. T.I."
     }
   ],
   "recent": [
+    {
+      "time": "12:27 am",
+      "artist": "Eric Clapton",
+      "title": "I Can't Stand It",
+      "album": "Another Ticket • 1981"
+    },
     {
       "time": "12:24 am",
       "artist": "Eddie Money",
@@ -172,12 +178,6 @@
       "artist": "Kraftwerk",
       "title": "The Model",
       "album": "The Man-Machine • 1978"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "The Stooges",
-      "title": "1969",
-      "album": "The Stooges • 1969"
     }
   ]
 }
