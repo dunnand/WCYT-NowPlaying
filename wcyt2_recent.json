@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T00:27:45",
+  "updatedAt": "2026-08-23T00:31:41",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "I Can't Stand It",
-    "album": "Another Ticket • 1981",
+    "artist": "Bershy",
+    "title": "Radio",
+    "album": "Single • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 am",
-      "artist": "Bershy",
-      "title": "Radio"
-    },
     {
       "time": "12:34 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -26,9 +21,20 @@
       "time": "12:46 am",
       "artist": "Justin Timberlake",
       "title": "My Love feat. T.I."
+    },
+    {
+      "time": "12:50 am",
+      "artist": "Radiohead",
+      "title": "Little by Little"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 am",
+      "artist": "Bershy",
+      "title": "Radio",
+      "album": "Single • 2022"
+    },
     {
       "time": "12:27 am",
       "artist": "Eric Clapton",
@@ -172,12 +178,6 @@
       "artist": "The Brian Jonestown Massacre",
       "title": "Anenome",
       "album": "Their Satanic Majesties' Second Request • 1996"
-    },
-    {
-      "time": "10:19 pm",
-      "artist": "Kraftwerk",
-      "title": "The Model",
-      "album": "The Man-Machine • 1978"
     }
   ]
 }
