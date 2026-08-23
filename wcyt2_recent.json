@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T02:52:10",
+  "updatedAt": "2026-08-23T02:55:05",
   "now": {
-    "artist": "Nancy Sinatra",
-    "title": "You Only Live Twice",
-    "album": "You Only Live Twice • 1967",
+    "artist": "ABBA",
+    "title": "Take A Chance On Me",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:54 am",
-      "artist": "ABBA",
-      "title": "Take A Chance On Me"
-    },
     {
       "time": "2:58 am",
       "artist": "Eric Clapton",
@@ -26,9 +21,20 @@
       "time": "3:06 am",
       "artist": "Johnny Cash",
       "title": "I'm Free From the Chain Gang Now"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "Neil Young & Crazy Horse",
+      "title": "Down by the River"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 am",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "2:52 am",
       "artist": "Nancy Sinatra",
@@ -172,12 +178,6 @@
       "artist": "Bruce Springsteen",
       "title": "Streets Of Philadelphia",
       "album": "Philadelphia Soundtrack • 1994"
-    },
-    {
-      "time": "1:09 am",
-      "artist": "Miley Cyrus",
-      "title": "Wrecking Ball",
-      "album": "Bangerz • 2013"
     }
   ]
 }
