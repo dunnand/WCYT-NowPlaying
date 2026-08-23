@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T19:07:18",
+  "updatedAt": "2026-08-23T19:11:46",
   "now": {
-    "artist": "John Denver",
-    "title": "Rocky Mountain High",
-    "album": "Rocky Mountain High • 1972",
+    "artist": "Deee-Lite",
+    "title": "Groove Is in the Heart",
+    "album": "World Clique • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:11 pm",
-      "artist": "Deee",
-      "title": "Lite - Groove Is in the Heart"
-    },
     {
       "time": "7:15 pm",
       "artist": "Paul Anka",
@@ -21,9 +16,20 @@
       "time": "7:18 pm",
       "artist": "Muse",
       "title": "Plug In Baby"
+    },
+    {
+      "time": "7:21 pm",
+      "artist": "Sam Cooke",
+      "title": "Nobody Knows the Trouble I've Seen"
     }
   ],
   "recent": [
+    {
+      "time": "7:11 pm",
+      "artist": "Deee-Lite",
+      "title": "Groove Is in the Heart",
+      "album": "World Clique • 1990"
+    },
     {
       "time": "7:07 pm",
       "artist": "John Denver",
@@ -167,12 +173,6 @@
       "artist": "Ride",
       "title": "Taste",
       "album": "Nowhere • 1990"
-    },
-    {
-      "time": "5:39 pm",
-      "artist": "Oasis",
-      "title": "Slide Away",
-      "album": "Definitely Maybe • 1994"
     }
   ]
 }
