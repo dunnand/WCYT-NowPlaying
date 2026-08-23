@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T11:08:05",
+  "updatedAt": "2026-08-23T11:11:53",
   "now": {
-    "artist": "Janet Jackson",
-    "title": "Nasty",
-    "album": "Control • 1986",
+    "artist": "John Prine",
+    "title": "I Remember Everything",
+    "album": "I Remeber Everything • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:11 am",
-      "artist": "John Prine",
-      "title": "I Remember Everything"
-    },
     {
       "time": "11:14 am",
       "artist": "Elvis Costello & The Attractions",
@@ -21,9 +16,20 @@
       "time": "11:17 am",
       "artist": "Elvis Costello",
       "title": "Miracle Man"
+    },
+    {
+      "time": "11:21 am",
+      "artist": "M.I.A.",
+      "title": "Jimmy"
     }
   ],
   "recent": [
+    {
+      "time": "11:11 am",
+      "artist": "John Prine",
+      "title": "I Remember Everything",
+      "album": "I Remeber Everything • 2020"
+    },
     {
       "time": "11:08 am",
       "artist": "Janet Jackson",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Paranoid Android",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "9:37 am",
-      "artist": "Don McLean",
-      "title": "Vincent",
-      "album": "American Pie • 1971"
     }
   ]
 }
