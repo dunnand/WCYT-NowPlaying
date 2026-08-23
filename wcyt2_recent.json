@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T06:30:35",
+  "updatedAt": "2026-08-23T06:33:31",
   "now": {
-    "artist": "Brian Eno",
-    "title": "By This River",
-    "album": "Before and After Science • 1977",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Hey Joe",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:33 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Hey Joe"
-    },
     {
       "time": "6:36 am",
       "artist": "Eno",
@@ -26,9 +21,20 @@
       "time": "6:41 am",
       "artist": "Bruce Springsteen",
       "title": "Blinded by the Light"
+    },
+    {
+      "time": "6:46 am",
+      "artist": "Portishead",
+      "title": "Wandering Star"
     }
   ],
   "recent": [
+    {
+      "time": "6:33 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Hey Joe",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "6:30 am",
       "artist": "Brian Eno",
@@ -172,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "Sexyback",
       "album": "FutureSex/LoveSounds • 2006"
-    },
-    {
-      "time": "5:02 am",
-      "artist": "Buddy Holly",
-      "title": "Peggy Sue",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
