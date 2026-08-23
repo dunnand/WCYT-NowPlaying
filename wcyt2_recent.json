@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T05:31:52",
+  "updatedAt": "2026-08-23T05:35:18",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Anti-Hero",
-    "album": "Midnights • 2022",
+    "artist": "Bill Withers",
+    "title": "Loveley Day",
+    "album": "Menagerie • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 am",
-      "artist": "Bill Withers",
-      "title": "Loveley Day"
-    },
     {
       "time": "5:39 am",
       "artist": "Black Sabbath",
@@ -21,9 +16,25 @@
       "time": "5:44 am",
       "artist": "Justice",
       "title": "Let There Be Light"
+    },
+    {
+      "time": "5:49 am",
+      "artist": "The Beatles",
+      "title": "Act Naturally"
+    },
+    {
+      "time": "5:51 am",
+      "artist": "Boston",
+      "title": "More Than A Feeling"
     }
   ],
   "recent": [
+    {
+      "time": "5:35 am",
+      "artist": "Bill Withers",
+      "title": "Loveley Day",
+      "album": "Menagerie • 1977"
+    },
     {
       "time": "5:31 am",
       "artist": "Taylor Swift",
@@ -167,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "I Got a Woman",
       "album": "single • 1954"
-    },
-    {
-      "time": "4:02 am",
-      "artist": "Gin Blossoms",
-      "title": "Follow You Down",
-      "album": "Congratulations I'm Sorry • 1996"
     }
   ]
 }
