@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T08:20:19",
+  "updatedAt": "2026-08-23T08:20:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Waits",
+    "title": "In the Neighborhood",
+    "album": "Swordfishtrombones • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 am",
-      "artist": "Tom Waits",
-      "title": "In the Neighborhood"
-    },
     {
       "time": "8:23 am",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "8:31 am",
       "artist": "Cher",
       "title": "Gypsys, Tramps & Thieves"
+    },
+    {
+      "time": "8:33 am",
+      "artist": "Interpol",
+      "title": "PDA"
     }
   ],
   "recent": [
+    {
+      "time": "8:20 am",
+      "artist": "Tom Waits",
+      "title": "In the Neighborhood",
+      "album": "Swordfishtrombones • 1983"
+    },
     {
       "time": "8:15 am",
       "artist": "New Order",
@@ -172,12 +178,6 @@
       "artist": "Bruce Springsteen",
       "title": "Blinded by the Light",
       "album": "Greetings from Asbury Park, N.J. • 1973"
-    },
-    {
-      "time": "6:39 am",
-      "artist": "The Beatles",
-      "title": "No Reply",
-      "album": "Beatles for Sale • 1964"
     }
   ]
 }
