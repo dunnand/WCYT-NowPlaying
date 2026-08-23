@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T17:14:49",
+  "updatedAt": "2026-08-23T17:17:42",
   "now": {
-    "artist": "James Taylor",
-    "title": "Mexico",
-    "album": "Gorilla • 1975",
+    "artist": "Nirvana",
+    "title": "Heart-Shaped Box",
+    "album": "In Utero • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:17 pm",
-      "artist": "Nirvana",
-      "title": "Heart-Shaped Box"
-    },
     {
       "time": "5:22 pm",
       "artist": "Thom Yorke",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:17 pm",
+      "artist": "Nirvana",
+      "title": "Heart-Shaped Box",
+      "album": "In Utero • 1993"
+    },
     {
       "time": "5:14 pm",
       "artist": "James Taylor",
@@ -172,12 +173,6 @@
       "artist": "Guided by Voices",
       "title": "Teenage FBI",
       "album": "Do The Collapse • 1999"
-    },
-    {
-      "time": "3:35 pm",
-      "artist": "The Flaming Lips",
-      "title": "The Spark That Bled",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
