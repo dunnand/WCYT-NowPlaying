@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-22T21:14:28",
+  "updatedAt": "2026-08-22T21:20:18",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "I Can Change",
-    "album": "This Is Happening • 2010",
-    "category": "TUNES"
+    "artist": "George Harrison",
+    "title": "Isn't It a Pity",
+    "album": "All Things Must Pass • 1970",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 pm",
-      "artist": "George Harrison",
-      "title": "Isn't It a Pity"
-    },
     {
       "time": "9:27 pm",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:20 pm",
+      "artist": "George Harrison",
+      "title": "Isn't It a Pity",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "9:14 pm",
       "artist": "LCD Soundsystem",
@@ -172,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Last Kiss",
       "album": "single • 1999"
-    },
-    {
-      "time": "7:44 pm",
-      "artist": "Radiohead",
-      "title": "Glass Eyes",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
