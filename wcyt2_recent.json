@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T00:02:06",
+  "updatedAt": "2026-08-23T00:04:31",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blueberry Hill",
-    "album": "This Is Fats Domino! • 1956",
+    "artist": "Oasis",
+    "title": "Stop Crying Your Heart Out",
+    "album": "Heathen Chemistry • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Oasis",
-      "title": "Stop Crying Your Heart Out"
-    },
     {
       "time": "12:09 am",
       "artist": "Leonard Cohen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Oasis",
+      "title": "Stop Crying Your Heart Out",
+      "album": "Heathen Chemistry • 2002"
+    },
     {
       "time": "12:02 am",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "U2",
       "title": "With Or Without You",
       "album": "The Joshua Tree • 1987"
-    },
-    {
-      "time": "9:51 pm",
-      "artist": "Rush",
-      "title": "YYZ",
-      "album": "Moving Pictures • 1981"
     }
   ]
 }
