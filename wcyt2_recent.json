@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T18:01:07",
+  "updatedAt": "2026-08-24T18:03:10",
   "now": {
-    "artist": "The Beatles",
-    "title": "It Won't Be Long",
-    "album": "With the Beatles • 1963",
+    "artist": "Wilco",
+    "title": "If I Ever Was A Child",
+    "album": "Schmilco • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:03 pm",
-      "artist": "Wilco",
-      "title": "If I Ever Was A Child"
-    },
     {
       "time": "6:06 pm",
       "artist": "Metallica",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:03 pm",
+      "artist": "Wilco",
+      "title": "If I Ever Was A Child",
+      "album": "Schmilco • 2016"
+    },
     {
       "time": "6:01 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Van Morrison",
       "title": "Moondance",
       "album": "Moondance • 1977"
-    },
-    {
-      "time": "4:23 pm",
-      "artist": "Kacey Musgraves",
-      "title": "Jade Green",
-      "album": "Deeper Well • 2024"
     }
   ]
 }
