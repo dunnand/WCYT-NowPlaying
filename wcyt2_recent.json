@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T22:00:09",
+  "updatedAt": "2026-08-23T22:09:04",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Free Bird",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
+    "artist": "Weezer",
+    "title": "Say It Ain't So",
+    "album": "Weezer • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:09 pm",
-      "artist": "Weezer",
-      "title": "Say It Ain't So"
-    },
     {
       "time": "10:13 pm",
       "artist": "Solomon Linda's Original Evening Birds",
@@ -26,9 +21,20 @@
       "time": "10:19 pm",
       "artist": "Monkees",
       "title": "I'm A Believer"
+    },
+    {
+      "time": "10:21 pm",
+      "artist": "Selena Gomez",
+      "title": "Love You Like A Love Song"
     }
   ],
   "recent": [
+    {
+      "time": "10:09 pm",
+      "artist": "Weezer",
+      "title": "Say It Ain't So",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "10:00 pm",
       "artist": "Lynyrd Skynyrd",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "(Nice Dream)",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "8:28 pm",
-      "artist": "Cece Peniston",
-      "title": "Finally",
-      "album": "Finally • 1991"
     }
   ]
 }
