@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T15:57:13",
+  "updatedAt": "2026-08-24T16:01:48",
   "now": {
-    "artist": "MGMT",
-    "title": "Kids",
-    "album": "Oracular Spectacular • 2007",
-    "category": "TUNES"
+    "artist": "OK Go",
+    "title": "Here It Goes Again",
+    "album": "Oh No • 2005",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:01 pm",
-      "artist": "OK Go",
-      "title": "Here It Goes Again"
-    },
     {
       "time": "4:04 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "4:11 pm",
       "artist": "Jamiroquai",
       "title": "Alright"
+    },
+    {
+      "time": "4:15 pm",
+      "artist": "Toto",
+      "title": "99"
     }
   ],
   "recent": [
+    {
+      "time": "4:01 pm",
+      "artist": "OK Go",
+      "title": "Here It Goes Again",
+      "album": "Oh No • 2005"
+    },
     {
       "time": "3:57 pm",
       "artist": "MGMT",
@@ -172,12 +178,6 @@
       "artist": "Chappell Roan",
       "title": "HOT TO GO!",
       "album": "The Rise and Fall of a Midwest Princess • 2024"
-    },
-    {
-      "time": "1:51 pm",
-      "artist": "The The",
-      "title": "This Is the Day",
-      "album": "Soul Mining • 1983"
     }
   ]
 }
