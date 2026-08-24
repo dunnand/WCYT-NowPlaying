@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T23:58:11",
+  "updatedAt": "2026-08-24T00:00:36",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "The Biggest Lie",
-    "album": "Elliott Smith • 1995",
-    "category": "TUNES"
+    "artist": "Zedd",
+    "title": "Clarity",
+    "album": "Clarity • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 am",
-      "artist": "Zedd",
-      "title": "Clarity"
-    },
     {
       "time": "12:04 am",
       "artist": "Lightning Bolt",
@@ -21,9 +16,20 @@
       "time": "12:09 am",
       "artist": "The National",
       "title": "Abel"
+    },
+    {
+      "time": "12:13 am",
+      "artist": "Vampire Weekend",
+      "title": "Unbelievers"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 am",
+      "artist": "Zedd",
+      "title": "Clarity",
+      "album": "Clarity • 2012"
+    },
     {
       "time": "11:58 pm",
       "artist": "Elliott Smith",
@@ -167,12 +173,6 @@
       "artist": "Eric B. & Rakim",
       "title": "I Know You Got Soul",
       "album": "Paid in Full • 1987"
-    },
-    {
-      "time": "9:28 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Two-Headed Boy",
-      "album": "In The Aeroplane Over The Sea • 1998"
     }
   ]
 }
