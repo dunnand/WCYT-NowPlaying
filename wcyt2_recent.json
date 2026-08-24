@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T19:23:14",
+  "updatedAt": "2026-08-24T19:28:23",
   "now": {
-    "artist": "The Allman Brothers Band",
-    "title": "Blue Sky",
-    "album": "Eat a Peach • 1972",
+    "artist": "Big Star",
+    "title": "Thirteen",
+    "album": "#1 Record • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:28 pm",
-      "artist": "Big Star",
-      "title": "Thirteen"
-    },
     {
       "time": "7:31 pm",
       "artist": "Lemon Jelly",
@@ -26,9 +21,20 @@
       "time": "7:42 pm",
       "artist": "Boney M.",
       "title": "Rivers of Babylon"
+    },
+    {
+      "time": "7:46 pm",
+      "artist": "The Presidents of the United States of America",
+      "title": "Peaches"
     }
   ],
   "recent": [
+    {
+      "time": "7:28 pm",
+      "artist": "Big Star",
+      "title": "Thirteen",
+      "album": "#1 Record • 1972"
+    },
     {
       "time": "7:23 pm",
       "artist": "The Allman Brothers Band",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "New York I Love You But You're Bringing Me Down",
       "album": "Sound of Silver • 2007"
-    },
-    {
-      "time": "5:53 pm",
-      "artist": "Don Gibson",
-      "title": "Blue Blue Day",
-      "album": "Oh Lonesome Me • 1958"
     }
   ]
 }
