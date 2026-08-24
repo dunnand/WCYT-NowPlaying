@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T20:47:41",
+  "updatedAt": "2026-08-23T20:52:01",
   "now": {
-    "artist": "Kate Bush",
-    "title": "Wuthering Heights",
-    "album": "The Kick Inside • 1978",
+    "artist": "Kenny Rogers",
+    "title": "The Gambler",
+    "album": "The Gambler • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:52 pm",
-      "artist": "Kenny Rogers",
-      "title": "The Gambler"
-    },
     {
       "time": "8:55 pm",
       "artist": "Goldfrapp",
@@ -26,9 +21,20 @@
       "time": "9:02 pm",
       "artist": "Kool & The Gang",
       "title": "Hollywood Swinging"
+    },
+    {
+      "time": "9:06 pm",
+      "artist": "Pavement",
+      "title": "Cut Your Hair"
     }
   ],
   "recent": [
+    {
+      "time": "8:52 pm",
+      "artist": "Kenny Rogers",
+      "title": "The Gambler",
+      "album": "The Gambler • 1978"
+    },
     {
       "time": "8:47 pm",
       "artist": "Kate Bush",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Plug In Baby",
       "album": "Origin of Symmetry • 2001"
-    },
-    {
-      "time": "7:15 pm",
-      "artist": "Paul Anka",
-      "title": "Put Your Head On My Shoulder",
-      "album": "single • 1959"
     }
   ]
 }
