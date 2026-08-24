@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T21:21:47",
+  "updatedAt": "2026-08-23T21:28:05",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Cowboy Dan",
-    "album": "Lonesome Crowded West • 1998",
+    "artist": "Neutral Milk Hotel",
+    "title": "Two-Headed Boy",
+    "album": "In The Aeroplane Over The Sea • 1998",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:27 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Two-Headed Boy"
-    },
     {
       "time": "9:32 pm",
       "artist": "Eric B. & Rakim",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:28 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Two-Headed Boy",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "9:21 pm",
       "artist": "Modest Mouse",
@@ -172,12 +173,6 @@
       "artist": "Joanna Newsom",
       "title": "Peach, Plum, Pear",
       "album": "The Milk Eyed Mender • 2004"
-    },
-    {
-      "time": "7:54 pm",
-      "artist": "Joy Division",
-      "title": "Shadowplay",
-      "album": "Unknown Pleasures • 1979"
     }
   ]
 }
