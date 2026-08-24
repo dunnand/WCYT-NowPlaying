@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T01:03:26",
+  "updatedAt": "2026-08-24T01:03:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Louis Armstrong",
+    "title": "What a Wonderful World",
+    "album": "single • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Louis Armstrong",
-      "title": "What a Wonderful World"
-    },
     {
       "time": "1:05 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "1:13 am",
       "artist": "A Tribe Called Quest",
       "title": "Excursions"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "Jackson Browne",
+      "title": "Somebody's Baby"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Louis Armstrong",
+      "title": "What a Wonderful World",
+      "album": "single • 1967"
+    },
     {
       "time": "1:00 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Lizzo",
       "title": "Special",
       "album": "Special • 2022"
-    },
-    {
-      "time": "10:37 pm",
-      "artist": "George Harrison",
-      "title": "Cheer Down",
-      "album": "Lethal Weapon 2 Soundtrack • 1989"
     }
   ]
 }
