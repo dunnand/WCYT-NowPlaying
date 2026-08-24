@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T01:52:42",
+  "updatedAt": "2026-08-24T01:54:57",
   "now": {
-    "artist": "The Mountain Goats",
-    "title": "Onions",
-    "album": "The Coroner's Gambit • 2000",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "I'll Cry Instead",
+    "album": "A Hard Day's Night • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:54 am",
-      "artist": "The Beatles",
-      "title": "I'll Cry Instead"
-    },
     {
       "time": "1:56 am",
       "artist": "Thom Yorke",
@@ -21,9 +16,20 @@
       "time": "2:03 am",
       "artist": "Bjork",
       "title": "Venus as a Boy"
+    },
+    {
+      "time": "2:08 am",
+      "artist": "CAKE",
+      "title": "Frank Sinatra"
     }
   ],
   "recent": [
+    {
+      "time": "1:54 am",
+      "artist": "The Beatles",
+      "title": "I'll Cry Instead",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "1:52 am",
       "artist": "The Mountain Goats",
@@ -167,12 +173,6 @@
       "artist": "Chappell Roan",
       "title": "Red Wine Supernova",
       "album": "The Rise and Fall of a Midwest Princess • 2024"
-    },
-    {
-      "time": "12:30 am",
-      "artist": "Guns N' Roses",
-      "title": "Sweet Child O' Mine",
-      "album": "Appetite for Destruction • 1987"
     }
   ]
 }
