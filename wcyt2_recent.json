@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T16:34:25",
+  "updatedAt": "2026-08-24T16:34:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Velvet Underground",
+    "title": "Rock & Roll",
+    "album": "Loaded • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:34 pm",
-      "artist": "The Velvet Underground",
-      "title": "Rock & Roll"
-    },
     {
       "time": "4:39 pm",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "4:50 pm",
       "artist": "Jeff Buckley",
       "title": "Grace"
+    },
+    {
+      "time": "4:56 pm",
+      "artist": "Little Richard",
+      "title": "Rip It Up"
     }
   ],
   "recent": [
+    {
+      "time": "4:34 pm",
+      "artist": "The Velvet Underground",
+      "title": "Rock & Roll",
+      "album": "Loaded • 1970"
+    },
     {
       "time": "4:31 pm",
       "artist": "MC5",
@@ -172,12 +178,6 @@
       "artist": "Smokey Robinson & The Miracles",
       "title": "The Tears of a Clown",
       "album": "Make It Happen • 1967"
-    },
-    {
-      "time": "2:22 pm",
-      "artist": "My Morning Jacket",
-      "title": "Dancefloors",
-      "album": "It Still Moves • 2003"
     }
   ]
 }
