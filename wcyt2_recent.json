@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T18:03:10",
+  "updatedAt": "2026-08-24T18:06:02",
   "now": {
-    "artist": "Wilco",
-    "title": "If I Ever Was A Child",
-    "album": "Schmilco • 2016",
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "album": "Metallica • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:06 pm",
-      "artist": "Metallica",
-      "title": "Enter Sandman"
-    },
     {
       "time": "6:11 pm",
       "artist": "Michael Bolton",
@@ -21,9 +16,20 @@
       "time": "6:15 pm",
       "artist": "Linda Ronstadt",
       "title": "When Something Is Wrong With My Baby feat. Aaron Neville"
+    },
+    {
+      "time": "6:19 pm",
+      "artist": "Jesse Johnson",
+      "title": "Get To Know Yah"
     }
   ],
   "recent": [
+    {
+      "time": "6:06 pm",
+      "artist": "Metallica",
+      "title": "Enter Sandman",
+      "album": "Metallica • 1991"
+    },
     {
       "time": "6:03 pm",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "MC5",
       "title": "Kick Out the Jams",
       "album": "Kick Out the Jams • 1969"
-    },
-    {
-      "time": "4:27 pm",
-      "artist": "Van Morrison",
-      "title": "Moondance",
-      "album": "Moondance • 1977"
     }
   ]
 }
