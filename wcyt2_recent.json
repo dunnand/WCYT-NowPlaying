@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T07:28:12",
+  "updatedAt": "2026-08-24T07:32:07",
   "now": {
-    "artist": "Sheryl Crow",
-    "title": "My Favorite Mistake",
-    "album": "The Globe Sessions • 1998",
+    "artist": "Elvis Presley",
+    "title": "I Want You, I Need You, I Love You",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:32 am",
-      "artist": "Elvis Presley",
-      "title": "I Want You, I Need You, I Love You"
-    },
     {
       "time": "7:34 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -26,9 +21,20 @@
       "time": "7:44 am",
       "artist": "Son Little",
       "title": "hey rose"
+    },
+    {
+      "time": "7:47 am",
+      "artist": "Slowdive",
+      "title": "When the Sun Hits"
     }
   ],
   "recent": [
+    {
+      "time": "7:32 am",
+      "artist": "Elvis Presley",
+      "title": "I Want You, I Need You, I Love You",
+      "album": "single • 1956"
+    },
     {
       "time": "7:28 am",
       "artist": "Sheryl Crow",
@@ -172,12 +178,6 @@
       "artist": "Madness",
       "title": "Baggy Trousers",
       "album": "Absolutely • 1980"
-    },
-    {
-      "time": "6:00 am",
-      "artist": "Janet Jackson",
-      "title": "Love Will Never Do Without You",
-      "album": "Janet Jackson's Rhythm Nation 1814 • 1990"
     }
   ]
 }
