@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T08:24:23",
+  "updatedAt": "2026-08-24T08:28:10",
   "now": {
-    "artist": "Ace Of Base",
-    "title": "Don't Turn Around",
-    "album": "Happy Nation • 1994",
+    "artist": "Connie Francis",
+    "title": "My Happiness",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:28 am",
-      "artist": "Connie Francis",
-      "title": "My Happiness"
-    },
     {
       "time": "8:30 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "8:38 am",
       "artist": "Wilco",
       "title": "Whole Love"
+    },
+    {
+      "time": "8:41 am",
+      "artist": "Amy Grant",
+      "title": "Every Heartbeat"
     }
   ],
   "recent": [
+    {
+      "time": "8:28 am",
+      "artist": "Connie Francis",
+      "title": "My Happiness",
+      "album": "single • 1958"
+    },
     {
       "time": "8:24 am",
       "artist": "Ace Of Base",
@@ -172,12 +178,6 @@
       "artist": "Missing Persons",
       "title": "Destination Unknown",
       "album": "Spring Session M • 1982"
-    },
-    {
-      "time": "6:56 am",
-      "artist": "Prince",
-      "title": "New Power Generation",
-      "album": "Graffiti Bridge • 1990"
     }
   ]
 }
