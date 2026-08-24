@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T08:51:19",
+  "updatedAt": "2026-08-24T08:51:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Learning To Fly",
+    "album": "A Momentary Lapse of Reason • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:51 am",
-      "artist": "Pink Floyd",
-      "title": "Learning To Fly"
-    },
     {
       "time": "8:56 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "9:06 am",
       "artist": "Sylvester",
       "title": "You Make Me Feel (Mighty Real)"
+    },
+    {
+      "time": "9:12 am",
+      "artist": "Kings of Leon",
+      "title": "King of the Rodeo"
     }
   ],
   "recent": [
+    {
+      "time": "8:51 am",
+      "artist": "Pink Floyd",
+      "title": "Learning To Fly",
+      "album": "A Momentary Lapse of Reason • 1987"
+    },
     {
       "time": "8:49 am",
       "artist": "Operation Ivy",
@@ -172,12 +178,6 @@
       "artist": "Supertramp",
       "title": "The Logical Song",
       "album": "Breakfast in America • 1979"
-    },
-    {
-      "time": "7:22 am",
-      "artist": "Neil Sedaka",
-      "title": "Breaking Up Is Hard To Do",
-      "album": "single • 1962"
     }
   ]
 }
