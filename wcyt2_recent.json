@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T07:24:15",
+  "updatedAt": "2026-08-24T07:28:12",
   "now": {
-    "artist": "Supertramp",
-    "title": "The Logical Song",
-    "album": "Breakfast in America • 1979",
+    "artist": "Sheryl Crow",
+    "title": "My Favorite Mistake",
+    "album": "The Globe Sessions • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:28 am",
-      "artist": "Sheryl Crow",
-      "title": "My Favorite Mistake"
-    },
     {
       "time": "7:32 am",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "7:39 am",
       "artist": "Neil Diamond",
       "title": "Holly Holy"
+    },
+    {
+      "time": "7:44 am",
+      "artist": "Son Little",
+      "title": "hey rose"
     }
   ],
   "recent": [
+    {
+      "time": "7:28 am",
+      "artist": "Sheryl Crow",
+      "title": "My Favorite Mistake",
+      "album": "The Globe Sessions • 1998"
+    },
     {
       "time": "7:24 am",
       "artist": "Supertramp",
@@ -172,12 +178,6 @@
       "artist": "Janet Jackson",
       "title": "Love Will Never Do Without You",
       "album": "Janet Jackson's Rhythm Nation 1814 • 1990"
-    },
-    {
-      "time": "5:55 am",
-      "artist": "Depeche Mode",
-      "title": "Personal Jesus",
-      "album": "Violator • 1990"
     }
   ]
 }
