@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T16:56:03",
+  "updatedAt": "2026-08-24T16:58:26",
   "now": {
-    "artist": "Little Richard",
-    "title": "Rip It Up",
-    "album": "Here's Little Richard • 1957",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "Daft Punk Is Playing At My House",
+    "album": "LCD Soundsystem • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:58 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Daft Punk Is Playing At My House"
-    },
     {
       "time": "5:03 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -21,9 +16,20 @@
       "time": "5:06 pm",
       "artist": "Thom Yorke",
       "title": "Not the News"
+    },
+    {
+      "time": "5:11 pm",
+      "artist": "John Prine",
+      "title": "The Sins of Memphisto"
     }
   ],
   "recent": [
+    {
+      "time": "4:58 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Daft Punk Is Playing At My House",
+      "album": "LCD Soundsystem • 2005"
+    },
     {
       "time": "4:56 pm",
       "artist": "Little Richard",
@@ -167,12 +173,6 @@
       "artist": "Tom Petty",
       "title": "Free Fallin'",
       "album": "Full Moon Fever • 1989"
-    },
-    {
-      "time": "2:42 pm",
-      "artist": "The Waterboys",
-      "title": "Fisherman's Blues",
-      "album": "Fisherman's Blues • 1988"
     }
   ]
 }
