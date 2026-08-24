@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T08:38:08",
+  "updatedAt": "2026-08-24T08:41:56",
   "now": {
-    "artist": "Wilco",
-    "title": "Whole Love",
-    "album": "The Whole Love • 2011",
+    "artist": "Amy Grant",
+    "title": "Every Heartbeat",
+    "album": "Heart in Motion • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 am",
-      "artist": "Amy Grant",
-      "title": "Every Heartbeat"
-    },
     {
       "time": "8:45 am",
       "artist": "Arrested Development",
@@ -21,9 +16,20 @@
       "time": "8:49 am",
       "artist": "Operation Ivy",
       "title": "Unity"
+    },
+    {
+      "time": "8:51 am",
+      "artist": "Pink Floyd",
+      "title": "Learning To Fly"
     }
   ],
   "recent": [
+    {
+      "time": "8:41 am",
+      "artist": "Amy Grant",
+      "title": "Every Heartbeat",
+      "album": "Heart in Motion • 1991"
+    },
     {
       "time": "8:38 am",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "Suicid",
       "title": "Cheree",
       "album": "Suicide • 1977"
-    },
-    {
-      "time": "7:10 am",
-      "artist": "Stiff Little Fingers",
-      "title": "Alternative Ulster",
-      "album": "Inflammable Material • 1979"
     }
   ]
 }
