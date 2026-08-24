@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T01:54:57",
+  "updatedAt": "2026-08-24T01:56:50",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'll Cry Instead",
-    "album": "A Hard Day's Night • 1964",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Twist",
+    "album": "ANIMA • 2019",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "Thom Yorke",
-      "title": "Twist"
-    },
     {
       "time": "2:03 am",
       "artist": "Bjork",
@@ -21,9 +16,20 @@
       "time": "2:08 am",
       "artist": "CAKE",
       "title": "Frank Sinatra"
+    },
+    {
+      "time": "2:12 am",
+      "artist": "J. Geils Band",
+      "title": "Freeze-Frame"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "Thom Yorke",
+      "title": "Twist",
+      "album": "ANIMA • 2019"
+    },
     {
       "time": "1:54 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Nick Drake",
       "title": "From the Morning",
       "album": "Pink Moon • 1972"
-    },
-    {
-      "time": "12:36 am",
-      "artist": "Chappell Roan",
-      "title": "Red Wine Supernova",
-      "album": "The Rise and Fall of a Midwest Princess • 2024"
     }
   ]
 }
