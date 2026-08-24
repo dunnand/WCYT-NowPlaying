@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T20:55:47",
+  "updatedAt": "2026-08-23T20:59:35",
   "now": {
-    "artist": "Goldfrapp",
-    "title": "Strict Machine",
-    "album": "Black Cherry • 2003",
+    "artist": "The Beatles",
+    "title": "I'm Down",
+    "album": "single • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 pm",
-      "artist": "The Beatles",
-      "title": "I'm Down"
-    },
     {
       "time": "9:02 pm",
       "artist": "Kool & The Gang",
@@ -26,9 +21,20 @@
       "time": "9:09 pm",
       "artist": "Bobby Darin",
       "title": "Splish Splash"
+    },
+    {
+      "time": "9:11 pm",
+      "artist": "of Montreal",
+      "title": "Lysergic Bliss"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 pm",
+      "artist": "The Beatles",
+      "title": "I'm Down",
+      "album": "single • 1965"
+    },
     {
       "time": "8:55 pm",
       "artist": "Goldfrapp",
@@ -172,12 +178,6 @@
       "artist": "Tyler, the Creator",
       "title": "IGOR'S THEME",
       "album": "IGOR • 2019"
-    },
-    {
-      "time": "7:22 pm",
-      "artist": "Sam Cooke",
-      "title": "Nobody Knows the Trouble I've Seen",
-      "album": "My Kind of Blues • 1961"
     }
   ]
 }
