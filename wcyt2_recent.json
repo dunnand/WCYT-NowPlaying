@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T21:15:46",
+  "updatedAt": "2026-08-23T21:15:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Love Me Do",
+    "album": "Love Me Do • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "The Beatles",
-      "title": "Love Me Do"
-    },
     {
       "time": "9:18 pm",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "The Beatles",
+      "title": "Love Me Do",
+      "album": "Love Me Do • 1962"
+    },
     {
       "time": "9:11 pm",
       "artist": "of Montreal",
@@ -172,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Shame Shame",
       "album": "Medicine at Midnight • 2021"
-    },
-    {
-      "time": "7:42 pm",
-      "artist": "Elton John",
-      "title": "I Guess That's Why They Call It The Blues",
-      "album": "Too Low for Zero • 1983"
     }
   ]
 }
