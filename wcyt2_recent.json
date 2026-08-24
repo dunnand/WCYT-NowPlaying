@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T08:56:09",
+  "updatedAt": "2026-08-24T09:02:01",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "False Prophet",
-    "album": "Rough and Rowdy Ways • 2020",
+    "artist": "Kings of Leon",
+    "title": "Closer",
+    "album": "Only by the Night • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:02 am",
-      "artist": "Kings of Leon",
-      "title": "Closer"
-    },
     {
       "time": "9:06 am",
       "artist": "Sylvester",
@@ -26,9 +21,20 @@
       "time": "9:14 am",
       "artist": "Taylor Swift",
       "title": "Blank Space"
+    },
+    {
+      "time": "9:18 am",
+      "artist": "Television",
+      "title": "Marquee Moon"
     }
   ],
   "recent": [
+    {
+      "time": "9:02 am",
+      "artist": "Kings of Leon",
+      "title": "Closer",
+      "album": "Only by the Night • 2008"
+    },
     {
       "time": "8:56 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "I Want You, I Need You, I Love You",
       "album": "single • 1956"
-    },
-    {
-      "time": "7:28 am",
-      "artist": "Sheryl Crow",
-      "title": "My Favorite Mistake",
-      "album": "The Globe Sessions • 1998"
     }
   ]
 }
