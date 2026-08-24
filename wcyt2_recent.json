@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T08:34:00",
+  "updatedAt": "2026-08-24T08:34:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Simon & Garfunkel",
+    "title": "Mrs. Robinson",
+    "album": "Bookends • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:34 am",
-      "artist": "Simon & Garfunkel",
-      "title": "Mrs. Robinson"
-    },
     {
       "time": "8:38 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "8:45 am",
       "artist": "Arrested Development",
       "title": "People Everyday"
+    },
+    {
+      "time": "8:49 am",
+      "artist": "Operation Ivy",
+      "title": "Unity"
     }
   ],
   "recent": [
+    {
+      "time": "8:34 am",
+      "artist": "Simon & Garfunkel",
+      "title": "Mrs. Robinson",
+      "album": "Bookends • 1968"
+    },
     {
       "time": "8:30 am",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "Aaron Frazer",
       "title": "Over You",
       "album": "Introducing... • 2021"
-    },
-    {
-      "time": "7:03 am",
-      "artist": "Mission of Burma",
-      "title": "That's When I Reach for My Revolver",
-      "album": "Signals, Calls, and Marches EP • 1981"
     }
   ]
 }
