@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-23T21:21:35",
+  "updatedAt": "2026-08-23T21:21:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Cowboy Dan",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:21 pm",
-      "artist": "Modest Mouse",
-      "title": "Cowboy Dan"
-    },
     {
       "time": "9:27 pm",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "9:37 pm",
       "artist": "The Feelies",
       "title": "The Boy With The Perpetual Nervousness"
+    },
+    {
+      "time": "9:41 pm",
+      "artist": "Jason Isbell and the 400 Unit",
+      "title": "What've I Done to Help"
     }
   ],
   "recent": [
+    {
+      "time": "9:21 pm",
+      "artist": "Modest Mouse",
+      "title": "Cowboy Dan",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "9:17 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Joy Division",
       "title": "Shadowplay",
       "album": "Unknown Pleasures • 1979"
-    },
-    {
-      "time": "7:51 pm",
-      "artist": "Johnny Thunders & the Heartbreakers",
-      "title": "Chinese Rocks",
-      "album": "L.A. • 1977"
     }
   ]
 }
