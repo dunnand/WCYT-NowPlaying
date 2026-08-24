@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T04:30:08",
+  "updatedAt": "2026-08-24T04:30:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "M83",
+    "title": "We Own The Sky",
+    "album": "Saturdays = Youth • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:30 am",
-      "artist": "M83",
-      "title": "We Own The Sky"
-    },
     {
       "time": "4:33 am",
       "artist": "Joni Mitchell",
@@ -31,9 +26,20 @@
       "time": "4:43 am",
       "artist": "Lloyd Price",
       "title": "Lawdy Miss Clawdy"
+    },
+    {
+      "time": "4:45 am",
+      "artist": "The Postal Service",
+      "title": "Such Great Heights"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 am",
+      "artist": "M83",
+      "title": "We Own The Sky",
+      "album": "Saturdays = Youth • 2008"
+    },
     {
       "time": "4:26 am",
       "artist": "Rare Earth",
@@ -177,12 +183,6 @@
       "artist": "Righteous Brothers",
       "title": "Ebb Tide",
       "album": "Just Once in My Life • 1965"
-    },
-    {
-      "time": "2:51 am",
-      "artist": "Green Day",
-      "title": "Boulevard Of Broken Dreams",
-      "album": "American Idiot • 2004"
     }
   ]
 }
