@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-08-23T21:15:57",
+  "updatedAt": "2026-08-23T21:17:59",
   "now": {
-    "artist": "The Beatles",
-    "title": "Love Me Do",
-    "album": "Love Me Do • 1962",
+    "artist": "Taylor Swift",
+    "title": "Lover",
+    "album": "Lover • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:18 pm",
-      "artist": "Taylor Swift",
-      "title": "Lover"
-    },
     {
       "time": "9:21 pm",
       "artist": "Modest Mouse",
       "title": "Cowboy Dan"
     },
     {
-      "time": "9:28 pm",
+      "time": "9:27 pm",
       "artist": "Neutral Milk Hotel",
       "title": "Two-Headed Boy"
+    },
+    {
+      "time": "9:32 pm",
+      "artist": "Eric B. & Rakim",
+      "title": "I Know You Got Soul"
     }
   ],
   "recent": [
+    {
+      "time": "9:17 pm",
+      "artist": "Taylor Swift",
+      "title": "Lover",
+      "album": "Lover • 2019"
+    },
     {
       "time": "9:15 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Johnny Thunders & the Heartbreakers",
       "title": "Chinese Rocks",
       "album": "L.A. • 1977"
-    },
-    {
-      "time": "7:46 pm",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame",
-      "album": "Medicine at Midnight • 2021"
     }
   ]
 }
