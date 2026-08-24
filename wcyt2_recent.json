@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T02:31:33",
+  "updatedAt": "2026-08-24T02:37:13",
   "now": {
-    "artist": "Joanna Newsom",
-    "title": "Sadie",
-    "album": "The Milk Eyed Mender • 2004",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Roll Over Beethoven",
+    "album": "With the Beatles • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:37 am",
-      "artist": "The Beatles",
-      "title": "Roll Over Beethoven"
-    },
     {
       "time": "2:39 am",
       "artist": "Pere Ubu",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:37 am",
+      "artist": "The Beatles",
+      "title": "Roll Over Beethoven",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "2:31 am",
       "artist": "Joanna Newsom",
@@ -177,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Dawn Chorus",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "1:03 am",
-      "artist": "Louis Armstrong",
-      "title": "What a Wonderful World",
-      "album": "single • 1967"
     }
   ]
 }
