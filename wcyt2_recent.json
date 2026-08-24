@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T12:15:20",
+  "updatedAt": "2026-08-24T12:18:03",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Good Times Bad Times",
-    "album": "Led Zeppelin • 1969",
+    "artist": "The Specials",
+    "title": "A Message to You Rudy",
+    "album": "Specials • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 pm",
-      "artist": "The Specials",
-      "title": "A Message to You Rudy"
-    },
     {
       "time": "12:20 pm",
       "artist": "David Byrne",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:18 pm",
+      "artist": "The Specials",
+      "title": "A Message to You Rudy",
+      "album": "Specials • 1979"
+    },
     {
       "time": "12:15 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +173,6 @@
       "artist": "Bryan Adams",
       "title": "Please Forgive Me",
       "album": "So Far So Good • 1993"
-    },
-    {
-      "time": "10:38 am",
-      "artist": "Wilco",
-      "title": "Someone To Lose",
-      "album": "Schmilco • 2016"
     }
   ]
 }
