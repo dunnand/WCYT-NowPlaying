@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T07:00:20",
+  "updatedAt": "2026-08-24T07:00:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Missing Persons",
+    "title": "Destination Unknown",
+    "album": "Spring Session M • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 am",
-      "artist": "Missing Persons",
-      "title": "Destination Unknown"
-    },
     {
       "time": "7:03 am",
       "artist": "Mission of Burma",
@@ -26,9 +21,20 @@
       "time": "7:10 am",
       "artist": "Stiff Little Fingers",
       "title": "Alternative Ulster"
+    },
+    {
+      "time": "7:13 am",
+      "artist": "Suicid",
+      "title": "Cheree"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 am",
+      "artist": "Missing Persons",
+      "title": "Destination Unknown",
+      "album": "Spring Session M • 1982"
+    },
     {
       "time": "6:56 am",
       "artist": "Prince",
@@ -172,12 +178,6 @@
       "artist": "will.i.am",
       "title": "#thatPOWER",
       "album": "#willpower • 2013"
-    },
-    {
-      "time": "5:26 am",
-      "artist": "The Mountain Goats",
-      "title": "Letter From Belgium",
-      "album": "We Shall All Be Healed • 2004"
     }
   ]
 }
