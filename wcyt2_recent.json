@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T11:43:37",
+  "updatedAt": "2026-08-24T11:50:34",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Around the World",
-    "album": "Homework • 1997",
+    "artist": "The Sugarcubes",
+    "title": "Birthday",
+    "album": "Lifes Too Good • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:50 am",
-      "artist": "The Sugarcubes",
-      "title": "Birthday"
-    },
     {
       "time": "11:54 am",
       "artist": "Talk Talk",
@@ -21,9 +16,20 @@
       "time": "12:01 pm",
       "artist": "Chappell Roan",
       "title": "Pink Pony Club"
+    },
+    {
+      "time": "12:05 pm",
+      "artist": "The Meters",
+      "title": "Just Kissed My Baby"
     }
   ],
   "recent": [
+    {
+      "time": "11:50 am",
+      "artist": "The Sugarcubes",
+      "title": "Birthday",
+      "album": "Lifes Too Good • 1988"
+    },
     {
       "time": "11:43 am",
       "artist": "Daft Punk",
@@ -167,12 +173,6 @@
       "artist": "The xx",
       "title": "Angels",
       "album": "Coexist • 2012"
-    },
-    {
-      "time": "10:10 am",
-      "artist": "Madonna",
-      "title": "What It Feels Like For A Girl",
-      "album": "Music • 2001"
     }
   ]
 }
