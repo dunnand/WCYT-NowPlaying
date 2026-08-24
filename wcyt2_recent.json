@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T16:34:37",
+  "updatedAt": "2026-08-24T16:39:12",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Rock & Roll",
-    "album": "Loaded • 1970",
+    "artist": "Ray Charles",
+    "title": "Georgia On My Mind",
+    "album": "The Genius Hits the Road • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:39 pm",
-      "artist": "Ray Charles",
-      "title": "Georgia On My Mind"
-    },
     {
       "time": "4:42 pm",
       "artist": "William Onyeabor",
@@ -26,9 +21,20 @@
       "time": "4:56 pm",
       "artist": "Little Richard",
       "title": "Rip It Up"
+    },
+    {
+      "time": "4:58 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Daft Punk Is Playing At My House"
     }
   ],
   "recent": [
+    {
+      "time": "4:39 pm",
+      "artist": "Ray Charles",
+      "title": "Georgia On My Mind",
+      "album": "The Genius Hits the Road • 1960"
+    },
     {
       "time": "4:34 pm",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Random Name Generator",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "2:28 pm",
-      "artist": "Smokey Robinson & The Miracles",
-      "title": "The Tears of a Clown",
-      "album": "Make It Happen • 1967"
     }
   ]
 }
