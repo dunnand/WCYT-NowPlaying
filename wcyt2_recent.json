@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T02:37:13",
+  "updatedAt": "2026-08-24T02:39:48",
   "now": {
-    "artist": "The Beatles",
-    "title": "Roll Over Beethoven",
-    "album": "With the Beatles • 1963",
+    "artist": "Pere Ubu",
+    "title": "Final Solution",
+    "album": "single • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:39 am",
-      "artist": "Pere Ubu",
-      "title": "Final Solution"
-    },
     {
       "time": "2:44 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -26,9 +21,20 @@
       "time": "2:51 am",
       "artist": "Green Day",
       "title": "Boulevard Of Broken Dreams"
+    },
+    {
+      "time": "2:55 am",
+      "artist": "Righteous Brothers",
+      "title": "Ebb Tide"
     }
   ],
   "recent": [
+    {
+      "time": "2:39 am",
+      "artist": "Pere Ubu",
+      "title": "Final Solution",
+      "album": "single • 1976"
+    },
     {
       "time": "2:37 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "You and Me and the Moon",
       "album": "Get Lost • 1995"
-    },
-    {
-      "time": "1:05 am",
-      "artist": "Thom Yorke",
-      "title": "Dawn Chorus",
-      "album": "ANIMA • 2019"
     }
   ]
 }
