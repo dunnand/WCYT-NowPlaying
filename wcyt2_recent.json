@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T06:00:06",
+  "updatedAt": "2026-08-24T06:00:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Janet Jackson",
+    "title": "Love Will Never Do Without You",
+    "album": "Janet Jackson's Rhythm Nation 1814 • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:00 am",
-      "artist": "Janet Jackson",
-      "title": "Love Will Never Do Without You"
-    },
     {
       "time": "6:04 am",
       "artist": "Madness",
@@ -26,9 +21,20 @@
       "time": "6:08 am",
       "artist": "Billie Eilish",
       "title": "LUNCH"
+    },
+    {
+      "time": "6:11 am",
+      "artist": "Les Savy Fav",
+      "title": "Meet Me in the Dollar Bin"
     }
   ],
   "recent": [
+    {
+      "time": "6:00 am",
+      "artist": "Janet Jackson",
+      "title": "Love Will Never Do Without You",
+      "album": "Janet Jackson's Rhythm Nation 1814 • 1990"
+    },
     {
       "time": "5:55 am",
       "artist": "Depeche Mode",
@@ -172,12 +178,6 @@
       "artist": "M83",
       "title": "We Own The Sky",
       "album": "Saturdays = Youth • 2008"
-    },
-    {
-      "time": "4:26 am",
-      "artist": "Rare Earth",
-      "title": "I Just Want To Celebrate",
-      "album": "Rare Earth • 1971"
     }
   ]
 }
