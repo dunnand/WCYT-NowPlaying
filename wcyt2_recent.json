@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T18:43:39",
+  "updatedAt": "2026-08-24T18:47:12",
   "now": {
-    "artist": "AC/DC",
-    "title": "T.N.T.",
-    "album": "High Voltage • 1975",
+    "artist": "Michael Jackson",
+    "title": "Earth Song",
+    "album": "HIStory: Past, Present And Future - Book I • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:47 pm",
-      "artist": "Michael Jackson",
-      "title": "Earth Song"
-    },
     {
       "time": "6:53 pm",
       "artist": "Perez Prado y Su Orquesta",
@@ -21,9 +16,20 @@
       "time": "6:56 pm",
       "artist": "Jimmy Eat World",
       "title": "The Middle"
+    },
+    {
+      "time": "6:59 pm",
+      "artist": "Otis Redding",
+      "title": "(Sittin' on) The Dock of the Bay"
     }
   ],
   "recent": [
+    {
+      "time": "6:47 pm",
+      "artist": "Michael Jackson",
+      "title": "Earth Song",
+      "album": "HIStory: Past, Present And Future - Book I • 1995"
+    },
     {
       "time": "6:43 pm",
       "artist": "AC/DC",
@@ -167,12 +173,6 @@
       "artist": "Low",
       "title": "Over the Ocean",
       "album": "The Curtain Hits The Cast • 1996"
-    },
-    {
-      "time": "5:11 pm",
-      "artist": "John Prine",
-      "title": "The Sins of Memphisto",
-      "album": "The Missing Years • 1991"
     }
   ]
 }
