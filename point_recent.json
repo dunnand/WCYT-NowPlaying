@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T16:58:16",
+  "updatedAt": "2026-08-24T16:58:40",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Blur",
+    "title": "Song 2",
+    "album": "Blur • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:58 pm",
-      "artist": "Blur",
-      "title": "Song 2"
-    },
     {
       "time": "5:00 pm",
       "artist": "Brent Amaker & The Rodeo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:58 pm",
+      "artist": "Blur",
+      "title": "Song 2",
+      "album": "Blur • 1997"
+    },
     {
       "time": "4:54 pm",
       "artist": "Deep Sea Diver",
@@ -172,12 +173,6 @@
       "artist": "Spencer Krug",
       "title": "I'll Believe in Anything (2026 Solo Piano Version)",
       "album": "single • 2026"
-    },
-    {
-      "time": "2:33 pm",
-      "artist": "Vundabar",
-      "title": "Beta Fish",
-      "album": "Surgery and Pleasure • 2025"
     }
   ]
 }
