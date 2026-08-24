@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T17:03:49",
+  "updatedAt": "2026-08-24T17:06:53",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Foxy Lady",
-    "album": "Are You Experienced • 1967",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Not the News",
+    "album": "ANIMA • 2019",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:06 pm",
-      "artist": "Thom Yorke",
-      "title": "Not the News"
-    },
     {
       "time": "5:11 pm",
       "artist": "John Prine",
@@ -21,9 +16,20 @@
       "time": "5:15 pm",
       "artist": "Low",
       "title": "Over the Ocean"
+    },
+    {
+      "time": "5:19 pm",
+      "artist": "Wipers",
+      "title": "Over the Edge"
     }
   ],
   "recent": [
+    {
+      "time": "5:06 pm",
+      "artist": "Thom Yorke",
+      "title": "Not the News",
+      "album": "ANIMA • 2019"
+    },
     {
       "time": "5:03 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -167,12 +173,6 @@
       "artist": "Todd Rundgren",
       "title": "I Saw The Light",
       "album": "Something/Anything? • 1972"
-    },
-    {
-      "time": "3:09 pm",
-      "artist": "James Brown",
-      "title": "We Got To Change",
-      "album": "Single • 2024"
     }
   ]
 }
