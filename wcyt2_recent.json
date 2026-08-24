@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T08:51:41",
+  "updatedAt": "2026-08-24T08:56:09",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Learning To Fly",
-    "album": "A Momentary Lapse of Reason • 1987",
+    "artist": "Bob Dylan",
+    "title": "False Prophet",
+    "album": "Rough and Rowdy Ways • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:56 am",
-      "artist": "Bob Dylan",
-      "title": "False Prophet"
-    },
     {
       "time": "9:02 am",
       "artist": "Kings of Leon",
@@ -26,9 +21,20 @@
       "time": "9:12 am",
       "artist": "Kings of Leon",
       "title": "King of the Rodeo"
+    },
+    {
+      "time": "9:14 am",
+      "artist": "Taylor Swift",
+      "title": "Blank Space"
     }
   ],
   "recent": [
+    {
+      "time": "8:56 am",
+      "artist": "Bob Dylan",
+      "title": "False Prophet",
+      "album": "Rough and Rowdy Ways • 2020"
+    },
     {
       "time": "8:51 am",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Sheryl Crow",
       "title": "My Favorite Mistake",
       "album": "The Globe Sessions • 1998"
-    },
-    {
-      "time": "7:24 am",
-      "artist": "Supertramp",
-      "title": "The Logical Song",
-      "album": "Breakfast in America • 1979"
     }
   ]
 }
