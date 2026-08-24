@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T17:45:46",
+  "updatedAt": "2026-08-24T17:47:52",
   "now": {
-    "artist": "ZZ Top",
-    "title": "Tush",
-    "album": "Fandango! • 1975",
+    "artist": "Lush",
+    "title": "Nothing Natural",
+    "album": "Spooky • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:47 pm",
-      "artist": "Lush",
-      "title": "Nothing Natural"
-    },
     {
       "time": "5:53 pm",
       "artist": "Don Gibson",
@@ -26,9 +21,20 @@
       "time": "6:01 pm",
       "artist": "The Beatles",
       "title": "It Won't Be Long"
+    },
+    {
+      "time": "6:03 pm",
+      "artist": "Wilco",
+      "title": "If I Ever Was A Child"
     }
   ],
   "recent": [
+    {
+      "time": "5:47 pm",
+      "artist": "Lush",
+      "title": "Nothing Natural",
+      "album": "Spooky • 1992"
+    },
     {
       "time": "5:45 pm",
       "artist": "ZZ Top",
@@ -172,12 +178,6 @@
       "artist": "Jamiroquai",
       "title": "Alright",
       "album": "Travelling Without Moving • 1996"
-    },
-    {
-      "time": "4:08 pm",
-      "artist": "Heavenly",
-      "title": "C Is The Heavenly Option",
-      "album": "Le Jardin de Heavenly • 1992"
     }
   ]
 }
