@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T00:49:24",
+  "updatedAt": "2026-08-25T00:55:13",
   "now": {
-    "artist": "Iron & Wine",
-    "title": "Upward Over the Mountain",
-    "album": "The Creek Drank the Cradle • 2002",
-    "category": "TUNES"
+    "artist": "Os Mutantes",
+    "title": "Caminhante noturno",
+    "album": "Os Mutantes • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "Os Mutantes",
-      "title": "Caminhante noturno"
-    },
     {
       "time": "1:00 am",
       "artist": "The Modern Lovers",
@@ -26,9 +21,20 @@
       "time": "1:05 am",
       "artist": "Vampire Weekend",
       "title": "Run"
+    },
+    {
+      "time": "1:09 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "Os Mutantes",
+      "title": "Caminhante noturno",
+      "album": "Os Mutantes • 1968"
+    },
     {
       "time": "12:49 am",
       "artist": "Iron & Wine",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "So Heavy I Fell Through the Earth",
       "album": "Miss Anthropocene • 2019"
-    },
-    {
-      "time": "10:48 pm",
-      "artist": "Interpol",
-      "title": "Take You On A Cruise",
-      "album": "Antics • 2004"
     }
   ]
 }
