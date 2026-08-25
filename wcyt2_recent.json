@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T01:57:55",
+  "updatedAt": "2026-08-25T02:00:38",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Fire",
-    "album": "Are You Experienced • 1967",
+    "artist": "Neil Young",
+    "title": "Tell Me Why",
+    "album": "After the Gold Rush • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 am",
-      "artist": "Neil Young",
-      "title": "Tell Me Why"
-    },
     {
       "time": "2:03 am",
       "artist": "Luther Vandross",
@@ -26,9 +21,20 @@
       "time": "2:09 am",
       "artist": "PJ Harvey",
       "title": "The Letter"
+    },
+    {
+      "time": "2:13 am",
+      "artist": "Lesley Gore",
+      "title": "Maybe I Know"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 am",
+      "artist": "Neil Young",
+      "title": "Tell Me Why",
+      "album": "After the Gold Rush • 1970"
+    },
     {
       "time": "1:57 am",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "Teenage Fanclub",
       "title": "Neil Jung",
       "album": "Bandwagonesque • 1991"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "School Of Seven Bells",
-      "title": "Windstorm",
-      "album": "Disconnect From Desire • 2010"
     }
   ]
 }
