@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-25T17:55:01",
+  "updatedAt": "2026-08-25T17:57:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "Girl",
-    "album": "Rubber Soul • 1965",
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "album": "Wish You Were Here • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "5:57 pm",
-      "artist": "Pink Floyd",
-      "title": "Wish You Were Here"
-    },
-    {
-      "time": "6:02 pm",
+      "time": "6:01 pm",
       "artist": "Belle and Sebastian",
       "title": "Expectations"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:57 pm",
+      "artist": "Pink Floyd",
+      "title": "Wish You Were Here",
+      "album": "Wish You Were Here • 1975"
+    },
     {
       "time": "5:55 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Aerosmith",
       "title": "I Don't Want To Miss A Thing",
       "album": "Armageddon: The Album • 1998"
-    },
-    {
-      "time": "4:19 pm",
-      "artist": "Wilco",
-      "title": "Citizens",
-      "album": "Ode to Joy • 2019"
     }
   ]
 }
