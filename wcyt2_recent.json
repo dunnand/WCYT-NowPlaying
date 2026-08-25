@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T23:00:28",
+  "updatedAt": "2026-08-24T23:03:17",
   "now": {
-    "artist": "Super Furry Animals",
-    "title": "Something 4 the Weekend",
-    "album": "Fuzzy Logic • 1996",
+    "artist": "U2",
+    "title": "Where The Streets Have No Name",
+    "album": "The Joshua Tree • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:03 pm",
-      "artist": "U2",
-      "title": "Where The Streets Have No Name"
-    },
     {
       "time": "11:08 pm",
       "artist": "John Waite",
@@ -21,9 +16,20 @@
       "time": "11:13 pm",
       "artist": "Lana Del Rey",
       "title": "White Dress"
+    },
+    {
+      "time": "11:18 pm",
+      "artist": "Herbie Hancock",
+      "title": "Chameleon"
     }
   ],
   "recent": [
+    {
+      "time": "11:03 pm",
+      "artist": "U2",
+      "title": "Where The Streets Have No Name",
+      "album": "The Joshua Tree • 1987"
+    },
     {
       "time": "11:00 pm",
       "artist": "Super Furry Animals",
@@ -167,12 +173,6 @@
       "artist": "Jimmy Jones",
       "title": "Handy Man",
       "album": "Good Timin • 1960"
-    },
-    {
-      "time": "9:31 pm",
-      "artist": "The D",
-      "title": "Smash It Up, Part I",
-      "album": "Machine Gun Etiquette • 1979"
     }
   ]
 }
