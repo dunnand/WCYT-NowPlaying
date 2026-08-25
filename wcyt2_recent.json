@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T01:03:17",
+  "updatedAt": "2026-08-25T01:05:30",
   "now": {
-    "artist": "The Jesus Lizard",
-    "title": "Mouth Breather",
-    "album": "Goat • 1991",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Run",
+    "album": "Contra • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:05 am",
-      "artist": "Vampire Weekend",
-      "title": "Run"
-    },
     {
       "time": "1:09 am",
       "artist": "My Morning Jacket",
@@ -21,9 +16,20 @@
       "time": "1:18 am",
       "artist": "of Montreal",
       "title": "Disconnect the Dots"
+    },
+    {
+      "time": "1:22 am",
+      "artist": "Slowdive",
+      "title": "No Longer Making Time"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "Vampire Weekend",
+      "title": "Run",
+      "album": "Contra • 2010"
+    },
     {
       "time": "1:03 am",
       "artist": "The Jesus Lizard",
@@ -167,12 +173,6 @@
       "artist": "U2",
       "title": "Where The Streets Have No Name",
       "album": "The Joshua Tree • 1987"
-    },
-    {
-      "time": "11:00 pm",
-      "artist": "Super Furry Animals",
-      "title": "Something 4 the Weekend",
-      "album": "Fuzzy Logic • 1996"
     }
   ]
 }
