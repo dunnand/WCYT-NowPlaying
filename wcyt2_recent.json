@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T05:35:54",
+  "updatedAt": "2026-08-25T05:36:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "The Spiderbite Song",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:36 am",
-      "artist": "The Flaming Lips",
-      "title": "The Spiderbite Song"
-    },
     {
       "time": "5:40 am",
       "artist": "Guided by Voices",
@@ -26,9 +21,20 @@
       "time": "5:48 am",
       "artist": "De La Soul",
       "title": "Me Myself and I"
+    },
+    {
+      "time": "5:51 am",
+      "artist": "Little Simz",
+      "title": "Angel"
     }
   ],
   "recent": [
+    {
+      "time": "5:36 am",
+      "artist": "The Flaming Lips",
+      "title": "The Spiderbite Song",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "5:30 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Prince",
       "title": "Why You Wanna Treat Me So Bad?",
       "album": "Prince • 1979"
-    },
-    {
-      "time": "3:51 am",
-      "artist": "Paul Simon",
-      "title": "Kodachrome",
-      "album": "There Goes Rhymin Simon • 1973"
     }
   ]
 }
