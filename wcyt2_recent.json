@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T21:59:43",
+  "updatedAt": "2026-08-24T22:05:22",
   "now": {
-    "artist": "Sigur Ros",
-    "title": "Star�lfur",
-    "album": "Agaetis byrjun • 1999",
-    "category": "TUNES"
+    "artist": "Sting",
+    "title": "If I Ever Lose My Faith In You",
+    "album": "Ten Summoners Tales • 1993",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 pm",
-      "artist": "Sting",
-      "title": "If I Ever Lose My Faith In You"
-    },
     {
       "time": "10:09 pm",
       "artist": "Kate Bush",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Sting",
+      "title": "If I Ever Lose My Faith In You",
+      "album": "Ten Summoners Tales • 1993"
+    },
     {
       "time": "9:59 pm",
       "artist": "Sigur Ros",
@@ -172,12 +173,6 @@
       "artist": "LCD Soundsystem",
       "title": "All My Friends",
       "album": "Sound of Silver • 2007"
-    },
-    {
-      "time": "8:31 pm",
-      "artist": "Captain & Tennille",
-      "title": "Muskrat Love",
-      "album": "Song of Joy • 1976"
     }
   ]
 }
