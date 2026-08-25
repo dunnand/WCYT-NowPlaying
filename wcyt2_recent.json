@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T10:08:04",
+  "updatedAt": "2026-08-25T10:09:57",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Blue Suede Shoes",
-    "album": "Elvis Presley • 1956",
+    "artist": "Goo Goo Dolls",
+    "title": "Here Is Gone",
+    "album": "Gutterflower • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:09 am",
-      "artist": "Goo Goo Dolls",
-      "title": "Here Is Gone"
-    },
     {
       "time": "10:13 am",
       "artist": "Little Peggy March",
@@ -21,9 +16,20 @@
       "time": "10:16 am",
       "artist": "Thom Yorke",
       "title": "Traffic"
+    },
+    {
+      "time": "10:22 am",
+      "artist": "Blur",
+      "title": "Parklife"
     }
   ],
   "recent": [
+    {
+      "time": "10:09 am",
+      "artist": "Goo Goo Dolls",
+      "title": "Here Is Gone",
+      "album": "Gutterflower • 2002"
+    },
     {
       "time": "10:08 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Minutemen",
       "title": "Fanatics",
       "album": "The Punch Line • 1981"
-    },
-    {
-      "time": "8:45 am",
-      "artist": "Meat Puppets",
-      "title": "Away",
-      "album": "Up on the Sun • 1985"
     }
   ]
 }
