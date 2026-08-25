@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:45:30",
+  "updatedAt": "2026-08-25T13:50:20",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Gallows Pole",
-    "album": "Led Zeppelin III • 1970",
+    "artist": "Otis Redding",
+    "title": "The Glory of Love",
+    "album": "The Dock of the Bay • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 pm",
-      "artist": "Otis Redding",
-      "title": "The Glory of Love"
-    },
     {
       "time": "1:53 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "1:59 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "Three Little Birds"
+    },
+    {
+      "time": "2:02 pm",
+      "artist": "Monica",
+      "title": "For You I Will"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "Otis Redding",
+      "title": "The Glory of Love",
+      "album": "The Dock of the Bay • 1968"
+    },
     {
       "time": "1:45 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Low",
       "title": "Dinosaur Act",
       "album": "Things We Lost In The Fire • 2001"
-    },
-    {
-      "time": "11:58 am",
-      "artist": "Grimes",
-      "title": "Genesis",
-      "album": "Visions • 2012"
     }
   ]
 }
