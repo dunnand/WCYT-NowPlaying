@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T00:07:49",
+  "updatedAt": "2026-08-25T00:10:22",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "I Still Miss Someone",
-    "album": "The Fabulous Johnny Cash • 1958",
+    "artist": "Panic At The Disco",
+    "title": "I Write Sins Not Tragedies",
+    "album": "album • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 am",
-      "artist": "Panic At The Disco",
-      "title": "I Write Sins Not Tragedies"
-    },
     {
       "time": "12:13 am",
       "artist": "Otis Redding",
@@ -21,9 +16,20 @@
       "time": "12:15 am",
       "artist": "School Of Seven Bells",
       "title": "Windstorm"
+    },
+    {
+      "time": "12:19 am",
+      "artist": "Teenage Fanclub",
+      "title": "Neil Jung"
     }
   ],
   "recent": [
+    {
+      "time": "12:10 am",
+      "artist": "Panic At The Disco",
+      "title": "I Write Sins Not Tragedies",
+      "album": "album • 2005"
+    },
     {
       "time": "12:07 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Neneh Cherry",
       "title": "Buffalo Stance",
       "album": "Raw Like Sushi • 1989"
-    },
-    {
-      "time": "10:09 pm",
-      "artist": "Kate Bush",
-      "title": "Army Dreamers",
-      "album": "Never for Ever • 1980"
     }
   ]
 }
