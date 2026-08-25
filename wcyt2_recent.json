@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T06:55:31",
+  "updatedAt": "2026-08-25T06:55:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Simon & Garfunkel",
+    "title": "Cecilia",
+    "album": "Bridge Over Troubled Water • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:55 am",
-      "artist": "Simon & Garfunkel",
-      "title": "Cecilia"
-    },
     {
       "time": "6:58 am",
       "artist": "Stevie Wonder",
@@ -26,9 +21,20 @@
       "time": "7:11 am",
       "artist": "The Beatles",
       "title": "What Goes On"
+    },
+    {
+      "time": "7:13 am",
+      "artist": "Stevie Wright",
+      "title": "Evie (Evie)"
     }
   ],
   "recent": [
+    {
+      "time": "6:55 am",
+      "artist": "Simon & Garfunkel",
+      "title": "Cecilia",
+      "album": "Bridge Over Troubled Water • 1970"
+    },
     {
       "time": "6:51 am",
       "artist": "Kings of Leon",
@@ -172,12 +178,6 @@
       "artist": "Dean Martin",
       "title": "That's Amore",
       "album": "Dean Martin Sings • 1953"
-    },
-    {
-      "time": "5:16 am",
-      "artist": "L7",
-      "title": "Pretend We're Dead",
-      "album": "Bricks are Heavy • 1992"
     }
   ]
 }
