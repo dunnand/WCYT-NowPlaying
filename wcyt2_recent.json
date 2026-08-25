@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T05:07:25",
+  "updatedAt": "2026-08-25T05:13:12",
   "now": {
-    "artist": "Tame Impala",
-    "title": "New Person, Same Old Mistakes",
-    "album": "Currents • 2015",
-    "category": "TUNES"
+    "artist": "Roxy Music",
+    "title": "Virginia Plain",
+    "album": "Roxy Music • 1972",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:13 am",
-      "artist": "Roxy Music",
-      "title": "Virginia Plain"
-    },
     {
       "time": "5:16 am",
       "artist": "L7",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:13 am",
+      "artist": "Roxy Music",
+      "title": "Virginia Plain",
+      "album": "Roxy Music • 1972"
+    },
     {
       "time": "5:07 am",
       "artist": "Tame Impala",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Climbing Up the Walls",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "3:23 am",
-      "artist": "Rihanna",
-      "title": "Stay",
-      "album": "Unapologetic • 2012"
     }
   ]
 }
