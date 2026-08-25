@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T02:45:48",
+  "updatedAt": "2026-08-25T02:50:45",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Light Years",
-    "album": "Binaural • 2000",
-    "category": "AUDIO"
+    "artist": "Slowdive",
+    "title": "Slomo",
+    "album": "Slowdive • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:50 am",
-      "artist": "Slowdive",
-      "title": "Slomo"
-    },
     {
       "time": "2:57 am",
       "artist": "Patti Smith",
@@ -26,9 +21,20 @@
       "time": "3:06 am",
       "artist": "Ritchie Valens",
       "title": "La Bamba"
+    },
+    {
+      "time": "3:08 am",
+      "artist": "LCD Soundsystem",
+      "title": "Losing My Edge"
     }
   ],
   "recent": [
+    {
+      "time": "2:50 am",
+      "artist": "Slowdive",
+      "title": "Slomo",
+      "album": "Slowdive • 2017"
+    },
     {
       "time": "2:45 am",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "Slowdive",
       "title": "No Longer Making Time",
       "album": "Slowdive • 2017"
-    },
-    {
-      "time": "1:18 am",
-      "artist": "of Montreal",
-      "title": "Disconnect the Dots",
-      "album": "Satanic Panic in the Attic • 2004"
     }
   ]
 }
