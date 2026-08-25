@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T17:57:17",
+  "updatedAt": "2026-08-25T18:02:00",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Wish You Were Here",
-    "album": "Wish You Were Here • 1975",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "Expectations",
+    "album": "Tigermilk • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:01 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Expectations"
-    },
     {
       "time": "6:05 pm",
       "artist": "Doris Day",
@@ -21,9 +16,20 @@
       "time": "6:07 pm",
       "artist": "Interpol",
       "title": "C'mere"
+    },
+    {
+      "time": "6:10 pm",
+      "artist": "Serge Gainsbourg",
+      "title": "Bonnie and Clyde (with Brigitte Bardot)"
     }
   ],
   "recent": [
+    {
+      "time": "6:02 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Expectations",
+      "album": "Tigermilk • 1996"
+    },
     {
       "time": "5:57 pm",
       "artist": "Pink Floyd",
@@ -167,12 +173,6 @@
       "artist": "Alice in Chains",
       "title": "Down in a Hole",
       "album": "Dirt • 1992"
-    },
-    {
-      "time": "4:22 pm",
-      "artist": "Aerosmith",
-      "title": "I Don't Want To Miss A Thing",
-      "album": "Armageddon: The Album • 1998"
     }
   ]
 }
