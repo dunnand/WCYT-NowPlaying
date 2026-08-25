@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T11:54:31",
+  "updatedAt": "2026-08-25T11:58:17",
   "now": {
-    "artist": "Pavement",
-    "title": "Here",
-    "album": "Slanted & Enchanted • 1992",
-    "category": "TUNES"
+    "artist": "Grimes",
+    "title": "Genesis",
+    "album": "Visions • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:58 am",
-      "artist": "Grimes",
-      "title": "Genesis"
-    },
     {
       "time": "12:02 pm",
       "artist": "Low",
@@ -21,9 +16,20 @@
       "time": "12:06 pm",
       "artist": "of Montreal",
       "title": "Vegan in Furs"
+    },
+    {
+      "time": "12:10 pm",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Dark Necessities"
     }
   ],
   "recent": [
+    {
+      "time": "11:58 am",
+      "artist": "Grimes",
+      "title": "Genesis",
+      "album": "Visions • 2012"
+    },
     {
       "time": "11:54 am",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "Violent Femmes",
       "title": "Jesus Walking on the Water",
       "album": "Hallowed Ground • 1984"
-    },
-    {
-      "time": "10:24 am",
-      "artist": "Portishead",
-      "title": "Strangers",
-      "album": "Dummy • 1994"
     }
   ]
 }
