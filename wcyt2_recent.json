@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T01:09:15",
+  "updatedAt": "2026-08-25T01:09:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "I Will Sing You Songs",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:09 am",
-      "artist": "My Morning Jacket",
-      "title": "I Will Sing You Songs"
-    },
     {
       "time": "1:18 am",
       "artist": "of Montreal",
@@ -26,9 +21,20 @@
       "time": "1:28 am",
       "artist": "Wallflowers",
       "title": "The Difference"
+    },
+    {
+      "time": "1:32 am",
+      "artist": "Ween",
+      "title": "The Mollusk"
     }
   ],
   "recent": [
+    {
+      "time": "1:09 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "1:05 am",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "John Waite",
       "title": "Missing You",
       "album": "No Brakes • 1984"
-    },
-    {
-      "time": "11:03 pm",
-      "artist": "U2",
-      "title": "Where The Streets Have No Name",
-      "album": "The Joshua Tree • 1987"
     }
   ]
 }
