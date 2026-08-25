@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:28:26",
+  "updatedAt": "2026-08-25T13:32:19",
   "now": {
-    "artist": "Weezer",
-    "title": "Pink Triangle",
-    "album": "Pinkerton • 1996",
+    "artist": "Talking Heads",
+    "title": "Slippery People",
+    "album": "Speaking in Tongues • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:32 pm",
-      "artist": "Talking Heads",
-      "title": "Slippery People"
-    },
     {
       "time": "1:37 pm",
       "artist": "Kenny Rogers & Dolly Parton",
@@ -21,9 +16,20 @@
       "time": "1:41 pm",
       "artist": "OK GO",
       "title": "All Together Now"
+    },
+    {
+      "time": "1:45 pm",
+      "artist": "Led Zeppelin",
+      "title": "Gallows Pole"
     }
   ],
   "recent": [
+    {
+      "time": "1:32 pm",
+      "artist": "Talking Heads",
+      "title": "Slippery People",
+      "album": "Speaking in Tongues • 1983"
+    },
     {
       "time": "1:28 pm",
       "artist": "Weezer",
@@ -167,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "Whole Lotta Love",
       "album": "Led Zeppelin II • 1969"
-    },
-    {
-      "time": "11:43 am",
-      "artist": "Ace Frehley",
-      "title": "New York Groove",
-      "album": "Ace Frehley • 1978"
     }
   ]
 }
