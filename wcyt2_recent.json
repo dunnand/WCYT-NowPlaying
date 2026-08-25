@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:53:16",
+  "updatedAt": "2026-08-25T13:56:32",
   "now": {
-    "artist": "The Clash",
-    "title": "Spanish Bombs",
-    "album": "London Calling • 1979",
+    "artist": "Sam & Dave",
+    "title": "Hold On! I'm Comin'",
+    "album": "Hold On, Im Comin • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 pm",
-      "artist": "Sam & Dave",
-      "title": "Hold On! I'm Comin'"
-    },
     {
       "time": "1:58 pm",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "2:06 pm",
       "artist": "Nina Simone",
       "title": "My Baby Just Cares for Me"
+    },
+    {
+      "time": "2:09 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Disco Infiltrator"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 pm",
+      "artist": "Sam & Dave",
+      "title": "Hold On! I'm Comin'",
+      "album": "Hold On, Im Comin • 1966"
+    },
     {
       "time": "1:53 pm",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Dark Necessities",
       "album": "The Getaway • 2016"
-    },
-    {
-      "time": "12:06 pm",
-      "artist": "of Montreal",
-      "title": "Vegan in Furs",
-      "album": "Satanic Panic in the Attic • 2004"
     }
   ]
 }
