@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T15:55:42",
+  "updatedAt": "2026-08-25T16:03:30",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Idiot Wind",
-    "album": "Blood On the Tracks • 1975",
+    "artist": "Pretenders",
+    "title": "I'll Stand By You",
+    "album": "Last of the Independents • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 pm",
-      "artist": "Pretenders",
-      "title": "I'll Stand By You"
-    },
     {
       "time": "4:07 pm",
       "artist": "Sister Rosetta Tharpe",
@@ -21,9 +16,20 @@
       "time": "4:12 pm",
       "artist": "Muse",
       "title": "Supermassive Black Hole"
+    },
+    {
+      "time": "4:16 pm",
+      "artist": "Nina Simone",
+      "title": "Feeling Good"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 pm",
+      "artist": "Pretenders",
+      "title": "I'll Stand By You",
+      "album": "Last of the Independents • 1994"
+    },
     {
       "time": "3:55 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Natalie Imbruglia",
       "title": "Torn",
       "album": "Left of the Middle • 1998"
-    },
-    {
-      "time": "2:22 pm",
-      "artist": "Radiohead",
-      "title": "Subterranean Homesick Alien",
-      "album": "OK Computer • 1997"
     }
   ]
 }
