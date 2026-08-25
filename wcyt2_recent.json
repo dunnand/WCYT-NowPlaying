@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T06:20:23",
+  "updatedAt": "2026-08-25T06:22:08",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Guess Things Happen That Way",
-    "album": "Guess Things Happen That Way • 1957",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Narc",
+    "album": "Antics • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:22 am",
-      "artist": "Interpol",
-      "title": "Narc"
-    },
     {
       "time": "6:26 am",
       "artist": "Rolling Stones",
@@ -21,9 +16,20 @@
       "time": "6:29 am",
       "artist": "Radiohead",
       "title": "The Numbers"
+    },
+    {
+      "time": "6:35 am",
+      "artist": "Elliott Smith",
+      "title": "Angeles"
     }
   ],
   "recent": [
+    {
+      "time": "6:22 am",
+      "artist": "Interpol",
+      "title": "Narc",
+      "album": "Antics • 2004"
+    },
     {
       "time": "6:20 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Madonna",
       "title": "Dress You Up",
       "album": "Like a Virgin • 1985"
-    },
-    {
-      "time": "4:41 am",
-      "artist": "James Brown",
-      "title": "Living In America",
-      "album": "Rocky IV Soundtrack • 1985"
     }
   ]
 }
