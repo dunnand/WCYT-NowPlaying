@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T00:40:44",
+  "updatedAt": "2026-08-25T00:40:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Leonard Cohen",
+    "title": "Avalanche",
+    "album": "Songs of Love and Hate • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 am",
-      "artist": "Leonard Cohen",
-      "title": "Avalanche"
-    },
     {
       "time": "12:45 am",
       "artist": "Little River Band",
@@ -26,9 +21,20 @@
       "time": "12:55 am",
       "artist": "Os Mutantes",
       "title": "Caminhante noturno"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "The Modern Lovers",
+      "title": "Astral Plane"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "Leonard Cohen",
+      "title": "Avalanche",
+      "album": "Songs of Love and Hate • 1971"
+    },
     {
       "time": "12:36 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Toro y Moi",
       "title": "Rose Quartz",
       "album": "Anything in Return • 2013"
-    },
-    {
-      "time": "10:37 pm",
-      "artist": "Sugar",
-      "title": "If I Can't Change Your Mind",
-      "album": "Copper Blue • 1992"
     }
   ]
 }
