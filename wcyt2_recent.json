@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T17:39:11",
+  "updatedAt": "2026-08-25T17:39:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Box Of Rain",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:39 pm",
-      "artist": "Grateful Dead",
-      "title": "Box Of Rain"
-    },
     {
       "time": "5:44 pm",
       "artist": "Joe Cocker",
@@ -26,9 +21,20 @@
       "time": "5:55 pm",
       "artist": "The Beatles",
       "title": "Girl"
+    },
+    {
+      "time": "5:57 pm",
+      "artist": "Pink Floyd",
+      "title": "Wish You Were Here"
     }
   ],
   "recent": [
+    {
+      "time": "5:39 pm",
+      "artist": "Grateful Dead",
+      "title": "Box Of Rain",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "5:36 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Sister Rosetta Tharpe",
       "title": "Precious Memories",
       "album": "single • 1944"
-    },
-    {
-      "time": "4:03 pm",
-      "artist": "Pretenders",
-      "title": "I'll Stand By You",
-      "album": "Last of the Independents • 1994"
     }
   ]
 }
