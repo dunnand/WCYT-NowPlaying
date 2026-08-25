@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T19:08:51",
+  "updatedAt": "2026-08-25T19:16:18",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Steam Engine",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "Prince",
+    "title": "Musicology",
+    "album": "Musicology • 2004",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:16 pm",
-      "artist": "Prince",
-      "title": "Musicology"
-    },
     {
       "time": "7:20 pm",
       "artist": "Grimes",
@@ -26,9 +21,20 @@
       "time": "7:29 pm",
       "artist": "Phil Collins",
       "title": "Everyday"
+    },
+    {
+      "time": "7:34 pm",
+      "artist": "INXS",
+      "title": "Never Tear Us Apart"
     }
   ],
   "recent": [
+    {
+      "time": "7:16 pm",
+      "artist": "Prince",
+      "title": "Musicology",
+      "album": "Musicology • 2004"
+    },
     {
       "time": "7:08 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "happier",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "5:32 pm",
-      "artist": "Cyndi Lauper",
-      "title": "Girls Just Want To Have Fun",
-      "album": "She's So Unusual • 1984"
     }
   ]
 }
