@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T03:41:22",
+  "updatedAt": "2026-08-25T03:41:40",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Wilco",
+    "title": "Cousin",
+    "album": "Cousin • 2023",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:41 am",
-      "artist": "Wilco",
-      "title": "Cousin"
-    },
     {
       "time": "3:45 am",
       "artist": "Tune",
@@ -26,9 +21,20 @@
       "time": "3:52 am",
       "artist": "Cass McCombs",
       "title": "Sacred Heart"
+    },
+    {
+      "time": "3:56 am",
+      "artist": "Phoebe Bridgers",
+      "title": "Bobby"
     }
   ],
   "recent": [
+    {
+      "time": "3:41 am",
+      "artist": "Wilco",
+      "title": "Cousin",
+      "album": "Cousin • 2023"
+    },
     {
       "time": "3:36 am",
       "artist": "Jack White",
@@ -172,12 +178,6 @@
       "artist": "Aldous Harding",
       "title": "One Stop",
       "album": "Train on the Island • 2026"
-    },
-    {
-      "time": "1:53 am",
-      "artist": "Pulp",
-      "title": "Begging For Change",
-      "album": "HELP2 •"
     }
   ]
 }
