@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T11:32:43",
+  "updatedAt": "2026-08-25T11:32:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Time",
+    "album": "Aladdin Sane • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:32 am",
-      "artist": "David Bowie",
-      "title": "Time"
-    },
     {
       "time": "11:37 am",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "11:46 am",
       "artist": "Led Zeppelin",
       "title": "Whole Lotta Love"
+    },
+    {
+      "time": "11:51 am",
+      "artist": "Fleetwood Mac",
+      "title": "Don't Stop"
     }
   ],
   "recent": [
+    {
+      "time": "11:32 am",
+      "artist": "David Bowie",
+      "title": "Time",
+      "album": "Aladdin Sane • 1973"
+    },
     {
       "time": "11:30 am",
       "artist": "Koji Kondo",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Blue Suede Shoes",
       "album": "Elvis Presley • 1956"
-    },
-    {
-      "time": "10:04 am",
-      "artist": "His Name Is Alive",
-      "title": "Universal Frequencies",
-      "album": "Stars On E.S.P. • 1996"
     }
   ]
 }
