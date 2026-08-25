@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T19:08:41",
+  "updatedAt": "2026-08-25T19:08:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Steam Engine",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:08 pm",
-      "artist": "My Morning Jacket",
-      "title": "Steam Engine"
-    },
     {
       "time": "7:16 pm",
       "artist": "Prince",
@@ -26,9 +21,20 @@
       "time": "7:25 pm",
       "artist": "New Radicals",
       "title": "You Get What You Give"
+    },
+    {
+      "time": "7:29 pm",
+      "artist": "Phil Collins",
+      "title": "Everyday"
     }
   ],
   "recent": [
+    {
+      "time": "7:08 pm",
+      "artist": "My Morning Jacket",
+      "title": "Steam Engine",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "7:04 pm",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Cyndi Lauper",
       "title": "Girls Just Want To Have Fun",
       "album": "She's So Unusual • 1984"
-    },
-    {
-      "time": "5:29 pm",
-      "artist": "Beastie Boys",
-      "title": "Shake Your Rump",
-      "album": "Paul's Boutique • 1989"
     }
   ]
 }
