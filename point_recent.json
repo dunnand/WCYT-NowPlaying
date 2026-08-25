@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T02:55:26",
+  "updatedAt": "2026-08-25T02:55:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Queens of the Stone Age",
+    "title": "Easy Street",
+    "album": "• 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:55 am",
-      "artist": "Queens of the Stone Age",
-      "title": "Easy Street"
-    },
     {
       "time": "2:59 am",
       "artist": "Bjork",
@@ -26,9 +21,20 @@
       "time": "3:06 am",
       "artist": "Deep Sea Diver",
       "title": "Teardrop"
+    },
+    {
+      "time": "3:10 am",
+      "artist": "Vampire Weekend",
+      "title": "Hudson"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 am",
+      "artist": "Queens of the Stone Age",
+      "title": "Easy Street",
+      "album": "• 2026"
+    },
     {
       "time": "2:51 am",
       "artist": "King Gizzard & The Lizard Wizard",
@@ -172,12 +178,6 @@
       "artist": "Deerhunter",
       "title": "Nothing Ever Happened",
       "album": "Microcastle • 2008"
-    },
-    {
-      "time": "1:10 am",
-      "artist": "Beck",
-      "title": "Jack-Ass",
-      "album": "Odelay • 1996"
     }
   ]
 }
