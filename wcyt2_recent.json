@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T21:05:20",
+  "updatedAt": "2026-08-24T21:07:23",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Holiday",
-    "album": "Contra • 2010",
-    "category": "TUNES"
+    "artist": "The Roots",
+    "title": "You Got Me",
+    "album": "Things Fall Apart • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "The Roots",
-      "title": "You Got Me"
-    },
     {
       "time": "9:11 pm",
       "artist": "Roxette",
@@ -26,9 +21,20 @@
       "time": "9:19 pm",
       "artist": "Husker Du",
       "title": "Something I Learned Today"
+    },
+    {
+      "time": "9:21 pm",
+      "artist": "Deftones",
+      "title": "Ohms"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "The Roots",
+      "title": "You Got Me",
+      "album": "Things Fall Apart • 1999"
+    },
     {
       "time": "9:05 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Big Star",
       "title": "Thirteen",
       "album": "#1 Record • 1972"
-    },
-    {
-      "time": "7:23 pm",
-      "artist": "The Allman Brothers Band",
-      "title": "Blue Sky",
-      "album": "Eat a Peach • 1972"
     }
   ]
 }
