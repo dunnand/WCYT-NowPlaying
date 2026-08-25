@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T10:21:29",
+  "updatedAt": "2026-08-25T10:21:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Parklife",
+    "album": "Parklife • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:21 am",
-      "artist": "Blur",
-      "title": "Parklife"
-    },
     {
       "time": "10:24 am",
       "artist": "Portishead",
@@ -26,9 +21,20 @@
       "time": "10:31 am",
       "artist": "Whitney Houston",
       "title": "How Will I Know"
+    },
+    {
+      "time": "10:36 am",
+      "artist": "Maggie Rogers",
+      "title": "That's Where I Am"
     }
   ],
   "recent": [
+    {
+      "time": "10:21 am",
+      "artist": "Blur",
+      "title": "Parklife",
+      "album": "Parklife • 1994"
+    },
     {
       "time": "10:16 am",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Even the Losers",
       "album": "Damn the Torpedoes • 1979"
-    },
-    {
-      "time": "8:52 am",
-      "artist": "The Spinners",
-      "title": "Games People Play",
-      "album": "Pick of the Litter • 1975"
     }
   ]
 }
