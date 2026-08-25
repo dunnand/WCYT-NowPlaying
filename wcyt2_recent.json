@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T02:09:47",
+  "updatedAt": "2026-08-25T02:13:03",
   "now": {
-    "artist": "PJ Harvey",
-    "title": "The Letter",
-    "album": "Uh Huh Her • 2004",
-    "category": "TUNES"
+    "artist": "Lesley Gore",
+    "title": "Maybe I Know",
+    "album": "Girl Talk • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:13 am",
-      "artist": "Lesley Gore",
-      "title": "Maybe I Know"
-    },
     {
       "time": "2:15 am",
       "artist": "Regina Spektor",
@@ -26,9 +21,20 @@
       "time": "2:22 am",
       "artist": "Pavement",
       "title": "The Hexx"
+    },
+    {
+      "time": "2:27 am",
+      "artist": "The Clash",
+      "title": "Pressure Drop"
     }
   ],
   "recent": [
+    {
+      "time": "2:13 am",
+      "artist": "Lesley Gore",
+      "title": "Maybe I Know",
+      "album": "Girl Talk • 1964"
+    },
     {
       "time": "2:09 am",
       "artist": "PJ Harvey",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "There'd Better Be A Mirrorball",
       "album": "The Car • 2022"
-    },
-    {
-      "time": "12:33 am",
-      "artist": "R.E.M.",
-      "title": "Stand",
-      "album": "Green • 1988"
     }
   ]
 }
