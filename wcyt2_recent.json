@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T04:45:18",
+  "updatedAt": "2026-08-25T04:45:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Madonna",
+    "title": "Dress You Up",
+    "album": "Like a Virgin • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "Madonna",
-      "title": "Dress You Up"
-    },
     {
       "time": "4:49 am",
       "artist": "Khruangbin & Leon Bridges",
@@ -26,9 +21,20 @@
       "time": "4:59 am",
       "artist": "Rolling Stones",
       "title": "Gimme Shelter"
+    },
+    {
+      "time": "5:04 am",
+      "artist": "Kings of Leon",
+      "title": "Sex on Fire"
     }
   ],
   "recent": [
+    {
+      "time": "4:45 am",
+      "artist": "Madonna",
+      "title": "Dress You Up",
+      "album": "Like a Virgin • 1985"
+    },
     {
       "time": "4:41 am",
       "artist": "James Brown",
@@ -172,12 +178,6 @@
       "artist": "Patti Smith",
       "title": "Gloria: In Excelsis Deo",
       "album": "Horses • 1975"
-    },
-    {
-      "time": "2:50 am",
-      "artist": "Slowdive",
-      "title": "Slomo",
-      "album": "Slowdive • 2017"
     }
   ]
 }
