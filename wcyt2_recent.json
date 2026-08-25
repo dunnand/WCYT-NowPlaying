@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T06:35:06",
+  "updatedAt": "2026-08-25T06:35:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Angeles",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:35 am",
-      "artist": "Elliott Smith",
-      "title": "Angeles"
-    },
     {
       "time": "6:38 am",
       "artist": "Leaders Of The New School",
@@ -26,9 +21,20 @@
       "time": "6:47 am",
       "artist": "John Parr",
       "title": "St. Elmo's Fire (Man In Motion)"
+    },
+    {
+      "time": "6:51 am",
+      "artist": "Kings of Leon",
+      "title": "The Bandit"
     }
   ],
   "recent": [
+    {
+      "time": "6:35 am",
+      "artist": "Elliott Smith",
+      "title": "Angeles",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "6:29 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Rolling Stones",
       "title": "Gimme Shelter",
       "album": "Let It Bleed • 1970"
-    },
-    {
-      "time": "4:53 am",
-      "artist": "My Morning Jacket",
-      "title": "Mahgeetah",
-      "album": "It Still Moves • 2003"
     }
   ]
 }
