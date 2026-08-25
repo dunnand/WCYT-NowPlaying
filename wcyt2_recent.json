@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:58:54",
+  "updatedAt": "2026-08-25T14:02:01",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Three Little Birds",
-    "album": "Exodus • 1977",
+    "artist": "Monica",
+    "title": "For You I Will",
+    "album": "The Boy Is Mine • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:02 pm",
-      "artist": "Monica",
-      "title": "For You I Will"
-    },
     {
       "time": "2:06 pm",
       "artist": "Nina Simone",
@@ -21,9 +16,20 @@
       "time": "2:09 pm",
       "artist": "LCD Soundsystem",
       "title": "Disco Infiltrator"
+    },
+    {
+      "time": "2:15 pm",
+      "artist": "Randy Newman",
+      "title": "I Think It's Going to Rain Today"
     }
   ],
   "recent": [
+    {
+      "time": "2:02 pm",
+      "artist": "Monica",
+      "title": "For You I Will",
+      "album": "The Boy Is Mine • 1997"
+    },
     {
       "time": "1:58 pm",
       "artist": "Bob Marley and the Wailers",
@@ -167,12 +173,6 @@
       "artist": "The Magnetic Fields",
       "title": "I Think I Need a New Heart",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "12:15 pm",
-      "artist": "Linda Scott",
-      "title": "I've Told Every Little Star",
-      "album": "Donna Reeds Dinner Party • 1995"
     }
   ]
 }
