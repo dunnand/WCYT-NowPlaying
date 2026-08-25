@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:45:18",
+  "updatedAt": "2026-08-25T13:45:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Gallows Pole",
+    "album": "Led Zeppelin III • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 pm",
-      "artist": "Led Zeppelin",
-      "title": "Gallows Pole"
-    },
     {
       "time": "1:50 pm",
       "artist": "Otis Redding",
@@ -26,9 +21,20 @@
       "time": "1:56 pm",
       "artist": "Sam & Dave",
       "title": "Hold On! I'm Comin'"
+    },
+    {
+      "time": "1:59 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Three Little Birds"
     }
   ],
   "recent": [
+    {
+      "time": "1:45 pm",
+      "artist": "Led Zeppelin",
+      "title": "Gallows Pole",
+      "album": "Led Zeppelin III • 1970"
+    },
     {
       "time": "1:41 pm",
       "artist": "OK GO",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "Genesis",
       "album": "Visions • 2012"
-    },
-    {
-      "time": "11:54 am",
-      "artist": "Pavement",
-      "title": "Here",
-      "album": "Slanted & Enchanted • 1992"
     }
   ]
 }
