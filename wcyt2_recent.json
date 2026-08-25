@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T17:39:42",
+  "updatedAt": "2026-08-25T17:44:49",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Box Of Rain",
-    "album": "American Beauty • 1970",
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "album": "With a Little Help from My Friends • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "Joe Cocker",
-      "title": "With A Little Help From My Friends"
-    },
     {
       "time": "5:50 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "5:57 pm",
       "artist": "Pink Floyd",
       "title": "Wish You Were Here"
+    },
+    {
+      "time": "6:02 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Expectations"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "Joe Cocker",
+      "title": "With A Little Help From My Friends",
+      "album": "With a Little Help from My Friends • 1968"
+    },
     {
       "time": "5:39 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Supermassive Black Hole",
       "album": "Black Holes and Revelations • 2006"
-    },
-    {
-      "time": "4:07 pm",
-      "artist": "Sister Rosetta Tharpe",
-      "title": "Precious Memories",
-      "album": "single • 1944"
     }
   ]
 }
