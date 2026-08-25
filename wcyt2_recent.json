@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T11:46:01",
+  "updatedAt": "2026-08-25T11:51:28",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Whole Lotta Love",
-    "album": "Led Zeppelin II • 1969",
+    "artist": "Fleetwood Mac",
+    "title": "Don't Stop",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:51 am",
-      "artist": "Fleetwood Mac",
-      "title": "Don't Stop"
-    },
     {
       "time": "11:54 am",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "12:02 pm",
       "artist": "Low",
       "title": "Dinosaur Act"
+    },
+    {
+      "time": "12:06 pm",
+      "artist": "of Montreal",
+      "title": "Vegan in Furs"
     }
   ],
   "recent": [
+    {
+      "time": "11:51 am",
+      "artist": "Fleetwood Mac",
+      "title": "Don't Stop",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "11:46 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Blur",
       "title": "Parklife",
       "album": "Parklife • 1994"
-    },
-    {
-      "time": "10:16 am",
-      "artist": "Thom Yorke",
-      "title": "Traffic",
-      "album": "ANIMA • 2019"
     }
   ]
 }
