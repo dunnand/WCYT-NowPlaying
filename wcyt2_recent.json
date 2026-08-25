@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-08-25T00:13:26",
+  "updatedAt": "2026-08-25T00:13:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Otis Redding",
+    "title": "Hard to Handle",
+    "album": "The Immortal Otis Redding • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:13 am",
+      "time": "12:15 am",
+      "artist": "Panic At The Disco",
+      "title": "I Write Sins Not Tragedies"
+    },
+    {
+      "time": "12:19 am",
       "artist": "Otis Redding",
       "title": "Hard to Handle"
     },
     {
-      "time": "12:15 am",
+      "time": "12:21 am",
       "artist": "School Of Seven Bells",
       "title": "Windstorm"
-    },
-    {
-      "time": "12:19 am",
-      "artist": "Teenage Fanclub",
-      "title": "Neil Jung"
-    },
-    {
-      "time": "12:24 am",
-      "artist": "The Cardigans",
-      "title": "Lovefool"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 am",
+      "artist": "Otis Redding",
+      "title": "Hard to Handle",
+      "album": "The Immortal Otis Redding • 1968"
+    },
     {
       "time": "12:10 am",
       "artist": "Panic At The Disco",
@@ -172,12 +173,6 @@
       "artist": "Childish Gambino",
       "title": "19.10",
       "album": "3.15.20 • 2020"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "Neneh Cherry",
-      "title": "Buffalo Stance",
-      "album": "Raw Like Sushi • 1989"
     }
   ]
 }
