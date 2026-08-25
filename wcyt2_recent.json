@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T21:25:02",
+  "updatedAt": "2026-08-24T21:25:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chic",
+    "title": "Le Freak",
+    "album": "C'est Chic • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 pm",
-      "artist": "Chic",
-      "title": "Le Freak"
-    },
     {
       "time": "9:28 pm",
       "artist": "Simon & Garfunkel",
@@ -26,9 +21,20 @@
       "time": "9:35 pm",
       "artist": "Jimmy Jones",
       "title": "Handy Man"
+    },
+    {
+      "time": "9:37 pm",
+      "artist": "Dolly Parton",
+      "title": "Coat of Many Colors"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 pm",
+      "artist": "Chic",
+      "title": "Le Freak",
+      "album": "C'est Chic • 1978"
+    },
     {
       "time": "9:21 pm",
       "artist": "Deftones",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "I'm Gonna Love You Too",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "7:46 pm",
-      "artist": "The Presidents of the United States of America",
-      "title": "Peaches",
-      "album": "The Presidents of the United States of America • 1995"
     }
   ]
 }
