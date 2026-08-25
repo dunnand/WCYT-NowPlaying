@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T09:01:06",
+  "updatedAt": "2026-08-25T09:01:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Matchbox Twenty",
+    "title": "Bent",
+    "album": "Mad Season • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:01 am",
-      "artist": "Matchbox Twenty",
-      "title": "Bent"
-    },
     {
       "time": "9:05 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "9:10 am",
       "artist": "Yo La Tengo",
       "title": "Upside-Down"
+    },
+    {
+      "time": "9:12 am",
+      "artist": "Louis Armstrong",
+      "title": "A Kiss to Build a Dream On"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 am",
+      "artist": "Matchbox Twenty",
+      "title": "Bent",
+      "album": "Mad Season • 2000"
+    },
     {
       "time": "8:57 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "Roy Orbison",
       "title": "Oh, Pretty Woman",
       "album": "Orbisongs • 1964"
-    },
-    {
-      "time": "7:22 am",
-      "artist": "Gwen Stefani",
-      "title": "The Sweet Escape",
-      "album": "The Sweet Escape • 2006"
     }
   ]
 }
