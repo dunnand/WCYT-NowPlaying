@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:15:12",
+  "updatedAt": "2026-08-25T13:20:09",
   "now": {
-    "artist": "Wilco",
-    "title": "We Were Lucky",
-    "album": "Ode To Joy • 2019",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Oh Comely",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:20 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Oh Comely"
-    },
     {
       "time": "1:28 pm",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "1:37 pm",
       "artist": "Kenny Rogers & Dolly Parton",
       "title": "Islands In The Stream"
+    },
+    {
+      "time": "1:41 pm",
+      "artist": "OK GO",
+      "title": "All Together Now"
     }
   ],
   "recent": [
+    {
+      "time": "1:20 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Oh Comely",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "1:15 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Voodoo Child (Slight Return)",
       "album": "Electric Ladyland • 1968"
-    },
-    {
-      "time": "11:32 am",
-      "artist": "David Bowie",
-      "title": "Time",
-      "album": "Aladdin Sane • 1973"
     }
   ]
 }
