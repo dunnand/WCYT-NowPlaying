@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T12:57:51",
+  "updatedAt": "2026-08-25T13:02:28",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Interstate 8",
-    "album": "Building Nothing out of Something • 1999",
-    "category": "TUNES"
+    "artist": "Taylor Swift",
+    "title": "Eyes Open",
+    "album": "The Hunger Games • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:02 pm",
-      "artist": "Taylor Swift",
-      "title": "Eyes Open"
-    },
     {
       "time": "1:06 pm",
       "artist": "Iron & Wine",
@@ -21,9 +16,20 @@
       "time": "1:10 pm",
       "artist": "Junior Boys",
       "title": "In The Morning"
+    },
+    {
+      "time": "1:15 pm",
+      "artist": "Wilco",
+      "title": "We Were Lucky"
     }
   ],
   "recent": [
+    {
+      "time": "1:02 pm",
+      "artist": "Taylor Swift",
+      "title": "Eyes Open",
+      "album": "The Hunger Games • 2012"
+    },
     {
       "time": "12:57 pm",
       "artist": "Modest Mouse",
@@ -167,12 +173,6 @@
       "artist": "Ozzy Osbourne",
       "title": "Mr. Crowley",
       "album": "Blizzard of Ozz • 1980"
-    },
-    {
-      "time": "11:19 am",
-      "artist": "Goldfinger",
-      "title": "Superman",
-      "album": "Hang-Ups • 1997"
     }
   ]
 }
