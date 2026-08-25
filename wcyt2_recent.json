@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T11:32:53",
+  "updatedAt": "2026-08-25T11:37:53",
   "now": {
-    "artist": "David Bowie",
-    "title": "Time",
-    "album": "Aladdin Sane • 1973",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Voodoo Child (Slight Return)",
+    "album": "Electric Ladyland • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:37 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Voodoo Child (Slight Return)"
-    },
     {
       "time": "11:43 am",
       "artist": "Ace Frehley",
@@ -26,9 +21,20 @@
       "time": "11:51 am",
       "artist": "Fleetwood Mac",
       "title": "Don't Stop"
+    },
+    {
+      "time": "11:54 am",
+      "artist": "Pavement",
+      "title": "Here"
     }
   ],
   "recent": [
+    {
+      "time": "11:37 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Voodoo Child (Slight Return)",
+      "album": "Electric Ladyland • 1968"
+    },
     {
       "time": "11:32 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Goo Goo Dolls",
       "title": "Here Is Gone",
       "album": "Gutterflower • 2002"
-    },
-    {
-      "time": "10:08 am",
-      "artist": "Elvis Presley",
-      "title": "Blue Suede Shoes",
-      "album": "Elvis Presley • 1956"
     }
   ]
 }
