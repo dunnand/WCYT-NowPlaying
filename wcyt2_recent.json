@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T13:20:09",
+  "updatedAt": "2026-08-25T13:28:26",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Oh Comely",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Pink Triangle",
+    "album": "Pinkerton • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:28 pm",
-      "artist": "Weezer",
-      "title": "Pink Triangle"
-    },
     {
       "time": "1:32 pm",
       "artist": "Talking Heads",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:28 pm",
+      "artist": "Weezer",
+      "title": "Pink Triangle",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "1:20 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Ace Frehley",
       "title": "New York Groove",
       "album": "Ace Frehley • 1978"
-    },
-    {
-      "time": "11:37 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Voodoo Child (Slight Return)",
-      "album": "Electric Ladyland • 1968"
     }
   ]
 }
