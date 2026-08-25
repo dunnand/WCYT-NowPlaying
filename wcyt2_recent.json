@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-24T21:56:28",
+  "updatedAt": "2026-08-24T21:59:43",
   "now": {
-    "artist": "Wilco",
-    "title": "Taste the Ceiling",
-    "album": "Star Wars • 2015",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Star�lfur",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "Sigur Ros",
-      "title": "Star�lfur"
-    },
     {
       "time": "10:05 pm",
       "artist": "Sting",
@@ -21,9 +16,25 @@
       "time": "10:09 pm",
       "artist": "Kate Bush",
       "title": "Army Dreamers"
+    },
+    {
+      "time": "10:12 pm",
+      "artist": "Neneh Cherry",
+      "title": "Buffalo Stance"
+    },
+    {
+      "time": "10:18 pm",
+      "artist": "Childish Gambino",
+      "title": "19.10"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "Sigur Ros",
+      "title": "Star�lfur",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "9:56 pm",
       "artist": "Wilco",
@@ -167,12 +178,6 @@
       "artist": "Captain & Tennille",
       "title": "Muskrat Love",
       "album": "Song of Joy • 1976"
-    },
-    {
-      "time": "8:28 pm",
-      "artist": "Bread",
-      "title": "Make It With You",
-      "album": "On the Waters • 1970"
     }
   ]
 }
