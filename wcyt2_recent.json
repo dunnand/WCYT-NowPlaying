@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-08-25T15:22:57",
+  "updatedAt": "2026-08-25T15:27:01",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "My Hero",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Madonna",
+    "title": "Nothing Really Matters",
+    "album": "Ray of Light • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:27 pm",
-      "artist": "Madonna",
-      "title": "Nothing Really Matters"
-    },
     {
       "time": "3:31 pm",
       "artist": "Modern English",
       "title": "I Melt With You"
     },
     {
-      "time": "3:36 pm",
+      "time": "3:35 pm",
       "artist": "Lisa Lisa & The Cult Jam",
       "title": "Head To Toe"
     },
     {
-      "time": "3:40 pm",
+      "time": "3:39 pm",
       "artist": "Pearl Jam",
       "title": "Dance Of The Clairvoyants"
     }
   ],
   "recent": [
+    {
+      "time": "3:27 pm",
+      "artist": "Madonna",
+      "title": "Nothing Really Matters",
+      "album": "Ray of Light • 1999"
+    },
     {
       "time": "3:22 pm",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "The Clash",
       "title": "Spanish Bombs",
       "album": "London Calling • 1979"
-    },
-    {
-      "time": "1:50 pm",
-      "artist": "Otis Redding",
-      "title": "The Glory of Love",
-      "album": "The Dock of the Bay • 1968"
     }
   ]
 }
