@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T17:50:06",
+  "updatedAt": "2026-08-25T17:55:01",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Coyote",
-    "album": "Hejira • 1976",
+    "artist": "The Beatles",
+    "title": "Girl",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:54 pm",
-      "artist": "The Beatles",
-      "title": "Girl"
-    },
     {
       "time": "5:57 pm",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "6:05 pm",
       "artist": "Doris Day",
       "title": "Whatever Will Be Will Be (Que Sera, Sera)"
+    },
+    {
+      "time": "6:07 pm",
+      "artist": "Interpol",
+      "title": "C'mere"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 pm",
+      "artist": "The Beatles",
+      "title": "Girl",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "5:50 pm",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Citizens",
       "album": "Ode to Joy • 2019"
-    },
-    {
-      "time": "4:16 pm",
-      "artist": "Nina Simone",
-      "title": "Feeling Good",
-      "album": "I Put a Spell on You • 1965"
     }
   ]
 }
