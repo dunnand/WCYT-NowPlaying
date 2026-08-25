@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T02:07:44",
+  "updatedAt": "2026-08-25T02:09:47",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Well...All Right",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "The Letter",
+    "album": "Uh Huh Her • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:09 am",
-      "artist": "PJ Harvey",
-      "title": "The Letter"
-    },
     {
       "time": "2:13 am",
       "artist": "Lesley Gore",
@@ -26,9 +21,20 @@
       "time": "2:18 am",
       "artist": "Jimmy Cliff",
       "title": "I Can See Clearly Now"
+    },
+    {
+      "time": "2:22 am",
+      "artist": "Pavement",
+      "title": "The Hexx"
     }
   ],
   "recent": [
+    {
+      "time": "2:09 am",
+      "artist": "PJ Harvey",
+      "title": "The Letter",
+      "album": "Uh Huh Her • 2004"
+    },
     {
       "time": "2:07 am",
       "artist": "Buddy Holly",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Stand",
       "album": "Green • 1988"
-    },
-    {
-      "time": "12:27 am",
-      "artist": "Ministry",
-      "title": "Stigmata",
-      "album": "The Land • 1988"
     }
   ]
 }
