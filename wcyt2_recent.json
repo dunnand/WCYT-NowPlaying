@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T22:43:01",
+  "updatedAt": "2026-08-25T22:47:38",
   "now": {
-    "artist": "ABBA",
-    "title": "The Name of the Game",
-    "album": "ABBA: The Album • 1977",
+    "artist": "The Bar-Kays",
+    "title": "Soul Finger",
+    "album": "Soul Finger • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:47 pm",
-      "artist": "The Bar",
-      "title": "Kays - Soul Finger"
-    },
     {
       "time": "10:49 pm",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "11:03 pm",
       "artist": "Radiohead",
       "title": "Burn the Witch"
+    },
+    {
+      "time": "11:07 pm",
+      "artist": "Modest Mouse",
+      "title": "Blame It on the Tetons"
     }
   ],
   "recent": [
+    {
+      "time": "10:47 pm",
+      "artist": "The Bar-Kays",
+      "title": "Soul Finger",
+      "album": "Soul Finger • 1967"
+    },
     {
       "time": "10:43 pm",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "SAULT",
       "title": "Let Me Go",
       "album": "5 • 2019"
-    },
-    {
-      "time": "9:09 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Crosstown Traffic",
-      "album": "Electric Ladyland • 1968"
     }
   ]
 }
