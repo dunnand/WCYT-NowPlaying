@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T13:10:45",
+  "updatedAt": "2026-08-26T13:15:29",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Naomi",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Undone - The Sweater Song",
+    "album": "Weezer • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:15 pm",
-      "artist": "Weezer",
-      "title": "Undone - The Sweater Song"
-    },
     {
       "time": "1:20 pm",
       "artist": "Kate Bush",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:15 pm",
+      "artist": "Weezer",
+      "title": "Undone - The Sweater Song",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "1:10 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Commodores",
       "title": "Machine Gun",
       "album": "Machine Gun • 1974"
-    },
-    {
-      "time": "11:25 am",
-      "artist": "Petula Clark",
-      "title": "Don't Sleep In The Subway",
-      "album": "These Are My Songs • 1967"
     }
   ]
 }
