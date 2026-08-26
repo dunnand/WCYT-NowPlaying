@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T18:26:19",
+  "updatedAt": "2026-08-26T18:30:44",
   "now": {
-    "artist": "Eagles",
-    "title": "One Of These Nights",
-    "album": "One of These Nights • 1975",
+    "artist": "Skeeter Davis",
+    "title": "The End Of The World",
+    "album": "The End of the World (1963 • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:30 pm",
-      "artist": "Skeeter Davis",
-      "title": "The End Of The World"
-    },
     {
       "time": "6:33 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "6:38 pm",
       "artist": "Chuck Berry",
       "title": "Maybelene"
+    },
+    {
+      "time": "6:41 pm",
+      "artist": "Muse",
+      "title": "Starlight"
     }
   ],
   "recent": [
+    {
+      "time": "6:30 pm",
+      "artist": "Skeeter Davis",
+      "title": "The End Of The World",
+      "album": "The End of the World (1963 • 1963"
+    },
     {
       "time": "6:26 pm",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Sturgill Simpson",
       "title": "Sing Along",
       "album": "Sing Along • 2019"
-    },
-    {
-      "time": "4:54 pm",
-      "artist": "Martha Reeves & The Vandellas",
-      "title": "Jimmy Mack",
-      "album": "Watchout! • 1966"
     }
   ]
 }
