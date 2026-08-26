@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T21:11:48",
+  "updatedAt": "2026-08-25T21:15:02",
   "now": {
-    "artist": "SAULT",
-    "title": "Let Me Go",
-    "album": "5 • 2019",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Cupid's Trick",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "Elliott Smith",
-      "title": "Cupid's Trick"
-    },
     {
       "time": "9:18 pm",
       "artist": "Mary J. Blige",
@@ -21,9 +16,25 @@
       "time": "9:22 pm",
       "artist": "Midnight Oil",
       "title": "Beds Are Burning"
+    },
+    {
+      "time": "9:26 pm",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "title": "If You Leave"
+    },
+    {
+      "time": "9:31 pm",
+      "artist": "Haim",
+      "title": "The story of us"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "Elliott Smith",
+      "title": "Cupid's Trick",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "9:11 pm",
       "artist": "SAULT",
@@ -167,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Are You Experienced?",
       "album": "Are You Experienced • 1967"
-    },
-    {
-      "time": "7:45 pm",
-      "artist": "Eagles",
-      "title": "Heartache Tonight",
-      "album": "The Long Run • 1979"
     }
   ]
 }
