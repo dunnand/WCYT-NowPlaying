@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T00:43:22",
+  "updatedAt": "2026-08-26T00:46:28",
   "now": {
-    "artist": "The Clash",
-    "title": "Complete Control",
-    "album": "The Clash • 1979",
+    "artist": "The Band",
+    "title": "The Weight",
+    "album": "Music from Big Pink • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "The Band",
-      "title": "The Weight"
-    },
     {
       "time": "12:51 am",
       "artist": "Bauhaus",
@@ -26,9 +21,20 @@
       "time": "1:04 am",
       "artist": "Maurice Williams & The Zodiacs",
       "title": "Stay"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Grandaddy",
+      "title": "He's Simple, He's Dumb, He's the Pilot"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "The Band",
+      "title": "The Weight",
+      "album": "Music from Big Pink • 1968"
+    },
     {
       "time": "12:43 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Shake It Off",
       "album": "1989 • 2014"
-    },
-    {
-      "time": "11:12 pm",
-      "artist": "Jimmy Eat World",
-      "title": "Pain",
-      "album": "Futures • 2004"
     }
   ]
 }
