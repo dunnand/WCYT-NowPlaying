@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T00:35:52",
+  "updatedAt": "2026-08-26T00:36:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Rock and Roll",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 am",
-      "artist": "Led Zeppelin",
-      "title": "Rock and Roll"
-    },
     {
       "time": "12:39 am",
       "artist": "Nico",
@@ -26,9 +21,20 @@
       "time": "12:46 am",
       "artist": "The Band",
       "title": "The Weight"
+    },
+    {
+      "time": "12:51 am",
+      "artist": "Bauhaus",
+      "title": "Bela Lugosi's Dead"
     }
   ],
   "recent": [
+    {
+      "time": "12:36 am",
+      "artist": "Led Zeppelin",
+      "title": "Rock and Roll",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "12:32 am",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Burn the Witch",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "10:59 pm",
-      "artist": "New Order",
-      "title": "Regret",
-      "album": "Republic • 1993"
     }
   ]
 }
