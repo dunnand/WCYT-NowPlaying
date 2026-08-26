@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T15:25:13",
+  "updatedAt": "2026-08-26T15:29:28",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Scarlet Begonias",
-    "album": "From the Mars Hotel • 1974",
+    "artist": "Joni Mitchell",
+    "title": "Don't Interrupt the Sorrow",
+    "album": "The Hissing of Summer Lawns • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:29 pm",
-      "artist": "Joni Mitchell",
-      "title": "Don't Interrupt the Sorrow"
-    },
     {
       "time": "3:33 pm",
       "artist": "The Microphones",
@@ -26,9 +21,20 @@
       "time": "3:41 pm",
       "artist": "Pink Floyd",
       "title": "Another Brick in the Wall, Part 2"
+    },
+    {
+      "time": "3:45 pm",
+      "artist": "Radiohead",
+      "title": "Bones"
     }
   ],
   "recent": [
+    {
+      "time": "3:29 pm",
+      "artist": "Joni Mitchell",
+      "title": "Don't Interrupt the Sorrow",
+      "album": "The Hissing of Summer Lawns • 1975"
+    },
     {
       "time": "3:25 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "NYC",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "2:02 pm",
-      "artist": "John Mayer",
-      "title": "Your Body Is A Wonderland",
-      "album": "Room for Squares • 2002"
     }
   ]
 }
