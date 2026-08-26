@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-26T19:44:55",
+  "updatedAt": "2026-08-26T19:48:59",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Everlong",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Hall & Oates",
+    "title": "So Close",
+    "album": "Change of Season • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:48 pm",
-      "artist": "Hall & Oates",
-      "title": "So Close"
-    },
-    {
-      "time": "7:53 pm",
+      "time": "7:52 pm",
       "artist": "Janet Jackson",
       "title": "What Have You Done For Me Lately"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:48 pm",
+      "artist": "Hall & Oates",
+      "title": "So Close",
+      "album": "Change of Season • 1990"
+    },
     {
       "time": "7:44 pm",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Eagles",
       "title": "One Of These Nights",
       "album": "One of These Nights • 1975"
-    },
-    {
-      "time": "6:23 pm",
-      "artist": "Nilsson",
-      "title": "One",
-      "album": "Aerial Ballet • 1968"
     }
   ]
 }
