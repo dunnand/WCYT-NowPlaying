@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T10:21:55",
+  "updatedAt": "2026-08-26T10:25:00",
   "now": {
-    "artist": "The Band",
-    "title": "I Shall Be Released",
-    "album": "Music from Big Pink • 1968",
+    "artist": "Blondie",
+    "title": "Sunday Girl",
+    "album": "Parallel Lines • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:24 am",
-      "artist": "Blondie",
-      "title": "Sunday Girl"
-    },
     {
       "time": "10:27 am",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "10:34 am",
       "artist": "Hanson",
       "title": "MMMBop"
+    },
+    {
+      "time": "10:38 am",
+      "artist": "The Mountain Goats",
+      "title": "Your Belgian Things"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 am",
+      "artist": "Blondie",
+      "title": "Sunday Girl",
+      "album": "Parallel Lines • 1978"
+    },
     {
       "time": "10:21 am",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Daughter",
       "album": "Vs. • 1993"
-    },
-    {
-      "time": "8:54 am",
-      "artist": "Wilco",
-      "title": "The Joke Explained",
-      "album": "Star Wars • 2015"
     }
   ]
 }
