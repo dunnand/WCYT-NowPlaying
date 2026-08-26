@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T02:43:39",
+  "updatedAt": "2026-08-26T02:43:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "Night Fever",
+    "album": "Saturday Night Fever • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 am",
-      "artist": "Bee Gees",
-      "title": "Night Fever"
-    },
     {
       "time": "2:47 am",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "2:55 am",
       "artist": "Sam & Dave",
       "title": "Soul Man"
+    },
+    {
+      "time": "2:57 am",
+      "artist": "John Prine",
+      "title": "Pretty Good"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "Bee Gees",
+      "title": "Night Fever",
+      "album": "Saturday Night Fever • 1978"
+    },
     {
       "time": "2:40 am",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Maurice Williams & The Zodiacs",
       "title": "Stay",
       "album": "Single • 1953"
-    },
-    {
-      "time": "1:00 am",
-      "artist": "Mariah Carey",
-      "title": "Dreamlover",
-      "album": "Music Box • 1993"
     }
   ]
 }
