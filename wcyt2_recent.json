@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T08:03:59",
+  "updatedAt": "2026-08-26T08:07:14",
   "now": {
-    "artist": "Kristin Hersh",
-    "title": "Your Ghost",
-    "album": "Hips and Makers • 1994",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Roman Candle",
+    "album": "Roman Candle • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "Elliott Smith",
-      "title": "Roman Candle"
-    },
     {
       "time": "8:10 am",
       "artist": "Julian Lennon",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "Elliott Smith",
+      "title": "Roman Candle",
+      "album": "Roman Candle • 1994"
+    },
     {
       "time": "8:03 am",
       "artist": "Kristin Hersh",
@@ -172,12 +173,6 @@
       "artist": "The Knife",
       "title": "Heartbeats",
       "album": "Deep Cuts • 2003"
-    },
-    {
-      "time": "6:33 am",
-      "artist": "The Carpenters",
-      "title": "Goodbye To Love",
-      "album": "A Song for You • 1972"
     }
   ]
 }
