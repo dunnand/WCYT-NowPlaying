@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T22:38:08",
+  "updatedAt": "2026-08-25T22:40:26",
   "now": {
-    "artist": "T. Rex",
-    "title": "Solid Gold Easy Action",
-    "album": "Solid Gold Easy Action • 1972",
+    "artist": "Jim Reeves",
+    "title": "He'll Have To Go",
+    "album": "Hell Have to Go • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:40 pm",
-      "artist": "Jim Reeves",
-      "title": "He'll Have To Go"
-    },
     {
       "time": "10:42 pm",
       "artist": "ABBA",
@@ -26,9 +21,20 @@
       "time": "10:49 pm",
       "artist": "Bruce Springsteen",
       "title": "New York City Serenade"
+    },
+    {
+      "time": "10:59 pm",
+      "artist": "New Order",
+      "title": "Regret"
     }
   ],
   "recent": [
+    {
+      "time": "10:40 pm",
+      "artist": "Jim Reeves",
+      "title": "He'll Have To Go",
+      "album": "Hell Have to Go • 1960"
+    },
     {
       "time": "10:38 pm",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "I Thought You Were My Boyfriend",
       "album": "i • 2004"
-    },
-    {
-      "time": "9:02 pm",
-      "artist": "Connie Francis",
-      "title": "Who's Sorry Now",
-      "album": "Who's Sorry Now? • 1958"
     }
   ]
 }
