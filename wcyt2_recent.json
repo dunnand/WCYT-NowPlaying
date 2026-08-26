@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T00:36:02",
+  "updatedAt": "2026-08-26T00:39:38",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Rock and Roll",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Nico",
+    "title": "These Days",
+    "album": "Chelsea Girl • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 am",
-      "artist": "Nico",
-      "title": "These Days"
-    },
     {
       "time": "12:43 am",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "12:51 am",
       "artist": "Bauhaus",
       "title": "Bela Lugosi's Dead"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Mariah Carey",
+      "title": "Dreamlover"
     }
   ],
   "recent": [
+    {
+      "time": "12:39 am",
+      "artist": "Nico",
+      "title": "These Days",
+      "album": "Chelsea Girl • 1967"
+    },
     {
       "time": "12:36 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Modest Mouse",
       "title": "Blame It on the Tetons",
       "album": "Good News for People Who Love Bad News • 2004"
-    },
-    {
-      "time": "11:03 pm",
-      "artist": "Radiohead",
-      "title": "Burn the Witch",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
