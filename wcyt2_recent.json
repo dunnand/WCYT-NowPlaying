@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T13:45:39",
+  "updatedAt": "2026-08-26T13:48:31",
   "now": {
-    "artist": "The Beatles",
-    "title": "Ticket To Ride",
-    "album": "Help! • 1965",
+    "artist": "KISS",
+    "title": "Detroit Rock City",
+    "album": "Destroyer • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:48 pm",
-      "artist": "KISS",
-      "title": "Detroit Rock City"
-    },
     {
       "time": "1:52 pm",
       "artist": "Missy Elliott",
@@ -26,9 +21,20 @@
       "time": "1:59 pm",
       "artist": "Dolly Parton",
       "title": "Coat of Many Colors"
+    },
+    {
+      "time": "2:02 pm",
+      "artist": "John Mayer",
+      "title": "Your Body Is A Wonderland"
     }
   ],
   "recent": [
+    {
+      "time": "1:48 pm",
+      "artist": "KISS",
+      "title": "Detroit Rock City",
+      "album": "Destroyer • 1976"
+    },
     {
       "time": "1:45 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Husker Du",
       "title": "Celebrated Summer",
       "album": "New Day Rising • 1985"
-    },
-    {
-      "time": "11:56 am",
-      "artist": "Pavement",
-      "title": "Grounded",
-      "album": "Wowee Zowee • 1995"
     }
   ]
 }
