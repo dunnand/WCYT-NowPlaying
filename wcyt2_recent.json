@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T22:07:52",
+  "updatedAt": "2026-08-25T22:08:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "*NSYNC",
+    "title": "Bye Bye Bye",
+    "album": "No Strings Attached • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 pm",
-      "artist": "*NSYNC",
-      "title": "Bye Bye Bye"
-    },
     {
       "time": "10:11 pm",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "10:17 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Landslide"
+    },
+    {
+      "time": "10:20 pm",
+      "artist": "Lonestar",
+      "title": "Amazed"
     }
   ],
   "recent": [
+    {
+      "time": "10:08 pm",
+      "artist": "*NSYNC",
+      "title": "Bye Bye Bye",
+      "album": "No Strings Attached • 2000"
+    },
     {
       "time": "10:03 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Kraftwerk",
       "title": "Computer Love",
       "album": "Computer World • 1981"
-    },
-    {
-      "time": "8:30 pm",
-      "artist": "Journey",
-      "title": "Who's Crying Now",
-      "album": "Escape • 1981"
     }
   ]
 }
