@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T10:17:39",
+  "updatedAt": "2026-08-26T10:17:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Surf's Up",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:17 am",
-      "artist": "The Beach Boys",
-      "title": "Surf's Up"
-    },
     {
       "time": "10:21 am",
       "artist": "The Band",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:17 am",
+      "artist": "The Beach Boys",
+      "title": "Surf's Up",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "10:14 am",
       "artist": "Steppenwolf",
@@ -177,12 +178,6 @@
       "artist": "Leonard Cohen",
       "title": "Hey, That's No Way to Say Goodbye",
       "album": "Songs of Leonard Cohen • 1967"
-    },
-    {
-      "time": "8:47 am",
-      "artist": "Lady Gaga",
-      "title": "Poker Face",
-      "album": "The Fame • 2008"
     }
   ]
 }
