@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T10:27:56",
+  "updatedAt": "2026-08-26T10:30:29",
   "now": {
-    "artist": "Sleater-Kinney",
-    "title": "Anonymous",
-    "album": "Call The Doctor • 1996",
-    "category": "TUNES"
+    "artist": "Taylor Swift",
+    "title": "Style",
+    "album": "1989 • 2014",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:30 am",
-      "artist": "Taylor Swift",
-      "title": "Style"
-    },
     {
       "time": "10:34 am",
       "artist": "Hanson",
@@ -21,9 +16,20 @@
       "time": "10:38 am",
       "artist": "The Mountain Goats",
       "title": "Your Belgian Things"
+    },
+    {
+      "time": "10:42 am",
+      "artist": "Rihanna",
+      "title": "What's My Name"
     }
   ],
   "recent": [
+    {
+      "time": "10:30 am",
+      "artist": "Taylor Swift",
+      "title": "Style",
+      "album": "1989 • 2014"
+    },
     {
       "time": "10:27 am",
       "artist": "Sleater-Kinney",
@@ -167,12 +173,6 @@
       "artist": "Mr. Mister",
       "title": "Broken Wings",
       "album": "Welcome to the Real World • 1985"
-    },
-    {
-      "time": "9:00 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Zero",
-      "album": "Mellon Collie and the Infinite Sadness • 1995"
     }
   ]
 }
