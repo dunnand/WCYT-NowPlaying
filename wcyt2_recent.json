@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T17:00:05",
+  "updatedAt": "2026-08-26T17:00:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney",
+    "title": "Calico Skies",
+    "album": "Flaming Pie • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 pm",
-      "artist": "Paul McCartney",
-      "title": "Calico Skies"
-    },
     {
       "time": "5:02 pm",
       "artist": "Peabo Bryson & Regina Belle",
@@ -26,9 +21,20 @@
       "time": "5:11 pm",
       "artist": "Cocteau Twins",
       "title": "Ivo"
+    },
+    {
+      "time": "5:15 pm",
+      "artist": "*NSYNC",
+      "title": "Better Place"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 pm",
+      "artist": "Paul McCartney",
+      "title": "Calico Skies",
+      "album": "Flaming Pie • 1997"
+    },
     {
       "time": "4:57 pm",
       "artist": "Sturgill Simpson",
@@ -172,12 +178,6 @@
       "artist": "The Microphones",
       "title": "The Moon",
       "album": "The Glow, Part 2 • 2001"
-    },
-    {
-      "time": "3:29 pm",
-      "artist": "Joni Mitchell",
-      "title": "Don't Interrupt the Sorrow",
-      "album": "The Hissing of Summer Lawns • 1975"
     }
   ]
 }
