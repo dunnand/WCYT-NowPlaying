@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T11:30:31",
+  "updatedAt": "2026-08-26T11:37:31",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Big Day Coming",
-    "album": "Painful • 1993",
-    "category": "TUNES"
+    "artist": "Kingston Trio",
+    "title": "Tom Dooley",
+    "album": "Tom Dooley • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:37 am",
-      "artist": "Kingston Trio",
-      "title": "Tom Dooley"
-    },
     {
       "time": "11:40 am",
       "artist": "Kings of Leon",
@@ -26,9 +21,20 @@
       "time": "11:47 am",
       "artist": "Travis Scott",
       "title": "SICKO MODE"
+    },
+    {
+      "time": "11:52 am",
+      "artist": "Michael W. Smith",
+      "title": "Place In This World"
     }
   ],
   "recent": [
+    {
+      "time": "11:37 am",
+      "artist": "Kingston Trio",
+      "title": "Tom Dooley",
+      "album": "Tom Dooley • 1958"
+    },
     {
       "time": "11:30 am",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "Seven Wonders",
       "album": "Tango in the Night • 1987"
-    },
-    {
-      "time": "9:55 am",
-      "artist": "Echo & The Bunnymen",
-      "title": "Lips Like Sugar",
-      "album": "Echo & The Bunnymen • 1987"
     }
   ]
 }
