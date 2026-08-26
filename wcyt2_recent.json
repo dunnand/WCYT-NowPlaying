@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T11:56:45",
+  "updatedAt": "2026-08-26T12:01:00",
   "now": {
-    "artist": "Pavement",
-    "title": "Grounded",
-    "album": "Wowee Zowee • 1995",
-    "category": "TUNES"
+    "artist": "Husker Du",
+    "title": "Celebrated Summer",
+    "album": "New Day Rising • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 pm",
-      "artist": "Husker Du",
-      "title": "Celebrated Summer"
-    },
     {
       "time": "12:04 pm",
       "artist": "Dolly Parton",
@@ -26,9 +21,20 @@
       "time": "12:12 pm",
       "artist": "SAULT",
       "title": "Fearless"
+    },
+    {
+      "time": "12:16 pm",
+      "artist": "of Montreal",
+      "title": "The Past Is a Grotesque Animal"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Husker Du",
+      "title": "Celebrated Summer",
+      "album": "New Day Rising • 1985"
+    },
     {
       "time": "11:56 am",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Blondie",
       "title": "Sunday Girl",
       "album": "Parallel Lines • 1978"
-    },
-    {
-      "time": "10:21 am",
-      "artist": "The Band",
-      "title": "I Shall Be Released",
-      "album": "Music from Big Pink • 1968"
     }
   ]
 }
