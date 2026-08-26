@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T08:43:52",
+  "updatedAt": "2026-08-26T08:44:09",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Cure",
+    "title": "Play for Today",
+    "album": "Seventeen Seconds • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:44 am",
-      "artist": "The Cure",
-      "title": "Play for Today"
-    },
     {
       "time": "8:47 am",
       "artist": "florence road",
@@ -26,9 +21,20 @@
       "time": "8:53 am",
       "artist": "Spoon",
       "title": "Do You"
+    },
+    {
+      "time": "8:57 am",
+      "artist": "Television",
+      "title": "Friction"
     }
   ],
   "recent": [
+    {
+      "time": "8:44 am",
+      "artist": "The Cure",
+      "title": "Play for Today",
+      "album": "Seventeen Seconds • 1980"
+    },
     {
       "time": "8:40 am",
       "artist": "This is Lorelei",
@@ -172,12 +178,6 @@
       "artist": "Lucid Express",
       "title": "Promise Me",
       "album": "Instant Comfort • 2026"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "Coral Grief",
-      "title": "Air Between Us",
-      "album": "Air Between Us • 2025"
     }
   ]
 }
