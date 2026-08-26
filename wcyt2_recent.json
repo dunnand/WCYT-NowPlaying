@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T20:22:16",
+  "updatedAt": "2026-08-25T20:25:10",
   "now": {
-    "artist": "They Might Be Giants",
-    "title": "I Should Be Allowed to Think",
-    "album": "John Henry • 1994",
+    "artist": "Tom Petty",
+    "title": "It's Good to Be King",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:25 pm",
-      "artist": "Tom Petty",
-      "title": "It's Good to Be King"
-    },
     {
       "time": "8:30 pm",
       "artist": "Journey",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:25 pm",
+      "artist": "Tom Petty",
+      "title": "It's Good to Be King",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "8:22 pm",
       "artist": "They Might Be Giants",
@@ -172,12 +173,6 @@
       "artist": "My Morning Jacket",
       "title": "Bermuda Highway",
       "album": "At Dawn • 2001"
-    },
-    {
-      "time": "6:40 pm",
-      "artist": "David Bowie",
-      "title": "Win",
-      "album": "Young Americans • 1975"
     }
   ]
 }
