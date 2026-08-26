@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T05:37:16",
+  "updatedAt": "2026-08-26T05:40:33",
   "now": {
-    "artist": "Billy Joel",
-    "title": "She's Always A Woman",
-    "album": "The Stranger • 1977",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Golden",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:40 am",
-      "artist": "My Morning Jacket",
-      "title": "Golden"
-    },
     {
       "time": "5:44 am",
       "artist": "Rihanna",
@@ -31,9 +26,20 @@
       "time": "5:58 am",
       "artist": "Wilbert Harrison",
       "title": "Kansas City"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "PJ Harvey",
+      "title": "You Said Something"
     }
   ],
   "recent": [
+    {
+      "time": "5:40 am",
+      "artist": "My Morning Jacket",
+      "title": "Golden",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "5:37 am",
       "artist": "Billy Joel",
@@ -177,12 +183,6 @@
       "artist": "Stevie Wonder",
       "title": "I Was Made to Love Her",
       "album": "I Was Made to Love Her • 1967"
-    },
-    {
-      "time": "4:10 am",
-      "artist": "Kings of Leon",
-      "title": "Four Kicks",
-      "album": "Aha Shake Heartbreak • 2004"
     }
   ]
 }
