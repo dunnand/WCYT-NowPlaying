@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T04:48:29",
+  "updatedAt": "2026-08-26T04:51:02",
   "now": {
-    "artist": "Nancy Sinatra",
-    "title": "These Boots Are Made for Walkin'",
-    "album": "Boots • 1966",
+    "artist": "Al Green",
+    "title": "Call Me (Come Back Home)",
+    "album": "Call Me • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:51 am",
-      "artist": "Al Green",
-      "title": "Call Me (Come Back Home)"
-    },
     {
       "time": "4:53 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "5:01 am",
       "artist": "Joanna Newsom",
       "title": "Bridges and Balloons"
+    },
+    {
+      "time": "5:05 am",
+      "artist": "Sam Cooke",
+      "title": "A Change Is Gonna Come"
     }
   ],
   "recent": [
+    {
+      "time": "4:51 am",
+      "artist": "Al Green",
+      "title": "Call Me (Come Back Home)",
+      "album": "Call Me • 1973"
+    },
     {
       "time": "4:48 am",
       "artist": "Nancy Sinatra",
@@ -172,12 +178,6 @@
       "artist": "Mase",
       "title": "Feels So Good",
       "album": "Harlem World • 1997"
-    },
-    {
-      "time": "3:15 am",
-      "artist": "Wilco",
-      "title": "Art of Almost",
-      "album": "The Whole Love • 2011"
     }
   ]
 }
