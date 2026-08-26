@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T12:34:31",
+  "updatedAt": "2026-08-26T12:38:26",
   "now": {
-    "artist": "M83",
-    "title": "Kim & Jessie",
-    "album": "Saturdays = Youth • 2008",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "True Love Waits",
+    "album": "A Moon Shaped Pool • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 pm",
-      "artist": "Radiohead",
-      "title": "True Love Waits"
-    },
     {
       "time": "12:43 pm",
       "artist": "DEVO",
@@ -26,9 +21,20 @@
       "time": "12:51 pm",
       "artist": "Weezer",
       "title": "Memories"
+    },
+    {
+      "time": "12:54 pm",
+      "artist": "Lady Gaga",
+      "title": "Bad Romance"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 pm",
+      "artist": "Radiohead",
+      "title": "True Love Waits",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "12:34 pm",
       "artist": "M83",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Box Full of Letters",
       "album": "A.M • 1995"
-    },
-    {
-      "time": "10:47 am",
-      "artist": "Sonic Youth",
-      "title": "Tunic (Song for Karen)",
-      "album": "Goo • 1990"
     }
   ]
 }
