@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T20:45:09",
+  "updatedAt": "2026-08-25T20:48:15",
   "now": {
-    "artist": "Barbra Streisand & Neil Diamond",
-    "title": "You Don't Bring Me Flowers",
-    "album": "Songbird • 1978",
+    "artist": "Neil Young",
+    "title": "The Needle and the Damage Done",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 pm",
-      "artist": "Neil Young",
-      "title": "The Needle and the Damage Done"
-    },
     {
       "time": "8:50 pm",
       "artist": "The Mountain Goats",
@@ -26,9 +21,20 @@
       "time": "8:56 pm",
       "artist": "Paul Simon",
       "title": "Loves Me Like A Rock"
+    },
+    {
+      "time": "8:59 pm",
+      "artist": "Primus",
+      "title": "Jerry Was A Race Car Driver"
     }
   ],
   "recent": [
+    {
+      "time": "8:48 pm",
+      "artist": "Neil Young",
+      "title": "The Needle and the Damage Done",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "8:45 pm",
       "artist": "Barbra Streisand & Neil Diamond",
@@ -172,12 +178,6 @@
       "artist": "My Morning Jacket",
       "title": "Steam Engine",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "7:04 pm",
-      "artist": "Grimes",
-      "title": "Oblivion",
-      "album": "Visions • 2012"
     }
   ]
 }
