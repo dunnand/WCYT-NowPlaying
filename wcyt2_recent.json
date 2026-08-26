@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T03:51:37",
+  "updatedAt": "2026-08-26T03:55:34",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "3rd Planet",
-    "album": "The Moon & Antarctica • 2000",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "Present Tense",
+    "album": "A Moon Shaped Pool • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:55 am",
-      "artist": "Radiohead",
-      "title": "Present Tense"
-    },
     {
       "time": "4:00 am",
       "artist": "Al Stewart",
@@ -26,9 +21,20 @@
       "time": "4:08 am",
       "artist": "Bobby Darin",
       "title": "Splish Splash"
+    },
+    {
+      "time": "4:10 am",
+      "artist": "Kings of Leon",
+      "title": "Four Kicks"
     }
   ],
   "recent": [
+    {
+      "time": "3:55 am",
+      "artist": "Radiohead",
+      "title": "Present Tense",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "3:51 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Solange",
       "title": "Losing You",
       "album": "True - EP • 2012"
-    },
-    {
-      "time": "2:14 am",
-      "artist": "Kylie Minogue",
-      "title": "Can't Get You out of My Head",
-      "album": "Fever • 2001"
     }
   ]
 }
