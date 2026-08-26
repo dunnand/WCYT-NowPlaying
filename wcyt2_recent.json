@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T08:32:55",
+  "updatedAt": "2026-08-26T08:37:19",
   "now": {
-    "artist": "The Band",
-    "title": "Up on Cripple Creek",
-    "album": "The Band • 1969",
+    "artist": "Bob Dylan & The Band",
+    "title": "This Wheel's on Fire",
+    "album": "This Wheel's on Fire • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:37 am",
-      "artist": "Bob Dylan & The Band",
-      "title": "This Wheel's on Fire"
-    },
     {
       "time": "8:41 am",
       "artist": "Opus III",
@@ -26,9 +21,20 @@
       "time": "8:47 am",
       "artist": "Lady Gaga",
       "title": "Poker Face"
+    },
+    {
+      "time": "8:51 am",
+      "artist": "Leonard Cohen",
+      "title": "Hey, That's No Way to Say Goodbye"
     }
   ],
   "recent": [
+    {
+      "time": "8:37 am",
+      "artist": "Bob Dylan & The Band",
+      "title": "This Wheel's on Fire",
+      "album": "This Wheel's on Fire • 1975"
+    },
     {
       "time": "8:32 am",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Even Better Than The Real Thing",
       "album": "Achtung Baby • 1992"
-    },
-    {
-      "time": "7:02 am",
-      "artist": "Thom Yorke",
-      "title": "Has Ended",
-      "album": "Suspiria • 2018"
     }
   ]
 }
