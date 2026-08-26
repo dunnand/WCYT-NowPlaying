@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T19:00:34",
+  "updatedAt": "2026-08-26T19:00:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Galaxie 500",
+    "title": "Blue Thunder",
+    "album": "On Fire • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 pm",
-      "artist": "Galaxie 500",
-      "title": "Blue Thunder"
-    },
     {
       "time": "7:04 pm",
       "artist": "Huey Lewis & The News",
@@ -26,9 +21,20 @@
       "time": "7:13 pm",
       "artist": "Buzzcocks",
       "title": "What Do I Get?"
+    },
+    {
+      "time": "7:15 pm",
+      "artist": "Chicago",
+      "title": "Saturday In The Park"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 pm",
+      "artist": "Galaxie 500",
+      "title": "Blue Thunder",
+      "album": "On Fire • 1989"
+    },
     {
       "time": "6:57 pm",
       "artist": "The Flaming Lips",
@@ -172,12 +178,6 @@
       "artist": "The Temptations",
       "title": "Ain't Too Proud To Beg",
       "album": "Gettin Ready • 1966"
-    },
-    {
-      "time": "5:28 pm",
-      "artist": "Lady Gaga",
-      "title": "Paparazzi",
-      "album": "The Fame • 2008"
     }
   ]
 }
