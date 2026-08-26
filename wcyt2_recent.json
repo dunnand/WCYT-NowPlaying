@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T23:12:48",
+  "updatedAt": "2026-08-25T23:15:40",
   "now": {
-    "artist": "Jimmy Eat World",
-    "title": "Pain",
-    "album": "Futures • 2004",
+    "artist": "Taylor Swift",
+    "title": "Shake It Off",
+    "album": "1989 • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 pm",
-      "artist": "Taylor Swift",
-      "title": "Shake It Off"
-    },
     {
       "time": "11:19 pm",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "11:28 pm",
       "artist": "Pixies",
       "title": "Here Comes Your Man"
+    },
+    {
+      "time": "11:31 pm",
+      "artist": "The Police",
+      "title": "Wrapped Around Your Finger"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 pm",
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "album": "1989 • 2014"
+    },
     {
       "time": "11:12 pm",
       "artist": "Jimmy Eat World",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "Every Picture Tells A Story",
       "album": "Every Picture Tells a Story • 1971"
-    },
-    {
-      "time": "9:31 pm",
-      "artist": "Haim",
-      "title": "The story of us",
-      "album": "i quit • 2025"
     }
   ]
 }
