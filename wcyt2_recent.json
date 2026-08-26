@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-08-26T03:48:10",
+  "updatedAt": "2026-08-26T03:51:37",
   "now": {
-    "artist": "The Who",
-    "title": "Behind Blue Eyes",
-    "album": "Who's Next • 1971",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "3rd Planet",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "3:51 am",
-      "artist": "The Who",
-      "title": "Behind Blue Eyes"
-    },
-    {
       "time": "3:55 am",
-      "artist": "Modest Mouse",
-      "title": "3rd Planet"
-    },
-    {
-      "time": "3:59 am",
       "artist": "Radiohead",
       "title": "Present Tense"
     },
     {
-      "time": "4:04 am",
+      "time": "4:00 am",
       "artist": "Al Stewart",
       "title": "Year Of The Cat"
+    },
+    {
+      "time": "4:04 am",
+      "artist": "Radiohead",
+      "title": "Bullet Proof..I Wish I Was"
+    },
+    {
+      "time": "4:08 am",
+      "artist": "Bobby Darin",
+      "title": "Splish Splash"
     }
   ],
   "recent": [
+    {
+      "time": "3:51 am",
+      "artist": "Modest Mouse",
+      "title": "3rd Planet",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "3:48 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Kylie Minogue",
       "title": "Can't Get You out of My Head",
       "album": "Fever • 2001"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "Neko Case",
-      "title": "Things That Scare Me",
-      "album": "Blacklisted • 2002"
     }
   ]
 }
