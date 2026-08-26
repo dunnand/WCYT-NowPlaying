@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T13:07:52",
+  "updatedAt": "2026-08-26T13:10:45",
   "now": {
-    "artist": "Dolly Parton",
-    "title": "I Will Always Love You",
-    "album": "Jolene • 1974",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Naomi",
+    "album": "On Avery Island • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:10 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Naomi"
-    },
     {
       "time": "1:15 pm",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "1:24 pm",
       "artist": "The Replacements",
       "title": "Favorite Thing"
+    },
+    {
+      "time": "1:26 pm",
+      "artist": "Yuka Tsujiyoko",
+      "title": "Fire Emblem: Seisen no Keifu (The Continent Thereafter)"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Naomi",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "1:07 pm",
       "artist": "Dolly Parton",
@@ -172,12 +178,6 @@
       "artist": "Petula Clark",
       "title": "Don't Sleep In The Subway",
       "album": "These Are My Songs • 1967"
-    },
-    {
-      "time": "11:21 am",
-      "artist": "Cat Stevens",
-      "title": "Peace Train",
-      "album": "Teaser and the Firecat • 1971"
     }
   ]
 }
