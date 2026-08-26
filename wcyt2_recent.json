@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T18:17:53",
+  "updatedAt": "2026-08-26T18:23:12",
   "now": {
-    "artist": "Elton John",
-    "title": "Don't Let The Sun Go Down On Me",
-    "album": "Caribou • 1974",
+    "artist": "Nilsson",
+    "title": "One",
+    "album": "Aerial Ballet • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:23 pm",
-      "artist": "Nilsson",
-      "title": "One"
-    },
     {
       "time": "6:26 pm",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "6:33 pm",
       "artist": "The Beatles",
       "title": "Get Back"
+    },
+    {
+      "time": "6:36 pm",
+      "artist": "The Magnetic Fields",
+      "title": "I Don't Want to Get Over You"
     }
   ],
   "recent": [
+    {
+      "time": "6:23 pm",
+      "artist": "Nilsson",
+      "title": "One",
+      "album": "Aerial Ballet • 1968"
+    },
     {
       "time": "6:17 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Jose Gonzalez",
       "title": "Crosses",
       "album": "Veneer • 2003"
-    },
-    {
-      "time": "4:46 pm",
-      "artist": "Ray Charles",
-      "title": "What'd I Say, Pt. 1 & 2",
-      "album": "single • 1959"
     }
   ]
 }
