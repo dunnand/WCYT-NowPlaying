@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T11:56:23",
+  "updatedAt": "2026-08-26T11:56:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Grounded",
+    "album": "Wowee Zowee • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:56 am",
-      "artist": "Pavement",
-      "title": "Grounded"
-    },
     {
       "time": "12:00 pm",
       "artist": "Husker Du",
@@ -26,9 +21,20 @@
       "time": "12:07 pm",
       "artist": "Jefferson Starship",
       "title": "Find Your Way Back"
+    },
+    {
+      "time": "12:12 pm",
+      "artist": "SAULT",
+      "title": "Fearless"
     }
   ],
   "recent": [
+    {
+      "time": "11:56 am",
+      "artist": "Pavement",
+      "title": "Grounded",
+      "album": "Wowee Zowee • 1995"
+    },
     {
       "time": "11:52 am",
       "artist": "Michael W. Smith",
@@ -172,12 +178,6 @@
       "artist": "The Band",
       "title": "I Shall Be Released",
       "album": "Music from Big Pink • 1968"
-    },
-    {
-      "time": "10:17 am",
-      "artist": "The Beach Boys",
-      "title": "Surf's Up",
-      "album": "Surf's Up • 1971"
     }
   ]
 }
