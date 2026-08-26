@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T13:41:12",
+  "updatedAt": "2026-08-26T13:45:39",
   "now": {
-    "artist": "George Harrison",
-    "title": "My Sweet Lord",
-    "album": "All Things Must Pass • 1970",
+    "artist": "The Beatles",
+    "title": "Ticket To Ride",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 pm",
-      "artist": "The Beatles",
-      "title": "Ticket To Ride"
-    },
     {
       "time": "1:48 pm",
       "artist": "KISS",
@@ -26,9 +21,20 @@
       "time": "1:56 pm",
       "artist": "Sharon Jones and the Dap",
       "title": "Kings - Matter of Time"
+    },
+    {
+      "time": "1:59 pm",
+      "artist": "Dolly Parton",
+      "title": "Coat of Many Colors"
     }
   ],
   "recent": [
+    {
+      "time": "1:45 pm",
+      "artist": "The Beatles",
+      "title": "Ticket To Ride",
+      "album": "Help! • 1965"
+    },
     {
       "time": "1:41 pm",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Grounded",
       "album": "Wowee Zowee • 1995"
-    },
-    {
-      "time": "11:52 am",
-      "artist": "Michael W. Smith",
-      "title": "Place In This World",
-      "album": "Go West Young Man • 1991"
     }
   ]
 }
