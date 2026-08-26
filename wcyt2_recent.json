@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T02:55:08",
+  "updatedAt": "2026-08-26T02:57:39",
   "now": {
-    "artist": "Sam & Dave",
-    "title": "Soul Man",
-    "album": "Soul Man • 1967",
+    "artist": "John Prine",
+    "title": "Pretty Good",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:57 am",
-      "artist": "John Prine",
-      "title": "Pretty Good"
-    },
     {
       "time": "3:01 am",
       "artist": "Soundgarden",
@@ -26,9 +21,20 @@
       "time": "3:08 am",
       "artist": "Green Day",
       "title": "Holiday"
+    },
+    {
+      "time": "3:12 am",
+      "artist": "Righteous Brothers",
+      "title": "You've Lost That Lovin' Feelin'"
     }
   ],
   "recent": [
+    {
+      "time": "2:57 am",
+      "artist": "John Prine",
+      "title": "Pretty Good",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "2:55 am",
       "artist": "Sam & Dave",
@@ -172,12 +178,6 @@
       "artist": "Nirvana.",
       "title": "Lithium",
       "album": "Nevermind • 1991"
-    },
-    {
-      "time": "1:20 am",
-      "artist": "Grimes",
-      "title": "Vowels = Space and Time",
-      "album": "Visions • 2012"
     }
   ]
 }
