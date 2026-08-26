@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T02:43:51",
+  "updatedAt": "2026-08-26T02:47:15",
   "now": {
-    "artist": "Bee Gees",
-    "title": "Night Fever",
-    "album": "Saturday Night Fever • 1978",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "The Wind Cries Mary",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:47 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "The Wind Cries Mary"
-    },
     {
       "time": "2:50 am",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "2:57 am",
       "artist": "John Prine",
       "title": "Pretty Good"
+    },
+    {
+      "time": "3:01 am",
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun"
     }
   ],
   "recent": [
+    {
+      "time": "2:47 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "The Wind Cries Mary",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "2:43 am",
       "artist": "Bee Gees",
@@ -172,12 +178,6 @@
       "artist": "Grandaddy",
       "title": "He's Simple, He's Dumb, He's the Pilot",
       "album": "The Sophtware Slump • 2000"
-    },
-    {
-      "time": "1:04 am",
-      "artist": "Maurice Williams & The Zodiacs",
-      "title": "Stay",
-      "album": "Single • 1953"
     }
   ]
 }
