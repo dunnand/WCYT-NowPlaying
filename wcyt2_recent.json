@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T05:40:33",
+  "updatedAt": "2026-08-26T05:44:59",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Golden",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "Rihanna",
+    "title": "Talk That Talk feat. Jay Z",
+    "album": "Talk That Talk • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 am",
-      "artist": "Rihanna",
-      "title": "Talk That Talk feat. Jay Z"
-    },
     {
       "time": "5:48 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:44 am",
+      "artist": "Rihanna",
+      "title": "Talk That Talk feat. Jay Z",
+      "album": "Talk That Talk • 2011"
+    },
     {
       "time": "5:40 am",
       "artist": "My Morning Jacket",
@@ -177,12 +178,6 @@
       "artist": "Sturgill Simpson",
       "title": "I Don't Mind",
       "album": "I Don't Mind • 2014"
-    },
-    {
-      "time": "4:12 am",
-      "artist": "Stevie Wonder",
-      "title": "I Was Made to Love Her",
-      "album": "I Was Made to Love Her • 1967"
     }
   ]
 }
