@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T18:33:17",
+  "updatedAt": "2026-08-26T18:36:14",
   "now": {
-    "artist": "The Beatles",
-    "title": "Get Back",
-    "album": "Let It Be • 1970",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "I Don't Want to Get Over You",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:36 pm",
-      "artist": "The Magnetic Fields",
-      "title": "I Don't Want to Get Over You"
-    },
     {
       "time": "6:38 pm",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "6:40 pm",
       "artist": "Muse",
       "title": "Starlight"
+    },
+    {
+      "time": "6:45 pm",
+      "artist": "Marvin Gaye & Tammi Terrell",
+      "title": "Ain't No Mountain High Enough"
     }
   ],
   "recent": [
+    {
+      "time": "6:36 pm",
+      "artist": "The Magnetic Fields",
+      "title": "I Don't Want to Get Over You",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "6:33 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Peabo Bryson & Regina Belle",
       "title": "A Whole New World (Aladdin's Theme)",
       "album": "Aladdin Soundtrack • 1992"
-    },
-    {
-      "time": "5:00 pm",
-      "artist": "Paul McCartney",
-      "title": "Calico Skies",
-      "album": "Flaming Pie • 1997"
     }
   ]
 }
