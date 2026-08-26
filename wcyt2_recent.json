@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T19:56:31",
+  "updatedAt": "2026-08-25T20:02:51",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Dazed and Confused",
-    "album": "Led Zeppelin • 1969",
+    "artist": "Fleetwood Mac",
+    "title": "Tusk",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Tusk"
-    },
     {
       "time": "8:06 pm",
       "artist": "Rod Stewart",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:02 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Tusk",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "7:56 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +173,6 @@
       "artist": "Built to Spill",
       "title": "Bad Light",
       "album": "Keep It Like A Secret • 1999"
-    },
-    {
-      "time": "6:15 pm",
-      "artist": "Taylor Swift",
-      "title": "We Are Never Ever Getting Back Together",
-      "album": "Red • 2012"
     }
   ]
 }
