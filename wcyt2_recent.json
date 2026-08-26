@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T04:45:53",
+  "updatedAt": "2026-08-26T04:48:29",
   "now": {
-    "artist": "Guided by Voices",
-    "title": "The Best of Jill Hives",
-    "album": "Earthquake Glue • 2003",
-    "category": "TUNES"
+    "artist": "Nancy Sinatra",
+    "title": "These Boots Are Made for Walkin'",
+    "album": "Boots • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:48 am",
-      "artist": "Nancy Sinatra",
-      "title": "These Boots Are Made for Walkin'"
-    },
     {
       "time": "4:51 am",
       "artist": "Al Green",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:48 am",
+      "artist": "Nancy Sinatra",
+      "title": "These Boots Are Made for Walkin'",
+      "album": "Boots • 1966"
+    },
     {
       "time": "4:45 am",
       "artist": "Guided by Voices",
@@ -177,12 +178,6 @@
       "artist": "Wilco",
       "title": "Art of Almost",
       "album": "The Whole Love • 2011"
-    },
-    {
-      "time": "3:12 am",
-      "artist": "Righteous Brothers",
-      "title": "You've Lost That Lovin' Feelin'",
-      "album": "Youve Lost That Lovin Feelin • 1965"
     }
   ]
 }
