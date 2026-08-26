@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-25T23:15:40",
+  "updatedAt": "2026-08-25T23:19:15",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Shake It Off",
-    "album": "1989 • 2014",
+    "artist": "R.E.M.",
+    "title": "Everybody Hurts",
+    "album": "Automatic for the People • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:19 pm",
-      "artist": "R.E.M.",
-      "title": "Everybody Hurts"
-    },
     {
       "time": "11:24 pm",
       "artist": "The Notorious B.I.G.",
@@ -26,9 +21,20 @@
       "time": "11:31 pm",
       "artist": "The Police",
       "title": "Wrapped Around Your Finger"
+    },
+    {
+      "time": "11:36 pm",
+      "artist": "Haim",
+      "title": "Now I'm In It"
     }
   ],
   "recent": [
+    {
+      "time": "11:19 pm",
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "album": "Automatic for the People • 1993"
+    },
     {
       "time": "11:15 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Rolling Stones",
       "title": "Miss You",
       "album": "Some Girls • 1978"
-    },
-    {
-      "time": "9:33 pm",
-      "artist": "Rod Stewart",
-      "title": "Every Picture Tells A Story",
-      "album": "Every Picture Tells a Story • 1971"
     }
   ]
 }
