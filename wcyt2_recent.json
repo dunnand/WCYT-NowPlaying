@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T02:55:41",
+  "updatedAt": "2026-08-27T02:55:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "The Underdog",
+    "album": "Ga Ga Ga Ga Ga • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:55 am",
-      "artist": "Spoon",
-      "title": "The Underdog"
-    },
     {
       "time": "2:59 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "3:05 am",
       "artist": "Backstreet Boys",
       "title": "I Want It That Way"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "Blaze Foley",
+      "title": "Clay Pigeons"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 am",
+      "artist": "Spoon",
+      "title": "The Underdog",
+      "album": "Ga Ga Ga Ga Ga • 2007"
+    },
     {
       "time": "2:52 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "The Clash",
       "title": "Bankrobber",
       "album": "Black Market Clash • 1980"
-    },
-    {
-      "time": "1:16 am",
-      "artist": "David Bowie",
-      "title": "Loving the Alien",
-      "album": "Tonight • 1984"
     }
   ]
 }
