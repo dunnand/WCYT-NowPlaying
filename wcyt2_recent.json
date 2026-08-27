@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T20:44:21",
+  "updatedAt": "2026-08-26T20:47:37",
   "now": {
-    "artist": "Beastie Boys",
-    "title": "Jimmy James",
-    "album": "Check Your Head • 1992",
+    "artist": "Paul Simon",
+    "title": "Graceland",
+    "album": "Graceland • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:47 pm",
-      "artist": "Paul Simon",
-      "title": "Graceland"
-    },
     {
       "time": "8:52 pm",
       "artist": "Phil Collins",
@@ -21,9 +16,20 @@
       "time": "8:57 pm",
       "artist": "Minako Hamano",
       "title": "Super Metroid (Ending)"
+    },
+    {
+      "time": "9:01 pm",
+      "artist": "Kraftwerk",
+      "title": "Radioactivity"
     }
   ],
   "recent": [
+    {
+      "time": "8:47 pm",
+      "artist": "Paul Simon",
+      "title": "Graceland",
+      "album": "Graceland • 1986"
+    },
     {
       "time": "8:44 pm",
       "artist": "Beastie Boys",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Happiness Is A Warm Gun",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "7:19 pm",
-      "artist": "OutKast",
-      "title": "Hey Ya!",
-      "album": "Speakerboxxx/The Love Below • 2003"
     }
   ]
 }
