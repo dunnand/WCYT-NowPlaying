@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T20:09:14",
+  "updatedAt": "2026-08-26T20:12:58",
   "now": {
-    "artist": "Funkadelic",
-    "title": "Hit It and Quit It",
-    "album": "Maggot Brain • 1971",
+    "artist": "The Temptations",
+    "title": "Cloud Nine",
+    "album": "Cloud Nine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:13 pm",
-      "artist": "The Temptations",
-      "title": "Cloud Nine"
-    },
     {
       "time": "8:16 pm",
       "artist": "John Lennon",
@@ -26,9 +21,20 @@
       "time": "8:24 pm",
       "artist": "Wiz Khalifa",
       "title": "Black & Yellow"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "My Chemical Romance",
+      "title": "Welcome to the Black Parade"
     }
   ],
   "recent": [
+    {
+      "time": "8:12 pm",
+      "artist": "The Temptations",
+      "title": "Cloud Nine",
+      "album": "Cloud Nine • 1969"
+    },
     {
       "time": "8:09 pm",
       "artist": "Funkadelic",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "You Satellite",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "6:45 pm",
-      "artist": "Marvin Gaye & Tammi Terrell",
-      "title": "Ain't No Mountain High Enough",
-      "album": "United • 1967"
     }
   ]
 }
