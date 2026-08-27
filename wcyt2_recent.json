@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-27T06:33:25",
+  "updatedAt": "2026-08-27T06:36:00",
   "now": {
-    "artist": "Sufjan Stevens",
-    "title": "To Be Alone With You",
-    "album": "Seven Swans • 2004",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "This Boy",
+    "album": "single • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:35 am",
-      "artist": "The Beatles",
-      "title": "This Boy"
-    },
     {
       "time": "6:38 am",
       "artist": "Bob Dylan",
       "title": "Forever Young"
     },
     {
-      "time": "6:43 am",
+      "time": "6:42 am",
       "artist": "Deftones",
       "title": "Bored"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:36 am",
+      "artist": "The Beatles",
+      "title": "This Boy",
+      "album": "single • 1963"
+    },
     {
       "time": "6:33 am",
       "artist": "Sufjan Stevens",
@@ -177,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Cruel Summer",
       "album": "Lover • 2019"
-    },
-    {
-      "time": "5:02 am",
-      "artist": "Joni Mitchell",
-      "title": "Both Sides, Now",
-      "album": "Clouds • 1969"
     }
   ]
 }
