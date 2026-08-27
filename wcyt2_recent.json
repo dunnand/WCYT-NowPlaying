@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T10:29:07",
+  "updatedAt": "2026-08-27T10:29:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "I Shot The Sheriff",
+    "album": "461 Ocean Boulevard • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:29 am",
-      "artist": "Eric Clapton",
-      "title": "I Shot The Sheriff"
-    },
     {
       "time": "10:33 am",
       "artist": "Roy Orbison",
@@ -26,9 +21,20 @@
       "time": "10:41 am",
       "artist": "Marvin Gaye",
       "title": "Ain't Nothin' Like the Real Thing"
+    },
+    {
+      "time": "10:43 am",
+      "artist": "James Taylor",
+      "title": "Fire And Rain"
     }
   ],
   "recent": [
+    {
+      "time": "10:29 am",
+      "artist": "Eric Clapton",
+      "title": "I Shot The Sheriff",
+      "album": "461 Ocean Boulevard • 1974"
+    },
     {
       "time": "10:24 am",
       "artist": "SAULT",
@@ -172,12 +178,6 @@
       "artist": "Rihanna",
       "title": "Only Girl (In The World)",
       "album": "Loud • 2010"
-    },
-    {
-      "time": "8:39 am",
-      "artist": "Eric B. & Rakim",
-      "title": "Don't Sweat the Technique",
-      "album": "Don't Sweat the Technique • 1992"
     }
   ]
 }
