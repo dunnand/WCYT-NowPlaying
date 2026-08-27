@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T09:40:01",
+  "updatedAt": "2026-08-27T09:46:39",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Babe I'm Gonna Leave You",
-    "album": "Led Zeppelin • 1969",
+    "artist": "Elvis Costello",
+    "title": "Alison",
+    "album": "My Aim Is True • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:46 am",
-      "artist": "Elvis Costello",
-      "title": "Alison"
-    },
     {
       "time": "9:49 am",
       "artist": "Fastball",
@@ -26,9 +21,20 @@
       "time": "9:55 am",
       "artist": "The Ting Tings",
       "title": "Great DJ"
+    },
+    {
+      "time": "9:58 am",
+      "artist": "The Streets",
+      "title": "Fit but You Know It"
     }
   ],
   "recent": [
+    {
+      "time": "9:46 am",
+      "artist": "Elvis Costello",
+      "title": "Alison",
+      "album": "My Aim Is True • 1977"
+    },
     {
       "time": "9:40 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Eagles",
       "title": "Hotel California",
       "album": "Hotel California • 1994"
-    },
-    {
-      "time": "7:56 am",
-      "artist": "Taylor Swift",
-      "title": "Delicate",
-      "album": "reputation • 2017"
     }
   ]
 }
