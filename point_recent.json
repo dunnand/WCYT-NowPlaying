@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T09:39:39",
+  "updatedAt": "2026-08-27T09:39:51",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "Gimme",
+    "album": "Gimme •",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:39 am",
-      "artist": "Beck",
-      "title": "Gimme"
-    },
     {
       "time": "9:42 am",
       "artist": "Beirut",
@@ -26,9 +21,20 @@
       "time": "9:50 am",
       "artist": "Hovvdy",
       "title": "You Will Go Far"
+    },
+    {
+      "time": "9:53 am",
+      "artist": "Stereolab",
+      "title": "French Disko"
     }
   ],
   "recent": [
+    {
+      "time": "9:39 am",
+      "artist": "Beck",
+      "title": "Gimme",
+      "album": "Gimme •"
+    },
     {
       "time": "9:36 am",
       "artist": "The Apples in Stereo",
@@ -172,12 +178,6 @@
       "artist": "Weird Nightmare",
       "title": "Headful of Rain",
       "album": "Hoopla • 2026"
-    },
-    {
-      "time": "8:09 am",
-      "artist": "Does It Offend You, Yeah",
-      "title": "We Are Rockstars",
-      "album": "You Have No Idea What You're Getting Yourself Into • 2008"
     }
   ]
 }
