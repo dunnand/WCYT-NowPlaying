@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T21:40:41",
+  "updatedAt": "2026-08-26T21:40:51",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "The Smiths",
+    "title": "There Is a Light That Never Goes Out",
+    "album": "The Queen is Dead • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:40 pm",
-      "artist": "The Smiths",
-      "title": "There Is a Light That Never Goes Out"
-    },
     {
       "time": "9:44 pm",
       "artist": "Babe Rainbow",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:40 pm",
+      "artist": "The Smiths",
+      "title": "There Is a Light That Never Goes Out",
+      "album": "The Queen is Dead • 1986"
+    },
     {
       "time": "9:37 pm",
       "artist": "Hiatus Kaiyote",
@@ -172,12 +173,6 @@
       "artist": "Luisa Wilson",
       "title": "Small",
       "album": "Love & Oxygen • 2025"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "PJ Harvey",
-      "title": "You Said Something",
-      "album": "Stories from the City, Stories from the Sea • 2000"
     }
   ]
 }
