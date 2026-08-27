@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T06:33:15",
+  "updatedAt": "2026-08-27T06:33:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "To Be Alone With You",
+    "album": "Seven Swans • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:33 am",
-      "artist": "Sufjan Stevens",
-      "title": "To Be Alone With You"
-    },
     {
       "time": "6:35 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "6:47 am",
       "artist": "Coasters",
       "title": "Charlie Brown"
+    },
+    {
+      "time": "6:49 am",
+      "artist": "The Shins",
+      "title": "Pressed in a Book"
     }
   ],
   "recent": [
+    {
+      "time": "6:33 am",
+      "artist": "Sufjan Stevens",
+      "title": "To Be Alone With You",
+      "album": "Seven Swans • 2004"
+    },
     {
       "time": "6:29 am",
       "artist": "Andy Gibb",
@@ -177,12 +183,6 @@
       "artist": "Joni Mitchell",
       "title": "Both Sides, Now",
       "album": "Clouds • 1969"
-    },
-    {
-      "time": "4:57 am",
-      "artist": "Wilco",
-      "title": "Radio Cure",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
