@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T22:05:42",
+  "updatedAt": "2026-08-26T22:05:54",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Caribou",
+    "title": "You and I",
+    "album": "Suddenly • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 pm",
-      "artist": "Caribou",
-      "title": "You and I"
-    },
     {
       "time": "10:09 pm",
       "artist": "Strand of Oaks",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Caribou",
+      "title": "You and I",
+      "album": "Suddenly • 2020"
+    },
     {
       "time": "10:03 pm",
       "artist": "Gigi",
@@ -172,12 +173,6 @@
       "artist": "Ginger Root",
       "title": "Only You",
       "album": "Shinbangumi • 2024"
-    },
-    {
-      "time": "8:35 pm",
-      "artist": "beabadoobee",
-      "title": "Switchblade",
-      "album": "Pylon • 2026"
     }
   ]
 }
