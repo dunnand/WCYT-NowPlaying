@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T10:11:14",
+  "updatedAt": "2026-08-27T10:15:50",
   "now": {
-    "artist": "Fiona Apple",
-    "title": "Fast as You Can",
-    "album": "When the Pawn • 1999",
-    "category": "TUNES"
+    "artist": "Billy Joel",
+    "title": "It's Still Rock And Roll To Me",
+    "album": "Glass Houses • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 am",
-      "artist": "Billy Joel",
-      "title": "It's Still Rock And Roll To Me"
-    },
     {
       "time": "10:19 am",
       "artist": "De La Soul",
@@ -21,9 +16,20 @@
       "time": "10:24 am",
       "artist": "SAULT",
       "title": "Free"
+    },
+    {
+      "time": "10:29 am",
+      "artist": "Eric Clapton",
+      "title": "I Shot The Sheriff"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 am",
+      "artist": "Billy Joel",
+      "title": "It's Still Rock And Roll To Me",
+      "album": "Glass Houses • 1980"
+    },
     {
       "time": "10:11 am",
       "artist": "Fiona Apple",
@@ -167,12 +173,6 @@
       "artist": "Tinnie Tempah",
       "title": "Written In The Stars",
       "album": "Disc-Overy • 2010"
-    },
-    {
-      "time": "8:28 am",
-      "artist": "The White Stripes",
-      "title": "My Doorbell",
-      "album": "Get Behind Me Satan • 2005"
     }
   ]
 }
