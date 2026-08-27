@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T09:30:31",
+  "updatedAt": "2026-08-27T09:40:01",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Jungleland",
-    "album": "Born to Run • 1975",
+    "artist": "Led Zeppelin",
+    "title": "Babe I'm Gonna Leave You",
+    "album": "Led Zeppelin • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:39 am",
-      "artist": "Led Zeppelin",
-      "title": "Babe I'm Gonna Leave You"
-    },
     {
       "time": "9:46 am",
       "artist": "Elvis Costello",
@@ -26,9 +21,20 @@
       "time": "9:52 am",
       "artist": "St. Vincent",
       "title": "New York"
+    },
+    {
+      "time": "9:55 am",
+      "artist": "The Ting Tings",
+      "title": "Great DJ"
     }
   ],
   "recent": [
+    {
+      "time": "9:40 am",
+      "artist": "Led Zeppelin",
+      "title": "Babe I'm Gonna Leave You",
+      "album": "Led Zeppelin • 1969"
+    },
     {
       "time": "9:30 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Delicate",
       "album": "reputation • 2017"
-    },
-    {
-      "time": "7:54 am",
-      "artist": "Swinging Blue Jeans",
-      "title": "Hippy Hippy Shake",
-      "album": "Hippy Hippy Shake • 1964"
     }
   ]
 }
