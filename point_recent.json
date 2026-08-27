@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T23:49:26",
+  "updatedAt": "2026-08-26T23:49:41",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Spoon",
+    "title": "Sister Jack",
+    "album": "Gimme Fiction • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:49 pm",
-      "artist": "Spoon",
-      "title": "Sister Jack"
-    },
     {
       "time": "11:53 pm",
       "artist": "Slow Fiction",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:49 pm",
+      "artist": "Spoon",
+      "title": "Sister Jack",
+      "album": "Gimme Fiction • 2005"
+    },
     {
       "time": "11:45 pm",
       "artist": "Wolf Parade",
@@ -172,12 +173,6 @@
       "artist": "Hockey Dad",
       "title": "Still Have Room",
       "album": "Rebuild Repeat • 2024"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "The Strokes",
-      "title": "Lonely in the Future",
-      "album": "Reality Awaits • 2026"
     }
   ]
 }
