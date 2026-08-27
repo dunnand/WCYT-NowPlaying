@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T03:23:35",
+  "updatedAt": "2026-08-27T03:23:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Heart Of Gold",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:23 am",
-      "artist": "Neil Young",
-      "title": "Heart Of Gold"
-    },
     {
       "time": "3:26 am",
       "artist": "The Mamas & The Papas",
@@ -26,9 +21,20 @@
       "time": "3:33 am",
       "artist": "The Beatles",
       "title": "Revolution I"
+    },
+    {
+      "time": "3:38 am",
+      "artist": "Rod Stewart",
+      "title": "Gasoline Alley"
     }
   ],
   "recent": [
+    {
+      "time": "3:23 am",
+      "artist": "Neil Young",
+      "title": "Heart Of Gold",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "3:20 am",
       "artist": "Toshiyuki Sudo",
@@ -172,12 +178,6 @@
       "artist": "La Vern Baker",
       "title": "Jim Dandy",
       "album": "Lavern Baker • 1957"
-    },
-    {
-      "time": "1:46 am",
-      "artist": "Air",
-      "title": "All I Need (feat. Beth Hirsch)",
-      "album": "Moon Safari • 1998"
     }
   ]
 }
