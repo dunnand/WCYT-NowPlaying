@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T21:26:07",
+  "updatedAt": "2026-08-26T21:29:00",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "Hopelessly Devoted To You",
-    "album": "Grease Soundtrack • 1978",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "Cross Bones Style",
+    "album": "Moon Pix • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:29 pm",
-      "artist": "Cat Power",
-      "title": "Cross Bones Style"
-    },
     {
       "time": "9:33 pm",
       "artist": "Ritchie Valens",
@@ -26,9 +21,20 @@
       "time": "9:39 pm",
       "artist": "Otis Redding",
       "title": "Try a Little Tenderness"
+    },
+    {
+      "time": "9:43 pm",
+      "artist": "Weezer",
+      "title": "Cleopatra"
     }
   ],
   "recent": [
+    {
+      "time": "9:29 pm",
+      "artist": "Cat Power",
+      "title": "Cross Bones Style",
+      "album": "Moon Pix • 1998"
+    },
     {
       "time": "9:26 pm",
       "artist": "Olivia Newton-John",
@@ -172,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "So Close",
       "album": "Change of Season • 1990"
-    },
-    {
-      "time": "7:44 pm",
-      "artist": "Foo Fighters",
-      "title": "Everlong",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
