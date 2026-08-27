@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T12:32:05",
+  "updatedAt": "2026-08-27T12:32:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kenny Rogers",
+    "title": "You Decorated My Life",
+    "album": "Kenny • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:32 pm",
-      "artist": "Kenny Rogers",
-      "title": "You Decorated My Life"
-    },
     {
       "time": "12:35 pm",
       "artist": "The Animals",
@@ -26,9 +21,20 @@
       "time": "12:43 pm",
       "artist": "Jewel",
       "title": "Foolish Games"
+    },
+    {
+      "time": "12:47 pm",
+      "artist": "The Flamingos",
+      "title": "I Only Have Eyes for You"
     }
   ],
   "recent": [
+    {
+      "time": "12:32 pm",
+      "artist": "Kenny Rogers",
+      "title": "You Decorated My Life",
+      "album": "Kenny • 1979"
+    },
     {
       "time": "12:29 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Os Mutantes",
       "title": "A Minha Menina",
       "album": "Os Mutantes • 1968"
-    },
-    {
-      "time": "10:53 am",
-      "artist": "Ugly Casanova",
-      "title": "Parasites",
-      "album": "Sharpen Your Teeth • 2002"
     }
   ]
 }
