@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T20:03:26",
+  "updatedAt": "2026-08-26T20:06:40",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Kentucky Rain",
-    "album": "single • 1970",
+    "artist": "Spencer Davis Group",
+    "title": "I'm A Man",
+    "album": "Im a Man • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:06 pm",
-      "artist": "Spencer Davis Group",
-      "title": "I'm A Man"
-    },
     {
       "time": "8:09 pm",
       "artist": "Funkadelic",
@@ -26,9 +21,20 @@
       "time": "8:16 pm",
       "artist": "John Lennon",
       "title": "Mind Games"
+    },
+    {
+      "time": "8:20 pm",
+      "artist": "Madonna",
+      "title": "I'll Remember"
     }
   ],
   "recent": [
+    {
+      "time": "8:06 pm",
+      "artist": "Spencer Davis Group",
+      "title": "I'm A Man",
+      "album": "Im a Man • 1967"
+    },
     {
       "time": "8:03 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Starlight",
       "album": "Black Holes and Revelations • 2006"
-    },
-    {
-      "time": "6:38 pm",
-      "artist": "Chuck Berry",
-      "title": "Maybelene",
-      "album": "After School Session • 1957"
     }
   ]
 }
