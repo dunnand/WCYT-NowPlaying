@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T20:16:35",
+  "updatedAt": "2026-08-26T20:20:29",
   "now": {
-    "artist": "John Lennon",
-    "title": "Mind Games",
-    "album": "Mind Games • 1973",
+    "artist": "Madonna",
+    "title": "I'll Remember",
+    "album": "Something to Remember • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 pm",
-      "artist": "Madonna",
-      "title": "I'll Remember"
-    },
     {
       "time": "8:24 pm",
       "artist": "Wiz Khalifa",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:20 pm",
+      "artist": "Madonna",
+      "title": "I'll Remember",
+      "album": "Something to Remember • 1994"
+    },
     {
       "time": "8:16 pm",
       "artist": "John Lennon",
@@ -172,12 +173,6 @@
       "artist": "The Flaming Lips",
       "title": "Slow Motion",
       "album": "The Soft Bulletin • 1999"
-    },
-    {
-      "time": "6:52 pm",
-      "artist": "Pavement",
-      "title": "Rattled By The Rush",
-      "album": "Wowee Zowee • 1995"
     }
   ]
 }
