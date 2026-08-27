@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T05:18:21",
+  "updatedAt": "2026-08-27T05:21:34",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "I'm Goin' Down",
-    "album": "Born in the U.S.A. • 1984",
+    "artist": "Marshall Crenshaw",
+    "title": "Someday, Someway",
+    "album": "Marshall Crenshaw • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:21 am",
-      "artist": "Marshall Crenshaw",
-      "title": "Someday, Someway"
-    },
     {
       "time": "5:24 am",
       "artist": "Koji Kondo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:21 am",
+      "artist": "Marshall Crenshaw",
+      "title": "Someday, Someway",
+      "album": "Marshall Crenshaw • 1982"
+    },
     {
       "time": "5:18 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +173,6 @@
       "artist": "Rod Stewart",
       "title": "Gasoline Alley",
       "album": "Gasoline Alley • 1970"
-    },
-    {
-      "time": "3:33 am",
-      "artist": "The Beatles",
-      "title": "Revolution I",
-      "album": "The Beatles • 1968"
     }
   ]
 }
