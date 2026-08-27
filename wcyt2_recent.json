@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-08-26T23:16:00",
+  "updatedAt": "2026-08-26T23:19:46",
   "now": {
-    "artist": "Selena Gomez",
-    "title": "Come & Get It",
-    "album": "Stars Dance • 2013",
+    "artist": "Talking Heads",
+    "title": "Uh-Oh, Love Comes to Town",
+    "album": "Talking Heads: 77 • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:19 pm",
+      "time": "11:22 pm",
+      "artist": "Selena Gomez",
+      "title": "Come & Get It"
+    },
+    {
+      "time": "11:26 pm",
       "artist": "Talking Heads",
       "title": "Uh-Oh, Love Comes to Town"
     }
   ],
   "recent": [
+    {
+      "time": "11:19 pm",
+      "artist": "Talking Heads",
+      "title": "Uh-Oh, Love Comes to Town",
+      "album": "Talking Heads: 77 • 1977"
+    },
     {
       "time": "11:16 pm",
       "artist": "Selena Gomez",
@@ -157,12 +168,6 @@
       "artist": "Dave Matthews Band",
       "title": "Satellite",
       "album": "Under The Table And Dreaming • 1995"
-    },
-    {
-      "time": "9:43 pm",
-      "artist": "Weezer",
-      "title": "Cleopatra",
-      "album": "Everything Will Be Alright in the End • 2014"
     }
   ]
 }
