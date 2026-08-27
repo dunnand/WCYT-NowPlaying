@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T14:00:20",
+  "updatedAt": "2026-08-27T14:00:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Le Tigre",
+    "title": "Deceptacon",
+    "album": "Le Tigre • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:00 pm",
-      "artist": "Le Tigre",
-      "title": "Deceptacon"
-    },
     {
       "time": "2:03 pm",
       "artist": "Minutemen",
@@ -26,9 +21,20 @@
       "time": "2:09 pm",
       "artist": "Run The Jewels",
       "title": "walking in the snow"
+    },
+    {
+      "time": "2:13 pm",
+      "artist": "Yo La Tengo",
+      "title": "You Can Have It All"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "Le Tigre",
+      "title": "Deceptacon",
+      "album": "Le Tigre • 1999"
+    },
     {
       "time": "1:56 pm",
       "artist": "Lenny Kravitz",
@@ -172,12 +178,6 @@
       "artist": "Kenny Rogers",
       "title": "You Decorated My Life",
       "album": "Kenny • 1979"
-    },
-    {
-      "time": "12:29 pm",
-      "artist": "The Beatles",
-      "title": "Martha My Dear",
-      "album": "The Beatles • 1968"
     }
   ]
 }
