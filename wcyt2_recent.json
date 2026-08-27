@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T08:07:21",
+  "updatedAt": "2026-08-27T08:07:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "3 Speed",
+    "album": "Electro Shock Blues • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "Eels",
-      "title": "3 Speed"
-    },
     {
       "time": "8:10 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "8:17 am",
       "artist": "Mahito Yokota",
       "title": "Super Mario Galaxy"
+    },
+    {
+      "time": "8:21 am",
+      "artist": "Weezer",
+      "title": "Pork and Beans"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "Eels",
+      "title": "3 Speed",
+      "album": "Electro Shock Blues • 1998"
+    },
     {
       "time": "8:00 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "To Be Alone With You",
       "album": "Seven Swans • 2004"
-    },
-    {
-      "time": "6:29 am",
-      "artist": "Andy Gibb",
-      "title": "I Just Want To Be Your Everything",
-      "album": "Flowing Rivers • 1977"
     }
   ]
 }
