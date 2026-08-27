@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T21:59:31",
+  "updatedAt": "2026-08-26T21:59:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Starpower",
+    "album": "EVOL • 1986",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "Sonic Youth",
-      "title": "Starpower"
-    },
     {
       "time": "10:04 pm",
       "artist": "Mahito Yokota",
@@ -26,9 +21,20 @@
       "time": "10:11 pm",
       "artist": "Parliament",
       "title": "Unfunky UFO"
+    },
+    {
+      "time": "10:16 pm",
+      "artist": "Justice",
+      "title": "D.A.N.C.E."
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "Sonic Youth",
+      "title": "Starpower",
+      "album": "EVOL • 1986"
+    },
     {
       "time": "9:56 pm",
       "artist": "Run-D.M.C.",
@@ -172,12 +178,6 @@
       "artist": "John Lennon",
       "title": "Mind Games",
       "album": "Mind Games • 1973"
-    },
-    {
-      "time": "8:12 pm",
-      "artist": "The Temptations",
-      "title": "Cloud Nine",
-      "album": "Cloud Nine • 1969"
     }
   ]
 }
