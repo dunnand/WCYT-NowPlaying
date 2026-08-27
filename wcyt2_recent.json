@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T09:30:21",
+  "updatedAt": "2026-08-27T09:30:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Jungleland",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "Bruce Springsteen",
-      "title": "Jungleland"
-    },
     {
       "time": "9:39 am",
       "artist": "Led Zeppelin",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "Bruce Springsteen",
+      "title": "Jungleland",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "9:27 am",
       "artist": "Peter & Gordon",
@@ -177,12 +178,6 @@
       "artist": "Swinging Blue Jeans",
       "title": "Hippy Hippy Shake",
       "album": "Hippy Hippy Shake • 1964"
-    },
-    {
-      "time": "7:50 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "The Zephyr Song",
-      "album": "By the Way • 2002"
     }
   ]
 }
