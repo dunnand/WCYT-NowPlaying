@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T17:04:04",
+  "updatedAt": "2026-08-27T17:04:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Changes",
+    "album": "Hunky Dory • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:04 pm",
-      "artist": "David Bowie",
-      "title": "Changes"
-    },
     {
       "time": "5:07 pm",
       "artist": "Rascals",
@@ -26,9 +21,20 @@
       "time": "5:15 pm",
       "artist": "Peter, Paul & Mary",
       "title": "If I Had A Hammer"
+    },
+    {
+      "time": "5:17 pm",
+      "artist": "Cornelius Brothers & Sister Rose",
+      "title": "Too Late To Turn Back Now"
     }
   ],
   "recent": [
+    {
+      "time": "5:04 pm",
+      "artist": "David Bowie",
+      "title": "Changes",
+      "album": "Hunky Dory • 1971"
+    },
     {
       "time": "5:01 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Don Gibson",
       "title": "Sea Of Heartbreak",
       "album": "Sea Of Heartbreak • 1954"
-    },
-    {
-      "time": "3:29 pm",
-      "artist": "Matchbox Twenty",
-      "title": "3 A.M.",
-      "album": "Yourself or Someone Like You • 1997"
     }
   ]
 }
