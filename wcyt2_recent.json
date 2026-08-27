@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T12:01:34",
+  "updatedAt": "2026-08-27T12:05:48",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Obvious Bicycle",
-    "album": "Modern Vampires Of The City • 2013",
-    "category": "TUNES"
+    "artist": "Goo Goo Dolls",
+    "title": "Name",
+    "album": "A Boy Named Goo • 1995",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 pm",
-      "artist": "Goo Goo Dolls",
-      "title": "Name"
-    },
     {
       "time": "12:10 pm",
       "artist": "Hole",
@@ -26,9 +21,20 @@
       "time": "12:17 pm",
       "artist": "Kate Bush",
       "title": "Cloudbusting"
+    },
+    {
+      "time": "12:22 pm",
+      "artist": "SAULT",
+      "title": "Stop Dem"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 pm",
+      "artist": "Goo Goo Dolls",
+      "title": "Name",
+      "album": "A Boy Named Goo • 1995"
+    },
     {
       "time": "12:01 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Roy Orbison",
       "title": "Crying",
       "album": "Crying • 1962"
-    },
-    {
-      "time": "10:29 am",
-      "artist": "Eric Clapton",
-      "title": "I Shot The Sheriff",
-      "album": "461 Ocean Boulevard • 1974"
     }
   ]
 }
