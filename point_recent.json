@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T22:21:56",
+  "updatedAt": "2026-08-26T22:22:08",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "This is Lorelei",
+    "title": "Oh No Now My",
+    "album": "Oh No Now My • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:22 pm",
-      "artist": "This is Lorelei",
-      "title": "Oh No Now My"
-    },
     {
       "time": "10:25 pm",
       "artist": "The Antlers",
@@ -26,9 +21,20 @@
       "time": "10:32 pm",
       "artist": "florence road",
       "title": "7563"
+    },
+    {
+      "time": "10:36 pm",
+      "artist": "My Morning Jacket",
+      "title": "Complex"
     }
   ],
   "recent": [
+    {
+      "time": "10:22 pm",
+      "artist": "This is Lorelei",
+      "title": "Oh No Now My",
+      "album": "Oh No Now My • 2026"
+    },
     {
       "time": "10:18 pm",
       "artist": "Whitney",
@@ -172,12 +178,6 @@
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "Alien Metal",
       "album": "Alien Metal • 2026"
-    },
-    {
-      "time": "8:53 pm",
-      "artist": "Sharp Pins",
-      "title": "Live Without Her Love",
-      "album": "Mod Mayday 23 • 2026"
     }
   ]
 }
