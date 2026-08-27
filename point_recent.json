@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T02:47:00",
+  "updatedAt": "2026-08-27T02:47:20",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "My Morning Jacket",
+    "title": "One Big Holiday",
+    "album": "It Still Moves • 2003",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:47 am",
-      "artist": "My Morning Jacket",
-      "title": "One Big Holiday"
-    },
     {
       "time": "2:52 am",
       "artist": "Wednesday",
@@ -26,9 +21,20 @@
       "time": "2:58 am",
       "artist": "The Orielles",
       "title": "The Room"
+    },
+    {
+      "time": "3:03 am",
+      "artist": "The White Stripes",
+      "title": "Effect And Cause"
     }
   ],
   "recent": [
+    {
+      "time": "2:47 am",
+      "artist": "My Morning Jacket",
+      "title": "One Big Holiday",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "2:43 am",
       "artist": "Sylvan Esso",
@@ -172,12 +178,6 @@
       "artist": "Way Dynamic",
       "title": "Officially",
       "album": "Massive Shoe • 2026"
-    },
-    {
-      "time": "1:17 am",
-      "artist": "Sufjan Stevens",
-      "title": "I Walked",
-      "album": "The Age of Adz • 2010"
     }
   ]
 }
