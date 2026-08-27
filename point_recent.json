@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T19:35:28",
+  "updatedAt": "2026-08-27T19:40:28",
   "now": {
-    "artist": "Wolf Parade",
-    "title": "Forest Green",
-    "album": "Thin Mind • 2020",
+    "artist": "Elliott Smith",
+    "title": "Son of Sam",
+    "album": "Figure 8 • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:40 pm",
-      "artist": "Elliott Smith",
-      "title": "Son of Sam"
-    },
     {
       "time": "7:43 pm",
       "artist": "The Strokes",
@@ -21,9 +16,20 @@
       "time": "7:49 pm",
       "artist": "The Tubs",
       "title": "Stoop To Me"
+    },
+    {
+      "time": "7:53 pm",
+      "artist": "M. Ward",
+      "title": "Chinese Translation"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 pm",
+      "artist": "Elliott Smith",
+      "title": "Son of Sam",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "7:35 pm",
       "artist": "Wolf Parade",
@@ -167,12 +173,6 @@
       "artist": "Silver Jews",
       "title": "People",
       "album": "American Water • 1998"
-    },
-    {
-      "time": "5:52 pm",
-      "artist": "The Durutti Column",
-      "title": "Liars",
-      "album": "Renascent • 2026"
     }
   ]
 }
