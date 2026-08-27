@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T01:05:27",
+  "updatedAt": "2026-08-27T01:09:02",
   "now": {
-    "artist": "Weezer",
-    "title": "Turning Up the Radio",
-    "album": "Death to False Metal • 2010",
-    "category": "AUDIO"
+    "artist": "Spiritualized",
+    "title": "Ladies and Gentlemen We Are Floating in Space",
+    "album": "Ladies and Gentlemen We Are Floating in Space • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:09 am",
-      "artist": "Spiritualized",
-      "title": "Ladies and Gentlemen We Are Floating in Space"
-    },
     {
       "time": "1:12 am",
       "artist": "The Afghan Whigs",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "The Clash",
       "title": "Bankrobber"
+    },
+    {
+      "time": "1:28 am",
+      "artist": "Run The Jewels",
+      "title": "JU$T (feat. Pharrell Williams & Zack de la Rocha)"
     }
   ],
   "recent": [
+    {
+      "time": "1:09 am",
+      "artist": "Spiritualized",
+      "title": "Ladies and Gentlemen We Are Floating in Space",
+      "album": "Ladies and Gentlemen We Are Floating in Space • 1997"
+    },
     {
       "time": "1:05 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "What Goes Around Comes Around",
       "album": "FutureSex/LoveSounds • 2006"
-    },
-    {
-      "time": "11:00 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "jealousy, jealousy",
-      "album": "SOUR • 2021"
     }
   ]
 }
