@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-26T20:12:58",
+  "updatedAt": "2026-08-26T20:16:35",
   "now": {
-    "artist": "The Temptations",
-    "title": "Cloud Nine",
-    "album": "Cloud Nine • 1969",
+    "artist": "John Lennon",
+    "title": "Mind Games",
+    "album": "Mind Games • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:16 pm",
-      "artist": "John Lennon",
-      "title": "Mind Games"
-    },
     {
       "time": "8:20 pm",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "8:28 pm",
       "artist": "My Chemical Romance",
       "title": "Welcome to the Black Parade"
+    },
+    {
+      "time": "8:33 pm",
+      "artist": "Matchbox Twenty",
+      "title": "Unwell"
     }
   ],
   "recent": [
+    {
+      "time": "8:16 pm",
+      "artist": "John Lennon",
+      "title": "Mind Games",
+      "album": "Mind Games • 1973"
+    },
     {
       "time": "8:12 pm",
       "artist": "The Temptations",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Rattled By The Rush",
       "album": "Wowee Zowee • 1995"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "Wilco",
-      "title": "You Satellite",
-      "album": "Star Wars • 2015"
     }
   ]
 }
