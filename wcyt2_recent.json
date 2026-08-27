@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T11:36:37",
+  "updatedAt": "2026-08-27T11:40:32",
   "now": {
-    "artist": "Weezer",
-    "title": "Africa",
-    "album": "Weezer • 2019",
+    "artist": "John Denver",
+    "title": "Back Home Again",
+    "album": "Back Home Again • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 am",
-      "artist": "John Denver",
-      "title": "Back Home Again"
-    },
     {
       "time": "11:45 am",
       "artist": "Golden Smog",
@@ -26,9 +21,20 @@
       "time": "11:51 am",
       "artist": "Wilco",
       "title": "Impossible Germany"
+    },
+    {
+      "time": "11:57 am",
+      "artist": "Vanessa Carlton",
+      "title": "Ordinary Day"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 am",
+      "artist": "John Denver",
+      "title": "Back Home Again",
+      "album": "Back Home Again • 1974"
+    },
     {
       "time": "11:36 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Fatboy Slim",
       "title": "The Rockafeller Skank",
       "album": "You've Come A Long Way Baby • 1998"
-    },
-    {
-      "time": "10:01 am",
-      "artist": "Grimes",
-      "title": "California",
-      "album": "Art Angels • 2015"
     }
   ]
 }
