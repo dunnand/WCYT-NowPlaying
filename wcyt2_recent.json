@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T07:56:32",
+  "updatedAt": "2026-08-27T08:00:19",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Delicate",
-    "album": "reputation • 2017",
+    "artist": "Eagles",
+    "title": "Hotel California",
+    "album": "Hotel California • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 am",
-      "artist": "Eagles",
-      "title": "Hotel California"
-    },
     {
       "time": "8:07 am",
       "artist": "Eels",
@@ -21,9 +16,20 @@
       "time": "8:10 am",
       "artist": "R.E.M.",
       "title": "So. Central Rain"
+    },
+    {
+      "time": "8:13 am",
+      "artist": "Miami Sound Machine",
+      "title": "Conga"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 am",
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "album": "Hotel California • 1994"
+    },
     {
       "time": "7:56 am",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "Andy Gibb",
       "title": "I Just Want To Be Your Everything",
       "album": "Flowing Rivers • 1977"
-    },
-    {
-      "time": "6:25 am",
-      "artist": "Blue Oyster Cult",
-      "title": "(Don't Fear) The Reaper",
-      "album": "Agents of Fortune • 1976"
     }
   ]
 }
