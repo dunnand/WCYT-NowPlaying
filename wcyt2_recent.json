@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T13:07:27",
+  "updatedAt": "2026-08-28T13:10:41",
   "now": {
-    "artist": "Neil Diamond",
-    "title": "Girl, You'll Be A Woman Soon",
-    "album": "Just for You • 1967",
+    "artist": "The Clash",
+    "title": "Brand New Cadillac",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 pm",
-      "artist": "The Clash",
-      "title": "Brand New Cadillac"
-    },
     {
       "time": "1:12 pm",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "1:18 pm",
       "artist": "Radiohead",
       "title": "Optimistic"
+    },
+    {
+      "time": "1:24 pm",
+      "artist": "U2",
+      "title": "Sometimes You Can't Make It On Your Own"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 pm",
+      "artist": "The Clash",
+      "title": "Brand New Cadillac",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "1:07 pm",
       "artist": "Neil Diamond",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "No Name No. 5",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "11:32 am",
-      "artist": "Coldplay",
-      "title": "Paradise",
-      "album": "Mylo Xyloto • 2011"
     }
   ]
 }
