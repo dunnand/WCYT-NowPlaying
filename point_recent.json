@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T04:12:13",
+  "updatedAt": "2026-08-28T04:12:45",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Jim James",
+    "title": "Come Again",
+    "album": "Wowed Out • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:12 am",
-      "artist": "Jim James",
-      "title": "Come Again"
-    },
     {
       "time": "4:16 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "4:23 am",
       "artist": "Militarie Gun",
       "title": "B A D I D E A"
+    },
+    {
+      "time": "4:25 am",
+      "artist": "L'Rain",
+      "title": "soulless cycle"
     }
   ],
   "recent": [
+    {
+      "time": "4:12 am",
+      "artist": "Jim James",
+      "title": "Come Again",
+      "album": "Wowed Out • 2026"
+    },
     {
       "time": "4:08 am",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "Fleet Foxes",
       "title": "Young Man's Game",
       "album": "Shore • 2020"
-    },
-    {
-      "time": "2:40 am",
-      "artist": "King Gizzard & The Lizard Wizard",
-      "title": "Inner Cell",
-      "album": "Polygondwanaland • 2017"
     }
   ]
 }
