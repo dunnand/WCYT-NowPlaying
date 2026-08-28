@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T15:02:43",
+  "updatedAt": "2026-08-28T15:05:20",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "The Summer",
-    "album": "Fakebook • 1990",
-    "category": "TUNES"
+    "artist": "David Bowie",
+    "title": "Blackstar",
+    "album": "Blackstar • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:05 pm",
-      "artist": "David Bowie",
-      "title": "Blackstar"
-    },
     {
       "time": "3:15 pm",
       "artist": "The Shins",
@@ -21,9 +16,20 @@
       "time": "3:17 pm",
       "artist": "Vampire Weekend",
       "title": "M79"
+    },
+    {
+      "time": "3:22 pm",
+      "artist": "David Guetta",
+      "title": "Without You feat. Usher"
     }
   ],
   "recent": [
+    {
+      "time": "3:05 pm",
+      "artist": "David Bowie",
+      "title": "Blackstar",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "3:02 pm",
       "artist": "Yo La Tengo",
@@ -167,12 +173,6 @@
       "artist": "Go West",
       "title": "King Of Wishful Thinking",
       "album": "Pretty Woman:Soundtrack • 1990"
-    },
-    {
-      "time": "1:28 pm",
-      "artist": "David Guetta",
-      "title": "Play Hard Feat. Ne-Yo & Akon",
-      "album": "Nothing But the Beat 2.0 • 2012"
     }
   ]
 }
