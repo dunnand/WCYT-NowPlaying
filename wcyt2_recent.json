@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T13:10:41",
+  "updatedAt": "2026-08-28T13:12:43",
   "now": {
-    "artist": "The Clash",
-    "title": "Brand New Cadillac",
-    "album": "London Calling • 1979",
+    "artist": "Weezer",
+    "title": "Susanne",
+    "album": "Mallrats Soundtrack • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:12 pm",
-      "artist": "Weezer",
-      "title": "Susanne"
-    },
     {
       "time": "1:15 pm",
       "artist": "Calvin Harris",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:12 pm",
+      "artist": "Weezer",
+      "title": "Susanne",
+      "album": "Mallrats Soundtrack • 1995"
+    },
     {
       "time": "1:10 pm",
       "artist": "The Clash",
@@ -172,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Corduroy",
       "album": "Vitalogy • 1994"
-    },
-    {
-      "time": "11:36 am",
-      "artist": "Elliott Smith",
-      "title": "No Name No. 5",
-      "album": "Either Or • 1997"
     }
   ]
 }
