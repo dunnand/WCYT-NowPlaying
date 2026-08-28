@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T18:14:49",
+  "updatedAt": "2026-08-28T18:15:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Glenn Frey",
+    "title": "The Heat Is On",
+    "album": "Beverly Hills Cop: Soundtrack • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:15 pm",
-      "artist": "Glenn Frey",
-      "title": "The Heat Is On"
-    },
     {
       "time": "6:18 pm",
       "artist": "The Go",
@@ -26,9 +21,20 @@
       "time": "6:26 pm",
       "artist": "The Beach Boys",
       "title": "Slip On Through"
+    },
+    {
+      "time": "6:28 pm",
+      "artist": "Blondie",
+      "title": "Atomic"
     }
   ],
   "recent": [
+    {
+      "time": "6:15 pm",
+      "artist": "Glenn Frey",
+      "title": "The Heat Is On",
+      "album": "Beverly Hills Cop: Soundtrack • 1984"
+    },
     {
       "time": "6:11 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Otis Redding",
       "title": "I Can't Turn You Loose",
       "album": "single • 1965"
-    },
-    {
-      "time": "4:48 pm",
-      "artist": "The Shins",
-      "title": "Turn a Square",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
