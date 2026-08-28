@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T08:27:20",
+  "updatedAt": "2026-08-28T08:32:16",
   "now": {
-    "artist": "Radiohead",
-    "title": "Let Down",
-    "album": "OK Computer • 1997",
+    "artist": "Beyonce",
+    "title": "Hold Up",
+    "album": "Lemonade • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:32 am",
-      "artist": "Beyonce",
-      "title": "Hold Up"
-    },
     {
       "time": "8:36 am",
       "artist": "Vampire Weekend",
@@ -21,9 +16,20 @@
       "time": "8:39 am",
       "artist": "TV on the Radio",
       "title": "New Health Rock"
+    },
+    {
+      "time": "8:44 am",
+      "artist": "Alicia Keys",
+      "title": "Girl On Fire"
     }
   ],
   "recent": [
+    {
+      "time": "8:32 am",
+      "artist": "Beyonce",
+      "title": "Hold Up",
+      "album": "Lemonade • 2019"
+    },
     {
       "time": "8:27 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Bobby Brown",
       "title": "My Perogative",
       "album": "Don't Be Cruel • 1989"
-    },
-    {
-      "time": "6:58 am",
-      "artist": "Whitney Houston",
-      "title": "I Will Always Love You",
-      "album": "The Bodyguard • 1992"
     }
   ]
 }
