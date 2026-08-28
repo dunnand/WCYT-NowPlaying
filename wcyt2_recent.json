@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T21:37:30",
+  "updatedAt": "2026-08-27T21:39:53",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Ring of Fire",
-    "album": "Ring of Fire • 1963",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Do I Wanna Know",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:39 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Do I Wanna Know"
-    },
     {
       "time": "9:44 pm",
       "artist": "Pulp",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:39 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Do I Wanna Know",
+      "album": "AM • 2013"
+    },
     {
       "time": "9:37 pm",
       "artist": "Johnny Cash",
@@ -172,12 +173,6 @@
       "artist": "Edwin Starr",
       "title": "War",
       "album": "War & Peace • 1970"
-    },
-    {
-      "time": "7:53 pm",
-      "artist": "Koji Kondo",
-      "title": "Super Mario World (Ending)",
-      "album": "Nintendo Music •"
     }
   ]
 }
