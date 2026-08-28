@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T21:06:30",
+  "updatedAt": "2026-08-27T21:11:34",
   "now": {
-    "artist": "Elton John",
-    "title": "Honky Cat",
-    "album": "Honky Chteau • 1972",
+    "artist": "Sue Thompson",
+    "title": "Norman",
+    "album": "Sue Thompson • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Sue Thompson",
-      "title": "Norman"
-    },
     {
       "time": "9:14 pm",
       "artist": "Bee Gees",
@@ -26,9 +21,20 @@
       "time": "9:21 pm",
       "artist": "Dead Boy",
       "title": "Sonic Reducer"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "Portishead",
+      "title": "Mysterons"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Sue Thompson",
+      "title": "Norman",
+      "album": "Sue Thompson • 1962"
+    },
     {
       "time": "9:06 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Backdrifts. (Honeymoon Is Over.)",
       "album": "Hail to the Thief • 2003"
-    },
-    {
-      "time": "7:19 pm",
-      "artist": "Fats Domino",
-      "title": "I Want To Walk You Home",
-      "album": "single • 1959"
     }
   ]
 }
