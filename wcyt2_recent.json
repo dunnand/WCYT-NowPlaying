@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T22:38:28",
+  "updatedAt": "2026-08-27T22:38:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Because",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:38 pm",
-      "artist": "The Beatles",
-      "title": "Because"
-    },
     {
       "time": "10:41 pm",
       "artist": "B.O.B",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:38 pm",
+      "artist": "The Beatles",
+      "title": "Because",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "10:33 pm",
       "artist": "Sleater-Kinney",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "traitor",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "8:53 pm",
-      "artist": "Prince and The Revolution",
-      "title": "Purple Rain",
-      "album": "Purple Rain • 1984"
     }
   ]
 }
