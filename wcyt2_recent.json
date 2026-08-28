@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T11:16:34",
+  "updatedAt": "2026-08-28T11:20:40",
   "now": {
-    "artist": "Jane Child",
-    "title": "Don't Wanna Fall In Love",
-    "album": "Jane Child • 1990",
+    "artist": "Ray Charles",
+    "title": "Take These Chains From My Heart",
+    "album": "single • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:20 am",
-      "artist": "Ray Charles",
-      "title": "Take These Chains From My Heart"
-    },
     {
       "time": "11:23 am",
       "artist": "Vic Chesnutt",
@@ -26,9 +21,20 @@
       "time": "11:31 am",
       "artist": "Coldplay",
       "title": "Paradise"
+    },
+    {
+      "time": "11:36 am",
+      "artist": "Elliott Smith",
+      "title": "No Name No. 5"
     }
   ],
   "recent": [
+    {
+      "time": "11:20 am",
+      "artist": "Ray Charles",
+      "title": "Take These Chains From My Heart",
+      "album": "single • 1955"
+    },
     {
       "time": "11:16 am",
       "artist": "Jane Child",
@@ -172,12 +178,6 @@
       "artist": "Crowded House",
       "title": "Don't Dream It's Over",
       "album": "Crowded House • 1987"
-    },
-    {
-      "time": "9:46 am",
-      "artist": "Pavement",
-      "title": "Summer Babe (Winter Version)",
-      "album": "Slanted & Enchanted • 1992"
     }
   ]
 }
