@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T08:11:13",
+  "updatedAt": "2026-08-28T08:11:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Lou Reed",
+    "title": "Perfect Day",
+    "album": "Transformer • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:11 am",
-      "artist": "Lou Reed",
-      "title": "Perfect Day"
-    },
     {
       "time": "8:15 am",
       "artist": "Louis Armstrong",
@@ -26,9 +21,20 @@
       "time": "8:22 am",
       "artist": "The Beatles",
       "title": "Eight Days A Week"
+    },
+    {
+      "time": "8:25 am",
+      "artist": "Nick Drake",
+      "title": "Pink Moon"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 am",
+      "artist": "Lou Reed",
+      "title": "Perfect Day",
+      "album": "Transformer • 1972"
+    },
     {
       "time": "8:07 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "('Til) I Kissed You",
       "album": "single • 1959"
-    },
-    {
-      "time": "6:40 am",
-      "artist": "Vic Chesnutt",
-      "title": "Replenished",
-      "album": "The Salesman & Bernadette • 1998"
     }
   ]
 }
