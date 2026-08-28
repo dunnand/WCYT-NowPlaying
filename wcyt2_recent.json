@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T10:15:39",
+  "updatedAt": "2026-08-28T10:19:43",
   "now": {
-    "artist": "Willie Nelson",
-    "title": "Georgia On My Mind",
-    "album": "Stardust • 1978",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "A Century Of Fakers",
+    "album": "3...6...9 Seconds of Light •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:19 am",
-      "artist": "Belle and Sebastian",
-      "title": "A Century Of Fakers"
-    },
     {
       "time": "10:24 am",
       "artist": "Bruno Mars",
@@ -23,12 +18,18 @@
       "title": "You and Whose Army?"
     },
     {
-      "time": "10:31 am",
+      "time": "10:30 am",
       "artist": "Spoon",
       "title": "Jonathon Fisk"
     }
   ],
   "recent": [
+    {
+      "time": "10:19 am",
+      "artist": "Belle and Sebastian",
+      "title": "A Century Of Fakers",
+      "album": "3...6...9 Seconds of Light •"
+    },
     {
       "time": "10:15 am",
       "artist": "Willie Nelson",
@@ -172,12 +173,6 @@
       "artist": "Jon Bon Jovi",
       "title": "Blaze Of Glory",
       "album": "Blaze of Glory • 1990"
-    },
-    {
-      "time": "8:48 am",
-      "artist": "k.d. lang",
-      "title": "Constant Craving",
-      "album": "Ingnue • 1992"
     }
   ]
 }
