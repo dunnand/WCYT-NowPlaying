@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T17:29:45",
+  "updatedAt": "2026-08-28T17:29:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Turn Your Lights Down Low",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Turn Your Lights Down Low"
-    },
     {
       "time": "5:33 pm",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "5:43 pm",
       "artist": "Neil Sedaka",
       "title": "Calendar Girl"
+    },
+    {
+      "time": "5:46 pm",
+      "artist": "Elton John",
+      "title": "Your Song"
     }
   ],
   "recent": [
+    {
+      "time": "5:29 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Turn Your Lights Down Low",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "5:26 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "I Walk The Line",
       "album": "I Walk The Line • 1956"
-    },
-    {
-      "time": "4:00 pm",
-      "artist": "Beck",
-      "title": "Teenage Wastebasket",
-      "album": "One Foot in the Grave • 1994"
     }
   ]
 }
