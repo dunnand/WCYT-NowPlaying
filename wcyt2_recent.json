@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T12:34:52",
+  "updatedAt": "2026-08-28T12:35:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Doin' the Cockroach",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:35 pm",
-      "artist": "Modest Mouse",
-      "title": "Doin' the Cockroach"
-    },
     {
       "time": "12:39 pm",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "12:47 pm",
       "artist": "Doug E. Fresh",
       "title": "The Show"
+    },
+    {
+      "time": "12:53 pm",
+      "artist": "Turnstile",
+      "title": "DON'T PLAY"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 pm",
+      "artist": "Modest Mouse",
+      "title": "Doin' the Cockroach",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "12:30 pm",
       "artist": "Adele",
@@ -172,12 +178,6 @@
       "artist": "Small Faces",
       "title": "Lazy Sunday",
       "album": "Ogdens Nut Gone Flake • 1968"
-    },
-    {
-      "time": "10:59 am",
-      "artist": "Barbra Streisand",
-      "title": "The Way We Were",
-      "album": "The Way We Were • 1974"
     }
   ]
 }
