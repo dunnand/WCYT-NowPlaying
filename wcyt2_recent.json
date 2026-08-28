@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T16:03:01",
+  "updatedAt": "2026-08-28T16:05:44",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "I Walk The Line",
-    "album": "I Walk The Line • 1956",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Incinerate",
+    "album": "Rather Ripped • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:05 pm",
-      "artist": "Sonic Youth",
-      "title": "Incinerate"
-    },
     {
       "time": "4:10 pm",
       "artist": "Roger Miller",
@@ -21,9 +16,20 @@
       "time": "4:12 pm",
       "artist": "BADBADNOTGOOD",
       "title": "Speaking Gently"
+    },
+    {
+      "time": "4:16 pm",
+      "artist": "Bjork",
+      "title": "Army of Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 pm",
+      "artist": "Sonic Youth",
+      "title": "Incinerate",
+      "album": "Rather Ripped • 2006"
+    },
     {
       "time": "4:03 pm",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Eurythmics",
       "title": "Would I Lie To You",
       "album": "Be Yourself Tonight • 1985"
-    },
-    {
-      "time": "2:31 pm",
-      "artist": "Elvis Costello",
-      "title": "Veronica",
-      "album": "Spike • 1989"
     }
   ]
 }
