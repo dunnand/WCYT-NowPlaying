@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T02:41:57",
+  "updatedAt": "2026-08-28T02:45:30",
   "now": {
-    "artist": "The Beatles",
-    "title": "The Long and Winding Road",
-    "album": "Let It Be • 1970",
+    "artist": "Rolling Stones",
+    "title": "The Last Time",
+    "album": "single • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:45 am",
-      "artist": "Rolling Stones",
-      "title": "The Last Time"
-    },
     {
       "time": "2:49 am",
       "artist": "Al Green",
@@ -26,9 +21,20 @@
       "time": "2:54 am",
       "artist": "Billy Joel",
       "title": "Big Shot"
+    },
+    {
+      "time": "2:58 am",
+      "artist": "Stereolab",
+      "title": "French Disko"
     }
   ],
   "recent": [
+    {
+      "time": "2:45 am",
+      "artist": "Rolling Stones",
+      "title": "The Last Time",
+      "album": "single • 1965"
+    },
     {
       "time": "2:41 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Spaceman",
       "album": "Day & Age • 2008"
-    },
-    {
-      "time": "1:03 am",
-      "artist": "Eddie Cochran",
-      "title": "C'mon Everybody",
-      "album": "single • 1958"
     }
   ]
 }
