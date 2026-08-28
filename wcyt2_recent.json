@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T12:27:33",
+  "updatedAt": "2026-08-28T12:30:17",
   "now": {
-    "artist": "Silver Apples",
-    "title": "Oscillations",
-    "album": "Silver Apples • 1968",
+    "artist": "Adele",
+    "title": "Skyfall",
+    "album": "Skyfall • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "Adele",
-      "title": "Skyfall"
-    },
     {
       "time": "12:35 pm",
       "artist": "Modest Mouse",
@@ -21,9 +16,20 @@
       "time": "12:39 pm",
       "artist": "Neutral Milk Hotel",
       "title": "Gardenhead / Leave Me Alone"
+    },
+    {
+      "time": "12:42 pm",
+      "artist": "Don Henley",
+      "title": "All She Wants To Do Is Dance"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 pm",
+      "artist": "Adele",
+      "title": "Skyfall",
+      "album": "Skyfall • 2012"
+    },
     {
       "time": "12:27 pm",
       "artist": "Silver Apples",
@@ -167,12 +173,6 @@
       "artist": "Barbra Streisand",
       "title": "The Way We Were",
       "album": "The Way We Were • 1974"
-    },
-    {
-      "time": "10:56 am",
-      "artist": "The Neighbourhood",
-      "title": "Devil's Advocate",
-      "album": "Chip Chrome & the Mono-Tones • 2020"
     }
   ]
 }
