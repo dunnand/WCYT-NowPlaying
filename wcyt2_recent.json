@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T17:29:55",
+  "updatedAt": "2026-08-28T17:33:50",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Turn Your Lights Down Low",
-    "album": "Exodus • 1977",
+    "artist": "Ray Charles",
+    "title": "You Are My Sunshine",
+    "album": "The Genius Hits the Road • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:33 pm",
-      "artist": "Ray Charles",
-      "title": "You Are My Sunshine"
-    },
     {
       "time": "5:36 pm",
       "artist": "Derek and the Dominos",
@@ -26,9 +21,20 @@
       "time": "5:46 pm",
       "artist": "Elton John",
       "title": "Your Song"
+    },
+    {
+      "time": "5:50 pm",
+      "artist": "Superchunk",
+      "title": "Precision Auto"
     }
   ],
   "recent": [
+    {
+      "time": "5:33 pm",
+      "artist": "Ray Charles",
+      "title": "You Are My Sunshine",
+      "album": "The Genius Hits the Road • 1960"
+    },
     {
       "time": "5:29 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Sonic Youth",
       "title": "Incinerate",
       "album": "Rather Ripped • 2006"
-    },
-    {
-      "time": "4:03 pm",
-      "artist": "Johnny Cash",
-      "title": "I Walk The Line",
-      "album": "I Walk The Line • 1956"
     }
   ]
 }
