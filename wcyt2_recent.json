@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T00:14:00",
+  "updatedAt": "2026-08-28T00:18:49",
   "now": {
-    "artist": "Beach House",
-    "title": "Zebra",
-    "album": "Teen Dream • 2010",
-    "category": "TUNES"
+    "artist": "Sinead O'Connor",
+    "title": "The Emperor's New Clothes",
+    "album": "I Do Not Want What I Haven't Got • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 am",
-      "artist": "Sinead O'Connor",
-      "title": "The Emperor's New Clothes"
-    },
     {
       "time": "12:23 am",
       "artist": "Slint",
@@ -26,9 +21,20 @@
       "time": "12:32 am",
       "artist": "Van Halen",
       "title": "Jump"
+    },
+    {
+      "time": "12:36 am",
+      "artist": "Superchunk",
+      "title": "Slack"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 am",
+      "artist": "Sinead O'Connor",
+      "title": "The Emperor's New Clothes",
+      "album": "I Do Not Want What I Haven't Got • 1990"
+    },
     {
       "time": "12:14 am",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "Doobie Brothers",
       "title": "Listen To The Music",
       "album": "Toulouse Street • 1972"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "Spoon",
-      "title": "Small Stakes",
-      "album": "Kill The Moonlight • 2002"
     }
   ]
 }
