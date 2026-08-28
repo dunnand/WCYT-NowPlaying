@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T13:41:15",
+  "updatedAt": "2026-08-28T13:44:38",
   "now": {
-    "artist": "Eagles",
-    "title": "The Long Run",
-    "album": "The Long Run • 1980",
+    "artist": "Bleachers",
+    "title": "I Wanna Get Better",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:44 pm",
-      "artist": "Bleachers",
-      "title": "I Wanna Get Better"
-    },
     {
       "time": "1:48 pm",
       "artist": "Contortions",
@@ -21,9 +16,20 @@
       "time": "1:52 pm",
       "artist": "Tammy Wynette",
       "title": "Stand By Your Man"
+    },
+    {
+      "time": "1:55 pm",
+      "artist": "Bob Dylan",
+      "title": "Joey"
     }
   ],
   "recent": [
+    {
+      "time": "1:44 pm",
+      "artist": "Bleachers",
+      "title": "I Wanna Get Better",
+      "album": ""
+    },
     {
       "time": "1:41 pm",
       "artist": "Eagles",
@@ -167,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Tonight, Tonight",
       "album": "Mellon Collie and the Infinite Sadness • 1995"
-    },
-    {
-      "time": "12:10 pm",
-      "artist": "The B-52's",
-      "title": "Rock Lobster",
-      "album": "The B-52's • 1979"
     }
   ]
 }
