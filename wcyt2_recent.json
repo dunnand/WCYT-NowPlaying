@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T21:37:08",
+  "updatedAt": "2026-08-27T21:37:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Johnny Cash",
+    "title": "Ring of Fire",
+    "album": "Ring of Fire • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:37 pm",
-      "artist": "Johnny Cash",
-      "title": "Ring of Fire"
-    },
     {
       "time": "9:39 pm",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "9:48 pm",
       "artist": "Queen",
       "title": "The Show Must Go On"
+    },
+    {
+      "time": "9:53 pm",
+      "artist": "Queen",
+      "title": "Another One Bites The Dust"
     }
   ],
   "recent": [
+    {
+      "time": "9:37 pm",
+      "artist": "Johnny Cash",
+      "title": "Ring of Fire",
+      "album": "Ring of Fire • 1963"
+    },
     {
       "time": "9:31 pm",
       "artist": "Taio Cruz",
@@ -172,12 +178,6 @@
       "artist": "Koji Kondo",
       "title": "Super Mario World (Ending)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "7:48 pm",
-      "artist": "Peter Gabriel",
-      "title": "Here Comes the Flood",
-      "album": "Peter Gabriel • 1982"
     }
   ]
 }
