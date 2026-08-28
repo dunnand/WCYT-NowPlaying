@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T10:03:43",
+  "updatedAt": "2026-08-28T10:03:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Velvet Underground",
+    "title": "Sweet Jane",
+    "album": "Loaded • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:03 am",
-      "artist": "The Velvet Underground",
-      "title": "Sweet Jane"
-    },
     {
       "time": "10:07 am",
       "artist": "Ted Leo and the Pharmacists",
@@ -31,9 +26,20 @@
       "time": "10:19 am",
       "artist": "Belle and Sebastian",
       "title": "A Century Of Fakers"
+    },
+    {
+      "time": "10:24 am",
+      "artist": "Bruno Mars",
+      "title": "When I Was Your Man"
     }
   ],
   "recent": [
+    {
+      "time": "10:03 am",
+      "artist": "The Velvet Underground",
+      "title": "Sweet Jane",
+      "album": "Loaded • 1970"
+    },
     {
       "time": "9:59 am",
       "artist": "The Shins",
@@ -177,12 +183,6 @@
       "artist": "Vampire Weekend",
       "title": "Walcott",
       "album": "Vampire Weekend • 2008"
-    },
-    {
-      "time": "8:32 am",
-      "artist": "Beyonce",
-      "title": "Hold Up",
-      "album": "Lemonade • 2019"
     }
   ]
 }
