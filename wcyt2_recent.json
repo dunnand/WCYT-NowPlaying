@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T00:13:48",
+  "updatedAt": "2026-08-28T00:14:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Zebra",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:13 am",
-      "artist": "Beach House",
-      "title": "Zebra"
-    },
     {
       "time": "12:18 am",
       "artist": "Sinead O'Connor",
@@ -26,9 +21,20 @@
       "time": "12:29 am",
       "artist": "Tom Petty",
       "title": "Yer So Bad"
+    },
+    {
+      "time": "12:32 am",
+      "artist": "Van Halen",
+      "title": "Jump"
     }
   ],
   "recent": [
+    {
+      "time": "12:14 am",
+      "artist": "Beach House",
+      "title": "Zebra",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "12:09 am",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Small Stakes",
       "album": "Kill The Moonlight • 2002"
-    },
-    {
-      "time": "10:01 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "vampire",
-      "album": "Guts • 2023"
     }
   ]
 }
