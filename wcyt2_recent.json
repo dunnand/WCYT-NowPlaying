@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T08:02:42",
+  "updatedAt": "2026-08-28T08:07:48",
   "now": {
-    "artist": "Boogie Down Productions",
-    "title": "I'm Still #1",
-    "album": "By All Means Necessary • 1988",
+    "artist": "Weezer",
+    "title": "All My Favorite Songs",
+    "album": "OK Human • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "Weezer",
-      "title": "All My Favorite Songs"
-    },
     {
       "time": "8:11 am",
       "artist": "Lou Reed",
@@ -21,9 +16,20 @@
       "time": "8:15 am",
       "artist": "Louis Armstrong",
       "title": "Hello, Dolly!"
+    },
+    {
+      "time": "8:18 am",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Sweet Home Alabama"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "Weezer",
+      "title": "All My Favorite Songs",
+      "album": "OK Human • 2021"
+    },
     {
       "time": "8:02 am",
       "artist": "Boogie Down Productions",
@@ -167,12 +173,6 @@
       "artist": "Vic Chesnutt",
       "title": "Replenished",
       "album": "The Salesman & Bernadette • 1998"
-    },
-    {
-      "time": "6:37 am",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "Green Shirt",
-      "album": "Armed Forces • 1979"
     }
   ]
 }
