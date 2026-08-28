@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T23:58:01",
+  "updatedAt": "2026-08-28T00:02:02",
   "now": {
-    "artist": "Sarah McLachlan",
-    "title": "Adia",
-    "album": "Surfacing • 1998",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Four Out Of Five",
+    "album": "Tranquility Base Hotel & Casino •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Arctic Monkeys",
-      "title": "Four Out Of Five"
-    },
     {
       "time": "12:06 am",
       "artist": "The Hives",
@@ -21,9 +16,20 @@
       "time": "12:09 am",
       "artist": "The Killers",
       "title": "Smile Like You Mean It"
+    },
+    {
+      "time": "12:13 am",
+      "artist": "Beach House",
+      "title": "Zebra"
     }
   ],
   "recent": [
+    {
+      "time": "12:02 am",
+      "artist": "Arctic Monkeys",
+      "title": "Four Out Of Five",
+      "album": "Tranquility Base Hotel & Casino •"
+    },
     {
       "time": "11:58 pm",
       "artist": "Sarah McLachlan",
@@ -167,12 +173,6 @@
       "artist": "Queen",
       "title": "Another One Bites The Dust",
       "album": "The Game • 1981"
-    },
-    {
-      "time": "9:48 pm",
-      "artist": "Queen",
-      "title": "The Show Must Go On",
-      "album": "Innuendo • 1991"
     }
   ]
 }
