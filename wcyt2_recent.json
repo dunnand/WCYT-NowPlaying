@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T22:38:40",
+  "updatedAt": "2026-08-27T22:41:26",
   "now": {
-    "artist": "The Beatles",
-    "title": "Because",
-    "album": "Abbey Road • 1969",
+    "artist": "B.O.B",
+    "title": "NothinOnYou",
+    "album": "May 25th • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:41 pm",
-      "artist": "B.O.B",
-      "title": "NothinOnYou"
-    },
     {
       "time": "10:45 pm",
       "artist": "Rancid",
@@ -21,9 +16,20 @@
       "time": "10:47 pm",
       "artist": "Rolling Stones",
       "title": "Out Of Tears"
+    },
+    {
+      "time": "10:53 pm",
+      "artist": "Talk Talk",
+      "title": "Such a Shame"
     }
   ],
   "recent": [
+    {
+      "time": "10:41 pm",
+      "artist": "B.O.B",
+      "title": "NothinOnYou",
+      "album": "May 25th • 2010"
+    },
     {
       "time": "10:38 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Elton John",
       "title": "Honky Cat",
       "album": "Honky Chteau • 1972"
-    },
-    {
-      "time": "9:02 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "traitor",
-      "album": "SOUR • 2021"
     }
   ]
 }
