@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T05:27:24",
+  "updatedAt": "2026-08-28T05:30:39",
   "now": {
-    "artist": "Weezer",
-    "title": "Island in the Sun",
-    "album": "Weezer • 2001",
-    "category": "AUDIO"
+    "artist": "The Decemberists",
+    "title": "Once in My Life",
+    "album": "I'll Be Your Girl • 2018",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:30 am",
-      "artist": "The Decemberists",
-      "title": "Once in My Life"
-    },
     {
       "time": "5:35 am",
       "artist": "Black Sabbath",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:30 am",
+      "artist": "The Decemberists",
+      "title": "Once in My Life",
+      "album": "I'll Be Your Girl • 2018"
+    },
     {
       "time": "5:27 am",
       "artist": "Weezer",
@@ -177,12 +178,6 @@
       "artist": "Spiral Staircase",
       "title": "More Today Than Yesterday",
       "album": "More Today Than Yesterday • 1969"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "Wilco",
-      "title": "Theologians",
-      "album": "A Ghost Is Born • 2004"
     }
   ]
 }
