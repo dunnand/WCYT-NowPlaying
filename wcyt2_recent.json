@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T23:08:59",
+  "updatedAt": "2026-08-27T23:09:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Who Are You",
+    "album": "Who Are You • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:09 pm",
-      "artist": "The Who",
-      "title": "Who Are You"
-    },
     {
       "time": "11:15 pm",
       "artist": "Donnie & Joe Emerson",
@@ -26,9 +21,20 @@
       "time": "11:23 pm",
       "artist": "Rolling Stones",
       "title": "Sympathy For The Devil"
+    },
+    {
+      "time": "11:29 pm",
+      "artist": "Dan Hill",
+      "title": "Sometimes When We Touch"
     }
   ],
   "recent": [
+    {
+      "time": "11:09 pm",
+      "artist": "The Who",
+      "title": "Who Are You",
+      "album": "Who Are You • 1978"
+    },
     {
       "time": "11:00 pm",
       "artist": "Naoto Kubo",
@@ -172,12 +178,6 @@
       "artist": "Ricky Nelson",
       "title": "Never Be Anyone Else But You",
       "album": "single • 1959"
-    },
-    {
-      "time": "9:24 pm",
-      "artist": "Portishead",
-      "title": "Mysterons",
-      "album": "Dummy • 1994"
     }
   ]
 }
