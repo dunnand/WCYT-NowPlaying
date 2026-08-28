@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-28T00:50:52",
+  "updatedAt": "2026-08-28T00:53:28",
   "now": {
-    "artist": "Strawberry Alarm Clock",
-    "title": "Incense and Peppermints",
-    "album": "Incense and Peppermints • 1967",
+    "artist": "Pink Floyd",
+    "title": "Comfortably Numb",
+    "album": "The Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "Pink Floyd",
-      "title": "Comfortably Numb"
-    },
     {
       "time": "12:59 am",
       "artist": "Smash Mouth",
       "title": "All Star"
     },
     {
-      "time": "1:03 am",
+      "time": "1:02 am",
       "artist": "Eddie Cochran",
       "title": "C'mon Everybody"
     },
@@ -26,9 +21,20 @@
       "time": "1:04 am",
       "artist": "The Killers",
       "title": "Spaceman"
+    },
+    {
+      "time": "1:09 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Castles Made of Sand"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "Pink Floyd",
+      "title": "Comfortably Numb",
+      "album": "The Wall • 1979"
+    },
     {
       "time": "12:50 am",
       "artist": "Strawberry Alarm Clock",
@@ -172,12 +178,6 @@
       "artist": "Rancid",
       "title": "Time Bomb",
       "album": "...And Out Come the Wolves • 1995"
-    },
-    {
-      "time": "10:41 pm",
-      "artist": "B.O.B",
-      "title": "NothinOnYou",
-      "album": "May 25th • 2010"
     }
   ]
 }
