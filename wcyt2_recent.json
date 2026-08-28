@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T15:43:22",
+  "updatedAt": "2026-08-28T15:46:35",
   "now": {
-    "artist": "Neil Young",
-    "title": "Old Man",
-    "album": "Harvest • 1972",
+    "artist": "The Beatles",
+    "title": "And Your Bird Can Sing",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 pm",
-      "artist": "The Beatles",
-      "title": "And Your Bird Can Sing"
-    },
     {
       "time": "3:48 pm",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "3:55 pm",
       "artist": "Rod Stewart",
       "title": "Hot Legs"
+    },
+    {
+      "time": "4:00 pm",
+      "artist": "Beck",
+      "title": "Teenage Wastebasket"
     }
   ],
   "recent": [
+    {
+      "time": "3:46 pm",
+      "artist": "The Beatles",
+      "title": "And Your Bird Can Sing",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "3:43 pm",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "The Walkmen",
       "title": "In the New Year",
       "album": "You & Me • 2008"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "Sam Cooke",
-      "title": "Only Sixteen",
-      "album": "Hit Kit • 1959"
     }
   ]
 }
