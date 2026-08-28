@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T05:41:02",
+  "updatedAt": "2026-08-28T05:44:27",
   "now": {
-    "artist": "Tom Petty and the Heartbreakers",
-    "title": "Out in the Cold",
-    "album": "Into the Great Wide Open • 1991",
+    "artist": "Nina Simone",
+    "title": "I Loves You, Porgy",
+    "album": "Little Girl Blue • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 am",
-      "artist": "Nina Simone",
-      "title": "I Loves You, Porgy"
-    },
     {
       "time": "5:48 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:57 am",
       "artist": "Beck",
       "title": "Colors"
+    },
+    {
+      "time": "6:02 am",
+      "artist": "Uncle Tupelo",
+      "title": "Gun"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 am",
+      "artist": "Nina Simone",
+      "title": "I Loves You, Porgy",
+      "album": "Little Girl Blue • 1958"
+    },
     {
       "time": "5:41 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "The Cranberries",
       "title": "Dreams",
       "album": "Everybody Else Is Doing It, So Why Can’t We? • 1993"
-    },
-    {
-      "time": "4:06 am",
-      "artist": "The Chemical Brothers",
-      "title": "Hey Boy Hey Girl",
-      "album": "Surrender • 1999"
     }
   ]
 }
