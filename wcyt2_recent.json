@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T19:29:25",
+  "updatedAt": "2026-08-28T19:33:39",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "The Hurt",
-    "album": "Foreigner • 1973",
+    "artist": "Russell Morris",
+    "title": "The Real Thing",
+    "album": "single • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:33 pm",
-      "artist": "Russell Morris",
-      "title": "The Real Thing"
-    },
     {
       "time": "7:40 pm",
       "artist": "Commodores",
@@ -26,9 +21,20 @@
       "time": "7:46 pm",
       "artist": "Curtis Mayfield",
       "title": "Future Shock"
+    },
+    {
+      "time": "7:51 pm",
+      "artist": "Neil Young",
+      "title": "Harvest Moon"
     }
   ],
   "recent": [
+    {
+      "time": "7:33 pm",
+      "artist": "Russell Morris",
+      "title": "The Real Thing",
+      "album": "single • 1969"
+    },
     {
       "time": "7:29 pm",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Staring at the Sun",
       "album": "Young Liars • 2003"
-    },
-    {
-      "time": "5:53 pm",
-      "artist": "Dell-Vikings",
-      "title": "Come Go With Me",
-      "album": "Come Go With the Del-Vikings • 1957"
     }
   ]
 }
