@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T08:18:17",
+  "updatedAt": "2026-08-28T08:22:53",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Sweet Home Alabama",
-    "album": "Second Helping • 1974",
+    "artist": "The Beatles",
+    "title": "Eight Days A Week",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:22 am",
-      "artist": "The Beatles",
-      "title": "Eight Days A Week"
-    },
     {
       "time": "8:25 am",
       "artist": "Nick Drake",
@@ -26,9 +21,20 @@
       "time": "8:32 am",
       "artist": "Beyonce",
       "title": "Hold Up"
+    },
+    {
+      "time": "8:36 am",
+      "artist": "Vampire Weekend",
+      "title": "Walcott"
     }
   ],
   "recent": [
+    {
+      "time": "8:22 am",
+      "artist": "The Beatles",
+      "title": "Eight Days A Week",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "8:18 am",
       "artist": "Lynyrd Skynyrd",
@@ -172,12 +178,6 @@
       "artist": "Drake",
       "title": "Started From The Bottom",
       "album": "HA201306 14 • 2013"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Sam Cooke",
-      "title": "(Ain't That) Good News",
-      "album": "Aint That Good News • 1964"
     }
   ]
 }
