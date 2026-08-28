@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T05:24:19",
+  "updatedAt": "2026-08-28T05:27:24",
   "now": {
-    "artist": "Aretha Franklin",
-    "title": "Rock Steady",
-    "album": "Young, Gifted and Black • 1972",
+    "artist": "Weezer",
+    "title": "Island in the Sun",
+    "album": "Weezer • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:27 am",
-      "artist": "Weezer",
-      "title": "Island in the Sun"
-    },
     {
       "time": "5:30 am",
       "artist": "The Decemberists",
@@ -31,9 +26,20 @@
       "time": "5:44 am",
       "artist": "Nina Simone",
       "title": "I Loves You, Porgy"
+    },
+    {
+      "time": "5:48 am",
+      "artist": "Radiohead",
+      "title": "The National Anthem"
     }
   ],
   "recent": [
+    {
+      "time": "5:27 am",
+      "artist": "Weezer",
+      "title": "Island in the Sun",
+      "album": "Weezer • 2001"
+    },
     {
       "time": "5:24 am",
       "artist": "Aretha Franklin",
@@ -177,12 +183,6 @@
       "artist": "Wilco",
       "title": "Theologians",
       "album": "A Ghost Is Born • 2004"
-    },
-    {
-      "time": "3:54 am",
-      "artist": "Duane Eddy",
-      "title": "Rebel-'Rouser",
-      "album": "Have 'Twangy' Guitar Will Travel • 1958"
     }
   ]
 }
