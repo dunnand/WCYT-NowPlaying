@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T09:58:01",
+  "updatedAt": "2026-08-28T09:59:54",
   "now": {
-    "artist": "Thundercat",
-    "title": "Funny Thing",
-    "album": "It Is What It Is • 2020",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "New Slang",
+    "album": "Oh Inverted World • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:59 am",
-      "artist": "The Shins",
-      "title": "New Slang"
-    },
     {
       "time": "10:03 am",
       "artist": "The Velvet Underground",
@@ -26,9 +21,20 @@
       "time": "10:11 am",
       "artist": "Billie Eilish",
       "title": "everything i wanted"
+    },
+    {
+      "time": "10:15 am",
+      "artist": "Willie Nelson",
+      "title": "Georgia On My Mind"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 am",
+      "artist": "The Shins",
+      "title": "New Slang",
+      "album": "Oh Inverted World • 2001"
+    },
     {
       "time": "9:58 am",
       "artist": "Thundercat",
@@ -172,12 +178,6 @@
       "artist": "Beyonce",
       "title": "Hold Up",
       "album": "Lemonade • 2019"
-    },
-    {
-      "time": "8:27 am",
-      "artist": "Radiohead",
-      "title": "Let Down",
-      "album": "OK Computer • 1997"
     }
   ]
 }
