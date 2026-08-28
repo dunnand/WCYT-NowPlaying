@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T08:25:18",
+  "updatedAt": "2026-08-28T08:27:20",
   "now": {
-    "artist": "Nick Drake",
-    "title": "Pink Moon",
-    "album": "Pink Moon • 1972",
+    "artist": "Radiohead",
+    "title": "Let Down",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "Radiohead",
-      "title": "Let Down"
-    },
     {
       "time": "8:32 am",
       "artist": "Beyonce",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "Radiohead",
+      "title": "Let Down",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "8:25 am",
       "artist": "Nick Drake",
@@ -172,12 +173,6 @@
       "artist": "Whitney Houston",
       "title": "I Will Always Love You",
       "album": "The Bodyguard • 1992"
-    },
-    {
-      "time": "6:55 am",
-      "artist": "The White Stripes",
-      "title": "Jimmy the Exploder",
-      "album": "The White Stripes • 1999"
     }
   ]
 }
