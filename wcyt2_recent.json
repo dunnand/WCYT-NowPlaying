@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T19:46:20",
+  "updatedAt": "2026-08-28T19:51:38",
   "now": {
-    "artist": "Curtis Mayfield",
-    "title": "Future Shock",
-    "album": "Back to the World • 1973",
+    "artist": "Neil Young",
+    "title": "Harvest Moon",
+    "album": "Harvest Moon • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 pm",
-      "artist": "Neil Young",
-      "title": "Harvest Moon"
-    },
     {
       "time": "7:56 pm",
       "artist": "Ritchie Valens",
@@ -26,9 +21,20 @@
       "time": "8:04 pm",
       "artist": "The Beatles",
       "title": "While My Guitar Gently Weeps"
+    },
+    {
+      "time": "8:09 pm",
+      "artist": "Carly Rae Jepsen",
+      "title": "Call Me Maybe"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 pm",
+      "artist": "Neil Young",
+      "title": "Harvest Moon",
+      "album": "Harvest Moon • 1992"
+    },
     {
       "time": "7:46 pm",
       "artist": "Curtis Mayfield",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Sulk",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "6:06 pm",
-      "artist": "U2",
-      "title": "Until The End Of The World",
-      "album": "Achtung Baby • 1991"
     }
   ]
 }
