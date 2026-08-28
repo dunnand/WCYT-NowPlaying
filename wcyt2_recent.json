@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-28T01:53:20",
+  "updatedAt": "2026-08-28T01:57:55",
   "now": {
-    "artist": "Adele",
-    "title": "Someone Like You",
-    "album": "21 • 2011",
+    "artist": "Eagles",
+    "title": "Peaceful Easy Feeling",
+    "album": "Eagles • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:57 am",
-      "artist": "Eagles",
-      "title": "Peaceful Easy Feeling"
-    },
-    {
-      "time": "2:02 am",
+      "time": "2:01 am",
       "artist": "Spice Girls",
       "title": "Spice Up Your Life"
     },
@@ -26,9 +21,20 @@
       "time": "2:08 am",
       "artist": "The Fall",
       "title": "Blindness"
+    },
+    {
+      "time": "2:15 am",
+      "artist": "Spoon",
+      "title": "Paper Tiger"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 am",
+      "artist": "Eagles",
+      "title": "Peaceful Easy Feeling",
+      "album": "Eagles • 1973"
+    },
     {
       "time": "1:53 am",
       "artist": "Adele",
@@ -172,12 +178,6 @@
       "artist": "Sinead O'Connor",
       "title": "The Emperor's New Clothes",
       "album": "I Do Not Want What I Haven't Got • 1990"
-    },
-    {
-      "time": "12:14 am",
-      "artist": "Beach House",
-      "title": "Zebra",
-      "album": "Teen Dream • 2010"
     }
   ]
 }
