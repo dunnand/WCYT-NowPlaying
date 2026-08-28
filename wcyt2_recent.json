@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T08:11:45",
+  "updatedAt": "2026-08-28T08:15:21",
   "now": {
-    "artist": "Lou Reed",
-    "title": "Perfect Day",
-    "album": "Transformer • 1972",
+    "artist": "Louis Armstrong",
+    "title": "Hello, Dolly!",
+    "album": "Hello, Dolly! • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 am",
-      "artist": "Louis Armstrong",
-      "title": "Hello, Dolly!"
-    },
     {
       "time": "8:18 am",
       "artist": "Lynyrd Skynyrd",
@@ -26,9 +21,20 @@
       "time": "8:25 am",
       "artist": "Nick Drake",
       "title": "Pink Moon"
+    },
+    {
+      "time": "8:27 am",
+      "artist": "Radiohead",
+      "title": "Let Down"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Louis Armstrong",
+      "title": "Hello, Dolly!",
+      "album": "Hello, Dolly! • 1964"
+    },
     {
       "time": "8:11 am",
       "artist": "Lou Reed",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "Holland",
       "album": "Michigan • 2003"
-    },
-    {
-      "time": "6:44 am",
-      "artist": "The Everly Brothers",
-      "title": "('Til) I Kissed You",
-      "album": "single • 1959"
     }
   ]
 }
