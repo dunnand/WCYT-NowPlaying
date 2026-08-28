@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T00:47:07",
+  "updatedAt": "2026-08-28T00:50:52",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "California",
-    "album": "Blue • 1971",
+    "artist": "Strawberry Alarm Clock",
+    "title": "Incense and Peppermints",
+    "album": "Incense and Peppermints • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:50 am",
-      "artist": "Strawberry Alarm Clock",
-      "title": "Incense and Peppermints"
-    },
     {
       "time": "12:53 am",
       "artist": "Pink Floyd",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:50 am",
+      "artist": "Strawberry Alarm Clock",
+      "title": "Incense and Peppermints",
+      "album": "Incense and Peppermints • 1967"
+    },
     {
       "time": "12:47 am",
       "artist": "Joni Mitchell",
@@ -177,12 +178,6 @@
       "artist": "B.O.B",
       "title": "NothinOnYou",
       "album": "May 25th • 2010"
-    },
-    {
-      "time": "10:38 pm",
-      "artist": "The Beatles",
-      "title": "Because",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
