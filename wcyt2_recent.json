@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T00:32:42",
+  "updatedAt": "2026-08-28T00:36:37",
   "now": {
-    "artist": "Van Halen",
-    "title": "Jump",
-    "album": "1984 • 1984",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Slack",
+    "album": "Superchunk •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:36 am",
-      "artist": "Superchunk",
-      "title": "Slack"
-    },
     {
       "time": "12:39 am",
       "artist": "Grateful Dead",
@@ -21,9 +16,20 @@
       "time": "12:43 am",
       "artist": "Marvin Gaye & Tammi Terrell",
       "title": "Your Precious Love"
+    },
+    {
+      "time": "12:47 am",
+      "artist": "Joni Mitchell",
+      "title": "California"
     }
   ],
   "recent": [
+    {
+      "time": "12:36 am",
+      "artist": "Superchunk",
+      "title": "Slack",
+      "album": "Superchunk •"
+    },
     {
       "time": "12:32 am",
       "artist": "Van Halen",
@@ -167,12 +173,6 @@
       "artist": "Rage Against the Machine",
       "title": "No Shelter",
       "album": "The Battle of Los Angeles • 1999"
-    },
-    {
-      "time": "10:22 pm",
-      "artist": "John Prine",
-      "title": "Sam Stone",
-      "album": "John Prine • 1971"
     }
   ]
 }
