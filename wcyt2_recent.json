@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T16:00:44",
+  "updatedAt": "2026-08-28T16:03:01",
   "now": {
-    "artist": "Beck",
-    "title": "Teenage Wastebasket",
-    "album": "One Foot in the Grave • 1994",
-    "category": "TUNES"
+    "artist": "Johnny Cash",
+    "title": "I Walk The Line",
+    "album": "I Walk The Line • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 pm",
-      "artist": "Johnny Cash",
-      "title": "I Walk The Line"
-    },
     {
       "time": "4:05 pm",
       "artist": "Sonic Youth",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:03 pm",
+      "artist": "Johnny Cash",
+      "title": "I Walk The Line",
+      "album": "I Walk The Line • 1956"
+    },
     {
       "time": "4:00 pm",
       "artist": "Beck",
@@ -172,12 +173,6 @@
       "artist": "Elvis Costello",
       "title": "Veronica",
       "album": "Spike • 1989"
-    },
-    {
-      "time": "2:27 pm",
-      "artist": "Wilco",
-      "title": "A Shot In The Arm",
-      "album": "Summerteeth • 1999"
     }
   ]
 }
