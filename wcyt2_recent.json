@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T21:06:08",
+  "updatedAt": "2026-08-27T21:06:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Honky Cat",
+    "album": "Honky Chteau • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:06 pm",
-      "artist": "Elton John",
-      "title": "Honky Cat"
-    },
     {
       "time": "9:11 pm",
       "artist": "Sue Thompson",
@@ -26,9 +21,20 @@
       "time": "9:17 pm",
       "artist": "Steam",
       "title": "Na Na Hey Hey Kiss Him Goodbye"
+    },
+    {
+      "time": "9:21 pm",
+      "artist": "Dead Boy",
+      "title": "Sonic Reducer"
     }
   ],
   "recent": [
+    {
+      "time": "9:06 pm",
+      "artist": "Elton John",
+      "title": "Honky Cat",
+      "album": "Honky Chteau • 1972"
+    },
     {
       "time": "9:02 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "I Want To Walk You Home",
       "album": "single • 1959"
-    },
-    {
-      "time": "7:15 pm",
-      "artist": "Ozzy Osbourne",
-      "title": "Mama, I'm Coming Home",
-      "album": "No More Tears • 1991"
     }
   ]
 }
