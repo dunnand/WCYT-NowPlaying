@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T11:32:01",
+  "updatedAt": "2026-08-28T11:36:28",
   "now": {
-    "artist": "Coldplay",
-    "title": "Paradise",
-    "album": "Mylo Xyloto • 2011",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "No Name No. 5",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:36 am",
-      "artist": "Elliott Smith",
-      "title": "No Name No. 5"
-    },
     {
       "time": "11:40 am",
       "artist": "Pearl Jam",
@@ -21,9 +16,20 @@
       "time": "11:44 am",
       "artist": "Dexy's Midnight Runners",
       "title": "Geno"
+    },
+    {
+      "time": "11:48 am",
+      "artist": "Dinosaur Jr.",
+      "title": "Freak Scene"
     }
   ],
   "recent": [
+    {
+      "time": "11:36 am",
+      "artist": "Elliott Smith",
+      "title": "No Name No. 5",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "11:32 am",
       "artist": "Coldplay",
@@ -167,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "Sweet Jane",
       "album": "Loaded • 1970"
-    },
-    {
-      "time": "9:59 am",
-      "artist": "The Shins",
-      "title": "New Slang",
-      "album": "Oh Inverted World • 2001"
     }
   ]
 }
