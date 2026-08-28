@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T05:54:13",
+  "updatedAt": "2026-08-28T05:54:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Revolution",
+    "album": "single • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:54 am",
-      "artist": "The Beatles",
-      "title": "Revolution"
-    },
     {
       "time": "5:57 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "6:05 am",
       "artist": "Vanessa Williams",
       "title": "Colors Of The Wind"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "Barbra Streisand",
+      "title": "Memory"
     }
   ],
   "recent": [
+    {
+      "time": "5:54 am",
+      "artist": "The Beatles",
+      "title": "Revolution",
+      "album": "single • 1968"
+    },
     {
       "time": "5:48 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "The B-52's",
       "title": "Roam",
       "album": "Cosmic Thing • 1989"
-    },
-    {
-      "time": "4:15 am",
-      "artist": "Air Supply",
-      "title": "Lost In Love",
-      "album": "Lost in Love • 1980"
     }
   ]
 }
