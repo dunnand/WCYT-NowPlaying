@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T07:41:44",
+  "updatedAt": "2026-08-28T07:45:40",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Love Story",
-    "album": "Fearless • 2008",
-    "category": "AUDIO"
+    "artist": "Ted Leo and the Pharmacists",
+    "title": "Me and Mia",
+    "album": "Shake The Sheets • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:45 am",
-      "artist": "Ted Leo and the Pharmacists",
-      "title": "Me and Mia"
-    },
     {
       "time": "7:49 am",
       "artist": "David Guetta",
@@ -26,9 +21,20 @@
       "time": "7:54 am",
       "artist": "Montell Jordan",
       "title": "This Is How We Do It"
+    },
+    {
+      "time": "7:58 am",
+      "artist": "Bon Jovi",
+      "title": "You Give Love A Bad Name"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 am",
+      "artist": "Ted Leo and the Pharmacists",
+      "title": "Me and Mia",
+      "album": "Shake The Sheets • 2004"
+    },
     {
       "time": "7:41 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "4ÆM",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "6:13 am",
-      "artist": "Black Flag",
-      "title": "TV Party",
-      "album": "Damaged • 1981"
     }
   ]
 }
