@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T17:43:56",
+  "updatedAt": "2026-08-28T17:46:21",
   "now": {
-    "artist": "Neil Sedaka",
-    "title": "Calendar Girl",
-    "album": "single • 1960",
+    "artist": "Elton John",
+    "title": "Your Song",
+    "album": "Elton John • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:46 pm",
-      "artist": "Elton John",
-      "title": "Your Song"
-    },
     {
       "time": "5:50 pm",
       "artist": "Superchunk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:46 pm",
+      "artist": "Elton John",
+      "title": "Your Song",
+      "album": "Elton John • 1970"
+    },
     {
       "time": "5:43 pm",
       "artist": "Neil Sedaka",
@@ -172,12 +173,6 @@
       "artist": "Bjork",
       "title": "Army of Me",
       "album": "Post • 1995"
-    },
-    {
-      "time": "4:12 pm",
-      "artist": "BADBADNOTGOOD",
-      "title": "Speaking Gently",
-      "album": "IV • 2016"
     }
   ]
 }
