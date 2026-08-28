@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T21:48:26",
+  "updatedAt": "2026-08-27T21:48:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "The Show Must Go On",
+    "album": "Innuendo • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 pm",
-      "artist": "Queen",
-      "title": "The Show Must Go On"
-    },
     {
       "time": "9:53 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "10:01 pm",
       "artist": "Olivia Rodrigo",
       "title": "vampire"
+    },
+    {
+      "time": "10:05 pm",
+      "artist": "Spoon",
+      "title": "Small Stakes"
     }
   ],
   "recent": [
+    {
+      "time": "9:48 pm",
+      "artist": "Queen",
+      "title": "The Show Must Go On",
+      "album": "Innuendo • 1991"
+    },
     {
       "time": "9:44 pm",
       "artist": "Pulp",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "Ball and Biscuit",
       "album": "Elephant • 2003"
-    },
-    {
-      "time": "8:01 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Songbird",
-      "album": "Rumours • 1977"
     }
   ]
 }
