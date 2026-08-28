@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T19:51:38",
+  "updatedAt": "2026-08-28T19:56:24",
   "now": {
-    "artist": "Neil Young",
-    "title": "Harvest Moon",
-    "album": "Harvest Moon • 1992",
+    "artist": "Ritchie Valens",
+    "title": "Donna",
+    "album": "Ritchie Valens • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:56 pm",
-      "artist": "Ritchie Valens",
-      "title": "Donna"
-    },
     {
       "time": "7:58 pm",
       "artist": "Smog",
@@ -26,9 +21,20 @@
       "time": "8:09 pm",
       "artist": "Carly Rae Jepsen",
       "title": "Call Me Maybe"
+    },
+    {
+      "time": "8:12 pm",
+      "artist": "Joan Osborne",
+      "title": "One Of Us"
     }
   ],
   "recent": [
+    {
+      "time": "7:56 pm",
+      "artist": "Ritchie Valens",
+      "title": "Donna",
+      "album": "Ritchie Valens • 1959"
+    },
     {
       "time": "7:51 pm",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "Glenn Frey",
       "title": "The Heat Is On",
       "album": "Beverly Hills Cop: Soundtrack • 1984"
-    },
-    {
-      "time": "6:11 pm",
-      "artist": "Radiohead",
-      "title": "Sulk",
-      "album": "The Bends • 1995"
     }
   ]
 }
