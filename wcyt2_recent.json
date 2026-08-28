@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T07:22:38",
+  "updatedAt": "2026-08-28T07:26:21",
   "now": {
-    "artist": "The Shins",
-    "title": "Pink Bullets",
-    "album": "Chutes Too Narrow • 2003",
-    "category": "TUNES"
+    "artist": "Roy Orbison",
+    "title": "Blue Angel",
+    "album": "single • 1960",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 am",
-      "artist": "Roy Orbison",
-      "title": "Blue Angel"
-    },
     {
       "time": "7:29 am",
       "artist": "Kool & The Gang",
@@ -26,9 +21,20 @@
       "time": "7:36 am",
       "artist": "FKA twigs",
       "title": "Pendulum"
+    },
+    {
+      "time": "7:41 am",
+      "artist": "Taylor Swift",
+      "title": "Love Story"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 am",
+      "artist": "Roy Orbison",
+      "title": "Blue Angel",
+      "album": "single • 1960"
+    },
     {
       "time": "7:22 am",
       "artist": "The Shins",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Colors",
       "album": "Colors • 2017"
-    },
-    {
-      "time": "5:54 am",
-      "artist": "The Beatles",
-      "title": "Revolution",
-      "album": "single • 1968"
     }
   ]
 }
