@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T11:48:12",
+  "updatedAt": "2026-08-28T11:48:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Dinosaur Jr.",
+    "title": "Freak Scene",
+    "album": "Bug • 1988",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:48 am",
-      "artist": "Dinosaur Jr.",
-      "title": "Freak Scene"
-    },
     {
       "time": "11:51 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "12:00 pm",
       "artist": "Badfinger",
       "title": "Without You"
+    },
+    {
+      "time": "12:05 pm",
+      "artist": "Wilco",
+      "title": "I'm a Wheel"
     }
   ],
   "recent": [
+    {
+      "time": "11:48 am",
+      "artist": "Dinosaur Jr.",
+      "title": "Freak Scene",
+      "album": "Bug • 1988"
+    },
     {
       "time": "11:44 am",
       "artist": "Dexy's Midnight Runners",
@@ -172,12 +178,6 @@
       "artist": "Willie Nelson",
       "title": "Georgia On My Mind",
       "album": "Stardust • 1978"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Billie Eilish",
-      "title": "everything i wanted",
-      "album": "single • 2019"
     }
   ]
 }
