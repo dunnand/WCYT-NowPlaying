@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T06:55:44",
+  "updatedAt": "2026-08-28T06:55:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Jimmy the Exploder",
+    "album": "The White Stripes • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:55 am",
-      "artist": "The White Stripes",
-      "title": "Jimmy the Exploder"
-    },
     {
       "time": "6:58 am",
       "artist": "Whitney Houston",
@@ -26,9 +21,20 @@
       "time": "7:06 am",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Like A Rock"
+    },
+    {
+      "time": "7:12 am",
+      "artist": "Turnstile",
+      "title": "New Heart Design"
     }
   ],
   "recent": [
+    {
+      "time": "6:55 am",
+      "artist": "The White Stripes",
+      "title": "Jimmy the Exploder",
+      "album": "The White Stripes • 1999"
+    },
     {
       "time": "6:52 am",
       "artist": "Drake",
@@ -172,12 +178,6 @@
       "artist": "Aretha Franklin",
       "title": "Rock Steady",
       "album": "Young, Gifted and Black • 1972"
-    },
-    {
-      "time": "5:19 am",
-      "artist": "Wilco",
-      "title": "Ashes of American Flags",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
