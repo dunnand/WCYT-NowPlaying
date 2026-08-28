@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T14:58:47",
+  "updatedAt": "2026-08-28T15:02:43",
   "now": {
-    "artist": "Dave Loggins",
-    "title": "Please Come To Boston",
-    "album": "Apprentice • 1974",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "The Summer",
+    "album": "Fakebook • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:02 pm",
-      "artist": "Yo La Tengo",
-      "title": "The Summer"
-    },
     {
       "time": "3:05 pm",
       "artist": "David Bowie",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:02 pm",
+      "artist": "Yo La Tengo",
+      "title": "The Summer",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "2:58 pm",
       "artist": "Dave Loggins",
@@ -172,12 +173,6 @@
       "artist": "David Guetta",
       "title": "Play Hard Feat. Ne-Yo & Akon",
       "album": "Nothing But the Beat 2.0 • 2012"
-    },
-    {
-      "time": "1:24 pm",
-      "artist": "U2",
-      "title": "Sometimes You Can't Make It On Your Own",
-      "album": "How to Dismantle an Atomic Bomb • 2005"
     }
   ]
 }
