@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-27T22:01:48",
+  "updatedAt": "2026-08-27T22:05:21",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "vampire",
-    "album": "Guts • 2023",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Small Stakes",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:05 pm",
-      "artist": "Spoon",
-      "title": "Small Stakes"
-    },
     {
       "time": "10:08 pm",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "10:16 pm",
       "artist": "David Bowie",
       "title": "Lazarus"
+    },
+    {
+      "time": "10:22 pm",
+      "artist": "John Prine",
+      "title": "Sam Stone"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Spoon",
+      "title": "Small Stakes",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "10:01 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "Lazy Song",
       "album": "Doo-Wops & Hooligans • 2010"
-    },
-    {
-      "time": "8:18 pm",
-      "artist": "Peter Gabriel",
-      "title": "Steam",
-      "album": "Digging in the Dirt  Us • 1992"
     }
   ]
 }
