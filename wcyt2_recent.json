@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T00:46:55",
+  "updatedAt": "2026-08-28T00:47:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "California",
+    "album": "Blue • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 am",
-      "artist": "Joni Mitchell",
-      "title": "California"
-    },
     {
       "time": "12:50 am",
       "artist": "Strawberry Alarm Clock",
@@ -31,9 +26,20 @@
       "time": "1:03 am",
       "artist": "Eddie Cochran",
       "title": "C'mon Everybody"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "The Killers",
+      "title": "Spaceman"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "Joni Mitchell",
+      "title": "California",
+      "album": "Blue • 1971"
+    },
     {
       "time": "12:43 am",
       "artist": "Marvin Gaye & Tammi Terrell",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Because",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "Sleater-Kinney",
-      "title": "Combat Rock",
-      "album": "One Beat • 2002"
     }
   ]
 }
