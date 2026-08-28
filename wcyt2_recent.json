@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T13:18:43",
+  "updatedAt": "2026-08-28T13:18:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Optimistic",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:18 pm",
-      "artist": "Radiohead",
-      "title": "Optimistic"
-    },
     {
       "time": "1:24 pm",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "1:32 pm",
       "artist": "Go West",
       "title": "King Of Wishful Thinking"
+    },
+    {
+      "time": "1:36 pm",
+      "artist": "Green Day",
+      "title": "Basket Case"
     }
   ],
   "recent": [
+    {
+      "time": "1:18 pm",
+      "artist": "Radiohead",
+      "title": "Optimistic",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "1:15 pm",
       "artist": "Calvin Harris",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Freak Scene",
       "album": "Bug • 1988"
-    },
-    {
-      "time": "11:44 am",
-      "artist": "Dexy's Midnight Runners",
-      "title": "Geno",
-      "album": "Searching for the Young Soul Rebels • 1980"
     }
   ]
 }
