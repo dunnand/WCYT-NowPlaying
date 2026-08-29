@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T08:51:57",
+  "updatedAt": "2026-08-29T08:58:23",
   "now": {
-    "artist": "Eagles",
-    "title": "Lyin' Eyes",
-    "album": "One of These Nights • 1975",
+    "artist": "Ricky Nelson",
+    "title": "Hello Mary Lou",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:58 am",
-      "artist": "Ricky Nelson",
-      "title": "Hello Mary Lou"
-    },
     {
       "time": "9:00 am",
       "artist": "The Beatles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:58 am",
+      "artist": "Ricky Nelson",
+      "title": "Hello Mary Lou",
+      "album": "single • 1961"
+    },
     {
       "time": "8:51 am",
       "artist": "Eagles",
@@ -177,12 +178,6 @@
       "artist": "Curtis Harding",
       "title": "Next Time",
       "album": "Soul Power • 2014"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "The Strokes",
-      "title": "What Ever Happened?",
-      "album": "Room on Fire • 2003"
     }
   ]
 }
