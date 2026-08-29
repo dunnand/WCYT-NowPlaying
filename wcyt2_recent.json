@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-29T09:58:30",
+  "updatedAt": "2026-08-29T10:01:13",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "You're Gonna Make Me Lonesome When You Go",
-    "album": "Blood on the Tracks • 1975",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Stereo",
+    "album": "Brighten the Corners • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:01 am",
-      "artist": "Pavement",
-      "title": "Stereo"
-    },
     {
       "time": "10:04 am",
       "artist": "David Byrne",
       "title": "Everybody's Coming to My House"
     },
     {
-      "time": "10:08 am",
+      "time": "10:07 am",
       "artist": "Radiohead",
       "title": "House of Cards"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:01 am",
+      "artist": "Pavement",
+      "title": "Stereo",
+      "album": "Brighten the Corners • 1997"
+    },
     {
       "time": "9:58 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "The Magnetic Fields",
       "title": "Why I Cry",
       "album": "Get Lost • 1995"
-    },
-    {
-      "time": "8:24 am",
-      "artist": "Radiohead",
-      "title": "Black Star",
-      "album": "The Bends • 1995"
     }
   ]
 }
