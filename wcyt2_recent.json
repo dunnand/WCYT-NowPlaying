@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T15:28:51",
+  "updatedAt": "2026-08-29T15:32:47",
   "now": {
-    "artist": "Radiohead",
-    "title": "Just",
-    "album": "The Bends • 1995",
+    "artist": "Steve Perry",
+    "title": "Oh Sherrie",
+    "album": "Street Talk • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 pm",
-      "artist": "Steve Perry",
-      "title": "Oh Sherrie"
-    },
     {
       "time": "3:36 pm",
       "artist": "Styx",
@@ -21,9 +16,20 @@
       "time": "3:42 pm",
       "artist": "Travis Scott",
       "title": "FRANCHISE"
+    },
+    {
+      "time": "3:45 pm",
+      "artist": "Carole King",
+      "title": "I Feel The Earth Move"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 pm",
+      "artist": "Steve Perry",
+      "title": "Oh Sherrie",
+      "album": "Street Talk • 1984"
+    },
     {
       "time": "3:28 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Yellow Submarine",
       "album": "Yellow Submarine • 1969"
-    },
-    {
-      "time": "2:03 pm",
-      "artist": "Big Star",
-      "title": "September Gurls",
-      "album": "Radio City • 1974"
     }
   ]
 }
