@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T07:52:13",
+  "updatedAt": "2026-08-29T07:55:18",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Get Up, Stand Up",
-    "album": "Burnin' • 1973",
+    "artist": "Nick Drake",
+    "title": "River Man",
+    "album": "Five Leaves Left • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:55 am",
-      "artist": "Nick Drake",
-      "title": "River Man"
-    },
     {
       "time": "7:59 am",
       "artist": "Don Cherry",
@@ -26,9 +21,20 @@
       "time": "8:07 am",
       "artist": "Flo Rida",
       "title": "Good Feeling"
+    },
+    {
+      "time": "8:11 am",
+      "artist": "Queens of the Stone Age",
+      "title": "No One Knows"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "Nick Drake",
+      "title": "River Man",
+      "album": "Five Leaves Left • 1969"
+    },
     {
       "time": "7:52 am",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "It Will Rain",
       "album": "The Twilight Saga: Breaking Dawn, Pt. 1 • 2011"
-    },
-    {
-      "time": "6:17 am",
-      "artist": "Marvin Gaye",
-      "title": "I Heard It Through The Grapevine",
-      "album": "In the Groove • 1968"
     }
   ]
 }
