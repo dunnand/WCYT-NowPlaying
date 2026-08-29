@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-08-29T03:58:40",
+  "updatedAt": "2026-08-29T04:01:17",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "School Days",
-    "album": "After School Session • 1957",
+    "artist": "R.E.M.",
+    "title": "Supernatural Superserious",
+    "album": "Accelerate • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "4:01 am",
-      "artist": "Chuck Berry",
-      "title": "School Days"
-    },
-    {
       "time": "4:04 am",
-      "artist": "R.E.M.",
-      "title": "Supernatural Superserious"
-    },
-    {
-      "time": "4:07 am",
       "artist": "John Coltrane",
       "title": "My Favorite Things"
+    },
+    {
+      "time": "4:18 am",
+      "artist": "The Decemberists",
+      "title": "Don't Carry It All"
+    },
+    {
+      "time": "4:22 am",
+      "artist": "Alice in Chains",
+      "title": "Nutshell"
+    },
+    {
+      "time": "4:26 am",
+      "artist": "Aphex Twin",
+      "title": "4"
     }
   ],
   "recent": [
+    {
+      "time": "4:01 am",
+      "artist": "R.E.M.",
+      "title": "Supernatural Superserious",
+      "album": "Accelerate • 2008"
+    },
     {
       "time": "3:58 am",
       "artist": "Chuck Berry",
@@ -167,12 +178,6 @@
       "artist": "Metallica",
       "title": "For Whom the Bell Tolls",
       "album": "Ride the Lightning • 1984"
-    },
-    {
-      "time": "2:17 am",
-      "artist": "Men At Work",
-      "title": "Down Under",
-      "album": "Business as Usual • 1983"
     }
   ]
 }
