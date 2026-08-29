@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T10:07:46",
+  "updatedAt": "2026-08-29T10:07:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "House of Cards",
+    "album": "In Rainbows • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 am",
-      "artist": "Radiohead",
-      "title": "House of Cards"
-    },
     {
       "time": "10:13 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "10:23 am",
       "artist": "Lightning Bolt",
       "title": "13 Monsters"
+    },
+    {
+      "time": "10:25 am",
+      "artist": "Modest Mouse",
+      "title": "Custom Concern"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 am",
+      "artist": "Radiohead",
+      "title": "House of Cards",
+      "album": "In Rainbows • 2007"
+    },
     {
       "time": "10:04 am",
       "artist": "David Byrne",
@@ -172,12 +178,6 @@
       "artist": "The Pogues",
       "title": "A Rainy Night in Soho",
       "album": "Poguetry in Motion EP • 1986"
-    },
-    {
-      "time": "8:31 am",
-      "artist": "Pat Benatar",
-      "title": "Hit Me With Your Best Shot",
-      "album": "Crimes of Passion • 1980"
     }
   ]
 }
