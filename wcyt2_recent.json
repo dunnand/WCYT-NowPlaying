@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T13:11:25",
+  "updatedAt": "2026-08-29T13:14:48",
   "now": {
-    "artist": "Blur",
-    "title": "Lonesome Street",
-    "album": "The Magic Whip • 2015",
-    "category": "TUNES"
+    "artist": "AC/DC",
+    "title": "Dirty Deeds Done Dirt Cheap",
+    "album": "Dirty Deeds Done Dirt Cheap • 1976",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:14 pm",
-      "artist": "AC/DC",
-      "title": "Dirty Deeds Done Dirt Cheap"
-    },
     {
       "time": "1:18 pm",
       "artist": "Love Battery",
@@ -26,9 +21,20 @@
       "time": "1:26 pm",
       "artist": "The Killers",
       "title": "Somebody Told Me"
+    },
+    {
+      "time": "1:30 pm",
+      "artist": "Train",
+      "title": "Calling All Angels"
     }
   ],
   "recent": [
+    {
+      "time": "1:14 pm",
+      "artist": "AC/DC",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "album": "Dirty Deeds Done Dirt Cheap • 1976"
+    },
     {
       "time": "1:11 pm",
       "artist": "Blur",
@@ -172,12 +178,6 @@
       "artist": "Roy Orbison",
       "title": "Running Scared",
       "album": "Crying • 1962"
-    },
-    {
-      "time": "11:38 am",
-      "artist": "R.E.M.",
-      "title": "Imitation of Life",
-      "album": "Reveal • 2001"
     }
   ]
 }
