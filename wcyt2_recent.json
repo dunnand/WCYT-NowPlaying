@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T04:48:54",
+  "updatedAt": "2026-08-29T04:53:20",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Satellite",
-    "album": "Young Liars • 2003",
-    "category": "TUNES"
+    "artist": "Otis Redding",
+    "title": "That's How Strong My Love Is",
+    "album": "Pain in My Heart • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:53 am",
-      "artist": "Otis Redding",
-      "title": "That's How Strong My Love Is"
-    },
     {
       "time": "4:55 am",
       "artist": "Billy Paul",
@@ -26,9 +21,20 @@
       "time": "5:06 am",
       "artist": "The Afghan Whigs",
       "title": "The Lottery"
+    },
+    {
+      "time": "5:10 am",
+      "artist": "Radiohead",
+      "title": "All I Need"
     }
   ],
   "recent": [
+    {
+      "time": "4:53 am",
+      "artist": "Otis Redding",
+      "title": "That's How Strong My Love Is",
+      "album": "Pain in My Heart • 1964"
+    },
     {
       "time": "4:48 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "D'Angelo and The Vanguard",
       "title": "Betray My Heart",
       "album": "Black Messiah • 2014"
-    },
-    {
-      "time": "3:03 am",
-      "artist": "Wilco",
-      "title": "I Am Trying to Break Your Heart",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
