@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T03:15:29",
+  "updatedAt": "2026-08-29T03:19:14",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "This Is a Call",
-    "album": "Foo Fighters • 1995",
+    "artist": "Madonna",
+    "title": "You'll See",
+    "album": "Something to Remember • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:19 am",
-      "artist": "Madonna",
-      "title": "You'll See"
-    },
     {
       "time": "3:23 am",
       "artist": "Misfits",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:19 am",
+      "artist": "Madonna",
+      "title": "You'll See",
+      "album": "Something to Remember • 1995"
+    },
     {
       "time": "3:15 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Elvis Costello",
       "title": "This Year's Girl",
       "album": "This Year's Model • 1978"
-    },
-    {
-      "time": "1:41 am",
-      "artist": "Rascals",
-      "title": "People Got To Be Free",
-      "album": "Freedom Suite • 1968"
     }
   ]
 }
