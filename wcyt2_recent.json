@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T16:01:47",
+  "updatedAt": "2026-08-29T16:04:51",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Heartbreakin Man",
-    "album": "The Tennessee Fire • 1999",
-    "category": "TUNES"
+    "artist": "The Everly Brothers",
+    "title": "Devoted To You",
+    "album": "single • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:04 pm",
-      "artist": "The Everly Brothers",
-      "title": "Devoted To You"
-    },
     {
       "time": "4:07 pm",
       "artist": "Atlas Sound",
@@ -26,9 +21,20 @@
       "time": "4:14 pm",
       "artist": "AVICII",
       "title": "Levels"
+    },
+    {
+      "time": "4:17 pm",
+      "artist": "The Magnetic Fields",
+      "title": "It's a Crime"
     }
   ],
   "recent": [
+    {
+      "time": "4:04 pm",
+      "artist": "The Everly Brothers",
+      "title": "Devoted To You",
+      "album": "single • 1958"
+    },
     {
       "time": "4:01 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Squeeze",
       "title": "Tempted",
       "album": "Sweets from a Stranger • 1982"
-    },
-    {
-      "time": "2:31 pm",
-      "artist": "Johnny Cash",
-      "title": "Rusty Cage",
-      "album": "Unchained • 1996"
     }
   ]
 }
