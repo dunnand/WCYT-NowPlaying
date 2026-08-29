@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T11:59:09",
+  "updatedAt": "2026-08-29T11:59:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Things We Said Today",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:59 am",
-      "artist": "The Beatles",
-      "title": "Things We Said Today"
-    },
     {
       "time": "12:01 pm",
       "artist": "Foo Fighters",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:59 am",
+      "artist": "The Beatles",
+      "title": "Things We Said Today",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "11:56 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +173,6 @@
       "artist": "Yola",
       "title": "Shady Grove",
       "album": "Stand for Myself • 2021"
-    },
-    {
-      "time": "10:34 am",
-      "artist": "Ramones",
-      "title": "Rock 'n' Roll High School",
-      "album": "End of the Century • 1980"
     }
   ]
 }
