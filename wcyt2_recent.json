@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T06:43:26",
+  "updatedAt": "2026-08-29T06:43:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dr. John",
+    "title": "Right Place Wrong Time",
+    "album": "In the Right Place • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:43 am",
-      "artist": "Dr. John",
-      "title": "Right Place Wrong Time"
-    },
     {
       "time": "6:46 am",
       "artist": "Bellamy Brothers",
@@ -26,9 +21,20 @@
       "time": "6:54 am",
       "artist": "Leonard Cohen",
       "title": "So Long, Marianne"
+    },
+    {
+      "time": "7:00 am",
+      "artist": "Ace",
+      "title": "How Long"
     }
   ],
   "recent": [
+    {
+      "time": "6:43 am",
+      "artist": "Dr. John",
+      "title": "Right Place Wrong Time",
+      "album": "In the Right Place • 1973"
+    },
     {
       "time": "6:40 am",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "The Lottery",
       "album": "Do to the Beast • 2014"
-    },
-    {
-      "time": "5:00 am",
-      "artist": "Archers of Loaf",
-      "title": "White Trash Heroes",
-      "album": "All the Nations Airports • 1996"
     }
   ]
 }
