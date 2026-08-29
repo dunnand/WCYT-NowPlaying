@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T17:50:53",
+  "updatedAt": "2026-08-29T17:52:56",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'll Get You",
-    "album": "single • 1963",
+    "artist": "Ed Sheeran",
+    "title": "Thinking out Loud",
+    "album": "x • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:52 pm",
-      "artist": "Ed Sheeran",
-      "title": "Thinking out Loud"
-    },
     {
       "time": "5:57 pm",
       "artist": "Red Hot Chili Peppers",
@@ -21,9 +16,20 @@
       "time": "6:02 pm",
       "artist": "Stone Temple Pilots",
       "title": "Big Empty"
+    },
+    {
+      "time": "6:07 pm",
+      "artist": "They Might Be Giants",
+      "title": "Kiss Me, Son of God"
     }
   ],
   "recent": [
+    {
+      "time": "5:52 pm",
+      "artist": "Ed Sheeran",
+      "title": "Thinking out Loud",
+      "album": "x • 2014"
+    },
     {
       "time": "5:50 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Tom Waits",
       "title": "Day After Tomorrow",
       "album": "Real Gone • 2004"
-    },
-    {
-      "time": "4:30 pm",
-      "artist": "Taylor Swift",
-      "title": "cardigan",
-      "album": "Folklore • 2020"
     }
   ]
 }
