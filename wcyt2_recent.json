@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T10:47:43",
+  "updatedAt": "2026-08-29T10:47:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Prine",
+    "title": "Hello in There",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:47 am",
-      "artist": "John Prine",
-      "title": "Hello in There"
-    },
     {
       "time": "10:52 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "10:59 am",
       "artist": "Neutral Milk Hotel",
       "title": "Holland, 1945"
+    },
+    {
+      "time": "11:02 am",
+      "artist": "Chuck Berry",
+      "title": "Rock & Roll Music"
     }
   ],
   "recent": [
+    {
+      "time": "10:47 am",
+      "artist": "John Prine",
+      "title": "Hello in There",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "10:43 am",
       "artist": "Nina Simone",
@@ -172,12 +178,6 @@
       "artist": "Spirit",
       "title": "I Got A Line On You",
       "album": "The Family That Plays Together • 1969"
-    },
-    {
-      "time": "9:10 am",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Our Time",
-      "album": "Yeah Yeah Yeahs • 2001"
     }
   ]
 }
