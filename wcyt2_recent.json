@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T06:54:38",
+  "updatedAt": "2026-08-29T07:00:05",
   "now": {
-    "artist": "Leonard Cohen",
-    "title": "So Long, Marianne",
-    "album": "Songs of Leonard Cohen • 1967",
+    "artist": "Ace",
+    "title": "How Long",
+    "album": "Five-a-Side • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 am",
-      "artist": "Ace",
-      "title": "How Long"
-    },
     {
       "time": "7:03 am",
       "artist": "Phil Collins",
@@ -26,9 +21,20 @@
       "time": "7:11 am",
       "artist": "Wilco",
       "title": "Jesus, Etc."
+    },
+    {
+      "time": "7:15 am",
+      "artist": "The Strokes",
+      "title": "What Ever Happened?"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 am",
+      "artist": "Ace",
+      "title": "How Long",
+      "album": "Five-a-Side • 1975"
+    },
     {
       "time": "6:54 am",
       "artist": "Leonard Cohen",
@@ -172,12 +178,6 @@
       "artist": "Beat Happening",
       "title": "Tiger Trap",
       "album": "You Turn Me • 1992"
-    },
-    {
-      "time": "5:16 am",
-      "artist": "Avenged Sevenfold",
-      "title": "Shepherd of Fire",
-      "album": "Hail to the King • 2013"
     }
   ]
 }
