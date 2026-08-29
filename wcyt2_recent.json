@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T08:43:52",
+  "updatedAt": "2026-08-29T08:49:12",
   "now": {
-    "artist": "Elton John",
-    "title": "Levon",
-    "album": "Madman Across the Water • 1972",
+    "artist": "The Beatles",
+    "title": "Honey Pie",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:49 am",
-      "artist": "The Beatles",
-      "title": "Honey Pie"
-    },
     {
       "time": "8:51 am",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "9:00 am",
       "artist": "The Beatles",
       "title": "Two of Us"
+    },
+    {
+      "time": "9:04 am",
+      "artist": "Paula Abdul",
+      "title": "Rush Rush"
     }
   ],
   "recent": [
+    {
+      "time": "8:49 am",
+      "artist": "The Beatles",
+      "title": "Honey Pie",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "8:43 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Jesus, Etc.",
       "album": "Yankee Hotel Foxtrot • 2002"
-    },
-    {
-      "time": "7:07 am",
-      "artist": "Flo-Rida",
-      "title": "Wild Ones feat. Sia",
-      "album": "Wild Ones • 2012"
     }
   ]
 }
