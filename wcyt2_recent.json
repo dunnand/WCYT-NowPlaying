@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T07:44:26",
+  "updatedAt": "2026-08-29T07:44:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Drive-In Saturday",
+    "album": "Aladdin Sane • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 am",
-      "artist": "David Bowie",
-      "title": "Drive-In Saturday"
-    },
     {
       "time": "7:49 am",
       "artist": "The Mamas & The Papas",
@@ -26,9 +21,20 @@
       "time": "7:55 am",
       "artist": "Nick Drake",
       "title": "River Man"
+    },
+    {
+      "time": "7:59 am",
+      "artist": "Don Cherry",
+      "title": "Brown Rice"
     }
   ],
   "recent": [
+    {
+      "time": "7:44 am",
+      "artist": "David Bowie",
+      "title": "Drive-In Saturday",
+      "album": "Aladdin Sane • 1973"
+    },
     {
       "time": "7:40 am",
       "artist": "Malcolm Todd",
@@ -172,12 +178,6 @@
       "artist": "Ray Price",
       "title": "Crazy Arms",
       "album": "single • 1956"
-    },
-    {
-      "time": "6:05 am",
-      "artist": "Built to Spill",
-      "title": "Carry the Zero",
-      "album": "Keep It Like A Secret • 1999"
     }
   ]
 }
