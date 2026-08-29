@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T03:32:26",
+  "updatedAt": "2026-08-29T03:32:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Rhiannon",
+    "album": "Fleetwood Mac • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 am",
-      "artist": "Fleetwood Mac",
-      "title": "Rhiannon"
-    },
     {
       "time": "3:36 am",
       "artist": "Nina Simone",
@@ -26,9 +21,20 @@
       "time": "3:42 am",
       "artist": "The Band",
       "title": "Tears of Rage"
+    },
+    {
+      "time": "3:47 am",
+      "artist": "Joni Mitchell",
+      "title": "Woodstock"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 am",
+      "artist": "Fleetwood Mac",
+      "title": "Rhiannon",
+      "album": "Fleetwood Mac • 1976"
+    },
     {
       "time": "3:28 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Bill Haley and his Comets",
       "title": "(We're Gonna) Rock Around the Clock",
       "album": "Shake Rattle and Roll • 1955"
-    },
-    {
-      "time": "1:53 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Perfect",
-      "album": "Adore • 1998"
     }
   ]
 }
