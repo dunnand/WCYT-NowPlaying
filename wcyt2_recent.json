@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T02:03:40",
+  "updatedAt": "2026-08-29T02:03:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joe Jones",
+    "title": "You Talk Too Much",
+    "album": "You Talk Too Much • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 am",
-      "artist": "Joe Jones",
-      "title": "You Talk Too Much"
-    },
     {
       "time": "2:06 am",
       "artist": "Chance the Rapper feat. Saba",
@@ -26,9 +21,20 @@
       "time": "2:12 am",
       "artist": "LL Cool J",
       "title": "Mama Said Knock You Out"
+    },
+    {
+      "time": "2:17 am",
+      "artist": "Men At Work",
+      "title": "Down Under"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 am",
+      "artist": "Joe Jones",
+      "title": "You Talk Too Much",
+      "album": "You Talk Too Much • 1960"
+    },
     {
       "time": "1:58 am",
       "artist": "Richard Thompson",
@@ -172,12 +178,6 @@
       "artist": "Nourished By Time",
       "title": "Tossed Away",
       "album": "The Passionate Ones • 2025"
-    },
-    {
-      "time": "12:25 am",
-      "artist": "LL Cool J",
-      "title": "I Can't Live Without My Radio",
-      "album": "Radio • 1985"
     }
   ]
 }
