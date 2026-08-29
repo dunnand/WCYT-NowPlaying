@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T08:49:12",
+  "updatedAt": "2026-08-29T08:51:57",
   "now": {
-    "artist": "The Beatles",
-    "title": "Honey Pie",
-    "album": "The Beatles • 1968",
+    "artist": "Eagles",
+    "title": "Lyin' Eyes",
+    "album": "One of These Nights • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:51 am",
-      "artist": "Eagles",
-      "title": "Lyin' Eyes"
-    },
     {
       "time": "8:58 am",
       "artist": "Ricky Nelson",
@@ -26,9 +21,25 @@
       "time": "9:04 am",
       "artist": "Paula Abdul",
       "title": "Rush Rush"
+    },
+    {
+      "time": "9:08 am",
+      "artist": "Santo & Johnny",
+      "title": "Sleepwalk"
+    },
+    {
+      "time": "9:10 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Our Time"
     }
   ],
   "recent": [
+    {
+      "time": "8:51 am",
+      "artist": "Eagles",
+      "title": "Lyin' Eyes",
+      "album": "One of These Nights • 1975"
+    },
     {
       "time": "8:49 am",
       "artist": "The Beatles",
@@ -172,12 +183,6 @@
       "artist": "The Strokes",
       "title": "What Ever Happened?",
       "album": "Room on Fire • 2003"
-    },
-    {
-      "time": "7:11 am",
-      "artist": "Wilco",
-      "title": "Jesus, Etc.",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
