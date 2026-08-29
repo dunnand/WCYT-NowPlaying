@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T11:32:38",
+  "updatedAt": "2026-08-29T11:32:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Squeeze Box",
+    "album": "The Who By Numbers • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:32 am",
-      "artist": "The Who",
-      "title": "Squeeze Box"
-    },
     {
       "time": "11:35 am",
       "artist": "Buzzcocks",
@@ -26,9 +21,20 @@
       "time": "11:42 am",
       "artist": "Roy Orbison",
       "title": "Running Scared"
+    },
+    {
+      "time": "11:44 am",
+      "artist": "Chicago",
+      "title": "25 Or 6 To 4"
     }
   ],
   "recent": [
+    {
+      "time": "11:32 am",
+      "artist": "The Who",
+      "title": "Squeeze Box",
+      "album": "The Who By Numbers • 1975"
+    },
     {
       "time": "11:30 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "David Byrne",
       "title": "Everybody's Coming to My House",
       "album": "American Utopia • 2018"
-    },
-    {
-      "time": "10:01 am",
-      "artist": "Pavement",
-      "title": "Stereo",
-      "album": "Brighten the Corners • 1997"
     }
   ]
 }
