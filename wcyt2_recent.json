@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T03:47:13",
+  "updatedAt": "2026-08-29T03:52:29",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Woodstock",
-    "album": "Ladies of the Canyon • 1970",
+    "artist": "Aerosmith",
+    "title": "Livin' On The Edge",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:52 am",
-      "artist": "Aerosmith",
-      "title": "Livin' On The Edge"
-    },
     {
       "time": "3:58 am",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "4:01 am",
       "artist": "R.E.M.",
       "title": "Supernatural Superserious"
+    },
+    {
+      "time": "4:04 am",
+      "artist": "John Coltrane",
+      "title": "My Favorite Things"
     }
   ],
   "recent": [
+    {
+      "time": "3:52 am",
+      "artist": "Aerosmith",
+      "title": "Livin' On The Edge",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "3:47 am",
       "artist": "Joni Mitchell",
@@ -167,12 +173,6 @@
       "artist": "LL Cool J",
       "title": "Mama Said Knock You Out",
       "album": "Mama Said Knock You Out • 1990"
-    },
-    {
-      "time": "2:09 am",
-      "artist": "R.E.M.",
-      "title": "Near Wild Heaven",
-      "album": "Out of Time • 1991"
     }
   ]
 }
