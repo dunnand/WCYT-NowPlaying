@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T10:01:13",
+  "updatedAt": "2026-08-29T10:04:21",
   "now": {
-    "artist": "Pavement",
-    "title": "Stereo",
-    "album": "Brighten the Corners • 1997",
-    "category": "TUNES"
+    "artist": "David Byrne",
+    "title": "Everybody's Coming to My House",
+    "album": "American Utopia • 2018",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:04 am",
-      "artist": "David Byrne",
-      "title": "Everybody's Coming to My House"
-    },
     {
       "time": "10:07 am",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "10:13 am",
       "artist": "Thom Yorke",
       "title": "Harrowdown Hill"
+    },
+    {
+      "time": "10:18 am",
+      "artist": "Avenged Sevenfold",
+      "title": "Hail To The King"
     }
   ],
   "recent": [
+    {
+      "time": "10:04 am",
+      "artist": "David Byrne",
+      "title": "Everybody's Coming to My House",
+      "album": "American Utopia • 2018"
+    },
     {
       "time": "10:01 am",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "Pat Benatar",
       "title": "Hit Me With Your Best Shot",
       "album": "Crimes of Passion • 1980"
-    },
-    {
-      "time": "8:28 am",
-      "artist": "The Magnetic Fields",
-      "title": "Why I Cry",
-      "album": "Get Lost • 1995"
     }
   ]
 }
