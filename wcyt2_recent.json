@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T16:30:42",
+  "updatedAt": "2026-08-29T16:34:38",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "cardigan",
-    "album": "Folklore • 2020",
+    "artist": "Tom Waits",
+    "title": "Day After Tomorrow",
+    "album": "Real Gone • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:34 pm",
-      "artist": "Tom Waits",
-      "title": "Day After Tomorrow"
-    },
     {
       "time": "4:40 pm",
       "artist": "Dolly Parton",
@@ -26,9 +21,20 @@
       "time": "4:45 pm",
       "artist": "B.O.B.",
       "title": "So Good"
+    },
+    {
+      "time": "4:49 pm",
+      "artist": "Gang of Four",
+      "title": "Damaged Goods"
     }
   ],
   "recent": [
+    {
+      "time": "4:34 pm",
+      "artist": "Tom Waits",
+      "title": "Day After Tomorrow",
+      "album": "Real Gone • 2004"
+    },
     {
       "time": "4:30 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Beach Weather",
       "title": "Chit Chat",
       "album": "Chit Chat • 2016"
-    },
-    {
-      "time": "3:05 pm",
-      "artist": "R.E.M.",
-      "title": "At My Most Beautiful",
-      "album": "Up • 1998"
     }
   ]
 }
