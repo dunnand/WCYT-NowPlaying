@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T11:38:39",
+  "updatedAt": "2026-08-29T11:42:35",
   "now": {
-    "artist": "R.E.M.",
-    "title": "Imitation of Life",
-    "album": "Reveal • 2001",
+    "artist": "Roy Orbison",
+    "title": "Running Scared",
+    "album": "Crying • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:42 am",
-      "artist": "Roy Orbison",
-      "title": "Running Scared"
-    },
     {
       "time": "11:44 am",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "11:54 am",
       "artist": "Johnny Cash",
       "title": "Ballad Of A Teenage Queen"
+    },
+    {
+      "time": "11:56 am",
+      "artist": "Sufjan Stevens",
+      "title": "Say Yes! to M!ch!gan!"
     }
   ],
   "recent": [
+    {
+      "time": "11:42 am",
+      "artist": "Roy Orbison",
+      "title": "Running Scared",
+      "album": "Crying • 1962"
+    },
     {
       "time": "11:38 am",
       "artist": "R.E.M.",
@@ -172,12 +178,6 @@
       "artist": "Avenged Sevenfold",
       "title": "Hail To The King",
       "album": "Hail to the King • 2013"
-    },
-    {
-      "time": "10:13 am",
-      "artist": "Thom Yorke",
-      "title": "Harrowdown Hill",
-      "album": "The Eraser • 2006"
     }
   ]
 }
