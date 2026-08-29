@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T19:54:56",
+  "updatedAt": "2026-08-29T19:58:09",
   "now": {
-    "artist": "John Lennon",
-    "title": "Instant Karma! (We All Shine On)",
-    "album": "Instant Karma! • 1970",
+    "artist": "Kraftwerk",
+    "title": "Trans-Europe Express",
+    "album": "Trans-Europe Express • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:58 pm",
-      "artist": "Kraftwerk",
-      "title": "Trans-Europe Express"
-    },
     {
       "time": "8:04 pm",
       "artist": "Rage Against the Machine",
@@ -26,9 +21,20 @@
       "time": "8:11 pm",
       "artist": "Marvin Gaye",
       "title": "Got to Give It Up"
+    },
+    {
+      "time": "8:23 pm",
+      "artist": "Elliott Smith",
+      "title": "Independence Day"
     }
   ],
   "recent": [
+    {
+      "time": "7:58 pm",
+      "artist": "Kraftwerk",
+      "title": "Trans-Europe Express",
+      "album": "Trans-Europe Express • 1977"
+    },
     {
       "time": "7:54 pm",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Lovely Rita",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "6:25 pm",
-      "artist": "Weezer",
-      "title": "Photograph",
-      "album": "Weezer • 2001"
     }
   ]
 }
