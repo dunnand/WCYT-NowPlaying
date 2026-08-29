@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T18:25:26",
+  "updatedAt": "2026-08-29T18:27:39",
   "now": {
-    "artist": "Weezer",
-    "title": "Photograph",
-    "album": "Weezer • 2001",
+    "artist": "The Beatles",
+    "title": "Lovely Rita",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:27 pm",
-      "artist": "The Beatles",
-      "title": "Lovely Rita"
-    },
     {
       "time": "6:30 pm",
       "artist": "Labi Siffre",
@@ -26,9 +21,20 @@
       "time": "6:38 pm",
       "artist": "Drifters",
       "title": "There Goes My Baby"
+    },
+    {
+      "time": "6:40 pm",
+      "artist": "Sigur Ros",
+      "title": "Hoppipolla"
     }
   ],
   "recent": [
+    {
+      "time": "6:27 pm",
+      "artist": "The Beatles",
+      "title": "Lovely Rita",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "6:25 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Calvin Harris",
       "title": "Lets Go feat. Ne-Yo",
       "album": "18 Months • 2012"
-    },
-    {
-      "time": "5:01 pm",
-      "artist": "The Who",
-      "title": "Tattoo",
-      "album": "The Who Sell Out • 1967"
     }
   ]
 }
