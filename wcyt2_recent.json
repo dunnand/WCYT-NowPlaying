@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T22:12:39",
+  "updatedAt": "2026-08-28T22:12:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sebadoh",
+    "title": "Weird",
+    "album": "The Sebadoh • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:12 pm",
-      "artist": "Sebadoh",
-      "title": "Weird"
-    },
     {
       "time": "10:16 pm",
       "artist": "Juice Newton",
@@ -26,9 +21,20 @@
       "time": "10:23 pm",
       "artist": "Wilco",
       "title": "All Lives, You Say?"
+    },
+    {
+      "time": "10:26 pm",
+      "artist": "The Strokes",
+      "title": "Barely Legal."
     }
   ],
   "recent": [
+    {
+      "time": "10:12 pm",
+      "artist": "Sebadoh",
+      "title": "Weird",
+      "album": "The Sebadoh • 1999"
+    },
     {
       "time": "10:09 pm",
       "artist": "Ride",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "Flint (For the Unemployed and Underpaid)",
       "album": "Michigan • 2003"
-    },
-    {
-      "time": "8:36 pm",
-      "artist": "DEVO",
-      "title": "S.I.B. (Swelling Itching Brain)",
-      "album": "Duty Now for the Future • 1979"
     }
   ]
 }
