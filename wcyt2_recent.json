@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T15:45:15",
+  "updatedAt": "2026-08-29T15:45:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Carole King",
+    "title": "I Feel The Earth Move",
+    "album": "Tapestry • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:45 pm",
-      "artist": "Carole King",
-      "title": "I Feel The Earth Move"
-    },
     {
       "time": "3:48 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "3:53 pm",
       "artist": "The Beatles",
       "title": "A Day In The Life"
+    },
+    {
+      "time": "3:59 pm",
+      "artist": "The D",
+      "title": "New Rose"
     }
   ],
   "recent": [
+    {
+      "time": "3:45 pm",
+      "artist": "Carole King",
+      "title": "I Feel The Earth Move",
+      "album": "Tapestry • 1971"
+    },
     {
       "time": "3:42 pm",
       "artist": "Travis Scott",
@@ -172,12 +178,6 @@
       "artist": "Ricky Nelson",
       "title": "Lonesome Town",
       "album": "single • 1958"
-    },
-    {
-      "time": "2:13 pm",
-      "artist": "Guided by Voices",
-      "title": "I Am a Scientist",
-      "album": "Bee Thousand • 1994"
     }
   ]
 }
