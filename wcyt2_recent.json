@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T12:01:48",
+  "updatedAt": "2026-08-29T12:06:04",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Rope",
-    "album": "Wasting Light • 2011",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Coffee & TV",
+    "album": "13 • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:06 pm",
-      "artist": "Blur",
-      "title": "Coffee & TV"
-    },
     {
       "time": "12:11 pm",
       "artist": "Portishead",
@@ -21,9 +16,25 @@
       "time": "12:15 pm",
       "artist": "Robert Palmer",
       "title": "Simply Irresistible"
+    },
+    {
+      "time": "12:19 pm",
+      "artist": "The Romantics",
+      "title": "Talking In Your Sleep"
+    },
+    {
+      "time": "12:23 pm",
+      "artist": "Turnstile",
+      "title": "MYSTERY"
     }
   ],
   "recent": [
+    {
+      "time": "12:06 pm",
+      "artist": "Blur",
+      "title": "Coffee & TV",
+      "album": "13 • 1999"
+    },
     {
       "time": "12:01 pm",
       "artist": "Foo Fighters",
@@ -167,12 +178,6 @@
       "artist": "Nina Simone",
       "title": "Four Women",
       "album": "Wild Is the Wind • 1966"
-    },
-    {
-      "time": "10:39 am",
-      "artist": "Doobie Brothers",
-      "title": "What A Fool Believes",
-      "album": "Minute by Minute • 1979"
     }
   ]
 }
