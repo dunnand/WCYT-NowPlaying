@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T08:43:40",
+  "updatedAt": "2026-08-29T08:43:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Levon",
+    "album": "Madman Across the Water • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:43 am",
-      "artist": "Elton John",
-      "title": "Levon"
-    },
     {
       "time": "8:49 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "8:58 am",
       "artist": "Ricky Nelson",
       "title": "Hello Mary Lou"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "The Beatles",
+      "title": "Two of Us"
     }
   ],
   "recent": [
+    {
+      "time": "8:43 am",
+      "artist": "Elton John",
+      "title": "Levon",
+      "album": "Madman Across the Water • 1972"
+    },
     {
       "time": "8:39 am",
       "artist": "Kassi Valazza",
@@ -172,12 +178,6 @@
       "artist": "Flo-Rida",
       "title": "Wild Ones feat. Sia",
       "album": "Wild Ones • 2012"
-    },
-    {
-      "time": "7:03 am",
-      "artist": "Phil Collins",
-      "title": "You'll Be In My Heart",
-      "album": "Tarzan soundtrack • 1999"
     }
   ]
 }
