@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T04:33:52",
+  "updatedAt": "2026-08-29T04:37:28",
   "now": {
-    "artist": "Neil Diamond",
-    "title": "Hello Again",
-    "album": "The Jazz Singer • 1980",
+    "artist": "Grimes",
+    "title": "Delete Forever.",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:37 am",
-      "artist": "Grimes",
-      "title": "Delete Forever."
-    },
     {
       "time": "4:41 am",
       "artist": "Pink Floyd",
@@ -21,9 +16,20 @@
       "time": "4:45 am",
       "artist": "Dawn featuring Tony Orlando",
       "title": "Say, Has Anybody Seen My Sweet Gypsy Rose"
+    },
+    {
+      "time": "4:48 am",
+      "artist": "TV on the Radio",
+      "title": "Satellite"
     }
   ],
   "recent": [
+    {
+      "time": "4:37 am",
+      "artist": "Grimes",
+      "title": "Delete Forever.",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "4:33 am",
       "artist": "Neil Diamond",
@@ -167,12 +173,6 @@
       "artist": "MF DOOM",
       "title": "Doomsday",
       "album": "Operation: Doomsday • 1999"
-    },
-    {
-      "time": "2:45 am",
-      "artist": "Elton John & Kiki Dee",
-      "title": "Don't Go Breaking My Heart",
-      "album": "single • 1976"
     }
   ]
 }
