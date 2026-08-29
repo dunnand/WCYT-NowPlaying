@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T18:25:16",
+  "updatedAt": "2026-08-29T18:25:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Photograph",
+    "album": "Weezer • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:25 pm",
-      "artist": "Weezer",
-      "title": "Photograph"
-    },
     {
       "time": "6:27 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "6:34 pm",
       "artist": "Superchunk",
       "title": "Throwing Things"
+    },
+    {
+      "time": "6:38 pm",
+      "artist": "Drifters",
+      "title": "There Goes My Baby"
     }
   ],
   "recent": [
+    {
+      "time": "6:25 pm",
+      "artist": "Weezer",
+      "title": "Photograph",
+      "album": "Weezer • 2001"
+    },
     {
       "time": "6:22 pm",
       "artist": "John Cale",
@@ -172,12 +178,6 @@
       "artist": "The Who",
       "title": "Tattoo",
       "album": "The Who Sell Out • 1967"
-    },
-    {
-      "time": "4:58 pm",
-      "artist": "Sufjan Stevens",
-      "title": "The Dress Looks Nice on You",
-      "album": "Seven Swans • 2004"
     }
   ]
 }
