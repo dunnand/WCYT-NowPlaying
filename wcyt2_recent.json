@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T17:48:48",
+  "updatedAt": "2026-08-29T17:50:53",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Hotel Yorba",
-    "album": "White Blood Cells • 2002",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "I'll Get You",
+    "album": "single • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:50 pm",
-      "artist": "The Beatles",
-      "title": "I'll Get You"
-    },
     {
       "time": "5:52 pm",
       "artist": "Ed Sheeran",
@@ -21,9 +16,20 @@
       "time": "5:57 pm",
       "artist": "Red Hot Chili Peppers",
       "title": "Parallel Universe"
+    },
+    {
+      "time": "6:02 pm",
+      "artist": "Stone Temple Pilots",
+      "title": "Big Empty"
     }
   ],
   "recent": [
+    {
+      "time": "5:50 pm",
+      "artist": "The Beatles",
+      "title": "I'll Get You",
+      "album": "single • 1963"
+    },
     {
       "time": "5:48 pm",
       "artist": "The White Stripes",
@@ -167,12 +173,6 @@
       "artist": "Taylor Swift",
       "title": "cardigan",
       "album": "Folklore • 2020"
-    },
-    {
-      "time": "4:27 pm",
-      "artist": "The Jam",
-      "title": "When You're Young",
-      "album": "single • 1980"
     }
   ]
 }
