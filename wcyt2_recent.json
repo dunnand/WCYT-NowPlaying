@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T11:15:42",
+  "updatedAt": "2026-08-29T11:15:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Across the Sea",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 am",
-      "artist": "Weezer",
-      "title": "Across the Sea"
-    },
     {
       "time": "11:20 am",
       "artist": "Lisa Loeb & Nine Stories",
@@ -26,9 +21,20 @@
       "time": "11:26 am",
       "artist": "Red Hot Chili Peppers",
       "title": "Higher Ground"
+    },
+    {
+      "time": "11:30 am",
+      "artist": "Taylor Swift",
+      "title": "Glitch"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 am",
+      "artist": "Weezer",
+      "title": "Across the Sea",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "11:11 am",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Bee Gees",
       "title": "Stayin' Alive",
       "album": "Saturday Night Fever • 1978"
-    },
-    {
-      "time": "9:40 am",
-      "artist": "Train",
-      "title": "Hey Soul Sister",
-      "album": "Save Me, San Francisco • 2009"
     }
   ]
 }
