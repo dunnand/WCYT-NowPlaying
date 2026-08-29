@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T13:56:15",
+  "updatedAt": "2026-08-29T13:56:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Allman Brothers Band",
+    "title": "Melissa",
+    "album": "Eat a Peach • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 pm",
-      "artist": "The Allman Brothers Band",
-      "title": "Melissa"
-    },
     {
       "time": "2:00 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "2:06 pm",
       "artist": "The Beatles",
       "title": "Yellow Submarine"
+    },
+    {
+      "time": "2:08 pm",
+      "artist": "The Wailers",
+      "title": "I Shot The Sheriff"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 pm",
+      "artist": "The Allman Brothers Band",
+      "title": "Melissa",
+      "album": "Eat a Peach • 1972"
+    },
     {
       "time": "1:52 pm",
       "artist": "Toosii",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "MYSTERY",
       "album": "Glow On • 2021"
-    },
-    {
-      "time": "12:19 pm",
-      "artist": "The Romantics",
-      "title": "Talking In Your Sleep",
-      "album": "In Heat • 1983"
     }
   ]
 }
