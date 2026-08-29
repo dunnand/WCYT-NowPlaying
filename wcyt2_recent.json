@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T02:59:41",
+  "updatedAt": "2026-08-29T02:59:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "U2",
+    "title": "Beautiful Day",
+    "album": "All That You Can't Leave Behind • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:59 am",
-      "artist": "U2",
-      "title": "Beautiful Day"
-    },
     {
       "time": "3:03 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "3:15 am",
       "artist": "Foo Fighters",
       "title": "This Is a Call"
+    },
+    {
+      "time": "3:19 am",
+      "artist": "Madonna",
+      "title": "You'll See"
     }
   ],
   "recent": [
+    {
+      "time": "2:59 am",
+      "artist": "U2",
+      "title": "Beautiful Day",
+      "album": "All That You Can't Leave Behind • 2000"
+    },
     {
       "time": "2:54 am",
       "artist": "Dawes",
@@ -172,12 +178,6 @@
       "artist": "MC Lyte",
       "title": "Cha Cha Cha",
       "album": "Eyes on This • 1989"
-    },
-    {
-      "time": "1:26 am",
-      "artist": "Lucinda Williams",
-      "title": "Passionate Kisses",
-      "album": "Lucinda Williams • 1988"
     }
   ]
 }
