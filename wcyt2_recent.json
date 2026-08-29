@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-29T04:53:20",
+  "updatedAt": "2026-08-29T04:55:43",
   "now": {
-    "artist": "Otis Redding",
-    "title": "That's How Strong My Love Is",
-    "album": "Pain in My Heart • 1964",
+    "artist": "Billy Paul",
+    "title": "Me and Mrs. Jones",
+    "album": "360 Degrees of Billy Paul • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:55 am",
-      "artist": "Billy Paul",
-      "title": "Me and Mrs. Jones"
-    },
     {
       "time": "5:00 am",
       "artist": "Archers of Loaf",
       "title": "White Trash Heroes"
     },
     {
-      "time": "5:06 am",
+      "time": "5:05 am",
       "artist": "The Afghan Whigs",
       "title": "The Lottery"
     },
@@ -26,9 +21,20 @@
       "time": "5:10 am",
       "artist": "Radiohead",
       "title": "All I Need"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "Stephen Malkmus",
+      "title": "Jenny & the Ess-Dog"
     }
   ],
   "recent": [
+    {
+      "time": "4:55 am",
+      "artist": "Billy Paul",
+      "title": "Me and Mrs. Jones",
+      "album": "360 Degrees of Billy Paul • 1972"
+    },
     {
       "time": "4:53 am",
       "artist": "Otis Redding",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "This Is a Call",
       "album": "Foo Fighters • 1995"
-    },
-    {
-      "time": "3:09 am",
-      "artist": "D'Angelo and The Vanguard",
-      "title": "Betray My Heart",
-      "album": "Black Messiah • 2014"
     }
   ]
 }
