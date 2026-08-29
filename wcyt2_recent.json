@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T15:45:27",
+  "updatedAt": "2026-08-29T15:48:22",
   "now": {
-    "artist": "Carole King",
-    "title": "I Feel The Earth Move",
-    "album": "Tapestry • 1971",
+    "artist": "The Beatles",
+    "title": "Golden Slumbers",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:48 pm",
-      "artist": "The Beatles",
-      "title": "Golden Slumbers"
-    },
     {
       "time": "3:50 pm",
       "artist": "Chic",
@@ -26,9 +21,20 @@
       "time": "3:59 pm",
       "artist": "The D",
       "title": "New Rose"
+    },
+    {
+      "time": "4:02 pm",
+      "artist": "My Morning Jacket",
+      "title": "Heartbreakin Man"
     }
   ],
   "recent": [
+    {
+      "time": "3:48 pm",
+      "artist": "The Beatles",
+      "title": "Golden Slumbers",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "3:45 pm",
       "artist": "Carole King",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Keep Fishin'",
       "album": "Maladroit • 2002"
-    },
-    {
-      "time": "2:16 pm",
-      "artist": "Ricky Nelson",
-      "title": "Lonesome Town",
-      "album": "single • 1958"
     }
   ]
 }
