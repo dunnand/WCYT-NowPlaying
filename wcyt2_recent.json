@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-08-29T10:07:58",
+  "updatedAt": "2026-08-29T10:13:16",
   "now": {
-    "artist": "Radiohead",
-    "title": "House of Cards",
-    "album": "In Rainbows • 2007",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Harrowdown Hill",
+    "album": "The Eraser • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:13 am",
-      "artist": "Thom Yorke",
-      "title": "Harrowdown Hill"
-    },
     {
       "time": "10:18 am",
       "artist": "Avenged Sevenfold",
       "title": "Hail To The King"
     },
     {
-      "time": "10:23 am",
+      "time": "10:22 am",
       "artist": "Lightning Bolt",
       "title": "13 Monsters"
     },
@@ -26,9 +21,20 @@
       "time": "10:25 am",
       "artist": "Modest Mouse",
       "title": "Custom Concern"
+    },
+    {
+      "time": "10:30 am",
+      "artist": "Public Enemy",
+      "title": "Rebel Without a Pause"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 am",
+      "artist": "Thom Yorke",
+      "title": "Harrowdown Hill",
+      "album": "The Eraser • 2006"
+    },
     {
       "time": "10:07 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Kassi Valazza",
       "title": "Weight of the Wheel",
       "album": "From Newman Street • 2024"
-    },
-    {
-      "time": "8:34 am",
-      "artist": "The Pogues",
-      "title": "A Rainy Night in Soho",
-      "album": "Poguetry in Motion EP • 1986"
     }
   ]
 }
