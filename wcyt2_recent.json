@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T04:04:42",
+  "updatedAt": "2026-08-29T04:18:15",
   "now": {
-    "artist": "John Coltrane",
-    "title": "My Favorite Things",
-    "album": "My Favorite Things • 1961",
-    "category": "AUDIO"
+    "artist": "The Decemberists",
+    "title": "Don't Carry It All",
+    "album": "The King Is Dead • 2011",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:18 am",
-      "artist": "The Decemberists",
-      "title": "Don't Carry It All"
-    },
     {
       "time": "4:22 am",
       "artist": "Alice in Chains",
@@ -21,9 +16,20 @@
       "time": "4:26 am",
       "artist": "Aphex Twin",
       "title": "4"
+    },
+    {
+      "time": "4:30 am",
+      "artist": "Naked Eyes",
+      "title": "Promises, Promises"
     }
   ],
   "recent": [
+    {
+      "time": "4:18 am",
+      "artist": "The Decemberists",
+      "title": "Don't Carry It All",
+      "album": "The King Is Dead • 2011"
+    },
     {
       "time": "4:04 am",
       "artist": "John Coltrane",
@@ -167,12 +173,6 @@
       "artist": "Vic Chesnutt",
       "title": "You Are Never Alone",
       "album": "North Star Deserter • 2007"
-    },
-    {
-      "time": "2:26 am",
-      "artist": "The Olivia Tremor Control",
-      "title": "Hideaway",
-      "album": "Black Foliage: Animation Music Vol. 1 (1999) •"
     }
   ]
 }
