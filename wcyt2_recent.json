@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T12:26:04",
+  "updatedAt": "2026-08-29T12:30:22",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Carry On",
-    "album": "Dj Vu • 1970",
+    "artist": "Elvis Presley",
+    "title": "Burning Love",
+    "album": "single • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "Elvis Presley",
-      "title": "Burning Love"
-    },
     {
       "time": "12:33 pm",
       "artist": "Super Furry Animals",
@@ -26,9 +21,20 @@
       "time": "12:40 pm",
       "artist": "Funkadelic",
       "title": "One Nation Under a Groove"
+    },
+    {
+      "time": "12:48 pm",
+      "artist": "Prince Paul",
+      "title": "More Than U Know (feat. De La Soul)"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 pm",
+      "artist": "Elvis Presley",
+      "title": "Burning Love",
+      "album": "single • 1972"
+    },
     {
       "time": "12:26 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -172,12 +178,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Y Control",
       "album": "Fever To Tell • 2003"
-    },
-    {
-      "time": "11:02 am",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music",
-      "album": "One Dozen Berrys • 1958"
     }
   ]
 }
