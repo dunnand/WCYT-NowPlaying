@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T11:59:21",
+  "updatedAt": "2026-08-29T12:01:48",
   "now": {
-    "artist": "The Beatles",
-    "title": "Things We Said Today",
-    "album": "A Hard Day's Night • 1964",
+    "artist": "Foo Fighters",
+    "title": "Rope",
+    "album": "Wasting Light • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "Foo Fighters",
-      "title": "Rope"
-    },
     {
       "time": "12:06 pm",
       "artist": "Blur",
@@ -21,9 +16,20 @@
       "time": "12:11 pm",
       "artist": "Portishead",
       "title": "Numb"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "Robert Palmer",
+      "title": "Simply Irresistible"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Foo Fighters",
+      "title": "Rope",
+      "album": "Wasting Light • 2011"
+    },
     {
       "time": "11:59 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Doobie Brothers",
       "title": "What A Fool Believes",
       "album": "Minute by Minute • 1979"
-    },
-    {
-      "time": "10:36 am",
-      "artist": "Yola",
-      "title": "Shady Grove",
-      "album": "Stand for Myself • 2021"
     }
   ]
 }
