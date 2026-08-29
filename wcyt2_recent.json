@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T11:54:13",
+  "updatedAt": "2026-08-29T11:56:24",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Ballad Of A Teenage Queen",
-    "album": "Ballad Of A Teenage Queen • 1958",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Say Yes! to M!ch!gan!",
+    "album": "Michigan • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:56 am",
-      "artist": "Sufjan Stevens",
-      "title": "Say Yes! to M!ch!gan!"
-    },
     {
       "time": "11:59 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "12:01 pm",
       "artist": "Foo Fighters",
       "title": "Rope"
+    },
+    {
+      "time": "12:06 pm",
+      "artist": "Blur",
+      "title": "Coffee & TV"
     }
   ],
   "recent": [
+    {
+      "time": "11:56 am",
+      "artist": "Sufjan Stevens",
+      "title": "Say Yes! to M!ch!gan!",
+      "album": "Michigan • 2003"
+    },
     {
       "time": "11:54 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Ramones",
       "title": "Rock 'n' Roll High School",
       "album": "End of the Century • 1980"
-    },
-    {
-      "time": "10:30 am",
-      "artist": "Public Enemy",
-      "title": "Rebel Without a Pause",
-      "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
     }
   ]
 }
