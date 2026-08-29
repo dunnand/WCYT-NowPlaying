@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T14:06:14",
+  "updatedAt": "2026-08-29T14:08:47",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yellow Submarine",
-    "album": "Yellow Submarine • 1969",
+    "artist": "The Wailers",
+    "title": "I Shot The Sheriff",
+    "album": "Burnin' • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:08 pm",
-      "artist": "The Wailers",
-      "title": "I Shot The Sheriff"
-    },
     {
       "time": "2:13 pm",
       "artist": "Guided by Voices",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:08 pm",
+      "artist": "The Wailers",
+      "title": "I Shot The Sheriff",
+      "album": "Burnin' • 1973"
+    },
     {
       "time": "2:06 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "Run Run Run",
       "album": "The Velvet Underground & Nico • 1967"
-    },
-    {
-      "time": "12:33 pm",
-      "artist": "Super Furry Animals",
-      "title": "Juxtapozed With U",
-      "album": "Rings Around the World • 2001"
     }
   ]
 }
