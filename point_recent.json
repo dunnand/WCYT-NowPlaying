@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T00:05:19",
+  "updatedAt": "2026-08-29T00:05:41",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This is Lorelei",
+    "title": "Oh No Now My",
+    "album": "Oh No Now My • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "This is Lorelei",
-      "title": "Oh No Now My"
-    },
     {
       "time": "12:08 am",
       "artist": "Ned's Atomic Dustbin",
@@ -26,9 +21,20 @@
       "time": "12:15 am",
       "artist": "Violent Femmes",
       "title": "Gone Daddy Gone"
+    },
+    {
+      "time": "12:19 am",
+      "artist": "Cheekface",
+      "title": "There Is A God"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "This is Lorelei",
+      "title": "Oh No Now My",
+      "album": "Oh No Now My • 2026"
+    },
     {
       "time": "12:02 am",
       "artist": "Tom Waits",
@@ -172,12 +178,6 @@
       "artist": "L'Rain",
       "title": "elmyra",
       "album": "fata morgana • 2026"
-    },
-    {
-      "time": "10:26 pm",
-      "artist": "Hovvdy",
-      "title": "You Will Go Far",
-      "album": "Big World • 2026"
     }
   ]
 }
