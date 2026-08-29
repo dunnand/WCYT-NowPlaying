@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T13:56:47",
+  "updatedAt": "2026-08-29T14:00:32",
   "now": {
-    "artist": "The Allman Brothers Band",
-    "title": "Melissa",
-    "album": "Eat a Peach • 1972",
+    "artist": "The Beatles",
+    "title": "Money (That's What I Want)",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 pm",
-      "artist": "The Beatles",
-      "title": "Money (That's What I Want)"
-    },
     {
       "time": "2:03 pm",
       "artist": "Big Star",
@@ -26,9 +21,20 @@
       "time": "2:08 pm",
       "artist": "The Wailers",
       "title": "I Shot The Sheriff"
+    },
+    {
+      "time": "2:13 pm",
+      "artist": "Guided by Voices",
+      "title": "I Am a Scientist"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "The Beatles",
+      "title": "Money (That's What I Want)",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "1:56 pm",
       "artist": "The Allman Brothers Band",
@@ -172,12 +178,6 @@
       "artist": "Crosby, Stills, Nash & Young",
       "title": "Carry On",
       "album": "Dj Vu • 1970"
-    },
-    {
-      "time": "12:23 pm",
-      "artist": "Turnstile",
-      "title": "MYSTERY",
-      "album": "Glow On • 2021"
     }
   ]
 }
