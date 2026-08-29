@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T00:58:12",
+  "updatedAt": "2026-08-29T01:01:50",
   "now": {
-    "artist": "Mr Vegas",
-    "title": "Heads High",
-    "album": "Heads High • 1998",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "R U Mine?",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Arctic Monkeys",
-      "title": "R U Mine?"
-    },
     {
       "time": "1:05 am",
       "artist": "TV on the Radio",
@@ -21,9 +16,20 @@
       "time": "1:10 am",
       "artist": "Radiohead",
       "title": "Sail to the Moon. (Brush the Cobwebs Out of the Sky.)"
+    },
+    {
+      "time": "1:14 am",
+      "artist": "Ed Sheeran",
+      "title": "Shape of You"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Arctic Monkeys",
+      "title": "R U Mine?",
+      "album": "AM • 2013"
+    },
     {
       "time": "12:58 am",
       "artist": "Mr Vegas",
@@ -167,12 +173,6 @@
       "artist": "Juice Newton",
       "title": "Queen Of Hearts",
       "album": "Juice • 1981"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "Sebadoh",
-      "title": "Weird",
-      "album": "The Sebadoh • 1999"
     }
   ]
 }
