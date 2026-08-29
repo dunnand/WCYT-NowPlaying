@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T05:36:47",
+  "updatedAt": "2026-08-29T05:40:04",
   "now": {
-    "artist": "Nick Drake",
-    "title": "Black Eyed Dog",
-    "album": "Single • 1986",
+    "artist": "The Weeknd",
+    "title": "After Hours",
+    "album": "After Hours • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:40 am",
-      "artist": "The Weeknd",
-      "title": "After Hours"
-    },
     {
       "time": "5:46 am",
       "artist": "Led Zeppelin",
@@ -21,9 +16,20 @@
       "time": "5:53 am",
       "artist": "Nina Simone",
       "title": "I Put a Spell on You"
+    },
+    {
+      "time": "5:56 am",
+      "artist": "The Clash",
+      "title": "I Fought the Law"
     }
   ],
   "recent": [
+    {
+      "time": "5:40 am",
+      "artist": "The Weeknd",
+      "title": "After Hours",
+      "album": "After Hours • 2020"
+    },
     {
       "time": "5:36 am",
       "artist": "Nick Drake",
@@ -167,12 +173,6 @@
       "artist": "Aerosmith",
       "title": "Livin' On The Edge",
       "album": "Get a Grip • 1993"
-    },
-    {
-      "time": "3:47 am",
-      "artist": "Joni Mitchell",
-      "title": "Woodstock",
-      "album": "Ladies of the Canyon • 1970"
     }
   ]
 }
