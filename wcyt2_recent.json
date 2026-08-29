@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-28T20:25:20",
+  "updatedAt": "2026-08-28T20:29:25",
   "now": {
-    "artist": "John Cougar",
-    "title": "Jack & Diane",
-    "album": "American Fool • 1982",
+    "artist": "Bleachers",
+    "title": "Rollercoaster",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:29 pm",
-      "artist": "Bleachers",
-      "title": "Rollercoaster"
-    },
     {
       "time": "8:32 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "8:40 pm",
       "artist": "Sufjan Stevens",
       "title": "Flint (For the Unemployed and Underpaid)"
+    },
+    {
+      "time": "8:44 pm",
+      "artist": "Camp Cope",
+      "title": "The Opener"
     }
   ],
   "recent": [
+    {
+      "time": "8:29 pm",
+      "artist": "Bleachers",
+      "title": "Rollercoaster",
+      "album": ""
+    },
     {
       "time": "8:25 pm",
       "artist": "John Cougar",
@@ -172,12 +178,6 @@
       "artist": "Haddaway",
       "title": "What Is Love",
       "album": "The Album • 1993"
-    },
-    {
-      "time": "6:42 pm",
-      "artist": "The Cars",
-      "title": "Good Times Roll",
-      "album": "The Cars • 1979"
     }
   ]
 }
