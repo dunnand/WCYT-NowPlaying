@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T04:41:23",
+  "updatedAt": "2026-08-29T04:41:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Childhood's End",
+    "album": "Obscured by Clouds • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:41 am",
-      "artist": "Pink Floyd",
-      "title": "Childhood's End"
-    },
     {
       "time": "4:45 am",
       "artist": "Dawn featuring Tony Orlando",
@@ -26,9 +21,20 @@
       "time": "4:53 am",
       "artist": "Otis Redding",
       "title": "That's How Strong My Love Is"
+    },
+    {
+      "time": "4:55 am",
+      "artist": "Billy Paul",
+      "title": "Me and Mrs. Jones"
     }
   ],
   "recent": [
+    {
+      "time": "4:41 am",
+      "artist": "Pink Floyd",
+      "title": "Childhood's End",
+      "album": "Obscured by Clouds • 1972"
+    },
     {
       "time": "4:37 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Dawes",
       "title": "A Little Bit of Everything",
       "album": "Nothing Is Wrong • 2011"
-    },
-    {
-      "time": "2:49 am",
-      "artist": "MF DOOM",
-      "title": "Doomsday",
-      "album": "Operation: Doomsday • 1999"
     }
   ]
 }
