@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T05:46:02",
+  "updatedAt": "2026-08-29T05:46:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "When The Levee Breaks",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:46 am",
-      "artist": "Led Zeppelin",
-      "title": "When The Levee Breaks"
-    },
     {
       "time": "5:53 am",
       "artist": "Nina Simone",
@@ -26,9 +21,20 @@
       "time": "5:58 am",
       "artist": "The Beatles",
       "title": "Within You Without You"
+    },
+    {
+      "time": "6:03 am",
+      "artist": "Barry Louis Polisar",
+      "title": "Me and You"
     }
   ],
   "recent": [
+    {
+      "time": "5:46 am",
+      "artist": "Led Zeppelin",
+      "title": "When The Levee Breaks",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "5:40 am",
       "artist": "The Weeknd",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "School Days",
       "album": "After School Session • 1957"
-    },
-    {
-      "time": "3:52 am",
-      "artist": "Aerosmith",
-      "title": "Livin' On The Edge",
-      "album": "Get a Grip • 1993"
     }
   ]
 }
