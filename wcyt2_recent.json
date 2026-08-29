@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T05:28:36",
+  "updatedAt": "2026-08-29T05:32:01",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "Get Me Away From Here, I'm Dying",
-    "album": "If You're Feeling Sinister • 1996",
-    "category": "TUNES"
+    "artist": "Neil Young",
+    "title": "Rockin' in the Free World",
+    "album": "Freedom • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 am",
-      "artist": "Neil Young",
-      "title": "Rockin' in the Free World"
-    },
     {
       "time": "5:36 am",
       "artist": "Nick Drake",
@@ -21,9 +16,20 @@
       "time": "5:40 am",
       "artist": "The Weeknd",
       "title": "After Hours"
+    },
+    {
+      "time": "5:46 am",
+      "artist": "Led Zeppelin",
+      "title": "When The Levee Breaks"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 am",
+      "artist": "Neil Young",
+      "title": "Rockin' in the Free World",
+      "album": "Freedom • 1989"
+    },
     {
       "time": "5:28 am",
       "artist": "Belle and Sebastian",
@@ -167,12 +173,6 @@
       "artist": "The Band",
       "title": "Tears of Rage",
       "album": "Music from Big Pink • 1968"
-    },
-    {
-      "time": "3:38 am",
-      "artist": "Grateful Dead",
-      "title": "Sugar Magnolia",
-      "album": "American Beauty • 1970"
     }
   ]
 }
