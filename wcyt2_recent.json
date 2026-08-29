@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T05:10:18",
+  "updatedAt": "2026-08-29T05:13:55",
   "now": {
-    "artist": "Radiohead",
-    "title": "All I Need",
-    "album": "In Rainbows • 2007",
-    "category": "AUDIO"
+    "artist": "Stephen Malkmus",
+    "title": "Jenny & the Ess-Dog",
+    "album": "Stephen Malkmus • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:13 am",
-      "artist": "Stephen Malkmus",
-      "title": "Jenny & the Ess-Dog"
-    },
     {
       "time": "5:16 am",
       "artist": "Avenged Sevenfold",
@@ -26,9 +21,20 @@
       "time": "5:28 am",
       "artist": "Belle and Sebastian",
       "title": "Get Me Away From Here, I'm Dying"
+    },
+    {
+      "time": "5:32 am",
+      "artist": "Neil Young",
+      "title": "Rockin' in the Free World"
     }
   ],
   "recent": [
+    {
+      "time": "5:13 am",
+      "artist": "Stephen Malkmus",
+      "title": "Jenny & the Ess-Dog",
+      "album": "Stephen Malkmus • 2001"
+    },
     {
       "time": "5:10 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "august",
       "album": "folklore • 2020"
-    },
-    {
-      "time": "3:25 am",
-      "artist": "Mudhoney",
-      "title": "Touch Me I'm Sick",
-      "album": "Superfuzz • 1988"
     }
   ]
 }
