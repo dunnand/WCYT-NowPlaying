@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T04:54:52",
+  "updatedAt": "2026-08-30T04:58:07",
   "now": {
-    "artist": "The Shins",
-    "title": "Caring Is Creepy",
-    "album": "Oh Inverted World • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Mr. Moonlight",
+    "album": "Beatles for Sale • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:58 am",
-      "artist": "The Beatles",
-      "title": "Mr. Moonlight"
-    },
     {
       "time": "5:00 am",
       "artist": "The Isley Brothers",
@@ -26,9 +21,20 @@
       "time": "5:09 am",
       "artist": "Elton Britt",
       "title": "Uranium Fever"
+    },
+    {
+      "time": "5:11 am",
+      "artist": "The Shins",
+      "title": "Girl Inform Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:58 am",
+      "artist": "The Beatles",
+      "title": "Mr. Moonlight",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "4:54 am",
       "artist": "The Shins",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Where Are We Now?",
       "album": "The Next Day • 2013"
-    },
-    {
-      "time": "3:04 am",
-      "artist": "The Sonics",
-      "title": "Cinderella",
-      "album": "Boom • 1966"
     }
   ]
 }
