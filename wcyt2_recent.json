@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T02:25:23",
+  "updatedAt": "2026-08-30T02:28:48",
   "now": {
-    "artist": "Iggy Pop",
-    "title": "Real Wild Child (Wild One)",
-    "album": "Blah-Blah-Blah • 1986",
+    "artist": "Grimes",
+    "title": "IDORU",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:28 am",
-      "artist": "Grimes",
-      "title": "IDORU"
-    },
     {
       "time": "2:35 am",
       "artist": "Roxy Music",
@@ -21,9 +16,20 @@
       "time": "2:41 am",
       "artist": "The Beatles",
       "title": "The End"
+    },
+    {
+      "time": "2:43 am",
+      "artist": "Rush",
+      "title": "The Trees"
     }
   ],
   "recent": [
+    {
+      "time": "2:28 am",
+      "artist": "Grimes",
+      "title": "IDORU",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "2:25 am",
       "artist": "Iggy Pop",
@@ -167,12 +173,6 @@
       "artist": "De La Soul",
       "title": "A Roller Skating Jam Named \"Saturdays\"",
       "album": "De La Soul is Dead • 1991"
-    },
-    {
-      "time": "12:53 am",
-      "artist": "Neil Young & Crazy Horse",
-      "title": "Hey Hey, My My (Into the Black)",
-      "album": "Rust Never Sleeps • 1979"
     }
   ]
 }
