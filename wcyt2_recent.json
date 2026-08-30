@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T00:31:21",
+  "updatedAt": "2026-08-30T00:37:10",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Enchanted (Taylor's version)",
-    "album": "Speak Now • 2023",
+    "artist": "Radiohead",
+    "title": "Sit Down. Stand Up. (Snakes & Ladders.)",
+    "album": "Hail to the Thief • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:37 am",
-      "artist": "Radiohead",
-      "title": "Sit Down. Stand Up. (Snakes & Ladders.)"
-    },
     {
       "time": "12:41 am",
       "artist": "Neil Diamond",
@@ -26,9 +21,20 @@
       "time": "12:48 am",
       "artist": "Beyonce",
       "title": "Blue"
+    },
+    {
+      "time": "12:53 am",
+      "artist": "Neil Young & Crazy Horse",
+      "title": "Hey Hey, My My (Into the Black)"
     }
   ],
   "recent": [
+    {
+      "time": "12:37 am",
+      "artist": "Radiohead",
+      "title": "Sit Down. Stand Up. (Snakes & Ladders.)",
+      "album": "Hail to the Thief • 2003"
+    },
     {
       "time": "12:31 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Exile feat. Bon Iver",
       "album": "folklore • 2020"
-    },
-    {
-      "time": "10:04 pm",
-      "artist": "Siouxsie and the Banshees",
-      "title": "Peek-a-boo",
-      "album": "Peepshow • 1988"
     }
   ]
 }
