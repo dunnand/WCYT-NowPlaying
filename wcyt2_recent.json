@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T12:48:57",
+  "updatedAt": "2026-08-30T12:49:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Blue Jean",
+    "album": "Tonight • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 pm",
-      "artist": "David Bowie",
-      "title": "Blue Jean"
-    },
     {
       "time": "12:52 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "1:02 pm",
       "artist": "Fela and Afrika 70",
       "title": "Zombie"
+    },
+    {
+      "time": "1:14 pm",
+      "artist": "Neil Young",
+      "title": "Tonight's the Night"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 pm",
+      "artist": "David Bowie",
+      "title": "Blue Jean",
+      "album": "Tonight • 1984"
+    },
     {
       "time": "12:45 pm",
       "artist": "Jamiroquai",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Misery",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "11:09 am",
-      "artist": "Regina Spektor",
-      "title": "Us",
-      "album": "Begin to Hope • 2006"
     }
   ]
 }
