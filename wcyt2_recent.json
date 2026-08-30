@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T01:08:08",
+  "updatedAt": "2026-08-30T01:10:51",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "Treasure",
-    "album": "Unorthodox Jukebox • 2012",
+    "artist": "Depeche Mode",
+    "title": "Policy of Truth",
+    "album": "Violator • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Depeche Mode",
-      "title": "Policy of Truth"
-    },
     {
       "time": "1:15 am",
       "artist": "Janet Jackson",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "ZZ Top",
       "title": "Legs"
+    },
+    {
+      "time": "1:27 am",
+      "artist": "Bershy",
+      "title": "Radio"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Depeche Mode",
+      "title": "Policy of Truth",
+      "album": "Violator • 1990"
+    },
     {
       "time": "1:08 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "This Is America",
       "album": "Guava Island • 2019"
-    },
-    {
-      "time": "10:39 pm",
-      "artist": "The Beatles",
-      "title": "Yer Blues",
-      "album": "The Beatles • 1968"
     }
   ]
 }
