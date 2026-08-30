@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T12:34:59",
+  "updatedAt": "2026-08-30T12:35:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Long, Long, Long",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 pm",
-      "artist": "The Beatles",
-      "title": "Long, Long, Long"
-    },
     {
       "time": "12:38 pm",
       "artist": "Foals",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:35 pm",
+      "artist": "The Beatles",
+      "title": "Long, Long, Long",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:31 pm",
       "artist": "Sonic Youth",
@@ -172,12 +173,6 @@
       "artist": "Fleetwood Mac",
       "title": "Second Hand News",
       "album": "Rumours • 1977"
-    },
-    {
-      "time": "10:54 am",
-      "artist": "The Beatles",
-      "title": "It's All Too Much",
-      "album": "Yellow Submarine • 1969"
     }
   ]
 }
