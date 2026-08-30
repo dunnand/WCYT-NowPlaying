@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T04:25:23",
+  "updatedAt": "2026-08-30T04:25:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Amy Grant",
+    "title": "That's What Love Is For",
+    "album": "Heart in Motion • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:25 am",
-      "artist": "Amy Grant",
-      "title": "That's What Love Is For"
-    },
     {
       "time": "4:29 am",
       "artist": "Arrested Development",
@@ -26,9 +21,20 @@
       "time": "4:38 am",
       "artist": "Patty Smyth",
       "title": "The Warrior"
+    },
+    {
+      "time": "4:42 am",
+      "artist": "Weezer",
+      "title": "A Little Bit Of Love"
     }
   ],
   "recent": [
+    {
+      "time": "4:25 am",
+      "artist": "Amy Grant",
+      "title": "That's What Love Is For",
+      "album": "Heart in Motion • 1991"
+    },
     {
       "time": "4:22 am",
       "artist": "Childish Gambino",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "The End",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "2:36 am",
-      "artist": "Roxy Music",
-      "title": "In Every Dream Home a Heartache",
-      "album": "For Your Pleasure • 1973"
     }
   ]
 }
