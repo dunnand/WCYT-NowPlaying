@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T09:11:01",
+  "updatedAt": "2026-08-30T09:14:12",
   "now": {
-    "artist": "Billie Eilish",
-    "title": "bad guy",
-    "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? • 2019",
+    "artist": "Elastica",
+    "title": "Vaseline",
+    "album": "Elastica • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 am",
-      "artist": "Elastica",
-      "title": "Vaseline"
-    },
     {
       "time": "9:15 am",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "9:25 am",
       "artist": "Patti Smith",
       "title": "People Have the Power"
+    },
+    {
+      "time": "9:30 am",
+      "artist": "Weezer",
+      "title": "Hero"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 am",
+      "artist": "Elastica",
+      "title": "Vaseline",
+      "album": "Elastica • 1995"
+    },
     {
       "time": "9:11 am",
       "artist": "Billie Eilish",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Twist and Shout",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "7:34 am",
-      "artist": "Engelbert Humperdinck",
-      "title": "After The Lovin'",
-      "album": "After the Lovin' • 1976"
     }
   ]
 }
