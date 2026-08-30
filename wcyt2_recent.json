@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T11:14:37",
+  "updatedAt": "2026-08-30T11:16:19",
   "now": {
-    "artist": "The Beatles",
-    "title": "Misery",
-    "album": "Please Please Me • 1963",
+    "artist": "Daft Punk",
+    "title": "Doin' It Right (feat. Panda Bear)",
+    "album": "Random Access Memories • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:16 am",
-      "artist": "Daft Punk",
-      "title": "Doin' It Right (feat. Panda Bear)"
-    },
     {
       "time": "11:20 am",
       "artist": "Modest Mouse",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:16 am",
+      "artist": "Daft Punk",
+      "title": "Doin' It Right (feat. Panda Bear)",
+      "album": "Random Access Memories • 2013"
+    },
     {
       "time": "11:14 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Cat Stevens",
       "title": "Trouble",
       "album": "Mona Bone Jakon • 1970"
-    },
-    {
-      "time": "9:44 am",
-      "artist": "The Kinks",
-      "title": "Tired of Waiting for You",
-      "album": "Kinda Kinks • 1965"
     }
   ]
 }
