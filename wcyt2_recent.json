@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T09:52:42",
+  "updatedAt": "2026-08-30T09:54:55",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "I'm Gonna Love You Too",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "What We Know",
+    "album": "The Eternal • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:54 am",
-      "artist": "Sonic Youth",
-      "title": "What We Know"
-    },
     {
       "time": "9:59 am",
       "artist": "The Shangri",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:54 am",
+      "artist": "Sonic Youth",
+      "title": "What We Know",
+      "album": "The Eternal • 2009"
+    },
     {
       "time": "9:52 am",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "Happy Mondays",
       "title": "Wrote for Luck",
       "album": "Bummed • 1988"
-    },
-    {
-      "time": "8:18 am",
-      "artist": "The Mighty Lemon Drops",
-      "title": "Another Girl, Another Planet",
-      "album": "Laughter • 1989"
     }
   ]
 }
