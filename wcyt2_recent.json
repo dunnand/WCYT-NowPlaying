@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T09:34:10",
+  "updatedAt": "2026-08-30T09:37:46",
   "now": {
-    "artist": "Gary Numan",
-    "title": "Cars",
-    "album": "The Pleasure Principle • 1979",
+    "artist": "The Beatles",
+    "title": "Maxwell's Silver Hammer",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:37 am",
-      "artist": "The Beatles",
-      "title": "Maxwell's Silver Hammer"
-    },
     {
       "time": "9:41 am",
       "artist": "Exile",
@@ -26,9 +21,20 @@
       "time": "9:47 am",
       "artist": "Cat Stevens",
       "title": "Trouble"
+    },
+    {
+      "time": "9:49 am",
+      "artist": "Fugazi",
+      "title": "Merchandise"
     }
   ],
   "recent": [
+    {
+      "time": "9:37 am",
+      "artist": "The Beatles",
+      "title": "Maxwell's Silver Hammer",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "9:34 am",
       "artist": "Gary Numan",
@@ -172,12 +178,6 @@
       "artist": "Rammstein",
       "title": "Sonne",
       "album": "Mutter • 2001"
-    },
-    {
-      "time": "7:56 am",
-      "artist": "Lloyd Price",
-      "title": "Stagger Lee",
-      "album": "The Exciting Lloyd Price • 1959"
     }
   ]
 }
