@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T21:09:58",
+  "updatedAt": "2026-08-29T21:13:00",
   "now": {
-    "artist": "The Beatles",
-    "title": "Love You To",
-    "album": "Revolver • 1966",
+    "artist": "Paul McCartney",
+    "title": "Junk",
+    "album": "McCartney • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Paul McCartney",
-      "title": "Junk"
-    },
     {
       "time": "9:14 pm",
       "artist": "Green Day",
@@ -26,9 +21,20 @@
       "time": "9:20 pm",
       "artist": "Train",
       "title": "Drops Of Jupiter (Tell Me)"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "Sigur Ros",
+      "title": "Vaka (Untitled Track 1)"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 pm",
+      "artist": "Paul McCartney",
+      "title": "Junk",
+      "album": "McCartney • 1970"
+    },
     {
       "time": "9:09 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Swingin'",
       "album": "Echo • 1999"
-    },
-    {
-      "time": "7:28 pm",
-      "artist": "Chance the Rapper",
-      "title": "Do You Remember",
-      "album": "Do You Remember • 2019"
     }
   ]
 }
