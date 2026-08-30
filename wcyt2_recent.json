@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T18:23:07",
+  "updatedAt": "2026-08-30T18:31:57",
   "now": {
-    "artist": "Sigur Ros",
-    "title": "Svefn-g-englar",
-    "album": "Agaetis byrjun • 1999",
-    "category": "TUNES"
+    "artist": "Ricky Nelson",
+    "title": "I'm Walkin'",
+    "album": "Ricky • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:31 pm",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'"
-    },
     {
       "time": "6:33 pm",
       "artist": "Sister Hazel",
@@ -26,9 +21,20 @@
       "time": "6:40 pm",
       "artist": "Beyonce",
       "title": "XO"
+    },
+    {
+      "time": "6:43 pm",
+      "artist": "Sting",
+      "title": "Brand New Day"
     }
   ],
   "recent": [
+    {
+      "time": "6:31 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'",
+      "album": "Ricky • 1957"
+    },
     {
       "time": "6:23 pm",
       "artist": "Sigur Ros",
@@ -172,12 +178,6 @@
       "artist": "Huey Lewis & The News",
       "title": "The Power Of Love",
       "album": "Back to the Future Soundtrack • 1985"
-    },
-    {
-      "time": "4:46 pm",
-      "artist": "Prince and the New Power Generation",
-      "title": "Cream",
-      "album": "Diamonds and Pearls • 1991"
     }
   ]
 }
