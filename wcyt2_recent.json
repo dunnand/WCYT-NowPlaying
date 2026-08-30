@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T13:41:47",
+  "updatedAt": "2026-08-30T13:41:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Michelle",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:41 pm",
-      "artist": "The Beatles",
-      "title": "Michelle"
-    },
     {
       "time": "1:44 pm",
       "artist": "Chromatics",
@@ -26,9 +21,20 @@
       "time": "1:51 pm",
       "artist": "Low",
       "title": "Words"
+    },
+    {
+      "time": "1:57 pm",
+      "artist": "Johnny Hates Jazz",
+      "title": "Shattered Dreams"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 pm",
+      "artist": "The Beatles",
+      "title": "Michelle",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "1:37 pm",
       "artist": "Sufjan Stevens",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Isis",
       "album": "Desire • 1976"
-    },
-    {
-      "time": "11:54 am",
-      "artist": "FKA twigs",
-      "title": "Two Weeks",
-      "album": "LP1 • 2014"
     }
   ]
 }
