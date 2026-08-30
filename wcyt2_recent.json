@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T20:55:23",
+  "updatedAt": "2026-08-29T20:55:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Olivia Newton-John",
+    "title": "A Little More Love",
+    "album": "Totally Hot • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 pm",
-      "artist": "Olivia Newton",
-      "title": "John - A Little More Love"
-    },
     {
       "time": "8:58 pm",
       "artist": "Parliament",
@@ -26,9 +21,20 @@
       "time": "9:09 pm",
       "artist": "The Beatles",
       "title": "Love You To"
+    },
+    {
+      "time": "9:12 pm",
+      "artist": "Paul McCartney",
+      "title": "Junk"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 pm",
+      "artist": "Olivia Newton-John",
+      "title": "A Little More Love",
+      "album": "Totally Hot • 1978"
+    },
     {
       "time": "8:52 pm",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Brown Eyed Handsome Man",
       "album": "After School Session • 1957"
-    },
-    {
-      "time": "7:15 pm",
-      "artist": "Little River Band",
-      "title": "Cool Change",
-      "album": "First Under the Wire • 1979"
     }
   ]
 }
