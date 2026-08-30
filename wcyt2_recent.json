@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-29T22:49:40",
+  "updatedAt": "2026-08-29T22:56:19",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "High Hopes",
-    "album": "The Division Bell • 1994",
+    "artist": "Skid Row",
+    "title": "I Remember You",
+    "album": "Skid Row • 1989",
     "category": "AUDIO"
   },
-  "comingUp": [
+  "comingUp": [],
+  "recent": [
     {
       "time": "10:56 pm",
       "artist": "Skid Row",
-      "title": "I Remember You"
-    }
-  ],
-  "recent": [
+      "title": "I Remember You",
+      "album": "Skid Row • 1989"
+    },
     {
       "time": "10:49 pm",
       "artist": "Pink Floyd",
@@ -157,12 +157,6 @@
       "artist": "Ariana Grande",
       "title": "The Way",
       "album": "Yours Truly • 2013"
-    },
-    {
-      "time": "9:14 pm",
-      "artist": "Green Day",
-      "title": "Emenius Sleepus",
-      "album": "Dookie • 1994"
     }
   ]
 }
