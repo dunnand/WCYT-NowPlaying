@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T01:02:08",
+  "updatedAt": "2026-08-30T01:04:11",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Wake Up Little Susie",
-    "album": "The Everly Brothers • 1958",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Do You Believe in Rapture?",
+    "album": "Rather Ripped • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:04 am",
-      "artist": "Sonic Youth",
-      "title": "Do You Believe in Rapture?"
-    },
     {
       "time": "1:07 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "1:08 am",
       "artist": "Bruno Mars",
       "title": "Treasure"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Depeche Mode",
+      "title": "Policy of Truth"
     }
   ],
   "recent": [
+    {
+      "time": "1:04 am",
+      "artist": "Sonic Youth",
+      "title": "Do You Believe in Rapture?",
+      "album": "Rather Ripped • 2006"
+    },
     {
       "time": "1:02 am",
       "artist": "The Everly Brothers",
@@ -167,12 +173,6 @@
       "artist": "Elvis Presley",
       "title": "(Let Me Be Your) Teddy Bear",
       "album": "Loving You • 1957"
-    },
-    {
-      "time": "10:30 pm",
-      "artist": "Wilco",
-      "title": "Can't Stand It",
-      "album": "Summerteeth • 1999"
     }
   ]
 }
