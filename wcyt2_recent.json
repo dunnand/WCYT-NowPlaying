@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T22:12:04",
+  "updatedAt": "2026-08-29T22:17:53",
   "now": {
-    "artist": "Styx",
-    "title": "Come Sail Away",
-    "album": "The Grand Illusion • 1977",
+    "artist": "The Beatles",
+    "title": "Something",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:17 pm",
-      "artist": "The Beatles",
-      "title": "Something"
-    },
     {
       "time": "10:21 pm",
       "artist": "Talking Heads",
@@ -26,9 +21,20 @@
       "time": "10:28 pm",
       "artist": "The Doors",
       "title": "Peace Frog"
+    },
+    {
+      "time": "10:30 pm",
+      "artist": "Wilco",
+      "title": "Can't Stand It"
     }
   ],
   "recent": [
+    {
+      "time": "10:17 pm",
+      "artist": "The Beatles",
+      "title": "Something",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "10:12 pm",
       "artist": "Styx",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Glorified G",
       "album": "Vs. • 1993"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "We The People",
-      "album": "We The People.... • 2016"
     }
   ]
 }
