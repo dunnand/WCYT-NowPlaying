@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T11:00:25",
+  "updatedAt": "2026-08-30T11:03:08",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Second Hand News",
-    "album": "Rumours • 1977",
+    "artist": "Radiohead",
+    "title": "Planet Telex",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:02 am",
-      "artist": "Radiohead",
-      "title": "Planet Telex"
-    },
     {
       "time": "11:07 am",
       "artist": "Screamin Jay Hawkins",
@@ -26,9 +21,20 @@
       "time": "11:14 am",
       "artist": "The Beatles",
       "title": "Misery"
+    },
+    {
+      "time": "11:16 am",
+      "artist": "Daft Punk",
+      "title": "Doin' It Right (feat. Panda Bear)"
     }
   ],
   "recent": [
+    {
+      "time": "11:03 am",
+      "artist": "Radiohead",
+      "title": "Planet Telex",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "11:00 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Gary Numan",
       "title": "Cars",
       "album": "The Pleasure Principle • 1979"
-    },
-    {
-      "time": "9:30 am",
-      "artist": "Weezer",
-      "title": "Hero",
-      "album": "Van Weezer • 2021"
     }
   ]
 }
