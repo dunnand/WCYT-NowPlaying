@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-30T10:54:18",
+  "updatedAt": "2026-08-30T11:00:25",
   "now": {
-    "artist": "The Beatles",
-    "title": "It's All Too Much",
-    "album": "Yellow Submarine • 1969",
+    "artist": "Fleetwood Mac",
+    "title": "Second Hand News",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:00 am",
-      "artist": "Fleetwood Mac",
-      "title": "Second Hand News"
-    },
-    {
-      "time": "11:03 am",
+      "time": "11:02 am",
       "artist": "Radiohead",
       "title": "Planet Telex"
     },
@@ -26,9 +21,20 @@
       "time": "11:09 am",
       "artist": "Regina Spektor",
       "title": "Us"
+    },
+    {
+      "time": "11:14 am",
+      "artist": "The Beatles",
+      "title": "Misery"
     }
   ],
   "recent": [
+    {
+      "time": "11:00 am",
+      "artist": "Fleetwood Mac",
+      "title": "Second Hand News",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "10:54 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Hero",
       "album": "Van Weezer • 2021"
-    },
-    {
-      "time": "9:25 am",
-      "artist": "Patti Smith",
-      "title": "People Have the Power",
-      "album": "Dream of Life • 1988"
     }
   ]
 }
