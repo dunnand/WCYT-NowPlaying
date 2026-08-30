@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T06:42:11",
+  "updatedAt": "2026-08-30T06:45:14",
   "now": {
-    "artist": "Tom Jones",
-    "title": "Green, Green Grass Of Home",
-    "album": "Green, Green Grass of Home • 1967",
+    "artist": "Yes",
+    "title": "I've Seen All Good People",
+    "album": "The Yes Album • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:45 am",
-      "artist": "Yes",
-      "title": "I've Seen All Good People"
-    },
     {
       "time": "6:51 am",
       "artist": "Bush",
@@ -26,9 +21,20 @@
       "time": "7:01 am",
       "artist": "Radiohead",
       "title": "Bodysnatchers"
+    },
+    {
+      "time": "7:05 am",
+      "artist": "Destroyer",
+      "title": "It's Gonna Take An Airplane"
     }
   ],
   "recent": [
+    {
+      "time": "6:45 am",
+      "artist": "Yes",
+      "title": "I've Seen All Good People",
+      "album": "The Yes Album • 1971"
+    },
     {
       "time": "6:42 am",
       "artist": "Tom Jones",
@@ -172,12 +178,6 @@
       "artist": "Boards of Canada",
       "title": "Olson",
       "album": "Music Has The Right To Children • 1998"
-    },
-    {
-      "time": "5:16 am",
-      "artist": "Drake",
-      "title": "Best I Ever Had",
-      "album": "Thank Me Later • 2010"
     }
   ]
 }
