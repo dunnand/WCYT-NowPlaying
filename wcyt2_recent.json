@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T14:49:08",
+  "updatedAt": "2026-08-30T14:49:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Metallica",
+    "title": "Sad but True",
+    "album": "Metallica • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:49 pm",
-      "artist": "Metallica",
-      "title": "Sad but True"
-    },
     {
       "time": "2:54 pm",
       "artist": "Michael Bolton",
@@ -26,9 +21,20 @@
       "time": "3:04 pm",
       "artist": "Daniel Johnston",
       "title": "Some Things Last a Long Time"
+    },
+    {
+      "time": "3:09 pm",
+      "artist": "Lana Del Rey",
+      "title": "Chemtrails Over the Country Club"
     }
   ],
   "recent": [
+    {
+      "time": "2:49 pm",
+      "artist": "Metallica",
+      "title": "Sad but True",
+      "album": "Metallica • 1991"
+    },
     {
       "time": "2:44 pm",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "Neil Young",
       "title": "Tonight's the Night",
       "album": "Tonight's the Night • 1975"
-    },
-    {
-      "time": "1:02 pm",
-      "artist": "Fela and Afrika 70",
-      "title": "Zombie",
-      "album": "Zombie • 1976"
     }
   ]
 }
