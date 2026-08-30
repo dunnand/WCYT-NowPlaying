@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T14:11:22",
+  "updatedAt": "2026-08-30T14:16:37",
   "now": {
-    "artist": "Rod Stewart",
-    "title": "Da Ya Think I'm Sexy?",
-    "album": "Blondes Have More Fun • 1979",
-    "category": "AUDIO"
+    "artist": "Stephen Malkmus",
+    "title": "Jo Jo's Jacket",
+    "album": "Stephen Malkmus • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:16 pm",
-      "artist": "Stephen Malkmus",
-      "title": "Jo Jo's Jacket"
-    },
     {
       "time": "2:20 pm",
       "artist": "Bill Callahan",
@@ -26,9 +21,20 @@
       "time": "2:32 pm",
       "artist": "Lush",
       "title": "For Love"
+    },
+    {
+      "time": "2:35 pm",
+      "artist": "Bo Diddley",
+      "title": "I'm A Man"
     }
   ],
   "recent": [
+    {
+      "time": "2:16 pm",
+      "artist": "Stephen Malkmus",
+      "title": "Jo Jo's Jacket",
+      "album": "Stephen Malkmus • 2001"
+    },
     {
       "time": "2:11 pm",
       "artist": "Rod Stewart",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Long, Long, Long",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "12:31 pm",
-      "artist": "Sonic Youth",
-      "title": "Unmade Bed",
-      "album": "Sonic Nurse • 2004"
     }
   ]
 }
