@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T15:14:27",
+  "updatedAt": "2026-08-30T15:18:03",
   "now": {
-    "artist": "Stevie Wonder",
-    "title": "Higher Ground",
-    "album": "Innervisions • 1973",
+    "artist": "T. Rex",
+    "title": "Metal Guru",
+    "album": "The Slider • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:18 pm",
-      "artist": "T. Rex",
-      "title": "Metal Guru"
-    },
     {
       "time": "3:20 pm",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "3:24 pm",
       "artist": "Led Zeppelin",
       "title": "No Quarter"
+    },
+    {
+      "time": "3:31 pm",
+      "artist": "Michael Jackson",
+      "title": "They Don't Care About Us"
     }
   ],
   "recent": [
+    {
+      "time": "3:18 pm",
+      "artist": "T. Rex",
+      "title": "Metal Guru",
+      "album": "The Slider • 1972"
+    },
     {
       "time": "3:14 pm",
       "artist": "Stevie Wonder",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
       "album": "Michigan • 2003"
-    },
-    {
-      "time": "1:35 pm",
-      "artist": "Jerry Lee Lewis",
-      "title": "Great Balls of Fire",
-      "album": "Single • 1957"
     }
   ]
 }
