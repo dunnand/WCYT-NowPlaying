@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T06:51:42",
+  "updatedAt": "2026-08-30T06:55:48",
   "now": {
-    "artist": "Bush",
-    "title": "Machinehead",
-    "album": "Sixteen Stone • 1994",
+    "artist": "David Bowie",
+    "title": "I Can't Give Everything Away",
+    "album": "Blackstar • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:55 am",
-      "artist": "David Bowie",
-      "title": "I Can't Give Everything Away"
-    },
     {
       "time": "7:01 am",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "7:05 am",
       "artist": "Destroyer",
       "title": "It's Gonna Take An Airplane"
+    },
+    {
+      "time": "7:09 am",
+      "artist": "Bon Iver",
+      "title": "Holocene"
     }
   ],
   "recent": [
+    {
+      "time": "6:55 am",
+      "artist": "David Bowie",
+      "title": "I Can't Give Everything Away",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "6:51 am",
       "artist": "Bush",
@@ -167,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "Because the Night",
       "album": "single • 1980"
-    },
-    {
-      "time": "5:21 am",
-      "artist": "Bob Dylan",
-      "title": "Blind Willie McTell",
-      "album": "The Bootleg Series Volumes 1-3 • 1991"
     }
   ]
 }
