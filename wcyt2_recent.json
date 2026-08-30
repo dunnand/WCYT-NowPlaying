@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T09:14:12",
+  "updatedAt": "2026-08-30T09:15:36",
   "now": {
-    "artist": "Elastica",
-    "title": "Vaseline",
-    "album": "Elastica • 1995",
+    "artist": "Elton John",
+    "title": "Blessed",
+    "album": "Made in England • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 am",
-      "artist": "Elton John",
-      "title": "Blessed"
-    },
     {
       "time": "9:19 am",
       "artist": "Talking Heads",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:15 am",
+      "artist": "Elton John",
+      "title": "Blessed",
+      "album": "Made in England • 1995"
+    },
     {
       "time": "9:14 am",
       "artist": "Elastica",
@@ -172,12 +173,6 @@
       "artist": "Johnny Rivers",
       "title": "Swayin' To The Music (Slow Dancin')",
       "album": "Outside Help • 1977"
-    },
-    {
-      "time": "7:38 am",
-      "artist": "The Beatles",
-      "title": "Twist and Shout",
-      "album": "Please Please Me • 1963"
     }
   ]
 }
