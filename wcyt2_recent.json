@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T11:58:45",
+  "updatedAt": "2026-08-30T12:05:39",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Isis",
-    "album": "Desire • 1976",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Black Math",
+    "album": "Elephant • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:05 pm",
-      "artist": "The White Stripes",
-      "title": "Black Math"
-    },
     {
       "time": "12:08 pm",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "12:16 pm",
       "artist": "Erykah Badu",
       "title": "Window Seat"
+    },
+    {
+      "time": "12:21 pm",
+      "artist": "Orleans",
+      "title": "Still The One"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 pm",
+      "artist": "The White Stripes",
+      "title": "Black Math",
+      "album": "Elephant • 2003"
+    },
     {
       "time": "11:58 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Harness Your Hopes",
       "album": "Terror Twilight • 1999"
-    },
-    {
-      "time": "10:21 am",
-      "artist": "Grimes",
-      "title": "My Name Is Dark",
-      "album": "Miss Anthropocene • 2020"
     }
   ]
 }
