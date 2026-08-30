@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T21:13:00",
+  "updatedAt": "2026-08-29T21:14:45",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Junk",
-    "album": "McCartney • 1970",
+    "artist": "Green Day",
+    "title": "Emenius Sleepus",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 pm",
-      "artist": "Green Day",
-      "title": "Emenius Sleepus"
-    },
     {
       "time": "9:16 pm",
       "artist": "Ariana Grande",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:14 pm",
+      "artist": "Green Day",
+      "title": "Emenius Sleepus",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "9:13 pm",
       "artist": "Paul McCartney",
@@ -172,12 +173,6 @@
       "artist": "Poison",
       "title": "Something To Believe In",
       "album": "Open Up and Say... Ahh! • 1990"
-    },
-    {
-      "time": "7:32 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Swingin'",
-      "album": "Echo • 1999"
     }
   ]
 }
