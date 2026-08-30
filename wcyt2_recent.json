@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T17:33:27",
+  "updatedAt": "2026-08-30T17:33:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Hardest Button To Button",
+    "album": "Elephant • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:33 pm",
-      "artist": "The White Stripes",
-      "title": "Hardest Button To Button"
-    },
     {
       "time": "5:37 pm",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "5:43 pm",
       "artist": "Roxette",
       "title": "It Must Have Been Love"
+    },
+    {
+      "time": "5:47 pm",
+      "artist": "Seal",
+      "title": "Kiss From A Rose"
     }
   ],
   "recent": [
+    {
+      "time": "5:33 pm",
+      "artist": "The White Stripes",
+      "title": "Hardest Button To Button",
+      "album": "Elephant • 2003"
+    },
     {
       "time": "5:27 pm",
       "artist": "Bjork",
@@ -172,12 +178,6 @@
       "artist": "Galaxie 500",
       "title": "Isn't It a Pity",
       "album": "On Fire • 1989"
-    },
-    {
-      "time": "3:53 pm",
-      "artist": "Depeche Mode",
-      "title": "Never Let Me Down Again",
-      "album": "Music for the Masses • 1987"
     }
   ]
 }
