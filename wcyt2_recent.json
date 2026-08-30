@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T11:23:40",
+  "updatedAt": "2026-08-30T11:23:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Ghost",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:23 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Ghost"
-    },
     {
       "time": "11:27 am",
       "artist": "Husker Du",
@@ -26,9 +21,20 @@
       "time": "11:36 am",
       "artist": "Jason Isbell and the 400 Unit",
       "title": "What've I Done to Help"
+    },
+    {
+      "time": "11:43 am",
+      "artist": "Wilco",
+      "title": "You And I"
     }
   ],
   "recent": [
+    {
+      "time": "11:23 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Ghost",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "11:20 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "I'm Gonna Love You Too",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "9:49 am",
-      "artist": "Fugazi",
-      "title": "Merchandise",
-      "album": "Repeater • 1990"
     }
   ]
 }
