@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T06:38:36",
+  "updatedAt": "2026-08-30T06:42:11",
   "now": {
-    "artist": "War",
-    "title": "Cisco Kid",
-    "album": "The World Is a Ghetto • 1973",
+    "artist": "Tom Jones",
+    "title": "Green, Green Grass Of Home",
+    "album": "Green, Green Grass of Home • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:42 am",
-      "artist": "Tom Jones",
-      "title": "Green, Green Grass Of Home"
-    },
     {
       "time": "6:45 am",
       "artist": "Yes",
@@ -26,9 +21,20 @@
       "time": "6:55 am",
       "artist": "David Bowie",
       "title": "I Can't Give Everything Away"
+    },
+    {
+      "time": "7:01 am",
+      "artist": "Radiohead",
+      "title": "Bodysnatchers"
     }
   ],
   "recent": [
+    {
+      "time": "6:42 am",
+      "artist": "Tom Jones",
+      "title": "Green, Green Grass Of Home",
+      "album": "Green, Green Grass of Home • 1967"
+    },
     {
       "time": "6:38 am",
       "artist": "War",
@@ -172,12 +178,6 @@
       "artist": "Drake",
       "title": "Best I Ever Had",
       "album": "Thank Me Later • 2010"
-    },
-    {
-      "time": "5:14 am",
-      "artist": "The Velvet Underground",
-      "title": "I'll Be Your Mirror",
-      "album": "The Velvet Underground & Nico • 1967"
     }
   ]
 }
