@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T22:39:04",
+  "updatedAt": "2026-08-29T22:39:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Yer Blues",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:39 pm",
-      "artist": "The Beatles",
-      "title": "Yer Blues"
-    },
     {
       "time": "10:43 pm",
       "artist": "Childish Gambino",
@@ -26,9 +21,20 @@
       "time": "10:49 pm",
       "artist": "Pink Floyd",
       "title": "High Hopes"
+    },
+    {
+      "time": "10:56 pm",
+      "artist": "Skid Row",
+      "title": "I Remember You"
     }
   ],
   "recent": [
+    {
+      "time": "10:39 pm",
+      "artist": "The Beatles",
+      "title": "Yer Blues",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "10:36 pm",
       "artist": "The Unicorns",
@@ -172,12 +178,6 @@
       "artist": "Rascal Flatts",
       "title": "Life is a Highway",
       "album": "Cars soundtrack • 2006"
-    },
-    {
-      "time": "8:59 pm",
-      "artist": "Parliament",
-      "title": "Mothership Connection (Star Child)",
-      "album": "Mothership Connection • 1975"
     }
   ]
 }
