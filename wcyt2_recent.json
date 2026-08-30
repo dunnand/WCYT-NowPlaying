@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T19:10:02",
+  "updatedAt": "2026-08-30T19:10:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Rainy Days And Mondays",
+    "album": "Carpenters • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 pm",
-      "artist": "The Carpenters",
-      "title": "Rainy Days And Mondays"
-    },
     {
       "time": "7:13 pm",
       "artist": "Radiohead",
@@ -31,9 +26,20 @@
       "time": "7:26 pm",
       "artist": "Sugar Ray",
       "title": "Someday"
+    },
+    {
+      "time": "7:30 pm",
+      "artist": "Arthur Russell",
+      "title": "That's Us / Wild Combination"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 pm",
+      "artist": "The Carpenters",
+      "title": "Rainy Days And Mondays",
+      "album": "Carpenters • 1971"
+    },
     {
       "time": "7:05 pm",
       "artist": "The White Stripes",
@@ -177,12 +183,6 @@
       "artist": "The White Stripes",
       "title": "Hardest Button To Button",
       "album": "Elephant • 2003"
-    },
-    {
-      "time": "5:27 pm",
-      "artist": "Bjork",
-      "title": "Stonemilker",
-      "album": "Vulnicura • 2015"
     }
   ]
 }
