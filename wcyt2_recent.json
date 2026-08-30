@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T08:52:20",
+  "updatedAt": "2026-08-30T08:56:36",
   "now": {
-    "artist": "The Dismemberment Plan",
-    "title": "The City",
-    "album": "Emergency & I • 1999",
-    "category": "TUNES"
+    "artist": "FKA twigs",
+    "title": "Video Girl",
+    "album": "LP1 • 2014",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:56 am",
-      "artist": "FKA twigs",
-      "title": "Video Girl"
-    },
     {
       "time": "9:00 am",
       "artist": "Yo La Tengo",
@@ -21,9 +16,20 @@
       "time": "9:06 am",
       "artist": "Wilco",
       "title": "You Never Know"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Billie Eilish",
+      "title": "bad guy"
     }
   ],
   "recent": [
+    {
+      "time": "8:56 am",
+      "artist": "FKA twigs",
+      "title": "Video Girl",
+      "album": "LP1 • 2014"
+    },
     {
       "time": "8:52 am",
       "artist": "The Dismemberment Plan",
@@ -167,12 +173,6 @@
       "artist": "Prince",
       "title": "1999",
       "album": "1999 • 1983"
-    },
-    {
-      "time": "7:19 am",
-      "artist": "Daft Punk",
-      "title": "Da Funk",
-      "album": "Homework • 1997"
     }
   ]
 }
