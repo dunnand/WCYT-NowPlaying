@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T19:37:51",
+  "updatedAt": "2026-08-30T19:42:29",
   "now": {
     "artist": "Radiohead",
-    "title": "Videotape",
-    "album": "In Rainbows • 2007",
+    "title": "Idioteque",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 pm",
-      "artist": "Radiohead",
-      "title": "Idioteque"
-    },
     {
       "time": "7:47 pm",
       "artist": "Adele",
@@ -26,9 +21,20 @@
       "time": "7:53 pm",
       "artist": "Talk Talk",
       "title": "After the Flood"
+    },
+    {
+      "time": "8:03 pm",
+      "artist": "Run",
+      "title": "D.M.C. - Rock Box"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 pm",
+      "artist": "Radiohead",
+      "title": "Idioteque",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "7:37 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Body Paint",
       "album": "The Car • 2022"
-    },
-    {
-      "time": "5:55 pm",
-      "artist": "Mr. Fingers",
-      "title": "Can You Feel It",
-      "album": "Ammnesia • 1989"
     }
   ]
 }
