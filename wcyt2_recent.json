@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T09:00:22",
+  "updatedAt": "2026-08-30T09:00:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Last Days of Disco",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:00 am",
-      "artist": "Yo La Tengo",
-      "title": "Last Days of Disco"
-    },
     {
       "time": "9:06 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "9:14 am",
       "artist": "Elastica",
       "title": "Vaseline"
+    },
+    {
+      "time": "9:15 am",
+      "artist": "Elton John",
+      "title": "Blessed"
     }
   ],
   "recent": [
+    {
+      "time": "9:00 am",
+      "artist": "Yo La Tengo",
+      "title": "Last Days of Disco",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "8:56 am",
       "artist": "FKA twigs",
@@ -172,12 +178,6 @@
       "artist": "Michael Damian",
       "title": "Rock On",
       "album": "Where Do We Go from Here • 1989"
-    },
-    {
-      "time": "7:25 am",
-      "artist": "Prince",
-      "title": "1999",
-      "album": "1999 • 1983"
     }
   ]
 }
