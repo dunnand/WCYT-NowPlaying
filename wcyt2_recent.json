@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-08-30T12:35:11",
+  "updatedAt": "2026-08-30T12:38:06",
   "now": {
-    "artist": "The Beatles",
-    "title": "Long, Long, Long",
-    "album": "The Beatles • 1968",
+    "artist": "Foals",
+    "title": "My Number",
+    "album": "Holy Fire • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 pm",
-      "artist": "Foals",
-      "title": "My Number"
-    },
     {
       "time": "12:42 pm",
       "artist": "Heavenly",
       "title": "P.U.N.K. Girl"
     },
     {
-      "time": "12:45 pm",
+      "time": "12:44 pm",
       "artist": "Jamiroquai",
       "title": "Cosmic Girl"
+    },
+    {
+      "time": "12:49 pm",
+      "artist": "David Bowie",
+      "title": "Blue Jean"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 pm",
+      "artist": "Foals",
+      "title": "My Number",
+      "album": "Holy Fire • 2013"
+    },
     {
       "time": "12:35 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Planet Telex",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "11:00 am",
-      "artist": "Fleetwood Mac",
-      "title": "Second Hand News",
-      "album": "Rumours • 1977"
     }
   ]
 }
