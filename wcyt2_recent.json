@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T18:38:08",
+  "updatedAt": "2026-08-30T18:40:11",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yesterday",
-    "album": "Help! • 1965",
+    "artist": "Beyonce",
+    "title": "XO",
+    "album": "Beyonce • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:40 pm",
-      "artist": "Beyonce",
-      "title": "XO"
-    },
     {
       "time": "6:43 pm",
       "artist": "Sting",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:40 pm",
+      "artist": "Beyonce",
+      "title": "XO",
+      "album": "Beyonce • 2013"
+    },
     {
       "time": "6:38 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Rihanna",
       "title": "Don't Stop the Music",
       "album": "Good Girl Gone Bad • 2007"
-    },
-    {
-      "time": "4:59 pm",
-      "artist": "Alice Merton",
-      "title": "run away girl",
-      "album": "Heron II • 2024"
     }
   ]
 }
