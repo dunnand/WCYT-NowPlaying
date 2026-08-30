@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T00:41:38",
+  "updatedAt": "2026-08-30T00:45:13",
   "now": {
-    "artist": "Neil Diamond",
-    "title": "Longfellow Serenade",
-    "album": "Serenade • 1974",
-    "category": "AUDIO"
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Maps",
+    "album": "Fever To Tell • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Maps"
-    },
     {
       "time": "12:48 am",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "12:58 am",
       "artist": "De La Soul",
       "title": "A Roller Skating Jam Named \"Saturdays\""
+    },
+    {
+      "time": "1:02 am",
+      "artist": "The Everly Brothers",
+      "title": "Wake Up Little Susie"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Maps",
+      "album": "Fever To Tell • 2003"
+    },
     {
       "time": "12:41 am",
       "artist": "Neil Diamond",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Something",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "Styx",
-      "title": "Come Sail Away",
-      "album": "The Grand Illusion • 1977"
     }
   ]
 }
