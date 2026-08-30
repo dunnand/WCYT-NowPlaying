@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T11:14:25",
+  "updatedAt": "2026-08-30T11:14:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Misery",
+    "album": "Please Please Me • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:14 am",
-      "artist": "The Beatles",
-      "title": "Misery"
-    },
     {
       "time": "11:16 am",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "11:23 am",
       "artist": "Neutral Milk Hotel",
       "title": "Ghost"
+    },
+    {
+      "time": "11:27 am",
+      "artist": "Husker Du",
+      "title": "I Apologize"
     }
   ],
   "recent": [
+    {
+      "time": "11:14 am",
+      "artist": "The Beatles",
+      "title": "Misery",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "11:09 am",
       "artist": "Regina Spektor",
@@ -172,12 +178,6 @@
       "artist": "The Kinks",
       "title": "Tired of Waiting for You",
       "album": "Kinda Kinks • 1965"
-    },
-    {
-      "time": "9:41 am",
-      "artist": "Exile",
-      "title": "Kiss You All Over",
-      "album": "Mixed Emotions • 1978"
     }
   ]
 }
