@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T10:41:09",
+  "updatedAt": "2026-08-30T10:41:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Normal",
+    "title": "Warm Leatherette",
+    "album": "ALBUM: Warm Leatherette • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:41 am",
-      "artist": "The Normal",
-      "title": "Warm Leatherette"
-    },
     {
       "time": "10:44 am",
       "artist": "The Guess Who",
@@ -26,9 +21,20 @@
       "time": "10:54 am",
       "artist": "The Beatles",
       "title": "It's All Too Much"
+    },
+    {
+      "time": "11:00 am",
+      "artist": "Fleetwood Mac",
+      "title": "Second Hand News"
     }
   ],
   "recent": [
+    {
+      "time": "10:41 am",
+      "artist": "The Normal",
+      "title": "Warm Leatherette",
+      "album": "ALBUM: Warm Leatherette • 1978"
+    },
     {
       "time": "10:37 am",
       "artist": "American Football",
@@ -172,12 +178,6 @@
       "artist": "Elastica",
       "title": "Vaseline",
       "album": "Elastica • 1995"
-    },
-    {
-      "time": "9:11 am",
-      "artist": "Billie Eilish",
-      "title": "bad guy",
-      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? • 2019"
     }
   ]
 }
