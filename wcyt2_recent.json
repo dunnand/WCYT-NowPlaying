@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T00:27:57",
+  "updatedAt": "2026-08-30T00:31:21",
   "now": {
-    "artist": "Willie Nelson",
-    "title": "Always On My Mind",
-    "album": "Always on My Mind • 1982",
+    "artist": "Taylor Swift",
+    "title": "Enchanted (Taylor's version)",
+    "album": "Speak Now • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 am",
-      "artist": "Taylor Swift",
-      "title": "Enchanted (Taylor's version)"
-    },
     {
       "time": "12:37 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "12:45 am",
       "artist": "Yeah Yeah Yeahs",
       "title": "Maps"
+    },
+    {
+      "time": "12:48 am",
+      "artist": "Beyonce",
+      "title": "Blue"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 am",
+      "artist": "Taylor Swift",
+      "title": "Enchanted (Taylor's version)",
+      "album": "Speak Now • 2023"
+    },
     {
       "time": "12:27 am",
       "artist": "Willie Nelson",
@@ -172,12 +178,6 @@
       "artist": "Siouxsie and the Banshees",
       "title": "Peek-a-boo",
       "album": "Peepshow • 1988"
-    },
-    {
-      "time": "10:00 pm",
-      "artist": "Sheila E.",
-      "title": "A Love Bizarre",
-      "album": "Romance 1600 • 1985"
     }
   ]
 }
