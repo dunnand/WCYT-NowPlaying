@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T14:49:20",
+  "updatedAt": "2026-08-30T14:54:36",
   "now": {
-    "artist": "Metallica",
-    "title": "Sad but True",
-    "album": "Metallica • 1991",
+    "artist": "Michael Bolton",
+    "title": "Time, Love And Tenderness",
+    "album": "Time, Love & Tenderness • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:54 pm",
-      "artist": "Michael Bolton",
-      "title": "Time, Love And Tenderness"
-    },
     {
       "time": "2:58 pm",
       "artist": "Cocteau Twins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:54 pm",
+      "artist": "Michael Bolton",
+      "title": "Time, Love And Tenderness",
+      "album": "Time, Love & Tenderness • 1991"
+    },
     {
       "time": "2:49 pm",
       "artist": "Metallica",
@@ -172,12 +173,6 @@
       "artist": "Super Furry Animals",
       "title": "Hello Sunshine",
       "album": "Rings Around the World • 2001"
-    },
-    {
-      "time": "1:15 pm",
-      "artist": "Neil Young",
-      "title": "Tonight's the Night",
-      "album": "Tonight's the Night • 1975"
     }
   ]
 }
