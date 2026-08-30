@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-30T18:18:10",
+  "updatedAt": "2026-08-30T18:23:07",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Hollywood Nights",
-    "album": "Stranger in Town • 1978",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Svefn-g-englar",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "6:23 pm",
-      "artist": "Sigur Ros",
-      "title": "Svefn-g-englar"
-    },
-    {
-      "time": "6:32 pm",
+      "time": "6:31 pm",
       "artist": "Ricky Nelson",
       "title": "I'm Walkin'"
     },
@@ -26,9 +21,20 @@
       "time": "6:38 pm",
       "artist": "The Beatles",
       "title": "Yesterday"
+    },
+    {
+      "time": "6:40 pm",
+      "artist": "Beyonce",
+      "title": "XO"
     }
   ],
   "recent": [
+    {
+      "time": "6:23 pm",
+      "artist": "Sigur Ros",
+      "title": "Svefn-g-englar",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "6:18 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +178,6 @@
       "artist": "Prince and the New Power Generation",
       "title": "Cream",
       "album": "Diamonds and Pearls • 1991"
-    },
-    {
-      "time": "4:42 pm",
-      "artist": "Primal Scream",
-      "title": "Higher Than The Sun",
-      "album": "Screamadelica • 1991"
     }
   ]
 }
