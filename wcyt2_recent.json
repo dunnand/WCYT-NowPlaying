@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T18:37:56",
+  "updatedAt": "2026-08-30T18:38:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Yesterday",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:38 pm",
-      "artist": "The Beatles",
-      "title": "Yesterday"
-    },
     {
       "time": "6:40 pm",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "6:47 pm",
       "artist": "Sugar",
       "title": "A Good Idea"
+    },
+    {
+      "time": "6:51 pm",
+      "artist": "Paul Simon",
+      "title": "You Can Call Me Al"
     }
   ],
   "recent": [
+    {
+      "time": "6:38 pm",
+      "artist": "The Beatles",
+      "title": "Yesterday",
+      "album": "Help! • 1965"
+    },
     {
       "time": "6:33 pm",
       "artist": "Sister Hazel",
@@ -172,12 +178,6 @@
       "artist": "Alice Merton",
       "title": "run away girl",
       "album": "Heron II • 2024"
-    },
-    {
-      "time": "4:54 pm",
-      "artist": "Janet Jackson",
-      "title": "Black Cat",
-      "album": "Janet Jackson's Rhythm Nation 1814 • 1989"
     }
   ]
 }
