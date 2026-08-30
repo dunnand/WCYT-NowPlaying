@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-29T21:05:22",
+  "updatedAt": "2026-08-29T21:09:58",
   "now": {
-    "artist": "Rascal Flatts",
-    "title": "Life is a Highway",
-    "album": "Cars soundtrack • 2006",
+    "artist": "The Beatles",
+    "title": "Love You To",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:09 pm",
-      "artist": "The Beatles",
-      "title": "Love You To"
-    },
     {
       "time": "9:12 pm",
       "artist": "Paul McCartney",
@@ -26,9 +21,20 @@
       "time": "9:16 pm",
       "artist": "Ariana Grande",
       "title": "The Way"
+    },
+    {
+      "time": "9:20 pm",
+      "artist": "Train",
+      "title": "Drops Of Jupiter (Tell Me)"
     }
   ],
   "recent": [
+    {
+      "time": "9:09 pm",
+      "artist": "The Beatles",
+      "title": "Love You To",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "9:05 pm",
       "artist": "Rascal Flatts",
@@ -172,12 +178,6 @@
       "artist": "Chance the Rapper",
       "title": "Do You Remember",
       "album": "Do You Remember • 2019"
-    },
-    {
-      "time": "7:25 pm",
-      "artist": "The Beatles",
-      "title": "The Continuing Story Of Bungalow Bill",
-      "album": "The Beatles • 1968"
     }
   ]
 }
