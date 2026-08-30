@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T18:56:04",
+  "updatedAt": "2026-08-30T18:56:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Phil Collins",
+    "title": "Another Day In Paradise",
+    "album": "...But Seriously • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:56 pm",
-      "artist": "Phil Collins",
-      "title": "Another Day In Paradise"
-    },
     {
       "time": "7:01 pm",
       "artist": "Christine and the Queens",
@@ -26,9 +21,20 @@
       "time": "7:10 pm",
       "artist": "The Carpenters",
       "title": "Rainy Days And Mondays"
+    },
+    {
+      "time": "7:13 pm",
+      "artist": "Radiohead",
+      "title": "Where I End and You Begin. (The Sky Is Falling In.)"
     }
   ],
   "recent": [
+    {
+      "time": "6:56 pm",
+      "artist": "Phil Collins",
+      "title": "Another Day In Paradise",
+      "album": "...But Seriously • 1989"
+    },
     {
       "time": "6:51 pm",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Nitty Gritty Dirt Band",
       "title": "Mr. Bojangles",
       "album": "Uncle Charlie & His Dog Teddy • 1970"
-    },
-    {
-      "time": "5:17 pm",
-      "artist": "Alexandra Stan",
-      "title": "Mr. Saxobeat",
-      "album": "Saxobeats • 2011"
     }
   ]
 }
