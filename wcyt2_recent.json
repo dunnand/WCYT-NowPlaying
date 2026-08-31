@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T12:55:03",
+  "updatedAt": "2026-08-31T12:55:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Dig a Pony",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "The Beatles",
-      "title": "Dig a Pony"
-    },
     {
       "time": "12:59 pm",
       "artist": "Faust",
@@ -26,9 +21,20 @@
       "time": "1:10 pm",
       "artist": "The Beatles",
       "title": "Another Girl"
+    },
+    {
+      "time": "1:12 pm",
+      "artist": "Idris Muhammad",
+      "title": "Could Heaven Ever Be Like This"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "The Beatles",
+      "title": "Dig a Pony",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "12:50 pm",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Lose Yourself to Dance (feat. Pharrell Williams)",
       "album": "Random Access Memories • 2013"
-    },
-    {
-      "time": "11:06 am",
-      "artist": "The Band",
-      "title": "Atlantic City",
-      "album": "Jericho • 1993"
     }
   ]
 }
