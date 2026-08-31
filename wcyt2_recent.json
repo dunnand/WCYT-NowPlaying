@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-08-31T12:03:35",
+  "updatedAt": "2026-08-31T12:05:28",
   "now": {
-    "artist": "The Beatles",
-    "title": "All My Loving",
-    "album": "With the Beatles • 1963",
+    "artist": "Eagles",
+    "title": "Take It Easy",
+    "album": "Eagles • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:05 pm",
-      "artist": "Eagles",
-      "title": "Take It Easy"
-    },
-    {
-      "time": "12:09 pm",
+      "time": "12:08 pm",
       "artist": "Blur",
       "title": "Tender"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:05 pm",
+      "artist": "Eagles",
+      "title": "Take It Easy",
+      "album": "Eagles • 1972"
+    },
     {
       "time": "12:03 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Belle and Sebastian",
       "title": "Like Dylan in the Movies",
       "album": "If You're Feeling Sinister • 1996"
-    },
-    {
-      "time": "10:26 am",
-      "artist": "Charles Bradley",
-      "title": "Heartaches and Pain",
-      "album": "No Time For Dreaming • 2011"
     }
   ]
 }
