@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T05:38:32",
+  "updatedAt": "2026-08-31T05:40:45",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Between the Bars",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Buddy Holly",
+    "title": "Oh, Boy!",
+    "album": "The Chirping Crickets • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:40 am",
-      "artist": "Buddy Holly",
-      "title": "Oh, Boy!"
-    },
     {
       "time": "5:42 am",
       "artist": "The Mars Volta",
@@ -26,9 +21,20 @@
       "time": "5:50 am",
       "artist": "The Decemberists",
       "title": "Calamity Song"
+    },
+    {
+      "time": "5:53 am",
+      "artist": "Pearl Jam",
+      "title": "Alive"
     }
   ],
   "recent": [
+    {
+      "time": "5:40 am",
+      "artist": "Buddy Holly",
+      "title": "Oh, Boy!",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "5:38 am",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Fall On Me",
       "album": "Lifes Rich Pageant • 1986"
-    },
-    {
-      "time": "3:57 am",
-      "artist": "Oasis",
-      "title": "Champagne Supernova",
-      "album": "Whats the Story) Morning Glory? • 1996"
     }
   ]
 }
