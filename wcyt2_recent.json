@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T22:39:12",
+  "updatedAt": "2026-08-30T22:42:17",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Sweet Adeline",
-    "album": "XO • 1998",
-    "category": "TUNES"
+    "artist": "Pearl Jam",
+    "title": "Jeremy",
+    "album": "Ten • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:42 pm",
-      "artist": "Pearl Jam",
-      "title": "Jeremy"
-    },
     {
       "time": "10:47 pm",
       "artist": "Echo & the Bunnymen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:42 pm",
+      "artist": "Pearl Jam",
+      "title": "Jeremy",
+      "album": "Ten • 1991"
+    },
     {
       "time": "10:39 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "I Will. (No Man's Land.)",
       "album": "Hail to the Thief • 2003"
-    },
-    {
-      "time": "9:12 pm",
-      "artist": "Kenny Loggins",
-      "title": "Whenever I Call You \"Friend\"",
-      "album": "Nightwatch • 1978"
     }
   ]
 }
