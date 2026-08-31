@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T12:05:28",
+  "updatedAt": "2026-08-31T12:08:53",
   "now": {
-    "artist": "Eagles",
-    "title": "Take It Easy",
-    "album": "Eagles • 1972",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Tender",
+    "album": "13 • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:08 pm",
-      "artist": "Blur",
-      "title": "Tender"
-    },
     {
       "time": "12:16 pm",
       "artist": "Louis Armstrong & His All",
@@ -21,9 +16,20 @@
       "time": "12:21 pm",
       "artist": "Wilco",
       "title": "What Light"
+    },
+    {
+      "time": "12:24 pm",
+      "artist": "The Doors",
+      "title": "Light My Fire"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 pm",
+      "artist": "Blur",
+      "title": "Tender",
+      "album": "13 • 1999"
+    },
     {
       "time": "12:05 pm",
       "artist": "Eagles",
@@ -167,12 +173,6 @@
       "artist": "Built to Spill",
       "title": "Car",
       "album": "Theres Nothing Wrong With Love • 1994"
-    },
-    {
-      "time": "10:28 am",
-      "artist": "Belle and Sebastian",
-      "title": "Like Dylan in the Movies",
-      "album": "If You're Feeling Sinister • 1996"
     }
   ]
 }
