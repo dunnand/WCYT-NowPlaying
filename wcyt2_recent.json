@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T00:42:53",
+  "updatedAt": "2026-08-31T00:46:06",
   "now": {
-    "artist": "ABBA",
-    "title": "SOS",
-    "album": "ABBA • 1975",
+    "artist": "Foo Fighters",
+    "title": "I'll Stick Around",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "Foo Fighters",
-      "title": "I'll Stick Around"
-    },
     {
       "time": "12:49 am",
       "artist": "Fats Domino",
@@ -26,9 +21,20 @@
       "time": "12:56 am",
       "artist": "The Beatles",
       "title": "The Inner Light"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "Arctic Monkeys",
+      "title": "No. 1 Party Anthem"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "Foo Fighters",
+      "title": "I'll Stick Around",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "12:42 am",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "Seven Nation Army",
       "album": "Elephant • 2003"
-    },
-    {
-      "time": "11:02 pm",
-      "artist": "Elton John",
-      "title": "Crazy Water",
-      "album": "Blue Moves • 1976"
     }
   ]
 }
