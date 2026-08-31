@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T22:39:00",
+  "updatedAt": "2026-08-30T22:39:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Sweet Adeline",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:39 pm",
-      "artist": "Elliott Smith",
-      "title": "Sweet Adeline"
-    },
     {
       "time": "10:42 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "10:51 pm",
       "artist": "Fleetwood Mac",
       "title": "Big Love"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame"
     }
   ],
   "recent": [
+    {
+      "time": "10:39 pm",
+      "artist": "Elliott Smith",
+      "title": "Sweet Adeline",
+      "album": "XO • 1998"
+    },
     {
       "time": "10:34 pm",
       "artist": "Black Pumas",
@@ -172,12 +178,6 @@
       "artist": "Kenny Loggins",
       "title": "Whenever I Call You \"Friend\"",
       "album": "Nightwatch • 1978"
-    },
-    {
-      "time": "9:09 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Date With The Night",
-      "album": "Fever To Tell • 2003"
     }
   ]
 }
