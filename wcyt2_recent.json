@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T11:03:21",
+  "updatedAt": "2026-08-31T11:06:13",
   "now": {
-    "artist": "Jim Ed Brown",
-    "title": "Morning",
-    "album": "Morning • 1970",
+    "artist": "The Band",
+    "title": "Atlantic City",
+    "album": "Jericho • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:06 am",
-      "artist": "The Band",
-      "title": "Atlantic City"
-    },
     {
       "time": "11:11 am",
       "artist": "Daft Punk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:06 am",
+      "artist": "The Band",
+      "title": "Atlantic City",
+      "album": "Jericho • 1993"
+    },
     {
       "time": "11:03 am",
       "artist": "Jim Ed Brown",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Exit Music (for a Film)",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "9:32 am",
-      "artist": "Tracy Chapman",
-      "title": "Give Me One Reason",
-      "album": "New Beginning • 1996"
     }
   ]
 }
