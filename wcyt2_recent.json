@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T14:11:02",
+  "updatedAt": "2026-08-31T14:13:14",
   "now": {
-    "artist": "The Beatles",
-    "title": "Think For Yourself",
-    "album": "Rubber Soul • 1965",
+    "artist": "Grace Jones",
+    "title": "La vie en rose",
+    "album": "Portfolio • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:13 pm",
-      "artist": "Grace Jones",
-      "title": "La vie en rose"
-    },
     {
       "time": "2:20 pm",
       "artist": "Eric Clapton",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:13 pm",
+      "artist": "Grace Jones",
+      "title": "La vie en rose",
+      "album": "Portfolio • 1977"
+    },
     {
       "time": "2:11 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "Secret Garden",
       "album": "Jerry Maguire Soundtrack • 1997"
-    },
-    {
-      "time": "12:31 pm",
-      "artist": "Against Me!",
-      "title": "Transgender Dysphoria Blues",
-      "album": "Transgender Dysphoria Blues • 2014"
     }
   ]
 }
