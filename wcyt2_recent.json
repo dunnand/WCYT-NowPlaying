@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T14:13:14",
+  "updatedAt": "2026-08-31T14:20:39",
   "now": {
-    "artist": "Grace Jones",
-    "title": "La vie en rose",
-    "album": "Portfolio • 1977",
+    "artist": "Eric Clapton",
+    "title": "My Father's Eyes",
+    "album": "Pilgrim • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:20 pm",
-      "artist": "Eric Clapton",
-      "title": "My Father's Eyes"
-    },
     {
       "time": "2:25 pm",
       "artist": "Fats Domino",
@@ -21,9 +16,20 @@
       "time": "2:28 pm",
       "artist": "The White Stripes",
       "title": "I Just Don't Know What to Do With Myself"
+    },
+    {
+      "time": "2:31 pm",
+      "artist": "The Beatles",
+      "title": "I've Just Seen A Face"
     }
   ],
   "recent": [
+    {
+      "time": "2:20 pm",
+      "artist": "Eric Clapton",
+      "title": "My Father's Eyes",
+      "album": "Pilgrim • 1998"
+    },
     {
       "time": "2:13 pm",
       "artist": "Grace Jones",
@@ -167,12 +173,6 @@
       "artist": "Celine Dion",
       "title": "The Power Of Love",
       "album": "The Colour of My Love • 1993"
-    },
-    {
-      "time": "12:35 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Secret Garden",
-      "album": "Jerry Maguire Soundtrack • 1997"
     }
   ]
 }
