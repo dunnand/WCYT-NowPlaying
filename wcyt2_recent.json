@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T02:14:11",
+  "updatedAt": "2026-08-31T02:14:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eno",
+    "title": "On Some Faraway Beach",
+    "album": "Here Come the Warm Jets • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:14 am",
-      "artist": "Eno",
-      "title": "On Some Faraway Beach"
-    },
     {
       "time": "2:19 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "2:27 am",
       "artist": "The Beatles",
       "title": "Birthday"
+    },
+    {
+      "time": "2:30 am",
+      "artist": "Elvis Costello",
+      "title": "Pump It Up"
     }
   ],
   "recent": [
+    {
+      "time": "2:14 am",
+      "artist": "Eno",
+      "title": "On Some Faraway Beach",
+      "album": "Here Come the Warm Jets • 1974"
+    },
     {
       "time": "2:13 am",
       "artist": "Naoto Ishida",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "The Fat Man",
       "album": "Rock and Rollin' With Fats Domino • 1956"
-    },
-    {
-      "time": "12:46 am",
-      "artist": "Foo Fighters",
-      "title": "I'll Stick Around",
-      "album": "Foo Fighters • 1995"
     }
   ]
 }
