@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T05:09:05",
+  "updatedAt": "2026-08-31T05:09:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Aerosmith",
+    "title": "Angel",
+    "album": "Permanent Vacation • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:09 am",
-      "artist": "Aerosmith",
-      "title": "Angel"
-    },
     {
       "time": "5:14 am",
       "artist": "Jason Isbell and the 400 Unit",
@@ -26,9 +21,20 @@
       "time": "5:22 am",
       "artist": "Joy Division",
       "title": "She's Lost Control"
+    },
+    {
+      "time": "5:26 am",
+      "artist": "Santana",
+      "title": "The Game Of Love Feat. Michelle Branch"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 am",
+      "artist": "Aerosmith",
+      "title": "Angel",
+      "album": "Permanent Vacation • 1988"
+    },
     {
       "time": "5:04 am",
       "artist": "Public Image Ltd.",
@@ -172,12 +178,6 @@
       "artist": "James Brown",
       "title": "The Payback",
       "album": "The Payback • 1974"
-    },
-    {
-      "time": "3:27 am",
-      "artist": "Adele",
-      "title": "Rolling In The Deep",
-      "album": "21 • 2010"
     }
   ]
 }
