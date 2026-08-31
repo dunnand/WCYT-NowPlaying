@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T02:56:18",
+  "updatedAt": "2026-08-31T02:56:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mariah Carey",
+    "title": "Fantasy",
+    "album": "Daydream • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 am",
-      "artist": "Mariah Carey",
-      "title": "Fantasy"
-    },
     {
       "time": "3:00 am",
       "artist": "New Order",
@@ -26,9 +21,20 @@
       "time": "3:11 am",
       "artist": "Lil Nas X",
       "title": "INDUSTRY BABY"
+    },
+    {
+      "time": "3:14 am",
+      "artist": "Spoon",
+      "title": "Someone Something"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 am",
+      "artist": "Mariah Carey",
+      "title": "Fantasy",
+      "album": "Daydream • 1995"
+    },
     {
       "time": "2:54 am",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "Usher",
       "title": "Yeah! (feat. Lil Jon & Ludacris)",
       "album": "Confessions • 2004"
-    },
-    {
-      "time": "1:27 am",
-      "artist": "Barry Manilow",
-      "title": "Mandy",
-      "album": "Barry Manilow II • 1974"
     }
   ]
 }
