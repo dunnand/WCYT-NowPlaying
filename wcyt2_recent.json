@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T08:46:40",
+  "updatedAt": "2026-08-31T08:46:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kraftwerk",
+    "title": "Numbers",
+    "album": "Computer World • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:46 am",
-      "artist": "Kraftwerk",
-      "title": "Numbers"
-    },
     {
       "time": "8:53 am",
       "artist": "Charli XCX",
@@ -26,9 +21,20 @@
       "time": "9:00 am",
       "artist": "The Kinks",
       "title": "Strangers"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "The White Stripes",
+      "title": "Dead Leaves and the Dirty Ground"
     }
   ],
   "recent": [
+    {
+      "time": "8:46 am",
+      "artist": "Kraftwerk",
+      "title": "Numbers",
+      "album": "Computer World • 1981"
+    },
     {
       "time": "8:42 am",
       "artist": "Journey",
@@ -172,12 +178,6 @@
       "artist": "Supertramp",
       "title": "Bloody Well Right",
       "album": "Crime of the Century • 1975"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "The Shangri-Las",
-      "title": "Give Him A Great Big Kiss",
-      "album": "Leader of the Pack • 1965"
     }
   ]
 }
