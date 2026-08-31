@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T00:56:57",
+  "updatedAt": "2026-08-31T00:59:31",
   "now": {
-    "artist": "The Beatles",
-    "title": "The Inner Light",
-    "album": "I Call Your Name • 1968",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "No. 1 Party Anthem",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "Arctic Monkeys",
-      "title": "No. 1 Party Anthem"
-    },
     {
       "time": "1:03 am",
       "artist": "Madonna",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "Arctic Monkeys",
+      "title": "No. 1 Party Anthem",
+      "album": "AM • 2013"
+    },
     {
       "time": "12:56 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Sister Rosetta Tharpe",
       "title": "Up Above My Head I Hear Music In The Air",
       "album": "single • 1948"
-    },
-    {
-      "time": "11:21 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Disarm",
-      "album": "Siamese Dream • 1993"
     }
   ]
 }
