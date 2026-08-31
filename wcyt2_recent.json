@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T06:33:59",
+  "updatedAt": "2026-08-31T06:36:24",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Mystery Train",
-    "album": "Rock N Roll • 1956",
-    "category": "AUDIO"
+    "artist": "The Unicorns",
+    "title": "I Was Born (A Unicorn)",
+    "album": "Who Will Cut Our Hair When We're Gone • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:36 am",
-      "artist": "The Unicorns",
-      "title": "I Was Born (A Unicorn)"
-    },
     {
       "time": "6:39 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "6:41 am",
       "artist": "Christina Perri",
       "title": "A Thousand Years"
+    },
+    {
+      "time": "6:45 am",
+      "artist": "Tonic",
+      "title": "If You Could Only See"
     }
   ],
   "recent": [
+    {
+      "time": "6:36 am",
+      "artist": "The Unicorns",
+      "title": "I Was Born (A Unicorn)",
+      "album": "Who Will Cut Our Hair When We're Gone • 2003"
+    },
     {
       "time": "6:33 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Aerosmith",
       "title": "Angel",
       "album": "Permanent Vacation • 1988"
-    },
-    {
-      "time": "5:04 am",
-      "artist": "Public Image Ltd.",
-      "title": "This Is Not A Love Song",
-      "album": "This Is What You Want... This Is What You Get • 1984"
     }
   ]
 }
