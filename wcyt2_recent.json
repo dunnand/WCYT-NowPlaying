@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T14:07:04",
+  "updatedAt": "2026-08-31T14:11:02",
   "now": {
-    "artist": "The Clash",
-    "title": "Death or Glory",
-    "album": "London Calling • 1979",
+    "artist": "The Beatles",
+    "title": "Think For Yourself",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:11 pm",
-      "artist": "The Beatles",
-      "title": "Think For Yourself"
-    },
     {
       "time": "2:13 pm",
       "artist": "Grace Jones",
@@ -26,9 +21,20 @@
       "time": "2:25 pm",
       "artist": "Fats Domino",
       "title": "Ain't That A Shame?"
+    },
+    {
+      "time": "2:28 pm",
+      "artist": "The White Stripes",
+      "title": "I Just Don't Know What to Do With Myself"
     }
   ],
   "recent": [
+    {
+      "time": "2:11 pm",
+      "artist": "The Beatles",
+      "title": "Think For Yourself",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "2:07 pm",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Against Me!",
       "title": "Transgender Dysphoria Blues",
       "album": "Transgender Dysphoria Blues • 2014"
-    },
-    {
-      "time": "12:24 pm",
-      "artist": "The Doors",
-      "title": "Light My Fire",
-      "album": "The Doors • 1967"
     }
   ]
 }
