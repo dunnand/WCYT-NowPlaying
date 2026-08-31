@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T00:39:28",
+  "updatedAt": "2026-08-31T00:42:53",
   "now": {
-    "artist": "The Beatles",
-    "title": "Don't Let Me Down",
-    "album": "single • 1969",
+    "artist": "ABBA",
+    "title": "SOS",
+    "album": "ABBA • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "ABBA",
-      "title": "SOS"
-    },
     {
       "time": "12:46 am",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "12:52 am",
       "artist": "Simian; Justice",
       "title": "We Are Your Friends"
+    },
+    {
+      "time": "12:56 am",
+      "artist": "The Beatles",
+      "title": "The Inner Light"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "ABBA",
+      "title": "SOS",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "12:39 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Elton John",
       "title": "Crazy Water",
       "album": "Blue Moves • 1976"
-    },
-    {
-      "time": "10:59 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "One Love / People Get Ready",
-      "album": "Exodus • 1977"
     }
   ]
 }
