@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T10:09:01",
+  "updatedAt": "2026-08-31T10:12:04",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Domino",
-    "album": "His Band and the Street Choir • 1971",
+    "artist": "Steve Earle",
+    "title": "The Mountain",
+    "album": "The Mountain • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:12 am",
-      "artist": "Steve Earle",
-      "title": "The Mountain"
-    },
     {
       "time": "10:16 am",
       "artist": "Peggy Lee",
@@ -21,9 +16,20 @@
       "time": "10:19 am",
       "artist": "U2",
       "title": "All Because Of You"
+    },
+    {
+      "time": "10:23 am",
+      "artist": "The Byrds",
+      "title": "My Back Pages"
     }
   ],
   "recent": [
+    {
+      "time": "10:12 am",
+      "artist": "Steve Earle",
+      "title": "The Mountain",
+      "album": "The Mountain • 1999"
+    },
     {
       "time": "10:09 am",
       "artist": "Van Morrison",
@@ -167,12 +173,6 @@
       "artist": "Sublime",
       "title": "What I Got",
       "album": "Sublime • 1996"
-    },
-    {
-      "time": "8:35 am",
-      "artist": "Sonic Youth",
-      "title": "Superstar",
-      "album": "If I Were A Carpenter • 1994"
     }
   ]
 }
