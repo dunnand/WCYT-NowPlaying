@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T03:17:22",
+  "updatedAt": "2026-08-31T03:17:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "After Midnight",
+    "album": "Eric Clapton • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:17 am",
-      "artist": "Eric Clapton",
-      "title": "After Midnight"
-    },
     {
       "time": "3:20 am",
       "artist": "Sonic Youth",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:17 am",
+      "artist": "Eric Clapton",
+      "title": "After Midnight",
+      "album": "Eric Clapton • 1970"
+    },
     {
       "time": "3:14 am",
       "artist": "Spoon",
@@ -177,12 +178,6 @@
       "artist": "Spoon",
       "title": "Anything You Want",
       "album": "Girls Can Tell • 2002"
-    },
-    {
-      "time": "1:47 am",
-      "artist": "The Fleetwoods",
-      "title": "Mr. Blue",
-      "album": "Mr. Blue • 1959"
     }
   ]
 }
