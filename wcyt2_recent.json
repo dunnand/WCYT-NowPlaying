@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T13:07:00",
+  "updatedAt": "2026-08-31T13:10:04",
   "now": {
-    "artist": "System of a Down",
-    "title": "Hypnotize",
-    "album": "Hypnotize • 2005",
+    "artist": "The Beatles",
+    "title": "Another Girl",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 pm",
-      "artist": "The Beatles",
-      "title": "Another Girl"
-    },
     {
       "time": "1:12 pm",
       "artist": "Idris Muhammad",
@@ -26,9 +21,20 @@
       "time": "1:23 pm",
       "artist": "Charles Bradley",
       "title": "The World (Is Going Up in Flames)"
+    },
+    {
+      "time": "1:27 pm",
+      "artist": "The Killers",
+      "title": "When You Were Young"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 pm",
+      "artist": "The Beatles",
+      "title": "Another Girl",
+      "album": "Help! • 1965"
+    },
     {
       "time": "1:07 pm",
       "artist": "System of a Down",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "Sober",
       "album": "STN MTN / Kauai • 2014"
-    },
-    {
-      "time": "11:20 am",
-      "artist": "Spoon",
-      "title": "Lines in the Suit",
-      "album": "Girls Can Tell • 2002"
     }
   ]
 }
