@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T12:31:04",
+  "updatedAt": "2026-08-31T12:31:14",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sufjan Stevens",
+    "title": "The Ascension",
+    "album": "The Ascension • 2020",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Sufjan Stevens",
-      "title": "The Ascension"
-    },
     {
       "time": "12:36 pm",
       "artist": "Toro y Moi",
@@ -26,9 +21,20 @@
       "time": "12:42 pm",
       "artist": "Hovvdy",
       "title": "Blast"
+    },
+    {
+      "time": "12:46 pm",
+      "artist": "Husker Du",
+      "title": "Pink Turns to Blue"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Sufjan Stevens",
+      "title": "The Ascension",
+      "album": "The Ascension • 2020"
+    },
     {
       "time": "12:29 pm",
       "artist": "The Smiths",
@@ -172,12 +178,6 @@
       "artist": "Father John Misty",
       "title": "Please Don't Die",
       "album": "God's Favorite Customer • 2018"
-    },
-    {
-      "time": "10:57 am",
-      "artist": "Babe Rainbow",
-      "title": "Waterfall",
-      "album": "Acid and Honey • 2026"
     }
   ]
 }
