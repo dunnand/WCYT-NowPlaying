@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T18:28:47",
+  "updatedAt": "2026-08-31T18:32:23",
   "now": {
-    "artist": "Prefab Sprout",
-    "title": "Bonny",
-    "album": "Steve McQueen • 1985",
+    "artist": "Deftones",
+    "title": "Genesis",
+    "album": "Ohms • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:32 pm",
-      "artist": "Deftones",
-      "title": "Genesis"
-    },
     {
       "time": "6:37 pm",
       "artist": "Fleetwood Mac",
@@ -21,9 +16,20 @@
       "time": "6:41 pm",
       "artist": "Paul Davis",
       "title": "Sweet Life"
+    },
+    {
+      "time": "6:45 pm",
+      "artist": "Radiohead",
+      "title": "Packt Like Sardines in a Crushd Tin Box"
     }
   ],
   "recent": [
+    {
+      "time": "6:32 pm",
+      "artist": "Deftones",
+      "title": "Genesis",
+      "album": "Ohms • 2020"
+    },
     {
       "time": "6:28 pm",
       "artist": "Prefab Sprout",
@@ -167,12 +173,6 @@
       "artist": "Matchbox Twenty",
       "title": "Real World",
       "album": "Yourself or Someone Like You • 1998"
-    },
-    {
-      "time": "4:58 pm",
-      "artist": "George Harrison",
-      "title": "Blow Away",
-      "album": "George Harrison • 1979"
     }
   ]
 }
