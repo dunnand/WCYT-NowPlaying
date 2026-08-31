@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T00:46:06",
+  "updatedAt": "2026-08-31T00:49:50",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "I'll Stick Around",
-    "album": "Foo Fighters • 1995",
+    "artist": "Fats Domino",
+    "title": "The Fat Man",
+    "album": "Rock and Rollin' With Fats Domino • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "Fats Domino",
-      "title": "The Fat Man"
-    },
     {
       "time": "12:52 am",
       "artist": "Simian; Justice",
@@ -26,9 +21,20 @@
       "time": "12:59 am",
       "artist": "Arctic Monkeys",
       "title": "No. 1 Party Anthem"
+    },
+    {
+      "time": "1:03 am",
+      "artist": "Madonna",
+      "title": "Vogue"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "Fats Domino",
+      "title": "The Fat Man",
+      "album": "Rock and Rollin' With Fats Domino • 1956"
+    },
     {
       "time": "12:46 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Traffic",
       "title": "Dear Mr. Fantasy",
       "album": "Mr. Fantasy • 1968"
-    },
-    {
-      "time": "11:08 pm",
-      "artist": "The White Stripes",
-      "title": "Seven Nation Army",
-      "album": "Elephant • 2003"
     }
   ]
 }
