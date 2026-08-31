@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T20:38:44",
+  "updatedAt": "2026-08-30T20:40:46",
   "now": {
-    "artist": "Champs",
-    "title": "Tequila",
-    "album": "single • 1958",
+    "artist": "Radiohead",
+    "title": "In Limbo",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 pm",
-      "artist": "Radiohead",
-      "title": "In Limbo"
-    },
     {
       "time": "8:44 pm",
       "artist": "The Byrds",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:40 pm",
+      "artist": "Radiohead",
+      "title": "In Limbo",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "8:38 pm",
       "artist": "Champs",
@@ -172,12 +173,6 @@
       "artist": "Paul Simon",
       "title": "You Can Call Me Al",
       "album": "Graceland • 1986"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "Sugar",
-      "title": "A Good Idea",
-      "album": "Copper Blue • 1992"
     }
   ]
 }
