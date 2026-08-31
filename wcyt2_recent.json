@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T08:00:13",
+  "updatedAt": "2026-08-31T08:00:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Syd Barrett",
+    "title": "Love Song",
+    "album": "The Madcap Laughs • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 am",
-      "artist": "Syd Barrett",
-      "title": "Love Song"
-    },
     {
       "time": "8:03 am",
       "artist": "Spoon",
@@ -31,9 +26,20 @@
       "time": "8:14 am",
       "artist": "Yo La Tengo",
       "title": "Autumn Sweater"
+    },
+    {
+      "time": "8:19 am",
+      "artist": "Nat King Cole",
+      "title": "It's Only A Paper Moon"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 am",
+      "artist": "Syd Barrett",
+      "title": "Love Song",
+      "album": "The Madcap Laughs • 1970"
+    },
     {
       "time": "7:53 am",
       "artist": "Songs Ohia",
@@ -177,12 +183,6 @@
       "artist": "The Unicorns",
       "title": "I Was Born (A Unicorn)",
       "album": "Who Will Cut Our Hair When We're Gone • 2003"
-    },
-    {
-      "time": "6:33 am",
-      "artist": "Elvis Presley",
-      "title": "Mystery Train",
-      "album": "Rock N Roll • 1956"
     }
   ]
 }
