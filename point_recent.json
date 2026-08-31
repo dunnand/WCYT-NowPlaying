@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T07:50:07",
+  "updatedAt": "2026-08-31T07:50:29",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Stereolab",
+    "title": "The Flower Called Nowhere",
+    "album": "Dots and Loops • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "Stereolab",
-      "title": "The Flower Called Nowhere"
-    },
     {
       "time": "7:55 am",
       "artist": "Frankie Cosmos",
@@ -26,9 +21,20 @@
       "time": "8:00 am",
       "artist": "Julien Baker & TORRES",
       "title": "Sylvia"
+    },
+    {
+      "time": "8:02 am",
+      "artist": "Wilco",
+      "title": "We Were Lucky"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "Stereolab",
+      "title": "The Flower Called Nowhere",
+      "album": "Dots and Loops • 1997"
+    },
     {
       "time": "7:45 am",
       "artist": "Alabama Shakes",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "Paddle Forward",
       "album": "Fade • 2013"
-    },
-    {
-      "time": "6:15 am",
-      "artist": "King Gizzard & The Lizard Wizard",
-      "title": "Level 5",
-      "album": "Alien Metal • 2026"
     }
   ]
 }
