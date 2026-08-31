@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T09:44:05",
+  "updatedAt": "2026-08-31T09:44:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Peter Gabriel",
+    "title": "Big Time",
+    "album": "So • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:44 am",
-      "artist": "Peter Gabriel",
-      "title": "Big Time"
-    },
     {
       "time": "9:48 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "9:58 am",
       "artist": "Three Dog Night",
       "title": "Mama Told Me (Not To Come)"
+    },
+    {
+      "time": "10:02 am",
+      "artist": "The Dandy Warhols",
+      "title": "We Used to Be Friends"
     }
   ],
   "recent": [
+    {
+      "time": "9:44 am",
+      "artist": "Peter Gabriel",
+      "title": "Big Time",
+      "album": "So • 1987"
+    },
     {
       "time": "9:40 am",
       "artist": "Orchestral Manoeuvres in the Dark",
@@ -172,12 +178,6 @@
       "artist": "The Band",
       "title": "Ophelia",
       "album": "Northern Lights - Southern Cross • 1975"
-    },
-    {
-      "time": "8:06 am",
-      "artist": "Bruno Mars",
-      "title": "Locked Out Of Heaven",
-      "album": "Unorthodox Jukebox • 2012"
     }
   ]
 }
