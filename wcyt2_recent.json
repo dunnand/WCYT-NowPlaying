@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T19:30:49",
+  "updatedAt": "2026-08-31T19:33:55",
   "now": {
-    "artist": "Elton John",
-    "title": "Goodbye Yellow Brick Road",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Bee Gees",
+    "title": "How Deep Is Your Love",
+    "album": "Saturday Night Fever • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:33 pm",
-      "artist": "Bee Gees",
-      "title": "How Deep Is Your Love"
-    },
     {
       "time": "7:37 pm",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "7:44 pm",
       "artist": "Doobie Brothers",
       "title": "China Grove"
+    },
+    {
+      "time": "7:47 pm",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Kings Highway"
     }
   ],
   "recent": [
+    {
+      "time": "7:33 pm",
+      "artist": "Bee Gees",
+      "title": "How Deep Is Your Love",
+      "album": "Saturday Night Fever • 1977"
+    },
     {
       "time": "7:30 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Jigsaw Falling Into Place",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "6:03 pm",
-      "artist": "The Orioles",
-      "title": "Crying in the Chapel",
-      "album": "single • 1953"
     }
   ]
 }
