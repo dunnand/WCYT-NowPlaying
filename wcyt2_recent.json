@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T03:20:58",
+  "updatedAt": "2026-08-31T03:27:07",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "Antenna",
-    "album": "The Eternal • 2009",
-    "category": "TUNES"
+    "artist": "Adele",
+    "title": "Rolling In The Deep",
+    "album": "21 • 2010",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:27 am",
-      "artist": "Adele",
-      "title": "Rolling In The Deep"
-    },
     {
       "time": "3:30 am",
       "artist": "James Brown",
@@ -26,9 +21,20 @@
       "time": "3:42 am",
       "artist": "Elvis Presley",
       "title": "Don't"
+    },
+    {
+      "time": "3:44 am",
+      "artist": "Sonic Youth",
+      "title": "Sacred Trickster"
     }
   ],
   "recent": [
+    {
+      "time": "3:27 am",
+      "artist": "Adele",
+      "title": "Rolling In The Deep",
+      "album": "21 • 2010"
+    },
     {
       "time": "3:20 am",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Anna Kendrick",
       "title": "Cups",
       "album": "HA201311 6 • 2013"
-    },
-    {
-      "time": "1:52 am",
-      "artist": "Turtles",
-      "title": "Happy Together",
-      "album": "Happy Together • 1967"
     }
   ]
 }
