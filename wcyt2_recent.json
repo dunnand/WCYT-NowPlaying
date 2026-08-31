@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T02:05:06",
+  "updatedAt": "2026-08-31T02:05:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Madonna",
+    "title": "La Isla Bonita",
+    "album": "True Blue • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:05 am",
-      "artist": "Madonna",
-      "title": "La Isla Bonita"
-    },
     {
       "time": "2:09 am",
       "artist": "Katrina & The Waves",
@@ -26,9 +21,20 @@
       "time": "2:14 am",
       "artist": "Eno",
       "title": "On Some Faraway Beach"
+    },
+    {
+      "time": "2:19 am",
+      "artist": "Bruce Springsteen",
+      "title": "Badlands"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 am",
+      "artist": "Madonna",
+      "title": "La Isla Bonita",
+      "album": "True Blue • 1986"
+    },
     {
       "time": "2:01 am",
       "artist": "Screaming Trees",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Don't Let Me Down",
       "album": "single • 1969"
-    },
-    {
-      "time": "12:36 am",
-      "artist": "The Four Seasons",
-      "title": "December, 1963 (Oh, What a Night)",
-      "album": "Who Loves You • 1975"
     }
   ]
 }
