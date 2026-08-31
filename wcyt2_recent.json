@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T00:04:05",
+  "updatedAt": "2026-08-31T00:04:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Morning Bell/Amnesiac",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Radiohead",
-      "title": "Morning Bell/Amnesiac"
-    },
     {
       "time": "12:07 am",
       "artist": "The Zutons",
@@ -26,9 +21,20 @@
       "time": "12:15 am",
       "artist": "Violent Femmes",
       "title": "American Music"
+    },
+    {
+      "time": "12:18 am",
+      "artist": "Sleater Kinney",
+      "title": "Words and Guitar"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Radiohead",
+      "title": "Morning Bell/Amnesiac",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "12:00 am",
       "artist": "Ellie Goulding",
@@ -172,12 +178,6 @@
       "artist": "Magazine",
       "title": "Shot By Both Sides",
       "album": "Real Life • 1978"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "The Beatles",
-      "title": "Please Mister Postman",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
