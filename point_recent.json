@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T08:50:15",
+  "updatedAt": "2026-08-31T08:50:35",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Islands",
+    "title": "The Arm",
+    "album": "Arm's Way • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 am",
-      "artist": "Islands",
-      "title": "The Arm"
-    },
     {
       "time": "8:55 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "9:04 am",
       "artist": "Built to Spill",
       "title": "I Would Hurt a Fly"
+    },
+    {
+      "time": "9:09 am",
+      "artist": "Mamalarky",
+      "title": "#1 Best Of All Time"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 am",
+      "artist": "Islands",
+      "title": "The Arm",
+      "album": "Arm's Way • 2008"
+    },
     {
       "time": "8:48 am",
       "artist": "Ken Park",
@@ -172,12 +178,6 @@
       "artist": "Hovvdy",
       "title": "You Will Go Far",
       "album": "Big World • 2026"
-    },
-    {
-      "time": "7:12 am",
-      "artist": "Deep Sea Diver",
-      "title": "Teardrop",
-      "album": "• 2026"
     }
   ]
 }
