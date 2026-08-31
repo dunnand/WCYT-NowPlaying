@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T20:44:11",
+  "updatedAt": "2026-08-30T20:44:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Byrds",
+    "title": "I'll Feel a Whole Lot Better",
+    "album": "Mr. Tambourine Man • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:44 pm",
-      "artist": "The Byrds",
-      "title": "I'll Feel a Whole Lot Better"
-    },
     {
       "time": "8:46 pm",
       "artist": "Against Me!",
@@ -26,9 +21,20 @@
       "time": "8:53 pm",
       "artist": "The Jesus Lizard",
       "title": "Nub"
+    },
+    {
+      "time": "8:56 pm",
+      "artist": "Howard Jones",
+      "title": "Things Can Only Get Better"
     }
   ],
   "recent": [
+    {
+      "time": "8:44 pm",
+      "artist": "The Byrds",
+      "title": "I'll Feel a Whole Lot Better",
+      "album": "Mr. Tambourine Man • 1965"
+    },
     {
       "time": "8:40 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Phil Collins",
       "title": "Another Day In Paradise",
       "album": "...But Seriously • 1989"
-    },
-    {
-      "time": "6:51 pm",
-      "artist": "Paul Simon",
-      "title": "You Can Call Me Al",
-      "album": "Graceland • 1986"
     }
   ]
 }
