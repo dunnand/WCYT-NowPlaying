@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T19:30:37",
+  "updatedAt": "2026-08-31T19:30:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Goodbye Yellow Brick Road",
+    "album": "Goodbye Yellow Brick Road • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 pm",
-      "artist": "Elton John",
-      "title": "Goodbye Yellow Brick Road"
-    },
     {
       "time": "7:33 pm",
       "artist": "Bee Gees",
@@ -26,9 +21,20 @@
       "time": "7:42 pm",
       "artist": "The Beatles",
       "title": "A Taste Of Honey"
+    },
+    {
+      "time": "7:44 pm",
+      "artist": "Doobie Brothers",
+      "title": "China Grove"
     }
   ],
   "recent": [
+    {
+      "time": "7:30 pm",
+      "artist": "Elton John",
+      "title": "Goodbye Yellow Brick Road",
+      "album": "Goodbye Yellow Brick Road • 1973"
+    },
     {
       "time": "7:28 pm",
       "artist": "Minako Hamano",
@@ -172,12 +178,6 @@
       "artist": "The Orioles",
       "title": "Crying in the Chapel",
       "album": "single • 1953"
-    },
-    {
-      "time": "5:58 pm",
-      "artist": "Portishead",
-      "title": "Roads",
-      "album": "Dummy • 1994"
     }
   ]
 }
