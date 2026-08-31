@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T11:50:46",
+  "updatedAt": "2026-08-31T11:51:10",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "Go To Sleep",
+    "album": "Hail to the Thief • 2003",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:51 am",
-      "artist": "Radiohead",
-      "title": "Go To Sleep"
-    },
     {
       "time": "11:54 am",
       "artist": "Alabama Shakes",
@@ -26,9 +21,20 @@
       "time": "12:00 pm",
       "artist": "Waxahatchee",
       "title": "Bored"
+    },
+    {
+      "time": "12:03 pm",
+      "artist": "Alex G",
+      "title": "Judge"
     }
   ],
   "recent": [
+    {
+      "time": "11:51 am",
+      "artist": "Radiohead",
+      "title": "Go To Sleep",
+      "album": "Hail to the Thief • 2003"
+    },
     {
       "time": "11:47 am",
       "artist": "Dinosaur Jr.",
@@ -172,12 +178,6 @@
       "artist": "runo plum",
       "title": "Sickness",
       "album": "patching • 2025"
-    },
-    {
-      "time": "10:07 am",
-      "artist": "Wild Nothing",
-      "title": "Ocean Repeating (Big Eye Girl)",
-      "album": "Empty Estate • 2013"
     }
   ]
 }
