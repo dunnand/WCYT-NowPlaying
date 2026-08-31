@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T03:11:01",
+  "updatedAt": "2026-08-31T03:14:37",
   "now": {
-    "artist": "Lil Nas X",
-    "title": "INDUSTRY BABY",
-    "album": "Montero • 2021",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Someone Something",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:14 am",
-      "artist": "Spoon",
-      "title": "Someone Something"
-    },
     {
       "time": "3:17 am",
       "artist": "Eric Clapton",
@@ -26,9 +21,20 @@
       "time": "3:27 am",
       "artist": "Adele",
       "title": "Rolling In The Deep"
+    },
+    {
+      "time": "3:30 am",
+      "artist": "James Brown",
+      "title": "The Payback"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 am",
+      "artist": "Spoon",
+      "title": "Someone Something",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "3:11 am",
       "artist": "Lil Nas X",
@@ -172,12 +178,6 @@
       "artist": "The Fleetwoods",
       "title": "Mr. Blue",
       "album": "Mr. Blue • 1959"
-    },
-    {
-      "time": "1:44 am",
-      "artist": "The Flaming Lips",
-      "title": "A Spoonful Weighs a Ton",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
