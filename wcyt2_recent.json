@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T19:42:13",
+  "updatedAt": "2026-08-31T19:44:08",
   "now": {
-    "artist": "The Beatles",
-    "title": "A Taste Of Honey",
-    "album": "Please Please Me • 1963",
+    "artist": "Doobie Brothers",
+    "title": "China Grove",
+    "album": "The Captain and Me • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 pm",
-      "artist": "Doobie Brothers",
-      "title": "China Grove"
-    },
     {
       "time": "7:47 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "7:53 pm",
       "artist": "Wilco",
       "title": "Wilco (The Song)"
+    },
+    {
+      "time": "7:56 pm",
+      "artist": "Weezer",
+      "title": "(If You're Wondering If I Want You to) I Want You To"
     }
   ],
   "recent": [
+    {
+      "time": "7:44 pm",
+      "artist": "Doobie Brothers",
+      "title": "China Grove",
+      "album": "The Captain and Me • 1973"
+    },
     {
       "time": "7:42 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Pulp",
       "title": "Sorted for E's & Wizz",
       "album": "Different Class • 1995"
-    },
-    {
-      "time": "6:13 pm",
-      "artist": "Paul McCartney",
-      "title": "New",
-      "album": "New • 2013"
     }
   ]
 }
