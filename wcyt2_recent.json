@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T20:19:41",
+  "updatedAt": "2026-08-30T20:23:59",
   "now": {
-    "artist": "Steely Dan",
-    "title": "Josie",
-    "album": "Aja • 1978",
+    "artist": "The Doors",
+    "title": "Hello, I Love You",
+    "album": "Waiting for the Sun • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 pm",
-      "artist": "The Doors",
-      "title": "Hello, I Love You"
-    },
     {
       "time": "8:31 pm",
       "artist": "The Sonics",
@@ -21,9 +16,20 @@
       "time": "8:33 pm",
       "artist": "M",
       "title": "Pop Muzik"
+    },
+    {
+      "time": "8:36 pm",
+      "artist": "Teenage Fanclub",
+      "title": "What You Do to Me"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 pm",
+      "artist": "The Doors",
+      "title": "Hello, I Love You",
+      "album": "Waiting for the Sun • 1968"
+    },
     {
       "time": "8:19 pm",
       "artist": "Steely Dan",
@@ -167,12 +173,6 @@
       "artist": "Sister Hazel",
       "title": "Your Mistake",
       "album": "single • 2002"
-    },
-    {
-      "time": "6:31 pm",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'",
-      "album": "Ricky • 1957"
     }
   ]
 }
