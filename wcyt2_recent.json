@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T09:48:03",
+  "updatedAt": "2026-08-31T09:53:51",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "False Prophet",
-    "album": "Rough and Rowdy Ways • 2020",
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:53 am",
-      "artist": "Radiohead",
-      "title": "Kid A"
-    },
     {
       "time": "9:58 am",
       "artist": "Three Dog Night",
@@ -26,9 +21,20 @@
       "time": "10:05 am",
       "artist": "Beach House",
       "title": "Norway"
+    },
+    {
+      "time": "10:09 am",
+      "artist": "Van Morrison",
+      "title": "Domino"
     }
   ],
   "recent": [
+    {
+      "time": "9:53 am",
+      "artist": "Radiohead",
+      "title": "Kid A",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "9:48 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Nat King Cole",
       "title": "It's Only A Paper Moon",
       "album": "single • 1943"
-    },
-    {
-      "time": "8:14 am",
-      "artist": "Yo La Tengo",
-      "title": "Autumn Sweater",
-      "album": "I Can Hear the Heart Beating as One • 1997"
     }
   ]
 }
