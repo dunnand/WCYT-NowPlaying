@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T22:59:29",
+  "updatedAt": "2026-08-30T22:59:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "One Love / People Get Ready",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:59 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "One Love / People Get Ready"
-    },
     {
       "time": "11:02 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "11:12 pm",
       "artist": "Traffic",
       "title": "Dear Mr. Fantasy"
+    },
+    {
+      "time": "11:17 pm",
+      "artist": "Manu Dibango",
+      "title": "Soul Makossa"
     }
   ],
   "recent": [
+    {
+      "time": "10:59 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "One Love / People Get Ready",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "10:55 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Jerry Lee Lewis",
       "title": "Whole Lotta Shakin' Going on",
       "album": "Single • 1957"
-    },
-    {
-      "time": "9:25 pm",
-      "artist": "The Roots",
-      "title": "The Next Movement",
-      "album": "Things Fall Apart • 1999"
     }
   ]
 }
