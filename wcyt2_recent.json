@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T22:28:46",
+  "updatedAt": "2026-08-30T22:32:01",
   "now": {
-    "artist": "Spoon",
-    "title": "Don't Let It Get You Down",
-    "album": "Kill The Moonlight • 2002",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "She's A Woman",
+    "album": "single • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:32 pm",
-      "artist": "The Beatles",
-      "title": "She's A Woman"
-    },
     {
       "time": "10:35 pm",
       "artist": "Black Pumas",
@@ -21,9 +16,20 @@
       "time": "10:39 pm",
       "artist": "Elliott Smith",
       "title": "Sweet Adeline"
+    },
+    {
+      "time": "10:42 pm",
+      "artist": "Pearl Jam",
+      "title": "Jeremy"
     }
   ],
   "recent": [
+    {
+      "time": "10:32 pm",
+      "artist": "The Beatles",
+      "title": "She's A Woman",
+      "album": "single • 1964"
+    },
     {
       "time": "10:28 pm",
       "artist": "Spoon",
@@ -167,12 +173,6 @@
       "artist": "Beyonce",
       "title": "BREAK MY SOUL",
       "album": "RENAISSANCE • 2022"
-    },
-    {
-      "time": "9:00 pm",
-      "artist": "Bruce Springsteen",
-      "title": "My Hometown",
-      "album": "Born in the U.S.A. • 1985"
     }
   ]
 }
