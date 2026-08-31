@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T22:01:16",
+  "updatedAt": "2026-08-30T22:01:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Big Yellow Taxi",
+    "album": "Ladies of the Canyon • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 pm",
-      "artist": "Joni Mitchell",
-      "title": "Big Yellow Taxi"
-    },
     {
       "time": "10:03 pm",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "10:15 pm",
       "artist": "The Beatles",
       "title": "Please Mister Postman"
+    },
+    {
+      "time": "10:17 pm",
+      "artist": "Magazine",
+      "title": "Shot By Both Sides"
     }
   ],
   "recent": [
+    {
+      "time": "10:01 pm",
+      "artist": "Joni Mitchell",
+      "title": "Big Yellow Taxi",
+      "album": "Ladies of the Canyon • 1970"
+    },
     {
       "time": "9:56 pm",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Champs",
       "title": "Tequila",
       "album": "single • 1958"
-    },
-    {
-      "time": "8:36 pm",
-      "artist": "Teenage Fanclub",
-      "title": "What You Do to Me",
-      "album": "Songs from Northern Britain • 1997"
     }
   ]
 }
