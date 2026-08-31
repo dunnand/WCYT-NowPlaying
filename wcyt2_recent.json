@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T00:30:53",
+  "updatedAt": "2026-08-31T00:33:36",
   "now": {
-    "artist": "Queen",
-    "title": "Seven Seas of Rhye",
-    "album": "Queen II • 1974",
+    "artist": "Townes Van Zandt",
+    "title": "Lungs",
+    "album": "Townes Van Zandt • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:33 am",
-      "artist": "Townes Van Zandt",
-      "title": "Lungs"
-    },
     {
       "time": "12:35 am",
       "artist": "The Four Seasons",
@@ -26,9 +21,20 @@
       "time": "12:42 am",
       "artist": "ABBA",
       "title": "SOS"
+    },
+    {
+      "time": "12:46 am",
+      "artist": "Foo Fighters",
+      "title": "I'll Stick Around"
     }
   ],
   "recent": [
+    {
+      "time": "12:33 am",
+      "artist": "Townes Van Zandt",
+      "title": "Lungs",
+      "album": "Townes Van Zandt • 1969"
+    },
     {
       "time": "12:30 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "Big Love",
       "album": "Tango in the Night • 1987"
-    },
-    {
-      "time": "10:47 pm",
-      "artist": "Echo & the Bunnymen",
-      "title": "The Cutter",
-      "album": "Porcupine • 1983"
     }
   ]
 }
