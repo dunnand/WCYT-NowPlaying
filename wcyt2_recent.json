@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T02:27:38",
+  "updatedAt": "2026-08-31T02:30:13",
   "now": {
-    "artist": "The Beatles",
-    "title": "Birthday",
-    "album": "The Beatles • 1968",
+    "artist": "Elvis Costello",
+    "title": "Pump It Up",
+    "album": "This Year's Model • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:30 am",
-      "artist": "Elvis Costello",
-      "title": "Pump It Up"
-    },
     {
       "time": "2:33 am",
       "artist": "Scream",
@@ -26,9 +21,20 @@
       "time": "2:42 am",
       "artist": "Vampire Weekend",
       "title": "The Kids Don't Stand a Chance"
+    },
+    {
+      "time": "2:47 am",
+      "artist": "The Kinks",
+      "title": "Dedicated Follower of Fashion"
     }
   ],
   "recent": [
+    {
+      "time": "2:30 am",
+      "artist": "Elvis Costello",
+      "title": "Pump It Up",
+      "album": "This Year's Model • 1978"
+    },
     {
       "time": "2:27 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "Vogue",
       "album": "Im Breathless • 1990"
-    },
-    {
-      "time": "12:59 am",
-      "artist": "Arctic Monkeys",
-      "title": "No. 1 Party Anthem",
-      "album": "AM • 2013"
     }
   ]
 }
