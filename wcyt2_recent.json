@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T09:44:17",
+  "updatedAt": "2026-08-31T09:48:03",
   "now": {
-    "artist": "Peter Gabriel",
-    "title": "Big Time",
-    "album": "So • 1987",
+    "artist": "Bob Dylan",
+    "title": "False Prophet",
+    "album": "Rough and Rowdy Ways • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 am",
-      "artist": "Bob Dylan",
-      "title": "False Prophet"
-    },
     {
       "time": "9:53 am",
       "artist": "Radiohead",
@@ -23,12 +18,23 @@
       "title": "Mama Told Me (Not To Come)"
     },
     {
-      "time": "10:02 am",
+      "time": "10:01 am",
       "artist": "The Dandy Warhols",
       "title": "We Used to Be Friends"
+    },
+    {
+      "time": "10:05 am",
+      "artist": "Beach House",
+      "title": "Norway"
     }
   ],
   "recent": [
+    {
+      "time": "9:48 am",
+      "artist": "Bob Dylan",
+      "title": "False Prophet",
+      "album": "Rough and Rowdy Ways • 2020"
+    },
     {
       "time": "9:44 am",
       "artist": "Peter Gabriel",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "Autumn Sweater",
       "album": "I Can Hear the Heart Beating as One • 1997"
-    },
-    {
-      "time": "8:10 am",
-      "artist": "The Band",
-      "title": "Ophelia",
-      "album": "Northern Lights - Southern Cross • 1975"
     }
   ]
 }
