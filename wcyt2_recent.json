@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T02:56:40",
+  "updatedAt": "2026-08-31T03:00:44",
   "now": {
-    "artist": "Mariah Carey",
-    "title": "Fantasy",
-    "album": "Daydream • 1995",
+    "artist": "New Order",
+    "title": "Blue Monday",
+    "album": "single • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:00 am",
-      "artist": "New Order",
-      "title": "Blue Monday"
-    },
     {
       "time": "3:08 am",
       "artist": "Tom Waits",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:00 am",
+      "artist": "New Order",
+      "title": "Blue Monday",
+      "album": "single • 1983"
+    },
     {
       "time": "2:56 am",
       "artist": "Mariah Carey",
@@ -172,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "American Skin (41 Shots)",
       "album": "High Hopes • 2014"
-    },
-    {
-      "time": "1:30 am",
-      "artist": "Usher",
-      "title": "Yeah! (feat. Lil Jon & Ludacris)",
-      "album": "Confessions • 2004"
     }
   ]
 }
