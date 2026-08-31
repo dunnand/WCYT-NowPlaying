@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T03:30:52",
+  "updatedAt": "2026-08-31T03:38:09",
   "now": {
-    "artist": "James Brown",
-    "title": "The Payback",
-    "album": "The Payback • 1974",
+    "artist": "Nirvana.",
+    "title": "Come as You Are",
+    "album": "Nevermind • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:38 am",
-      "artist": "Nirvana.",
-      "title": "Come as You Are"
-    },
     {
       "time": "3:42 am",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "3:44 am",
       "artist": "Sonic Youth",
       "title": "Sacred Trickster"
+    },
+    {
+      "time": "3:47 am",
+      "artist": "The Velvet Underground",
+      "title": "There She Goes Again"
     }
   ],
   "recent": [
+    {
+      "time": "3:38 am",
+      "artist": "Nirvana.",
+      "title": "Come as You Are",
+      "album": "Nevermind • 1991"
+    },
     {
       "time": "3:30 am",
       "artist": "James Brown",
@@ -167,12 +173,6 @@
       "artist": "Screaming Trees",
       "title": "Nearly Lost You",
       "album": "Sweet Oblivion • 1992"
-    },
-    {
-      "time": "1:57 am",
-      "artist": "Guided by Voices",
-      "title": "Hold on Hope",
-      "album": "Do The Collapse • 1999"
     }
   ]
 }
