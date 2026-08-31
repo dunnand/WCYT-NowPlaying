@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T11:48:11",
+  "updatedAt": "2026-08-31T11:48:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Fantastic Voyage",
+    "album": "Lodger • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:48 am",
-      "artist": "David Bowie",
-      "title": "Fantastic Voyage"
-    },
     {
       "time": "11:51 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "12:03 pm",
       "artist": "The Beatles",
       "title": "All My Loving"
+    },
+    {
+      "time": "12:05 pm",
+      "artist": "Eagles",
+      "title": "Take It Easy"
     }
   ],
   "recent": [
+    {
+      "time": "11:48 am",
+      "artist": "David Bowie",
+      "title": "Fantastic Voyage",
+      "album": "Lodger • 1979"
+    },
     {
       "time": "11:42 am",
       "artist": "Jessie Ware",
@@ -172,12 +178,6 @@
       "artist": "Peggy Lee",
       "title": "Fever",
       "album": "Things Are Swingin’ • 1959"
-    },
-    {
-      "time": "10:12 am",
-      "artist": "Steve Earle",
-      "title": "The Mountain",
-      "album": "The Mountain • 1999"
     }
   ]
 }
