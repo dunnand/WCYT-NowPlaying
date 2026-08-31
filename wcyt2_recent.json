@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T10:01:48",
+  "updatedAt": "2026-08-31T10:05:05",
   "now": {
-    "artist": "The Dandy Warhols",
-    "title": "We Used to Be Friends",
-    "album": "Welcome to the Monkey's Game • 2003",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Norway",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:05 am",
-      "artist": "Beach House",
-      "title": "Norway"
-    },
     {
       "time": "10:09 am",
       "artist": "Van Morrison",
@@ -26,9 +21,20 @@
       "time": "10:16 am",
       "artist": "Peggy Lee",
       "title": "Fever"
+    },
+    {
+      "time": "10:19 am",
+      "artist": "U2",
+      "title": "All Because Of You"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 am",
+      "artist": "Beach House",
+      "title": "Norway",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "10:01 am",
       "artist": "The Dandy Warhols",
@@ -172,12 +178,6 @@
       "artist": "Baauer",
       "title": "Harlem Shake",
       "album": "single • 2012"
-    },
-    {
-      "time": "8:29 am",
-      "artist": "The Kinks",
-      "title": "Victoria",
-      "album": "Arthur • 1969"
     }
   ]
 }
