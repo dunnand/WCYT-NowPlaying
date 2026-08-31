@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T20:19:19",
+  "updatedAt": "2026-08-30T20:19:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Steely Dan",
+    "title": "Josie",
+    "album": "Aja • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:19 pm",
-      "artist": "Steely Dan",
-      "title": "Josie"
-    },
     {
       "time": "8:24 pm",
       "artist": "The Doors",
@@ -21,9 +16,20 @@
       "time": "8:31 pm",
       "artist": "The Sonics",
       "title": "Strychnine"
+    },
+    {
+      "time": "8:33 pm",
+      "artist": "M",
+      "title": "Pop Muzik"
     }
   ],
   "recent": [
+    {
+      "time": "8:19 pm",
+      "artist": "Steely Dan",
+      "title": "Josie",
+      "album": "Aja • 1978"
+    },
     {
       "time": "8:15 pm",
       "artist": "Neil Young",
@@ -167,12 +173,6 @@
       "artist": "Ricky Nelson",
       "title": "I'm Walkin'",
       "album": "Ricky • 1957"
-    },
-    {
-      "time": "6:23 pm",
-      "artist": "Sigur Ros",
-      "title": "Svefn-g-englar",
-      "album": "Agaetis byrjun • 1999"
     }
   ]
 }
