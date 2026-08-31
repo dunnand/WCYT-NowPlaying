@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T14:55:13",
+  "updatedAt": "2026-08-31T14:55:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "A Day in the Life of a Tree",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:55 pm",
-      "artist": "The Beach Boys",
-      "title": "A Day in the Life of a Tree"
-    },
     {
       "time": "2:58 pm",
       "artist": "Blondie",
@@ -26,9 +21,20 @@
       "time": "3:06 pm",
       "artist": "The Beatles",
       "title": "Thank Your Girl"
+    },
+    {
+      "time": "3:08 pm",
+      "artist": "The Cars",
+      "title": "Let's Go"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 pm",
+      "artist": "The Beach Boys",
+      "title": "A Day in the Life of a Tree",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "2:52 pm",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "The World (Is Going Up in Flames)",
       "album": "No Time For Dreaming • 2011"
-    },
-    {
-      "time": "1:20 pm",
-      "artist": "Cocteau Twins",
-      "title": "Iceblink Luck",
-      "album": "Heaven or Las Vegas • 1990"
     }
   ]
 }
