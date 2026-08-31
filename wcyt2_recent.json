@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T14:44:24",
+  "updatedAt": "2026-08-31T14:44:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "She's So Cold",
+    "album": "Emotional Rescue • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:44 pm",
-      "artist": "Rolling Stones",
-      "title": "She's So Cold"
-    },
     {
       "time": "2:48 pm",
       "artist": "Tears for Fears",
@@ -26,9 +21,20 @@
       "time": "2:55 pm",
       "artist": "The Beach Boys",
       "title": "A Day in the Life of a Tree"
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "Blondie",
+      "title": "Dreaming"
     }
   ],
   "recent": [
+    {
+      "time": "2:44 pm",
+      "artist": "Rolling Stones",
+      "title": "She's So Cold",
+      "album": "Emotional Rescue • 1980"
+    },
     {
       "time": "2:41 pm",
       "artist": "Fiona Apple",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Another Girl",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "1:07 pm",
-      "artist": "System of a Down",
-      "title": "Hypnotize",
-      "album": "Hypnotize • 2005"
     }
   ]
 }
