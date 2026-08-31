@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T06:49:28",
+  "updatedAt": "2026-08-31T06:51:59",
   "now": {
-    "artist": "Pavement",
-    "title": "Unfair",
-    "album": "Crooked Rain, Crooked Rain • 1994",
-    "category": "TUNES"
+    "artist": "Duran Duran",
+    "title": "Hungry Like the Wolf",
+    "album": "Rio • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:51 am",
-      "artist": "Duran Duran",
-      "title": "Hungry Like the Wolf"
-    },
     {
       "time": "6:55 am",
       "artist": "The Fixx",
@@ -21,9 +16,25 @@
       "time": "6:58 am",
       "artist": "Billie Eilish",
       "title": "LUNCH"
+    },
+    {
+      "time": "7:01 am",
+      "artist": "Rodriguez",
+      "title": "Inner City Blues"
+    },
+    {
+      "time": "7:04 am",
+      "artist": "Santana",
+      "title": "No One To Depend On"
     }
   ],
   "recent": [
+    {
+      "time": "6:51 am",
+      "artist": "Duran Duran",
+      "title": "Hungry Like the Wolf",
+      "album": "Rio • 1982"
+    },
     {
       "time": "6:49 am",
       "artist": "Pavement",
@@ -167,12 +178,6 @@
       "artist": "Feist",
       "title": "Mushaboom",
       "album": "Let It Die • 2016"
-    },
-    {
-      "time": "5:26 am",
-      "artist": "Santana",
-      "title": "The Game Of Love Feat. Michelle Branch",
-      "album": "Shaman • 2002"
     }
   ]
 }
