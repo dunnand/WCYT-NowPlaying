@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T03:08:06",
+  "updatedAt": "2026-08-31T03:08:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Waits",
+    "title": "Rain Dogs",
+    "album": "Rain Dogs • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:08 am",
-      "artist": "Tom Waits",
-      "title": "Rain Dogs"
-    },
     {
       "time": "3:11 am",
       "artist": "Lil Nas X",
@@ -26,9 +21,20 @@
       "time": "3:18 am",
       "artist": "Eric Clapton",
       "title": "After Midnight"
+    },
+    {
+      "time": "3:21 am",
+      "artist": "Sonic Youth",
+      "title": "Antenna"
     }
   ],
   "recent": [
+    {
+      "time": "3:08 am",
+      "artist": "Tom Waits",
+      "title": "Rain Dogs",
+      "album": "Rain Dogs • 1985"
+    },
     {
       "time": "3:00 am",
       "artist": "New Order",
@@ -172,12 +178,6 @@
       "artist": "Bill Withers",
       "title": "Ain't No Sunshine",
       "album": "Just As I Am • 1971"
-    },
-    {
-      "time": "1:34 am",
-      "artist": "Bruce Springsteen",
-      "title": "American Skin (41 Shots)",
-      "album": "High Hopes • 2014"
     }
   ]
 }
