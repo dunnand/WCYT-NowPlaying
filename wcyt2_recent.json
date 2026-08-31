@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T15:06:40",
+  "updatedAt": "2026-08-31T15:08:41",
   "now": {
-    "artist": "The Beatles",
-    "title": "Thank Your Girl",
-    "album": "single • 1963",
+    "artist": "The Cars",
+    "title": "Let's Go",
+    "album": "Candy-O • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:08 pm",
-      "artist": "The Cars",
-      "title": "Let's Go"
-    },
     {
       "time": "3:12 pm",
       "artist": "Gin Blossoms",
@@ -26,9 +21,20 @@
       "time": "3:20 pm",
       "artist": "Radiohead",
       "title": "2 + 2 = 5 (The Lukewarm.)"
+    },
+    {
+      "time": "3:23 pm",
+      "artist": "Talib Kweli",
+      "title": "Get By"
     }
   ],
   "recent": [
+    {
+      "time": "3:08 pm",
+      "artist": "The Cars",
+      "title": "Let's Go",
+      "album": "Candy-O • 1979"
+    },
     {
       "time": "3:06 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Start Choppin",
       "album": "Where You Been • 1993"
-    },
-    {
-      "time": "1:33 pm",
-      "artist": "Coldplay",
-      "title": "A Sky Full of Stars",
-      "album": "Ghost Stories • 2014"
     }
   ]
 }
