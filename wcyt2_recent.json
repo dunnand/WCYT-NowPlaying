@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T09:36:08",
+  "updatedAt": "2026-08-31T09:36:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Exit Music (for a Film)",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:36 am",
-      "artist": "Radiohead",
-      "title": "Exit Music (for a Film)"
-    },
     {
       "time": "9:40 am",
       "artist": "Orchestral Manoeuvres in the Dark",
@@ -26,9 +21,20 @@
       "time": "9:48 am",
       "artist": "Bob Dylan",
       "title": "False Prophet"
+    },
+    {
+      "time": "9:54 am",
+      "artist": "Radiohead",
+      "title": "Kid A"
     }
   ],
   "recent": [
+    {
+      "time": "9:36 am",
+      "artist": "Radiohead",
+      "title": "Exit Music (for a Film)",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "9:32 am",
       "artist": "Tracy Chapman",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Stay Don't Go",
       "album": "Kill The Moonlight • 2002"
-    },
-    {
-      "time": "8:00 am",
-      "artist": "Syd Barrett",
-      "title": "Love Song",
-      "album": "The Madcap Laughs • 1970"
     }
   ]
 }
