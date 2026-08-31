@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T11:48:23",
+  "updatedAt": "2026-08-31T11:50:58",
   "now": {
-    "artist": "David Bowie",
-    "title": "Fantastic Voyage",
-    "album": "Lodger • 1979",
+    "artist": "The Beatles",
+    "title": "You Like Me Too Much",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:51 am",
-      "artist": "The Beatles",
-      "title": "You Like Me Too Much"
-    },
     {
       "time": "11:53 am",
       "artist": "Neu!",
@@ -26,9 +21,20 @@
       "time": "12:05 pm",
       "artist": "Eagles",
       "title": "Take It Easy"
+    },
+    {
+      "time": "12:09 pm",
+      "artist": "Blur",
+      "title": "Tender"
     }
   ],
   "recent": [
+    {
+      "time": "11:50 am",
+      "artist": "The Beatles",
+      "title": "You Like Me Too Much",
+      "album": "Help! • 1965"
+    },
     {
       "time": "11:48 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "All Because Of You",
       "album": "How to Dismantle an Atomic Bomb • 2004"
-    },
-    {
-      "time": "10:16 am",
-      "artist": "Peggy Lee",
-      "title": "Fever",
-      "album": "Things Are Swingin’ • 1959"
     }
   ]
 }
