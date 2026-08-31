@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T05:34:19",
+  "updatedAt": "2026-08-31T05:38:32",
   "now": {
-    "artist": "Kenny Rogers",
-    "title": "She Believes In Me",
-    "album": "The Gambler • 1978",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Between the Bars",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:38 am",
-      "artist": "Elliott Smith",
-      "title": "Between the Bars"
-    },
     {
       "time": "5:40 am",
       "artist": "Buddy Holly",
@@ -26,9 +21,20 @@
       "time": "5:47 am",
       "artist": "Tommy James & The Shondells",
       "title": "Mony Mony"
+    },
+    {
+      "time": "5:50 am",
+      "artist": "The Decemberists",
+      "title": "Calamity Song"
     }
   ],
   "recent": [
+    {
+      "time": "5:38 am",
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "5:34 am",
       "artist": "Kenny Rogers",
@@ -172,12 +178,6 @@
       "artist": "Oasis",
       "title": "Champagne Supernova",
       "album": "Whats the Story) Morning Glory? • 1996"
-    },
-    {
-      "time": "3:53 am",
-      "artist": "Nirvana",
-      "title": "Jesus Doesn't Want Me for a Sunbeam",
-      "album": "MTV Unplugged in New York • 1994"
     }
   ]
 }
