@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T13:33:29",
+  "updatedAt": "2026-08-31T13:37:51",
   "now": {
-    "artist": "Coldplay",
-    "title": "A Sky Full of Stars",
-    "album": "Ghost Stories • 2014",
-    "category": "AUDIO"
+    "artist": "Dinosaur Jr.",
+    "title": "Start Choppin",
+    "album": "Where You Been • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:37 pm",
-      "artist": "Dinosaur Jr.",
-      "title": "Start Choppin"
-    },
     {
       "time": "1:43 pm",
       "artist": "Eels",
@@ -26,9 +21,20 @@
       "time": "1:49 pm",
       "artist": "Rick Springfield",
       "title": "I've Done Everything For You"
+    },
+    {
+      "time": "1:53 pm",
+      "artist": "Beyonce",
+      "title": "HEATED"
     }
   ],
   "recent": [
+    {
+      "time": "1:37 pm",
+      "artist": "Dinosaur Jr.",
+      "title": "Start Choppin",
+      "album": "Where You Been • 1993"
+    },
     {
       "time": "1:33 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "You Like Me Too Much",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "11:48 am",
-      "artist": "David Bowie",
-      "title": "Fantastic Voyage",
-      "album": "Lodger • 1979"
     }
   ]
 }
