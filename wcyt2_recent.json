@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T16:55:30",
+  "updatedAt": "2026-08-31T16:58:23",
   "now": {
-    "artist": "Wilson Pickett",
-    "title": "Mustang Sally",
-    "album": "The Wicked Pickett • 1966",
+    "artist": "George Harrison",
+    "title": "Blow Away",
+    "album": "George Harrison • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:58 pm",
-      "artist": "George Harrison",
-      "title": "Blow Away"
-    },
     {
       "time": "5:02 pm",
       "artist": "Matchbox Twenty",
@@ -26,9 +21,20 @@
       "time": "5:08 pm",
       "artist": "Radiohead",
       "title": "15 Step"
+    },
+    {
+      "time": "5:13 pm",
+      "artist": "The Beatles",
+      "title": "Mean Mr. Mustard"
     }
   ],
   "recent": [
+    {
+      "time": "4:58 pm",
+      "artist": "George Harrison",
+      "title": "Blow Away",
+      "album": "George Harrison • 1979"
+    },
     {
       "time": "4:55 pm",
       "artist": "Wilson Pickett",
@@ -172,12 +178,6 @@
       "artist": "Golden Smog",
       "title": "Until You Came Along",
       "album": "Weird Tales • 1998"
-    },
-    {
-      "time": "3:27 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Bright Horses",
-      "album": "Ghosteen • 2019"
     }
   ]
 }
