@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T04:26:11",
+  "updatedAt": "2026-08-31T04:30:48",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "I'm Waiting for the Man",
-    "album": "The Velvet Underground & Nico • 1967",
+    "artist": "John Denver",
+    "title": "Thank God I'm A Country Boy",
+    "album": "Back Home Again • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:30 am",
-      "artist": "John Denver",
-      "title": "Thank God I'm A Country Boy"
-    },
     {
       "time": "4:34 am",
       "artist": "Ride",
@@ -26,9 +21,20 @@
       "time": "4:42 am",
       "artist": "Songs Ohia",
       "title": "Ring The Bell"
+    },
+    {
+      "time": "4:48 am",
+      "artist": "Three Dog Night",
+      "title": "One"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 am",
+      "artist": "John Denver",
+      "title": "Thank God I'm A Country Boy",
+      "album": "Back Home Again • 1974"
+    },
     {
       "time": "4:26 am",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "Wi' Nae Wee Bairn Ye'll Me Beget",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "2:50 am",
-      "artist": "Florence + The Machine",
-      "title": "Shake It Out",
-      "album": "Ceremonials • 2011"
     }
   ]
 }
