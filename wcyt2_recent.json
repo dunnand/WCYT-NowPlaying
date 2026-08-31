@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T17:12:42",
+  "updatedAt": "2026-08-31T17:12:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Mean Mr. Mustard",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 pm",
-      "artist": "The Beatles",
-      "title": "Mean Mr. Mustard"
-    },
     {
       "time": "5:13 pm",
       "artist": "Lorde",
@@ -26,9 +21,20 @@
       "time": "5:21 pm",
       "artist": "Pantera",
       "title": "This Love"
+    },
+    {
+      "time": "5:27 pm",
+      "artist": "Klymaxx",
+      "title": "I Miss You"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 pm",
+      "artist": "The Beatles",
+      "title": "Mean Mr. Mustard",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "5:08 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "James Brown",
       "title": "We Got To Change",
       "album": "Single • 2024"
-    },
-    {
-      "time": "3:44 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Rebels",
-      "album": "Southern Accents • 1985"
     }
   ]
 }
