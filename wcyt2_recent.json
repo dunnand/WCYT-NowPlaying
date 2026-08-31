@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T22:08:30",
+  "updatedAt": "2026-08-30T22:15:25",
   "now": {
-    "artist": "Sigur Ros",
-    "title": "Nj�snav�lin (Untitled Track 4)",
-    "album": "( ) • 2002",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Please Mister Postman",
+    "album": "With the Beatles • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "The Beatles",
-      "title": "Please Mister Postman"
-    },
     {
       "time": "10:17 pm",
       "artist": "Magazine",
@@ -26,9 +21,20 @@
       "time": "10:26 pm",
       "artist": "Dion & The Belmonts",
       "title": "A Teenager In Love"
+    },
+    {
+      "time": "10:28 pm",
+      "artist": "Spoon",
+      "title": "Don't Let It Get You Down"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "The Beatles",
+      "title": "Please Mister Postman",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "10:08 pm",
       "artist": "Sigur Ros",
@@ -172,12 +178,6 @@
       "artist": "Against Me!",
       "title": "I Was a Teenage Anarchist",
       "album": "White Crosses • 2010"
-    },
-    {
-      "time": "8:44 pm",
-      "artist": "The Byrds",
-      "title": "I'll Feel a Whole Lot Better",
-      "album": "Mr. Tambourine Man • 1965"
     }
   ]
 }
