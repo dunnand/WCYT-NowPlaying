@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T15:59:05",
+  "updatedAt": "2026-08-31T16:05:06",
   "now": {
-    "artist": "Commodores",
-    "title": "Just To Be Close To You",
-    "album": "Hot on the Tracks • 1976",
+    "artist": "The Beatles",
+    "title": "If I Needed Someone",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 pm",
-      "artist": "The Beatles",
-      "title": "If I Needed Someone"
-    },
     {
       "time": "4:07 pm",
       "artist": "Curtis Mayfield",
@@ -26,9 +21,20 @@
       "time": "4:16 pm",
       "artist": "Little Richard and His Band",
       "title": "Long Tall Sally"
+    },
+    {
+      "time": "4:18 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Cheated Hearts"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 pm",
+      "artist": "The Beatles",
+      "title": "If I Needed Someone",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "3:59 pm",
       "artist": "Commodores",
@@ -172,12 +178,6 @@
       "artist": "Frank Ocean",
       "title": "White Ferrari",
       "album": "Blonde • 2016"
-    },
-    {
-      "time": "2:31 pm",
-      "artist": "The Beatles",
-      "title": "I've Just Seen A Face",
-      "album": "Help! • 1965"
     }
   ]
 }
