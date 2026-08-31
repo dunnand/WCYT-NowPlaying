@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T11:53:44",
+  "updatedAt": "2026-08-31T12:03:35",
   "now": {
-    "artist": "Neu!",
-    "title": "Hallogallo",
-    "album": "Neu! • 1972",
+    "artist": "The Beatles",
+    "title": "All My Loving",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 pm",
-      "artist": "The Beatles",
-      "title": "All My Loving"
-    },
     {
       "time": "12:05 pm",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "12:16 pm",
       "artist": "Louis Armstrong & His All",
       "title": "Stars - Ain't Misbehavin'"
+    },
+    {
+      "time": "12:21 pm",
+      "artist": "Wilco",
+      "title": "What Light"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 pm",
+      "artist": "The Beatles",
+      "title": "All My Loving",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "11:53 am",
       "artist": "Neu!",
@@ -172,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "Heartaches and Pain",
       "album": "No Time For Dreaming • 2011"
-    },
-    {
-      "time": "10:23 am",
-      "artist": "The Byrds",
-      "title": "My Back Pages",
-      "album": "Younger Than Yesterday • 1967"
     }
   ]
 }
