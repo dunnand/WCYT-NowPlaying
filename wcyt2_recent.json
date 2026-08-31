@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T04:21:15",
+  "updatedAt": "2026-08-31T04:26:11",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Young Liars",
-    "album": "Young Liars • 2003",
-    "category": "TUNES"
+    "artist": "The Velvet Underground",
+    "title": "I'm Waiting for the Man",
+    "album": "The Velvet Underground & Nico • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:26 am",
-      "artist": "The Velvet Underground",
-      "title": "I'm Waiting for the Man"
-    },
     {
       "time": "4:30 am",
       "artist": "John Denver",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:26 am",
+      "artist": "The Velvet Underground",
+      "title": "I'm Waiting for the Man",
+      "album": "The Velvet Underground & Nico • 1967"
+    },
     {
       "time": "4:21 am",
       "artist": "TV on the Radio",
@@ -177,12 +178,6 @@
       "artist": "Florence + The Machine",
       "title": "Shake It Out",
       "album": "Ceremonials • 2011"
-    },
-    {
-      "time": "2:46 am",
-      "artist": "The Kinks",
-      "title": "Dedicated Follower of Fashion",
-      "album": "single • 1966"
     }
   ]
 }
