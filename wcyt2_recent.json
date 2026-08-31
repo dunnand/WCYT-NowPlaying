@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T11:53:33",
+  "updatedAt": "2026-08-31T11:53:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neu!",
+    "title": "Hallogallo",
+    "album": "Neu! • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:53 am",
-      "artist": "Neu!",
-      "title": "Hallogallo"
-    },
     {
       "time": "12:03 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "12:09 pm",
       "artist": "Blur",
       "title": "Tender"
+    },
+    {
+      "time": "12:16 pm",
+      "artist": "Louis Armstrong & His All",
+      "title": "Stars - Ain't Misbehavin'"
     }
   ],
   "recent": [
+    {
+      "time": "11:53 am",
+      "artist": "Neu!",
+      "title": "Hallogallo",
+      "album": "Neu! • 1972"
+    },
     {
       "time": "11:50 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Byrds",
       "title": "My Back Pages",
       "album": "Younger Than Yesterday • 1967"
-    },
-    {
-      "time": "10:19 am",
-      "artist": "U2",
-      "title": "All Because Of You",
-      "album": "How to Dismantle an Atomic Bomb • 2004"
     }
   ]
 }
