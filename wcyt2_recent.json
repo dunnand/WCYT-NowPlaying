@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T00:59:31",
+  "updatedAt": "2026-08-31T01:03:25",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "No. 1 Party Anthem",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Madonna",
+    "title": "Vogue",
+    "album": "Im Breathless • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Madonna",
-      "title": "Vogue"
-    },
     {
       "time": "1:08 am",
       "artist": "R.E.M.",
@@ -21,9 +16,20 @@
       "time": "1:12 am",
       "artist": "Rush",
       "title": "Limelight"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "U2",
+      "title": "Angel Of Harlem"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Madonna",
+      "title": "Vogue",
+      "album": "Im Breathless • 1990"
+    },
     {
       "time": "12:59 am",
       "artist": "Arctic Monkeys",
@@ -167,12 +173,6 @@
       "artist": "The Streets",
       "title": "Dry Your Eyes",
       "album": "A Grand Don't Come for Free • 2004"
-    },
-    {
-      "time": "11:25 pm",
-      "artist": "Sister Rosetta Tharpe",
-      "title": "Up Above My Head I Hear Music In The Air",
-      "album": "single • 1948"
     }
   ]
 }
