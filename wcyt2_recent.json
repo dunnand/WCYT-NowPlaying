@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-30T22:51:40",
+  "updatedAt": "2026-08-30T22:55:15",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Big Love",
-    "album": "Tango in the Night • 1987",
+    "artist": "Foo Fighters",
+    "title": "Shame Shame",
+    "album": "Medicine at Midnight • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:55 pm",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame"
-    },
     {
       "time": "10:59 pm",
       "artist": "Bob Marley and the Wailers",
@@ -21,9 +16,20 @@
       "time": "11:02 pm",
       "artist": "Elton John",
       "title": "Crazy Water"
+    },
+    {
+      "time": "11:08 pm",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army"
     }
   ],
   "recent": [
+    {
+      "time": "10:55 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame",
+      "album": "Medicine at Midnight • 2021"
+    },
     {
       "time": "10:51 pm",
       "artist": "Fleetwood Mac",
@@ -167,12 +173,6 @@
       "artist": "The Roots",
       "title": "The Next Movement",
       "album": "Things Fall Apart • 1999"
-    },
-    {
-      "time": "9:21 pm",
-      "artist": "Grateful Dead",
-      "title": "Ripple",
-      "album": "American Beauty • 1970"
     }
   ]
 }
