@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T12:34:56",
+  "updatedAt": "2026-08-31T12:35:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Secret Garden",
+    "album": "Jerry Maguire Soundtrack • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Secret Garden"
-    },
     {
       "time": "12:39 pm",
       "artist": "Celine Dion",
@@ -26,9 +21,20 @@
       "time": "12:47 pm",
       "artist": "Prince",
       "title": "Little Red Corvette"
+    },
+    {
+      "time": "12:51 pm",
+      "artist": "Chappell Roan",
+      "title": "Pink Pony Club"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Secret Garden",
+      "album": "Jerry Maguire Soundtrack • 1997"
+    },
     {
       "time": "12:31 pm",
       "artist": "Against Me!",
@@ -172,12 +178,6 @@
       "artist": "Eric Carmen",
       "title": "All by Myself",
       "album": "Eric Carmen • 1975"
-    },
-    {
-      "time": "10:46 am",
-      "artist": "Linda Ronstadt",
-      "title": "You're No Good",
-      "album": "Heart Like a Wheel • 1974"
     }
   ]
 }
