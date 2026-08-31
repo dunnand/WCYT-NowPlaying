@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T04:48:23",
+  "updatedAt": "2026-08-31T04:48:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Three Dog Night",
+    "title": "One",
+    "album": "Three Dog Night • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:48 am",
-      "artist": "Three Dog Night",
-      "title": "One"
-    },
     {
       "time": "4:51 am",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "4:59 am",
       "artist": "Soundgarden",
       "title": "The Day I Tried to Live"
+    },
+    {
+      "time": "5:05 am",
+      "artist": "Public Image Ltd.",
+      "title": "This Is Not A Love Song"
     }
   ],
   "recent": [
+    {
+      "time": "4:48 am",
+      "artist": "Three Dog Night",
+      "title": "One",
+      "album": "Three Dog Night • 1968"
+    },
     {
       "time": "4:42 am",
       "artist": "Songs Ohia",
@@ -172,12 +178,6 @@
       "artist": "Lil Nas X",
       "title": "INDUSTRY BABY",
       "album": "Montero • 2021"
-    },
-    {
-      "time": "3:08 am",
-      "artist": "Tom Waits",
-      "title": "Rain Dogs",
-      "album": "Rain Dogs • 1985"
     }
   ]
 }
