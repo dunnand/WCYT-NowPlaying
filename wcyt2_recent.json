@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T13:57:45",
+  "updatedAt": "2026-08-31T14:03:08",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Trampled Under Foot",
-    "album": "Physical Graffiti • 1975",
+    "artist": "The Beatles",
+    "title": "Dear Prudence",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 pm",
-      "artist": "The Beatles",
-      "title": "Dear Prudence"
-    },
     {
       "time": "2:07 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "2:13 pm",
       "artist": "Grace Jones",
       "title": "La vie en rose"
+    },
+    {
+      "time": "2:20 pm",
+      "artist": "Eric Clapton",
+      "title": "My Father's Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 pm",
+      "artist": "The Beatles",
+      "title": "Dear Prudence",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "1:57 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "What Light",
       "album": "Sky Blue Sky • 2007"
-    },
-    {
-      "time": "12:16 pm",
-      "artist": "Louis Armstrong & His All-Stars",
-      "title": "Ain't Misbehavin'",
-      "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
     }
   ]
 }
