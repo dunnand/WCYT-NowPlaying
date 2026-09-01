@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T01:07:28",
+  "updatedAt": "2026-09-01T01:07:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Songs Ohia",
+    "title": "Lioness",
+    "album": "The Lioness • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:07 am",
-      "artist": "Songs Ohia",
-      "title": "Lioness"
-    },
     {
       "time": "1:14 am",
       "artist": "Wolf Parade",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "Neutral Milk Hotel",
       "title": "Song Against Sex"
+    },
+    {
+      "time": "1:26 am",
+      "artist": "Weezer",
+      "title": "Buddy Holly"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 am",
+      "artist": "Songs Ohia",
+      "title": "Lioness",
+      "album": "The Lioness • 2000"
+    },
     {
       "time": "1:03 am",
       "artist": "Moses Sumney",
@@ -172,12 +178,6 @@
       "artist": "Joy Division",
       "title": "Atmosphere",
       "album": "Single • 1980"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "Genesis",
-      "title": "No Reply At All",
-      "album": "Abacab • 1981"
     }
   ]
 }
