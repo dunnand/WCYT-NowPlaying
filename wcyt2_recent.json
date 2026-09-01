@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:43:28",
+  "updatedAt": "2026-09-01T03:46:43",
   "now": {
-    "artist": "Tom Petty and the Heartbreakers",
-    "title": "The Last DJ",
-    "album": "The Last DJ • 2002",
+    "artist": "The Beatles",
+    "title": "Got To Get You Into My Life",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 am",
-      "artist": "The Beatles",
-      "title": "Got To Get You Into My Life"
-    },
     {
       "time": "3:49 am",
       "artist": "Queen",
@@ -23,7 +18,7 @@
       "title": "Tumble in the Rough"
     },
     {
-      "time": "3:57 am",
+      "time": "3:56 am",
       "artist": "Elvis Presley",
       "title": "Blue Suede Shoes"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "The Beatles",
+      "title": "Got To Get You Into My Life",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "3:43 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -177,12 +178,6 @@
       "artist": "Kelly Clarkson",
       "title": "Stronger (What Doesn't Kill Me)",
       "album": "Stronger • 2011"
-    },
-    {
-      "time": "2:09 am",
-      "artist": "The Beatles",
-      "title": "I'm A Loser",
-      "album": "Beatles for Sale • 1964"
     }
   ]
 }
