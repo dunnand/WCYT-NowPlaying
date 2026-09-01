@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T10:47:03",
+  "updatedAt": "2026-09-01T10:50:35",
   "now": {
-    "artist": "OK Go",
-    "title": "The Writing's On the Wall",
-    "album": "Hungry Ghosts • 2014",
+    "artist": "Phil Collins",
+    "title": "True Colors",
+    "album": "...Hits • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:50 am",
-      "artist": "Phil Collins",
-      "title": "True Colors"
-    },
     {
       "time": "10:54 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "11:02 am",
       "artist": "Jim Carroll Band",
       "title": "People Who Died"
+    },
+    {
+      "time": "11:07 am",
+      "artist": "Maggie Rogers",
+      "title": "That's Where I Am"
     }
   ],
   "recent": [
+    {
+      "time": "10:50 am",
+      "artist": "Phil Collins",
+      "title": "True Colors",
+      "album": "...Hits • 1998"
+    },
     {
       "time": "10:47 am",
       "artist": "OK Go",
@@ -172,12 +178,6 @@
       "artist": "Eagles",
       "title": "New Kid In Town",
       "album": "Hotel California • 1976"
-    },
-    {
-      "time": "9:11 am",
-      "artist": "Elton John",
-      "title": "Bite Your Lip (Get Up and Dance!)",
-      "album": "Blue Moves • 1976"
     }
   ]
 }
