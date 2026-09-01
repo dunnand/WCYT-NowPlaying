@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T12:14:01",
+  "updatedAt": "2026-09-01T12:15:33",
   "now": {
-    "artist": "The Beatles",
-    "title": "Little Child",
-    "album": "With the Beatles • 1963",
+    "artist": "Buzzcocks",
+    "title": "Ever Fallen In Love (With Some You Shouldn't've?)",
+    "album": "Love Bites • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 pm",
-      "artist": "Buzzcocks",
-      "title": "Ever Fallen In Love (With Some You Shouldn't've?)"
-    },
     {
       "time": "12:18 pm",
       "artist": "Elliott Smith",
@@ -23,12 +18,23 @@
       "title": "Take A Walk"
     },
     {
-      "time": "12:26 pm",
+      "time": "12:25 pm",
       "artist": "Beck",
       "title": "Already Dead"
+    },
+    {
+      "time": "12:29 pm",
+      "artist": "Broadcast",
+      "title": "America's Boy"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 pm",
+      "artist": "Buzzcocks",
+      "title": "Ever Fallen In Love (With Some You Shouldn't've?)",
+      "album": "Love Bites • 1978"
+    },
     {
       "time": "12:14 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Phil Collins",
       "title": "True Colors",
       "album": "...Hits • 1998"
-    },
-    {
-      "time": "10:47 am",
-      "artist": "OK Go",
-      "title": "The Writing's On the Wall",
-      "album": "Hungry Ghosts • 2014"
     }
   ]
 }
