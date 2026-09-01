@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T15:15:57",
+  "updatedAt": "2026-09-01T15:20:42",
   "now": {
-    "artist": "Marvin Gaye",
-    "title": "Let's Get It On",
-    "album": "Let's Get It On • 1973",
+    "artist": "The Beatles",
+    "title": "Helter Skelter",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:20 pm",
-      "artist": "The Beatles",
-      "title": "Helter Skelter"
-    },
     {
       "time": "3:24 pm",
       "artist": "Olivia Newton",
@@ -26,9 +21,20 @@
       "time": "3:30 pm",
       "artist": "Connie Francis",
       "title": "Who's Sorry Now"
+    },
+    {
+      "time": "3:32 pm",
+      "artist": "Elbow",
+      "title": "Newborn"
     }
   ],
   "recent": [
+    {
+      "time": "3:20 pm",
+      "artist": "The Beatles",
+      "title": "Helter Skelter",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "3:15 pm",
       "artist": "Marvin Gaye",
@@ -172,12 +178,6 @@
       "artist": "Lorde",
       "title": "The Louvre",
       "album": "Melodrama • 2017"
-    },
-    {
-      "time": "1:30 pm",
-      "artist": "The Beatles",
-      "title": "Blue Jay Way",
-      "album": "Magical Mystery Tour • 1967"
     }
   ]
 }
