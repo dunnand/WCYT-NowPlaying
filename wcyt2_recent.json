@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T07:45:33",
+  "updatedAt": "2026-09-01T07:49:16",
   "now": {
-    "artist": "Pavement",
-    "title": "Shady Lane / J vs. S",
-    "album": "Brighten the Corners • 1997",
-    "category": "TUNES"
+    "artist": "Fats Domino",
+    "title": "Blue Monday",
+    "album": "This Is Fats Domino! • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:49 am",
-      "artist": "Fats Domino",
-      "title": "Blue Monday"
-    },
     {
       "time": "7:51 am",
       "artist": "Beach House",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:49 am",
+      "artist": "Fats Domino",
+      "title": "Blue Monday",
+      "album": "This Is Fats Domino! • 1956"
+    },
     {
       "time": "7:45 am",
       "artist": "Pavement",
@@ -172,12 +173,6 @@
       "artist": "Kenny Rogers",
       "title": "Blaze Of Glory",
       "album": "Share Your Love • 1981"
-    },
-    {
-      "time": "6:06 am",
-      "artist": "Mercury Rev",
-      "title": "Delta Sun Bottleneck Stomp",
-      "album": "Deserter's Songs • 1991"
     }
   ]
 }
