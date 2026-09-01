@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T17:44:25",
+  "updatedAt": "2026-09-01T17:44:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Black Bird",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "The Beatles",
-      "title": "Black Bird"
-    },
     {
       "time": "5:46 pm",
       "artist": "Muse",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "The Beatles",
+      "title": "Black Bird",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "5:41 pm",
       "artist": "The Black Keys",
@@ -172,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Dance Of The Clairvoyants",
       "album": "Gigaton • 2020"
-    },
-    {
-      "time": "4:04 pm",
-      "artist": "Janet Jackson",
-      "title": "Let's Wait Awhile",
-      "album": "Control • 1987"
     }
   ]
 }
