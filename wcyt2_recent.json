@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T06:47:39",
+  "updatedAt": "2026-09-01T06:50:05",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Roll Over Beethoven",
-    "album": "Berry Is on Top • 1959",
+    "artist": "Weezer",
+    "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)",
+    "album": "Weezer • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:50 am",
-      "artist": "Weezer",
-      "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)"
-    },
     {
       "time": "6:55 am",
       "artist": "Toots & The Maytals",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:50 am",
+      "artist": "Weezer",
+      "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)",
+      "album": "Weezer • 2008"
+    },
     {
       "time": "6:47 am",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "David Bowie",
       "title": "Teenage Wildlife",
       "album": "Scary Monsters • 1980"
-    },
-    {
-      "time": "5:13 am",
-      "artist": "Outfield",
-      "title": "Your Love",
-      "album": "Play Deep • 1985"
     }
   ]
 }
