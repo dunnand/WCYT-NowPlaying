@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T15:15:46",
+  "updatedAt": "2026-09-01T15:15:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Marvin Gaye",
+    "title": "Let's Get It On",
+    "album": "Let's Get It On • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "Marvin Gaye",
-      "title": "Let's Get It On"
-    },
     {
       "time": "3:20 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "3:27 pm",
       "artist": "Sonic Youth",
       "title": "100%"
+    },
+    {
+      "time": "3:30 pm",
+      "artist": "Connie Francis",
+      "title": "Who's Sorry Now"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "Marvin Gaye",
+      "title": "Let's Get It On",
+      "album": "Let's Get It On • 1973"
+    },
     {
       "time": "3:13 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Blue Jay Way",
       "album": "Magical Mystery Tour • 1967"
-    },
-    {
-      "time": "1:26 pm",
-      "artist": "Franz Ferdinand",
-      "title": "No You Girls",
-      "album": "Tonight Franz Ferdinand • 2007"
     }
   ]
 }
