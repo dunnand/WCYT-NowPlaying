@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:56:47",
+  "updatedAt": "2026-09-01T03:58:51",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Blue Suede Shoes",
-    "album": "Elvis Presley • 1956",
+    "artist": "Radiohead",
+    "title": "Pyramid Song",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 am",
-      "artist": "Radiohead",
-      "title": "Pyramid Song"
-    },
     {
       "time": "4:03 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:58 am",
+      "artist": "Radiohead",
+      "title": "Pyramid Song",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "3:56 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Violent Femmes",
       "title": "Blister in the Sun",
       "album": "Violent Femmes • 1983"
-    },
-    {
-      "time": "2:24 am",
-      "artist": "The Fall",
-      "title": "Hip Priest",
-      "album": "Hex Enduction Hour • 1982"
     }
   ]
 }
