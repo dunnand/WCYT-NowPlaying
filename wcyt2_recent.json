@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T08:40:25",
+  "updatedAt": "2026-09-01T08:40:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bobby Darin",
+    "title": "Beyond the Sea",
+    "album": "single • 1950",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 am",
-      "artist": "Bobby Darin",
-      "title": "Beyond the Sea"
-    },
     {
       "time": "8:43 am",
       "artist": "Beyonce",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:40 am",
+      "artist": "Bobby Darin",
+      "title": "Beyond the Sea",
+      "album": "single • 1950"
+    },
     {
       "time": "8:35 am",
       "artist": "Aphex Twin",
@@ -172,12 +173,6 @@
       "artist": "Olivia Newton-John",
       "title": "Physical",
       "album": "Physical • 1981"
-    },
-    {
-      "time": "7:08 am",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
