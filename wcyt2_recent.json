@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T17:44:37",
+  "updatedAt": "2026-09-01T17:46:58",
   "now": {
-    "artist": "The Beatles",
-    "title": "Black Bird",
-    "album": "The Beatles • 1968",
+    "artist": "Muse",
+    "title": "Madness",
+    "album": "The 2nd Law • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:46 pm",
-      "artist": "Muse",
-      "title": "Madness"
-    },
     {
       "time": "5:51 pm",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "5:56 pm",
       "artist": "The Magnetic Fields",
       "title": "Fear of Trains"
+    },
+    {
+      "time": "6:00 pm",
+      "artist": "Phil Collins",
+      "title": "In The Air Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "5:46 pm",
+      "artist": "Muse",
+      "title": "Madness",
+      "album": "The 2nd Law • 2012"
+    },
     {
       "time": "5:44 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Parliament",
       "title": "Give Up the Funk (Tear the Roof Off the Sucker)",
       "album": "Mothership Connection • 1975"
-    },
-    {
-      "time": "4:08 pm",
-      "artist": "Pearl Jam",
-      "title": "Dance Of The Clairvoyants",
-      "album": "Gigaton • 2020"
     }
   ]
 }
