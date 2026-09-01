@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T15:40:20",
+  "updatedAt": "2026-09-01T15:40:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Want You (She's So Heavy)",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:40 pm",
-      "artist": "The Beatles",
-      "title": "I Want You (She's So Heavy)"
-    },
     {
       "time": "3:48 pm",
       "artist": "Lil Nas X",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:40 pm",
+      "artist": "The Beatles",
+      "title": "I Want You (She's So Heavy)",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "3:32 pm",
       "artist": "Elbow",
@@ -172,12 +173,6 @@
       "artist": "OK GO",
       "title": "All Together Now",
       "album": "single • 2020"
-    },
-    {
-      "time": "1:51 pm",
-      "artist": "Daniel Johnston",
-      "title": "Worried Shoes",
-      "album": "Yip/Jump Music • 1983"
     }
   ]
 }
