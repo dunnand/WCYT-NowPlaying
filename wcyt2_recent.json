@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T08:19:25",
+  "updatedAt": "2026-09-01T08:23:19",
   "now": {
-    "artist": "David Bowie",
-    "title": "Golden Years",
-    "album": "Station to Station • 1976",
+    "artist": "Journey",
+    "title": "Lights",
+    "album": "Infinity • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:23 am",
-      "artist": "Journey",
-      "title": "Lights"
-    },
     {
       "time": "8:26 am",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "8:32 am",
       "artist": "Bob Marley and the Wailers",
       "title": "Jamming"
+    },
+    {
+      "time": "8:35 am",
+      "artist": "Aphex Twin",
+      "title": "Xtal"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 am",
+      "artist": "Journey",
+      "title": "Lights",
+      "album": "Infinity • 1978"
+    },
     {
       "time": "8:19 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)",
       "album": "Weezer • 2008"
-    },
-    {
-      "time": "6:47 am",
-      "artist": "Chuck Berry",
-      "title": "Roll Over Beethoven",
-      "album": "Berry Is on Top • 1959"
     }
   ]
 }
