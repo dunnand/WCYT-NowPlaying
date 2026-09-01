@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:37:18",
+  "updatedAt": "2026-09-01T03:37:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mungo Jerry",
+    "title": "In the Summertime",
+    "album": "In the Summertime • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:37 am",
-      "artist": "Mungo Jerry",
-      "title": "In the Summertime"
-    },
     {
       "time": "3:40 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "3:46 am",
       "artist": "The Beatles",
       "title": "Got To Get You Into My Life"
+    },
+    {
+      "time": "3:49 am",
+      "artist": "Queen",
+      "title": "A Kind of Magic"
     }
   ],
   "recent": [
+    {
+      "time": "3:37 am",
+      "artist": "Mungo Jerry",
+      "title": "In the Summertime",
+      "album": "In the Summertime • 1970"
+    },
     {
       "time": "3:32 am",
       "artist": "H.E.R.",
@@ -172,12 +178,6 @@
       "artist": "Link Wray & His Ray Men",
       "title": "Rumble",
       "album": "single • 1958"
-    },
-    {
-      "time": "1:59 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Electric Relaxation",
-      "album": "Midnight Marauders • 1993"
     }
   ]
 }
