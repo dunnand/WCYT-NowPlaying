@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T12:25:35",
+  "updatedAt": "2026-09-01T12:25:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Already Dead",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:25 pm",
-      "artist": "Beck",
-      "title": "Already Dead"
-    },
     {
       "time": "12:29 pm",
       "artist": "Broadcast",
@@ -26,9 +21,20 @@
       "time": "12:41 pm",
       "artist": "Pearl Jam",
       "title": "Given to Fly"
+    },
+    {
+      "time": "12:45 pm",
+      "artist": "Shawn Mullins",
+      "title": "Lullaby"
     }
   ],
   "recent": [
+    {
+      "time": "12:25 pm",
+      "artist": "Beck",
+      "title": "Already Dead",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "12:21 pm",
       "artist": "Passion Pit",
@@ -172,12 +178,6 @@
       "artist": "Jim Carroll Band",
       "title": "People Who Died",
       "album": "Catholic Boy • 1980"
-    },
-    {
-      "time": "10:58 am",
-      "artist": "Lakeside",
-      "title": "Fantastic Voyage",
-      "album": "Fantastic Voyage • 1980"
     }
   ]
 }
