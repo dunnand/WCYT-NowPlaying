@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T08:19:13",
+  "updatedAt": "2026-09-01T08:19:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Golden Years",
+    "album": "Station to Station • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:19 am",
-      "artist": "David Bowie",
-      "title": "Golden Years"
-    },
     {
       "time": "8:23 am",
       "artist": "Journey",
@@ -26,9 +21,20 @@
       "time": "8:30 am",
       "artist": "The Ventures",
       "title": "Walk Don't Run"
+    },
+    {
+      "time": "8:32 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Jamming"
     }
   ],
   "recent": [
+    {
+      "time": "8:19 am",
+      "artist": "David Bowie",
+      "title": "Golden Years",
+      "album": "Station to Station • 1976"
+    },
     {
       "time": "8:17 am",
       "artist": "Lil Nas X",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Roll Over Beethoven",
       "album": "Berry Is on Top • 1959"
-    },
-    {
-      "time": "6:43 am",
-      "artist": "Silver Jews",
-      "title": "Random Rules",
-      "album": "American Water • 1998"
     }
   ]
 }
