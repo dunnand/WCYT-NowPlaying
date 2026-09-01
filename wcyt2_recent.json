@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:09:40",
+  "updatedAt": "2026-09-01T03:09:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:09 am",
-      "artist": "The Beatles",
-      "title": "Sgt. Pepper's Lonely Hearts Club Band"
-    },
     {
       "time": "3:11 am",
       "artist": "Jamila Woods",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:09 am",
+      "artist": "The Beatles",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "3:06 am",
       "artist": "Sheryl Crow",
@@ -172,12 +173,6 @@
       "artist": "Arctic Monkeys",
       "title": "There'd Better Be A Mirrorball",
       "album": "The Car • 2022"
-    },
-    {
-      "time": "1:31 am",
-      "artist": "Rod Stewart",
-      "title": "Infatuation",
-      "album": "Camouflage • 1984"
     }
   ]
 }
