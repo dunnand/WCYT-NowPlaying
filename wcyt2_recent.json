@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T15:03:44",
+  "updatedAt": "2026-09-01T15:03:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kraftwerk",
+    "title": "Europe Endless",
+    "album": "Trans-Europe Express • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 pm",
-      "artist": "Kraftwerk",
-      "title": "Europe Endless"
-    },
     {
       "time": "3:13 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "3:20 pm",
       "artist": "The Beatles",
       "title": "Helter Skelter"
+    },
+    {
+      "time": "3:24 pm",
+      "artist": "Olivia Newton",
+      "title": "John - I Honestly Love You"
     }
   ],
   "recent": [
+    {
+      "time": "3:03 pm",
+      "artist": "Kraftwerk",
+      "title": "Europe Endless",
+      "album": "Trans-Europe Express • 1977"
+    },
     {
       "time": "3:00 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Carl Perkins",
       "title": "Blue Suede Shoes",
       "album": "Dance Album of Carl Perkins • 1957"
-    },
-    {
-      "time": "1:20 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Thirty-Three",
-      "album": "Mellon Collie and the Infinite Sadness • 1995"
     }
   ]
 }
