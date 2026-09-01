@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T08:26:30",
+  "updatedAt": "2026-09-01T08:30:15",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Crying Lightning",
-    "album": "Humbug • 2009",
-    "category": "TUNES"
+    "artist": "The Ventures",
+    "title": "Walk Don't Run",
+    "album": "Walk Don't Run • 1960",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:30 am",
-      "artist": "The Ventures",
-      "title": "Walk Don't Run"
-    },
     {
       "time": "8:32 am",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "8:40 am",
       "artist": "Bobby Darin",
       "title": "Beyond the Sea"
+    },
+    {
+      "time": "8:43 am",
+      "artist": "Beyonce",
+      "title": "Sweet Dreams"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 am",
+      "artist": "The Ventures",
+      "title": "Walk Don't Run",
+      "album": "Walk Don't Run • 1960"
+    },
     {
       "time": "8:26 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Lana Del Rey",
       "title": "Video Games",
       "album": "Born to Die • 2012"
-    },
-    {
-      "time": "6:56 am",
-      "artist": "Toots & The Maytals",
-      "title": "Pressure Drop",
-      "album": "Sweet and Dandy • 1968"
     }
   ]
 }
