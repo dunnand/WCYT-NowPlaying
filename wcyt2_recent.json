@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T02:53:05",
+  "updatedAt": "2026-09-01T02:59:41",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Time",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "CAKE",
+    "title": "Friend Is a Four Letter Word",
+    "album": "Fashion Nugget • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:59 am",
-      "artist": "CAKE",
-      "title": "Friend Is a Four Letter Word"
-    },
     {
       "time": "3:03 am",
       "artist": "McGuire Sisters",
@@ -21,9 +16,20 @@
       "time": "3:06 am",
       "artist": "Sheryl Crow",
       "title": "Steve McQueen"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "The Beatles",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band"
     }
   ],
   "recent": [
+    {
+      "time": "2:59 am",
+      "artist": "CAKE",
+      "title": "Friend Is a Four Letter Word",
+      "album": "Fashion Nugget • 1996"
+    },
     {
       "time": "2:53 am",
       "artist": "Pink Floyd",
@@ -167,12 +173,6 @@
       "artist": "Weezer",
       "title": "Buddy Holly",
       "album": "Weezer • 1994"
-    },
-    {
-      "time": "1:23 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Song Against Sex",
-      "album": "On Avery Island • 1996"
     }
   ]
 }
