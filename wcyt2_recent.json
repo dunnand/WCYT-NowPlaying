@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T01:50:59",
+  "updatedAt": "2026-09-01T01:55:47",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Lady Godiva's Operation",
-    "album": "White Light/White Heat • 1968",
+    "artist": "Grateful Dead",
+    "title": "Friend of the Devil",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 am",
-      "artist": "Grateful Dead",
-      "title": "Friend of the Devil"
-    },
     {
       "time": "1:59 am",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "2:05 am",
       "artist": "Radiohead",
       "title": "Knives Out"
+    },
+    {
+      "time": "2:09 am",
+      "artist": "The Beatles",
+      "title": "I'm A Loser"
     }
   ],
   "recent": [
+    {
+      "time": "1:55 am",
+      "artist": "Grateful Dead",
+      "title": "Friend of the Devil",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "1:50 am",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Rhinoceros",
       "album": "Gish • 1991"
-    },
-    {
-      "time": "12:12 am",
-      "artist": "FUN.",
-      "title": "We Are Young",
-      "album": "Some Nights • 2012"
     }
   ]
 }
