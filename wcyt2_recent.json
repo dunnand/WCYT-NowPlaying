@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T10:50:35",
+  "updatedAt": "2026-09-01T10:54:18",
   "now": {
-    "artist": "Phil Collins",
-    "title": "True Colors",
-    "album": "...Hits • 1998",
+    "artist": "Rod Stewart",
+    "title": "Ooh La La",
+    "album": "If We Fall in Love Tonight • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:54 am",
-      "artist": "Rod Stewart",
-      "title": "Ooh La La"
-    },
     {
       "time": "10:58 am",
       "artist": "Lakeside",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:54 am",
+      "artist": "Rod Stewart",
+      "title": "Ooh La La",
+      "album": "If We Fall in Love Tonight • 1998"
+    },
     {
       "time": "10:50 am",
       "artist": "Phil Collins",
@@ -172,12 +173,6 @@
       "artist": "Dave Matthews Band",
       "title": "Grace Is Gone",
       "album": "Busted Stuff • 2002"
-    },
-    {
-      "time": "9:18 am",
-      "artist": "Eagles",
-      "title": "New Kid In Town",
-      "album": "Hotel California • 1976"
     }
   ]
 }
