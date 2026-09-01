@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T10:22:56",
+  "updatedAt": "2026-09-01T10:26:50",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Never Give Me Your Money",
-    "album": "Abbey Road • 1969",
+    "artist": "Billy Joel",
+    "title": "Only The Good Die Young",
+    "album": "The Stranger • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:26 am",
-      "artist": "Billy Joel",
-      "title": "Only The Good Die Young"
-    },
     {
       "time": "10:30 am",
       "artist": "Hootie & The Blowfish",
@@ -23,12 +18,23 @@
       "title": "Codex"
     },
     {
-      "time": "10:39 am",
+      "time": "10:38 am",
       "artist": "Daft Punk",
       "title": "Aerodynamic"
+    },
+    {
+      "time": "10:42 am",
+      "artist": "Arcade Fire",
+      "title": "Neighborhood #3 (Power Out)"
     }
   ],
   "recent": [
+    {
+      "time": "10:26 am",
+      "artist": "Billy Joel",
+      "title": "Only The Good Die Young",
+      "album": "The Stranger • 1978"
+    },
     {
       "time": "10:22 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Archers of Loaf",
       "title": "Web In Front",
       "album": "The Speed of Cattle • 1996"
-    },
-    {
-      "time": "8:52 am",
-      "artist": "Hot Chelle Rae",
-      "title": "Tonight Tonight",
-      "album": "Whatever • 2011"
     }
   ]
 }
