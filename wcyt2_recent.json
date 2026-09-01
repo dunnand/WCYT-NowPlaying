@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T11:19:23",
+  "updatedAt": "2026-09-01T11:19:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "For All We Know",
+    "album": "Carpenters • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:19 am",
-      "artist": "The Carpenters",
-      "title": "For All We Know"
-    },
     {
       "time": "11:22 am",
       "artist": "The Beatles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:19 am",
+      "artist": "The Carpenters",
+      "title": "For All We Know",
+      "album": "Carpenters • 1971"
+    },
     {
       "time": "11:15 am",
       "artist": "The Flying Burrito Brothers",
@@ -177,12 +178,6 @@
       "artist": "The Beatles",
       "title": "I Want To Hold Your Hand",
       "album": "single • 1963"
-    },
-    {
-      "time": "9:39 am",
-      "artist": "Arcade Fire",
-      "title": "Neighborhood #4 (7 Kettles)",
-      "album": "Funeral • 2004"
     }
   ]
 }
