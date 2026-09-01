@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T08:32:16",
+  "updatedAt": "2026-09-01T08:35:40",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Jamming",
-    "album": "Exodus • 1977",
+    "artist": "Aphex Twin",
+    "title": "Xtal",
+    "album": "Selected Ambient Works 85-92 • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:35 am",
-      "artist": "Aphex Twin",
-      "title": "Xtal"
-    },
     {
       "time": "8:40 am",
       "artist": "Bobby Darin",
@@ -21,9 +16,20 @@
       "time": "8:43 am",
       "artist": "Beyonce",
       "title": "Sweet Dreams"
+    },
+    {
+      "time": "8:46 am",
+      "artist": "The Velvet Underground",
+      "title": "All Tomorrow's Parties"
     }
   ],
   "recent": [
+    {
+      "time": "8:35 am",
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "album": "Selected Ambient Works 85-92 • 1992"
+    },
     {
       "time": "8:32 am",
       "artist": "Bob Marley and the Wailers",
@@ -167,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Monkey Wrench",
       "album": "The Colour and the Shape • 1997"
-    },
-    {
-      "time": "7:03 am",
-      "artist": "Madonna",
-      "title": "Secret",
-      "album": "Bedtime Stories • 1994"
     }
   ]
 }
