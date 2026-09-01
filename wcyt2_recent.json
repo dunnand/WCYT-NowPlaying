@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T05:36:39",
+  "updatedAt": "2026-09-01T05:37:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Perfect Situation",
+    "album": "Make Believe • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:37 am",
-      "artist": "Weezer",
-      "title": "Perfect Situation"
-    },
     {
       "time": "5:41 am",
       "artist": "Tommy Roe",
@@ -26,9 +21,20 @@
       "time": "5:47 am",
       "artist": "Guided by Voices",
       "title": "Gold Star for Robot Boy"
+    },
+    {
+      "time": "5:48 am",
+      "artist": "Penguins",
+      "title": "Earth Angel (Will You Be Mine)"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 am",
+      "artist": "Weezer",
+      "title": "Perfect Situation",
+      "album": "Make Believe • 2005"
+    },
     {
       "time": "5:33 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Yer Majesty",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "3:58 am",
-      "artist": "Radiohead",
-      "title": "Pyramid Song",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
