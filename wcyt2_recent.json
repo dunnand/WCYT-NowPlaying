@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:46:43",
+  "updatedAt": "2026-09-01T03:49:18",
   "now": {
-    "artist": "The Beatles",
-    "title": "Got To Get You Into My Life",
-    "album": "Revolver • 1966",
+    "artist": "Queen",
+    "title": "A Kind of Magic",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "Queen",
-      "title": "A Kind of Magic"
-    },
     {
       "time": "3:53 am",
       "artist": "Stone Temple Pilots",
@@ -26,9 +21,20 @@
       "time": "3:58 am",
       "artist": "Radiohead",
       "title": "Pyramid Song"
+    },
+    {
+      "time": "4:03 am",
+      "artist": "The Beatles",
+      "title": "Yer Majesty"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "Queen",
+      "title": "A Kind of Magic",
+      "album": ""
+    },
     {
       "time": "3:46 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Loser",
       "album": "Mellow Gold • 1994"
-    },
-    {
-      "time": "2:11 am",
-      "artist": "Kelly Clarkson",
-      "title": "Stronger (What Doesn't Kill Me)",
-      "album": "Stronger • 2011"
     }
   ]
 }
