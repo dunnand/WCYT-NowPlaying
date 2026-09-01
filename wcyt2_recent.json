@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T09:23:24",
+  "updatedAt": "2026-09-01T09:27:26",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "Grace Is Gone",
-    "album": "Busted Stuff • 2002",
+    "artist": "The Beatles",
+    "title": "You're Going To Lose That Girl",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 am",
-      "artist": "The Beatles",
-      "title": "You're Going To Lose That Girl"
-    },
     {
       "time": "9:29 am",
       "artist": "Paul Anka",
@@ -26,9 +21,20 @@
       "time": "9:37 am",
       "artist": "Teddy Bears",
       "title": "To Know Him, Is To Love Him"
+    },
+    {
+      "time": "9:39 am",
+      "artist": "Arcade Fire",
+      "title": "Neighborhood #4 (7 Kettles)"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 am",
+      "artist": "The Beatles",
+      "title": "You're Going To Lose That Girl",
+      "album": "Help! • 1965"
+    },
     {
       "time": "9:23 am",
       "artist": "Dave Matthews Band",
@@ -172,12 +178,6 @@
       "artist": "One Direction",
       "title": "Live While We're Young",
       "album": "Take Me Home • 2012"
-    },
-    {
-      "time": "7:56 am",
-      "artist": "The Isley Brothers",
-      "title": "This Old Heart of Mine (Is Weak for You)",
-      "album": "This Old Heart of Mine • 1966"
     }
   ]
 }
