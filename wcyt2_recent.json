@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-09-01T07:08:01",
+  "updatedAt": "2026-09-01T07:11:46",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Monkey Wrench",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Olivia Newton-John",
+    "title": "Physical",
+    "album": "Physical • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:11 am",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench"
-    },
-    {
       "time": "7:15 am",
-      "artist": "Olivia Newton",
-      "title": "John - Physical"
-    },
-    {
-      "time": "7:19 am",
       "artist": "Peter Murphy",
       "title": "Cuts You Up"
+    },
+    {
+      "time": "7:20 am",
+      "artist": "Kings of Leon",
+      "title": "The Bandit"
+    },
+    {
+      "time": "7:24 am",
+      "artist": "Sufjan Stevens",
+      "title": "Chicago"
     }
   ],
   "recent": [
+    {
+      "time": "7:11 am",
+      "artist": "Olivia Newton-John",
+      "title": "Physical",
+      "album": "Physical • 1981"
+    },
     {
       "time": "7:08 am",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Tommy Roe",
       "title": "Dizzy",
       "album": "Dizzy • 1969"
-    },
-    {
-      "time": "5:37 am",
-      "artist": "Weezer",
-      "title": "Perfect Situation",
-      "album": "Make Believe • 2005"
     }
   ]
 }
