@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T20:24:14",
+  "updatedAt": "2026-08-31T20:26:49",
   "now": {
-    "artist": "John Prine",
-    "title": "Sweet Revenge",
-    "album": "Sweet Revenge • 1973",
+    "artist": "The Beatles",
+    "title": "Oh! Darling",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:26 pm",
-      "artist": "The Beatles",
-      "title": "Oh! Darling"
-    },
     {
       "time": "8:30 pm",
       "artist": "The Who",
@@ -23,12 +18,23 @@
       "title": "Tell Me Why"
     },
     {
-      "time": "8:41 pm",
+      "time": "8:40 pm",
       "artist": "Maxine Nightingale",
       "title": "Right Back Where We Started From"
+    },
+    {
+      "time": "8:44 pm",
+      "artist": "Rembrandts",
+      "title": "I'll Be There For You"
     }
   ],
   "recent": [
+    {
+      "time": "8:26 pm",
+      "artist": "The Beatles",
+      "title": "Oh! Darling",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "8:24 pm",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Supergrass",
       "title": "Seen the Light",
       "album": "Road to Rouen • 2005"
-    },
-    {
-      "time": "6:57 pm",
-      "artist": "The Isley Brothers",
-      "title": "Shout, Pts. 1 & 2",
-      "album": "Shout! • 1959"
     }
   ]
 }
