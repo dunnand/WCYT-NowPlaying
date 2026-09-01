@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T19:39:33",
+  "updatedAt": "2026-09-01T19:42:28",
   "now": {
-    "artist": "Townes Van Zandt",
-    "title": "I'll Be Here in the Morning",
-    "album": "Townes Van Zandt • 1969",
+    "artist": "James Blake",
+    "title": "The Wilhelm Scream",
+    "album": "James Blake • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 pm",
-      "artist": "James Blake",
-      "title": "The Wilhelm Scream"
-    },
     {
       "time": "7:47 pm",
       "artist": "Dave Matthews Band",
@@ -21,9 +16,20 @@
       "time": "7:51 pm",
       "artist": "De La Soul",
       "title": "Let, Let Me In"
+    },
+    {
+      "time": "7:55 pm",
+      "artist": "AC/DC",
+      "title": "Back in Black"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 pm",
+      "artist": "James Blake",
+      "title": "The Wilhelm Scream",
+      "album": "James Blake • 2011"
+    },
     {
       "time": "7:39 pm",
       "artist": "Townes Van Zandt",
@@ -167,12 +173,6 @@
       "artist": "Wire",
       "title": "Ex Lion Tamer",
       "album": "Pink Flag • 1977"
-    },
-    {
-      "time": "6:08 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "happier",
-      "album": "SOUR • 2021"
     }
   ]
 }
