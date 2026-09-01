@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T06:09:07",
+  "updatedAt": "2026-09-01T06:09:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kenny Rogers",
+    "title": "Blaze Of Glory",
+    "album": "Share Your Love • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:09 am",
-      "artist": "Kenny Rogers",
-      "title": "Blaze Of Glory"
-    },
     {
       "time": "6:11 am",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "6:23 am",
       "artist": "Gladys Knight & The Pips",
       "title": "Midnight Train to Georgia"
+    },
+    {
+      "time": "6:27 am",
+      "artist": "Fleetwood Mac",
+      "title": "You Make Loving Fun"
     }
   ],
   "recent": [
+    {
+      "time": "6:09 am",
+      "artist": "Kenny Rogers",
+      "title": "Blaze Of Glory",
+      "album": "Share Your Love • 1981"
+    },
     {
       "time": "6:06 am",
       "artist": "Mercury Rev",
@@ -172,12 +178,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Alabama Pines",
       "album": "Here We Rest • 2011"
-    },
-    {
-      "time": "4:37 am",
-      "artist": "The Killers",
-      "title": "Read My Mind",
-      "album": "Sam's Town • 2006"
     }
   ]
 }
