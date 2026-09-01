@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T00:38:02",
+  "updatedAt": "2026-09-01T00:38:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "American Tune",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 am",
-      "artist": "Paul Simon",
-      "title": "American Tune"
-    },
     {
       "time": "12:42 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "12:48 am",
       "artist": "Thunderclap Newman",
       "title": "Something In The Air"
+    },
+    {
+      "time": "12:52 am",
+      "artist": "Rolling Stones",
+      "title": "It's Only Rock 'N Roll (But I Like It)"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 am",
+      "artist": "Paul Simon",
+      "title": "American Tune",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "12:32 am",
       "artist": "Lana Del Rey",
@@ -172,12 +178,6 @@
       "artist": "One Direction",
       "title": "Little Things",
       "album": "Take Me Home • 2012"
-    },
-    {
-      "time": "9:39 pm",
-      "artist": "The Verve",
-      "title": "Bitter Sweet Symphony",
-      "album": "Urban Hymns • 1997"
     }
   ]
 }
