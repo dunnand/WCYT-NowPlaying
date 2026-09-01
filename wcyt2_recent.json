@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T14:19:07",
+  "updatedAt": "2026-09-01T14:22:09",
   "now": {
-    "artist": "Bright Eyes",
-    "title": "First Day Of My Life",
-    "album": "I'm Wide Awake, It's Morning • 2005",
-    "category": "TUNES"
+    "artist": "The Kinks",
+    "title": "The Village Green Preservation Society",
+    "album": "The Kinks Are the Village Green Preservation Society • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:22 pm",
-      "artist": "The Kinks",
-      "title": "The Village Green Preservation Society"
-    },
     {
       "time": "2:24 pm",
       "artist": "John Lennon",
@@ -26,9 +21,20 @@
       "time": "2:32 pm",
       "artist": "Pink",
       "title": "Just Give Me A Reason"
+    },
+    {
+      "time": "2:36 pm",
+      "artist": "Darondo",
+      "title": "Didn't I"
     }
   ],
   "recent": [
+    {
+      "time": "2:22 pm",
+      "artist": "The Kinks",
+      "title": "The Village Green Preservation Society",
+      "album": "The Kinks Are the Village Green Preservation Society • 1968"
+    },
     {
       "time": "2:19 pm",
       "artist": "Bright Eyes",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Dance Yrself Clean",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "12:29 pm",
-      "artist": "Broadcast",
-      "title": "America's Boy",
-      "album": "Tender Buttons • 2005"
     }
   ]
 }
