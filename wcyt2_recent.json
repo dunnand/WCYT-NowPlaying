@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T04:32:45",
+  "updatedAt": "2026-09-01T04:37:35",
   "now": {
-    "artist": "The Knack",
-    "title": "My Sharona",
-    "album": "Proof: The Very Best Of The Knack • 1979",
+    "artist": "The Killers",
+    "title": "Read My Mind",
+    "album": "Sam's Town • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:37 am",
-      "artist": "The Killers",
-      "title": "Read My Mind"
-    },
     {
       "time": "4:41 am",
       "artist": "Jason Isbell and the 400 Unit",
@@ -26,9 +21,20 @@
       "time": "4:49 am",
       "artist": "Radiohead",
       "title": "The Bends"
+    },
+    {
+      "time": "4:53 am",
+      "artist": "Chordettes",
+      "title": "Born To Be With You"
     }
   ],
   "recent": [
+    {
+      "time": "4:37 am",
+      "artist": "The Killers",
+      "title": "Read My Mind",
+      "album": "Sam's Town • 2006"
+    },
     {
       "time": "4:32 am",
       "artist": "The Knack",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Sgt. Pepper's Lonely Hearts Club Band",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "3:06 am",
-      "artist": "Sheryl Crow",
-      "title": "Steve McQueen",
-      "album": "Cmon, Cmon • 2002"
     }
   ]
 }
