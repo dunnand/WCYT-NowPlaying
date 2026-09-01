@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T01:55:47",
+  "updatedAt": "2026-09-01T01:59:04",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Friend of the Devil",
-    "album": "American Beauty • 1970",
+    "artist": "A Tribe Called Quest",
+    "title": "Electric Relaxation",
+    "album": "Midnight Marauders • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:59 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Electric Relaxation"
-    },
     {
       "time": "2:02 am",
       "artist": "Link Wray & His Ray Men",
@@ -26,9 +21,20 @@
       "time": "2:09 am",
       "artist": "The Beatles",
       "title": "I'm A Loser"
+    },
+    {
+      "time": "2:11 am",
+      "artist": "Kelly Clarkson",
+      "title": "Stronger (What Doesn't Kill Me)"
     }
   ],
   "recent": [
+    {
+      "time": "1:59 am",
+      "artist": "A Tribe Called Quest",
+      "title": "Electric Relaxation",
+      "album": "Midnight Marauders • 1993"
+    },
     {
       "time": "1:55 am",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "Strange Powers",
       "album": "Holiday • 1994"
-    },
-    {
-      "time": "12:16 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Rhinoceros",
-      "album": "Gish • 1991"
     }
   ]
 }
