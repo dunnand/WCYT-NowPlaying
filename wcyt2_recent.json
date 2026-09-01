@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T09:50:23",
+  "updatedAt": "2026-09-01T09:50:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "Sidewalk",
+    "album": "Keep It Like A Secret • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:50 am",
-      "artist": "Built to Spill",
-      "title": "Sidewalk"
-    },
     {
       "time": "9:54 am",
       "artist": "The Halo Benders",
@@ -26,9 +21,20 @@
       "time": "10:00 am",
       "artist": "Bruce Springsteen",
       "title": "Atlantic City"
+    },
+    {
+      "time": "10:04 am",
+      "artist": "Black Pumas",
+      "title": "I'm Ready"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 am",
+      "artist": "Built to Spill",
+      "title": "Sidewalk",
+      "album": "Keep It Like A Secret • 1999"
+    },
     {
       "time": "9:46 am",
       "artist": "M83",
@@ -172,12 +178,6 @@
       "artist": "Journey",
       "title": "Lights",
       "album": "Infinity • 1978"
-    },
-    {
-      "time": "8:19 am",
-      "artist": "David Bowie",
-      "title": "Golden Years",
-      "album": "Station to Station • 1976"
     }
   ]
 }
