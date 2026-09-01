@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T13:09:28",
+  "updatedAt": "2026-09-01T13:09:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chicago",
+    "title": "If You Leave Me Now",
+    "album": "Chicago X • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:09 pm",
-      "artist": "Chicago",
-      "title": "If You Leave Me Now"
-    },
     {
       "time": "1:13 pm",
       "artist": "The Ronettes",
@@ -26,9 +21,20 @@
       "time": "1:20 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Thirty-Three"
+    },
+    {
+      "time": "1:24 pm",
+      "artist": "Carl Perkins",
+      "title": "Blue Suede Shoes"
     }
   ],
   "recent": [
+    {
+      "time": "1:09 pm",
+      "artist": "Chicago",
+      "title": "If You Leave Me Now",
+      "album": "Chicago X • 1976"
+    },
     {
       "time": "1:07 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Violet Hill",
       "album": "Viva la Vida or Death and All His Friends • 2008"
-    },
-    {
-      "time": "11:34 am",
-      "artist": "Destroyer",
-      "title": "The Sublimation Hour",
-      "album": "Streethawk A Seduction • 2001"
     }
   ]
 }
