@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T19:12:31",
+  "updatedAt": "2026-09-01T19:16:27",
   "now": {
-    "artist": "Aretha Franklin",
-    "title": "Spirit in the Dark",
-    "album": "Spirit in the Dark • 1970",
+    "artist": "The Beatles",
+    "title": "Here Comes The Sun",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:16 pm",
-      "artist": "The Beatles",
-      "title": "Here Comes The Sun"
-    },
     {
       "time": "7:19 pm",
       "artist": "Bachman",
@@ -26,9 +21,20 @@
       "time": "7:25 pm",
       "artist": "Barry White",
       "title": "Can't Get Enough Of Your Love, Babe"
+    },
+    {
+      "time": "7:29 pm",
+      "artist": "Cat Power",
+      "title": "Metal Heart"
     }
   ],
   "recent": [
+    {
+      "time": "7:16 pm",
+      "artist": "The Beatles",
+      "title": "Here Comes The Sun",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "7:12 pm",
       "artist": "Aretha Franklin",
@@ -172,12 +178,6 @@
       "artist": "The Black Keys",
       "title": "Just Couldn't Tie Me Down",
       "album": "Rubber Factory • 2004"
-    },
-    {
-      "time": "5:39 pm",
-      "artist": "Chuck Berry",
-      "title": "Maybelene",
-      "album": "After School Session • 1957"
     }
   ]
 }
