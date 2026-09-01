@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T08:01:59",
+  "updatedAt": "2026-09-01T08:02:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Aerosmith",
+    "title": "Amazing",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 am",
-      "artist": "Aerosmith",
-      "title": "Amazing"
-    },
     {
       "time": "8:06 am",
       "artist": "Alice in Chains",
@@ -26,9 +21,20 @@
       "time": "8:13 am",
       "artist": "Husker Du",
       "title": "Eight Miles High"
+    },
+    {
+      "time": "8:17 am",
+      "artist": "Lil Nas X",
+      "title": "MONTERO (Call Me By Your Name)"
     }
   ],
   "recent": [
+    {
+      "time": "8:02 am",
+      "artist": "Aerosmith",
+      "title": "Amazing",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "7:58 am",
       "artist": "One Direction",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "You Make Loving Fun",
       "album": "Rumours • 1977"
-    },
-    {
-      "time": "6:23 am",
-      "artist": "Gladys Knight & The Pips",
-      "title": "Midnight Train to Georgia",
-      "album": "Imagination • 1973"
     }
   ]
 }
