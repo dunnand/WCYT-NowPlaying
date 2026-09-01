@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T19:54:51",
+  "updatedAt": "2026-09-01T19:55:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "AC/DC",
+    "title": "Back in Black",
+    "album": "Back in Black • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:55 pm",
-      "artist": "AC/DC",
-      "title": "Back in Black"
-    },
     {
       "time": "7:59 pm",
       "artist": "Bangles",
@@ -26,9 +21,20 @@
       "time": "8:07 pm",
       "artist": "Black Sabbath",
       "title": "War Pigs"
+    },
+    {
+      "time": "8:15 pm",
+      "artist": "Boston",
+      "title": "Don't Look Back"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 pm",
+      "artist": "AC/DC",
+      "title": "Back in Black",
+      "album": "Back in Black • 1980"
+    },
     {
       "time": "7:51 pm",
       "artist": "De La Soul",
@@ -172,12 +178,6 @@
       "artist": "The Crystals",
       "title": "He Hit Me (It Felt Like a Kiss)",
       "album": "He's a Rebel • 1963"
-    },
-    {
-      "time": "6:18 pm",
-      "artist": "The Decemberists",
-      "title": "I Was Meant for the Stage",
-      "album": "Her Majesty the Decemberists • 2003"
     }
   ]
 }
