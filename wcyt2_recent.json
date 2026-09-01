@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T01:41:06",
+  "updatedAt": "2026-09-01T01:45:01",
   "now": {
-    "artist": "Stevie Wonder",
-    "title": "Sir Duke",
-    "album": "Songs in the Key of Life • 1977",
+    "artist": "The Beatles",
+    "title": "We Can Work It Out",
+    "album": "single • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:44 am",
-      "artist": "The Beatles",
-      "title": "We Can Work It Out"
-    },
     {
       "time": "1:47 am",
       "artist": "T. Rex",
@@ -26,9 +21,20 @@
       "time": "1:55 am",
       "artist": "Grateful Dead",
       "title": "Friend of the Devil"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "A Tribe Called Quest",
+      "title": "Electric Relaxation"
     }
   ],
   "recent": [
+    {
+      "time": "1:45 am",
+      "artist": "The Beatles",
+      "title": "We Can Work It Out",
+      "album": "single • 1965"
+    },
     {
       "time": "1:41 am",
       "artist": "Stevie Wonder",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Heavy Metal Drummer",
       "album": "Yankee Hotel Foxtrot • 2002"
-    },
-    {
-      "time": "12:03 am",
-      "artist": "Platters",
-      "title": "Twilight Time",
-      "album": "single • 1958"
     }
   ]
 }
