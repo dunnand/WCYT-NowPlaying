@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T09:57:27",
+  "updatedAt": "2026-09-01T09:57:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joan Jett",
+    "title": "Bad Reputation",
+    "album": "Bad Reputation • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:57 am",
-      "artist": "Joan Jett",
-      "title": "Bad Reputation"
-    },
     {
       "time": "10:00 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "10:09 am",
       "artist": "The Beatles",
       "title": "Across The Universe"
+    },
+    {
+      "time": "10:12 am",
+      "artist": "Al Green",
+      "title": "Take Me to the River"
     }
   ],
   "recent": [
+    {
+      "time": "9:57 am",
+      "artist": "Joan Jett",
+      "title": "Bad Reputation",
+      "album": "Bad Reputation • 1980"
+    },
     {
       "time": "9:54 am",
       "artist": "The Halo Benders",
@@ -172,12 +178,6 @@
       "artist": "The Ventures",
       "title": "Walk Don't Run",
       "album": "Walk Don't Run • 1960"
-    },
-    {
-      "time": "8:26 am",
-      "artist": "Arctic Monkeys",
-      "title": "Crying Lightning",
-      "album": "Humbug • 2009"
     }
   ]
 }
