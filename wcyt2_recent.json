@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T09:23:12",
+  "updatedAt": "2026-09-01T09:23:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dave Matthews Band",
+    "title": "Grace Is Gone",
+    "album": "Busted Stuff • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:23 am",
-      "artist": "Dave Matthews Band",
-      "title": "Grace Is Gone"
-    },
     {
       "time": "9:27 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "9:32 am",
       "artist": "Belle and Sebastian",
       "title": "The Boy With the Arab Strap"
+    },
+    {
+      "time": "9:37 am",
+      "artist": "Teddy Bears",
+      "title": "To Know Him, Is To Love Him"
     }
   ],
   "recent": [
+    {
+      "time": "9:23 am",
+      "artist": "Dave Matthews Band",
+      "title": "Grace Is Gone",
+      "album": "Busted Stuff • 2002"
+    },
     {
       "time": "9:18 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "The Isley Brothers",
       "title": "This Old Heart of Mine (Is Weak for You)",
       "album": "This Old Heart of Mine • 1966"
-    },
-    {
-      "time": "7:51 am",
-      "artist": "Beach House",
-      "title": "Heart of Chambers",
-      "album": "Devotion • 2008"
     }
   ]
 }
