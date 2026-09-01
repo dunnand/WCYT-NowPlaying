@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T15:23:13",
+  "updatedAt": "2026-09-01T15:23:25",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Antlers",
+    "title": "Director",
+    "album": "Familiars • 2014",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:23 pm",
-      "artist": "The Antlers",
-      "title": "Director"
-    },
     {
       "time": "3:29 pm",
       "artist": "Mac DeMarco",
@@ -26,9 +21,20 @@
       "time": "3:36 pm",
       "artist": "Sufjan Stevens",
       "title": "Fourth of July"
+    },
+    {
+      "time": "3:41 pm",
+      "artist": "Snocaps",
+      "title": "Brand New City"
     }
   ],
   "recent": [
+    {
+      "time": "3:23 pm",
+      "artist": "The Antlers",
+      "title": "Director",
+      "album": "Familiars • 2014"
+    },
     {
       "time": "3:19 pm",
       "artist": "Queens of the Stone Age",
@@ -172,12 +178,6 @@
       "artist": "Westside Cowboy",
       "title": "Paper Chains",
       "album": "It Goes On • 2026"
-    },
-    {
-      "time": "1:40 pm",
-      "artist": "Aphex Twin",
-      "title": "Xtal",
-      "album": "Selected Ambient Works 85-92 • 1992"
     }
   ]
 }
