@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T10:08:51",
+  "updatedAt": "2026-09-01T10:12:15",
   "now": {
-    "artist": "The Beatles",
-    "title": "Across The Universe",
-    "album": "Let It Be • 1970",
+    "artist": "Al Green",
+    "title": "Take Me to the River",
+    "album": "Explores Your Mind • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:12 am",
-      "artist": "Al Green",
-      "title": "Take Me to the River"
-    },
     {
       "time": "10:16 am",
       "artist": "DJ Shadow",
@@ -26,9 +21,20 @@
       "time": "10:27 am",
       "artist": "Billy Joel",
       "title": "Only The Good Die Young"
+    },
+    {
+      "time": "10:30 am",
+      "artist": "Hootie & The Blowfish",
+      "title": "I Go Blind"
     }
   ],
   "recent": [
+    {
+      "time": "10:12 am",
+      "artist": "Al Green",
+      "title": "Take Me to the River",
+      "album": "Explores Your Mind • 1974"
+    },
     {
       "time": "10:08 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Beyonce",
       "title": "Sweet Dreams",
       "album": "I Am... Sasha Fierce • 2008"
-    },
-    {
-      "time": "8:40 am",
-      "artist": "Bobby Darin",
-      "title": "Beyond the Sea",
-      "album": "single • 1950"
     }
   ]
 }
