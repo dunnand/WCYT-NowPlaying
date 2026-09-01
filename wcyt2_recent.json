@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-09-01T05:28:07",
+  "updatedAt": "2026-09-01T05:33:23",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "All My Love",
-    "album": "In Through the Out Door • 1979",
+    "artist": "The Clash",
+    "title": "London Calling",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "5:33 am",
-      "artist": "Led Zeppelin",
-      "title": "All My Love"
-    },
-    {
-      "time": "5:39 am",
-      "artist": "The Clash",
-      "title": "London Calling"
-    },
-    {
-      "time": "5:42 am",
+      "time": "5:37 am",
       "artist": "Weezer",
       "title": "Perfect Situation"
+    },
+    {
+      "time": "5:41 am",
+      "artist": "Tommy Roe",
+      "title": "Dizzy"
+    },
+    {
+      "time": "5:44 am",
+      "artist": "Looking Glass",
+      "title": "Brandy (You're A Fine Girl)"
+    },
+    {
+      "time": "5:47 am",
+      "artist": "Guided by Voices",
+      "title": "Gold Star for Robot Boy"
     }
   ],
   "recent": [
+    {
+      "time": "5:33 am",
+      "artist": "The Clash",
+      "title": "London Calling",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "5:28 am",
       "artist": "Led Zeppelin",
@@ -167,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Pyramid Song",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "Elvis Presley",
-      "title": "Blue Suede Shoes",
-      "album": "Elvis Presley • 1956"
     }
   ]
 }
