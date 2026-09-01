@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T05:51:48",
+  "updatedAt": "2026-09-01T05:54:50",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Little Bird",
-    "album": "De Stijl • 2000",
-    "category": "TUNES"
+    "artist": "The Zombies",
+    "title": "Care of Cell 44",
+    "album": "Odessey and Oracle • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:54 am",
-      "artist": "The Zombies",
-      "title": "Care of Cell 44"
-    },
     {
       "time": "5:58 am",
       "artist": "Macklemore",
@@ -21,9 +16,20 @@
       "time": "6:02 am",
       "artist": "System of a Down",
       "title": "Spiders"
+    },
+    {
+      "time": "6:06 am",
+      "artist": "Mercury Rev",
+      "title": "Delta Sun Bottleneck Stomp"
     }
   ],
   "recent": [
+    {
+      "time": "5:54 am",
+      "artist": "The Zombies",
+      "title": "Care of Cell 44",
+      "album": "Odessey and Oracle • 1968"
+    },
     {
       "time": "5:51 am",
       "artist": "The White Stripes",
@@ -167,12 +173,6 @@
       "artist": "Chappell Roan",
       "title": "Good Luck, Babe!",
       "album": "single • 2024"
-    },
-    {
-      "time": "4:22 am",
-      "artist": "Madonna",
-      "title": "Papa Don't Preach",
-      "album": "True Blue • 1986"
     }
   ]
 }
