@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T01:47:14",
+  "updatedAt": "2026-09-01T01:47:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "T. Rex",
+    "title": "20th Century Boy",
+    "album": "single • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:47 am",
-      "artist": "T. Rex",
-      "title": "20th Century Boy"
-    },
     {
       "time": "1:50 am",
       "artist": "The Velvet Underground",
@@ -31,9 +26,20 @@
       "time": "2:02 am",
       "artist": "Link Wray & His Ray Men",
       "title": "Rumble"
+    },
+    {
+      "time": "2:05 am",
+      "artist": "Radiohead",
+      "title": "Knives Out"
     }
   ],
   "recent": [
+    {
+      "time": "1:47 am",
+      "artist": "T. Rex",
+      "title": "20th Century Boy",
+      "album": "single • 1973"
+    },
     {
       "time": "1:45 am",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "The Word",
       "album": "Rubber Soul • 1965"
-    },
-    {
-      "time": "12:06 am",
-      "artist": "Wilco",
-      "title": "Heavy Metal Drummer",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
