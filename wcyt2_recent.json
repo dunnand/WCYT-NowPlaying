@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T10:08:21",
+  "updatedAt": "2026-09-01T10:08:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Across The Universe",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:08 am",
-      "artist": "The Beatles",
-      "title": "Across The Universe"
-    },
     {
       "time": "10:12 am",
       "artist": "Al Green",
@@ -26,9 +21,20 @@
       "time": "10:23 am",
       "artist": "The Beatles",
       "title": "You Never Give Me Your Money"
+    },
+    {
+      "time": "10:27 am",
+      "artist": "Billy Joel",
+      "title": "Only The Good Die Young"
     }
   ],
   "recent": [
+    {
+      "time": "10:08 am",
+      "artist": "The Beatles",
+      "title": "Across The Universe",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "10:04 am",
       "artist": "Black Pumas",
@@ -172,12 +178,6 @@
       "artist": "Bobby Darin",
       "title": "Beyond the Sea",
       "album": "single • 1950"
-    },
-    {
-      "time": "8:35 am",
-      "artist": "Aphex Twin",
-      "title": "Xtal",
-      "album": "Selected Ambient Works 85-92 • 1992"
     }
   ]
 }
