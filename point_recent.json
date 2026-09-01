@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T10:02:07",
+  "updatedAt": "2026-09-01T10:06:30",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Dollars and Cents",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:06 am",
-      "artist": "Radiohead",
-      "title": "Dollars and Cents"
-    },
     {
       "time": "10:11 am",
       "artist": "The Shins",
@@ -31,9 +26,20 @@
       "time": "10:22 am",
       "artist": "Fontaines D.C.",
       "title": "Marianne"
+    },
+    {
+      "time": "10:26 am",
+      "artist": "The Avalanches",
+      "title": "Blue Shadows (feat. Karen O)"
     }
   ],
   "recent": [
+    {
+      "time": "10:06 am",
+      "artist": "Radiohead",
+      "title": "Dollars and Cents",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "9:58 am",
       "artist": "Veruca Salt",
@@ -177,12 +183,6 @@
       "artist": "Interpol",
       "title": "Wings On Fire",
       "album": ""
-    },
-    {
-      "time": "8:19 am",
-      "artist": "Brittany Howard",
-      "title": "What Now",
-      "album": "What Now • 2024"
     }
   ]
 }
