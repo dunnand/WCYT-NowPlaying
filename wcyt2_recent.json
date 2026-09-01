@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T04:03:29",
+  "updatedAt": "2026-09-01T04:03:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Yer Majesty",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "The Beatles",
-      "title": "Yer Majesty"
-    },
     {
       "time": "4:03 am",
       "artist": "Kendrick Lamar",
@@ -26,9 +21,20 @@
       "time": "4:13 am",
       "artist": "U2",
       "title": "Ultra Violet (Light My Way)"
+    },
+    {
+      "time": "4:19 am",
+      "artist": "R.E.M.",
+      "title": "9-9"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "The Beatles",
+      "title": "Yer Majesty",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "3:58 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Toshiyuki Sudo, Daisuke Matsuoka",
       "title": "Sakura Samurai: Art of the Sword (The Sakura Bloom)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "2:32 am",
-      "artist": "Violent Femmes",
-      "title": "Blister in the Sun",
-      "album": "Violent Femmes • 1983"
     }
   ]
 }
