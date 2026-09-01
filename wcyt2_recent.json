@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-09-01T07:07:49",
+  "updatedAt": "2026-09-01T07:08:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Monkey Wrench",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:07 am",
+      "time": "7:11 am",
       "artist": "Foo Fighters",
       "title": "Monkey Wrench"
     },
     {
-      "time": "7:11 am",
+      "time": "7:15 am",
       "artist": "Olivia Newton",
       "title": "John - Physical"
     },
     {
-      "time": "7:15 am",
+      "time": "7:19 am",
       "artist": "Peter Murphy",
       "title": "Cuts You Up"
-    },
-    {
-      "time": "7:20 am",
-      "artist": "Kings of Leon",
-      "title": "The Bandit"
     }
   ],
   "recent": [
+    {
+      "time": "7:08 am",
+      "artist": "Foo Fighters",
+      "title": "Monkey Wrench",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "7:03 am",
       "artist": "Madonna",
@@ -172,12 +173,6 @@
       "artist": "Weezer",
       "title": "Perfect Situation",
       "album": "Make Believe • 2005"
-    },
-    {
-      "time": "5:33 am",
-      "artist": "The Clash",
-      "title": "London Calling",
-      "album": "London Calling • 1979"
     }
   ]
 }
