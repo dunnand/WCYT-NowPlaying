@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T01:23:09",
+  "updatedAt": "2026-09-01T01:26:36",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Song Against Sex",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "album": "Weezer • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:26 am",
-      "artist": "Weezer",
-      "title": "Buddy Holly"
-    },
     {
       "time": "1:29 am",
       "artist": "Minutemen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:26 am",
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "1:23 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Gilbert O'Sullivan",
       "title": "Alone Again (Naturally)",
       "album": "single • 1972"
-    },
-    {
-      "time": "10:26 pm",
-      "artist": "The Tokens",
-      "title": "The Lion Sleeps Tonight",
-      "album": "The Lion Sleeps Tonight • 1961"
     }
   ]
 }
