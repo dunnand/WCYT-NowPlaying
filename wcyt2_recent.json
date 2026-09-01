@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T21:33:16",
+  "updatedAt": "2026-08-31T21:35:51",
   "now": {
-    "artist": "The Beatles",
-    "title": "With A Little Help From My Friends",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Jimmy Cliff",
+    "title": "The Harder They Come",
+    "album": "The Harder They Come • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 pm",
-      "artist": "Jimmy Cliff",
-      "title": "The Harder They Come"
-    },
     {
       "time": "9:39 pm",
       "artist": "The Verve",
@@ -26,9 +21,20 @@
       "time": "9:47 pm",
       "artist": "Wilco",
       "title": "Kamera"
+    },
+    {
+      "time": "9:50 pm",
+      "artist": "Vampire Weekend",
+      "title": "Campus"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 pm",
+      "artist": "Jimmy Cliff",
+      "title": "The Harder They Come",
+      "album": "The Harder They Come • 1972"
+    },
     {
       "time": "9:33 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Van Halen",
       "title": "Right Now",
       "album": "For Unlawful Carnal Knowledge • 1991"
-    },
-    {
-      "time": "7:59 pm",
-      "artist": "J Cole",
-      "title": "Work Out",
-      "album": "Cole World: The Sideline Story • 2011"
     }
   ]
 }
