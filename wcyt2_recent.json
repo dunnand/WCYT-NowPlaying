@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:43:16",
+  "updatedAt": "2026-09-01T03:43:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Petty and the Heartbreakers",
+    "title": "The Last DJ",
+    "album": "The Last DJ • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 am",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "The Last DJ"
-    },
     {
       "time": "3:46 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "3:57 am",
       "artist": "Elvis Presley",
       "title": "Blue Suede Shoes"
+    },
+    {
+      "time": "3:58 am",
+      "artist": "Radiohead",
+      "title": "Pyramid Song"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 am",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "The Last DJ",
+      "album": "The Last DJ • 2002"
+    },
     {
       "time": "3:40 am",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "I'm A Loser",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "2:05 am",
-      "artist": "Radiohead",
-      "title": "Knives Out",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
