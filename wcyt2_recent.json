@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T21:10:36",
+  "updatedAt": "2026-08-31T21:10:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "I Go To Extremes",
+    "album": "Storm Front • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 pm",
-      "artist": "Billy Joel",
-      "title": "I Go To Extremes"
-    },
     {
       "time": "9:14 pm",
       "artist": "De La Soul",
@@ -26,9 +21,20 @@
       "time": "9:23 pm",
       "artist": "Jorge Ben Jor",
       "title": "Taj Mahal"
+    },
+    {
+      "time": "9:26 pm",
+      "artist": "LaBelle",
+      "title": "Lady Marmalade"
     }
   ],
   "recent": [
+    {
+      "time": "9:10 pm",
+      "artist": "Billy Joel",
+      "title": "I Go To Extremes",
+      "album": "Storm Front • 1989"
+    },
     {
       "time": "9:05 pm",
       "artist": "R.E.M.",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "A Taste Of Honey",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "U2",
-      "title": "Walk On",
-      "album": "All That You Can't Leave Behind • 2000"
     }
   ]
 }
