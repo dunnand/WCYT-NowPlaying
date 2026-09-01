@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-08-31T20:30:12",
+  "updatedAt": "2026-08-31T20:30:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Won't Get Fooled Again",
+    "album": "Who's Next • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:30 pm",
-      "artist": "The Who",
-      "title": "Won't Get Fooled Again"
-    },
     {
       "time": "8:38 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "8:44 pm",
       "artist": "Rembrandts",
       "title": "I'll Be There For You"
+    },
+    {
+      "time": "8:47 pm",
+      "artist": "Coleman Hawkins",
+      "title": "La Rosita"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 pm",
+      "artist": "The Who",
+      "title": "Won't Get Fooled Again",
+      "album": "Who's Next • 1971"
+    },
     {
       "time": "8:26 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Isley Brothers",
       "title": "It's Your Thing",
       "album": "It's Our Thing • 1969"
-    },
-    {
-      "time": "7:02 pm",
-      "artist": "Supergrass",
-      "title": "Seen the Light",
-      "album": "Road to Rouen • 2005"
     }
   ]
 }
