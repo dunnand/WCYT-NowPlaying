@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T08:26:20",
+  "updatedAt": "2026-09-01T08:26:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Crying Lightning",
+    "album": "Humbug • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:26 am",
-      "artist": "Arctic Monkeys",
-      "title": "Crying Lightning"
-    },
     {
       "time": "8:30 am",
       "artist": "The Ventures",
@@ -26,9 +21,20 @@
       "time": "8:35 am",
       "artist": "Aphex Twin",
       "title": "Xtal"
+    },
+    {
+      "time": "8:40 am",
+      "artist": "Bobby Darin",
+      "title": "Beyond the Sea"
     }
   ],
   "recent": [
+    {
+      "time": "8:26 am",
+      "artist": "Arctic Monkeys",
+      "title": "Crying Lightning",
+      "album": "Humbug • 2009"
+    },
     {
       "time": "8:23 am",
       "artist": "Journey",
@@ -172,12 +178,6 @@
       "artist": "Toots & The Maytals",
       "title": "Pressure Drop",
       "album": "Sweet and Dandy • 1968"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Weezer",
-      "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)",
-      "album": "Weezer • 2008"
     }
   ]
 }
