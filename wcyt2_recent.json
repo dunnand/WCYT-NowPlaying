@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T12:11:09",
+  "updatedAt": "2026-09-01T12:14:01",
   "now": {
-    "artist": "Steve Miller Band",
-    "title": "Fly Like An Eagle",
-    "album": "Fly Like an Eagle • 1976",
+    "artist": "The Beatles",
+    "title": "Little Child",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 pm",
-      "artist": "The Beatles",
-      "title": "Little Child"
-    },
     {
       "time": "12:15 pm",
       "artist": "Buzzcocks",
@@ -26,9 +21,20 @@
       "time": "12:21 pm",
       "artist": "Passion Pit",
       "title": "Take A Walk"
+    },
+    {
+      "time": "12:26 pm",
+      "artist": "Beck",
+      "title": "Already Dead"
     }
   ],
   "recent": [
+    {
+      "time": "12:14 pm",
+      "artist": "The Beatles",
+      "title": "Little Child",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "12:11 pm",
       "artist": "Steve Miller Band",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "The Writing's On the Wall",
       "album": "Hungry Ghosts • 2014"
-    },
-    {
-      "time": "10:41 am",
-      "artist": "Arcade Fire",
-      "title": "Neighborhood #3 (Power Out)",
-      "album": "Funeral • 2004"
     }
   ]
 }
