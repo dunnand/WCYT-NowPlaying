@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T01:19:23",
+  "updatedAt": "2026-09-01T01:23:09",
   "now": {
-    "artist": "Mac DeMarco",
-    "title": "Chamber of Reflection",
-    "album": "Salad Days • 2014",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Song Against Sex",
+    "album": "On Avery Island • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:23 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Song Against Sex"
-    },
     {
       "time": "1:26 am",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "1:31 am",
       "artist": "Rod Stewart",
       "title": "Infatuation"
+    },
+    {
+      "time": "1:36 am",
+      "artist": "Arctic Monkeys",
+      "title": "There'd Better Be A Mirrorball"
     }
   ],
   "recent": [
+    {
+      "time": "1:23 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Song Against Sex",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "1:19 am",
       "artist": "Mac DeMarco",
@@ -172,12 +178,6 @@
       "artist": "The Tokens",
       "title": "The Lion Sleeps Tonight",
       "album": "The Lion Sleeps Tonight • 1961"
-    },
-    {
-      "time": "10:21 pm",
-      "artist": "David Bowie",
-      "title": "Aladdin Sane (1913-1938-197?)",
-      "album": "Aladdin Sane • 1973"
     }
   ]
 }
