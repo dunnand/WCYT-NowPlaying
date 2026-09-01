@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T06:31:06",
+  "updatedAt": "2026-09-01T06:31:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "I Might Be Wrong",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:31 am",
-      "artist": "Radiohead",
-      "title": "I Might Be Wrong"
-    },
     {
       "time": "6:36 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "6:47 am",
       "artist": "Chuck Berry",
       "title": "Roll Over Beethoven"
+    },
+    {
+      "time": "6:50 am",
+      "artist": "Weezer",
+      "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)"
     }
   ],
   "recent": [
+    {
+      "time": "6:31 am",
+      "artist": "Radiohead",
+      "title": "I Might Be Wrong",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "6:27 am",
       "artist": "Fleetwood Mac",
@@ -177,12 +183,6 @@
       "artist": "The Spinners",
       "title": "That's What Girls Are Made For",
       "album": "That's What Girls Are Made For • 1961"
-    },
-    {
-      "time": "4:56 am",
-      "artist": "Radiohead",
-      "title": "Everything in Its Right Place",
-      "album": "Kid A • 2000"
     }
   ]
 }
