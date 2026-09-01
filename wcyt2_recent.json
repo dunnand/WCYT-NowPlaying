@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T14:02:09",
+  "updatedAt": "2026-09-01T14:03:41",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "A Little Less Conversation",
-    "album": "Almost in Love • 1970",
+    "artist": "Funkadelic",
+    "title": "(Not Just) Knee Deep",
+    "album": "Uncle Jam Wants You • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 pm",
-      "artist": "Funkadelic",
-      "title": "(Not Just) Knee Deep"
-    },
     {
       "time": "2:19 pm",
       "artist": "Bright Eyes",
@@ -26,9 +21,20 @@
       "time": "2:24 pm",
       "artist": "John Lennon",
       "title": "Isolation"
+    },
+    {
+      "time": "2:27 pm",
+      "artist": "Tori Amos",
+      "title": "Cornflake Girl"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 pm",
+      "artist": "Funkadelic",
+      "title": "(Not Just) Knee Deep",
+      "album": "Uncle Jam Wants You • 1979"
+    },
     {
       "time": "2:02 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Already Dead",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "12:21 pm",
-      "artist": "Passion Pit",
-      "title": "Take A Walk",
-      "album": "Gossamer • 2012"
     }
   ]
 }
