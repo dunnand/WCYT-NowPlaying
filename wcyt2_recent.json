@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T13:03:42",
+  "updatedAt": "2026-09-01T13:07:16",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Lady d'Arbanville",
-    "album": "Mona Bone Jakon • 1970",
+    "artist": "The Beatles",
+    "title": "Drive My Car",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 pm",
-      "artist": "The Beatles",
-      "title": "Drive My Car"
-    },
     {
       "time": "1:09 pm",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "1:16 pm",
       "artist": "Crosby, Stills, Nash & Young",
       "title": "Woodstock"
+    },
+    {
+      "time": "1:20 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Thirty-Three"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 pm",
+      "artist": "The Beatles",
+      "title": "Drive My Car",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "1:03 pm",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Destroyer",
       "title": "The Sublimation Hour",
       "album": "Streethawk A Seduction • 2001"
-    },
-    {
-      "time": "11:31 am",
-      "artist": "Paramore",
-      "title": "Still into You",
-      "album": "Paramore • 2013"
     }
   ]
 }
