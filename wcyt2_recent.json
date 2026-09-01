@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T06:31:26",
+  "updatedAt": "2026-09-01T06:36:16",
   "now": {
-    "artist": "Radiohead",
-    "title": "I Might Be Wrong",
-    "album": "Amnesiac • 2001",
+    "artist": "The Beatles",
+    "title": "Slow Down",
+    "album": "Long Tall Sally • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:36 am",
-      "artist": "The Beatles",
-      "title": "Slow Down"
-    },
     {
       "time": "6:39 am",
       "artist": "Guy Clark",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:36 am",
+      "artist": "The Beatles",
+      "title": "Slow Down",
+      "album": "Long Tall Sally • 1964"
+    },
     {
       "time": "6:31 am",
       "artist": "Radiohead",
@@ -177,12 +178,6 @@
       "artist": "John Prine",
       "title": "When I Get to Heaven",
       "album": "The Tree of Forgiveness • 2018"
-    },
-    {
-      "time": "5:00 am",
-      "artist": "The Spinners",
-      "title": "That's What Girls Are Made For",
-      "album": "That's What Girls Are Made For • 1961"
     }
   ]
 }
