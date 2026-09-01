@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T14:01:59",
+  "updatedAt": "2026-09-01T14:02:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "A Little Less Conversation",
+    "album": "Almost in Love • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:02 pm",
-      "artist": "Elvis Presley",
-      "title": "A Little Less Conversation"
-    },
     {
       "time": "2:03 pm",
       "artist": "Funkadelic",
@@ -26,9 +21,20 @@
       "time": "2:22 pm",
       "artist": "The Kinks",
       "title": "The Village Green Preservation Society"
+    },
+    {
+      "time": "2:24 pm",
+      "artist": "John Lennon",
+      "title": "Isolation"
     }
   ],
   "recent": [
+    {
+      "time": "2:02 pm",
+      "artist": "Elvis Presley",
+      "title": "A Little Less Conversation",
+      "album": "Almost in Love • 1970"
+    },
     {
       "time": "1:58 pm",
       "artist": "OK GO",
@@ -172,12 +178,6 @@
       "artist": "Passion Pit",
       "title": "Take A Walk",
       "album": "Gossamer • 2012"
-    },
-    {
-      "time": "12:18 pm",
-      "artist": "Elliott Smith",
-      "title": "Pictures of Me",
-      "album": "Either Or • 1997"
     }
   ]
 }
