@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T00:52:18",
+  "updatedAt": "2026-09-01T00:57:23",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "It's Only Rock 'N Roll (But I Like It)",
-    "album": "Its Only Rock n Roll • 1974",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Trailer Trash",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:57 am",
-      "artist": "Modest Mouse",
-      "title": "Trailer Trash"
-    },
     {
       "time": "1:03 am",
       "artist": "Moses Sumney",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:57 am",
+      "artist": "Modest Mouse",
+      "title": "Trailer Trash",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "12:52 am",
       "artist": "Rolling Stones",
@@ -172,12 +173,6 @@
       "artist": "Elliott Smith",
       "title": "Waltz #2 (XO)",
       "album": "XO • 1998"
-    },
-    {
-      "time": "10:00 pm",
-      "artist": "Pavement",
-      "title": "Spit on a Stranger",
-      "album": "Terror Twilight • 1999"
     }
   ]
 }
