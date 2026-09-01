@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:37:30",
+  "updatedAt": "2026-09-01T03:40:53",
   "now": {
-    "artist": "Mungo Jerry",
-    "title": "In the Summertime",
-    "album": "In the Summertime • 1970",
+    "artist": "Bob Dylan",
+    "title": "Knockin' on Heaven's Door",
+    "album": "Knockin' on Heaven's Door • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:40 am",
-      "artist": "Bob Dylan",
-      "title": "Knockin' on Heaven's Door"
-    },
     {
       "time": "3:43 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "3:49 am",
       "artist": "Queen",
       "title": "A Kind of Magic"
+    },
+    {
+      "time": "3:53 am",
+      "artist": "Stone Temple Pilots",
+      "title": "Tumble in the Rough"
     }
   ],
   "recent": [
+    {
+      "time": "3:40 am",
+      "artist": "Bob Dylan",
+      "title": "Knockin' on Heaven's Door",
+      "album": "Knockin' on Heaven's Door • 1973"
+    },
     {
       "time": "3:37 am",
       "artist": "Mungo Jerry",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Knives Out",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "2:02 am",
-      "artist": "Link Wray & His Ray Men",
-      "title": "Rumble",
-      "album": "single • 1958"
     }
   ]
 }
