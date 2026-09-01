@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T17:51:48",
+  "updatedAt": "2026-09-01T17:57:02",
   "now": {
-    "artist": "Radiohead",
-    "title": "The Tourist",
-    "album": "OK Computer • 1997",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Fear of Trains",
+    "album": "The Charm of the Highway Strip • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:57 pm",
-      "artist": "The Magnetic Fields",
-      "title": "Fear of Trains"
-    },
     {
       "time": "6:00 pm",
       "artist": "Phil Collins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:57 pm",
+      "artist": "The Magnetic Fields",
+      "title": "Fear of Trains",
+      "album": "The Charm of the Highway Strip • 1994"
+    },
     {
       "time": "5:51 pm",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Arctic Monkeys",
       "title": "Cornerstone",
       "album": "Humbug • 2009"
-    },
-    {
-      "time": "4:19 pm",
-      "artist": "Paul McCartney",
-      "title": "Too Many People",
-      "album": "Ram • 1971"
     }
   ]
 }
