@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T15:03:54",
+  "updatedAt": "2026-09-01T15:13:20",
   "now": {
-    "artist": "Kraftwerk",
-    "title": "Europe Endless",
-    "album": "Trans-Europe Express • 1977",
+    "artist": "The Beatles",
+    "title": "I Want To Tell You",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:13 pm",
-      "artist": "The Beatles",
-      "title": "I Want To Tell You"
-    },
     {
       "time": "3:15 pm",
       "artist": "Marvin Gaye",
@@ -26,9 +21,20 @@
       "time": "3:24 pm",
       "artist": "Olivia Newton",
       "title": "John - I Honestly Love You"
+    },
+    {
+      "time": "3:27 pm",
+      "artist": "Sonic Youth",
+      "title": "100%"
     }
   ],
   "recent": [
+    {
+      "time": "3:13 pm",
+      "artist": "The Beatles",
+      "title": "I Want To Tell You",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "3:03 pm",
       "artist": "Kraftwerk",
@@ -172,12 +178,6 @@
       "artist": "Franz Ferdinand",
       "title": "No You Girls",
       "album": "Tonight Franz Ferdinand • 2007"
-    },
-    {
-      "time": "1:24 pm",
-      "artist": "Carl Perkins",
-      "title": "Blue Suede Shoes",
-      "album": "Dance Album of Carl Perkins • 1957"
     }
   ]
 }
