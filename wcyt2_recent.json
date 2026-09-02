@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T22:07:44",
+  "updatedAt": "2026-09-01T22:07:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cheap Trick",
+    "title": "I Want You to Want Me",
+    "album": "In Color • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 pm",
-      "artist": "Cheap Trick",
-      "title": "I Want You to Want Me"
-    },
     {
       "time": "10:10 pm",
       "artist": "The Young Rascals",
@@ -26,9 +21,20 @@
       "time": "10:16 pm",
       "artist": "The Monks",
       "title": "Monk Time"
+    },
+    {
+      "time": "10:18 pm",
+      "artist": "Christopher Cross",
+      "title": "Sailing"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 pm",
+      "artist": "Cheap Trick",
+      "title": "I Want You to Want Me",
+      "album": "In Color • 1977"
+    },
     {
       "time": "10:05 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Well...All Right",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "8:31 pm",
-      "artist": "Depeche Mode",
-      "title": "Walking in My Shoes",
-      "album": "Songs of Faith and Devotion • 1993"
     }
   ]
 }
