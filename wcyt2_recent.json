@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T15:41:15",
+  "updatedAt": "2026-09-02T15:46:32",
   "now": {
-    "artist": "Daft Punk",
-    "title": "One More Time",
-    "album": "Discovery • 2001",
+    "artist": "Johnny Cash",
+    "title": "Ain't No Grave",
+    "album": "American VI: Ain't No Grave • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 pm",
-      "artist": "Johnny Cash",
-      "title": "Ain't No Grave"
-    },
     {
       "time": "3:49 pm",
       "artist": "The Smashing Pumpkins",
@@ -26,9 +21,20 @@
       "time": "3:55 pm",
       "artist": "Elton John",
       "title": "Little Jeannie"
+    },
+    {
+      "time": "4:01 pm",
+      "artist": "Elvis Costello & The Attractions",
+      "title": "I Want You"
     }
   ],
   "recent": [
+    {
+      "time": "3:46 pm",
+      "artist": "Johnny Cash",
+      "title": "Ain't No Grave",
+      "album": "American VI: Ain't No Grave • 2010"
+    },
     {
       "time": "3:41 pm",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Troy Shondell",
       "title": "This Time",
       "album": "single • 1961"
-    },
-    {
-      "time": "2:03 pm",
-      "artist": "Don McLean",
-      "title": "American Pie",
-      "album": "American Pie • 1971"
     }
   ]
 }
