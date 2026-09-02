@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T10:10:18",
+  "updatedAt": "2026-09-02T10:10:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Lou Reed",
+    "title": "Vicious",
+    "album": "Transformer • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 am",
-      "artist": "Lou Reed",
-      "title": "Vicious"
-    },
     {
       "time": "10:13 am",
       "artist": "The Who",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:10 am",
+      "artist": "Lou Reed",
+      "title": "Vicious",
+      "album": "Transformer • 1972"
+    },
     {
       "time": "10:07 am",
       "artist": "The Young Rascals",
@@ -177,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Everybody's Got Something to Hide Except Me and My Monkey",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "8:34 am",
-      "artist": "Arctic Monkeys",
-      "title": "Still Take You Home",
-      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
     }
   ]
 }
