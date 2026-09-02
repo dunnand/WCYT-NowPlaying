@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:15:27",
+  "updatedAt": "2026-09-02T00:18:11",
   "now": {
-    "artist": "Justin Bieber",
-    "title": "Boyfriend",
-    "album": "Believe • 2012",
+    "artist": "Randy Newman",
+    "title": "You've Got a Friend in Me",
+    "album": "Toy Story soundtrack • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 am",
-      "artist": "Randy Newman",
-      "title": "You've Got a Friend in Me"
-    },
     {
       "time": "12:20 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "12:27 am",
       "artist": "Chicago",
       "title": "You're The Inspiration"
+    },
+    {
+      "time": "12:31 am",
+      "artist": "Haim",
+      "title": "Now I'm In It"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 am",
+      "artist": "Randy Newman",
+      "title": "You've Got a Friend in Me",
+      "album": "Toy Story soundtrack • 1995"
+    },
     {
       "time": "12:15 am",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "The Young Rascals",
       "title": "Good Lovin'",
       "album": "The Young Rascals • 1966"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "Cheap Trick",
-      "title": "I Want You to Want Me",
-      "album": "In Color • 1977"
     }
   ]
 }
