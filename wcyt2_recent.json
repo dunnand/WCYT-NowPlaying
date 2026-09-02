@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:05:11",
+  "updatedAt": "2026-09-02T00:05:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Any Day Now",
+    "album": "Asleep in the Back • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "Elbow",
-      "title": "Any Day Now"
-    },
     {
       "time": "12:11 am",
       "artist": "Depeche Mode",
@@ -26,9 +21,20 @@
       "time": "12:18 am",
       "artist": "Randy Newman",
       "title": "You've Got a Friend in Me"
+    },
+    {
+      "time": "12:20 am",
+      "artist": "Modest Mouse",
+      "title": "Heart Cooks Brain"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "Elbow",
+      "title": "Any Day Now",
+      "album": "Asleep in the Back • 2001"
+    },
     {
       "time": "12:01 am",
       "artist": "Joey Bad",
@@ -172,12 +178,6 @@
       "artist": "Blondie",
       "title": "Call Me",
       "album": "American Gigolo Soundtrack • 1980"
-    },
-    {
-      "time": "9:58 pm",
-      "artist": "Big Country",
-      "title": "Fields of Fire",
-      "album": "The Crossing • 1983"
     }
   ]
 }
