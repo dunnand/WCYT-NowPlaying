@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T02:05:40",
+  "updatedAt": "2026-09-02T02:08:53",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Today",
-    "album": "Siamese Dream • 1993",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "Buggin'",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:08 am",
-      "artist": "The Flaming Lips",
-      "title": "Buggin'"
-    },
     {
       "time": "2:12 am",
       "artist": "Elton John",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:08 am",
+      "artist": "The Flaming Lips",
+      "title": "Buggin'",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "2:05 am",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "Donna Fargo",
       "title": "You Can't Be A Beacon If Your Light Don't Shine",
       "album": "Miss Donna Fargo • 1974"
-    },
-    {
-      "time": "12:43 am",
-      "artist": "Troy Shondell",
-      "title": "This Time",
-      "album": "single • 1961"
     }
   ]
 }
