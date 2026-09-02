@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T02:33:56",
+  "updatedAt": "2026-09-02T02:35:41",
   "now": {
-    "artist": "The Beatles",
-    "title": "For No One",
-    "album": "Revolver • 1966",
+    "artist": "Gerry Rafferty",
+    "title": "Baker Street",
+    "album": "City to City • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:35 am",
-      "artist": "Gerry Rafferty",
-      "title": "Baker Street"
-    },
     {
       "time": "2:41 am",
       "artist": "Guided by Voices",
@@ -23,12 +18,23 @@
       "title": "Hernando's Hideaway"
     },
     {
-      "time": "2:46 am",
+      "time": "2:45 am",
       "artist": "Daft Punk",
       "title": "Technologic"
+    },
+    {
+      "time": "2:50 am",
+      "artist": "Tommy James & The Shondells",
+      "title": "Crimson And Clover"
     }
   ],
   "recent": [
+    {
+      "time": "2:35 am",
+      "artist": "Gerry Rafferty",
+      "title": "Baker Street",
+      "album": "City to City • 1978"
+    },
     {
       "time": "2:33 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "The Good Life",
       "album": "Pinkerton • 1996"
-    },
-    {
-      "time": "1:08 am",
-      "artist": "JAY-Z",
-      "title": "Paris feat. Kanye West",
-      "album": "Watch the Throne • 2011"
     }
   ]
 }
