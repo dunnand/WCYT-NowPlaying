@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T10:13:20",
+  "updatedAt": "2026-09-02T10:15:21",
   "now": {
-    "artist": "The Who",
-    "title": "I Can't Explain",
-    "album": "The Who Sings My Generation • 1965",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Simple Man",
+    "album": "pronounced leh-nrd skin-nrd • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 am",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Simple Man"
-    },
     {
       "time": "10:21 am",
       "artist": "Bjork",
@@ -26,9 +21,20 @@
       "time": "10:31 am",
       "artist": "Beyonce",
       "title": "Halo"
+    },
+    {
+      "time": "10:35 am",
+      "artist": "Belle and Sebastian",
+      "title": "I Fought in a War"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 am",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Simple Man",
+      "album": "pronounced leh-nrd skin-nrd • 1973"
+    },
     {
       "time": "10:13 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Mary Jane's Last Dance",
       "album": "Tom Petty and the Heartbreakers: Greatest Hits • 1993"
-    },
-    {
-      "time": "8:40 am",
-      "artist": "Moses Sumney",
-      "title": "Cut Me",
-      "album": "Aromanticism • 2017"
     }
   ]
 }
