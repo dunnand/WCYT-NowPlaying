@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T11:06:46",
+  "updatedAt": "2026-09-02T11:06:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mott the Hoople",
+    "title": "All the Way From Memphis",
+    "album": "Mott • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:06 am",
-      "artist": "Mott the Hoople",
-      "title": "All the Way From Memphis"
-    },
     {
       "time": "11:11 am",
       "artist": "The Lovin' Spoonful",
@@ -26,9 +21,20 @@
       "time": "11:17 am",
       "artist": "The Beatles",
       "title": "Day Tripper"
+    },
+    {
+      "time": "11:20 am",
+      "artist": "Nick Drake",
+      "title": "Things Behind the Sun"
     }
   ],
   "recent": [
+    {
+      "time": "11:06 am",
+      "artist": "Mott the Hoople",
+      "title": "All the Way From Memphis",
+      "album": "Mott • 1973"
+    },
     {
       "time": "10:59 am",
       "artist": "Hajime Wakai, Shiho Fujii, Mahito Yokota, Takeshi Hama",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Morning Mr. Magpie",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "9:21 am",
-      "artist": "Sophie B. Hawkins",
-      "title": "As I Lay Me Down",
-      "album": "Whaler • 1995"
     }
   ]
 }
