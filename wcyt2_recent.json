@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T21:08:33",
+  "updatedAt": "2026-09-01T21:08:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Born To Run",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:08 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Born To Run"
-    },
     {
       "time": "9:13 pm",
       "artist": "Carly Simon",
@@ -26,9 +21,20 @@
       "time": "9:20 pm",
       "artist": "The Doors",
       "title": "The Crystal Ship"
+    },
+    {
+      "time": "9:23 pm",
+      "artist": "Charlie Rich",
+      "title": "Behind Closed Doors"
     }
   ],
   "recent": [
+    {
+      "time": "9:08 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Born To Run",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "9:06 pm",
       "artist": "Atsuko Asahi, Manaka Kataoka",
@@ -172,12 +178,6 @@
       "artist": "Little Willie John",
       "title": "Fever",
       "album": "single • 1956"
-    },
-    {
-      "time": "7:28 pm",
-      "artist": "Cat Power",
-      "title": "Metal Heart",
-      "album": "Moon Pix • 1998"
     }
   ]
 }
