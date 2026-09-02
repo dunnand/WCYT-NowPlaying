@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T11:47:09",
+  "updatedAt": "2026-09-02T11:47:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Detroit Has a Skyline",
+    "album": "Here's Where the Strings Come In • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:47 am",
-      "artist": "Superchunk",
-      "title": "Detroit Has a Skyline"
-    },
     {
       "time": "11:49 am",
       "artist": "Minor Threat",
@@ -26,9 +21,20 @@
       "time": "11:54 am",
       "artist": "Satomi Terui",
       "title": "Star Fox 64 3D (Staff Credits)"
+    },
+    {
+      "time": "12:04 pm",
+      "artist": "Coldplay",
+      "title": "The Scientist"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 am",
+      "artist": "Superchunk",
+      "title": "Detroit Has a Skyline",
+      "album": "Here's Where the Strings Come In • 1995"
+    },
     {
       "time": "11:43 am",
       "artist": "Stone Temple Pilots",
@@ -172,12 +178,6 @@
       "artist": "Lou Reed",
       "title": "Vicious",
       "album": "Transformer • 1972"
-    },
-    {
-      "time": "10:07 am",
-      "artist": "The Young Rascals",
-      "title": "Groovin'",
-      "album": "Groovin' • 1967"
     }
   ]
 }
