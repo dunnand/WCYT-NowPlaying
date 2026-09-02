@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T06:36:53",
+  "updatedAt": "2026-09-02T06:38:44",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Take Your Time",
-    "album": "Buddy Holly • 1958",
+    "artist": "Deftones",
+    "title": "Passenger",
+    "album": "White Pony • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:38 am",
-      "artist": "Deftones",
-      "title": "Passenger"
-    },
     {
       "time": "6:44 am",
       "artist": "The Who",
@@ -21,9 +16,20 @@
       "time": "6:47 am",
       "artist": "Gorillaz",
       "title": "Rhinestone Eyes"
+    },
+    {
+      "time": "6:51 am",
+      "artist": "Built to Spill",
+      "title": "Time Trap"
     }
   ],
   "recent": [
+    {
+      "time": "6:38 am",
+      "artist": "Deftones",
+      "title": "Passenger",
+      "album": "White Pony • 2000"
+    },
     {
       "time": "6:36 am",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "George Michael",
       "title": "Faith",
       "album": "Faith • 1988"
-    },
-    {
-      "time": "4:56 am",
-      "artist": "George Harrison",
-      "title": "Got My Mind Set On You",
-      "album": "Cloud Nine • 1987"
     }
   ]
 }
