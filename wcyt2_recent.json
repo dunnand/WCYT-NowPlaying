@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T21:42:53",
+  "updatedAt": "2026-09-01T21:47:37",
   "now": {
-    "artist": "Jason Isbell",
-    "title": "Cover Me Up",
-    "album": "Southeastern • 2013",
+    "artist": "Prince",
+    "title": "Gold",
+    "album": "The Gold Experience • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:47 pm",
-      "artist": "Prince",
-      "title": "Gold"
-    },
     {
       "time": "9:54 pm",
       "artist": "Sheryl Crow",
@@ -26,9 +21,20 @@
       "time": "10:02 pm",
       "artist": "Blondie",
       "title": "Call Me"
+    },
+    {
+      "time": "10:05 pm",
+      "artist": "Haim",
+      "title": "The story of us"
     }
   ],
   "recent": [
+    {
+      "time": "9:47 pm",
+      "artist": "Prince",
+      "title": "Gold",
+      "album": "The Gold Experience • 1995"
+    },
     {
       "time": "9:42 pm",
       "artist": "Jason Isbell",
@@ -172,12 +178,6 @@
       "artist": "Boston",
       "title": "Don't Look Back",
       "album": "Don’t Look Back • 1978"
-    },
-    {
-      "time": "8:07 pm",
-      "artist": "Black Sabbath",
-      "title": "War Pigs",
-      "album": "Paranoid • 1970"
     }
   ]
 }
