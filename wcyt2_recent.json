@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T20:07:37",
+  "updatedAt": "2026-09-01T20:15:24",
   "now": {
-    "artist": "Black Sabbath",
-    "title": "War Pigs",
-    "album": "Paranoid • 1970",
+    "artist": "Boston",
+    "title": "Don't Look Back",
+    "album": "Don’t Look Back • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 pm",
-      "artist": "Boston",
-      "title": "Don't Look Back"
-    },
     {
       "time": "8:21 pm",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "8:27 pm",
       "artist": "Brian Eno",
       "title": "King's Lead Hat"
+    },
+    {
+      "time": "8:31 pm",
+      "artist": "Depeche Mode",
+      "title": "Walking in My Shoes"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 pm",
+      "artist": "Boston",
+      "title": "Don't Look Back",
+      "album": "Don’t Look Back • 1978"
+    },
     {
       "time": "8:07 pm",
       "artist": "Black Sabbath",
@@ -172,12 +178,6 @@
       "artist": "Andrew Bird",
       "title": "Fake Palindromes",
       "album": "Andrew Bird & the Mysterious Production of Eggs • 2005"
-    },
-    {
-      "time": "6:34 pm",
-      "artist": "Jason Isbell and the 400 Unit",
-      "title": "If We Were Vampires",
-      "album": "The Nashville Sound • 2017"
     }
   ]
 }
