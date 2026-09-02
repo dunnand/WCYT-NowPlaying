@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:20:15",
+  "updatedAt": "2026-09-02T00:24:11",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Heart Cooks Brain",
-    "album": "Lonesome Crowded West • 1998",
-    "category": "TUNES"
+    "artist": "The Cars",
+    "title": "Shake It Up",
+    "album": "Shake It Up • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:24 am",
-      "artist": "The Cars",
-      "title": "Shake It Up"
-    },
     {
       "time": "12:27 am",
       "artist": "Chicago",
@@ -21,9 +16,20 @@
       "time": "12:31 am",
       "artist": "Haim",
       "title": "Now I'm In It"
+    },
+    {
+      "time": "12:35 am",
+      "artist": "Don McLean",
+      "title": "American Pie"
     }
   ],
   "recent": [
+    {
+      "time": "12:24 am",
+      "artist": "The Cars",
+      "title": "Shake It Up",
+      "album": "Shake It Up • 1982"
+    },
     {
       "time": "12:20 am",
       "artist": "Modest Mouse",
@@ -167,12 +173,6 @@
       "artist": "The Monks",
       "title": "Monk Time",
       "album": "Black Monk Time • 1966"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Cher",
-      "title": "Half-Breed",
-      "album": "Half-Breed • 1973"
     }
   ]
 }
