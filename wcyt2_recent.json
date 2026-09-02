@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-09-02T15:55:48",
+  "updatedAt": "2026-09-02T16:00:46",
   "now": {
-    "artist": "Elton John",
-    "title": "Little Jeannie",
-    "album": "21 at 33 • 1980",
+    "artist": "Elvis Costello & The Attractions",
+    "title": "I Want You",
+    "album": "Blood & Chocolate • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "4:01 pm",
+      "time": "4:07 pm",
+      "artist": "Elton John",
+      "title": "Little Jeannie"
+    },
+    {
+      "time": "4:12 pm",
       "artist": "Elvis Costello & The Attractions",
       "title": "I Want You"
     },
     {
-      "time": "4:07 pm",
+      "time": "4:19 pm",
       "artist": "Haim",
       "title": "Gasoline"
-    },
-    {
-      "time": "4:10 pm",
-      "artist": "Gary Wilson",
-      "title": "And Then I Kissed Your Lips"
     }
   ],
   "recent": [
+    {
+      "time": "4:00 pm",
+      "artist": "Elvis Costello & The Attractions",
+      "title": "I Want You",
+      "album": "Blood & Chocolate • 1986"
+    },
     {
       "time": "3:55 pm",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "You've Passed",
       "album": "On Avery Island • 1996"
-    },
-    {
-      "time": "2:21 pm",
-      "artist": "Earth, Wind & Fire",
-      "title": "Boogie Wonderland feat. The Emotions",
-      "album": "I Am • 1979"
     }
   ]
 }
