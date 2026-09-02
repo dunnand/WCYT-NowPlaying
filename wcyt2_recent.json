@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T04:22:03",
+  "updatedAt": "2026-09-02T04:22:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "Strange",
+    "album": "Ancient Melodies Of The Future • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:22 am",
-      "artist": "Built to Spill",
-      "title": "Strange"
-    },
     {
       "time": "4:26 am",
       "artist": "The Doors",
@@ -31,9 +26,20 @@
       "time": "4:37 am",
       "artist": "Connie Francis",
       "title": "My Happiness"
+    },
+    {
+      "time": "4:40 am",
+      "artist": "Death Cab for Cutie",
+      "title": "A Movie Script Ending"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 am",
+      "artist": "Built to Spill",
+      "title": "Strange",
+      "album": "Ancient Melodies Of The Future • 2001"
+    },
     {
       "time": "4:18 am",
       "artist": "Harry Chapin",
@@ -177,12 +183,6 @@
       "artist": "Tommy James & The Shondells",
       "title": "Crimson And Clover",
       "album": "Crimson & Clover • 1969"
-    },
-    {
-      "time": "2:45 am",
-      "artist": "Daft Punk",
-      "title": "Technologic",
-      "album": "Human After All • 2005"
     }
   ]
 }
