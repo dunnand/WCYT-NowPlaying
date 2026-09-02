@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T05:30:01",
+  "updatedAt": "2026-09-02T05:34:04",
   "now": {
-    "artist": "Soundgarden",
-    "title": "Spoonman",
-    "album": "Superunknown • 1994",
+    "artist": "Little Richard and His Band",
+    "title": "Ready Teddy",
+    "album": "Heres Little Richard • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 am",
-      "artist": "Little Richard and His Band",
-      "title": "Ready Teddy"
-    },
     {
       "time": "5:36 am",
       "artist": "Estelle",
@@ -26,9 +21,20 @@
       "time": "5:42 am",
       "artist": "J. Cole",
       "title": "Can't Get Enough feat. Trey Songz"
+    },
+    {
+      "time": "5:46 am",
+      "artist": "Radiohead",
+      "title": "My Iron Lung"
     }
   ],
   "recent": [
+    {
+      "time": "5:34 am",
+      "artist": "Little Richard and His Band",
+      "title": "Ready Teddy",
+      "album": "Heres Little Richard • 1957"
+    },
     {
       "time": "5:30 am",
       "artist": "Soundgarden",
@@ -172,12 +178,6 @@
       "artist": "The Feelies",
       "title": "Moscow Nights",
       "album": "Crazy Rhythms • 1980"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "Nirvana.",
-      "title": "Something in the Way",
-      "album": "Nevermind • 1991"
     }
   ]
 }
