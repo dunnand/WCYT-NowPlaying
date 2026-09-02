@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T22:07:56",
+  "updatedAt": "2026-09-01T22:10:59",
   "now": {
-    "artist": "Cheap Trick",
-    "title": "I Want You to Want Me",
-    "album": "In Color • 1977",
+    "artist": "The Young Rascals",
+    "title": "Good Lovin'",
+    "album": "The Young Rascals • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "The Young Rascals",
-      "title": "Good Lovin'"
-    },
     {
       "time": "10:13 pm",
       "artist": "Cher",
@@ -26,9 +21,20 @@
       "time": "10:18 pm",
       "artist": "Christopher Cross",
       "title": "Sailing"
+    },
+    {
+      "time": "10:23 pm",
+      "artist": "Slowdive",
+      "title": "Machine Gun"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "The Young Rascals",
+      "title": "Good Lovin'",
+      "album": "The Young Rascals • 1966"
+    },
     {
       "time": "10:07 pm",
       "artist": "Cheap Trick",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Junk Bond Trader",
       "album": "Figure 8 • 2000"
-    },
-    {
-      "time": "8:37 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
