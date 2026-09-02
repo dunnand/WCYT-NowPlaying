@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T07:40:39",
+  "updatedAt": "2026-09-02T07:42:22",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Will",
-    "album": "The Beatles • 1968",
+    "artist": "Katy Perry",
+    "title": "The One That Got Away",
+    "album": "Teenage Dream • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "Katy Perry",
-      "title": "The One That Got Away"
-    },
     {
       "time": "7:46 am",
       "artist": "R.E.M.",
@@ -21,9 +16,20 @@
       "time": "7:51 am",
       "artist": "Blur",
       "title": "Beetlebum"
+    },
+    {
+      "time": "7:57 am",
+      "artist": "Joan Jett & The Blackhearts",
+      "title": "I Hate Myself For Loving You"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "Katy Perry",
+      "title": "The One That Got Away",
+      "album": "Teenage Dream • 2010"
+    },
     {
       "time": "7:40 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The Apples in Stereo",
       "title": "Please",
       "album": "Velocity of Sound • 2002"
-    },
-    {
-      "time": "6:05 am",
-      "artist": "HAIM",
-      "title": "Lost Track",
-      "album": "Single •"
     }
   ]
 }
