@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:56:15",
+  "updatedAt": "2026-09-02T00:59:18",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "You've Passed",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "The Everly Brothers",
+    "title": "('Til) I Kissed You",
+    "album": "single • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "The Everly Brothers",
-      "title": "('Til) I Kissed You"
-    },
     {
       "time": "1:01 am",
       "artist": "Cat Power",
@@ -21,9 +16,20 @@
       "time": "1:05 am",
       "artist": "The Beatles",
       "title": "Back In The U.S.S.R."
+    },
+    {
+      "time": "1:08 am",
+      "artist": "JAY",
+      "title": "Z - Paris feat. Kanye West"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "The Everly Brothers",
+      "title": "('Til) I Kissed You",
+      "album": "single • 1959"
+    },
     {
       "time": "12:56 am",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "I'll Keep It With Mine",
       "album": "Biograph • 1985"
-    },
-    {
-      "time": "10:51 pm",
-      "artist": "Pavement",
-      "title": "Date With IKEA",
-      "album": "Brighten the Corners • 1997"
     }
   ]
 }
