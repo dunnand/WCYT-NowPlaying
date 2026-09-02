@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T02:02:51",
+  "updatedAt": "2026-09-02T02:05:40",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Ain't No Grave",
-    "album": "American VI: Ain't No Grave • 2010",
+    "artist": "The Smashing Pumpkins",
+    "title": "Today",
+    "album": "Siamese Dream • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:05 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Today"
-    },
     {
       "time": "2:08 am",
       "artist": "The Flaming Lips",
@@ -26,9 +21,20 @@
       "time": "2:17 am",
       "artist": "Elvis Costello & The Attractions",
       "title": "I Want You"
+    },
+    {
+      "time": "2:23 am",
+      "artist": "Haim",
+      "title": "Gasoline"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 am",
+      "artist": "The Smashing Pumpkins",
+      "title": "Today",
+      "album": "Siamese Dream • 1993"
+    },
     {
       "time": "2:02 am",
       "artist": "Johnny Cash",
@@ -172,12 +178,6 @@
       "artist": "Troy Shondell",
       "title": "This Time",
       "album": "single • 1961"
-    },
-    {
-      "time": "12:35 am",
-      "artist": "Don McLean",
-      "title": "American Pie",
-      "album": "American Pie • 1971"
     }
   ]
 }
