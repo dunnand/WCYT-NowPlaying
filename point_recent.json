@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:02:42",
+  "updatedAt": "2026-09-02T00:07:00",
   "now": {
-    "artist": "julie",
-    "title": "flutter",
-    "album": "flutter • 2020",
+    "artist": "Wild Pink",
+    "title": "Dulling The Horns",
+    "album": "Dulling The Horns • 2024",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:07 am",
-      "artist": "Wild Pink",
-      "title": "Dulling The Horns"
-    },
     {
       "time": "12:10 am",
       "artist": "At",
@@ -26,9 +21,20 @@
       "time": "12:16 am",
       "artist": "Tunde Adebimpe",
       "title": "Somebody New"
+    },
+    {
+      "time": "12:19 am",
+      "artist": "feeble little horse",
+      "title": "Rewind"
     }
   ],
   "recent": [
+    {
+      "time": "12:07 am",
+      "artist": "Wild Pink",
+      "title": "Dulling The Horns",
+      "album": "Dulling The Horns • 2024"
+    },
     {
       "time": "12:02 am",
       "artist": "julie",
@@ -172,12 +178,6 @@
       "artist": "Sharp Pins",
       "title": "Popafangout",
       "album": "Balloon Balloon Balloon • 2025"
-    },
-    {
-      "time": "10:30 pm",
-      "artist": "Alex G",
-      "title": "Treehouse",
-      "album": "Treehouse • 2011"
     }
   ]
 }
