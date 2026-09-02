@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T21:20:32",
+  "updatedAt": "2026-09-01T21:22:56",
   "now": {
-    "artist": "The Doors",
-    "title": "The Crystal Ship",
-    "album": "The Doors • 1967",
+    "artist": "Charlie Rich",
+    "title": "Behind Closed Doors",
+    "album": "Behind Closed Doors • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:22 pm",
-      "artist": "Charlie Rich",
-      "title": "Behind Closed Doors"
-    },
     {
       "time": "9:25 pm",
       "artist": "PJ Harvey",
@@ -26,9 +21,20 @@
       "time": "9:34 pm",
       "artist": "Basement Jaxx",
       "title": "Where's Your Head At"
+    },
+    {
+      "time": "9:38 pm",
+      "artist": "Coldplay",
+      "title": "Viva la Vida"
     }
   ],
   "recent": [
+    {
+      "time": "9:22 pm",
+      "artist": "Charlie Rich",
+      "title": "Behind Closed Doors",
+      "album": "Behind Closed Doors • 1973"
+    },
     {
       "time": "9:20 pm",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "Dave Matthews Band",
       "title": "Ants Marching",
       "album": "Under The Table And Dreaming • 1995"
-    },
-    {
-      "time": "7:42 pm",
-      "artist": "James Blake",
-      "title": "The Wilhelm Scream",
-      "album": "James Blake • 2011"
     }
   ]
 }
