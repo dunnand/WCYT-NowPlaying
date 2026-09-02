@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:18:11",
+  "updatedAt": "2026-09-02T00:20:15",
   "now": {
-    "artist": "Randy Newman",
-    "title": "You've Got a Friend in Me",
-    "album": "Toy Story soundtrack • 1995",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Heart Cooks Brain",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:20 am",
-      "artist": "Modest Mouse",
-      "title": "Heart Cooks Brain"
-    },
     {
       "time": "12:24 am",
       "artist": "The Cars",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:20 am",
+      "artist": "Modest Mouse",
+      "title": "Heart Cooks Brain",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "12:18 am",
       "artist": "Randy Newman",
@@ -172,12 +173,6 @@
       "artist": "Cher",
       "title": "Half-Breed",
       "album": "Half-Breed • 1973"
-    },
-    {
-      "time": "10:10 pm",
-      "artist": "The Young Rascals",
-      "title": "Good Lovin'",
-      "album": "The Young Rascals • 1966"
     }
   ]
 }
