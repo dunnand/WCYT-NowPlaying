@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T10:15:21",
+  "updatedAt": "2026-09-02T10:21:07",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Simple Man",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Joga",
+    "album": "Homogenic • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:21 am",
-      "artist": "Bjork",
-      "title": "Joga"
-    },
     {
       "time": "10:26 am",
       "artist": "Paramore",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:21 am",
+      "artist": "Bjork",
+      "title": "Joga",
+      "album": "Homogenic • 1997"
+    },
     {
       "time": "10:15 am",
       "artist": "Lynyrd Skynyrd",
@@ -172,12 +173,6 @@
       "artist": "The Magnetic Fields",
       "title": "The One You Really Love",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Mary Jane's Last Dance",
-      "album": "Tom Petty and the Heartbreakers: Greatest Hits • 1993"
     }
   ]
 }
