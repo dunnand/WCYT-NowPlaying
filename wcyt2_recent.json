@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T04:44:15",
+  "updatedAt": "2026-09-02T04:44:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Matchbox",
+    "album": "Long Tall Sally EP • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 am",
-      "artist": "The Beatles",
-      "title": "Matchbox"
-    },
     {
       "time": "4:46 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:54 am",
       "artist": "Sebadoh",
       "title": "Magnet's Coil"
+    },
+    {
+      "time": "4:56 am",
+      "artist": "George Harrison",
+      "title": "Got My Mind Set On You"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 am",
+      "artist": "The Beatles",
+      "title": "Matchbox",
+      "album": "Long Tall Sally EP • 1964"
+    },
     {
       "time": "4:40 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Haim",
       "title": "Don't Wanna",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "Eric B. & Rakim",
-      "title": "Paid in Full",
-      "album": "Paid in Full • 1987"
     }
   ]
 }
