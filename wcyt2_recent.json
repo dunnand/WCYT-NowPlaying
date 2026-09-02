@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T01:53:40",
+  "updatedAt": "2026-09-02T01:57:23",
   "now": {
-    "artist": "Camera Obscura",
-    "title": "Suspended From Class",
-    "album": "Underachievers Please Try Harder • 2003",
-    "category": "TUNES"
+    "artist": "Daft Punk",
+    "title": "One More Time",
+    "album": "Discovery • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:57 am",
-      "artist": "Daft Punk",
-      "title": "One More Time"
-    },
     {
       "time": "2:02 am",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "2:08 am",
       "artist": "The Flaming Lips",
       "title": "Buggin'"
+    },
+    {
+      "time": "2:12 am",
+      "artist": "Elton John",
+      "title": "Little Jeannie"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 am",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "1:53 am",
       "artist": "Camera Obscura",
@@ -172,12 +178,6 @@
       "artist": "Haim",
       "title": "Now I'm In It",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "12:27 am",
-      "artist": "Chicago",
-      "title": "You're The Inspiration",
-      "album": "Chicago 17 • 1984"
     }
   ]
 }
