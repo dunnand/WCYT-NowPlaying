@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T20:21:23",
+  "updatedAt": "2026-09-01T20:21:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Face to Face",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:21 pm",
-      "artist": "Daft Punk",
-      "title": "Face to Face"
-    },
     {
       "time": "8:25 pm",
       "artist": "The Byrds",
@@ -26,9 +21,20 @@
       "time": "8:31 pm",
       "artist": "Depeche Mode",
       "title": "Walking in My Shoes"
+    },
+    {
+      "time": "8:37 pm",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right"
     }
   ],
   "recent": [
+    {
+      "time": "8:21 pm",
+      "artist": "Daft Punk",
+      "title": "Face to Face",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "8:15 pm",
       "artist": "Boston",
@@ -172,12 +178,6 @@
       "artist": "Elbow",
       "title": "Grace Under Pressure",
       "album": "Cast of Thousands • 2003"
-    },
-    {
-      "time": "6:38 pm",
-      "artist": "Andrew Bird",
-      "title": "Fake Palindromes",
-      "album": "Andrew Bird & the Mysterious Production of Eggs • 2005"
     }
   ]
 }
