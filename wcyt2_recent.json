@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T15:52:36",
+  "updatedAt": "2026-09-02T15:55:48",
   "now": {
-    "artist": "The Flaming Lips",
-    "title": "Buggin'",
-    "album": "The Soft Bulletin • 1999",
-    "category": "TUNES"
+    "artist": "Elton John",
+    "title": "Little Jeannie",
+    "album": "21 at 33 • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:55 pm",
-      "artist": "Elton John",
-      "title": "Little Jeannie"
-    },
     {
       "time": "4:01 pm",
       "artist": "Elvis Costello & The Attractions",
@@ -21,9 +16,20 @@
       "time": "4:07 pm",
       "artist": "Haim",
       "title": "Gasoline"
+    },
+    {
+      "time": "4:10 pm",
+      "artist": "Gary Wilson",
+      "title": "And Then I Kissed Your Lips"
     }
   ],
   "recent": [
+    {
+      "time": "3:55 pm",
+      "artist": "Elton John",
+      "title": "Little Jeannie",
+      "album": "21 at 33 • 1980"
+    },
     {
       "time": "3:52 pm",
       "artist": "The Flaming Lips",
@@ -167,12 +173,6 @@
       "artist": "Earth, Wind & Fire",
       "title": "Boogie Wonderland feat. The Emotions",
       "album": "I Am • 1979"
-    },
-    {
-      "time": "2:18 pm",
-      "artist": "The Beatles",
-      "title": "Bad Boy",
-      "album": "single • 1965"
     }
   ]
 }
