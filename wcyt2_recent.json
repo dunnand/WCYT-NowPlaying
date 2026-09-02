@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T20:21:45",
+  "updatedAt": "2026-09-01T20:25:40",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Face to Face",
-    "album": "Discovery • 2001",
+    "artist": "The Byrds",
+    "title": "So You Want to Be a Rock 'n' Roll Star",
+    "album": "Younger Than Yesterday • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:25 pm",
-      "artist": "The Byrds",
-      "title": "So You Want to Be a Rock 'n' Roll Star"
-    },
     {
       "time": "8:27 pm",
       "artist": "Brian Eno",
@@ -26,9 +21,20 @@
       "time": "8:37 pm",
       "artist": "Buddy Holly",
       "title": "Well...All Right"
+    },
+    {
+      "time": "8:39 pm",
+      "artist": "Elliott Smith",
+      "title": "Junk Bond Trader"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 pm",
+      "artist": "The Byrds",
+      "title": "So You Want to Be a Rock 'n' Roll Star",
+      "album": "Younger Than Yesterday • 1967"
+    },
     {
       "time": "8:21 pm",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Kamasi Washington",
       "title": "Miss Understanding",
       "album": "The Epic • 2015"
-    },
-    {
-      "time": "6:41 pm",
-      "artist": "Elbow",
-      "title": "Grace Under Pressure",
-      "album": "Cast of Thousands • 2003"
     }
   ]
 }
