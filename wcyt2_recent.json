@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T01:16:16",
+  "updatedAt": "2026-09-02T01:19:11",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Speed Trials",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Culture Club",
+    "title": "I'll Tumble 4 You",
+    "album": "Kissing to Be Clever • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:19 am",
-      "artist": "Culture Club",
-      "title": "I'll Tumble 4 You"
-    },
     {
       "time": "1:21 am",
       "artist": "Dire Straits",
@@ -21,9 +16,25 @@
       "time": "1:25 am",
       "artist": "Haim",
       "title": "I Know Alone"
+    },
+    {
+      "time": "1:29 am",
+      "artist": "Elvis Costello",
+      "title": "(The Angels Wanna Wear My) Red Shoes"
+    },
+    {
+      "time": "1:32 am",
+      "artist": "Elvis Costello & The Attractions",
+      "title": "(What's So Funny 'Bout) Peace, Love & Understanding?"
     }
   ],
   "recent": [
+    {
+      "time": "1:19 am",
+      "artist": "Culture Club",
+      "title": "I'll Tumble 4 You",
+      "album": "Kissing to Be Clever • 1982"
+    },
     {
       "time": "1:16 am",
       "artist": "Elliott Smith",
@@ -167,12 +178,6 @@
       "artist": "The Beatles",
       "title": "You've Got To Hide Your Love Away",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "11:09 pm",
-      "artist": "Dionne Warwick",
-      "title": "I'll Never Fall In Love Again",
-      "album": "I'll Never Fall in Love Again • 1970"
     }
   ]
 }
