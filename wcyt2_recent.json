@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T21:00:00",
+  "updatedAt": "2026-09-01T21:00:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bauhaus",
+    "title": "The Passion of Lovers",
+    "album": "Mask • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:00 pm",
-      "artist": "Bauhaus",
-      "title": "The Passion of Lovers"
-    },
     {
       "time": "9:04 pm",
       "artist": "Beat Happening",
@@ -26,9 +21,20 @@
       "time": "9:08 pm",
       "artist": "Bruce Springsteen",
       "title": "Born To Run"
+    },
+    {
+      "time": "9:13 pm",
+      "artist": "Carly Simon",
+      "title": "Nobody Does It Better"
     }
   ],
   "recent": [
+    {
+      "time": "9:00 pm",
+      "artist": "Bauhaus",
+      "title": "The Passion of Lovers",
+      "album": "Mask • 1981"
+    },
     {
       "time": "8:55 pm",
       "artist": "Mazzy Star",
@@ -172,12 +178,6 @@
       "artist": "The Shirelles",
       "title": "Will You Love Me Tomorrow",
       "album": "Tonight's the Night • 1961"
-    },
-    {
-      "time": "7:19 pm",
-      "artist": "Bachman-Turner Overdrive",
-      "title": "You Ain't Seen Nothing Yet",
-      "album": "Not Fragile • 1974"
     }
   ]
 }
