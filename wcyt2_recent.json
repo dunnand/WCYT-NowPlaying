@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T17:10:50",
+  "updatedAt": "2026-09-02T17:14:14",
   "now": {
-    "artist": "Arcade Fire",
-    "title": "Neighborhood #2 (Laïka)",
-    "album": "Funeral • 2004",
-    "category": "TUNES"
+    "artist": "Kendrick Lamar & SZA",
+    "title": "All the Stars",
+    "album": "Black Panther: The Album • 2018",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:14 pm",
-      "artist": "Kendrick Lamar & SZA",
-      "title": "All the Stars"
-    },
     {
       "time": "5:18 pm",
       "artist": "Gordon Lightfoot",
@@ -26,9 +21,20 @@
       "time": "5:25 pm",
       "artist": "The Dave Brubeck Quartet",
       "title": "Take Five"
+    },
+    {
+      "time": "5:30 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Dear Catastrophe Waitress"
     }
   ],
   "recent": [
+    {
+      "time": "5:14 pm",
+      "artist": "Kendrick Lamar & SZA",
+      "title": "All the Stars",
+      "album": "Black Panther: The Album • 2018"
+    },
     {
       "time": "5:10 pm",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "Ain't No Grave",
       "album": "American VI: Ain't No Grave • 2010"
-    },
-    {
-      "time": "3:41 pm",
-      "artist": "Daft Punk",
-      "title": "One More Time",
-      "album": "Discovery • 2001"
     }
   ]
 }
