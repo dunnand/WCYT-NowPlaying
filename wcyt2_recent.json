@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T05:00:28",
+  "updatedAt": "2026-09-02T05:00:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Michael",
+    "title": "Faith",
+    "album": "Faith • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "George Michael",
-      "title": "Faith"
-    },
     {
       "time": "5:03 am",
       "artist": "HAIM",
@@ -26,9 +21,20 @@
       "time": "5:10 am",
       "artist": "Iggy Pop",
       "title": "Five Foot One"
+    },
+    {
+      "time": "5:14 am",
+      "artist": "Daft Punk",
+      "title": "Television Rules the Nation"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "George Michael",
+      "title": "Faith",
+      "album": "Faith • 1988"
+    },
     {
       "time": "4:56 am",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Gordon Lightfoot",
       "title": "Rainy Day People",
       "album": "Cold on the Shoulder • 1975"
-    },
-    {
-      "time": "3:30 am",
-      "artist": "Kendrick Lamar & SZA",
-      "title": "All the Stars",
-      "album": "Black Panther: The Album • 2018"
     }
   ]
 }
