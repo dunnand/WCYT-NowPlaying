@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T01:11:59",
+  "updatedAt": "2026-09-02T01:12:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "The Good Life",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:12 am",
-      "artist": "Weezer",
-      "title": "The Good Life"
-    },
     {
       "time": "1:16 am",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "1:21 am",
       "artist": "Dire Straits",
       "title": "Walk Of Life"
+    },
+    {
+      "time": "1:25 am",
+      "artist": "Haim",
+      "title": "I Know Alone"
     }
   ],
   "recent": [
+    {
+      "time": "1:12 am",
+      "artist": "Weezer",
+      "title": "The Good Life",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "1:08 am",
       "artist": "JAY-Z",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Lady Madonna",
       "album": "single • 1968"
-    },
-    {
-      "time": "11:05 pm",
-      "artist": "Dave Clark Five",
-      "title": "Over And Over",
-      "album": "The Story of Dave Clark Five • 1979"
     }
   ]
 }
