@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T20:36:43",
+  "updatedAt": "2026-09-01T20:37:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:37 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "8:39 pm",
       "artist": "Elliott Smith",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:37 pm",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "8:31 pm",
       "artist": "Depeche Mode",
@@ -172,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "Stereo Sanctity",
       "album": "Sister • 1987"
-    },
-    {
-      "time": "6:58 pm",
-      "artist": "Beastie Boys",
-      "title": "Gratitude",
-      "album": "Check Your Head • 1992"
     }
   ]
 }
