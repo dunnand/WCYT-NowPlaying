@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:34:48",
+  "updatedAt": "2026-09-02T00:35:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Don McLean",
+    "title": "American Pie",
+    "album": "American Pie • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 am",
-      "artist": "Don McLean",
-      "title": "American Pie"
-    },
     {
       "time": "12:43 am",
       "artist": "Troy Shondell",
@@ -26,9 +21,20 @@
       "time": "12:49 am",
       "artist": "The Beatles",
       "title": "Bad Boy"
+    },
+    {
+      "time": "12:51 am",
+      "artist": "Earth, Wind & Fire",
+      "title": "Boogie Wonderland feat. The Emotions"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 am",
+      "artist": "Don McLean",
+      "title": "American Pie",
+      "album": "American Pie • 1971"
+    },
     {
       "time": "12:31 am",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "All I Want",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "10:23 pm",
-      "artist": "Slowdive",
-      "title": "Machine Gun",
-      "album": "Souvlaki • 1993"
     }
   ]
 }
