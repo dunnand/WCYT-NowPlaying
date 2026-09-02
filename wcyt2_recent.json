@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T10:10:28",
+  "updatedAt": "2026-09-02T10:13:20",
   "now": {
-    "artist": "Lou Reed",
-    "title": "Vicious",
-    "album": "Transformer • 1972",
+    "artist": "The Who",
+    "title": "I Can't Explain",
+    "album": "The Who Sings My Generation • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:13 am",
-      "artist": "The Who",
-      "title": "I Can't Explain"
-    },
     {
       "time": "10:15 am",
       "artist": "Lynyrd Skynyrd",
@@ -26,9 +21,20 @@
       "time": "10:26 am",
       "artist": "Paramore",
       "title": "Ain't It Fun"
+    },
+    {
+      "time": "10:31 am",
+      "artist": "Beyonce",
+      "title": "Halo"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 am",
+      "artist": "The Who",
+      "title": "I Can't Explain",
+      "album": "The Who Sings My Generation • 1965"
+    },
     {
       "time": "10:10 am",
       "artist": "Lou Reed",
@@ -172,12 +178,6 @@
       "artist": "Moses Sumney",
       "title": "Cut Me",
       "album": "Aromanticism • 2017"
-    },
-    {
-      "time": "8:37 am",
-      "artist": "The Beatles",
-      "title": "Everybody's Got Something to Hide Except Me and My Monkey",
-      "album": "The Beatles • 1968"
     }
   ]
 }
