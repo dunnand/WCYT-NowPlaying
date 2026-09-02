@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T07:22:46",
+  "updatedAt": "2026-09-02T07:25:41",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Mardy Bum",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Please Please Me",
+    "album": "Please Please Me • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 am",
-      "artist": "The Beatles",
-      "title": "Please Please Me"
-    },
     {
       "time": "7:27 am",
       "artist": "Joe Cocker",
@@ -26,9 +21,20 @@
       "time": "7:33 am",
       "artist": "Chordettes",
       "title": "Lollipop"
+    },
+    {
+      "time": "7:35 am",
+      "artist": "Daft Punk",
+      "title": "Digital Love"
     }
   ],
   "recent": [
+    {
+      "time": "7:25 am",
+      "artist": "The Beatles",
+      "title": "Please Please Me",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "7:22 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "J. Cole",
       "title": "Can't Get Enough feat. Trey Songz",
       "album": "Cole World: The Sideline Story • 2011"
-    },
-    {
-      "time": "5:40 am",
-      "artist": "The Beatles",
-      "title": "And I Love Her",
-      "album": "A Hard Day's Night • 1964"
     }
   ]
 }
