@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-01T22:51:44",
+  "updatedAt": "2026-09-01T22:54:20",
   "now": {
-    "artist": "Pavement",
-    "title": "Date With IKEA",
-    "album": "Brighten the Corners • 1997",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "I'll Keep It With Mine",
+    "album": "Biograph • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:54 pm",
-      "artist": "Bob Dylan",
-      "title": "I'll Keep It With Mine"
-    },
     {
       "time": "10:58 pm",
       "artist": "Bob Marley and the Wailers",
@@ -21,9 +16,20 @@
       "time": "11:01 pm",
       "artist": "Haim",
       "title": "Summer Girl"
+    },
+    {
+      "time": "11:05 pm",
+      "artist": "Dave Clark Five",
+      "title": "Over And Over"
     }
   ],
   "recent": [
+    {
+      "time": "10:54 pm",
+      "artist": "Bob Dylan",
+      "title": "I'll Keep It With Mine",
+      "album": "Biograph • 1985"
+    },
     {
       "time": "10:51 pm",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "The Doors",
       "title": "The Crystal Ship",
       "album": "The Doors • 1967"
-    },
-    {
-      "time": "9:16 pm",
-      "artist": "Beck",
-      "title": "Lost Cause",
-      "album": "Sea Change • 2002"
     }
   ]
 }
