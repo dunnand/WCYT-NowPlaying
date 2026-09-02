@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T00:15:17",
+  "updatedAt": "2026-09-02T00:15:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Justin Bieber",
+    "title": "Boyfriend",
+    "album": "Believe • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 am",
-      "artist": "Justin Bieber",
-      "title": "Boyfriend"
-    },
     {
       "time": "12:18 am",
       "artist": "Randy Newman",
@@ -26,9 +21,20 @@
       "time": "12:24 am",
       "artist": "The Cars",
       "title": "Shake It Up"
+    },
+    {
+      "time": "12:27 am",
+      "artist": "Chicago",
+      "title": "You're The Inspiration"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 am",
+      "artist": "Justin Bieber",
+      "title": "Boyfriend",
+      "album": "Believe • 2012"
+    },
     {
       "time": "12:11 am",
       "artist": "Depeche Mode",
@@ -172,12 +178,6 @@
       "artist": "Cheap Trick",
       "title": "I Want You to Want Me",
       "album": "In Color • 1977"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "Haim",
-      "title": "The story of us",
-      "album": "i quit • 2025"
     }
   ]
 }
