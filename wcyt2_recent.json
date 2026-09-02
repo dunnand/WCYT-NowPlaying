@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T01:40:00",
+  "updatedAt": "2026-09-02T01:43:06",
   "now": {
-    "artist": "The Who",
-    "title": "The Kids Are Alright",
-    "album": "My Generation • 1965",
+    "artist": "Freda Payne",
+    "title": "Band Of Gold",
+    "album": "Band of Gold • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 am",
-      "artist": "Freda Payne",
-      "title": "Band Of Gold"
-    },
     {
       "time": "1:45 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "Camera Obscura",
       "title": "Suspended From Class"
+    },
+    {
+      "time": "1:57 am",
+      "artist": "Daft Punk",
+      "title": "One More Time"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 am",
+      "artist": "Freda Payne",
+      "title": "Band Of Gold",
+      "album": "Band of Gold • 1970"
+    },
     {
       "time": "1:40 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Randy Newman",
       "title": "You've Got a Friend in Me",
       "album": "Toy Story soundtrack • 1995"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "Justin Bieber",
-      "title": "Boyfriend",
-      "album": "Believe • 2012"
     }
   ]
 }
