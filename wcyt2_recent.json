@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T18:30:07",
+  "updatedAt": "2026-09-02T18:35:00",
   "now": {
-    "artist": "Radiohead",
-    "title": "Lotus Flower",
-    "album": "The King of Limbs • 2011",
-    "category": "AUDIO"
+    "artist": "Ride",
+    "title": "Kaleidoscope",
+    "album": "Nowhere • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:35 pm",
-      "artist": "Ride",
-      "title": "Kaleidoscope"
-    },
     {
       "time": "6:38 pm",
       "artist": "Sebadoh",
@@ -21,9 +16,20 @@
       "time": "6:40 pm",
       "artist": "George Harrison",
       "title": "Got My Mind Set On You"
+    },
+    {
+      "time": "6:44 pm",
+      "artist": "George Michael",
+      "title": "Faith"
     }
   ],
   "recent": [
+    {
+      "time": "6:35 pm",
+      "artist": "Ride",
+      "title": "Kaleidoscope",
+      "album": "Nowhere • 1990"
+    },
     {
       "time": "6:30 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Glen Campbell",
       "title": "Southern Nights",
       "album": "Southern Nights • 1977"
-    },
-    {
-      "time": "5:03 pm",
-      "artist": "Erykah Badu",
-      "title": "Didn't Cha Know",
-      "album": "Mama's Gun • 2000"
     }
   ]
 }
