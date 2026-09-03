@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T16:09:55",
+  "updatedAt": "2026-09-03T16:12:58",
   "now": {
-    "artist": "Four Tops",
-    "title": "Ain't No Woman (Like The One I've Got)",
-    "album": "Keeper of the Castle • 1973",
+    "artist": "The Beatles",
+    "title": "Getting Better",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:12 pm",
-      "artist": "The Beatles",
-      "title": "Getting Better"
-    },
     {
       "time": "4:15 pm",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "4:22 pm",
       "artist": "Ricky Nelson",
       "title": "I'm Walkin'"
+    },
+    {
+      "time": "4:24 pm",
+      "artist": "Beirut",
+      "title": "Postcards From Italy"
     }
   ],
   "recent": [
+    {
+      "time": "4:12 pm",
+      "artist": "The Beatles",
+      "title": "Getting Better",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "4:09 pm",
       "artist": "Four Tops",
@@ -172,12 +178,6 @@
       "artist": "*NSYNC",
       "title": "Bye Bye Bye",
       "album": "No Strings Attached • 2000"
-    },
-    {
-      "time": "2:35 pm",
-      "artist": "The Decemberists",
-      "title": "The Perfect Crime #2",
-      "album": "The Crane Wife • 2006"
     }
   ]
 }
