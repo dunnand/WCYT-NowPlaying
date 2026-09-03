@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T19:31:36",
+  "updatedAt": "2026-09-03T19:36:30",
   "now": {
-    "artist": "Nirvana.",
-    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "title": "Drain You",
     "album": "Nevermind • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:36 pm",
-      "artist": "Nirvana",
-      "title": "Drain You"
-    },
     {
       "time": "7:40 pm",
       "artist": "Yellowman",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:36 pm",
+      "artist": "Nirvana",
+      "title": "Drain You",
+      "album": "Nevermind • 1991"
+    },
     {
       "time": "7:31 pm",
       "artist": "Nirvana.",
@@ -172,12 +173,6 @@
       "artist": "Curtis Mayfield",
       "title": "Move on Up",
       "album": "Curtis • 1970"
-    },
-    {
-      "time": "5:58 pm",
-      "artist": "The Crystals",
-      "title": "He's a Rebel",
-      "album": "He's a Rebel • 1963"
     }
   ]
 }
