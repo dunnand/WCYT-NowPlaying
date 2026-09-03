@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T05:40:35",
+  "updatedAt": "2026-09-03T05:41:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Eminence Front",
+    "album": "It's Hard • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:41 am",
-      "artist": "The Who",
-      "title": "Eminence Front"
-    },
     {
       "time": "5:46 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "5:56 am",
       "artist": "David Bowie",
       "title": "Suffragette City"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "Grateful Dead",
+      "title": "Uncle John's Band"
     }
   ],
   "recent": [
+    {
+      "time": "5:41 am",
+      "artist": "The Who",
+      "title": "Eminence Front",
+      "album": "It's Hard • 1982"
+    },
     {
       "time": "5:37 am",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Ob-La-Di, Ob-La-Da",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "Led Zeppelin",
-      "title": "Stairway to Heaven",
-      "album": "Led Zeppelin IV • 1971"
     }
   ]
 }
