@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T18:53:49",
+  "updatedAt": "2026-09-03T18:54:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Electric Light Orchestra",
+    "title": "Strange Magic",
+    "album": "Face the Music • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:54 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "Strange Magic"
-    },
     {
       "time": "6:58 pm",
       "artist": "George Harrison",
@@ -26,9 +21,20 @@
       "time": "7:05 pm",
       "artist": "The Kinks",
       "title": "You Really Got Me"
+    },
+    {
+      "time": "7:07 pm",
+      "artist": "KISS",
+      "title": "Shout It Out Loud"
     }
   ],
   "recent": [
+    {
+      "time": "6:54 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Strange Magic",
+      "album": "Face the Music • 1976"
+    },
     {
       "time": "6:50 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Identikit",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "5:09 pm",
-      "artist": "Prince",
-      "title": "Nothing Compares 2 U",
-      "album": "The Hits / The B-Sides • 1993"
     }
   ]
 }
