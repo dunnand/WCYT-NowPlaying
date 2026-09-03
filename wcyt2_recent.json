@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T03:56:06",
+  "updatedAt": "2026-09-03T04:03:58",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Stairway to Heaven",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "The Beatles",
+    "title": "Ob-La-Di, Ob-La-Da",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "The Beatles",
-      "title": "Ob-La-Di, Ob-La-Da"
-    },
     {
       "time": "4:07 am",
       "artist": "The Clash",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "The Beatles",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "3:56 am",
       "artist": "Led Zeppelin",
@@ -177,12 +178,6 @@
       "artist": "FUN.",
       "title": "Carry On",
       "album": "Some Nights • 2012"
-    },
-    {
-      "time": "2:24 am",
-      "artist": "The Doors",
-      "title": "Love Me Two Times",
-      "album": "Strange Days • 1967"
     }
   ]
 }
