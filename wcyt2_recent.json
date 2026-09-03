@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T10:11:02",
+  "updatedAt": "2026-09-03T10:13:55",
   "now": {
-    "artist": "The Beatles",
-    "title": "Savoy Truffle",
-    "album": "The Beatles • 1968",
+    "artist": "Rolling Stones",
+    "title": "Angie",
+    "album": "Goats Head Soup • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:13 am",
-      "artist": "Rolling Stones",
-      "title": "Angie"
-    },
     {
       "time": "10:18 am",
       "artist": "The Breeders",
@@ -26,9 +21,20 @@
       "time": "10:25 am",
       "artist": "Amy Winehouse",
       "title": "Back to Black"
+    },
+    {
+      "time": "10:29 am",
+      "artist": "Bloc Party",
+      "title": "Like Eating Glass"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 am",
+      "artist": "Rolling Stones",
+      "title": "Angie",
+      "album": "Goats Head Soup • 1973"
+    },
     {
       "time": "10:11 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Sleater-Kinney",
       "title": "Call The Doctor",
       "album": "Call The Doctor • 1996"
-    },
-    {
-      "time": "8:37 am",
-      "artist": "Ke$ha",
-      "title": "BlahBlahBlah Feat 3Oh3",
-      "album": "Animal • 2010"
     }
   ]
 }
