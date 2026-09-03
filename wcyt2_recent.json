@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T16:05:08",
+  "updatedAt": "2026-09-03T16:05:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Monday Morning",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Monday Morning"
-    },
     {
       "time": "4:07 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "4:12 pm",
       "artist": "The Beatles",
       "title": "Getting Better"
+    },
+    {
+      "time": "4:15 pm",
+      "artist": "The Beach Boys",
+      "title": "Forever"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Monday Morning",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "4:01 pm",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Alanis Morissette",
       "title": "Hand In My Pocket",
       "album": "Jagged Little Pill • 1995"
-    },
-    {
-      "time": "2:24 pm",
-      "artist": "The Who",
-      "title": "Love, Reign O'er Me",
-      "album": "Quadrophenia • 1973"
     }
   ]
 }
