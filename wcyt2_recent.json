@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T18:54:01",
+  "updatedAt": "2026-09-03T18:58:07",
   "now": {
-    "artist": "Electric Light Orchestra",
-    "title": "Strange Magic",
-    "album": "Face the Music • 1976",
+    "artist": "George Harrison",
+    "title": "What Is Life",
+    "album": "All Things Must Pass • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:58 pm",
-      "artist": "George Harrison",
-      "title": "What Is Life"
-    },
     {
       "time": "7:02 pm",
       "artist": "Cascada",
@@ -26,9 +21,20 @@
       "time": "7:07 pm",
       "artist": "KISS",
       "title": "Shout It Out Loud"
+    },
+    {
+      "time": "7:10 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "The King of Carrot Flowers Pt. One"
     }
   ],
   "recent": [
+    {
+      "time": "6:58 pm",
+      "artist": "George Harrison",
+      "title": "What Is Life",
+      "album": "All Things Must Pass • 1971"
+    },
     {
       "time": "6:54 pm",
       "artist": "Electric Light Orchestra",
@@ -172,12 +178,6 @@
       "artist": "Aesop Rock",
       "title": "Daylight",
       "album": "Labor Days • 2001"
-    },
-    {
-      "time": "5:13 pm",
-      "artist": "Radiohead",
-      "title": "Identikit",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
