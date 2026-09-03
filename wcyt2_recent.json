@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T00:48:19",
+  "updatedAt": "2026-09-03T00:54:06",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Thunder on the Mountain",
-    "album": "Modern Times • 2006",
+    "artist": "Radiohead",
+    "title": "Desert Island Disk",
+    "album": "A Moon Shaped Pool • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:54 am",
-      "artist": "Radiohead",
-      "title": "Desert Island Disk"
-    },
     {
       "time": "12:57 am",
       "artist": "ZZ Top",
@@ -26,9 +21,20 @@
       "time": "1:06 am",
       "artist": "Maroon 5",
       "title": "Love Somebody"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "Dido",
+      "title": "Thank You"
     }
   ],
   "recent": [
+    {
+      "time": "12:54 am",
+      "artist": "Radiohead",
+      "title": "Desert Island Disk",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "12:48 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "The Dandy Warhols",
       "title": "Bohemian Like You",
       "album": "Thirteen Tales From Urban Bohemia • 2000"
-    },
-    {
-      "time": "11:14 pm",
-      "artist": "The Avalanches",
-      "title": "Frontier Psychiatrist",
-      "album": "Since I Left You • 2000"
     }
   ]
 }
