@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T00:54:06",
+  "updatedAt": "2026-09-03T00:57:41",
   "now": {
-    "artist": "Radiohead",
-    "title": "Desert Island Disk",
-    "album": "A Moon Shaped Pool • 2016",
+    "artist": "ZZ Top",
+    "title": "La Grange",
+    "album": "Tres Hombres • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:57 am",
-      "artist": "ZZ Top",
-      "title": "La Grange"
-    },
     {
       "time": "1:01 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "1:10 am",
       "artist": "Dido",
       "title": "Thank You"
+    },
+    {
+      "time": "1:13 am",
+      "artist": "Bonnie 'Prince' Billy",
+      "title": "Cursed Sleep"
     }
   ],
   "recent": [
+    {
+      "time": "12:57 am",
+      "artist": "ZZ Top",
+      "title": "La Grange",
+      "album": "Tres Hombres • 1974"
+    },
     {
       "time": "12:54 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Kamasi Washington",
       "title": "Street Fighter Mas",
       "album": "Heaven and Earth • 2018"
-    },
-    {
-      "time": "11:18 pm",
-      "artist": "The Dandy Warhols",
-      "title": "Bohemian Like You",
-      "album": "Thirteen Tales From Urban Bohemia • 2000"
     }
   ]
 }
