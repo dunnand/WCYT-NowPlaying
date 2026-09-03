@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T22:00:26",
+  "updatedAt": "2026-09-02T22:04:05",
   "now": {
-    "artist": "The Black Keys",
-    "title": "Thickfreakness",
-    "album": "Thickfreakness • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Hello Goodbye",
+    "album": "single • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:04 pm",
-      "artist": "The Beatles",
-      "title": "Hello Goodbye"
-    },
     {
       "time": "10:07 pm",
       "artist": "Judee Sill",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:04 pm",
+      "artist": "The Beatles",
+      "title": "Hello Goodbye",
+      "album": "single • 1967"
+    },
     {
       "time": "10:00 pm",
       "artist": "The Black Keys",
@@ -177,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Rhinestone Eyes",
       "album": "Plastic Beach • 2010"
-    },
-    {
-      "time": "8:27 pm",
-      "artist": "The Who",
-      "title": "Armenia City in the Sky",
-      "album": "The Who Sell Out • 1967"
     }
   ]
 }
