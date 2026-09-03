@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T21:11:19",
+  "updatedAt": "2026-09-02T21:13:52",
   "now": {
-    "artist": "Joe Cocker",
-    "title": "You Are So Beautiful",
-    "album": "I Can Stand a Little Rain • 1974",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Major Leagues",
+    "album": "Terror Twilight • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:13 pm",
-      "artist": "Pavement",
-      "title": "Major Leagues"
-    },
     {
       "time": "9:17 pm",
       "artist": "Chordettes",
@@ -21,9 +16,20 @@
       "time": "9:19 pm",
       "artist": "Daft Punk",
       "title": "Digital Love"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "The Beatles",
+      "title": "I Will"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 pm",
+      "artist": "Pavement",
+      "title": "Major Leagues",
+      "album": "Terror Twilight • 1999"
+    },
     {
       "time": "9:11 pm",
       "artist": "Joe Cocker",
@@ -167,12 +173,6 @@
       "artist": "Sunny Day Real Estate",
       "title": "In Circles",
       "album": "Diary • 1994"
-    },
-    {
-      "time": "7:30 pm",
-      "artist": "Radiohead",
-      "title": "My Iron Lung",
-      "album": "The Bends • 1995"
     }
   ]
 }
