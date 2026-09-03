@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T04:22:31",
+  "updatedAt": "2026-09-03T04:26:39",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Am the Walrus",
-    "album": "Magical Mystery Tour • 1967",
+    "artist": "Men I Trust",
+    "title": "Show Me How",
+    "album": "Oncle Jazz • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:26 am",
-      "artist": "Men I Trust",
-      "title": "Show Me How"
-    },
     {
       "time": "4:30 am",
       "artist": "Toad The Wet Sprocket",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:26 am",
+      "artist": "Men I Trust",
+      "title": "Show Me How",
+      "album": "Oncle Jazz • 2019"
+    },
     {
       "time": "4:22 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Marianne Faithfull",
       "title": "Broken English",
       "album": "Broken English • 1979"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "Run The Jewels",
-      "title": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
-      "album": "RTJ4 • 2020"
     }
   ]
 }
