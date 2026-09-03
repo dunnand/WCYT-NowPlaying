@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T21:24:04",
+  "updatedAt": "2026-09-02T21:24:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Will",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:24 pm",
-      "artist": "The Beatles",
-      "title": "I Will"
-    },
     {
       "time": "9:26 pm",
       "artist": "Katy Perry",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:24 pm",
+      "artist": "The Beatles",
+      "title": "I Will",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "9:19 pm",
       "artist": "Daft Punk",
@@ -172,12 +173,6 @@
       "artist": "HAIM",
       "title": "Lost Track",
       "album": "Single •"
-    },
-    {
-      "time": "7:44 pm",
-      "artist": "Jackson Browne",
-      "title": "Tender Is The Night",
-      "album": "Lawyers in Love • 1983"
     }
   ]
 }
