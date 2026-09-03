@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T05:32:24",
+  "updatedAt": "2026-09-03T05:37:20",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Cherub Rock",
-    "album": "Siamese Dream • 1993",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "All the Umbrellas in London",
+    "album": "Get Lost • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:37 am",
-      "artist": "The Magnetic Fields",
-      "title": "All the Umbrellas in London"
-    },
     {
       "time": "5:41 am",
       "artist": "The Who",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:37 am",
+      "artist": "The Magnetic Fields",
+      "title": "All the Umbrellas in London",
+      "album": "Get Lost • 1995"
+    },
     {
       "time": "5:32 am",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "Stairway to Heaven",
       "album": "Led Zeppelin IV • 1971"
-    },
-    {
-      "time": "3:52 am",
-      "artist": "The Who",
-      "title": "My Generation",
-      "album": "My Generation • 1965"
     }
   ]
 }
