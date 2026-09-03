@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T16:22:15",
+  "updatedAt": "2026-09-03T16:24:16",
   "now": {
-    "artist": "Ricky Nelson",
-    "title": "I'm Walkin'",
-    "album": "Ricky • 1957",
-    "category": "AUDIO"
+    "artist": "Beirut",
+    "title": "Postcards From Italy",
+    "album": "Gulag Orkestar • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:24 pm",
-      "artist": "Beirut",
-      "title": "Postcards From Italy"
-    },
     {
       "time": "4:28 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "4:30 pm",
       "artist": "Marina & The Diamonds",
       "title": "How To Be A Heartbreaker"
+    },
+    {
+      "time": "4:34 pm",
+      "artist": "Mazzy Star",
+      "title": "Flowers in December"
     }
   ],
   "recent": [
+    {
+      "time": "4:24 pm",
+      "artist": "Beirut",
+      "title": "Postcards From Italy",
+      "album": "Gulag Orkestar • 2005"
+    },
     {
       "time": "4:22 pm",
       "artist": "Ricky Nelson",
@@ -167,12 +173,6 @@
       "artist": "The Replacements",
       "title": "I Will Dare",
       "album": "Let It Be • 1984"
-    },
-    {
-      "time": "2:53 pm",
-      "artist": "Kate Bush",
-      "title": "Babooshka",
-      "album": "Never for Ever • 1980"
     }
   ]
 }
