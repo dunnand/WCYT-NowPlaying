@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T04:22:21",
+  "updatedAt": "2026-09-03T04:22:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Am the Walrus",
+    "album": "Magical Mystery Tour • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:22 am",
-      "artist": "The Beatles",
-      "title": "I Am the Walrus"
-    },
     {
       "time": "4:26 am",
       "artist": "Men I Trust",
@@ -26,9 +21,20 @@
       "time": "4:33 am",
       "artist": "Elliott Smith",
       "title": "Ballad of Big Nothing"
+    },
+    {
+      "time": "4:36 am",
+      "artist": "Talking Heads",
+      "title": "Stay Up Late"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 am",
+      "artist": "The Beatles",
+      "title": "I Am the Walrus",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "4:19 am",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Run The Jewels",
       "title": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "album": "RTJ4 • 2020"
-    },
-    {
-      "time": "2:41 am",
-      "artist": "Waylon Jennings",
-      "title": "Theme From The Dukes Of Hazzard (Good Ol' Boys)",
-      "album": "Music Man • 1980"
     }
   ]
 }
