@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T12:22:49",
+  "updatedAt": "2026-09-03T12:22:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "Yellow",
+    "album": "Parachutes • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:22 pm",
-      "artist": "Coldplay",
-      "title": "Yellow"
-    },
     {
       "time": "12:27 pm",
       "artist": "Death Cab for Cutie",
@@ -26,9 +21,20 @@
       "time": "12:35 pm",
       "artist": "Stone Temple Pilots",
       "title": "Trippin' on a Hole in a Paper Heart"
+    },
+    {
+      "time": "12:38 pm",
+      "artist": "Superchunk",
+      "title": "Hello Hawk"
     }
   ],
   "recent": [
+    {
+      "time": "12:22 pm",
+      "artist": "Coldplay",
+      "title": "Yellow",
+      "album": "Parachutes • 2000"
+    },
     {
       "time": "12:19 pm",
       "artist": "Kendrick Lamar",
@@ -172,12 +178,6 @@
       "artist": "Ray Parker, Jr.",
       "title": "Ghostbusters",
       "album": "Ghostbusters soundtrack • 1984"
-    },
-    {
-      "time": "10:45 am",
-      "artist": "Rick James",
-      "title": "Super Freak",
-      "album": "Street Songs • 1981"
     }
   ]
 }
