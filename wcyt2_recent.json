@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T10:00:45",
+  "updatedAt": "2026-09-03T10:00:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Was a Sunny Day",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 am",
-      "artist": "Paul Simon",
-      "title": "Was a Sunny Day"
-    },
     {
       "time": "10:04 am",
       "artist": "The Lovin' Spoonful",
@@ -26,9 +21,20 @@
       "time": "10:11 am",
       "artist": "The Beatles",
       "title": "Savoy Truffle"
+    },
+    {
+      "time": "10:14 am",
+      "artist": "Rolling Stones",
+      "title": "Angie"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 am",
+      "artist": "Paul Simon",
+      "title": "Was a Sunny Day",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "9:56 am",
       "artist": "Mahito Yokota",
@@ -172,12 +178,6 @@
       "artist": "Bobby Darin",
       "title": "Splish Splash",
       "album": "Bobby Darin • 1958"
-    },
-    {
-      "time": "8:26 am",
-      "artist": "Guided by Voices",
-      "title": "Everybody Thinks I'm a Rainclo",
-      "album": "Half Smiles of the Decomposed • 1994"
     }
   ]
 }
