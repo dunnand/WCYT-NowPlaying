@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T16:05:20",
+  "updatedAt": "2026-09-03T16:08:04",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Monday Morning",
-    "album": "Fleetwood Mac • 1975",
+    "artist": "The Beatles",
+    "title": "From Me To You",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:07 pm",
-      "artist": "The Beatles",
-      "title": "From Me To You"
-    },
     {
       "time": "4:09 pm",
       "artist": "Four Tops",
@@ -26,9 +21,20 @@
       "time": "4:15 pm",
       "artist": "The Beach Boys",
       "title": "Forever"
+    },
+    {
+      "time": "4:18 pm",
+      "artist": "Janet Jackson",
+      "title": "Together Again"
     }
   ],
   "recent": [
+    {
+      "time": "4:08 pm",
+      "artist": "The Beatles",
+      "title": "From Me To You",
+      "album": "single • 1963"
+    },
     {
       "time": "4:05 pm",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Paul Anka",
       "title": "Put Your Head On My Shoulder",
       "album": "single • 1959"
-    },
-    {
-      "time": "2:29 pm",
-      "artist": "Alanis Morissette",
-      "title": "Hand In My Pocket",
-      "album": "Jagged Little Pill • 1995"
     }
   ]
 }
