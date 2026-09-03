@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T11:18:06",
+  "updatedAt": "2026-09-03T11:21:40",
   "now": {
-    "artist": "Bjork",
-    "title": "It's Oh So Quiet",
-    "album": "Post • 1995",
-    "category": "TUNES"
+    "artist": "Bill Haley and his Comets",
+    "title": "(We're Gonna) Rock Around the Clock",
+    "album": "Shake Rattle and Roll • 1955",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:21 am",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock"
-    },
     {
       "time": "11:23 am",
       "artist": "Death Cab for Cutie",
@@ -26,9 +21,20 @@
       "time": "11:32 am",
       "artist": "Imagine Dragons",
       "title": "Radioactive"
+    },
+    {
+      "time": "11:35 am",
+      "artist": "CAKE",
+      "title": "Never There"
     }
   ],
   "recent": [
+    {
+      "time": "11:21 am",
+      "artist": "Bill Haley and his Comets",
+      "title": "(We're Gonna) Rock Around the Clock",
+      "album": "Shake Rattle and Roll • 1955"
+    },
     {
       "time": "11:18 am",
       "artist": "Bjork",
@@ -172,12 +178,6 @@
       "artist": "The Wedding Present",
       "title": "Brassneck",
       "album": "Bizarro • 1989"
-    },
-    {
-      "time": "9:45 am",
-      "artist": "Green Day",
-      "title": "Nice Guys Finish Last",
-      "album": "nimrod. • 1997"
     }
   ]
 }
