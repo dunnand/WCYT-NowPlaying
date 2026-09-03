@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T08:18:52",
+  "updatedAt": "2026-09-03T08:21:58",
   "now": {
-    "artist": "Radiohead",
-    "title": "Feral",
-    "album": "The King of Limbs • 2011",
+    "artist": "Janis Joplin",
+    "title": "Me And Bobby McGee",
+    "album": "Pearl • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:21 am",
-      "artist": "Janis Joplin",
-      "title": "Me And Bobby McGee"
-    },
     {
       "time": "8:26 am",
       "artist": "Guided by Voices",
@@ -26,9 +21,20 @@
       "time": "8:31 am",
       "artist": "David Guetta feat Kid Cudi",
       "title": "Memories"
+    },
+    {
+      "time": "8:35 am",
+      "artist": "The Byrds",
+      "title": "Wasn't Born to Follow"
     }
   ],
   "recent": [
+    {
+      "time": "8:21 am",
+      "artist": "Janis Joplin",
+      "title": "Me And Bobby McGee",
+      "album": "Pearl • 1971"
+    },
     {
       "time": "8:18 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Tom Cochrane",
       "title": "Life Is A Highway",
       "album": "Mad Mad World • 1992"
-    },
-    {
-      "time": "6:30 am",
-      "artist": "Radiohead",
-      "title": "Daydreaming",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
