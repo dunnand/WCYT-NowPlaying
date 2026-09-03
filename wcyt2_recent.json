@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T09:04:43",
+  "updatedAt": "2026-09-03T09:11:31",
   "now": {
-    "artist": "Animal Collective",
-    "title": "Fireworks",
-    "album": "Strawberry Jam • 2007",
-    "category": "TUNES"
+    "artist": "Joey Bad",
+    "title": "Waves",
+    "album": "1999 • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 am",
-      "artist": "Joey Bad",
-      "title": "Waves"
-    },
     {
       "time": "9:14 am",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "9:27 am",
       "artist": "Gotye",
       "title": "Somebody That I Used To Know"
+    },
+    {
+      "time": "9:31 am",
+      "artist": "Clinic",
+      "title": "Distortions"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 am",
+      "artist": "Joey Bad",
+      "title": "Waves",
+      "album": "1999 • 2012"
+    },
     {
       "time": "9:04 am",
       "artist": "Animal Collective",
@@ -172,12 +178,6 @@
       "artist": "Kendrick Lamar",
       "title": "King Kunta",
       "album": "To Pimp a Butterfly • 2015"
-    },
-    {
-      "time": "7:43 am",
-      "artist": "The Zombies",
-      "title": "This Will Be Our Year",
-      "album": "Odessey and Oracle • 1968"
     }
   ]
 }
