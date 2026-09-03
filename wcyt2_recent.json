@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T02:27:25",
+  "updatedAt": "2026-09-03T02:31:20",
   "now": {
-    "artist": "FUN.",
-    "title": "Carry On",
-    "album": "Some Nights • 2012",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Gold Soundz",
+    "album": "Crooked Rain, Crooked Rain • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:31 am",
-      "artist": "Pavement",
-      "title": "Gold Soundz"
-    },
     {
       "time": "2:33 am",
       "artist": "Veruca Salt",
@@ -21,9 +16,25 @@
       "time": "2:37 am",
       "artist": "Madonna",
       "title": "Express Yourself"
+    },
+    {
+      "time": "2:41 am",
+      "artist": "Waylon Jennings",
+      "title": "Theme From The Dukes Of Hazzard (Good Ol' Boys)"
+    },
+    {
+      "time": "2:43 am",
+      "artist": "Run The Jewels",
+      "title": "JU$T (feat. Pharrell Williams & Zack de la Rocha)"
     }
   ],
   "recent": [
+    {
+      "time": "2:31 am",
+      "artist": "Pavement",
+      "title": "Gold Soundz",
+      "album": "Crooked Rain, Crooked Rain • 1994"
+    },
     {
       "time": "2:27 am",
       "artist": "FUN.",
@@ -167,12 +178,6 @@
       "artist": "X-Ray Spex",
       "title": "Germ Free Adolescents",
       "album": "Germ Free Adolescents • 1978"
-    },
-    {
-      "time": "12:42 am",
-      "artist": "Animal Collective",
-      "title": "Leaf House",
-      "album": "Sung Tongs • 2004"
     }
   ]
 }
