@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T11:02:15",
+  "updatedAt": "2026-09-03T11:06:19",
   "now": {
-    "artist": "Goose",
-    "title": "Good2B",
-    "album": "Big Modern! • 2026",
+    "artist": "Sufjan Stevens",
+    "title": "Chicago",
+    "album": "Illinois • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:06 am",
-      "artist": "Sufjan Stevens",
-      "title": "Chicago"
-    },
     {
       "time": "11:11 am",
       "artist": "The Reverbs",
@@ -26,9 +21,20 @@
       "time": "11:18 am",
       "artist": "Lucy Dacus",
       "title": "Brando"
+    },
+    {
+      "time": "11:21 am",
+      "artist": "Superchunk",
+      "title": "Hyper Enough"
     }
   ],
   "recent": [
+    {
+      "time": "11:06 am",
+      "artist": "Sufjan Stevens",
+      "title": "Chicago",
+      "album": "Illinois • 2005"
+    },
     {
       "time": "11:02 am",
       "artist": "Goose",
@@ -172,12 +178,6 @@
       "artist": "Neko Case",
       "title": "Wreck",
       "album": "Neon Grey Midnight Green • 2025"
-    },
-    {
-      "time": "9:23 am",
-      "artist": "Sparks",
-      "title": "A Big Surprise",
-      "album": "Introducing Sparks • 1977"
     }
   ]
 }
