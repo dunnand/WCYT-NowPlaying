@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T07:04:16",
+  "updatedAt": "2026-09-03T07:04:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Mother",
+    "album": "The Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:04 am",
-      "artist": "Pink Floyd",
-      "title": "Mother"
-    },
     {
       "time": "7:09 am",
       "artist": "King Harvest",
@@ -26,9 +21,20 @@
       "time": "7:24 am",
       "artist": "The Velvet Underground",
       "title": "Beginning to See the Light"
+    },
+    {
+      "time": "7:28 am",
+      "artist": "Ozark Mountain Daredevils",
+      "title": "Jackie Blue"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 am",
+      "artist": "Pink Floyd",
+      "title": "Mother",
+      "album": "The Wall • 1979"
+    },
     {
       "time": "7:00 am",
       "artist": "Koji Kondo",
@@ -172,12 +178,6 @@
       "artist": "Monotones",
       "title": "Book Of Love",
       "album": "Book of Love • 1958"
-    },
-    {
-      "time": "5:12 am",
-      "artist": "Pearl Jam",
-      "title": "In My Tree",
-      "album": "No Code • 1996"
     }
   ]
 }
