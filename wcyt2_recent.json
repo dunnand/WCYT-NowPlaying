@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T16:15:39",
+  "updatedAt": "2026-09-03T16:18:11",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Forever",
-    "album": "Sunflower • 1970",
+    "artist": "Janet Jackson",
+    "title": "Together Again",
+    "album": "The Velvet Rope • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:18 pm",
-      "artist": "Janet Jackson",
-      "title": "Together Again"
-    },
     {
       "time": "4:22 pm",
       "artist": "Ricky Nelson",
@@ -21,9 +16,20 @@
       "time": "4:24 pm",
       "artist": "Beirut",
       "title": "Postcards From Italy"
+    },
+    {
+      "time": "4:28 pm",
+      "artist": "The Beatles",
+      "title": "I'll Be Back"
     }
   ],
   "recent": [
+    {
+      "time": "4:18 pm",
+      "artist": "Janet Jackson",
+      "title": "Together Again",
+      "album": "The Velvet Rope • 1997"
+    },
     {
       "time": "4:15 pm",
       "artist": "The Beach Boys",
@@ -167,12 +173,6 @@
       "artist": "Cat Power",
       "title": "King Rides By",
       "album": "What Would the Community Think • 1996"
-    },
-    {
-      "time": "2:46 pm",
-      "artist": "Beastie Boys",
-      "title": "Sabotage",
-      "album": "Ill Communication • 1994"
     }
   ]
 }
