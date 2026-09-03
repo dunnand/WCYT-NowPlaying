@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T18:34:50",
+  "updatedAt": "2026-09-03T18:35:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mariah Carey",
+    "title": "All I Want for Christmas Is You",
+    "album": "Merry Christmas • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:35 pm",
-      "artist": "Mariah Carey",
-      "title": "All I Want for Christmas Is You"
-    },
     {
       "time": "6:38 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "6:45 pm",
       "artist": "Saccharine Trust",
       "title": "A Human Certainty"
+    },
+    {
+      "time": "6:50 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "bad idea right?"
     }
   ],
   "recent": [
+    {
+      "time": "6:35 pm",
+      "artist": "Mariah Carey",
+      "title": "All I Want for Christmas Is You",
+      "album": "Merry Christmas • 1994"
+    },
     {
       "time": "6:31 pm",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "The Cars",
       "title": "Just What I Needed",
       "album": "The Cars • 1978"
-    },
-    {
-      "time": "4:53 pm",
-      "artist": "Blondie",
-      "title": "(I'm Always Touched by Your) Presence Dear",
-      "album": "Plastic Letters • 1978"
     }
   ]
 }
