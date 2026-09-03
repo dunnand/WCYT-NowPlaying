@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T16:12:58",
+  "updatedAt": "2026-09-03T16:15:39",
   "now": {
-    "artist": "The Beatles",
-    "title": "Getting Better",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "The Beach Boys",
+    "title": "Forever",
+    "album": "Sunflower • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 pm",
-      "artist": "The Beach Boys",
-      "title": "Forever"
-    },
     {
       "time": "4:18 pm",
       "artist": "Janet Jackson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:15 pm",
+      "artist": "The Beach Boys",
+      "title": "Forever",
+      "album": "Sunflower • 1970"
+    },
     {
       "time": "4:12 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Beastie Boys",
       "title": "Sabotage",
       "album": "Ill Communication • 1994"
-    },
-    {
-      "time": "2:43 pm",
-      "artist": "*NSYNC",
-      "title": "Bye Bye Bye",
-      "album": "No Strings Attached • 2000"
     }
   ]
 }
