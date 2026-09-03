@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T21:09:24",
+  "updatedAt": "2026-09-02T21:11:19",
   "now": {
-    "artist": "The Beatles",
-    "title": "Please Please Me",
-    "album": "Please Please Me • 1963",
+    "artist": "Joe Cocker",
+    "title": "You Are So Beautiful",
+    "album": "I Can Stand a Little Rain • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Joe Cocker",
-      "title": "You Are So Beautiful"
-    },
     {
       "time": "9:13 pm",
       "artist": "Pavement",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Joe Cocker",
+      "title": "You Are So Beautiful",
+      "album": "I Can Stand a Little Rain • 1974"
+    },
     {
       "time": "9:09 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "My Iron Lung",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "7:26 pm",
-      "artist": "J. Cole",
-      "title": "Can't Get Enough feat. Trey Songz",
-      "album": "Cole World: The Sideline Story • 2011"
     }
   ]
 }
