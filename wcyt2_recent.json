@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T09:01:11",
+  "updatedAt": "2026-09-03T09:01:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Karen Dalton",
+    "title": "Something on Your Mind",
+    "album": "In My Own Time • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:01 am",
-      "artist": "Karen Dalton",
-      "title": "Something on Your Mind"
-    },
     {
       "time": "9:04 am",
       "artist": "Animal Collective",
@@ -31,9 +26,20 @@
       "time": "9:23 am",
       "artist": "Wilco",
       "title": "Monday"
+    },
+    {
+      "time": "9:27 am",
+      "artist": "Gotye",
+      "title": "Somebody That I Used To Know"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 am",
+      "artist": "Karen Dalton",
+      "title": "Something on Your Mind",
+      "album": "In My Own Time • 1970"
+    },
     {
       "time": "8:58 am",
       "artist": "Crystal Castles",
@@ -177,12 +183,6 @@
       "artist": "Cat Power",
       "title": "Good Woman",
       "album": "You Are Free • 2003"
-    },
-    {
-      "time": "7:36 am",
-      "artist": "Chuck Berry",
-      "title": "Sweet Little Sixteen",
-      "album": "One Dozen Berrys • 1958"
     }
   ]
 }
