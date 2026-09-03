@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T04:52:08",
+  "updatedAt": "2026-09-03T04:57:46",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Tangled Up in Blue",
-    "album": "Blood on the Tracks • 1975",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "Step Into My Office, Baby",
+    "album": "Dear Catastrophe Waitress • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Belle and Sebastian",
-      "title": "Step Into My Office, Baby"
-    },
     {
       "time": "5:01 am",
       "artist": "Kendrick Lamar",
@@ -26,9 +21,20 @@
       "time": "5:11 am",
       "artist": "Pearl Jam",
       "title": "In My Tree"
+    },
+    {
+      "time": "5:16 am",
+      "artist": "Monotones",
+      "title": "Book Of Love"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Belle and Sebastian",
+      "title": "Step Into My Office, Baby",
+      "album": "Dear Catastrophe Waitress • 2003"
+    },
     {
       "time": "4:52 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Broken Social Scene",
       "title": "Cause = Time",
       "album": "You Forgot It In People • 2002"
-    },
-    {
-      "time": "3:14 am",
-      "artist": "Bjork",
-      "title": "Pagan Poetry",
-      "album": "Vespertine • 2001"
     }
   ]
 }
