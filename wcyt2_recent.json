@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T00:42:28",
+  "updatedAt": "2026-09-03T00:45:04",
   "now": {
-    "artist": "Animal Collective",
-    "title": "Leaf House",
-    "album": "Sung Tongs • 2004",
-    "category": "TUNES"
+    "artist": "X-Ray Spex",
+    "title": "Germ Free Adolescents",
+    "album": "Germ Free Adolescents • 1978",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "X",
-      "title": "Ray Spex - Germ Free Adolescents"
-    },
     {
       "time": "12:48 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,25 @@
       "time": "12:57 am",
       "artist": "ZZ Top",
       "title": "La Grange"
+    },
+    {
+      "time": "1:01 am",
+      "artist": "Pearl Jam",
+      "title": "Yellow Ledbetter"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Maroon 5",
+      "title": "Love Somebody"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 am",
+      "artist": "X-Ray Spex",
+      "title": "Germ Free Adolescents",
+      "album": "Germ Free Adolescents • 1978"
+    },
     {
       "time": "12:42 am",
       "artist": "Animal Collective",
@@ -172,12 +183,6 @@
       "artist": "Radiohead",
       "title": "Morning Mr. Magpie",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "11:05 pm",
-      "artist": "Sophie B. Hawkins",
-      "title": "As I Lay Me Down",
-      "album": "Whaler • 1995"
     }
   ]
 }
