@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T10:00:56",
+  "updatedAt": "2026-09-03T10:04:31",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Was a Sunny Day",
-    "album": "There Goes Rhymin Simon • 1973",
+    "artist": "The Lovin' Spoonful",
+    "title": "Do You Believe in Magic",
+    "album": "Do You Believe in Magic • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:04 am",
-      "artist": "The Lovin' Spoonful",
-      "title": "Do You Believe in Magic"
-    },
     {
       "time": "10:06 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "10:14 am",
       "artist": "Rolling Stones",
       "title": "Angie"
+    },
+    {
+      "time": "10:18 am",
+      "artist": "The Breeders",
+      "title": "Cannonball"
     }
   ],
   "recent": [
+    {
+      "time": "10:04 am",
+      "artist": "The Lovin' Spoonful",
+      "title": "Do You Believe in Magic",
+      "album": "Do You Believe in Magic • 1965"
+    },
     {
       "time": "10:00 am",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "David Guetta feat Kid Cudi",
       "title": "Memories",
       "album": "One Love • 2009"
-    },
-    {
-      "time": "8:29 am",
-      "artist": "Bobby Darin",
-      "title": "Splish Splash",
-      "album": "Bobby Darin • 1958"
     }
   ]
 }
