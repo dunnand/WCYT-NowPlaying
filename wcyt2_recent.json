@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T10:25:44",
+  "updatedAt": "2026-09-03T10:25:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Amy Winehouse",
+    "title": "Back to Black",
+    "album": "Back to Black • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 am",
-      "artist": "Amy Winehouse",
-      "title": "Back to Black"
-    },
     {
       "time": "10:29 am",
       "artist": "Bloc Party",
@@ -26,9 +21,20 @@
       "time": "10:37 am",
       "artist": "A Tribe Called Quest",
       "title": "Check The Rhime"
+    },
+    {
+      "time": "10:41 am",
+      "artist": "Beck",
+      "title": "Nobody's Fault but My Own"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 am",
+      "artist": "Amy Winehouse",
+      "title": "Back to Black",
+      "album": "Back to Black • 2006"
+    },
     {
       "time": "10:21 am",
       "artist": "Leon Bridges",
@@ -172,12 +178,6 @@
       "artist": "Queen",
       "title": "Who Wants to Live Forever",
       "album": "A Kind of Magic • 1986"
-    },
-    {
-      "time": "8:46 am",
-      "artist": "Prince and The Revolution",
-      "title": "Raspberry Beret",
-      "album": "Around the World in a Day • 1985"
     }
   ]
 }
