@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T21:06:11",
+  "updatedAt": "2026-09-02T21:06:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Mardy Bum",
+    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:06 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Mardy Bum"
-    },
     {
       "time": "9:09 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "9:13 pm",
       "artist": "Pavement",
       "title": "Major Leagues"
+    },
+    {
+      "time": "9:17 pm",
+      "artist": "Chordettes",
+      "title": "Lollipop"
     }
   ],
   "recent": [
+    {
+      "time": "9:06 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Mardy Bum",
+      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
+    },
     {
       "time": "9:02 pm",
       "artist": "Joan Baez",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "And I Love Her",
       "album": "A Hard Day's Night • 1964"
-    },
-    {
-      "time": "7:20 pm",
-      "artist": "Estelle",
-      "title": "American Boy feat. Kanye West",
-      "album": "Shine • 2007"
     }
   ]
 }
