@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T17:03:48",
+  "updatedAt": "2026-09-03T17:06:09",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Need You",
-    "album": "Help! • 1965",
+    "artist": "Cat Stevens",
+    "title": "Sitting",
+    "album": "Catch Bull at Four • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:06 pm",
-      "artist": "Cat Stevens",
-      "title": "Sitting"
-    },
     {
       "time": "5:09 pm",
       "artist": "Prince",
@@ -26,9 +21,20 @@
       "time": "5:18 pm",
       "artist": "Aesop Rock",
       "title": "Daylight"
+    },
+    {
+      "time": "5:22 pm",
+      "artist": "Broadcast",
+      "title": "Come On Let's Go"
     }
   ],
   "recent": [
+    {
+      "time": "5:06 pm",
+      "artist": "Cat Stevens",
+      "title": "Sitting",
+      "album": "Catch Bull at Four • 1972"
+    },
     {
       "time": "5:03 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "De La Soul",
       "title": "Ego Trippin', Part Two",
       "album": "Buhloone Mindstate • 1993"
-    },
-    {
-      "time": "3:39 pm",
-      "artist": "Nicki Minaj",
-      "title": "Starships",
-      "album": "Pink Friday: Roman Reloaded • 2012"
     }
   ]
 }
