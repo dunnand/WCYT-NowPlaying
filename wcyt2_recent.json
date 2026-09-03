@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-02T20:20:25",
+  "updatedAt": "2026-09-02T20:20:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Take Your Time",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time"
-    },
     {
       "time": "8:22 pm",
       "artist": "Deftones",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:20 pm",
+      "artist": "Buddy Holly",
+      "title": "Take Your Time",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "8:17 pm",
       "artist": "Belle and Sebastian",
@@ -172,12 +173,6 @@
       "artist": "George Harrison",
       "title": "Got My Mind Set On You",
       "album": "Cloud Nine • 1987"
-    },
-    {
-      "time": "6:38 pm",
-      "artist": "Sebadoh",
-      "title": "Magnet's Coil",
-      "album": "Bakesale • 1994"
     }
   ]
 }
