@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T07:50:20",
+  "updatedAt": "2026-09-03T07:50:30",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "American Football",
+    "title": "No Feeling",
+    "album": "American Football • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "American Football",
-      "title": "No Feeling"
-    },
     {
       "time": "7:55 am",
       "artist": "Future Islands",
@@ -26,9 +21,20 @@
       "time": "8:04 am",
       "artist": "Slow Pulp",
       "title": "Slugs"
+    },
+    {
+      "time": "8:07 am",
+      "artist": "Declan McKenna",
+      "title": "Mulholland's Dinner & Wine"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "American Football",
+      "title": "No Feeling",
+      "album": "American Football • 2026"
+    },
     {
       "time": "7:45 am",
       "artist": "Protomartyr",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "Will Anybody Ever Love Me",
       "album": "Javelin • 2023"
-    },
-    {
-      "time": "6:23 am",
-      "artist": "The Bug Club",
-      "title": "Watching the Omnibus",
-      "album": "Every Single Muscle • 2026"
     }
   ]
 }
