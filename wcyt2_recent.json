@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T14:09:01",
+  "updatedAt": "2026-09-03T14:12:34",
   "now": {
-    "artist": "ABBA",
-    "title": "Dancing Queen",
-    "album": "Arrival • 1977",
+    "artist": "John Prine",
+    "title": "Angel From Montgomery",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:12 pm",
-      "artist": "John Prine",
-      "title": "Angel From Montgomery"
-    },
     {
       "time": "2:16 pm",
       "artist": "Jonathan Richman & The Modern Lovers",
@@ -26,9 +21,20 @@
       "time": "2:21 pm",
       "artist": "The Beatles",
       "title": "Glass Onion"
+    },
+    {
+      "time": "2:24 pm",
+      "artist": "The Who",
+      "title": "Love, Reign O'er Me"
     }
   ],
   "recent": [
+    {
+      "time": "2:12 pm",
+      "artist": "John Prine",
+      "title": "Angel From Montgomery",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "2:09 pm",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Kendrick Lamar",
       "title": "Alright",
       "album": "To Pimp a Butterfly • 2015"
-    },
-    {
-      "time": "12:14 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Breaking the Girl",
-      "album": "Blood Sugar Sex Magik • 1991"
     }
   ]
 }
