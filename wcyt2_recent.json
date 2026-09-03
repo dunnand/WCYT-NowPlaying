@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-09-02T22:04:05",
+  "updatedAt": "2026-09-02T22:07:20",
   "now": {
-    "artist": "The Beatles",
-    "title": "Hello Goodbye",
-    "album": "single • 1967",
+    "artist": "Judee Sill",
+    "title": "The Kiss",
+    "album": "Heart Food • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 pm",
-      "artist": "Judee Sill",
-      "title": "The Kiss"
-    },
     {
       "time": "10:11 pm",
       "artist": "Portishead",
       "title": "Sour Times"
     },
     {
-      "time": "10:16 pm",
+      "time": "10:15 pm",
       "artist": "The Crests",
       "title": "Sixteen Candles"
     },
@@ -26,9 +21,20 @@
       "time": "10:18 pm",
       "artist": "Arctic Monkeys",
       "title": "Still Take You Home"
+    },
+    {
+      "time": "10:21 pm",
+      "artist": "The Beatles",
+      "title": "Everybody's Got Something to Hide Except Me and My Monkey"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 pm",
+      "artist": "Judee Sill",
+      "title": "The Kiss",
+      "album": "Heart Food • 1973"
+    },
     {
       "time": "10:04 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Time Trap",
       "album": "Keep It Like A Secret • 1999"
-    },
-    {
-      "time": "8:31 pm",
-      "artist": "Gorillaz",
-      "title": "Rhinestone Eyes",
-      "album": "Plastic Beach • 2010"
     }
   ]
 }
