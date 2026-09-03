@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T12:37:57",
+  "updatedAt": "2026-09-03T12:41:49",
   "now": {
-    "artist": "Superchunk",
-    "title": "Hello Hawk",
-    "album": "Come Pick Me Up • 1999",
-    "category": "TUNES"
+    "artist": "Fleetwood Mac",
+    "title": "Gypsy",
+    "album": "Mirage • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:41 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Gypsy"
-    },
     {
       "time": "12:46 pm",
       "artist": "The Go",
@@ -21,9 +16,20 @@
       "time": "12:49 pm",
       "artist": "Silk Sonic",
       "title": "Leave the Door Open"
+    },
+    {
+      "time": "12:53 pm",
+      "artist": "Lee \"Scratch\" Perry",
+      "title": "Disco Devil"
     }
   ],
   "recent": [
+    {
+      "time": "12:41 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Gypsy",
+      "album": "Mirage • 1982"
+    },
     {
       "time": "12:37 pm",
       "artist": "Superchunk",
@@ -167,12 +173,6 @@
       "artist": "The Staple Singers",
       "title": "Long Walk To D.C.",
       "album": "Soul Folk in Action • 1968"
-    },
-    {
-      "time": "11:07 am",
-      "artist": "T. Rex",
-      "title": "Children of the Revolution",
-      "album": "single • 1972"
     }
   ]
 }
