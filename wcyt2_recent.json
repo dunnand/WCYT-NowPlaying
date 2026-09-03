@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T17:00:48",
+  "updatedAt": "2026-09-03T17:03:48",
   "now": {
-    "artist": "Andrew W.K.",
-    "title": "Party Hard",
-    "album": "I Get Wet • 2001",
+    "artist": "The Beatles",
+    "title": "I Need You",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 pm",
-      "artist": "The Beatles",
-      "title": "I Need You"
-    },
     {
       "time": "5:06 pm",
       "artist": "Cat Stevens",
@@ -26,9 +21,20 @@
       "time": "5:13 pm",
       "artist": "Radiohead",
       "title": "Identikit"
+    },
+    {
+      "time": "5:18 pm",
+      "artist": "Aesop Rock",
+      "title": "Daylight"
     }
   ],
   "recent": [
+    {
+      "time": "5:03 pm",
+      "artist": "The Beatles",
+      "title": "I Need You",
+      "album": "Help! • 1965"
+    },
     {
       "time": "5:00 pm",
       "artist": "Andrew W.K.",
@@ -172,12 +178,6 @@
       "artist": "Nicki Minaj",
       "title": "Starships",
       "album": "Pink Friday: Roman Reloaded • 2012"
-    },
-    {
-      "time": "3:34 pm",
-      "artist": "Drake",
-      "title": "Forever",
-      "album": "Music Inspired by More than a Game • 2009"
     }
   ]
 }
