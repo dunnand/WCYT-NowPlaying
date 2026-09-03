@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T12:07:42",
+  "updatedAt": "2026-09-03T12:12:16",
   "now": {
-    "artist": "Justin Timberlake",
-    "title": "Mirrors",
-    "album": "The 20/20 Experience • 2013",
+    "artist": "Johnny Nash",
+    "title": "I Can See Clearly Now",
+    "album": "I Can See Clearly Now • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 pm",
-      "artist": "Johnny Nash",
-      "title": "I Can See Clearly Now"
-    },
     {
       "time": "12:14 pm",
       "artist": "Red Hot Chili Peppers",
@@ -26,9 +21,20 @@
       "time": "12:23 pm",
       "artist": "Coldplay",
       "title": "Yellow"
+    },
+    {
+      "time": "12:27 pm",
+      "artist": "Death Cab for Cutie",
+      "title": "The New Year"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 pm",
+      "artist": "Johnny Nash",
+      "title": "I Can See Clearly Now",
+      "album": "I Can See Clearly Now • 1972"
+    },
     {
       "time": "12:07 pm",
       "artist": "Justin Timberlake",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Check The Rhime",
       "album": "Check the Rhime • 1991"
-    },
-    {
-      "time": "10:34 am",
-      "artist": "Gorillaz",
-      "title": "Andromeda feat. D.R.A.M.",
-      "album": "Humanz • 2017"
     }
   ]
 }
