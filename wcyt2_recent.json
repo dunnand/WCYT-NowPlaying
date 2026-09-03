@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T02:59:39",
+  "updatedAt": "2026-09-03T03:01:56",
   "now": {
-    "artist": "The Beatles",
-    "title": "Everybody's Trying To Be My Baby",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Gram Parsons",
+    "title": "She",
+    "album": "GP • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:01 am",
-      "artist": "Gram Parsons",
-      "title": "She"
-    },
     {
       "time": "3:06 am",
       "artist": "Soul Asylum",
@@ -26,9 +21,20 @@
       "time": "3:14 am",
       "artist": "Bjork",
       "title": "Pagan Poetry"
+    },
+    {
+      "time": "3:20 am",
+      "artist": "Broken Social Scene",
+      "title": "Cause = Time"
     }
   ],
   "recent": [
+    {
+      "time": "3:01 am",
+      "artist": "Gram Parsons",
+      "title": "She",
+      "album": "GP • 1973"
+    },
     {
       "time": "2:59 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Soma",
       "album": "Siamese Dream • 1993"
-    },
-    {
-      "time": "1:18 am",
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "album": "Despicable Me 2 soundtrack • 2013"
     }
   ]
 }
