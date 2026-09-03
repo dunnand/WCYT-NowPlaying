@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T07:36:50",
+  "updatedAt": "2026-09-03T07:39:55",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Sweet Little Sixteen",
-    "album": "One Dozen Berrys • 1958",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "Good Woman",
+    "album": "You Are Free • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:39 am",
-      "artist": "Cat Power",
-      "title": "Good Woman"
-    },
     {
       "time": "7:43 am",
       "artist": "The Zombies",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:39 am",
+      "artist": "Cat Power",
+      "title": "Good Woman",
+      "album": "You Are Free • 2003"
+    },
     {
       "time": "7:36 am",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "The Ties That Bind",
       "album": "The River • 1980"
-    },
-    {
-      "time": "5:41 am",
-      "artist": "The Who",
-      "title": "Eminence Front",
-      "album": "It's Hard • 1982"
     }
   ]
 }
