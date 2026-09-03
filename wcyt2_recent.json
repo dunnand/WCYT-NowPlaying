@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T03:49:24",
+  "updatedAt": "2026-09-03T03:49:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "I Don't Want To Know",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "Fleetwood Mac",
-      "title": "I Don't Want To Know"
-    },
     {
       "time": "3:52 am",
       "artist": "The Who",
@@ -26,9 +21,20 @@
       "time": "4:03 am",
       "artist": "The Beatles",
       "title": "Ob-La-Di, Ob-La-Da"
+    },
+    {
+      "time": "4:07 am",
+      "artist": "The Clash",
+      "title": "Police & Thieves"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "Fleetwood Mac",
+      "title": "I Don't Want To Know",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "3:45 am",
       "artist": "Kenta Nagata, Satomi Terui",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Too Much Monkey Business",
       "album": "After School Session • 1957"
-    },
-    {
-      "time": "2:15 am",
-      "artist": "The Reverend Horton Heat",
-      "title": "Psychobilly Freakout",
-      "album": "Smoke 'em if You Got 'em • 1990"
     }
   ]
 }
