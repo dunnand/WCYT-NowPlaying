@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T06:27:29",
+  "updatedAt": "2026-09-03T06:27:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Sun King",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:27 am",
-      "artist": "The Beatles",
-      "title": "Sun King"
-    },
     {
       "time": "6:30 am",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:27 am",
+      "artist": "The Beatles",
+      "title": "Sun King",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "6:24 am",
       "artist": "Amadou & Mariam",
@@ -172,12 +173,6 @@
       "artist": "Toshiyuki Sudo",
       "title": "Personal Trainer: Cooking (Kitchen Song)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "4:39 am",
-      "artist": "The Church",
-      "title": "Under the Milky Way",
-      "album": "Under the Milky Way • 1988"
     }
   ]
 }
