@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T02:55:52",
+  "updatedAt": "2026-09-03T02:59:39",
   "now": {
-    "artist": "Common",
-    "title": "GO!",
-    "album": "Be • 2005",
+    "artist": "The Beatles",
+    "title": "Everybody's Trying To Be My Baby",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:59 am",
-      "artist": "The Beatles",
-      "title": "Everybody's Trying To Be My Baby"
-    },
     {
       "time": "3:01 am",
       "artist": "Gram Parsons",
@@ -26,9 +21,20 @@
       "time": "3:11 am",
       "artist": "Mike Posner",
       "title": "Cooler Than Me"
+    },
+    {
+      "time": "3:14 am",
+      "artist": "Bjork",
+      "title": "Pagan Poetry"
     }
   ],
   "recent": [
+    {
+      "time": "2:59 am",
+      "artist": "The Beatles",
+      "title": "Everybody's Trying To Be My Baby",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "2:55 am",
       "artist": "Common",
@@ -172,12 +178,6 @@
       "artist": "Pharrell Williams",
       "title": "Happy",
       "album": "Despicable Me 2 soundtrack • 2013"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "Bonnie 'Prince' Billy",
-      "title": "Cursed Sleep",
-      "album": "The Letting Go • 2006"
     }
   ]
 }
