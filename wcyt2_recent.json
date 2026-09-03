@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T05:06:17",
+  "updatedAt": "2026-09-03T05:12:03",
   "now": {
-    "artist": "Queen",
-    "title": "Bohemian Rhapsody",
-    "album": "A Night at the Opera • 1975",
+    "artist": "Pearl Jam",
+    "title": "In My Tree",
+    "album": "No Code • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:11 am",
-      "artist": "Pearl Jam",
-      "title": "In My Tree"
-    },
     {
       "time": "5:16 am",
       "artist": "Monotones",
@@ -21,9 +16,20 @@
       "time": "5:18 am",
       "artist": "Arctic Monkeys",
       "title": "505"
+    },
+    {
+      "time": "5:22 am",
+      "artist": "The Byrds",
+      "title": "Eight Miles High"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 am",
+      "artist": "Pearl Jam",
+      "title": "In My Tree",
+      "album": "No Code • 1996"
+    },
     {
       "time": "5:06 am",
       "artist": "Queen",
@@ -167,12 +173,6 @@
       "artist": "Scorpions",
       "title": "Wind Of Change",
       "album": "Crazy World • 1991"
-    },
-    {
-      "time": "3:31 am",
-      "artist": "Seatbelts",
-      "title": "Tank!",
-      "album": "Cowboy Bebop • 1998"
     }
   ]
 }
