@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T08:15:37",
+  "updatedAt": "2026-09-03T08:18:52",
   "now": {
-    "artist": "The Apples in Stereo",
-    "title": "Go",
-    "album": "The Discovery of a World Inside the Moone • 2000",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "Feral",
+    "album": "The King of Limbs • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:18 am",
-      "artist": "Radiohead",
-      "title": "Feral"
-    },
     {
       "time": "8:21 am",
       "artist": "Janis Joplin",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:18 am",
+      "artist": "Radiohead",
+      "title": "Feral",
+      "album": "The King of Limbs • 2011"
+    },
     {
       "time": "8:15 am",
       "artist": "The Apples in Stereo",
@@ -177,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Daydreaming",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "6:27 am",
-      "artist": "The Beatles",
-      "title": "Sun King",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
