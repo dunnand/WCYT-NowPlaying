@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T04:03:58",
+  "updatedAt": "2026-09-03T04:07:02",
   "now": {
-    "artist": "The Beatles",
-    "title": "Ob-La-Di, Ob-La-Da",
-    "album": "The Beatles • 1968",
+    "artist": "The Clash",
+    "title": "Police & Thieves",
+    "album": "The Clash • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:07 am",
-      "artist": "The Clash",
-      "title": "Police & Thieves"
-    },
     {
       "time": "4:12 am",
       "artist": "Tears For Fears",
@@ -26,9 +21,20 @@
       "time": "4:19 am",
       "artist": "Beyonce",
       "title": "Diva"
+    },
+    {
+      "time": "4:22 am",
+      "artist": "The Beatles",
+      "title": "I Am the Walrus"
     }
   ],
   "recent": [
+    {
+      "time": "4:07 am",
+      "artist": "The Clash",
+      "title": "Police & Thieves",
+      "album": "The Clash • 1977"
+    },
     {
       "time": "4:03 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Gold Soundz",
       "album": "Crooked Rain, Crooked Rain • 1994"
-    },
-    {
-      "time": "2:27 am",
-      "artist": "FUN.",
-      "title": "Carry On",
-      "album": "Some Nights • 2012"
     }
   ]
 }
