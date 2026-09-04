@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T15:53:53",
+  "updatedAt": "2026-09-04T15:54:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Only Yesterday",
+    "album": "Horizon • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:54 pm",
-      "artist": "The Carpenters",
-      "title": "Only Yesterday"
-    },
     {
       "time": "3:57 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "4:04 pm",
       "artist": "Pete Rock & C.L. Smooth",
       "title": "Straighten It Out"
+    },
+    {
+      "time": "4:08 pm",
+      "artist": "Impalas",
+      "title": "Sorry (I Ran All The Way Home)"
     }
   ],
   "recent": [
+    {
+      "time": "3:54 pm",
+      "artist": "The Carpenters",
+      "title": "Only Yesterday",
+      "album": "Horizon • 1975"
+    },
     {
       "time": "3:51 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Maroon 5",
       "title": "This Love",
       "album": "Songs About Jane • 2002"
-    },
-    {
-      "time": "2:11 pm",
-      "artist": "Daft Punk",
-      "title": "Television Rules the Nation",
-      "album": "Human After All • 2005"
     }
   ]
 }
