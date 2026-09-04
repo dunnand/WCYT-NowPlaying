@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T21:25:11",
+  "updatedAt": "2026-09-03T21:25:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "It's All in Your Mind",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:25 pm",
-      "artist": "Beck",
-      "title": "It's All in Your Mind"
-    },
     {
       "time": "9:28 pm",
       "artist": "Alicia Keys",
@@ -26,9 +21,20 @@
       "time": "9:35 pm",
       "artist": "Weezer",
       "title": "The World Has Turned and Left Me Here"
+    },
+    {
+      "time": "9:39 pm",
+      "artist": "The Afghan Whigs",
+      "title": "Uptown Again"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 pm",
+      "artist": "Beck",
+      "title": "It's All in Your Mind",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "9:22 pm",
       "artist": "Lizzo",
@@ -172,12 +178,6 @@
       "artist": "Todd Rundgren",
       "title": "Bang The Drum All Day",
       "album": "The Ever Popular Tortured Artist Effect • 1983"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Yellowman",
-      "title": "Zungguzungguguzungguzeng",
-      "album": "Mister Yellowman • 1982"
     }
   ]
 }
