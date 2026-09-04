@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T07:55:36",
+  "updatedAt": "2026-09-04T08:00:53",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "I'm a Cuckoo",
-    "album": "Dear Catastrophe Waitress • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "All I've Got To Do",
+    "album": "With the Beatles • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 am",
-      "artist": "The Beatles",
-      "title": "All I've Got To Do"
-    },
     {
       "time": "8:02 am",
       "artist": "Syd Barrett",
@@ -26,9 +21,20 @@
       "time": "8:11 am",
       "artist": "Miley Cyrus",
       "title": "Wrecking Ball"
+    },
+    {
+      "time": "8:15 am",
+      "artist": "El",
+      "title": "P - Stepfather Factory"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 am",
+      "artist": "The Beatles",
+      "title": "All I've Got To Do",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "7:55 am",
       "artist": "Belle and Sebastian",
@@ -172,12 +178,6 @@
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Jubilee Street",
       "album": "Push the Sky Away • 2013"
-    },
-    {
-      "time": "6:18 am",
-      "artist": "The Everly Brothers",
-      "title": "Love Hurts",
-      "album": "A Date with the Everly Brothers • 1960"
     }
   ]
 }
