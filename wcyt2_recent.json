@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T18:43:21",
+  "updatedAt": "2026-09-04T18:43:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Like a Hurricane",
+    "album": "American Stars n Bars • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:43 pm",
-      "artist": "Neil Young",
-      "title": "Like a Hurricane"
-    },
     {
       "time": "6:51 pm",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "6:59 pm",
       "artist": "The Beatles",
       "title": "Good Morning Good Morning"
+    },
+    {
+      "time": "7:01 pm",
+      "artist": "Rod Stewart",
+      "title": "The First Cut Is The Deepest"
     }
   ],
   "recent": [
+    {
+      "time": "6:43 pm",
+      "artist": "Neil Young",
+      "title": "Like a Hurricane",
+      "album": "American Stars n Bars • 1977"
+    },
     {
       "time": "6:40 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Bloom",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "5:05 pm",
-      "artist": "Pulp",
-      "title": "This.Is.Hardcore",
-      "album": "This Is Hardcore • 1998"
     }
   ]
 }
