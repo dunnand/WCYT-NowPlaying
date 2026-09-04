@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T18:54:25",
+  "updatedAt": "2026-09-04T18:59:12",
   "now": {
-    "artist": "Arcade Fire",
-    "title": "Neighborhood #1 (Tunnels)",
-    "album": "Funeral • 2004",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Good Morning Good Morning",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:59 pm",
-      "artist": "The Beatles",
-      "title": "Good Morning Good Morning"
-    },
     {
       "time": "7:01 pm",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "7:10 pm",
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child"
+    },
+    {
+      "time": "7:14 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Funny Little Frog"
     }
   ],
   "recent": [
+    {
+      "time": "6:59 pm",
+      "artist": "The Beatles",
+      "title": "Good Morning Good Morning",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "6:54 pm",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Everyone Hides",
       "album": "Ode to Joy • 2019"
-    },
-    {
-      "time": "5:26 pm",
-      "artist": "Beyonce",
-      "title": "Irreplaceable",
-      "album": "B-Day • 2006"
     }
   ]
 }
