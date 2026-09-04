@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T16:44:19",
+  "updatedAt": "2026-09-04T16:44:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Steely Dan",
+    "title": "Peg",
+    "album": "Aja • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 pm",
-      "artist": "Steely Dan",
-      "title": "Peg"
-    },
     {
       "time": "4:48 pm",
       "artist": "Steve Miller Band",
@@ -26,9 +21,20 @@
       "time": "4:56 pm",
       "artist": "The Beatles",
       "title": "I'm Only Sleeping"
+    },
+    {
+      "time": "4:59 pm",
+      "artist": "George Duke",
+      "title": "Dukey Stick"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 pm",
+      "artist": "Steely Dan",
+      "title": "Peg",
+      "album": "Aja • 1977"
+    },
     {
       "time": "4:40 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Olly Murs",
       "title": "Troublemaker",
       "album": "Right Place Right Time • 2012"
-    },
-    {
-      "time": "3:07 pm",
-      "artist": "Pantera",
-      "title": "Mouth for War",
-      "album": "Vulgar Display of Power • 1992"
     }
   ]
 }
