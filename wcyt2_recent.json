@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T02:53:19",
+  "updatedAt": "2026-09-04T02:56:24",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Radio, Radio",
-    "album": "This Year's Model • 1978",
+    "artist": "The Beatles",
+    "title": "Taxman",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 am",
-      "artist": "The Beatles",
-      "title": "Taxman"
-    },
     {
       "time": "2:58 am",
       "artist": "Eric Clapton",
@@ -26,9 +21,20 @@
       "time": "3:07 am",
       "artist": "Don Gibson",
       "title": "Blue Blue Day"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "Broken Social Scene",
+      "title": "Almost Crimes (Radio Kills remix)"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 am",
+      "artist": "The Beatles",
+      "title": "Taxman",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "2:53 am",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Decks Dark",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "Big Brother & The Holding Company",
-      "title": "Piece of My Heart",
-      "album": "Cheap Thrills • 1968"
     }
   ]
 }
