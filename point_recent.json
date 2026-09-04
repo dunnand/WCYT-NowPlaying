@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T12:30:41",
+  "updatedAt": "2026-09-04T12:34:45",
   "now": {
-    "artist": "Hatchie",
-    "title": "Sure",
-    "album": "Sugar & Spice • 2018",
+    "artist": "Cheekface",
+    "title": "Black Site",
+    "album": "Podium • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Cheekface",
-      "title": "Black Site"
-    },
     {
       "time": "12:37 pm",
       "artist": "Bon Iver",
@@ -26,9 +21,20 @@
       "time": "12:45 pm",
       "artist": "Cherry Glazerr",
       "title": "Grilled Cheese"
+    },
+    {
+      "time": "12:47 pm",
+      "artist": "Francis Of Delirium",
+      "title": "It's A Beautiful Life"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Cheekface",
+      "title": "Black Site",
+      "album": "Podium • 2026"
+    },
     {
       "time": "12:30 pm",
       "artist": "Hatchie",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Fall On Me",
       "album": "Lifes Rich Pageant • 1986"
-    },
-    {
-      "time": "10:59 am",
-      "artist": "Fontaines D.C.",
-      "title": "Marianne",
-      "album": "Dopamine Chamber • 2026"
     }
   ]
 }
