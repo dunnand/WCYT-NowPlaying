@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T20:05:00",
+  "updatedAt": "2026-09-03T20:07:55",
   "now": {
-    "artist": "The Beatles",
-    "title": "Cry Baby Cry",
-    "album": "The Beatles • 1968",
+    "artist": "David Bowie",
+    "title": "Fame",
+    "album": "Young Americans • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 pm",
-      "artist": "David Bowie",
-      "title": "Fame"
-    },
     {
       "time": "8:12 pm",
       "artist": "Oasis",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:07 pm",
+      "artist": "David Bowie",
+      "title": "Fame",
+      "album": "Young Americans • 1975"
+    },
     {
       "time": "8:05 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Mariah Carey",
       "title": "All I Want for Christmas Is You",
       "album": "Merry Christmas • 1994"
-    },
-    {
-      "time": "6:31 pm",
-      "artist": "Justin Bieber",
-      "title": "Baby",
-      "album": "My World 2.0 • 2010"
     }
   ]
 }
