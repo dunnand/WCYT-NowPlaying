@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T20:00:29",
+  "updatedAt": "2026-09-03T20:00:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sparks",
+    "title": "Beat the Clock",
+    "album": "No. 1 in Heaven • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "Sparks",
-      "title": "Beat the Clock"
-    },
     {
       "time": "8:05 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "8:12 pm",
       "artist": "Oasis",
       "title": "Live Forever"
+    },
+    {
+      "time": "8:16 pm",
+      "artist": "Tommy Edwards",
+      "title": "It's All In The Game"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "Sparks",
+      "title": "Beat the Clock",
+      "album": "No. 1 in Heaven • 1979"
+    },
     {
       "time": "7:56 pm",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "The Byrds",
       "title": "Hickory Wind",
       "album": "Sweetheart of the Rodeo • 1968"
-    },
-    {
-      "time": "6:26 pm",
-      "artist": "Aphex Twin",
-      "title": "Avril 14th",
-      "album": "Drukqs • 2001"
     }
   ]
 }
