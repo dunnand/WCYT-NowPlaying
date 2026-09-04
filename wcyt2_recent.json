@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T07:46:31",
+  "updatedAt": "2026-09-04T07:46:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Santana",
+    "title": "Samba Pa Ti",
+    "album": "Abraxas • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:46 am",
-      "artist": "Santana",
-      "title": "Samba Pa Ti"
-    },
     {
       "time": "7:51 am",
       "artist": "Supertramp",
@@ -26,9 +21,20 @@
       "time": "8:00 am",
       "artist": "The Beatles",
       "title": "All I've Got To Do"
+    },
+    {
+      "time": "8:02 am",
+      "artist": "Syd Barrett",
+      "title": "Baby Lemonade"
     }
   ],
   "recent": [
+    {
+      "time": "7:46 am",
+      "artist": "Santana",
+      "title": "Samba Pa Ti",
+      "album": "Abraxas • 1974"
+    },
     {
       "time": "7:42 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Bo Diddley",
       "title": "I'm A Man",
       "album": "Bo Diddley • 1958"
-    },
-    {
-      "time": "6:06 am",
-      "artist": "Fatboy Slim",
-      "title": "Praise You",
-      "album": "You've Come A Long Way Baby • 1998"
     }
   ]
 }
