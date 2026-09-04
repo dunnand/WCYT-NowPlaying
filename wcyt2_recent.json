@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-09-04T18:59:12",
+  "updatedAt": "2026-09-04T19:01:45",
   "now": {
-    "artist": "The Beatles",
-    "title": "Good Morning Good Morning",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Rod Stewart",
+    "title": "The First Cut Is The Deepest",
+    "album": "A Night on the Town • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:01 pm",
-      "artist": "Rod Stewart",
-      "title": "The First Cut Is The Deepest"
-    },
-    {
-      "time": "7:06 pm",
+      "time": "7:05 pm",
       "artist": "Sinead O'Connor",
       "title": "Nothing Compares 2 U"
     },
@@ -26,9 +21,20 @@
       "time": "7:14 pm",
       "artist": "Belle and Sebastian",
       "title": "Funny Little Frog"
+    },
+    {
+      "time": "7:17 pm",
+      "artist": "Electric Six",
+      "title": "Danger! High Voltage"
     }
   ],
   "recent": [
+    {
+      "time": "7:01 pm",
+      "artist": "Rod Stewart",
+      "title": "The First Cut Is The Deepest",
+      "album": "A Night on the Town • 1976"
+    },
     {
       "time": "6:59 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Queen",
       "title": "Innuendo",
       "album": "Innuendo • 1991"
-    },
-    {
-      "time": "5:30 pm",
-      "artist": "Wilco",
-      "title": "Everyone Hides",
-      "album": "Ode to Joy • 2019"
     }
   ]
 }
