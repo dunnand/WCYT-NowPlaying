@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T11:41:35",
+  "updatedAt": "2026-09-04T11:45:00",
   "now": {
-    "artist": "The Beatles",
-    "title": "Lucy In The Sky With Diamonds",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "John Travolta & Olivia Newton-John",
+    "title": "You're The One That I Want",
+    "album": "Grease: The Original Soundtrack from the Motion Picture • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:45 am",
-      "artist": "John Travolta & Olivia Newton",
-      "title": "John - You're The One That I Want"
-    },
     {
       "time": "11:47 am",
       "artist": "The Kinks",
@@ -23,7 +18,7 @@
       "title": "Warm Ways"
     },
     {
-      "time": "11:55 am",
+      "time": "11:54 am",
       "artist": "Meat Puppets",
       "title": "Violet Eyes"
     },
@@ -31,9 +26,20 @@
       "time": "11:58 am",
       "artist": "Link Wray & His Ray Men",
       "title": "Rumble"
+    },
+    {
+      "time": "12:01 pm",
+      "artist": "Common",
+      "title": "Testify"
     }
   ],
   "recent": [
+    {
+      "time": "11:45 am",
+      "artist": "John Travolta & Olivia Newton-John",
+      "title": "You're The One That I Want",
+      "album": "Grease: The Original Soundtrack from the Motion Picture • 1978"
+    },
     {
       "time": "11:41 am",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "She Came In Through The Bathroom Window",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "10:03 am",
-      "artist": "Camera Obscura",
-      "title": "Eighties Fan",
-      "album": "Biggest Bluest Hi-Fi • 2001"
     }
   ]
 }
