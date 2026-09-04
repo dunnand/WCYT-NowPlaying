@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T15:54:05",
+  "updatedAt": "2026-09-04T15:57:51",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Only Yesterday",
-    "album": "Horizon • 1975",
+    "artist": "The Beatles",
+    "title": "Here, There & Everywhere",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:57 pm",
-      "artist": "The Beatles",
-      "title": "Here, There & Everywhere"
-    },
     {
       "time": "4:00 pm",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "4:08 pm",
       "artist": "Impalas",
       "title": "Sorry (I Ran All The Way Home)"
+    },
+    {
+      "time": "4:11 pm",
+      "artist": "Coldplay",
+      "title": "In My Place"
     }
   ],
   "recent": [
+    {
+      "time": "3:57 pm",
+      "artist": "The Beatles",
+      "title": "Here, There & Everywhere",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "3:54 pm",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Harry Styles",
       "title": "Adore You",
       "album": "Fine Line • 2019"
-    },
-    {
-      "time": "2:16 pm",
-      "artist": "Maroon 5",
-      "title": "This Love",
-      "album": "Songs About Jane • 2002"
     }
   ]
 }
