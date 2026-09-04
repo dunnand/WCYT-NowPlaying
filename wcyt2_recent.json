@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T09:13:45",
+  "updatedAt": "2026-09-04T09:17:10",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "Where Are You Going",
-    "album": "Busted Stuff • 2002",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Somebody That I Used To Know",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:17 am",
-      "artist": "Elliott Smith",
-      "title": "Somebody That I Used To Know"
-    },
     {
       "time": "9:19 am",
       "artist": "Pitbull",
@@ -26,9 +21,20 @@
       "time": "9:28 am",
       "artist": "The Lemonheads",
       "title": "It's a Shame About Ray"
+    },
+    {
+      "time": "9:31 am",
+      "artist": "Air Supply",
+      "title": "All Out of Love"
     }
   ],
   "recent": [
+    {
+      "time": "9:17 am",
+      "artist": "Elliott Smith",
+      "title": "Somebody That I Used To Know",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "9:13 am",
       "artist": "Dave Matthews Band",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "4ÆM",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "7:39 am",
-      "artist": "Violent Femmes",
-      "title": "Gone Daddy Gone",
-      "album": "Violent Femmes • 1983"
     }
   ]
 }
