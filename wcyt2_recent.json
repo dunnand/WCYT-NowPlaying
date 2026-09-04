@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T20:00:40",
+  "updatedAt": "2026-09-03T20:05:00",
   "now": {
-    "artist": "Sparks",
-    "title": "Beat the Clock",
-    "album": "No. 1 in Heaven • 1979",
+    "artist": "The Beatles",
+    "title": "Cry Baby Cry",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:05 pm",
-      "artist": "The Beatles",
-      "title": "Cry Baby Cry"
-    },
     {
       "time": "8:08 pm",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "8:16 pm",
       "artist": "Tommy Edwards",
       "title": "It's All In The Game"
+    },
+    {
+      "time": "8:19 pm",
+      "artist": "Battles",
+      "title": "Atlas"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 pm",
+      "artist": "The Beatles",
+      "title": "Cry Baby Cry",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "8:00 pm",
       "artist": "Sparks",
@@ -172,12 +178,6 @@
       "artist": "Justin Bieber",
       "title": "Baby",
       "album": "My World 2.0 • 2010"
-    },
-    {
-      "time": "6:28 pm",
-      "artist": "The Byrds",
-      "title": "Hickory Wind",
-      "album": "Sweetheart of the Rodeo • 1968"
     }
   ]
 }
