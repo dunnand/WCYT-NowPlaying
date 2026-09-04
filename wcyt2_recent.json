@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T03:13:59",
+  "updatedAt": "2026-09-04T03:17:24",
   "now": {
-    "artist": "The Beatles",
-    "title": "She's Leaving Home",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Radiohead",
+    "title": "Glass Eyes",
+    "album": "A Moon Shaped Pool • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:17 am",
-      "artist": "Radiohead",
-      "title": "Glass Eyes"
-    },
     {
       "time": "3:20 am",
       "artist": "DJ Shadow",
@@ -21,9 +16,20 @@
       "time": "3:25 am",
       "artist": "Drive Like Jehu",
       "title": "Luau"
+    },
+    {
+      "time": "3:35 am",
+      "artist": "Billy Joel",
+      "title": "We Didn't Start The Fire"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 am",
+      "artist": "Radiohead",
+      "title": "Glass Eyes",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "3:13 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Audioslave",
       "title": "Cochise",
       "album": "Audioslave • 2002"
-    },
-    {
-      "time": "1:37 am",
-      "artist": "Superchunk",
-      "title": "Slack",
-      "album": "Superchunk •"
     }
   ]
 }
