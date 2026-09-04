@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T00:52:20",
+  "updatedAt": "2026-09-04T00:52:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Fernando",
+    "album": "Greatest Hits • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:52 am",
-      "artist": "ABBA",
-      "title": "Fernando"
-    },
     {
       "time": "12:56 am",
       "artist": "Tommy James & The Shondells",
@@ -31,9 +26,20 @@
       "time": "1:06 am",
       "artist": "Ray Charles",
       "title": "Mess Around"
+    },
+    {
+      "time": "1:09 am",
+      "artist": "Deftones",
+      "title": "Digital Bath"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 am",
+      "artist": "ABBA",
+      "title": "Fernando",
+      "album": "Greatest Hits • 1975"
+    },
     {
       "time": "12:50 am",
       "artist": "The Trashmen",
@@ -177,12 +183,6 @@
       "artist": "Air",
       "title": "Cherry Blossom Girl",
       "album": "Talkie Walkie • 2004"
-    },
-    {
-      "time": "11:16 pm",
-      "artist": "Danny & The Juniors",
-      "title": "At The Hop",
-      "album": "single • 1957"
     }
   ]
 }
