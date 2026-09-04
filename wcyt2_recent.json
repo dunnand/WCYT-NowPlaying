@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T20:07:55",
+  "updatedAt": "2026-09-03T20:12:09",
   "now": {
-    "artist": "David Bowie",
-    "title": "Fame",
-    "album": "Young Americans • 1975",
+    "artist": "Oasis",
+    "title": "Live Forever",
+    "album": "Definitely Maybe • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:12 pm",
-      "artist": "Oasis",
-      "title": "Live Forever"
-    },
     {
       "time": "8:16 pm",
       "artist": "Tommy Edwards",
@@ -21,9 +16,20 @@
       "time": "8:19 pm",
       "artist": "Battles",
       "title": "Atlas"
+    },
+    {
+      "time": "8:26 pm",
+      "artist": "The Beatles",
+      "title": "You Can't Do That"
     }
   ],
   "recent": [
+    {
+      "time": "8:12 pm",
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "album": "Definitely Maybe • 1994"
+    },
     {
       "time": "8:07 pm",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Modest Mouse",
       "title": "Convenient Parking",
       "album": "Lonesome Crowded West • 1998"
-    },
-    {
-      "time": "6:35 pm",
-      "artist": "Mariah Carey",
-      "title": "All I Want for Christmas Is You",
-      "album": "Merry Christmas • 1994"
     }
   ]
 }
