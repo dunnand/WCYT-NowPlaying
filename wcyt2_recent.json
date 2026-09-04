@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T21:56:21",
+  "updatedAt": "2026-09-03T21:56:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Witchy Woman",
+    "album": "Eagles • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 pm",
-      "artist": "Eagles",
-      "title": "Witchy Woman"
-    },
     {
       "time": "10:00 pm",
       "artist": "The Dave Clark Five",
@@ -26,9 +21,20 @@
       "time": "10:08 pm",
       "artist": "The Sonics",
       "title": "Psycho"
+    },
+    {
+      "time": "10:10 pm",
+      "artist": "The Beatles",
+      "title": "I Me Mine"
     }
   ],
   "recent": [
+    {
+      "time": "9:56 pm",
+      "artist": "Eagles",
+      "title": "Witchy Woman",
+      "album": "Eagles • 1972"
+    },
     {
       "time": "9:52 pm",
       "artist": "Koji Kondo",
@@ -172,12 +178,6 @@
       "artist": "Tommy Edwards",
       "title": "It's All In The Game",
       "album": "single • 1951"
-    },
-    {
-      "time": "8:12 pm",
-      "artist": "Oasis",
-      "title": "Live Forever",
-      "album": "Definitely Maybe • 1994"
     }
   ]
 }
