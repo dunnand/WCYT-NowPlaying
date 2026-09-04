@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T21:07:00",
+  "updatedAt": "2026-09-03T21:07:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Times Like These",
+    "album": "One by One • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "Foo Fighters",
-      "title": "Times Like These"
-    },
     {
       "time": "9:11 pm",
       "artist": "The Velvet Underground",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "Foo Fighters",
+      "title": "Times Like These",
+      "album": "One by One • 2002"
+    },
     {
       "time": "9:00 pm",
       "artist": "Led Zeppelin",
@@ -177,12 +178,6 @@
       "artist": "Bon Iver",
       "title": "Skinny Love",
       "album": "For Emma, Forever Ago • 2008"
-    },
-    {
-      "time": "7:16 pm",
-      "artist": "The Black Keys",
-      "title": "The Lengths",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
