@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T20:55:32",
+  "updatedAt": "2026-09-03T21:00:52",
   "now": {
-    "artist": "Free",
-    "title": "All Right Now",
-    "album": "Fire and Water • 1970",
+    "artist": "Led Zeppelin",
+    "title": "Fool in the Rain",
+    "album": "In Through the Out Door • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:00 pm",
-      "artist": "Led Zeppelin",
-      "title": "Fool in the Rain"
-    },
     {
       "time": "9:07 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "9:15 pm",
       "artist": "The Clash",
       "title": "Tommy Gun"
+    },
+    {
+      "time": "9:18 pm",
+      "artist": "Soundgarden",
+      "title": "Heretic"
     }
   ],
   "recent": [
+    {
+      "time": "9:00 pm",
+      "artist": "Led Zeppelin",
+      "title": "Fool in the Rain",
+      "album": "In Through the Out Door • 1979"
+    },
     {
       "time": "8:55 pm",
       "artist": "Free",
@@ -172,12 +178,6 @@
       "artist": "The Black Keys",
       "title": "The Lengths",
       "album": "Rubber Factory • 2004"
-    },
-    {
-      "time": "7:12 pm",
-      "artist": "Ke$ha",
-      "title": "Die Young",
-      "album": "Warrior • 2012"
     }
   ]
 }
