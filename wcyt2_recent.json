@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-09-03T23:36:12",
+  "updatedAt": "2026-09-03T23:38:26",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "I'm On Fire",
-    "album": "Born in the U.S.A. • 1985",
+    "artist": "Madonna",
+    "title": "Borderline",
+    "album": "Madonna • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:38 pm",
-      "artist": "Madonna",
-      "title": "Borderline"
-    },
     {
       "time": "11:42 pm",
       "artist": "Olivia Rodrigo",
       "title": "vampire"
     },
     {
-      "time": "11:46 pm",
+      "time": "11:45 pm",
       "artist": "Kansas",
       "title": "Dust In The Wind"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:38 pm",
+      "artist": "Madonna",
+      "title": "Borderline",
+      "album": "Madonna • 1983"
+    },
     {
       "time": "11:36 pm",
       "artist": "Bruce Springsteen",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "I Me Mine",
       "album": "Let It Be • 1970"
-    },
-    {
-      "time": "10:08 pm",
-      "artist": "The Sonics",
-      "title": "Psycho",
-      "album": "Here Are The Sonics!!! • 1965"
     }
   ]
 }
