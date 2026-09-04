@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T11:47:44",
+  "updatedAt": "2026-09-04T11:51:08",
   "now": {
-    "artist": "The Kinks",
-    "title": "Sunny Afternoon",
-    "album": "Face to Face • 1966",
+    "artist": "Fleetwood Mac",
+    "title": "Warm Ways",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:51 am",
-      "artist": "Fleetwood Mac",
-      "title": "Warm Ways"
-    },
     {
       "time": "11:54 am",
       "artist": "Meat Puppets",
@@ -26,9 +21,20 @@
       "time": "12:01 pm",
       "artist": "Common",
       "title": "Testify"
+    },
+    {
+      "time": "12:03 pm",
+      "artist": "The Byrds",
+      "title": "5D (Fifth Dimension)"
     }
   ],
   "recent": [
+    {
+      "time": "11:51 am",
+      "artist": "Fleetwood Mac",
+      "title": "Warm Ways",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "11:47 am",
       "artist": "The Kinks",
@@ -172,12 +178,6 @@
       "artist": "Le Tigre",
       "title": "Hot Topic",
       "album": "Le Tigre • 1999"
-    },
-    {
-      "time": "10:09 am",
-      "artist": "OK Go",
-      "title": "I Wont Let You Down",
-      "album": "Hungry Ghosts • 2014"
     }
   ]
 }
