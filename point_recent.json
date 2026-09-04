@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T00:01:20",
+  "updatedAt": "2026-09-04T00:01:42",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Big Thief",
+    "title": "Not",
+    "album": "Two Hands • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Big Thief",
-      "title": "Not"
-    },
     {
       "time": "12:07 am",
       "artist": "POLICA",
@@ -26,9 +21,20 @@
       "time": "12:14 am",
       "artist": "Horse Jumper Of Love",
       "title": "Heartbreak Rules"
+    },
+    {
+      "time": "12:16 am",
+      "artist": "Empath",
+      "title": "Passing Stranger"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Big Thief",
+      "title": "Not",
+      "album": "Two Hands • 2019"
+    },
     {
       "time": "11:55 pm",
       "artist": "Jack White",
@@ -172,12 +178,6 @@
       "artist": "Westside Cowboy",
       "title": "Paper Chains",
       "album": "It Goes On • 2026"
-    },
-    {
-      "time": "10:20 pm",
-      "artist": "Wishy",
-      "title": "Sensational",
-      "album": "Nature's Pill • 2026"
     }
   ]
 }
