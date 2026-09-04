@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T04:51:44",
+  "updatedAt": "2026-09-04T04:56:52",
   "now": {
-    "artist": "John Denver",
-    "title": "Sunshine On My Shoulders",
-    "album": "Poems, Prayers & Promises • 1971",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Paper Tiger",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:56 am",
-      "artist": "Beck",
-      "title": "Paper Tiger"
-    },
     {
       "time": "5:01 am",
       "artist": "One Direction",
@@ -31,9 +26,20 @@
       "time": "5:13 am",
       "artist": "Johnny Cash",
       "title": "Ballad Of A Teenage Queen"
+    },
+    {
+      "time": "5:15 am",
+      "artist": "Arcade Fire",
+      "title": "Windowsill"
     }
   ],
   "recent": [
+    {
+      "time": "4:56 am",
+      "artist": "Beck",
+      "title": "Paper Tiger",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "4:51 am",
       "artist": "John Denver",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "She's Leaving Home",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "3:09 am",
-      "artist": "Broken Social Scene",
-      "title": "Almost Crimes (Radio Kills remix)",
-      "album": "You Forgot It In People • 2002"
     }
   ]
 }
