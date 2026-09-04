@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T16:28:45",
+  "updatedAt": "2026-09-04T16:29:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Metallica",
+    "title": "One",
+    "album": "...And Justice for All • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:29 pm",
-      "artist": "Metallica",
-      "title": "One"
-    },
     {
       "time": "4:36 pm",
       "artist": "Neil Diamond",
@@ -26,9 +21,20 @@
       "time": "4:44 pm",
       "artist": "Steely Dan",
       "title": "Peg"
+    },
+    {
+      "time": "4:48 pm",
+      "artist": "Steve Miller Band",
+      "title": "Swingtown"
     }
   ],
   "recent": [
+    {
+      "time": "4:29 pm",
+      "artist": "Metallica",
+      "title": "One",
+      "album": "...And Justice for All • 1988"
+    },
     {
       "time": "4:24 pm",
       "artist": "Portishead",
@@ -172,12 +178,6 @@
       "artist": "Frank Ocean",
       "title": "Thinkin Bout You",
       "album": "channel ORANGE • 2012"
-    },
-    {
-      "time": "2:55 pm",
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "album": "A Rush of Blood to the Head • 2002"
     }
   ]
 }
