@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T04:03:35",
+  "updatedAt": "2026-09-04T04:05:30",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'm So Tired",
-    "album": "The Beatles • 1968",
+    "artist": "Jim Croce",
+    "title": "Bad, Bad Leroy Brown",
+    "album": "Life and Times • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 am",
-      "artist": "Jim Croce",
-      "title": "Bad, Bad Leroy Brown"
-    },
     {
       "time": "4:08 am",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "4:14 am",
       "artist": "DeVotchKa",
       "title": "How It Ends"
+    },
+    {
+      "time": "4:21 am",
+      "artist": "Tommy Roe",
+      "title": "Sweet Pea"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 am",
+      "artist": "Jim Croce",
+      "title": "Bad, Bad Leroy Brown",
+      "album": "Life and Times • 1973"
+    },
     {
       "time": "4:03 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Cranberries",
       "title": "When You're Gone",
       "album": "To The Faithful Departed • 1996"
-    },
-    {
-      "time": "2:17 am",
-      "artist": "Kamasi Washington",
-      "title": "Show Us the Way",
-      "album": "Heaven and Earth • 2018"
     }
   ]
 }
