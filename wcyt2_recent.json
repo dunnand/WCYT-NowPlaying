@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T16:29:17",
+  "updatedAt": "2026-09-04T16:36:39",
   "now": {
-    "artist": "Metallica",
-    "title": "One",
-    "album": "...And Justice for All • 1988",
+    "artist": "Neil Diamond",
+    "title": "Heartlight",
+    "album": "Heartlight • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:36 pm",
-      "artist": "Neil Diamond",
-      "title": "Heartlight"
-    },
     {
       "time": "4:40 pm",
       "artist": "Bleachers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:36 pm",
+      "artist": "Neil Diamond",
+      "title": "Heartlight",
+      "album": "Heartlight • 1982"
+    },
     {
       "time": "4:29 pm",
       "artist": "Metallica",
@@ -172,12 +173,6 @@
       "artist": "Billy Joel",
       "title": "Piano Man",
       "album": "Piano Man • 1973"
-    },
-    {
-      "time": "3:00 pm",
-      "artist": "Frank Ocean",
-      "title": "Thinkin Bout You",
-      "album": "channel ORANGE • 2012"
     }
   ]
 }
