@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T18:01:42",
+  "updatedAt": "2026-09-04T18:05:30",
   "now": {
-    "artist": "The Clash",
-    "title": "Clash Citry Rockers",
-    "album": "The Clash • 1979",
+    "artist": "The Beatles",
+    "title": "Don't Bother Me",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:05 pm",
-      "artist": "The Beatles",
-      "title": "Don't Bother Me"
-    },
     {
       "time": "6:07 pm",
       "artist": "Johnny Williams",
@@ -26,9 +21,20 @@
       "time": "6:13 pm",
       "artist": "The Crickets",
       "title": "Not Fade Away"
+    },
+    {
+      "time": "6:15 pm",
+      "artist": "Arcade Fire",
+      "title": "Haiti"
     }
   ],
   "recent": [
+    {
+      "time": "6:05 pm",
+      "artist": "The Beatles",
+      "title": "Don't Bother Me",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "6:01 pm",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Taio Cruz",
       "title": "Dynamite",
       "album": "Rokstarr • 2011"
-    },
-    {
-      "time": "4:15 pm",
-      "artist": "The Beatles",
-      "title": "I Wanna Be Your Man",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
