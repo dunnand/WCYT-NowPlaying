@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T22:08:17",
+  "updatedAt": "2026-09-03T22:10:21",
   "now": {
-    "artist": "The Sonics",
-    "title": "Psycho",
-    "album": "Here Are The Sonics!!! • 1965",
+    "artist": "The Beatles",
+    "title": "I Me Mine",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "The Beatles",
-      "title": "I Me Mine"
-    },
     {
       "time": "10:12 pm",
       "artist": "Air",
@@ -26,9 +21,20 @@
       "time": "10:22 pm",
       "artist": "Black Eyed Peas",
       "title": "I Got A Feeling"
+    },
+    {
+      "time": "10:26 pm",
+      "artist": "The Beatles",
+      "title": "Fixing A Hole"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "The Beatles",
+      "title": "I Me Mine",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "10:08 pm",
       "artist": "The Sonics",
@@ -172,12 +178,6 @@
       "artist": "Ride",
       "title": "Leave Them All Behind",
       "album": "Going Blank Again • 1992"
-    },
-    {
-      "time": "8:29 pm",
-      "artist": "The Highwomen",
-      "title": "Crowded Table",
-      "album": "The Highwomen • 2019"
     }
   ]
 }
