@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T22:38:31",
+  "updatedAt": "2026-09-03T22:38:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "American Football",
+    "title": "Never Meant",
+    "album": "American Football • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:38 pm",
-      "artist": "American Football",
-      "title": "Never Meant"
-    },
     {
       "time": "10:43 pm",
       "artist": "Queen Latifah",
@@ -26,9 +21,20 @@
       "time": "10:50 pm",
       "artist": "Olivia Rodrigo",
       "title": "traitor"
+    },
+    {
+      "time": "10:53 pm",
+      "artist": "Bob Dylan",
+      "title": "Summer Days"
     }
   ],
   "recent": [
+    {
+      "time": "10:38 pm",
+      "artist": "American Football",
+      "title": "Never Meant",
+      "album": "American Football • 1999"
+    },
     {
       "time": "10:34 pm",
       "artist": "All-4-One",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "Times Like These",
       "album": "One by One • 2002"
-    },
-    {
-      "time": "9:00 pm",
-      "artist": "Led Zeppelin",
-      "title": "Fool in the Rain",
-      "album": "In Through the Out Door • 1979"
     }
   ]
 }
