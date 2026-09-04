@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T01:01:46",
+  "updatedAt": "2026-09-04T01:06:46",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Human Touch",
-    "album": "Human Touch • 1992",
+    "artist": "Ray Charles",
+    "title": "Mess Around",
+    "album": "single • 1953",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "Ray Charles",
-      "title": "Mess Around"
-    },
     {
       "time": "1:09 am",
       "artist": "Deftones",
@@ -26,9 +21,20 @@
       "time": "1:17 am",
       "artist": "Radiohead",
       "title": "Decks Dark"
+    },
+    {
+      "time": "1:22 am",
+      "artist": "Celine Dion",
+      "title": "If You Asked Me To"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "Ray Charles",
+      "title": "Mess Around",
+      "album": "single • 1953"
+    },
     {
       "time": "1:01 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Blaze Foley",
       "title": "If I Could Only Fly",
       "album": "Live at the Austin Outhouse • 1999"
-    },
-    {
-      "time": "11:28 pm",
-      "artist": "Backstreet Boys",
-      "title": "Everybody (Backstreet's Back)",
-      "album": "Backstreet's Back • 1997"
     }
   ]
 }
