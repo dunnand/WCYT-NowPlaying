@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T21:07:12",
+  "updatedAt": "2026-09-03T21:11:28",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Times Like These",
-    "album": "One by One • 2002",
+    "artist": "The Velvet Underground",
+    "title": "Candy Says",
+    "album": "The Velvet Underground • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "The Velvet Underground",
-      "title": "Candy Says"
-    },
     {
       "time": "9:15 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "9:22 pm",
       "artist": "Lizzo",
       "title": "Truth Hurts"
+    },
+    {
+      "time": "9:25 pm",
+      "artist": "Beck",
+      "title": "It's All in Your Mind"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "The Velvet Underground",
+      "title": "Candy Says",
+      "album": "The Velvet Underground • 1969"
+    },
     {
       "time": "9:07 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "American Dream",
       "album": "American Dream • 2017"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "Bon Iver",
-      "title": "Skinny Love",
-      "album": "For Emma, Forever Ago • 2008"
     }
   ]
 }
