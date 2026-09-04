@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-09-04T13:52:30",
+  "updatedAt": "2026-09-04T14:00:25",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Us and Them",
-    "album": "The Dark Side of the Moon • 1973",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "R U Mine?",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "2:00 pm",
-      "artist": "Cut Copy",
-      "title": "Hearts On Fire"
-    },
-    {
-      "time": "2:04 pm",
+      "time": "2:03 pm",
       "artist": "The Shangri",
       "title": "Las - Give Him A Great Big Kiss"
     },
     {
-      "time": "2:06 pm",
+      "time": "2:05 pm",
       "artist": "King Floyd",
       "title": "Groove Me"
     },
     {
-      "time": "2:09 pm",
+      "time": "2:08 pm",
       "artist": "Ned's Atomic Dustbin",
       "title": "Grey Cell Green"
+    },
+    {
+      "time": "2:12 pm",
+      "artist": "Harry Styles",
+      "title": "Adore You"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "Arctic Monkeys",
+      "title": "R U Mine?",
+      "album": "AM • 2013"
+    },
     {
       "time": "1:52 pm",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "The Byrds",
       "title": "5D (Fifth Dimension)",
       "album": "Fifth Dimension • 1966"
-    },
-    {
-      "time": "12:01 pm",
-      "artist": "Common",
-      "title": "Testify",
-      "album": "Be • 2005"
     }
   ]
 }
