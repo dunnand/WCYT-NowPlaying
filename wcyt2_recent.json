@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T19:43:02",
+  "updatedAt": "2026-09-04T19:43:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Tumbling Dice",
+    "album": "Exile on Main St. • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 pm",
-      "artist": "Rolling Stones",
-      "title": "Tumbling Dice"
-    },
     {
       "time": "7:46 pm",
       "artist": "The Troggs",
@@ -26,9 +21,20 @@
       "time": "7:52 pm",
       "artist": "The Beatles",
       "title": "Every Little Thing"
+    },
+    {
+      "time": "7:54 pm",
+      "artist": "T. Rex",
+      "title": "Mambo Sun"
     }
   ],
   "recent": [
+    {
+      "time": "7:43 pm",
+      "artist": "Rolling Stones",
+      "title": "Tumbling Dice",
+      "album": "Exile on Main St. • 1972"
+    },
     {
       "time": "7:39 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "The Crickets",
       "title": "Not Fade Away",
       "album": "The Chirping Crickets • 1957"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "Rancid",
-      "title": "Ruby Soho",
-      "album": "...And Out Come the Wolves • 1995"
     }
   ]
 }
