@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T02:56:24",
+  "updatedAt": "2026-09-04T02:58:49",
   "now": {
-    "artist": "The Beatles",
-    "title": "Taxman",
-    "album": "Revolver • 1966",
+    "artist": "Eric Clapton",
+    "title": "Wonderful Tonight",
+    "album": "Slowhand • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:58 am",
-      "artist": "Eric Clapton",
-      "title": "Wonderful Tonight"
-    },
     {
       "time": "3:02 am",
       "artist": "Deftones",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:58 am",
+      "artist": "Eric Clapton",
+      "title": "Wonderful Tonight",
+      "album": "Slowhand • 1978"
+    },
     {
       "time": "2:56 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Celine Dion",
       "title": "If You Asked Me To",
       "album": "Celine Dion • 1992"
-    },
-    {
-      "time": "1:17 am",
-      "artist": "Radiohead",
-      "title": "Decks Dark",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
