@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T08:53:20",
+  "updatedAt": "2026-09-04T08:58:59",
   "now": {
-    "artist": "The Kinks",
-    "title": "20th Century Man",
-    "album": "Muswell Hillbillies • 1971",
+    "artist": "The Beatles",
+    "title": "Rock and Roll Music",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:58 am",
-      "artist": "The Beatles",
-      "title": "Rock and Roll Music"
-    },
     {
       "time": "9:01 am",
       "artist": "The Specials",
@@ -26,9 +21,20 @@
       "time": "9:08 am",
       "artist": "Moses Sumney",
       "title": "Bless Me"
+    },
+    {
+      "time": "9:13 am",
+      "artist": "Dave Matthews Band",
+      "title": "Where Are You Going"
     }
   ],
   "recent": [
+    {
+      "time": "8:58 am",
+      "artist": "The Beatles",
+      "title": "Rock and Roll Music",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "8:53 am",
       "artist": "The Kinks",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Little by Little",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "The Lovin' Spoonful",
-      "title": "You Didn't Have to Be So Nice",
-      "album": "Daydream • 1966"
     }
   ]
 }
