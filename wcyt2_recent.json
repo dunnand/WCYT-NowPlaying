@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T00:52:42",
+  "updatedAt": "2026-09-04T00:56:38",
   "now": {
-    "artist": "ABBA",
-    "title": "Fernando",
-    "album": "Greatest Hits • 1975",
+    "artist": "Tommy James & The Shondells",
+    "title": "I Think We're Alone Now",
+    "album": "I Think We're Alone Now • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:56 am",
-      "artist": "Tommy James & The Shondells",
-      "title": "I Think We're Alone Now"
-    },
     {
       "time": "12:58 am",
       "artist": "Barry Manilow",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:56 am",
+      "artist": "Tommy James & The Shondells",
+      "title": "I Think We're Alone Now",
+      "album": "I Think We're Alone Now • 1967"
+    },
     {
       "time": "12:52 am",
       "artist": "ABBA",
@@ -177,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Till There Was You",
       "album": "With the Beatles • 1963"
-    },
-    {
-      "time": "11:19 pm",
-      "artist": "Air",
-      "title": "Cherry Blossom Girl",
-      "album": "Talkie Walkie • 2004"
     }
   ]
 }
