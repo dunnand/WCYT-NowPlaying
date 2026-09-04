@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T00:58:39",
+  "updatedAt": "2026-09-04T01:01:46",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "Can't Smile Without You",
-    "album": "Even Now • 1978",
+    "artist": "Bruce Springsteen",
+    "title": "Human Touch",
+    "album": "Human Touch • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Bruce Springsteen",
-      "title": "Human Touch"
-    },
     {
       "time": "1:06 am",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "1:13 am",
       "artist": "Big Brother & The Holding Company",
       "title": "Piece of My Heart"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "Radiohead",
+      "title": "Decks Dark"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Bruce Springsteen",
+      "title": "Human Touch",
+      "album": "Human Touch • 1992"
+    },
     {
       "time": "12:58 am",
       "artist": "Barry Manilow",
@@ -172,12 +178,6 @@
       "artist": "Backstreet Boys",
       "title": "Everybody (Backstreet's Back)",
       "album": "Backstreet's Back • 1997"
-    },
-    {
-      "time": "11:25 pm",
-      "artist": "M.I.A.",
-      "title": "Go Off",
-      "album": "AIM • 2016"
     }
   ]
 }
