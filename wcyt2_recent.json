@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T13:48:16",
+  "updatedAt": "2026-09-04T13:52:30",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "A Case of You",
-    "album": "Blue • 1971",
+    "artist": "Pink Floyd",
+    "title": "Us and Them",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:52 pm",
-      "artist": "Pink Floyd",
-      "title": "Us and Them"
-    },
     {
       "time": "2:00 pm",
       "artist": "Cut Copy",
@@ -26,9 +21,20 @@
       "time": "2:06 pm",
       "artist": "King Floyd",
       "title": "Groove Me"
+    },
+    {
+      "time": "2:09 pm",
+      "artist": "Ned's Atomic Dustbin",
+      "title": "Grey Cell Green"
     }
   ],
   "recent": [
+    {
+      "time": "1:52 pm",
+      "artist": "Pink Floyd",
+      "title": "Us and Them",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "1:48 pm",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Common",
       "title": "Testify",
       "album": "Be • 2005"
-    },
-    {
-      "time": "11:58 am",
-      "artist": "Link Wray & His Ray Men",
-      "title": "Rumble",
-      "album": "single • 1958"
     }
   ]
 }
