@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T01:43:54",
+  "updatedAt": "2026-09-04T01:44:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bill Withers",
+    "title": "Lean on Me",
+    "album": "Still Bill • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:44 am",
-      "artist": "Bill Withers",
-      "title": "Lean on Me"
-    },
     {
       "time": "1:48 am",
       "artist": "At the Drive",
@@ -31,9 +26,20 @@
       "time": "1:59 am",
       "artist": "Coolio",
       "title": "Fantastic Voyage"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Lady Gaga",
+      "title": "Born This Way"
     }
   ],
   "recent": [
+    {
+      "time": "1:44 am",
+      "artist": "Bill Withers",
+      "title": "Lean on Me",
+      "album": "Still Bill • 1972"
+    },
     {
       "time": "1:40 am",
       "artist": "Audioslave",
@@ -177,12 +183,6 @@
       "artist": "Fugazi",
       "title": "Cashout",
       "album": "The Argument • 2001"
-    },
-    {
-      "time": "12:02 am",
-      "artist": "LCD Soundsystem",
-      "title": "Call the Police",
-      "album": "American Dream • 2017"
     }
   ]
 }
