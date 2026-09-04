@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T08:00:53",
+  "updatedAt": "2026-09-04T08:02:40",
   "now": {
-    "artist": "The Beatles",
-    "title": "All I've Got To Do",
-    "album": "With the Beatles • 1963",
+    "artist": "Syd Barrett",
+    "title": "Baby Lemonade",
+    "album": "Barrett • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 am",
-      "artist": "Syd Barrett",
-      "title": "Baby Lemonade"
-    },
     {
       "time": "8:06 am",
       "artist": "Goo Goo Dolls",
@@ -26,9 +21,20 @@
       "time": "8:15 am",
       "artist": "El",
       "title": "P - Stepfather Factory"
+    },
+    {
+      "time": "8:18 am",
+      "artist": "Elbow",
+      "title": "Station Approach"
     }
   ],
   "recent": [
+    {
+      "time": "8:02 am",
+      "artist": "Syd Barrett",
+      "title": "Baby Lemonade",
+      "album": "Barrett • 1970"
+    },
     {
       "time": "8:00 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Fiona Apple",
       "title": "Criminal",
       "album": "Tidal • 1996"
-    },
-    {
-      "time": "6:20 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Jubilee Street",
-      "album": "Push the Sky Away • 2013"
     }
   ]
 }
