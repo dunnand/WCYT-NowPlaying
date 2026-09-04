@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T05:51:12",
+  "updatedAt": "2026-09-04T05:51:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kenny Rogers",
+    "title": "Lucille",
+    "album": "Kenny Rogers • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:51 am",
-      "artist": "Kenny Rogers",
-      "title": "Lucille"
-    },
     {
       "time": "5:54 am",
       "artist": "Clap Your Hands Say Yeah",
@@ -31,9 +26,20 @@
       "time": "6:06 am",
       "artist": "Fatboy Slim",
       "title": "Praise You"
+    },
+    {
+      "time": "6:12 am",
+      "artist": "Bo Diddley",
+      "title": "I'm A Man"
     }
   ],
   "recent": [
+    {
+      "time": "5:51 am",
+      "artist": "Kenny Rogers",
+      "title": "Lucille",
+      "album": "Kenny Rogers • 1977"
+    },
     {
       "time": "5:46 am",
       "artist": "Elbow",
@@ -177,12 +183,6 @@
       "artist": "Elvis Presley",
       "title": "Heartbreak Hotel",
       "album": "single • 1956"
-    },
-    {
-      "time": "4:08 am",
-      "artist": "Eagles",
-      "title": "Love Will Keep Us Alive",
-      "album": "Hell Freezes Over • 1994"
     }
   ]
 }
