@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T19:51:55",
+  "updatedAt": "2026-09-04T19:53:48",
   "now": {
-    "artist": "The Beatles",
-    "title": "Every Little Thing",
-    "album": "Beatles for Sale • 1964",
+    "artist": "T. Rex",
+    "title": "Mambo Sun",
+    "album": "Electric Warrior • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:53 pm",
-      "artist": "T. Rex",
-      "title": "Mambo Sun"
-    },
     {
       "time": "7:57 pm",
       "artist": "Smog",
@@ -23,12 +18,23 @@
       "title": "Peggy Sue"
     },
     {
-      "time": "8:04 pm",
+      "time": "8:03 pm",
       "artist": "Boards of Canada",
       "title": "Music Is Math"
+    },
+    {
+      "time": "8:09 pm",
+      "artist": "The Beatles",
+      "title": "Being For The Benefit Of Mr. Kite!"
     }
   ],
   "recent": [
+    {
+      "time": "7:53 pm",
+      "artist": "T. Rex",
+      "title": "Mambo Sun",
+      "album": "Electric Warrior • 1971"
+    },
     {
       "time": "7:51 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Rolling Stones",
       "title": "Love Is Strong",
       "album": "Voodoo Lounge • 1994"
-    },
-    {
-      "time": "6:22 pm",
-      "artist": "Vampire Weekend",
-      "title": "Diane Young",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
