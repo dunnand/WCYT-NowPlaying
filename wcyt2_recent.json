@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T10:09:47",
+  "updatedAt": "2026-09-04T10:13:25",
   "now": {
-    "artist": "OK Go",
-    "title": "I Wont Let You Down",
-    "album": "Hungry Ghosts • 2014",
-    "category": "AUDIO"
+    "artist": "Le Tigre",
+    "title": "Hot Topic",
+    "album": "Le Tigre • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:13 am",
-      "artist": "Le Tigre",
-      "title": "Hot Topic"
-    },
     {
       "time": "10:17 am",
       "artist": "Lucinda Williams",
@@ -21,9 +16,20 @@
       "time": "10:21 am",
       "artist": "Bad Brains",
       "title": "I Against I"
+    },
+    {
+      "time": "10:24 am",
+      "artist": "Black Flag",
+      "title": "Gimmie Gimmie Gimmie"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 am",
+      "artist": "Le Tigre",
+      "title": "Hot Topic",
+      "album": "Le Tigre • 1999"
+    },
     {
       "time": "10:09 am",
       "artist": "OK Go",
@@ -167,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "After Hours",
       "album": "The Velvet Underground • 1969"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "The Band",
-      "title": "It Makes No Difference",
-      "album": "Northern Lights - Southern Cross • 1975"
     }
   ]
 }
