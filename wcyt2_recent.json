@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-03T20:55:20",
+  "updatedAt": "2026-09-03T20:55:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Free",
+    "title": "All Right Now",
+    "album": "Fire and Water • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 pm",
-      "artist": "Free",
-      "title": "All Right Now"
-    },
     {
       "time": "9:00 pm",
       "artist": "Led Zeppelin",
@@ -26,9 +21,20 @@
       "time": "9:11 pm",
       "artist": "The Velvet Underground",
       "title": "Candy Says"
+    },
+    {
+      "time": "9:15 pm",
+      "artist": "The Clash",
+      "title": "Tommy Gun"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 pm",
+      "artist": "Free",
+      "title": "All Right Now",
+      "album": "Fire and Water • 1970"
+    },
     {
       "time": "8:52 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Ke$ha",
       "title": "Die Young",
       "album": "Warrior • 2012"
-    },
-    {
-      "time": "7:10 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "The King of Carrot Flowers Pt. One",
-      "album": "In The Aeroplane Over The Sea • 1998"
     }
   ]
 }
