@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T09:13:35",
+  "updatedAt": "2026-09-04T09:13:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dave Matthews Band",
+    "title": "Where Are You Going",
+    "album": "Busted Stuff • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:13 am",
-      "artist": "Dave Matthews Band",
-      "title": "Where Are You Going"
-    },
     {
       "time": "9:17 am",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "9:23 am",
       "artist": "Lauryn Hill",
       "title": "Everything Is Everything"
+    },
+    {
+      "time": "9:28 am",
+      "artist": "The Lemonheads",
+      "title": "It's a Shame About Ray"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 am",
+      "artist": "Dave Matthews Band",
+      "title": "Where Are You Going",
+      "album": "Busted Stuff • 2002"
+    },
     {
       "time": "9:08 am",
       "artist": "Moses Sumney",
@@ -172,12 +178,6 @@
       "artist": "Violent Femmes",
       "title": "Gone Daddy Gone",
       "album": "Violent Femmes • 1983"
-    },
-    {
-      "time": "7:30 am",
-      "artist": "The Fall",
-      "title": "Garden",
-      "album": "Perverted by Language • 1983"
     }
   ]
 }
