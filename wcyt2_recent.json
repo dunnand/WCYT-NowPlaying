@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T11:45:00",
+  "updatedAt": "2026-09-04T11:47:44",
   "now": {
-    "artist": "John Travolta & Olivia Newton-John",
-    "title": "You're The One That I Want",
-    "album": "Grease: The Original Soundtrack from the Motion Picture • 1978",
+    "artist": "The Kinks",
+    "title": "Sunny Afternoon",
+    "album": "Face to Face • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 am",
-      "artist": "The Kinks",
-      "title": "Sunny Afternoon"
-    },
     {
       "time": "11:51 am",
       "artist": "Fleetwood Mac",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:47 am",
+      "artist": "The Kinks",
+      "title": "Sunny Afternoon",
+      "album": "Face to Face • 1966"
+    },
     {
       "time": "11:45 am",
       "artist": "John Travolta & Olivia Newton-John",
@@ -177,12 +178,6 @@
       "artist": "OK Go",
       "title": "I Wont Let You Down",
       "album": "Hungry Ghosts • 2014"
-    },
-    {
-      "time": "10:07 am",
-      "artist": "The Beatles",
-      "title": "She Came In Through The Bathroom Window",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
