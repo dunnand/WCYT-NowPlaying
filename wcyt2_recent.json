@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T02:28:19",
+  "updatedAt": "2026-09-04T02:34:17",
   "now": {
-    "artist": "David Bowie",
-    "title": "Little Wonder",
-    "album": "Earthling • 1997",
+    "artist": "Tom Waits",
+    "title": "Time",
+    "album": "Rain Dogs • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:34 am",
-      "artist": "Tom Waits",
-      "title": "Time"
-    },
     {
       "time": "2:38 am",
       "artist": "Zapp",
@@ -21,9 +16,20 @@
       "time": "2:42 am",
       "artist": "Turnstile",
       "title": "ALIEN LOVE CALL (feat. Blood Orange)"
+    },
+    {
+      "time": "2:45 am",
+      "artist": "Bruce Springsteen",
+      "title": "Darkness on the Edge of Town"
     }
   ],
   "recent": [
+    {
+      "time": "2:34 am",
+      "artist": "Tom Waits",
+      "title": "Time",
+      "album": "Rain Dogs • 1985"
+    },
     {
       "time": "2:28 am",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Tommy James & The Shondells",
       "title": "I Think We're Alone Now",
       "album": "I Think We're Alone Now • 1967"
-    },
-    {
-      "time": "12:52 am",
-      "artist": "ABBA",
-      "title": "Fernando",
-      "album": "Greatest Hits • 1975"
     }
   ]
 }
