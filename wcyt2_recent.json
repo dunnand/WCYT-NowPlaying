@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T11:26:54",
+  "updatedAt": "2026-09-04T11:30:51",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Shakedown",
-    "album": "Beverly Hills Cop II Soundtrack • 1987",
+    "artist": "Bon Jovi",
+    "title": "Livin' On A Prayer",
+    "album": "Slippery When Wet • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:30 am",
-      "artist": "Bon Jovi",
-      "title": "Livin' On A Prayer"
-    },
     {
       "time": "11:34 am",
       "artist": "Thundercat",
@@ -21,9 +16,20 @@
       "time": "11:36 am",
       "artist": "Elton John",
       "title": "Saturday Night's Alright for Fighting"
+    },
+    {
+      "time": "11:41 am",
+      "artist": "The Beatles",
+      "title": "Lucy In The Sky With Diamonds"
     }
   ],
   "recent": [
+    {
+      "time": "11:30 am",
+      "artist": "Bon Jovi",
+      "title": "Livin' On A Prayer",
+      "album": "Slippery When Wet • 1986"
+    },
     {
       "time": "11:26 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -167,12 +173,6 @@
       "artist": "Lipps Inc.",
       "title": "Funky Town",
       "album": "Mouth to Mouth • 1979"
-    },
-    {
-      "time": "9:51 am",
-      "artist": "The Beatles",
-      "title": "Not A Second Time",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
