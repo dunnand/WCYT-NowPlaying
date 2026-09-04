@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T05:09:30",
+  "updatedAt": "2026-09-04T05:13:27",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "Change The World",
-    "album": "Phenomenon {soundtrack} • 1996",
+    "artist": "Johnny Cash",
+    "title": "Ballad Of A Teenage Queen",
+    "album": "Ballad Of A Teenage Queen • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:13 am",
-      "artist": "Johnny Cash",
-      "title": "Ballad Of A Teenage Queen"
-    },
     {
       "time": "5:15 am",
       "artist": "Arcade Fire",
@@ -21,9 +16,20 @@
       "time": "5:22 am",
       "artist": "LCD Soundsystem",
       "title": "I Can Change"
+    },
+    {
+      "time": "5:28 am",
+      "artist": "Erykah Badu",
+      "title": "Appletree"
     }
   ],
   "recent": [
+    {
+      "time": "5:13 am",
+      "artist": "Johnny Cash",
+      "title": "Ballad Of A Teenage Queen",
+      "album": "Ballad Of A Teenage Queen • 1958"
+    },
     {
       "time": "5:09 am",
       "artist": "Eric Clapton",
@@ -167,12 +173,6 @@
       "artist": "Billy Joel",
       "title": "We Didn't Start The Fire",
       "album": "Storm Front • 1989"
-    },
-    {
-      "time": "3:25 am",
-      "artist": "Drive Like Jehu",
-      "title": "Luau",
-      "album": "Yank Crime • 1994"
     }
   ]
 }
