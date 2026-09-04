@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T19:43:12",
+  "updatedAt": "2026-09-04T19:46:36",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Tumbling Dice",
-    "album": "Exile on Main St. • 1972",
+    "artist": "The Troggs",
+    "title": "Wild Thing",
+    "album": "Wild Thing • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:46 pm",
-      "artist": "The Troggs",
-      "title": "Wild Thing"
-    },
     {
       "time": "7:49 pm",
       "artist": "Stevie Wonder",
@@ -23,12 +18,23 @@
       "title": "Every Little Thing"
     },
     {
-      "time": "7:54 pm",
+      "time": "7:53 pm",
       "artist": "T. Rex",
       "title": "Mambo Sun"
+    },
+    {
+      "time": "7:57 pm",
+      "artist": "Smog",
+      "title": "Cold Blooded Old Times"
     }
   ],
   "recent": [
+    {
+      "time": "7:46 pm",
+      "artist": "The Troggs",
+      "title": "Wild Thing",
+      "album": "Wild Thing • 1966"
+    },
     {
       "time": "7:43 pm",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Haiti",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "6:13 pm",
-      "artist": "The Crickets",
-      "title": "Not Fade Away",
-      "album": "The Chirping Crickets • 1957"
     }
   ]
 }
