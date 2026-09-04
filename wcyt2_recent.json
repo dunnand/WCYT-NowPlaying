@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T18:43:33",
+  "updatedAt": "2026-09-04T18:51:40",
   "now": {
-    "artist": "Neil Young",
-    "title": "Like a Hurricane",
-    "album": "American Stars n Bars • 1977",
+    "artist": "Paul Simon",
+    "title": "Me and Julio Down by the Schoolyard",
+    "album": "Paul Simon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:51 pm",
-      "artist": "Paul Simon",
-      "title": "Me and Julio Down by the Schoolyard"
-    },
     {
       "time": "6:54 pm",
       "artist": "Arcade Fire",
@@ -26,9 +21,20 @@
       "time": "7:01 pm",
       "artist": "Rod Stewart",
       "title": "The First Cut Is The Deepest"
+    },
+    {
+      "time": "7:06 pm",
+      "artist": "Sinead O'Connor",
+      "title": "Nothing Compares 2 U"
     }
   ],
   "recent": [
+    {
+      "time": "6:51 pm",
+      "artist": "Paul Simon",
+      "title": "Me and Julio Down by the Schoolyard",
+      "album": "Paul Simon • 1972"
+    },
     {
       "time": "6:43 pm",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "California One / Youth and Beauty Brigade",
       "album": "Castaways and Cutouts • 2002"
-    },
-    {
-      "time": "5:11 pm",
-      "artist": "Radiohead",
-      "title": "Bloom",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
