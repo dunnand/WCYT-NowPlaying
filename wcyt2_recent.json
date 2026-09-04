@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T01:33:08",
+  "updatedAt": "2026-09-04T01:37:32",
   "now": {
-    "artist": "New Order",
-    "title": "Ceremony",
-    "album": "single • 1981",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Slack",
+    "album": "Superchunk •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:37 am",
-      "artist": "Superchunk",
-      "title": "Slack"
-    },
     {
       "time": "1:40 am",
       "artist": "Audioslave",
@@ -26,9 +21,20 @@
       "time": "1:48 am",
       "artist": "At the Drive",
       "title": "In - One Armed Scissor"
+    },
+    {
+      "time": "1:52 am",
+      "artist": "Portugal The Man",
+      "title": "Feel It Still"
     }
   ],
   "recent": [
+    {
+      "time": "1:37 am",
+      "artist": "Superchunk",
+      "title": "Slack",
+      "album": "Superchunk •"
+    },
     {
       "time": "1:33 am",
       "artist": "New Order",
@@ -172,12 +178,6 @@
       "artist": "blink-182",
       "title": "Adam's Song",
       "album": "Enema of the State • 1999"
-    },
-    {
-      "time": "11:55 pm",
-      "artist": "Grateful Dead",
-      "title": "China Cat Sunflower",
-      "album": "Aoxomoxoa • 1969"
     }
   ]
 }
