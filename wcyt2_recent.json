@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T01:37:32",
+  "updatedAt": "2026-09-04T01:40:19",
   "now": {
-    "artist": "Superchunk",
-    "title": "Slack",
-    "album": "Superchunk •",
-    "category": "TUNES"
+    "artist": "Audioslave",
+    "title": "Cochise",
+    "album": "Audioslave • 2002",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:40 am",
-      "artist": "Audioslave",
-      "title": "Cochise"
-    },
     {
       "time": "1:44 am",
       "artist": "Bill Withers",
@@ -26,9 +21,20 @@
       "time": "1:52 am",
       "artist": "Portugal The Man",
       "title": "Feel It Still"
+    },
+    {
+      "time": "1:54 am",
+      "artist": "Eno",
+      "title": "Baby's on Fire"
     }
   ],
   "recent": [
+    {
+      "time": "1:40 am",
+      "artist": "Audioslave",
+      "title": "Cochise",
+      "album": "Audioslave • 2002"
+    },
     {
       "time": "1:37 am",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Call the Police",
       "album": "American Dream • 2017"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "blink-182",
-      "title": "Adam's Song",
-      "album": "Enema of the State • 1999"
     }
   ]
 }
