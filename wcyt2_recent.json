@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T09:50:26",
+  "updatedAt": "2026-09-05T09:52:52",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Crazy Love",
-    "album": "Moondance • 1970",
+    "artist": "The Beatles",
+    "title": "Not A Second Time",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:52 am",
-      "artist": "The Beatles",
-      "title": "Not A Second Time"
-    },
     {
       "time": "9:54 am",
       "artist": "Lipps Inc.",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:52 am",
+      "artist": "The Beatles",
+      "title": "Not A Second Time",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "9:50 am",
       "artist": "Van Morrison",
@@ -177,12 +178,6 @@
       "artist": "Psy",
       "title": "Gangnam Style",
       "album": "PSY 6 Six Rules, Part 1 • 2012"
-    },
-    {
-      "time": "8:19 am",
-      "artist": "Elbow",
-      "title": "Station Approach",
-      "album": "Leaders of the Free World • 2005"
     }
   ]
 }
