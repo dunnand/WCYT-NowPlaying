@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T05:51:32",
+  "updatedAt": "2026-09-05T05:55:19",
   "now": {
     "artist": "Wilco",
-    "title": "Random Name Generator",
-    "album": "Star Wars • 2015",
+    "title": "Evicted",
+    "album": "Cousin • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:55 am",
-      "artist": "Wilco",
-      "title": "Evicted"
-    },
     {
       "time": "5:58 am",
       "artist": "Mac DeMarco",
@@ -26,9 +21,20 @@
       "time": "6:04 am",
       "artist": "Beatrix",
       "title": "Class Reunion"
+    },
+    {
+      "time": "6:08 am",
+      "artist": "Beach House",
+      "title": "Become"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 am",
+      "artist": "Wilco",
+      "title": "Evicted",
+      "album": "Cousin • 2023"
+    },
     {
       "time": "5:51 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Stephen Malkmus",
       "title": "Church on White",
       "album": "Stephen Malkmus • 2001"
-    },
-    {
-      "time": "4:17 am",
-      "artist": "PJ Harvey",
-      "title": "A Place Called Home",
-      "album": "Stories from the City, Stories from the Sea • 2000"
     }
   ]
 }
