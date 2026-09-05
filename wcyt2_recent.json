@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T01:34:08",
+  "updatedAt": "2026-09-05T01:38:35",
   "now": {
-    "artist": "New Order",
-    "title": "Ceremony",
-    "album": "single • 1981",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Slack",
+    "album": "Superchunk •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:38 am",
-      "artist": "Superchunk",
-      "title": "Slack"
-    },
     {
       "time": "1:41 am",
       "artist": "Audioslave",
@@ -26,9 +21,20 @@
       "time": "1:49 am",
       "artist": "At the Drive",
       "title": "In - One Armed Scissor"
+    },
+    {
+      "time": "1:53 am",
+      "artist": "Portugal The Man",
+      "title": "Feel It Still"
     }
   ],
   "recent": [
+    {
+      "time": "1:38 am",
+      "artist": "Superchunk",
+      "title": "Slack",
+      "album": "Superchunk •"
+    },
     {
       "time": "1:34 am",
       "artist": "New Order",
@@ -172,12 +178,6 @@
       "artist": "blink-182",
       "title": "Adam's Song",
       "album": "Enema of the State • 1999"
-    },
-    {
-      "time": "11:56 pm",
-      "artist": "Feist",
-      "title": "1234",
-      "album": "The Reminder • 2008"
     }
   ]
 }
