@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T02:09:00",
+  "updatedAt": "2026-09-05T02:13:05",
   "now": {
-    "artist": "Alicia Keys",
-    "title": "No One",
-    "album": "As I Am • 2007",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Guess I'm Doing Fine",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:13 am",
-      "artist": "Beck",
-      "title": "Guess I'm Doing Fine"
-    },
     {
       "time": "2:18 am",
       "artist": "Kamasi Washington",
@@ -26,9 +21,20 @@
       "time": "2:29 am",
       "artist": "David Bowie",
       "title": "Little Wonder"
+    },
+    {
+      "time": "2:35 am",
+      "artist": "Tom Waits",
+      "title": "Time"
     }
   ],
   "recent": [
+    {
+      "time": "2:13 am",
+      "artist": "Beck",
+      "title": "Guess I'm Doing Fine",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "2:09 am",
       "artist": "Alicia Keys",
@@ -172,12 +178,6 @@
       "artist": "Naoto Kubo",
       "title": "The Legend of Zelda: Majora's Mask 3D (Staff Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "12:33 am",
-      "artist": "Thompson Twins",
-      "title": "Hold Me Now",
-      "album": "Into the Gap • 1984"
     }
   ]
 }
