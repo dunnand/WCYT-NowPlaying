@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T19:36:21",
+  "updatedAt": "2026-09-05T19:36:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Spice Girls",
+    "title": "Wannabe",
+    "album": "Spice • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:36 pm",
-      "artist": "Spice Girls",
-      "title": "Wannabe"
-    },
     {
       "time": "7:39 pm",
       "artist": "They Might Be Giants",
@@ -26,9 +21,20 @@
       "time": "7:46 pm",
       "artist": "Bleachers",
       "title": "dirty wedding dress"
+    },
+    {
+      "time": "7:51 pm",
+      "artist": "Akon",
+      "title": "Don't Matter"
     }
   ],
   "recent": [
+    {
+      "time": "7:36 pm",
+      "artist": "Spice Girls",
+      "title": "Wannabe",
+      "album": "Spice • 1996"
+    },
     {
       "time": "7:34 pm",
       "artist": "Songs Ohia",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Neighborhood #1 (Tunnels)",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "Paul Simon",
-      "title": "Me and Julio Down by the Schoolyard",
-      "album": "Paul Simon • 1972"
     }
   ]
 }
