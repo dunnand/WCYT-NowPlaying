@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T16:58:55",
+  "updatedAt": "2026-09-05T17:02:20",
   "now": {
-    "artist": "Rage Against the Machine",
-    "title": "Guerrilla Radio",
-    "album": "The Battle of Los Angeles • 1999",
+    "artist": "Nirvana",
+    "title": "Been a Son",
+    "album": "Blew EP • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:02 pm",
-      "artist": "Nirvana",
-      "title": "Been a Son"
-    },
     {
       "time": "5:04 pm",
       "artist": "The Pogues",
@@ -21,9 +16,20 @@
       "time": "5:09 pm",
       "artist": "Bleachers",
       "title": "Tiny Moves"
+    },
+    {
+      "time": "5:13 pm",
+      "artist": "Led Zeppelin",
+      "title": "Black Dog"
     }
   ],
   "recent": [
+    {
+      "time": "5:02 pm",
+      "artist": "Nirvana",
+      "title": "Been a Son",
+      "album": "Blew EP • 1989"
+    },
     {
       "time": "4:58 pm",
       "artist": "Rage Against the Machine",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Here, There & Everywhere",
       "album": "Revolver • 1966"
-    },
-    {
-      "time": "3:13 pm",
-      "artist": "The Carpenters",
-      "title": "Only Yesterday",
-      "album": "Horizon • 1975"
     }
   ]
 }
