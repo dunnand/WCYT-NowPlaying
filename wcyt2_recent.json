@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T01:02:39",
+  "updatedAt": "2026-09-05T01:07:45",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Human Touch",
-    "album": "Human Touch • 1992",
+    "artist": "Ray Charles",
+    "title": "Mess Around",
+    "album": "single • 1953",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 am",
-      "artist": "Ray Charles",
-      "title": "Mess Around"
-    },
     {
       "time": "1:10 am",
       "artist": "Deftones",
@@ -26,9 +21,20 @@
       "time": "1:18 am",
       "artist": "Radiohead",
       "title": "Decks Dark"
+    },
+    {
+      "time": "1:23 am",
+      "artist": "Celine Dion",
+      "title": "If You Asked Me To"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 am",
+      "artist": "Ray Charles",
+      "title": "Mess Around",
+      "album": "single • 1953"
+    },
     {
       "time": "1:02 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Supergrass",
       "title": "Alright",
       "album": "I Should Coco • 1995"
-    },
-    {
-      "time": "11:23 pm",
-      "artist": "Robyn",
-      "title": "Dancing On My Own",
-      "album": "Body Talk, Pt. 1 - EP • 2010"
     }
   ]
 }
