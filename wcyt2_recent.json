@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T02:46:56",
+  "updatedAt": "2026-09-05T02:51:01",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Darkness on the Edge of Town",
-    "album": "Darkness on the Edge of Town • 1978",
+    "artist": "The Beatles",
+    "title": "Good Night",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:51 am",
-      "artist": "The Beatles",
-      "title": "Good Night"
-    },
     {
       "time": "2:54 am",
       "artist": "Elvis Costello",
@@ -23,12 +18,23 @@
       "title": "Taxman"
     },
     {
-      "time": "3:00 am",
+      "time": "2:59 am",
       "artist": "Eric Clapton",
       "title": "Wonderful Tonight"
+    },
+    {
+      "time": "3:03 am",
+      "artist": "Deftones",
+      "title": "Be Quiet and Drive (Far Away)"
     }
   ],
   "recent": [
+    {
+      "time": "2:51 am",
+      "artist": "The Beatles",
+      "title": "Good Night",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "2:46 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Digital Bath",
       "album": "White Pony • 2000"
-    },
-    {
-      "time": "1:07 am",
-      "artist": "Ray Charles",
-      "title": "Mess Around",
-      "album": "single • 1953"
     }
   ]
 }
