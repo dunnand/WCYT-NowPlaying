@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-09-05T19:08:22",
+  "updatedAt": "2026-09-05T19:11:05",
   "now": {
-    "artist": "Stevie Wonder",
-    "title": "You Are The Sunshine Of My Life",
-    "album": "Talking Book • 1973",
+    "artist": "The Beatles",
+    "title": "Every Little Thing",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:11 pm",
-      "artist": "The Beatles",
-      "title": "Every Little Thing"
-    },
-    {
-      "time": "7:13 pm",
+      "time": "7:12 pm",
       "artist": "T. Rex",
       "title": "Mambo Sun"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:11 pm",
+      "artist": "The Beatles",
+      "title": "Every Little Thing",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "7:08 pm",
       "artist": "Stevie Wonder",
@@ -177,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Diane Young",
       "album": "Modern Vampires Of The City • 2013"
-    },
-    {
-      "time": "5:39 pm",
-      "artist": "Wilson Pickett",
-      "title": "I'm in Love",
-      "album": "I'm In Love • 1968"
     }
   ]
 }
