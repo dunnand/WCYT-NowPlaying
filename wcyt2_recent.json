@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T10:33:09",
+  "updatedAt": "2026-09-05T10:33:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Jimi Hendrix",
+    "title": "Machine Gun",
+    "album": "Band of Gypsys • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:33 am",
-      "artist": "Jimi Hendrix",
-      "title": "Machine Gun"
-    },
     {
       "time": "10:45 am",
       "artist": "The Black Keys",
@@ -31,9 +26,20 @@
       "time": "10:55 am",
       "artist": "Mad Season",
       "title": "River of Deceit"
+    },
+    {
+      "time": "11:00 am",
+      "artist": "Nicki Minaj",
+      "title": "Va Va Voom"
     }
   ],
   "recent": [
+    {
+      "time": "10:33 am",
+      "artist": "Jimi Hendrix",
+      "title": "Machine Gun",
+      "album": "Band of Gypsys • 1970"
+    },
     {
       "time": "10:30 am",
       "artist": "Arctic Monkeys",
@@ -177,12 +183,6 @@
       "artist": "Dave Matthews Band",
       "title": "Where Are You Going",
       "album": "Busted Stuff • 2002"
-    },
-    {
-      "time": "9:09 am",
-      "artist": "Moses Sumney",
-      "title": "Bless Me",
-      "album": "Aromanticism • 2017"
     }
   ]
 }
