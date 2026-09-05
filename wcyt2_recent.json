@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T19:08:12",
+  "updatedAt": "2026-09-05T19:08:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Stevie Wonder",
+    "title": "You Are The Sunshine Of My Life",
+    "album": "Talking Book • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:08 pm",
-      "artist": "Stevie Wonder",
-      "title": "You Are The Sunshine Of My Life"
-    },
     {
       "time": "7:11 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "7:20 pm",
       "artist": "Buddy Holly",
       "title": "Peggy Sue"
+    },
+    {
+      "time": "7:23 pm",
+      "artist": "Boards of Canada",
+      "title": "Music Is Math"
     }
   ],
   "recent": [
+    {
+      "time": "7:08 pm",
+      "artist": "Stevie Wonder",
+      "title": "You Are The Sunshine Of My Life",
+      "album": "Talking Book • 1973"
+    },
     {
       "time": "7:05 pm",
       "artist": "The Troggs",
@@ -177,12 +183,6 @@
       "artist": "Wilson Pickett",
       "title": "I'm in Love",
       "album": "I'm In Love • 1968"
-    },
-    {
-      "time": "5:35 pm",
-      "artist": "Arcade Fire",
-      "title": "Haiti",
-      "album": "Funeral • 2004"
     }
   ]
 }
