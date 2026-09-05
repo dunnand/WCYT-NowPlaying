@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T22:58:02",
+  "updatedAt": "2026-09-04T22:58:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Animal Collective",
+    "title": "Grass",
+    "album": "Feels • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:58 pm",
-      "artist": "Animal Collective",
-      "title": "Grass"
-    },
     {
       "time": "11:01 pm",
       "artist": "The Velvet Underground",
@@ -31,9 +26,20 @@
       "time": "11:10 pm",
       "artist": "Little Anthony & The Imperials",
       "title": "Tears On My Pillow"
+    },
+    {
+      "time": "11:12 pm",
+      "artist": "Chromatics",
+      "title": "In The City"
     }
   ],
   "recent": [
+    {
+      "time": "10:58 pm",
+      "artist": "Animal Collective",
+      "title": "Grass",
+      "album": "Feels • 2005"
+    },
     {
       "time": "10:54 pm",
       "artist": "Sparks",
@@ -177,12 +183,6 @@
       "artist": "Stereolab",
       "title": "Miss Modular",
       "album": "Emperor Tomato Ketchup • 1996"
-    },
-    {
-      "time": "9:09 pm",
-      "artist": "Spoon",
-      "title": "30 Gallon Tank",
-      "album": "A Series of Sneaks • 1998"
     }
   ]
 }
