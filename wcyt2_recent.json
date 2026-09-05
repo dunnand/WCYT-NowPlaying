@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T16:03:43",
+  "updatedAt": "2026-09-05T16:07:27",
   "now": {
-    "artist": "Steely Dan",
-    "title": "Peg",
-    "album": "Aja • 1977",
+    "artist": "Steve Miller Band",
+    "title": "Swingtown",
+    "album": "Book of Dreams • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:07 pm",
-      "artist": "Steve Miller Band",
-      "title": "Swingtown"
-    },
     {
       "time": "4:11 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "4:18 pm",
       "artist": "George Duke",
       "title": "Dukey Stick"
+    },
+    {
+      "time": "4:24 pm",
+      "artist": "Pulp",
+      "title": "This.Is.Hardcore"
     }
   ],
   "recent": [
+    {
+      "time": "4:07 pm",
+      "artist": "Steve Miller Band",
+      "title": "Swingtown",
+      "album": "Book of Dreams • 1977"
+    },
     {
       "time": "4:03 pm",
       "artist": "Steely Dan",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Here I Dreamt I Was an Architect",
       "album": "Castaways and Cutouts • 2002"
-    },
-    {
-      "time": "2:30 pm",
-      "artist": "Olly Murs",
-      "title": "Troublemaker",
-      "album": "Right Place Right Time • 2012"
     }
   ]
 }
