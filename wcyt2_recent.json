@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T00:53:41",
+  "updatedAt": "2026-09-05T00:57:36",
   "now": {
-    "artist": "ABBA",
-    "title": "Fernando",
-    "album": "Greatest Hits • 1975",
+    "artist": "Tommy James & The Shondells",
+    "title": "I Think We're Alone Now",
+    "album": "I Think We're Alone Now • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:57 am",
-      "artist": "Tommy James & The Shondells",
-      "title": "I Think We're Alone Now"
-    },
     {
       "time": "12:59 am",
       "artist": "Barry Manilow",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:57 am",
+      "artist": "Tommy James & The Shondells",
+      "title": "I Think We're Alone Now",
+      "album": "I Think We're Alone Now • 1967"
+    },
     {
       "time": "12:53 am",
       "artist": "ABBA",
@@ -177,12 +178,6 @@
       "artist": "Chromatics",
       "title": "In The City",
       "album": "In Shining Violence • 2006"
-    },
-    {
-      "time": "11:10 pm",
-      "artist": "Little Anthony & The Imperials",
-      "title": "Tears On My Pillow",
-      "album": "We Are The Imperials Featuring Little Anthony • 1959"
     }
   ]
 }
