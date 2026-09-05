@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T23:03:46",
+  "updatedAt": "2026-09-04T23:06:29",
   "now": {
-    "artist": "Partridge Family",
-    "title": "I Think I Love You",
-    "album": "The Partridge Family Album • 1970",
+    "artist": "Suede",
+    "title": "Trash",
+    "album": "Coming Up • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:06 pm",
-      "artist": "Suede",
-      "title": "Trash"
-    },
     {
       "time": "11:10 pm",
       "artist": "Little Anthony & The Imperials",
@@ -23,12 +18,23 @@
       "title": "In The City"
     },
     {
-      "time": "11:20 pm",
+      "time": "11:19 pm",
       "artist": "Van Morrison",
       "title": "Brown Eyed Girl"
+    },
+    {
+      "time": "11:23 pm",
+      "artist": "Robyn",
+      "title": "Dancing On My Own"
     }
   ],
   "recent": [
+    {
+      "time": "11:06 pm",
+      "artist": "Suede",
+      "title": "Trash",
+      "album": "Coming Up • 1996"
+    },
     {
       "time": "11:03 pm",
       "artist": "Partridge Family",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "Rollercoaster",
       "album": ""
-    },
-    {
-      "time": "9:21 pm",
-      "artist": "Stetsasonic",
-      "title": "Talkin' All That Jazz",
-      "album": "In Full Gear • 1988"
     }
   ]
 }
