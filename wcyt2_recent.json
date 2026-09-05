@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T02:54:14",
+  "updatedAt": "2026-09-05T02:54:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Costello",
+    "title": "Radio, Radio",
+    "album": "This Year's Model • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:54 am",
-      "artist": "Elvis Costello",
-      "title": "Radio, Radio"
-    },
     {
       "time": "2:57 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "3:03 am",
       "artist": "Deftones",
       "title": "Be Quiet and Drive (Far Away)"
+    },
+    {
+      "time": "3:08 am",
+      "artist": "Don Gibson",
+      "title": "Blue Blue Day"
     }
   ],
   "recent": [
+    {
+      "time": "2:54 am",
+      "artist": "Elvis Costello",
+      "title": "Radio, Radio",
+      "album": "This Year's Model • 1978"
+    },
     {
       "time": "2:51 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Big Brother & The Holding Company",
       "title": "Piece of My Heart",
       "album": "Cheap Thrills • 1968"
-    },
-    {
-      "time": "1:10 am",
-      "artist": "Deftones",
-      "title": "Digital Bath",
-      "album": "White Pony • 2000"
     }
   ]
 }
