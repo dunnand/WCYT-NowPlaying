@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T21:50:17",
+  "updatedAt": "2026-09-04T21:50:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Faces",
+    "title": "Ooh La La",
+    "album": "Ooh La La • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 pm",
-      "artist": "Faces",
-      "title": "Ooh La La"
-    },
     {
       "time": "9:54 pm",
       "artist": "The Beatles",
@@ -28,12 +23,23 @@
       "title": "O.P.P"
     },
     {
-      "time": "10:15 pm",
+      "time": "10:16 pm",
       "artist": "Nina Simone",
       "title": "I Loves You, Porgy"
+    },
+    {
+      "time": "10:20 pm",
+      "artist": "Arcade Fire",
+      "title": "Wake Up"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 pm",
+      "artist": "Faces",
+      "title": "Ooh La La",
+      "album": "Ooh La La • 1973"
+    },
     {
       "time": "9:47 pm",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "They Might Be Giants",
       "title": "Don't Let's Start",
       "album": "They Might Be Giants • 1986"
-    },
-    {
-      "time": "8:17 pm",
-      "artist": "Spice Girls",
-      "title": "Wannabe",
-      "album": "Spice • 1996"
     }
   ]
 }
