@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T19:55:51",
+  "updatedAt": "2026-09-05T19:59:06",
   "now": {
-    "artist": "Frankie Valli",
-    "title": "My Eyes Adored You",
-    "album": "Closeup • 1975",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "The Golden Age",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:59 pm",
-      "artist": "Beck",
-      "title": "The Golden Age"
-    },
     {
       "time": "8:03 pm",
       "artist": "Tame Impala",
@@ -26,9 +21,20 @@
       "time": "8:10 pm",
       "artist": "Spin Doctors",
       "title": "Two Princes"
+    },
+    {
+      "time": "8:14 pm",
+      "artist": "Don Gibson",
+      "title": "Oh Lonesome Me"
     }
   ],
   "recent": [
+    {
+      "time": "7:59 pm",
+      "artist": "Beck",
+      "title": "The Golden Age",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "7:55 pm",
       "artist": "Frankie Valli",
@@ -172,12 +178,6 @@
       "artist": "Electric Six",
       "title": "Danger! High Voltage",
       "album": "Fire • 2003"
-    },
-    {
-      "time": "6:33 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Funny Little Frog",
-      "album": "The Life Pursuit • 2006"
     }
   ]
 }
