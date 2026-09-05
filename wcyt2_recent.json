@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T00:53:19",
+  "updatedAt": "2026-09-05T00:53:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Fernando",
+    "album": "Greatest Hits • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "ABBA",
-      "title": "Fernando"
-    },
     {
       "time": "12:57 am",
       "artist": "Tommy James & The Shondells",
@@ -31,9 +26,20 @@
       "time": "1:07 am",
       "artist": "Ray Charles",
       "title": "Mess Around"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "Deftones",
+      "title": "Digital Bath"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "ABBA",
+      "title": "Fernando",
+      "album": "Greatest Hits • 1975"
+    },
     {
       "time": "12:51 am",
       "artist": "The Trashmen",
@@ -177,12 +183,6 @@
       "artist": "Little Anthony & The Imperials",
       "title": "Tears On My Pillow",
       "album": "We Are The Imperials Featuring Little Anthony • 1959"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "Suede",
-      "title": "Trash",
-      "album": "Coming Up • 1996"
     }
   ]
 }
