@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T23:59:59",
+  "updatedAt": "2026-09-05T00:00:33",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Nothing",
+    "title": "never come never morning",
+    "album": "a short history of decay • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 am",
-      "artist": "Nothing",
-      "title": "never come never morning"
-    },
     {
       "time": "12:04 am",
       "artist": "The Damned",
@@ -26,9 +21,20 @@
       "time": "12:12 am",
       "artist": "Wire",
       "title": "Strange"
+    },
+    {
+      "time": "12:16 am",
+      "artist": "Panda Bear",
+      "title": "Comfy in Nautica"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 am",
+      "artist": "Nothing",
+      "title": "never come never morning",
+      "album": "a short history of decay • 2026"
+    },
     {
       "time": "11:56 pm",
       "artist": "Dinosaur Jr.",
@@ -172,12 +178,6 @@
       "artist": "Swapmeet",
       "title": "I Know!",
       "album": "Mount Zero • 2026"
-    },
-    {
-      "time": "10:20 pm",
-      "artist": "Khruangbin",
-      "title": "Evan Finds the Third Room",
-      "album": "Con Todo El Mundo • 2018"
     }
   ]
 }
