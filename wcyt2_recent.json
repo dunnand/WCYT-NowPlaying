@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-04T22:25:15",
+  "updatedAt": "2026-09-04T22:25:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Townes Van Zandt",
+    "title": "Waiting Around to Die",
+    "album": "Townes Van Zandt • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 pm",
-      "artist": "Townes Van Zandt",
-      "title": "Waiting Around to Die"
-    },
     {
       "time": "10:28 pm",
       "artist": "The Lumineers",
@@ -26,9 +21,20 @@
       "time": "10:35 pm",
       "artist": "Ozzy Osbourne",
       "title": "No More Tears"
+    },
+    {
+      "time": "10:42 pm",
+      "artist": "Gang of Four",
+      "title": "Outside the Trains Don't Run on Time"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 pm",
+      "artist": "Townes Van Zandt",
+      "title": "Waiting Around to Die",
+      "album": "Townes Van Zandt • 1969"
+    },
     {
       "time": "10:19 pm",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "Tame Impala",
       "title": "The Less I Know The Better",
       "album": "Currents • 2015"
-    },
-    {
-      "time": "8:40 pm",
-      "artist": "Beck",
-      "title": "The Golden Age",
-      "album": "Sea Change • 2002"
     }
   ]
 }
