@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-09-05T23:35:40",
+  "updatedAt": "2026-09-05T23:35:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Phoebe Bridgers",
+    "title": "I Can't Wait",
+    "album": "Lost Weekend • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:35 pm",
-      "artist": "Phoebe Bridgers",
-      "title": "I Can't Wait"
-    },
     {
       "time": "11:39 pm",
       "artist": "Softcult",
       "title": "Pill To Swallow"
+    },
+    {
+      "time": "11:43 pm",
+      "artist": "Future Islands",
+      "title": "The Ink Well"
     }
   ],
   "recent": [
+    {
+      "time": "11:35 pm",
+      "artist": "Phoebe Bridgers",
+      "title": "I Can't Wait",
+      "album": "Lost Weekend • 2026"
+    },
     {
       "time": "11:31 pm",
       "artist": "The Stone Roses",
@@ -162,12 +168,6 @@
       "artist": "Westside Cowboy",
       "title": "Paper Chains",
       "album": "It Goes On • 2026"
-    },
-    {
-      "time": "10:03 pm",
-      "artist": "Future Islands",
-      "title": "The Ink Well",
-      "album": "From a Hole in the Floor to a Fountain of Youth • 2026"
     }
   ]
 }
