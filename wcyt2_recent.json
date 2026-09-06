@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T22:20:17",
+  "updatedAt": "2026-09-05T22:22:43",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Femme Fatale",
-    "album": "The Velvet Underground & Nico • 1967",
+    "artist": "Partridge Family",
+    "title": "I Think I Love You",
+    "album": "The Partridge Family Album • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:22 pm",
-      "artist": "Partridge Family",
-      "title": "I Think I Love You"
-    },
     {
       "time": "10:25 pm",
       "artist": "Suede",
@@ -26,9 +21,20 @@
       "time": "10:31 pm",
       "artist": "Chromatics",
       "title": "In The City"
+    },
+    {
+      "time": "10:39 pm",
+      "artist": "Van Morrison",
+      "title": "Brown Eyed Girl"
     }
   ],
   "recent": [
+    {
+      "time": "10:22 pm",
+      "artist": "Partridge Family",
+      "title": "I Think I Love You",
+      "album": "The Partridge Family Album • 1970"
+    },
     {
       "time": "10:20 pm",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "Stetsasonic",
       "title": "Talkin' All That Jazz",
       "album": "In Full Gear • 1988"
-    },
-    {
-      "time": "8:36 pm",
-      "artist": "The Tubes",
-      "title": "She's A Beauty",
-      "album": "Outside Inside • 1983"
     }
   ]
 }
