@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T16:09:19",
+  "updatedAt": "2026-09-06T16:09:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "All My Life",
+    "album": "One by One • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 pm",
-      "artist": "Foo Fighters",
-      "title": "All My Life"
-    },
     {
       "time": "4:13 pm",
       "artist": "The Beatles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:09 pm",
+      "artist": "Foo Fighters",
+      "title": "All My Life",
+      "album": "One by One • 2002"
+    },
     {
       "time": "4:05 pm",
       "artist": "Steve Miller Band",
@@ -177,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Une année sans lumière",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "2:32 pm",
-      "artist": "The Decemberists",
-      "title": "Here I Dreamt I Was an Architect",
-      "album": "Castaways and Cutouts • 2002"
     }
   ]
 }
