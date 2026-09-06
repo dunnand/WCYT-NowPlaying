@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T17:42:36",
+  "updatedAt": "2026-09-06T17:46:21",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Love Is Strong",
-    "album": "Voodoo Lounge • 1994",
+    "artist": "Sarah McLachlan",
+    "title": "Angel",
+    "album": "Surfacing • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:46 pm",
-      "artist": "Sarah McLachlan",
-      "title": "Angel"
-    },
     {
       "time": "5:50 pm",
       "artist": "Public Enemy",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:46 pm",
+      "artist": "Sarah McLachlan",
+      "title": "Angel",
+      "album": "Surfacing • 1998"
+    },
     {
       "time": "5:42 pm",
       "artist": "Rolling Stones",
@@ -172,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "All My Life",
       "album": "One by One • 2002"
-    },
-    {
-      "time": "4:05 pm",
-      "artist": "Steve Miller Band",
-      "title": "Swingtown",
-      "album": "Book of Dreams • 1977"
     }
   ]
 }
