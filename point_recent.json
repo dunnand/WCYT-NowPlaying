@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T04:51:30",
+  "updatedAt": "2026-09-06T04:51:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "Let Down",
+    "album": "OK Computer • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:51 am",
-      "artist": "Radiohead",
-      "title": "Let Down"
-    },
     {
       "time": "4:56 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:04 am",
       "artist": "the Mountain Goats",
       "title": "Candlebox"
+    },
+    {
+      "time": "5:06 am",
+      "artist": "Bon Iver",
+      "title": "Minnesota, WI"
     }
   ],
   "recent": [
+    {
+      "time": "4:51 am",
+      "artist": "Radiohead",
+      "title": "Let Down",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "4:46 am",
       "artist": "Courtney Barnett",
@@ -172,12 +178,6 @@
       "artist": "The Bug Club",
       "title": "Jealous Boy",
       "album": "Very Human Features • 2025"
-    },
-    {
-      "time": "3:17 am",
-      "artist": "The Cure",
-      "title": "Close to Me",
-      "album": "The Head on the Door • 1985"
     }
   ]
 }
