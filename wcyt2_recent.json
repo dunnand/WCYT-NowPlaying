@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T10:02:58",
+  "updatedAt": "2026-09-06T10:07:12",
   "now": {
-    "artist": "Camera Obscura",
-    "title": "Eighties Fan",
-    "album": "Biggest Bluest Hi-Fi • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "She Came In Through The Bathroom Window",
+    "album": "Abbey Road • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 am",
-      "artist": "The Beatles",
-      "title": "She Came In Through The Bathroom Window"
-    },
     {
       "time": "10:09 am",
       "artist": "OK Go",
@@ -21,9 +16,25 @@
       "time": "10:12 am",
       "artist": "Le Tigre",
       "title": "Hot Topic"
+    },
+    {
+      "time": "10:16 am",
+      "artist": "Lucinda Williams",
+      "title": "Car Wheels on a Gravel Road"
+    },
+    {
+      "time": "10:21 am",
+      "artist": "Bad Brains",
+      "title": "I Against I"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 am",
+      "artist": "The Beatles",
+      "title": "She Came In Through The Bathroom Window",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "10:02 am",
       "artist": "Camera Obscura",
@@ -167,12 +178,6 @@
       "artist": "Turnstile",
       "title": "New Heart Design",
       "album": "Glow On • 2021"
-    },
-    {
-      "time": "8:37 am",
-      "artist": "Steely Dan",
-      "title": "Hey Nineteen",
-      "album": "Gaucho • 1980"
     }
   ]
 }
