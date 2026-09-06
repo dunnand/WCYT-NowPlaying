@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T16:09:31",
+  "updatedAt": "2026-09-06T16:13:46",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "All My Life",
-    "album": "One by One • 2002",
+    "artist": "The Beatles",
+    "title": "I'm Only Sleeping",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:13 pm",
-      "artist": "The Beatles",
-      "title": "I'm Only Sleeping"
-    },
     {
       "time": "4:16 pm",
       "artist": "George Duke",
@@ -26,9 +21,20 @@
       "time": "4:29 pm",
       "artist": "Radiohead",
       "title": "Bloom"
+    },
+    {
+      "time": "4:34 pm",
+      "artist": "The Decemberists",
+      "title": "California One / Youth and Beauty Brigade"
     }
   ],
   "recent": [
+    {
+      "time": "4:13 pm",
+      "artist": "The Beatles",
+      "title": "I'm Only Sleeping",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "4:09 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Twenty One Pilots",
       "title": "Holding On To You",
       "album": "Regional at Best • 2011"
-    },
-    {
-      "time": "2:36 pm",
-      "artist": "Arcade Fire",
-      "title": "Une année sans lumière",
-      "album": "Funeral • 2004"
     }
   ]
 }
