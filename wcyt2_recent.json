@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T07:54:48",
+  "updatedAt": "2026-09-06T07:55:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "I'm a Cuckoo",
+    "album": "Dear Catastrophe Waitress • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:55 am",
-      "artist": "Belle and Sebastian",
-      "title": "I'm a Cuckoo"
-    },
     {
       "time": "8:00 am",
       "artist": "The Beatles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "Belle and Sebastian",
+      "title": "I'm a Cuckoo",
+      "album": "Dear Catastrophe Waitress • 2003"
+    },
     {
       "time": "7:50 am",
       "artist": "Supertramp",
@@ -177,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Love Hurts",
       "album": "A Date with the Everly Brothers • 1960"
-    },
-    {
-      "time": "6:13 am",
-      "artist": "Amy Winehouse",
-      "title": "Rehab",
-      "album": "Back to Black • 2006"
     }
   ]
 }
