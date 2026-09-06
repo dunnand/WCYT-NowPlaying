@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T04:51:42",
+  "updatedAt": "2026-09-06T04:56:38",
   "now": {
     "artist": "Radiohead",
-    "title": "Let Down",
-    "album": "OK Computer • 1997",
+    "title": "Everything in its Right Place",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:56 am",
-      "artist": "Radiohead",
-      "title": "Everything in its Right Place"
-    },
     {
       "time": "5:00 am",
       "artist": "Soccer Mommy",
@@ -26,9 +21,20 @@
       "time": "5:06 am",
       "artist": "Bon Iver",
       "title": "Minnesota, WI"
+    },
+    {
+      "time": "5:10 am",
+      "artist": "SPRINTS",
+      "title": "Descartes"
     }
   ],
   "recent": [
+    {
+      "time": "4:56 am",
+      "artist": "Radiohead",
+      "title": "Everything in its Right Place",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "4:51 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "feeble little horse",
       "title": "Doorway",
       "album": "bitknot • 2026"
-    },
-    {
-      "time": "3:20 am",
-      "artist": "The Bug Club",
-      "title": "Jealous Boy",
-      "album": "Very Human Features • 2025"
     }
   ]
 }
