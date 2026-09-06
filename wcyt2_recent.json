@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T11:34:51",
+  "updatedAt": "2026-09-06T11:39:40",
   "now": {
-    "artist": "Elton John",
-    "title": "Saturday Night's Alright for Fighting",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "The Beatles",
+    "title": "Lucy In The Sky With Diamonds",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:39 am",
-      "artist": "The Beatles",
-      "title": "Lucy In The Sky With Diamonds"
-    },
     {
       "time": "11:43 am",
       "artist": "John Travolta & Olivia Newton",
@@ -26,9 +21,25 @@
       "time": "11:49 am",
       "artist": "Fleetwood Mac",
       "title": "Warm Ways"
+    },
+    {
+      "time": "11:53 am",
+      "artist": "Meat Puppets",
+      "title": "Violet Eyes"
+    },
+    {
+      "time": "11:56 am",
+      "artist": "Link Wray & His Ray Men",
+      "title": "Rumble"
     }
   ],
   "recent": [
+    {
+      "time": "11:39 am",
+      "artist": "The Beatles",
+      "title": "Lucy In The Sky With Diamonds",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "11:34 am",
       "artist": "Elton John",
@@ -172,12 +183,6 @@
       "artist": "Camera Obscura",
       "title": "Eighties Fan",
       "album": "Biggest Bluest Hi-Fi • 2001"
-    },
-    {
-      "time": "10:00 am",
-      "artist": "Jimmy \"C\" Newman",
-      "title": "A Fallen Star",
-      "album": "A Fallen Star • 1958"
     }
   ]
 }
