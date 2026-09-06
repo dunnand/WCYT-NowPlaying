@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T21:34:48",
+  "updatedAt": "2026-09-05T21:38:44",
   "now": {
-    "artist": "Nina Simone",
-    "title": "I Loves You, Porgy",
-    "album": "Little Girl Blue • 1958",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Wake Up",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:38 pm",
-      "artist": "Arcade Fire",
-      "title": "Wake Up"
-    },
     {
       "time": "9:44 pm",
       "artist": "Townes Van Zandt",
@@ -23,12 +18,18 @@
       "title": "Ho Hey"
     },
     {
-      "time": "9:50 pm",
+      "time": "9:49 pm",
       "artist": "No Doubt",
       "title": "Spiderwebs"
     }
   ],
   "recent": [
+    {
+      "time": "9:38 pm",
+      "artist": "Arcade Fire",
+      "title": "Wake Up",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "9:34 pm",
       "artist": "Nina Simone",
@@ -172,12 +173,6 @@
       "artist": "Beck",
       "title": "The Golden Age",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "7:55 pm",
-      "artist": "Frankie Valli",
-      "title": "My Eyes Adored You",
-      "album": "Closeup • 1975"
     }
   ]
 }
