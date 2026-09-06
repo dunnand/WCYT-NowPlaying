@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T15:11:35",
+  "updatedAt": "2026-09-06T15:15:20",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Only Yesterday",
-    "album": "Horizon • 1975",
+    "artist": "The Beatles",
+    "title": "Here, There & Everywhere",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "The Beatles",
-      "title": "Here, There & Everywhere"
-    },
     {
       "time": "3:17 pm",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "3:26 pm",
       "artist": "Impalas",
       "title": "Sorry (I Ran All The Way Home)"
+    },
+    {
+      "time": "3:28 pm",
+      "artist": "Coldplay",
+      "title": "In My Place"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "The Beatles",
+      "title": "Here, There & Everywhere",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "3:11 pm",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Harry Styles",
       "title": "Adore You",
       "album": "Fine Line • 2019"
-    },
-    {
-      "time": "1:41 pm",
-      "artist": "Ned's Atomic Dustbin",
-      "title": "Grey Cell Green",
-      "album": "God Fodder • 1991"
     }
   ]
 }
