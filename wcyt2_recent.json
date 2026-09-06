@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T23:15:45",
+  "updatedAt": "2026-09-05T23:18:38",
   "now": {
-    "artist": "Feist",
-    "title": "1234",
-    "album": "The Reminder • 2008",
-    "category": "AUDIO"
+    "artist": "Slowdive",
+    "title": "Star Roving",
+    "album": "Slowdive • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:18 pm",
-      "artist": "Slowdive",
-      "title": "Star Roving"
-    },
     {
       "time": "11:22 pm",
       "artist": "Fleetwood Mac",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:18 pm",
+      "artist": "Slowdive",
+      "title": "Star Roving",
+      "album": "Slowdive • 2017"
+    },
     {
       "time": "11:15 pm",
       "artist": "Feist",
@@ -162,12 +163,6 @@
       "artist": "Townes Van Zandt",
       "title": "Waiting Around to Die",
       "album": "Townes Van Zandt • 1969"
-    },
-    {
-      "time": "9:38 pm",
-      "artist": "Arcade Fire",
-      "title": "Wake Up",
-      "album": "Funeral • 2004"
     }
   ]
 }
