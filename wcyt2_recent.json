@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T21:03:08",
+  "updatedAt": "2026-09-05T21:06:12",
   "now": {
-    "artist": "David Bowie",
-    "title": "Oh! You Pretty Things / Eight Line Poem",
-    "album": "Hunky Dory • 1971",
+    "artist": "The Beatles",
+    "title": "You Won't See Me",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:06 pm",
-      "artist": "The Beatles",
-      "title": "You Won't See Me"
-    },
     {
       "time": "9:10 pm",
       "artist": "Faces",
@@ -23,12 +18,23 @@
       "title": "Don't Pass Me By"
     },
     {
-      "time": "9:17 pm",
+      "time": "9:16 pm",
       "artist": "Peter Frampton",
       "title": "Do You Feel Like We Do"
+    },
+    {
+      "time": "9:30 pm",
+      "artist": "Naughty By Nature",
+      "title": "O.P.P"
     }
   ],
   "recent": [
+    {
+      "time": "9:06 pm",
+      "artist": "The Beatles",
+      "title": "You Won't See Me",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "9:03 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Spice Girls",
       "title": "Wannabe",
       "album": "Spice • 1996"
-    },
-    {
-      "time": "7:34 pm",
-      "artist": "Songs Ohia",
-      "title": "Vanquisher (Cabwaylingo)",
-      "album": "Songs Ohia • 1997"
     }
   ]
 }
