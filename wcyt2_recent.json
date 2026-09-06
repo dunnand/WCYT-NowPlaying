@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T01:01:09",
+  "updatedAt": "2026-09-06T01:06:08",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Human Touch",
-    "album": "Human Touch • 1992",
+    "artist": "Ray Charles",
+    "title": "Mess Around",
+    "album": "single • 1953",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "Ray Charles",
-      "title": "Mess Around"
-    },
     {
       "time": "1:08 am",
       "artist": "Deftones",
@@ -26,9 +21,20 @@
       "time": "1:16 am",
       "artist": "Radiohead",
       "title": "Decks Dark"
+    },
+    {
+      "time": "1:21 am",
+      "artist": "Celine Dion",
+      "title": "If You Asked Me To"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "Ray Charles",
+      "title": "Mess Around",
+      "album": "single • 1953"
+    },
     {
       "time": "1:01 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Steve Earle",
       "title": "Copperhead Road",
       "album": "Copperhead Road • 1988"
-    },
-    {
-      "time": "10:50 pm",
-      "artist": "Temple of the Dog",
-      "title": "Say Hello 2 Heaven",
-      "album": "Temple of the Dog • 1991"
     }
   ]
 }
