@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-05T22:17:22",
+  "updatedAt": "2026-09-05T22:20:17",
   "now": {
-    "artist": "Animal Collective",
-    "title": "Grass",
-    "album": "Feels • 2005",
-    "category": "TUNES"
+    "artist": "The Velvet Underground",
+    "title": "Femme Fatale",
+    "album": "The Velvet Underground & Nico • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 pm",
-      "artist": "The Velvet Underground",
-      "title": "Femme Fatale"
-    },
     {
       "time": "10:22 pm",
       "artist": "Partridge Family",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:20 pm",
+      "artist": "The Velvet Underground",
+      "title": "Femme Fatale",
+      "album": "The Velvet Underground & Nico • 1967"
+    },
     {
       "time": "10:17 pm",
       "artist": "Animal Collective",
@@ -177,12 +178,6 @@
       "artist": "The Tubes",
       "title": "She's A Beauty",
       "album": "Outside Inside • 1983"
-    },
-    {
-      "time": "8:32 pm",
-      "artist": "Stereolab",
-      "title": "Miss Modular",
-      "album": "Emperor Tomato Ketchup • 1996"
     }
   ]
 }
