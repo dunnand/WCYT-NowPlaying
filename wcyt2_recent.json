@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T17:11:26",
+  "updatedAt": "2026-09-06T17:16:12",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Black Dog",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "The Beatles",
+    "title": "I Saw Her Standing There",
+    "album": "Please Please Me • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:16 pm",
-      "artist": "The Beatles",
-      "title": "I Saw Her Standing There"
-    },
     {
       "time": "5:19 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "5:25 pm",
       "artist": "Johnny Williams",
       "title": "Slow Motion (Part 1)"
+    },
+    {
+      "time": "5:28 pm",
+      "artist": "Rancid",
+      "title": "Ruby Soho"
     }
   ],
   "recent": [
+    {
+      "time": "5:16 pm",
+      "artist": "The Beatles",
+      "title": "I Saw Her Standing There",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "5:11 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "In My Place",
       "album": "A Rush of Blood to the Head • 2002"
-    },
-    {
-      "time": "3:26 pm",
-      "artist": "Impalas",
-      "title": "Sorry (I Ran All The Way Home)",
-      "album": "single • 1959"
     }
   ]
 }
