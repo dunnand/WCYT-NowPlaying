@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T19:18:59",
+  "updatedAt": "2026-09-06T19:21:23",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Peggy Sue",
-    "album": "Buddy Holly • 1958",
+    "artist": "Boards of Canada",
+    "title": "Music Is Math",
+    "album": "Geogaddi • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:21 pm",
-      "artist": "Boards of Canada",
-      "title": "Music Is Math"
-    },
     {
       "time": "7:26 pm",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:21 pm",
+      "artist": "Boards of Canada",
+      "title": "Music Is Math",
+      "album": "Geogaddi • 2002"
+    },
     {
       "time": "7:18 pm",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "The Smiths",
       "title": "Please, Please, Please Let Me Get What I Want",
       "album": "Hatful of Hollow • 1984"
-    },
-    {
-      "time": "5:50 pm",
-      "artist": "Public Enemy",
-      "title": "Don't Believe the Hype",
-      "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
     }
   ]
 }
