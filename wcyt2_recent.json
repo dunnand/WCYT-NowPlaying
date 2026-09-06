@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-06T16:13:46",
+  "updatedAt": "2026-09-06T16:16:41",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'm Only Sleeping",
-    "album": "Revolver • 1966",
+    "artist": "George Duke",
+    "title": "Dukey Stick",
+    "album": "Don't Let Go • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:16 pm",
-      "artist": "George Duke",
-      "title": "Dukey Stick"
-    },
     {
       "time": "4:22 pm",
       "artist": "Pulp",
@@ -26,9 +21,20 @@
       "time": "4:34 pm",
       "artist": "The Decemberists",
       "title": "California One / Youth and Beauty Brigade"
+    },
+    {
+      "time": "4:44 pm",
+      "artist": "Beyonce",
+      "title": "Irreplaceable"
     }
   ],
   "recent": [
+    {
+      "time": "4:16 pm",
+      "artist": "George Duke",
+      "title": "Dukey Stick",
+      "album": "Don't Let Go • 1978"
+    },
     {
       "time": "4:13 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "The Coast",
       "album": "The Rhythm of the Saints • 1990"
-    },
-    {
-      "time": "2:40 pm",
-      "artist": "Twenty One Pilots",
-      "title": "Holding On To You",
-      "album": "Regional at Best • 2011"
     }
   ]
 }
