@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T12:47:13",
+  "updatedAt": "2026-09-07T12:47:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The National",
+    "title": "The Perfect Song",
+    "album": "The National • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 pm",
-      "artist": "The National",
-      "title": "The Perfect Song"
-    },
     {
       "time": "12:50 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "12:59 pm",
       "artist": "Broken Social Scene",
       "title": "7/4 (Shoreline)"
+    },
+    {
+      "time": "1:04 pm",
+      "artist": "Wisp",
+      "title": "Your face"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 pm",
+      "artist": "The National",
+      "title": "The Perfect Song",
+      "album": "The National • 2000"
+    },
     {
       "time": "12:44 pm",
       "artist": "The Tubs",
@@ -172,12 +178,6 @@
       "artist": "Water From Your Eyes",
       "title": "Life Signs",
       "album": "It's a Beautiful Place • 2025"
-    },
-    {
-      "time": "11:19 am",
-      "artist": "Ibibio Sound Machine",
-      "title": "Concept Of Love",
-      "album": "Chopping Mountain • 2026"
     }
   ]
 }
