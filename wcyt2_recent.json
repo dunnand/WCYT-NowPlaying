@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T19:34:48",
+  "updatedAt": "2026-09-07T19:37:41",
   "now": {
-    "artist": "Spice Girls",
-    "title": "Wannabe",
-    "album": "Spice • 1996",
+    "artist": "They Might Be Giants",
+    "title": "Don't Let's Start",
+    "album": "They Might Be Giants • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:37 pm",
-      "artist": "They Might Be Giants",
-      "title": "Don't Let's Start"
-    },
     {
       "time": "7:40 pm",
       "artist": "ZZ Top",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:37 pm",
+      "artist": "They Might Be Giants",
+      "title": "Don't Let's Start",
+      "album": "They Might Be Giants • 1986"
+    },
     {
       "time": "7:34 pm",
       "artist": "Spice Girls",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Good Morning Good Morning",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "6:11 pm",
-      "artist": "Arcade Fire",
-      "title": "Neighborhood #1 (Tunnels)",
-      "album": "Funeral • 2004"
     }
   ]
 }
