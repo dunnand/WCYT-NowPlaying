@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T11:51:47",
+  "updatedAt": "2026-09-07T11:51:59",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beat Happening",
+    "title": "Indian Summer",
+    "album": "Jamboree • 1988",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:51 am",
-      "artist": "Beat Happening",
-      "title": "Indian Summer"
-    },
     {
       "time": "11:54 am",
       "artist": "Big Thief",
@@ -26,9 +21,20 @@
       "time": "12:00 pm",
       "artist": "St. Vincent",
       "title": "El Mero Cero"
+    },
+    {
+      "time": "12:03 pm",
+      "artist": "June McDoom",
+      "title": "On My Way"
     }
   ],
   "recent": [
+    {
+      "time": "11:51 am",
+      "artist": "Beat Happening",
+      "title": "Indian Summer",
+      "album": "Jamboree • 1988"
+    },
     {
       "time": "11:48 am",
       "artist": "Westside Cowboy",
@@ -172,12 +178,6 @@
       "artist": "The Last Dinner Party",
       "title": "Nothing Matters",
       "album": "Prelude To Ecstasy • 2024"
-    },
-    {
-      "time": "10:07 am",
-      "artist": "Radiohead",
-      "title": "Morning Mr Magpie",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
