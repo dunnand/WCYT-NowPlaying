@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T11:39:16",
+  "updatedAt": "2026-09-07T11:39:28",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Grizzly Bear",
+    "title": "Yet Again",
+    "album": "Shields • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:39 am",
-      "artist": "Grizzly Bear",
-      "title": "Yet Again"
-    },
     {
       "time": "11:42 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "11:52 am",
       "artist": "Beat Happening",
       "title": "Indian Summer"
+    },
+    {
+      "time": "11:55 am",
+      "artist": "Big Thief",
+      "title": "Heavy Bend"
     }
   ],
   "recent": [
+    {
+      "time": "11:39 am",
+      "artist": "Grizzly Bear",
+      "title": "Yet Again",
+      "album": "Shields • 2012"
+    },
     {
       "time": "11:35 am",
       "artist": "Bat for Lashes",
@@ -172,12 +178,6 @@
       "artist": "Sharp Pins",
       "title": "Live Without Her Love",
       "album": "Mod Mayday 23 • 2026"
-    },
-    {
-      "time": "9:55 am",
-      "artist": "Slow Pulp",
-      "title": "Better Man",
-      "album": "Melodie • 2026"
     }
   ]
 }
