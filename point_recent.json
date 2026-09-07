@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T17:48:57",
+  "updatedAt": "2026-09-07T17:49:07",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This Is Lorelei",
+    "title": "Name the Band",
+    "album": "Holo Boy • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:49 pm",
-      "artist": "This Is Lorelei",
-      "title": "Name the Band"
-    },
     {
       "time": "5:50 pm",
       "artist": "The Strokes",
@@ -21,9 +16,20 @@
       "time": "5:56 pm",
       "artist": "Dinosaur Jr.",
       "title": "Blowin' Up"
+    },
+    {
+      "time": "6:00 pm",
+      "artist": "Nothing",
+      "title": "a short history of decay"
     }
   ],
   "recent": [
+    {
+      "time": "5:49 pm",
+      "artist": "This Is Lorelei",
+      "title": "Name the Band",
+      "album": "Holo Boy • 2025"
+    },
     {
       "time": "5:45 pm",
       "artist": "Alabama Shakes",
@@ -167,12 +173,6 @@
       "artist": "Squirrel Flower",
       "title": "Not Me",
       "album": "Say a Prayer to the Gods of Getting Going • 2026"
-    },
-    {
-      "time": "4:20 pm",
-      "artist": "Fleet Foxes",
-      "title": "Grown Ocean",
-      "album": "Helplessness Blues • 2011"
     }
   ]
 }
