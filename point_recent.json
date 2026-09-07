@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T08:05:34",
+  "updatedAt": "2026-09-07T08:10:20",
   "now": {
-    "artist": "Alabama Shakes",
-    "title": "Garden",
-    "album": "I Must Be Dreaming • 2026",
+    "artist": "Beck",
+    "title": "Gimme",
+    "album": "Gimme •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:10 am",
-      "artist": "Beck",
-      "title": "Gimme"
-    },
     {
       "time": "8:12 am",
       "artist": "Khruangbin",
@@ -26,9 +21,20 @@
       "time": "8:21 am",
       "artist": "Ween",
       "title": "You Were the Fool"
+    },
+    {
+      "time": "8:26 am",
+      "artist": "Foxwarren",
+      "title": "Listen2me"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 am",
+      "artist": "Beck",
+      "title": "Gimme",
+      "album": "Gimme •"
+    },
     {
       "time": "8:05 am",
       "artist": "Alabama Shakes",
@@ -172,12 +178,6 @@
       "artist": "Frankie Cosmos",
       "title": "Caramelize",
       "album": "Vessel • 2018"
-    },
-    {
-      "time": "6:30 am",
-      "artist": "Andrew Bird",
-      "title": "Left Handed Kisses",
-      "album": "Are You Serious • 2016"
     }
   ]
 }
