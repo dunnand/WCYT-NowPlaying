@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T21:01:27",
+  "updatedAt": "2026-09-07T21:01:49",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "David Nance",
+    "title": "Mock the Hours",
+    "album": "David Nance & Mowed Sound • 2024",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:01 pm",
-      "artist": "David Nance",
-      "title": "Mock the Hours"
-    },
     {
       "time": "9:05 pm",
       "artist": "Animal Collective",
@@ -21,9 +16,25 @@
       "time": "9:12 pm",
       "artist": "Radiohead",
       "title": "Subterranean Homesick Alien"
+    },
+    {
+      "time": "9:16 pm",
+      "artist": "Good Dear Good",
+      "title": "Slick"
+    },
+    {
+      "time": "9:20 pm",
+      "artist": "Wilco",
+      "title": "I Might"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 pm",
+      "artist": "David Nance",
+      "title": "Mock the Hours",
+      "album": "David Nance & Mowed Sound • 2024"
+    },
     {
       "time": "8:56 pm",
       "artist": "Men I Trust",
@@ -167,12 +178,6 @@
       "artist": "Ty Segall",
       "title": "Hospital",
       "album": "Chrome • 2026"
-    },
-    {
-      "time": "7:23 pm",
-      "artist": "DIIV",
-      "title": "The Fountain",
-      "album": "ZIRP! • 2026"
     }
   ]
 }
