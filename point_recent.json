@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T01:13:53",
+  "updatedAt": "2026-09-08T01:18:59",
   "now": {
-    "artist": "Radiohead",
-    "title": "Idiotic",
-    "album": "Kid A • 2000",
+    "artist": "The Breeders",
+    "title": "Doe",
+    "album": "Pod • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:18 am",
-      "artist": "The Breeders",
-      "title": "Doe"
-    },
     {
       "time": "1:21 am",
       "artist": "Swapmeet",
@@ -31,9 +26,20 @@
       "time": "1:36 am",
       "artist": "beabadoobee",
       "title": "Switchblade"
+    },
+    {
+      "time": "1:39 am",
+      "artist": "Wishy",
+      "title": "Sensational"
     }
   ],
   "recent": [
+    {
+      "time": "1:18 am",
+      "artist": "The Breeders",
+      "title": "Doe",
+      "album": "Pod • 1990"
+    },
     {
       "time": "1:13 am",
       "artist": "Radiohead",
@@ -177,12 +183,6 @@
       "artist": "CAKE",
       "title": "Friend Is a Four Letter Word",
       "album": "Fashion Nugget • 1996"
-    },
-    {
-      "time": "11:30 pm",
-      "artist": "Kurt Vile",
-      "title": "Speed of The Sound of Loneliness",
-      "album": "Speed, Sound, Lonely KV • 2020"
     }
   ]
 }
