@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-09-08T16:54:17",
+  "updatedAt": "2026-09-08T16:56:42",
   "now": {
-    "artist": "Ray Charles",
-    "title": "Lonely Avenue",
-    "album": "single • 1956",
-    "category": "AUDIO"
+    "artist": "Phoenix",
+    "title": "1901",
+    "album": "Wolfgang Amadeus Phoenix • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:56 pm",
-      "artist": "Phoenix",
-      "title": "1901"
-    },
     {
       "time": "5:00 pm",
       "artist": "Thom Yorke",
       "title": "Has Ended"
+    },
+    {
+      "time": "5:05 pm",
+      "artist": "Eels",
+      "title": "3 Speed"
     }
   ],
   "recent": [
+    {
+      "time": "4:56 pm",
+      "artist": "Phoenix",
+      "title": "1901",
+      "album": "Wolfgang Amadeus Phoenix • 2009"
+    },
     {
       "time": "4:54 pm",
       "artist": "Ray Charles",
@@ -162,12 +168,6 @@
       "artist": "Deftones",
       "title": "Bored",
       "album": "Adrenaline • 1995"
-    },
-    {
-      "time": "3:18 pm",
-      "artist": "Metallica",
-      "title": "Enter Sandman",
-      "album": "Metallica • 1991"
     }
   ]
 }
