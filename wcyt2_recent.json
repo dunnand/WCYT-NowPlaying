@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T09:55:45",
+  "updatedAt": "2026-09-08T09:55:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Blondie",
+    "title": "Union City Blue",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:55 am",
-      "artist": "Blondie",
-      "title": "Union City Blue"
-    },
     {
       "time": "9:59 am",
       "artist": "Bob Marley and the Wailers",
@@ -21,9 +16,20 @@
       "time": "10:04 am",
       "artist": "The Strokes",
       "title": "You Talk Way Too Much"
+    },
+    {
+      "time": "10:07 am",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Up Around The Bend"
     }
   ],
   "recent": [
+    {
+      "time": "9:55 am",
+      "artist": "Blondie",
+      "title": "Union City Blue",
+      "album": ""
+    },
     {
       "time": "9:51 am",
       "artist": "HAIM",
@@ -167,12 +173,6 @@
       "artist": "Elbow",
       "title": "Station Approach",
       "album": "Leaders of the Free World • 2005"
-    },
-    {
-      "time": "8:14 am",
-      "artist": "El-P",
-      "title": "Stepfather Factory",
-      "album": "Fantastic Damage • 2002"
     }
   ]
 }
