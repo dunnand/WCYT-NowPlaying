@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T09:46:15",
+  "updatedAt": "2026-09-08T09:51:32",
   "now": {
-    "artist": "Diana Ross",
-    "title": "I'm Coming Out",
-    "album": "Diana • 1980",
+    "artist": "HAIM",
+    "title": "Falling",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:51 am",
-      "artist": "HAIM",
-      "title": "Falling"
-    },
     {
       "time": "9:55 am",
       "artist": "Blondie",
@@ -21,9 +16,20 @@
       "time": "9:59 am",
       "artist": "Bob Marley and the Wailers",
       "title": "Stir It Up"
+    },
+    {
+      "time": "10:04 am",
+      "artist": "The Strokes",
+      "title": "You Talk Way Too Much"
     }
   ],
   "recent": [
+    {
+      "time": "9:51 am",
+      "artist": "HAIM",
+      "title": "Falling",
+      "album": ""
+    },
     {
       "time": "9:46 am",
       "artist": "Diana Ross",
@@ -167,12 +173,6 @@
       "artist": "El-P",
       "title": "Stepfather Factory",
       "album": "Fantastic Damage • 2002"
-    },
-    {
-      "time": "8:10 am",
-      "artist": "Miley Cyrus",
-      "title": "Wrecking Ball",
-      "album": "Bangerz • 2013"
     }
   ]
 }
