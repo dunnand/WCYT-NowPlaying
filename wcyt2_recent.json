@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-07T21:11:43",
+  "updatedAt": "2026-09-07T21:15:08",
   "now": {
-    "artist": "The Beatles",
-    "title": "Don't Pass Me By",
-    "album": "The Beatles • 1968",
+    "artist": "Peter Frampton",
+    "title": "Do You Feel Like We Do",
+    "album": "Frampton Comes Alive! • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "Peter Frampton",
-      "title": "Do You Feel Like We Do"
-    },
     {
       "time": "9:28 pm",
       "artist": "Naughty By Nature",
@@ -26,9 +21,20 @@
       "time": "9:37 pm",
       "artist": "Arcade Fire",
       "title": "Wake Up"
+    },
+    {
+      "time": "9:43 pm",
+      "artist": "Townes Van Zandt",
+      "title": "Waiting Around to Die"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "Peter Frampton",
+      "title": "Do You Feel Like We Do",
+      "album": "Frampton Comes Alive! • 1976"
+    },
     {
       "time": "9:11 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "dirty wedding dress",
       "album": ""
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "ZZ Top",
-      "title": "Cheap Sunglasses",
-      "album": "Degello • 1980"
     }
   ]
 }
