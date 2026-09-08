@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T17:36:51",
+  "updatedAt": "2026-09-08T17:40:53",
   "now": {
-    "artist": "Jefferson Starship",
-    "title": "Jane",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "Layla",
+    "album": "Unplugged • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:40 pm",
-      "artist": "Eric Clapton",
-      "title": "Layla"
-    },
     {
       "time": "5:45 pm",
       "artist": "Bill Haley & His Comets",
@@ -21,9 +16,20 @@
       "time": "5:48 pm",
       "artist": "Kate Bush",
       "title": "Nocturn"
+    },
+    {
+      "time": "5:56 pm",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Lodi"
     }
   ],
   "recent": [
+    {
+      "time": "5:40 pm",
+      "artist": "Eric Clapton",
+      "title": "Layla",
+      "album": "Unplugged • 1992"
+    },
     {
       "time": "5:36 pm",
       "artist": "Jefferson Starship",
@@ -167,12 +173,6 @@
       "artist": "Solange",
       "title": "Cranes in the Sky",
       "album": "A Seat at the Table • 2016"
-    },
-    {
-      "time": "3:56 pm",
-      "artist": "The Strokes",
-      "title": "Reptilia",
-      "album": "Room on Fire • 2003"
     }
   ]
 }
