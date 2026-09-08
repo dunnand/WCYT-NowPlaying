@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T10:55:59",
+  "updatedAt": "2026-09-08T10:56:20",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Mike D",
+    "title": "Switch Up",
+    "album": "Thank You • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:56 am",
-      "artist": "Mike D",
-      "title": "Switch Up"
-    },
     {
       "time": "10:59 am",
       "artist": "Waxahatchee",
@@ -26,9 +21,20 @@
       "time": "11:08 am",
       "artist": "Yo La Tengo",
       "title": "Stupid Things"
+    },
+    {
+      "time": "11:13 am",
+      "artist": "Spoon",
+      "title": "Do You"
     }
   ],
   "recent": [
+    {
+      "time": "10:56 am",
+      "artist": "Mike D",
+      "title": "Switch Up",
+      "album": "Thank You • 2026"
+    },
     {
       "time": "10:52 am",
       "artist": "Temples",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Airbag",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "9:13 am",
-      "artist": "Wilco",
-      "title": "Hot Sun",
-      "album": "Hot Sun Cool Shroud • 2024"
     }
   ]
 }
