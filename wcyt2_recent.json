@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T12:06:24",
+  "updatedAt": "2026-09-08T12:06:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Good Golly Miss Molly",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:06 pm",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Good Golly Miss Molly"
-    },
     {
       "time": "12:09 pm",
       "artist": "Wilco",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:06 pm",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Good Golly Miss Molly",
+      "album": ""
+    },
     {
       "time": "12:03 pm",
       "artist": "The Strokes",
@@ -172,12 +173,6 @@
       "artist": "The Cure",
       "title": "Never Enough",
       "album": "single • 1990"
-    },
-    {
-      "time": "10:27 am",
-      "artist": "The Cure",
-      "title": "Friday I'm in Love",
-      "album": "Wish • 1992"
     }
   ]
 }
