@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T16:42:14",
+  "updatedAt": "2026-09-08T16:46:50",
   "now": {
-    "artist": "Frank Sinatra",
-    "title": "My Way",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Hotel California",
+    "album": "Hotel California • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:46 pm",
-      "artist": "Eagles",
-      "title": "Hotel California"
-    },
     {
       "time": "4:54 pm",
       "artist": "Ray Charles",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:46 pm",
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "album": "Hotel California • 1994"
+    },
     {
       "time": "4:42 pm",
       "artist": "Frank Sinatra",
@@ -167,12 +168,6 @@
       "artist": "David Bowie",
       "title": "Starman",
       "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
-    },
-    {
-      "time": "3:08 pm",
-      "artist": "Adele",
-      "title": "Skyfall",
-      "album": "Skyfall • 2012"
     }
   ]
 }
