@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T18:35:15",
+  "updatedAt": "2026-09-08T18:38:49",
   "now": {
-    "artist": "Gorillaz",
-    "title": "Feel Good Inc.",
-    "album": "Demon Days • 2005",
+    "artist": "Simon & Garfunkel",
+    "title": "America",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:38 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "America"
-    },
     {
       "time": "6:42 pm",
       "artist": "Talking Heads",
@@ -26,9 +21,20 @@
       "time": "6:48 pm",
       "artist": "The Weekend",
       "title": "Die For You"
+    },
+    {
+      "time": "6:52 pm",
+      "artist": "Paul Simon",
+      "title": "The Obvious Child"
     }
   ],
   "recent": [
+    {
+      "time": "6:38 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "America",
+      "album": ""
+    },
     {
       "time": "6:35 pm",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "Phoenix",
       "title": "1901",
       "album": "Wolfgang Amadeus Phoenix • 2009"
-    },
-    {
-      "time": "4:54 pm",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue",
-      "album": "single • 1956"
     }
   ]
 }
