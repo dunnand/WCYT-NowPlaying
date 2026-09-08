@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T16:25:59",
+  "updatedAt": "2026-09-08T16:29:25",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "Can’t Catch Me Now",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "The Way It Is",
+    "album": "Room on Fire • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:29 pm",
-      "artist": "The Strokes",
-      "title": "The Way It Is"
-    },
     {
       "time": "4:32 pm",
       "artist": "The Jam",
@@ -26,9 +21,20 @@
       "time": "4:37 pm",
       "artist": "The Chemical Brothers",
       "title": "Go"
+    },
+    {
+      "time": "4:42 pm",
+      "artist": "Frank Sinatra",
+      "title": "My Way"
     }
   ],
   "recent": [
+    {
+      "time": "4:29 pm",
+      "artist": "The Strokes",
+      "title": "The Way It Is",
+      "album": "Room on Fire • 2003"
+    },
     {
       "time": "4:25 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "505",
       "album": "Favourite Worst Nightmare • 2007"
-    },
-    {
-      "time": "2:45 pm",
-      "artist": "The Strokes",
-      "title": "New York City Cop.s",
-      "album": "Is This It • 2001"
     }
   ]
 }
