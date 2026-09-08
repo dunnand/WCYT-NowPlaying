@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T19:46:31",
+  "updatedAt": "2026-09-08T19:50:28",
   "now": {
-    "artist": "Slowdive",
-    "title": "Sugar For The Pill",
-    "album": "Slowdive • 2017",
-    "category": "TUNES"
+    "artist": "The Pharcyde",
+    "title": "Passing Me By",
+    "album": "Bizarre Ride II the Pharcyde • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 pm",
-      "artist": "The Pharcyde",
-      "title": "Passing Me By"
-    },
     {
       "time": "7:55 pm",
       "artist": "Portishead",
@@ -21,9 +16,25 @@
       "time": "8:00 pm",
       "artist": "The Cure",
       "title": "In Between Days"
+    },
+    {
+      "time": "8:03 pm",
+      "artist": "The Cure",
+      "title": "Push"
+    },
+    {
+      "time": "8:07 pm",
+      "artist": "Kazumi Totaka",
+      "title": "Yoshi's Story (Story of Yoshi)"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 pm",
+      "artist": "The Pharcyde",
+      "title": "Passing Me By",
+      "album": "Bizarre Ride II the Pharcyde • 1992"
+    },
     {
       "time": "7:46 pm",
       "artist": "Slowdive",
@@ -167,12 +178,6 @@
       "artist": "The Smiths",
       "title": "Reel Around the Fountain",
       "album": "The Smiths • 1984"
-    },
-    {
-      "time": "6:11 pm",
-      "artist": "The Smiths",
-      "title": "Barbarism Begins at Home",
-      "album": "Meat Is Murder • 1985"
     }
   ]
 }
