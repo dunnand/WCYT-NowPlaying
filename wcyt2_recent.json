@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T16:38:00",
+  "updatedAt": "2026-09-08T16:42:14",
   "now": {
-    "artist": "The Chemical Brothers",
-    "title": "Go",
-    "album": "Born in the Echoes • 2015",
+    "artist": "Frank Sinatra",
+    "title": "My Way",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:42 pm",
-      "artist": "Frank Sinatra",
-      "title": "My Way"
-    },
     {
       "time": "4:46 pm",
       "artist": "Eagles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:42 pm",
+      "artist": "Frank Sinatra",
+      "title": "My Way",
+      "album": ""
+    },
     {
       "time": "4:38 pm",
       "artist": "The Chemical Brothers",
@@ -172,12 +173,6 @@
       "artist": "Adele",
       "title": "Skyfall",
       "album": "Skyfall • 2012"
-    },
-    {
-      "time": "3:05 pm",
-      "artist": "*NSYNC",
-      "title": "Bye Bye Bye",
-      "album": "No Strings Attached • 2000"
     }
   ]
 }
