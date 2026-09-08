@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T09:55:57",
+  "updatedAt": "2026-09-08T09:59:21",
   "now": {
-    "artist": "Blondie",
-    "title": "Union City Blue",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Stir It Up",
+    "album": "Catch A Fire • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:59 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Stir It Up"
-    },
     {
       "time": "10:04 am",
       "artist": "The Strokes",
@@ -21,9 +16,20 @@
       "time": "10:07 am",
       "artist": "Creedence Clearwater Revival",
       "title": "Up Around The Bend"
+    },
+    {
+      "time": "10:10 am",
+      "artist": "The Cure",
+      "title": "High"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Stir It Up",
+      "album": "Catch A Fire • 1973"
+    },
     {
       "time": "9:55 am",
       "artist": "Blondie",
@@ -167,12 +173,6 @@
       "artist": "Psy",
       "title": "Gangnam Style",
       "album": "PSY 6 Six Rules, Part 1 • 2012"
-    },
-    {
-      "time": "8:18 am",
-      "artist": "Elbow",
-      "title": "Station Approach",
-      "album": "Leaders of the Free World • 2005"
     }
   ]
 }
