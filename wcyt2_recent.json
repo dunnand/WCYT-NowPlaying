@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T17:45:18",
+  "updatedAt": "2026-09-08T17:45:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bill Haley & His Comets",
+    "title": "See You Later, Alligator",
+    "album": "Rockin' the Joint • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:45 pm",
-      "artist": "Bill Haley & His Comets",
-      "title": "See You Later, Alligator"
-    },
     {
       "time": "5:48 pm",
       "artist": "Kate Bush",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:45 pm",
+      "artist": "Bill Haley & His Comets",
+      "title": "See You Later, Alligator",
+      "album": "Rockin' the Joint • 1958"
+    },
     {
       "time": "5:40 pm",
       "artist": "Eric Clapton",
@@ -172,12 +173,6 @@
       "artist": "DJ Shadow",
       "title": "Building Steam With A Grain Of Salt",
       "album": "Endtroducing • 1996"
-    },
-    {
-      "time": "4:00 pm",
-      "artist": "Solange",
-      "title": "Cranes in the Sky",
-      "album": "A Seat at the Table • 2016"
     }
   ]
 }
