@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T09:59:21",
+  "updatedAt": "2026-09-08T10:04:50",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Stir It Up",
-    "album": "Catch A Fire • 1973",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "You Talk Way Too Much",
+    "album": "Room on Fire • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:04 am",
-      "artist": "The Strokes",
-      "title": "You Talk Way Too Much"
-    },
     {
       "time": "10:07 am",
       "artist": "Creedence Clearwater Revival",
@@ -21,9 +16,25 @@
       "time": "10:10 am",
       "artist": "The Cure",
       "title": "High"
+    },
+    {
+      "time": "10:13 am",
+      "artist": "Weezer",
+      "title": "L.A. Girlz"
+    },
+    {
+      "time": "10:17 am",
+      "artist": "The Strokes",
+      "title": "The End Has No End"
     }
   ],
   "recent": [
+    {
+      "time": "10:04 am",
+      "artist": "The Strokes",
+      "title": "You Talk Way Too Much",
+      "album": "Room on Fire • 2003"
+    },
     {
       "time": "9:59 am",
       "artist": "Bob Marley and the Wailers",
@@ -167,12 +178,6 @@
       "artist": "Hole",
       "title": "Violet",
       "album": "Live Through This • 1994"
-    },
-    {
-      "time": "8:22 am",
-      "artist": "Psy",
-      "title": "Gangnam Style",
-      "album": "PSY 6 Six Rules, Part 1 • 2012"
     }
   ]
 }
