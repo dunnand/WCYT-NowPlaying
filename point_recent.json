@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T10:01:36",
+  "updatedAt": "2026-09-08T10:01:58",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Tom Waits",
+    "title": "Rain Dogs",
+    "album": "Rain Dogs • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 am",
-      "artist": "Tom Waits",
-      "title": "Rain Dogs"
-    },
     {
       "time": "10:04 am",
       "artist": "Cass McCombs",
@@ -31,9 +26,20 @@
       "time": "10:16 am",
       "artist": "The Tubs",
       "title": "Stoop To Me"
+    },
+    {
+      "time": "10:20 am",
+      "artist": "Alabama Shakes",
+      "title": "Garden"
     }
   ],
   "recent": [
+    {
+      "time": "10:01 am",
+      "artist": "Tom Waits",
+      "title": "Rain Dogs",
+      "album": "Rain Dogs • 1985"
+    },
     {
       "time": "9:56 am",
       "artist": "Real Estate",
@@ -177,12 +183,6 @@
       "artist": "Fontaines D.C.",
       "title": "Marianne",
       "album": "Dopamine Chamber • 2026"
-    },
-    {
-      "time": "8:22 am",
-      "artist": "Beatrix",
-      "title": "Turn You Down",
-      "album": "We Swallowed The Sky • 2026"
     }
   ]
 }
