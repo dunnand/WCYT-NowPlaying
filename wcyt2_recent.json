@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T09:31:49",
+  "updatedAt": "2026-09-08T09:36:04",
   "now": {
     "artist": "My Bloody Valentine",
-    "title": "Only Shallow",
+    "title": "Soon",
     "album": "Loveless • 1991",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:35 am",
-      "artist": "My Bloody Valentine",
-      "title": "Soon"
-    },
     {
       "time": "9:42 am",
       "artist": "Boogie Down Productions",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:36 am",
+      "artist": "My Bloody Valentine",
+      "title": "Soon",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "9:31 am",
       "artist": "My Bloody Valentine",
@@ -172,12 +173,6 @@
       "artist": "Syd Barrett",
       "title": "Baby Lemonade",
       "album": "Barrett • 1970"
-    },
-    {
-      "time": "8:00 am",
-      "artist": "The Beatles",
-      "title": "All I've Got To Do",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
