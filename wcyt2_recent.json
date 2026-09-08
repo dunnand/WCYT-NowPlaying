@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T09:31:38",
+  "updatedAt": "2026-09-08T09:31:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Bloody Valentine",
+    "title": "Only Shallow",
+    "album": "Loveless • 1991",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:31 am",
-      "artist": "My Bloody Valentine",
-      "title": "Only Shallow"
-    },
     {
       "time": "9:35 am",
       "artist": "My Bloody Valentine",
@@ -26,9 +21,20 @@
       "time": "9:46 am",
       "artist": "Diana Ross",
       "title": "I'm Coming Out"
+    },
+    {
+      "time": "9:51 am",
+      "artist": "HAIM",
+      "title": "Falling"
     }
   ],
   "recent": [
+    {
+      "time": "9:31 am",
+      "artist": "My Bloody Valentine",
+      "title": "Only Shallow",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "9:26 am",
       "artist": "Blood Orange",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "All I've Got To Do",
       "album": "With the Beatles • 1963"
-    },
-    {
-      "time": "7:55 am",
-      "artist": "Belle and Sebastian",
-      "title": "I'm a Cuckoo",
-      "album": "Dear Catastrophe Waitress • 2003"
     }
   ]
 }
