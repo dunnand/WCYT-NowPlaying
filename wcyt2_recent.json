@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T18:59:19",
+  "updatedAt": "2026-09-09T19:03:25",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Buffalo Soldier",
-    "album": "Confrontation • 1983",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Slack",
+    "album": "Superchunk •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:03 pm",
-      "artist": "Superchunk",
-      "title": "Slack"
-    },
     {
       "time": "7:06 pm",
       "artist": "Ramones",
@@ -21,9 +16,20 @@
       "time": "7:09 pm",
       "artist": "Bobby Darin",
       "title": "Dream Lover"
+    },
+    {
+      "time": "7:11 pm",
+      "artist": "Rodriguez",
+      "title": "Inner City Blues"
     }
   ],
   "recent": [
+    {
+      "time": "7:03 pm",
+      "artist": "Superchunk",
+      "title": "Slack",
+      "album": "Superchunk •"
+    },
     {
       "time": "6:59 pm",
       "artist": "Bob Marley and the Wailers",
@@ -167,12 +173,6 @@
       "artist": "The Flaming Lips",
       "title": "The Gash",
       "album": "The Soft Bulletin • 1999"
-    },
-    {
-      "time": "5:18 pm",
-      "artist": "John Denver",
-      "title": "Thank God I'm A Country Boy",
-      "album": "Back Home Again • 1974"
     }
   ]
 }
