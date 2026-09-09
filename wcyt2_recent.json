@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T12:00:42",
+  "updatedAt": "2026-09-09T12:04:25",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "No Name No. 5",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Santo & Johnny",
+    "title": "Sleepwalk",
+    "album": "Sleep Walk • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 pm",
-      "artist": "Santo & Johnny",
-      "title": "Sleepwalk"
-    },
     {
       "time": "12:06 pm",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "12:13 pm",
       "artist": "Rihanna",
       "title": "Only Girl (In The World)"
+    },
+    {
+      "time": "12:16 pm",
+      "artist": "Pearl Jam",
+      "title": "Corduroy"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 pm",
+      "artist": "Santo & Johnny",
+      "title": "Sleepwalk",
+      "album": "Sleep Walk • 1959"
+    },
     {
       "time": "12:00 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "A Century Of Fakers",
       "album": "3...6...9 Seconds of Light •"
-    },
-    {
-      "time": "10:19 am",
-      "artist": "Pavement",
-      "title": "Summer Babe (Winter Version)",
-      "album": "Slanted & Enchanted • 1992"
     }
   ]
 }
