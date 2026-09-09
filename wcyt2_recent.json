@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T14:15:57",
+  "updatedAt": "2026-09-09T14:16:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "SOS",
+    "album": "ABBA • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:16 pm",
-      "artist": "ABBA",
-      "title": "SOS"
-    },
     {
       "time": "2:19 pm",
       "artist": "Frankie Valli",
@@ -26,9 +21,20 @@
       "time": "2:25 pm",
       "artist": "Bjork",
       "title": "Army of Me"
+    },
+    {
+      "time": "2:29 pm",
+      "artist": "Louis Armstrong & His All",
+      "title": "Stars - Ain't Misbehavin'"
     }
   ],
   "recent": [
+    {
+      "time": "2:16 pm",
+      "artist": "ABBA",
+      "title": "SOS",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "2:13 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Hannah Hunt",
       "album": "Modern Vampires Of The City • 2013"
-    },
-    {
-      "time": "12:45 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Supernaturally",
-      "album": "Abattoir Blues / The Lyre of Orpheus • 2004"
     }
   ]
 }
