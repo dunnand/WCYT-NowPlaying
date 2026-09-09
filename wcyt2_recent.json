@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T11:28:33",
+  "updatedAt": "2026-09-09T11:32:38",
   "now": {
-    "artist": "Jane Child",
-    "title": "Don't Wanna Fall In Love",
-    "album": "Jane Child • 1990",
+    "artist": "Joy Division",
+    "title": "A Means to an End",
+    "album": "Still • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:32 am",
-      "artist": "Joy Division",
-      "title": "A Means to an End"
-    },
     {
       "time": "11:36 am",
       "artist": "Kate Bush",
@@ -21,9 +16,20 @@
       "time": "11:41 am",
       "artist": "Run The Jewels",
       "title": "walking in the snow"
+    },
+    {
+      "time": "11:45 am",
+      "artist": "Kenny Loggins",
+      "title": "Whenever I Call You \"Friend\""
     }
   ],
   "recent": [
+    {
+      "time": "11:32 am",
+      "artist": "Joy Division",
+      "title": "A Means to an End",
+      "album": "Still • 1981"
+    },
     {
       "time": "11:28 am",
       "artist": "Jane Child",
@@ -167,12 +173,6 @@
       "artist": "John Mayer",
       "title": "Why Georgia",
       "album": "Room for Squares • 2003"
-    },
-    {
-      "time": "9:44 am",
-      "artist": "The Carpenters",
-      "title": "Rainy Days And Mondays",
-      "album": "Carpenters • 1971"
     }
   ]
 }
