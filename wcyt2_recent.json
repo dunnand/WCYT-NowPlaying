@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T20:53:30",
+  "updatedAt": "2026-09-08T20:57:25",
   "now": {
-    "artist": "Rage Against the Machine",
-    "title": "No Shelter",
-    "album": "The Battle of Los Angeles • 1999",
+    "artist": "The Cure",
+    "title": "Primary",
+    "album": "Faith • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 pm",
-      "artist": "The Cure",
-      "title": "Primary"
-    },
     {
       "time": "9:01 pm",
       "artist": "War",
@@ -21,9 +16,20 @@
       "time": "9:04 pm",
       "artist": "The Temptations",
       "title": "The Way You Do The Things You Do"
+    },
+    {
+      "time": "9:07 pm",
+      "artist": "Yes",
+      "title": "I've Seen All Good People"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 pm",
+      "artist": "The Cure",
+      "title": "Primary",
+      "album": "Faith • 1981"
+    },
     {
       "time": "8:53 pm",
       "artist": "Rage Against the Machine",
@@ -167,12 +173,6 @@
       "artist": "Sly and the Family Stone",
       "title": "Hot Fun In The Summertime",
       "album": "single • 1969"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "Lucinda Williams",
-      "title": "Fruits of My Labor",
-      "album": "World Without Tears • 2003"
     }
   ]
 }
