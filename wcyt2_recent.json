@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T21:01:01",
+  "updatedAt": "2026-09-08T21:01:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "War",
+    "title": "Cisco Kid",
+    "album": "The World Is a Ghetto • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:01 pm",
-      "artist": "War",
-      "title": "Cisco Kid"
-    },
     {
       "time": "9:04 pm",
       "artist": "The Temptations",
@@ -26,9 +21,20 @@
       "time": "9:14 pm",
       "artist": "The Kinks",
       "title": "Dead End Street"
+    },
+    {
+      "time": "9:17 pm",
+      "artist": "Engelbert Humperdinck",
+      "title": "After The Lovin'"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 pm",
+      "artist": "War",
+      "title": "Cisco Kid",
+      "album": "The World Is a Ghetto • 1973"
+    },
     {
       "time": "8:57 pm",
       "artist": "The Cure",
@@ -172,12 +178,6 @@
       "artist": "Stevie Wright",
       "title": "Evie (I'm Losing You)",
       "album": "Hard Road • 1974"
-    },
-    {
-      "time": "7:25 pm",
-      "artist": "Sly and the Family Stone",
-      "title": "Hot Fun In The Summertime",
-      "album": "single • 1969"
     }
   ]
 }
