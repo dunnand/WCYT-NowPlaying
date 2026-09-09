@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T12:21:31",
+  "updatedAt": "2026-09-09T12:25:45",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Tonight, Tonight",
-    "album": "Mellon Collie and the Infinite Sadness • 1995",
+    "artist": "Lionel Richie",
+    "title": "Deep River Woman feat. Alabama",
+    "album": "Dancing on the Ceiling • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:25 pm",
-      "artist": "Lionel Richie",
-      "title": "Deep River Woman feat. Alabama"
-    },
     {
       "time": "12:30 pm",
       "artist": "Meat Puppets",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:25 pm",
+      "artist": "Lionel Richie",
+      "title": "Deep River Woman feat. Alabama",
+      "album": "Dancing on the Ceiling • 1985"
+    },
     {
       "time": "12:21 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "Etta James",
       "title": "Something's Got a Hold on Me",
       "album": "Etta James • 1962"
-    },
-    {
-      "time": "10:47 am",
-      "artist": "Dionne Warwick",
-      "title": "Walk on By",
-      "album": "Make Way for Dionne Warwick • 1964"
     }
   ]
 }
