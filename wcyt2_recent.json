@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T20:39:42",
+  "updatedAt": "2026-09-08T20:39:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Gorillaz",
+    "title": "19-2000",
+    "album": "Gorillaz • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:39 pm",
-      "artist": "Gorillaz",
-      "title": "19-2000"
-    },
     {
       "time": "8:43 pm",
       "artist": "Iron & Wine",
@@ -26,9 +21,20 @@
       "time": "8:49 pm",
       "artist": "Queen",
       "title": "The Show Must Go On"
+    },
+    {
+      "time": "8:53 pm",
+      "artist": "Rage Against the Machine",
+      "title": "No Shelter"
     }
   ],
   "recent": [
+    {
+      "time": "8:39 pm",
+      "artist": "Gorillaz",
+      "title": "19-2000",
+      "album": "Gorillaz • 2001"
+    },
     {
       "time": "8:34 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "The Cure",
       "title": "Closedown",
       "album": "Disintegration • 1989"
-    },
-    {
-      "time": "7:02 pm",
-      "artist": "The Cure",
-      "title": "Just Like Heaven",
-      "album": "Kiss Me, Kiss Me, Kiss Me • 1987"
     }
   ]
 }
