@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T23:45:36",
+  "updatedAt": "2026-09-08T23:45:48",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "My Morning Jacket",
+    "title": "Anytime",
+    "album": "Z • 2005",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:45 pm",
-      "artist": "My Morning Jacket",
-      "title": "Anytime"
-    },
     {
       "time": "11:49 pm",
       "artist": "At",
@@ -21,9 +16,20 @@
       "time": "11:52 pm",
       "artist": "Swapmeet",
       "title": "I Know!"
+    },
+    {
+      "time": "11:56 pm",
+      "artist": "Bon Iver",
+      "title": "iMi"
     }
   ],
   "recent": [
+    {
+      "time": "11:45 pm",
+      "artist": "My Morning Jacket",
+      "title": "Anytime",
+      "album": "Z • 2005"
+    },
     {
       "time": "11:41 pm",
       "artist": "Wild Pink",
@@ -167,12 +173,6 @@
       "artist": "Beirut",
       "title": "So Many Plans",
       "album": "Hadsel • 2023"
-    },
-    {
-      "time": "10:09 pm",
-      "artist": "Pixies",
-      "title": "Hey",
-      "album": "Doolittle • 1989"
     }
   ]
 }
