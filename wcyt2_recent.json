@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T20:46:44",
+  "updatedAt": "2026-09-08T20:49:16",
   "now": {
-    "artist": "SAULT",
-    "title": "Smile and Go",
-    "album": "7 • 2019",
+    "artist": "Queen",
+    "title": "The Show Must Go On",
+    "album": "Innuendo • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:49 pm",
-      "artist": "Queen",
-      "title": "The Show Must Go On"
-    },
     {
       "time": "8:53 pm",
       "artist": "Rage Against the Machine",
@@ -26,9 +21,20 @@
       "time": "9:01 pm",
       "artist": "War",
       "title": "Cisco Kid"
+    },
+    {
+      "time": "9:05 pm",
+      "artist": "The Temptations",
+      "title": "The Way You Do The Things You Do"
     }
   ],
   "recent": [
+    {
+      "time": "8:49 pm",
+      "artist": "Queen",
+      "title": "The Show Must Go On",
+      "album": "Innuendo • 1991"
+    },
     {
       "time": "8:46 pm",
       "artist": "SAULT",
@@ -172,12 +178,6 @@
       "artist": "Simon & Garfunkel",
       "title": "The Only Living Boy in New York",
       "album": "Bridge Over Troubled Water • 1970"
-    },
-    {
-      "time": "7:13 pm",
-      "artist": "Shuggie Otis",
-      "title": "Sweet Thang",
-      "album": "Freedom Flight • 1971"
     }
   ]
 }
