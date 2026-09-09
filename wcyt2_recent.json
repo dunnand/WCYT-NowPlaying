@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T22:09:36",
+  "updatedAt": "2026-09-08T22:11:47",
   "now": {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Bad Moon Rising",
-    "album": "Green River • 1969",
+    "artist": "AC/DC",
+    "title": "Dirty Deeds Done Dirt Cheap",
+    "album": "Dirty Deeds Done Dirt Cheap • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:11 pm",
-      "artist": "AC/DC",
-      "title": "Dirty Deeds Done Dirt Cheap"
-    },
     {
       "time": "10:15 pm",
       "artist": "Gin Blossoms",
@@ -26,9 +21,20 @@
       "time": "10:23 pm",
       "artist": "The Microphones",
       "title": "Something"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "The Hold Steady",
+      "title": "Stuck Between Stations"
     }
   ],
   "recent": [
+    {
+      "time": "10:11 pm",
+      "artist": "AC/DC",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "album": "Dirty Deeds Done Dirt Cheap • 1976"
+    },
     {
       "time": "10:09 pm",
       "artist": "Creedence Clearwater Revival",
@@ -172,12 +178,6 @@
       "artist": "Iron & Wine",
       "title": "Each Coming Night",
       "album": "Our Endless Numbered Days • 2004"
-    },
-    {
-      "time": "8:39 pm",
-      "artist": "Gorillaz",
-      "title": "19-2000",
-      "album": "Gorillaz • 2001"
     }
   ]
 }
