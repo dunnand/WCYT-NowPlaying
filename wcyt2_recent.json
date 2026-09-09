@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T16:39:45",
+  "updatedAt": "2026-09-09T16:42:49",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I Want You",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "David Bowie",
+    "title": "The Stars (Are Out Tonight)",
+    "album": "The Next Day • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:42 pm",
-      "artist": "David Bowie",
-      "title": "The Stars (Are Out Tonight)"
-    },
     {
       "time": "4:46 pm",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "4:50 pm",
       "artist": "Haddaway",
       "title": "What Is Love"
+    },
+    {
+      "time": "4:54 pm",
+      "artist": "Beastie Boys",
+      "title": "(You Gotta) Fight For Your Right (To Party!)"
     }
   ],
   "recent": [
+    {
+      "time": "4:42 pm",
+      "artist": "David Bowie",
+      "title": "The Stars (Are Out Tonight)",
+      "album": "The Next Day • 2013"
+    },
     {
       "time": "4:39 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Bill Withers",
       "title": "Ain't No Sunshine",
       "album": "Just As I Am • 1971"
-    },
-    {
-      "time": "3:12 pm",
-      "artist": "Ram Jam",
-      "title": "Black Betty",
-      "album": "Ram Jam • 1977"
     }
   ]
 }
