@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T11:13:09",
+  "updatedAt": "2026-09-09T11:17:33",
   "now": {
-    "artist": "Les Savy Fav",
-    "title": "Meet Me in the Dollar Bin",
-    "album": "Inches • 2004",
-    "category": "TUNES"
+    "artist": "Gorillaz",
+    "title": "Dirty Harry",
+    "album": "Demon Days • 2005",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:17 am",
-      "artist": "Gorillaz",
-      "title": "Dirty Harry"
-    },
     {
       "time": "11:21 am",
       "artist": "Tinnie Tempah",
@@ -26,9 +21,20 @@
       "time": "11:28 am",
       "artist": "Jane Child",
       "title": "Don't Wanna Fall In Love"
+    },
+    {
+      "time": "11:32 am",
+      "artist": "Joy Division",
+      "title": "A Means to an End"
     }
   ],
   "recent": [
+    {
+      "time": "11:17 am",
+      "artist": "Gorillaz",
+      "title": "Dirty Harry",
+      "album": "Demon Days • 2005"
+    },
     {
       "time": "11:13 am",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "The Jam",
       "title": "Going Underground",
       "album": "Single • 1980"
-    },
-    {
-      "time": "9:30 am",
-      "artist": "The Jam",
-      "title": "Absolute Beginners",
-      "album": "Single • 1981"
     }
   ]
 }
