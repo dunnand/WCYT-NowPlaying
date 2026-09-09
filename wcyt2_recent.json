@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T04:08:37",
+  "updatedAt": "2026-09-09T04:13:11",
   "now": {
-    "artist": "Neil Young",
-    "title": "Tonight's the Night",
-    "album": "Tonight's the Night • 1975",
+    "artist": "The Chemical Brothers",
+    "title": "Hey Boy Hey Girl",
+    "album": "Surrender • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:13 am",
-      "artist": "The Chemical Brothers",
-      "title": "Hey Boy Hey Girl"
-    },
     {
       "time": "4:18 am",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "4:21 am",
       "artist": "Jesu",
       "title": "Silver"
+    },
+    {
+      "time": "4:28 am",
+      "artist": "Buffalo Springfield",
+      "title": "Mr. Soul"
     }
   ],
   "recent": [
+    {
+      "time": "4:13 am",
+      "artist": "The Chemical Brothers",
+      "title": "Hey Boy Hey Girl",
+      "album": "Surrender • 1999"
+    },
     {
       "time": "4:08 am",
       "artist": "Neil Young",
@@ -167,12 +173,6 @@
       "artist": "Stereolab",
       "title": "French Disko",
       "album": "single • 1993"
-    },
-    {
-      "time": "2:29 am",
-      "artist": "Spoon",
-      "title": "The Agony of Laffitte",
-      "album": "The Agony of Laffitte • 1999"
     }
   ]
 }
