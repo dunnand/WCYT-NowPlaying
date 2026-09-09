@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T01:22:40",
+  "updatedAt": "2026-09-09T01:25:56",
   "now": {
-    "artist": "Wilco",
-    "title": "Cold Slope",
-    "album": "Star Wars • 2015",
-    "category": "AUDIO"
+    "artist": "Songs Ohia",
+    "title": "Trans Am (this time anything finite at all)",
+    "album": "Impala • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:25 am",
-      "artist": "Songs Ohia",
-      "title": "Trans Am (this time anything finite at all)"
-    },
     {
       "time": "1:29 am",
       "artist": "Spice Girls",
@@ -21,9 +16,25 @@
       "time": "1:32 am",
       "artist": "The Cure",
       "title": "Lovesong"
+    },
+    {
+      "time": "1:38 am",
+      "artist": "The Cure",
+      "title": "The Lovecats"
+    },
+    {
+      "time": "1:42 am",
+      "artist": "SAULT",
+      "title": "Strong"
     }
   ],
   "recent": [
+    {
+      "time": "1:25 am",
+      "artist": "Songs Ohia",
+      "title": "Trans Am (this time anything finite at all)",
+      "album": "Impala • 1998"
+    },
     {
       "time": "1:22 am",
       "artist": "Wilco",
@@ -167,12 +178,6 @@
       "artist": "The Smiths",
       "title": "Cemetry Gates",
       "album": "The Queen is Dead • 1986"
-    },
-    {
-      "time": "11:38 pm",
-      "artist": "The Smiths",
-      "title": "That Joke Isn't Funny Anymore",
-      "album": "Meat Is Murder • 1985"
     }
   ]
 }
