@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T15:22:13",
+  "updatedAt": "2026-09-09T15:26:27",
   "now": {
-    "artist": "The Postal Service",
-    "title": "Sleeping In",
-    "album": "Give Up • 2003",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Baby, Let Me Follow You Down",
+    "album": "Bob Dylan • 1962",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 pm",
-      "artist": "Bob Dylan",
-      "title": "Baby, Let Me Follow You Down"
-    },
     {
       "time": "3:29 pm",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "3:37 pm",
       "artist": "Blood Orange",
       "title": "You're Not Good Enough"
+    },
+    {
+      "time": "3:40 pm",
+      "artist": "Ke$ha",
+      "title": "Tik Tok"
     }
   ],
   "recent": [
+    {
+      "time": "3:26 pm",
+      "artist": "Bob Dylan",
+      "title": "Baby, Let Me Follow You Down",
+      "album": "Bob Dylan • 1962"
+    },
     {
       "time": "3:22 pm",
       "artist": "The Postal Service",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Locator",
       "album": "Schmilco • 2016"
-    },
-    {
-      "time": "1:47 pm",
-      "artist": "Madonna",
-      "title": "What It Feels Like For A Girl",
-      "album": "Music • 2001"
     }
   ]
 }
