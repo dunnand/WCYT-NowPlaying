@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T23:10:17",
+  "updatedAt": "2026-09-08T23:14:40",
   "now": {
-    "artist": "Goo Goo Dolls",
-    "title": "Name",
-    "album": "A Boy Named Goo • 1995",
+    "artist": "Wilco",
+    "title": "I Might",
+    "album": "The Whole Love • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:14 pm",
-      "artist": "Wilco",
-      "title": "I Might"
-    },
     {
       "time": "11:18 pm",
       "artist": "Kaiser Chiefs",
@@ -21,9 +16,20 @@
       "time": "11:22 pm",
       "artist": "Lupe Fiasco",
       "title": "Kick, Push"
+    },
+    {
+      "time": "11:26 pm",
+      "artist": "Taylor Swift",
+      "title": "Style"
     }
   ],
   "recent": [
+    {
+      "time": "11:14 pm",
+      "artist": "Wilco",
+      "title": "I Might",
+      "album": "The Whole Love • 2011"
+    },
     {
       "time": "11:10 pm",
       "artist": "Goo Goo Dolls",
@@ -167,12 +173,6 @@
       "artist": "The Smiths",
       "title": "The Boy With the Thorn in His Side",
       "album": "single • 1985"
-    },
-    {
-      "time": "9:45 pm",
-      "artist": "Galaxie 500",
-      "title": "Listen, the Snow is Falling",
-      "album": "This Is Our Music •"
     }
   ]
 }
