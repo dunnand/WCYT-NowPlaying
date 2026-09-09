@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T21:40:48",
+  "updatedAt": "2026-09-08T21:45:20",
   "now": {
-    "artist": "Fiona Apple",
-    "title": "Fast as You Can",
-    "album": "When the Pawn • 1999",
-    "category": "TUNES"
+    "artist": "Galaxie 500",
+    "title": "Listen, the Snow is Falling",
+    "album": "This Is Our Music •",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:45 pm",
-      "artist": "Galaxie 500",
-      "title": "Listen, the Snow is Falling"
-    },
     {
       "time": "9:50 pm",
       "artist": "The Smiths",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:45 pm",
+      "artist": "Galaxie 500",
+      "title": "Listen, the Snow is Falling",
+      "album": "This Is Our Music •"
+    },
     {
       "time": "9:40 pm",
       "artist": "Fiona Apple",
@@ -172,12 +173,6 @@
       "artist": "The Chi-Lites",
       "title": "Have You Seen Her",
       "album": "Give More Power To The People • 1971"
-    },
-    {
-      "time": "8:07 pm",
-      "artist": "Kazumi Totaka",
-      "title": "Yoshi's Story (Story of Yoshi)",
-      "album": "Nintendo Music •"
     }
   ]
 }
