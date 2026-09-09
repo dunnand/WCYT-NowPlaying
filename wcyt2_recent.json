@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T19:03:25",
+  "updatedAt": "2026-09-09T19:06:20",
   "now": {
-    "artist": "Superchunk",
-    "title": "Slack",
-    "album": "Superchunk •",
-    "category": "TUNES"
+    "artist": "Ramones",
+    "title": "Sheena Is a Punk Rocker",
+    "album": "Rocket to Russia • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:06 pm",
-      "artist": "Ramones",
-      "title": "Sheena Is a Punk Rocker"
-    },
     {
       "time": "7:09 pm",
       "artist": "Bobby Darin",
@@ -21,9 +16,25 @@
       "time": "7:11 pm",
       "artist": "Rodriguez",
       "title": "Inner City Blues"
+    },
+    {
+      "time": "7:14 pm",
+      "artist": "Diana Ross & The Supremes",
+      "title": "Baby Love"
+    },
+    {
+      "time": "7:17 pm",
+      "artist": "Santana",
+      "title": "No One To Depend On"
     }
   ],
   "recent": [
+    {
+      "time": "7:06 pm",
+      "artist": "Ramones",
+      "title": "Sheena Is a Punk Rocker",
+      "album": "Rocket to Russia • 1977"
+    },
     {
       "time": "7:03 pm",
       "artist": "Superchunk",
@@ -167,12 +178,6 @@
       "artist": "Beach House",
       "title": "Wild",
       "album": "Bloom • 2012"
-    },
-    {
-      "time": "5:21 pm",
-      "artist": "The Flaming Lips",
-      "title": "The Gash",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
