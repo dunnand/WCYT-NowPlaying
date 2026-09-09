@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T16:08:35",
+  "updatedAt": "2026-09-09T16:11:41",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Pump It Up",
-    "album": "This Year's Model • 1978",
+    "artist": "Brenda Lee",
+    "title": "I'm sorry",
+    "album": "Brenda Lee • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:11 pm",
-      "artist": "Brenda Lee",
-      "title": "I'm sorry"
-    },
     {
       "time": "4:14 pm",
       "artist": "Eric Clapton",
@@ -26,9 +21,20 @@
       "time": "4:19 pm",
       "artist": "James Brown",
       "title": "The Payback"
+    },
+    {
+      "time": "4:27 pm",
+      "artist": "U2",
+      "title": "Until The End Of The World"
     }
   ],
   "recent": [
+    {
+      "time": "4:11 pm",
+      "artist": "Brenda Lee",
+      "title": "I'm sorry",
+      "album": "Brenda Lee • 1960"
+    },
     {
       "time": "4:08 pm",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Ladysmith Black Mambazo",
       "title": "Inkanyezi Nezazi (Star And The Wiseman)",
       "album": "Long Walk to Freedom • 2006"
-    },
-    {
-      "time": "2:29 pm",
-      "artist": "Louis Armstrong & His All-Stars",
-      "title": "Ain't Misbehavin'",
-      "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
     }
   ]
 }
