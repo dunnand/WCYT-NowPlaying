@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T07:20:06",
+  "updatedAt": "2026-09-09T07:22:50",
   "now": {
-    "artist": "James Brown and The Famous Flames",
-    "title": "Please, Please, Please",
-    "album": "Please Please Please • 1958",
+    "artist": "Green Day",
+    "title": "Boulevard Of Broken Dreams",
+    "album": "American Idiot • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:22 am",
-      "artist": "Green Day",
-      "title": "Boulevard Of Broken Dreams"
-    },
     {
       "time": "7:27 am",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "7:30 am",
       "artist": "Son Little",
       "title": "The River"
+    },
+    {
+      "time": "7:34 am",
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You"
     }
   ],
   "recent": [
+    {
+      "time": "7:22 am",
+      "artist": "Green Day",
+      "title": "Boulevard Of Broken Dreams",
+      "album": "American Idiot • 2004"
+    },
     {
       "time": "7:20 am",
       "artist": "James Brown and The Famous Flames",
@@ -167,12 +173,6 @@
       "artist": "The Cure",
       "title": "Play for Today",
       "album": "Seventeen Seconds • 1980"
-    },
-    {
-      "time": "5:45 am",
-      "artist": "The Cure",
-      "title": "All Cats Are Grey",
-      "album": "Faith • 1981"
     }
   ]
 }
