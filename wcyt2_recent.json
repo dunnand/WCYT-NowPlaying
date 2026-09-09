@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T16:08:25",
+  "updatedAt": "2026-09-09T16:08:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Costello",
+    "title": "Pump It Up",
+    "album": "This Year's Model • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:08 pm",
-      "artist": "Elvis Costello",
-      "title": "Pump It Up"
-    },
     {
       "time": "4:11 pm",
       "artist": "Brenda Lee",
@@ -26,9 +21,20 @@
       "time": "4:17 pm",
       "artist": "The Beach Boys",
       "title": "Surfin' Safari"
+    },
+    {
+      "time": "4:19 pm",
+      "artist": "James Brown",
+      "title": "The Payback"
     }
   ],
   "recent": [
+    {
+      "time": "4:08 pm",
+      "artist": "Elvis Costello",
+      "title": "Pump It Up",
+      "album": "This Year's Model • 1978"
+    },
     {
       "time": "4:04 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Louis Armstrong & His All-Stars",
       "title": "Ain't Misbehavin'",
       "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
-    },
-    {
-      "time": "2:25 pm",
-      "artist": "Bjork",
-      "title": "Army of Me",
-      "album": "Post • 1995"
     }
   ]
 }
