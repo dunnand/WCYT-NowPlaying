@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T11:22:00",
+  "updatedAt": "2026-09-09T11:22:10",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Talking Heads",
+    "title": "Crosseyed and Painless",
+    "album": "Remain in Light • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:22 am",
-      "artist": "Talking Heads",
-      "title": "Crosseyed and Painless"
-    },
     {
       "time": "11:26 am",
       "artist": "The Strokes",
@@ -31,9 +26,20 @@
       "time": "11:37 am",
       "artist": "Animal Collective",
       "title": "Father Time"
+    },
+    {
+      "time": "11:42 am",
+      "artist": "The Shins",
+      "title": "Know Your Onion!"
     }
   ],
   "recent": [
+    {
+      "time": "11:22 am",
+      "artist": "Talking Heads",
+      "title": "Crosseyed and Painless",
+      "album": "Remain in Light • 1980"
+    },
     {
       "time": "11:19 am",
       "artist": "Amber Arcades",
@@ -177,12 +183,6 @@
       "artist": "Widowspeak",
       "title": "If You Change",
       "album": "Roses • 2026"
-    },
-    {
-      "time": "9:40 am",
-      "artist": "Dum Dum Girls",
-      "title": "Coming Down",
-      "album": "Only in Dreams • 2011"
     }
   ]
 }
