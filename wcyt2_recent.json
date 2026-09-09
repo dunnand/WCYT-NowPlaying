@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T14:22:44",
+  "updatedAt": "2026-09-09T14:25:58",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "Mandy",
-    "album": "Barry Manilow II • 1974",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Army of Me",
+    "album": "Post • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:25 pm",
-      "artist": "Bjork",
-      "title": "Army of Me"
-    },
     {
       "time": "2:29 pm",
       "artist": "Louis Armstrong & His All",
@@ -21,9 +16,20 @@
       "time": "2:34 pm",
       "artist": "Ladysmith Black Mambazo",
       "title": "Inkanyezi Nezazi (Star And The Wiseman)"
+    },
+    {
+      "time": "2:39 pm",
+      "artist": "The Everly Brothers",
+      "title": "So Sad (To Watch Good Love Go Bad)"
     }
   ],
   "recent": [
+    {
+      "time": "2:25 pm",
+      "artist": "Bjork",
+      "title": "Army of Me",
+      "album": "Post • 1995"
+    },
     {
       "time": "2:22 pm",
       "artist": "Barry Manilow",
@@ -167,12 +173,6 @@
       "artist": "Yo La Tengo",
       "title": "The Summer",
       "album": "Fakebook • 1990"
-    },
-    {
-      "time": "12:57 pm",
-      "artist": "Modest Mouse",
-      "title": "Doin' the Cockroach",
-      "album": "Lonesome Crowded West • 1998"
     }
   ]
 }
