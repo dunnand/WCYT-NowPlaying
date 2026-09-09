@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T21:59:07",
+  "updatedAt": "2026-09-08T21:59:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Doors",
+    "title": "Peace Frog",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "The Doors",
-      "title": "Peace Frog"
-    },
     {
       "time": "10:02 pm",
       "artist": "Wire",
@@ -26,9 +21,20 @@
       "time": "10:09 pm",
       "artist": "Creedence Clearwater Revival",
       "title": "Bad Moon Rising"
+    },
+    {
+      "time": "10:11 pm",
+      "artist": "AC/DC",
+      "title": "Dirty Deeds Done Dirt Cheap"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "The Doors",
+      "title": "Peace Frog",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "9:55 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "The Spinners",
       "title": "It's A Shame",
       "album": "2nd Time Around • 1970"
-    },
-    {
-      "time": "8:24 pm",
-      "artist": "Sly and the Family Stone",
-      "title": "Dance to the Music",
-      "album": "Dance to the Music • 1968"
     }
   ]
 }
