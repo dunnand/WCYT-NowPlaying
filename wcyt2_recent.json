@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T16:14:35",
+  "updatedAt": "2026-09-09T16:17:40",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "After Midnight",
-    "album": "Eric Clapton • 1970",
+    "artist": "The Beach Boys",
+    "title": "Surfin' Safari",
+    "album": "Surfin' Safari • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:17 pm",
-      "artist": "The Beach Boys",
-      "title": "Surfin' Safari"
-    },
     {
       "time": "4:19 pm",
       "artist": "James Brown",
@@ -26,9 +21,20 @@
       "time": "4:31 pm",
       "artist": "The Isley Brothers",
       "title": "Shout, Pts. 1 & 2"
+    },
+    {
+      "time": "4:36 pm",
+      "artist": "Kasabian",
+      "title": "Club Foot"
     }
   ],
   "recent": [
+    {
+      "time": "4:17 pm",
+      "artist": "The Beach Boys",
+      "title": "Surfin' Safari",
+      "album": "Surfin' Safari • 1962"
+    },
     {
       "time": "4:14 pm",
       "artist": "Eric Clapton",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "The Man",
       "album": "Wonderful Wonderful • 2017"
-    },
-    {
-      "time": "2:39 pm",
-      "artist": "The Everly Brothers",
-      "title": "So Sad (To Watch Good Love Go Bad)",
-      "album": "It's Everly Time • 1960"
     }
   ]
 }
