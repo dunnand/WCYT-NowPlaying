@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T21:07:35",
+  "updatedAt": "2026-09-08T21:14:12",
   "now": {
-    "artist": "Yes",
-    "title": "I've Seen All Good People",
-    "album": "The Yes Album • 1971",
+    "artist": "The Kinks",
+    "title": "Dead End Street",
+    "album": "single • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 pm",
-      "artist": "The Kinks",
-      "title": "Dead End Street"
-    },
     {
       "time": "9:17 pm",
       "artist": "Engelbert Humperdinck",
@@ -26,9 +21,20 @@
       "time": "9:27 pm",
       "artist": "Champs",
       "title": "Tequila"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "Interpol",
+      "title": "PDA"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 pm",
+      "artist": "The Kinks",
+      "title": "Dead End Street",
+      "album": "single • 1966"
+    },
     {
       "time": "9:07 pm",
       "artist": "Yes",
@@ -172,12 +178,6 @@
       "artist": "Lightning Bolt",
       "title": "Assassins",
       "album": "Wonderful Rainbow • 2005"
-    },
-    {
-      "time": "7:36 pm",
-      "artist": "Little Willie John",
-      "title": "Fever",
-      "album": "single • 1956"
     }
   ]
 }
