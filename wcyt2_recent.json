@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T09:28:02",
+  "updatedAt": "2026-09-09T09:30:24",
   "now": {
-    "artist": "of Montreal",
-    "title": "Jacques Lamure",
-    "album": "The Parade • 1999",
-    "category": "TUNES"
+    "artist": "The Jam",
+    "title": "Absolute Beginners",
+    "album": "Single • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "The Jam",
-      "title": "Absolute Beginners"
-    },
     {
       "time": "9:33 am",
       "artist": "The Jam",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "The Jam",
+      "title": "Absolute Beginners",
+      "album": "Single • 1981"
+    },
     {
       "time": "9:28 am",
       "artist": "of Montreal",
@@ -172,12 +173,6 @@
       "artist": "Aretha Franklin",
       "title": "Think",
       "album": "Aretha Now • 1968"
-    },
-    {
-      "time": "8:04 am",
-      "artist": "Kelly Clarkson",
-      "title": "A Moment Like This",
-      "album": "A Moment Like This • 2002"
     }
   ]
 }
