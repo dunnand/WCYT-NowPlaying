@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T11:58:31",
+  "updatedAt": "2026-09-09T12:00:42",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Big Yellow Taxi",
-    "album": "Ladies of the Canyon • 1970",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "No Name No. 5",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:00 pm",
-      "artist": "Elliott Smith",
-      "title": "No Name No. 5"
-    },
     {
       "time": "12:04 pm",
       "artist": "Santo & Johnny",
@@ -26,9 +21,20 @@
       "time": "12:10 pm",
       "artist": "The Byrds",
       "title": "Mr. Tambourine Man"
+    },
+    {
+      "time": "12:13 pm",
+      "artist": "Rihanna",
+      "title": "Only Girl (In The World)"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 pm",
+      "artist": "Elliott Smith",
+      "title": "No Name No. 5",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "11:58 am",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Summer Babe (Winter Version)",
       "album": "Slanted & Enchanted • 1992"
-    },
-    {
-      "time": "10:16 am",
-      "artist": "Rihanna",
-      "title": "We Found Love feat. Calvin Harris",
-      "album": "Talk That Talk • 2011"
     }
   ]
 }
