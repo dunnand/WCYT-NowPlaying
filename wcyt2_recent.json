@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T15:15:35",
+  "updatedAt": "2026-09-09T15:17:28",
   "now": {
-    "artist": "Bill Withers",
-    "title": "Ain't No Sunshine",
-    "album": "Just As I Am • 1971",
+    "artist": "Eno",
+    "title": "On Some Faraway Beach",
+    "album": "Here Come the Warm Jets • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:17 pm",
-      "artist": "Eno",
-      "title": "On Some Faraway Beach"
-    },
     {
       "time": "3:22 pm",
       "artist": "The Postal Service",
@@ -26,9 +21,20 @@
       "time": "3:29 pm",
       "artist": "Bruce Springsteen",
       "title": "Badlands"
+    },
+    {
+      "time": "3:33 pm",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Otherside"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 pm",
+      "artist": "Eno",
+      "title": "On Some Faraway Beach",
+      "album": "Here Come the Warm Jets • 1974"
+    },
     {
       "time": "3:15 pm",
       "artist": "Bill Withers",
@@ -172,12 +178,6 @@
       "artist": "Phoenix",
       "title": "Long Distance Call",
       "album": "It's Never Been Like That • 2006"
-    },
-    {
-      "time": "1:40 pm",
-      "artist": "Vampire Weekend",
-      "title": "Obvious Bicycle",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
