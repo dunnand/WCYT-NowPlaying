@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T22:06:22",
+  "updatedAt": "2026-09-08T22:09:36",
   "now": {
-    "artist": "*NSYNC",
-    "title": "It's Gonna Be Me",
-    "album": "No Strings Attached • 2000",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Bad Moon Rising",
+    "album": "Green River • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:09 pm",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Bad Moon Rising"
-    },
     {
       "time": "10:11 pm",
       "artist": "AC/DC",
@@ -26,9 +21,20 @@
       "time": "10:19 pm",
       "artist": "Thao And The Get Down Stay Down",
       "title": "Temple"
+    },
+    {
+      "time": "10:23 pm",
+      "artist": "The Microphones",
+      "title": "Something"
     }
   ],
   "recent": [
+    {
+      "time": "10:09 pm",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Bad Moon Rising",
+      "album": "Green River • 1969"
+    },
     {
       "time": "10:06 pm",
       "artist": "*NSYNC",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "19-2000",
       "album": "Gorillaz • 2001"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Wilco",
-      "title": "You Satellite",
-      "album": "Star Wars • 2015"
     }
   ]
 }
