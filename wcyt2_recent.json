@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T16:14:25",
+  "updatedAt": "2026-09-09T16:14:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "After Midnight",
+    "album": "Eric Clapton • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:14 pm",
-      "artist": "Eric Clapton",
-      "title": "After Midnight"
-    },
     {
       "time": "4:17 pm",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "4:27 pm",
       "artist": "U2",
       "title": "Until The End Of The World"
+    },
+    {
+      "time": "4:31 pm",
+      "artist": "The Isley Brothers",
+      "title": "Shout, Pts. 1 & 2"
     }
   ],
   "recent": [
+    {
+      "time": "4:14 pm",
+      "artist": "Eric Clapton",
+      "title": "After Midnight",
+      "album": "Eric Clapton • 1970"
+    },
     {
       "time": "4:11 pm",
       "artist": "Brenda Lee",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "So Sad (To Watch Good Love Go Bad)",
       "album": "It's Everly Time • 1960"
-    },
-    {
-      "time": "2:34 pm",
-      "artist": "Ladysmith Black Mambazo",
-      "title": "Inkanyezi Nezazi (Star And The Wiseman)",
-      "album": "Long Walk to Freedom • 2006"
     }
   ]
 }
