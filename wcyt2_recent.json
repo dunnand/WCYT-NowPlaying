@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T19:36:05",
+  "updatedAt": "2026-09-09T19:41:21",
   "now": {
-    "artist": "Big Thief",
-    "title": "Mary",
-    "album": "Capacity • 2017",
-    "category": "TUNES"
+    "artist": "Nirvana",
+    "title": "All Apologies",
+    "album": "In Utero • 1993",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:41 pm",
-      "artist": "Nirvana",
-      "title": "All Apologies"
-    },
     {
       "time": "7:45 pm",
       "artist": "Oasis",
@@ -23,12 +18,23 @@
       "title": "Drive"
     },
     {
-      "time": "7:54 pm",
+      "time": "7:53 pm",
       "artist": "St. Vincent",
       "title": "New York"
+    },
+    {
+      "time": "7:56 pm",
+      "artist": "Kelly Clarkson",
+      "title": "Since U Been Gone"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 pm",
+      "artist": "Nirvana",
+      "title": "All Apologies",
+      "album": "In Utero • 1993"
+    },
     {
       "time": "7:36 pm",
       "artist": "Big Thief",
@@ -172,12 +178,6 @@
       "artist": "Astrud Gilberto",
       "title": "Summer Samba (So Nice)",
       "album": "A Certain Smile, A Certain Sadness • 1966"
-    },
-    {
-      "time": "6:09 pm",
-      "artist": "Joy Division",
-      "title": "She's Lost Control",
-      "album": "Unknown Pleasures • 1979"
     }
   ]
 }
