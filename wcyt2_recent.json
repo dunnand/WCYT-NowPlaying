@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-08T22:45:33",
+  "updatedAt": "2026-09-08T22:48:36",
   "now": {
-    "artist": "The Smiths",
-    "title": "Bigmouth Strikes Again",
-    "album": "The Queen is Dead • 1986",
+    "artist": "Taylor Swift",
+    "title": "I Knew It, I Knew You",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:48 pm",
-      "artist": "Taylor Swift",
-      "title": "I Knew It, I Knew You"
-    },
     {
       "time": "10:51 pm",
       "artist": "The Allman Brothers Band",
@@ -21,9 +16,20 @@
       "time": "10:55 pm",
       "artist": "Creedence Clearwater Revival",
       "title": "Born on the Bayou"
+    },
+    {
+      "time": "11:00 pm",
+      "artist": "Big Star",
+      "title": "September Gurls"
     }
   ],
   "recent": [
+    {
+      "time": "10:48 pm",
+      "artist": "Taylor Swift",
+      "title": "I Knew It, I Knew You",
+      "album": ""
+    },
     {
       "time": "10:45 pm",
       "artist": "The Smiths",
@@ -167,12 +173,6 @@
       "artist": "Fatboy Slim",
       "title": "The Rockafeller Skank",
       "album": "You've Come A Long Way Baby • 1998"
-    },
-    {
-      "time": "9:17 pm",
-      "artist": "Engelbert Humperdinck",
-      "title": "After The Lovin'",
-      "album": "After the Lovin' • 1976"
     }
   ]
 }
