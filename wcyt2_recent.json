@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T19:22:56",
+  "updatedAt": "2026-09-09T19:25:49",
   "now": {
-    "artist": "Nirvana.",
-    "title": "Breed",
-    "album": "Nevermind • 1991",
+    "artist": "Elvis Presley",
+    "title": "Hound Dog",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 pm",
-      "artist": "Elvis Presley",
-      "title": "Hound Dog"
-    },
     {
       "time": "7:28 pm",
       "artist": "MGMT",
@@ -26,9 +21,20 @@
       "time": "7:36 pm",
       "artist": "Big Thief",
       "title": "Mary"
+    },
+    {
+      "time": "7:41 pm",
+      "artist": "Nirvana",
+      "title": "All Apologies"
     }
   ],
   "recent": [
+    {
+      "time": "7:25 pm",
+      "artist": "Elvis Presley",
+      "title": "Hound Dog",
+      "album": "single • 1956"
+    },
     {
       "time": "7:22 pm",
       "artist": "Nirvana.",
@@ -172,12 +178,6 @@
       "artist": "Big Country",
       "title": "In A Big Country",
       "album": "The Crossing • 1983"
-    },
-    {
-      "time": "5:44 pm",
-      "artist": "Neil Young",
-      "title": "Harvest Moon",
-      "album": "Harvest Moon • 1992"
     }
   ]
 }
