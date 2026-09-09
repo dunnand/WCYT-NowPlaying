@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T15:15:14",
+  "updatedAt": "2026-09-09T15:15:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bill Withers",
+    "title": "Ain't No Sunshine",
+    "album": "Just As I Am • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "Bill Withers",
-      "title": "Ain't No Sunshine"
-    },
     {
       "time": "3:17 pm",
       "artist": "Eno",
@@ -26,9 +21,20 @@
       "time": "3:26 pm",
       "artist": "Bob Dylan",
       "title": "Baby, Let Me Follow You Down"
+    },
+    {
+      "time": "3:29 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Badlands"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "Bill Withers",
+      "title": "Ain't No Sunshine",
+      "album": "Just As I Am • 1971"
+    },
     {
       "time": "3:12 pm",
       "artist": "Ram Jam",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Obvious Bicycle",
       "album": "Modern Vampires Of The City • 2013"
-    },
-    {
-      "time": "1:36 pm",
-      "artist": "The Magnetic Fields",
-      "title": "100,000 Fireflies",
-      "album": "Distant Plastic Trees • 1991"
     }
   ]
 }
