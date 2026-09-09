@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T08:23:06",
+  "updatedAt": "2026-09-09T08:23:28",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Tom Waits",
+    "title": "Martha",
+    "album": "Closing Time • 1973",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:23 am",
-      "artist": "Tom Waits",
-      "title": "Martha"
-    },
     {
       "time": "8:27 am",
       "artist": "L'Rain",
@@ -26,9 +21,20 @@
       "time": "8:33 am",
       "artist": "Ted Leo and the Pharmacists",
       "title": "Where Have All The Rude Boys Gone"
+    },
+    {
+      "time": "8:38 am",
+      "artist": "Andy Shauf",
+      "title": "The Moon"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 am",
+      "artist": "Tom Waits",
+      "title": "Martha",
+      "album": "Closing Time • 1973"
+    },
     {
       "time": "8:18 am",
       "artist": "Parquet Courts",
@@ -172,12 +178,6 @@
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "Alien Metal",
       "album": "Alien Metal • 2026"
-    },
-    {
-      "time": "6:46 am",
-      "artist": "Band of Horses",
-      "title": "No One's Gonna Love You",
-      "album": "Cease to Begin • 2007"
     }
   ]
 }
