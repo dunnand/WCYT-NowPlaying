@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T12:40:35",
+  "updatedAt": "2026-09-09T12:40:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Hey You",
+    "album": "The Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 pm",
-      "artist": "Pink Floyd",
-      "title": "Hey You"
-    },
     {
       "time": "12:45 pm",
       "artist": "Nick Cave and the Bad Seeds",
@@ -31,9 +26,20 @@
       "time": "12:57 pm",
       "artist": "Modest Mouse",
       "title": "Doin' the Cockroach"
+    },
+    {
+      "time": "1:02 pm",
+      "artist": "Yo La Tengo",
+      "title": "The Summer"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 pm",
+      "artist": "Pink Floyd",
+      "title": "Hey You",
+      "album": "The Wall • 1979"
+    },
     {
       "time": "12:36 pm",
       "artist": "Nine Inch Nails",
@@ -177,12 +183,6 @@
       "artist": "Les Savy Fav",
       "title": "Meet Me in the Dollar Bin",
       "album": "Inches • 2004"
-    },
-    {
-      "time": "11:09 am",
-      "artist": "Taylor Swift",
-      "title": "Delicate",
-      "album": "reputation • 2017"
     }
   ]
 }
