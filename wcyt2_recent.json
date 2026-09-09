@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T09:09:47",
+  "updatedAt": "2026-09-09T09:12:23",
   "now": {
-    "artist": "Fats Domino",
-    "title": "The Fat Man",
-    "album": "Rock and Rollin' With Fats Domino • 1956",
-    "category": "AUDIO"
+    "artist": "M83",
+    "title": "We Own The Sky",
+    "album": "Saturdays = Youth • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:12 am",
-      "artist": "M83",
-      "title": "We Own The Sky"
-    },
     {
       "time": "9:16 am",
       "artist": "Donovan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:12 am",
+      "artist": "M83",
+      "title": "We Own The Sky",
+      "album": "Saturdays = Youth • 2008"
+    },
     {
       "time": "9:09 am",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "The English Beat",
       "title": "Save It For Later",
       "album": "Special Beat Service • 1982"
-    },
-    {
-      "time": "7:43 am",
-      "artist": "The Cure",
-      "title": "A Forest",
-      "album": "Seventeen Seconds • 1980"
     }
   ]
 }
