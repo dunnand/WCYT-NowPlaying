@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T07:30:06",
+  "updatedAt": "2026-09-10T07:30:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Petty",
+    "title": "Wildflowers",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 am",
-      "artist": "Tom Petty",
-      "title": "Wildflowers"
-    },
     {
       "time": "7:33 am",
       "artist": "Jane's Addiction",
@@ -26,9 +21,20 @@
       "time": "7:41 am",
       "artist": "Thundercat",
       "title": "Funny Thing"
+    },
+    {
+      "time": "7:43 am",
+      "artist": "Pearl Jam",
+      "title": "Light Years"
     }
   ],
   "recent": [
+    {
+      "time": "7:30 am",
+      "artist": "Tom Petty",
+      "title": "Wildflowers",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "7:26 am",
       "artist": "They Might Be Giants",
@@ -172,12 +178,6 @@
       "artist": "My Morning Jacket",
       "title": "I Will Sing You Songs",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "5:52 am",
-      "artist": "Grace Jones",
-      "title": "La vie en rose",
-      "album": "Portfolio • 1977"
     }
   ]
 }
