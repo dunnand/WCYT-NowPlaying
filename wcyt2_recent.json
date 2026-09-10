@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T21:10:57",
+  "updatedAt": "2026-09-09T21:16:03",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "Daft Punk Is Playing At My House",
-    "album": "LCD Soundsystem • 2005",
-    "category": "TUNES"
+    "artist": "Black Eyed Peas",
+    "title": "Just Can't Get Enough",
+    "album": "The Beginning • 2010",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:16 pm",
-      "artist": "Black Eyed Peas",
-      "title": "Just Can't Get Enough"
-    },
     {
       "time": "9:19 pm",
       "artist": "Syd Barrett",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:16 pm",
+      "artist": "Black Eyed Peas",
+      "title": "Just Can't Get Enough",
+      "album": "The Beginning • 2010"
+    },
     {
       "time": "9:10 pm",
       "artist": "LCD Soundsystem",
@@ -177,12 +178,6 @@
       "artist": "The Cars",
       "title": "Drive",
       "album": "Heartbeat City • 1984"
-    },
-    {
-      "time": "7:45 pm",
-      "artist": "Oasis",
-      "title": "Morning Glory",
-      "album": "Whats the Story) Morning Glory? • 1995"
     }
   ]
 }
