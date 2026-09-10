@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T05:48:49",
+  "updatedAt": "2026-09-10T05:52:43",
   "now": {
-    "artist": "The Clash",
-    "title": "Death or Glory",
-    "album": "London Calling • 1979",
+    "artist": "Grace Jones",
+    "title": "La vie en rose",
+    "album": "Portfolio • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:52 am",
-      "artist": "Grace Jones",
-      "title": "La vie en rose"
-    },
     {
       "time": "6:00 am",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "6:12 am",
       "artist": "The Beach Boys",
       "title": "A Day in the Life of a Tree"
+    },
+    {
+      "time": "6:15 am",
+      "artist": "The Halo Benders",
+      "title": "Halo Bender"
     }
   ],
   "recent": [
+    {
+      "time": "5:52 am",
+      "artist": "Grace Jones",
+      "title": "La vie en rose",
+      "album": "Portfolio • 1977"
+    },
     {
       "time": "5:48 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Junior Senior",
       "title": "Move Your Feet",
       "album": "D-D-Don't Don't Stop the Beat • 2002"
-    },
-    {
-      "time": "4:05 am",
-      "artist": "The Orioles",
-      "title": "Crying in the Chapel",
-      "album": "single • 1953"
     }
   ]
 }
