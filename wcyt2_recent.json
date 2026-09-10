@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T00:32:45",
+  "updatedAt": "2026-09-10T00:35:30",
   "now": {
-    "artist": "Jimmy Eat World",
-    "title": "The Middle",
-    "album": "Bleed American • 2001",
+    "artist": "The Specials",
+    "title": "Too Much Too Young",
+    "album": "Specials • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 am",
-      "artist": "The Specials",
-      "title": "Too Much Too Young"
-    },
     {
       "time": "12:41 am",
       "artist": "Lemon Jelly",
@@ -26,9 +21,25 @@
       "time": "12:53 am",
       "artist": "Three Dog Night",
       "title": "Mama Told Me (Not To Come)"
+    },
+    {
+      "time": "12:56 am",
+      "artist": "Elliott Smith",
+      "title": "Rose Parade"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "David Bowie",
+      "title": "Lazarus"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 am",
+      "artist": "The Specials",
+      "title": "Too Much Too Young",
+      "album": "Specials • 1979"
+    },
     {
       "time": "12:32 am",
       "artist": "Jimmy Eat World",
@@ -172,12 +183,6 @@
       "artist": "Etta James",
       "title": "At Last",
       "album": "At Last! • 1960"
-    },
-    {
-      "time": "10:36 pm",
-      "artist": "The Guess Who",
-      "title": "American Woman",
-      "album": "American Woman • 1970"
     }
   ]
 }
