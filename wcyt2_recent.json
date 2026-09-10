@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T07:41:14",
+  "updatedAt": "2026-09-10T07:43:06",
   "now": {
-    "artist": "Thundercat",
-    "title": "Funny Thing",
-    "album": "It Is What It Is • 2020",
+    "artist": "Pearl Jam",
+    "title": "Light Years",
+    "album": "Binaural • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 am",
-      "artist": "Pearl Jam",
-      "title": "Light Years"
-    },
     {
       "time": "7:48 am",
       "artist": "Commodores",
@@ -26,9 +21,20 @@
       "time": "8:01 am",
       "artist": "Charles Bradley",
       "title": "Lucifer"
+    },
+    {
+      "time": "8:05 am",
+      "artist": "Curtis Mayfield",
+      "title": "Underground"
     }
   ],
   "recent": [
+    {
+      "time": "7:43 am",
+      "artist": "Pearl Jam",
+      "title": "Light Years",
+      "album": "Binaural • 2000"
+    },
     {
       "time": "7:41 am",
       "artist": "Thundercat",
@@ -172,12 +178,6 @@
       "artist": "Sister Rosetta Tharpe",
       "title": "Strange Things Happening Every Day",
       "album": "single • 1944"
-    },
-    {
-      "time": "6:15 am",
-      "artist": "The Halo Benders",
-      "title": "Halo Bender",
-      "album": "Don't Tell Me Now • 1996"
     }
   ]
 }
