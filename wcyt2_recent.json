@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T00:56:14",
+  "updatedAt": "2026-09-10T00:59:38",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Rose Parade",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "David Bowie",
+    "title": "Lazarus",
+    "album": "Blackstar • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "David Bowie",
-      "title": "Lazarus"
-    },
     {
       "time": "1:06 am",
       "artist": "Loretta Lynn",
@@ -21,9 +16,20 @@
       "time": "1:09 am",
       "artist": "LCD Soundsystem",
       "title": "All My Friends"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "B.O.B",
+      "title": "NothinOnYou"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "David Bowie",
+      "title": "Lazarus",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "12:56 am",
       "artist": "Elliott Smith",
@@ -167,12 +173,6 @@
       "artist": "Cream",
       "title": "Tales of Brave Ulysses",
       "album": "Disraeli Gears • 1967"
-    },
-    {
-      "time": "10:52 pm",
-      "artist": "Kings of Leon",
-      "title": "King of the Rodeo",
-      "album": "Aha Shake Heartbreak • 2004"
     }
   ]
 }
