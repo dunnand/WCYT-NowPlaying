@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T18:13:19",
+  "updatedAt": "2026-09-10T18:13:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Friend of the Devil",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:13 pm",
-      "artist": "Grateful Dead",
-      "title": "Friend of the Devil"
-    },
     {
       "time": "6:16 pm",
       "artist": "The Cookies",
@@ -26,9 +21,20 @@
       "time": "6:22 pm",
       "artist": "Jonathan Richman",
       "title": "Dancing in a lesbian Bar"
+    },
+    {
+      "time": "6:26 pm",
+      "artist": "Bobby Darin",
+      "title": "Mack The Knife"
     }
   ],
   "recent": [
+    {
+      "time": "6:13 pm",
+      "artist": "Grateful Dead",
+      "title": "Friend of the Devil",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "6:11 pm",
       "artist": "13th Floor Elevators",
@@ -172,12 +178,6 @@
       "artist": "Donovan",
       "title": "Barabajagal",
       "album": "Barabajagal • 1969"
-    },
-    {
-      "time": "4:36 pm",
-      "artist": "Low",
-      "title": "Dinosaur Act",
-      "album": "Things We Lost In The Fire • 2001"
     }
   ]
 }
