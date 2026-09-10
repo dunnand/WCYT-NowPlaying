@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T22:36:11",
+  "updatedAt": "2026-09-09T22:39:56",
   "now": {
-    "artist": "The Guess Who",
-    "title": "American Woman",
-    "album": "American Woman • 1970",
+    "artist": "Etta James",
+    "title": "At Last",
+    "album": "At Last! • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:39 pm",
-      "artist": "Etta James",
-      "title": "At Last"
-    },
     {
       "time": "10:42 pm",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "10:50 pm",
       "artist": "Elvis Presley",
       "title": "Wear My Ring Around Your Neck"
+    },
+    {
+      "time": "10:52 pm",
+      "artist": "Kings of Leon",
+      "title": "King of the Rodeo"
     }
   ],
   "recent": [
+    {
+      "time": "10:39 pm",
+      "artist": "Etta James",
+      "title": "At Last",
+      "album": "At Last! • 1960"
+    },
     {
       "time": "10:36 pm",
       "artist": "The Guess Who",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "Here It Goes Again",
       "album": "Oh No • 2005"
-    },
-    {
-      "time": "9:00 pm",
-      "artist": "Turnstile",
-      "title": "ALIEN LOVE CALL (feat. Blood Orange)",
-      "album": "GLOW ON • 2021"
     }
   ]
 }
