@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T07:30:26",
+  "updatedAt": "2026-09-10T07:33:31",
   "now": {
-    "artist": "Tom Petty",
-    "title": "Wildflowers",
-    "album": "Wildflowers • 1994",
+    "artist": "Jane's Addiction",
+    "title": "Mountain Song",
+    "album": "Nothing's Shocking • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:33 am",
-      "artist": "Jane's Addiction",
-      "title": "Mountain Song"
-    },
     {
       "time": "7:37 am",
       "artist": "J. Geils Band",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:33 am",
+      "artist": "Jane's Addiction",
+      "title": "Mountain Song",
+      "album": "Nothing's Shocking • 1988"
+    },
     {
       "time": "7:30 am",
       "artist": "Tom Petty",
@@ -172,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Corrina, Corrina",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "6:00 am",
-      "artist": "My Morning Jacket",
-      "title": "I Will Sing You Songs",
-      "album": "It Still Moves • 2003"
     }
   ]
 }
