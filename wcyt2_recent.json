@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T02:51:36",
+  "updatedAt": "2026-09-10T03:01:26",
   "now": {
-    "artist": "Neu!",
-    "title": "Hallogallo",
-    "album": "Neu! • 1972",
+    "artist": "Foo Fighters",
+    "title": "This Is a Call",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:01 am",
-      "artist": "Foo Fighters",
-      "title": "This Is a Call"
-    },
     {
       "time": "3:05 am",
       "artist": "Beach House",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:01 am",
+      "artist": "Foo Fighters",
+      "title": "This Is a Call",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "2:51 am",
       "artist": "Neu!",
@@ -172,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Perfect",
       "album": "Adore • 1998"
-    },
-    {
-      "time": "1:21 am",
-      "artist": "Pearl Jam",
-      "title": "Even Flow",
-      "album": "Ten • 1991"
     }
   ]
 }
