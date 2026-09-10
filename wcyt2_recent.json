@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T10:49:40",
+  "updatedAt": "2026-09-10T10:53:44",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Say You Love Me",
-    "album": "Fleetwood Mac • 1975",
+    "artist": "Chicago",
+    "title": "Does Anybody Really Know What Time It Is?",
+    "album": "Chicago Transit Authority • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:53 am",
-      "artist": "Chicago",
-      "title": "Does Anybody Really Know What Time It Is?"
-    },
     {
       "time": "10:58 am",
       "artist": "Paul Davis",
@@ -26,9 +21,20 @@
       "time": "11:04 am",
       "artist": "Bob Marley and the Wailers",
       "title": "Bend Down Low"
+    },
+    {
+      "time": "11:07 am",
+      "artist": "Weezer",
+      "title": "Across the Sea"
     }
   ],
   "recent": [
+    {
+      "time": "10:53 am",
+      "artist": "Chicago",
+      "title": "Does Anybody Really Know What Time It Is?",
+      "album": "Chicago Transit Authority • 1969"
+    },
     {
       "time": "10:49 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "Sex on Fire",
       "album": "Only by the Night • 2008"
-    },
-    {
-      "time": "9:22 am",
-      "artist": "Beck",
-      "title": "Colors",
-      "album": "Colors • 2017"
     }
   ]
 }
