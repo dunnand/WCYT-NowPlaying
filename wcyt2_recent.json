@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T03:47:18",
+  "updatedAt": "2026-09-10T03:51:05",
   "now": {
-    "artist": "The Beatles",
-    "title": "Dig a Pony",
-    "album": "Let It Be • 1970",
+    "artist": "Elvis Presley",
+    "title": "Little Sister",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:51 am",
-      "artist": "Elvis Presley",
-      "title": "Little Sister"
-    },
     {
       "time": "3:53 am",
       "artist": "Faust",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:51 am",
+      "artist": "Elvis Presley",
+      "title": "Little Sister",
+      "album": "single • 1961"
+    },
     {
       "time": "3:47 am",
       "artist": "The Beatles",
@@ -177,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Four Out Of Five",
       "album": "Tranquility Base Hotel & Casino •"
-    },
-    {
-      "time": "2:06 am",
-      "artist": "Diana Ross & The Supremes",
-      "title": "Someday We'll Be Together",
-      "album": "Cream of the Crop • 1969"
     }
   ]
 }
