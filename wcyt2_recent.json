@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T00:07:27",
+  "updatedAt": "2026-09-10T00:07:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Blowin' in the Wind",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:07 am",
-      "artist": "Bob Dylan",
-      "title": "Blowin' in the Wind"
-    },
     {
       "time": "12:10 am",
       "artist": "Chance the Rapper feat. Lil Wayne & 2 Chainz",
@@ -26,9 +21,20 @@
       "time": "12:18 am",
       "artist": "Mr Vegas",
       "title": "Heads High"
+    },
+    {
+      "time": "12:21 am",
+      "artist": "Dire Straits",
+      "title": "Money For Nothing"
     }
   ],
   "recent": [
+    {
+      "time": "12:07 am",
+      "artist": "Bob Dylan",
+      "title": "Blowin' in the Wind",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "12:04 am",
       "artist": "OK Go",
@@ -172,12 +178,6 @@
       "artist": "Green Day",
       "title": "Basket Case",
       "album": "Dookie • 1994"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "Weezer",
-      "title": "Africa",
-      "album": "Weezer • 2019"
     }
   ]
 }
