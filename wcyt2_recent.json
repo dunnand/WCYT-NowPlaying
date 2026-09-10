@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T06:00:12",
+  "updatedAt": "2026-09-10T06:00:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "I Will Sing You Songs",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:00 am",
-      "artist": "My Morning Jacket",
-      "title": "I Will Sing You Songs"
-    },
     {
       "time": "6:09 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "6:15 am",
       "artist": "The Halo Benders",
       "title": "Halo Bender"
+    },
+    {
+      "time": "6:19 am",
+      "artist": "Sister Rosetta Tharpe",
+      "title": "Strange Things Happening Every Day"
     }
   ],
   "recent": [
+    {
+      "time": "6:00 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "5:52 am",
       "artist": "Grace Jones",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Friends",
       "album": "Friends • 1968"
-    },
-    {
-      "time": "4:07 am",
-      "artist": "Junior Senior",
-      "title": "Move Your Feet",
-      "album": "D-D-Don't Don't Stop the Beat • 2002"
     }
   ]
 }
