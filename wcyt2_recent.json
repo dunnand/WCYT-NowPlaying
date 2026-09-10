@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T03:41:25",
+  "updatedAt": "2026-09-10T03:41:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Take It Easy",
+    "album": "Eagles • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:41 am",
-      "artist": "Eagles",
-      "title": "Take It Easy"
-    },
     {
       "time": "3:44 am",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "3:51 am",
       "artist": "Elvis Presley",
       "title": "Little Sister"
+    },
+    {
+      "time": "3:53 am",
+      "artist": "Faust",
+      "title": "It's A Rainy Day Sunshine Girl"
     }
   ],
   "recent": [
+    {
+      "time": "3:41 am",
+      "artist": "Eagles",
+      "title": "Take It Easy",
+      "album": "Eagles • 1972"
+    },
     {
       "time": "3:36 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Bye, Bye Love",
       "album": "The Everly Brothers • 1958"
-    },
-    {
-      "time": "1:58 am",
-      "artist": "R.E.M.",
-      "title": "Near Wild Heaven",
-      "album": "Out of Time • 1991"
     }
   ]
 }
