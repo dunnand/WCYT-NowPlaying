@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T16:26:54",
+  "updatedAt": "2026-09-10T16:30:29",
   "now": {
-    "artist": "Paul Simon",
-    "title": "American Tune",
-    "album": "There Goes Rhymin Simon • 1973",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Stockholm Syndrome",
+    "album": "I Can Hear the Heart Beating as One • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:30 pm",
-      "artist": "Yo La Tengo",
-      "title": "Stockholm Syndrome"
-    },
     {
       "time": "4:33 pm",
       "artist": "Johnny Cash",
@@ -21,9 +16,20 @@
       "time": "4:36 pm",
       "artist": "Low",
       "title": "Dinosaur Act"
+    },
+    {
+      "time": "4:40 pm",
+      "artist": "Donovan",
+      "title": "Barabajagal"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 pm",
+      "artist": "Yo La Tengo",
+      "title": "Stockholm Syndrome",
+      "album": "I Can Hear the Heart Beating as One • 1997"
+    },
     {
       "time": "4:26 pm",
       "artist": "Paul Simon",
@@ -167,12 +173,6 @@
       "artist": "Missing Persons",
       "title": "Words",
       "album": "Spring Session M • 1982"
-    },
-    {
-      "time": "2:55 pm",
-      "artist": "Green Day",
-      "title": "Emenius Sleepus",
-      "album": "Dookie • 1994"
     }
   ]
 }
