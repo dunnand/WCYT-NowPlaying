@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T05:39:27",
+  "updatedAt": "2026-09-10T05:45:14",
   "now": {
-    "artist": "Guns N' Roses",
-    "title": "Patience",
-    "album": "G N' R Lies • 1989",
+    "artist": "Weezer",
+    "title": "All My Favorite Songs",
+    "album": "OK Human • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:45 am",
-      "artist": "Weezer",
-      "title": "All My Favorite Songs"
-    },
     {
       "time": "5:48 am",
       "artist": "The Clash",
@@ -21,9 +16,20 @@
       "time": "5:52 am",
       "artist": "Grace Jones",
       "title": "La vie en rose"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs"
     }
   ],
   "recent": [
+    {
+      "time": "5:45 am",
+      "artist": "Weezer",
+      "title": "All My Favorite Songs",
+      "album": "OK Human • 2021"
+    },
     {
       "time": "5:39 am",
       "artist": "Guns N' Roses",
@@ -167,12 +173,6 @@
       "artist": "Alice in Chains",
       "title": "Nutshell",
       "album": "Jar of Flies - EP • 1994"
-    },
-    {
-      "time": "3:53 am",
-      "artist": "Faust",
-      "title": "It's A Rainy Day Sunshine Girl",
-      "album": "Faust So Far • 1972"
     }
   ]
 }
