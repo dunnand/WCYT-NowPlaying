@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T03:21:01",
+  "updatedAt": "2026-09-10T03:25:08",
   "now": {
-    "artist": "Madonna",
-    "title": "You'll See",
-    "album": "Something to Remember • 1995",
+    "artist": "Aerosmith",
+    "title": "Livin' On The Edge",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:25 am",
-      "artist": "Aerosmith",
-      "title": "Livin' On The Edge"
-    },
     {
       "time": "3:31 am",
       "artist": "The Feelies",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:25 am",
+      "artist": "Aerosmith",
+      "title": "Livin' On The Edge",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "3:21 am",
       "artist": "Madonna",
@@ -172,12 +173,6 @@
       "artist": "Linda Ronstadt",
       "title": "You're No Good",
       "album": "Heart Like a Wheel • 1974"
-    },
-    {
-      "time": "1:41 am",
-      "artist": "Elvis Presley",
-      "title": "In The Ghetto",
-      "album": "From Elvis in Memphis • 1969"
     }
   ]
 }
