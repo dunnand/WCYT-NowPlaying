@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T02:29:37",
+  "updatedAt": "2026-09-10T02:36:24",
   "now": {
-    "artist": "Eric B. & Rakim",
-    "title": "My Melody",
-    "album": "Paid in Full • 1987",
+    "artist": "Grimes",
+    "title": "You'll miss me when I'm not around",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:36 am",
-      "artist": "Grimes",
-      "title": "You'll miss me when I'm not around"
-    },
     {
       "time": "2:39 am",
       "artist": "Jim Ed Brown",
@@ -21,9 +16,20 @@
       "time": "2:42 am",
       "artist": "David Bowie",
       "title": "Fantastic Voyage"
+    },
+    {
+      "time": "2:45 am",
+      "artist": "M83",
+      "title": "Don't Save Us From The Flames"
     }
   ],
   "recent": [
+    {
+      "time": "2:36 am",
+      "artist": "Grimes",
+      "title": "You'll miss me when I'm not around",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "2:29 am",
       "artist": "Eric B. & Rakim",
@@ -167,12 +173,6 @@
       "artist": "Elliott Smith",
       "title": "Rose Parade",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "12:53 am",
-      "artist": "Three Dog Night",
-      "title": "Mama Told Me (Not To Come)",
-      "album": "It Ain't Easy • 1970"
     }
   ]
 }
