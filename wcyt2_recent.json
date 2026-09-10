@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T10:00:53",
+  "updatedAt": "2026-09-10T10:03:26",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I'll Be Your Baby Tonight",
-    "album": "John Wesley Harding • 1967",
+    "artist": "KISS",
+    "title": "Black Diamond",
+    "album": "Kiss • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:03 am",
-      "artist": "KISS",
-      "title": "Black Diamond"
-    },
     {
       "time": "10:06 am",
       "artist": "Bob Dylan",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:03 am",
+      "artist": "KISS",
+      "title": "Black Diamond",
+      "album": "Kiss • 1974"
+    },
     {
       "time": "10:00 am",
       "artist": "Bob Dylan",
@@ -177,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "All I Really Want To Do",
       "album": "Another Side of Bob Dylan • 1964"
-    },
-    {
-      "time": "8:16 am",
-      "artist": "Panda Bear",
-      "title": "Bros",
-      "album": "Person Pitch • 2007"
     }
   ]
 }
