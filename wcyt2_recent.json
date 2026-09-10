@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T02:01:04",
+  "updatedAt": "2026-09-10T02:01:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Everly Brothers",
+    "title": "Bye, Bye Love",
+    "album": "The Everly Brothers • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 am",
-      "artist": "The Everly Brothers",
-      "title": "Bye, Bye Love"
-    },
     {
       "time": "2:03 am",
       "artist": "Johnny Cash",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:01 am",
+      "artist": "The Everly Brothers",
+      "title": "Bye, Bye Love",
+      "album": "The Everly Brothers • 1958"
+    },
     {
       "time": "1:58 am",
       "artist": "R.E.M.",
@@ -172,12 +173,6 @@
       "artist": "Dire Straits",
       "title": "Money For Nothing",
       "album": "Brothers in Arms • 1985"
-    },
-    {
-      "time": "12:18 am",
-      "artist": "Mr Vegas",
-      "title": "Heads High",
-      "album": "Heads High • 1998"
     }
   ]
 }
