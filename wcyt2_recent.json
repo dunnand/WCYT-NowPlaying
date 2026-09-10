@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T22:42:51",
+  "updatedAt": "2026-09-09T22:45:26",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Second Hand News",
-    "album": "Rumours • 1977",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Sunday",
+    "album": "A Thousand Leaves • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:45 pm",
-      "artist": "Sonic Youth",
-      "title": "Sunday"
-    },
     {
       "time": "10:50 pm",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "10:52 pm",
       "artist": "Kings of Leon",
       "title": "King of the Rodeo"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "Cream",
+      "title": "Tales of Brave Ulysses"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 pm",
+      "artist": "Sonic Youth",
+      "title": "Sunday",
+      "album": "A Thousand Leaves • 1998"
+    },
     {
       "time": "10:42 pm",
       "artist": "Fleetwood Mac",
@@ -167,12 +173,6 @@
       "artist": "LCD Soundsystem",
       "title": "Daft Punk Is Playing At My House",
       "album": "LCD Soundsystem • 2005"
-    },
-    {
-      "time": "9:06 pm",
-      "artist": "Supertramp",
-      "title": "Bloody Well Right",
-      "album": "Crime of the Century • 1975"
     }
   ]
 }
