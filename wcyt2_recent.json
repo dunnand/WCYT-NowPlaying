@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T02:39:44",
+  "updatedAt": "2026-09-10T02:42:38",
   "now": {
-    "artist": "Jim Ed Brown",
-    "title": "Morning",
-    "album": "Morning • 1970",
+    "artist": "David Bowie",
+    "title": "Fantastic Voyage",
+    "album": "Lodger • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 am",
-      "artist": "David Bowie",
-      "title": "Fantastic Voyage"
-    },
     {
       "time": "2:45 am",
       "artist": "M83",
@@ -26,9 +21,20 @@
       "time": "2:51 am",
       "artist": "Neu!",
       "title": "Hallogallo"
+    },
+    {
+      "time": "3:01 am",
+      "artist": "Foo Fighters",
+      "title": "This Is a Call"
     }
   ],
   "recent": [
+    {
+      "time": "2:42 am",
+      "artist": "David Bowie",
+      "title": "Fantastic Voyage",
+      "album": "Lodger • 1979"
+    },
     {
       "time": "2:39 am",
       "artist": "Jim Ed Brown",
@@ -172,12 +178,6 @@
       "artist": "Loretta Lynn",
       "title": "Portland, Oregon feat. Jack White",
       "album": "Van Lear Rose • 2004"
-    },
-    {
-      "time": "12:59 am",
-      "artist": "David Bowie",
-      "title": "Lazarus",
-      "album": "Blackstar • 2016"
     }
   ]
 }
