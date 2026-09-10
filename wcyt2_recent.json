@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T13:10:59",
+  "updatedAt": "2026-09-10T13:13:33",
   "now": {
-    "artist": "John Prine",
-    "title": "Sweet Revenge",
-    "album": "Sweet Revenge • 1973",
+    "artist": "James Taylor",
+    "title": "Carolina In My Mind",
+    "album": "James Taylor • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:13 pm",
-      "artist": "James Taylor",
-      "title": "Carolina In My Mind"
-    },
     {
       "time": "1:17 pm",
       "artist": "The Who",
@@ -26,9 +21,20 @@
       "time": "1:31 pm",
       "artist": "Jackie Wilson",
       "title": "Lonely Teardrops"
+    },
+    {
+      "time": "1:34 pm",
+      "artist": "Matchbox Twenty",
+      "title": "Bent"
     }
   ],
   "recent": [
+    {
+      "time": "1:13 pm",
+      "artist": "James Taylor",
+      "title": "Carolina In My Mind",
+      "album": "James Taylor • 1968"
+    },
     {
       "time": "1:10 pm",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Dusty Springfield",
       "title": "Wishin' And Hopin'",
       "album": "A Girl Called Dusty • 1964"
-    },
-    {
-      "time": "11:14 am",
-      "artist": "Grandaddy",
-      "title": "The Crystal Lake",
-      "album": "The Sophtware Slump • 2000"
     }
   ]
 }
