@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T22:07:15",
+  "updatedAt": "2026-09-09T22:11:10",
   "now": {
-    "artist": "Weezer",
-    "title": "Africa",
-    "album": "Weezer • 2019",
+    "artist": "Green Day",
+    "title": "Basket Case",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:11 pm",
-      "artist": "Green Day",
-      "title": "Basket Case"
-    },
     {
       "time": "10:14 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "10:21 pm",
       "artist": "Rush",
       "title": "Red Barchetta"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "bad idea right?"
     }
   ],
   "recent": [
+    {
+      "time": "10:11 pm",
+      "artist": "Green Day",
+      "title": "Basket Case",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "10:07 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Bobby Fuller Four",
       "title": "I Fought The Law",
       "album": "I Fought the Law • 1966"
-    },
-    {
-      "time": "8:28 pm",
-      "artist": "Elton John",
-      "title": "Crazy Water",
-      "album": "Blue Moves • 1976"
     }
   ]
 }
