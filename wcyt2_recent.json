@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T04:10:55",
+  "updatedAt": "2026-09-10T04:11:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Friends",
+    "album": "Friends • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:11 am",
-      "artist": "The Beach Boys",
-      "title": "Friends"
-    },
     {
       "time": "4:13 am",
       "artist": "Adele",
@@ -26,9 +21,20 @@
       "time": "4:22 am",
       "artist": "Archers of Loaf",
       "title": "White Trash Heroes"
+    },
+    {
+      "time": "4:27 am",
+      "artist": "Foreigner",
+      "title": "I Want To Know What Love Is"
     }
   ],
   "recent": [
+    {
+      "time": "4:11 am",
+      "artist": "The Beach Boys",
+      "title": "Friends",
+      "album": "Friends • 1968"
+    },
     {
       "time": "4:07 am",
       "artist": "Junior Senior",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "You'll miss me when I'm not around",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "2:29 am",
-      "artist": "Eric B. & Rakim",
-      "title": "My Melody",
-      "album": "Paid in Full • 1987"
     }
   ]
 }
