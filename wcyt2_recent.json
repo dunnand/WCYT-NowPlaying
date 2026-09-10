@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T02:01:36",
+  "updatedAt": "2026-09-10T02:03:54",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Bye, Bye Love",
-    "album": "The Everly Brothers • 1958",
+    "artist": "Johnny Cash",
+    "title": "God's Gonna Cut You Down",
+    "album": "American V: A Hundred Highways • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 am",
-      "artist": "Johnny Cash",
-      "title": "God's Gonna Cut You Down"
-    },
     {
       "time": "2:06 am",
       "artist": "Diana Ross & The Supremes",
@@ -21,9 +16,20 @@
       "time": "2:10 am",
       "artist": "Arctic Monkeys",
       "title": "Four Out Of Five"
+    },
+    {
+      "time": "2:14 am",
+      "artist": "LL Cool J",
+      "title": "Mama Said Knock You Out"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 am",
+      "artist": "Johnny Cash",
+      "title": "God's Gonna Cut You Down",
+      "album": "American V: A Hundred Highways • 2006"
+    },
     {
       "time": "2:01 am",
       "artist": "The Everly Brothers",
@@ -167,12 +173,6 @@
       "artist": "Duran Duran",
       "title": "Notorious",
       "album": "Notorious • 1986"
-    },
-    {
-      "time": "12:21 am",
-      "artist": "Dire Straits",
-      "title": "Money For Nothing",
-      "album": "Brothers in Arms • 1985"
     }
   ]
 }
