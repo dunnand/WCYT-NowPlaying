@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T16:40:27",
+  "updatedAt": "2026-09-10T16:43:40",
   "now": {
-    "artist": "Donovan",
-    "title": "Barabajagal",
-    "album": "Barabajagal • 1969",
+    "artist": "Adele",
+    "title": "Skyfall",
+    "album": "Skyfall • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:43 pm",
-      "artist": "Adele",
-      "title": "Skyfall"
-    },
     {
       "time": "4:48 pm",
       "artist": "Pink Floyd",
@@ -21,9 +16,20 @@
       "time": "4:55 pm",
       "artist": "Love Battery",
       "title": "Foot"
+    },
+    {
+      "time": "4:59 pm",
+      "artist": "Operation Ivy",
+      "title": "Knowledge"
     }
   ],
   "recent": [
+    {
+      "time": "4:43 pm",
+      "artist": "Adele",
+      "title": "Skyfall",
+      "album": "Skyfall • 2012"
+    },
     {
       "time": "4:40 pm",
       "artist": "Donovan",
@@ -167,12 +173,6 @@
       "artist": "Gorillaz",
       "title": "Feel Good Inc.",
       "album": "Demon Days • 2005"
-    },
-    {
-      "time": "3:07 pm",
-      "artist": "Goo Goo Dolls",
-      "title": "Here Is Gone",
-      "album": "Gutterflower • 2002"
     }
   ]
 }
