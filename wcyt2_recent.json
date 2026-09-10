@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T22:30:31",
+  "updatedAt": "2026-09-09T22:33:46",
   "now": {
-    "artist": "The Normal",
-    "title": "Warm Leatherette",
-    "album": "ALBUM: Warm Leatherette • 1978",
+    "artist": "Fats Domino",
+    "title": "Walking To New Orleans",
+    "album": "single • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:33 pm",
-      "artist": "Fats Domino",
-      "title": "Walking To New Orleans"
-    },
     {
       "time": "10:36 pm",
       "artist": "The Guess Who",
@@ -26,9 +21,20 @@
       "time": "10:42 pm",
       "artist": "Fleetwood Mac",
       "title": "Second Hand News"
+    },
+    {
+      "time": "10:45 pm",
+      "artist": "Sonic Youth",
+      "title": "Sunday"
     }
   ],
   "recent": [
+    {
+      "time": "10:33 pm",
+      "artist": "Fats Domino",
+      "title": "Walking To New Orleans",
+      "album": "single • 1960"
+    },
     {
       "time": "10:30 pm",
       "artist": "The Normal",
@@ -172,12 +178,6 @@
       "artist": "Chicago",
       "title": "Hard To Say I'm Sorry",
       "album": "Chicago 16 • 1982"
-    },
-    {
-      "time": "8:51 pm",
-      "artist": "Kings of Leon",
-      "title": "Closer",
-      "album": "Only by the Night • 2008"
     }
   ]
 }
