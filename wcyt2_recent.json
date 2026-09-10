@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T00:18:11",
+  "updatedAt": "2026-09-10T00:18:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mr Vegas",
+    "title": "Heads High",
+    "album": "Heads High • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 am",
-      "artist": "Mr Vegas",
-      "title": "Heads High"
-    },
     {
       "time": "12:21 am",
       "artist": "Dire Straits",
@@ -26,9 +21,20 @@
       "time": "12:30 am",
       "artist": "Nintendo",
       "title": "SNES Donut Plains (Super Mario Kart)"
+    },
+    {
+      "time": "12:32 am",
+      "artist": "Jimmy Eat World",
+      "title": "The Middle"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 am",
+      "artist": "Mr Vegas",
+      "title": "Heads High",
+      "album": "Heads High • 1998"
+    },
     {
       "time": "12:14 am",
       "artist": "Jim O'Rourke",
@@ -172,12 +178,6 @@
       "artist": "Rush",
       "title": "Red Barchetta",
       "album": "Moving Pictures • 1981"
-    },
-    {
-      "time": "10:16 pm",
-      "artist": "Rod Stewart",
-      "title": "Some Guys Have All The Luck",
-      "album": "Foolish Behaviour • 1984"
     }
   ]
 }
