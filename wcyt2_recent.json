@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T07:22:33",
+  "updatedAt": "2026-09-10T07:26:49",
   "now": {
-    "artist": "Bat for Lashes",
-    "title": "Laura",
-    "album": "The Haunted Man • 2012",
-    "category": "TUNES"
+    "artist": "They Might Be Giants",
+    "title": "Birdhouse in Your Soul",
+    "album": "Flood • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 am",
-      "artist": "They Might Be Giants",
-      "title": "Birdhouse in Your Soul"
-    },
     {
       "time": "7:30 am",
       "artist": "Tom Petty",
@@ -21,9 +16,20 @@
       "time": "7:33 am",
       "artist": "Jane's Addiction",
       "title": "Mountain Song"
+    },
+    {
+      "time": "7:37 am",
+      "artist": "J. Geils Band",
+      "title": "Love Stinks"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 am",
+      "artist": "They Might Be Giants",
+      "title": "Birdhouse in Your Soul",
+      "album": "Flood • 1990"
+    },
     {
       "time": "7:22 am",
       "artist": "Bat for Lashes",
@@ -167,12 +173,6 @@
       "artist": "Grace Jones",
       "title": "La vie en rose",
       "album": "Portfolio • 1977"
-    },
-    {
-      "time": "5:48 am",
-      "artist": "The Clash",
-      "title": "Death or Glory",
-      "album": "London Calling • 1979"
     }
   ]
 }
