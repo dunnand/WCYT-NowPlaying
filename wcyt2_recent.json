@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T02:49:42",
+  "updatedAt": "2026-09-10T02:51:36",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Barbara Ann",
-    "album": "Beach Boy Party! • 1965",
+    "artist": "Neu!",
+    "title": "Hallogallo",
+    "album": "Neu! • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:51 am",
-      "artist": "Neu!",
-      "title": "Hallogallo"
-    },
     {
       "time": "3:01 am",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "3:10 am",
       "artist": "The New Pornographers",
       "title": "Mass Romantic"
+    },
+    {
+      "time": "3:14 am",
+      "artist": "Owl City",
+      "title": "Fireflies"
     }
   ],
   "recent": [
+    {
+      "time": "2:51 am",
+      "artist": "Neu!",
+      "title": "Hallogallo",
+      "album": "Neu! • 1972"
+    },
     {
       "time": "2:49 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Even Flow",
       "album": "Ten • 1991"
-    },
-    {
-      "time": "1:17 am",
-      "artist": "B.O.B",
-      "title": "NothinOnYou",
-      "album": "May 25th • 2010"
     }
   ]
 }
