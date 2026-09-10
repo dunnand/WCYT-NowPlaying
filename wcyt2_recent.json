@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T03:41:36",
+  "updatedAt": "2026-09-10T03:45:03",
   "now": {
-    "artist": "Eagles",
-    "title": "Take It Easy",
-    "album": "Eagles • 1972",
+    "artist": "The Beach Boys",
+    "title": "Good to My Baby",
+    "album": "The Beach Boys Today! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "The Beach Boys",
-      "title": "Good to My Baby"
-    },
     {
       "time": "3:47 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "3:53 am",
       "artist": "Faust",
       "title": "It's A Rainy Day Sunshine Girl"
+    },
+    {
+      "time": "4:00 am",
+      "artist": "Alice in Chains",
+      "title": "Nutshell"
     }
   ],
   "recent": [
+    {
+      "time": "3:45 am",
+      "artist": "The Beach Boys",
+      "title": "Good to My Baby",
+      "album": "The Beach Boys Today! • 1965"
+    },
     {
       "time": "3:41 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "God's Gonna Cut You Down",
       "album": "American V: A Hundred Highways • 2006"
-    },
-    {
-      "time": "2:01 am",
-      "artist": "The Everly Brothers",
-      "title": "Bye, Bye Love",
-      "album": "The Everly Brothers • 1958"
     }
   ]
 }
