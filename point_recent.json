@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T01:45:10",
+  "updatedAt": "2026-09-10T01:45:22",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Feelies",
+    "title": "Fa ce-La",
+    "album": "Crazy Rhythms • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 am",
-      "artist": "The Feelies",
-      "title": "Fa ce-La"
-    },
     {
       "time": "1:47 am",
       "artist": "Iron & Wine",
@@ -26,9 +21,20 @@
       "time": "1:54 am",
       "artist": "Sufjan Stevens",
       "title": "Futile Devices"
+    },
+    {
+      "time": "1:56 am",
+      "artist": "Yo La Tengo",
+      "title": "The Room Got Heavy"
     }
   ],
   "recent": [
+    {
+      "time": "1:45 am",
+      "artist": "The Feelies",
+      "title": "Fa ce-La",
+      "album": "Crazy Rhythms • 1980"
+    },
     {
       "time": "1:40 am",
       "artist": "Ty Segall",
@@ -172,12 +178,6 @@
       "artist": "Laura Misch",
       "title": "Portals",
       "album": "Sample The Sky • 2023"
-    },
-    {
-      "time": "12:10 am",
-      "artist": "Swapmeet",
-      "title": "I Know!",
-      "album": "Mount Zero • 2026"
     }
   ]
 }
