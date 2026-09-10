@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T05:48:37",
+  "updatedAt": "2026-09-10T05:48:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Death or Glory",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 am",
-      "artist": "The Clash",
-      "title": "Death or Glory"
-    },
     {
       "time": "5:52 am",
       "artist": "Grace Jones",
@@ -26,9 +21,20 @@
       "time": "6:09 am",
       "artist": "Bob Dylan",
       "title": "Corrina, Corrina"
+    },
+    {
+      "time": "6:12 am",
+      "artist": "The Beach Boys",
+      "title": "A Day in the Life of a Tree"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 am",
+      "artist": "The Clash",
+      "title": "Death or Glory",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "5:45 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "The Orioles",
       "title": "Crying in the Chapel",
       "album": "single • 1953"
-    },
-    {
-      "time": "4:00 am",
-      "artist": "Alice in Chains",
-      "title": "Nutshell",
-      "album": "Jar of Flies - EP • 1994"
     }
   ]
 }
