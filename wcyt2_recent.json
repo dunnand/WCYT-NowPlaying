@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T10:03:26",
+  "updatedAt": "2026-09-10T10:06:49",
   "now": {
-    "artist": "KISS",
-    "title": "Black Diamond",
-    "album": "Kiss • 1974",
+    "artist": "Bob Dylan",
+    "title": "I Don't Believe You",
+    "album": "Another Side of Bob Dylan • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:06 am",
-      "artist": "Bob Dylan",
-      "title": "I Don't Believe You"
-    },
     {
       "time": "10:11 am",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "10:16 am",
       "artist": "Drake",
       "title": "Started From The Bottom"
+    },
+    {
+      "time": "10:19 am",
+      "artist": "Harvey Danger",
+      "title": "Sad Sweetheart of the Rodeo"
     }
   ],
   "recent": [
+    {
+      "time": "10:06 am",
+      "artist": "Bob Dylan",
+      "title": "I Don't Believe You",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "10:03 am",
       "artist": "KISS",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Used to Be",
       "album": "Teen Dream • 2010"
-    },
-    {
-      "time": "8:28 am",
-      "artist": "Bob Dylan",
-      "title": "All I Really Want To Do",
-      "album": "Another Side of Bob Dylan • 1964"
     }
   ]
 }
