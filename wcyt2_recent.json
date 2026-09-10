@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T10:31:45",
+  "updatedAt": "2026-09-10T10:36:06",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Custom Concern",
-    "album": "This is a Long Drive for Someone with Nothing to Think About • 1996",
+    "artist": "Neutral Milk Hotel",
+    "title": "Holland, 1945",
+    "album": "In The Aeroplane Over The Sea • 1998",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:36 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Holland, 1945"
-    },
     {
       "time": "10:39 am",
       "artist": "Jungle Brothers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:36 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Holland, 1945",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "10:31 am",
       "artist": "Modest Mouse",
@@ -172,12 +173,6 @@
       "artist": "My Morning Jacket",
       "title": "Mahgeetah",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "8:59 am",
-      "artist": "DEVO",
-      "title": "Jocko Homo",
-      "album": "Q: Are We Not Men? A: We Are Devo! • 1978"
     }
   ]
 }
