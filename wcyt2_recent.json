@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T06:55:38",
+  "updatedAt": "2026-09-10T06:59:14",
   "now": {
-    "artist": "The Cars",
-    "title": "Let's Go",
-    "album": "Candy-O • 1979",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "The Letter",
+    "album": "Uh Huh Her • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:59 am",
-      "artist": "PJ Harvey",
-      "title": "The Letter"
-    },
     {
       "time": "7:02 am",
       "artist": "Aretha Franklin",
@@ -26,9 +21,25 @@
       "time": "7:09 am",
       "artist": "Rod Stewart",
       "title": "This Old Heart Of Mine"
+    },
+    {
+      "time": "7:13 am",
+      "artist": "Platters",
+      "title": "The Great Pretender"
+    },
+    {
+      "time": "7:16 am",
+      "artist": "Outkast",
+      "title": "So Fresh, So Clean"
     }
   ],
   "recent": [
+    {
+      "time": "6:59 am",
+      "artist": "PJ Harvey",
+      "title": "The Letter",
+      "album": "Uh Huh Her • 2004"
+    },
     {
       "time": "6:55 am",
       "artist": "The Cars",
@@ -172,12 +183,6 @@
       "artist": "James Brown",
       "title": "Papa's Got a Brand New Bag, Part 1",
       "album": "Single • 1965"
-    },
-    {
-      "time": "5:13 am",
-      "artist": "Iron & Wine",
-      "title": "Upward Over the Mountain",
-      "album": "The Creek Drank the Cradle • 2002"
     }
   ]
 }
