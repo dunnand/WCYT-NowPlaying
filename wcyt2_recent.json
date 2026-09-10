@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T01:38:28",
+  "updatedAt": "2026-09-10T01:41:33",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Domino",
-    "album": "His Band and the Street Choir • 1971",
+    "artist": "Elvis Presley",
+    "title": "In The Ghetto",
+    "album": "From Elvis in Memphis • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:41 am",
-      "artist": "Elvis Presley",
-      "title": "In The Ghetto"
-    },
     {
       "time": "1:44 am",
       "artist": "Linda Ronstadt",
@@ -26,9 +21,20 @@
       "time": "1:51 am",
       "artist": "Eric Carmen",
       "title": "All by Myself"
+    },
+    {
+      "time": "1:58 am",
+      "artist": "R.E.M.",
+      "title": "Near Wild Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 am",
+      "artist": "Elvis Presley",
+      "title": "In The Ghetto",
+      "album": "From Elvis in Memphis • 1969"
+    },
     {
       "time": "1:38 am",
       "artist": "Van Morrison",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "Get Over It",
       "album": "OK Go • 2002"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Tommy Edwards",
-      "title": "It's All In The Game",
-      "album": "single • 1951"
     }
   ]
 }
