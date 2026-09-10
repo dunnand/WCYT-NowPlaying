@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T19:35:04",
+  "updatedAt": "2026-09-10T19:45:03",
   "now": {
-    "artist": "David Bowie",
-    "title": "Blackstar",
-    "album": "Blackstar • 2016",
+    "artist": "Radiohead",
+    "title": "Just",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 pm",
-      "artist": "Radiohead",
-      "title": "Just"
-    },
     {
       "time": "7:48 pm",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "7:56 pm",
       "artist": "Prince and The Revolution",
       "title": "America"
+    },
+    {
+      "time": "7:59 pm",
+      "artist": "Bleachers",
+      "title": "Goodmorning"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 pm",
+      "artist": "Radiohead",
+      "title": "Just",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "7:35 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "13th Floor Elevators",
       "title": "You're Gonna Miss Me",
       "album": "The Psychedelic Sounds of the 13th Floor Elevators • 1966"
-    },
-    {
-      "time": "6:07 pm",
-      "artist": "T. Rex",
-      "title": "20th Century Boy",
-      "album": "single • 1973"
     }
   ]
 }
