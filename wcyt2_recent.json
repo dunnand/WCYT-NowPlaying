@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T09:41:49",
+  "updatedAt": "2026-09-10T09:44:51",
   "now": {
-    "artist": "Pavement",
-    "title": "Stereo",
-    "album": "Brighten the Corners • 1997",
-    "category": "TUNES"
+    "artist": "Journey",
+    "title": "Don't Stop Believin'",
+    "album": "Escape • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:44 am",
-      "artist": "Journey",
-      "title": "Don't Stop Believin'"
-    },
     {
       "time": "9:49 am",
       "artist": "Julee Cruise",
@@ -21,9 +16,20 @@
       "time": "9:53 am",
       "artist": "Taylor Swift",
       "title": "Mastermind"
+    },
+    {
+      "time": "9:57 am",
+      "artist": "George Harrison",
+      "title": "Blow Away"
     }
   ],
   "recent": [
+    {
+      "time": "9:44 am",
+      "artist": "Journey",
+      "title": "Don't Stop Believin'",
+      "album": "Escape • 1981"
+    },
     {
       "time": "9:41 am",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "Charles Bradley",
       "title": "Lucifer",
       "album": "single • 2019"
-    },
-    {
-      "time": "7:54 am",
-      "artist": "LCD Soundsystem",
-      "title": "Losing My Edge",
-      "album": "LCD Soundsystem • 2005"
     }
   ]
 }
