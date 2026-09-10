@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T21:40:30",
+  "updatedAt": "2026-09-09T21:46:26",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Get Lucky feat. Pharrell Williams",
-    "album": "Random Access Memories • 2013",
-    "category": "AUDIO"
+    "artist": "Sebadoh",
+    "title": "Weird",
+    "album": "The Sebadoh • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:46 pm",
-      "artist": "Sebadoh",
-      "title": "Weird"
-    },
     {
       "time": "9:49 pm",
       "artist": "Soundgarden",
@@ -21,9 +16,20 @@
       "time": "9:54 pm",
       "artist": "Culture Club",
       "title": "Do You Really Want To Hurt Me"
+    },
+    {
+      "time": "9:58 pm",
+      "artist": "Cyndi Lauper",
+      "title": "All Through The Night"
     }
   ],
   "recent": [
+    {
+      "time": "9:46 pm",
+      "artist": "Sebadoh",
+      "title": "Weird",
+      "album": "The Sebadoh • 1999"
+    },
     {
       "time": "9:40 pm",
       "artist": "Daft Punk",
@@ -167,12 +173,6 @@
       "artist": "Minutemen",
       "title": "I Felt Like",
       "album": "Buzz or Howl Under the Influence of Heat [EP] • 1983"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "Weezer",
-      "title": "Susanne",
-      "album": "Mallrats Soundtrack • 1995"
     }
   ]
 }
