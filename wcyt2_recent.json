@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T18:59:52",
+  "updatedAt": "2026-09-10T19:00:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 pm",
-      "artist": "Pink Floyd",
-      "title": "Time"
-    },
     {
       "time": "7:06 pm",
       "artist": "Mungo Jerry",
@@ -26,9 +21,20 @@
       "time": "7:14 pm",
       "artist": "The Beach Boys",
       "title": "When I Grow Up (To Be A Man)"
+    },
+    {
+      "time": "7:16 pm",
+      "artist": "Bob Dylan",
+      "title": "Knockin' on Heaven's Door"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 pm",
+      "artist": "Pink Floyd",
+      "title": "Time",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "6:56 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Calvin Harris",
       "title": "Feel So Close",
       "album": "Feel So Close EP • 2011"
-    },
-    {
-      "time": "5:28 pm",
-      "artist": "Puff Daddy",
-      "title": "I'll Be Missing You feat. Faith Evans & 112",
-      "album": "No Way Out • 1997"
     }
   ]
 }
