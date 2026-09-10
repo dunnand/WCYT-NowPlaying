@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T09:56:50",
+  "updatedAt": "2026-09-10T09:57:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "Blow Away",
+    "album": "George Harrison • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 am",
-      "artist": "George Harrison",
-      "title": "Blow Away"
-    },
     {
       "time": "10:00 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "10:06 am",
       "artist": "Bob Dylan",
       "title": "I Don't Believe You"
+    },
+    {
+      "time": "10:11 am",
+      "artist": "Sparks",
+      "title": "Never Turn Your Back on Mother Earth"
     }
   ],
   "recent": [
+    {
+      "time": "9:57 am",
+      "artist": "George Harrison",
+      "title": "Blow Away",
+      "album": "George Harrison • 1979"
+    },
     {
       "time": "9:53 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Love Me Tender",
       "album": "Love Me Tender • 1956"
-    },
-    {
-      "time": "8:09 am",
-      "artist": "Radiohead",
-      "title": "Black Star",
-      "album": "The Bends • 1995"
     }
   ]
 }
