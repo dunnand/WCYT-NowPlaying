@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T19:00:04",
+  "updatedAt": "2026-09-10T19:06:44",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Time",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "Mungo Jerry",
+    "title": "In the Summertime",
+    "album": "In the Summertime • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:06 pm",
-      "artist": "Mungo Jerry",
-      "title": "In the Summertime"
-    },
     {
       "time": "7:10 pm",
       "artist": "Muse",
@@ -26,9 +21,20 @@
       "time": "7:16 pm",
       "artist": "Bob Dylan",
       "title": "Knockin' on Heaven's Door"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "Pavement",
+      "title": "Father to a Sister of Thought"
     }
   ],
   "recent": [
+    {
+      "time": "7:06 pm",
+      "artist": "Mungo Jerry",
+      "title": "In the Summertime",
+      "album": "In the Summertime • 1970"
+    },
     {
       "time": "7:00 pm",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Iron & Wine",
       "title": "Passing Afternoon",
       "album": "Our Endless Numbered Days • 2004"
-    },
-    {
-      "time": "5:31 pm",
-      "artist": "Calvin Harris",
-      "title": "Feel So Close",
-      "album": "Feel So Close EP • 2011"
     }
   ]
 }
