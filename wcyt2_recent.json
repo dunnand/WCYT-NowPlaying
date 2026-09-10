@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T11:52:03",
+  "updatedAt": "2026-09-10T11:55:17",
   "now": {
-    "artist": "Elton John",
-    "title": "Goodbye Yellow Brick Road",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Pearl Jam",
+    "title": "Life Wasted",
+    "album": "Pearl Jam • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 am",
-      "artist": "Pearl Jam",
-      "title": "Life Wasted"
-    },
     {
       "time": "11:58 am",
       "artist": "Beyonce",
@@ -23,7 +18,7 @@
       "title": "How Deep Is Your Love"
     },
     {
-      "time": "12:06 pm",
+      "time": "12:05 pm",
       "artist": "Blur",
       "title": "Coffee & TV"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:55 am",
+      "artist": "Pearl Jam",
+      "title": "Life Wasted",
+      "album": "Pearl Jam • 2006"
+    },
     {
       "time": "11:52 am",
       "artist": "Elton John",
@@ -177,12 +178,6 @@
       "artist": "Interpol",
       "title": "Narc",
       "album": "Antics • 2004"
-    },
-    {
-      "time": "10:19 am",
-      "artist": "Harvey Danger",
-      "title": "Sad Sweetheart of the Rodeo",
-      "album": "King James Version • 2000"
     }
   ]
 }
