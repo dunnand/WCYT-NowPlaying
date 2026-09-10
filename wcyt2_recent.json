@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T20:55:33",
+  "updatedAt": "2026-09-09T20:55:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chicago",
+    "title": "Hard To Say I'm Sorry",
+    "album": "Chicago 16 • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 pm",
-      "artist": "Chicago",
-      "title": "Hard To Say I'm Sorry"
-    },
     {
       "time": "9:00 pm",
       "artist": "Turnstile",
@@ -26,9 +21,20 @@
       "time": "9:06 pm",
       "artist": "Supertramp",
       "title": "Bloody Well Right"
+    },
+    {
+      "time": "9:10 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Daft Punk Is Playing At My House"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 pm",
+      "artist": "Chicago",
+      "title": "Hard To Say I'm Sorry",
+      "album": "Chicago 16 • 1982"
+    },
     {
       "time": "8:51 pm",
       "artist": "Kings of Leon",
@@ -172,12 +178,6 @@
       "artist": "MGMT",
       "title": "Kids",
       "album": "Oracular Spectacular • 2007"
-    },
-    {
-      "time": "7:25 pm",
-      "artist": "Elvis Presley",
-      "title": "Hound Dog",
-      "album": "single • 1956"
     }
   ]
 }
