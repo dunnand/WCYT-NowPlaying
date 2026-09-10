@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T11:39:20",
+  "updatedAt": "2026-09-10T11:39:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kraftwerk",
+    "title": "Pocket Calculator",
+    "album": "Computer World • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:39 am",
-      "artist": "Kraftwerk",
-      "title": "Pocket Calculator"
-    },
     {
       "time": "11:44 am",
       "artist": "Bleachers",
@@ -26,9 +21,20 @@
       "time": "11:52 am",
       "artist": "Elton John",
       "title": "Goodbye Yellow Brick Road"
+    },
+    {
+      "time": "11:55 am",
+      "artist": "Pearl Jam",
+      "title": "Life Wasted"
     }
   ],
   "recent": [
+    {
+      "time": "11:39 am",
+      "artist": "Kraftwerk",
+      "title": "Pocket Calculator",
+      "album": "Computer World • 1981"
+    },
     {
       "time": "11:35 am",
       "artist": "Kool & The Gang",
@@ -172,12 +178,6 @@
       "artist": "Sparks",
       "title": "Never Turn Your Back on Mother Earth",
       "album": "Propaganda • 1974"
-    },
-    {
-      "time": "10:06 am",
-      "artist": "Bob Dylan",
-      "title": "I Don't Believe You",
-      "album": "Another Side of Bob Dylan • 1964"
     }
   ]
 }
