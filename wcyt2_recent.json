@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T22:07:03",
+  "updatedAt": "2026-09-09T22:07:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Africa",
+    "album": "Weezer • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 pm",
-      "artist": "Weezer",
-      "title": "Africa"
-    },
     {
       "time": "10:11 pm",
       "artist": "Green Day",
@@ -26,9 +21,20 @@
       "time": "10:16 pm",
       "artist": "Rod Stewart",
       "title": "Some Guys Have All The Luck"
+    },
+    {
+      "time": "10:21 pm",
+      "artist": "Rush",
+      "title": "Red Barchetta"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 pm",
+      "artist": "Weezer",
+      "title": "Africa",
+      "album": "Weezer • 2019"
+    },
     {
       "time": "10:03 pm",
       "artist": "Hirokazu Ando, Jun Ishikawa, Shogo Sakai, Noriyuki Iwadare, Tadashi Ikegami, Akira Miyagawa, Hiroki Hashimoto, Hironobu Inagaki, Atsuyoshi Isemura, Nobuyoshi Kobayashi, Torine, Sho Okada, Rio Hamamoto, Kanaya Oki, Yoshinori Hirai",
@@ -172,12 +178,6 @@
       "artist": "Elton John",
       "title": "Crazy Water",
       "album": "Blue Moves • 1976"
-    },
-    {
-      "time": "8:24 pm",
-      "artist": "The Beach Boys",
-      "title": "Good Vibrations",
-      "album": "single • 1966"
     }
   ]
 }
