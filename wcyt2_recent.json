@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-09T20:21:43",
+  "updatedAt": "2026-09-09T20:24:48",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "One Love / People Get Ready",
-    "album": "Exodus • 1977",
+    "artist": "The Beach Boys",
+    "title": "Good Vibrations",
+    "album": "single • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 pm",
-      "artist": "The Beach Boys",
-      "title": "Good Vibrations"
-    },
     {
       "time": "8:28 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "8:36 pm",
       "artist": "Manu Dibango",
       "title": "Soul Makossa"
+    },
+    {
+      "time": "8:40 pm",
+      "artist": "Go West",
+      "title": "King Of Wishful Thinking"
     }
   ],
   "recent": [
+    {
+      "time": "8:24 pm",
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
+      "album": "single • 1966"
+    },
     {
       "time": "8:21 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Superchunk",
       "title": "Slack",
       "album": "Superchunk •"
-    },
-    {
-      "time": "6:59 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Buffalo Soldier",
-      "album": "Confrontation • 1983"
     }
   ]
 }
