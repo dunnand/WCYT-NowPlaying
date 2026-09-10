@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T03:51:05",
+  "updatedAt": "2026-09-10T03:53:29",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Little Sister",
-    "album": "single • 1961",
+    "artist": "Faust",
+    "title": "It's A Rainy Day Sunshine Girl",
+    "album": "Faust So Far • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:53 am",
-      "artist": "Faust",
-      "title": "It's A Rainy Day Sunshine Girl"
-    },
     {
       "time": "4:00 am",
       "artist": "Alice in Chains",
@@ -23,12 +18,23 @@
       "title": "Crying in the Chapel"
     },
     {
-      "time": "4:08 am",
+      "time": "4:07 am",
       "artist": "Junior Senior",
       "title": "Move Your Feet"
+    },
+    {
+      "time": "4:11 am",
+      "artist": "The Beach Boys",
+      "title": "Friends"
     }
   ],
   "recent": [
+    {
+      "time": "3:53 am",
+      "artist": "Faust",
+      "title": "It's A Rainy Day Sunshine Girl",
+      "album": "Faust So Far • 1972"
+    },
     {
       "time": "3:51 am",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "LL Cool J",
       "title": "Mama Said Knock You Out",
       "album": "Mama Said Knock You Out • 1990"
-    },
-    {
-      "time": "2:10 am",
-      "artist": "Arctic Monkeys",
-      "title": "Four Out Of Five",
-      "album": "Tranquility Base Hotel & Casino •"
     }
   ]
 }
