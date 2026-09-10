@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T10:49:30",
+  "updatedAt": "2026-09-10T10:49:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Say You Love Me",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:49 am",
-      "artist": "Fleetwood Mac",
-      "title": "Say You Love Me"
-    },
     {
       "time": "10:53 am",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "11:01 am",
       "artist": "James Carr",
       "title": "The Dark End of the Street"
+    },
+    {
+      "time": "11:04 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Bend Down Low"
     }
   ],
   "recent": [
+    {
+      "time": "10:49 am",
+      "artist": "Fleetwood Mac",
+      "title": "Say You Love Me",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "10:47 am",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Colors",
       "album": "Colors • 2017"
-    },
-    {
-      "time": "9:17 am",
-      "artist": "Meat Loaf",
-      "title": "I'd Do Anything For Love (But I Won't Do That)",
-      "album": "Bat Out of Hell II: Back into Hell • 1993"
     }
   ]
 }
