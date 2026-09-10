@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T04:11:07",
+  "updatedAt": "2026-09-10T04:13:30",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Friends",
-    "album": "Friends • 1968",
+    "artist": "Adele",
+    "title": "Someone Like You",
+    "album": "21 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:13 am",
-      "artist": "Adele",
-      "title": "Someone Like You"
-    },
     {
       "time": "4:18 am",
       "artist": "Aphex Twin",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:13 am",
+      "artist": "Adele",
+      "title": "Someone Like You",
+      "album": "21 • 2011"
+    },
     {
       "time": "4:11 am",
       "artist": "The Beach Boys",
@@ -172,12 +173,6 @@
       "artist": "Jim Ed Brown",
       "title": "Morning",
       "album": "Morning • 1970"
-    },
-    {
-      "time": "2:36 am",
-      "artist": "Grimes",
-      "title": "You'll miss me when I'm not around",
-      "album": "Miss Anthropocene • 2020"
     }
   ]
 }
