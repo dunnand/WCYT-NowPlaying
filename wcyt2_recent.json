@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T09:43:11",
+  "updatedAt": "2026-09-11T09:43:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "A Flock Of Seagulls",
+    "title": "I Ran (So Far Away)",
+    "album": "A Flock of Seagulls • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:43 am",
-      "artist": "A Flock Of Seagulls",
-      "title": "I Ran (So Far Away)"
-    },
     {
       "time": "9:48 am",
       "artist": "Turnstile",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:43 am",
+      "artist": "A Flock Of Seagulls",
+      "title": "I Ran (So Far Away)",
+      "album": "A Flock of Seagulls • 1982"
+    },
     {
       "time": "9:38 am",
       "artist": "A.C. Marias",
@@ -172,12 +173,6 @@
       "artist": "Marvin Gaye",
       "title": "Let's Get It On",
       "album": "Let's Get It On • 1973"
-    },
-    {
-      "time": "8:07 am",
-      "artist": "Elvis Presley",
-      "title": "It's Now Or Never",
-      "album": "single • 1960"
     }
   ]
 }
