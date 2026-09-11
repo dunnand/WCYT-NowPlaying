@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T07:49:20",
+  "updatedAt": "2026-09-11T07:52:06",
   "now": {
-    "artist": "John Lennon",
-    "title": "Isolation",
-    "album": "John Lennon/Plastic Ono Band • 1970",
+    "artist": "Kraftwerk",
+    "title": "Europe Endless",
+    "album": "Trans-Europe Express • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:52 am",
-      "artist": "Kraftwerk",
-      "title": "Europe Endless"
-    },
     {
       "time": "8:01 am",
       "artist": "The Microphones",
@@ -26,9 +21,25 @@
       "time": "8:10 am",
       "artist": "Marvin Gaye",
       "title": "Let's Get It On"
+    },
+    {
+      "time": "8:15 am",
+      "artist": "Death Cab for Cutie",
+      "title": "Pictures in an Exhibition"
+    },
+    {
+      "time": "8:18 am",
+      "artist": "The Decemberists",
+      "title": "Don't Carry It All"
     }
   ],
   "recent": [
+    {
+      "time": "7:52 am",
+      "artist": "Kraftwerk",
+      "title": "Europe Endless",
+      "album": "Trans-Europe Express • 1977"
+    },
     {
       "time": "7:49 am",
       "artist": "John Lennon",
@@ -172,12 +183,6 @@
       "artist": "Modest Mouse",
       "title": "3rd Planet",
       "album": "The Moon & Antarctica • 2000"
-    },
-    {
-      "time": "6:12 am",
-      "artist": "The Everly Brothers",
-      "title": "('Til) I Kissed You",
-      "album": "single • 1959"
     }
   ]
 }
