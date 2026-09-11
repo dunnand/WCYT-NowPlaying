@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T22:10:33",
+  "updatedAt": "2026-09-10T22:15:29",
   "now": {
-    "artist": "Guy Clark",
-    "title": "L.A. Freeway",
-    "album": "Old No. 1 • 1975",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Parallel Universe",
+    "album": "Californication • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Parallel Universe"
-    },
     {
       "time": "10:19 pm",
       "artist": "Peggy Lee",
@@ -26,9 +21,20 @@
       "time": "10:25 pm",
       "artist": "The Beach Boys",
       "title": "I Get Around"
+    },
+    {
+      "time": "10:28 pm",
+      "artist": "Billie Eilish",
+      "title": "bury a friend"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Parallel Universe",
+      "album": "Californication • 1999"
+    },
     {
       "time": "10:10 pm",
       "artist": "Guy Clark",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Devil's Haircut",
       "album": "Odelay • 1996"
-    },
-    {
-      "time": "8:37 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "Scenario",
-      "album": "The Low End Theory • 1991"
     }
   ]
 }
