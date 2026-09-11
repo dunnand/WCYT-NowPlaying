@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T05:22:42",
+  "updatedAt": "2026-09-11T05:26:25",
   "now": {
-    "artist": "Ed Sheeran",
-    "title": "Shape of You",
-    "album": "Single • 2017",
+    "artist": "Bob Dylan",
+    "title": "Blind Willie McTell",
+    "album": "The Bootleg Series Volumes 1-3 • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:26 am",
-      "artist": "Bob Dylan",
-      "title": "Blind Willie McTell"
-    },
     {
       "time": "5:32 am",
       "artist": "The Boo Radleys",
@@ -21,9 +16,20 @@
       "time": "5:36 am",
       "artist": "Toto",
       "title": "Rosanna"
+    },
+    {
+      "time": "5:41 am",
+      "artist": "Van Halen",
+      "title": "Panama"
     }
   ],
   "recent": [
+    {
+      "time": "5:26 am",
+      "artist": "Bob Dylan",
+      "title": "Blind Willie McTell",
+      "album": "The Bootleg Series Volumes 1-3 • 1991"
+    },
     {
       "time": "5:22 am",
       "artist": "Ed Sheeran",
@@ -167,12 +173,6 @@
       "artist": "Steely Dan",
       "title": "Reeling In The Years",
       "album": "Cant Buy a Thrill • 1973"
-    },
-    {
-      "time": "3:48 am",
-      "artist": "Paul McCartney and Wings",
-      "title": "Band On The Run",
-      "album": "Band on the Run • 1973"
     }
   ]
 }
