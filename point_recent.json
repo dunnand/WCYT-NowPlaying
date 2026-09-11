@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T06:18:20",
+  "updatedAt": "2026-09-11T06:22:07",
   "now": {
-    "artist": "Black Marble",
-    "title": "It Always Comes to Me",
-    "album": "Life in Small Spaces • 2026",
-    "category": "US5NR263"
+    "artist": "Radiohead",
+    "title": "2 + 2 = 5",
+    "album": "Hail to the Thief • 2003",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:22 am",
-      "artist": "Radiohead",
-      "title": "2 + 2 = 5"
-    },
     {
       "time": "6:25 am",
       "artist": "Jack White",
@@ -26,9 +21,20 @@
       "time": "6:32 am",
       "artist": "Dazy",
       "title": "Beat Change"
+    },
+    {
+      "time": "6:38 am",
+      "artist": "Waxahatchee",
+      "title": "Arkadelphia"
     }
   ],
   "recent": [
+    {
+      "time": "6:22 am",
+      "artist": "Radiohead",
+      "title": "2 + 2 = 5",
+      "album": "Hail to the Thief • 2003"
+    },
     {
       "time": "6:18 am",
       "artist": "Black Marble",
@@ -172,12 +178,6 @@
       "artist": "Font",
       "title": "Hey Kekule",
       "album": "Strange Burden • 2024"
-    },
-    {
-      "time": "4:55 am",
-      "artist": "Ducks Ltd.",
-      "title": "Train Full of Gasoline",
-      "album": "Harm's Way • 2024"
     }
   ]
 }
