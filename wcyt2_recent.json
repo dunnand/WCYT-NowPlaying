@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T06:15:07",
+  "updatedAt": "2026-09-11T06:19:02",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "3rd Planet",
-    "album": "The Moon & Antarctica • 2000",
-    "category": "TUNES"
+    "artist": "Cream",
+    "title": "SWLABR",
+    "album": "Disraeli Gears • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:19 am",
-      "artist": "Cream",
-      "title": "SWLABR"
-    },
     {
       "time": "6:21 am",
       "artist": "Demi Lovato",
@@ -21,9 +16,25 @@
       "time": "6:24 am",
       "artist": "Built to Spill",
       "title": "Untrustable/Part 2 (About Someone Else)"
+    },
+    {
+      "time": "6:28 am",
+      "artist": "Bush",
+      "title": "Machinehead"
+    },
+    {
+      "time": "6:32 am",
+      "artist": "Wipers",
+      "title": "Doom Town"
     }
   ],
   "recent": [
+    {
+      "time": "6:19 am",
+      "artist": "Cream",
+      "title": "SWLABR",
+      "album": "Disraeli Gears • 1967"
+    },
     {
       "time": "6:15 am",
       "artist": "Modest Mouse",
@@ -167,12 +178,6 @@
       "artist": "Malcolm Todd",
       "title": "Roommates",
       "album": "Single • 2023"
-    },
-    {
-      "time": "4:50 am",
-      "artist": "Tom Petty",
-      "title": "Jammin' Me",
-      "album": "Let Me Up • 1987"
     }
   ]
 }
