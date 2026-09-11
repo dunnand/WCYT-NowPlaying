@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T23:20:27",
+  "updatedAt": "2026-09-10T23:22:19",
   "now": {
-    "artist": "Ray Charles",
-    "title": "Tell All the World About You",
-    "album": "single • 1958",
+    "artist": "Prince",
+    "title": "Musicology",
+    "album": "Musicology • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:22 pm",
-      "artist": "Prince",
-      "title": "Musicology"
-    },
     {
       "time": "11:26 pm",
       "artist": "Four Tops",
@@ -21,9 +16,20 @@
       "time": "11:29 pm",
       "artist": "Charles Bradley",
       "title": "Victim Of Loving"
+    },
+    {
+      "time": "11:33 pm",
+      "artist": "Alanis Morissette",
+      "title": "Thank U"
     }
   ],
   "recent": [
+    {
+      "time": "11:22 pm",
+      "artist": "Prince",
+      "title": "Musicology",
+      "album": "Musicology • 2004"
+    },
     {
       "time": "11:20 pm",
       "artist": "Ray Charles",
@@ -167,12 +173,6 @@
       "artist": "Rolling Stones",
       "title": "One Hit (To The Body)",
       "album": "Dirty Work • 1986"
-    },
-    {
-      "time": "9:43 pm",
-      "artist": "Rick Springfield",
-      "title": "Don't Talk To Strangers",
-      "album": "Working Class Dog • 1982"
     }
   ]
 }
