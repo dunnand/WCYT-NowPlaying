@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T08:10:19",
+  "updatedAt": "2026-09-11T08:15:03",
   "now": {
-    "artist": "Marvin Gaye",
-    "title": "Let's Get It On",
-    "album": "Let's Get It On • 1973",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "Pictures in an Exhibition",
+    "album": "Something About Airplanes • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:15 am",
-      "artist": "Death Cab for Cutie",
-      "title": "Pictures in an Exhibition"
-    },
     {
       "time": "8:18 am",
       "artist": "The Decemberists",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Death Cab for Cutie",
+      "title": "Pictures in an Exhibition",
+      "album": "Something About Airplanes • 1998"
+    },
     {
       "time": "8:10 am",
       "artist": "Marvin Gaye",
@@ -172,12 +173,6 @@
       "artist": "Bush",
       "title": "Machinehead",
       "album": "Sixteen Stone • 1994"
-    },
-    {
-      "time": "6:25 am",
-      "artist": "Built to Spill",
-      "title": "Untrustable/Part 2 (About Someone Else)",
-      "album": "Perfect From Now On • 1997"
     }
   ]
 }
