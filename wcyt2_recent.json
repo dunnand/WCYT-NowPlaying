@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T18:15:54",
+  "updatedAt": "2026-09-11T18:19:07",
   "now": {
-    "artist": "Lily Allen",
-    "title": "Smile",
-    "album": "Alright, Still • 2006",
+    "artist": "Bob Dylan",
+    "title": "A Hard Rain's A-Gonna Fall",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:19 pm",
-      "artist": "Bob Dylan",
-      "title": "A Hard Rain's A-Gonna Fall"
-    },
     {
       "time": "6:25 pm",
       "artist": "Donna Fargo",
@@ -26,9 +21,20 @@
       "time": "6:31 pm",
       "artist": "Childish Gambino",
       "title": "This Is America"
+    },
+    {
+      "time": "6:35 pm",
+      "artist": "The Microphones",
+      "title": "The Moon"
     }
   ],
   "recent": [
+    {
+      "time": "6:19 pm",
+      "artist": "Bob Dylan",
+      "title": "A Hard Rain's A-Gonna Fall",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "6:15 pm",
       "artist": "Lily Allen",
@@ -172,12 +178,6 @@
       "artist": "Ariana Grande",
       "title": "The Way",
       "album": "Yours Truly • 2013"
-    },
-    {
-      "time": "4:41 pm",
-      "artist": "OutKast",
-      "title": "Hey Ya!",
-      "album": "Speakerboxxx/The Love Below • 2003"
     }
   ]
 }
