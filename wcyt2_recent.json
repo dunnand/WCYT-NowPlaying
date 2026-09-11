@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T12:00:56",
+  "updatedAt": "2026-09-11T12:04:01",
   "now": {
-    "artist": "Dean Martin",
-    "title": "That's Amore",
-    "album": "Dean Martin Sings • 1953",
-    "category": "AUDIO"
+    "artist": "The New Pornographers",
+    "title": "The Electric Version",
+    "album": "Electric Version • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:04 pm",
-      "artist": "The New Pornographers",
-      "title": "The Electric Version"
-    },
     {
       "time": "12:07 pm",
       "artist": "The Association",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:04 pm",
+      "artist": "The New Pornographers",
+      "title": "The Electric Version",
+      "album": "Electric Version • 2003"
+    },
     {
       "time": "12:00 pm",
       "artist": "Dean Martin",
@@ -172,12 +173,6 @@
       "artist": "The B-52's",
       "title": "Private Idaho",
       "album": "Wild Planet • 1980"
-    },
-    {
-      "time": "10:29 am",
-      "artist": "Air Supply",
-      "title": "Even The Nights Are Better",
-      "album": "Now and Forever • 1982"
     }
   ]
 }
