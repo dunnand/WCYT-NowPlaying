@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T16:48:43",
+  "updatedAt": "2026-09-11T16:53:21",
   "now": {
-    "artist": "Seal",
-    "title": "Kiss From A Rose",
-    "album": "Seal • 1994",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Svefn-g-englar",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:53 pm",
-      "artist": "Sigur Ros",
-      "title": "Svefn-g-englar"
-    },
     {
       "time": "5:02 pm",
       "artist": "Crowded House",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:53 pm",
+      "artist": "Sigur Ros",
+      "title": "Svefn-g-englar",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "4:48 pm",
       "artist": "Seal",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Only A Northern Song",
       "album": "Yellow Submarine • 1969"
-    },
-    {
-      "time": "3:14 pm",
-      "artist": "Carly Simon",
-      "title": "Nobody Does It Better",
-      "album": "The Spy Who Loved Me Soundtrack • 1977"
     }
   ]
 }
