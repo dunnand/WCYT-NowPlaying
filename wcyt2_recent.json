@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T04:43:21",
+  "updatedAt": "2026-09-11T04:46:56",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "Seeing Other People",
-    "album": "If You're Feeling Sinister • 1996",
-    "category": "TUNES"
+    "artist": "Tom Petty and the Heartbreakers",
+    "title": "All Mixed Up",
+    "album": "Let Me Up • 1987",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "All Mixed Up"
-    },
     {
       "time": "4:50 am",
       "artist": "Tom Petty",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "All Mixed Up",
+      "album": "Let Me Up • 1987"
+    },
     {
       "time": "4:43 am",
       "artist": "Belle and Sebastian",
@@ -172,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "With God on Our Side",
       "album": "With God on Our Side • 1964"
-    },
-    {
-      "time": "2:53 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Old Time Rock & Roll",
-      "album": "Stranger in Town • 1979"
     }
   ]
 }
