@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T01:47:02",
+  "updatedAt": "2026-09-11T01:47:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Across The Universe",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:47 am",
-      "artist": "The Beatles",
-      "title": "Across The Universe"
-    },
     {
       "time": "1:50 am",
       "artist": "Interpol",
@@ -31,9 +26,20 @@
       "time": "2:03 am",
       "artist": "PJ Harvey",
       "title": "Down by the Water"
+    },
+    {
+      "time": "2:06 am",
+      "artist": "Bruno Mars",
+      "title": "Grenade"
     }
   ],
   "recent": [
+    {
+      "time": "1:47 am",
+      "artist": "The Beatles",
+      "title": "Across The Universe",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "1:43 am",
       "artist": "*NSYNC",
@@ -177,12 +183,6 @@
       "artist": "The Mountain Goats",
       "title": "Cotton",
       "album": "We Shall All Be Healed • 2004"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "BADBADNOTGOOD",
-      "title": "In Your Eyes (feat. Charlotte Day Wilson)",
-      "album": "IV • 2016"
     }
   ]
 }
