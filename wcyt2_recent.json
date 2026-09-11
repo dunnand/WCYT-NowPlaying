@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T09:27:33",
+  "updatedAt": "2026-09-11T09:31:38",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "It Will Rain",
-    "album": "The Twilight Saga: Breaking Dawn, Pt. 1 • 2011",
+    "artist": "Elton John",
+    "title": "Blessed",
+    "album": "Made in England • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:31 am",
-      "artist": "Elton John",
-      "title": "Blessed"
-    },
     {
       "time": "9:35 am",
       "artist": "Fugazi",
@@ -26,9 +21,20 @@
       "time": "9:43 am",
       "artist": "A Flock Of Seagulls",
       "title": "I Ran (So Far Away)"
+    },
+    {
+      "time": "9:48 am",
+      "artist": "Turnstile",
+      "title": "MYSTERY"
     }
   ],
   "recent": [
+    {
+      "time": "9:31 am",
+      "artist": "Elton John",
+      "title": "Blessed",
+      "album": "Made in England • 1995"
+    },
     {
       "time": "9:27 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Kraftwerk",
       "title": "Europe Endless",
       "album": "Trans-Europe Express • 1977"
-    },
-    {
-      "time": "7:49 am",
-      "artist": "John Lennon",
-      "title": "Isolation",
-      "album": "John Lennon/Plastic Ono Band • 1970"
     }
   ]
 }
