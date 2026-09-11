@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T02:53:07",
+  "updatedAt": "2026-09-11T02:56:12",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Old Time Rock & Roll",
-    "album": "Stranger in Town • 1979",
+    "artist": "Bob Dylan",
+    "title": "With God on Our Side",
+    "album": "With God on Our Side • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 am",
-      "artist": "Bob Dylan",
-      "title": "With God on Our Side"
-    },
     {
       "time": "3:03 am",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "3:11 am",
       "artist": "Ritchie Valens",
       "title": "La Bamba"
+    },
+    {
+      "time": "3:13 am",
+      "artist": "Hot Chip",
+      "title": "Over and Over"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 am",
+      "artist": "Bob Dylan",
+      "title": "With God on Our Side",
+      "album": "With God on Our Side • 1964"
+    },
     {
       "time": "2:53 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +178,6 @@
       "artist": "Camp Cope",
       "title": "The Opener",
       "album": "How to Socialise & Make Friends • 2018"
-    },
-    {
-      "time": "1:19 am",
-      "artist": "The Beach Boys",
-      "title": "Fun, Fun, Fun",
-      "album": "Shut Down Volume 2 • 1964"
     }
   ]
 }
