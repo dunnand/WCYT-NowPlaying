@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T00:45:54",
+  "updatedAt": "2026-09-11T00:46:06",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Chemical Brothers",
+    "title": "Go",
+    "album": "Born in the Echoes • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "The Chemical Brothers",
-      "title": "Go"
-    },
     {
       "time": "12:50 am",
       "artist": "Catholic Action",
@@ -26,9 +21,20 @@
       "time": "12:58 am",
       "artist": "Wilco",
       "title": "Born Alone"
+    },
+    {
+      "time": "1:02 am",
+      "artist": "Sufjan Stevens",
+      "title": "The Only Thing"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "The Chemical Brothers",
+      "title": "Go",
+      "album": "Born in the Echoes • 2015"
+    },
     {
       "time": "12:43 am",
       "artist": "Girls",
@@ -172,12 +178,6 @@
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "Alien Metal",
       "album": "Alien Metal • 2026"
-    },
-    {
-      "time": "11:10 pm",
-      "artist": "New Order",
-      "title": "Ceremony",
-      "album": "Single • 1981"
     }
   ]
 }
