@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T02:56:12",
+  "updatedAt": "2026-09-11T03:03:19",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "With God on Our Side",
-    "album": "With God on Our Side • 1964",
+    "artist": "The Carpenters",
+    "title": "For All We Know",
+    "album": "Carpenters • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 am",
-      "artist": "The Carpenters",
-      "title": "For All We Know"
-    },
     {
       "time": "3:05 am",
       "artist": "Slowdive",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:03 am",
+      "artist": "The Carpenters",
+      "title": "For All We Know",
+      "album": "Carpenters • 1971"
+    },
     {
       "time": "2:56 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Janet Jackson",
       "title": "Again",
       "album": "Janet • 1993"
-    },
-    {
-      "time": "1:22 am",
-      "artist": "Camp Cope",
-      "title": "The Opener",
-      "album": "How to Socialise & Make Friends • 2018"
     }
   ]
 }
