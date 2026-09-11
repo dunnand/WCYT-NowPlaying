@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T09:09:17",
+  "updatedAt": "2026-09-11T09:13:29",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Too Many People",
-    "album": "Ram • 1971",
+    "artist": "Elastica",
+    "title": "Vaseline",
+    "album": "Elastica • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:13 am",
-      "artist": "Elastica",
-      "title": "Vaseline"
-    },
     {
       "time": "9:14 am",
       "artist": "Avenged Sevenfold",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:13 am",
+      "artist": "Elastica",
+      "title": "Vaseline",
+      "album": "Elastica • 1995"
+    },
     {
       "time": "9:09 am",
       "artist": "Paul McCartney",
@@ -172,12 +173,6 @@
       "artist": "David Byrne",
       "title": "Hanging Upside Down",
       "album": "Uh-oh • 1992"
-    },
-    {
-      "time": "7:31 am",
-      "artist": "Daft Punk",
-      "title": "Da Funk",
-      "album": "Homework • 1997"
     }
   ]
 }
