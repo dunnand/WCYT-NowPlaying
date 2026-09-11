@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T22:15:29",
+  "updatedAt": "2026-09-10T22:19:48",
   "now": {
-    "artist": "Red Hot Chili Peppers",
-    "title": "Parallel Universe",
-    "album": "Californication • 1999",
+    "artist": "Peggy Lee",
+    "title": "Fever",
+    "album": "Things Are Swingin’ • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:19 pm",
-      "artist": "Peggy Lee",
-      "title": "Fever"
-    },
     {
       "time": "10:22 pm",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "10:28 pm",
       "artist": "Billie Eilish",
       "title": "bury a friend"
+    },
+    {
+      "time": "10:31 pm",
+      "artist": "Stone Temple Pilots",
+      "title": "Big Empty"
     }
   ],
   "recent": [
+    {
+      "time": "10:19 pm",
+      "artist": "Peggy Lee",
+      "title": "Fever",
+      "album": "Things Are Swingin’ • 1959"
+    },
     {
       "time": "10:15 pm",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +178,6 @@
       "artist": "Prince",
       "title": "Batdance",
       "album": "Batman • 1989"
-    },
-    {
-      "time": "8:41 pm",
-      "artist": "Beck",
-      "title": "Devil's Haircut",
-      "album": "Odelay • 1996"
     }
   ]
 }
