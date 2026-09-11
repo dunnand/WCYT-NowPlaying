@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T02:45:23",
+  "updatedAt": "2026-09-11T02:49:09",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Only The Good Die Young",
-    "album": "The Stranger • 1978",
+    "artist": "Bob Dylan",
+    "title": "Maggie's Farm",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:49 am",
-      "artist": "Bob Dylan",
-      "title": "Maggie's Farm"
-    },
     {
       "time": "2:53 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "3:03 am",
       "artist": "The Carpenters",
       "title": "For All We Know"
+    },
+    {
+      "time": "3:05 am",
+      "artist": "Slowdive",
+      "title": "Slowdive"
     }
   ],
   "recent": [
+    {
+      "time": "2:49 am",
+      "artist": "Bob Dylan",
+      "title": "Maggie's Farm",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "2:45 am",
       "artist": "Billy Joel",
@@ -172,12 +178,6 @@
       "artist": "The Postal Service",
       "title": "Natural Anthem",
       "album": "Give Up • 2003"
-    },
-    {
-      "time": "1:12 am",
-      "artist": "Elvis Presley",
-      "title": "Don't Be Cruel",
-      "album": "single • 1956"
     }
   ]
 }
