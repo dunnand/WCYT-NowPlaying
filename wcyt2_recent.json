@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T20:37:27",
+  "updatedAt": "2026-09-10T20:41:33",
   "now": {
-    "artist": "A Tribe Called Quest",
-    "title": "Scenario",
-    "album": "The Low End Theory • 1991",
+    "artist": "Beck",
+    "title": "Devil's Haircut",
+    "album": "Odelay • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 pm",
-      "artist": "Beck",
-      "title": "Devil's Haircut"
-    },
     {
       "time": "8:44 pm",
       "artist": "Prince",
@@ -26,9 +21,20 @@
       "time": "8:55 pm",
       "artist": "Wilco",
       "title": "All Lives, You Say?"
+    },
+    {
+      "time": "8:58 pm",
+      "artist": "Led Zeppelin",
+      "title": "All My Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:41 pm",
+      "artist": "Beck",
+      "title": "Devil's Haircut",
+      "album": "Odelay • 1996"
+    },
     {
       "time": "8:37 pm",
       "artist": "A Tribe Called Quest",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Time Is Running Out",
       "album": "Absolution • 2003"
-    },
-    {
-      "time": "7:06 pm",
-      "artist": "Mungo Jerry",
-      "title": "In the Summertime",
-      "album": "In the Summertime • 1970"
     }
   ]
 }
