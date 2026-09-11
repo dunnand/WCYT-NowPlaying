@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T19:48:43",
+  "updatedAt": "2026-09-11T19:52:10",
   "now": {
-    "artist": "Dinosaur Jr.",
-    "title": "In a Jar",
-    "album": "You're Living All Over Me • 1987",
-    "category": "TUNES"
+    "artist": "Don Henley",
+    "title": "Dirty Laundry",
+    "album": "I Can't Stand Still • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:52 pm",
-      "artist": "Don Henley",
-      "title": "Dirty Laundry"
-    },
     {
       "time": "7:57 pm",
       "artist": "Turnstile",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:52 pm",
+      "artist": "Don Henley",
+      "title": "Dirty Laundry",
+      "album": "I Can't Stand Still • 1982"
+    },
     {
       "time": "7:48 pm",
       "artist": "Dinosaur Jr.",
@@ -172,12 +173,6 @@
       "artist": "Donna Fargo",
       "title": "You Can't Be A Beacon If Your Light Don't Shine",
       "album": "Miss Donna Fargo • 1974"
-    },
-    {
-      "time": "6:19 pm",
-      "artist": "Bob Dylan",
-      "title": "A Hard Rain's A-Gonna Fall",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
