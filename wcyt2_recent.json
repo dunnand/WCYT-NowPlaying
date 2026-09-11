@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T08:23:02",
+  "updatedAt": "2026-09-11T08:23:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Golden",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:23 am",
-      "artist": "My Morning Jacket",
-      "title": "Golden"
-    },
     {
       "time": "8:27 am",
       "artist": "PJ Harvey",
@@ -26,9 +21,20 @@
       "time": "8:35 am",
       "artist": "Digable Planets",
       "title": "Rebirth of Slick (Cool Like Dat)"
+    },
+    {
+      "time": "8:39 am",
+      "artist": "The Dismemberment Plan",
+      "title": "The City"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 am",
+      "artist": "My Morning Jacket",
+      "title": "Golden",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "8:18 am",
       "artist": "The Decemberists",
@@ -172,12 +178,6 @@
       "artist": "XTC",
       "title": "The Mayor of Simpleton",
       "album": "Oranges & Lemons • 1989"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Wipers",
-      "title": "Doom Town",
-      "album": "Over the Edge • 1983"
     }
   ]
 }
