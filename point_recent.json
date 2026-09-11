@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T10:05:38",
+  "updatedAt": "2026-09-11T10:05:50",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Phoebe Bridgers",
+    "title": "Bobby",
+    "album": "Lost Weekend • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 am",
-      "artist": "Phoebe Bridgers",
-      "title": "Bobby"
-    },
     {
       "time": "10:09 am",
       "artist": "Bon Iver",
@@ -26,9 +21,20 @@
       "time": "10:18 am",
       "artist": "Good Morning",
       "title": "Ahhhh (This Isn't Ideal)"
+    },
+    {
+      "time": "10:20 am",
+      "artist": "Wild Pink",
+      "title": "Dead For A Sec"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 am",
+      "artist": "Phoebe Bridgers",
+      "title": "Bobby",
+      "album": "Lost Weekend • 2026"
+    },
     {
       "time": "10:02 am",
       "artist": "Dehd",
@@ -172,12 +178,6 @@
       "artist": "Beirut",
       "title": "Gibraltar",
       "album": "No No No • 2015"
-    },
-    {
-      "time": "8:33 am",
-      "artist": "The National",
-      "title": "Sea of Love",
-      "album": "Trouble Will Find Me • 2013"
     }
   ]
 }
