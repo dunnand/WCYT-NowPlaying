@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T22:58:39",
+  "updatedAt": "2026-09-10T23:05:50",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Steam Engine",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "Drake",
+    "title": "Find Your Love",
+    "album": "Thank Me Later • 2010",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 pm",
-      "artist": "Drake",
-      "title": "Find Your Love"
-    },
     {
       "time": "11:09 pm",
       "artist": "Larry Young",
@@ -26,9 +21,20 @@
       "time": "11:20 pm",
       "artist": "Ray Charles",
       "title": "Tell All the World About You"
+    },
+    {
+      "time": "11:22 pm",
+      "artist": "Prince",
+      "title": "Musicology"
     }
   ],
   "recent": [
+    {
+      "time": "11:05 pm",
+      "artist": "Drake",
+      "title": "Find Your Love",
+      "album": "Thank Me Later • 2010"
+    },
     {
       "time": "10:58 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Clairo",
       "title": "Sofia",
       "album": "Immunity • 2019"
-    },
-    {
-      "time": "9:30 pm",
-      "artist": "OutKast",
-      "title": "The Way You Move",
-      "album": "Speakerboxxx/The Love Below • 2003"
     }
   ]
 }
