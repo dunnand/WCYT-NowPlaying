@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T08:48:05",
+  "updatedAt": "2026-09-11T08:48:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABC",
+    "title": "The Look Of Love, Pt.1",
+    "album": "The Lexicon of Love • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 am",
-      "artist": "ABC",
-      "title": "The Look Of Love, Pt.1"
-    },
     {
       "time": "8:51 am",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:48 am",
+      "artist": "ABC",
+      "title": "The Look Of Love, Pt.1",
+      "album": "The Lexicon of Love • 1982"
+    },
     {
       "time": "8:43 am",
       "artist": "ABBA",
@@ -172,12 +173,6 @@
       "artist": "Funkadelic",
       "title": "(Not Just) Knee Deep",
       "album": "Uncle Jam Wants You • 1979"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Dawes",
-      "title": "A Little Bit of Everything",
-      "album": "Nothing Is Wrong • 2011"
     }
   ]
 }
