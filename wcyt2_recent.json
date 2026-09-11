@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T20:41:33",
+  "updatedAt": "2026-09-10T20:44:48",
   "now": {
-    "artist": "Beck",
-    "title": "Devil's Haircut",
-    "album": "Odelay • 1996",
+    "artist": "Prince",
+    "title": "Batdance",
+    "album": "Batman • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:44 pm",
-      "artist": "Prince",
-      "title": "Batdance"
-    },
     {
       "time": "8:50 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "8:58 pm",
       "artist": "Led Zeppelin",
       "title": "All My Love"
+    },
+    {
+      "time": "9:04 pm",
+      "artist": "The Clash",
+      "title": "London Calling"
     }
   ],
   "recent": [
+    {
+      "time": "8:44 pm",
+      "artist": "Prince",
+      "title": "Batdance",
+      "album": "Batman • 1989"
+    },
     {
       "time": "8:41 pm",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "When I Grow Up (To Be A Man)",
       "album": "The Beach Boys Today! • 1965"
-    },
-    {
-      "time": "7:10 pm",
-      "artist": "Muse",
-      "title": "Time Is Running Out",
-      "album": "Absolution • 2003"
     }
   ]
 }
