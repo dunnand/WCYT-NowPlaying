@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T04:01:41",
+  "updatedAt": "2026-09-11T04:06:31",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Just Like a Woman",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "Steve Miller Band",
+    "title": "Fly Like An Eagle",
+    "album": "Fly Like an Eagle • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:06 am",
-      "artist": "Steve Miller Band",
-      "title": "Fly Like An Eagle"
-    },
     {
       "time": "4:09 am",
       "artist": "Amy Grant",
@@ -26,9 +21,20 @@
       "time": "4:15 am",
       "artist": "Grandaddy",
       "title": "He's Simple, He's Dumb, He's the Pilot"
+    },
+    {
+      "time": "4:24 am",
+      "artist": "Bob Dylan",
+      "title": "Desolation Row"
     }
   ],
   "recent": [
+    {
+      "time": "4:06 am",
+      "artist": "Steve Miller Band",
+      "title": "Fly Like An Eagle",
+      "album": "Fly Like an Eagle • 1976"
+    },
     {
       "time": "4:01 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Prince",
       "title": "The Most Beautiful Girl In The World",
       "album": "single • 1994"
-    },
-    {
-      "time": "2:18 am",
-      "artist": "Arctic Monkeys",
-      "title": "Don't Sit Down 'cause I've Moved Your Chair",
-      "album": "Suck It And See • 2011"
     }
   ]
 }
