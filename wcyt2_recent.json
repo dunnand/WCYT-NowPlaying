@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T22:25:46",
+  "updatedAt": "2026-09-10T22:25:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "I Get Around",
+    "album": "All Summer Long • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 pm",
-      "artist": "The Beach Boys",
-      "title": "I Get Around"
-    },
     {
       "time": "10:28 pm",
       "artist": "Billie Eilish",
@@ -26,9 +21,20 @@
       "time": "10:36 pm",
       "artist": "Superchunk",
       "title": "Throwing Things"
+    },
+    {
+      "time": "10:39 pm",
+      "artist": "Steve Winwood",
+      "title": "Higher Love"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 pm",
+      "artist": "The Beach Boys",
+      "title": "I Get Around",
+      "album": "All Summer Long • 1964"
+    },
     {
       "time": "10:22 pm",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "All Lives, You Say?",
       "album": "All Lives, You Say? • 2021"
-    },
-    {
-      "time": "8:50 pm",
-      "artist": "Queen",
-      "title": "Radio Ga-Ga",
-      "album": "The Works • 1984"
     }
   ]
 }
