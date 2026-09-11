@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T08:01:38",
+  "updatedAt": "2026-09-11T08:07:04",
   "now": {
-    "artist": "The Microphones",
-    "title": "I Want Wind to Blow",
-    "album": "The Glow, Part 2 • 2001",
-    "category": "TUNES"
+    "artist": "Elvis Presley",
+    "title": "It's Now Or Never",
+    "album": "single • 1960",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "Elvis Presley",
-      "title": "It's Now Or Never"
-    },
     {
       "time": "8:10 am",
       "artist": "Marvin Gaye",
@@ -26,9 +21,20 @@
       "time": "8:18 am",
       "artist": "The Decemberists",
       "title": "Don't Carry It All"
+    },
+    {
+      "time": "8:23 am",
+      "artist": "My Morning Jacket",
+      "title": "Golden"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "Elvis Presley",
+      "title": "It's Now Or Never",
+      "album": "single • 1960"
+    },
     {
       "time": "8:01 am",
       "artist": "The Microphones",
@@ -172,12 +178,6 @@
       "artist": "Demi Lovato",
       "title": "Give Your Heart A Break",
       "album": "Demi • 2011"
-    },
-    {
-      "time": "6:19 am",
-      "artist": "Cream",
-      "title": "SWLABR",
-      "album": "Disraeli Gears • 1967"
     }
   ]
 }
