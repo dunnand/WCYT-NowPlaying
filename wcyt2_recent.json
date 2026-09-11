@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T00:55:18",
+  "updatedAt": "2026-09-11T00:55:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "New Kid In Town",
+    "album": "Hotel California • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "Eagles",
-      "title": "New Kid In Town"
-    },
     {
       "time": "1:00 am",
       "artist": "James Brown",
@@ -31,9 +26,20 @@
       "time": "1:12 am",
       "artist": "Elvis Presley",
       "title": "Don't Be Cruel"
+    },
+    {
+      "time": "1:14 am",
+      "artist": "The Postal Service",
+      "title": "Natural Anthem"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "Eagles",
+      "title": "New Kid In Town",
+      "album": "Hotel California • 1976"
+    },
     {
       "time": "12:52 am",
       "artist": "Cream",
@@ -177,12 +183,6 @@
       "artist": "U2",
       "title": "Love Is Blindness",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "11:09 pm",
-      "artist": "Larry Young",
-      "title": "Turn Off the Lights",
-      "album": "Fuel • 1975"
     }
   ]
 }
