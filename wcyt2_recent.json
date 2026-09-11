@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T04:13:18",
+  "updatedAt": "2026-09-11T04:15:04",
   "now": {
-    "artist": "Fats Domino",
-    "title": "I'm In Love Again",
-    "album": "single • 1956",
-    "category": "AUDIO"
+    "artist": "Grandaddy",
+    "title": "He's Simple, He's Dumb, He's the Pilot",
+    "album": "The Sophtware Slump • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:15 am",
-      "artist": "Grandaddy",
-      "title": "He's Simple, He's Dumb, He's the Pilot"
-    },
     {
       "time": "4:24 am",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:15 am",
+      "artist": "Grandaddy",
+      "title": "He's Simple, He's Dumb, He's the Pilot",
+      "album": "The Sophtware Slump • 2000"
+    },
     {
       "time": "4:13 am",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "The The",
       "title": "Uncertain Smile",
       "album": "Soul Mining • 1983"
-    },
-    {
-      "time": "2:29 am",
-      "artist": "The Stone Roses",
-      "title": "I Wanna Be Adored",
-      "album": "The Stone Roses • 1989"
     }
   ]
 }
