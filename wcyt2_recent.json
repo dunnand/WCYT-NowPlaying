@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-09-11T14:16:57",
+  "updatedAt": "2026-09-11T14:24:53",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It's All Over Now, Baby Blue",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Brian Eno",
+    "title": "King's Lead Hat",
+    "album": "Before and After Science • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "2:21 pm",
-      "artist": "Brian Eno",
-      "title": "King's Lead Hat"
-    },
-    {
-      "time": "2:24 pm",
+      "time": "2:28 pm",
       "artist": "The Olivia Tremor Control",
       "title": "Jumping Fences"
     },
     {
-      "time": "2:26 pm",
+      "time": "2:30 pm",
       "artist": "Avenged Sevenfold",
       "title": "Hail To The King"
     },
     {
-      "time": "2:31 pm",
+      "time": "2:35 pm",
       "artist": "The Mountain Goats",
       "title": "Your Belgian Things"
+    },
+    {
+      "time": "2:39 pm",
+      "artist": "Kings of Leon",
+      "title": "Use Somebody"
     }
   ],
   "recent": [
+    {
+      "time": "2:24 pm",
+      "artist": "Brian Eno",
+      "title": "King's Lead Hat",
+      "album": "Before and After Science • 1977"
+    },
     {
       "time": "2:16 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Barbra Streisand",
       "title": "Woman In Love",
       "album": "Guilty • 1980"
-    },
-    {
-      "time": "12:19 pm",
-      "artist": "Lush",
-      "title": "For Love",
-      "album": "Spooky • 1992"
     }
   ]
 }
