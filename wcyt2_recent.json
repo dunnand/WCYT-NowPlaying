@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T21:25:25",
+  "updatedAt": "2026-09-10T21:25:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Dark Center of the Universe",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:25 pm",
-      "artist": "Modest Mouse",
-      "title": "Dark Center of the Universe"
-    },
     {
       "time": "9:30 pm",
       "artist": "OutKast",
@@ -26,9 +21,20 @@
       "time": "9:37 pm",
       "artist": "CAKE",
       "title": "Race Car Ya-Yas"
+    },
+    {
+      "time": "9:39 pm",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "Straight to You"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 pm",
+      "artist": "Modest Mouse",
+      "title": "Dark Center of the Universe",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "9:21 pm",
       "artist": "BADBADNOTGOOD",
@@ -172,12 +178,6 @@
       "artist": "Prince and The Revolution",
       "title": "America",
       "album": "Around the World in a Day • 1985"
-    },
-    {
-      "time": "7:51 pm",
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "album": "Synchronicity • 1983"
     }
   ]
 }
