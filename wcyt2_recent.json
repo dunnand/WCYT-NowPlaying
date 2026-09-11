@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-09-11T01:47:14",
+  "updatedAt": "2026-09-11T01:50:29",
   "now": {
-    "artist": "The Beatles",
-    "title": "Across The Universe",
-    "album": "Let It Be • 1970",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Say Hello to the Angels",
+    "album": "Turn on the Bright Lights • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "1:50 am",
-      "artist": "Interpol",
-      "title": "Say Hello to the Angels"
-    },
-    {
-      "time": "1:55 am",
+      "time": "1:54 am",
       "artist": "Drake",
       "title": "Take care feat. Rihanna"
     },
@@ -23,17 +18,23 @@
       "title": "Take Me to the River"
     },
     {
-      "time": "2:03 am",
+      "time": "2:02 am",
       "artist": "PJ Harvey",
       "title": "Down by the Water"
     },
     {
-      "time": "2:06 am",
+      "time": "2:05 am",
       "artist": "Bruno Mars",
       "title": "Grenade"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "Interpol",
+      "title": "Say Hello to the Angels",
+      "album": "Turn on the Bright Lights • 2002"
+    },
     {
       "time": "1:47 am",
       "artist": "The Beatles",
@@ -177,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "I Thought You Were My Boyfriend",
       "album": "i • 2004"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "The Mountain Goats",
-      "title": "Cotton",
-      "album": "We Shall All Be Healed • 2004"
     }
   ]
 }
