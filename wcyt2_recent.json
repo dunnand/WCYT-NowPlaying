@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T09:31:38",
+  "updatedAt": "2026-09-11T09:35:41",
   "now": {
-    "artist": "Elton John",
-    "title": "Blessed",
-    "album": "Made in England • 1995",
+    "artist": "Fugazi",
+    "title": "Merchandise",
+    "album": "Repeater • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 am",
-      "artist": "Fugazi",
-      "title": "Merchandise"
-    },
     {
       "time": "9:38 am",
       "artist": "A.C. Marias",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:35 am",
+      "artist": "Fugazi",
+      "title": "Merchandise",
+      "album": "Repeater • 1990"
+    },
     {
       "time": "9:31 am",
       "artist": "Elton John",
@@ -172,12 +173,6 @@
       "artist": "The Microphones",
       "title": "I Want Wind to Blow",
       "album": "The Glow, Part 2 • 2001"
-    },
-    {
-      "time": "7:52 am",
-      "artist": "Kraftwerk",
-      "title": "Europe Endless",
-      "album": "Trans-Europe Express • 1977"
     }
   ]
 }
