@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T05:53:18",
+  "updatedAt": "2026-09-11T05:56:55",
   "now": {
-    "artist": "Chicago",
-    "title": "If You Leave Me Now",
-    "album": "Chicago X • 1976",
+    "artist": "Maroon 5",
+    "title": "Sunday Morning",
+    "album": "Songs About Jane • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:56 am",
-      "artist": "Maroon 5",
-      "title": "Sunday Morning"
-    },
     {
       "time": "6:00 am",
       "artist": "Chance the Rapper feat. Saba",
@@ -31,9 +26,20 @@
       "time": "6:12 am",
       "artist": "The Everly Brothers",
       "title": "('Til) I Kissed You"
+    },
+    {
+      "time": "6:15 am",
+      "artist": "Modest Mouse",
+      "title": "3rd Planet"
     }
   ],
   "recent": [
+    {
+      "time": "5:56 am",
+      "artist": "Maroon 5",
+      "title": "Sunday Morning",
+      "album": "Songs About Jane • 2004"
+    },
     {
       "time": "5:53 am",
       "artist": "Chicago",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "Desolation Row",
       "album": "Highway 61 Revisited • 1965"
-    },
-    {
-      "time": "4:15 am",
-      "artist": "Grandaddy",
-      "title": "He's Simple, He's Dumb, He's the Pilot",
-      "album": "The Sophtware Slump • 2000"
     }
   ]
 }
