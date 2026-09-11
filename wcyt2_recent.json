@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T22:25:58",
+  "updatedAt": "2026-09-10T22:28:00",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "I Get Around",
-    "album": "All Summer Long • 1964",
+    "artist": "Billie Eilish",
+    "title": "bury a friend",
+    "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:28 pm",
-      "artist": "Billie Eilish",
-      "title": "bury a friend"
-    },
     {
       "time": "10:31 pm",
       "artist": "Stone Temple Pilots",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:28 pm",
+      "artist": "Billie Eilish",
+      "title": "bury a friend",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? • 2019"
+    },
     {
       "time": "10:25 pm",
       "artist": "The Beach Boys",
@@ -172,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "All My Love",
       "album": "In Through the Out Door • 1979"
-    },
-    {
-      "time": "8:55 pm",
-      "artist": "Wilco",
-      "title": "All Lives, You Say?",
-      "album": "All Lives, You Say? • 2021"
     }
   ]
 }
