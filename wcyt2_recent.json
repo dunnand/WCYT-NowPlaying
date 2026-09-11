@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T07:31:13",
+  "updatedAt": "2026-09-11T07:36:30",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Da Funk",
-    "album": "Homework • 1997",
+    "artist": "David Byrne",
+    "title": "Hanging Upside Down",
+    "album": "Uh-oh • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:36 am",
-      "artist": "David Byrne",
-      "title": "Hanging Upside Down"
-    },
     {
       "time": "7:41 am",
       "artist": "Young Marble Giants",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:36 am",
+      "artist": "David Byrne",
+      "title": "Hanging Upside Down",
+      "album": "Uh-oh • 1992"
+    },
     {
       "time": "7:31 am",
       "artist": "Daft Punk",
@@ -172,12 +173,6 @@
       "artist": "Maroon 5",
       "title": "Sunday Morning",
       "album": "Songs About Jane • 2004"
-    },
-    {
-      "time": "5:53 am",
-      "artist": "Chicago",
-      "title": "If You Leave Me Now",
-      "album": "Chicago X • 1976"
     }
   ]
 }
