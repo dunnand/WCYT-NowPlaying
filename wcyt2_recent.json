@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T07:31:01",
+  "updatedAt": "2026-09-11T07:31:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Da Funk",
+    "album": "Homework • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:31 am",
-      "artist": "Daft Punk",
-      "title": "Da Funk"
-    },
     {
       "time": "7:36 am",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "7:43 am",
       "artist": "Pretenders",
       "title": "Stop Your Sobbing"
+    },
+    {
+      "time": "7:46 am",
+      "artist": "Yola",
+      "title": "Shady Grove"
     }
   ],
   "recent": [
+    {
+      "time": "7:31 am",
+      "artist": "Daft Punk",
+      "title": "Da Funk",
+      "album": "Homework • 1997"
+    },
     {
       "time": "7:25 am",
       "artist": "D'Angelo and The Vanguard",
@@ -172,12 +178,6 @@
       "artist": "Chicago",
       "title": "If You Leave Me Now",
       "album": "Chicago X • 1976"
-    },
-    {
-      "time": "5:49 am",
-      "artist": "Green Day",
-      "title": "Holiday",
-      "album": "American Idiot • 2004"
     }
   ]
 }
