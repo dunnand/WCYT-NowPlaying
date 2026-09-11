@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T08:07:04",
+  "updatedAt": "2026-09-11T08:10:19",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "It's Now Or Never",
-    "album": "single • 1960",
+    "artist": "Marvin Gaye",
+    "title": "Let's Get It On",
+    "album": "Let's Get It On • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:10 am",
-      "artist": "Marvin Gaye",
-      "title": "Let's Get It On"
-    },
     {
       "time": "8:15 am",
       "artist": "Death Cab for Cutie",
@@ -26,9 +21,20 @@
       "time": "8:23 am",
       "artist": "My Morning Jacket",
       "title": "Golden"
+    },
+    {
+      "time": "8:27 am",
+      "artist": "PJ Harvey",
+      "title": "You Said Something"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 am",
+      "artist": "Marvin Gaye",
+      "title": "Let's Get It On",
+      "album": "Let's Get It On • 1973"
+    },
     {
       "time": "8:07 am",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Untrustable/Part 2 (About Someone Else)",
       "album": "Perfect From Now On • 1997"
-    },
-    {
-      "time": "6:21 am",
-      "artist": "Demi Lovato",
-      "title": "Give Your Heart A Break",
-      "album": "Demi • 2011"
     }
   ]
 }
