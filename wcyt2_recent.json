@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T17:19:15",
+  "updatedAt": "2026-09-11T17:21:08",
   "now": {
-    "artist": "Dave Clark Five",
-    "title": "Over And Over",
-    "album": "The Story of Dave Clark Five • 1979",
+    "artist": "The Four Seasons",
+    "title": "Walk Like A Man",
+    "album": "Big Girls Don't Cry and Twelve Others • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:21 pm",
-      "artist": "The Four Seasons",
-      "title": "Walk Like A Man"
-    },
     {
       "time": "5:23 pm",
       "artist": "Dionne Warwick",
@@ -26,9 +21,20 @@
       "time": "5:30 pm",
       "artist": "Ray Charles",
       "title": "I Got a Woman"
+    },
+    {
+      "time": "5:33 pm",
+      "artist": "Interpol",
+      "title": "NYC"
     }
   ],
   "recent": [
+    {
+      "time": "5:21 pm",
+      "artist": "The Four Seasons",
+      "title": "Walk Like A Man",
+      "album": "Big Girls Don't Cry and Twelve Others • 1963"
+    },
     {
       "time": "5:19 pm",
       "artist": "Dave Clark Five",
@@ -172,12 +178,6 @@
       "artist": "Prince and the New Power Generation",
       "title": "Cream",
       "album": "Diamonds and Pearls • 1991"
-    },
-    {
-      "time": "3:44 pm",
-      "artist": "Foo Fighters",
-      "title": "Rope",
-      "album": "Wasting Light • 2011"
     }
   ]
 }
