@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T23:53:33",
+  "updatedAt": "2026-09-10T23:53:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Golden Years",
+    "album": "Station to Station • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:53 pm",
-      "artist": "David Bowie",
-      "title": "Golden Years"
-    },
     {
       "time": "11:57 pm",
       "artist": "Journey",
@@ -26,9 +21,20 @@
       "time": "12:05 am",
       "artist": "The Jackson 5",
       "title": "I Want You Back"
+    },
+    {
+      "time": "12:08 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Jamming"
     }
   ],
   "recent": [
+    {
+      "time": "11:53 pm",
+      "artist": "David Bowie",
+      "title": "Golden Years",
+      "album": "Station to Station • 1976"
+    },
     {
       "time": "11:50 pm",
       "artist": "The Olivia Tremor Control",
@@ -172,12 +178,6 @@
       "artist": "Peggy Lee",
       "title": "Fever",
       "album": "Things Are Swingin’ • 1959"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Parallel Universe",
-      "album": "Californication • 1999"
     }
   ]
 }
