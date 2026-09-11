@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-10T22:06:36",
+  "updatedAt": "2026-09-10T22:10:33",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It Take a Lot to Laugh, It Take a Train to Cry",
-    "album": "It Takes a Lot to Laugh, It Takes a Train to Cry • 1965",
+    "artist": "Guy Clark",
+    "title": "L.A. Freeway",
+    "album": "Old No. 1 • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "Guy Clark",
-      "title": "L.A. Freeway"
-    },
     {
       "time": "10:15 pm",
       "artist": "Red Hot Chili Peppers",
@@ -26,9 +21,20 @@
       "time": "10:22 pm",
       "artist": "Interpol",
       "title": "C'mere"
+    },
+    {
+      "time": "10:25 pm",
+      "artist": "The Beach Boys",
+      "title": "I Get Around"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "Guy Clark",
+      "title": "L.A. Freeway",
+      "album": "Old No. 1 • 1975"
+    },
     {
       "time": "10:06 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Scenario",
       "album": "The Low End Theory • 1991"
-    },
-    {
-      "time": "8:33 pm",
-      "artist": "David Guetta",
-      "title": "Without You feat. Usher",
-      "album": "Nothing But the Beat • 2011"
     }
   ]
 }
