@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T09:06:26",
+  "updatedAt": "2026-09-11T09:09:17",
   "now": {
-    "artist": "Cream",
-    "title": "I Feel Free",
-    "album": "Fresh Cream • 1967",
+    "artist": "Paul McCartney",
+    "title": "Too Many People",
+    "album": "Ram • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:09 am",
-      "artist": "Paul McCartney",
-      "title": "Too Many People"
-    },
     {
       "time": "9:13 am",
       "artist": "Elastica",
@@ -26,9 +21,20 @@
       "time": "9:20 am",
       "artist": "Neko Case",
       "title": "I Wish I Was the Moon"
+    },
+    {
+      "time": "9:23 am",
+      "artist": "The Knife",
+      "title": "Heartbeats"
     }
   ],
   "recent": [
+    {
+      "time": "9:09 am",
+      "artist": "Paul McCartney",
+      "title": "Too Many People",
+      "album": "Ram • 1971"
+    },
     {
       "time": "9:06 am",
       "artist": "Cream",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Da Funk",
       "album": "Homework • 1997"
-    },
-    {
-      "time": "7:25 am",
-      "artist": "D'Angelo and The Vanguard",
-      "title": "Betray My Heart",
-      "album": "Black Messiah • 2014"
     }
   ]
 }
