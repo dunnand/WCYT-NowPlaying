@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T05:48:58",
+  "updatedAt": "2026-09-12T05:52:13",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "When the Ship Comes In",
-    "album": "The Times They Are A-Changin' • 1964",
+    "artist": "Drake",
+    "title": "Best I Ever Had",
+    "album": "Thank Me Later • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:52 am",
-      "artist": "Drake",
-      "title": "Best I Ever Had"
-    },
     {
       "time": "5:56 am",
       "artist": "The Smashing Pumpkins",
@@ -21,9 +16,20 @@
       "time": "5:59 am",
       "artist": "Siouxsie and the Banshees",
       "title": "Kiss Them for Me"
+    },
+    {
+      "time": "6:04 am",
+      "artist": "Laura Branigan",
+      "title": "Gloria"
     }
   ],
   "recent": [
+    {
+      "time": "5:52 am",
+      "artist": "Drake",
+      "title": "Best I Ever Had",
+      "album": "Thank Me Later • 2010"
+    },
     {
       "time": "5:48 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Lynyrd Skynyrd",
       "title": "Simple Man",
       "album": "pronounced leh-nrd skin-nrd • 1973"
-    },
-    {
-      "time": "4:19 am",
-      "artist": "Mario 3D World Big Band",
-      "title": "The Credits Roll",
-      "album": "Nintendo Music •"
     }
   ]
 }
