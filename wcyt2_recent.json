@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T22:33:17",
+  "updatedAt": "2026-09-11T22:36:24",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Sweet Adeline",
-    "album": "XO • 1998",
-    "category": "TUNES"
+    "artist": "Billie Holiday",
+    "title": "Strange Fruit",
+    "album": "Billie Holiday • 1947",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:36 pm",
-      "artist": "Billie Holiday",
-      "title": "Strange Fruit"
-    },
     {
       "time": "10:39 pm",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "10:48 pm",
       "artist": "Beach Weather",
       "title": "Chit Chat"
+    },
+    {
+      "time": "10:52 pm",
+      "artist": "Pearl Jam",
+      "title": "Jeremy"
     }
   ],
   "recent": [
+    {
+      "time": "10:36 pm",
+      "artist": "Billie Holiday",
+      "title": "Strange Fruit",
+      "album": "Billie Holiday • 1947"
+    },
     {
       "time": "10:33 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "Ghost",
       "album": "In The Aeroplane Over The Sea • 1998"
-    },
-    {
-      "time": "9:06 pm",
-      "artist": "B.O.B.",
-      "title": "So Good",
-      "album": "Strange Clouds • 2012"
     }
   ]
 }
