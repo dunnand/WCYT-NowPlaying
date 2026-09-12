@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T04:21:53",
+  "updatedAt": "2026-09-12T04:27:43",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Simple Man",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
+    "artist": "Mott the Hoople",
+    "title": "All the Way From Memphis",
+    "album": "Mott • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:27 am",
-      "artist": "Mott the Hoople",
-      "title": "All the Way From Memphis"
-    },
     {
       "time": "4:32 am",
       "artist": "Radiohead",
@@ -23,12 +18,23 @@
       "title": "Along Comes Mary"
     },
     {
-      "time": "4:40 am",
+      "time": "4:39 am",
       "artist": "Neil Sedaka",
       "title": "Laughter In The Rain"
+    },
+    {
+      "time": "4:42 am",
+      "artist": "Sebadoh",
+      "title": "Rebound"
     }
   ],
   "recent": [
+    {
+      "time": "4:27 am",
+      "artist": "Mott the Hoople",
+      "title": "All the Way From Memphis",
+      "album": "Mott • 1973"
+    },
     {
       "time": "4:21 am",
       "artist": "Lynyrd Skynyrd",
@@ -172,12 +178,6 @@
       "artist": "Sonic Youth",
       "title": "I Love You Golden Blue",
       "album": "Sonic Nurse • 2004"
-    },
-    {
-      "time": "2:53 am",
-      "artist": "The Afghan Whigs",
-      "title": "Algiers",
-      "album": "Do to the Beast • 2014"
     }
   ]
 }
