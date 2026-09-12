@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T05:45:55",
+  "updatedAt": "2026-09-12T05:48:58",
   "now": {
-    "artist": "Sleater-Kinney",
-    "title": "One Beat",
-    "album": "One Beat • 2002",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "When the Ship Comes In",
+    "album": "The Times They Are A-Changin' • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 am",
-      "artist": "Bob Dylan",
-      "title": "When the Ship Comes In"
-    },
     {
       "time": "5:52 am",
       "artist": "Drake",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:48 am",
+      "artist": "Bob Dylan",
+      "title": "When the Ship Comes In",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "5:45 am",
       "artist": "Sleater-Kinney",
@@ -172,12 +173,6 @@
       "artist": "Mario 3D World Big Band",
       "title": "The Credits Roll",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "4:17 am",
-      "artist": "Jonathan Richman & The Modern Lovers",
-      "title": "When Harpo Played His Harp",
-      "album": "Modern Lovers 88 • 1987"
     }
   ]
 }
