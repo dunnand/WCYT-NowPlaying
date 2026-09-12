@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T05:04:22",
+  "updatedAt": "2026-09-12T05:06:45",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Between the Bars",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Juice Newton",
+    "title": "Angel Of The Morning",
+    "album": "Juice • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:06 am",
-      "artist": "Juice Newton",
-      "title": "Angel Of The Morning"
-    },
     {
       "time": "5:10 am",
       "artist": "Kurtis Blow",
@@ -21,9 +16,20 @@
       "time": "5:18 am",
       "artist": "Yola",
       "title": "I Don't Wanna Lie"
+    },
+    {
+      "time": "5:21 am",
+      "artist": "Nick Drake",
+      "title": "Things Behind the Sun"
     }
   ],
   "recent": [
+    {
+      "time": "5:06 am",
+      "artist": "Juice Newton",
+      "title": "Angel Of The Morning",
+      "album": "Juice • 1981"
+    },
     {
       "time": "5:04 am",
       "artist": "Elliott Smith",
@@ -167,12 +173,6 @@
       "artist": "Chuck Berry",
       "title": "No Particular Place to Go",
       "album": "St. Louis to Liverpool • 1964"
-    },
-    {
-      "time": "3:36 am",
-      "artist": "Loretta Lynn",
-      "title": "Coal Miner's Daughter",
-      "album": "Coal Miners Daughter • 1971"
     }
   ]
 }
