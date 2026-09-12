@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T08:01:08",
+  "updatedAt": "2026-09-12T08:05:38",
   "now": {
-    "artist": "Wilco",
-    "title": "She's a Jar",
-    "album": "Summerteeth • 1999",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Autumn Sweater",
+    "album": "I Can Hear the Heart Beating as One • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:05 am",
-      "artist": "Yo La Tengo",
-      "title": "Autumn Sweater"
-    },
     {
       "time": "8:10 am",
       "artist": "MC Lyte",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:05 am",
+      "artist": "Yo La Tengo",
+      "title": "Autumn Sweater",
+      "album": "I Can Hear the Heart Beating as One • 1997"
+    },
     {
       "time": "8:01 am",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "How to Disappear Completely",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "6:22 am",
-      "artist": "Pastor T.L. Barrett and The Youth for Christ Choir",
-      "title": "Nobody Knows",
-      "album": "Like a Ship... • 1971"
     }
   ]
 }
