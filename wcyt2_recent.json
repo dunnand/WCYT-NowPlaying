@@ -1,39 +1,40 @@
 {
-  "updatedAt": "2026-09-11T22:25:25",
+  "updatedAt": "2026-09-11T22:25:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Glen Campbell",
+    "title": "Southern Nights",
+    "album": "Southern Nights • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:25 pm",
+      "time": "10:28 pm",
+      "artist": "Bob Dylan",
+      "title": "Highway 61 Revisited"
+    },
+    {
+      "time": "10:31 pm",
       "artist": "Glen Campbell",
       "title": "Southern Nights"
     },
     {
-      "time": "10:28 pm",
+      "time": "10:34 pm",
       "artist": "Gary Lewis & The Playboys",
       "title": "This Diamond Ring"
     },
     {
-      "time": "10:30 pm",
+      "time": "10:37 pm",
       "artist": "Gordon Lightfoot",
       "title": "Rainy Day People"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "Elliott Smith",
-      "title": "Sweet Adeline"
-    },
-    {
-      "time": "10:36 pm",
-      "artist": "Billie Holiday",
-      "title": "Strange Fruit"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 pm",
+      "artist": "Glen Campbell",
+      "title": "Southern Nights",
+      "album": "Southern Nights • 1977"
+    },
     {
       "time": "10:22 pm",
       "artist": "Bob Dylan",
@@ -177,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "Ain't That A Shame?",
       "album": "Rock and Rollin' with Fats Domino • 1956"
-    },
-    {
-      "time": "8:51 pm",
-      "artist": "Modest Mouse",
-      "title": "Never Ending Math Equation",
-      "album": "Building Nothing out of Something • 1999"
     }
   ]
 }
