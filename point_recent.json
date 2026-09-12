@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T22:01:29",
+  "updatedAt": "2026-09-11T22:05:54",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Complex",
-    "album": "My Morning Jacket • 2021",
+    "artist": "Big Red Machine",
+    "title": "Reese",
+    "album": "How Long Do You Think It's Gonna Last? • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 pm",
-      "artist": "Big Red Machine",
-      "title": "Reese"
-    },
     {
       "time": "10:10 pm",
       "artist": "Kacy Hill",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Big Red Machine",
+      "title": "Reese",
+      "album": "How Long Do You Think It's Gonna Last? • 2021"
+    },
     {
       "time": "10:01 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +173,6 @@
       "artist": "The Decemberists",
       "title": "The Rake's Song",
       "album": "The Hazards of Love • 2009"
-    },
-    {
-      "time": "8:28 pm",
-      "artist": "Strand of Oaks",
-      "title": "Hyperspace Blues",
-      "album": "Eraserland • 2019"
     }
   ]
 }
