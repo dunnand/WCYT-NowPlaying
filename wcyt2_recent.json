@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T22:30:34",
+  "updatedAt": "2026-09-11T22:33:17",
   "now": {
-    "artist": "Gordon Lightfoot",
-    "title": "Rainy Day People",
-    "album": "Cold on the Shoulder • 1975",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Sweet Adeline",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:33 pm",
-      "artist": "Elliott Smith",
-      "title": "Sweet Adeline"
-    },
     {
       "time": "10:36 pm",
       "artist": "Billie Holiday",
@@ -26,9 +21,20 @@
       "time": "10:43 pm",
       "artist": "The Mothers of Invention",
       "title": "Trouble Every Day"
+    },
+    {
+      "time": "10:48 pm",
+      "artist": "Beach Weather",
+      "title": "Chit Chat"
     }
   ],
   "recent": [
+    {
+      "time": "10:33 pm",
+      "artist": "Elliott Smith",
+      "title": "Sweet Adeline",
+      "album": "XO • 1998"
+    },
     {
       "time": "10:30 pm",
       "artist": "Gordon Lightfoot",
@@ -172,12 +178,6 @@
       "artist": "B.O.B.",
       "title": "So Good",
       "album": "Strange Clouds • 2012"
-    },
-    {
-      "time": "9:02 pm",
-      "artist": "Carlton and the Shoes",
-      "title": "Love Me Forever",
-      "album": "Love Me Forever • 1968"
     }
   ]
 }
