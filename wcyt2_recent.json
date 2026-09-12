@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T15:11:41",
+  "updatedAt": "2026-09-12T15:11:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Jones",
+    "title": "She's A Lady",
+    "album": "Tom Jones Sings She's a Lady • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:11 pm",
-      "artist": "Tom Jones",
-      "title": "She's A Lady"
-    },
     {
       "time": "3:14 pm",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "3:21 pm",
       "artist": "Albert King",
       "title": "Born Under a Bad Sign"
+    },
+    {
+      "time": "3:24 pm",
+      "artist": "The Velvet Underground",
+      "title": "Who Loves the Sun"
     }
   ],
   "recent": [
+    {
+      "time": "3:11 pm",
+      "artist": "Tom Jones",
+      "title": "She's A Lady",
+      "album": "Tom Jones Sings She's a Lady • 1971"
+    },
     {
       "time": "3:08 pm",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "The Flamingos",
       "title": "I Only Have Eyes for You",
       "album": "Flamingo Serenade • 1959"
-    },
-    {
-      "time": "1:25 pm",
-      "artist": "Dinosaur Jr.",
-      "title": "Start Choppin",
-      "album": "Where You Been • 1993"
     }
   ]
 }
