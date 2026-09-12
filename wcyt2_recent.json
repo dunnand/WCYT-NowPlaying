@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T05:56:10",
+  "updatedAt": "2026-09-12T05:56:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Smashing Pumpkins",
+    "title": "Luna",
+    "album": "Siamese Dream • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:56 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Luna"
-    },
     {
       "time": "5:59 am",
       "artist": "Siouxsie and the Banshees",
@@ -26,9 +21,20 @@
       "time": "6:09 am",
       "artist": "LL Cool J",
       "title": "Rock The Bells"
+    },
+    {
+      "time": "6:13 am",
+      "artist": "Weezer",
+      "title": "Hero"
     }
   ],
   "recent": [
+    {
+      "time": "5:56 am",
+      "artist": "The Smashing Pumpkins",
+      "title": "Luna",
+      "album": "Siamese Dream • 1993"
+    },
     {
       "time": "5:52 am",
       "artist": "Drake",
@@ -172,12 +178,6 @@
       "artist": "Mott the Hoople",
       "title": "All the Way From Memphis",
       "album": "Mott • 1973"
-    },
-    {
-      "time": "4:21 am",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Simple Man",
-      "album": "pronounced leh-nrd skin-nrd • 1973"
     }
   ]
 }
