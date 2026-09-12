@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T23:05:51",
+  "updatedAt": "2026-09-11T23:11:06",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Man Out of Time",
-    "album": "Imperial Bedroom • 1982",
+    "artist": "Taylor Swift",
+    "title": "Enchanted (Taylor's version)",
+    "album": "Speak Now • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:11 pm",
-      "artist": "Taylor Swift",
-      "title": "Enchanted (Taylor's version)"
-    },
     {
       "time": "11:16 pm",
       "artist": "Muse",
@@ -26,9 +21,20 @@
       "time": "11:26 pm",
       "artist": "OutKast",
       "title": "Hey Ya!"
+    },
+    {
+      "time": "11:30 pm",
+      "artist": "Eminem",
+      "title": "Not Afraid"
     }
   ],
   "recent": [
+    {
+      "time": "11:11 pm",
+      "artist": "Taylor Swift",
+      "title": "Enchanted (Taylor's version)",
+      "album": "Speak Now • 2023"
+    },
     {
       "time": "11:05 pm",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Calvin Harris",
       "title": "Lets Go feat. Ne-Yo",
       "album": "18 Months • 2012"
-    },
-    {
-      "time": "9:36 pm",
-      "artist": "JAY-Z",
-      "title": "On To The Next",
-      "album": "The Blueprint 3 • 2009"
     }
   ]
 }
