@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T04:44:06",
+  "updatedAt": "2026-09-12T04:44:18",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Vampire Weekend",
+    "title": "Campus",
+    "album": "Vampire Weekend • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 am",
-      "artist": "Vampire Weekend",
-      "title": "Campus"
-    },
     {
       "time": "4:47 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "4:53 am",
       "artist": "mary in the junkyard",
       "title": "Myrtle"
+    },
+    {
+      "time": "4:57 am",
+      "artist": "feeble little horse",
+      "title": "Rewind"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 am",
+      "artist": "Vampire Weekend",
+      "title": "Campus",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "4:40 am",
       "artist": "Friko",
@@ -172,12 +178,6 @@
       "artist": "Les Savy Fav",
       "title": "Guzzle Blood",
       "album": "Oui, LSF • 2024"
-    },
-    {
-      "time": "3:16 am",
-      "artist": "lcd soundystem",
-      "title": "x-ray eyes",
-      "album": "• 2024"
     }
   ]
 }
