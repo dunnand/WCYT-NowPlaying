@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T10:48:52",
+  "updatedAt": "2026-09-12T10:49:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "Car",
+    "album": "Theres Nothing Wrong With Love • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:49 am",
-      "artist": "Built to Spill",
-      "title": "Car"
-    },
     {
       "time": "10:51 am",
       "artist": "The Band",
@@ -26,9 +21,20 @@
       "time": "11:00 am",
       "artist": "Neil Young",
       "title": "Transformer Man"
+    },
+    {
+      "time": "11:03 am",
+      "artist": "Miley Cyrus",
+      "title": "Flowers"
     }
   ],
   "recent": [
+    {
+      "time": "10:49 am",
+      "artist": "Built to Spill",
+      "title": "Car",
+      "album": "Theres Nothing Wrong With Love • 1994"
+    },
     {
       "time": "10:45 am",
       "artist": "Big Time Rush",
@@ -172,12 +178,6 @@
       "artist": "Rose Royce",
       "title": "Car Wash",
       "album": "Car Wash • 1976"
-    },
-    {
-      "time": "9:14 am",
-      "artist": "The Shins",
-      "title": "Pressed in a Book",
-      "album": "Oh Inverted World • 2001"
     }
   ]
 }
