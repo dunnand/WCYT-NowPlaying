@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T20:51:20",
+  "updatedAt": "2026-09-11T20:54:45",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Never Ending Math Equation",
-    "album": "Building Nothing out of Something • 1999",
-    "category": "TUNES"
+    "artist": "Fats Domino",
+    "title": "Ain't That A Shame?",
+    "album": "Rock and Rollin' with Fats Domino • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 pm",
-      "artist": "Fats Domino",
-      "title": "Ain't That A Shame?"
-    },
     {
       "time": "8:57 pm",
       "artist": "My Chemical Romance",
@@ -26,9 +21,20 @@
       "time": "9:06 pm",
       "artist": "B.O.B.",
       "title": "So Good"
+    },
+    {
+      "time": "9:09 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Ghost"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 pm",
+      "artist": "Fats Domino",
+      "title": "Ain't That A Shame?",
+      "album": "Rock and Rollin' with Fats Domino • 1956"
+    },
     {
       "time": "8:51 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "Wasted Time",
       "album": "Youth & Young Manhood • 2003"
-    },
-    {
-      "time": "7:29 pm",
-      "artist": "Ritchie Valens",
-      "title": "Donna",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
