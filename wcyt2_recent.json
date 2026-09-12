@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T04:59:09",
+  "updatedAt": "2026-09-12T05:04:22",
   "now": {
-    "artist": "Soundgarden",
-    "title": "The Day I Tried to Live",
-    "album": "Superunknown • 1994",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Between the Bars",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:04 am",
-      "artist": "Elliott Smith",
-      "title": "Between the Bars"
-    },
     {
       "time": "5:06 am",
       "artist": "Juice Newton",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:04 am",
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "4:59 am",
       "artist": "Soundgarden",
@@ -172,12 +173,6 @@
       "artist": "Loretta Lynn",
       "title": "Coal Miner's Daughter",
       "album": "Coal Miners Daughter • 1971"
-    },
-    {
-      "time": "3:34 am",
-      "artist": "The Beach Boys",
-      "title": "In My Room",
-      "album": "Surfer Girl • 1963"
     }
   ]
 }
