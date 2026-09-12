@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T12:13:47",
+  "updatedAt": "2026-09-12T12:13:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Jam",
+    "title": "The Modern World",
+    "album": "This Is the Modern World • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 pm",
-      "artist": "The Jam",
-      "title": "The Modern World"
-    },
     {
       "time": "12:16 pm",
       "artist": "The Meters",
@@ -26,9 +21,20 @@
       "time": "12:24 pm",
       "artist": "Cream",
       "title": "Crossroads"
+    },
+    {
+      "time": "12:29 pm",
+      "artist": "The Nerves",
+      "title": "Hanging On The Telephone"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 pm",
+      "artist": "The Jam",
+      "title": "The Modern World",
+      "album": "This Is the Modern World • 1977"
+    },
     {
       "time": "12:10 pm",
       "artist": "Alice Merton",
@@ -172,12 +178,6 @@
       "artist": "Elton Britt",
       "title": "Uranium Fever",
       "album": ""
-    },
-    {
-      "time": "10:31 am",
-      "artist": "Belle and Sebastian",
-      "title": "Like Dylan in the Movies",
-      "album": "If You're Feeling Sinister • 1996"
     }
   ]
 }
