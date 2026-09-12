@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T10:57:05",
+  "updatedAt": "2026-09-12T10:57:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Diamond",
+    "title": "America",
+    "album": "The Jazz Singer • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:57 am",
-      "artist": "Neil Diamond",
-      "title": "America"
-    },
     {
       "time": "11:00 am",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "11:07 am",
       "artist": "Television",
       "title": "See No Evil"
+    },
+    {
+      "time": "11:11 am",
+      "artist": "The Temptations",
+      "title": "Papa Was A Rollin' Stone"
     }
   ],
   "recent": [
+    {
+      "time": "10:57 am",
+      "artist": "Neil Diamond",
+      "title": "America",
+      "album": "The Jazz Singer • 1980"
+    },
     {
       "time": "10:51 am",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "The A Team",
       "album": "+ • 2011"
-    },
-    {
-      "time": "9:22 am",
-      "artist": "Bleachers",
-      "title": "Stop Making This Hurt",
-      "album": "Take the Sadness Out of Saturday Night • 2021"
     }
   ]
 }
