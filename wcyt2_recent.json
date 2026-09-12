@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T05:43:52",
+  "updatedAt": "2026-09-12T05:45:55",
   "now": {
-    "artist": "La Vern Baker",
-    "title": "Jim Dandy",
-    "album": "Lavern Baker • 1957",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "One Beat",
+    "album": "One Beat • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:45 am",
-      "artist": "Sleater",
-      "title": "Kinney - One Beat"
-    },
     {
       "time": "5:48 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,25 @@
       "time": "5:52 am",
       "artist": "Drake",
       "title": "Best I Ever Had"
+    },
+    {
+      "time": "5:56 am",
+      "artist": "The Smashing Pumpkins",
+      "title": "Luna"
+    },
+    {
+      "time": "5:59 am",
+      "artist": "Siouxsie and the Banshees",
+      "title": "Kiss Them for Me"
     }
   ],
   "recent": [
+    {
+      "time": "5:45 am",
+      "artist": "Sleater-Kinney",
+      "title": "One Beat",
+      "album": "One Beat • 2002"
+    },
     {
       "time": "5:43 am",
       "artist": "La Vern Baker",
@@ -167,12 +178,6 @@
       "artist": "Jonathan Richman & The Modern Lovers",
       "title": "When Harpo Played His Harp",
       "album": "Modern Lovers 88 • 1987"
-    },
-    {
-      "time": "4:13 am",
-      "artist": "John Cougar",
-      "title": "Hand To Hold On To",
-      "album": "American Fool • 1982"
     }
   ]
 }
