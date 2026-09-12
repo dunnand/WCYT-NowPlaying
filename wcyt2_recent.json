@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T03:30:12",
+  "updatedAt": "2026-09-12T03:34:27",
   "now": {
-    "artist": "Kool & The Gang",
-    "title": "Summer Madness",
-    "album": "Light of Worlds • 1974",
+    "artist": "The Beach Boys",
+    "title": "In My Room",
+    "album": "Surfer Girl • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:34 am",
-      "artist": "The Beach Boys",
-      "title": "In My Room"
-    },
     {
       "time": "3:36 am",
       "artist": "Loretta Lynn",
@@ -26,9 +21,20 @@
       "time": "3:42 am",
       "artist": "Lou Reed",
       "title": "Vicious"
+    },
+    {
+      "time": "3:45 am",
+      "artist": "Nirvana",
+      "title": "Jesus Doesn't Want Me for a Sunbeam"
     }
   ],
   "recent": [
+    {
+      "time": "3:34 am",
+      "artist": "The Beach Boys",
+      "title": "In My Room",
+      "album": "Surfer Girl • 1963"
+    },
     {
       "time": "3:30 am",
       "artist": "Kool & The Gang",
@@ -172,12 +178,6 @@
       "artist": "The Mountain Goats",
       "title": "Color in Your Cheeks",
       "album": "All Hail West Texas • 2002"
-    },
-    {
-      "time": "1:56 am",
-      "artist": "Don Gibson",
-      "title": "Blue Blue Day",
-      "album": "Oh Lonesome Me • 1958"
     }
   ]
 }
