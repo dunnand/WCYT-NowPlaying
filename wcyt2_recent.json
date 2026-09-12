@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T05:56:21",
+  "updatedAt": "2026-09-12T05:59:34",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Luna",
-    "album": "Siamese Dream • 1993",
+    "artist": "Siouxsie and the Banshees",
+    "title": "Kiss Them for Me",
+    "album": "Superstition • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:59 am",
-      "artist": "Siouxsie and the Banshees",
-      "title": "Kiss Them for Me"
-    },
     {
       "time": "6:04 am",
       "artist": "Laura Branigan",
@@ -23,12 +18,18 @@
       "title": "Rock The Bells"
     },
     {
-      "time": "6:13 am",
+      "time": "6:12 am",
       "artist": "Weezer",
       "title": "Hero"
     }
   ],
   "recent": [
+    {
+      "time": "5:59 am",
+      "artist": "Siouxsie and the Banshees",
+      "title": "Kiss Them for Me",
+      "album": "Superstition • 1991"
+    },
     {
       "time": "5:56 am",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Life in a Glasshouse",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "4:27 am",
-      "artist": "Mott the Hoople",
-      "title": "All the Way From Memphis",
-      "album": "Mott • 1973"
     }
   ]
 }
