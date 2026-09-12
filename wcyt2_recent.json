@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T04:19:39",
+  "updatedAt": "2026-09-12T04:21:53",
   "now": {
-    "artist": "Mario 3D World Big Band",
-    "title": "The Credits Roll",
-    "album": "Nintendo Music •",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Simple Man",
+    "album": "pronounced leh-nrd skin-nrd • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:21 am",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Simple Man"
-    },
     {
       "time": "4:27 am",
       "artist": "Mott the Hoople",
@@ -21,9 +16,25 @@
       "time": "4:32 am",
       "artist": "Radiohead",
       "title": "Life in a Glasshouse"
+    },
+    {
+      "time": "4:37 am",
+      "artist": "The Association",
+      "title": "Along Comes Mary"
+    },
+    {
+      "time": "4:40 am",
+      "artist": "Neil Sedaka",
+      "title": "Laughter In The Rain"
     }
   ],
   "recent": [
+    {
+      "time": "4:21 am",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Simple Man",
+      "album": "pronounced leh-nrd skin-nrd • 1973"
+    },
     {
       "time": "4:19 am",
       "artist": "Mario 3D World Big Band",
@@ -167,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "Algiers",
       "album": "Do to the Beast • 2014"
-    },
-    {
-      "time": "2:51 am",
-      "artist": "The Magnetic Fields",
-      "title": "Wi' Nae Wee Bairn Ye'll Me Beget",
-      "album": "69 Love Songs • 1999"
     }
   ]
 }
