@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T00:01:45",
+  "updatedAt": "2026-09-12T00:04:04",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Devoted To You",
-    "album": "single • 1958",
+    "artist": "Jurassic 5",
+    "title": "Quality Control",
+    "album": "Quality Control • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Jurassic 5",
-      "title": "Quality Control"
-    },
     {
       "time": "12:08 am",
       "artist": "The Four Seasons",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Jurassic 5",
+      "title": "Quality Control",
+      "album": "Quality Control • 2000"
+    },
     {
       "time": "12:01 am",
       "artist": "The Everly Brothers",
@@ -172,12 +173,6 @@
       "artist": "Gordon Lightfoot",
       "title": "Rainy Day People",
       "album": "Cold on the Shoulder • 1975"
-    },
-    {
-      "time": "10:28 pm",
-      "artist": "Gary Lewis & The Playboys",
-      "title": "This Diamond Ring",
-      "album": "This Diamond Ring • 1965"
     }
   ]
 }
