@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-09-12T06:04:16",
+  "updatedAt": "2026-09-12T06:09:02",
   "now": {
-    "artist": "Laura Branigan",
-    "title": "Gloria",
-    "album": "Branigan • 1982",
+    "artist": "LL Cool J",
+    "title": "Rock The Bells",
+    "album": "Radio • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "6:09 am",
-      "artist": "LL Cool J",
-      "title": "Rock The Bells"
-    },
-    {
-      "time": "6:13 am",
+      "time": "6:12 am",
       "artist": "Weezer",
       "title": "Hero"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:09 am",
+      "artist": "LL Cool J",
+      "title": "Rock The Bells",
+      "album": "Radio • 1985"
+    },
     {
       "time": "6:04 am",
       "artist": "Laura Branigan",
@@ -172,12 +173,6 @@
       "artist": "Neil Sedaka",
       "title": "Laughter In The Rain",
       "album": "Sedakas Back • 1974"
-    },
-    {
-      "time": "4:37 am",
-      "artist": "The Association",
-      "title": "Along Comes Mary",
-      "album": "And Then...Along Comes the Association • 1966"
     }
   ]
 }
