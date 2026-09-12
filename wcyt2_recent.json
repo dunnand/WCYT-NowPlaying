@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T00:42:17",
+  "updatedAt": "2026-09-12T00:42:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Shower The People",
+    "album": "In the Pocket • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "James Taylor",
-      "title": "Shower The People"
-    },
     {
       "time": "12:47 am",
       "artist": "Norah Jones",
@@ -31,9 +26,20 @@
       "time": "12:58 am",
       "artist": "Madonna",
       "title": "Vogue"
+    },
+    {
+      "time": "1:03 am",
+      "artist": "Beach House",
+      "title": "Space Song"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "James Taylor",
+      "title": "Shower The People",
+      "album": "In the Pocket • 1976"
+    },
     {
       "time": "12:38 am",
       "artist": "Justice",
@@ -177,12 +183,6 @@
       "artist": "Elvis Costello",
       "title": "Man Out of Time",
       "album": "Imperial Bedroom • 1982"
-    },
-    {
-      "time": "11:00 pm",
-      "artist": "Eagles",
-      "title": "I Can't Tell You Why",
-      "album": "The Long Run • 1980"
     }
   ]
 }
