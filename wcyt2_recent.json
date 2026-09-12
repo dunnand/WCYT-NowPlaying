@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T09:26:07",
+  "updatedAt": "2026-09-12T09:30:24",
   "now": {
-    "artist": "Ed Sheeran",
-    "title": "The A Team",
-    "album": "+ • 2011",
+    "artist": "Smokey Robinson",
+    "title": "Cruisin'",
+    "album": "Where There's Smoke... • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "Smokey Robinson",
-      "title": "Cruisin'"
-    },
     {
       "time": "9:36 am",
       "artist": "Tracy Chapman",
@@ -26,9 +21,20 @@
       "time": "9:44 am",
       "artist": "Red Hot Chili Peppers",
       "title": "The Zephyr Song"
+    },
+    {
+      "time": "9:48 am",
+      "artist": "Weezer",
+      "title": "Pork and Beans"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "Smokey Robinson",
+      "title": "Cruisin'",
+      "album": "Where There's Smoke... • 1979"
+    },
     {
       "time": "9:26 am",
       "artist": "Ed Sheeran",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "She's a Jar",
       "album": "Summerteeth • 1999"
-    },
-    {
-      "time": "7:55 am",
-      "artist": "Bon Iver",
-      "title": "Holocene",
-      "album": "Bon Iver, Bon Iver • 2011"
     }
   ]
 }
