@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T00:17:14",
+  "updatedAt": "2026-09-12T00:17:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "I'll Stick Around",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 am",
-      "artist": "Foo Fighters",
-      "title": "I'll Stick Around"
-    },
     {
       "time": "12:21 am",
       "artist": "Flipper",
@@ -26,9 +21,20 @@
       "time": "12:28 am",
       "artist": "Taylor Swift",
       "title": "All Too Well (10 Minute Version)"
+    },
+    {
+      "time": "12:38 am",
+      "artist": "Justice",
+      "title": "D.A.N.C.E."
     }
   ],
   "recent": [
+    {
+      "time": "12:17 am",
+      "artist": "Foo Fighters",
+      "title": "I'll Stick Around",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "12:14 am",
       "artist": "Sleater Kinney",
@@ -172,12 +178,6 @@
       "artist": "The Mothers of Invention",
       "title": "Trouble Every Day",
       "album": "Freak Out! • 1966"
-    },
-    {
-      "time": "10:39 pm",
-      "artist": "Johnny Cash",
-      "title": "Hurt",
-      "album": "American IV: The Man Comes Around • 2002"
     }
   ]
 }
