@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T00:58:01",
+  "updatedAt": "2026-09-12T01:03:10",
   "now": {
-    "artist": "Madonna",
-    "title": "Vogue",
-    "album": "Im Breathless • 1990",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Space Song",
+    "album": "Depression Cherry • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Beach House",
-      "title": "Space Song"
-    },
     {
       "time": "1:08 am",
       "artist": "Justin Timberlake",
@@ -21,9 +16,20 @@
       "time": "1:12 am",
       "artist": "Ludacris",
       "title": "Roll Out"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "FKA twigs",
+      "title": "holy terrain"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Beach House",
+      "title": "Space Song",
+      "album": "Depression Cherry • 2015"
+    },
     {
       "time": "12:58 am",
       "artist": "Madonna",
@@ -167,12 +173,6 @@
       "artist": "Eminem",
       "title": "Not Afraid",
       "album": "Recovery • 2010"
-    },
-    {
-      "time": "11:26 pm",
-      "artist": "OutKast",
-      "title": "Hey Ya!",
-      "album": "Speakerboxxx/The Love Below • 2003"
     }
   ]
 }
