@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T00:52:12",
+  "updatedAt": "2026-09-12T00:52:33",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Modest Mouse",
+    "title": "Interstate 8",
+    "album": "Building Nothing out of Something • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:52 am",
-      "artist": "Modest Mouse",
-      "title": "Interstate 8"
-    },
     {
       "time": "12:57 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "1:03 am",
       "artist": "mary in the junkyard",
       "title": "New Muscles"
+    },
+    {
+      "time": "1:07 am",
+      "artist": "Luisa Wilson",
+      "title": "Small"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 am",
+      "artist": "Modest Mouse",
+      "title": "Interstate 8",
+      "album": "Building Nothing out of Something • 1999"
+    },
     {
       "time": "12:47 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "DIIV",
       "title": "The Fountain",
       "album": "ZIRP! • 2026"
-    },
-    {
-      "time": "11:17 pm",
-      "artist": "Sweeping Promises",
-      "title": "Accent",
-      "album": "You Say I Romanticize • 2026"
     }
   ]
 }
