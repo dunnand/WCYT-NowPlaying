@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T23:05:29",
+  "updatedAt": "2026-09-11T23:05:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Costello",
+    "title": "Man Out of Time",
+    "album": "Imperial Bedroom • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 pm",
-      "artist": "Elvis Costello",
-      "title": "Man Out of Time"
-    },
     {
       "time": "11:11 pm",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "11:21 pm",
       "artist": "Hall & Oates",
       "title": "She's Gone"
+    },
+    {
+      "time": "11:26 pm",
+      "artist": "OutKast",
+      "title": "Hey Ya!"
     }
   ],
   "recent": [
+    {
+      "time": "11:05 pm",
+      "artist": "Elvis Costello",
+      "title": "Man Out of Time",
+      "album": "Imperial Bedroom • 1982"
+    },
     {
       "time": "11:00 pm",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "JAY-Z",
       "title": "On To The Next",
       "album": "The Blueprint 3 • 2009"
-    },
-    {
-      "time": "9:33 pm",
-      "artist": "The Jacksons",
-      "title": "Blame It on the Boogie",
-      "album": "Destiny • 1978"
     }
   ]
 }
