@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T00:52:33",
+  "updatedAt": "2026-09-12T00:57:09",
   "now": {
     "artist": "Modest Mouse",
-    "title": "Interstate 8",
+    "title": "Never Ending Math Equation",
     "album": "Building Nothing out of Something • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:57 am",
-      "artist": "Modest Mouse",
-      "title": "Never Ending Math Equation"
-    },
     {
       "time": "1:00 am",
       "artist": "Japanese Breakfast",
@@ -26,9 +21,20 @@
       "time": "1:07 am",
       "artist": "Luisa Wilson",
       "title": "Small"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "CAKE",
+      "title": "Never There"
     }
   ],
   "recent": [
+    {
+      "time": "12:57 am",
+      "artist": "Modest Mouse",
+      "title": "Never Ending Math Equation",
+      "album": "Building Nothing out of Something • 1999"
+    },
     {
       "time": "12:52 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "The River",
       "album": "Quarters • 2015"
-    },
-    {
-      "time": "11:21 pm",
-      "artist": "DIIV",
-      "title": "The Fountain",
-      "album": "ZIRP! • 2026"
     }
   ]
 }
