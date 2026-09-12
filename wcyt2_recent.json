@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T03:30:00",
+  "updatedAt": "2026-09-12T03:30:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kool & The Gang",
+    "title": "Summer Madness",
+    "album": "Light of Worlds • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "Kool & The Gang",
-      "title": "Summer Madness"
-    },
     {
       "time": "3:34 am",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "3:39 am",
       "artist": "Chuck Berry",
       "title": "No Particular Place to Go"
+    },
+    {
+      "time": "3:42 am",
+      "artist": "Lou Reed",
+      "title": "Vicious"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "Kool & The Gang",
+      "title": "Summer Madness",
+      "album": "Light of Worlds • 1974"
+    },
     {
       "time": "3:26 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Don Gibson",
       "title": "Blue Blue Day",
       "album": "Oh Lonesome Me • 1958"
-    },
-    {
-      "time": "1:53 am",
-      "artist": "Guided by Voices",
-      "title": "Hold on Hope",
-      "album": "Do The Collapse • 1999"
     }
   ]
 }
