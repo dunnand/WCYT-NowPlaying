@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T21:13:36",
+  "updatedAt": "2026-09-11T21:13:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Why Bother?",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:13 pm",
-      "artist": "Weezer",
-      "title": "Why Bother?"
-    },
     {
       "time": "9:15 pm",
       "artist": "Falco",
@@ -26,9 +21,20 @@
       "time": "9:22 pm",
       "artist": "Grimes",
       "title": "IDORU"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "Matchbox Twenty",
+      "title": "Unwell"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 pm",
+      "artist": "Weezer",
+      "title": "Why Bother?",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "9:09 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "In a Jar",
       "album": "You're Living All Over Me • 1987"
-    },
-    {
-      "time": "7:44 pm",
-      "artist": "The Roots",
-      "title": "The Next Movement",
-      "album": "Things Fall Apart • 1999"
     }
   ]
 }
