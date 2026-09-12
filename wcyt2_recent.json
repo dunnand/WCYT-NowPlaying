@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T04:44:39",
+  "updatedAt": "2026-09-12T04:49:25",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Heroes and Villains",
-    "album": "The Smile Sessions • 2011",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "The Underdog",
+    "album": "Ga Ga Ga Ga Ga • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:49 am",
-      "artist": "Spoon",
-      "title": "The Underdog"
-    },
     {
       "time": "4:53 am",
       "artist": "The White Stripes",
@@ -21,9 +16,25 @@
       "time": "4:55 am",
       "artist": "Childish Gambino",
       "title": "Redbone"
+    },
+    {
+      "time": "4:59 am",
+      "artist": "Soundgarden",
+      "title": "The Day I Tried to Live"
+    },
+    {
+      "time": "5:04 am",
+      "artist": "Elliott Smith",
+      "title": "Between the Bars"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 am",
+      "artist": "Spoon",
+      "title": "The Underdog",
+      "album": "Ga Ga Ga Ga Ga • 2007"
+    },
     {
       "time": "4:44 am",
       "artist": "The Beach Boys",
@@ -167,12 +178,6 @@
       "artist": "Irene Cara",
       "title": "Flashdance...What A Feeling",
       "album": "What a Feelin' • 1983"
-    },
-    {
-      "time": "3:19 am",
-      "artist": "Human League",
-      "title": "(Keep Feeling) Fascination",
-      "album": "Fascination! • 1983"
     }
   ]
 }
