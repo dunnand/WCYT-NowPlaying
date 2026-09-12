@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T21:57:10",
+  "updatedAt": "2026-09-11T22:00:45",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "Just the Way You Are",
-    "album": "Doo-Wops & Hooligans • 2010",
-    "category": "AUDIO"
+    "artist": "Ween",
+    "title": "Ocean Man",
+    "album": "The Mollusk • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:00 pm",
-      "artist": "Ween",
-      "title": "Ocean Man"
-    },
     {
       "time": "10:02 pm",
       "artist": "The Orb",
@@ -26,9 +21,20 @@
       "time": "10:12 pm",
       "artist": "Dow Jones & The Industrials",
       "title": "Can't Stand The Midwest"
+    },
+    {
+      "time": "10:13 pm",
+      "artist": "Turnstile",
+      "title": "DULL"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 pm",
+      "artist": "Ween",
+      "title": "Ocean Man",
+      "album": "The Mollusk • 1997"
+    },
     {
       "time": "9:57 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Bershy",
       "title": "Radio",
       "album": "Single • 2022"
-    },
-    {
-      "time": "8:23 pm",
-      "artist": "Faith No More",
-      "title": "We Care A Lot",
-      "album": "We Care a Lot • 1985"
     }
   ]
 }
