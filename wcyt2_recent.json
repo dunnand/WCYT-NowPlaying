@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T00:17:25",
+  "updatedAt": "2026-09-12T00:21:20",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "I'll Stick Around",
-    "album": "Foo Fighters • 1995",
+    "artist": "Flipper",
+    "title": "Ever",
+    "album": "Generic Flipper • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:21 am",
-      "artist": "Flipper",
-      "title": "Ever"
-    },
     {
       "time": "12:24 am",
       "artist": "Fugazi",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:21 am",
+      "artist": "Flipper",
+      "title": "Ever",
+      "album": "Generic Flipper • 1982"
+    },
     {
       "time": "12:17 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Beach Weather",
       "title": "Chit Chat",
       "album": "Chit Chat • 2016"
-    },
-    {
-      "time": "10:43 pm",
-      "artist": "The Mothers of Invention",
-      "title": "Trouble Every Day",
-      "album": "Freak Out! • 1966"
     }
   ]
 }
