@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T13:38:48",
+  "updatedAt": "2026-09-12T13:41:22",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "One Too Many Mornings",
-    "album": "The Times They Are A-Changin • 1964",
+    "artist": "Chromatics",
+    "title": "Shadow",
+    "album": "single • 2015",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:41 pm",
-      "artist": "Chromatics",
-      "title": "Shadow"
-    },
     {
       "time": "1:45 pm",
       "artist": "Eels",
@@ -21,9 +16,20 @@
       "time": "1:48 pm",
       "artist": "Eric Clapton",
       "title": "My Father's Eyes"
+    },
+    {
+      "time": "1:53 pm",
+      "artist": "Orange Juice",
+      "title": "Rip It Up"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 pm",
+      "artist": "Chromatics",
+      "title": "Shadow",
+      "album": "single • 2015"
+    },
     {
       "time": "1:38 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "The Jam",
       "title": "The Modern World",
       "album": "This Is the Modern World • 1977"
-    },
-    {
-      "time": "12:10 pm",
-      "artist": "Alice Merton",
-      "title": "run away girl",
-      "album": "Heron II • 2024"
     }
   ]
 }
