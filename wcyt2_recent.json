@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T15:11:53",
+  "updatedAt": "2026-09-12T15:14:37",
   "now": {
-    "artist": "Tom Jones",
-    "title": "She's A Lady",
-    "album": "Tom Jones Sings She's a Lady • 1971",
+    "artist": "Aretha Franklin",
+    "title": "Do Right Woman, Do Right Man",
+    "album": "I Never Loved A Man The Way I Love You • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 pm",
-      "artist": "Aretha Franklin",
-      "title": "Do Right Woman, Do Right Man"
-    },
     {
       "time": "3:17 pm",
       "artist": "Townes Van Zandt",
@@ -26,9 +21,20 @@
       "time": "3:24 pm",
       "artist": "The Velvet Underground",
       "title": "Who Loves the Sun"
+    },
+    {
+      "time": "3:26 pm",
+      "artist": "Golden Smog",
+      "title": "Until You Came Along"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 pm",
+      "artist": "Aretha Franklin",
+      "title": "Do Right Woman, Do Right Man",
+      "album": "I Never Loved A Man The Way I Love You • 1967"
+    },
     {
       "time": "3:11 pm",
       "artist": "Tom Jones",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Ambulance",
       "album": "Desperate Youth, Blood Thirsty Babes • 2004"
-    },
-    {
-      "time": "1:30 pm",
-      "artist": "The Flamingos",
-      "title": "I Only Have Eyes for You",
-      "album": "Flamingo Serenade • 1959"
     }
   ]
 }
