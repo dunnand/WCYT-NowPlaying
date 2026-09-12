@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-11T22:16:12",
+  "updatedAt": "2026-09-11T22:22:08",
   "now": {
-    "artist": "Gerry Rafferty",
-    "title": "Baker Street",
-    "album": "City to City • 1978",
+    "artist": "Bob Dylan",
+    "title": "Highway 61 Revisited",
+    "album": "Highway 61 Revisited • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:22 pm",
-      "artist": "Bob Dylan",
-      "title": "Highway 61 Revisited"
-    },
     {
       "time": "10:25 pm",
       "artist": "Glen Campbell",
@@ -26,9 +21,20 @@
       "time": "10:30 pm",
       "artist": "Gordon Lightfoot",
       "title": "Rainy Day People"
+    },
+    {
+      "time": "10:33 pm",
+      "artist": "Elliott Smith",
+      "title": "Sweet Adeline"
     }
   ],
   "recent": [
+    {
+      "time": "10:22 pm",
+      "artist": "Bob Dylan",
+      "title": "Highway 61 Revisited",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "10:16 pm",
       "artist": "Gerry Rafferty",
@@ -172,12 +178,6 @@
       "artist": "Modest Mouse",
       "title": "Never Ending Math Equation",
       "album": "Building Nothing out of Something • 1999"
-    },
-    {
-      "time": "8:46 pm",
-      "artist": "Isaac Hayes",
-      "title": "Never Can Say Goodbye",
-      "album": "Black Moses • 1971"
     }
   ]
 }
