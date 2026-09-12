@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T09:44:13",
+  "updatedAt": "2026-09-12T09:47:56",
   "now": {
-    "artist": "Red Hot Chili Peppers",
-    "title": "The Zephyr Song",
-    "album": "By the Way • 2002",
+    "artist": "Weezer",
+    "title": "Pork and Beans",
+    "album": "Weezer • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:47 am",
-      "artist": "Weezer",
-      "title": "Pork and Beans"
-    },
     {
       "time": "9:51 am",
       "artist": "Billie Eilish",
@@ -26,9 +21,20 @@
       "time": "9:59 am",
       "artist": "Steve Earle",
       "title": "The Mountain"
+    },
+    {
+      "time": "10:03 am",
+      "artist": "Mudhoney",
+      "title": "Sweet Young Thing Ain't Sweet No More"
     }
   ],
   "recent": [
+    {
+      "time": "9:47 am",
+      "artist": "Weezer",
+      "title": "Pork and Beans",
+      "album": "Weezer • 2008"
+    },
     {
       "time": "9:44 am",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +178,6 @@
       "artist": "Little Simz",
       "title": "Introvert",
       "album": "Sometimes I Might Be Introvert • 2021"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "Men At Work",
-      "title": "It's A Mistake",
-      "album": "Cargo • 1983"
     }
   ]
 }
