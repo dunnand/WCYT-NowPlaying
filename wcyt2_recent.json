@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T09:12:39",
+  "updatedAt": "2026-09-13T09:16:14",
   "now": {
-    "artist": "The Cars",
-    "title": "Just What I Needed",
-    "album": "The Cars • 1978",
+    "artist": "Elvis Presley",
+    "title": "Are You Lonesome Tonight?",
+    "album": "single • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:16 am",
-      "artist": "Elvis Presley",
-      "title": "Are You Lonesome Tonight?"
-    },
     {
       "time": "9:19 am",
       "artist": "Cat Stevens",
@@ -26,9 +21,20 @@
       "time": "9:30 am",
       "artist": "Commodores",
       "title": "Easy"
+    },
+    {
+      "time": "9:34 am",
+      "artist": "Built to Spill",
+      "title": "Sidewalk"
     }
   ],
   "recent": [
+    {
+      "time": "9:16 am",
+      "artist": "Elvis Presley",
+      "title": "Are You Lonesome Tonight?",
+      "album": "single • 1960"
+    },
     {
       "time": "9:12 am",
       "artist": "The Cars",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Ashes of American Flags",
       "album": "Yankee Hotel Foxtrot • 2002"
-    },
-    {
-      "time": "7:40 am",
-      "artist": "Elvis Presley",
-      "title": "That's All Right",
-      "album": "single • 1956"
     }
   ]
 }
