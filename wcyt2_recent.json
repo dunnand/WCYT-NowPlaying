@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:51:50",
+  "updatedAt": "2026-09-13T01:53:44",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "All Summer Long",
-    "album": "All Summer Long • 1964",
+    "artist": "Paul Simon",
+    "title": "Was a Sunny Day",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "Paul Simon",
-      "title": "Was a Sunny Day"
-    },
     {
       "time": "1:57 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "2:05 am",
       "artist": "The Hives",
       "title": "Hate to Say I Told You So"
+    },
+    {
+      "time": "2:08 am",
+      "artist": "The Killers",
+      "title": "Smile Like You Mean It"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "Paul Simon",
+      "title": "Was a Sunny Day",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "1:51 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "Strange Powers",
       "album": "Holiday • 1994"
-    },
-    {
-      "time": "12:14 am",
-      "artist": "Black Pumas",
-      "title": "Colors",
-      "album": "Black Pumas • 2019"
     }
   ]
 }
