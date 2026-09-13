@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-09-12T23:18:35",
+  "updatedAt": "2026-09-12T23:23:54",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Mother",
-    "album": "The Wall • 1979",
+    "artist": "King Harvest",
+    "title": "Dancing In The Moonlight",
+    "album": "Dancing in the Moonlight • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:24 pm",
-      "artist": "King Harvest",
-      "title": "Dancing In The Moonlight"
-    },
-    {
-      "time": "11:27 pm",
+      "time": "11:26 pm",
       "artist": "Radiohead",
       "title": "Morning Bell"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:23 pm",
+      "artist": "King Harvest",
+      "title": "Dancing In The Moonlight",
+      "album": "Dancing in the Moonlight • 1972"
+    },
     {
       "time": "11:18 pm",
       "artist": "Pink Floyd",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Backdrifts. (Honeymoon Is Over.)",
       "album": "Hail to the Thief • 2003"
-    },
-    {
-      "time": "9:45 pm",
-      "artist": "Chuck Berry",
-      "title": "Johnny B. Goode",
-      "album": "Berry Is on Top • 1959"
     }
   ]
 }
