@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T07:36:04",
+  "updatedAt": "2026-09-13T07:40:40",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Amazing",
-    "album": "Get a Grip • 1993",
+    "artist": "Elvis Presley",
+    "title": "That's All Right",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:40 am",
-      "artist": "Elvis Presley",
-      "title": "That's All Right"
-    },
     {
       "time": "7:42 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "7:50 am",
       "artist": "Feist",
       "title": "Mushaboom"
+    },
+    {
+      "time": "7:53 am",
+      "artist": "Alice in Chains",
+      "title": "Them Bones"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 am",
+      "artist": "Elvis Presley",
+      "title": "That's All Right",
+      "album": "single • 1956"
+    },
     {
       "time": "7:36 am",
       "artist": "Aerosmith",
@@ -172,12 +178,6 @@
       "artist": "Wang Chung",
       "title": "Dance Hall Days",
       "album": "Points on the Curve • 1984"
-    },
-    {
-      "time": "6:08 am",
-      "artist": "Silver Jews",
-      "title": "Random Rules",
-      "album": "American Water • 1998"
     }
   ]
 }
