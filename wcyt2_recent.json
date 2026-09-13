@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T18:28:33",
+  "updatedAt": "2026-09-13T18:32:47",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Darkness on the Edge of Town",
-    "album": "Darkness on the Edge of Town • 1978",
+    "artist": "Elvis Costello",
+    "title": "Radio, Radio",
+    "album": "This Year's Model • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:32 pm",
-      "artist": "Elvis Costello",
-      "title": "Radio, Radio"
-    },
     {
       "time": "6:36 pm",
       "artist": "TV on the Radio",
@@ -26,9 +21,20 @@
       "time": "6:41 pm",
       "artist": "Eric Clapton",
       "title": "Wonderful Tonight"
+    },
+    {
+      "time": "6:45 pm",
+      "artist": "Janet Jackson",
+      "title": "What's Gonna Be"
     }
   ],
   "recent": [
+    {
+      "time": "6:32 pm",
+      "artist": "Elvis Costello",
+      "title": "Radio, Radio",
+      "album": "This Year's Model • 1978"
+    },
     {
       "time": "6:28 pm",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Sonic Youth",
       "title": "Incinerate",
       "album": "Rather Ripped • 2006"
-    },
-    {
-      "time": "4:59 pm",
-      "artist": "Ricky Nelson",
-      "title": "Lonesome Town",
-      "album": "single • 1958"
     }
   ]
 }
