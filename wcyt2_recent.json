@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T12:56:51",
+  "updatedAt": "2026-09-13T13:01:00",
   "now": {
-    "artist": "David Bowie",
-    "title": "Fame",
-    "album": "Young Americans • 1975",
+    "artist": "Free",
+    "title": "All Right Now",
+    "album": "Fire and Water • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 pm",
-      "artist": "Free",
-      "title": "All Right Now"
-    },
     {
       "time": "1:06 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "1:13 pm",
       "artist": "Led Zeppelin",
       "title": "Fool in the Rain"
+    },
+    {
+      "time": "1:19 pm",
+      "artist": "Social Distortion",
+      "title": "Ball and Chain"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 pm",
+      "artist": "Free",
+      "title": "All Right Now",
+      "album": "Fire and Water • 1970"
+    },
     {
       "time": "12:56 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "New Health Rock",
       "album": "New Health Rock • 2004"
-    },
-    {
-      "time": "11:33 am",
-      "artist": "Elvis Presley",
-      "title": "Jailhouse Rock",
-      "album": "Jailhouse Rock • 1957"
     }
   ]
 }
