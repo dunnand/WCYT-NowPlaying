@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T00:21:09",
+  "updatedAt": "2026-09-13T00:21:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Trailer Trash",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:21 am",
-      "artist": "Modest Mouse",
-      "title": "Trailer Trash"
-    },
     {
       "time": "12:27 am",
       "artist": "Spandau Ballet",
@@ -26,9 +21,20 @@
       "time": "12:35 am",
       "artist": "Lil Nas X",
       "title": "INDUSTRY BABY"
+    },
+    {
+      "time": "12:39 am",
+      "artist": "Spoon",
+      "title": "Small Stakes"
     }
   ],
   "recent": [
+    {
+      "time": "12:21 am",
+      "artist": "Modest Mouse",
+      "title": "Trailer Trash",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "12:18 am",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "Ball and Biscuit",
       "album": "Elephant • 2003"
-    },
-    {
-      "time": "10:23 pm",
-      "artist": "Grateful Dead",
-      "title": "Uncle John's Band",
-      "album": "Workingman's Dead • 1970"
     }
   ]
 }
