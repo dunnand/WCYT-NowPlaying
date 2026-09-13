@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T23:11:53",
+  "updatedAt": "2026-09-12T23:15:18",
   "now": {
-    "artist": "The Smithereens",
-    "title": "Blood And Roses",
-    "album": "Especially for You • 1986",
+    "artist": "The Smiths",
+    "title": "William, It Was Really Nothing",
+    "album": "single • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 pm",
-      "artist": "The Smiths",
-      "title": "William, It Was Really Nothing"
-    },
     {
       "time": "11:17 pm",
       "artist": "Naoto Ishida",
@@ -23,12 +18,18 @@
       "title": "Mother"
     },
     {
-      "time": "11:24 pm",
+      "time": "11:23 pm",
       "artist": "King Harvest",
       "title": "Dancing In The Moonlight"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 pm",
+      "artist": "The Smiths",
+      "title": "William, It Was Really Nothing",
+      "album": "single • 1984"
+    },
     {
       "time": "11:11 pm",
       "artist": "The Smithereens",
@@ -172,12 +173,6 @@
       "artist": "Queen",
       "title": "Bohemian Rhapsody",
       "album": "A Night at the Opera • 1975"
-    },
-    {
-      "time": "9:32 pm",
-      "artist": "Against Me!",
-      "title": "I Was a Teenage Anarchist",
-      "album": "White Crosses • 2010"
     }
   ]
 }
