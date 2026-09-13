@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T04:34:33",
+  "updatedAt": "2026-09-13T04:39:39",
   "now": {
-    "artist": "Elton John",
-    "title": "Philadelphia Freedom",
-    "album": "single • 1975",
+    "artist": "Johnny Nash",
+    "title": "I Can See Clearly Now",
+    "album": "I Can See Clearly Now • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:39 am",
-      "artist": "Johnny Nash",
-      "title": "I Can See Clearly Now"
-    },
     {
       "time": "4:42 am",
       "artist": "Spoon",
@@ -26,9 +21,20 @@
       "time": "4:47 am",
       "artist": "Lee \"Scratch\" Perry",
       "title": "Disco Devil"
+    },
+    {
+      "time": "4:55 am",
+      "artist": "Wonders",
+      "title": "That Thing You Do!"
     }
   ],
   "recent": [
+    {
+      "time": "4:39 am",
+      "artist": "Johnny Nash",
+      "title": "I Can See Clearly Now",
+      "album": "I Can See Clearly Now • 1972"
+    },
     {
       "time": "4:34 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Spaceman",
       "album": "Day & Age • 2008"
-    },
-    {
-      "time": "3:00 am",
-      "artist": "Carl Perkins",
-      "title": "Blue Suede Shoes",
-      "album": "Dance Album of Carl Perkins • 1957"
     }
   ]
 }
