@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T09:19:19",
+  "updatedAt": "2026-09-13T09:19:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cat Stevens",
+    "title": "Sitting",
+    "album": "Catch Bull at Four • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:19 am",
-      "artist": "Cat Stevens",
-      "title": "Sitting"
-    },
     {
       "time": "9:22 am",
       "artist": "Bob Dylan",
@@ -31,9 +26,20 @@
       "time": "9:38 am",
       "artist": "Chuck Berry",
       "title": "Rock & Roll Music"
+    },
+    {
+      "time": "9:41 am",
+      "artist": "Sufjan Stevens",
+      "title": "Holland"
     }
   ],
   "recent": [
+    {
+      "time": "9:19 am",
+      "artist": "Cat Stevens",
+      "title": "Sitting",
+      "album": "Catch Bull at Four • 1972"
+    },
     {
       "time": "9:16 am",
       "artist": "Elvis Presley",
@@ -177,12 +183,6 @@
       "artist": "Drifters",
       "title": "On Broadway",
       "album": "Under the Boardwalk • 1964"
-    },
-    {
-      "time": "7:42 am",
-      "artist": "Wilco",
-      "title": "Ashes of American Flags",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
