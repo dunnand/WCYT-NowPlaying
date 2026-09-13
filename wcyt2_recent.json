@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T03:20:18",
+  "updatedAt": "2026-09-13T03:22:20",
   "now": {
-    "artist": "The Gizmos",
-    "title": "The Midwest Can Be Allright",
-    "album": "The Midwest Can Be Allright • 1981",
+    "artist": "The Jam",
+    "title": "Start!",
+    "album": "Sound Affects • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 am",
-      "artist": "The Jam",
-      "title": "Start!"
-    },
     {
       "time": "3:24 am",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "3:33 am",
       "artist": "T. Rex",
       "title": "Children of the Revolution"
+    },
+    {
+      "time": "3:38 am",
+      "artist": "R.E.M.",
+      "title": "All the Way to Reno (You're Gonna Be a Star)"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 am",
+      "artist": "The Jam",
+      "title": "Start!",
+      "album": "Sound Affects • 1980"
+    },
     {
       "time": "3:20 am",
       "artist": "The Gizmos",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Was a Sunny Day",
       "album": "There Goes Rhymin Simon • 1973"
-    },
-    {
-      "time": "1:51 am",
-      "artist": "The Beach Boys",
-      "title": "All Summer Long",
-      "album": "All Summer Long • 1964"
     }
   ]
 }
