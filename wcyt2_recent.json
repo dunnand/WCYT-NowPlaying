@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T22:38:18",
+  "updatedAt": "2026-09-12T22:44:16",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Amelia",
-    "album": "Hejira • 1976",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Spit on a Stranger",
+    "album": "Terror Twilight • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:44 pm",
-      "artist": "Pavement",
-      "title": "Spit on a Stranger"
-    },
     {
       "time": "10:47 pm",
       "artist": "Billie Holiday",
@@ -21,9 +16,20 @@
       "time": "10:50 pm",
       "artist": "Rihanna",
       "title": "Umbrella"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "Cream",
+      "title": "Strange Brew"
     }
   ],
   "recent": [
+    {
+      "time": "10:44 pm",
+      "artist": "Pavement",
+      "title": "Spit on a Stranger",
+      "album": "Terror Twilight • 1999"
+    },
     {
       "time": "10:38 pm",
       "artist": "Joni Mitchell",
@@ -167,12 +173,6 @@
       "artist": "Rembrandts",
       "title": "I'll Be There For You",
       "album": "L.P. • 1995"
-    },
-    {
-      "time": "8:58 pm",
-      "artist": "Wilson Phillips",
-      "title": "Impulsive",
-      "album": "Wilson Phillips • 1990"
     }
   ]
 }
