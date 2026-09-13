@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T09:10:23",
+  "updatedAt": "2026-09-13T09:10:35",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "Identikit",
+    "album": "A Moon Shaped Pool • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 am",
-      "artist": "Radiohead",
-      "title": "Identikit"
-    },
     {
       "time": "9:14 am",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "9:22 am",
       "artist": "Greg Freeman",
       "title": "Point and Shoot"
+    },
+    {
+      "time": "9:25 am",
+      "artist": "Westside Cowboy",
+      "title": "Pin Up Boys"
     }
   ],
   "recent": [
+    {
+      "time": "9:10 am",
+      "artist": "Radiohead",
+      "title": "Identikit",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "9:06 am",
       "artist": "Sweeping Promises",
@@ -172,12 +178,6 @@
       "artist": "Mitski",
       "title": "Where's My Phone?",
       "album": "Nothing's About to Happen to Me • 2026"
-    },
-    {
-      "time": "7:29 am",
-      "artist": "Lydia Lunch & Rowland S. Howard",
-      "title": "Some Velvet Morning",
-      "album": "Single • 1982"
     }
   ]
 }
