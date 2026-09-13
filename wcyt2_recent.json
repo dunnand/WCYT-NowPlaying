@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:35:38",
+  "updatedAt": "2026-09-13T01:35:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Karen Dalton",
+    "title": "Something on Your Mind",
+    "album": "In My Own Time • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 am",
-      "artist": "Karen Dalton",
-      "title": "Something on Your Mind"
-    },
     {
       "time": "1:38 am",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "1:51 am",
       "artist": "The Beach Boys",
       "title": "All Summer Long"
+    },
+    {
+      "time": "1:53 am",
+      "artist": "Paul Simon",
+      "title": "Was a Sunny Day"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 am",
+      "artist": "Karen Dalton",
+      "title": "Something on Your Mind",
+      "album": "In My Own Time • 1970"
+    },
     {
       "time": "1:30 am",
       "artist": "Billie Eilish",
@@ -172,12 +178,6 @@
       "artist": "Little Richard",
       "title": "Rip It Up",
       "album": "Here's Little Richard • 1957"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Rhinoceros",
-      "album": "Gish • 1991"
     }
   ]
 }
