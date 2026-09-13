@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T11:50:25",
+  "updatedAt": "2026-09-13T11:50:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Pictures of Me",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:50 am",
-      "artist": "Elliott Smith",
-      "title": "Pictures of Me"
-    },
     {
       "time": "11:54 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "12:01 pm",
       "artist": "Chappell Roan",
       "title": "HOT TO GO!"
+    },
+    {
+      "time": "12:04 pm",
+      "artist": "The White Stripes",
+      "title": "Hello Operator"
     }
   ],
   "recent": [
+    {
+      "time": "11:50 am",
+      "artist": "Elliott Smith",
+      "title": "Pictures of Me",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "11:46 am",
       "artist": "Warren G",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Love Story",
       "album": "Fearless • 2008"
-    },
-    {
-      "time": "10:16 am",
-      "artist": "Curtis Mayfield",
-      "title": "Move on Up",
-      "album": "Curtis • 1970"
     }
   ]
 }
