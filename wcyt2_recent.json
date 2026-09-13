@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T12:31:44",
+  "updatedAt": "2026-09-13T12:33:38",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Return To Sender",
-    "album": "Girls! Girls! Girls! • 1962",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Norway",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:33 pm",
-      "artist": "Beach House",
-      "title": "Norway"
-    },
     {
       "time": "12:37 pm",
       "artist": "Shawn Mullins",
@@ -21,9 +16,20 @@
       "time": "12:41 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Thirty-Three"
+    },
+    {
+      "time": "12:46 pm",
+      "artist": "Au Pairs",
+      "title": "Come Again"
     }
   ],
   "recent": [
+    {
+      "time": "12:33 pm",
+      "artist": "Beach House",
+      "title": "Norway",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "12:31 pm",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Electric Light Orchestra",
       "title": "Strange Magic",
       "album": "Face the Music • 1976"
-    },
-    {
-      "time": "11:07 am",
-      "artist": "Beyonce",
-      "title": "HEATED",
-      "album": "RENAISSANCE • 2022"
     }
   ]
 }
