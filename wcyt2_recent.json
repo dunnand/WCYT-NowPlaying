@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T03:43:03",
+  "updatedAt": "2026-09-13T03:46:57",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "No. 1 Party Anthem",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Bob Marley and the Wailers",
+    "title": "Is This Love",
+    "album": "Kaya • 1978",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Is This Love"
-    },
     {
       "time": "3:50 am",
       "artist": "Superchunk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Is This Love",
+      "album": "Kaya • 1978"
+    },
     {
       "time": "3:43 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +173,6 @@
       "artist": "Bjork",
       "title": "Hyperballad",
       "album": "Post • 1995"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "Ellie Goulding",
-      "title": "Anything Could Happen",
-      "album": "Halcyon • 2012"
     }
   ]
 }
