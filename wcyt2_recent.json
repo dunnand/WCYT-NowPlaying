@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T21:45:31",
+  "updatedAt": "2026-09-12T21:45:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "album": "Berry Is on Top • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:45 pm",
-      "artist": "Chuck Berry",
-      "title": "Johnny B. Goode"
-    },
     {
       "time": "9:48 pm",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:45 pm",
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode",
+      "album": "Berry Is on Top • 1959"
+    },
     {
       "time": "9:41 pm",
       "artist": "Santana",
@@ -172,12 +173,6 @@
       "artist": "Roxy Music",
       "title": "Avalon",
       "album": "Avalon • 1982"
-    },
-    {
-      "time": "7:57 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Kings Highway",
-      "album": "Into the Great Wide Open • 1991"
     }
   ]
 }
