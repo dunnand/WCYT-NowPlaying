@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T14:06:55",
+  "updatedAt": "2026-09-13T14:07:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Optimistic",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:07 pm",
-      "artist": "Radiohead",
-      "title": "Optimistic"
-    },
     {
       "time": "2:12 pm",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "2:21 pm",
       "artist": "Yo La Tengo",
       "title": "Nowhere Near"
+    },
+    {
+      "time": "2:27 pm",
+      "artist": "Tad",
+      "title": "Grease Box"
     }
   ],
   "recent": [
+    {
+      "time": "2:07 pm",
+      "artist": "Radiohead",
+      "title": "Optimistic",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "2:03 pm",
       "artist": "Charles Bradley",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Norway",
       "album": "Teen Dream • 2010"
-    },
-    {
-      "time": "12:31 pm",
-      "artist": "Elvis Presley",
-      "title": "Return To Sender",
-      "album": "Girls! Girls! Girls! • 1962"
     }
   ]
 }
