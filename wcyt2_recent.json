@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T09:34:40",
+  "updatedAt": "2026-09-13T09:38:26",
   "now": {
-    "artist": "Built to Spill",
-    "title": "Sidewalk",
-    "album": "Keep It Like A Secret • 1999",
-    "category": "TUNES"
+    "artist": "Chuck Berry",
+    "title": "Rock & Roll Music",
+    "album": "One Dozen Berrys • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:38 am",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music"
-    },
     {
       "time": "9:40 am",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "9:49 am",
       "artist": "Beyonce",
       "title": "Formation"
+    },
+    {
+      "time": "9:52 am",
+      "artist": "The Halo Benders",
+      "title": "Your Asterisk"
     }
   ],
   "recent": [
+    {
+      "time": "9:38 am",
+      "artist": "Chuck Berry",
+      "title": "Rock & Roll Music",
+      "album": "One Dozen Berrys • 1958"
+    },
     {
       "time": "9:34 am",
       "artist": "Built to Spill",
@@ -172,12 +178,6 @@
       "artist": "John Lennon & Yoko Ono",
       "title": "Walking on Thin Ice",
       "album": "Walking on Thin Ice • 1981"
-    },
-    {
-      "time": "7:56 am",
-      "artist": "Aphex Twin",
-      "title": "Xtal",
-      "album": "Selected Ambient Works 85-92 • 1992"
     }
   ]
 }
