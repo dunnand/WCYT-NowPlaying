@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T09:12:27",
+  "updatedAt": "2026-09-13T09:12:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "Just What I Needed",
+    "album": "The Cars • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 am",
-      "artist": "The Cars",
-      "title": "Just What I Needed"
-    },
     {
       "time": "9:16 am",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "9:22 am",
       "artist": "Bob Dylan",
       "title": "Visions of Johanna"
+    },
+    {
+      "time": "9:30 am",
+      "artist": "Commodores",
+      "title": "Easy"
     }
   ],
   "recent": [
+    {
+      "time": "9:12 am",
+      "artist": "The Cars",
+      "title": "Just What I Needed",
+      "album": "The Cars • 1978"
+    },
     {
       "time": "9:07 am",
       "artist": "Jessie Ware",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "That's All Right",
       "album": "single • 1956"
-    },
-    {
-      "time": "7:36 am",
-      "artist": "Aerosmith",
-      "title": "Amazing",
-      "album": "Get a Grip • 1993"
     }
   ]
 }
