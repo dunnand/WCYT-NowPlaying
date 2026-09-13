@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T21:10:05",
+  "updatedAt": "2026-09-12T21:10:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sheila E.",
+    "title": "The Glamorous Life",
+    "album": "The Glamorous Life • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 pm",
-      "artist": "Sheila E.",
-      "title": "The Glamorous Life"
-    },
     {
       "time": "9:13 pm",
       "artist": "Lizzo",
@@ -26,9 +21,20 @@
       "time": "9:23 pm",
       "artist": "Bob Dylan",
       "title": "Tangled Up in Blue"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "The Killers",
+      "title": "Mr. Brightside"
     }
   ],
   "recent": [
+    {
+      "time": "9:10 pm",
+      "artist": "Sheila E.",
+      "title": "The Glamorous Life",
+      "album": "The Glamorous Life • 1984"
+    },
     {
       "time": "9:05 pm",
       "artist": "Scorpions",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "I Don't Want To Know",
       "album": "Rumours • 1977"
-    },
-    {
-      "time": "7:29 pm",
-      "artist": "Cream",
-      "title": "White Room",
-      "album": "Wheels of Fire • 1968"
     }
   ]
 }
