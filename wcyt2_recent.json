@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:16:06",
+  "updatedAt": "2026-09-13T01:18:43",
   "now": {
-    "artist": "Weezer",
-    "title": "Buddy Holly",
-    "album": "Weezer • 1994",
+    "artist": "A Tribe Called Quest",
+    "title": "Electric Relaxation",
+    "album": "Midnight Marauders • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:18 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Electric Relaxation"
-    },
     {
       "time": "1:22 am",
       "artist": "Squeeze",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:18 am",
+      "artist": "A Tribe Called Quest",
+      "title": "Electric Relaxation",
+      "album": "Midnight Marauders • 1993"
+    },
     {
       "time": "1:16 am",
       "artist": "Weezer",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Morning Bell",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "11:23 pm",
-      "artist": "King Harvest",
-      "title": "Dancing In The Moonlight",
-      "album": "Dancing in the Moonlight • 1972"
     }
   ]
 }
