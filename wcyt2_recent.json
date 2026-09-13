@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T05:44:44",
+  "updatedAt": "2026-09-13T05:48:19",
   "now": {
-    "artist": "System of a Down",
-    "title": "Spiders",
-    "album": "System Of A Down • 1999",
+    "artist": "Florence + The Machine",
+    "title": "Shake It Out",
+    "album": "Ceremonials • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 am",
-      "artist": "Florence + The Machine",
-      "title": "Shake It Out"
-    },
     {
       "time": "5:53 am",
       "artist": "Wilco",
@@ -21,9 +16,20 @@
       "time": "5:56 am",
       "artist": "The Shins",
       "title": "Saint Simon"
+    },
+    {
+      "time": "6:01 am",
+      "artist": "Adele",
+      "title": "Rolling In The Deep"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 am",
+      "artist": "Florence + The Machine",
+      "title": "Shake It Out",
+      "album": "Ceremonials • 2011"
+    },
     {
       "time": "5:44 am",
       "artist": "System of a Down",
@@ -167,12 +173,6 @@
       "artist": "The Vaselines",
       "title": "Son of a Gun",
       "album": "Son of a Gun • 1987"
-    },
-    {
-      "time": "4:20 am",
-      "artist": "Radiohead",
-      "title": "The Bends",
-      "album": "The Bends • 1995"
     }
   ]
 }
