@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T07:56:36",
+  "updatedAt": "2026-09-13T08:01:23",
   "now": {
-    "artist": "Aphex Twin",
-    "title": "Xtal",
-    "album": "Selected Ambient Works 85-92 • 1992",
+    "artist": "John Lennon & Yoko Ono",
+    "title": "Walking on Thin Ice",
+    "album": "Walking on Thin Ice • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:01 am",
-      "artist": "John Lennon & Yoko Ono",
-      "title": "Walking on Thin Ice"
-    },
     {
       "time": "8:07 am",
       "artist": "ZZ Top",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:01 am",
+      "artist": "John Lennon & Yoko Ono",
+      "title": "Walking on Thin Ice",
+      "album": "Walking on Thin Ice • 1981"
+    },
     {
       "time": "7:56 am",
       "artist": "Aphex Twin",
@@ -172,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "Here Today",
       "album": "Pet Sounds • 1966"
-    },
-    {
-      "time": "6:29 am",
-      "artist": "The Who",
-      "title": "Love, Reign O'er Me",
-      "album": "Quadrophenia • 1973"
     }
   ]
 }
