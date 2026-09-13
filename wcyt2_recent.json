@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T23:02:05",
+  "updatedAt": "2026-09-12T23:02:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Waltz #2 (XO)",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:02 pm",
-      "artist": "Elliott Smith",
-      "title": "Waltz #2 (XO)"
-    },
     {
       "time": "11:06 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "11:15 pm",
       "artist": "The Smiths",
       "title": "William, It Was Really Nothing"
+    },
+    {
+      "time": "11:17 pm",
+      "artist": "Naoto Ishida",
+      "title": "F-ZERO (Ending)"
     }
   ],
   "recent": [
+    {
+      "time": "11:02 pm",
+      "artist": "Elliott Smith",
+      "title": "Waltz #2 (XO)",
+      "album": "XO • 1998"
+    },
     {
       "time": "10:57 pm",
       "artist": "Charles Bradley featuring Menahan Street Band",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Tangled Up in Blue",
       "album": "Blood on the Tracks • 1975"
-    },
-    {
-      "time": "9:16 pm",
-      "artist": "The Chemical Brothers",
-      "title": "Galvanize",
-      "album": "Push The Button • 2006"
     }
   ]
 }
