@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T04:42:15",
+  "updatedAt": "2026-09-13T04:42:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Paper Tiger",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:42 am",
-      "artist": "Spoon",
-      "title": "Paper Tiger"
-    },
     {
       "time": "4:45 am",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "4:55 am",
       "artist": "Wonders",
       "title": "That Thing You Do!"
+    },
+    {
+      "time": "4:58 am",
+      "artist": "Chuck Berry",
+      "title": "Sweet Little Sixteen"
     }
   ],
   "recent": [
+    {
+      "time": "4:42 am",
+      "artist": "Spoon",
+      "title": "Paper Tiger",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "4:39 am",
       "artist": "Johnny Nash",
@@ -172,12 +178,6 @@
       "artist": "Dion",
       "title": "Lovers Who Wander",
       "album": "Lovers Who Wander • 1962"
-    },
-    {
-      "time": "3:02 am",
-      "artist": "The Killers",
-      "title": "Spaceman",
-      "album": "Day & Age • 2008"
     }
   ]
 }
