@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T19:57:52",
+  "updatedAt": "2026-09-12T20:00:47",
   "now": {
-    "artist": "Tom Petty and the Heartbreakers",
-    "title": "Kings Highway",
-    "album": "Into the Great Wide Open • 1991",
+    "artist": "Roxy Music",
+    "title": "Avalon",
+    "album": "Avalon • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "Roxy Music",
-      "title": "Avalon"
-    },
     {
       "time": "8:05 pm",
       "artist": "Sade",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "Roxy Music",
+      "title": "Avalon",
+      "album": "Avalon • 1982"
+    },
     {
       "time": "7:57 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +173,6 @@
       "artist": "The Four Seasons",
       "title": "Dawn (Go Away)",
       "album": "Dawn and 11 Other Great Songs • 1963"
-    },
-    {
-      "time": "6:27 pm",
-      "artist": "Sigur Ros",
-      "title": "Vio spilum endalaust  (We Play Endlessly)",
-      "album": "Meo suo i eyrum vio spilum endalaust • 2008"
     }
   ]
 }
