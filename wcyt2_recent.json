@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T00:53:03",
+  "updatedAt": "2026-09-13T00:57:19",
   "now": {
-    "artist": "Janis Joplin",
-    "title": "Me And Bobby McGee",
-    "album": "Pearl • 1971",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Song Against Sex",
+    "album": "On Avery Island • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:57 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Song Against Sex"
-    },
     {
       "time": "1:00 am",
       "artist": "Nat King Cole",
@@ -21,9 +16,20 @@
       "time": "1:03 am",
       "artist": "Sleater",
       "title": "Kinney - Combat Rock"
+    },
+    {
+      "time": "1:08 am",
+      "artist": "Bob Dylan",
+      "title": "John Wesley Harding"
     }
   ],
   "recent": [
+    {
+      "time": "12:57 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Song Against Sex",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "12:53 am",
       "artist": "Janis Joplin",
@@ -167,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Immortality",
       "album": "Vitalogy • 1994"
-    },
-    {
-      "time": "11:02 pm",
-      "artist": "Elliott Smith",
-      "title": "Waltz #2 (XO)",
-      "album": "XO • 1998"
     }
   ]
 }
