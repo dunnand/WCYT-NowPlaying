@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T07:14:19",
+  "updatedAt": "2026-09-13T07:14:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "X",
+    "title": "Sugarlight",
+    "album": "Los Angeles • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:14 am",
-      "artist": "X",
-      "title": "Sugarlight"
-    },
     {
       "time": "7:16 am",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:14 am",
+      "artist": "X",
+      "title": "Sugarlight",
+      "album": "Los Angeles • 1982"
+    },
     {
       "time": "7:11 am",
       "artist": "Willie Nelson",
@@ -172,12 +173,6 @@
       "artist": "John Prine",
       "title": "Angel From Montgomery",
       "album": "John Prine • 1971"
-    },
-    {
-      "time": "5:38 am",
-      "artist": "Howlin' Wolf",
-      "title": "Spoonful",
-      "album": "Howlin' Wolf • 1962"
     }
   ]
 }
