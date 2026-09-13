@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T17:33:19",
+  "updatedAt": "2026-09-13T17:37:33",
   "now": {
-    "artist": "Bill Withers",
-    "title": "Lean on Me",
-    "album": "Still Bill • 1972",
+    "artist": "Jennifer Lopez",
+    "title": "Love Don't Cost A Thing",
+    "album": "J.Lo • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:37 pm",
-      "artist": "Jennifer Lopez",
-      "title": "Love Don't Cost A Thing"
-    },
     {
       "time": "5:41 pm",
       "artist": "Kendrick Lamar",
@@ -26,9 +21,20 @@
       "time": "5:49 pm",
       "artist": "Dave Matthews Band",
       "title": "Ants Marching"
+    },
+    {
+      "time": "5:53 pm",
+      "artist": "The Crickets",
+      "title": "Maybe Baby"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 pm",
+      "artist": "Jennifer Lopez",
+      "title": "Love Don't Cost A Thing",
+      "album": "J.Lo • 2001"
+    },
     {
       "time": "5:33 pm",
       "artist": "Bill Withers",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "M79",
       "album": "Vampire Weekend • 2008"
-    },
-    {
-      "time": "4:05 pm",
-      "artist": "The Shins",
-      "title": "Know Your Onion!",
-      "album": "Oh Inverted World • 2001"
     }
   ]
 }
