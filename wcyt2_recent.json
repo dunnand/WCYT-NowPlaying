@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T19:34:34",
+  "updatedAt": "2026-09-13T19:37:37",
   "now": {
-    "artist": "The Strokes",
-    "title": "Someday.",
-    "album": "Is This It • 2001",
-    "category": "TUNES"
+    "artist": "Bee Gees",
+    "title": "To Love Somebody",
+    "album": "Bee Gees' 1st • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:37 pm",
-      "artist": "Bee Gees",
-      "title": "To Love Somebody"
-    },
     {
       "time": "7:40 pm",
       "artist": "Jim Croce",
@@ -26,9 +21,20 @@
       "time": "7:50 pm",
       "artist": "Big Bopper",
       "title": "Chantilly Lace"
+    },
+    {
+      "time": "7:53 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Casimir Pulaski Day"
     }
   ],
   "recent": [
+    {
+      "time": "7:37 pm",
+      "artist": "Bee Gees",
+      "title": "To Love Somebody",
+      "album": "Bee Gees' 1st • 1967"
+    },
     {
       "time": "7:34 pm",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "New",
       "album": "New • 2013"
-    },
-    {
-      "time": "5:58 pm",
-      "artist": "Gloria Jones",
-      "title": "Tainted Love",
-      "album": "single • 1965"
     }
   ]
 }
