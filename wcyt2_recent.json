@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T19:24:27",
+  "updatedAt": "2026-09-13T19:24:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Brown",
+    "title": "Mother Popcorn",
+    "album": "Sex Machine • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:24 pm",
-      "artist": "James Brown",
-      "title": "Mother Popcorn"
-    },
     {
       "time": "7:30 pm",
       "artist": "James Taylor",
@@ -26,9 +21,20 @@
       "time": "7:37 pm",
       "artist": "Bee Gees",
       "title": "To Love Somebody"
+    },
+    {
+      "time": "7:40 pm",
+      "artist": "Jim Croce",
+      "title": "Bad, Bad Leroy Brown"
     }
   ],
   "recent": [
+    {
+      "time": "7:24 pm",
+      "artist": "James Brown",
+      "title": "Mother Popcorn",
+      "album": "Sex Machine • 1970"
+    },
     {
       "time": "7:19 pm",
       "artist": "Lana Del Rey",
@@ -172,12 +178,6 @@
       "artist": "The Crickets",
       "title": "Maybe Baby",
       "album": "The Chirping Crickets • 1957"
-    },
-    {
-      "time": "5:49 pm",
-      "artist": "Dave Matthews Band",
-      "title": "Ants Marching",
-      "album": "Under The Table And Dreaming • 1995"
     }
   ]
 }
