@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T10:44:58",
+  "updatedAt": "2026-09-13T10:48:23",
   "now": {
-    "artist": "Ted Leo and the Pharmacists",
-    "title": "Me and Mia",
-    "album": "Shake The Sheets • 2004",
-    "category": "TUNES"
+    "artist": "Chiffons",
+    "title": "One Fine Day",
+    "album": "One Fine Day • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:48 am",
-      "artist": "Chiffons",
-      "title": "One Fine Day"
-    },
     {
       "time": "10:50 am",
       "artist": "Baauer",
@@ -21,9 +16,20 @@
       "time": "10:52 am",
       "artist": "Rod Stewart",
       "title": "Ooh La La"
+    },
+    {
+      "time": "10:56 am",
+      "artist": "They Might Be Giants",
+      "title": "Particle Man"
     }
   ],
   "recent": [
+    {
+      "time": "10:48 am",
+      "artist": "Chiffons",
+      "title": "One Fine Day",
+      "album": "One Fine Day • 1963"
+    },
     {
       "time": "10:44 am",
       "artist": "Ted Leo and the Pharmacists",
@@ -167,12 +173,6 @@
       "artist": "Jessie Ware",
       "title": "Spotlight",
       "album": "What's Your Pleasure • 2020"
-    },
-    {
-      "time": "9:03 am",
-      "artist": "3rd Bass",
-      "title": "The Gas Face",
-      "album": "The Cactus Album • 1989"
     }
   ]
 }
