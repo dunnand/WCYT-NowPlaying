@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-09-13T08:19:57",
+  "updatedAt": "2026-09-13T08:25:33",
   "now": {
-    "artist": "Radiohead",
-    "title": "The National Anthem",
-    "album": "Kid A • 2000",
-    "category": "AUDIO"
+    "artist": "The Decemberists",
+    "title": "Calamity Song",
+    "album": "The King Is Dead • 2011",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:25 am",
-      "artist": "The Decemberists",
-      "title": "Calamity Song"
-    },
     {
       "time": "8:29 am",
       "artist": "Blondie",
       "title": "(I'm Always Touched by Your) Presence Dear"
     },
     {
-      "time": "8:32 am",
+      "time": "8:31 am",
       "artist": "Archers of Loaf",
       "title": "Web In Front"
     },
     {
-      "time": "8:34 am",
+      "time": "8:33 am",
       "artist": "Demi Lovato",
       "title": "Heart Attack"
+    },
+    {
+      "time": "8:37 am",
+      "artist": "The Darkness",
+      "title": "I Believe in a Thing Called Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 am",
+      "artist": "The Decemberists",
+      "title": "Calamity Song",
+      "album": "The King Is Dead • 2011"
+    },
     {
       "time": "8:19 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "The Space Program",
       "album": "We got it from Here... Thank You 4 Your service • 2016"
-    },
-    {
-      "time": "6:54 am",
-      "artist": "The Shins",
-      "title": "Kissing the Lipless",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
