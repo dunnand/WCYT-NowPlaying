@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:01:06",
+  "updatedAt": "2026-09-13T01:03:50",
   "now": {
-    "artist": "Nat King Cole",
-    "title": "It's Only A Paper Moon",
-    "album": "single • 1943",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "Combat Rock",
+    "album": "One Beat • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Sleater",
-      "title": "Kinney - Combat Rock"
-    },
     {
       "time": "1:08 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "1:11 am",
       "artist": "Daft Punk",
       "title": "Doin' It Right (feat. Panda Bear)"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Weezer",
+      "title": "Buddy Holly"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Sleater-Kinney",
+      "title": "Combat Rock",
+      "album": "One Beat • 2002"
+    },
     {
       "time": "1:01 am",
       "artist": "Nat King Cole",
@@ -167,12 +173,6 @@
       "artist": "The Smiths",
       "title": "William, It Was Really Nothing",
       "album": "single • 1984"
-    },
-    {
-      "time": "11:11 pm",
-      "artist": "The Smithereens",
-      "title": "Blood And Roses",
-      "album": "Especially for You • 1986"
     }
   ]
 }
