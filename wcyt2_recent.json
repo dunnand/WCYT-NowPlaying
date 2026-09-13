@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T05:38:26",
+  "updatedAt": "2026-09-13T05:41:09",
   "now": {
-    "artist": "Howlin' Wolf",
-    "title": "Spoonful",
-    "album": "Howlin' Wolf • 1962",
+    "artist": "John Prine",
+    "title": "Angel From Montgomery",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:41 am",
-      "artist": "John Prine",
-      "title": "Angel From Montgomery"
-    },
     {
       "time": "5:44 am",
       "artist": "System of a Down",
@@ -26,9 +21,20 @@
       "time": "5:53 am",
       "artist": "Wilco",
       "title": "Theologians"
+    },
+    {
+      "time": "5:56 am",
+      "artist": "The Shins",
+      "title": "Saint Simon"
     }
   ],
   "recent": [
+    {
+      "time": "5:41 am",
+      "artist": "John Prine",
+      "title": "Angel From Montgomery",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "5:38 am",
       "artist": "Howlin' Wolf",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Ultra Violet (Light My Way)",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "4:08 am",
-      "artist": "Bruce Springsteen",
-      "title": "American Skin (41 Shots)",
-      "album": "High Hopes • 2014"
     }
   ]
 }
