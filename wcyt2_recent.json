@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T09:38:26",
+  "updatedAt": "2026-09-13T09:40:49",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Rock & Roll Music",
-    "album": "One Dozen Berrys • 1958",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Holland",
+    "album": "Michigan • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:40 am",
-      "artist": "Sufjan Stevens",
-      "title": "Holland"
-    },
     {
       "time": "9:44 am",
       "artist": "Donovan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:40 am",
+      "artist": "Sufjan Stevens",
+      "title": "Holland",
+      "album": "Michigan • 2003"
+    },
     {
       "time": "9:38 am",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "ZZ Top",
       "title": "Sharp Dressed Man",
       "album": "Eliminator • 1983"
-    },
-    {
-      "time": "8:01 am",
-      "artist": "John Lennon & Yoko Ono",
-      "title": "Walking on Thin Ice",
-      "album": "Walking on Thin Ice • 1981"
     }
   ]
 }
