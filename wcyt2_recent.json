@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T07:27:50",
+  "updatedAt": "2026-09-13T07:28:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Monday Morning",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:27 am",
-      "artist": "Fleetwood Mac",
-      "title": "Monday Morning"
-    },
     {
       "time": "7:30 am",
       "artist": "Dusty Springfield",
@@ -31,9 +26,20 @@
       "time": "7:40 am",
       "artist": "Elvis Presley",
       "title": "That's All Right"
+    },
+    {
+      "time": "7:42 am",
+      "artist": "Wilco",
+      "title": "Ashes of American Flags"
     }
   ],
   "recent": [
+    {
+      "time": "7:28 am",
+      "artist": "Fleetwood Mac",
+      "title": "Monday Morning",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "7:25 am",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "The Shins",
       "title": "Saint Simon",
       "album": "Chutes Too Narrow • 2003"
-    },
-    {
-      "time": "5:53 am",
-      "artist": "Wilco",
-      "title": "Theologians",
-      "album": "A Ghost Is Born • 2004"
     }
   ]
 }
