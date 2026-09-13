@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:08:36",
+  "updatedAt": "2026-09-13T01:08:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "John Wesley Harding",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:08 am",
-      "artist": "Bob Dylan",
-      "title": "John Wesley Harding"
-    },
     {
       "time": "1:11 am",
       "artist": "Daft Punk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:08 am",
+      "artist": "Bob Dylan",
+      "title": "John Wesley Harding",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "1:03 am",
       "artist": "Sleater-Kinney",
@@ -172,12 +173,6 @@
       "artist": "Naoto Ishida",
       "title": "F-ZERO (Ending)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "11:15 pm",
-      "artist": "The Smiths",
-      "title": "William, It Was Really Nothing",
-      "album": "single • 1984"
     }
   ]
 }
