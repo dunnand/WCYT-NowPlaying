@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T07:14:41",
+  "updatedAt": "2026-09-13T07:17:05",
   "now": {
-    "artist": "X",
-    "title": "Sugarlight",
-    "album": "Los Angeles • 1982",
+    "artist": "Bob Dylan",
+    "title": "False Prophet",
+    "album": "Rough and Rowdy Ways • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:16 am",
-      "artist": "Bob Dylan",
-      "title": "False Prophet"
-    },
     {
       "time": "7:23 am",
       "artist": "England Dan & John Ford Coley",
@@ -21,9 +16,20 @@
       "time": "7:25 am",
       "artist": "Bob Dylan",
       "title": "Subterranean Homesick Blues"
+    },
+    {
+      "time": "7:28 am",
+      "artist": "Fleetwood Mac",
+      "title": "Monday Morning"
     }
   ],
   "recent": [
+    {
+      "time": "7:17 am",
+      "artist": "Bob Dylan",
+      "title": "False Prophet",
+      "album": "Rough and Rowdy Ways • 2020"
+    },
     {
       "time": "7:14 am",
       "artist": "X",
@@ -167,12 +173,6 @@
       "artist": "System of a Down",
       "title": "Spiders",
       "album": "System Of A Down • 1999"
-    },
-    {
-      "time": "5:41 am",
-      "artist": "John Prine",
-      "title": "Angel From Montgomery",
-      "album": "John Prine • 1971"
     }
   ]
 }
