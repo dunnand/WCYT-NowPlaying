@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:15:44",
+  "updatedAt": "2026-09-13T01:16:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "album": "Weezer • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:16 am",
-      "artist": "Weezer",
-      "title": "Buddy Holly"
-    },
     {
       "time": "1:18 am",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "1:26 am",
       "artist": "Starship",
       "title": "Nothing's Gonna Stop Us Now"
+    },
+    {
+      "time": "1:30 am",
+      "artist": "Billie Eilish",
+      "title": "Happier Than Ever"
     }
   ],
   "recent": [
+    {
+      "time": "1:16 am",
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "1:11 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "King Harvest",
       "title": "Dancing In The Moonlight",
       "album": "Dancing in the Moonlight • 1972"
-    },
-    {
-      "time": "11:18 pm",
-      "artist": "Pink Floyd",
-      "title": "Mother",
-      "album": "The Wall • 1979"
     }
   ]
 }
