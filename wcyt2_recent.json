@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T22:19:42",
+  "updatedAt": "2026-09-12T22:23:07",
   "now": {
-    "artist": "David Bowie",
-    "title": "Suffragette City",
-    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
+    "artist": "Grateful Dead",
+    "title": "Uncle John's Band",
+    "album": "Workingman's Dead • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:23 pm",
-      "artist": "Grateful Dead",
-      "title": "Uncle John's Band"
-    },
     {
       "time": "10:27 pm",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "10:38 pm",
       "artist": "Joni Mitchell",
       "title": "Amelia"
+    },
+    {
+      "time": "10:44 pm",
+      "artist": "Pavement",
+      "title": "Spit on a Stranger"
     }
   ],
   "recent": [
+    {
+      "time": "10:23 pm",
+      "artist": "Grateful Dead",
+      "title": "Uncle John's Band",
+      "album": "Workingman's Dead • 1970"
+    },
     {
       "time": "10:19 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Supergrass",
       "title": "Grace",
       "album": "Life on Other Planets • 2002"
-    },
-    {
-      "time": "8:48 pm",
-      "artist": "Johnny Cash",
-      "title": "Guess Things Happen That Way",
-      "album": "Guess Things Happen That Way • 1957"
     }
   ]
 }
