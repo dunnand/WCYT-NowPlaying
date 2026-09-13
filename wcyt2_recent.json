@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T21:35:46",
+  "updatedAt": "2026-09-12T21:41:34",
   "now": {
-    "artist": "Queen",
-    "title": "Bohemian Rhapsody",
-    "album": "A Night at the Opera • 1975",
+    "artist": "Santana",
+    "title": "Smooth Feat. Rob Thomas",
+    "album": "Supernatural • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:41 pm",
-      "artist": "Santana",
-      "title": "Smooth Feat. Rob Thomas"
-    },
     {
       "time": "9:45 pm",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "9:48 pm",
       "artist": "Radiohead",
       "title": "Backdrifts. (Honeymoon Is Over.)"
+    },
+    {
+      "time": "9:53 pm",
+      "artist": "Andy Williams",
+      "title": "Love Theme From \"Romeo And Juliet\""
     }
   ],
   "recent": [
+    {
+      "time": "9:41 pm",
+      "artist": "Santana",
+      "title": "Smooth Feat. Rob Thomas",
+      "album": "Supernatural • 1999"
+    },
     {
       "time": "9:35 pm",
       "artist": "Queen",
@@ -167,12 +173,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Kings Highway",
       "album": "Into the Great Wide Open • 1991"
-    },
-    {
-      "time": "7:52 pm",
-      "artist": "The Prodigy",
-      "title": "Out Of Space",
-      "album": "Experience • 1992"
     }
   ]
 }
