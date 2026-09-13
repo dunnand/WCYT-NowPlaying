@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T20:20:27",
+  "updatedAt": "2026-09-12T20:20:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 pm",
-      "artist": "Led Zeppelin",
-      "title": "Stairway to Heaven"
-    },
     {
       "time": "8:28 pm",
       "artist": "The Unicorns",
@@ -31,9 +26,20 @@
       "time": "8:43 pm",
       "artist": "Van Halen",
       "title": "Right Now"
+    },
+    {
+      "time": "8:48 pm",
+      "artist": "Johnny Cash",
+      "title": "Guess Things Happen That Way"
     }
   ],
   "recent": [
+    {
+      "time": "8:20 pm",
+      "artist": "Led Zeppelin",
+      "title": "Stairway to Heaven",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "8:16 pm",
       "artist": "R.E.M.",
@@ -177,12 +183,6 @@
       "artist": "The Killers",
       "title": "Human",
       "album": "Day & Age • 2008"
-    },
-    {
-      "time": "6:41 pm",
-      "artist": "Alvvays",
-      "title": "In Undertow",
-      "album": "Antisocialites • 2017"
     }
   ]
 }
