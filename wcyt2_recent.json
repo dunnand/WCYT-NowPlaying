@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T19:34:22",
+  "updatedAt": "2026-09-13T19:34:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Someday.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:34 pm",
-      "artist": "The Strokes",
-      "title": "Someday."
-    },
     {
       "time": "7:37 pm",
       "artist": "Bee Gees",
@@ -26,9 +21,20 @@
       "time": "7:43 pm",
       "artist": "Prince",
       "title": "Gold"
+    },
+    {
+      "time": "7:50 pm",
+      "artist": "Big Bopper",
+      "title": "Chantilly Lace"
     }
   ],
   "recent": [
+    {
+      "time": "7:34 pm",
+      "artist": "The Strokes",
+      "title": "Someday.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "7:30 pm",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "Gloria Jones",
       "title": "Tainted Love",
       "album": "single • 1965"
-    },
-    {
-      "time": "5:55 pm",
-      "artist": "Spoon",
-      "title": "The Way We Get By",
-      "album": "Kill The Moonlight • 2002"
     }
   ]
 }
