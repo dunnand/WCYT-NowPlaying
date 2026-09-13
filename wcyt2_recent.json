@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T09:22:36",
+  "updatedAt": "2026-09-13T09:30:04",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Visions of Johanna",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "Commodores",
+    "title": "Easy",
+    "album": "Commodores • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "Commodores",
-      "title": "Easy"
-    },
     {
       "time": "9:34 am",
       "artist": "Built to Spill",
@@ -23,12 +18,23 @@
       "title": "Rock & Roll Music"
     },
     {
-      "time": "9:41 am",
+      "time": "9:40 am",
       "artist": "Sufjan Stevens",
       "title": "Holland"
+    },
+    {
+      "time": "9:44 am",
+      "artist": "Donovan",
+      "title": "Season of the Witch"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "Commodores",
+      "title": "Easy",
+      "album": "Commodores • 1977"
+    },
     {
       "time": "9:22 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Alice in Chains",
       "title": "Them Bones",
       "album": "Dirt • 1992"
-    },
-    {
-      "time": "7:50 am",
-      "artist": "Feist",
-      "title": "Mushaboom",
-      "album": "Let It Die • 2016"
     }
   ]
 }
