@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T16:44:30",
+  "updatedAt": "2026-09-13T16:44:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Fernando",
+    "album": "Greatest Hits • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 pm",
-      "artist": "ABBA",
-      "title": "Fernando"
-    },
     {
       "time": "4:48 pm",
       "artist": "Cromagnon",
@@ -31,9 +26,20 @@
       "time": "5:00 pm",
       "artist": "Ricky Nelson",
       "title": "Lonesome Town"
+    },
+    {
+      "time": "5:02 pm",
+      "artist": "Sonic Youth",
+      "title": "Incinerate"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 pm",
+      "artist": "ABBA",
+      "title": "Fernando",
+      "album": "Greatest Hits • 1975"
+    },
     {
       "time": "4:40 pm",
       "artist": "Grateful Dead",
@@ -177,12 +183,6 @@
       "artist": "The Beach Boys",
       "title": "Shut Down",
       "album": "Surfin' U.S.A. • 1963"
-    },
-    {
-      "time": "3:08 pm",
-      "artist": "The Walkmen",
-      "title": "In the New Year",
-      "album": "You & Me • 2008"
     }
   ]
 }
