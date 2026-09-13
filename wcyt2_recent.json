@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:53:44",
+  "updatedAt": "2026-09-13T01:57:21",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Was a Sunny Day",
-    "album": "There Goes Rhymin Simon • 1973",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Loser",
+    "album": "Mellow Gold • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:57 am",
-      "artist": "Beck",
-      "title": "Loser"
-    },
     {
       "time": "2:01 am",
       "artist": "FKA twigs",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:57 am",
+      "artist": "Beck",
+      "title": "Loser",
+      "album": "Mellow Gold • 1994"
+    },
     {
       "time": "1:53 am",
       "artist": "Paul Simon",
@@ -172,12 +173,6 @@
       "artist": "Modest Mouse",
       "title": "Trailer Trash",
       "album": "Lonesome Crowded West • 1998"
-    },
-    {
-      "time": "12:18 am",
-      "artist": "The Magnetic Fields",
-      "title": "Strange Powers",
-      "album": "Holiday • 1994"
     }
   ]
 }
