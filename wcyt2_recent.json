@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T21:23:21",
+  "updatedAt": "2026-09-12T21:28:58",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Tangled Up in Blue",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "The Killers",
+    "title": "Mr. Brightside",
+    "album": "Hot Fuss • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:28 pm",
-      "artist": "The Killers",
-      "title": "Mr. Brightside"
-    },
     {
       "time": "9:32 pm",
       "artist": "Against Me!",
@@ -26,9 +21,20 @@
       "time": "9:41 pm",
       "artist": "Santana",
       "title": "Smooth Feat. Rob Thomas"
+    },
+    {
+      "time": "9:45 pm",
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode"
     }
   ],
   "recent": [
+    {
+      "time": "9:28 pm",
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "album": "Hot Fuss • 2004"
+    },
     {
       "time": "9:23 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Good Luck Charm",
       "album": "single • 1962"
-    },
-    {
-      "time": "7:43 pm",
-      "artist": "Radiohead",
-      "title": "Motion Picture Soundtrack",
-      "album": "Kid A • 2000"
     }
   ]
 }
