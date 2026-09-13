@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T15:41:12",
+  "updatedAt": "2026-09-13T15:41:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "If Not For You",
+    "album": "New Morning • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:41 pm",
-      "artist": "Bob Dylan",
-      "title": "If Not For You"
-    },
     {
       "time": "3:44 pm",
       "artist": "TV on the Radio",
@@ -31,9 +26,20 @@
       "time": "3:55 pm",
       "artist": "Radiohead",
       "title": "The Tourist"
+    },
+    {
+      "time": "4:00 pm",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "Bright Horses"
     }
   ],
   "recent": [
+    {
+      "time": "3:41 pm",
+      "artist": "Bob Dylan",
+      "title": "If Not For You",
+      "album": "New Morning • 1970"
+    },
     {
       "time": "3:36 pm",
       "artist": "Radiohead",
@@ -177,12 +183,6 @@
       "artist": "Radiohead",
       "title": "Optimistic",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "2:03 pm",
-      "artist": "Charles Bradley",
-      "title": "The World (Is Going Up in Flames)",
-      "album": "No Time For Dreaming • 2011"
     }
   ]
 }
