@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T23:58:01",
+  "updatedAt": "2026-09-13T00:03:44",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Rhinoceros",
-    "album": "Gish • 1991",
+    "artist": "Little Richard",
+    "title": "Rip It Up",
+    "album": "Here's Little Richard • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "Little Richard",
-      "title": "Rip It Up"
-    },
     {
       "time": "12:05 am",
       "artist": "Taio Cruz",
@@ -26,9 +21,20 @@
       "time": "12:14 am",
       "artist": "Black Pumas",
       "title": "Colors"
+    },
+    {
+      "time": "12:18 am",
+      "artist": "The Magnetic Fields",
+      "title": "Strange Powers"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "Little Richard",
+      "title": "Rip It Up",
+      "album": "Here's Little Richard • 1957"
+    },
     {
       "time": "11:58 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +178,6 @@
       "artist": "Siouxsie and the Banshees",
       "title": "She's a Carnival",
       "album": "Juju • 1981"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "The Verve",
-      "title": "Bitter Sweet Symphony",
-      "album": "Urban Hymns • 1997"
     }
   ]
 }
