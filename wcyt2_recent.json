@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T22:27:45",
+  "updatedAt": "2026-09-12T22:27:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Ball and Biscuit",
+    "album": "Elephant • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:27 pm",
-      "artist": "The White Stripes",
-      "title": "Ball and Biscuit"
-    },
     {
       "time": "10:35 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "10:44 pm",
       "artist": "Pavement",
       "title": "Spit on a Stranger"
+    },
+    {
+      "time": "10:47 pm",
+      "artist": "Billie Holiday",
+      "title": "I'll Be Seeing You"
     }
   ],
   "recent": [
+    {
+      "time": "10:27 pm",
+      "artist": "The White Stripes",
+      "title": "Ball and Biscuit",
+      "album": "Elephant • 2003"
+    },
     {
       "time": "10:23 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Diana Ross & The Supremes",
       "title": "I Hear A Symphony",
       "album": "I Hear a Symphony • 1966"
-    },
-    {
-      "time": "8:49 pm",
-      "artist": "Supergrass",
-      "title": "Grace",
-      "album": "Life on Other Planets • 2002"
     }
   ]
 }
