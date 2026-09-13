@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T07:04:10",
+  "updatedAt": "2026-09-13T07:07:59",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Monkey Wrench",
-    "album": "The Colour and the Shape • 1997",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Shady Lane / J vs. S",
+    "album": "Brighten the Corners • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:07 am",
-      "artist": "Pavement",
-      "title": "Shady Lane / J vs. S"
-    },
     {
       "time": "7:11 am",
       "artist": "Willie Nelson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:07 am",
+      "artist": "Pavement",
+      "title": "Shady Lane / J vs. S",
+      "album": "Brighten the Corners • 1997"
+    },
     {
       "time": "7:04 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Vanessa Carlton",
       "title": "A Thousand Miles",
       "album": "Be Not Nobody • 2002"
-    },
-    {
-      "time": "5:31 am",
-      "artist": "Doobie Brothers",
-      "title": "Takin' It To The Streets",
-      "album": "Takin' It to the Streets • 1976"
     }
   ]
 }
