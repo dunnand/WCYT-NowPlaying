@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T06:58:34",
+  "updatedAt": "2026-09-13T07:04:10",
   "now": {
-    "artist": "A Tribe Called Quest",
-    "title": "The Space Program",
-    "album": "We got it from Here... Thank You 4 Your service • 2016",
+    "artist": "Foo Fighters",
+    "title": "Monkey Wrench",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:04 am",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench"
-    },
     {
       "time": "7:07 am",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "7:14 am",
       "artist": "X",
       "title": "Sugarlight"
+    },
+    {
+      "time": "7:16 am",
+      "artist": "Bob Dylan",
+      "title": "False Prophet"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 am",
+      "artist": "Foo Fighters",
+      "title": "Monkey Wrench",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "6:58 am",
       "artist": "A Tribe Called Quest",
@@ -172,12 +178,6 @@
       "artist": "Doobie Brothers",
       "title": "Takin' It To The Streets",
       "album": "Takin' It to the Streets • 1976"
-    },
-    {
-      "time": "5:27 am",
-      "artist": "Bee Gees",
-      "title": "Jive Talkin'",
-      "album": "Main Course • 1975"
     }
   ]
 }
