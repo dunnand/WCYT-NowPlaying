@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T12:25:24",
+  "updatedAt": "2026-09-13T12:25:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:25 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "12:27 pm",
       "artist": "Ted Leo and the Pharmacists",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:25 pm",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "12:21 pm",
       "artist": "Pearl Jam",
@@ -172,12 +173,6 @@
       "artist": "Georgia Satellites",
       "title": "Keep Your Hands To Yourself",
       "album": "Georgia Satellites • 1987"
-    },
-    {
-      "time": "10:56 am",
-      "artist": "They Might Be Giants",
-      "title": "Particle Man",
-      "album": "Flood • 1990"
     }
   ]
 }
