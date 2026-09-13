@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T20:04:55",
+  "updatedAt": "2026-09-12T20:05:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sade",
+    "title": "The Sweetest Taboo",
+    "album": "Promise • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:05 pm",
-      "artist": "Sade",
-      "title": "The Sweetest Taboo"
-    },
     {
       "time": "8:09 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -26,9 +21,20 @@
       "time": "8:20 pm",
       "artist": "Led Zeppelin",
       "title": "Stairway to Heaven"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "The Unicorns",
+      "title": "I Don't Wanna Die"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 pm",
+      "artist": "Sade",
+      "title": "The Sweetest Taboo",
+      "album": "Promise • 1985"
+    },
     {
       "time": "8:00 pm",
       "artist": "Roxy Music",
@@ -172,12 +178,6 @@
       "artist": "Marianne Faithfull",
       "title": "Broken English",
       "album": "Broken English • 1979"
-    },
-    {
-      "time": "6:30 pm",
-      "artist": "The Four Seasons",
-      "title": "Dawn (Go Away)",
-      "album": "Dawn and 11 Other Great Songs • 1963"
     }
   ]
 }
