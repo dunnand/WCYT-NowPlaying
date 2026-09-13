@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T01:08:48",
+  "updatedAt": "2026-09-13T01:11:32",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "John Wesley Harding",
-    "album": "John Wesley Harding • 1967",
+    "artist": "Daft Punk",
+    "title": "Doin' It Right (feat. Panda Bear)",
+    "album": "Random Access Memories • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:11 am",
-      "artist": "Daft Punk",
-      "title": "Doin' It Right (feat. Panda Bear)"
-    },
     {
       "time": "1:16 am",
       "artist": "Weezer",
@@ -21,9 +16,20 @@
       "time": "1:18 am",
       "artist": "A Tribe Called Quest",
       "title": "Electric Relaxation"
+    },
+    {
+      "time": "1:22 am",
+      "artist": "Squeeze",
+      "title": "Pulling Mussels (From The Shell)"
     }
   ],
   "recent": [
+    {
+      "time": "1:11 am",
+      "artist": "Daft Punk",
+      "title": "Doin' It Right (feat. Panda Bear)",
+      "album": "Random Access Memories • 2013"
+    },
     {
       "time": "1:08 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Mother",
       "album": "The Wall • 1979"
-    },
-    {
-      "time": "11:17 pm",
-      "artist": "Naoto Ishida",
-      "title": "F-ZERO (Ending)",
-      "album": "Nintendo Music •"
     }
   ]
 }
