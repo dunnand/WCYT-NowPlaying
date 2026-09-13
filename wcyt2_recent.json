@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T07:28:02",
+  "updatedAt": "2026-09-13T07:30:47",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Monday Morning",
-    "album": "Fleetwood Mac • 1975",
+    "artist": "Dusty Springfield",
+    "title": "Son of a Preacher Man",
+    "album": "Dusty in Memphis • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 am",
-      "artist": "Dusty Springfield",
-      "title": "Son of a Preacher Man"
-    },
     {
       "time": "7:33 am",
       "artist": "Four Tops",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:30 am",
+      "artist": "Dusty Springfield",
+      "title": "Son of a Preacher Man",
+      "album": "Dusty in Memphis • 1969"
+    },
     {
       "time": "7:28 am",
       "artist": "Fleetwood Mac",
@@ -177,12 +178,6 @@
       "artist": "Adele",
       "title": "Rolling In The Deep",
       "album": "21 • 2010"
-    },
-    {
-      "time": "5:56 am",
-      "artist": "The Shins",
-      "title": "Saint Simon",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
