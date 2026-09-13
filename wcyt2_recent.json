@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T12:56:39",
+  "updatedAt": "2026-09-13T12:56:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Fame",
+    "album": "Young Americans • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:56 pm",
-      "artist": "David Bowie",
-      "title": "Fame"
-    },
     {
       "time": "1:00 pm",
       "artist": "Free",
@@ -26,9 +21,20 @@
       "time": "1:09 pm",
       "artist": "Earth, Wind & Fire",
       "title": "September"
+    },
+    {
+      "time": "1:13 pm",
+      "artist": "Led Zeppelin",
+      "title": "Fool in the Rain"
     }
   ],
   "recent": [
+    {
+      "time": "12:56 pm",
+      "artist": "David Bowie",
+      "title": "Fame",
+      "album": "Young Americans • 1975"
+    },
     {
       "time": "12:52 pm",
       "artist": "James Brown",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Jailhouse Rock",
       "album": "Jailhouse Rock • 1957"
-    },
-    {
-      "time": "11:29 am",
-      "artist": "Tom Petty",
-      "title": "You Don't Know How It Feels",
-      "album": "Wildflowers • 1994"
     }
   ]
 }
