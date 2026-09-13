@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T02:43:48",
+  "updatedAt": "2026-09-13T02:43:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Angie",
+    "album": "Goats Head Soup • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 am",
-      "artist": "Rolling Stones",
-      "title": "Angie"
-    },
     {
       "time": "2:48 am",
       "artist": "The Beach Boys",
@@ -31,9 +26,20 @@
       "time": "3:00 am",
       "artist": "Carl Perkins",
       "title": "Blue Suede Shoes"
+    },
+    {
+      "time": "3:02 am",
+      "artist": "The Killers",
+      "title": "Spaceman"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "Rolling Stones",
+      "title": "Angie",
+      "album": "Goats Head Soup • 1973"
+    },
     {
       "time": "2:40 am",
       "artist": "Glen Campbell",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "John Wesley Harding",
       "album": "John Wesley Harding • 1967"
-    },
-    {
-      "time": "1:03 am",
-      "artist": "Sleater-Kinney",
-      "title": "Combat Rock",
-      "album": "One Beat • 2002"
     }
   ]
 }
