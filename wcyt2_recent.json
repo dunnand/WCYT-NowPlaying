@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T22:27:56",
+  "updatedAt": "2026-09-12T22:35:05",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Ball and Biscuit",
-    "album": "Elephant • 2003",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Lay Lady Lay",
+    "album": "Lay Lady Lay • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:35 pm",
-      "artist": "Bob Dylan",
-      "title": "Lay Lady Lay"
-    },
     {
       "time": "10:38 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "10:47 pm",
       "artist": "Billie Holiday",
       "title": "I'll Be Seeing You"
+    },
+    {
+      "time": "10:50 pm",
+      "artist": "Rihanna",
+      "title": "Umbrella"
     }
   ],
   "recent": [
+    {
+      "time": "10:35 pm",
+      "artist": "Bob Dylan",
+      "title": "Lay Lady Lay",
+      "album": "Lay Lady Lay • 1969"
+    },
     {
       "time": "10:27 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Adele",
       "title": "Rumour Has It",
       "album": "21 • 2012"
-    },
-    {
-      "time": "8:52 pm",
-      "artist": "Diana Ross & The Supremes",
-      "title": "I Hear A Symphony",
-      "album": "I Hear a Symphony • 1966"
     }
   ]
 }
