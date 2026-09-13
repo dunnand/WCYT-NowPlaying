@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T17:53:47",
+  "updatedAt": "2026-09-13T17:55:49",
   "now": {
-    "artist": "The Crickets",
-    "title": "Maybe Baby",
-    "album": "The Chirping Crickets • 1957",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "The Way We Get By",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:55 pm",
-      "artist": "Spoon",
-      "title": "The Way We Get By"
-    },
     {
       "time": "5:58 pm",
       "artist": "Gloria Jones",
@@ -21,9 +16,20 @@
       "time": "6:01 pm",
       "artist": "Paul McCartney",
       "title": "New"
+    },
+    {
+      "time": "6:04 pm",
+      "artist": "De La Soul",
+      "title": "Let, Let Me In"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 pm",
+      "artist": "Spoon",
+      "title": "The Way We Get By",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "5:53 pm",
       "artist": "The Crickets",
@@ -167,12 +173,6 @@
       "artist": "Bobby McFerrin",
       "title": "Don't Worry, Be Happy",
       "album": "Simple Pleasures • 1988"
-    },
-    {
-      "time": "4:23 pm",
-      "artist": "Big Audio Dynamite",
-      "title": "E=MC2",
-      "album": "This Is Big Audio Dynamite • 1985"
     }
   ]
 }
