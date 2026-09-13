@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T23:26:59",
+  "updatedAt": "2026-09-12T23:31:24",
   "now": {
-    "artist": "Radiohead",
-    "title": "Morning Bell",
-    "album": "Kid A • 2000",
+    "artist": "Bobbie Gentry",
+    "title": "Ode To Billie Joe",
+    "album": "Ode to Billie Joe • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:31 pm",
-      "artist": "Bobbie Gentry",
-      "title": "Ode To Billie Joe"
-    },
     {
       "time": "11:35 pm",
       "artist": "Ozark Mountain Daredevils",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:31 pm",
+      "artist": "Bobbie Gentry",
+      "title": "Ode To Billie Joe",
+      "album": "Ode to Billie Joe • 1967"
+    },
     {
       "time": "11:26 pm",
       "artist": "Radiohead",
@@ -162,12 +163,6 @@
       "artist": "The Beach Boys",
       "title": "Cabin Essence",
       "album": "The Smile Sessions • 2011"
-    },
-    {
-      "time": "9:53 pm",
-      "artist": "Andy Williams",
-      "title": "Love Theme From \"Romeo And Juliet\"",
-      "album": "Get Together with Andy Williams • 1969"
     }
   ]
 }
