@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T05:04:29",
+  "updatedAt": "2026-09-13T05:04:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "My Back Pages",
+    "album": "Another Side of Bob Dylan • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:04 am",
-      "artist": "Bob Dylan",
-      "title": "My Back Pages"
-    },
     {
       "time": "5:08 am",
       "artist": "Anna Kendrick",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:04 am",
+      "artist": "Bob Dylan",
+      "title": "My Back Pages",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "5:01 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Beyonce",
       "title": "16 CARRIAGES",
       "album": "Cowboy Carter • 2024"
-    },
-    {
-      "time": "3:22 am",
-      "artist": "The Jam",
-      "title": "Start!",
-      "album": "Sound Affects • 1980"
     }
   ]
 }
