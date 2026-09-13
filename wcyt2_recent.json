@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-12T21:23:09",
+  "updatedAt": "2026-09-12T21:23:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Tangled Up in Blue",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:23 pm",
-      "artist": "Bob Dylan",
-      "title": "Tangled Up in Blue"
-    },
     {
       "time": "9:28 pm",
       "artist": "The Killers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:23 pm",
+      "artist": "Bob Dylan",
+      "title": "Tangled Up in Blue",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "9:16 pm",
       "artist": "The Chemical Brothers",
@@ -177,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Motion Picture Soundtrack",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "The Crickets",
-      "title": "Not Fade Away",
-      "album": "The Chirping Crickets • 1957"
     }
   ]
 }
