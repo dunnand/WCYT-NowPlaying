@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T21:28:57",
+  "updatedAt": "2026-09-13T21:31:32",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "100%",
-    "album": "Dirty • 1992",
-    "category": "TUNES"
+    "artist": "America",
+    "title": "You Can Do Magic",
+    "album": "View from the Ground • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:31 pm",
-      "artist": "America",
-      "title": "You Can Do Magic"
-    },
     {
       "time": "9:35 pm",
       "artist": "John Denver",
@@ -26,9 +21,20 @@
       "time": "9:45 pm",
       "artist": "Smog",
       "title": "Dress Sexy at My Funeral"
+    },
+    {
+      "time": "9:50 pm",
+      "artist": "Donovan",
+      "title": "Mellow Yellow"
     }
   ],
   "recent": [
+    {
+      "time": "9:31 pm",
+      "artist": "America",
+      "title": "You Can Do Magic",
+      "album": "View from the Ground • 1982"
+    },
     {
       "time": "9:28 pm",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Kendrick Lamar",
       "title": "HUMBLE.",
       "album": "Single • 2017"
-    },
-    {
-      "time": "7:59 pm",
-      "artist": "Bob Dylan",
-      "title": "Oxford Town",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
