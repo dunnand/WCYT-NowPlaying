@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-14T18:51:29",
+  "updatedAt": "2026-09-14T18:55:14",
   "now": {
-    "artist": "Michael Jackson",
-    "title": "Rock With You",
-    "album": "Off the Wall • 1979",
+    "artist": "The Waterboys",
+    "title": "You in the Sky",
+    "album": "Book of Lightning • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:55 pm",
-      "artist": "The Waterboys",
-      "title": "You in the Sky"
-    },
     {
       "time": "7:00 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -26,9 +21,20 @@
       "time": "7:10 pm",
       "artist": "Pavement",
       "title": "Unseen Power of the Picket Fence"
+    },
+    {
+      "time": "7:13 pm",
+      "artist": "Coleman Hawkins",
+      "title": "La Rosita"
     }
   ],
   "recent": [
+    {
+      "time": "6:55 pm",
+      "artist": "The Waterboys",
+      "title": "You in the Sky",
+      "album": "Book of Lightning • 2007"
+    },
     {
       "time": "6:51 pm",
       "artist": "Michael Jackson",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "California Girls",
       "album": "Summer Days • 1965"
-    },
-    {
-      "time": "5:19 pm",
-      "artist": "Thom Yorke",
-      "title": "Black Swan",
-      "album": "The Eraser • 2006"
     }
   ]
 }
