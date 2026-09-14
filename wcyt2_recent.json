@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T21:28:45",
+  "updatedAt": "2026-09-13T21:28:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "100%",
+    "album": "Dirty • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:28 pm",
-      "artist": "Sonic Youth",
-      "title": "100%"
-    },
     {
       "time": "9:31 pm",
       "artist": "America",
@@ -26,9 +21,20 @@
       "time": "9:40 pm",
       "artist": "Joy Division",
       "title": "New Dawn Fades"
+    },
+    {
+      "time": "9:45 pm",
+      "artist": "Smog",
+      "title": "Dress Sexy at My Funeral"
     }
   ],
   "recent": [
+    {
+      "time": "9:28 pm",
+      "artist": "Sonic Youth",
+      "title": "100%",
+      "album": "Dirty • 1992"
+    },
     {
       "time": "9:26 pm",
       "artist": "Sleater-Kinney",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Oxford Town",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "7:53 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Casimir Pulaski Day",
-      "album": "Illinois • 2005"
     }
   ]
 }
