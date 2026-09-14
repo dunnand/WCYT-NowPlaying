@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T21:50:19",
+  "updatedAt": "2026-09-13T21:53:56",
   "now": {
-    "artist": "Donovan",
-    "title": "Mellow Yellow",
-    "album": "Mellow Yellow • 1967",
+    "artist": "Kenny Rogers",
+    "title": "Lucille",
+    "album": "Kenny Rogers • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:53 pm",
-      "artist": "Kenny Rogers",
-      "title": "Lucille"
-    },
     {
       "time": "9:57 pm",
       "artist": "Spiritualized",
@@ -26,9 +21,20 @@
       "time": "10:04 pm",
       "artist": "Sleater",
       "title": "Kinney - Oh!"
+    },
+    {
+      "time": "10:08 pm",
+      "artist": "B.B. King",
+      "title": "The Thrill Is Gone"
     }
   ],
   "recent": [
+    {
+      "time": "9:53 pm",
+      "artist": "Kenny Rogers",
+      "title": "Lucille",
+      "album": "Kenny Rogers • 1977"
+    },
     {
       "time": "9:50 pm",
       "artist": "Donovan",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "There'd Better Be A Mirrorball",
       "album": "The Car • 2022"
-    },
-    {
-      "time": "8:16 pm",
-      "artist": "The Diabolical Biz Markie",
-      "title": "Just a Friend",
-      "album": "The Biz Never Sleeps • 1989"
     }
   ]
 }
