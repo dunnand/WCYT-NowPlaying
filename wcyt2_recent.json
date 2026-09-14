@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-13T21:07:11",
+  "updatedAt": "2026-09-13T21:11:06",
   "now": {
-    "artist": "Eagles",
-    "title": "Witchy Woman",
-    "album": "Eagles • 1972",
+    "artist": "Green Day",
+    "title": "Chump",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Green Day",
-      "title": "Chump"
-    },
     {
       "time": "9:13 pm",
       "artist": "Fats Domino",
@@ -26,9 +21,20 @@
       "time": "9:18 pm",
       "artist": "Donovan",
       "title": "Sunshine Superman"
+    },
+    {
+      "time": "9:21 pm",
+      "artist": "Childish Gambino",
+      "title": "Sober"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Green Day",
+      "title": "Chump",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "9:07 pm",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "Someday.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "7:30 pm",
-      "artist": "James Taylor",
-      "title": "Up On The Roof",
-      "album": "Flag • 1979"
     }
   ]
 }
