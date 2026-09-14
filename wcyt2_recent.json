@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-14T17:24:30",
+  "updatedAt": "2026-09-14T17:24:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "California Girls",
+    "album": "Summer Days • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:24 pm",
-      "artist": "The Beach Boys",
-      "title": "California Girls"
-    },
     {
       "time": "5:27 pm",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:24 pm",
+      "artist": "The Beach Boys",
+      "title": "California Girls",
+      "album": "Summer Days • 1965"
+    },
     {
       "time": "5:19 pm",
       "artist": "Thom Yorke",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "happier",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "3:53 pm",
-      "artist": "Cutting Crew",
-      "title": "(I Just) Died In Yor Arms Tonight",
-      "album": "Broadcast • 1986"
     }
   ]
 }
