@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-14T07:47:24",
+  "updatedAt": "2026-09-14T07:47:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Ramones",
+    "title": "Pinhead",
+    "album": "Leave Home • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 am",
-      "artist": "Ramones",
-      "title": "Pinhead"
-    },
     {
       "time": "7:50 am",
       "artist": "Tame Impala",
@@ -26,9 +21,20 @@
       "time": "7:57 am",
       "artist": "The Antlers",
       "title": "Something in the Air"
+    },
+    {
+      "time": "8:03 am",
+      "artist": "Kevin Morby",
+      "title": "Dorothy"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 am",
+      "artist": "Ramones",
+      "title": "Pinhead",
+      "album": "Leave Home • 1977"
+    },
     {
       "time": "7:43 am",
       "artist": "Downtown Boys",
@@ -172,12 +178,6 @@
       "artist": "Iron & Wine",
       "title": "In Your Ocean",
       "album": "Hen's Teeth • 2026"
-    },
-    {
-      "time": "6:20 am",
-      "artist": "Bully",
-      "title": "Kills to Be Resistant",
-      "album": "Losing • 2017"
     }
   ]
 }
