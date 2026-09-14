@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-14T08:51:04",
+  "updatedAt": "2026-09-14T08:56:12",
   "now": {
-    "artist": "Hum",
-    "title": "Stars",
-    "album": "You'd Prefer an Astronaut • 1995",
+    "artist": "Beach House",
+    "title": "Lazuli",
+    "album": "Bloom • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:56 am",
-      "artist": "Beach House",
-      "title": "Lazuli"
-    },
     {
       "time": "9:01 am",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "9:09 am",
       "artist": "Cate Le Bon",
       "title": "Jerome"
+    },
+    {
+      "time": "9:13 am",
+      "artist": "Beck",
+      "title": "Morning"
     }
   ],
   "recent": [
+    {
+      "time": "8:56 am",
+      "artist": "Beach House",
+      "title": "Lazuli",
+      "album": "Bloom • 2012"
+    },
     {
       "time": "8:51 am",
       "artist": "Hum",
@@ -172,12 +178,6 @@
       "artist": "Frankie Cosmos",
       "title": "Duet",
       "album": "Vessel • 2018"
-    },
-    {
-      "time": "7:18 am",
-      "artist": "Westerman",
-      "title": "About Leaving",
-      "album": "• 2025"
     }
   ]
 }
