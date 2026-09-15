@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T00:19:02",
+  "updatedAt": "2026-09-15T00:19:14",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Neutral Milk Hotel",
+    "title": "In the Aeroplane Over the Sea",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:19 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "In the Aeroplane Over the Sea"
-    },
     {
       "time": "12:22 am",
       "artist": "The Big Pink",
@@ -26,9 +21,20 @@
       "time": "12:30 am",
       "artist": "Deafheaven",
       "title": "Shellstar"
+    },
+    {
+      "time": "12:36 am",
+      "artist": "The Last Dinner Party",
+      "title": "Nothing Matters"
     }
   ],
   "recent": [
+    {
+      "time": "12:19 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "In the Aeroplane Over the Sea",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "12:16 am",
       "artist": "Ebbb",
@@ -172,12 +178,6 @@
       "artist": "Sunny Day Real Estate",
       "title": "In Circles",
       "album": "Diary • 1994"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "Local Natives",
-      "title": "When Am I Gonna Lose You",
-      "album": "Violet Street • 2019"
     }
   ]
 }
