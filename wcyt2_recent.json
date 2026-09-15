@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-09-14T22:09:21",
+  "updatedAt": "2026-09-14T22:11:36",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "I'm Gonna Love You Too",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Our Way to Fall",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "10:11 pm",
-      "artist": "Buddy Holly",
-      "title": "I'm Gonna Love You Too"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Yo La Tengo",
-      "title": "Our Way to Fall"
+      "time": "10:15 pm",
+      "artist": "Jan & Dean",
+      "title": "Surf City"
     },
     {
       "time": "10:18 pm",
-      "artist": "Jan & Dean",
-      "title": "Surf City"
+      "artist": "Jason Isbell",
+      "title": "Cover Me Up"
+    },
+    {
+      "time": "10:23 pm",
+      "artist": "R.E.M.",
+      "title": "Shiny Happy People"
     }
   ],
   "recent": [
+    {
+      "time": "10:11 pm",
+      "artist": "Yo La Tengo",
+      "title": "Our Way to Fall",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "10:09 pm",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Violent Femmes",
       "title": "Country Death Song",
       "album": "Hallowed Ground • 1984"
-    },
-    {
-      "time": "8:35 pm",
-      "artist": "The Fall",
-      "title": "Leave the Capitol",
-      "album": "Slates [EP] • 1981"
     }
   ]
 }
