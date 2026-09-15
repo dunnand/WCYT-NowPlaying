@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T05:44:22",
+  "updatedAt": "2026-09-15T05:46:45",
   "now": {
     "artist": "Wilco",
-    "title": "The Joke Explained",
+    "title": "Random Name Generator",
     "album": "Star Wars • 2015",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:46 am",
-      "artist": "Wilco",
-      "title": "Random Name Generator"
-    },
     {
       "time": "5:50 am",
       "artist": "Alabama Shakes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:46 am",
+      "artist": "Wilco",
+      "title": "Random Name Generator",
+      "album": "Star Wars • 2015"
+    },
     {
       "time": "5:44 am",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "The Flaming Lips",
       "title": "The Spark That Bled",
       "album": "The Soft Bulletin • 1999"
-    },
-    {
-      "time": "4:08 am",
-      "artist": "New Order",
-      "title": "Procession",
-      "album": "Single • 1981"
     }
   ]
 }
