@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-09-15T14:03:44",
+  "updatedAt": "2026-09-15T14:07:40",
   "now": {
-    "artist": "Pink",
-    "title": "Just Give Me A Reason",
-    "album": "The Truth About Love • 2012",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Coming Up Roses",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "2:07 pm",
-      "artist": "Pink",
-      "title": "Just Give Me A Reason"
-    },
-    {
-      "time": "2:11 pm",
-      "artist": "Elliott Smith",
-      "title": "Coming Up Roses"
-    },
-    {
-      "time": "2:14 pm",
+      "time": "2:10 pm",
       "artist": "Pearl Jam",
       "title": "Black"
     },
     {
-      "time": "2:20 pm",
+      "time": "2:16 pm",
       "artist": "Run",
       "title": "D.M.C. - You Be Illin'"
+    },
+    {
+      "time": "2:19 pm",
+      "artist": "Sonic Youth",
+      "title": "The Sprawl"
+    },
+    {
+      "time": "2:27 pm",
+      "artist": "Kenji Yamamoto",
+      "title": "Famicom Tantei Club PART II: Ushiro ni Tatsu Shoujo (Staff Roll)"
     }
   ],
   "recent": [
+    {
+      "time": "2:07 pm",
+      "artist": "Elliott Smith",
+      "title": "Coming Up Roses",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "2:03 pm",
       "artist": "Pink",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Black Dog",
       "album": "Led Zeppelin IV • 1971"
-    },
-    {
-      "time": "12:36 pm",
-      "artist": "Count Five",
-      "title": "Psychotic Reaction",
-      "album": "Psychotic Reaction • 1966"
     }
   ]
 }
