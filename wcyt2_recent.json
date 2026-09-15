@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-09-15T16:31:04",
+  "updatedAt": "2026-09-15T16:35:50",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I Shall Be Free",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "artist": "Sparks",
+    "title": "A Big Surprise",
+    "album": "Introducing Sparks • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 pm",
-      "artist": "Sparks",
-      "title": "A Big Surprise"
-    },
     {
       "time": "4:39 pm",
       "artist": "Sonic Youth",
       "title": "Dirty Boots"
     },
     {
-      "time": "4:45 pm",
+      "time": "4:44 pm",
       "artist": "Doris Day",
       "title": "A Guy Is A Guy"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:35 pm",
+      "artist": "Sparks",
+      "title": "A Big Surprise",
+      "album": "Introducing Sparks • 1977"
+    },
     {
       "time": "4:31 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Madonna",
       "title": "Ray Of Light",
       "album": "Ray of Light • 1998"
-    },
-    {
-      "time": "3:06 pm",
-      "artist": "Jason Isbell and the 400 Unit",
-      "title": "Hope the High Road",
-      "album": "The Nashville Sound • 2017"
     }
   ]
 }
