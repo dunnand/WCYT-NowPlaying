@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T16:52:39",
+  "updatedAt": "2026-09-15T16:55:12",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "California Girls",
-    "album": "Summer Days • 1965",
+    "artist": "Radiohead",
+    "title": "Ful Stop",
+    "album": "A Moon Shaped Pool • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:55 pm",
-      "artist": "Radiohead",
-      "title": "Ful Stop"
-    },
     {
       "time": "5:01 pm",
       "artist": "Wilco",
@@ -21,9 +16,20 @@
       "time": "5:04 pm",
       "artist": "Yo La Tengo",
       "title": "From a Motel 6"
+    },
+    {
+      "time": "5:08 pm",
+      "artist": "Genesis",
+      "title": "In Too Deep"
     }
   ],
   "recent": [
+    {
+      "time": "4:55 pm",
+      "artist": "Radiohead",
+      "title": "Ful Stop",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "4:52 pm",
       "artist": "The Beach Boys",
@@ -167,12 +173,6 @@
       "artist": "Stevie Wonder",
       "title": "You Are The Sunshine Of My Life",
       "album": "Talking Book • 1973"
-    },
-    {
-      "time": "3:25 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "happier",
-      "album": "SOUR • 2021"
     }
   ]
 }
