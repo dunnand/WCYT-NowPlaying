@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T14:07:40",
+  "updatedAt": "2026-09-15T14:10:45",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Coming Up Roses",
-    "album": "Elliott Smith • 1995",
-    "category": "TUNES"
+    "artist": "Pearl Jam",
+    "title": "Black",
+    "album": "Ten • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 pm",
-      "artist": "Pearl Jam",
-      "title": "Black"
-    },
     {
       "time": "2:16 pm",
       "artist": "Run",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:10 pm",
+      "artist": "Pearl Jam",
+      "title": "Black",
+      "album": "Ten • 1991"
+    },
     {
       "time": "2:07 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Reagan Youth",
       "title": "No Class",
       "album": "Volume 1 • 1990"
-    },
-    {
-      "time": "12:39 pm",
-      "artist": "Led Zeppelin",
-      "title": "Black Dog",
-      "album": "Led Zeppelin IV • 1971"
     }
   ]
 }
