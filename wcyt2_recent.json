@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T01:06:24",
+  "updatedAt": "2026-09-15T01:06:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "The Times They Are A-Changin'",
+    "album": "The Times They Are A-Changin' • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "Bob Dylan",
-      "title": "The Times They Are A-Changin'"
-    },
     {
       "time": "1:09 am",
       "artist": "FUN.",
@@ -26,9 +21,20 @@
       "time": "1:16 am",
       "artist": "Pearl Jam",
       "title": "Dissident"
+    },
+    {
+      "time": "1:20 am",
+      "artist": "Benny Mardones",
+      "title": "Into The Night"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "Bob Dylan",
+      "title": "The Times They Are A-Changin'",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "1:02 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Alannah Myles",
       "title": "Black Velvet",
       "album": "Alannah Myles • 1989"
-    },
-    {
-      "time": "11:24 pm",
-      "artist": "Prince",
-      "title": "I Could Never Take the Place of Your Man",
-      "album": "Sign o the Times • 1987"
     }
   ]
 }
