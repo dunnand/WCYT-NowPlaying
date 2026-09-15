@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T03:50:20",
+  "updatedAt": "2026-09-15T03:50:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Oh, Boy!",
+    "album": "The Chirping Crickets • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:50 am",
-      "artist": "Buddy Holly",
-      "title": "Oh, Boy!"
-    },
     {
       "time": "3:52 am",
       "artist": "Vic Chesnutt",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:50 am",
+      "artist": "Buddy Holly",
+      "title": "Oh, Boy!",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "3:48 am",
       "artist": "Nirvana",
@@ -172,12 +173,6 @@
       "artist": "Audio Two",
       "title": "Top Billin'",
       "album": "What More Can I Say? • 1988"
-    },
-    {
-      "time": "2:14 am",
-      "artist": "Guided by Voices",
-      "title": "My Valuable Hunting Knife",
-      "album": "Alien Lanes • 1995"
     }
   ]
 }
