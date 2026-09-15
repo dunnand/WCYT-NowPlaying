@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T19:17:38",
+  "updatedAt": "2026-09-15T19:22:37",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Lively Up Yourself",
-    "album": "Natty Dread • 1974",
+    "artist": "Elton John",
+    "title": "Harmony",
+    "album": "Goodbye Yellow Brick Road • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:22 pm",
-      "artist": "Elton John",
-      "title": "Harmony"
-    },
     {
       "time": "7:25 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "7:32 pm",
       "artist": "Eagles",
       "title": "Best Of My Love"
+    },
+    {
+      "time": "7:37 pm",
+      "artist": "The Flaming Lips",
+      "title": "Race For The Prize"
     }
   ],
   "recent": [
+    {
+      "time": "7:22 pm",
+      "artist": "Elton John",
+      "title": "Harmony",
+      "album": "Goodbye Yellow Brick Road • 1973"
+    },
     {
       "time": "7:17 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Train",
       "title": "Calling All Angels",
       "album": "My Private Nation • 2003"
-    },
-    {
-      "time": "5:44 pm",
-      "artist": "Louis Armstrong",
-      "title": "A Kiss to Build a Dream On",
-      "album": "Hello, Dolly! • 1951"
     }
   ]
 }
