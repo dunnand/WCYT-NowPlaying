@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-14T20:47:43",
+  "updatedAt": "2026-09-14T20:47:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:47 pm",
-      "artist": "The Beatles",
-      "title": "Let It Be"
-    },
     {
       "time": "8:51 pm",
       "artist": "Fela Kuti",
@@ -26,9 +21,20 @@
       "time": "9:04 pm",
       "artist": "Brenda Lee",
       "title": "I Want To Be Wanted"
+    },
+    {
+      "time": "9:07 pm",
+      "artist": "Bee Gees",
+      "title": "You Should Be Dancing"
     }
   ],
   "recent": [
+    {
+      "time": "8:47 pm",
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "8:44 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Coleman Hawkins",
       "title": "La Rosita",
       "album": "Coleman Hawkins Encounters Ben Webster • 1959"
-    },
-    {
-      "time": "7:10 pm",
-      "artist": "Pavement",
-      "title": "Unseen Power of the Picket Fence",
-      "album": "No Alternative • 1993"
     }
   ]
 }
