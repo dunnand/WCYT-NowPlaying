@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T03:22:15",
+  "updatedAt": "2026-09-15T03:22:35",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "Loser",
+    "album": "Mellow Gold • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 am",
-      "artist": "Beck",
-      "title": "Loser"
-    },
     {
       "time": "3:26 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "3:34 am",
       "artist": "Mac DeMarco",
       "title": "Chamber of Reflection"
+    },
+    {
+      "time": "3:38 am",
+      "artist": "This Is Lorelei",
+      "title": "Holo Boy"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 am",
+      "artist": "Beck",
+      "title": "Loser",
+      "album": "Mellow Gold • 1994"
+    },
     {
       "time": "3:18 am",
       "artist": "Downtown Boys",
@@ -172,12 +178,6 @@
       "artist": "Brigitte Calls Me Baby",
       "title": "Eddie My Love",
       "album": "This House is Made of Corners • 2023"
-    },
-    {
-      "time": "1:54 am",
-      "artist": "June McDoom",
-      "title": "On My Way",
-      "album": "June McDoom • 2022"
     }
   ]
 }
