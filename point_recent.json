@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T02:05:01",
+  "updatedAt": "2026-09-16T02:10:08",
   "now": {
-    "artist": "Sufjan Stevens",
-    "title": "Chicago",
-    "album": "Illinois • 2005",
+    "artist": "Radiohead",
+    "title": "Life in a Glasshouse",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 am",
-      "artist": "Radiohead",
-      "title": "Life in a Glasshouse"
-    },
     {
       "time": "2:14 am",
       "artist": "Black Country, New Road",
@@ -26,9 +21,20 @@
       "time": "2:23 am",
       "artist": "Blur",
       "title": "Country House"
+    },
+    {
+      "time": "2:27 am",
+      "artist": "Metric",
+      "title": "Victim Of Luck"
     }
   ],
   "recent": [
+    {
+      "time": "2:10 am",
+      "artist": "Radiohead",
+      "title": "Life in a Glasshouse",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "2:05 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Space Song",
       "album": "Depression Cherry • 2015"
-    },
-    {
-      "time": "12:30 am",
-      "artist": "King Stingray",
-      "title": "Milkumana",
-      "album": "King Stingray • 2023"
     }
   ]
 }
