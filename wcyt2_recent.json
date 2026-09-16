@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T02:40:49",
+  "updatedAt": "2026-09-16T02:44:16",
   "now": {
-    "artist": "Three Dog Night",
-    "title": "An Old Fashioned Love Song",
-    "album": "Harmony • 1971",
+    "artist": "Throwing Muses",
+    "title": "Not Too Soon",
+    "album": "The Real Ramona • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:44 am",
-      "artist": "Throwing Muses",
-      "title": "Not Too Soon"
-    },
     {
       "time": "2:47 am",
       "artist": "Buddy Holly",
@@ -26,9 +21,20 @@
       "time": "2:54 am",
       "artist": "Bob Dylan",
       "title": "The Lonesome Death of Hattie Carroll"
+    },
+    {
+      "time": "3:00 am",
+      "artist": "Kelly Clarkson",
+      "title": "Stronger (What Doesn't Kill Me)"
     }
   ],
   "recent": [
+    {
+      "time": "2:44 am",
+      "artist": "Throwing Muses",
+      "title": "Not Too Soon",
+      "album": "The Real Ramona • 1991"
+    },
     {
       "time": "2:40 am",
       "artist": "Three Dog Night",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Dissident",
       "album": "Vs. • 1993"
-    },
-    {
-      "time": "1:12 am",
-      "artist": "Elliott Smith",
-      "title": "Speed Trials",
-      "album": "Either Or • 1997"
     }
   ]
 }
