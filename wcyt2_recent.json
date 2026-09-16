@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T15:36:05",
+  "updatedAt": "2026-09-16T15:36:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Stevie Wonder",
+    "title": "You Are The Sunshine Of My Life",
+    "album": "Talking Book • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:36 pm",
-      "artist": "Stevie Wonder",
-      "title": "You Are The Sunshine Of My Life"
-    },
     {
       "time": "3:39 pm",
       "artist": "T. Rex",
@@ -26,9 +21,20 @@
       "time": "3:49 pm",
       "artist": "Happenings",
       "title": "See You In September"
+    },
+    {
+      "time": "3:52 pm",
+      "artist": "Frankie Valli",
+      "title": "My Eyes Adored You"
     }
   ],
   "recent": [
+    {
+      "time": "3:36 pm",
+      "artist": "Stevie Wonder",
+      "title": "You Are The Sunshine Of My Life",
+      "album": "Talking Book • 1973"
+    },
     {
       "time": "3:33 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Lorde",
       "title": "The Louvre",
       "album": "Melodrama • 2017"
-    },
-    {
-      "time": "2:01 pm",
-      "artist": "Sister Hazel",
-      "title": "All For You",
-      "album": "...Somewhere More Familiar • 1997"
     }
   ]
 }
