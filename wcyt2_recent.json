@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T20:32:06",
+  "updatedAt": "2026-09-15T20:35:01",
   "now": {
-    "artist": "Brenda Lee",
-    "title": "I Want To Be Wanted",
-    "album": "This Is... Brenda • 1960",
+    "artist": "Bee Gees",
+    "title": "You Should Be Dancing",
+    "album": "Children of the World • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:35 pm",
-      "artist": "Bee Gees",
-      "title": "You Should Be Dancing"
-    },
     {
       "time": "8:39 pm",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "8:46 pm",
       "artist": "Weezer",
       "title": "Dope Nose"
+    },
+    {
+      "time": "8:48 pm",
+      "artist": "Sufjan Stevens",
+      "title": "The Dress Looks Nice on You"
     }
   ],
   "recent": [
+    {
+      "time": "8:35 pm",
+      "artist": "Bee Gees",
+      "title": "You Should Be Dancing",
+      "album": "Children of the World • 1976"
+    },
     {
       "time": "8:32 pm",
       "artist": "Brenda Lee",
@@ -172,12 +178,6 @@
       "artist": "Eric's Trip",
       "title": "Behind The Garage",
       "album": "Love Tara • 1993"
-    },
-    {
-      "time": "6:53 pm",
-      "artist": "Kamasi Washington",
-      "title": "Miss Understanding",
-      "album": "The Epic • 2015"
     }
   ]
 }
