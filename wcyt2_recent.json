@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T06:02:50",
+  "updatedAt": "2026-09-16T06:08:46",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Like a Rolling Stone",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "John Prine",
+    "title": "When I Get to Heaven",
+    "album": "The Tree of Forgiveness • 2018",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:08 am",
-      "artist": "John Prine",
-      "title": "When I Get to Heaven"
-    },
     {
       "time": "6:12 am",
       "artist": "Sunny Day Real Estate",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:08 am",
+      "artist": "John Prine",
+      "title": "When I Get to Heaven",
+      "album": "The Tree of Forgiveness • 2018"
+    },
     {
       "time": "6:02 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Jimi Hendrix",
       "title": "Machine Gun",
       "album": "Band of Gypsys • 1970"
-    },
-    {
-      "time": "4:19 am",
-      "artist": "Kings of Leon",
-      "title": "The Bandit",
-      "album": "When You See Yourself • 2021"
     }
   ]
 }
