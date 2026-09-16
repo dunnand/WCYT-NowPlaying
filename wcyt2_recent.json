@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T17:15:30",
+  "updatedAt": "2026-09-16T17:15:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Genesis",
+    "title": "In Too Deep",
+    "album": "Invisible Touch • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:15 pm",
-      "artist": "Genesis",
-      "title": "In Too Deep"
-    },
     {
       "time": "5:20 pm",
       "artist": "Joy Division",
@@ -26,9 +21,20 @@
       "time": "5:31 pm",
       "artist": "Partridge Family",
       "title": "I Think I Love You"
+    },
+    {
+      "time": "5:33 pm",
+      "artist": "Genesis",
+      "title": "Follow You Follow Me"
     }
   ],
   "recent": [
+    {
+      "time": "5:15 pm",
+      "artist": "Genesis",
+      "title": "In Too Deep",
+      "album": "Invisible Touch • 1987"
+    },
     {
       "time": "5:11 pm",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "Happenings",
       "title": "See You In September",
       "album": "The Happenings • 1966"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "Sigur Ros",
-      "title": "Vaka (Untitled Track 1)",
-      "album": "( ) • 2002"
     }
   ]
 }
