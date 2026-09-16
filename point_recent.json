@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T08:17:14",
+  "updatedAt": "2026-09-16T08:17:36",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Stone Roses",
+    "title": "Elephant Stone",
+    "album": "The Stone Roses • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:17 am",
-      "artist": "The Stone Roses",
-      "title": "Elephant Stone"
-    },
     {
       "time": "8:22 am",
       "artist": "Spencer Krug",
@@ -26,9 +21,20 @@
       "time": "8:30 am",
       "artist": "Arctic Monkeys",
       "title": "Old Yellow Bricks"
+    },
+    {
+      "time": "8:34 am",
+      "artist": "Destroyer",
+      "title": "Painter in Your Pocket"
     }
   ],
   "recent": [
+    {
+      "time": "8:17 am",
+      "artist": "The Stone Roses",
+      "title": "Elephant Stone",
+      "album": "The Stone Roses • 1989"
+    },
     {
       "time": "8:14 am",
       "artist": "Andy Shauf",
@@ -172,12 +178,6 @@
       "artist": "Friko",
       "title": "Choo Choo",
       "album": "Something Worth Waiting For • 2026"
-    },
-    {
-      "time": "6:47 am",
-      "artist": "The Jesus and Mary Chain",
-      "title": "Just Like Honey",
-      "album": "Psychocandy • 1985"
     }
   ]
 }
