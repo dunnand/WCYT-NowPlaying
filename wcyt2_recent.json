@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T22:11:35",
+  "updatedAt": "2026-09-15T22:16:12",
   "now": {
-    "artist": "Michael Murphey",
-    "title": "Wildfire",
-    "album": "Night Thunder • 1975",
+    "artist": "Queen",
+    "title": "'39",
+    "album": "A Night at the Opera • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:16 pm",
-      "artist": "Queen",
-      "title": "'39"
-    },
     {
       "time": "10:19 pm",
       "artist": "Bat for Lashes",
@@ -26,9 +21,20 @@
       "time": "10:26 pm",
       "artist": "The Who",
       "title": "The Real Me"
+    },
+    {
+      "time": "10:29 pm",
+      "artist": "Belle and Sebastian",
+      "title": "A Summer Wasting"
     }
   ],
   "recent": [
+    {
+      "time": "10:16 pm",
+      "artist": "Queen",
+      "title": "'39",
+      "album": "A Night at the Opera • 1975"
+    },
     {
       "time": "10:11 pm",
       "artist": "Michael Murphey",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Dope Nose",
       "album": "Weezer • 2001"
-    },
-    {
-      "time": "8:42 pm",
-      "artist": "Justin Bieber",
-      "title": "All Around The World",
-      "album": "Believe • 2012"
     }
   ]
 }
