@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T19:37:35",
+  "updatedAt": "2026-09-16T19:39:47",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Wouldn't It Be Nice",
-    "album": "Pet Sounds • 1966",
+    "artist": "Eagles",
+    "title": "Best Of My Love",
+    "album": "On the Border • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:39 pm",
-      "artist": "Eagles",
-      "title": "Best Of My Love"
-    },
     {
       "time": "7:44 pm",
       "artist": "The Flaming Lips",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:39 pm",
+      "artist": "Eagles",
+      "title": "Best Of My Love",
+      "album": "On the Border • 1974"
+    },
     {
       "time": "7:37 pm",
       "artist": "The Beach Boys",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "No Surprises",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "6:02 pm",
-      "artist": "Muse",
-      "title": "Madness",
-      "album": "The 2nd Law • 2012"
     }
   ]
 }
