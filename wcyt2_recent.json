@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T07:14:09",
+  "updatedAt": "2026-09-16T07:14:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "I Want It All",
+    "album": "The Miracle • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:14 am",
-      "artist": "Queen",
-      "title": "I Want It All"
-    },
     {
       "time": "7:18 am",
       "artist": "Belinda Carlisle",
@@ -26,9 +21,20 @@
       "time": "7:25 am",
       "artist": "Joni Mitchell",
       "title": "A Case of You"
+    },
+    {
+      "time": "7:30 am",
+      "artist": "Pink Floyd",
+      "title": "Us and Them"
     }
   ],
   "recent": [
+    {
+      "time": "7:14 am",
+      "artist": "Queen",
+      "title": "I Want It All",
+      "album": "The Miracle • 1989"
+    },
     {
       "time": "7:11 am",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Alabama Pines",
       "album": "Here We Rest • 2011"
-    },
-    {
-      "time": "5:40 am",
-      "artist": "R.E.M.",
-      "title": "Supernatural Superserious",
-      "album": "Accelerate • 2008"
     }
   ]
 }
