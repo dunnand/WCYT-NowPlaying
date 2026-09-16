@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-15T23:13:01",
+  "updatedAt": "2026-09-15T23:15:55",
   "now": {
-    "artist": "Chicago",
-    "title": "Baby, What A Big Surprise",
-    "album": "Chicago XI • 1977",
+    "artist": "Bob Dylan",
+    "title": "Sad-Eyed Lady of the Lowlands",
+    "album": "Blonde on Blonde • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 pm",
-      "artist": "Bob Dylan",
-      "title": "Sad-Eyed Lady of the Lowlands"
-    },
     {
       "time": "11:27 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:15 pm",
+      "artist": "Bob Dylan",
+      "title": "Sad-Eyed Lady of the Lowlands",
+      "album": "Blonde on Blonde • 1966"
+    },
     {
       "time": "11:13 pm",
       "artist": "Chicago",
@@ -162,12 +163,6 @@
       "artist": "Jason Isbell",
       "title": "Cover Me Up",
       "album": "Southeastern • 2013"
-    },
-    {
-      "time": "9:43 pm",
-      "artist": "Jan & Dean",
-      "title": "Surf City",
-      "album": "Surf City and Other Swingin' Cities • 1963"
     }
   ]
 }
