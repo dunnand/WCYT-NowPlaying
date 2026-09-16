@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-09-16T12:01:01",
+  "updatedAt": "2026-09-16T12:04:39",
   "now": {
-    "artist": "Passion Pit",
-    "title": "Take A Walk",
-    "album": "Gossamer • 2012",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Detroit Has a Skyline",
+    "album": "Here's Where the Strings Come In • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:04 pm",
-      "artist": "Superchunk",
-      "title": "Detroit Has a Skyline"
-    },
     {
       "time": "12:07 pm",
       "artist": "U2",
       "title": "One"
     },
     {
-      "time": "12:12 pm",
+      "time": "12:11 pm",
       "artist": "Janet Jackson",
       "title": "Escapade"
     },
@@ -26,9 +21,20 @@
       "time": "12:16 pm",
       "artist": "The Jesus and Mary Chain",
       "title": "Happy When It Rains"
+    },
+    {
+      "time": "12:20 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "deja vu"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 pm",
+      "artist": "Superchunk",
+      "title": "Detroit Has a Skyline",
+      "album": "Here's Where the Strings Come In • 1995"
+    },
     {
       "time": "12:01 pm",
       "artist": "Passion Pit",
@@ -172,12 +178,6 @@
       "artist": "Billy Joel",
       "title": "Piano Man",
       "album": "Piano Man • 1973"
-    },
-    {
-      "time": "10:26 am",
-      "artist": "Radiohead",
-      "title": "House of Cards",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
