@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T04:40:36",
+  "updatedAt": "2026-09-16T04:45:32",
   "now": {
-    "artist": "Ugly Casanova",
-    "title": "Barnacles",
-    "album": "Sharpen Your Teeth • 2002",
-    "category": "TUNES"
+    "artist": "Bee Gees",
+    "title": "Massachusetts",
+    "album": "Horizontal • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "Bee Gees",
-      "title": "Massachusetts"
-    },
     {
       "time": "4:47 am",
       "artist": "Elton John",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:45 am",
+      "artist": "Bee Gees",
+      "title": "Massachusetts",
+      "album": "Horizontal • 1968"
+    },
     {
       "time": "4:40 am",
       "artist": "Ugly Casanova",
@@ -177,12 +178,6 @@
       "artist": "Kelly Clarkson",
       "title": "Stronger (What Doesn't Kill Me)",
       "album": "Stronger • 2011"
-    },
-    {
-      "time": "2:54 am",
-      "artist": "Bob Dylan",
-      "title": "The Lonesome Death of Hattie Carroll",
-      "album": "The Times They Are A-Changin' • 1964"
     }
   ]
 }
