@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T16:03:38",
+  "updatedAt": "2026-09-17T16:03:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Me and Julio Down by the Schoolyard",
+    "album": "Paul Simon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 pm",
-      "artist": "Paul Simon",
-      "title": "Me and Julio Down by the Schoolyard"
-    },
     {
       "time": "4:06 pm",
       "artist": "David Ruffin",
@@ -26,9 +21,20 @@
       "time": "4:14 pm",
       "artist": "Gary Lewis & The Playboys",
       "title": "Count Me In"
+    },
+    {
+      "time": "4:16 pm",
+      "artist": "Rolling Stones",
+      "title": "Tumbling Dice"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 pm",
+      "artist": "Paul Simon",
+      "title": "Me and Julio Down by the Schoolyard",
+      "album": "Paul Simon • 1972"
+    },
     {
       "time": "4:00 pm",
       "artist": "Kenji Yamamoto",
@@ -172,12 +178,6 @@
       "artist": "Howlin' Wolf",
       "title": "Smokestack Lightnin'",
       "album": "Moanin' in the Moonlight • 1959"
-    },
-    {
-      "time": "12:43 pm",
-      "artist": "Reagan Youth",
-      "title": "No Class",
-      "album": "Volume 1 • 1990"
     }
   ]
 }
