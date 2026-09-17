@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-09-16T21:40:25",
+  "updatedAt": "2026-09-16T21:44:44",
   "now": {
-    "artist": "Tina Turner",
-    "title": "I Don't Wanna Fight",
-    "album": "What's Love Got to Do with It • 1993",
+    "artist": "Buddy Holly",
+    "title": "I'm Gonna Love You Too",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "9:44 pm",
+      "time": "9:46 pm",
+      "artist": "Tina Turner",
+      "title": "I Don't Wanna Fight"
+    },
+    {
+      "time": "9:51 pm",
       "artist": "Buddy Holly",
       "title": "I'm Gonna Love You Too"
     },
     {
-      "time": "9:46 pm",
+      "time": "9:53 pm",
       "artist": "Yo La Tengo",
       "title": "Our Way to Fall"
-    },
-    {
-      "time": "9:51 pm",
-      "artist": "Jan & Dean",
-      "title": "Surf City"
     }
   ],
   "recent": [
+    {
+      "time": "9:44 pm",
+      "artist": "Buddy Holly",
+      "title": "I'm Gonna Love You Too",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "9:40 pm",
       "artist": "Tina Turner",
@@ -167,12 +173,6 @@
       "artist": "The Fall",
       "title": "Leave the Capitol",
       "album": "Slates [EP] • 1981"
-    },
-    {
-      "time": "8:03 pm",
-      "artist": "Modest Mouse",
-      "title": "Other People's Lives",
-      "album": "Building Nothing Out of Something • 1999"
     }
   ]
 }
