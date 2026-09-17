@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-16T20:53:32",
+  "updatedAt": "2026-09-16T20:53:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Dope Nose",
+    "album": "Weezer • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:53 pm",
-      "artist": "Weezer",
-      "title": "Dope Nose"
-    },
     {
       "time": "8:55 pm",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "9:02 pm",
       "artist": "Weezer",
       "title": "Falling for You"
+    },
+    {
+      "time": "9:06 pm",
+      "artist": "Shania Twain",
+      "title": "You've Got A Way"
     }
   ],
   "recent": [
+    {
+      "time": "8:53 pm",
+      "artist": "Weezer",
+      "title": "Dope Nose",
+      "album": "Weezer • 2001"
+    },
     {
       "time": "8:49 pm",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "Passion",
       "album": "Foolish Behaviour • 1980"
-    },
-    {
-      "time": "7:15 pm",
-      "artist": "Minutemen",
-      "title": "#1 Hit Song",
-      "album": "Double Nickels on the Dime • 1984"
     }
   ]
 }
