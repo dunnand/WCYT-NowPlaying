@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-09-17T14:41:38",
+  "updatedAt": "2026-09-17T14:44:51",
   "now": {
-    "artist": "Paul Simon",
-    "title": "I Know What I Know",
-    "album": "Graceland • 1986",
+    "artist": "Phil Collins",
+    "title": "Take Me Home",
+    "album": "No Jacket Required • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "2:44 pm",
-      "artist": "Paul Simon",
-      "title": "I Know What I Know"
-    },
-    {
-      "time": "2:47 pm",
-      "artist": "Phil Collins",
-      "title": "Take Me Home"
-    },
-    {
-      "time": "2:53 pm",
+      "time": "2:50 pm",
       "artist": "Pearl Jam",
       "title": "Dance Of The Clairvoyants"
     },
     {
-      "time": "2:58 pm",
+      "time": "2:55 pm",
       "artist": "The Clash",
       "title": "Clash Citry Rockers"
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "Johnny Williams",
+      "title": "Slow Motion (Part 1)"
     }
   ],
   "recent": [
+    {
+      "time": "2:44 pm",
+      "artist": "Phil Collins",
+      "title": "Take Me Home",
+      "album": "No Jacket Required • 1985"
+    },
     {
       "time": "2:41 pm",
       "artist": "Paul Simon",
@@ -172,12 +173,6 @@
       "artist": "Steely Dan",
       "title": "Peg",
       "album": "Aja • 1977"
-    },
-    {
-      "time": "11:41 am",
-      "artist": "The Beach Boys",
-      "title": "You're So Good to Me",
-      "album": "Summer Days • 1965"
     }
   ]
 }
