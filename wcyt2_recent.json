@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T16:16:35",
+  "updatedAt": "2026-09-17T16:20:10",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Tumbling Dice",
-    "album": "Exile on Main St. • 1972",
+    "artist": "The Smashing Pumpkins",
+    "title": "Bullet With Butterfly Wings",
+    "album": "Mellon Collie and the Infinite Sadness • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:20 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Bullet With Butterfly Wings"
-    },
     {
       "time": "4:24 pm",
       "artist": "The Crests",
@@ -21,9 +16,20 @@
       "time": "4:27 pm",
       "artist": "Train",
       "title": "Drops Of Jupiter (Tell Me)"
+    },
+    {
+      "time": "4:31 pm",
+      "artist": "Del Shannon",
+      "title": "Hats Off To Larry"
     }
   ],
   "recent": [
+    {
+      "time": "4:20 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Bullet With Butterfly Wings",
+      "album": "Mellon Collie and the Infinite Sadness • 1995"
+    },
     {
       "time": "4:16 pm",
       "artist": "Rolling Stones",
@@ -167,12 +173,6 @@
       "artist": "Vertical Horizon",
       "title": "Everything You Want",
       "album": "Everything You Want • 1999"
-    },
-    {
-      "time": "1:24 pm",
-      "artist": "Stardust",
-      "title": "Music Sounds Better With You",
-      "album": "Single • 1998"
     }
   ]
 }
