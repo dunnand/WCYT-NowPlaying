@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T00:49:59",
+  "updatedAt": "2026-09-17T00:54:15",
   "now": {
-    "artist": "Supertramp",
-    "title": "Goodbye Stranger",
-    "album": "Breakfast in America • 1979",
+    "artist": "Weezer",
+    "title": "The Good Life",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:54 am",
-      "artist": "Weezer",
-      "title": "The Good Life"
-    },
     {
       "time": "12:58 am",
       "artist": "Moonglows",
@@ -26,9 +21,20 @@
       "time": "1:05 am",
       "artist": "Bob Dylan",
       "title": "The Times They Are A-Changin'"
+    },
+    {
+      "time": "1:08 am",
+      "artist": "FUN.",
+      "title": "We Are Young"
     }
   ],
   "recent": [
+    {
+      "time": "12:54 am",
+      "artist": "Weezer",
+      "title": "The Good Life",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "12:49 am",
       "artist": "Supertramp",
@@ -172,12 +178,6 @@
       "artist": "Ricky Martin",
       "title": "Livin' La Vida Loca",
       "album": "Ricky Martin • 1999"
-    },
-    {
-      "time": "10:52 pm",
-      "artist": "Built to Spill",
-      "title": "Lie for a Lie",
-      "album": "Ultimate Alternative Wavers • 1993"
     }
   ]
 }
