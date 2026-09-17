@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T05:43:17",
+  "updatedAt": "2026-09-17T05:47:12",
   "now": {
-    "artist": "Jason Isbell and the 400 Unit",
-    "title": "Alabama Pines",
-    "album": "Here We Rest • 2011",
+    "artist": "Fleetwood Mac",
+    "title": "Warm Ways",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:47 am",
-      "artist": "Fleetwood Mac",
-      "title": "Warm Ways"
-    },
     {
       "time": "5:50 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:57 am",
       "artist": "TV on the Radio",
       "title": "Satellite"
+    },
+    {
+      "time": "6:02 am",
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone"
     }
   ],
   "recent": [
+    {
+      "time": "5:47 am",
+      "artist": "Fleetwood Mac",
+      "title": "Warm Ways",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "5:43 am",
       "artist": "Jason Isbell and the 400 Unit",
@@ -172,12 +178,6 @@
       "artist": "Nirvana.",
       "title": "Something in the Way",
       "album": "Nevermind • 1991"
-    },
-    {
-      "time": "4:00 am",
-      "artist": "Jamila Woods",
-      "title": "Betty (for Boogie)",
-      "album": "LEGACY! LEGACY! • 2019"
     }
   ]
 }
