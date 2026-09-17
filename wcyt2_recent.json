@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T16:03:49",
+  "updatedAt": "2026-09-17T16:06:24",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Me and Julio Down by the Schoolyard",
-    "album": "Paul Simon • 1972",
+    "artist": "David Ruffin",
+    "title": "My Whole World Ended (The Moment You Left Me)",
+    "album": "My Whole World Ended • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:06 pm",
-      "artist": "David Ruffin",
-      "title": "My Whole World Ended (The Moment You Left Me)"
-    },
     {
       "time": "4:10 pm",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "4:16 pm",
       "artist": "Rolling Stones",
       "title": "Tumbling Dice"
+    },
+    {
+      "time": "4:20 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Bullet With Butterfly Wings"
     }
   ],
   "recent": [
+    {
+      "time": "4:06 pm",
+      "artist": "David Ruffin",
+      "title": "My Whole World Ended (The Moment You Left Me)",
+      "album": "My Whole World Ended • 1969"
+    },
     {
       "time": "4:03 pm",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Rich",
       "album": "Fever To Tell • 2003"
-    },
-    {
-      "time": "12:45 pm",
-      "artist": "Howlin' Wolf",
-      "title": "Smokestack Lightnin'",
-      "album": "Moanin' in the Moonlight • 1959"
     }
   ]
 }
