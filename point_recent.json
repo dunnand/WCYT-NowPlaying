@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T05:18:39",
+  "updatedAt": "2026-09-17T05:19:01",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "My Morning Jacket",
+    "title": "I Will Sing You Songs",
+    "album": "It Still Moves • 2003",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:18 am",
-      "artist": "My Morning Jacket",
-      "title": "I Will Sing You Songs"
-    },
     {
       "time": "5:28 am",
       "artist": "Sharp Pins",
@@ -26,9 +21,20 @@
       "time": "5:34 am",
       "artist": "Wishy",
       "title": "Sensational"
+    },
+    {
+      "time": "5:38 am",
+      "artist": "Midnight Sister",
+      "title": "Foxes"
     }
   ],
   "recent": [
+    {
+      "time": "5:19 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "5:15 am",
       "artist": "Mitski",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "The Summer",
       "album": "Fakebook • 1990"
-    },
-    {
-      "time": "3:30 am",
-      "artist": "King Gizzard & The Lizard Wizard",
-      "title": "The Spider And Me",
-      "album": "Sketches of Brunswick East • 2017"
     }
   ]
 }
