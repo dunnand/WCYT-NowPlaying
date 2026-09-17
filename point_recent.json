@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T00:48:56",
+  "updatedAt": "2026-09-17T00:49:17",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Cure",
+    "title": "Friday I'm in Love",
+    "album": "Wish • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "The Cure",
-      "title": "Friday I'm in Love"
-    },
     {
       "time": "12:52 am",
       "artist": "LCD Soundsystem",
@@ -26,9 +21,20 @@
       "time": "1:03 am",
       "artist": "R.E.M.",
       "title": "So. Central Rain"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Tame Impala",
+      "title": "Disciples"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "The Cure",
+      "title": "Friday I'm in Love",
+      "album": "Wish • 1992"
+    },
     {
       "time": "12:43 am",
       "artist": "The War on Drugs",
@@ -172,12 +178,6 @@
       "artist": "Alabama Shakes",
       "title": "Garden",
       "album": "I Must Be Dreaming • 2026"
-    },
-    {
-      "time": "10:21 pm",
-      "artist": "Sufjan Stevens",
-      "title": "The Predatory Wasp of the Palisades Is Out to Get Us!",
-      "album": "Illinois • 2005"
     }
   ]
 }
