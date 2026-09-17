@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T02:09:24",
+  "updatedAt": "2026-09-17T02:13:09",
   "now": {
-    "artist": "Radiohead",
-    "title": "No Surprises",
-    "album": "OK Computer • 1997",
+    "artist": "Cheekface",
+    "title": "Hostile Street",
+    "album": "Podium • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:13 am",
-      "artist": "Cheekface",
-      "title": "Hostile Street"
-    },
     {
       "time": "2:16 am",
       "artist": "Toro y Moi",
@@ -26,9 +21,20 @@
       "time": "2:26 am",
       "artist": "Julia Jacklin",
       "title": "Get Away From Me (I Think I'll Love You Soon)"
+    },
+    {
+      "time": "2:28 am",
+      "artist": "Wild Nothing",
+      "title": "Summer Holiday"
     }
   ],
   "recent": [
+    {
+      "time": "2:13 am",
+      "artist": "Cheekface",
+      "title": "Hostile Street",
+      "album": "Podium • 2026"
+    },
     {
       "time": "2:09 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Blur",
       "title": "Song 2",
       "album": "Blur • 1997"
-    },
-    {
-      "time": "12:38 am",
-      "artist": "Last Dinosaurs",
-      "title": "Collect Call",
-      "album": "From Mexico with Love • 2022"
     }
   ]
 }
