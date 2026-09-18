@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T08:02:54",
+  "updatedAt": "2026-09-18T08:06:13",
   "now": {
-    "artist": "Leon Bridges",
-    "title": "Coming Home",
-    "album": "Coming Home • 2015",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Beetlebum",
+    "album": "Blur • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:06 am",
-      "artist": "Blur",
-      "title": "Beetlebum"
-    },
     {
       "time": "8:11 am",
       "artist": "Portishead",
@@ -21,9 +16,20 @@
       "time": "8:15 am",
       "artist": "Madonna",
       "title": "Crazy For You"
+    },
+    {
+      "time": "8:19 am",
+      "artist": "Billy Bragg",
+      "title": "A New England"
     }
   ],
   "recent": [
+    {
+      "time": "8:06 am",
+      "artist": "Blur",
+      "title": "Beetlebum",
+      "album": "Blur • 1997"
+    },
     {
       "time": "8:02 am",
       "artist": "Leon Bridges",
@@ -167,12 +173,6 @@
       "artist": "Minnie Riperton",
       "title": "Les Fleur",
       "album": "Come to My Garden • 1970"
-    },
-    {
-      "time": "6:30 am",
-      "artist": "Radiohead",
-      "title": "All I Need",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
