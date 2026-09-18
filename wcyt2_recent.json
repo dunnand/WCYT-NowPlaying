@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T07:12:01",
+  "updatedAt": "2026-09-18T07:15:05",
   "now": {
-    "artist": "Pavement",
-    "title": "Major Leagues",
-    "album": "Terror Twilight • 1999",
-    "category": "TUNES"
+    "artist": "Queen",
+    "title": "I Want It All",
+    "album": "The Miracle • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 am",
-      "artist": "Queen",
-      "title": "I Want It All"
-    },
     {
       "time": "7:19 am",
       "artist": "Belinda Carlisle",
@@ -21,9 +16,25 @@
       "time": "7:22 am",
       "artist": "Black Pumas",
       "title": "I'm Ready"
+    },
+    {
+      "time": "7:26 am",
+      "artist": "Joni Mitchell",
+      "title": "A Case of You"
+    },
+    {
+      "time": "7:31 am",
+      "artist": "Pink Floyd",
+      "title": "Us and Them"
     }
   ],
   "recent": [
+    {
+      "time": "7:15 am",
+      "artist": "Queen",
+      "title": "I Want It All",
+      "album": "The Miracle • 1989"
+    },
     {
       "time": "7:12 am",
       "artist": "Pavement",
@@ -167,12 +178,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Alabama Pines",
       "album": "Here We Rest • 2011"
-    },
-    {
-      "time": "5:40 am",
-      "artist": "R.E.M.",
-      "title": "Supernatural Superserious",
-      "album": "Accelerate • 2008"
     }
   ]
 }
