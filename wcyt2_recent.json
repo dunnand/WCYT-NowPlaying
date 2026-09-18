@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-09-17T23:04:21",
+  "updatedAt": "2026-09-17T23:04:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "I'm Gonna Love You Too",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:04 pm",
+      "time": "11:06 pm",
+      "artist": "Tina Turner",
+      "title": "I Don't Wanna Fight"
+    },
+    {
+      "time": "11:11 pm",
       "artist": "Buddy Holly",
       "title": "I'm Gonna Love You Too"
     },
     {
-      "time": "11:06 pm",
+      "time": "11:13 pm",
       "artist": "Yo La Tengo",
       "title": "Our Way to Fall"
-    },
-    {
-      "time": "11:11 pm",
-      "artist": "Jan & Dean",
-      "title": "Surf City"
-    },
-    {
-      "time": "11:13 pm",
-      "artist": "Jason Isbell",
-      "title": "Cover Me Up"
     }
   ],
   "recent": [
+    {
+      "time": "11:04 pm",
+      "artist": "Buddy Holly",
+      "title": "I'm Gonna Love You Too",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "11:00 pm",
       "artist": "Tina Turner",
@@ -172,12 +173,6 @@
       "artist": "The Fall",
       "title": "Leave the Capitol",
       "album": "Slates [EP] • 1981"
-    },
-    {
-      "time": "9:23 pm",
-      "artist": "Modest Mouse",
-      "title": "Other People's Lives",
-      "album": "Building Nothing Out of Something • 1999"
     }
   ]
 }
