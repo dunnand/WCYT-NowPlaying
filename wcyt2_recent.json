@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T05:02:56",
+  "updatedAt": "2026-09-18T05:03:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Pledging My Time",
+    "album": "Pledging My Time • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 am",
-      "artist": "Bob Dylan",
-      "title": "Pledging My Time"
-    },
     {
       "time": "5:07 am",
       "artist": "Kendrick Lamar",
@@ -26,9 +21,20 @@
       "time": "5:14 am",
       "artist": "Soundgarden",
       "title": "Spoonman"
+    },
+    {
+      "time": "5:18 am",
+      "artist": "Bonnie Tyler",
+      "title": "Total Eclipse Of The Heart"
     }
   ],
   "recent": [
+    {
+      "time": "5:03 am",
+      "artist": "Bob Dylan",
+      "title": "Pledging My Time",
+      "album": "Pledging My Time • 1966"
+    },
     {
       "time": "4:58 am",
       "artist": "U2",
@@ -172,12 +178,6 @@
       "artist": "Little Simz",
       "title": "Angel",
       "album": "NO THANK YOU • 2022"
-    },
-    {
-      "time": "3:19 am",
-      "artist": "The Clash",
-      "title": "Police on My Back",
-      "album": "Sandinista! • 1980"
     }
   ]
 }
