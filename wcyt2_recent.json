@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T11:30:39",
+  "updatedAt": "2026-09-18T11:34:14",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Only Yesterday",
-    "album": "Horizon • 1975",
+    "artist": "Paul McCartney and Wings",
+    "title": "Junior's Farm",
+    "album": "single • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:34 am",
-      "artist": "Paul McCartney and Wings",
-      "title": "Junior's Farm"
-    },
     {
       "time": "11:38 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "11:44 am",
       "artist": "Steely Dan",
       "title": "Peg"
+    },
+    {
+      "time": "11:48 am",
+      "artist": "Stone Temple Pilots",
+      "title": "Interstate Love Song"
     }
   ],
   "recent": [
+    {
+      "time": "11:34 am",
+      "artist": "Paul McCartney and Wings",
+      "title": "Junior's Farm",
+      "album": "single • 1974"
+    },
     {
       "time": "11:30 am",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Sun Kil Moon",
       "title": "Carry Me Ohio",
       "album": "Ghosts of the Great Highway • 2003"
-    },
-    {
-      "time": "9:48 am",
-      "artist": "Platters",
-      "title": "Only You (And You Alone)",
-      "album": "Only You • 1955"
     }
   ]
 }
