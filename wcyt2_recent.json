@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T15:05:44",
+  "updatedAt": "2026-09-18T15:05:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Madonna",
+    "title": "Ray Of Light",
+    "album": "Ray of Light • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:05 pm",
-      "artist": "Madonna",
-      "title": "Ray Of Light"
-    },
     {
       "time": "3:11 pm",
       "artist": "Foo Fighters",
@@ -23,12 +18,23 @@
       "title": "Life In A Northern Town"
     },
     {
-      "time": "3:17 pm",
+      "time": "3:18 pm",
       "artist": "Cutting Crew",
       "title": "(I Just) Died In Yor Arms Tonight"
+    },
+    {
+      "time": "3:22 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "happier"
     }
   ],
   "recent": [
+    {
+      "time": "3:05 pm",
+      "artist": "Madonna",
+      "title": "Ray Of Light",
+      "album": "Ray of Light • 1998"
+    },
     {
       "time": "3:02 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -172,12 +178,6 @@
       "artist": "Johnny Williams",
       "title": "Slow Motion (Part 1)",
       "album": "Slow Motion • 1972"
-    },
-    {
-      "time": "1:27 pm",
-      "artist": "The Clash",
-      "title": "Clash Citry Rockers",
-      "album": "The Clash • 1979"
     }
   ]
 }
