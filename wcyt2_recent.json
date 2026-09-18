@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T04:05:02",
+  "updatedAt": "2026-09-18T04:05:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Nirvana.",
+    "title": "Something in the Way",
+    "album": "Nevermind • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 am",
-      "artist": "Nirvana.",
-      "title": "Something in the Way"
-    },
     {
       "time": "4:09 am",
       "artist": "Oasis",
@@ -26,9 +21,20 @@
       "time": "4:16 am",
       "artist": "Cameo",
       "title": "Word Up"
+    },
+    {
+      "time": "4:21 am",
+      "artist": "Kings of Leon",
+      "title": "The Bandit"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 am",
+      "artist": "Nirvana.",
+      "title": "Something in the Way",
+      "album": "Nevermind • 1991"
+    },
     {
       "time": "4:00 am",
       "artist": "Jamila Woods",
@@ -172,12 +178,6 @@
       "artist": "The Specials",
       "title": "Gangsters",
       "album": "single • 1979"
-    },
-    {
-      "time": "2:27 am",
-      "artist": "The Kinks",
-      "title": "20th Century Man",
-      "album": "Muswell Hillbillies • 1971"
     }
   ]
 }
