@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T16:57:54",
+  "updatedAt": "2026-09-18T17:00:38",
   "now": {
-    "artist": "Wilco",
-    "title": "Casino Queen",
-    "album": "A.M • 1995",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "From a Motel 6",
+    "album": "Painful • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:00 pm",
-      "artist": "Yo La Tengo",
-      "title": "From a Motel 6"
-    },
     {
       "time": "5:04 pm",
       "artist": "Genesis",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:00 pm",
+      "artist": "Yo La Tengo",
+      "title": "From a Motel 6",
+      "album": "Painful • 1993"
+    },
     {
       "time": "4:57 pm",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "Sigur Ros",
       "title": "Vaka (Untitled Track 1)",
       "album": "( ) • 2002"
-    },
-    {
-      "time": "3:28 pm",
-      "artist": "T. Rex",
-      "title": "Mambo Sun",
-      "album": "Electric Warrior • 1971"
     }
   ]
 }
