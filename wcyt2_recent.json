@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-09-18T13:14:32",
+  "updatedAt": "2026-09-18T13:14:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "I Know What I Know",
+    "album": "Graceland • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:14 pm",
+      "time": "1:17 pm",
+      "artist": "Vertical Horizon",
+      "title": "Everything You Want"
+    },
+    {
+      "time": "1:22 pm",
       "artist": "Paul Simon",
       "title": "I Know What I Know"
     },
     {
-      "time": "1:17 pm",
+      "time": "1:25 pm",
       "artist": "Phil Collins",
       "title": "Take Me Home"
     },
     {
-      "time": "1:23 pm",
+      "time": "1:30 pm",
       "artist": "Pearl Jam",
       "title": "Dance Of The Clairvoyants"
-    },
-    {
-      "time": "1:28 pm",
-      "artist": "The Clash",
-      "title": "Clash Citry Rockers"
     }
   ],
   "recent": [
+    {
+      "time": "1:14 pm",
+      "artist": "Paul Simon",
+      "title": "I Know What I Know",
+      "album": "Graceland • 1986"
+    },
     {
       "time": "1:10 pm",
       "artist": "Vertical Horizon",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "You're So Good to Me",
       "album": "Summer Days • 1965"
-    },
-    {
-      "time": "11:38 am",
-      "artist": "R.E.M.",
-      "title": "Imitation of Life",
-      "album": "Reveal • 2001"
     }
   ]
 }
