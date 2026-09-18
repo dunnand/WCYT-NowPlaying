@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T14:10:09",
+  "updatedAt": "2026-09-18T14:13:12",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Coming Up Roses",
-    "album": "Elliott Smith • 1995",
-    "category": "TUNES"
+    "artist": "Pearl Jam",
+    "title": "Black",
+    "album": "Ten • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:13 pm",
-      "artist": "Pearl Jam",
-      "title": "Black"
-    },
     {
       "time": "2:18 pm",
       "artist": "Run",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:13 pm",
+      "artist": "Pearl Jam",
+      "title": "Black",
+      "album": "Ten • 1991"
+    },
     {
       "time": "2:10 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "George Duke",
       "title": "Dukey Stick",
       "album": "Don't Let Go • 1978"
-    },
-    {
-      "time": "12:28 pm",
-      "artist": "The Everly Brothers",
-      "title": "When Will I Be Loved",
-      "album": "The Fabulous Style of The Everly Brothers • 1960"
     }
   ]
 }
