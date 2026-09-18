@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T22:26:20",
+  "updatedAt": "2026-09-17T22:29:32",
   "now": {
-    "artist": "Shania Twain",
-    "title": "You've Got A Way",
-    "album": "Come On Over • 1999",
+    "artist": "Whitney Houston",
+    "title": "Saving All My Love For You",
+    "album": "Whitney Houston • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:29 pm",
-      "artist": "Whitney Houston",
-      "title": "Saving All My Love For You"
-    },
     {
       "time": "10:33 pm",
       "artist": "Bruce Springsteen",
@@ -21,9 +16,20 @@
       "time": "10:37 pm",
       "artist": "Haim",
       "title": "Now I'm In It"
+    },
+    {
+      "time": "10:41 pm",
+      "artist": "Bob Dylan",
+      "title": "Shelter From the Storm"
     }
   ],
   "recent": [
+    {
+      "time": "10:29 pm",
+      "artist": "Whitney Houston",
+      "title": "Saving All My Love For You",
+      "album": "Whitney Houston • 1985"
+    },
     {
       "time": "10:26 pm",
       "artist": "Shania Twain",
@@ -167,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "Wouldn't It Be Nice",
       "album": "Pet Sounds • 1966"
-    },
-    {
-      "time": "8:52 pm",
-      "artist": "Radiohead",
-      "title": "We Suck Young Blood. (Your Time Is Up.)",
-      "album": "Hail to the Thief • 2003"
     }
   ]
 }
