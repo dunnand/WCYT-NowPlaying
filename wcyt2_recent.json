@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T16:32:18",
+  "updatedAt": "2026-09-18T16:35:53",
   "now": {
-    "artist": "Sparks",
-    "title": "A Big Surprise",
-    "album": "Introducing Sparks • 1977",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Dirty Boots",
+    "album": "Goo • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:35 pm",
-      "artist": "Sonic Youth",
-      "title": "Dirty Boots"
-    },
     {
       "time": "4:41 pm",
       "artist": "Doris Day",
@@ -21,9 +16,20 @@
       "time": "4:44 pm",
       "artist": "Thom Yorke",
       "title": "Black Swan"
+    },
+    {
+      "time": "4:49 pm",
+      "artist": "The Beach Boys",
+      "title": "California Girls"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 pm",
+      "artist": "Sonic Youth",
+      "title": "Dirty Boots",
+      "album": "Goo • 1990"
+    },
     {
       "time": "4:32 pm",
       "artist": "Sparks",
@@ -167,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Wind Up",
       "album": "The Colour and the Shape • 1997"
-    },
-    {
-      "time": "3:05 pm",
-      "artist": "Madonna",
-      "title": "Ray Of Light",
-      "album": "Ray of Light • 1998"
     }
   ]
 }
