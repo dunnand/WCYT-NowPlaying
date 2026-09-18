@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T11:30:27",
+  "updatedAt": "2026-09-18T11:30:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Only Yesterday",
+    "album": "Horizon • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:30 am",
-      "artist": "The Carpenters",
-      "title": "Only Yesterday"
-    },
     {
       "time": "11:34 am",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "11:42 am",
       "artist": "The Beach Boys",
       "title": "You're So Good to Me"
+    },
+    {
+      "time": "11:44 am",
+      "artist": "Steely Dan",
+      "title": "Peg"
     }
   ],
   "recent": [
+    {
+      "time": "11:30 am",
+      "artist": "The Carpenters",
+      "title": "Only Yesterday",
+      "album": "Horizon • 1975"
+    },
     {
       "time": "11:26 am",
       "artist": "OK GO",
@@ -172,12 +178,6 @@
       "artist": "Platters",
       "title": "Only You (And You Alone)",
       "album": "Only You • 1955"
-    },
-    {
-      "time": "9:45 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Award Tour",
-      "album": "Midnight Marauders • 1993"
     }
   ]
 }
