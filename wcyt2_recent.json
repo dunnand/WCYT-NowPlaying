@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T20:49:51",
+  "updatedAt": "2026-09-17T20:52:34",
   "now": {
-    "artist": "Elton John",
-    "title": "Harmony",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Radiohead",
+    "title": "We Suck Young Blood. (Your Time Is Up.)",
+    "album": "Hail to the Thief • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:52 pm",
-      "artist": "Radiohead",
-      "title": "We Suck Young Blood. (Your Time Is Up.)"
-    },
     {
       "time": "8:57 pm",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "9:04 pm",
       "artist": "The Flaming Lips",
       "title": "Race For The Prize"
+    },
+    {
+      "time": "9:08 pm",
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue"
     }
   ],
   "recent": [
+    {
+      "time": "8:52 pm",
+      "artist": "Radiohead",
+      "title": "We Suck Young Blood. (Your Time Is Up.)",
+      "album": "Hail to the Thief • 2003"
+    },
     {
       "time": "8:49 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "The Cascades",
       "title": "Rhythm Of The Rain",
       "album": "Rhythm of the Rain • 1963"
-    },
-    {
-      "time": "7:16 pm",
-      "artist": "Train",
-      "title": "Calling All Angels",
-      "album": "My Private Nation • 2003"
     }
   ]
 }
