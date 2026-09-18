@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T10:26:52",
+  "updatedAt": "2026-09-18T10:32:20",
   "now": {
-    "artist": "Radiohead",
-    "title": "House of Cards",
-    "album": "In Rainbows • 2007",
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "album": "Piano Man • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:32 am",
-      "artist": "Billy Joel",
-      "title": "Piano Man"
-    },
     {
       "time": "10:35 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "10:43 am",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "We’ve Got Tonight"
+    },
+    {
+      "time": "10:48 am",
+      "artist": "CAKE",
+      "title": "The Distance"
     }
   ],
   "recent": [
+    {
+      "time": "10:32 am",
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "album": "Piano Man • 1973"
+    },
     {
       "time": "10:26 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Songs Ohia",
       "title": "Just Be Simple",
       "album": "The Magnolia Electric Co • 2003"
-    },
-    {
-      "time": "8:47 am",
-      "artist": "Perez Prado y Su Orquesta",
-      "title": "Mambo No. 5",
-      "album": "single • 1949"
     }
   ]
 }
