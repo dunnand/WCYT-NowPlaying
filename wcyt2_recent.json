@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T01:06:24",
+  "updatedAt": "2026-09-18T01:09:28",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "The Times They Are A-Changin'",
-    "album": "The Times They Are A-Changin' • 1964",
+    "artist": "FUN.",
+    "title": "We Are Young",
+    "album": "Some Nights • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:09 am",
-      "artist": "FUN.",
-      "title": "We Are Young"
-    },
     {
       "time": "1:13 am",
       "artist": "Elliott Smith",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:09 am",
+      "artist": "FUN.",
+      "title": "We Are Young",
+      "album": "Some Nights • 2012"
+    },
     {
       "time": "1:06 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Queen",
       "title": "'39",
       "album": "A Night at the Opera • 1975"
-    },
-    {
-      "time": "11:38 pm",
-      "artist": "Michael Murphey",
-      "title": "Wildfire",
-      "album": "Night Thunder • 1975"
     }
   ]
 }
