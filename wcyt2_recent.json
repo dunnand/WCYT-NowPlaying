@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T17:20:05",
+  "updatedAt": "2026-09-18T17:22:52",
   "now": {
-    "artist": "Partridge Family",
-    "title": "I Think I Love You",
-    "album": "The Partridge Family Album • 1970",
+    "artist": "Genesis",
+    "title": "Follow You Follow Me",
+    "album": "... And Then There Were Three... • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 pm",
-      "artist": "Genesis",
-      "title": "Follow You Follow Me"
-    },
     {
       "time": "5:26 pm",
       "artist": "The Killers",
@@ -23,12 +18,23 @@
       "title": "Sixteen Reasons"
     },
     {
-      "time": "5:32 pm",
+      "time": "5:31 pm",
       "artist": "Fleetwood Mac",
       "title": "Dreams"
+    },
+    {
+      "time": "5:36 pm",
+      "artist": "Queensryche",
+      "title": "Silent Lucidity"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 pm",
+      "artist": "Genesis",
+      "title": "Follow You Follow Me",
+      "album": "... And Then There Were Three... • 1978"
+    },
     {
       "time": "5:20 pm",
       "artist": "Partridge Family",
@@ -172,12 +178,6 @@
       "artist": "The Unicorns",
       "title": "Rocket Ship",
       "album": "Who Will Cut Our Hair When We're Gone • 2003"
-    },
-    {
-      "time": "3:47 pm",
-      "artist": "Lil Nas X",
-      "title": "Old Town Road (feat. Billy Ray Cyrus)",
-      "album": "7 • 2019"
     }
   ]
 }
