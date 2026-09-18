@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-17T22:41:11",
+  "updatedAt": "2026-09-17T22:41:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Shelter From the Storm",
+    "album": "Shelter From the Storm • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:41 pm",
-      "artist": "Bob Dylan",
-      "title": "Shelter From the Storm"
-    },
     {
       "time": "10:46 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "10:54 pm",
       "artist": "Donovan",
       "title": "Sunny Goodge Street"
+    },
+    {
+      "time": "10:57 pm",
+      "artist": "John Prine",
+      "title": "Illegal Smile"
     }
   ],
   "recent": [
+    {
+      "time": "10:41 pm",
+      "artist": "Bob Dylan",
+      "title": "Shelter From the Storm",
+      "album": "Shelter From the Storm • 1975"
+    },
     {
       "time": "10:37 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "The Fleetwoods",
       "title": "Mr. Blue",
       "album": "Mr. Blue • 1959"
-    },
-    {
-      "time": "9:04 pm",
-      "artist": "The Flaming Lips",
-      "title": "Race For The Prize",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
