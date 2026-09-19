@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T09:11:02",
+  "updatedAt": "2026-09-19T09:14:35",
   "now": {
-    "artist": "Le Tigre",
-    "title": "Hot Topic",
-    "album": "Le Tigre • 1999",
+    "artist": "Joy Division",
+    "title": "Shadowplay",
+    "album": "Unknown Pleasures • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 am",
-      "artist": "Joy Division",
-      "title": "Shadowplay"
-    },
     {
       "time": "9:18 am",
       "artist": "Ween",
@@ -26,9 +21,20 @@
       "time": "9:25 am",
       "artist": "Beck",
       "title": "Guess I'm Doing Fine"
+    },
+    {
+      "time": "9:30 am",
+      "artist": "Black Country, New Road",
+      "title": "Strangers"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 am",
+      "artist": "Joy Division",
+      "title": "Shadowplay",
+      "album": "Unknown Pleasures • 1979"
+    },
     {
       "time": "9:11 am",
       "artist": "Le Tigre",
@@ -172,12 +178,6 @@
       "artist": "American Football",
       "title": "Wake Her Up (feat. Wisp)",
       "album": "American Football • 2026"
-    },
-    {
-      "time": "7:42 am",
-      "artist": "Wilco",
-      "title": "Taste the Ceiling",
-      "album": "Star Wars • 2015"
     }
   ]
 }
