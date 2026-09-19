@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T16:23:02",
+  "updatedAt": "2026-09-19T16:26:37",
   "now": {
-    "artist": "New York Dolls",
-    "title": "Personality Crisis",
-    "album": "New York Dolls • 1973",
+    "artist": "Bob Dylan",
+    "title": "I Shall Be Free",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:26 pm",
-      "artist": "Bob Dylan",
-      "title": "I Shall Be Free"
-    },
     {
       "time": "4:31 pm",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "4:40 pm",
       "artist": "Doris Day",
       "title": "A Guy Is A Guy"
+    },
+    {
+      "time": "4:43 pm",
+      "artist": "Thom Yorke",
+      "title": "Black Swan"
     }
   ],
   "recent": [
+    {
+      "time": "4:26 pm",
+      "artist": "Bob Dylan",
+      "title": "I Shall Be Free",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "4:23 pm",
       "artist": "New York Dolls",
@@ -172,12 +178,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Hope the High Road",
       "album": "The Nashville Sound • 2017"
-    },
-    {
-      "time": "3:00 pm",
-      "artist": "Del Shannon",
-      "title": "Hats Off To Larry",
-      "album": "Hats Off to Del Shannon • 1962"
     }
   ]
 }
