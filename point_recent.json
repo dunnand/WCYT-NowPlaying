@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T07:50:30",
+  "updatedAt": "2026-09-19T07:50:41",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "bar italia",
+    "title": "rooster",
+    "album": "Some Like It Hot • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "bar italia",
-      "title": "rooster"
-    },
     {
       "time": "7:56 am",
       "artist": "Mac DeMarco",
@@ -26,9 +21,20 @@
       "time": "8:02 am",
       "artist": "Interpol",
       "title": "Wings On Fire"
+    },
+    {
+      "time": "8:06 am",
+      "artist": "Red PK",
+      "title": "Get Down"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "bar italia",
+      "title": "rooster",
+      "album": "Some Like It Hot • 2025"
+    },
     {
       "time": "7:45 am",
       "artist": "American Football",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Ambulance",
       "album": "Desperate Youth, Blood Thirsty Babes • 2004"
-    },
-    {
-      "time": "6:04 am",
-      "artist": "Queens of the Stone Age",
-      "title": "Easy Street",
-      "album": "• 2026"
     }
   ]
 }
