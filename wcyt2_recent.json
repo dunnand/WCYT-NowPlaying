@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T01:30:03",
+  "updatedAt": "2026-09-19T01:34:26",
   "now": {
-    "artist": "U2",
-    "title": "Stuck In A Moment You Can't Get Out Of",
-    "album": "All That You Can't Leave Behind • 2001",
+    "artist": "Syd Barrett",
+    "title": "Baby Lemonade",
+    "album": "Barrett • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:34 am",
-      "artist": "Syd Barrett",
-      "title": "Baby Lemonade"
-    },
     {
       "time": "1:38 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "1:45 am",
       "artist": "The Band",
       "title": "It Makes No Difference"
+    },
+    {
+      "time": "1:52 am",
+      "artist": "The Smashing Pumpkins",
+      "title": "Today"
     }
   ],
   "recent": [
+    {
+      "time": "1:34 am",
+      "artist": "Syd Barrett",
+      "title": "Baby Lemonade",
+      "album": "Barrett • 1970"
+    },
     {
       "time": "1:30 am",
       "artist": "U2",
@@ -172,12 +178,6 @@
       "artist": "System of a Down",
       "title": "Aerials",
       "album": "Toxicity • 2001"
-    },
-    {
-      "time": "12:00 am",
-      "artist": "One Direction",
-      "title": "Little Things",
-      "album": "Take Me Home • 2012"
     }
   ]
 }
