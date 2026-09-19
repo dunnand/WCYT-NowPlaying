@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T04:24:08",
+  "updatedAt": "2026-09-19T04:35:58",
   "now": {
-    "artist": "Jimi Hendrix",
-    "title": "Machine Gun",
-    "album": "Band of Gypsys • 1970",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Concrete Jungle",
+    "album": "Catch a Fire • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Concrete Jungle"
-    },
     {
       "time": "4:40 am",
       "artist": "Ugly Casanova",
@@ -26,9 +21,20 @@
       "time": "4:47 am",
       "artist": "Elton John",
       "title": "Saturday Night's Alright for Fighting"
+    },
+    {
+      "time": "4:52 am",
+      "artist": "Ride",
+      "title": "Kaleidoscope"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Concrete Jungle",
+      "album": "Catch a Fire • 1973"
+    },
     {
       "time": "4:24 am",
       "artist": "Jimi Hendrix",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Dreams",
       "album": "Desperate Youth, Blood Thirsty Babes • 2004"
-    },
-    {
-      "time": "2:47 am",
-      "artist": "Buddy Holly",
-      "title": "Words of Love",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
