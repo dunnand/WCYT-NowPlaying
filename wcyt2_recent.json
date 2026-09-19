@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T21:10:45",
+  "updatedAt": "2026-09-18T21:15:41",
   "now": {
     "artist": "Bob Dylan",
-    "title": "Shelter From the Storm",
-    "album": "Shelter From the Storm • 1975",
+    "title": "Boots of Spanish Leather",
+    "album": "The Times They Are A-Changin • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "Bob Dylan",
-      "title": "Boots of Spanish Leather"
-    },
     {
       "time": "9:20 pm",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "9:26 pm",
       "artist": "John Prine",
       "title": "Illegal Smile"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "Tina Turner",
+      "title": "I Don't Wanna Fight"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "Bob Dylan",
+      "title": "Boots of Spanish Leather",
+      "album": "The Times They Are A-Changin • 1964"
+    },
     {
       "time": "9:10 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Atlas Sound",
       "title": "Walkabout",
       "album": "Logos • 2009"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "The Fleetwoods",
-      "title": "Mr. Blue",
-      "album": "Mr. Blue • 1959"
     }
   ]
 }
