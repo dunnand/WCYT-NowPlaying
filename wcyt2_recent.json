@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T06:02:12",
+  "updatedAt": "2026-09-19T06:02:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Like a Rolling Stone",
+    "album": "Highway 61 Revisited • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:02 am",
-      "artist": "Bob Dylan",
-      "title": "Like a Rolling Stone"
-    },
     {
       "time": "6:08 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "6:17 am",
       "artist": "Belle and Sebastian",
       "title": "Is It Wicked Not to Care?"
+    },
+    {
+      "time": "6:20 am",
+      "artist": "Pixies",
+      "title": "Mr. Grieves"
     }
   ],
   "recent": [
+    {
+      "time": "6:02 am",
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "5:57 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "The Bandit",
       "album": "When You See Yourself • 2021"
-    },
-    {
-      "time": "4:15 am",
-      "artist": "Cameo",
-      "title": "Word Up",
-      "album": "Word Up! • 1986"
     }
   ]
 }
