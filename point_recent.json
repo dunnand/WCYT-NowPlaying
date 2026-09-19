@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T00:23:04",
+  "updatedAt": "2026-09-19T00:23:26",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beat Happening",
+    "title": "Cast a Shadow",
+    "album": "Black Candy • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:23 am",
-      "artist": "Beat Happening",
-      "title": "Cast a Shadow"
-    },
     {
       "time": "12:25 am",
       "artist": "Graham Hunt",
@@ -26,9 +21,20 @@
       "time": "12:33 am",
       "artist": "Eaves Wilder",
       "title": "Everybody Talks"
+    },
+    {
+      "time": "12:39 am",
+      "artist": "Parts & Labor",
+      "title": "Endless Cycle Pt. 3 - Better Run"
     }
   ],
   "recent": [
+    {
+      "time": "12:23 am",
+      "artist": "Beat Happening",
+      "title": "Cast a Shadow",
+      "album": "Black Candy • 1989"
+    },
     {
       "time": "12:18 am",
       "artist": "CAKE",
@@ -172,12 +178,6 @@
       "artist": "Bat for Lashes",
       "title": "What's a Girl to Do?",
       "album": "Fur & Gold • 2006"
-    },
-    {
-      "time": "10:52 pm",
-      "artist": "M83",
-      "title": "Do It, Try It",
-      "album": "Junk • 2016"
     }
   ]
 }
