@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-18T22:34:44",
+  "updatedAt": "2026-09-18T22:36:59",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Hotel Yorba",
-    "album": "White Blood Cells • 2002",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Photograph",
+    "album": "Weezer • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:36 pm",
-      "artist": "Weezer",
-      "title": "Photograph"
-    },
     {
       "time": "10:39 pm",
       "artist": "Prince",
@@ -26,9 +21,20 @@
       "time": "10:45 pm",
       "artist": "Ricky Martin",
       "title": "Livin' La Vida Loca"
+    },
+    {
+      "time": "10:49 pm",
+      "artist": "Prince",
+      "title": "I Could Never Take the Place of Your Man"
     }
   ],
   "recent": [
+    {
+      "time": "10:36 pm",
+      "artist": "Weezer",
+      "title": "Photograph",
+      "album": "Weezer • 2001"
+    },
     {
       "time": "10:34 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Haim",
       "title": "Now I'm In It",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "9:03 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Glory Days",
-      "album": "Born in the U.S.A. • 1985"
     }
   ]
 }
