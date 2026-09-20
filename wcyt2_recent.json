@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-20T05:47:13",
+  "updatedAt": "2026-09-20T05:51:00",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Warm Ways",
-    "album": "Fleetwood Mac • 1975",
+    "artist": "Radiohead",
+    "title": "My Iron Lung",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:50 am",
-      "artist": "Radiohead",
-      "title": "My Iron Lung"
-    },
     {
       "time": "5:55 am",
       "artist": "Archie Bleyer",
@@ -26,9 +21,20 @@
       "time": "6:02 am",
       "artist": "Bob Dylan",
       "title": "Like a Rolling Stone"
+    },
+    {
+      "time": "6:08 am",
+      "artist": "John Prine",
+      "title": "When I Get to Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "5:51 am",
+      "artist": "Radiohead",
+      "title": "My Iron Lung",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "5:47 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
       "album": "Whats the Story) Morning Glory? • 1995"
-    },
-    {
-      "time": "4:04 am",
-      "artist": "Nirvana.",
-      "title": "Something in the Way",
-      "album": "Nevermind • 1991"
     }
   ]
 }
