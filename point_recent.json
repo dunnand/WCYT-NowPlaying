@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T20:05:03",
+  "updatedAt": "2026-09-19T20:10:47",
   "now": {
-    "artist": "The Smiths",
-    "title": "Reel Around the Fountain",
-    "album": "The Smiths • 1984",
+    "artist": "Wire",
+    "title": "Eardrum Buzz",
+    "album": "Eardrum Buzz • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:10 pm",
-      "artist": "Wire",
-      "title": "Eardrum Buzz"
-    },
     {
       "time": "8:14 pm",
       "artist": "The Lemon Twigs",
@@ -21,9 +16,20 @@
       "time": "8:17 pm",
       "artist": "Andy Shauf",
       "title": "Spanish on the Beach"
+    },
+    {
+      "time": "8:19 pm",
+      "artist": "Khruangbin",
+      "title": "A Love International"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 pm",
+      "artist": "Wire",
+      "title": "Eardrum Buzz",
+      "album": "Eardrum Buzz • 1989"
+    },
     {
       "time": "8:05 pm",
       "artist": "The Smiths",
@@ -167,12 +173,6 @@
       "artist": "Andrew Bird",
       "title": "Roma Fade",
       "album": "Are You Serious • 2016"
-    },
-    {
-      "time": "6:22 pm",
-      "artist": "Fontaines D.C.",
-      "title": "Marianne",
-      "album": "Dopamine Chamber • 2026"
     }
   ]
 }
