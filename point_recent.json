@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-20T13:35:01",
+  "updatedAt": "2026-09-20T13:35:13",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This is Lorelei",
+    "title": "Oh No Now My",
+    "album": "Oh No Now My • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 pm",
-      "artist": "This is Lorelei",
-      "title": "Oh No Now My"
-    },
     {
       "time": "1:38 pm",
       "artist": "Phosphorescent",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:35 pm",
+      "artist": "This is Lorelei",
+      "title": "Oh No Now My",
+      "album": "Oh No Now My • 2026"
+    },
     {
       "time": "1:32 pm",
       "artist": "King Tuff",
@@ -172,12 +173,6 @@
       "artist": "Bad Bad Hats",
       "title": "Detroit Basketball",
       "album": "Walkman • 2021"
-    },
-    {
-      "time": "11:58 am",
-      "artist": "Nick Cave & The Bad Seeds",
-      "title": "Long Dark Night",
-      "album": "Wild God • 2024"
     }
   ]
 }
