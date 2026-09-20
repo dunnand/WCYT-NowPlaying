@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-20T15:05:05",
+  "updatedAt": "2026-09-20T15:10:11",
   "now": {
-    "artist": "Madonna",
-    "title": "Ray Of Light",
-    "album": "Ray of Light • 1998",
+    "artist": "Foo Fighters",
+    "title": "Wind Up",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:10 pm",
-      "artist": "Foo Fighters",
-      "title": "Wind Up"
-    },
     {
       "time": "3:12 pm",
       "artist": "Dream Academy",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:10 pm",
+      "artist": "Foo Fighters",
+      "title": "Wind Up",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "3:05 pm",
       "artist": "Madonna",
@@ -172,12 +173,6 @@
       "artist": "Rage Against the Machine",
       "title": "Renegades of Funk",
       "album": "Renegades • 2000"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "Johnny Williams",
-      "title": "Slow Motion (Part 1)",
-      "album": "Slow Motion • 1972"
     }
   ]
 }
