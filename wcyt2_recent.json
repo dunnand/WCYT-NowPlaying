@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-20T13:34:19",
+  "updatedAt": "2026-09-20T13:38:48",
   "now": {
-    "artist": "Rage Against the Machine",
-    "title": "Renegades of Funk",
-    "album": "Renegades • 2000",
+    "artist": "Buffalo Springfield",
+    "title": "Sit Down I Think I Love You",
+    "album": "Buffalo Springfield • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:38 pm",
-      "artist": "Buffalo Springfield",
-      "title": "Sit Down I Think I Love You"
-    },
     {
       "time": "1:41 pm",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "1:53 pm",
       "artist": "Lorde",
       "title": "The Louvre"
+    },
+    {
+      "time": "1:57 pm",
+      "artist": "R.E.M.",
+      "title": "Aftermath"
     }
   ],
   "recent": [
+    {
+      "time": "1:38 pm",
+      "artist": "Buffalo Springfield",
+      "title": "Sit Down I Think I Love You",
+      "album": "Buffalo Springfield • 1967"
+    },
     {
       "time": "1:34 pm",
       "artist": "Rage Against the Machine",
@@ -172,12 +178,6 @@
       "artist": "Passion Pit",
       "title": "Take A Walk",
       "album": "Gossamer • 2012"
-    },
-    {
-      "time": "11:57 am",
-      "artist": "Super Furry Animals",
-      "title": "Juxtapozed With U",
-      "album": "Rings Around the World • 2001"
     }
   ]
 }
