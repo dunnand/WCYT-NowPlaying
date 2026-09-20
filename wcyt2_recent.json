@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-19T20:11:21",
+  "updatedAt": "2026-09-19T20:15:18",
   "now": {
-    "artist": "The Beatles",
-    "title": "Let It Be",
-    "album": "Let It Be • 1970",
+    "artist": "Fela Kuti",
+    "title": "Upside Down",
+    "album": "Upside Down • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 pm",
-      "artist": "Fela Kuti",
-      "title": "Upside Down"
-    },
     {
       "time": "8:21 pm",
       "artist": "Tom Waits",
@@ -26,9 +21,20 @@
       "time": "8:30 pm",
       "artist": "Bee Gees",
       "title": "You Should Be Dancing"
+    },
+    {
+      "time": "8:34 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Everything Is"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 pm",
+      "artist": "Fela Kuti",
+      "title": "Upside Down",
+      "album": "Upside Down • 1976"
+    },
     {
       "time": "8:11 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Everything Hits at Once",
       "album": "Girls Can Tell • 2001"
-    },
-    {
-      "time": "6:37 pm",
-      "artist": "Coleman Hawkins",
-      "title": "La Rosita",
-      "album": "Coleman Hawkins Encounters Ben Webster • 1959"
     }
   ]
 }
