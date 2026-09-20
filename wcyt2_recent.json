@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-20T14:05:29",
+  "updatedAt": "2026-09-20T14:09:23",
   "now": {
-    "artist": "Pink",
-    "title": "Just Give Me A Reason",
-    "album": "The Truth About Love • 2012",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Coming Up Roses",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:09 pm",
-      "artist": "Elliott Smith",
-      "title": "Coming Up Roses"
-    },
     {
       "time": "2:12 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "2:21 pm",
       "artist": "Sonic Youth",
       "title": "The Sprawl"
+    },
+    {
+      "time": "2:29 pm",
+      "artist": "Kenji Yamamoto",
+      "title": "Famicom Tantei Club PART II: Ushiro ni Tatsu Shoujo (Staff Roll)"
     }
   ],
   "recent": [
+    {
+      "time": "2:09 pm",
+      "artist": "Elliott Smith",
+      "title": "Coming Up Roses",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "2:05 pm",
       "artist": "Pink",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "When Will I Be Loved",
       "album": "The Fabulous Style of The Everly Brothers • 1960"
-    },
-    {
-      "time": "12:24 pm",
-      "artist": "Steve Miller Band",
-      "title": "Swingtown",
-      "album": "Book of Dreams • 1977"
     }
   ]
 }
