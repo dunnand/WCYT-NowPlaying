@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-20T02:38:45",
+  "updatedAt": "2026-09-20T02:40:59",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Caroline No",
-    "album": "Pet Sounds • 1966",
+    "artist": "Three Dog Night",
+    "title": "An Old Fashioned Love Song",
+    "album": "Harmony • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 am",
-      "artist": "Three Dog Night",
-      "title": "An Old Fashioned Love Song"
-    },
     {
       "time": "2:44 am",
       "artist": "Throwing Muses",
@@ -26,9 +21,20 @@
       "time": "2:49 am",
       "artist": "TV on the Radio",
       "title": "Dreams"
+    },
+    {
+      "time": "2:54 am",
+      "artist": "Bob Dylan",
+      "title": "The Lonesome Death of Hattie Carroll"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 am",
+      "artist": "Three Dog Night",
+      "title": "An Old Fashioned Love Song",
+      "album": "Harmony • 1971"
+    },
     {
       "time": "2:38 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Speed Trials",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "1:08 am",
-      "artist": "FUN.",
-      "title": "We Are Young",
-      "album": "Some Nights • 2012"
     }
   ]
 }
