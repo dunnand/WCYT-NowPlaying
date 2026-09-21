@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T02:34:57",
+  "updatedAt": "2026-09-21T02:35:29",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "The Numbers",
+    "album": "A Moon Shaped Pool • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:35 am",
-      "artist": "Radiohead",
-      "title": "The Numbers"
-    },
     {
       "time": "2:41 am",
       "artist": "Big Thief",
@@ -26,9 +21,20 @@
       "time": "2:49 am",
       "artist": "Lala Lala",
       "title": "Even Mountains Erode"
+    },
+    {
+      "time": "2:52 am",
+      "artist": "Phoebe Bridgers",
+      "title": "I Can't Wait"
     }
   ],
   "recent": [
+    {
+      "time": "2:35 am",
+      "artist": "Radiohead",
+      "title": "The Numbers",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "2:31 am",
       "artist": "florence road",
@@ -172,12 +178,6 @@
       "artist": "Phoenix",
       "title": "Lisztomania",
       "album": "Wolfgang Amadeus Phoenix • 2009"
-    },
-    {
-      "time": "12:50 am",
-      "artist": "This is Lorelei",
-      "title": "Billy Came Back",
-      "album": "The Singer Is My Band • 2026"
     }
   ]
 }
