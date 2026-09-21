@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T19:10:11",
+  "updatedAt": "2026-09-21T19:10:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Surfin' U.S.A.",
+    "album": "Surfin' U.S.A. • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 pm",
-      "artist": "The Beach Boys",
-      "title": "Surfin' U.S.A."
-    },
     {
       "time": "7:12 pm",
       "artist": "Katy Perry",
@@ -26,9 +21,20 @@
       "time": "7:19 pm",
       "artist": "Wilco",
       "title": "Monday"
+    },
+    {
+      "time": "7:22 pm",
+      "artist": "Eddie Rabbitt",
+      "title": "Drivin' My Life Away"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 pm",
+      "artist": "The Beach Boys",
+      "title": "Surfin' U.S.A.",
+      "album": "Surfin' U.S.A. • 1963"
+    },
     {
       "time": "7:05 pm",
       "artist": "Rammstein",
@@ -172,12 +178,6 @@
       "artist": "Magdalena Bay",
       "title": "Cry for Me",
       "album": "Imaginal Disk • 2024"
-    },
-    {
-      "time": "5:36 pm",
-      "artist": "Rush",
-      "title": "The Spirit of Radio",
-      "album": "Permanent Waves • 1980"
     }
   ]
 }
