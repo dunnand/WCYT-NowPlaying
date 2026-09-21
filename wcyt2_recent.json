@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T12:00:39",
+  "updatedAt": "2026-09-21T12:00:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "An American Trilogy",
+    "album": "single • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 pm",
-      "artist": "Elvis Presley",
-      "title": "An American Trilogy"
-    },
     {
       "time": "12:05 pm",
       "artist": "Chet Atkins",
@@ -26,9 +21,20 @@
       "time": "12:09 pm",
       "artist": "Exciters",
       "title": "Tell Him"
+    },
+    {
+      "time": "12:12 pm",
+      "artist": "John Lennon",
+      "title": "#9 Dream"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 pm",
+      "artist": "Elvis Presley",
+      "title": "An American Trilogy",
+      "album": "single • 1972"
+    },
     {
       "time": "11:58 am",
       "artist": "Magdalena Bay",
@@ -172,12 +178,6 @@
       "artist": "Depeche Mode",
       "title": "Everything Counts",
       "album": "Construction Time Again • 1983"
-    },
-    {
-      "time": "10:13 am",
-      "artist": "Daniel Johnston",
-      "title": "Don't Let the Sun Go Down on Your Grievances",
-      "album": "Yip/Jump Music • 1983"
     }
   ]
 }
