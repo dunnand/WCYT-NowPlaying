@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T18:23:45",
+  "updatedAt": "2026-09-21T18:23:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "Turn it On",
+    "album": "Transmissions From The Satellite Heart • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:23 pm",
-      "artist": "The Flaming Lips",
-      "title": "Turn it On"
-    },
     {
       "time": "6:28 pm",
       "artist": "Guided by Voices",
@@ -26,9 +21,20 @@
       "time": "6:37 pm",
       "artist": "Bow Wow Wow",
       "title": "I Want Candy"
+    },
+    {
+      "time": "6:40 pm",
+      "artist": "Magdalena Bay",
+      "title": "All You Do"
     }
   ],
   "recent": [
+    {
+      "time": "6:23 pm",
+      "artist": "The Flaming Lips",
+      "title": "Turn it On",
+      "album": "Transmissions From The Satellite Heart • 1993"
+    },
     {
       "time": "6:20 pm",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "AC/DC",
       "title": "Highway to Hell",
       "album": "Highway to Hell • 1979"
-    },
-    {
-      "time": "4:47 pm",
-      "artist": "The Shins",
-      "title": "Caring Is Creepy",
-      "album": "Oh Inverted World • 2001"
     }
   ]
 }
