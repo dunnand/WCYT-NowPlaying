@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T12:00:49",
+  "updatedAt": "2026-09-21T12:05:05",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "An American Trilogy",
-    "album": "single • 1972",
+    "artist": "Chet Atkins",
+    "title": "Yakety, Axe",
+    "album": "More of That Guitar Country • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 pm",
-      "artist": "Chet Atkins",
-      "title": "Yakety, Axe"
-    },
     {
       "time": "12:07 pm",
       "artist": "Funkadelic",
@@ -26,9 +21,20 @@
       "time": "12:12 pm",
       "artist": "John Lennon",
       "title": "#9 Dream"
+    },
+    {
+      "time": "12:17 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Soma"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 pm",
+      "artist": "Chet Atkins",
+      "title": "Yakety, Axe",
+      "album": "More of That Guitar Country • 1965"
+    },
     {
       "time": "12:00 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "We Appreciate Power (feat. Hana)",
       "album": "Single •"
-    },
-    {
-      "time": "10:16 am",
-      "artist": "Depeche Mode",
-      "title": "Everything Counts",
-      "album": "Construction Time Again • 1983"
     }
   ]
 }
