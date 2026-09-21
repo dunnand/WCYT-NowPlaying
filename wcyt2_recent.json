@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T15:21:18",
+  "updatedAt": "2026-09-21T15:21:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Take Your Time",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:21 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time"
-    },
     {
       "time": "3:23 pm",
       "artist": "Red Hot Chili Peppers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:21 pm",
+      "artist": "Buddy Holly",
+      "title": "Take Your Time",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "3:18 pm",
       "artist": "Toad The Wet Sprocket",
@@ -172,12 +173,6 @@
       "artist": "Alan Parsons Project",
       "title": "Eye In The Sky",
       "album": "Eye in the Sky • 1982"
-    },
-    {
-      "time": "1:39 pm",
-      "artist": "Soul Asylum",
-      "title": "Runaway Train",
-      "album": "Grave Dancers Union • 1993"
     }
   ]
 }
