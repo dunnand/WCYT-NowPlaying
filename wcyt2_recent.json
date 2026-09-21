@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T16:08:02",
+  "updatedAt": "2026-09-21T16:13:05",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Cherub Rock",
-    "album": "Siamese Dream • 1993",
+    "artist": "Fats Domino",
+    "title": "Blueberry Hill",
+    "album": "This Is Fats Domino! • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:12 pm",
-      "artist": "Fats Domino",
-      "title": "Blueberry Hill"
-    },
     {
       "time": "4:15 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:23 pm",
       "artist": "Radiohead",
       "title": "Lotus Flower"
+    },
+    {
+      "time": "4:28 pm",
+      "artist": "The Magnetic Fields",
+      "title": "All the Umbrellas in London"
     }
   ],
   "recent": [
+    {
+      "time": "4:13 pm",
+      "artist": "Fats Domino",
+      "title": "Blueberry Hill",
+      "album": "This Is Fats Domino! • 1956"
+    },
     {
       "time": "4:08 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +178,6 @@
       "artist": "Echo & The Bunnymen",
       "title": "The Killing Moon",
       "album": "Ocean Rain • 1984"
-    },
-    {
-      "time": "2:38 pm",
-      "artist": "Tears For Fears",
-      "title": "Break It Down Again",
-      "album": "Elemental • 1993"
     }
   ]
 }
