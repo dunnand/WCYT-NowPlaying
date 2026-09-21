@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T15:52:21",
+  "updatedAt": "2026-09-21T15:52:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Doors",
+    "title": "Waiting for the Sun",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:52 pm",
-      "artist": "The Doors",
-      "title": "Waiting for the Sun"
-    },
     {
       "time": "3:56 pm",
       "artist": "Wire",
@@ -26,9 +21,20 @@
       "time": "4:02 pm",
       "artist": "Chubby Checker",
       "title": "Limbo Rock"
+    },
+    {
+      "time": "4:04 pm",
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive"
     }
   ],
   "recent": [
+    {
+      "time": "3:52 pm",
+      "artist": "The Doors",
+      "title": "Waiting for the Sun",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "3:48 pm",
       "artist": "Magdalena Bay",
@@ -172,12 +178,6 @@
       "artist": "Chordettes",
       "title": "Mr. Sandman",
       "album": "The Chordettes • 1957"
-    },
-    {
-      "time": "2:17 pm",
-      "artist": "Seatbelts",
-      "title": "Tank!",
-      "album": "Cowboy Bebop • 1998"
     }
   ]
 }
