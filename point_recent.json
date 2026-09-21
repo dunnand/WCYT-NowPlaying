@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T12:01:01",
+  "updatedAt": "2026-09-21T12:01:22",
   "now": {
-    "artist": "Legal ID 2026",
-    "title": "Legal ID",
+    "artist": "Beck",
+    "title": "Ride Lonesome",
     "album": "",
-    "category": "LEGAL"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "Beck",
-      "title": "Ride Lonesome"
-    },
     {
       "time": "12:05 pm",
       "artist": "Talk Talk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Beck",
+      "title": "Ride Lonesome",
+      "album": ""
+    },
     {
       "time": "11:57 am",
       "artist": "Boygenius",
@@ -172,12 +173,6 @@
       "artist": "Toro y Moi",
       "title": "New Beat",
       "album": "Under The Pine • 2011"
-    },
-    {
-      "time": "10:25 am",
-      "artist": "Arctic Monkeys",
-      "title": "Opening Night",
-      "album": "HELP2 • 2026"
     }
   ]
 }
