@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T15:34:04",
+  "updatedAt": "2026-09-21T15:34:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Ballad of Big Nothing",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:34 pm",
-      "artist": "Elliott Smith",
-      "title": "Ballad of Big Nothing"
-    },
     {
       "time": "3:36 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "3:44 pm",
       "artist": "Hall & Oates",
       "title": "Maneater"
+    },
+    {
+      "time": "3:48 pm",
+      "artist": "Magdalena Bay",
+      "title": "Image"
     }
   ],
   "recent": [
+    {
+      "time": "3:34 pm",
+      "artist": "Elliott Smith",
+      "title": "Ballad of Big Nothing",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "3:30 pm",
       "artist": "Lizzo",
@@ -172,12 +178,6 @@
       "artist": "Parliament",
       "title": "P. Funk (Wants to Get Funked Up)",
       "album": "Mothership Connection • 1975"
-    },
-    {
-      "time": "1:56 pm",
-      "artist": "Olivia Newton-John",
-      "title": "Please Mr. Please",
-      "album": "Have You Never Been Mellow • 1975"
     }
   ]
 }
