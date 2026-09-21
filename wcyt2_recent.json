@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T19:00:41",
+  "updatedAt": "2026-09-21T19:03:13",
   "now": {
-    "artist": "Sleater-Kinney",
-    "title": "Call The Doctor",
-    "album": "Call The Doctor • 1996",
-    "category": "TUNES"
+    "artist": "Ray Charles",
+    "title": "Lonely Avenue",
+    "album": "single • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:03 pm",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue"
-    },
     {
       "time": "7:05 pm",
       "artist": "Rammstein",
@@ -26,9 +21,20 @@
       "time": "7:12 pm",
       "artist": "Katy Perry",
       "title": "The One That Got Away"
+    },
+    {
+      "time": "7:16 pm",
+      "artist": "Sonic Youth",
+      "title": "Swimsuit Issue"
     }
   ],
   "recent": [
+    {
+      "time": "7:03 pm",
+      "artist": "Ray Charles",
+      "title": "Lonely Avenue",
+      "album": "single • 1956"
+    },
     {
       "time": "7:00 pm",
       "artist": "Sleater-Kinney",
@@ -172,12 +178,6 @@
       "artist": "The Replacements",
       "title": "Left of the Dial",
       "album": "Tim • 1985"
-    },
-    {
-      "time": "5:28 pm",
-      "artist": "R.E.M.",
-      "title": "Nightswimming",
-      "album": "Automatic for the People • 1992"
     }
   ]
 }
