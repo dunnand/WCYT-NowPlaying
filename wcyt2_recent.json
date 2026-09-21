@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T11:38:30",
+  "updatedAt": "2026-09-21T11:41:22",
   "now": {
-    "artist": "Justin Bieber",
-    "title": "Boyfriend",
-    "album": "Believe • 2012",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Bled White",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:41 am",
-      "artist": "Elliott Smith",
-      "title": "Bled White"
-    },
     {
       "time": "11:44 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "11:55 am",
       "artist": "R.E.M.",
       "title": "These Days"
+    },
+    {
+      "time": "11:58 am",
+      "artist": "Magdalena Bay",
+      "title": "Top Dog"
     }
   ],
   "recent": [
+    {
+      "time": "11:41 am",
+      "artist": "Elliott Smith",
+      "title": "Bled White",
+      "album": "XO • 1998"
+    },
     {
       "time": "11:38 am",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "Dusty Springfield",
       "title": "The Look Of Love",
       "album": "Casino Royale Soundtrack • 1967"
-    },
-    {
-      "time": "9:50 am",
-      "artist": "Sun Kil Moon",
-      "title": "Carry Me Ohio",
-      "album": "Ghosts of the Great Highway • 2003"
     }
   ]
 }
