@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T15:52:33",
+  "updatedAt": "2026-09-21T15:56:29",
   "now": {
-    "artist": "The Doors",
-    "title": "Waiting for the Sun",
-    "album": "Morrison Hotel • 1970",
+    "artist": "Wire",
+    "title": "Strange",
+    "album": "Pink Flag • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:56 pm",
-      "artist": "Wire",
-      "title": "Strange"
-    },
     {
       "time": "4:00 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "4:04 pm",
       "artist": "Gloria Gaynor",
       "title": "I Will Survive"
+    },
+    {
+      "time": "4:08 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Cherub Rock"
     }
   ],
   "recent": [
+    {
+      "time": "3:56 pm",
+      "artist": "Wire",
+      "title": "Strange",
+      "album": "Pink Flag • 1977"
+    },
     {
       "time": "3:52 pm",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Handshake Drugs",
       "album": "A Ghost Is Born • 2004"
-    },
-    {
-      "time": "2:20 pm",
-      "artist": "Chordettes",
-      "title": "Mr. Sandman",
-      "album": "The Chordettes • 1957"
     }
   ]
 }
