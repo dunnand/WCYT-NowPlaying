@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T16:13:05",
+  "updatedAt": "2026-09-21T16:15:18",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blueberry Hill",
-    "album": "This Is Fats Domino! • 1956",
+    "artist": "Radiohead",
+    "title": "Dollars and Cents",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 pm",
-      "artist": "Radiohead",
-      "title": "Dollars and Cents"
-    },
     {
       "time": "4:20 pm",
       "artist": "Jeannie C. Riley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:15 pm",
+      "artist": "Radiohead",
+      "title": "Dollars and Cents",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "4:13 pm",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "Fleetwood Mac",
       "title": "That's Alright",
       "album": "Mirage • 1982"
-    },
-    {
-      "time": "2:42 pm",
-      "artist": "Echo & The Bunnymen",
-      "title": "The Killing Moon",
-      "album": "Ocean Rain • 1984"
     }
   ]
 }
