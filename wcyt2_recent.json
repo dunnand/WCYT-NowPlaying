@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T16:51:04",
+  "updatedAt": "2026-09-21T16:51:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "AC/DC",
+    "title": "Highway to Hell",
+    "album": "Highway to Hell • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:51 pm",
-      "artist": "AC/DC",
-      "title": "Highway to Hell"
-    },
     {
       "time": "4:54 pm",
       "artist": "The Shins",
@@ -31,9 +26,20 @@
       "time": "5:07 pm",
       "artist": "Tom Cochrane",
       "title": "Life Is A Highway"
+    },
+    {
+      "time": "5:11 pm",
+      "artist": "Wilbert Harrison",
+      "title": "Kansas City"
     }
   ],
   "recent": [
+    {
+      "time": "4:51 pm",
+      "artist": "AC/DC",
+      "title": "Highway to Hell",
+      "album": "Highway to Hell • 1979"
+    },
     {
       "time": "4:47 pm",
       "artist": "The Shins",
@@ -177,12 +183,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Dani California",
       "album": "Stadium Arcadium • 2006"
-    },
-    {
-      "time": "3:21 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
