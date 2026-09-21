@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T18:55:20",
+  "updatedAt": "2026-09-21T18:57:22",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "I'm Gonna Get a Gun",
-    "album": "Matthew and Son • 1967",
+    "artist": "Captain & Tennille",
+    "title": "Shop Around",
+    "album": "Song of Joy • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:57 pm",
-      "artist": "Captain & Tennille",
-      "title": "Shop Around"
-    },
     {
       "time": "7:00 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "7:05 pm",
       "artist": "Rammstein",
       "title": "Sonne"
+    },
+    {
+      "time": "7:10 pm",
+      "artist": "The Beach Boys",
+      "title": "Surfin' U.S.A."
     }
   ],
   "recent": [
+    {
+      "time": "6:57 pm",
+      "artist": "Captain & Tennille",
+      "title": "Shop Around",
+      "album": "Song of Joy • 1976"
+    },
     {
       "time": "6:55 pm",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Airbag",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "5:20 pm",
-      "artist": "J. Cole",
-      "title": "Can't Get Enough feat. Trey Songz",
-      "album": "Cole World: The Sideline Story • 2011"
     }
   ]
 }
