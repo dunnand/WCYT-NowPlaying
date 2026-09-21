@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T14:10:51",
+  "updatedAt": "2026-09-21T14:13:33",
   "now": {
-    "artist": "Archies",
-    "title": "Sugar, Sugar",
-    "album": "single • 1969",
+    "artist": "Paul McCartney",
+    "title": "Maybe I'm Amazed",
+    "album": "McCartney • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:13 pm",
-      "artist": "Paul McCartney",
-      "title": "Maybe I'm Amazed"
-    },
     {
       "time": "2:17 pm",
       "artist": "Seatbelts",
@@ -26,9 +21,20 @@
       "time": "2:23 pm",
       "artist": "Wilco",
       "title": "Handshake Drugs"
+    },
+    {
+      "time": "2:28 pm",
+      "artist": "Cliff Nobles & Co.",
+      "title": "The Horse"
     }
   ],
   "recent": [
+    {
+      "time": "2:13 pm",
+      "artist": "Paul McCartney",
+      "title": "Maybe I'm Amazed",
+      "album": "McCartney • 1970"
+    },
     {
       "time": "2:10 pm",
       "artist": "Archies",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Street Spirit (Fade Out)",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "12:35 pm",
-      "artist": "JAY-Z",
-      "title": "Paris feat. Kanye West",
-      "album": "Watch the Throne • 2011"
     }
   ]
 }
