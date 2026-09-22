@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T01:07:19",
+  "updatedAt": "2026-09-22T01:07:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Wilco",
+    "title": "You And I",
+    "album": "Wilco • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 am",
-      "artist": "Wilco",
-      "title": "You And I"
-    },
     {
       "time": "1:10 am",
       "artist": "Rogue Wave",
@@ -26,9 +21,20 @@
       "time": "1:18 am",
       "artist": "Cocteau Twins",
       "title": "Cherry-Coloured Funk"
+    },
+    {
+      "time": "1:21 am",
+      "artist": "Coolio",
+      "title": "Fantastic Voyage"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 am",
+      "artist": "Wilco",
+      "title": "You And I",
+      "album": "Wilco • 2009"
+    },
     {
       "time": "1:02 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Chiffons",
       "title": "He's So Fine",
       "album": "The Chiffons • 1963"
-    },
-    {
-      "time": "11:32 pm",
-      "artist": "Labi Siffre",
-      "title": "It Must Be Love",
-      "album": "Crying Laughing Loving Lying • 1972"
     }
   ]
 }
