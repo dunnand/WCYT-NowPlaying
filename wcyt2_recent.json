@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T20:02:37",
+  "updatedAt": "2026-09-21T20:08:55",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Last Days of Disco",
-    "album": "And Then Nothing Turned Itself Inside • 2000",
-    "category": "TUNES"
+    "artist": "Gerry & The Pacemakers",
+    "title": "Ferry Cross The Mersey",
+    "album": "Ferry Cross the Mersey • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 pm",
-      "artist": "Gerry & The Pacemakers",
-      "title": "Ferry Cross The Mersey"
-    },
     {
       "time": "8:11 pm",
       "artist": "Lady Gaga",
@@ -21,9 +16,25 @@
       "time": "8:14 pm",
       "artist": "Green Day",
       "title": "Nice Guys Finish Last"
+    },
+    {
+      "time": "8:17 pm",
+      "artist": "The Breeders",
+      "title": "Cannonball"
+    },
+    {
+      "time": "8:20 pm",
+      "artist": "Bronski Beat",
+      "title": "Smalltown Boy"
     }
   ],
   "recent": [
+    {
+      "time": "8:08 pm",
+      "artist": "Gerry & The Pacemakers",
+      "title": "Ferry Cross The Mersey",
+      "album": "Ferry Cross the Mersey • 1965"
+    },
     {
       "time": "8:02 pm",
       "artist": "Yo La Tengo",
@@ -167,12 +178,6 @@
       "artist": "Magdalena Bay",
       "title": "All You Do",
       "album": "Mecurial World (Deluxe) • 2022"
-    },
-    {
-      "time": "6:37 pm",
-      "artist": "Bow Wow Wow",
-      "title": "I Want Candy",
-      "album": "I Want Candy • 1982"
     }
   ]
 }
