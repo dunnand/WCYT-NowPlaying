@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T05:37:09",
+  "updatedAt": "2026-09-22T05:37:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Antenna",
+    "album": "The Eternal • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:37 am",
-      "artist": "Sonic Youth",
-      "title": "Antenna"
-    },
     {
       "time": "5:43 am",
       "artist": "Bobby Vinton",
@@ -26,9 +21,20 @@
       "time": "5:52 am",
       "artist": "Fiona Apple",
       "title": "Criminal"
+    },
+    {
+      "time": "5:57 am",
+      "artist": "Paul Anka",
+      "title": "Put Your Head On My Shoulder"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 am",
+      "artist": "Sonic Youth",
+      "title": "Antenna",
+      "album": "The Eternal • 2009"
+    },
     {
       "time": "5:33 am",
       "artist": "Commodores",
@@ -172,12 +178,6 @@
       "artist": "Eddie Holman",
       "title": "Hey There Lonely Girl",
       "album": "I Love You • 1969"
-    },
-    {
-      "time": "4:03 am",
-      "artist": "Spoon",
-      "title": "Anything You Want",
-      "album": "Girls Can Tell • 2002"
     }
   ]
 }
