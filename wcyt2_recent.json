@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T17:35:52",
+  "updatedAt": "2026-09-22T17:36:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Yesterday Once More",
+    "album": "Now and Then • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 pm",
-      "artist": "The Carpenters",
-      "title": "Yesterday Once More"
-    },
     {
       "time": "5:39 pm",
       "artist": "Sam Cooke",
@@ -26,9 +21,20 @@
       "time": "5:48 pm",
       "artist": "Otis Redding",
       "title": "Pain in My Heart"
+    },
+    {
+      "time": "5:50 pm",
+      "artist": "Steely Dan",
+      "title": "My Old School"
     }
   ],
   "recent": [
+    {
+      "time": "5:36 pm",
+      "artist": "The Carpenters",
+      "title": "Yesterday Once More",
+      "album": "Now and Then • 1973"
+    },
     {
       "time": "5:32 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Kingston Trio",
       "title": "Tom Dooley",
       "album": "Tom Dooley • 1958"
-    },
-    {
-      "time": "4:00 pm",
-      "artist": "Paul Simon",
-      "title": "The Coast",
-      "album": "The Rhythm of the Saints • 1990"
     }
   ]
 }
