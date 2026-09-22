@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T12:57:30",
+  "updatedAt": "2026-09-22T12:57:40",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "beabadoobee",
+    "title": "Switchblade",
+    "album": "Pylon • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:57 pm",
-      "artist": "beabadoobee",
-      "title": "Switchblade"
-    },
     {
       "time": "1:00 pm",
       "artist": "Built to Spill",
@@ -26,9 +21,20 @@
       "time": "1:05 pm",
       "artist": "Alabama Shakes",
       "title": "Garden"
+    },
+    {
+      "time": "1:10 pm",
+      "artist": "Fontaines D.C.",
+      "title": "Liberty Belle"
     }
   ],
   "recent": [
+    {
+      "time": "12:57 pm",
+      "artist": "beabadoobee",
+      "title": "Switchblade",
+      "album": "Pylon • 2026"
+    },
     {
       "time": "12:55 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Graham Hunt",
       "title": "Guardian Angel's Arms",
       "album": "American Pyramid • 2026"
-    },
-    {
-      "time": "11:11 am",
-      "artist": "Radiohead",
-      "title": "There There",
-      "album": "Hail to the Thief • 2003"
     }
   ]
 }
