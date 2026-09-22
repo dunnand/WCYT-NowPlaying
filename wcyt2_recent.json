@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T13:28:34",
+  "updatedAt": "2026-09-22T13:31:57",
   "now": {
-    "artist": "Queen",
-    "title": "Play The Game",
-    "album": "The Game • 1980",
+    "artist": "Olivia Rodrigo",
+    "title": "Can’t Catch Me Now",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:31 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "Can’t Catch Me Now"
-    },
     {
       "time": "1:35 pm",
       "artist": "Sugarloaf",
@@ -21,9 +16,20 @@
       "time": "1:38 pm",
       "artist": "Rolling Stones",
       "title": "Mother's Little Helper"
+    },
+    {
+      "time": "1:41 pm",
+      "artist": "Led Zeppelin",
+      "title": "Misty Mountain Hop"
     }
   ],
   "recent": [
+    {
+      "time": "1:31 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "Can’t Catch Me Now",
+      "album": ""
+    },
     {
       "time": "1:28 pm",
       "artist": "Queen",
@@ -167,12 +173,6 @@
       "artist": "Megadeth",
       "title": "Symphony of Destruction",
       "album": "Countdown to Exinction • 1992"
-    },
-    {
-      "time": "11:49 am",
-      "artist": "Stevie Wonder",
-      "title": "Superstition",
-      "album": "Talking Book • 1973"
     }
   ]
 }
