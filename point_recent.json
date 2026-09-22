@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T07:04:42",
+  "updatedAt": "2026-09-22T07:07:49",
   "now": {
-    "artist": "Smith Westerns",
-    "title": "Be My Girl",
-    "album": "Smith Westerns • 2008",
+    "artist": "Elastica",
+    "title": "Vaseline",
+    "album": "Elastica • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:07 am",
-      "artist": "Elastica",
-      "title": "Vaseline"
-    },
     {
       "time": "7:09 am",
       "artist": "Minutemen",
@@ -31,9 +26,20 @@
       "time": "7:19 am",
       "artist": "Nick Cave & The Bad Seeds",
       "title": "The Mercy Seat"
+    },
+    {
+      "time": "7:26 am",
+      "artist": "Sylvan Esso",
+      "title": "Sledge"
     }
   ],
   "recent": [
+    {
+      "time": "7:07 am",
+      "artist": "Elastica",
+      "title": "Vaseline",
+      "album": "Elastica • 1995"
+    },
     {
       "time": "7:04 am",
       "artist": "Smith Westerns",
@@ -177,12 +183,6 @@
       "artist": "Future Islands",
       "title": "Cave",
       "album": "The Far Field • 2017"
-    },
-    {
-      "time": "5:26 am",
-      "artist": "mary in the junkyard",
-      "title": "Myrtle",
-      "album": "Role Model Hermit • 2026"
     }
   ]
 }
