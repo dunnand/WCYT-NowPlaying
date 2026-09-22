@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T14:41:10",
+  "updatedAt": "2026-09-22T14:44:03",
   "now": {
-    "artist": "Sabrina Carpenter",
-    "title": "Espresso",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Starman",
+    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:44 pm",
-      "artist": "David Bowie",
-      "title": "Starman"
-    },
     {
       "time": "2:48 pm",
       "artist": "Fleetwood Mac",
@@ -21,9 +16,25 @@
       "time": "2:53 pm",
       "artist": "U2",
       "title": "All Because Of You"
+    },
+    {
+      "time": "2:56 pm",
+      "artist": "Righteous Brothers",
+      "title": "(You're My) Soul And Inspiration"
+    },
+    {
+      "time": "2:59 pm",
+      "artist": "Robert Palmer",
+      "title": "Bad Case Of Loving You"
     }
   ],
   "recent": [
+    {
+      "time": "2:44 pm",
+      "artist": "David Bowie",
+      "title": "Starman",
+      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
+    },
     {
       "time": "2:41 pm",
       "artist": "Sabrina Carpenter",
@@ -167,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Saturnz Barz feat. Popcaan",
       "album": "Humanz • 2017"
-    },
-    {
-      "time": "12:58 pm",
-      "artist": "Mojave 3",
-      "title": "Who Do You Love",
-      "album": "Out of Tune • 1998"
     }
   ]
 }
