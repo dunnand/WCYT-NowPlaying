@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T19:56:35",
+  "updatedAt": "2026-09-21T20:00:00",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Did I Tell You",
-    "album": "Fakebook • 1990",
-    "category": "TUNES"
+    "artist": "Bo Diddley",
+    "title": "I'm A Man",
+    "album": "Bo Diddley • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:59 pm",
-      "artist": "Bo Diddley",
-      "title": "I'm A Man"
-    },
     {
       "time": "8:02 pm",
       "artist": "Yo La Tengo",
@@ -26,9 +21,20 @@
       "time": "8:11 pm",
       "artist": "Lady Gaga",
       "title": "Million Reasons"
+    },
+    {
+      "time": "8:14 pm",
+      "artist": "Green Day",
+      "title": "Nice Guys Finish Last"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "Bo Diddley",
+      "title": "I'm A Man",
+      "album": "Bo Diddley • 1958"
+    },
     {
       "time": "7:56 pm",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "New Year's Day",
       "album": "War • 1983"
-    },
-    {
-      "time": "6:28 pm",
-      "artist": "Guided by Voices",
-      "title": "Everybody Thinks I'm a Rainclo",
-      "album": "Half Smiles of the Decomposed • 1994"
     }
   ]
 }
