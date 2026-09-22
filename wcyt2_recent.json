@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T23:53:11",
+  "updatedAt": "2026-09-21T23:55:44",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Folsom Prison Blues",
-    "album": "Folsom Prison Blues • 1955",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "So Says I",
+    "album": "Chutes Too Narrow • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:55 pm",
-      "artist": "The Shins",
-      "title": "So Says I"
-    },
     {
       "time": "11:58 pm",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "12:04 am",
       "artist": "OK Go",
       "title": "This Too Shall Pass"
+    },
+    {
+      "time": "12:07 am",
+      "artist": "Foo Fighters",
+      "title": "Up in Arms"
     }
   ],
   "recent": [
+    {
+      "time": "11:55 pm",
+      "artist": "The Shins",
+      "title": "So Says I",
+      "album": "Chutes Too Narrow • 2003"
+    },
     {
       "time": "11:53 pm",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Madonna",
       "title": "Like A Prayer",
       "album": "Like a Prayer • 1989"
-    },
-    {
-      "time": "10:20 pm",
-      "artist": "Adam Ant",
-      "title": "Goody Two Shoes",
-      "album": "Friend or Foe • 1982"
     }
   ]
 }
