@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T00:53:03",
+  "updatedAt": "2026-09-22T00:55:18",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "(You're The) Devil In Disguise",
-    "album": "single • 1963",
+    "artist": "ABBA",
+    "title": "Dancing Queen",
+    "album": "Arrival • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "ABBA",
-      "title": "Dancing Queen"
-    },
     {
       "time": "12:59 am",
       "artist": "Celine Dion",
@@ -26,9 +21,20 @@
       "time": "1:07 am",
       "artist": "Wilco",
       "title": "You And I"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Rogue Wave",
+      "title": "Kicking The Heart Out"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "ABBA",
+      "title": "Dancing Queen",
+      "album": "Arrival • 1977"
+    },
     {
       "time": "12:53 am",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "George Thorogood & The Destroyers",
       "title": "Bad To The Bone",
       "album": "Bad to the Bone • 1982"
-    },
-    {
-      "time": "11:20 pm",
-      "artist": "Dazz Band",
-      "title": "Let It Whip",
-      "album": "Keep It Live • 1982"
     }
   ]
 }
