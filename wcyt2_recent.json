@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T17:36:04",
+  "updatedAt": "2026-09-22T17:39:48",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Yesterday Once More",
-    "album": "Now and Then • 1973",
+    "artist": "Sam Cooke",
+    "title": "Chain Gang",
+    "album": "Swing Low • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:39 pm",
-      "artist": "Sam Cooke",
-      "title": "Chain Gang"
-    },
     {
       "time": "5:42 pm",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "5:50 pm",
       "artist": "Steely Dan",
       "title": "My Old School"
+    },
+    {
+      "time": "5:56 pm",
+      "artist": "Queen",
+      "title": "Innuendo"
     }
   ],
   "recent": [
+    {
+      "time": "5:39 pm",
+      "artist": "Sam Cooke",
+      "title": "Chain Gang",
+      "album": "Swing Low • 1961"
+    },
     {
       "time": "5:36 pm",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Lines in the Suit",
       "album": "Girls Can Tell • 2002"
-    },
-    {
-      "time": "4:05 pm",
-      "artist": "Kingston Trio",
-      "title": "Tom Dooley",
-      "album": "Tom Dooley • 1958"
     }
   ]
 }
