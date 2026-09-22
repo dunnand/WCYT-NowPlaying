@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T12:35:26",
+  "updatedAt": "2026-09-22T12:39:53",
   "now": {
-    "artist": "T. Rex",
-    "title": "Bang A Gong (Get It On)",
-    "album": "Electric Warrior • 1972",
+    "artist": "The Beatles",
+    "title": "Any Time At All",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 pm",
-      "artist": "The Beatles",
-      "title": "Any Time At All"
-    },
     {
       "time": "12:42 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "12:51 pm",
       "artist": "Queen",
       "title": "The March of the Black Queen"
+    },
+    {
+      "time": "12:58 pm",
+      "artist": "Mojave 3",
+      "title": "Who Do You Love"
     }
   ],
   "recent": [
+    {
+      "time": "12:39 pm",
+      "artist": "The Beatles",
+      "title": "Any Time At All",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "12:35 pm",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "Songs Ohia",
       "title": "Blue Chicago Moon",
       "album": "Didn't It Rain • 2002"
-    },
-    {
-      "time": "10:57 am",
-      "artist": "Radiohead",
-      "title": "Feral",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
