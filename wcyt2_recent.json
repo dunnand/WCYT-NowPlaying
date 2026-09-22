@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T11:42:51",
+  "updatedAt": "2026-09-22T11:47:03",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Beast Of Burden",
-    "album": "Some Girls • 1978",
+    "artist": "Roy Orbison",
+    "title": "It's Over",
+    "album": "Orbisongs • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 am",
-      "artist": "Roy Orbison",
-      "title": "It's Over"
-    },
     {
       "time": "11:49 am",
       "artist": "Stevie Wonder",
@@ -26,9 +21,20 @@
       "time": "11:57 am",
       "artist": "Joey Bad",
       "title": "Waves"
+    },
+    {
+      "time": "12:01 pm",
+      "artist": "Songs Ohia",
+      "title": "The Black Crow"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 am",
+      "artist": "Roy Orbison",
+      "title": "It's Over",
+      "album": "Orbisongs • 1965"
+    },
     {
       "time": "11:42 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "Kendrick Lamar",
       "title": "King Kunta",
       "album": "To Pimp a Butterfly • 2015"
-    },
-    {
-      "time": "10:02 am",
-      "artist": "Neil Diamond",
-      "title": "Sweet Caroline",
-      "album": "single • 1969"
     }
   ]
 }
