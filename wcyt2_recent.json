@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-09-22T05:17:52",
+  "updatedAt": "2026-09-22T05:23:36",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Love In An Elevator",
-    "album": "Pump • 1989",
+    "artist": "Beastie Boys",
+    "title": "No Sleep Till Brooklyn",
+    "album": "Licensed to Ill • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "5:23 am",
-      "artist": "Aerosmith",
-      "title": "Love In An Elevator"
-    },
-    {
-      "time": "5:29 am",
-      "artist": "Beastie Boys",
-      "title": "No Sleep Till Brooklyn"
-    },
-    {
-      "time": "5:33 am",
+      "time": "5:27 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Dig, Lazarus, Dig!!!"
     },
     {
-      "time": "5:37 am",
+      "time": "5:32 am",
       "artist": "Cat Stevens",
       "title": "The Wind"
+    },
+    {
+      "time": "5:33 am",
+      "artist": "Commodores",
+      "title": "Three Times A Lady"
     }
   ],
   "recent": [
+    {
+      "time": "5:23 am",
+      "artist": "Beastie Boys",
+      "title": "No Sleep Till Brooklyn",
+      "album": "Licensed to Ill • 1986"
+    },
     {
       "time": "5:17 am",
       "artist": "Aerosmith",
@@ -172,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "All I Wanna Do",
       "album": "Sunflower • 1970"
-    },
-    {
-      "time": "3:47 am",
-      "artist": "Bob Dylan",
-      "title": "Chimes of Freedom",
-      "album": "Chimes of Freedom • 1964"
     }
   ]
 }
