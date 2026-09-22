@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T21:16:42",
+  "updatedAt": "2026-09-21T21:16:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "It's Oh So Quiet",
+    "album": "Post • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:16 pm",
-      "artist": "Bjork",
-      "title": "It's Oh So Quiet"
-    },
     {
       "time": "9:20 pm",
       "artist": "Frankie Goes To Hollywood",
@@ -26,9 +21,20 @@
       "time": "9:29 pm",
       "artist": "HAIM",
       "title": "The Steps"
+    },
+    {
+      "time": "9:34 pm",
+      "artist": "St. Vincent",
+      "title": "The Strangers"
     }
   ],
   "recent": [
+    {
+      "time": "9:16 pm",
+      "artist": "Bjork",
+      "title": "It's Oh So Quiet",
+      "album": "Post • 1995"
+    },
     {
       "time": "9:11 pm",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "Ween",
       "title": "Tried and True",
       "album": "Quebec • 2003"
-    },
-    {
-      "time": "7:38 pm",
-      "artist": "Carole King",
-      "title": "It's Too Late",
-      "album": "Tapestry • 1971"
     }
   ]
 }
