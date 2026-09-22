@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T01:00:39",
+  "updatedAt": "2026-09-22T01:01:10",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Neutral Milk Hotel",
+    "title": "Everything Is",
+    "album": "Everything Is • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Everything Is"
-    },
     {
       "time": "1:04 am",
       "artist": "The Jesus and Mary Chain",
@@ -31,9 +26,20 @@
       "time": "1:14 am",
       "artist": "Graham Hunt",
       "title": "Guardian Angel's Arms"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "Interpol",
+      "title": "Wings On Fire"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Everything Is",
+      "album": "Everything Is • 1994"
+    },
     {
       "time": "12:56 am",
       "artist": "mary in the junkyard",
@@ -177,12 +183,6 @@
       "artist": "Beach House",
       "title": "Lover of Mine",
       "album": "Teen Dream • 2010"
-    },
-    {
-      "time": "11:23 pm",
-      "artist": "Deep Sea Diver",
-      "title": "Teardrop",
-      "album": "• 2026"
     }
   ]
 }
