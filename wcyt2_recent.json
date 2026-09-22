@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T20:44:41",
+  "updatedAt": "2026-09-21T20:48:44",
   "now": {
-    "artist": "Radiohead",
-    "title": "Morning Mr. Magpie",
-    "album": "The King of Limbs • 2011",
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "album": "Jolene • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 pm",
-      "artist": "Dolly Parton",
-      "title": "Jolene"
-    },
     {
       "time": "8:51 pm",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "9:00 pm",
       "artist": "The White Stripes",
       "title": "Black Math"
+    },
+    {
+      "time": "9:03 pm",
+      "artist": "Herman's Hermits",
+      "title": "Mrs. Brown You've Got A Lovely Daughter"
     }
   ],
   "recent": [
+    {
+      "time": "8:48 pm",
+      "artist": "Dolly Parton",
+      "title": "Jolene",
+      "album": "Jolene • 1974"
+    },
     {
       "time": "8:44 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Sonic Youth",
       "title": "Swimsuit Issue",
       "album": "Dirty • 1992"
-    },
-    {
-      "time": "7:12 pm",
-      "artist": "Katy Perry",
-      "title": "The One That Got Away",
-      "album": "Teenage Dream • 2010"
     }
   ]
 }
