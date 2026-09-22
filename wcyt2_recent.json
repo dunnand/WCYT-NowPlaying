@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T17:14:18",
+  "updatedAt": "2026-09-22T17:18:33",
   "now": {
-    "artist": "Portishead",
-    "title": "It Could Be Sweet",
-    "album": "Dummy • 1994",
+    "artist": "Pulp",
+    "title": "This.Is.Hardcore",
+    "album": "This Is Hardcore • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:18 pm",
-      "artist": "Pulp",
-      "title": "This.Is.Hardcore"
-    },
     {
       "time": "5:24 pm",
       "artist": "Eric Carmen",
@@ -23,12 +18,18 @@
       "title": "Din daa daa"
     },
     {
-      "time": "5:33 pm",
+      "time": "5:32 pm",
       "artist": "Taylor Swift",
       "title": "I Knew It, I Knew You"
     }
   ],
   "recent": [
+    {
+      "time": "5:18 pm",
+      "artist": "Pulp",
+      "title": "This.Is.Hardcore",
+      "album": "This Is Hardcore • 1998"
+    },
     {
       "time": "5:14 pm",
       "artist": "Portishead",
@@ -172,12 +173,6 @@
       "artist": "Eagles",
       "title": "Desperado",
       "album": "Desperado • 1973"
-    },
-    {
-      "time": "3:47 pm",
-      "artist": "Petula Clark",
-      "title": "Downtown",
-      "album": "Downtown • 1965"
     }
   ]
 }
