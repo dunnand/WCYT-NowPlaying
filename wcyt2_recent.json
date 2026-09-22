@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T12:11:36",
+  "updatedAt": "2026-09-22T12:15:38",
   "now": {
-    "artist": "Gotye",
-    "title": "Somebody That I Used To Know",
-    "album": "Making Mirrors • 2011",
+    "artist": "Melissa Etheridge",
+    "title": "I'm The Only One",
+    "album": "Yes I Am • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 pm",
-      "artist": "Melissa Etheridge",
-      "title": "I'm The Only One"
-    },
     {
       "time": "12:19 pm",
       "artist": "Misfits",
@@ -26,9 +21,20 @@
       "time": "12:25 pm",
       "artist": "Prince",
       "title": "Sign 'O' the Times"
+    },
+    {
+      "time": "12:30 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "the cure"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 pm",
+      "artist": "Melissa Etheridge",
+      "title": "I'm The Only One",
+      "album": "Yes I Am • 1994"
+    },
     {
       "time": "12:11 pm",
       "artist": "Gotye",
@@ -172,12 +178,6 @@
       "artist": "Neil Young",
       "title": "Don't Let It Bring You Down",
       "album": "After the Gold Rush • 1970"
-    },
-    {
-      "time": "10:33 am",
-      "artist": "Pure Prairie League",
-      "title": "Amie",
-      "album": "Bustin Out • 1975"
     }
   ]
 }
