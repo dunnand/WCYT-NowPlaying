@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T23:38:01",
+  "updatedAt": "2026-09-21T23:43:06",
   "now": {
-    "artist": "Leonard Cohen",
-    "title": "Famous Blue Raincoat",
-    "album": "Songs of Love and Hate • 1971",
+    "artist": "Bob Dylan",
+    "title": "All Along the Watchtower",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:43 pm",
-      "artist": "Bob Dylan",
-      "title": "All Along the Watchtower"
-    },
     {
       "time": "11:45 pm",
       "artist": "Little River Band",
@@ -26,9 +21,20 @@
       "time": "11:53 pm",
       "artist": "Johnny Cash",
       "title": "Folsom Prison Blues"
+    },
+    {
+      "time": "11:55 pm",
+      "artist": "The Shins",
+      "title": "So Says I"
     }
   ],
   "recent": [
+    {
+      "time": "11:43 pm",
+      "artist": "Bob Dylan",
+      "title": "All Along the Watchtower",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "11:38 pm",
       "artist": "Leonard Cohen",
@@ -172,12 +178,6 @@
       "artist": "Maggie Rogers",
       "title": "On + Off",
       "album": "Heard It in a Past Life • 2019"
-    },
-    {
-      "time": "10:04 pm",
-      "artist": "Drifters",
-      "title": "Under The Boardwalk",
-      "album": "single • 1964"
     }
   ]
 }
