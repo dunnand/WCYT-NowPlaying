@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T03:47:37",
+  "updatedAt": "2026-09-22T03:54:48",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Chimes of Freedom",
-    "album": "Chimes of Freedom • 1964",
+    "artist": "The Beach Boys",
+    "title": "All I Wanna Do",
+    "album": "Sunflower • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:54 am",
-      "artist": "The Beach Boys",
-      "title": "All I Wanna Do"
-    },
     {
       "time": "3:57 am",
       "artist": "Eels",
@@ -26,9 +21,20 @@
       "time": "4:03 am",
       "artist": "Spoon",
       "title": "Anything You Want"
+    },
+    {
+      "time": "4:05 am",
+      "artist": "Eddie Holman",
+      "title": "Hey There Lonely Girl"
     }
   ],
   "recent": [
+    {
+      "time": "3:54 am",
+      "artist": "The Beach Boys",
+      "title": "All I Wanna Do",
+      "album": "Sunflower • 1970"
+    },
     {
       "time": "3:47 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Little Wonder",
       "album": "Earthling • 1997"
-    },
-    {
-      "time": "2:06 am",
-      "artist": "Leonard Cohen",
-      "title": "I Want It Darker",
-      "album": "You Want It Darker • 2016"
     }
   ]
 }
