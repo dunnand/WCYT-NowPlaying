@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T18:06:31",
+  "updatedAt": "2026-09-22T18:09:14",
   "now": {
-    "artist": "The Beatles",
-    "title": "Magical Mystery Tour",
-    "album": "Magical Mystery Tour • 1967",
+    "artist": "One Direction",
+    "title": "Kiss You",
+    "album": "Take Me Home • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:09 pm",
-      "artist": "One Direction",
-      "title": "Kiss You"
-    },
     {
       "time": "6:12 pm",
       "artist": "Rage Against the Machine",
@@ -21,9 +16,20 @@
       "time": "6:15 pm",
       "artist": "Rancid",
       "title": "Ruby Soho"
+    },
+    {
+      "time": "6:18 pm",
+      "artist": "Ambrosia",
+      "title": "Biggest Part Of Me"
     }
   ],
   "recent": [
+    {
+      "time": "6:09 pm",
+      "artist": "One Direction",
+      "title": "Kiss You",
+      "album": "Take Me Home • 2012"
+    },
     {
       "time": "6:06 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Al Green",
       "title": "Tired of Being Alone",
       "album": "Al Green Gets Next to You • 1971"
-    },
-    {
-      "time": "4:35 pm",
-      "artist": "Bruno Mars",
-      "title": "I Just Might",
-      "album": ""
     }
   ]
 }
