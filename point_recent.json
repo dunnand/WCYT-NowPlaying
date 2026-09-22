@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T05:14:19",
+  "updatedAt": "2026-09-22T05:18:12",
   "now": {
-    "artist": "Tom Waits",
-    "title": "Time",
-    "album": "Rain Dogs • 1985",
+    "artist": "Wishy",
+    "title": "Mona Lisa",
+    "album": "Nature’s Pill • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:18 am",
-      "artist": "Wishy",
-      "title": "Mona Lisa"
-    },
     {
       "time": "5:22 am",
       "artist": "Goose",
@@ -26,9 +21,20 @@
       "time": "5:31 am",
       "artist": "Future Islands",
       "title": "Cave"
+    },
+    {
+      "time": "5:34 am",
+      "artist": "Phoebe Bridgers",
+      "title": "I Can't Wait"
     }
   ],
   "recent": [
+    {
+      "time": "5:18 am",
+      "artist": "Wishy",
+      "title": "Mona Lisa",
+      "album": "Nature’s Pill • 2026"
+    },
     {
       "time": "5:14 am",
       "artist": "Tom Waits",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Dark Spring",
       "album": "7 • 2018"
-    },
-    {
-      "time": "3:20 am",
-      "artist": "King Gizzard & The Lizard Wizard",
-      "title": "Iron Lung",
-      "album": "Ice, Death, Planets. Lungs, Mushrooms and Lava • 2022"
     }
   ]
 }
