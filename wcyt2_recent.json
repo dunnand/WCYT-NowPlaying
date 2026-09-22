@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T05:37:21",
+  "updatedAt": "2026-09-22T05:43:29",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "Antenna",
-    "album": "The Eternal • 2009",
-    "category": "TUNES"
+    "artist": "Bobby Vinton",
+    "title": "Mr. Lonely",
+    "album": "Roses Are Red • 1962",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:43 am",
-      "artist": "Bobby Vinton",
-      "title": "Mr. Lonely"
-    },
     {
       "time": "5:46 am",
       "artist": "Curtis Mayfield",
@@ -26,9 +21,20 @@
       "time": "5:57 am",
       "artist": "Paul Anka",
       "title": "Put Your Head On My Shoulder"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "Sonic Youth",
+      "title": "Sacred Trickster"
     }
   ],
   "recent": [
+    {
+      "time": "5:43 am",
+      "artist": "Bobby Vinton",
+      "title": "Mr. Lonely",
+      "album": "Roses Are Red • 1962"
+    },
     {
       "time": "5:37 am",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Pharrell Williams",
       "title": "Happy",
       "album": "Despicable Me 2 soundtrack • 2013"
-    },
-    {
-      "time": "4:05 am",
-      "artist": "Eddie Holman",
-      "title": "Hey There Lonely Girl",
-      "album": "I Love You • 1969"
     }
   ]
 }
