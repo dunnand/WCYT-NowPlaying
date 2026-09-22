@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T16:39:32",
+  "updatedAt": "2026-09-22T16:42:15",
   "now": {
-    "artist": "Al Green",
-    "title": "Tired of Being Alone",
-    "album": "Al Green Gets Next to You • 1971",
+    "artist": "Billy Joel",
+    "title": "Just The Way You Are",
+    "album": "The Stranger • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:42 pm",
-      "artist": "Billy Joel",
-      "title": "Just The Way You Are"
-    },
     {
       "time": "4:45 pm",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "4:52 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Still The Same"
+    },
+    {
+      "time": "4:55 pm",
+      "artist": "The Pharcyde",
+      "title": "Runnin'"
     }
   ],
   "recent": [
+    {
+      "time": "4:42 pm",
+      "artist": "Billy Joel",
+      "title": "Just The Way You Are",
+      "album": "The Stranger • 1977"
+    },
     {
       "time": "4:39 pm",
       "artist": "Al Green",
@@ -172,12 +178,6 @@
       "artist": "The Roots",
       "title": "Don't Feel Right",
       "album": "Game Theory • 2006"
-    },
-    {
-      "time": "3:07 pm",
-      "artist": "Imagine Dragons",
-      "title": "Radioactive",
-      "album": "HA201306 3 • 2012"
     }
   ]
 }
