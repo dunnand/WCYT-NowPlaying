@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T17:28:52",
+  "updatedAt": "2026-09-22T17:32:57",
   "now": {
-    "artist": "George Kranz",
-    "title": "Din daa daa",
-    "album": "My Rhythm • 1983",
+    "artist": "Taylor Swift",
+    "title": "I Knew It, I Knew You",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 pm",
-      "artist": "Taylor Swift",
-      "title": "I Knew It, I Knew You"
-    },
     {
       "time": "5:35 pm",
       "artist": "The Carpenters",
@@ -21,9 +16,20 @@
       "time": "5:39 pm",
       "artist": "Sam Cooke",
       "title": "Chain Gang"
+    },
+    {
+      "time": "5:42 pm",
+      "artist": "Paul McCartney and Wings",
+      "title": "Silly Love Songs"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 pm",
+      "artist": "Taylor Swift",
+      "title": "I Knew It, I Knew You",
+      "album": ""
+    },
     {
       "time": "5:28 pm",
       "artist": "George Kranz",
@@ -167,12 +173,6 @@
       "artist": "Paul Simon",
       "title": "The Coast",
       "album": "The Rhythm of the Saints • 1990"
-    },
-    {
-      "time": "3:57 pm",
-      "artist": "The Beatles",
-      "title": "I've Got a Feeling",
-      "album": "Let It Be • 1970"
     }
   ]
 }
