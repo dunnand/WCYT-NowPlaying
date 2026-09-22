@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-21T20:00:00",
+  "updatedAt": "2026-09-21T20:02:37",
   "now": {
-    "artist": "Bo Diddley",
-    "title": "I'm A Man",
-    "album": "Bo Diddley • 1958",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Last Days of Disco",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:02 pm",
-      "artist": "Yo La Tengo",
-      "title": "Last Days of Disco"
-    },
     {
       "time": "8:08 pm",
       "artist": "Gerry & The Pacemakers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:02 pm",
+      "artist": "Yo La Tengo",
+      "title": "Last Days of Disco",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "8:00 pm",
       "artist": "Bo Diddley",
@@ -172,12 +173,6 @@
       "artist": "Bow Wow Wow",
       "title": "I Want Candy",
       "album": "I Want Candy • 1982"
-    },
-    {
-      "time": "6:31 pm",
-      "artist": "U2",
-      "title": "New Year's Day",
-      "album": "War • 1983"
     }
   ]
 }
