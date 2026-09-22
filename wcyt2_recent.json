@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T13:04:29",
+  "updatedAt": "2026-09-22T13:04:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "There's No Home for You Here",
+    "album": "Elephant • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:04 pm",
-      "artist": "The White Stripes",
-      "title": "There's No Home for You Here"
-    },
     {
       "time": "1:08 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "1:17 pm",
       "artist": "Morrissey",
       "title": "That's Entertainment"
+    },
+    {
+      "time": "1:20 pm",
+      "artist": "Ned's Atomic Dustbin",
+      "title": "Grey Cell Green"
     }
   ],
   "recent": [
+    {
+      "time": "1:04 pm",
+      "artist": "The White Stripes",
+      "title": "There's No Home for You Here",
+      "album": "Elephant • 2003"
+    },
     {
       "time": "1:01 pm",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "The Police",
       "title": "Every Little Thing She Does Is Magic",
       "album": "Ghost in the Machine • 1981"
-    },
-    {
-      "time": "11:23 am",
-      "artist": "Pixies",
-      "title": "Wave Of Mutilation (U.K. Surf)",
-      "album": "Single • 1989"
     }
   ]
 }
