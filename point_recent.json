@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T11:33:28",
+  "updatedAt": "2026-09-22T11:33:50",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Big Thief",
+    "title": "Masterpiece",
+    "album": "Masterpiece • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:33 am",
-      "artist": "Big Thief",
-      "title": "Masterpiece"
-    },
     {
       "time": "11:37 am",
       "artist": "Couch Prints",
@@ -26,9 +21,20 @@
       "time": "11:45 am",
       "artist": "Radiohead",
       "title": "Bloom"
+    },
+    {
+      "time": "11:50 am",
+      "artist": "Twisted Teens",
+      "title": "When We First Met"
     }
   ],
   "recent": [
+    {
+      "time": "11:33 am",
+      "artist": "Big Thief",
+      "title": "Masterpiece",
+      "album": "Masterpiece • 2016"
+    },
     {
       "time": "11:30 am",
       "artist": "Slow Pulp",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian feat. The Maisonettes",
       "title": "Legal Man",
       "album": "(single) • 2000"
-    },
-    {
-      "time": "10:04 am",
-      "artist": "TV on the Radio",
-      "title": "Young Liars",
-      "album": "Young Liars • 2003"
     }
   ]
 }
