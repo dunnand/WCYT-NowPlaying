@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T02:56:23",
+  "updatedAt": "2026-09-22T02:58:17",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Blue Suede Shoes",
-    "album": "Elvis Presley • 1956",
+    "artist": "Wilco",
+    "title": "War on War",
+    "album": "Yankee Hotel Foxtrot • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:58 am",
-      "artist": "Wilco",
-      "title": "War on War"
-    },
     {
       "time": "3:02 am",
       "artist": "Ben E. King",
@@ -21,9 +16,20 @@
       "time": "3:05 am",
       "artist": "Maroon 5",
       "title": "Love Somebody"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "Drive Like Jehu",
+      "title": "Luau"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 am",
+      "artist": "Wilco",
+      "title": "War on War",
+      "album": "Yankee Hotel Foxtrot • 2002"
+    },
     {
       "time": "2:56 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "David Bowie",
       "title": "Ashes to Ashes",
       "album": "Scary Monsters • 1980"
-    },
-    {
-      "time": "1:25 am",
-      "artist": "Chris DeBurgh",
-      "title": "The Lady In Red",
-      "album": "Into the Light • 1986"
     }
   ]
 }
