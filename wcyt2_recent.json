@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T15:57:39",
+  "updatedAt": "2026-09-22T16:00:54",
   "now": {
-    "artist": "The Beatles",
-    "title": "I've Got a Feeling",
-    "album": "Let It Be • 1970",
+    "artist": "Paul Simon",
+    "title": "The Coast",
+    "album": "The Rhythm of the Saints • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:00 pm",
-      "artist": "Paul Simon",
-      "title": "The Coast"
-    },
     {
       "time": "4:06 pm",
       "artist": "Kingston Trio",
@@ -21,9 +16,20 @@
       "time": "4:09 pm",
       "artist": "Spoon",
       "title": "Lines in the Suit"
+    },
+    {
+      "time": "4:12 pm",
+      "artist": "Righteous Brothers",
+      "title": "Just Once In My Life"
     }
   ],
   "recent": [
+    {
+      "time": "4:00 pm",
+      "artist": "Paul Simon",
+      "title": "The Coast",
+      "album": "The Rhythm of the Saints • 1990"
+    },
     {
       "time": "3:57 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Naughty By Nature",
       "title": "O.P.P",
       "album": "Naughty by Nature • 1991"
-    },
-    {
-      "time": "2:25 pm",
-      "artist": "Natalie Merchant",
-      "title": "Carnival",
-      "album": "Tigerlily • 1995"
     }
   ]
 }
