@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-09-21T23:13:09",
+  "updatedAt": "2026-09-21T23:17:02",
   "now": {
-    "artist": "Superchunk",
-    "title": "Hello Hawk",
-    "album": "Come Pick Me Up • 1999",
-    "category": "TUNES"
+    "artist": "U2",
+    "title": "Mysterious Ways",
+    "album": "Achtung Baby • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:17 pm",
-      "artist": "U2",
-      "title": "Mysterious Ways"
-    },
-    {
-      "time": "11:21 pm",
+      "time": "11:20 pm",
       "artist": "Dazz Band",
       "title": "Let It Whip"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:17 pm",
+      "artist": "U2",
+      "title": "Mysterious Ways",
+      "album": "Achtung Baby • 1991"
+    },
     {
       "time": "11:13 pm",
       "artist": "Superchunk",
@@ -172,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "Unmade Bed",
       "album": "Sonic Nurse • 2004"
-    },
-    {
-      "time": "9:37 pm",
-      "artist": "Gang of Four",
-      "title": "Natural's Not in It",
-      "album": "Entertainment • 1979"
     }
   ]
 }
