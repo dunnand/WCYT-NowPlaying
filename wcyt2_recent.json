@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T03:54:48",
+  "updatedAt": "2026-09-22T03:57:12",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "All I Wanna Do",
-    "album": "Sunflower • 1970",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "Susan's House",
+    "album": "Beautiful Freak • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:57 am",
-      "artist": "Eels",
-      "title": "Susan's House"
-    },
     {
       "time": "4:01 am",
       "artist": "Little Richard and His Band",
@@ -26,9 +21,20 @@
       "time": "4:05 am",
       "artist": "Eddie Holman",
       "title": "Hey There Lonely Girl"
+    },
+    {
+      "time": "4:09 am",
+      "artist": "Pharrell Williams",
+      "title": "Happy"
     }
   ],
   "recent": [
+    {
+      "time": "3:57 am",
+      "artist": "Eels",
+      "title": "Susan's House",
+      "album": "Beautiful Freak • 1996"
+    },
     {
       "time": "3:54 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Be Quiet and Drive (Far Away)",
       "album": "Around the Fur • 1997"
-    },
-    {
-      "time": "2:10 am",
-      "artist": "David Bowie",
-      "title": "Little Wonder",
-      "album": "Earthling • 1997"
     }
   ]
 }
