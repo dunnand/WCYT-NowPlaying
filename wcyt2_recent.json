@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T03:22:13",
+  "updatedAt": "2026-09-22T03:22:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Clinton",
+    "title": "Atomic Dog",
+    "album": "Computer Games • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 am",
-      "artist": "George Clinton",
-      "title": "Atomic Dog"
-    },
     {
       "time": "3:27 am",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "3:35 am",
       "artist": "Toots & The Maytals",
       "title": "Funky Kingston"
+    },
+    {
+      "time": "3:40 am",
+      "artist": "The Saints",
+      "title": "(I'M) Stranded"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 am",
+      "artist": "George Clinton",
+      "title": "Atomic Dog",
+      "album": "Computer Games • 1982"
+    },
     {
       "time": "3:18 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Aretha Franklin",
       "title": "(You Make Me Feel Like) A Natural Woman",
       "album": "Lady Soul • 1968"
-    },
-    {
-      "time": "1:45 am",
-      "artist": "Elvis Costello",
-      "title": "Less Than Zero",
-      "album": "My Aim Is True • 1977"
     }
   ]
 }
