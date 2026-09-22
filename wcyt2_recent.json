@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T11:26:39",
+  "updatedAt": "2026-09-22T11:30:45",
   "now": {
-    "artist": "The Police",
-    "title": "Every Little Thing She Does Is Magic",
-    "album": "Ghost in the Machine • 1981",
+    "artist": "Olivia Rodrigo",
+    "title": "stupid song",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:30 am",
-      "artist": "Olivia Rodrigo",
-      "title": "stupid song"
-    },
     {
       "time": "11:34 am",
       "artist": "Rod Stewart",
@@ -21,9 +16,20 @@
       "time": "11:39 am",
       "artist": "The Mamas & The Papas",
       "title": "Straight Shooter"
+    },
+    {
+      "time": "11:42 am",
+      "artist": "Rolling Stones",
+      "title": "Beast Of Burden"
     }
   ],
   "recent": [
+    {
+      "time": "11:30 am",
+      "artist": "Olivia Rodrigo",
+      "title": "stupid song",
+      "album": ""
+    },
     {
       "time": "11:26 am",
       "artist": "The Police",
@@ -167,12 +173,6 @@
       "artist": "Le Tigre",
       "title": "Hot Topic",
       "album": "Le Tigre • 1999"
-    },
-    {
-      "time": "9:47 am",
-      "artist": "Stealers Wheel",
-      "title": "Stuck In The Middle With You",
-      "album": "Stealers Wheel • 1973"
     }
   ]
 }
