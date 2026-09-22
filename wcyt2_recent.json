@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T13:04:41",
+  "updatedAt": "2026-09-22T13:08:25",
   "now": {
-    "artist": "The White Stripes",
-    "title": "There's No Home for You Here",
-    "album": "Elephant • 2003",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "album": "Kid A • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:08 pm",
-      "artist": "Radiohead",
-      "title": "Kid A"
-    },
     {
       "time": "1:13 pm",
       "artist": "Leon Bridges",
@@ -26,9 +21,20 @@
       "time": "1:20 pm",
       "artist": "Ned's Atomic Dustbin",
       "title": "Grey Cell Green"
+    },
+    {
+      "time": "1:24 pm",
+      "artist": "Prince and The Revolution",
+      "title": "When Doves Cry"
     }
   ],
   "recent": [
+    {
+      "time": "1:08 pm",
+      "artist": "Radiohead",
+      "title": "Kid A",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "1:04 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "stupid song",
       "album": ""
-    },
-    {
-      "time": "11:26 am",
-      "artist": "The Police",
-      "title": "Every Little Thing She Does Is Magic",
-      "album": "Ghost in the Machine • 1981"
     }
   ]
 }
