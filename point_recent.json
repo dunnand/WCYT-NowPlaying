@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T06:53:29",
+  "updatedAt": "2026-09-22T06:56:20",
   "now": {
-    "artist": "Radiohead",
-    "title": "In Limbo",
-    "album": "Kid A • 2000",
+    "artist": "The Smile",
+    "title": "Wall Of Eyes",
+    "album": "Wall of Eyes • 2024",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:56 am",
-      "artist": "The Smile",
-      "title": "Wall Of Eyes"
-    },
     {
       "time": "7:01 am",
       "artist": "Ibibio Sound Machine",
@@ -26,9 +21,20 @@
       "time": "7:07 am",
       "artist": "The Replacements",
       "title": "Favorite Thing"
+    },
+    {
+      "time": "7:10 am",
+      "artist": "Tiberius",
+      "title": "Sag"
     }
   ],
   "recent": [
+    {
+      "time": "6:56 am",
+      "artist": "The Smile",
+      "title": "Wall Of Eyes",
+      "album": "Wall of Eyes • 2024"
+    },
     {
       "time": "6:53 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Wishy",
       "title": "Mona Lisa",
       "album": "Nature’s Pill • 2026"
-    },
-    {
-      "time": "5:14 am",
-      "artist": "Tom Waits",
-      "title": "Time",
-      "album": "Rain Dogs • 1985"
     }
   ]
 }
