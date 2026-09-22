@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T10:02:10",
+  "updatedAt": "2026-09-22T10:02:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Diamond",
+    "title": "Sweet Caroline",
+    "album": "single • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:02 am",
-      "artist": "Neil Diamond",
-      "title": "Sweet Caroline"
-    },
     {
       "time": "10:05 am",
       "artist": "Kendrick Lamar",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:02 am",
+      "artist": "Neil Diamond",
+      "title": "Sweet Caroline",
+      "album": "single • 1969"
+    },
     {
       "time": "9:57 am",
       "artist": "Yeasayer",
@@ -172,12 +173,6 @@
       "artist": "HAIM",
       "title": "Honey & I",
       "album": ""
-    },
-    {
-      "time": "8:28 am",
-      "artist": "Journey",
-      "title": "Open Arms",
-      "album": "Escape • 1981"
     }
   ]
 }
