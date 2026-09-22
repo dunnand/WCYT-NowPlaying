@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T12:25:29",
+  "updatedAt": "2026-09-22T12:30:23",
   "now": {
-    "artist": "Prince",
-    "title": "Sign 'O' the Times",
-    "album": "Sign o the Times • 1987",
+    "artist": "Olivia Rodrigo",
+    "title": "the cure",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "the cure"
-    },
     {
       "time": "12:35 pm",
       "artist": "T. Rex",
@@ -21,9 +16,20 @@
       "time": "12:39 pm",
       "artist": "The Beatles",
       "title": "Any Time At All"
+    },
+    {
+      "time": "12:42 pm",
+      "artist": "Bob Dylan",
+      "title": "Changing of the Guards"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "the cure",
+      "album": ""
+    },
     {
       "time": "12:25 pm",
       "artist": "Prince",
@@ -167,12 +173,6 @@
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
       "album": "Blue Lines • 1991"
-    },
-    {
-      "time": "10:47 am",
-      "artist": "Paul Simon",
-      "title": "Duncan",
-      "album": "Paul Simon • 1972"
     }
   ]
 }
