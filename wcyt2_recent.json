@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T10:19:59",
+  "updatedAt": "2026-09-22T10:20:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Peter Gabriel",
+    "title": "Sledgehammer",
+    "album": "So • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 am",
-      "artist": "Peter Gabriel",
-      "title": "Sledgehammer"
-    },
     {
       "time": "10:25 am",
       "artist": "Pet Shop Boys",
@@ -26,9 +21,20 @@
       "time": "10:33 am",
       "artist": "Pure Prairie League",
       "title": "Amie"
+    },
+    {
+      "time": "10:37 am",
+      "artist": "Neil Young",
+      "title": "Don't Let It Bring You Down"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 am",
+      "artist": "Peter Gabriel",
+      "title": "Sledgehammer",
+      "album": "So • 1984"
+    },
     {
       "time": "10:15 am",
       "artist": "Mad Season",
@@ -172,12 +178,6 @@
       "artist": "The Association",
       "title": "Cherish",
       "album": "And Then...Along Comes the Association • 1966"
-    },
-    {
-      "time": "8:42 am",
-      "artist": "Wilco",
-      "title": "I'll Fight",
-      "album": "Wilco • 2009"
     }
   ]
 }
