@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T19:30:17",
+  "updatedAt": "2026-09-22T19:33:32",
   "now": {
-    "artist": "Carly Simon",
-    "title": "You Belong To Me",
-    "album": "Boys in the Trees • 1978",
+    "artist": "Sam Cooke",
+    "title": "Another Saturday Night",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:33 pm",
-      "artist": "Sam Cooke",
-      "title": "Another Saturday Night"
-    },
     {
       "time": "7:35 pm",
       "artist": "Elvis Costello & The Attractions",
@@ -26,9 +21,20 @@
       "time": "7:41 pm",
       "artist": "Gordon Lightfoot",
       "title": "The Wreck Of The Edmond Fitzgerald"
+    },
+    {
+      "time": "7:47 pm",
+      "artist": "Slint",
+      "title": "Breadcrumb Trail"
     }
   ],
   "recent": [
+    {
+      "time": "7:33 pm",
+      "artist": "Sam Cooke",
+      "title": "Another Saturday Night",
+      "album": "single • 1963"
+    },
     {
       "time": "7:30 pm",
       "artist": "Carly Simon",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "You're Pretty Good Looking For A Girl",
       "album": "De Stijl • 2000"
-    },
-    {
-      "time": "6:02 pm",
-      "artist": "Chordettes",
-      "title": "Lollipop",
-      "album": "single • 1958"
     }
   ]
 }
