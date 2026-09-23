@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T11:31:20",
+  "updatedAt": "2026-09-23T11:31:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Queen",
+    "title": "One Vision",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:31 am",
-      "artist": "Queen",
-      "title": "One Vision"
-    },
     {
       "time": "11:36 am",
       "artist": "Neil Young & Crazy Horse",
@@ -26,9 +21,20 @@
       "time": "11:50 am",
       "artist": "Led Zeppelin",
       "title": "Ramble On"
+    },
+    {
+      "time": "11:54 am",
+      "artist": "Barry Manilow",
+      "title": "Somewhere In The Night"
     }
   ],
   "recent": [
+    {
+      "time": "11:31 am",
+      "artist": "Queen",
+      "title": "One Vision",
+      "album": ""
+    },
     {
       "time": "11:27 am",
       "artist": "Mahito Yokota",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "I Can Change",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "9:41 am",
-      "artist": "Digable Planets",
-      "title": "Where I'm From",
-      "album": "Reachin' • 1993"
     }
   ]
 }
