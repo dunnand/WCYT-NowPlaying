@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T02:36:23",
+  "updatedAt": "2026-09-23T02:38:29",
   "now": {
-    "artist": "The Beatles",
-    "title": "Good Day Sunshine",
-    "album": "Revolver • 1966",
+    "artist": "Elton John",
+    "title": "Bennie And The Jets",
+    "album": "Goodbye Yellow Brick Road • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:38 am",
-      "artist": "Elton John",
-      "title": "Bennie And The Jets"
-    },
     {
       "time": "2:43 am",
       "artist": "Whitney Houston",
@@ -26,9 +21,20 @@
       "time": "2:51 am",
       "artist": "Wilco",
       "title": "Kamera"
+    },
+    {
+      "time": "2:55 am",
+      "artist": "Neil Young",
+      "title": "Mr. Soul"
     }
   ],
   "recent": [
+    {
+      "time": "2:38 am",
+      "artist": "Elton John",
+      "title": "Bennie And The Jets",
+      "album": "Goodbye Yellow Brick Road • 1974"
+    },
     {
       "time": "2:36 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Walls (Circus)",
       "album": "Songs and Music From The Motion Picture She's The One • 1996"
-    },
-    {
-      "time": "1:12 am",
-      "artist": "Lizzo",
-      "title": "Truth Hurts",
-      "album": "Cuz I Love You • 2019"
     }
   ]
 }
