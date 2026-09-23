@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T02:32:48",
+  "updatedAt": "2026-09-23T02:36:23",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Zimbabwe",
-    "album": "Survival • 1979",
+    "artist": "The Beatles",
+    "title": "Good Day Sunshine",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:36 am",
-      "artist": "The Beatles",
-      "title": "Good Day Sunshine"
-    },
     {
       "time": "2:38 am",
       "artist": "Elton John",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:36 am",
+      "artist": "The Beatles",
+      "title": "Good Day Sunshine",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "2:32 am",
       "artist": "Bob Marley and the Wailers",
@@ -177,12 +178,6 @@
       "artist": "Lizzo",
       "title": "Truth Hurts",
       "album": "Cuz I Love You • 2019"
-    },
-    {
-      "time": "1:09 am",
-      "artist": "Rolling Stones",
-      "title": "Let's Spend The Night Together",
-      "album": "single • 1965"
     }
   ]
 }
