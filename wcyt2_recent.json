@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T08:20:05",
+  "updatedAt": "2026-09-23T08:25:22",
   "now": {
-    "artist": "The Congos",
-    "title": "Fisherman",
-    "album": "Heart of the Congos • 1977",
+    "artist": "Cat Stevens",
+    "title": "Father and Son",
+    "album": "Tea for the Tillerman • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:25 am",
-      "artist": "Cat Stevens",
-      "title": "Father and Son"
-    },
     {
       "time": "8:29 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "8:35 am",
       "artist": "Sparks",
       "title": "When I'm with You"
+    },
+    {
+      "time": "8:41 am",
+      "artist": "Daft Punk",
+      "title": "Revolution 909"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 am",
+      "artist": "Cat Stevens",
+      "title": "Father and Son",
+      "album": "Tea for the Tillerman • 1970"
+    },
     {
       "time": "8:20 am",
       "artist": "The Congos",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Pyramid Song",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "6:39 am",
-      "artist": "Teddy Bears",
-      "title": "To Know Him, Is To Love Him",
-      "album": "To Know Him Is to Love Him • 1958"
     }
   ]
 }
