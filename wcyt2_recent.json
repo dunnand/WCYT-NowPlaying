@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T04:40:32",
+  "updatedAt": "2026-09-23T04:42:56",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Roll Over Beethoven",
-    "album": "Berry Is on Top • 1959",
-    "category": "AUDIO"
+    "artist": "Wolf Parade",
+    "title": "I'll Believe In Anything",
+    "album": "Apologies to the Queen Mary • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:42 am",
-      "artist": "Wolf Parade",
-      "title": "I'll Believe In Anything"
-    },
     {
       "time": "4:47 am",
       "artist": "John Lee Hooker",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:42 am",
+      "artist": "Wolf Parade",
+      "title": "I'll Believe In Anything",
+      "album": "Apologies to the Queen Mary • 2005"
+    },
     {
       "time": "4:40 am",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "Paul Simon",
       "title": "The Boy in the Bubble",
       "album": "Graceland • 1986"
-    },
-    {
-      "time": "3:10 am",
-      "artist": "The Jesus and Mary Chain",
-      "title": "Darklands",
-      "album": "Darklands • 1987"
     }
   ]
 }
