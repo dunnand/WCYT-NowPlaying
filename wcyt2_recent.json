@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T15:26:41",
+  "updatedAt": "2026-09-23T15:29:54",
   "now": {
-    "artist": "John Denver",
-    "title": "Take Me Home, Country Roads",
-    "album": "Poems, Prayers & Promises • 1971",
+    "artist": "Joy Division",
+    "title": "Disorder",
+    "album": "Unknown Pleasures • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:29 pm",
-      "artist": "Joy Division",
-      "title": "Disorder"
-    },
     {
       "time": "3:33 pm",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "3:38 pm",
       "artist": "Kenny Rogers",
       "title": "Coward Of The County"
+    },
+    {
+      "time": "3:43 pm",
+      "artist": "The Olivia Tremor Control",
+      "title": "The Opera House"
     }
   ],
   "recent": [
+    {
+      "time": "3:29 pm",
+      "artist": "Joy Division",
+      "title": "Disorder",
+      "album": "Unknown Pleasures • 1979"
+    },
     {
       "time": "3:26 pm",
       "artist": "John Denver",
@@ -172,12 +178,6 @@
       "artist": "John Prine",
       "title": "All the Best",
       "album": "The Missing Years • 1991"
-    },
-    {
-      "time": "1:45 pm",
-      "artist": "Eric Clapton",
-      "title": "Let It Rain",
-      "album": "Eric Clapton • 1970"
     }
   ]
 }
