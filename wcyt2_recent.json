@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T04:05:14",
+  "updatedAt": "2026-09-23T04:05:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Phil Collins",
+    "title": "Two Hearts",
+    "album": "Buster soundtrack • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 am",
-      "artist": "Phil Collins",
-      "title": "Two Hearts"
-    },
     {
       "time": "4:08 am",
       "artist": "Run",
@@ -26,9 +21,20 @@
       "time": "4:15 am",
       "artist": "Bee Gees",
       "title": "Tragedy"
+    },
+    {
+      "time": "4:20 am",
+      "artist": "Doobie Brothers",
+      "title": "Take Me In Your Arms (Rock Me)"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 am",
+      "artist": "Phil Collins",
+      "title": "Two Hearts",
+      "album": "Buster soundtrack • 1989"
+    },
     {
       "time": "4:01 am",
       "artist": "Amy Grant",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Good Day Sunshine",
       "album": "Revolver • 1966"
-    },
-    {
-      "time": "2:32 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Zimbabwe",
-      "album": "Survival • 1979"
     }
   ]
 }
