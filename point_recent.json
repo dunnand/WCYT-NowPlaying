@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T12:39:02",
+  "updatedAt": "2026-09-23T12:42:26",
   "now": {
-    "artist": "Fiona Apple",
-    "title": "Valentine",
-    "album": "The Idler Wheel • 2012",
+    "artist": "Sigur Ros",
+    "title": "Svefn-g-englar",
+    "album": "Agaetis byrjun • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 pm",
-      "artist": "Sigur Ros",
-      "title": "Svefn-g-englar"
-    },
     {
       "time": "12:51 pm",
       "artist": "Dinosaur Jr.",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:42 pm",
+      "artist": "Sigur Ros",
+      "title": "Svefn-g-englar",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "12:39 pm",
       "artist": "Fiona Apple",
@@ -172,12 +173,6 @@
       "artist": "Cheekface",
       "title": "MFT",
       "album": "Podium • 2026"
-    },
-    {
-      "time": "11:07 am",
-      "artist": "Grizzly Bear",
-      "title": "Fine for Now",
-      "album": "Veckatimest • 2009"
     }
   ]
 }
