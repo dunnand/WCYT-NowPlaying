@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T10:58:24",
+  "updatedAt": "2026-09-23T11:01:41",
   "now": {
-    "artist": "Fall Out Boy",
-    "title": "Thnks Fr Th Mmrs",
-    "album": "Infinity on High • 2007",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Heart of Chambers",
+    "album": "Devotion • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:01 am",
-      "artist": "Beach House",
-      "title": "Heart of Chambers"
-    },
     {
       "time": "11:06 am",
       "artist": "Lana Del Rey",
@@ -26,9 +21,20 @@
       "time": "11:14 am",
       "artist": "Fugees",
       "title": "Killing Me Softly"
+    },
+    {
+      "time": "11:19 am",
+      "artist": "Billy Joel",
+      "title": "You May Be Right"
     }
   ],
   "recent": [
+    {
+      "time": "11:01 am",
+      "artist": "Beach House",
+      "title": "Heart of Chambers",
+      "album": "Devotion • 2008"
+    },
     {
       "time": "10:58 am",
       "artist": "Fall Out Boy",
@@ -172,12 +178,6 @@
       "artist": "SAULT",
       "title": "Wildfires",
       "album": "UNTITLED • 2020"
-    },
-    {
-      "time": "9:14 am",
-      "artist": "A-Ha",
-      "title": "Take Me On",
-      "album": "Hunting High and Low • 1985"
     }
   ]
 }
