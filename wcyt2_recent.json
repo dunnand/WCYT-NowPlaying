@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-09-23T11:50:27",
+  "updatedAt": "2026-09-23T11:54:39",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Ramble On",
-    "album": "Led Zeppelin II • 1969",
+    "artist": "Barry Manilow",
+    "title": "Somewhere In The Night",
+    "album": "Even Now • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:54 am",
-      "artist": "Barry Manilow",
-      "title": "Somewhere In The Night"
-    },
-    {
-      "time": "11:58 am",
+      "time": "11:57 am",
       "artist": "Gang Starr",
       "title": "Take It Personal"
     },
@@ -26,9 +21,20 @@
       "time": "12:03 pm",
       "artist": "Arctic Monkeys",
       "title": "Crying Lightning"
+    },
+    {
+      "time": "12:07 pm",
+      "artist": "Stan Getz & Astrud Gilberto",
+      "title": "The Girl From Ipanema"
     }
   ],
   "recent": [
+    {
+      "time": "11:54 am",
+      "artist": "Barry Manilow",
+      "title": "Somewhere In The Night",
+      "album": "Even Now • 1978"
+    },
     {
       "time": "11:50 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "The Dismemberment Plan",
       "title": "You Are Invited",
       "album": "Emergency & I • 1999"
-    },
-    {
-      "time": "10:03 am",
-      "artist": "Phoebe Bridgers",
-      "title": "Motion Sickness",
-      "album": "Stranger in the Alps • 2017"
     }
   ]
 }
