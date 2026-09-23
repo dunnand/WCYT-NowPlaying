@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T14:42:15",
+  "updatedAt": "2026-09-23T14:44:18",
   "now": {
-    "artist": "The Beatles",
-    "title": "No Reply",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Jim Croce",
+    "title": "Time In A Bottle",
+    "album": "You Dont Mess Around with Jim • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:44 pm",
-      "artist": "Jim Croce",
-      "title": "Time In A Bottle"
-    },
     {
       "time": "2:46 pm",
       "artist": "Metallica",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:44 pm",
+      "artist": "Jim Croce",
+      "title": "Time In A Bottle",
+      "album": "You Dont Mess Around with Jim • 1972"
+    },
     {
       "time": "2:42 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "DJ Shadow",
       "title": "You Can't Go Home Again",
       "album": "The Private Press • 2002"
-    },
-    {
-      "time": "12:57 pm",
-      "artist": "Arcade Fire",
-      "title": "Neighborhood #4 (7 Kettles)",
-      "album": "Funeral • 2004"
     }
   ]
 }
