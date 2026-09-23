@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T21:12:38",
+  "updatedAt": "2026-09-22T21:16:43",
   "now": {
-    "artist": "U2",
-    "title": "Drowning man",
-    "album": "War • 1983",
+    "artist": "The Weeknd",
+    "title": "Can't Feel My Face",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:16 pm",
-      "artist": "The Weeknd",
-      "title": "Can't Feel My Face"
-    },
     {
       "time": "9:20 pm",
       "artist": "Lynyrd Skynyrd",
@@ -21,9 +16,20 @@
       "time": "9:27 pm",
       "artist": "Nick Drake",
       "title": "Northern Sky"
+    },
+    {
+      "time": "9:31 pm",
+      "artist": "Radiohead",
+      "title": "15 Step"
     }
   ],
   "recent": [
+    {
+      "time": "9:16 pm",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face",
+      "album": ""
+    },
     {
       "time": "9:12 pm",
       "artist": "U2",
@@ -167,12 +173,6 @@
       "artist": "Slint",
       "title": "Breadcrumb Trail",
       "album": "Spiderland • 1991"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "Gordon Lightfoot",
-      "title": "The Wreck Of The Edmond Fitzgerald",
-      "album": "Summertime Dream • 1976"
     }
   ]
 }
