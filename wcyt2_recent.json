@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T03:44:25",
+  "updatedAt": "2026-09-23T03:46:48",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "A-Punk",
-    "album": "Vampire Weekend • 2008",
-    "category": "TUNES"
+    "artist": "Johnny Cash",
+    "title": "A Boy Named Sue",
+    "album": "At San Quentin • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 am",
-      "artist": "Johnny Cash",
-      "title": "A Boy Named Sue"
-    },
     {
       "time": "3:50 am",
       "artist": "LCD Soundsystem",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "Johnny Cash",
+      "title": "A Boy Named Sue",
+      "album": "At San Quentin • 1969"
+    },
     {
       "time": "3:44 am",
       "artist": "Vampire Weekend",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "jealousy, jealousy",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "2:19 am",
-      "artist": "Janet Jackson",
-      "title": "Rhythm Nation",
-      "album": "Janet Jackson's Rhythm Nation 1814 • 1989"
     }
   ]
 }
