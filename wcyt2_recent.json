@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T13:43:01",
+  "updatedAt": "2026-09-23T13:45:24",
   "now": {
-    "artist": "The Beatles",
-    "title": "Act Naturally",
-    "album": "Help! • 1965",
+    "artist": "Eric Clapton",
+    "title": "Let It Rain",
+    "album": "Eric Clapton • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 pm",
-      "artist": "Eric Clapton",
-      "title": "Let It Rain"
-    },
     {
       "time": "1:50 pm",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "1:57 pm",
       "artist": "Daft Punk",
       "title": "Aerodynamic"
+    },
+    {
+      "time": "2:01 pm",
+      "artist": "Arcade Fire",
+      "title": "Neighborhood #3 (Power Out)"
     }
   ],
   "recent": [
+    {
+      "time": "1:45 pm",
+      "artist": "Eric Clapton",
+      "title": "Let It Rain",
+      "album": "Eric Clapton • 1970"
+    },
     {
       "time": "1:43 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Genesis",
       "title": "No Son Of Mine",
       "album": "We Can't Dance • 1991"
-    },
-    {
-      "time": "12:10 pm",
-      "artist": "Radiohead",
-      "title": "Little by Little",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
