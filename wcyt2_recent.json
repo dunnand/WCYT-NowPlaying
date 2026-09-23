@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T04:15:11",
+  "updatedAt": "2026-09-23T04:15:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "Tragedy",
+    "album": "Spirits Having Flown • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 am",
-      "artist": "Bee Gees",
-      "title": "Tragedy"
-    },
     {
       "time": "4:20 am",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "4:30 am",
       "artist": "Simon & Garfunkel",
       "title": "Homeward Bound"
+    },
+    {
+      "time": "4:32 am",
+      "artist": "John Prine",
+      "title": "How Lucky"
     }
   ],
   "recent": [
+    {
+      "time": "4:15 am",
+      "artist": "Bee Gees",
+      "title": "Tragedy",
+      "album": "Spirits Having Flown • 1979"
+    },
     {
       "time": "4:11 am",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Billie Holiday",
       "title": "Strange Fruit",
       "album": "Billie Holiday • 1947"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "Whitney Houston",
-      "title": "I Have Nothing",
-      "album": "The Bodyguard • 1992"
     }
   ]
 }
