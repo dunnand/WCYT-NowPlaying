@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T10:07:24",
+  "updatedAt": "2026-09-23T10:12:07",
   "now": {
-    "artist": "The Dismemberment Plan",
-    "title": "You Are Invited",
-    "album": "Emergency & I • 1999",
-    "category": "TUNES"
+    "artist": "Elastica",
+    "title": "Connection",
+    "album": "Elastica • 1995",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:12 am",
-      "artist": "Elastica",
-      "title": "Connection"
-    },
     {
       "time": "10:14 am",
       "artist": "New Order",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:12 am",
+      "artist": "Elastica",
+      "title": "Connection",
+      "album": "Elastica • 1995"
+    },
     {
       "time": "10:07 am",
       "artist": "The Dismemberment Plan",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Everything in Its Right Place",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "8:25 am",
-      "artist": "Cat Stevens",
-      "title": "Father and Son",
-      "album": "Tea for the Tillerman • 1970"
     }
   ]
 }
