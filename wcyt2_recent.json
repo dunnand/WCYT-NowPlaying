@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T08:33:18",
+  "updatedAt": "2026-09-23T08:35:32",
   "now": {
-    "artist": "Marcels",
-    "title": "Blue Moon",
-    "album": "Blue Moon • 1961",
+    "artist": "Sparks",
+    "title": "When I'm with You",
+    "album": "Terminal Jive • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:35 am",
-      "artist": "Sparks",
-      "title": "When I'm with You"
-    },
     {
       "time": "8:40 am",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "8:49 am",
       "artist": "Weezer",
       "title": "Perfect Situation"
+    },
+    {
+      "time": "8:54 am",
+      "artist": "The Band",
+      "title": "This Wheel's on Fire"
     }
   ],
   "recent": [
+    {
+      "time": "8:35 am",
+      "artist": "Sparks",
+      "title": "When I'm with You",
+      "album": "Terminal Jive • 1979"
+    },
     {
       "time": "8:33 am",
       "artist": "Marcels",
@@ -172,12 +178,6 @@
       "artist": "The Boo Radleys",
       "title": "Wish I Was Skinny",
       "album": "Giant Steps • 1993"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Kamasi Washington",
-      "title": "Show Us the Way",
-      "album": "Heaven and Earth • 2018"
     }
   ]
 }
