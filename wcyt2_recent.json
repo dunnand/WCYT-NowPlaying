@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T15:13:56",
+  "updatedAt": "2026-09-23T15:14:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Fall",
+    "title": "The Classical",
+    "album": "Hex Enduction Hour • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 pm",
-      "artist": "The Fall",
-      "title": "The Classical"
-    },
     {
       "time": "3:19 pm",
       "artist": "Violent Femmes",
@@ -26,9 +21,20 @@
       "time": "3:27 pm",
       "artist": "John Denver",
       "title": "Take Me Home, Country Roads"
+    },
+    {
+      "time": "3:30 pm",
+      "artist": "Joy Division",
+      "title": "Disorder"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 pm",
+      "artist": "The Fall",
+      "title": "The Classical",
+      "album": "Hex Enduction Hour • 1982"
+    },
     {
       "time": "3:10 pm",
       "artist": "Michael Jackson",
@@ -172,12 +178,6 @@
       "artist": "Peter, Paul & Mary",
       "title": "Leaving On A Jet Plane",
       "album": "Album 1700 • 1967"
-    },
-    {
-      "time": "1:35 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Tenth Avenue Freeze-Out",
-      "album": "Born to Run • 1975"
     }
   ]
 }
