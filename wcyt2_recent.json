@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T08:08:39",
+  "updatedAt": "2026-09-23T08:08:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "General Public",
+    "title": "Tenderness",
+    "album": "All the Rage • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 am",
-      "artist": "General Public",
-      "title": "Tenderness"
-    },
     {
       "time": "8:12 am",
       "artist": "Camper Van Beethoven",
@@ -26,9 +21,20 @@
       "time": "8:19 am",
       "artist": "The Congos",
       "title": "Fisherman"
+    },
+    {
+      "time": "8:25 am",
+      "artist": "Cat Stevens",
+      "title": "Father and Son"
     }
   ],
   "recent": [
+    {
+      "time": "8:08 am",
+      "artist": "General Public",
+      "title": "Tenderness",
+      "album": "All the Rage • 1984"
+    },
     {
       "time": "8:03 am",
       "artist": "Counting Crows",
@@ -172,12 +178,6 @@
       "artist": "Lady Gaga",
       "title": "Born This Way",
       "album": "Born This Way • 2011"
-    },
-    {
-      "time": "6:21 am",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "The Last DJ",
-      "album": "The Last DJ • 2002"
     }
   ]
 }
