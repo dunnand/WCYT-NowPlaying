@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T22:03:29",
+  "updatedAt": "2026-09-22T22:07:33",
   "now": {
-    "artist": "Suede",
-    "title": "Trash",
-    "album": "Coming Up • 1996",
+    "artist": "Al Jarreau",
+    "title": "We're In This Love Together",
+    "album": "Breakin' Away • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 pm",
-      "artist": "Al Jarreau",
-      "title": "We're In This Love Together"
-    },
     {
       "time": "10:11 pm",
       "artist": "Asia",
@@ -21,9 +16,20 @@
       "time": "10:15 pm",
       "artist": "The Weeknd",
       "title": "Call Out My Name"
+    },
+    {
+      "time": "10:19 pm",
+      "artist": "The Jam",
+      "title": "The Eton Rifles"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 pm",
+      "artist": "Al Jarreau",
+      "title": "We're In This Love Together",
+      "album": "Breakin' Away • 1981"
+    },
     {
       "time": "10:03 pm",
       "artist": "Suede",
@@ -167,12 +173,6 @@
       "artist": "Martha Reeves & The Vandellas",
       "title": "(Love Is Like A) Heat Wave",
       "album": "Heat Wave • 1963"
-    },
-    {
-      "time": "8:33 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Cheated Hearts",
-      "album": "Show Your Bones • 2006"
     }
   ]
 }
