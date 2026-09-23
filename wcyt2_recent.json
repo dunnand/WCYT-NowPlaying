@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T06:21:15",
+  "updatedAt": "2026-09-23T06:24:29",
   "now": {
-    "artist": "Tom Petty and the Heartbreakers",
-    "title": "The Last DJ",
-    "album": "The Last DJ • 2002",
+    "artist": "Lady Gaga",
+    "title": "Born This Way",
+    "album": "Born This Way • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:24 am",
-      "artist": "Lady Gaga",
-      "title": "Born This Way"
-    },
     {
       "time": "6:28 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "6:39 am",
       "artist": "Teddy Bears",
       "title": "To Know Him, Is To Love Him"
+    },
+    {
+      "time": "6:42 am",
+      "artist": "Radiohead",
+      "title": "Pyramid Song"
     }
   ],
   "recent": [
+    {
+      "time": "6:24 am",
+      "artist": "Lady Gaga",
+      "title": "Born This Way",
+      "album": "Born This Way • 2011"
+    },
     {
       "time": "6:21 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "John Prine",
       "title": "Summer's End",
       "album": "The Tree of Forgiveness • 2018"
-    },
-    {
-      "time": "4:47 am",
-      "artist": "John Lee Hooker",
-      "title": "Boom Boom",
-      "album": "Burnin' • 1962"
     }
   ]
 }
