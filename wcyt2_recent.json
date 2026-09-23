@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T21:20:29",
+  "updatedAt": "2026-09-22T21:27:48",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Tuesday's Gone",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
+    "artist": "Nick Drake",
+    "title": "Northern Sky",
+    "album": "Bryter Layter • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 pm",
-      "artist": "Nick Drake",
-      "title": "Northern Sky"
-    },
     {
       "time": "9:31 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "9:37 pm",
       "artist": "Randy Newman",
       "title": "Political Science"
+    },
+    {
+      "time": "9:39 pm",
+      "artist": "Spoon",
+      "title": "30 Gallon Tank"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 pm",
+      "artist": "Nick Drake",
+      "title": "Northern Sky",
+      "album": "Bryter Layter • 1971"
+    },
     {
       "time": "9:20 pm",
       "artist": "Lynyrd Skynyrd",
@@ -172,12 +178,6 @@
       "artist": "Talib Kweli",
       "title": "Get By",
       "album": "Quality • 2002"
-    },
-    {
-      "time": "7:52 pm",
-      "artist": "Fats Domino",
-      "title": "I Want To Walk You Home",
-      "album": "single • 1959"
     }
   ]
 }
