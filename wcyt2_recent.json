@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T09:03:43",
+  "updatedAt": "2026-09-23T09:04:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "Amputations",
+    "album": "Something About Airplanes • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:03 am",
-      "artist": "Death Cab for Cutie",
-      "title": "Amputations"
-    },
     {
       "time": "9:08 am",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "9:17 am",
       "artist": "SAULT",
       "title": "Wildfires"
+    },
+    {
+      "time": "9:21 am",
+      "artist": "The White Stripes",
+      "title": "Little Bird"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "Death Cab for Cutie",
+      "title": "Amputations",
+      "album": "Something About Airplanes • 1998"
+    },
     {
       "time": "8:59 am",
       "artist": "David Byrne",
@@ -172,12 +178,6 @@
       "artist": "The Zutons",
       "title": "Pressure Point",
       "album": "Who Killed The Zutons? • 2004"
-    },
-    {
-      "time": "7:26 am",
-      "artist": "Fleetwood Mac",
-      "title": "Over My Head",
-      "album": "Fleetwood Mac • 1975"
     }
   ]
 }
