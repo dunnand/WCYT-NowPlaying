@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T15:33:38",
+  "updatedAt": "2026-09-23T15:36:50",
   "now": {
-    "artist": "Coldplay",
-    "title": "Violet Hill",
-    "album": "Viva la Vida or Death and All His Friends • 2008",
+    "artist": "Otis Redding",
+    "title": "Respect",
+    "album": "Otis Blue • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:36 pm",
-      "artist": "Otis Redding",
-      "title": "Respect"
-    },
     {
       "time": "3:38 pm",
       "artist": "Kenny Rogers",
@@ -26,9 +21,20 @@
       "time": "3:46 pm",
       "artist": "Nicki Minaj",
       "title": "Va Va Voom"
+    },
+    {
+      "time": "3:49 pm",
+      "artist": "Beck",
+      "title": "Already Dead"
     }
   ],
   "recent": [
+    {
+      "time": "3:36 pm",
+      "artist": "Otis Redding",
+      "title": "Respect",
+      "album": "Otis Blue • 1965"
+    },
     {
       "time": "3:33 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Aerodynamic",
       "album": "Discovery • 2001"
-    },
-    {
-      "time": "1:53 pm",
-      "artist": "Pitbull",
-      "title": "Feel This Moment",
-      "album": "Global Warming • 2012"
     }
   ]
 }
