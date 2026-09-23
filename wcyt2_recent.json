@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T01:23:24",
+  "updatedAt": "2026-09-23T01:23:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Depeche Mode",
+    "title": "Stripped",
+    "album": "Black Celebration • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:23 am",
-      "artist": "Depeche Mode",
-      "title": "Stripped"
-    },
     {
       "time": "1:27 am",
       "artist": "Galaxie 500",
@@ -26,9 +21,20 @@
       "time": "1:33 am",
       "artist": "Pink Floyd",
       "title": "The Great Gig in the Sky"
+    },
+    {
+      "time": "1:38 am",
+      "artist": "The Undertones",
+      "title": "Teenage Kicks"
     }
   ],
   "recent": [
+    {
+      "time": "1:23 am",
+      "artist": "Depeche Mode",
+      "title": "Stripped",
+      "album": "Black Celebration • 1986"
+    },
     {
       "time": "1:20 am",
       "artist": "Uncle Tupelo",
@@ -172,12 +178,6 @@
       "artist": "Tammy Wynette",
       "title": "D-I-V-O-R-C-E",
       "album": "D-I-V-O-R-C-E • 1968"
-    },
-    {
-      "time": "11:24 pm",
-      "artist": "Ringo Starr",
-      "title": "It Don't Come Easy",
-      "album": "single • 1971"
     }
   ]
 }
