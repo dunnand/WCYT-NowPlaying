@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T05:49:14",
+  "updatedAt": "2026-09-23T05:51:47",
   "now": {
-    "artist": "Portugal The Man",
-    "title": "Feel It Still",
-    "album": "Woodstock • 2017",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "This Is Just A Modern Rock Song",
+    "album": "This Is Just A Modern Rock Song • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:51 am",
-      "artist": "Belle and Sebastian",
-      "title": "This Is Just A Modern Rock Song"
-    },
     {
       "time": "5:58 am",
       "artist": "Boards of Canada",
@@ -21,9 +16,20 @@
       "time": "6:04 am",
       "artist": "Bad Religion",
       "title": "You"
+    },
+    {
+      "time": "6:06 am",
+      "artist": "R.E.M.",
+      "title": "Harborcoat"
     }
   ],
   "recent": [
+    {
+      "time": "5:51 am",
+      "artist": "Belle and Sebastian",
+      "title": "This Is Just A Modern Rock Song",
+      "album": "This Is Just A Modern Rock Song • 1998"
+    },
     {
       "time": "5:49 am",
       "artist": "Portugal The Man",
@@ -167,12 +173,6 @@
       "artist": "Doobie Brothers",
       "title": "Take Me In Your Arms (Rock Me)",
       "album": "Stampede • 1975"
-    },
-    {
-      "time": "4:15 am",
-      "artist": "Bee Gees",
-      "title": "Tragedy",
-      "album": "Spirits Having Flown • 1979"
     }
   ]
 }
