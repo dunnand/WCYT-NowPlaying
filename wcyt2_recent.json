@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T15:26:29",
+  "updatedAt": "2026-09-23T15:26:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Denver",
+    "title": "Take Me Home, Country Roads",
+    "album": "Poems, Prayers & Promises • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 pm",
-      "artist": "John Denver",
-      "title": "Take Me Home, Country Roads"
-    },
     {
       "time": "3:29 pm",
       "artist": "Joy Division",
@@ -26,9 +21,20 @@
       "time": "3:36 pm",
       "artist": "Otis Redding",
       "title": "Respect"
+    },
+    {
+      "time": "3:38 pm",
+      "artist": "Kenny Rogers",
+      "title": "Coward Of The County"
     }
   ],
   "recent": [
+    {
+      "time": "3:26 pm",
+      "artist": "John Denver",
+      "title": "Take Me Home, Country Roads",
+      "album": "Poems, Prayers & Promises • 1971"
+    },
     {
       "time": "3:23 pm",
       "artist": "SAULT",
@@ -172,12 +178,6 @@
       "artist": "Eric Clapton",
       "title": "Let It Rain",
       "album": "Eric Clapton • 1970"
-    },
-    {
-      "time": "1:43 pm",
-      "artist": "The Beatles",
-      "title": "Act Naturally",
-      "album": "Help! • 1965"
     }
   ]
 }
