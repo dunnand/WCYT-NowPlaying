@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T19:08:37",
+  "updatedAt": "2026-09-23T19:12:51",
   "now": {
-    "artist": "Seal",
-    "title": "Crazy",
-    "album": "Seal • 1991",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Olsen Olsen",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:12 pm",
-      "artist": "Sigur Ros",
-      "title": "Olsen Olsen"
-    },
     {
       "time": "7:19 pm",
       "artist": "Bon Jovi",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:12 pm",
+      "artist": "Sigur Ros",
+      "title": "Olsen Olsen",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "7:08 pm",
       "artist": "Seal",
@@ -172,12 +173,6 @@
       "artist": "Bright Eyes",
       "title": "First Day Of My Life",
       "album": "I'm Wide Awake, It's Morning • 2005"
-    },
-    {
-      "time": "5:34 pm",
-      "artist": "Supertramp",
-      "title": "Take The Long Way Home",
-      "album": "Breakfast in America • 1979"
     }
   ]
 }
