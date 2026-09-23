@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T12:10:00",
+  "updatedAt": "2026-09-23T12:14:14",
   "now": {
-    "artist": "Radiohead",
-    "title": "Little by Little",
-    "album": "The King of Limbs • 2011",
+    "artist": "Genesis",
+    "title": "No Son Of Mine",
+    "album": "We Can't Dance • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:14 pm",
-      "artist": "Genesis",
-      "title": "No Son Of Mine"
-    },
     {
       "time": "12:20 pm",
       "artist": "The Halo Benders",
@@ -21,9 +16,20 @@
       "time": "12:24 pm",
       "artist": "Genesis",
       "title": "Invisible Touch"
+    },
+    {
+      "time": "12:28 pm",
+      "artist": "Joy Division",
+      "title": "Isolation"
     }
   ],
   "recent": [
+    {
+      "time": "12:14 pm",
+      "artist": "Genesis",
+      "title": "No Son Of Mine",
+      "album": "We Can't Dance • 1991"
+    },
     {
       "time": "12:10 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Patsy Cline",
       "title": "I Fall To Pieces",
       "album": "Showcase • 1961"
-    },
-    {
-      "time": "10:27 am",
-      "artist": "The Clash",
-      "title": "Rudie Can't Fail",
-      "album": "London Calling • 1979"
     }
   ]
 }
