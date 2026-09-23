@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T03:42:22",
+  "updatedAt": "2026-09-23T03:44:25",
   "now": {
-    "artist": "The Crickets",
-    "title": "That'll Be the Day",
-    "album": "The Chirping Crickets • 1957",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "A-Punk",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "Vampire Weekend",
-      "title": "A-Punk"
-    },
     {
       "time": "3:46 am",
       "artist": "Johnny Cash",
@@ -21,9 +16,25 @@
       "time": "3:50 am",
       "artist": "LCD Soundsystem",
       "title": "Call the Police"
+    },
+    {
+      "time": "3:57 am",
+      "artist": "Alice in Chains",
+      "title": "No Excuses"
+    },
+    {
+      "time": "4:01 am",
+      "artist": "Amy Grant",
+      "title": "Baby, Baby"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "Vampire Weekend",
+      "title": "A-Punk",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "3:42 am",
       "artist": "The Crickets",
@@ -167,12 +178,6 @@
       "artist": "Janet Jackson",
       "title": "Rhythm Nation",
       "album": "Janet Jackson's Rhythm Nation 1814 • 1989"
-    },
-    {
-      "time": "2:16 am",
-      "artist": "Huey Lewis & The News",
-      "title": "Do You Believe In Love",
-      "album": "Picture This • 1982"
     }
   ]
 }
