@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T14:55:01",
+  "updatedAt": "2026-09-23T14:59:08",
   "now": {
-    "artist": "Destroyer",
-    "title": "The Sublimation Hour",
-    "album": "Streethawk A Seduction • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Strawberry Fields Forever",
+    "album": "Magical Mystery Tour • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:59 pm",
-      "artist": "The Beatles",
-      "title": "Strawberry Fields Forever"
-    },
     {
       "time": "3:03 pm",
       "artist": "Orville Peck",
@@ -21,9 +16,20 @@
       "time": "3:06 pm",
       "artist": "Michael Bolton",
       "title": "Love Is A Wonderful Thing"
+    },
+    {
+      "time": "3:10 pm",
+      "artist": "Michael Jackson",
+      "title": "Black or White"
     }
   ],
   "recent": [
+    {
+      "time": "2:59 pm",
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "2:55 pm",
       "artist": "Destroyer",
@@ -167,12 +173,6 @@
       "artist": "Lionel Richie",
       "title": "All Night Long (All Night)",
       "album": "Cant Slow Down • 1983"
-    },
-    {
-      "time": "1:18 pm",
-      "artist": "Jamiroquai",
-      "title": "Virtual Insanity",
-      "album": "Travelling Without Moving • 1996"
     }
   ]
 }
