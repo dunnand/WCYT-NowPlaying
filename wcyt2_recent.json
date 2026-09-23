@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T09:04:03",
+  "updatedAt": "2026-09-23T09:08:26",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "Amputations",
-    "album": "Something About Airplanes • 1998",
-    "category": "TUNES"
+    "artist": "Grateful Dead",
+    "title": "Touch of Grey",
+    "album": "In the Dark • 1987",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:08 am",
-      "artist": "Grateful Dead",
-      "title": "Touch of Grey"
-    },
     {
       "time": "9:14 am",
       "artist": "A",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:08 am",
+      "artist": "Grateful Dead",
+      "title": "Touch of Grey",
+      "album": "In the Dark • 1987"
+    },
     {
       "time": "9:04 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +173,6 @@
       "artist": "Rolling Stones",
       "title": "Paint It Black",
       "album": "Aftermath • 1966"
-    },
-    {
-      "time": "7:29 am",
-      "artist": "The Zutons",
-      "title": "Pressure Point",
-      "album": "Who Killed The Zutons? • 2004"
     }
   ]
 }
