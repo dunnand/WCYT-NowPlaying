@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T05:17:26",
+  "updatedAt": "2026-09-23T05:17:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Baba O'Reilly",
+    "album": "Who's Next • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:17 am",
-      "artist": "The Who",
-      "title": "Baba O'Reilly"
-    },
     {
       "time": "5:22 am",
       "artist": "Robert Randolph and the Family Band",
@@ -31,9 +26,20 @@
       "time": "5:34 am",
       "artist": "Beat Happening",
       "title": "Noise"
+    },
+    {
+      "time": "5:37 am",
+      "artist": "Impalas",
+      "title": "Sorry (I Ran All The Way Home)"
     }
   ],
   "recent": [
+    {
+      "time": "5:17 am",
+      "artist": "The Who",
+      "title": "Baba O'Reilly",
+      "album": "Who's Next • 1971"
+    },
     {
       "time": "5:13 am",
       "artist": "Radiohead",
@@ -177,12 +183,6 @@
       "artist": "Vampire Weekend",
       "title": "A-Punk",
       "album": "Vampire Weekend • 2008"
-    },
-    {
-      "time": "3:42 am",
-      "artist": "The Crickets",
-      "title": "That'll Be the Day",
-      "album": "The Chirping Crickets • 1957"
     }
   ]
 }
