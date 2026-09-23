@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T17:42:36",
+  "updatedAt": "2026-09-23T17:45:29",
   "now": {
-    "artist": "Monkees",
-    "title": "Daydream Believer",
-    "album": "The Birds, The Bees & The Monkees • 1968",
+    "artist": "Syd Barrett",
+    "title": "Dark Globe",
+    "album": "The Madcap Laughs • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:45 pm",
-      "artist": "Syd Barrett",
-      "title": "Dark Globe"
-    },
     {
       "time": "5:47 pm",
       "artist": "Public Enemy",
@@ -26,9 +21,20 @@
       "time": "5:57 pm",
       "artist": "Darondo",
       "title": "Didn't I"
+    },
+    {
+      "time": "6:00 pm",
+      "artist": "Dilated Peoples",
+      "title": "This Way"
     }
   ],
   "recent": [
+    {
+      "time": "5:45 pm",
+      "artist": "Syd Barrett",
+      "title": "Dark Globe",
+      "album": "The Madcap Laughs • 1970"
+    },
     {
       "time": "5:42 pm",
       "artist": "Monkees",
@@ -172,12 +178,6 @@
       "artist": "Phil Collins",
       "title": "Something Happened On The Way To Heaven",
       "album": "...But Seriously • 1990"
-    },
-    {
-      "time": "3:55 pm",
-      "artist": "Gorillaz",
-      "title": "On Melancholy Hill",
-      "album": "Plastic Beach • 2010"
     }
   ]
 }
