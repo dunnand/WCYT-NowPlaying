@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T00:48:26",
+  "updatedAt": "2026-09-23T00:53:22",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Truckin'",
-    "album": "American Beauty • 1970",
+    "artist": "The Band",
+    "title": "To Kingdom Come",
+    "album": "Music from Big Pink • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "The Band",
-      "title": "To Kingdom Come"
-    },
     {
       "time": "12:56 am",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "1:03 am",
       "artist": "Dion & The Belmonts",
       "title": "Where Or When"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Wilco",
+      "title": "Wilco (The Song)"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "The Band",
+      "title": "To Kingdom Come",
+      "album": "Music from Big Pink • 1968"
+    },
     {
       "time": "12:48 am",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Ke$ha",
       "title": "Die Young",
       "album": "Warrior • 2012"
-    },
-    {
-      "time": "10:50 pm",
-      "artist": "Radiohead",
-      "title": "Packt Like Sardines in a Crushd Tin Box",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
