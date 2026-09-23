@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-22T21:01:13",
+  "updatedAt": "2026-09-22T21:01:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Spice Girls",
+    "title": "Wannabe",
+    "album": "Spice • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:01 pm",
-      "artist": "Spice Girls",
-      "title": "Wannabe"
-    },
     {
       "time": "9:04 pm",
       "artist": "Spin Doctors",
@@ -26,9 +21,20 @@
       "time": "9:12 pm",
       "artist": "U2",
       "title": "Drowning man"
+    },
+    {
+      "time": "9:16 pm",
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 pm",
+      "artist": "Spice Girls",
+      "title": "Wannabe",
+      "album": "Spice • 1996"
+    },
     {
       "time": "8:57 pm",
       "artist": "Marina & The Diamonds",
@@ -172,12 +178,6 @@
       "artist": "Sam Cooke",
       "title": "Another Saturday Night",
       "album": "single • 1963"
-    },
-    {
-      "time": "7:30 pm",
-      "artist": "Carly Simon",
-      "title": "You Belong To Me",
-      "album": "Boys in the Trees • 1978"
     }
   ]
 }
