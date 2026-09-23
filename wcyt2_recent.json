@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T16:35:17",
+  "updatedAt": "2026-09-23T16:35:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ramones",
+    "title": "Blitzkrieg Bop",
+    "album": "Ramones • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 pm",
-      "artist": "Ramones",
-      "title": "Blitzkrieg Bop"
-    },
     {
       "time": "4:37 pm",
       "artist": "Kenny Rogers & The First Edition",
@@ -26,9 +21,20 @@
       "time": "4:44 pm",
       "artist": "The Presidents of the United States of America",
       "title": "Video Killed The Radio Star"
+    },
+    {
+      "time": "4:48 pm",
+      "artist": "Coasters",
+      "title": "Charlie Brown"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 pm",
+      "artist": "Ramones",
+      "title": "Blitzkrieg Bop",
+      "album": "Ramones • 1976"
+    },
     {
       "time": "4:32 pm",
       "artist": "Johnny Rivers",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Strawberry Fields Forever",
       "album": "Magical Mystery Tour • 1967"
-    },
-    {
-      "time": "2:55 pm",
-      "artist": "Destroyer",
-      "title": "The Sublimation Hour",
-      "album": "Streethawk A Seduction • 2001"
     }
   ]
 }
