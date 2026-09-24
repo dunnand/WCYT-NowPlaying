@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T22:42:30",
+  "updatedAt": "2026-09-23T22:45:56",
   "now": {
-    "artist": "Tom Petty",
-    "title": "You Wreck Me",
-    "album": "Wildflowers • 1994",
+    "artist": "Johnny Cash",
+    "title": "I Still Miss Someone",
+    "album": "The Fabulous Johnny Cash • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 pm",
-      "artist": "Johnny Cash",
-      "title": "I Still Miss Someone"
-    },
     {
       "time": "10:48 pm",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "10:55 pm",
       "artist": "Radiohead",
       "title": "Bloom"
+    },
+    {
+      "time": "11:00 pm",
+      "artist": "Wallflowers",
+      "title": "6th Avenue Heartache"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 pm",
+      "artist": "Johnny Cash",
+      "title": "I Still Miss Someone",
+      "album": "The Fabulous Johnny Cash • 1958"
+    },
     {
       "time": "10:42 pm",
       "artist": "Tom Petty",
@@ -172,12 +178,6 @@
       "artist": "Don Henley",
       "title": "The Heart Of The Matter",
       "album": "The End of the Innocence • 1989"
-    },
-    {
-      "time": "9:17 pm",
-      "artist": "Teenage Fanclub",
-      "title": "The Concept",
-      "album": "Bandwagonesque • 1991"
     }
   ]
 }
