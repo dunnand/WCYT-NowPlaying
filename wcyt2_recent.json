@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T21:54:27",
+  "updatedAt": "2026-09-23T21:56:32",
   "now": {
-    "artist": "Bill Haley and his Comets",
-    "title": "(We're Gonna) Rock Around the Clock",
-    "album": "Shake Rattle and Roll • 1955",
-    "category": "AUDIO"
+    "artist": "Andrew Bird",
+    "title": "Fake Palindromes",
+    "album": "Andrew Bird & the Mysterious Production of Eggs • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:56 pm",
-      "artist": "Andrew Bird",
-      "title": "Fake Palindromes"
-    },
     {
       "time": "9:59 pm",
       "artist": "Jim Reeves",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:56 pm",
+      "artist": "Andrew Bird",
+      "title": "Fake Palindromes",
+      "album": "Andrew Bird & the Mysterious Production of Eggs • 2005"
+    },
     {
       "time": "9:54 pm",
       "artist": "Bill Haley and his Comets",
@@ -172,12 +173,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Little Fury Things",
       "album": "You're Living All Over Me • 1987"
-    },
-    {
-      "time": "8:20 pm",
-      "artist": "Dead Kennedys",
-      "title": "Holiday in Cambodia",
-      "album": "Fresh Fruit for Rotting Vegetables • 1980"
     }
   ]
 }
