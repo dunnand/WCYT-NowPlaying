@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T22:39:13",
+  "updatedAt": "2026-09-23T22:42:30",
   "now": {
-    "artist": "Raspberries",
-    "title": "Go All the Way",
-    "album": "Raspberries • 1972",
+    "artist": "Tom Petty",
+    "title": "You Wreck Me",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:42 pm",
-      "artist": "Tom Petty",
-      "title": "You Wreck Me"
-    },
     {
       "time": "10:45 pm",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "10:52 pm",
       "artist": "Smokey Robinson & The Miracles",
       "title": "I Second That Emotion"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "Radiohead",
+      "title": "Bloom"
     }
   ],
   "recent": [
+    {
+      "time": "10:42 pm",
+      "artist": "Tom Petty",
+      "title": "You Wreck Me",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "10:39 pm",
       "artist": "Raspberries",
@@ -172,12 +178,6 @@
       "artist": "Teenage Fanclub",
       "title": "The Concept",
       "album": "Bandwagonesque • 1991"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Talk Talk",
-      "title": "Ascension Day",
-      "album": "Laughing Stock • 1991"
     }
   ]
 }
