@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T21:50:52",
+  "updatedAt": "2026-09-23T21:54:27",
   "now": {
-    "artist": "The Cardigans",
-    "title": "My Favourite Game",
-    "album": "Gran Turismo • 1998",
+    "artist": "Bill Haley and his Comets",
+    "title": "(We're Gonna) Rock Around the Clock",
+    "album": "Shake Rattle and Roll • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:54 pm",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock"
-    },
     {
       "time": "9:56 pm",
       "artist": "Andrew Bird",
@@ -26,9 +21,20 @@
       "time": "10:01 pm",
       "artist": "Twenty One Pilots",
       "title": "Holding On To You"
+    },
+    {
+      "time": "10:05 pm",
+      "artist": "The Jesus Lizard",
+      "title": "Then Comes Dudley"
     }
   ],
   "recent": [
+    {
+      "time": "9:54 pm",
+      "artist": "Bill Haley and his Comets",
+      "title": "(We're Gonna) Rock Around the Clock",
+      "album": "Shake Rattle and Roll • 1955"
+    },
     {
       "time": "9:50 pm",
       "artist": "The Cardigans",
@@ -172,12 +178,6 @@
       "artist": "Dead Kennedys",
       "title": "Holiday in Cambodia",
       "album": "Fresh Fruit for Rotting Vegetables • 1980"
-    },
-    {
-      "time": "8:16 pm",
-      "artist": "Sugar Ray",
-      "title": "Fly",
-      "album": "Floored • 1997"
     }
   ]
 }
