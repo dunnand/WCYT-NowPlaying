@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T00:10:55",
+  "updatedAt": "2026-09-24T00:13:50",
   "now": {
-    "artist": "Peter, Paul & Mary",
-    "title": "Blowin' In The Wind",
-    "album": "Peter, Paul and Mary • 1962",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Diane Young",
+    "album": "Modern Vampires Of The City • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:13 am",
-      "artist": "Vampire Weekend",
-      "title": "Diane Young"
-    },
     {
       "time": "12:16 am",
       "artist": "Jeff Buckley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:13 am",
+      "artist": "Vampire Weekend",
+      "title": "Diane Young",
+      "album": "Modern Vampires Of The City • 2013"
+    },
     {
       "time": "12:10 am",
       "artist": "Peter, Paul & Mary",
@@ -172,12 +173,6 @@
       "artist": "Elbow",
       "title": "Grace Under Pressure",
       "album": "Cast of Thousands • 2003"
-    },
-    {
-      "time": "10:19 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "good 4 u",
-      "album": "SOUR • 2021"
     }
   ]
 }
