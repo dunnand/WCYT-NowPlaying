@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T03:50:30",
+  "updatedAt": "2026-09-24T04:00:13",
   "now": {
-    "artist": "Funkadelic",
-    "title": "Maggot Brain",
-    "album": "Maggot Brain • 1971",
+    "artist": "The Beatles",
+    "title": "I'm Down",
+    "album": "single • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:00 am",
-      "artist": "The Beatles",
-      "title": "I'm Down"
-    },
     {
       "time": "4:02 am",
       "artist": "John Lennon",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:00 am",
+      "artist": "The Beatles",
+      "title": "I'm Down",
+      "album": "single • 1965"
+    },
     {
       "time": "3:50 am",
       "artist": "Funkadelic",
@@ -177,12 +178,6 @@
       "artist": "Tame Impala",
       "title": "The Less I Know The Better",
       "album": "Currents • 2015"
-    },
-    {
-      "time": "2:09 am",
-      "artist": "Sam Cooke",
-      "title": "Nobody Knows the Trouble I've Seen",
-      "album": "My Kind of Blues • 1961"
     }
   ]
 }
