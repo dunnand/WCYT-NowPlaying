@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T04:00:13",
+  "updatedAt": "2026-09-24T04:02:38",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'm Down",
-    "album": "single • 1965",
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "album": "Imagine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:02 am",
-      "artist": "John Lennon",
-      "title": "Imagine"
-    },
     {
       "time": "4:05 am",
       "artist": "Pavement",
@@ -23,12 +18,23 @@
       "title": "You Send Me"
     },
     {
-      "time": "4:11 am",
+      "time": "4:10 am",
       "artist": "Daft Punk",
       "title": "One More Time"
+    },
+    {
+      "time": "4:16 am",
+      "artist": "The Beatles",
+      "title": "Love Me Do"
     }
   ],
   "recent": [
+    {
+      "time": "4:02 am",
+      "artist": "John Lennon",
+      "title": "Imagine",
+      "album": "Imagine • 1971"
+    },
     {
       "time": "4:00 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Barbra Streisand And Bryan Adams",
       "title": "I Finally Found Someone",
       "album": "• 1996"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "Tame Impala",
-      "title": "The Less I Know The Better",
-      "album": "Currents • 2015"
     }
   ]
 }
