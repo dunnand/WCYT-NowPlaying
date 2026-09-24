@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T02:51:46",
+  "updatedAt": "2026-09-24T02:55:42",
   "now": {
-    "artist": "Cat Power",
-    "title": "Werewolf",
-    "album": "You Are Free • 2003",
-    "category": "TUNES"
+    "artist": "Muddy Waters",
+    "title": "Mannish Boy",
+    "album": "Electric Mud • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:55 am",
-      "artist": "Muddy Waters",
-      "title": "Mannish Boy"
-    },
     {
       "time": "2:59 am",
       "artist": "Crosby, Stills, Nash & Young",
@@ -26,9 +21,20 @@
       "time": "3:07 am",
       "artist": "Usher",
       "title": "DJ Got Us Falling In Love"
+    },
+    {
+      "time": "3:11 am",
+      "artist": "David Byrne & Brian Eno",
+      "title": "Strange Overtones"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 am",
+      "artist": "Muddy Waters",
+      "title": "Mannish Boy",
+      "album": "Electric Mud • 1968"
+    },
     {
       "time": "2:51 am",
       "artist": "Cat Power",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Bad Blood",
       "album": "1989 • 2014"
-    },
-    {
-      "time": "1:15 am",
-      "artist": "Elbow",
-      "title": "Any Day Now",
-      "album": "Asleep in the Back • 2001"
     }
   ]
 }
