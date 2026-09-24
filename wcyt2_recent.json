@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T06:59:35",
+  "updatedAt": "2026-09-24T07:02:48",
   "now": {
-    "artist": "The Doors",
-    "title": "Love Her Madly",
-    "album": "L.A. Woman • 1971",
+    "artist": "Billy Joel",
+    "title": "The River Of Dreams",
+    "album": "River of Dreams • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 am",
-      "artist": "Billy Joel",
-      "title": "The River Of Dreams"
-    },
     {
       "time": "7:06 am",
       "artist": "Dell",
@@ -26,9 +21,20 @@
       "time": "7:12 am",
       "artist": "Louis Armstrong",
       "title": "What a Wonderful World"
+    },
+    {
+      "time": "7:15 am",
+      "artist": "Wilco",
+      "title": "Quarters"
     }
   ],
   "recent": [
+    {
+      "time": "7:02 am",
+      "artist": "Billy Joel",
+      "title": "The River Of Dreams",
+      "album": "River of Dreams • 1993"
+    },
     {
       "time": "6:59 am",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "Cher",
       "title": "Believe",
       "album": "Believe • 1998"
-    },
-    {
-      "time": "5:26 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "Geek U.S.A.",
-      "album": "Siamese Dream • 1993"
     }
   ]
 }
