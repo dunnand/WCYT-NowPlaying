@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T09:39:16",
+  "updatedAt": "2026-09-24T09:44:13",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Have a Cigar",
-    "album": "Wish You Were Here • 1975",
+    "artist": "The Beatles",
+    "title": "Roll Over Beethoven",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:44 am",
-      "artist": "The Beatles",
-      "title": "Roll Over Beethoven"
-    },
     {
       "time": "9:47 am",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "9:55 am",
       "artist": "Led Zeppelin",
       "title": "Going to California"
+    },
+    {
+      "time": "9:58 am",
+      "artist": "9 Boyz",
+      "title": "Tootsie Roll"
     }
   ],
   "recent": [
+    {
+      "time": "9:44 am",
+      "artist": "The Beatles",
+      "title": "Roll Over Beethoven",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "9:39 am",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "The Apples in Stereo",
       "title": "Please",
       "album": "Velocity of Sound • 2002"
-    },
-    {
-      "time": "7:57 am",
-      "artist": "Ray Charles",
-      "title": "Take These Chains From My Heart",
-      "album": "single • 1955"
     }
   ]
 }
