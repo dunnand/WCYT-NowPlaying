@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T03:50:09",
+  "updatedAt": "2026-09-24T03:50:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Funkadelic",
+    "title": "Maggot Brain",
+    "album": "Maggot Brain • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:50 am",
-      "artist": "Funkadelic",
-      "title": "Maggot Brain"
-    },
     {
       "time": "4:00 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "4:08 am",
       "artist": "Sam Cooke",
       "title": "You Send Me"
+    },
+    {
+      "time": "4:11 am",
+      "artist": "Daft Punk",
+      "title": "One More Time"
     }
   ],
   "recent": [
+    {
+      "time": "3:50 am",
+      "artist": "Funkadelic",
+      "title": "Maggot Brain",
+      "album": "Maggot Brain • 1971"
+    },
     {
       "time": "3:47 am",
       "artist": "Johnny Ace",
@@ -177,12 +183,6 @@
       "artist": "Sam Cooke",
       "title": "Nobody Knows the Trouble I've Seen",
       "album": "My Kind of Blues • 1961"
-    },
-    {
-      "time": "2:04 am",
-      "artist": "Depeche Mode",
-      "title": "Precious",
-      "album": "Playing the Angel • 2005"
     }
   ]
 }
