@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T01:57:05",
+  "updatedAt": "2026-09-24T01:57:37",
   "now": {
-    "artist": "The Beatles",
-    "title": "Maggie Mae",
-    "album": "Let It Be • 1970",
+    "artist": "Bonnie Raitt",
+    "title": "I Can't Make You Love Me",
+    "album": "Luck of the Draw • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:57 am",
-      "artist": "Bonnie Raitt",
-      "title": "I Can't Make You Love Me"
-    },
     {
       "time": "2:02 am",
       "artist": "Jackie Wilson",
@@ -21,9 +16,20 @@
       "time": "2:04 am",
       "artist": "Depeche Mode",
       "title": "Precious"
+    },
+    {
+      "time": "2:09 am",
+      "artist": "Sam Cooke",
+      "title": "Nobody Knows the Trouble I've Seen"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 am",
+      "artist": "Bonnie Raitt",
+      "title": "I Can't Make You Love Me",
+      "album": "Luck of the Draw • 1991"
+    },
     {
       "time": "1:57 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Bad Religion",
       "title": "American Jesus",
       "album": "Recipe for Hate • 1993"
-    },
-    {
-      "time": "12:16 am",
-      "artist": "Jeff Buckley",
-      "title": "Lover, You Should've Come Over",
-      "album": "Grace • 1994"
     }
   ]
 }
