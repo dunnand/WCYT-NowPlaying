@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T09:39:06",
+  "updatedAt": "2026-09-24T09:39:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Have a Cigar",
+    "album": "Wish You Were Here • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:39 am",
-      "artist": "Pink Floyd",
-      "title": "Have a Cigar"
-    },
     {
       "time": "9:44 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "9:52 am",
       "artist": "Righteous Brothers",
       "title": "Ebb Tide"
+    },
+    {
+      "time": "9:55 am",
+      "artist": "Led Zeppelin",
+      "title": "Going to California"
     }
   ],
   "recent": [
+    {
+      "time": "9:39 am",
+      "artist": "Pink Floyd",
+      "title": "Have a Cigar",
+      "album": "Wish You Were Here • 1975"
+    },
     {
       "time": "9:34 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "Take These Chains From My Heart",
       "album": "single • 1955"
-    },
-    {
-      "time": "7:53 am",
-      "artist": "Felt",
-      "title": "Rain of Crystal Spires",
-      "album": "Bubblegum Perfume • 1990"
     }
   ]
 }
