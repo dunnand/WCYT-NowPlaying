@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T08:24:01",
+  "updatedAt": "2026-09-24T08:27:26",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Kokomo",
-    "album": "Still Cruisin' • 1988",
+    "artist": "Grimes",
+    "title": "You'll miss me when I'm not around",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "Grimes",
-      "title": "You'll miss me when I'm not around"
-    },
     {
       "time": "8:30 am",
       "artist": "Animal Collective",
@@ -26,9 +21,20 @@
       "time": "8:47 am",
       "artist": "Deftones",
       "title": "Passenger"
+    },
+    {
+      "time": "8:52 am",
+      "artist": "Taylor Swift",
+      "title": "Back To Decemeber"
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "Grimes",
+      "title": "You'll miss me when I'm not around",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "8:24 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Billy Joel",
       "title": "The River Of Dreams",
       "album": "River of Dreams • 1993"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "The Doors",
-      "title": "Love Her Madly",
-      "album": "L.A. Woman • 1971"
     }
   ]
 }
