@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T08:52:15",
+  "updatedAt": "2026-09-24T08:56:20",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Back To Decemeber",
-    "album": "Speak Now • 2010",
+    "artist": "Joni Mitchell",
+    "title": "The Hissing of Summer Lawns",
+    "album": "The Hissing of Summer Lawns • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:56 am",
-      "artist": "Joni Mitchell",
-      "title": "The Hissing of Summer Lawns"
-    },
     {
       "time": "8:59 am",
       "artist": "Del the Funky Homosapien",
@@ -26,9 +21,20 @@
       "time": "9:07 am",
       "artist": "Arctic Monkeys",
       "title": "Mardy Bum"
+    },
+    {
+      "time": "9:10 am",
+      "artist": "Daft Punk",
+      "title": "Digital Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:56 am",
+      "artist": "Joni Mitchell",
+      "title": "The Hissing of Summer Lawns",
+      "album": "The Hissing of Summer Lawns • 1975"
+    },
     {
       "time": "8:52 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Losing My Religion",
       "album": "Out of Time • 1991"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "Wilco",
-      "title": "Quarters",
-      "album": "Schmilco • 2016"
     }
   ]
 }
