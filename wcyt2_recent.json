@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T01:28:50",
+  "updatedAt": "2026-09-24T01:33:03",
   "now": {
-    "artist": "Garbage",
-    "title": "Stupid Girl",
-    "album": "Garbage • 1995",
+    "artist": "Neil Diamond",
+    "title": "Love On The Rocks",
+    "album": "The Jazz Singer • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:33 am",
-      "artist": "Neil Diamond",
-      "title": "Love On The Rocks"
-    },
     {
       "time": "1:36 am",
       "artist": "Nirvana",
@@ -21,9 +16,20 @@
       "time": "1:39 am",
       "artist": "Olivia Rodrigo",
       "title": "vampire"
+    },
+    {
+      "time": "1:43 am",
+      "artist": "Rick Derringer",
+      "title": "Rock And Roll, Hoochie Koo"
     }
   ],
   "recent": [
+    {
+      "time": "1:33 am",
+      "artist": "Neil Diamond",
+      "title": "Love On The Rocks",
+      "album": "The Jazz Singer • 1980"
+    },
     {
       "time": "1:28 am",
       "artist": "Garbage",
@@ -167,12 +173,6 @@
       "artist": "Wilco",
       "title": "Everyone Hides",
       "album": "Ode to Joy • 2019"
-    },
-    {
-      "time": "11:26 pm",
-      "artist": "Beck",
-      "title": "Lost Cause",
-      "album": "Sea Change • 2002"
     }
   ]
 }
