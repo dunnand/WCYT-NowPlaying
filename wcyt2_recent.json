@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T01:43:14",
+  "updatedAt": "2026-09-24T01:46:49",
   "now": {
-    "artist": "Rick Derringer",
-    "title": "Rock And Roll, Hoochie Koo",
-    "album": "All American Boy • 1974",
+    "artist": "Marvin Gaye",
+    "title": "You're All I Need to Get By",
+    "album": "Youre All I Need • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:46 am",
-      "artist": "Marvin Gaye",
-      "title": "You're All I Need to Get By"
-    },
     {
       "time": "1:49 am",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "1:57 am",
       "artist": "The Beatles",
       "title": "Maggie Mae"
+    },
+    {
+      "time": "1:57 am",
+      "artist": "Bonnie Raitt",
+      "title": "I Can't Make You Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "1:46 am",
+      "artist": "Marvin Gaye",
+      "title": "You're All I Need to Get By",
+      "album": "Youre All I Need • 1968"
+    },
     {
       "time": "1:43 am",
       "artist": "Rick Derringer",
@@ -172,12 +178,6 @@
       "artist": "Basement Jaxx",
       "title": "Where's Your Head At",
       "album": "Rooty • 2001"
-    },
-    {
-      "time": "12:03 am",
-      "artist": "John Lee Hooker",
-      "title": "I'm in the Mood",
-      "album": "single • 1951"
     }
   ]
 }
