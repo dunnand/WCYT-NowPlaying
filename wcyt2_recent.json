@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T02:09:06",
+  "updatedAt": "2026-09-24T02:12:30",
   "now": {
-    "artist": "Sam Cooke",
-    "title": "Nobody Knows the Trouble I've Seen",
-    "album": "My Kind of Blues • 1961",
-    "category": "AUDIO"
+    "artist": "Tame Impala",
+    "title": "The Less I Know The Better",
+    "album": "Currents • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:12 am",
-      "artist": "Tame Impala",
-      "title": "The Less I Know The Better"
-    },
     {
       "time": "2:15 am",
       "artist": "Barbra Streisand And Bryan Adams",
@@ -21,9 +16,25 @@
       "time": "2:19 am",
       "artist": "Candlebox",
       "title": "Far Behind"
+    },
+    {
+      "time": "2:24 am",
+      "artist": "The Pogues",
+      "title": "Dirty Old Town"
+    },
+    {
+      "time": "2:28 am",
+      "artist": "Public Enemy",
+      "title": "Bring The Noise"
     }
   ],
   "recent": [
+    {
+      "time": "2:12 am",
+      "artist": "Tame Impala",
+      "title": "The Less I Know The Better",
+      "album": "Currents • 2015"
+    },
     {
       "time": "2:09 am",
       "artist": "Sam Cooke",
@@ -167,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Viva la Vida",
       "album": "Viva la Vida or Death and All His Friends • 2008"
-    },
-    {
-      "time": "12:36 am",
-      "artist": "Olivia Rodrigo",
-      "title": "traitor",
-      "album": "SOUR • 2021"
     }
   ]
 }
