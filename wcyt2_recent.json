@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T00:30:00",
+  "updatedAt": "2026-09-24T00:30:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Metallica",
+    "title": "Fade to Black",
+    "album": "Ride the Lightning • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 am",
-      "artist": "Metallica",
-      "title": "Fade to Black"
-    },
     {
       "time": "12:36 am",
       "artist": "Olivia Rodrigo",
@@ -26,9 +21,20 @@
       "time": "12:44 am",
       "artist": "Elton John",
       "title": "Tiny Dancer"
+    },
+    {
+      "time": "12:50 am",
+      "artist": "Belle and Sebastian",
+      "title": "Stay Loose"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 am",
+      "artist": "Metallica",
+      "title": "Fade to Black",
+      "album": "Ride the Lightning • 1984"
+    },
     {
       "time": "12:26 am",
       "artist": "Men At Work",
@@ -172,12 +178,6 @@
       "artist": "Raspberries",
       "title": "Go All the Way",
       "album": "Raspberries • 1972"
-    },
-    {
-      "time": "10:36 pm",
-      "artist": "Taio Cruz",
-      "title": "Dynamite",
-      "album": "Rokstarr • 2011"
     }
   ]
 }
