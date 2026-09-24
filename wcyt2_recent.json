@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T23:19:59",
+  "updatedAt": "2026-09-23T23:23:52",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Junk Bond Trader",
-    "album": "Figure 8 • 2000",
-    "category": "TUNES"
+    "artist": "Waylon Jennings & Willie Nelson",
+    "title": "Mammas Don't Let Your Babies Grow Up To Be Cowboys",
+    "album": "Waylon & Willie • 1978",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:23 pm",
-      "artist": "Waylon Jennings & Willie Nelson",
-      "title": "Mammas Don't Let Your Babies Grow Up To Be Cowboys"
-    },
     {
       "time": "11:26 pm",
       "artist": "Beck",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:23 pm",
+      "artist": "Waylon Jennings & Willie Nelson",
+      "title": "Mammas Don't Let Your Babies Grow Up To Be Cowboys",
+      "album": "Waylon & Willie • 1978"
+    },
     {
       "time": "11:19 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Andrew Bird",
       "title": "Fake Palindromes",
       "album": "Andrew Bird & the Mysterious Production of Eggs • 2005"
-    },
-    {
-      "time": "9:54 pm",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock",
-      "album": "Shake Rattle and Roll • 1955"
     }
   ]
 }
