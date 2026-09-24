@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T00:03:12",
+  "updatedAt": "2026-09-24T00:05:45",
   "now": {
-    "artist": "John Lee Hooker",
-    "title": "I'm in the Mood",
-    "album": "single • 1951",
+    "artist": "Basement Jaxx",
+    "title": "Where's Your Head At",
+    "album": "Rooty • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "Basement Jaxx",
-      "title": "Where's Your Head At"
-    },
     {
       "time": "12:10 am",
       "artist": "Peter, Paul & Mary",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "Basement Jaxx",
+      "title": "Where's Your Head At",
+      "album": "Rooty • 2001"
+    },
     {
       "time": "12:03 am",
       "artist": "John Lee Hooker",
@@ -172,12 +173,6 @@
       "artist": "Gang of Four",
       "title": "What We All Want",
       "album": "single • 1981"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "Fugazi",
-      "title": "Give Me the Cure",
-      "album": "Fugazi • 1988"
     }
   ]
 }
