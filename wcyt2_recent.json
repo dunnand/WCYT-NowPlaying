@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T04:22:41",
+  "updatedAt": "2026-09-24T04:26:56",
   "now": {
-    "artist": "Radiohead",
-    "title": "Lucky",
-    "album": "OK Computer • 1997",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Baby Britain",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:26 am",
-      "artist": "Elliott Smith",
-      "title": "Baby Britain"
-    },
     {
       "time": "4:30 am",
       "artist": "The Vaselines",
@@ -21,9 +16,25 @@
       "time": "4:31 am",
       "artist": "They Might Be Giants",
       "title": "They'll Need a Crane"
+    },
+    {
+      "time": "4:34 am",
+      "artist": "Turnstile",
+      "title": "ALIEN LOVE CALL (feat. Blood Orange)"
+    },
+    {
+      "time": "4:37 am",
+      "artist": "Daft Punk",
+      "title": "Technologic"
     }
   ],
   "recent": [
+    {
+      "time": "4:26 am",
+      "artist": "Elliott Smith",
+      "title": "Baby Britain",
+      "album": "XO • 1998"
+    },
     {
       "time": "4:22 am",
       "artist": "Radiohead",
@@ -167,12 +178,6 @@
       "artist": "Cat Power",
       "title": "Werewolf",
       "album": "You Are Free • 2003"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "Chicago",
-      "title": "Beginnings",
-      "album": "Chicago Transit Authority • 1971"
     }
   ]
 }
