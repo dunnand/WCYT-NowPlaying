@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T22:27:53",
+  "updatedAt": "2026-09-23T22:32:23",
   "now": {
-    "artist": "David Bowie",
-    "title": "Rebel Rebel",
-    "album": "Diamond Dogs • 1974",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Asleep In The Back",
+    "album": "Asleep In the Back • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:32 pm",
-      "artist": "Elbow",
-      "title": "Asleep In The Back"
-    },
     {
       "time": "10:35 pm",
       "artist": "Taio Cruz",
@@ -28,12 +23,23 @@
       "title": "You Wreck Me"
     },
     {
-      "time": "10:46 pm",
+      "time": "10:45 pm",
       "artist": "Johnny Cash",
       "title": "I Still Miss Someone"
+    },
+    {
+      "time": "10:48 pm",
+      "artist": "Daft Punk",
+      "title": "Face to Face"
     }
   ],
   "recent": [
+    {
+      "time": "10:32 pm",
+      "artist": "Elbow",
+      "title": "Asleep In The Back",
+      "album": "Asleep In the Back • 2001"
+    },
     {
       "time": "10:27 pm",
       "artist": "David Bowie",
@@ -177,12 +183,6 @@
       "artist": "The Decemberists",
       "title": "I Was Meant for the Stage",
       "album": "Her Majesty the Decemberists • 2003"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "The Black Keys",
-      "title": "Just Couldn't Tie Me Down",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
