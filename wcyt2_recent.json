@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T00:40:45",
+  "updatedAt": "2026-09-24T00:44:39",
   "now": {
-    "artist": "Coldplay",
-    "title": "Viva la Vida",
-    "album": "Viva la Vida or Death and All His Friends • 2008",
+    "artist": "Elton John",
+    "title": "Tiny Dancer",
+    "album": "Madman Across the Water • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:44 am",
-      "artist": "Elton John",
-      "title": "Tiny Dancer"
-    },
     {
       "time": "12:50 am",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,25 @@
       "time": "1:00 am",
       "artist": "Fleetwood Mac",
       "title": "Say You Love Me"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "Eagle",
+      "title": "Eye Cherry - Save Tonight"
+    },
+    {
+      "time": "1:08 am",
+      "artist": "Son Little",
+      "title": "Blue Magic (Waikiki)"
     }
   ],
   "recent": [
+    {
+      "time": "12:44 am",
+      "artist": "Elton John",
+      "title": "Tiny Dancer",
+      "album": "Madman Across the Water • 1972"
+    },
     {
       "time": "12:40 am",
       "artist": "Coldplay",
@@ -172,12 +183,6 @@
       "artist": "Daft Punk",
       "title": "Face to Face",
       "album": "Discovery • 2001"
-    },
-    {
-      "time": "10:45 pm",
-      "artist": "Johnny Cash",
-      "title": "I Still Miss Someone",
-      "album": "The Fabulous Johnny Cash • 1958"
     }
   ]
 }
