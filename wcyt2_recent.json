@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T01:25:16",
+  "updatedAt": "2026-09-24T01:28:50",
   "now": {
-    "artist": "Brandy",
-    "title": "Have You Ever?",
-    "album": "Never Say Never • 1998",
+    "artist": "Garbage",
+    "title": "Stupid Girl",
+    "album": "Garbage • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:28 am",
-      "artist": "Garbage",
-      "title": "Stupid Girl"
-    },
     {
       "time": "1:33 am",
       "artist": "Neil Diamond",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:28 am",
+      "artist": "Garbage",
+      "title": "Stupid Girl",
+      "album": "Garbage • 1995"
+    },
     {
       "time": "1:25 am",
       "artist": "Brandy",
@@ -172,12 +173,6 @@
       "artist": "Beck",
       "title": "Lost Cause",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "11:23 pm",
-      "artist": "Waylon Jennings & Willie Nelson",
-      "title": "Mammas Don't Let Your Babies Grow Up To Be Cowboys",
-      "album": "Waylon & Willie • 1978"
     }
   ]
 }
