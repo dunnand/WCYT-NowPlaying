@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-24T03:44:57",
+  "updatedAt": "2026-09-24T03:45:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Moody Blue",
+    "album": "Moody Blue • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "Elvis Presley",
-      "title": "Moody Blue"
-    },
     {
       "time": "3:47 am",
       "artist": "Johnny Ace",
@@ -26,9 +21,20 @@
       "time": "4:00 am",
       "artist": "The Beatles",
       "title": "I'm Down"
+    },
+    {
+      "time": "4:02 am",
+      "artist": "John Lennon",
+      "title": "Imagine"
     }
   ],
   "recent": [
+    {
+      "time": "3:45 am",
+      "artist": "Elvis Presley",
+      "title": "Moody Blue",
+      "album": "Moody Blue • 1977"
+    },
     {
       "time": "3:42 am",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "Jackie Wilson",
       "title": "Lonely Teardrops",
       "album": "Lonely Teardrops • 1958"
-    },
-    {
-      "time": "1:57 am",
-      "artist": "Bonnie Raitt",
-      "title": "I Can't Make You Love Me",
-      "album": "Luck of the Draw • 1991"
     }
   ]
 }
