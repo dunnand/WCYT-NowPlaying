@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-23T23:58:11",
+  "updatedAt": "2026-09-24T00:03:12",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Cryin'",
-    "album": "Get a Grip • 1993",
+    "artist": "John Lee Hooker",
+    "title": "I'm in the Mood",
+    "album": "single • 1951",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "John Lee Hooker",
-      "title": "I'm in the Mood"
-    },
     {
       "time": "12:05 am",
       "artist": "Basement Jaxx",
@@ -26,9 +21,20 @@
       "time": "12:13 am",
       "artist": "Vampire Weekend",
       "title": "Diane Young"
+    },
+    {
+      "time": "12:16 am",
+      "artist": "Jeff Buckley",
+      "title": "Lover, You Should've Come Over"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "John Lee Hooker",
+      "title": "I'm in the Mood",
+      "album": "single • 1951"
+    },
     {
       "time": "11:58 pm",
       "artist": "Aerosmith",
@@ -172,12 +178,6 @@
       "artist": "Fugazi",
       "title": "Give Me the Cure",
       "album": "Fugazi • 1988"
-    },
-    {
-      "time": "10:09 pm",
-      "artist": "They Might Be Giants",
-      "title": "Istanbul (Not Constantinople)",
-      "album": "Flood • 1990"
     }
   ]
 }
