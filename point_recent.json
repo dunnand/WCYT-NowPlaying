@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-25T11:01:43",
+  "updatedAt": "2026-09-25T11:02:14",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Smiths",
+    "title": "Frankly, Mr. Shankly",
+    "album": "The Queen is Dead • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:02 am",
-      "artist": "The Smiths",
-      "title": "Frankly, Mr. Shankly"
-    },
     {
       "time": "11:04 am",
       "artist": "Good Dear Good",
@@ -26,9 +21,20 @@
       "time": "11:12 am",
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "Mars For The Rich"
+    },
+    {
+      "time": "11:16 am",
+      "artist": "Bright Eyes",
+      "title": "We Are Nowhere and it's Now"
     }
   ],
   "recent": [
+    {
+      "time": "11:02 am",
+      "artist": "The Smiths",
+      "title": "Frankly, Mr. Shankly",
+      "album": "The Queen is Dead • 1986"
+    },
     {
       "time": "10:58 am",
       "artist": "Sports Team",
@@ -172,12 +178,6 @@
       "artist": "Panda Bear",
       "title": "Comfy in Nautica",
       "album": "Person Pitch • 2007"
-    },
-    {
-      "time": "4:46 pm",
-      "artist": "Sylvan Esso",
-      "title": "Sledge",
-      "album": "Ow Infinity • 2026"
     }
   ]
 }
