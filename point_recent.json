@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-25T10:46:22",
+  "updatedAt": "2026-09-25T10:46:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bjork",
+    "title": "Bachelorette",
+    "album": "Homogenic • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:46 am",
-      "artist": "Bjork",
-      "title": "Bachelorette"
-    },
     {
       "time": "10:51 am",
       "artist": "Future Islands",
@@ -26,9 +21,20 @@
       "time": "11:00 am",
       "artist": "Saint Etienne",
       "title": "Spring"
+    },
+    {
+      "time": "11:04 am",
+      "artist": "Angel Olsen",
+      "title": "Enemy"
     }
   ],
   "recent": [
+    {
+      "time": "10:46 am",
+      "artist": "Bjork",
+      "title": "Bachelorette",
+      "album": "Homogenic • 1997"
+    },
     {
       "time": "10:44 am",
       "artist": "Alex G",
@@ -172,12 +178,6 @@
       "artist": "Westside Cowboy",
       "title": "Pin Up Boys",
       "album": "It Goes On • 2026"
-    },
-    {
-      "time": "4:31 pm",
-      "artist": "Ibibio Sound Machine",
-      "title": "Concept Of Love",
-      "album": "Chopping Mountain • 2026"
     }
   ]
 }
