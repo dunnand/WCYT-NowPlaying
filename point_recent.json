@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-25T15:00:18",
+  "updatedAt": "2026-09-25T15:00:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Slow Pulp",
+    "title": "Spill",
+    "album": "Melodie • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:00 pm",
-      "artist": "Slow Pulp",
-      "title": "Spill"
-    },
     {
       "time": "3:03 pm",
       "artist": "King Gizzard & The Lizard Wizard",
@@ -26,9 +21,20 @@
       "time": "3:12 pm",
       "artist": "Buck Meek",
       "title": "Gasoline"
+    },
+    {
+      "time": "3:15 pm",
+      "artist": "Ty Segall",
+      "title": "Hospital"
     }
   ],
   "recent": [
+    {
+      "time": "3:00 pm",
+      "artist": "Slow Pulp",
+      "title": "Spill",
+      "album": "Melodie • 2026"
+    },
     {
       "time": "2:58 pm",
       "artist": "Frankie Cosmos",
@@ -172,12 +178,6 @@
       "artist": "SAULT",
       "title": "Let Me Go",
       "album": "5 • 2019"
-    },
-    {
-      "time": "12:58 pm",
-      "artist": "CHVRCHES",
-      "title": "Roses",
-      "album": "• 2026"
     }
   ]
 }
