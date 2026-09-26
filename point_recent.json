@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-26T15:35:05",
+  "updatedAt": "2026-09-26T15:35:19",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
+    "artist": "This Is Lorelei",
+    "title": "The Kid With the Crown",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:35 pm",
-      "artist": "This Is Lorelei",
-      "title": "The Kid With the Crown"
-    },
     {
       "time": "3:39 pm",
       "artist": "Geese",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:35 pm",
+      "artist": "This Is Lorelei",
+      "title": "The Kid With the Crown",
+      "album": ""
+    },
     {
       "time": "3:30 pm",
       "artist": "Pavement",
@@ -172,12 +173,6 @@
       "artist": "Husker Du",
       "title": "Pink Turns to Blue",
       "album": "Zen Arcade • 1984"
-    },
-    {
-      "time": "2:05 pm",
-      "artist": "Ebbb",
-      "title": "Come Alive",
-      "album": "Shallow Hits • 2026"
     }
   ]
 }
