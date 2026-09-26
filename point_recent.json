@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-26T09:25:36",
+  "updatedAt": "2026-09-26T09:26:02",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Kate Bush",
+    "title": "Hello Earth",
+    "album": "Hounds of Love • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:26 am",
-      "artist": "Kate Bush",
-      "title": "Hello Earth"
-    },
     {
       "time": "9:29 am",
       "artist": "The War on Drugs",
@@ -26,9 +21,20 @@
       "time": "9:38 am",
       "artist": "Son Little",
       "title": "In Orbit"
+    },
+    {
+      "time": "9:41 am",
+      "artist": "Arlo Parks",
+      "title": "2SIDED"
     }
   ],
   "recent": [
+    {
+      "time": "9:26 am",
+      "artist": "Kate Bush",
+      "title": "Hello Earth",
+      "album": "Hounds of Love • 1985"
+    },
     {
       "time": "9:21 am",
       "artist": "M83",
@@ -172,12 +178,6 @@
       "artist": "Been Stellar",
       "title": "Adored",
       "album": "• 2025"
-    },
-    {
-      "time": "7:48 am",
-      "artist": "The Strokes",
-      "title": "Falling Out of Love",
-      "album": "Reality Awaits • 2026"
     }
   ]
 }
