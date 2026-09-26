@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-26T00:55:32",
+  "updatedAt": "2026-09-26T00:55:48",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "Where it's At",
+    "album": "Odelay • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "Beck",
-      "title": "Where it's At"
-    },
     {
       "time": "1:01 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "1:09 am",
       "artist": "The War on Drugs",
       "title": "Who's That"
+    },
+    {
+      "time": "1:14 am",
+      "artist": "Squirrel Flower",
+      "title": "Not Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "Beck",
+      "title": "Where it's At",
+      "album": "Odelay • 1996"
+    },
     {
       "time": "12:52 am",
       "artist": "The Avalanches",
@@ -172,12 +178,6 @@
       "artist": "Daughter",
       "title": "Not Enough",
       "album": "• 2026"
-    },
-    {
-      "time": "11:10 pm",
-      "artist": "Swans",
-      "title": "Stay Here",
-      "album": "Filth • 1983"
     }
   ]
 }
