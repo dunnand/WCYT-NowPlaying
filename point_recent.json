@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-27T09:33:40",
+  "updatedAt": "2026-09-27T09:33:56",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Rebounder",
+    "title": "Downtown People",
+    "album": "Downtown People • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:33 am",
-      "artist": "Rebounder",
-      "title": "Downtown People"
-    },
     {
       "time": "9:37 am",
       "artist": "Slow Pulp",
@@ -26,9 +21,20 @@
       "time": "9:42 am",
       "artist": "Avalon Emerson",
       "title": "Happy Birthday"
+    },
+    {
+      "time": "9:47 am",
+      "artist": "The Flaming Lips",
+      "title": "A Spoonful Weighs a Ton"
     }
   ],
   "recent": [
+    {
+      "time": "9:33 am",
+      "artist": "Rebounder",
+      "title": "Downtown People",
+      "album": "Downtown People • 2026"
+    },
     {
       "time": "9:30 am",
       "artist": "the Mountain Goats",
@@ -172,12 +178,6 @@
       "artist": "Stereolab",
       "title": "Metronomic Underground",
       "album": "Emperor Tomato Ketchup • 1996"
-    },
-    {
-      "time": "8:01 am",
-      "artist": "Cut Worms",
-      "title": "Windows on the World",
-      "album": "Transmitter • 2026"
     }
   ]
 }
