@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-27T12:34:35",
+  "updatedAt": "2026-09-27T12:34:49",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Ebbb",
+    "title": "Come Alive",
+    "album": "Shallow Hits • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Ebbb",
-      "title": "Come Alive"
-    },
     {
       "time": "12:37 pm",
       "artist": "Los Campesinos!",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Ebbb",
+      "title": "Come Alive",
+      "album": "Shallow Hits • 2026"
+    },
     {
       "time": "12:31 pm",
       "artist": "The Only Ones",
@@ -172,12 +173,6 @@
       "artist": "Les Savy Fav",
       "title": "Guzzle Blood",
       "album": "Oui, LSF • 2024"
-    },
-    {
-      "time": "11:08 am",
-      "artist": "Songs Ohia",
-      "title": "Lioness",
-      "album": "The Lioness • 2000"
     }
   ]
 }
