@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-27T13:39:58",
+  "updatedAt": "2026-09-27T13:42:33",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Hello Operator",
-    "album": "De Stijl • 2000",
+    "artist": "Slow Pulp",
+    "title": "Red Car",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 pm",
-      "artist": "Slow Pulp",
-      "title": "Red Car"
-    },
     {
       "time": "1:46 pm",
       "artist": "Beck",
@@ -21,9 +16,20 @@
       "time": "1:49 pm",
       "artist": "This Is Lorelei",
       "title": "The Kid With the Crown"
+    },
+    {
+      "time": "1:53 pm",
+      "artist": "Stephen Malkmus and the Jicks",
+      "title": "Baltimore"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 pm",
+      "artist": "Slow Pulp",
+      "title": "Red Car",
+      "album": ""
+    },
     {
       "time": "1:39 pm",
       "artist": "The White Stripes",
@@ -167,12 +173,6 @@
       "artist": "Unknown Mortal Orchestra",
       "title": "FFunny FFrends",
       "album": "Unknown Mortal Orchestra • 2011"
-    },
-    {
-      "time": "12:13 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "Riptides",
-      "album": "I Built You A Tower • 2026"
     }
   ]
 }
