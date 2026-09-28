@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-28T05:56:04",
+  "updatedAt": "2026-09-28T05:56:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Elliott Smith",
+    "title": "Sweet Adeline",
+    "album": "XO • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:56 am",
-      "artist": "Elliott Smith",
-      "title": "Sweet Adeline"
-    },
     {
       "time": "5:59 am",
       "artist": "Bon Iver",
@@ -26,9 +21,20 @@
       "time": "6:06 am",
       "artist": "Khruangbin",
       "title": "Pon Pon"
+    },
+    {
+      "time": "6:09 am",
+      "artist": "Andy Shauf",
+      "title": "Green Glass"
     }
   ],
   "recent": [
+    {
+      "time": "5:56 am",
+      "artist": "Elliott Smith",
+      "title": "Sweet Adeline",
+      "album": "XO • 1998"
+    },
     {
       "time": "5:52 am",
       "artist": "Kevin Morby",
@@ -172,12 +178,6 @@
       "artist": "Animal Collective",
       "title": "Bluish",
       "album": "Merriweather Post Pavilion • 2009"
-    },
-    {
-      "time": "4:12 am",
-      "artist": "Beck",
-      "title": "Run Away",
-      "album": "Ride Lonesome • 2026"
     }
   ]
 }
