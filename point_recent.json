@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-28T08:56:16",
+  "updatedAt": "2026-09-28T08:56:30",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bjork",
+    "title": "Army of Me",
+    "album": "Post • 1995",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:56 am",
-      "artist": "Bjork",
-      "title": "Army of Me"
-    },
     {
       "time": "9:00 am",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "9:07 am",
       "artist": "One Step Closer",
       "title": "Giant's Despair"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Lankum",
+      "title": "Newcastle"
     }
   ],
   "recent": [
+    {
+      "time": "8:56 am",
+      "artist": "Bjork",
+      "title": "Army of Me",
+      "album": "Post • 1995"
+    },
     {
       "time": "8:53 am",
       "artist": "beabadoobee",
@@ -172,12 +178,6 @@
       "artist": "Ibibio Sound Machine",
       "title": "Concept Of Love",
       "album": "Chopping Mountain • 2026"
-    },
-    {
-      "time": "7:14 am",
-      "artist": "Downtown Boys",
-      "title": "Yellow Sun",
-      "album": "Public Luxury • 2026"
     }
   ]
 }
