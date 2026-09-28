@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-28T08:43:09",
+  "updatedAt": "2026-09-28T08:43:25",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Spiritualized",
+    "title": "Crazy",
+    "album": "Everything Was Beautiful • 2022",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:43 am",
-      "artist": "Spiritualized",
-      "title": "Crazy"
-    },
     {
       "time": "8:47 am",
       "artist": "Talk Talk",
@@ -26,9 +21,20 @@
       "time": "8:56 am",
       "artist": "Bjork",
       "title": "Army of Me"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "Sufjan Stevens",
+      "title": "Tell Me You Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "8:43 am",
+      "artist": "Spiritualized",
+      "title": "Crazy",
+      "album": "Everything Was Beautiful • 2022"
+    },
     {
       "time": "8:40 am",
       "artist": "Wednesday",
@@ -172,12 +178,6 @@
       "artist": "Hospitality",
       "title": "Friends of Friends",
       "album": "Hospitality • 2012"
-    },
-    {
-      "time": "7:03 am",
-      "artist": "Lucy Dacus",
-      "title": "First Time",
-      "album": "Home Video • 2021"
     }
   ]
 }
