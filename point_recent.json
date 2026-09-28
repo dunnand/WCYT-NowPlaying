@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-28T05:09:56",
+  "updatedAt": "2026-09-28T05:13:28",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Time Waited",
-    "album": "Is • 2025",
+    "artist": "This Is Lorelei",
+    "title": "The Kid With the Crown",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:13 am",
-      "artist": "This Is Lorelei",
-      "title": "The Kid With the Crown"
-    },
     {
       "time": "5:17 am",
       "artist": "Sylvan Esso",
@@ -26,9 +21,20 @@
       "time": "5:26 am",
       "artist": "Alex G",
       "title": "Immunity"
+    },
+    {
+      "time": "5:30 am",
+      "artist": "The Strokes",
+      "title": "At The Door"
     }
   ],
   "recent": [
+    {
+      "time": "5:13 am",
+      "artist": "This Is Lorelei",
+      "title": "The Kid With the Crown",
+      "album": ""
+    },
     {
       "time": "5:09 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Talk Talk",
       "title": "After the Flood",
       "album": "Laughing Stock • 1991"
-    },
-    {
-      "time": "3:32 am",
-      "artist": "Ethel Cain",
-      "title": "American Teenager",
-      "album": "Preacher's Daughter • 2022"
     }
   ]
 }
