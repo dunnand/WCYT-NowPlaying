@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-29T11:20:06",
+  "updatedAt": "2026-09-29T11:20:16",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This is Lorelei",
+    "title": "Billy Came Back",
+    "album": "The Singer Is My Band • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:20 am",
-      "artist": "This is Lorelei",
-      "title": "Billy Came Back"
-    },
     {
       "time": "11:23 am",
       "artist": "Dazy",
@@ -26,9 +21,20 @@
       "time": "11:32 am",
       "artist": "Twisted Teens",
       "title": "When We First Met"
+    },
+    {
+      "time": "11:34 am",
+      "artist": "Spoon",
+      "title": "My Babe"
     }
   ],
   "recent": [
+    {
+      "time": "11:20 am",
+      "artist": "This is Lorelei",
+      "title": "Billy Came Back",
+      "album": "The Singer Is My Band • 2026"
+    },
     {
       "time": "11:15 am",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "The Mountain Goats",
       "title": "Lovecraft in Brooklyn",
       "album": "Heretic Pride • 2008"
-    },
-    {
-      "time": "9:42 am",
-      "artist": "The Strokes",
-      "title": "Happy Ending",
-      "album": "Comedown Machine • 2013"
     }
   ]
 }
