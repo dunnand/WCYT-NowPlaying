@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-29T17:20:24",
+  "updatedAt": "2026-09-29T17:20:35",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Duster",
+    "title": "Gold Dust",
+    "album": "Stratosphere • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:20 pm",
-      "artist": "Duster",
-      "title": "Gold Dust"
-    },
     {
       "time": "5:23 pm",
       "artist": "Hatchie",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:20 pm",
+      "artist": "Duster",
+      "title": "Gold Dust",
+      "album": "Stratosphere • 1998"
+    },
     {
       "time": "5:17 pm",
       "artist": "Jungle",
@@ -162,12 +163,6 @@
       "artist": "CHVRCHES",
       "title": "Roses",
       "album": "• 2026"
-    },
-    {
-      "time": "3:54 pm",
-      "artist": "The Mountain Goats",
-      "title": "Cold at Night",
-      "album": "Through This Fire Across From Peter Balkan • 2025"
     }
   ]
 }
