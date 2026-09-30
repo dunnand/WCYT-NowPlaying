@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T14:29:52",
+  "updatedAt": "2026-09-30T14:33:04",
   "now": {
-    "artist": "Beach Weather",
-    "title": "Chit Chat",
-    "album": "Chit Chat • 2016",
+    "artist": "David Bowie",
+    "title": "Wild Is the Wind",
+    "album": "Station to Station • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:33 pm",
-      "artist": "David Bowie",
-      "title": "Wild Is the Wind"
-    },
     {
       "time": "2:38 pm",
       "artist": "Foo Fighters",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:33 pm",
+      "artist": "David Bowie",
+      "title": "Wild Is the Wind",
+      "album": "Station to Station • 1976"
+    },
     {
       "time": "2:29 pm",
       "artist": "Beach Weather",
@@ -172,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "I Am One",
       "album": "Gish • 1991"
-    },
-    {
-      "time": "1:04 pm",
-      "artist": "Eminem",
-      "title": "Love The Way You Lie",
-      "album": "Recovery • 2010"
     }
   ]
 }
