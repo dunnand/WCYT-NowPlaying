@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T19:00:29",
+  "updatedAt": "2026-09-30T19:03:24",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "Hopelessly Devoted To You",
-    "album": "Grease Soundtrack • 1978",
+    "artist": "The Doors",
+    "title": "When the Music's Over",
+    "album": "Strange Days • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:03 pm",
-      "artist": "The Doors",
-      "title": "When the Music's Over"
-    },
     {
       "time": "7:14 pm",
       "artist": "Parliament",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:03 pm",
+      "artist": "The Doors",
+      "title": "When the Music's Over",
+      "album": "Strange Days • 1967"
+    },
     {
       "time": "7:00 pm",
       "artist": "Olivia Newton-John",
@@ -177,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "Thinking out Loud",
       "album": "x • 2014"
-    },
-    {
-      "time": "5:30 pm",
-      "artist": "The Strokes",
-      "title": "Alone, Together.",
-      "album": "Is This It • 2001"
     }
   ]
 }
