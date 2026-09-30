@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T10:00:11",
+  "updatedAt": "2026-09-30T10:04:44",
   "now": {
-    "artist": "George Harrison",
-    "title": "My Sweet Lord",
-    "album": "All Things Must Pass • 1970",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "Center of The Universe",
+    "album": "Keep It Like A Secret • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:04 am",
-      "artist": "Built to Spill",
-      "title": "Center of The Universe"
-    },
     {
       "time": "10:07 am",
       "artist": "A Tribe Called Quest",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:04 am",
+      "artist": "Built to Spill",
+      "title": "Center of The Universe",
+      "album": "Keep It Like A Secret • 1999"
+    },
     {
       "time": "10:00 am",
       "artist": "George Harrison",
@@ -172,12 +173,6 @@
       "artist": "Missy Elliott",
       "title": "The Rain (Supa Dupa Fly)",
       "album": "Supa Dupa Fly • 1997"
-    },
-    {
-      "time": "8:16 am",
-      "artist": "Weezer",
-      "title": "Undone - The Sweater Song",
-      "album": "Weezer • 1994"
     }
   ]
 }
