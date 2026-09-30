@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T09:17:44",
+  "updatedAt": "2026-09-30T09:20:05",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yellow Submarine",
-    "album": "Yellow Submarine • 1969",
+    "artist": "Chance the Rapper",
+    "title": "Do You Remember",
+    "album": "Do You Remember • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 am",
-      "artist": "Chance the Rapper",
-      "title": "Do You Remember"
-    },
     {
       "time": "9:24 am",
       "artist": "R.E.M.",
@@ -21,9 +16,20 @@
       "time": "9:28 am",
       "artist": "Belle and Sebastian",
       "title": "Me and the Major"
+    },
+    {
+      "time": "9:32 am",
+      "artist": "XTC",
+      "title": "Dear God"
     }
   ],
   "recent": [
+    {
+      "time": "9:20 am",
+      "artist": "Chance the Rapper",
+      "title": "Do You Remember",
+      "album": "Do You Remember • 2019"
+    },
     {
       "time": "9:17 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "9 Boyz",
       "title": "Tootsie Roll",
       "album": "199Quad • 1994"
-    },
-    {
-      "time": "9:55 am",
-      "artist": "Led Zeppelin",
-      "title": "Going to California",
-      "album": "Led Zeppelin IV • 1971"
     }
   ]
 }
