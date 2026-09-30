@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T10:04:44",
+  "updatedAt": "2026-09-30T10:07:16",
   "now": {
-    "artist": "Built to Spill",
-    "title": "Center of The Universe",
-    "album": "Keep It Like A Secret • 1999",
-    "category": "TUNES"
+    "artist": "A Tribe Called Quest",
+    "title": "We The People",
+    "album": "We The People.... • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 am",
-      "artist": "A Tribe Called Quest",
-      "title": "We The People"
-    },
     {
       "time": "10:10 am",
       "artist": "Linkin Park",
@@ -21,9 +16,20 @@
       "time": "10:14 am",
       "artist": "Nirvana",
       "title": "You Know You're Right"
+    },
+    {
+      "time": "10:18 am",
+      "artist": "Ariana Grande",
+      "title": "The Way"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 am",
+      "artist": "A Tribe Called Quest",
+      "title": "We The People",
+      "album": "We The People.... • 2016"
+    },
     {
       "time": "10:04 am",
       "artist": "Built to Spill",
@@ -167,12 +173,6 @@
       "artist": "Van Halen",
       "title": "Jump",
       "album": "1984 • 1984"
-    },
-    {
-      "time": "8:21 am",
-      "artist": "Missy Elliott",
-      "title": "The Rain (Supa Dupa Fly)",
-      "album": "Supa Dupa Fly • 1997"
     }
   ]
 }
