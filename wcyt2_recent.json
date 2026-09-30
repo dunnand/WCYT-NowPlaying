@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T19:27:54",
+  "updatedAt": "2026-09-30T19:30:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "Mr. Moonlight",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Beyonce",
+    "title": "Blue",
+    "album": "Beyonce • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 pm",
-      "artist": "Beyonce",
-      "title": "Blue"
-    },
     {
       "time": "7:34 pm",
       "artist": "The Afghan Whigs",
@@ -23,12 +18,18 @@
       "title": "All I Need (feat. Beth Hirsch)"
     },
     {
-      "time": "7:43 pm",
+      "time": "7:42 pm",
       "artist": "Dinosaur Jr.",
       "title": "Freak Scene"
     }
   ],
   "recent": [
+    {
+      "time": "7:30 pm",
+      "artist": "Beyonce",
+      "title": "Blue",
+      "album": "Beyonce • 2013"
+    },
     {
       "time": "7:27 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Funkadelic",
       "title": "Hit It and Quit It",
       "album": "Maggot Brain • 1971"
-    },
-    {
-      "time": "5:53 pm",
-      "artist": "Weezer  Best Coast",
-      "title": "Go Away",
-      "album": ""
     }
   ]
 }
