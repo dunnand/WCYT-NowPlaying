@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T19:30:17",
+  "updatedAt": "2026-09-30T19:34:33",
   "now": {
-    "artist": "Beyonce",
-    "title": "Blue",
-    "album": "Beyonce • 2013",
-    "category": "AUDIO"
+    "artist": "The Afghan Whigs",
+    "title": "Gentlemen",
+    "album": "Gentlemen • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:34 pm",
-      "artist": "The Afghan Whigs",
-      "title": "Gentlemen"
-    },
     {
       "time": "7:38 pm",
       "artist": "Air",
@@ -21,9 +16,20 @@
       "time": "7:42 pm",
       "artist": "Dinosaur Jr.",
       "title": "Freak Scene"
+    },
+    {
+      "time": "7:46 pm",
+      "artist": "Don Henley",
+      "title": "All She Wants To Do Is Dance"
     }
   ],
   "recent": [
+    {
+      "time": "7:34 pm",
+      "artist": "The Afghan Whigs",
+      "title": "Gentlemen",
+      "album": "Gentlemen • 1993"
+    },
     {
       "time": "7:30 pm",
       "artist": "Beyonce",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "The End",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "5:56 pm",
-      "artist": "Funkadelic",
-      "title": "Hit It and Quit It",
-      "album": "Maggot Brain • 1971"
     }
   ]
 }
