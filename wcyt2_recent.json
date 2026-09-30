@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T13:40:20",
+  "updatedAt": "2026-09-30T13:44:33",
   "now": {
-    "artist": "Pavement",
-    "title": "Rattled By The Rush",
-    "album": "Wowee Zowee • 1995",
-    "category": "TUNES"
+    "artist": "Louis Armstrong & His All-Stars",
+    "title": "Ain't Misbehavin'",
+    "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:44 pm",
-      "artist": "Louis Armstrong & His All",
-      "title": "Stars - Ain't Misbehavin'"
-    },
     {
       "time": "1:49 pm",
       "artist": "Justice",
@@ -26,9 +21,20 @@
       "time": "1:56 pm",
       "artist": "Bruno Mars",
       "title": "Just the Way You Are"
+    },
+    {
+      "time": "2:00 pm",
+      "artist": "The Flaming Lips",
+      "title": "Slow Motion"
     }
   ],
   "recent": [
+    {
+      "time": "1:44 pm",
+      "artist": "Louis Armstrong & His All-Stars",
+      "title": "Ain't Misbehavin'",
+      "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
+    },
     {
       "time": "1:40 pm",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "The B-52's",
       "title": "Roam",
       "album": "Cosmic Thing • 1989"
-    },
-    {
-      "time": "12:19 pm",
-      "artist": "Elliott Smith",
-      "title": "Alameda",
-      "album": "Either Or • 1997"
     }
   ]
 }
