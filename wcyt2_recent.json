@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T13:37:18",
+  "updatedAt": "2026-09-30T13:40:20",
   "now": {
-    "artist": "The Clash",
-    "title": "Train in Vain",
-    "album": "London Calling • 1979",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Rattled By The Rush",
+    "album": "Wowee Zowee • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:40 pm",
-      "artist": "Pavement",
-      "title": "Rattled By The Rush"
-    },
     {
       "time": "1:44 pm",
       "artist": "Louis Armstrong & His All",
@@ -26,9 +21,20 @@
       "time": "1:54 pm",
       "artist": "The Beatles",
       "title": "Lovely Rita"
+    },
+    {
+      "time": "1:56 pm",
+      "artist": "Bruno Mars",
+      "title": "Just the Way You Are"
     }
   ],
   "recent": [
+    {
+      "time": "1:40 pm",
+      "artist": "Pavement",
+      "title": "Rattled By The Rush",
+      "album": "Wowee Zowee • 1995"
+    },
     {
       "time": "1:37 pm",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Alameda",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "12:15 pm",
-      "artist": "Peabo Bryson & Regina Belle",
-      "title": "A Whole New World (Aladdin's Theme)",
-      "album": "Aladdin Soundtrack • 1992"
     }
   ]
 }
