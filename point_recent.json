@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T00:40:52",
+  "updatedAt": "2026-09-30T00:41:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
+    "artist": "Beck",
+    "title": "Ride Lonesome",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:41 am",
-      "artist": "Beck",
-      "title": "Ride Lonesome"
-    },
     {
       "time": "12:45 am",
       "artist": "Slow Pulp",
@@ -26,9 +21,20 @@
       "time": "12:52 am",
       "artist": "Ethel Cain",
       "title": "Nettles"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "The Smile",
+      "title": "Don't Get Me Started"
     }
   ],
   "recent": [
+    {
+      "time": "12:41 am",
+      "artist": "Beck",
+      "title": "Ride Lonesome",
+      "album": ""
+    },
     {
       "time": "12:33 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +178,6 @@
       "artist": "Fontaines D.C.",
       "title": "Big",
       "album": "Dogrel • 2019"
-    },
-    {
-      "time": "11:14 pm",
-      "artist": "Swapmeet",
-      "title": "Bonny",
-      "album": "Mount Zero • 2026"
     }
   ]
 }
