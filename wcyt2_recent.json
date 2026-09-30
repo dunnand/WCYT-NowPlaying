@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T10:44:23",
+  "updatedAt": "2026-09-30T10:47:55",
   "now": {
-    "artist": "KISS",
-    "title": "Detroit Rock City",
-    "album": "Destroyer • 1976",
+    "artist": "The Kinks",
+    "title": "Days",
+    "album": "Arthur • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:47 am",
-      "artist": "The Kinks",
-      "title": "Days"
-    },
     {
       "time": "10:51 am",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "10:56 am",
       "artist": "Bobby Goldsboro",
       "title": "Watchin' Scotty Grow"
+    },
+    {
+      "time": "10:58 am",
+      "artist": "I Monster",
+      "title": "Daydream In Blue"
     }
   ],
   "recent": [
+    {
+      "time": "10:47 am",
+      "artist": "The Kinks",
+      "title": "Days",
+      "album": "Arthur • 1969"
+    },
     {
       "time": "10:44 am",
       "artist": "KISS",
@@ -172,12 +178,6 @@
       "artist": "My Chemical Romance",
       "title": "Helena",
       "album": "Three Cheers for Sweet Revenge • 2004"
-    },
-    {
-      "time": "9:12 am",
-      "artist": "Ritchie Valens",
-      "title": "Come on, Let's Go",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
