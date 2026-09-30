@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T09:12:07",
+  "updatedAt": "2026-09-30T09:12:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ritchie Valens",
+    "title": "Come on, Let's Go",
+    "album": "Ritchie Valens • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 am",
-      "artist": "Ritchie Valens",
-      "title": "Come on, Let's Go"
-    },
     {
       "time": "9:14 am",
       "artist": "My Chemical Romance",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:12 am",
+      "artist": "Ritchie Valens",
+      "title": "Come on, Let's Go",
+      "album": "Ritchie Valens • 1959"
+    },
     {
       "time": "9:08 am",
       "artist": "House of Pain",
@@ -172,12 +173,6 @@
       "artist": "Grateful Dead",
       "title": "Eyes of the World",
       "album": "Wake of the Flood • 1973"
-    },
-    {
-      "time": "9:44 am",
-      "artist": "The Beatles",
-      "title": "Roll Over Beethoven",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
