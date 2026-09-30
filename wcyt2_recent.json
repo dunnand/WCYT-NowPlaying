@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T10:25:29",
+  "updatedAt": "2026-09-30T10:28:31",
   "now": {
-    "artist": "Radiohead",
-    "title": "Bones",
-    "album": "The Bends • 1995",
+    "artist": "ABC",
+    "title": "Poison Arrow",
+    "album": "The Lexicon of Love • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:28 am",
-      "artist": "ABC",
-      "title": "Poison Arrow"
-    },
     {
       "time": "10:32 am",
       "artist": "A.C. Marias",
@@ -21,9 +16,20 @@
       "time": "10:37 am",
       "artist": "Yuka Tsujiyoko",
       "title": "Fire Emblem: Seisen no Keifu (The Continent Thereafter)"
+    },
+    {
+      "time": "10:44 am",
+      "artist": "KISS",
+      "title": "Detroit Rock City"
     }
   ],
   "recent": [
+    {
+      "time": "10:28 am",
+      "artist": "ABC",
+      "title": "Poison Arrow",
+      "album": "The Lexicon of Love • 1982"
+    },
     {
       "time": "10:25 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Money (That's What I Want)",
       "album": "With the Beatles • 1963"
-    },
-    {
-      "time": "8:57 am",
-      "artist": "Commodores",
-      "title": "Machine Gun",
-      "album": "Machine Gun • 1974"
     }
   ]
 }
