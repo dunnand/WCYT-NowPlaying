@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T14:25:18",
+  "updatedAt": "2026-09-30T14:29:52",
   "now": {
-    "artist": "Peter Bjorn and John",
-    "title": "Young Folk",
-    "album": "Writer's Block • 2006",
-    "category": "TUNES"
+    "artist": "Beach Weather",
+    "title": "Chit Chat",
+    "album": "Chit Chat • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:29 pm",
-      "artist": "Beach Weather",
-      "title": "Chit Chat"
-    },
     {
       "time": "2:33 pm",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "2:43 pm",
       "artist": "Buddy Holly",
       "title": "Well...All Right"
+    },
+    {
+      "time": "2:45 pm",
+      "artist": "M83",
+      "title": "Run Into Flowers"
     }
   ],
   "recent": [
+    {
+      "time": "2:29 pm",
+      "artist": "Beach Weather",
+      "title": "Chit Chat",
+      "album": "Chit Chat • 2016"
+    },
     {
       "time": "2:25 pm",
       "artist": "Peter Bjorn and John",
@@ -172,12 +178,6 @@
       "artist": "Eminem",
       "title": "Love The Way You Lie",
       "album": "Recovery • 2010"
-    },
-    {
-      "time": "1:02 pm",
-      "artist": "The Beatles",
-      "title": "I'll Get You",
-      "album": "single • 1963"
     }
   ]
 }
