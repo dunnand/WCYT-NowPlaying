@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T08:49:30",
+  "updatedAt": "2026-09-30T08:53:12",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Peace Train",
-    "album": "Teaser and the Firecat • 1971",
+    "artist": "The Beatles",
+    "title": "Yer Blues",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:53 am",
-      "artist": "The Beatles",
-      "title": "Yer Blues"
-    },
     {
       "time": "8:57 am",
       "artist": "Commodores",
@@ -26,9 +21,20 @@
       "time": "9:02 am",
       "artist": "Curtis Mayfield",
       "title": "We the People Who Are Darker Than Blue"
+    },
+    {
+      "time": "9:08 am",
+      "artist": "House of Pain",
+      "title": "Jump Around"
     }
   ],
   "recent": [
+    {
+      "time": "8:53 am",
+      "artist": "The Beatles",
+      "title": "Yer Blues",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "8:49 am",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Cheap Trick",
       "title": "Tonight It's You",
       "album": "Standing on the Edge • 1985"
-    },
-    {
-      "time": "9:23 am",
-      "artist": "Guided by Voices",
-      "title": "The Official Ironmen Rally Song",
-      "album": "Under the Bushes Under the Stars • 1996"
     }
   ]
 }
