@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T19:22:05",
+  "updatedAt": "2026-09-30T19:24:20",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blue Monday",
-    "album": "This Is Fats Domino! • 1956",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Trying Your Luck.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:24 pm",
-      "artist": "The Strokes",
-      "title": "Trying Your Luck."
-    },
     {
       "time": "7:27 pm",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:24 pm",
+      "artist": "The Strokes",
+      "title": "Trying Your Luck.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "7:22 pm",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "Dead Or Alive",
       "title": "You Spin Me Round (Like A Record)",
       "album": "Youthquake • 1985"
-    },
-    {
-      "time": "5:44 pm",
-      "artist": "Dan Fogelberg",
-      "title": "Leader Of The Band",
-      "album": "The Innocent Age • 1981"
     }
   ]
 }
