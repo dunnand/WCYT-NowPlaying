@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T10:21:57",
+  "updatedAt": "2026-09-30T10:25:29",
   "now": {
-    "artist": "Lisa Loeb",
-    "title": "I Do",
-    "album": "Firecracker • 1997",
+    "artist": "Radiohead",
+    "title": "Bones",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 am",
-      "artist": "Radiohead",
-      "title": "Bones"
-    },
     {
       "time": "10:28 am",
       "artist": "ABC",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:25 am",
+      "artist": "Radiohead",
+      "title": "Bones",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "10:21 am",
       "artist": "Lisa Loeb",
@@ -172,12 +173,6 @@
       "artist": "Commodores",
       "title": "Machine Gun",
       "album": "Machine Gun • 1974"
-    },
-    {
-      "time": "8:53 am",
-      "artist": "The Beatles",
-      "title": "Yer Blues",
-      "album": "The Beatles • 1968"
     }
   ]
 }
