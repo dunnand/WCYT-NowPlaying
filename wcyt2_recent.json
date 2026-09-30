@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T13:56:57",
+  "updatedAt": "2026-09-30T14:00:19",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "Just the Way You Are",
-    "album": "Doo-Wops & Hooligans • 2010",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "Slow Motion",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:00 pm",
-      "artist": "The Flaming Lips",
-      "title": "Slow Motion"
-    },
     {
       "time": "2:04 pm",
       "artist": "Guided by Voices",
@@ -21,9 +16,20 @@
       "time": "2:06 pm",
       "artist": "Black Flag",
       "title": "TV Party"
+    },
+    {
+      "time": "2:09 pm",
+      "artist": "Bobby Brown",
+      "title": "My Perogative"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "The Flaming Lips",
+      "title": "Slow Motion",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "1:56 pm",
       "artist": "Bruno Mars",
@@ -167,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Another Brick in the Wall, Part 2",
       "album": "The Wall • 1979"
-    },
-    {
-      "time": "12:32 pm",
-      "artist": "Joni Mitchell",
-      "title": "Don't Interrupt the Sorrow",
-      "album": "The Hissing of Summer Lawns • 1975"
     }
   ]
 }
