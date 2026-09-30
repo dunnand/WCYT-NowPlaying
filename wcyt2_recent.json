@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T12:40:32",
+  "updatedAt": "2026-09-30T12:40:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Lady Gaga",
+    "title": "Alejandro",
+    "album": "The Fame Monster • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 pm",
-      "artist": "Lady Gaga",
-      "title": "Alejandro"
-    },
     {
       "time": "12:45 pm",
       "artist": "The Who",
@@ -31,9 +26,20 @@
       "time": "12:55 pm",
       "artist": "Muddy Waters",
       "title": "Hoochie Coochie Man"
+    },
+    {
+      "time": "12:58 pm",
+      "artist": "OutKast",
+      "title": "Ms. Jackson"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 pm",
+      "artist": "Lady Gaga",
+      "title": "Alejandro",
+      "album": "The Fame Monster • 2009"
+    },
     {
       "time": "12:36 pm",
       "artist": "Pink Floyd",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "A Day In The Life",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "11:05 am",
-      "artist": "Oasis",
-      "title": "Stop Crying Your Heart Out",
-      "album": "Heathen Chemistry • 2002"
     }
   ]
 }
