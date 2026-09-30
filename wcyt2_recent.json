@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T14:43:03",
+  "updatedAt": "2026-09-30T14:43:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "2:45 pm",
       "artist": "M83",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:43 pm",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "2:38 pm",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Bananarama",
       "title": "Cruel Summer",
       "album": "Bananarama • 1984"
-    },
-    {
-      "time": "1:13 pm",
-      "artist": "The Magnetic Fields",
-      "title": "I Don't Want to Get Over You",
-      "album": "69 Love Songs • 1999"
     }
   ]
 }
