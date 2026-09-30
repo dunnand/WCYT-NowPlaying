@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T16:39:10",
+  "updatedAt": "2026-09-30T16:39:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "If I Fell",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:39 pm",
-      "artist": "The Beatles",
-      "title": "If I Fell"
-    },
     {
       "time": "4:41 pm",
       "artist": "B.O.B.",
@@ -26,9 +21,20 @@
       "time": "4:50 pm",
       "artist": "Depeche Mode",
       "title": "World in My Eyes"
+    },
+    {
+      "time": "4:54 pm",
+      "artist": "Crosby, Stills & Nash",
+      "title": "Southern Cross"
     }
   ],
   "recent": [
+    {
+      "time": "4:39 pm",
+      "artist": "The Beatles",
+      "title": "If I Fell",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "4:35 pm",
       "artist": "Sharon Jones and the Dap-Kings",
@@ -172,12 +178,6 @@
       "artist": "Bon Jovi",
       "title": "You Give Love A Bad Name",
       "album": "Slippery When Wet • 1986"
-    },
-    {
-      "time": "3:04 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Like A Rock",
-      "album": "Like a Rock • 1986"
     }
   ]
 }
