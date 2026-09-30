@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T11:10:05",
+  "updatedAt": "2026-09-30T11:10:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "A Day In The Life",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:10 am",
-      "artist": "The Beatles",
-      "title": "A Day In The Life"
-    },
     {
       "time": "11:16 am",
       "artist": "Cee",
@@ -26,9 +21,20 @@
       "time": "11:24 am",
       "artist": "Medicine",
       "title": "Time Baby III"
+    },
+    {
+      "time": "11:28 am",
+      "artist": "A Flock Of Seagulls",
+      "title": "Space Age Love Song"
     }
   ],
   "recent": [
+    {
+      "time": "11:10 am",
+      "artist": "The Beatles",
+      "title": "A Day In The Life",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "11:05 am",
       "artist": "Oasis",
@@ -172,12 +178,6 @@
       "artist": "SAULT",
       "title": "Fearless",
       "album": "UNTITLED • 2020"
-    },
-    {
-      "time": "9:36 am",
-      "artist": "ABBA",
-      "title": "The Winner Takes It All",
-      "album": "Super Trouper • 1980"
     }
   ]
 }
