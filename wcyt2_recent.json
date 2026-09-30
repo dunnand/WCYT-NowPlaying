@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T11:56:49",
+  "updatedAt": "2026-09-30T12:01:02",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Scarlet Begonias",
-    "album": "From the Mars Hotel • 1974",
+    "artist": "Paul McCartney",
+    "title": "Calico Skies",
+    "album": "Flaming Pie • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "Paul McCartney",
-      "title": "Calico Skies"
-    },
     {
       "time": "12:03 pm",
       "artist": "Bill Allen And The Backbeats",
@@ -21,9 +16,20 @@
       "time": "12:05 pm",
       "artist": "PJ Harvey",
       "title": "A Place Called Home"
+    },
+    {
+      "time": "12:09 pm",
+      "artist": "The Beatles",
+      "title": "Anna (Go To Him)"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Paul McCartney",
+      "title": "Calico Skies",
+      "album": "Flaming Pie • 1997"
+    },
     {
       "time": "11:56 am",
       "artist": "Grateful Dead",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Bones",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "10:21 am",
-      "artist": "Lisa Loeb",
-      "title": "I Do",
-      "album": "Firecracker • 1997"
     }
   ]
 }
