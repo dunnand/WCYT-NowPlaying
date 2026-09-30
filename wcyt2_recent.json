@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T09:17:34",
+  "updatedAt": "2026-09-30T09:17:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Yellow Submarine",
+    "album": "Yellow Submarine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:17 am",
-      "artist": "The Beatles",
-      "title": "Yellow Submarine"
-    },
     {
       "time": "9:20 am",
       "artist": "Chance the Rapper",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:17 am",
+      "artist": "The Beatles",
+      "title": "Yellow Submarine",
+      "album": "Yellow Submarine • 1969"
+    },
     {
       "time": "9:14 am",
       "artist": "My Chemical Romance",
@@ -172,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "Going to California",
       "album": "Led Zeppelin IV • 1971"
-    },
-    {
-      "time": "9:52 am",
-      "artist": "Righteous Brothers",
-      "title": "Ebb Tide",
-      "album": "Just Once in My Life • 1965"
     }
   ]
 }
