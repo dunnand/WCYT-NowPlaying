@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T15:17:32",
+  "updatedAt": "2026-09-30T15:22:05",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Waiting In Vain",
-    "album": "Exodus • 1977",
+    "artist": "Elton John",
+    "title": "Don't Let The Sun Go Down On Me",
+    "album": "Caribou • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 pm",
-      "artist": "Elton John",
-      "title": "Don't Let The Sun Go Down On Me"
-    },
     {
       "time": "3:27 pm",
       "artist": "Justin Timberlake",
@@ -26,9 +21,20 @@
       "time": "3:34 pm",
       "artist": "Eagles",
       "title": "One Of These Nights"
+    },
+    {
+      "time": "3:39 pm",
+      "artist": "Alanis Morissette",
+      "title": "Head Over Feet"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 pm",
+      "artist": "Elton John",
+      "title": "Don't Let The Sun Go Down On Me",
+      "album": "Caribou • 1974"
+    },
     {
       "time": "3:17 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Justice",
       "title": "Stress",
       "album": "Cross • 2007"
-    },
-    {
-      "time": "1:44 pm",
-      "artist": "Louis Armstrong & His All-Stars",
-      "title": "Ain't Misbehavin'",
-      "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
     }
   ]
 }
