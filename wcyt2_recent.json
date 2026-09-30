@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T09:57:39",
+  "updatedAt": "2026-09-30T10:00:11",
   "now": {
-    "artist": "The Ronettes",
-    "title": "Be My Baby",
-    "album": "Presenting the Fabulous Ronettes Featuring Veronica • 1964",
+    "artist": "George Harrison",
+    "title": "My Sweet Lord",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 am",
-      "artist": "George Harrison",
-      "title": "My Sweet Lord"
-    },
     {
       "time": "10:04 am",
       "artist": "Built to Spill",
@@ -26,9 +21,20 @@
       "time": "10:10 am",
       "artist": "Linkin Park",
       "title": "In The End"
+    },
+    {
+      "time": "10:14 am",
+      "artist": "Nirvana",
+      "title": "You Know You're Right"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 am",
+      "artist": "George Harrison",
+      "title": "My Sweet Lord",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "9:57 am",
       "artist": "The Ronettes",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Undone - The Sweater Song",
       "album": "Weezer • 1994"
-    },
-    {
-      "time": "8:12 am",
-      "artist": "Foo Fighters",
-      "title": "Rope",
-      "album": "Wasting Light • 2011"
     }
   ]
 }
