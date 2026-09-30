@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T10:10:07",
+  "updatedAt": "2026-09-30T10:10:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Linkin Park",
+    "title": "In The End",
+    "album": "Hybrid Theory • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 am",
-      "artist": "Linkin Park",
-      "title": "In The End"
-    },
     {
       "time": "10:14 am",
       "artist": "Nirvana",
@@ -26,9 +21,20 @@
       "time": "10:22 am",
       "artist": "Lisa Loeb",
       "title": "I Do"
+    },
+    {
+      "time": "10:25 am",
+      "artist": "Radiohead",
+      "title": "Bones"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 am",
+      "artist": "Linkin Park",
+      "title": "In The End",
+      "album": "Hybrid Theory • 2001"
+    },
     {
       "time": "10:07 am",
       "artist": "A Tribe Called Quest",
@@ -172,12 +178,6 @@
       "artist": "Wipers",
       "title": "Youth of America",
       "album": "Youth Of America • 1981"
-    },
-    {
-      "time": "8:25 am",
-      "artist": "Van Halen",
-      "title": "Jump",
-      "album": "1984 • 1984"
     }
   ]
 }
