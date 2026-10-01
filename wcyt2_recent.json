@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T21:01:36",
+  "updatedAt": "2026-09-30T21:05:32",
   "now": {
-    "artist": "The Doors",
-    "title": "Roadhouse Blues",
-    "album": "Morrison Hotel • 1970",
+    "artist": "The Beatles",
+    "title": "Penny Lane",
+    "album": "Magical Mystery Tour • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 pm",
-      "artist": "The Beatles",
-      "title": "Penny Lane"
-    },
     {
       "time": "9:08 pm",
       "artist": "Wire",
@@ -26,9 +21,20 @@
       "time": "9:14 pm",
       "artist": "David Bowie",
       "title": "Where Are We Now?"
+    },
+    {
+      "time": "9:18 pm",
+      "artist": "The Strokes",
+      "title": "Barely Legal."
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "The Beatles",
+      "title": "Penny Lane",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "9:01 pm",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "Beyonce",
       "title": "Blue",
       "album": "Beyonce • 2013"
-    },
-    {
-      "time": "7:27 pm",
-      "artist": "The Beatles",
-      "title": "Mr. Moonlight",
-      "album": "Beatles for Sale • 1964"
     }
   ]
 }
