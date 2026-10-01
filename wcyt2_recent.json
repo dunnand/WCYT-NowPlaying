@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T11:18:39",
+  "updatedAt": "2026-10-01T11:22:05",
   "now": {
-    "artist": "My Chemical Romance",
-    "title": "Helena",
-    "album": "Three Cheers for Sweet Revenge • 2004",
+    "artist": "The Beatles",
+    "title": "Yellow Submarine",
+    "album": "Yellow Submarine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:22 am",
-      "artist": "The Beatles",
-      "title": "Yellow Submarine"
-    },
     {
       "time": "11:24 am",
       "artist": "Chance the Rapper",
@@ -21,9 +16,20 @@
       "time": "11:28 am",
       "artist": "R.E.M.",
       "title": "Drive"
+    },
+    {
+      "time": "11:33 am",
+      "artist": "Belle and Sebastian",
+      "title": "Me and the Major"
     }
   ],
   "recent": [
+    {
+      "time": "11:22 am",
+      "artist": "The Beatles",
+      "title": "Yellow Submarine",
+      "album": "Yellow Submarine • 1969"
+    },
     {
       "time": "11:18 am",
       "artist": "My Chemical Romance",
@@ -167,12 +173,6 @@
       "artist": "Taylor Swift",
       "title": "I Knew It, I Knew You",
       "album": ""
-    },
-    {
-      "time": "6:31 am",
-      "artist": "Laura Branigan",
-      "title": "Self Control",
-      "album": "Self Control • 1984"
     }
   ]
 }
