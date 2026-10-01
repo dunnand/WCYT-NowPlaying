@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T10:54:03",
+  "updatedAt": "2026-10-01T10:57:36",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Peace Train",
-    "album": "Teaser and the Firecat • 1971",
+    "artist": "The Beatles",
+    "title": "Yer Blues",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:57 am",
-      "artist": "The Beatles",
-      "title": "Yer Blues"
-    },
     {
       "time": "11:01 am",
       "artist": "Commodores",
@@ -26,9 +21,20 @@
       "time": "11:07 am",
       "artist": "Curtis Mayfield",
       "title": "We the People Who Are Darker Than Blue"
+    },
+    {
+      "time": "11:13 am",
+      "artist": "House of Pain",
+      "title": "Jump Around"
     }
   ],
   "recent": [
+    {
+      "time": "10:57 am",
+      "artist": "The Beatles",
+      "title": "Yer Blues",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "10:54 am",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Matchbox Twenty",
       "title": "If You're Gone",
       "album": "Mad Season • 2000"
-    },
-    {
-      "time": "6:05 am",
-      "artist": "Lloyd Price",
-      "title": "Personality",
-      "album": "Mr. Personality • 1959"
     }
   ]
 }
