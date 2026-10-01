@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T06:31:06",
+  "updatedAt": "2026-10-01T06:35:00",
   "now": {
-    "artist": "Laura Branigan",
-    "title": "Self Control",
-    "album": "Self Control • 1984",
+    "artist": "Taylor Swift",
+    "title": "I Knew It, I Knew You",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:35 am",
-      "artist": "Taylor Swift",
-      "title": "I Knew It, I Knew You"
-    },
     {
       "time": "6:37 am",
       "artist": "Lady Gaga",
@@ -26,9 +21,20 @@
       "time": "6:45 am",
       "artist": "The Mountain Goats",
       "title": "No Children"
+    },
+    {
+      "time": "6:48 am",
+      "artist": "Bill Callahan",
+      "title": "Riding for the Feeling"
     }
   ],
   "recent": [
+    {
+      "time": "6:35 am",
+      "artist": "Taylor Swift",
+      "title": "I Knew It, I Knew You",
+      "album": ""
+    },
     {
       "time": "6:31 am",
       "artist": "Laura Branigan",
@@ -172,12 +178,6 @@
       "artist": "Eels",
       "title": "3 Speed",
       "album": "Electro Shock Blues • 1998"
-    },
-    {
-      "time": "5:02 am",
-      "artist": "Elvis Costello",
-      "title": "Alison",
-      "album": "My Aim Is True • 1977"
     }
   ]
 }
