@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T11:16:38",
+  "updatedAt": "2026-10-01T11:18:39",
   "now": {
-    "artist": "Ritchie Valens",
-    "title": "Come on, Let's Go",
-    "album": "Ritchie Valens • 1959",
+    "artist": "My Chemical Romance",
+    "title": "Helena",
+    "album": "Three Cheers for Sweet Revenge • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:18 am",
-      "artist": "My Chemical Romance",
-      "title": "Helena"
-    },
     {
       "time": "11:22 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "11:24 am",
       "artist": "Chance the Rapper",
       "title": "Do You Remember"
+    },
+    {
+      "time": "11:28 am",
+      "artist": "R.E.M.",
+      "title": "Drive"
     }
   ],
   "recent": [
+    {
+      "time": "11:18 am",
+      "artist": "My Chemical Romance",
+      "title": "Helena",
+      "album": "Three Cheers for Sweet Revenge • 2004"
+    },
     {
       "time": "11:16 am",
       "artist": "Ritchie Valens",
@@ -167,12 +173,6 @@
       "artist": "Laura Branigan",
       "title": "Self Control",
       "album": "Self Control • 1984"
-    },
-    {
-      "time": "6:27 am",
-      "artist": "Kurtis Blow",
-      "title": "If I Ruled The World",
-      "album": "America • 1985"
     }
   ]
 }
