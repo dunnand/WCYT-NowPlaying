@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T17:54:34",
+  "updatedAt": "2026-10-01T17:58:08",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Once",
-    "album": "Ten • 1991",
+    "artist": "Muddy Waters",
+    "title": "Hoochie Coochie Man",
+    "album": "single • 1954",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:58 pm",
-      "artist": "Muddy Waters",
-      "title": "Hoochie Coochie Man"
-    },
     {
       "time": "6:00 pm",
       "artist": "OutKast",
@@ -26,9 +21,20 @@
       "time": "6:07 pm",
       "artist": "Eminem",
       "title": "Love The Way You Lie"
+    },
+    {
+      "time": "6:11 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "I Am One"
     }
   ],
   "recent": [
+    {
+      "time": "5:58 pm",
+      "artist": "Muddy Waters",
+      "title": "Hoochie Coochie Man",
+      "album": "single • 1954"
+    },
     {
       "time": "5:54 pm",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "Air Supply",
       "title": "Lost In Love",
       "album": "Lost in Love • 1980"
-    },
-    {
-      "time": "1:58 pm",
-      "artist": "A Flock Of Seagulls",
-      "title": "Space Age Love Song",
-      "album": "A Flock of Seagulls • 1982"
     }
   ]
 }
