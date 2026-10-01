@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T00:27:55",
+  "updatedAt": "2026-10-01T00:28:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Flipper",
+    "title": "Way of the World",
+    "album": "Generic Flipper • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:28 am",
-      "artist": "Flipper",
-      "title": "Way of the World"
-    },
     {
       "time": "12:32 am",
       "artist": "Fugazi",
@@ -26,9 +21,20 @@
       "time": "12:38 am",
       "artist": "Rolling Stones",
       "title": "Can't You Hear Me Knocking"
+    },
+    {
+      "time": "12:45 am",
+      "artist": "Stevie Wonder",
+      "title": "As"
     }
   ],
   "recent": [
+    {
+      "time": "12:28 am",
+      "artist": "Flipper",
+      "title": "Way of the World",
+      "album": "Generic Flipper • 1982"
+    },
     {
       "time": "12:23 am",
       "artist": "Blur",
@@ -172,12 +178,6 @@
       "artist": "The Zombies",
       "title": "Time Of The Season",
       "album": "Odessey and Oracle • 1969"
-    },
-    {
-      "time": "10:54 pm",
-      "artist": "The Strokes",
-      "title": "12:51",
-      "album": "Room on Fire • 2003"
     }
   ]
 }
