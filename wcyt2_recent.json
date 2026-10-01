@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-10-01T19:35:43",
+  "updatedAt": "2026-10-01T19:41:40",
   "now": {
-    "artist": "David Bowie",
-    "title": "Wild Is the Wind",
-    "album": "Station to Station • 1976",
+    "artist": "Foo Fighters",
+    "title": "Everlong",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:41 pm",
-      "artist": "Foo Fighters",
-      "title": "Everlong"
-    },
     {
       "time": "7:45 pm",
       "artist": "Buddy Holly",
       "title": "Well...All Right"
     },
     {
-      "time": "7:48 pm",
+      "time": "7:47 pm",
       "artist": "M83",
       "title": "Run Into Flowers"
+    },
+    {
+      "time": "7:52 pm",
+      "artist": "The Beatles",
+      "title": "What You're Doing"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 pm",
+      "artist": "Foo Fighters",
+      "title": "Everlong",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "7:35 pm",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "The Magnetic Fields",
       "title": "I Don't Want to Get Over You",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "6:11 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "I Am One",
-      "album": "Gish • 1991"
     }
   ]
 }
