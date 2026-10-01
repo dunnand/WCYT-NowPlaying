@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T12:59:36",
+  "updatedAt": "2026-10-01T12:59:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sparks",
+    "title": "Amateur Hour",
+    "album": "Kimono My House • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 pm",
-      "artist": "Sparks",
-      "title": "Amateur Hour"
-    },
     {
       "time": "1:03 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "1:10 pm",
       "artist": "Billie Holiday",
       "title": "Strange Fruit"
+    },
+    {
+      "time": "1:13 pm",
+      "artist": "Oasis",
+      "title": "Stop Crying Your Heart Out"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 pm",
+      "artist": "Sparks",
+      "title": "Amateur Hour",
+      "album": "Kimono My House • 1974"
+    },
     {
       "time": "12:56 pm",
       "artist": "The Kinks",
@@ -177,12 +183,6 @@
       "artist": "Chance the Rapper",
       "title": "Do You Remember",
       "album": "Do You Remember • 2019"
-    },
-    {
-      "time": "11:22 am",
-      "artist": "The Beatles",
-      "title": "Yellow Submarine",
-      "album": "Yellow Submarine • 1969"
     }
   ]
 }
