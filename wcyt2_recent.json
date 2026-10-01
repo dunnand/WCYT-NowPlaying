@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T15:17:08",
+  "updatedAt": "2026-10-01T15:21:04",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Another Brick in the Wall, Part 2",
-    "album": "The Wall • 1979",
+    "artist": "Lady Gaga",
+    "title": "Alejandro",
+    "album": "The Fame Monster • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:21 pm",
-      "artist": "Lady Gaga",
-      "title": "Alejandro"
-    },
     {
       "time": "3:25 pm",
       "artist": "The Who",
@@ -26,9 +21,25 @@
       "time": "3:32 pm",
       "artist": "Pearl Jam",
       "title": "Once"
+    },
+    {
+      "time": "3:35 pm",
+      "artist": "Muddy Waters",
+      "title": "Hoochie Coochie Man"
+    },
+    {
+      "time": "3:38 pm",
+      "artist": "OutKast",
+      "title": "Ms. Jackson"
     }
   ],
   "recent": [
+    {
+      "time": "3:21 pm",
+      "artist": "Lady Gaga",
+      "title": "Alejandro",
+      "album": "The Fame Monster • 2009"
+    },
     {
       "time": "3:11 pm",
       "artist": "Pink Floyd",
@@ -172,12 +183,6 @@
       "artist": "Cee-Lo Green",
       "title": "Forget You",
       "album": "The Lady Killer • 2010"
-    },
-    {
-      "time": "1:41 pm",
-      "artist": "The Beatles",
-      "title": "A Day In The Life",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
     }
   ]
 }
