@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T01:34:56",
+  "updatedAt": "2026-10-01T01:39:23",
   "now": {
-    "artist": "Celine Dion",
-    "title": "Because You Loved Me",
-    "album": "Falling Into You • 1996",
+    "artist": "Gang of Four",
+    "title": "Paralysed",
+    "album": "Solid Gold • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:39 am",
-      "artist": "Gang of Four",
-      "title": "Paralysed"
-    },
     {
       "time": "1:42 am",
       "artist": "Glenn Frey",
@@ -21,9 +16,20 @@
       "time": "1:46 am",
       "artist": "Olivia Rodrigo",
       "title": "the cure"
+    },
+    {
+      "time": "1:51 am",
+      "artist": "Black Flag",
+      "title": "Nervous Breakdown"
     }
   ],
   "recent": [
+    {
+      "time": "1:39 am",
+      "artist": "Gang of Four",
+      "title": "Paralysed",
+      "album": "Solid Gold • 1981"
+    },
     {
       "time": "1:34 am",
       "artist": "Celine Dion",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Maxwell's Silver Hammer",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "11:53 pm",
-      "artist": "Paul Simon",
-      "title": "Something So Right",
-      "album": "There Goes Rhymin Simon • 1973"
     }
   ]
 }
