@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T19:41:40",
+  "updatedAt": "2026-10-01T19:45:46",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Everlong",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:45 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "7:47 pm",
       "artist": "M83",
@@ -21,9 +16,20 @@
       "time": "7:52 pm",
       "artist": "The Beatles",
       "title": "What You're Doing"
+    },
+    {
+      "time": "7:54 pm",
+      "artist": "Eminem",
+      "title": "Not Afraid"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 pm",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "7:41 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Bananarama",
       "title": "Cruel Summer",
       "album": "Bananarama • 1984"
-    },
-    {
-      "time": "6:15 pm",
-      "artist": "The Magnetic Fields",
-      "title": "I Don't Want to Get Over You",
-      "album": "69 Love Songs • 1999"
     }
   ]
 }
