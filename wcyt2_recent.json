@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T12:08:33",
+  "updatedAt": "2026-10-01T12:09:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "My Sweet Lord",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 pm",
-      "artist": "George Harrison",
-      "title": "My Sweet Lord"
-    },
     {
       "time": "12:13 pm",
       "artist": "Built to Spill",
@@ -26,9 +21,20 @@
       "time": "12:19 pm",
       "artist": "Linkin Park",
       "title": "In The End"
+    },
+    {
+      "time": "12:23 pm",
+      "artist": "Nirvana",
+      "title": "You Know You're Right"
     }
   ],
   "recent": [
+    {
+      "time": "12:09 pm",
+      "artist": "George Harrison",
+      "title": "My Sweet Lord",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "12:05 pm",
       "artist": "Rihanna",
@@ -172,12 +178,6 @@
       "artist": "Missy Elliott",
       "title": "The Rain (Supa Dupa Fly)",
       "album": "Supa Dupa Fly • 1997"
-    },
-    {
-      "time": "10:20 am",
-      "artist": "Weezer",
-      "title": "Undone - The Sweater Song",
-      "album": "Weezer • 1994"
     }
   ]
 }
