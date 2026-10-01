@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T12:19:27",
+  "updatedAt": "2026-10-01T12:23:01",
   "now": {
-    "artist": "Linkin Park",
-    "title": "In The End",
-    "album": "Hybrid Theory • 2001",
+    "artist": "Nirvana",
+    "title": "You Know You're Right",
+    "album": "Nirvana • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:23 pm",
-      "artist": "Nirvana",
-      "title": "You Know You're Right"
-    },
     {
       "time": "12:27 pm",
       "artist": "Ariana Grande",
@@ -26,9 +21,20 @@
       "time": "12:34 pm",
       "artist": "Radiohead",
       "title": "Bones"
+    },
+    {
+      "time": "12:37 pm",
+      "artist": "ABC",
+      "title": "Poison Arrow"
     }
   ],
   "recent": [
+    {
+      "time": "12:23 pm",
+      "artist": "Nirvana",
+      "title": "You Know You're Right",
+      "album": "Nirvana • 2002"
+    },
     {
       "time": "12:19 pm",
       "artist": "Linkin Park",
@@ -172,12 +178,6 @@
       "artist": "Cat Stevens",
       "title": "Peace Train",
       "album": "Teaser and the Firecat • 1971"
-    },
-    {
-      "time": "10:44 am",
-      "artist": "Satomi Terui",
-      "title": "Star Fox 64 3D (Staff Credits)",
-      "album": "Nintendo Music •"
     }
   ]
 }
