@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T02:16:17",
+  "updatedAt": "2026-10-01T02:16:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Michelle",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:16 am",
-      "artist": "The Beatles",
-      "title": "Michelle"
-    },
     {
       "time": "2:18 am",
       "artist": "Charles Bradley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:16 am",
+      "artist": "The Beatles",
+      "title": "Michelle",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "2:12 am",
       "artist": "Gorillaz",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "stupid song",
       "album": ""
-    },
-    {
-      "time": "12:32 am",
-      "artist": "Fugazi",
-      "title": "Bad Mouth",
-      "album": "13 Songs • 1989"
     }
   ]
 }
