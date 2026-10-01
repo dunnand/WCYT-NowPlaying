@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T03:28:48",
+  "updatedAt": "2026-10-01T03:32:14",
   "now": {
-    "artist": "Dinosaur Jr.",
-    "title": "I Don't Think So",
-    "album": "Without a Sound • 1994",
-    "category": "TUNES"
+    "artist": "Human League",
+    "title": "Human",
+    "album": "Crash • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 am",
-      "artist": "Human League",
-      "title": "Human"
-    },
     {
       "time": "3:36 am",
       "artist": "Irene Cara",
@@ -21,9 +16,20 @@
       "time": "3:39 am",
       "artist": "Sabrina Carpenter",
       "title": "Espresso"
+    },
+    {
+      "time": "3:42 am",
+      "artist": "ABBA",
+      "title": "Mamma Mia"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 am",
+      "artist": "Human League",
+      "title": "Human",
+      "album": "Crash • 1986"
+    },
     {
       "time": "3:28 am",
       "artist": "Dinosaur Jr.",
@@ -167,12 +173,6 @@
       "artist": "Tommy Boyce & Bobby Hart",
       "title": "I Wonder What She's Doing Tonight",
       "album": "I Wonder What Shes Doing Tonight? • 1968"
-    },
-    {
-      "time": "1:56 am",
-      "artist": "Bobby Bland",
-      "title": "Ain't No Love In the Heart of the City",
-      "album": "Dreamer • 1974"
     }
   ]
 }
