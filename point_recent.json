@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T12:34:33",
+  "updatedAt": "2026-10-01T12:34:45",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Arlo Parks",
+    "title": "Hope",
+    "album": "Collapsed in Sunbeams • 2021",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Arlo Parks",
-      "title": "Hope"
-    },
     {
       "time": "12:39 pm",
       "artist": "Jungle",
@@ -26,9 +21,20 @@
       "time": "12:48 pm",
       "artist": "King Tuff",
       "title": "Landline"
+    },
+    {
+      "time": "12:52 pm",
+      "artist": "Phoebe Bridgers",
+      "title": "Liberty Tree"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Arlo Parks",
+      "title": "Hope",
+      "album": "Collapsed in Sunbeams • 2021"
+    },
     {
       "time": "12:31 pm",
       "artist": "Mitski",
@@ -172,12 +178,6 @@
       "artist": "Cocteau Twins",
       "title": "Heaven or Las Vegas",
       "album": "Heaven Or Las Vegas • 1990"
-    },
-    {
-      "time": "11:07 am",
-      "artist": "Big Thief",
-      "title": "Two Hands",
-      "album": "Two Hands • 2019"
     }
   ]
 }
