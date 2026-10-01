@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T02:53:10",
+  "updatedAt": "2026-10-01T02:58:05",
   "now": {
-    "artist": "Interpol",
-    "title": "PDA",
-    "album": "Turn on the Bright Lights • 2002",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Dizzy Miss Lizzy",
+    "album": "Help! • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:57 am",
-      "artist": "The Beatles",
-      "title": "Dizzy Miss Lizzy"
-    },
     {
       "time": "3:00 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "3:09 am",
       "artist": "Ed Sheeran",
       "title": "The A Team"
+    },
+    {
+      "time": "3:13 am",
+      "artist": "*NSYNC",
+      "title": "It's Gonna Be Me"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 am",
+      "artist": "The Beatles",
+      "title": "Dizzy Miss Lizzy",
+      "album": "Help! • 1965"
+    },
     {
       "time": "2:53 am",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Bon Iver",
       "title": "Holocene",
       "album": "Bon Iver, Bon Iver • 2011"
-    },
-    {
-      "time": "1:17 am",
-      "artist": "Kate Bush",
-      "title": "Nocturn",
-      "album": "Aerial • 2005"
     }
   ]
 }
