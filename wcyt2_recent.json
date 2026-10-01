@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T04:42:07",
+  "updatedAt": "2026-10-01T04:42:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eno",
+    "title": "Needles in the Camel's Eye",
+    "album": "Here Come the Warm Jets • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:42 am",
-      "artist": "Eno",
-      "title": "Needles in the Camel's Eye"
-    },
     {
       "time": "4:45 am",
       "artist": "Townes Van Zandt",
@@ -26,9 +21,20 @@
       "time": "5:00 am",
       "artist": "The Beatles",
       "title": "Baby You're a Rich Man"
+    },
+    {
+      "time": "5:03 am",
+      "artist": "Elvis Costello",
+      "title": "Alison"
     }
   ],
   "recent": [
+    {
+      "time": "4:42 am",
+      "artist": "Eno",
+      "title": "Needles in the Camel's Eye",
+      "album": "Here Come the Warm Jets • 1974"
+    },
     {
       "time": "4:39 am",
       "artist": "Charli XCX",
@@ -172,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "The A Team",
       "album": "+ • 2011"
-    },
-    {
-      "time": "3:05 am",
-      "artist": "David Bowie",
-      "title": "The Wedding Song",
-      "album": "Black Tie White Noise • 1993"
     }
   ]
 }
