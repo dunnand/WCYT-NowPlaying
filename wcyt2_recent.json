@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T05:26:41",
+  "updatedAt": "2026-10-01T05:31:04",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "Layla",
-    "album": "Unplugged • 1992",
+    "artist": "Jonathan Richman & The Modern Lovers",
+    "title": "Dancin' Late at Night",
+    "album": "Modern Lovers 88 • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:31 am",
-      "artist": "Jonathan Richman & The Modern Lovers",
-      "title": "Dancin' Late at Night"
-    },
     {
       "time": "5:34 am",
       "artist": "Juice Newton",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:31 am",
+      "artist": "Jonathan Richman & The Modern Lovers",
+      "title": "Dancin' Late at Night",
+      "album": "Modern Lovers 88 • 1987"
+    },
     {
       "time": "5:26 am",
       "artist": "Eric Clapton",
@@ -172,12 +173,6 @@
       "artist": "The Contours",
       "title": "Do You Love Me",
       "album": "Do You Love Me • 1962"
-    },
-    {
-      "time": "3:47 am",
-      "artist": "Barry Manilow",
-      "title": "I Write The Songs",
-      "album": "Tryin' to Get the Feeling • 1975"
     }
   ]
 }
