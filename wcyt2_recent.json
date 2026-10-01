@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T23:47:31",
+  "updatedAt": "2026-09-30T23:47:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Heart Of Gold",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 pm",
-      "artist": "Neil Young",
-      "title": "Heart Of Gold"
-    },
     {
       "time": "11:50 pm",
       "artist": "The Velvet Underground",
@@ -26,9 +21,20 @@
       "time": "11:58 pm",
       "artist": "The Beatles",
       "title": "Maxwell's Silver Hammer"
+    },
+    {
+      "time": "12:01 am",
+      "artist": "Rod Stewart",
+      "title": "Gasoline Alley"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 pm",
+      "artist": "Neil Young",
+      "title": "Heart Of Gold",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "11:43 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "I Got a Woman",
       "album": "single • 1954"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "The Cure",
-      "title": "Friday I'm in Love",
-      "album": "Wish • 1992"
     }
   ]
 }
