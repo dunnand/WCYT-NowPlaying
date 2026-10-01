@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T01:51:15",
+  "updatedAt": "2026-10-01T01:53:27",
   "now": {
-    "artist": "Black Flag",
-    "title": "Nervous Breakdown",
-    "album": "Nervous Breakdown • 1979",
+    "artist": "The Beatles",
+    "title": "Long, Long, Long",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "The Beatles",
-      "title": "Long, Long, Long"
-    },
     {
       "time": "1:56 am",
       "artist": "Bobby Bland",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "Blue Oyster Cult",
       "title": "(Don't Fear) The Reaper"
+    },
+    {
+      "time": "2:07 am",
+      "artist": "Cocteau Twins",
+      "title": "Crushed"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "The Beatles",
+      "title": "Long, Long, Long",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "1:51 am",
       "artist": "Black Flag",
@@ -172,12 +178,6 @@
       "artist": "Lenny Kravitz",
       "title": "Stillness Of Heart",
       "album": "Lenny • 2002"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "Chordettes",
-      "title": "Mr. Sandman",
-      "album": "The Chordettes • 1957"
     }
   ]
 }
