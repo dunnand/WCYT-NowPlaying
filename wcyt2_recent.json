@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T02:10:13",
+  "updatedAt": "2026-10-01T02:10:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Johnny Cash",
+    "title": "Cry! Cry! Cry!",
+    "album": "Cry! Cry! Cry! • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 am",
-      "artist": "Johnny Cash",
-      "title": "Cry! Cry! Cry!"
-    },
     {
       "time": "2:12 am",
       "artist": "Gorillaz",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:10 am",
+      "artist": "Johnny Cash",
+      "title": "Cry! Cry! Cry!",
+      "album": "Cry! Cry! Cry! • 1955"
+    },
     {
       "time": "2:06 am",
       "artist": "Cocteau Twins",
@@ -172,12 +173,6 @@
       "artist": "Flipper",
       "title": "Way of the World",
       "album": "Generic Flipper • 1982"
-    },
-    {
-      "time": "12:23 am",
-      "artist": "Blur",
-      "title": "For Tomorrow",
-      "album": "Modern Life Is Rubbish • 1993"
     }
   ]
 }
