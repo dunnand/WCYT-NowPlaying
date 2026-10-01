@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T01:17:08",
+  "updatedAt": "2026-10-01T01:25:06",
   "now": {
-    "artist": "Kate Bush",
-    "title": "Nocturn",
-    "album": "Aerial • 2005",
-    "category": "AUDIO"
+    "artist": "Bon Iver",
+    "title": "Holocene",
+    "album": "Bon Iver, Bon Iver • 2011",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:25 am",
-      "artist": "Bon Iver",
-      "title": "Holocene"
-    },
     {
       "time": "1:30 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "1:39 am",
       "artist": "Gang of Four",
       "title": "Paralysed"
+    },
+    {
+      "time": "1:42 am",
+      "artist": "Glenn Frey",
+      "title": "The Heat Is On"
     }
   ],
   "recent": [
+    {
+      "time": "1:25 am",
+      "artist": "Bon Iver",
+      "title": "Holocene",
+      "album": "Bon Iver, Bon Iver • 2011"
+    },
     {
       "time": "1:17 am",
       "artist": "Kate Bush",
@@ -172,12 +178,6 @@
       "artist": "Neil Young",
       "title": "Heart Of Gold",
       "album": "Harvest • 1972"
-    },
-    {
-      "time": "11:43 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "drop dead",
-      "album": ""
     }
   ]
 }
