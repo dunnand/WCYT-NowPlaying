@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T10:37:43",
+  "updatedAt": "2026-10-01T10:37:53",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beirut",
+    "title": "Perth",
+    "album": "No No No • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:37 am",
-      "artist": "Beirut",
-      "title": "Perth"
-    },
     {
       "time": "10:41 am",
       "artist": "Iron & Wine",
@@ -26,9 +21,20 @@
       "time": "10:49 am",
       "artist": "CHVRCHES",
       "title": "Roses"
+    },
+    {
+      "time": "10:52 am",
+      "artist": "Ken Park",
+      "title": "shatter"
     }
   ],
   "recent": [
+    {
+      "time": "10:37 am",
+      "artist": "Beirut",
+      "title": "Perth",
+      "album": "No No No • 2015"
+    },
     {
       "time": "10:34 am",
       "artist": "Kiwi Jr",
@@ -172,12 +178,6 @@
       "artist": "This Is Lorelei",
       "title": "The Kid With the Crown",
       "album": "The Singer in My Band • 2026"
-    },
-    {
-      "time": "8:56 am",
-      "artist": "Beck",
-      "title": "Run Away",
-      "album": "Ride Lonesome • 2026"
     }
   ]
 }
