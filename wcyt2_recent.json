@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T20:56:28",
+  "updatedAt": "2026-09-30T20:59:12",
   "now": {
-    "artist": "Talking Heads",
-    "title": "Uh-Oh, Love Comes to Town",
-    "album": "Talking Heads: 77 • 1977",
+    "artist": "The Velvet Underground",
+    "title": "I'll Be Your Mirror",
+    "album": "The Velvet Underground & Nico • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 pm",
-      "artist": "The Velvet Underground",
-      "title": "I'll Be Your Mirror"
-    },
     {
       "time": "9:01 pm",
       "artist": "The Doors",
@@ -26,9 +21,20 @@
       "time": "9:08 pm",
       "artist": "Wire",
       "title": "Outdoor Miner"
+    },
+    {
+      "time": "9:10 pm",
+      "artist": "My Bloody Valentine",
+      "title": "Only Shallow"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 pm",
+      "artist": "The Velvet Underground",
+      "title": "I'll Be Your Mirror",
+      "album": "The Velvet Underground & Nico • 1967"
+    },
     {
       "time": "8:56 pm",
       "artist": "Talking Heads",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "Trying Your Luck.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "7:22 pm",
-      "artist": "Fats Domino",
-      "title": "Blue Monday",
-      "album": "This Is Fats Domino! • 1956"
     }
   ]
 }
