@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T04:50:21",
+  "updatedAt": "2026-10-01T04:50:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Jungleland",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Bruce Springsteen",
-      "title": "Jungleland"
-    },
     {
       "time": "4:59 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "5:08 am",
       "artist": "Chuck Berry",
       "title": "Too Much Monkey Business"
+    },
+    {
+      "time": "5:11 am",
+      "artist": "Lupe Fiasco",
+      "title": "Kick, Push"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Bruce Springsteen",
+      "title": "Jungleland",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "4:45 am",
       "artist": "Townes Van Zandt",
@@ -177,12 +183,6 @@
       "artist": "The Microphones",
       "title": "Something",
       "album": "It Was Hot, We Stayed in the Water • 2000"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "*NSYNC",
-      "title": "It's Gonna Be Me",
-      "album": "No Strings Attached • 2000"
     }
   ]
 }
