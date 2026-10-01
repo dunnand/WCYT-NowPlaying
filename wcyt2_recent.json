@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T23:58:15",
+  "updatedAt": "2026-10-01T00:01:32",
   "now": {
-    "artist": "The Beatles",
-    "title": "Maxwell's Silver Hammer",
-    "album": "Abbey Road • 1969",
+    "artist": "Rod Stewart",
+    "title": "Gasoline Alley",
+    "album": "Gasoline Alley • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Rod Stewart",
-      "title": "Gasoline Alley"
-    },
     {
       "time": "12:05 am",
       "artist": "Blaze Foley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Rod Stewart",
+      "title": "Gasoline Alley",
+      "album": "Gasoline Alley • 1970"
+    },
     {
       "time": "11:58 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "The Cure",
       "title": "Never Enough",
       "album": "single • 1990"
-    },
-    {
-      "time": "10:19 pm",
-      "artist": "Childish Gambino",
-      "title": "Redbone",
-      "album": "Redbone • 2016"
     }
   ]
 }
