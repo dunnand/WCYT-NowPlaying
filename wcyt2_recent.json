@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T12:27:06",
+  "updatedAt": "2026-10-01T12:30:51",
   "now": {
-    "artist": "Ariana Grande",
-    "title": "The Way",
-    "album": "Yours Truly • 2013",
+    "artist": "Lisa Loeb",
+    "title": "I Do",
+    "album": "Firecracker • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "Lisa Loeb",
-      "title": "I Do"
-    },
     {
       "time": "12:34 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "12:41 pm",
       "artist": "A.C. Marias",
       "title": "Just Talk"
+    },
+    {
+      "time": "12:46 pm",
+      "artist": "Yuka Tsujiyoko",
+      "title": "Fire Emblem: Seisen no Keifu (The Continent Thereafter)"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 pm",
+      "artist": "Lisa Loeb",
+      "title": "I Do",
+      "album": "Firecracker • 1997"
+    },
     {
       "time": "12:27 pm",
       "artist": "Ariana Grande",
@@ -172,12 +178,6 @@
       "artist": "Commodores",
       "title": "Machine Gun",
       "album": "Machine Gun • 1974"
-    },
-    {
-      "time": "10:57 am",
-      "artist": "The Beatles",
-      "title": "Yer Blues",
-      "album": "The Beatles • 1968"
     }
   ]
 }
