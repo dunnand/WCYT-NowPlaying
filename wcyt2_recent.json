@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T23:40:05",
+  "updatedAt": "2026-09-30T23:43:47",
   "now": {
-    "artist": "Falco",
-    "title": "Der Kommissar",
-    "album": "Einzelhaft • 1982",
+    "artist": "Olivia Rodrigo",
+    "title": "drop dead",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:43 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "drop dead"
-    },
     {
       "time": "11:47 pm",
       "artist": "Neil Young",
@@ -21,9 +16,20 @@
       "time": "11:50 pm",
       "artist": "The Velvet Underground",
       "title": "Sunday Morning"
+    },
+    {
+      "time": "11:53 pm",
+      "artist": "Paul Simon",
+      "title": "Something So Right"
     }
   ],
   "recent": [
+    {
+      "time": "11:43 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "drop dead",
+      "album": ""
+    },
     {
       "time": "11:40 pm",
       "artist": "Falco",
@@ -167,12 +173,6 @@
       "artist": "The Cure",
       "title": "Friday I'm in Love",
       "album": "Wish • 1992"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "Edgar Winter Group",
-      "title": "Free Ride",
-      "album": "They Only Come Out at Night • 1973"
     }
   ]
 }
