@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T21:37:50",
+  "updatedAt": "2026-09-30T21:41:17",
   "now": {
-    "artist": "The Cure",
-    "title": "High",
-    "album": "single • 1992",
+    "artist": "Eagles",
+    "title": "The Long Run",
+    "album": "The Long Run • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:41 pm",
-      "artist": "Eagles",
-      "title": "The Long Run"
-    },
     {
       "time": "9:45 pm",
       "artist": "Elvis Costello",
@@ -21,9 +16,20 @@
       "time": "9:48 pm",
       "artist": "HAIM",
       "title": "Honey & I"
+    },
+    {
+      "time": "9:52 pm",
+      "artist": "Delta 5",
+      "title": "Mind Your Own Business"
     }
   ],
   "recent": [
+    {
+      "time": "9:41 pm",
+      "artist": "Eagles",
+      "title": "The Long Run",
+      "album": "The Long Run • 1980"
+    },
     {
       "time": "9:37 pm",
       "artist": "The Cure",
@@ -167,12 +173,6 @@
       "artist": "Bruno Mars",
       "title": "Treasure",
       "album": "Unorthodox Jukebox • 2012"
-    },
-    {
-      "time": "8:02 pm",
-      "artist": "The Strokes",
-      "title": "The Modern Age.",
-      "album": "Is This It • 2001"
     }
   ]
 }
