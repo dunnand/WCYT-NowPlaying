@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-10-01T13:17:35",
+  "updatedAt": "2026-10-01T13:21:01",
   "now": {
-    "artist": "The Beatles",
-    "title": "Golden Slumbers",
-    "album": "Abbey Road • 1969",
+    "artist": "Bobby Goldsboro",
+    "title": "Watchin' Scotty Grow",
+    "album": "We Gotta Start Lovin' • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:19 pm",
-      "artist": "Bobby Goldsboro",
-      "title": "Watchin' Scotty Grow"
-    },
-    {
-      "time": "1:21 pm",
+      "time": "1:23 pm",
       "artist": "I Monster",
       "title": "Daydream In Blue"
     },
     {
-      "time": "1:25 pm",
+      "time": "1:27 pm",
       "artist": "Billie Holiday",
       "title": "Strange Fruit"
     },
     {
-      "time": "1:28 pm",
+      "time": "1:30 pm",
       "artist": "Oasis",
       "title": "Stop Crying Your Heart Out"
+    },
+    {
+      "time": "1:35 pm",
+      "artist": "The Beatles",
+      "title": "A Day In The Life"
     }
   ],
   "recent": [
+    {
+      "time": "1:21 pm",
+      "artist": "Bobby Goldsboro",
+      "title": "Watchin' Scotty Grow",
+      "album": "We Gotta Start Lovin' • 1970"
+    },
     {
       "time": "1:17 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "Me and the Major",
       "album": "If You're Feeling Sinister • 1996"
-    },
-    {
-      "time": "11:28 am",
-      "artist": "R.E.M.",
-      "title": "Drive",
-      "album": "Automatic for the People • 1992"
     }
   ]
 }
