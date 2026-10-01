@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T21:26:24",
+  "updatedAt": "2026-09-30T21:31:19",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Heroes and Villains",
-    "album": "The Smile Sessions • 2011",
-    "category": "AUDIO"
+    "artist": "My Bloody Valentine",
+    "title": "Soon",
+    "album": "Loveless • 1991",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:31 pm",
-      "artist": "My Bloody Valentine",
-      "title": "Soon"
-    },
     {
       "time": "9:38 pm",
       "artist": "The Cure",
@@ -26,9 +21,20 @@
       "time": "9:45 pm",
       "artist": "Elvis Costello",
       "title": "Veronica"
+    },
+    {
+      "time": "9:48 pm",
+      "artist": "HAIM",
+      "title": "Honey & I"
     }
   ],
   "recent": [
+    {
+      "time": "9:31 pm",
+      "artist": "My Bloody Valentine",
+      "title": "Soon",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "9:26 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "Another Day",
       "album": "single • 1971"
-    },
-    {
-      "time": "7:55 pm",
-      "artist": "The Strokes",
-      "title": "Last Nite.",
-      "album": "Is This It • 2001"
     }
   ]
 }
