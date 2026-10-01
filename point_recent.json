@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T02:20:20",
+  "updatedAt": "2026-10-01T02:20:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The xx",
+    "title": "Crystalised",
+    "album": "XX • 2009",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:20 am",
-      "artist": "The xx",
-      "title": "Crystalised"
-    },
     {
       "time": "2:23 am",
       "artist": "Alex Cameron",
@@ -26,9 +21,20 @@
       "time": "2:31 am",
       "artist": "Pavement",
       "title": "Range Life"
+    },
+    {
+      "time": "2:37 am",
+      "artist": "Toro y Moi",
+      "title": "Mirage"
     }
   ],
   "recent": [
+    {
+      "time": "2:20 am",
+      "artist": "The xx",
+      "title": "Crystalised",
+      "album": "XX • 2009"
+    },
     {
       "time": "2:16 am",
       "artist": "King Gizzard & The Lizard Wizard",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Ride Lonesome",
       "album": ""
-    },
-    {
-      "time": "12:32 am",
-      "artist": "Sufjan Stevens",
-      "title": "American",
-      "album": "The Ascension • 2020"
     }
   ]
 }
