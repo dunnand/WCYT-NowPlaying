@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T19:12:22",
+  "updatedAt": "2026-10-01T19:12:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bobby Brown",
+    "title": "My Perogative",
+    "album": "Don't Be Cruel • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:12 pm",
-      "artist": "Bobby Brown",
-      "title": "My Perogative"
-    },
     {
       "time": "7:15 pm",
       "artist": "*NSYNC",
@@ -26,9 +21,20 @@
       "time": "7:24 pm",
       "artist": "Boz Scaggs",
       "title": "Lido Shuffle"
+    },
+    {
+      "time": "7:27 pm",
+      "artist": "Peter Bjorn and John",
+      "title": "Young Folk"
     }
   ],
   "recent": [
+    {
+      "time": "7:12 pm",
+      "artist": "Bobby Brown",
+      "title": "My Perogative",
+      "album": "Don't Be Cruel • 1989"
+    },
     {
       "time": "7:08 pm",
       "artist": "Black Flag",
@@ -172,12 +178,6 @@
       "artist": "Charles Wright & The Watts 103rd Street Rhythm Band",
       "title": "Express Yourself",
       "album": "Express Yourself • 1970"
-    },
-    {
-      "time": "5:47 pm",
-      "artist": "The Who",
-      "title": "Tattoo",
-      "album": "The Who Sell Out • 1967"
     }
   ]
 }
