@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T19:24:30",
+  "updatedAt": "2026-10-01T19:28:04",
   "now": {
-    "artist": "Boz Scaggs",
-    "title": "Lido Shuffle",
-    "album": "Silk Degrees • 1977",
-    "category": "AUDIO"
+    "artist": "Peter Bjorn and John",
+    "title": "Young Folk",
+    "album": "Writer's Block • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:27 pm",
-      "artist": "Peter Bjorn and John",
-      "title": "Young Folk"
-    },
     {
       "time": "7:32 pm",
       "artist": "Beach Weather",
@@ -26,9 +21,20 @@
       "time": "7:41 pm",
       "artist": "Foo Fighters",
       "title": "Everlong"
+    },
+    {
+      "time": "7:45 pm",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right"
     }
   ],
   "recent": [
+    {
+      "time": "7:28 pm",
+      "artist": "Peter Bjorn and John",
+      "title": "Young Folk",
+      "album": "Writer's Block • 2006"
+    },
     {
       "time": "7:24 pm",
       "artist": "Boz Scaggs",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "I'll Get You",
       "album": "single • 1963"
-    },
-    {
-      "time": "6:01 pm",
-      "artist": "OutKast",
-      "title": "Ms. Jackson",
-      "album": "Stankonia • 2000"
     }
   ]
 }
