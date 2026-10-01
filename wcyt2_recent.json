@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T23:53:37",
+  "updatedAt": "2026-09-30T23:53:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Something So Right",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:53 pm",
-      "artist": "Paul Simon",
-      "title": "Something So Right"
-    },
     {
       "time": "11:58 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "12:05 am",
       "artist": "Blaze Foley",
       "title": "Clay Pigeons"
+    },
+    {
+      "time": "12:08 am",
+      "artist": "Chordettes",
+      "title": "Mr. Sandman"
     }
   ],
   "recent": [
+    {
+      "time": "11:53 pm",
+      "artist": "Paul Simon",
+      "title": "Something So Right",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "11:50 pm",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Twist and Shout",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "10:14 pm",
-      "artist": "The Strokes",
-      "title": "Someday.",
-      "album": "Is This It • 2001"
     }
   ]
 }
