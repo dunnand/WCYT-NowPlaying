@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-01T12:30:51",
+  "updatedAt": "2026-10-01T12:34:13",
   "now": {
-    "artist": "Lisa Loeb",
-    "title": "I Do",
-    "album": "Firecracker • 1997",
+    "artist": "Radiohead",
+    "title": "Bones",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Radiohead",
-      "title": "Bones"
-    },
     {
       "time": "12:37 pm",
       "artist": "ABC",
       "title": "Poison Arrow"
     },
     {
-      "time": "12:41 pm",
+      "time": "12:40 pm",
       "artist": "A.C. Marias",
       "title": "Just Talk"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Radiohead",
+      "title": "Bones",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "12:30 pm",
       "artist": "Lisa Loeb",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Money (That's What I Want)",
       "album": "With the Beatles • 1963"
-    },
-    {
-      "time": "11:01 am",
-      "artist": "Commodores",
-      "title": "Machine Gun",
-      "album": "Machine Gun • 1974"
     }
   ]
 }
