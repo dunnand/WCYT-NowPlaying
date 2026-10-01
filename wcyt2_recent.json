@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T05:02:49",
+  "updatedAt": "2026-10-01T05:05:55",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Alison",
-    "album": "My Aim Is True • 1977",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "3 Speed",
+    "album": "Electro Shock Blues • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:05 am",
-      "artist": "Eels",
-      "title": "3 Speed"
-    },
     {
       "time": "5:08 am",
       "artist": "Chuck Berry",
@@ -26,9 +21,20 @@
       "time": "5:15 am",
       "artist": "The Beatles",
       "title": "I'm Happy Just To Dance With You"
+    },
+    {
+      "time": "5:17 am",
+      "artist": "Erykah Badu",
+      "title": "Window Seat"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 am",
+      "artist": "Eels",
+      "title": "3 Speed",
+      "album": "Electro Shock Blues • 1998"
+    },
     {
       "time": "5:02 am",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "I Don't Think So",
       "album": "Without a Sound • 1994"
-    },
-    {
-      "time": "3:24 am",
-      "artist": "Deftones",
-      "title": "Bored",
-      "album": "Adrenaline • 1995"
     }
   ]
 }
