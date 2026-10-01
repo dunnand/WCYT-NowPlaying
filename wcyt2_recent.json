@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-09-30T22:44:11",
+  "updatedAt": "2026-09-30T22:46:24",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Never Going Back Again",
-    "album": "Rumours • 1977",
+    "artist": "Donna Summer",
+    "title": "I Feel Love",
+    "album": "I Remember Yesterday • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:46 pm",
-      "artist": "Donna Summer",
-      "title": "I Feel Love"
-    },
     {
       "time": "10:54 pm",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "11:00 pm",
       "artist": "Dion",
       "title": "Born to Be With You"
+    },
+    {
+      "time": "11:07 pm",
+      "artist": "The Chambers Brothers",
+      "title": "Time Has Come Today"
     }
   ],
   "recent": [
+    {
+      "time": "10:46 pm",
+      "artist": "Donna Summer",
+      "title": "I Feel Love",
+      "album": "I Remember Yesterday • 1977"
+    },
     {
       "time": "10:44 pm",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "Barely Legal.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "9:14 pm",
-      "artist": "David Bowie",
-      "title": "Where Are We Now?",
-      "album": "The Next Day • 2013"
     }
   ]
 }
