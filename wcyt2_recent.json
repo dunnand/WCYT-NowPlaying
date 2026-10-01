@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T03:00:51",
+  "updatedAt": "2026-10-01T03:05:07",
   "now": {
-    "artist": "Queen",
-    "title": "Fat Bottomed Girls",
-    "album": "Jazz • 1978",
+    "artist": "David Bowie",
+    "title": "The Wedding Song",
+    "album": "Black Tie White Noise • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:05 am",
-      "artist": "David Bowie",
-      "title": "The Wedding Song"
-    },
     {
       "time": "3:09 am",
       "artist": "Ed Sheeran",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:05 am",
+      "artist": "David Bowie",
+      "title": "The Wedding Song",
+      "album": "Black Tie White Noise • 1993"
+    },
     {
       "time": "3:00 am",
       "artist": "Queen",
@@ -172,12 +173,6 @@
       "artist": "Celine Dion",
       "title": "Because You Loved Me",
       "album": "Falling Into You • 1996"
-    },
-    {
-      "time": "1:30 am",
-      "artist": "Bruce Springsteen",
-      "title": "The Ghost of Tom Joad",
-      "album": "The Ghost of Tom Joad • 1995"
     }
   ]
 }
