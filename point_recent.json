@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T00:39:47",
+  "updatedAt": "2026-10-01T00:40:17",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
+    "artist": "Beck",
+    "title": "Ride Lonesome",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 am",
-      "artist": "Beck",
-      "title": "Ride Lonesome"
-    },
     {
       "time": "12:44 am",
       "artist": "Slow Pulp",
@@ -26,9 +21,20 @@
       "time": "12:51 am",
       "artist": "Ethel Cain",
       "title": "Nettles"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "The Smile",
+      "title": "Don't Get Me Started"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "Beck",
+      "title": "Ride Lonesome",
+      "album": ""
+    },
     {
       "time": "12:32 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +178,6 @@
       "artist": "Ty Segall",
       "title": "Hospital",
       "album": "Chrome • 2026"
-    },
-    {
-      "time": "11:09 pm",
-      "artist": "Hot Chip",
-      "title": "Ready For The Floor",
-      "album": "Made in the Dark • 2008"
     }
   ]
 }
