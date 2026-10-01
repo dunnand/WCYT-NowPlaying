@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T12:39:09",
+  "updatedAt": "2026-10-01T12:42:13",
   "now": {
-    "artist": "Jungle",
-    "title": "Happy Man",
-    "album": "For Ever • 2018",
+    "artist": "Radiohead",
+    "title": "Paranoid Android",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 pm",
-      "artist": "Radiohead",
-      "title": "Paranoid Android"
-    },
     {
       "time": "12:48 pm",
       "artist": "King Tuff",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:42 pm",
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "12:39 pm",
       "artist": "Jungle",
@@ -172,12 +173,6 @@
       "artist": "Frankie Rose",
       "title": "Anything",
       "album": "Love As Projection • 2023"
-    },
-    {
-      "time": "11:16 am",
-      "artist": "Wild Pink",
-      "title": "Box Store",
-      "album": "Still Coming Down • 2026"
     }
   ]
 }
