@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T02:10:23",
+  "updatedAt": "2026-10-01T02:12:45",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Cry! Cry! Cry!",
-    "album": "Cry! Cry! Cry! • 1955",
+    "artist": "Gorillaz",
+    "title": "Feel Good Inc.",
+    "album": "Demon Days • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:12 am",
-      "artist": "Gorillaz",
-      "title": "Feel Good Inc."
-    },
     {
       "time": "2:16 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "2:18 am",
       "artist": "Charles Bradley",
       "title": "Strictly Reserved For You"
+    },
+    {
+      "time": "2:22 am",
+      "artist": "Coolio",
+      "title": "Gangsta Paradise"
     }
   ],
   "recent": [
+    {
+      "time": "2:12 am",
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc.",
+      "album": "Demon Days • 2005"
+    },
     {
       "time": "2:10 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Fugazi",
       "title": "Bad Mouth",
       "album": "13 Songs • 1989"
-    },
-    {
-      "time": "12:28 am",
-      "artist": "Flipper",
-      "title": "Way of the World",
-      "album": "Generic Flipper • 1982"
     }
   ]
 }
