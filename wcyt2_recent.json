@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T13:40:39",
+  "updatedAt": "2026-10-01T13:41:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "A Day In The Life",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:41 pm",
-      "artist": "The Beatles",
-      "title": "A Day In The Life"
-    },
     {
       "time": "1:46 pm",
       "artist": "Cee",
@@ -26,9 +21,20 @@
       "time": "1:54 pm",
       "artist": "Medicine",
       "title": "Time Baby III"
+    },
+    {
+      "time": "1:58 pm",
+      "artist": "A Flock Of Seagulls",
+      "title": "Space Age Love Song"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 pm",
+      "artist": "The Beatles",
+      "title": "A Day In The Life",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "1:35 pm",
       "artist": "Oasis",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Electric Relaxation",
       "album": "Midnight Marauders • 1993"
-    },
-    {
-      "time": "11:45 am",
-      "artist": "Tame Impala",
-      "title": "The Less I Know The Better",
-      "album": "Currents • 2015"
     }
   ]
 }
