@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T05:15:47",
+  "updatedAt": "2026-10-01T05:16:08",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Wilco",
+    "title": "Radio Cure",
+    "album": "Yankee Hotel Foxtrot • 2002",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:16 am",
-      "artist": "Wilco",
-      "title": "Radio Cure"
-    },
     {
       "time": "5:21 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "5:30 am",
       "artist": "Joy Division",
       "title": "Disorder"
+    },
+    {
+      "time": "5:34 am",
+      "artist": "Beach Fossils",
+      "title": "Dare Me"
     }
   ],
   "recent": [
+    {
+      "time": "5:16 am",
+      "artist": "Wilco",
+      "title": "Radio Cure",
+      "album": "Yankee Hotel Foxtrot • 2002"
+    },
     {
       "time": "5:13 am",
       "artist": "Alex G",
@@ -172,12 +178,6 @@
       "artist": "Twisted Teens",
       "title": "When We First Met",
       "album": "The Holy Cross Tigers • 2026"
-    },
-    {
-      "time": "3:49 am",
-      "artist": "Dinosaur Jr.",
-      "title": "Several Got Away",
-      "album": "There Near • 2026"
     }
   ]
 }
