@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T18:40:39",
+  "updatedAt": "2026-10-02T18:42:33",
   "now": {
-    "artist": "The Beatles",
-    "title": "Another Girl",
-    "album": "Help! • 1965",
+    "artist": "Beyonce",
+    "title": "Formation",
+    "album": "Lemonade • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:42 pm",
-      "artist": "Beyonce",
-      "title": "Formation"
-    },
     {
       "time": "6:46 pm",
       "artist": "The Prodigy",
@@ -21,9 +16,20 @@
       "time": "6:50 pm",
       "artist": "Third Eye Blind",
       "title": "Jumper"
+    },
+    {
+      "time": "6:55 pm",
+      "artist": "Starship",
+      "title": "We Built This City"
     }
   ],
   "recent": [
+    {
+      "time": "6:42 pm",
+      "artist": "Beyonce",
+      "title": "Formation",
+      "album": "Lemonade • 2016"
+    },
     {
       "time": "6:40 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "unknown",
       "title": "NES Remix Pack (Records Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "5:03 pm",
-      "artist": "The Smiths",
-      "title": "Hand in Glove",
-      "album": "The Smiths • 1984"
     }
   ]
 }
