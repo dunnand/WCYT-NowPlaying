@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T07:47:12",
+  "updatedAt": "2026-10-02T07:50:37",
   "now": {
-    "artist": "Andy Gibb",
-    "title": "I Just Want To Be Your Everything",
-    "album": "Flowing Rivers • 1977",
+    "artist": "Bob Dylan",
+    "title": "Forever Young",
+    "album": "Planet Waves • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "Bob Dylan",
-      "title": "Forever Young"
-    },
     {
       "time": "7:55 am",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "8:03 am",
       "artist": "Queen",
       "title": "Fat Bottomed Girls"
+    },
+    {
+      "time": "8:07 am",
+      "artist": "David Bowie",
+      "title": "The Wedding Song"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "Bob Dylan",
+      "title": "Forever Young",
+      "album": "Planet Waves • 1974"
+    },
     {
       "time": "7:47 am",
       "artist": "Andy Gibb",
@@ -172,12 +178,6 @@
       "artist": "of Montreal",
       "title": "Suffer for Fashion",
       "album": "Hissing Fauna, Are You The Destroyer • 2007"
-    },
-    {
-      "time": "6:11 am",
-      "artist": "David Bowie",
-      "title": "I Can't Give Everything Away",
-      "album": "Blackstar • 2016"
     }
   ]
 }
