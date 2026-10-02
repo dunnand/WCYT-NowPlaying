@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T19:11:08",
+  "updatedAt": "2026-10-02T19:16:45",
   "now": {
-    "artist": "Black Sabbath",
-    "title": "Black Sabbath",
-    "album": "Black Sabbath • 1970",
-    "category": "AUDIO"
+    "artist": "Les Savy Fav",
+    "title": "Meet Me in the Dollar Bin",
+    "album": "Inches • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:16 pm",
-      "artist": "Les Savy Fav",
-      "title": "Meet Me in the Dollar Bin"
-    },
     {
       "time": "7:21 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:29 pm",
       "artist": "TLC",
       "title": "No Scrubs"
+    },
+    {
+      "time": "7:32 pm",
+      "artist": "Bruno Mars",
+      "title": "Locked Out Of Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "7:16 pm",
+      "artist": "Les Savy Fav",
+      "title": "Meet Me in the Dollar Bin",
+      "album": "Inches • 2004"
+    },
     {
       "time": "7:11 pm",
       "artist": "Black Sabbath",
@@ -172,12 +178,6 @@
       "artist": "John Mayer",
       "title": "Why Georgia",
       "album": "Room for Squares • 2003"
-    },
-    {
-      "time": "5:32 pm",
-      "artist": "Demi Lovato",
-      "title": "Heart Attack",
-      "album": "Demi • 2013"
     }
   ]
 }
