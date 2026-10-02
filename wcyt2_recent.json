@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T04:56:22",
+  "updatedAt": "2026-10-02T05:00:47",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Something So Right",
-    "album": "There Goes Rhymin Simon • 1973",
+    "artist": "The Beatles",
+    "title": "Maxwell's Silver Hammer",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "The Beatles",
-      "title": "Maxwell's Silver Hammer"
-    },
     {
       "time": "5:04 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "5:11 am",
       "artist": "Chordettes",
       "title": "Mr. Sandman"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "Lenny Kravitz",
+      "title": "Stillness Of Heart"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "The Beatles",
+      "title": "Maxwell's Silver Hammer",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "4:56 am",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "Redbone",
       "album": "Redbone • 2016"
-    },
-    {
-      "time": "3:20 am",
-      "artist": "The Beatles",
-      "title": "Twist and Shout",
-      "album": "Please Please Me • 1963"
     }
   ]
 }
