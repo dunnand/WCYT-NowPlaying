@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T22:07:39",
+  "updatedAt": "2026-10-01T22:10:34",
   "now": {
-    "artist": "The Strokes",
-    "title": "You Talk Way Too Much",
-    "album": "Room on Fire • 2003",
-    "category": "TUNES"
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Our House",
+    "album": "Dj Vu • 1970",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Our House"
-    },
     {
       "time": "10:13 pm",
       "artist": "The Strokes",
@@ -26,9 +21,25 @@
       "time": "10:20 pm",
       "artist": "Elvis Presley",
       "title": "Kentucky Rain"
+    },
+    {
+      "time": "10:23 pm",
+      "artist": "Janet Jackson",
+      "title": "Runaway"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "FKA twigs",
+      "title": "home with you"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Our House",
+      "album": "Dj Vu • 1970"
+    },
     {
       "time": "10:07 pm",
       "artist": "The Strokes",
@@ -172,12 +183,6 @@
       "artist": "Little Richard and His Band",
       "title": "Long Tall Sally",
       "album": "Heres Little Richard • 1957"
-    },
-    {
-      "time": "8:41 pm",
-      "artist": "Alanis Morissette",
-      "title": "Head Over Feet",
-      "album": "Jagged Little Pill • 1996"
     }
   ]
 }
