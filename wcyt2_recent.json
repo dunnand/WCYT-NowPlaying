@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T22:01:21",
+  "updatedAt": "2026-10-01T22:01:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Crowded House",
+    "title": "Don't Dream It's Over",
+    "album": "Crowded House • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 pm",
-      "artist": "Crowded House",
-      "title": "Don't Dream It's Over"
-    },
     {
       "time": "10:05 pm",
       "artist": "Akito Nakatsuka, Minako Hamano, Masaru Tajima, Tos",
@@ -26,9 +21,20 @@
       "time": "10:10 pm",
       "artist": "Crosby, Stills, Nash & Young",
       "title": "Our House"
+    },
+    {
+      "time": "10:13 pm",
+      "artist": "The Strokes",
+      "title": "The End Has No End"
     }
   ],
   "recent": [
+    {
+      "time": "10:01 pm",
+      "artist": "Crowded House",
+      "title": "Don't Dream It's Over",
+      "album": "Crowded House • 1987"
+    },
     {
       "time": "9:56 pm",
       "artist": "Crosby, Stills & Nash",
@@ -172,12 +178,6 @@
       "artist": "The Kinks",
       "title": "Death of a Clown",
       "album": "Something Else by the Kinks • 1967"
-    },
-    {
-      "time": "8:30 pm",
-      "artist": "Justin Timberlake",
-      "title": "Sexyback",
-      "album": "FutureSex/LoveSounds • 2006"
     }
   ]
 }
