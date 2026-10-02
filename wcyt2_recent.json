@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T17:10:56",
+  "updatedAt": "2026-10-02T17:11:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "Big Shot",
+    "album": "52nd Street • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:10 pm",
-      "artist": "Billy Joel",
-      "title": "Big Shot"
-    },
     {
       "time": "5:14 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "5:23 pm",
       "artist": "The Beatles",
       "title": "You Like Me Too Much"
+    },
+    {
+      "time": "5:26 pm",
+      "artist": "The Carpenters",
+      "title": "We've Only Just Begun"
     }
   ],
   "recent": [
+    {
+      "time": "5:11 pm",
+      "artist": "Billy Joel",
+      "title": "Big Shot",
+      "album": "52nd Street • 1979"
+    },
     {
       "time": "5:07 pm",
       "artist": "unknown",
@@ -172,12 +178,6 @@
       "artist": "Brandi Carlile",
       "title": "The Joke",
       "album": "By the Way, I Forgive You • 2018"
-    },
-    {
-      "time": "3:44 pm",
-      "artist": "Nine Inch Nails",
-      "title": "The Hand That Feeds",
-      "album": "With Teeth • 2005"
     }
   ]
 }
