@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T17:51:19",
+  "updatedAt": "2026-10-02T17:56:05",
   "now": {
-    "artist": "The Chemical Brothers",
-    "title": "Hey Boy Hey Girl",
-    "album": "Surrender • 1999",
+    "artist": "Spandau Ballet",
+    "title": "True",
+    "album": "True • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:56 pm",
-      "artist": "Spandau Ballet",
-      "title": "True"
-    },
     {
       "time": "6:01 pm",
       "artist": "Squeeze",
@@ -21,9 +16,20 @@
       "time": "6:05 pm",
       "artist": "Mahito Yokota",
       "title": "Super Mario Galaxy"
+    },
+    {
+      "time": "6:09 pm",
+      "artist": "Paul McCartney and Wings",
+      "title": "Live And Let Die"
     }
   ],
   "recent": [
+    {
+      "time": "5:56 pm",
+      "artist": "Spandau Ballet",
+      "title": "True",
+      "album": "True • 1983"
+    },
     {
       "time": "5:51 pm",
       "artist": "The Chemical Brothers",
@@ -167,12 +173,6 @@
       "artist": "Shirley & Lee",
       "title": "Let The Good Times Roll",
       "album": "single • 1956"
-    },
-    {
-      "time": "4:24 pm",
-      "artist": "Hole",
-      "title": "Malibu",
-      "album": "Celebrity Skin • 1998"
     }
   ]
 }
