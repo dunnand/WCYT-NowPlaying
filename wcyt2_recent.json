@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T01:23:34",
+  "updatedAt": "2026-10-02T01:26:50",
   "now": {
     "artist": "The Strokes",
-    "title": "Take It or Leave It.",
+    "title": "Is This It.",
     "album": "Is This It • 2001",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:26 am",
-      "artist": "The Strokes",
-      "title": "Is This It."
-    },
     {
       "time": "1:29 am",
       "artist": "BADBADNOTGOOD",
@@ -26,9 +21,20 @@
       "time": "1:40 am",
       "artist": "My Bloody Valentine",
       "title": "Sometimes"
+    },
+    {
+      "time": "1:45 am",
+      "artist": "Doug E. Fresh",
+      "title": "The Show"
     }
   ],
   "recent": [
+    {
+      "time": "1:26 am",
+      "artist": "The Strokes",
+      "title": "Is This It.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "1:23 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Dig, Lazarus, Dig!!!",
       "album": ""
-    },
-    {
-      "time": "11:48 pm",
-      "artist": "Dexy's Midnight Runners",
-      "title": "Geno",
-      "album": "Searching for the Young Soul Rebels • 1980"
     }
   ]
 }
