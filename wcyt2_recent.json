@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T06:27:49",
+  "updatedAt": "2026-10-02T06:33:16",
   "now": {
-    "artist": "Bon Iver",
-    "title": "Holocene",
-    "album": "Bon Iver, Bon Iver • 2011",
-    "category": "TUNES"
+    "artist": "Bruce Springsteen",
+    "title": "The Ghost of Tom Joad",
+    "album": "The Ghost of Tom Joad • 1995",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:33 am",
-      "artist": "Bruce Springsteen",
-      "title": "The Ghost of Tom Joad"
-    },
     {
       "time": "6:37 am",
       "artist": "Celine Dion",
@@ -26,9 +21,20 @@
       "time": "6:45 am",
       "artist": "Glenn Frey",
       "title": "The Heat Is On"
+    },
+    {
+      "time": "6:48 am",
+      "artist": "Olivia Rodrigo",
+      "title": "the cure"
     }
   ],
   "recent": [
+    {
+      "time": "6:33 am",
+      "artist": "Bruce Springsteen",
+      "title": "The Ghost of Tom Joad",
+      "album": "The Ghost of Tom Joad • 1995"
+    },
     {
       "time": "6:27 am",
       "artist": "Bon Iver",
@@ -172,12 +178,6 @@
       "artist": "The Velvet Underground",
       "title": "Sunday Morning",
       "album": "The Velvet Underground & Nico • 1967"
-    },
-    {
-      "time": "4:50 am",
-      "artist": "Neil Young",
-      "title": "Heart Of Gold",
-      "album": "Harvest • 1972"
     }
   ]
 }
