@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T10:08:29",
+  "updatedAt": "2026-10-02T10:11:11",
   "now": {
-    "artist": "Eels",
-    "title": "3 Speed",
-    "album": "Electro Shock Blues • 1998",
-    "category": "TUNES"
+    "artist": "Chuck Berry",
+    "title": "Too Much Monkey Business",
+    "album": "After School Session • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:11 am",
-      "artist": "Chuck Berry",
-      "title": "Too Much Monkey Business"
-    },
     {
       "time": "10:14 am",
       "artist": "Lupe Fiasco",
@@ -26,9 +21,20 @@
       "time": "10:20 am",
       "artist": "Erykah Badu",
       "title": "Window Seat"
+    },
+    {
+      "time": "10:25 am",
+      "artist": "Eric B. & Rakim",
+      "title": "Don't Sweat the Technique"
     }
   ],
   "recent": [
+    {
+      "time": "10:11 am",
+      "artist": "Chuck Berry",
+      "title": "Too Much Monkey Business",
+      "album": "After School Session • 1957"
+    },
     {
       "time": "10:08 am",
       "artist": "Eels",
@@ -172,12 +178,6 @@
       "artist": "Human League",
       "title": "Human",
       "album": "Crash • 1986"
-    },
-    {
-      "time": "8:31 am",
-      "artist": "Dinosaur Jr.",
-      "title": "I Don't Think So",
-      "album": "Without a Sound • 1994"
     }
   ]
 }
