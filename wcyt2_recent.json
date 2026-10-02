@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T21:22:33",
+  "updatedAt": "2026-10-01T21:22:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Jimmy Eat World",
+    "title": "Bleed American",
+    "album": "Bleed American • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:22 pm",
-      "artist": "Jimmy Eat World",
-      "title": "Bleed American"
-    },
     {
       "time": "9:25 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "9:35 pm",
       "artist": "Johnny Cash",
       "title": "Don't Take Your Guns To Town"
+    },
+    {
+      "time": "9:38 pm",
+      "artist": "Sharon Jones and the Dap",
+      "title": "Kings - 100 Days, 100 Nights"
     }
   ],
   "recent": [
+    {
+      "time": "9:22 pm",
+      "artist": "Jimmy Eat World",
+      "title": "Bleed American",
+      "album": "Bleed American • 2001"
+    },
     {
       "time": "9:19 pm",
       "artist": "Buzzcocks",
@@ -177,12 +183,6 @@
       "artist": "M83",
       "title": "Run Into Flowers",
       "album": "Dead Cities, Red Seas & Lost Ghosts • 2003"
-    },
-    {
-      "time": "7:45 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
