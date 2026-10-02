@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T21:12:50",
+  "updatedAt": "2026-10-01T21:16:44",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "drivers license",
-    "album": "SOUR • 2021",
+    "artist": "The Beatles",
+    "title": "Get Back",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:16 pm",
-      "artist": "The Beatles",
-      "title": "Get Back"
-    },
     {
       "time": "9:19 pm",
       "artist": "Buzzcocks",
@@ -21,9 +16,25 @@
       "time": "9:22 pm",
       "artist": "Jimmy Eat World",
       "title": "Bleed American"
+    },
+    {
+      "time": "9:25 pm",
+      "artist": "The Beatles",
+      "title": "Wild Honey Pie"
+    },
+    {
+      "time": "9:26 pm",
+      "artist": "Chicago",
+      "title": "Saturday In The Park"
     }
   ],
   "recent": [
+    {
+      "time": "9:16 pm",
+      "artist": "The Beatles",
+      "title": "Get Back",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "9:12 pm",
       "artist": "Olivia Rodrigo",
@@ -167,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "Everlong",
       "album": "The Colour and the Shape • 1997"
-    },
-    {
-      "time": "7:35 pm",
-      "artist": "David Bowie",
-      "title": "Wild Is the Wind",
-      "album": "Station to Station • 1976"
     }
   ]
 }
