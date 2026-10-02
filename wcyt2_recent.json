@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T10:37:10",
+  "updatedAt": "2026-10-02T10:37:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Juice Newton",
+    "title": "Queen Of Hearts",
+    "album": "Juice • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:37 am",
-      "artist": "Juice Newton",
-      "title": "Queen Of Hearts"
-    },
     {
       "time": "10:40 am",
       "artist": "Bruno Mars",
@@ -26,9 +21,20 @@
       "time": "10:47 am",
       "artist": "Eric Clapton",
       "title": "I Shot The Sheriff"
+    },
+    {
+      "time": "10:52 am",
+      "artist": "M.I.A.",
+      "title": "Jimmy"
     }
   ],
   "recent": [
+    {
+      "time": "10:37 am",
+      "artist": "Juice Newton",
+      "title": "Queen Of Hearts",
+      "album": "Juice • 1981"
+    },
     {
       "time": "10:33 am",
       "artist": "Jonathan Richman & The Modern Lovers",
@@ -172,12 +178,6 @@
       "artist": "Bill Withers",
       "title": "Use Me",
       "album": "Still Bill • 1972"
-    },
-    {
-      "time": "8:53 am",
-      "artist": "The Contours",
-      "title": "Do You Love Me",
-      "album": "Do You Love Me • 1962"
     }
   ]
 }
