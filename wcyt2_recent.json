@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T01:08:12",
+  "updatedAt": "2026-10-02T01:10:57",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "Treasure",
-    "album": "Unorthodox Jukebox • 2012",
+    "artist": "Styx",
+    "title": "Babe",
+    "album": "Cornerstone • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:11 am",
-      "artist": "Styx",
-      "title": "Babe"
-    },
     {
       "time": "1:15 am",
       "artist": "All",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "The Strokes",
       "title": "Take It or Leave It."
+    },
+    {
+      "time": "1:26 am",
+      "artist": "The Strokes",
+      "title": "Is This It."
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Styx",
+      "title": "Babe",
+      "album": "Cornerstone • 1979"
+    },
     {
       "time": "1:08 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Sheryl Crow",
       "title": "All I Wanna Do",
       "album": "Tuesday Night Music Club • 1994"
-    },
-    {
-      "time": "11:33 pm",
-      "artist": "FKA twigs",
-      "title": "holy terrain",
-      "album": "MAGDALENE • 2019"
     }
   ]
 }
