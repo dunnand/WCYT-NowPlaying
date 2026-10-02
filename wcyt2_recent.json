@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T08:16:34",
+  "updatedAt": "2026-10-02T08:19:40",
   "now": {
-    "artist": "*NSYNC",
-    "title": "It's Gonna Be Me",
-    "album": "No Strings Attached • 2000",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "Something",
+    "album": "It Was Hot, We Stayed in the Water • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:19 am",
-      "artist": "The Microphones",
-      "title": "Something"
-    },
     {
       "time": "8:23 am",
       "artist": "FKA twigs",
@@ -26,9 +21,20 @@
       "time": "8:31 am",
       "artist": "Dinosaur Jr.",
       "title": "I Don't Think So"
+    },
+    {
+      "time": "8:34 am",
+      "artist": "Human League",
+      "title": "Human"
     }
   ],
   "recent": [
+    {
+      "time": "8:19 am",
+      "artist": "The Microphones",
+      "title": "Something",
+      "album": "It Was Hot, We Stayed in the Water • 2000"
+    },
     {
       "time": "8:16 am",
       "artist": "*NSYNC",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "the cure",
       "album": ""
-    },
-    {
-      "time": "6:45 am",
-      "artist": "Glenn Frey",
-      "title": "The Heat Is On",
-      "album": "Beverly Hills Cop: Soundtrack • 1984"
     }
   ]
 }
