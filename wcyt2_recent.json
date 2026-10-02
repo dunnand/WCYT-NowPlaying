@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T19:21:01",
+  "updatedAt": "2026-10-02T19:24:57",
   "now": {
-    "artist": "The Beatles",
-    "title": "Dear Prudence",
-    "album": "The Beatles • 1968",
+    "artist": "Carly Simon",
+    "title": "That's The Way I've Always Heard It Should Be",
+    "album": "Carly Simon • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:24 pm",
-      "artist": "Carly Simon",
-      "title": "That's The Way I've Always Heard It Should Be"
-    },
     {
       "time": "7:29 pm",
       "artist": "TLC",
@@ -26,9 +21,20 @@
       "time": "7:36 pm",
       "artist": "Gorillaz",
       "title": "Dirty Harry"
+    },
+    {
+      "time": "7:40 pm",
+      "artist": "My Morning Jacket",
+      "title": "Lowdown"
     }
   ],
   "recent": [
+    {
+      "time": "7:24 pm",
+      "artist": "Carly Simon",
+      "title": "That's The Way I've Always Heard It Should Be",
+      "album": "Carly Simon • 1971"
+    },
     {
       "time": "7:21 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Christina Perri",
       "title": "A Thousand Years",
       "album": "The Twilight Saga: Breaking Dawn, Pt. 1 (Original Motion Picture • 2011"
-    },
-    {
-      "time": "5:39 pm",
-      "artist": "The Mountain Goats",
-      "title": "Letter From Belgium",
-      "album": "We Shall All Be Healed • 2004"
     }
   ]
 }
