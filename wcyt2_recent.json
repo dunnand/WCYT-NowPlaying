@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T03:57:28",
+  "updatedAt": "2026-10-02T03:59:51",
   "now": {
-    "artist": "The Strokes",
-    "title": "12:51",
-    "album": "Room on Fire • 2003",
-    "category": "TUNES"
+    "artist": "The Zombies",
+    "title": "Time Of The Season",
+    "album": "Odessey and Oracle • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "The Zombies",
-      "title": "Time Of The Season"
-    },
     {
       "time": "4:03 am",
       "artist": "Dion",
@@ -26,9 +21,20 @@
       "time": "4:20 am",
       "artist": "Drake",
       "title": "Best I Ever Had"
+    },
+    {
+      "time": "4:25 am",
+      "artist": "The Strokes",
+      "title": "Reptilia"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 am",
+      "artist": "The Zombies",
+      "title": "Time Of The Season",
+      "album": "Odessey and Oracle • 1969"
+    },
     {
       "time": "3:57 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Heroes and Villains",
       "album": "The Smile Sessions • 2011"
-    },
-    {
-      "time": "2:25 am",
-      "artist": "The Strokes",
-      "title": "New York City Cop.s",
-      "album": "Is This It • 2001"
     }
   ]
 }
