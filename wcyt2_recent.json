@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-01T23:37:49",
+  "updatedAt": "2026-10-01T23:42:24",
   "now": {
-    "artist": "Sheryl Crow",
-    "title": "All I Wanna Do",
-    "album": "Tuesday Night Music Club • 1994",
+    "artist": "Slowdive",
+    "title": "Alison",
+    "album": "Souvlaki • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:42 pm",
-      "artist": "Slowdive",
-      "title": "Alison"
-    },
-    {
-      "time": "11:46 pm",
+      "time": "11:45 pm",
       "artist": "Descendents",
       "title": "My Age"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:42 pm",
+      "artist": "Slowdive",
+      "title": "Alison",
+      "album": "Souvlaki • 1993"
+    },
     {
       "time": "11:37 pm",
       "artist": "Sheryl Crow",
@@ -172,12 +173,6 @@
       "artist": "The Strokes",
       "title": "The End Has No End",
       "album": "Room on Fire • 2003"
-    },
-    {
-      "time": "10:10 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Our House",
-      "album": "Dj Vu • 1970"
     }
   ]
 }
