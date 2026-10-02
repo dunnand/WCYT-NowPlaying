@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T00:53:29",
+  "updatedAt": "2026-10-02T00:57:43",
   "now": {
-    "artist": "HAIM",
-    "title": "Falling",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Last Nite.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:57 am",
-      "artist": "The Strokes",
-      "title": "Last Nite."
-    },
     {
       "time": "1:01 am",
       "artist": "Paul McCartney",
@@ -26,9 +21,20 @@
       "time": "1:08 am",
       "artist": "Bruno Mars",
       "title": "Treasure"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Styx",
+      "title": "Babe"
     }
   ],
   "recent": [
+    {
+      "time": "12:57 am",
+      "artist": "The Strokes",
+      "title": "Last Nite.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "12:53 am",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Space Song",
       "album": "Depression Cherry • 2015"
-    },
-    {
-      "time": "11:18 pm",
-      "artist": "Prince",
-      "title": "The Holy River",
-      "album": "Emancipation • 1997"
     }
   ]
 }
