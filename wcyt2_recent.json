@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T04:03:15",
+  "updatedAt": "2026-10-02T04:09:44",
   "now": {
-    "artist": "Dion",
-    "title": "Born to Be With You",
-    "album": "Born to Be With You • 1975",
+    "artist": "The Chambers Brothers",
+    "title": "Time Has Come Today",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 am",
-      "artist": "The Chambers Brothers",
-      "title": "Time Has Come Today"
-    },
     {
       "time": "4:20 am",
       "artist": "Drake",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:09 am",
+      "artist": "The Chambers Brothers",
+      "title": "Time Has Come Today",
+      "album": ""
+    },
     {
       "time": "4:03 am",
       "artist": "Dion",
@@ -172,12 +173,6 @@
       "artist": "The Cure",
       "title": "High",
       "album": "single • 1992"
-    },
-    {
-      "time": "2:33 am",
-      "artist": "My Bloody Valentine",
-      "title": "Soon",
-      "album": "Loveless • 1991"
     }
   ]
 }
