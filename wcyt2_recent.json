@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T04:50:20",
+  "updatedAt": "2026-10-02T04:53:17",
   "now": {
-    "artist": "Neil Young",
-    "title": "Heart Of Gold",
-    "album": "Harvest • 1972",
+    "artist": "The Velvet Underground",
+    "title": "Sunday Morning",
+    "album": "The Velvet Underground & Nico • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:53 am",
-      "artist": "The Velvet Underground",
-      "title": "Sunday Morning"
-    },
     {
       "time": "4:56 am",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "5:04 am",
       "artist": "Rod Stewart",
       "title": "Gasoline Alley"
+    },
+    {
+      "time": "5:08 am",
+      "artist": "Blaze Foley",
+      "title": "Clay Pigeons"
     }
   ],
   "recent": [
+    {
+      "time": "4:53 am",
+      "artist": "The Velvet Underground",
+      "title": "Sunday Morning",
+      "album": "The Velvet Underground & Nico • 1967"
+    },
     {
       "time": "4:50 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "Someday.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "3:14 am",
-      "artist": "Ray Charles",
-      "title": "I Got a Woman",
-      "album": "single • 1954"
     }
   ]
 }
