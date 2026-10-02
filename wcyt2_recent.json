@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T00:30:28",
+  "updatedAt": "2026-10-02T00:32:51",
   "now": {
-    "artist": "The Beatles",
-    "title": "Mr. Moonlight",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Beyonce",
+    "title": "Blue",
+    "album": "Beyonce • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:32 am",
-      "artist": "Beyonce",
-      "title": "Blue"
-    },
     {
       "time": "12:37 am",
       "artist": "The Afghan Whigs",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:32 am",
+      "artist": "Beyonce",
+      "title": "Blue",
+      "album": "Beyonce • 2013"
+    },
     {
       "time": "12:30 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Funkadelic",
       "title": "Hit It and Quit It",
       "album": "Maggot Brain • 1971"
-    },
-    {
-      "time": "10:55 pm",
-      "artist": "Weezer  Best Coast",
-      "title": "Go Away",
-      "album": ""
     }
   ]
 }
