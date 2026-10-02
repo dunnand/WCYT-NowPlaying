@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T08:58:38",
+  "updatedAt": "2026-10-02T08:58:50",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Big Thief",
+    "title": "Masterpiece",
+    "album": "Masterpiece • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:58 am",
-      "artist": "Big Thief",
-      "title": "Masterpiece"
-    },
     {
       "time": "9:02 am",
       "artist": "Siouxsie and the Banshees",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:58 am",
+      "artist": "Big Thief",
+      "title": "Masterpiece",
+      "album": "Masterpiece • 2016"
+    },
     {
       "time": "8:54 am",
       "artist": "Wishy",
@@ -172,12 +173,6 @@
       "artist": "The English Beat",
       "title": "Ranking Full Stop",
       "album": "I Just Can't Stop It • 1980"
-    },
-    {
-      "time": "7:28 am",
-      "artist": "Andy Shauf",
-      "title": "The Moon",
-      "album": "The Neon Skyline • 2020"
     }
   ]
 }
