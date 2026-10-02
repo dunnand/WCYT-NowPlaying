@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T19:08:03",
+  "updatedAt": "2026-10-02T19:11:08",
   "now": {
-    "artist": "Aretha Franklin",
-    "title": "Rock Steady",
-    "album": "Young, Gifted and Black • 1972",
+    "artist": "Black Sabbath",
+    "title": "Black Sabbath",
+    "album": "Black Sabbath • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:11 pm",
-      "artist": "Black Sabbath",
-      "title": "Black Sabbath"
-    },
     {
       "time": "7:16 pm",
       "artist": "Les Savy Fav",
@@ -26,9 +21,20 @@
       "time": "7:24 pm",
       "artist": "Carly Simon",
       "title": "That's The Way I've Always Heard It Should Be"
+    },
+    {
+      "time": "7:29 pm",
+      "artist": "TLC",
+      "title": "No Scrubs"
     }
   ],
   "recent": [
+    {
+      "time": "7:11 pm",
+      "artist": "Black Sabbath",
+      "title": "Black Sabbath",
+      "album": "Black Sabbath • 1970"
+    },
     {
       "time": "7:08 pm",
       "artist": "Aretha Franklin",
@@ -172,12 +178,6 @@
       "artist": "Demi Lovato",
       "title": "Heart Attack",
       "album": "Demi • 2013"
-    },
-    {
-      "time": "5:28 pm",
-      "artist": "Supergrass",
-      "title": "In It for the Money",
-      "album": "In It for the Money • 1997"
     }
   ]
 }
