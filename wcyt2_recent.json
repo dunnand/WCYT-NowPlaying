@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T22:59:16",
+  "updatedAt": "2026-10-01T23:03:04",
   "now": {
-    "artist": "Funkadelic",
-    "title": "Hit It and Quit It",
-    "album": "Maggot Brain • 1971",
+    "artist": "The Beatles",
+    "title": "The End",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:03 pm",
-      "artist": "The Beatles",
-      "title": "The End"
-    },
     {
       "time": "11:05 pm",
       "artist": "John Lennon",
@@ -26,9 +21,20 @@
       "time": "11:12 pm",
       "artist": "Kraftwerk",
       "title": "Radioactivity"
+    },
+    {
+      "time": "11:18 pm",
+      "artist": "Prince",
+      "title": "The Holy River"
     }
   ],
   "recent": [
+    {
+      "time": "11:03 pm",
+      "artist": "The Beatles",
+      "title": "The End",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "10:59 pm",
       "artist": "Funkadelic",
@@ -172,12 +178,6 @@
       "artist": "Sharon Jones and the Dap-Kings",
       "title": "100 Days, 100 Nights",
       "album": "100 Days, 100 Nights • 2007"
-    },
-    {
-      "time": "9:35 pm",
-      "artist": "Johnny Cash",
-      "title": "Don't Take Your Guns To Town",
-      "album": "The Fabulous Johnny Cash •"
     }
   ]
 }
