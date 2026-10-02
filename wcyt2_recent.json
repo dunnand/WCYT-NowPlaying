@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T19:36:25",
+  "updatedAt": "2026-10-02T19:36:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Gorillaz",
+    "title": "Dirty Harry",
+    "album": "Demon Days • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:36 pm",
-      "artist": "Gorillaz",
-      "title": "Dirty Harry"
-    },
     {
       "time": "7:40 pm",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "7:46 pm",
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Out in the Cold"
+    },
+    {
+      "time": "7:49 pm",
+      "artist": "Uncle Tupelo",
+      "title": "Gun"
     }
   ],
   "recent": [
+    {
+      "time": "7:36 pm",
+      "artist": "Gorillaz",
+      "title": "Dirty Harry",
+      "album": "Demon Days • 2005"
+    },
     {
       "time": "7:32 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Spandau Ballet",
       "title": "True",
       "album": "True • 1983"
-    },
-    {
-      "time": "5:51 pm",
-      "artist": "The Chemical Brothers",
-      "title": "Hey Boy Hey Girl",
-      "album": "Surrender • 1999"
     }
   ]
 }
