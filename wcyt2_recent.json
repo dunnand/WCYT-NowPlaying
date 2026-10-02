@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T02:03:54",
+  "updatedAt": "2026-10-02T02:04:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Doors",
+    "title": "Roadhouse Blues",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:04 am",
-      "artist": "The Doors",
-      "title": "Roadhouse Blues"
-    },
     {
       "time": "2:08 am",
       "artist": "The Beatles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:04 am",
+      "artist": "The Doors",
+      "title": "Roadhouse Blues",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "2:01 am",
       "artist": "The Velvet Underground",
@@ -177,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Mr. Moonlight",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "12:26 am",
-      "artist": "The Strokes",
-      "title": "Trying Your Luck.",
-      "album": "Is This It • 2001"
     }
   ]
 }
