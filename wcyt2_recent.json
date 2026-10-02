@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T15:16:24",
+  "updatedAt": "2026-10-02T15:16:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Denver",
+    "title": "Back Home Again",
+    "album": "Back Home Again • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:16 pm",
-      "artist": "John Denver",
-      "title": "Back Home Again"
-    },
     {
       "time": "3:21 pm",
       "artist": "Kings of Leon",
@@ -31,9 +26,20 @@
       "time": "3:32 pm",
       "artist": "Gloria Estefan",
       "title": "Turn The Beat Around"
+    },
+    {
+      "time": "3:36 pm",
+      "artist": "Breathe Carolina",
+      "title": "Blackout"
     }
   ],
   "recent": [
+    {
+      "time": "3:16 pm",
+      "artist": "John Denver",
+      "title": "Back Home Again",
+      "album": "Back Home Again • 1974"
+    },
     {
       "time": "3:12 pm",
       "artist": "Gorillaz",
@@ -177,12 +183,6 @@
       "artist": "Guided by Voices",
       "title": "Glad Girls",
       "album": "Isolation Drills • 2001"
-    },
-    {
-      "time": "1:05 pm",
-      "artist": "Interpol",
-      "title": "Stella Was a Diver and She Was Always Down",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
