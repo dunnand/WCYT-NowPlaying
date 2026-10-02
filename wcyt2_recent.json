@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T07:47:02",
+  "updatedAt": "2026-10-02T07:47:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Andy Gibb",
+    "title": "I Just Want To Be Your Everything",
+    "album": "Flowing Rivers • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 am",
-      "artist": "Andy Gibb",
-      "title": "I Just Want To Be Your Everything"
-    },
     {
       "time": "7:50 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "8:00 am",
       "artist": "The Beatles",
       "title": "Dizzy Miss Lizzy"
+    },
+    {
+      "time": "8:03 am",
+      "artist": "Queen",
+      "title": "Fat Bottomed Girls"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 am",
+      "artist": "Andy Gibb",
+      "title": "I Just Want To Be Your Everything",
+      "album": "Flowing Rivers • 1977"
+    },
     {
       "time": "7:43 am",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "I Can't Give Everything Away",
       "album": "Blackstar • 2016"
-    },
-    {
-      "time": "6:06 am",
-      "artist": "Bonnie 'Prince' Billy",
-      "title": "I See a Darkness",
-      "album": "I See a Darkness • 1999"
     }
   ]
 }
