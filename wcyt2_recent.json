@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T11:33:27",
+  "updatedAt": "2026-10-02T11:33:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Laura Branigan",
+    "title": "Self Control",
+    "album": "Self Control • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:33 am",
-      "artist": "Laura Branigan",
-      "title": "Self Control"
-    },
     {
       "time": "11:37 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "11:44 am",
       "artist": "James Taylor",
       "title": "Fire And Rain"
+    },
+    {
+      "time": "11:48 am",
+      "artist": "The Mountain Goats",
+      "title": "No Children"
     }
   ],
   "recent": [
+    {
+      "time": "11:33 am",
+      "artist": "Laura Branigan",
+      "title": "Self Control",
+      "album": "Self Control • 1984"
+    },
     {
       "time": "11:29 am",
       "artist": "Kurtis Blow",
@@ -172,12 +178,6 @@
       "artist": "Elvis Costello",
       "title": "Alison",
       "album": "My Aim Is True • 1977"
-    },
-    {
-      "time": "10:02 am",
-      "artist": "The Beatles",
-      "title": "Baby You're a Rich Man",
-      "album": "single • 1967"
     }
   ]
 }
