@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T03:46:39",
+  "updatedAt": "2026-10-02T03:46:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Never Going Back Again",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 am",
-      "artist": "Fleetwood Mac",
-      "title": "Never Going Back Again"
-    },
     {
       "time": "3:48 am",
       "artist": "Donna Summer",
@@ -26,9 +21,20 @@
       "time": "3:59 am",
       "artist": "The Zombies",
       "title": "Time Of The Season"
+    },
+    {
+      "time": "4:03 am",
+      "artist": "Dion",
+      "title": "Born to Be With You"
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "Fleetwood Mac",
+      "title": "Never Going Back Again",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "3:43 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Where Are We Now?",
       "album": "The Next Day • 2013"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "My Bloody Valentine",
-      "title": "Only Shallow",
-      "album": "Loveless • 1991"
     }
   ]
 }
