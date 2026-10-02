@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T10:45:32",
+  "updatedAt": "2026-10-02T10:45:44",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bauhaus",
+    "title": "Kick in the Eye",
+    "album": "Mask • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 am",
-      "artist": "Bauhaus",
-      "title": "Kick in the Eye"
-    },
     {
       "time": "10:49 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "11:01 am",
       "artist": "Aphex Twin",
       "title": "Ageispolis"
+    },
+    {
+      "time": "11:06 am",
+      "artist": "Real Estate",
+      "title": "Talking Backwards"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 am",
+      "artist": "Bauhaus",
+      "title": "Kick in the Eye",
+      "album": "Mask • 1981"
+    },
     {
       "time": "10:41 am",
       "artist": "This Is Lorelei",
@@ -172,12 +178,6 @@
       "artist": "Iceage",
       "title": "No Fear",
       "album": "For Love of Grace & the Hereafter • 2026"
-    },
-    {
-      "time": "9:08 am",
-      "artist": "Westside Cowboy",
-      "title": "Coyote",
-      "album": "It Goes On • 2026"
     }
   ]
 }
