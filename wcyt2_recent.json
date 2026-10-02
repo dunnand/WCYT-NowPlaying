@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T08:45:07",
+  "updatedAt": "2026-10-02T08:45:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Mamma Mia",
+    "album": "ABBA • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:45 am",
-      "artist": "ABBA",
-      "title": "Mamma Mia"
-    },
     {
       "time": "8:48 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "8:54 am",
       "artist": "The Contours",
       "title": "Do You Love Me"
+    },
+    {
+      "time": "8:56 am",
+      "artist": "Bill Withers",
+      "title": "Use Me"
     }
   ],
   "recent": [
+    {
+      "time": "8:45 am",
+      "artist": "ABBA",
+      "title": "Mamma Mia",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "8:42 am",
       "artist": "Sabrina Carpenter",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "Cry! Cry! Cry!",
       "album": "Cry! Cry! Cry! • 1955"
-    },
-    {
-      "time": "7:09 am",
-      "artist": "Cocteau Twins",
-      "title": "Crushed",
-      "album": "The Box Set • 1991"
     }
   ]
 }
