@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T11:48:03",
+  "updatedAt": "2026-10-02T11:50:36",
   "now": {
-    "artist": "The Mountain Goats",
-    "title": "No Children",
-    "album": "Tallahassee • 2003",
-    "category": "TUNES"
+    "artist": "Bill Callahan",
+    "title": "Riding for the Feeling",
+    "album": "Apocalypse • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:50 am",
-      "artist": "Bill Callahan",
-      "title": "Riding for the Feeling"
-    },
     {
       "time": "11:56 am",
       "artist": "Jim Croce",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:50 am",
+      "artist": "Bill Callahan",
+      "title": "Riding for the Feeling",
+      "album": "Apocalypse • 2011"
+    },
     {
       "time": "11:48 am",
       "artist": "The Mountain Goats",
@@ -162,12 +163,6 @@
       "artist": "Erykah Badu",
       "title": "Window Seat",
       "album": "New Amerykah, Part Two: Return of the Ankh • 2010"
-    },
-    {
-      "time": "10:18 am",
-      "artist": "The Beatles",
-      "title": "I'm Happy Just To Dance With You",
-      "album": "A Hard Day's Night • 1964"
     }
   ]
 }
