@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T21:26:37",
+  "updatedAt": "2026-10-01T21:30:23",
   "now": {
-    "artist": "Chicago",
-    "title": "Saturday In The Park",
-    "album": "Chicago V • 1972",
+    "artist": "Dave Matthews Band",
+    "title": "Satellite",
+    "album": "Under The Table And Dreaming • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 pm",
-      "artist": "Dave Matthews Band",
-      "title": "Satellite"
-    },
     {
       "time": "9:35 pm",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "9:41 pm",
       "artist": "The Beatles",
       "title": "If I Fell"
+    },
+    {
+      "time": "9:44 pm",
+      "artist": "B.O.B.",
+      "title": "So Good"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 pm",
+      "artist": "Dave Matthews Band",
+      "title": "Satellite",
+      "album": "Under The Table And Dreaming • 1995"
+    },
     {
       "time": "9:26 pm",
       "artist": "Chicago",
@@ -172,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "So Close",
       "album": "Change of Season • 1990"
-    },
-    {
-      "time": "7:54 pm",
-      "artist": "Eminem",
-      "title": "Not Afraid",
-      "album": "Recovery • 2010"
     }
   ]
 }
