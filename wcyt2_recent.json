@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T08:45:19",
+  "updatedAt": "2026-10-02T08:48:44",
   "now": {
-    "artist": "ABBA",
-    "title": "Mamma Mia",
-    "album": "ABBA • 1975",
+    "artist": "The Beatles",
+    "title": "I'll Follow The Sun",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 am",
-      "artist": "The Beatles",
-      "title": "I'll Follow The Sun"
-    },
     {
       "time": "8:50 am",
       "artist": "Barry Manilow",
@@ -26,9 +21,25 @@
       "time": "8:56 am",
       "artist": "Bill Withers",
       "title": "Use Me"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "DJ Shadow",
+      "title": "Building Steam With A Grain Of Salt"
+    },
+    {
+      "time": "9:07 am",
+      "artist": "Billie Eilish",
+      "title": "bad guy"
     }
   ],
   "recent": [
+    {
+      "time": "8:48 am",
+      "artist": "The Beatles",
+      "title": "I'll Follow The Sun",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "8:45 am",
       "artist": "ABBA",
@@ -172,12 +183,6 @@
       "artist": "Gorillaz",
       "title": "Feel Good Inc.",
       "album": "Demon Days • 2005"
-    },
-    {
-      "time": "7:13 am",
-      "artist": "Johnny Cash",
-      "title": "Cry! Cry! Cry!",
-      "album": "Cry! Cry! Cry! • 1955"
     }
   ]
 }
