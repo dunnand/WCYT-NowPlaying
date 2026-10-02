@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T19:40:12",
+  "updatedAt": "2026-10-02T19:44:01",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Lowdown",
-    "album": "At Dawn • 2001",
-    "category": "TUNES"
+    "artist": "Baauer",
+    "title": "Harlem Shake",
+    "album": "single • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 pm",
-      "artist": "Baauer",
-      "title": "Harlem Shake"
-    },
     {
       "time": "7:46 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "7:53 pm",
       "artist": "Styx",
       "title": "Mr. Roboto"
+    },
+    {
+      "time": "7:58 pm",
+      "artist": "The Gizmos",
+      "title": "Bible Belt Baby"
     }
   ],
   "recent": [
+    {
+      "time": "7:44 pm",
+      "artist": "Baauer",
+      "title": "Harlem Shake",
+      "album": "single • 2012"
+    },
     {
       "time": "7:40 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Mahito Yokota",
       "title": "Super Mario Galaxy",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "6:01 pm",
-      "artist": "Squeeze",
-      "title": "Tempted",
-      "album": "Sweets from a Stranger • 1982"
     }
   ]
 }
