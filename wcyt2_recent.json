@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T08:16:22",
+  "updatedAt": "2026-10-02T08:16:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "*NSYNC",
+    "title": "It's Gonna Be Me",
+    "album": "No Strings Attached • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:16 am",
-      "artist": "*NSYNC",
-      "title": "It's Gonna Be Me"
-    },
     {
       "time": "8:19 am",
       "artist": "The Microphones",
@@ -26,9 +21,20 @@
       "time": "8:27 am",
       "artist": "Deftones",
       "title": "Bored"
+    },
+    {
+      "time": "8:31 am",
+      "artist": "Dinosaur Jr.",
+      "title": "I Don't Think So"
     }
   ],
   "recent": [
+    {
+      "time": "8:16 am",
+      "artist": "*NSYNC",
+      "title": "It's Gonna Be Me",
+      "album": "No Strings Attached • 2000"
+    },
     {
       "time": "8:12 am",
       "artist": "Ed Sheeran",
@@ -172,12 +178,6 @@
       "artist": "Glenn Frey",
       "title": "The Heat Is On",
       "album": "Beverly Hills Cop: Soundtrack • 1984"
-    },
-    {
-      "time": "6:41 am",
-      "artist": "Gang of Four",
-      "title": "Paralysed",
-      "album": "Solid Gold • 1981"
     }
   ]
 }
