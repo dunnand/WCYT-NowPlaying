@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T17:23:40",
+  "updatedAt": "2026-10-02T17:26:03",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Like Me Too Much",
-    "album": "Help! • 1965",
+    "artist": "The Carpenters",
+    "title": "We've Only Just Begun",
+    "album": "Close to You • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:26 pm",
-      "artist": "The Carpenters",
-      "title": "We've Only Just Begun"
-    },
     {
       "time": "5:29 pm",
       "artist": "Supergrass",
@@ -26,9 +21,20 @@
       "time": "5:35 pm",
       "artist": "John Mayer",
       "title": "Why Georgia"
+    },
+    {
+      "time": "5:40 pm",
+      "artist": "The Mountain Goats",
+      "title": "Letter From Belgium"
     }
   ],
   "recent": [
+    {
+      "time": "5:26 pm",
+      "artist": "The Carpenters",
+      "title": "We've Only Just Begun",
+      "album": "Close to You • 1970"
+    },
     {
       "time": "5:23 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Men At Work",
       "title": "Down Under",
       "album": "Business as Usual • 1983"
-    },
-    {
-      "time": "3:59 pm",
-      "artist": "MC Lyte",
-      "title": "Cha Cha Cha",
-      "album": "Eyes on This • 1989"
     }
   ]
 }
