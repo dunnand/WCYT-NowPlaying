@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T01:23:12",
+  "updatedAt": "2026-10-02T01:23:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Take It or Leave It.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:23 am",
-      "artist": "The Strokes",
-      "title": "Take It or Leave It."
-    },
     {
       "time": "1:26 am",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "1:34 am",
       "artist": "American Football",
       "title": "Honestly?"
+    },
+    {
+      "time": "1:40 am",
+      "artist": "My Bloody Valentine",
+      "title": "Sometimes"
     }
   ],
   "recent": [
+    {
+      "time": "1:23 am",
+      "artist": "The Strokes",
+      "title": "Take It or Leave It.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "1:19 am",
       "artist": "The Afghan Whigs",
@@ -172,12 +178,6 @@
       "artist": "Dexy's Midnight Runners",
       "title": "Geno",
       "album": "Searching for the Young Soul Rebels • 1980"
-    },
-    {
-      "time": "11:45 pm",
-      "artist": "Descendents",
-      "title": "My Age",
-      "album": "Milo Goes to College • 1982"
     }
   ]
 }
