@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T00:30:16",
+  "updatedAt": "2026-10-02T00:30:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Mr. Moonlight",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 am",
-      "artist": "The Beatles",
-      "title": "Mr. Moonlight"
-    },
     {
       "time": "12:32 am",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "12:41 am",
       "artist": "Air",
       "title": "All I Need (feat. Beth Hirsch)"
+    },
+    {
+      "time": "12:45 am",
+      "artist": "Dinosaur Jr.",
+      "title": "Freak Scene"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 am",
+      "artist": "The Beatles",
+      "title": "Mr. Moonlight",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "12:26 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Weezer  Best Coast",
       "title": "Go Away",
       "album": ""
-    },
-    {
-      "time": "10:51 pm",
-      "artist": "Dead Or Alive",
-      "title": "You Spin Me Round (Like A Record)",
-      "album": "Youthquake • 1985"
     }
   ]
 }
