@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T12:44:35",
+  "updatedAt": "2026-10-02T12:49:09",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Naomi",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Coldplay",
+    "title": "Princess of China",
+    "album": "Mylo Xyloto • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 pm",
-      "artist": "Coldplay",
-      "title": "Princess of China"
-    },
     {
       "time": "12:53 pm",
       "artist": "Interpol",
@@ -21,9 +16,20 @@
       "time": "12:59 pm",
       "artist": "Guided by Voices",
       "title": "Glad Girls"
+    },
+    {
+      "time": "1:03 pm",
+      "artist": "Foo Fighters",
+      "title": "Rope"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 pm",
+      "artist": "Coldplay",
+      "title": "Princess of China",
+      "album": "Mylo Xyloto • 2011"
+    },
     {
       "time": "12:44 pm",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +173,6 @@
       "artist": "Jonathan Richman & The Modern Lovers",
       "title": "Dancin' Late at Night",
       "album": "Modern Lovers 88 • 1987"
-    },
-    {
-      "time": "10:29 am",
-      "artist": "Eric Clapton",
-      "title": "Layla",
-      "album": "Unplugged • 1992"
     }
   ]
 }
