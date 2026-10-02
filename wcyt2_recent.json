@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T13:33:55",
+  "updatedAt": "2026-10-02T13:38:09",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Rope",
-    "album": "Wasting Light • 2011",
+    "artist": "Weezer",
+    "title": "Undone - The Sweater Song",
+    "album": "Weezer • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:38 pm",
-      "artist": "Weezer",
-      "title": "Undone - The Sweater Song"
-    },
     {
       "time": "1:43 pm",
       "artist": "Missy Elliott",
@@ -26,9 +21,20 @@
       "time": "1:51 pm",
       "artist": "Wipers",
       "title": "Youth of America"
+    },
+    {
+      "time": "2:01 pm",
+      "artist": "Satomi Terui",
+      "title": "Star Fox 64 3D (Staff Credits)"
     }
   ],
   "recent": [
+    {
+      "time": "1:38 pm",
+      "artist": "Weezer",
+      "title": "Undone - The Sweater Song",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "1:33 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Eric Clapton",
       "title": "I Shot The Sheriff",
       "album": "461 Ocean Boulevard • 1974"
-    },
-    {
-      "time": "10:43 am",
-      "artist": "Jay Sean",
-      "title": "Down feat. Lil' Wayne",
-      "album": "All or Nothing • 2009"
     }
   ]
 }
