@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T23:18:25",
+  "updatedAt": "2026-10-01T23:22:31",
   "now": {
-    "artist": "Prince",
-    "title": "The Holy River",
-    "album": "Emancipation • 1997",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Space Song",
+    "album": "Depression Cherry • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:22 pm",
-      "artist": "Beach House",
-      "title": "Space Song"
-    },
     {
       "time": "11:27 pm",
       "artist": "The Strokes",
@@ -21,9 +16,20 @@
       "time": "11:31 pm",
       "artist": "The Strokes",
       "title": "Soma."
+    },
+    {
+      "time": "11:33 pm",
+      "artist": "FKA twigs",
+      "title": "holy terrain"
     }
   ],
   "recent": [
+    {
+      "time": "11:22 pm",
+      "artist": "Beach House",
+      "title": "Space Song",
+      "album": "Depression Cherry • 2015"
+    },
     {
       "time": "11:18 pm",
       "artist": "Prince",
@@ -167,12 +173,6 @@
       "artist": "Crosby, Stills & Nash",
       "title": "Southern Cross",
       "album": "Daylight Again • 1982"
-    },
-    {
-      "time": "9:52 pm",
-      "artist": "Depeche Mode",
-      "title": "World in My Eyes",
-      "album": "Violator • 1990"
     }
   ]
 }
