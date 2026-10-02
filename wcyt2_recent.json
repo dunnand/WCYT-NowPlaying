@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T17:19:23",
+  "updatedAt": "2026-10-02T17:23:40",
   "now": {
-    "artist": "The Postal Service",
-    "title": "Such Great Heights",
-    "album": "Give Up • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "You Like Me Too Much",
+    "album": "Help! • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:23 pm",
-      "artist": "The Beatles",
-      "title": "You Like Me Too Much"
-    },
     {
       "time": "5:26 pm",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "5:32 pm",
       "artist": "Demi Lovato",
       "title": "Heart Attack"
+    },
+    {
+      "time": "5:35 pm",
+      "artist": "John Mayer",
+      "title": "Why Georgia"
     }
   ],
   "recent": [
+    {
+      "time": "5:23 pm",
+      "artist": "The Beatles",
+      "title": "You Like Me Too Much",
+      "album": "Help! • 1965"
+    },
     {
       "time": "5:19 pm",
       "artist": "The Postal Service",
@@ -172,12 +178,6 @@
       "artist": "MC Lyte",
       "title": "Cha Cha Cha",
       "album": "Eyes on This • 1989"
-    },
-    {
-      "time": "3:55 pm",
-      "artist": "Goo Goo Dolls",
-      "title": "Name",
-      "album": "A Boy Named Goo • 1995"
     }
   ]
 }
