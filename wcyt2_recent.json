@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T09:27:03",
+  "updatedAt": "2026-10-02T09:34:13",
   "now": {
-    "artist": "Eagles",
-    "title": "Hotel California",
-    "album": "Hotel California • 1994",
+    "artist": "John Cougar",
+    "title": "Jack & Diane",
+    "album": "American Fool • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:34 am",
-      "artist": "John Cougar",
-      "title": "Jack & Diane"
-    },
     {
       "time": "9:38 am",
       "artist": "John Lennon & Yoko Ono",
@@ -21,9 +16,20 @@
       "time": "9:42 am",
       "artist": "Charli XCX",
       "title": "SS26"
+    },
+    {
+      "time": "9:44 am",
+      "artist": "Eno",
+      "title": "Needles in the Camel's Eye"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 am",
+      "artist": "John Cougar",
+      "title": "Jack & Diane",
+      "album": "American Fool • 1982"
+    },
     {
       "time": "9:27 am",
       "artist": "Eagles",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Dizzy Miss Lizzy",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "7:55 am",
-      "artist": "Interpol",
-      "title": "PDA",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
