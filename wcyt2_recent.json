@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T01:00:55",
+  "updatedAt": "2026-10-02T01:01:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney",
+    "title": "Another Day",
+    "album": "single • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Paul McCartney",
-      "title": "Another Day"
-    },
     {
       "time": "1:04 am",
       "artist": "The Strokes",
@@ -31,9 +26,20 @@
       "time": "1:15 am",
       "artist": "All",
       "title": "4-One - I Can Love You Like That"
+    },
+    {
+      "time": "1:19 am",
+      "artist": "The Afghan Whigs",
+      "title": "Algiers"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Paul McCartney",
+      "title": "Another Day",
+      "album": "single • 1971"
+    },
     {
       "time": "12:57 am",
       "artist": "The Strokes",
@@ -177,12 +183,6 @@
       "artist": "The Strokes",
       "title": "Hard To Explain.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "11:22 pm",
-      "artist": "Beach House",
-      "title": "Space Song",
-      "album": "Depression Cherry • 2015"
     }
   ]
 }
