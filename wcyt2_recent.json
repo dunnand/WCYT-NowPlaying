@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T02:21:06",
+  "updatedAt": "2026-10-02T02:21:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Barely Legal.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:21 am",
-      "artist": "The Strokes",
-      "title": "Barely Legal."
-    },
     {
       "time": "2:25 am",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "2:33 am",
       "artist": "My Bloody Valentine",
       "title": "Soon"
+    },
+    {
+      "time": "2:40 am",
+      "artist": "The Cure",
+      "title": "High"
     }
   ],
   "recent": [
+    {
+      "time": "2:21 am",
+      "artist": "The Strokes",
+      "title": "Barely Legal.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "2:17 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Don Henley",
       "title": "All She Wants To Do Is Dance",
       "album": "Building the Perfect Beast • 1984"
-    },
-    {
-      "time": "12:45 am",
-      "artist": "Dinosaur Jr.",
-      "title": "Freak Scene",
-      "album": "Bug • 1988"
     }
   ]
 }
