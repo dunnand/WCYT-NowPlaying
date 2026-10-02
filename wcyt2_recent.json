@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T21:22:43",
+  "updatedAt": "2026-10-01T21:25:47",
   "now": {
-    "artist": "Jimmy Eat World",
-    "title": "Bleed American",
-    "album": "Bleed American • 2001",
+    "artist": "The Beatles",
+    "title": "Wild Honey Pie",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 pm",
-      "artist": "The Beatles",
-      "title": "Wild Honey Pie"
-    },
     {
       "time": "9:26 pm",
       "artist": "Chicago",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:25 pm",
+      "artist": "The Beatles",
+      "title": "Wild Honey Pie",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "9:22 pm",
       "artist": "Jimmy Eat World",
@@ -177,12 +178,6 @@
       "artist": "The Beatles",
       "title": "What You're Doing",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "7:47 pm",
-      "artist": "M83",
-      "title": "Run Into Flowers",
-      "album": "Dead Cities, Red Seas & Lost Ghosts • 2003"
     }
   ]
 }
