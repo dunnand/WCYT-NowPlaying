@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T21:30:23",
+  "updatedAt": "2026-10-01T21:35:11",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "Satellite",
-    "album": "Under The Table And Dreaming • 1995",
+    "artist": "Johnny Cash",
+    "title": "Don't Take Your Guns To Town",
+    "album": "The Fabulous Johnny Cash •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 pm",
-      "artist": "Johnny Cash",
-      "title": "Don't Take Your Guns To Town"
-    },
     {
       "time": "9:38 pm",
       "artist": "Sharon Jones and the Dap",
@@ -26,9 +21,20 @@
       "time": "9:44 pm",
       "artist": "B.O.B.",
       "title": "So Good"
+    },
+    {
+      "time": "9:47 pm",
+      "artist": "De La Soul",
+      "title": "Ring Ring Ring (Ha Ha Hey)"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 pm",
+      "artist": "Johnny Cash",
+      "title": "Don't Take Your Guns To Town",
+      "album": "The Fabulous Johnny Cash •"
+    },
     {
       "time": "9:30 pm",
       "artist": "Dave Matthews Band",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "I'll Remember",
       "album": "Something to Remember • 1994"
-    },
-    {
-      "time": "7:58 pm",
-      "artist": "Hall & Oates",
-      "title": "So Close",
-      "album": "Change of Season • 1990"
     }
   ]
 }
