@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T20:20:04",
+  "updatedAt": "2026-10-01T20:20:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Waiting In Vain",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Waiting In Vain"
-    },
     {
       "time": "8:24 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "8:34 pm",
       "artist": "The Kinks",
       "title": "Death of a Clown"
+    },
+    {
+      "time": "8:37 pm",
+      "artist": "Eagles",
+      "title": "One Of These Nights"
     }
   ],
   "recent": [
+    {
+      "time": "8:20 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Waiting In Vain",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "8:16 pm",
       "artist": "Son Little",
@@ -172,12 +178,6 @@
       "artist": "Louis Armstrong & His All-Stars",
       "title": "Ain't Misbehavin'",
       "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
-    },
-    {
-      "time": "6:42 pm",
-      "artist": "Pavement",
-      "title": "Rattled By The Rush",
-      "album": "Wowee Zowee • 1995"
     }
   ]
 }
