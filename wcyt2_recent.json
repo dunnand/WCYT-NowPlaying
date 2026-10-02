@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T19:36:37",
+  "updatedAt": "2026-10-02T19:40:12",
   "now": {
-    "artist": "Gorillaz",
-    "title": "Dirty Harry",
-    "album": "Demon Days • 2005",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Lowdown",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:40 pm",
-      "artist": "My Morning Jacket",
-      "title": "Lowdown"
-    },
     {
       "time": "7:44 pm",
       "artist": "Baauer",
@@ -26,9 +21,20 @@
       "time": "7:49 pm",
       "artist": "Uncle Tupelo",
       "title": "Gun"
+    },
+    {
+      "time": "7:53 pm",
+      "artist": "Styx",
+      "title": "Mr. Roboto"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 pm",
+      "artist": "My Morning Jacket",
+      "title": "Lowdown",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "7:36 pm",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "Squeeze",
       "title": "Tempted",
       "album": "Sweets from a Stranger • 1982"
-    },
-    {
-      "time": "5:56 pm",
-      "artist": "Spandau Ballet",
-      "title": "True",
-      "album": "True • 1983"
     }
   ]
 }
