@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T02:12:44",
+  "updatedAt": "2026-10-02T02:17:00",
   "now": {
-    "artist": "My Bloody Valentine",
-    "title": "Only Shallow",
-    "album": "Loveless • 1991",
-    "category": "TUNES"
+    "artist": "David Bowie",
+    "title": "Where Are We Now?",
+    "album": "The Next Day • 2013",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:16 am",
-      "artist": "David Bowie",
-      "title": "Where Are We Now?"
-    },
     {
       "time": "2:21 am",
       "artist": "The Strokes",
@@ -21,9 +16,20 @@
       "time": "2:25 am",
       "artist": "The Strokes",
       "title": "New York City Cop.s"
+    },
+    {
+      "time": "2:29 am",
+      "artist": "The Beach Boys",
+      "title": "Heroes and Villains"
     }
   ],
   "recent": [
+    {
+      "time": "2:17 am",
+      "artist": "David Bowie",
+      "title": "Where Are We Now?",
+      "album": "The Next Day • 2013"
+    },
     {
       "time": "2:12 am",
       "artist": "My Bloody Valentine",
@@ -167,12 +173,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Freak Scene",
       "album": "Bug • 1988"
-    },
-    {
-      "time": "12:41 am",
-      "artist": "Air",
-      "title": "All I Need (feat. Beth Hirsch)",
-      "album": "Moon Safari • 1998"
     }
   ]
 }
