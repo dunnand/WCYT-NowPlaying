@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T21:16:44",
+  "updatedAt": "2026-10-01T21:19:48",
   "now": {
-    "artist": "The Beatles",
-    "title": "Get Back",
-    "album": "Let It Be • 1970",
+    "artist": "Buzzcocks",
+    "title": "What Do I Get?",
+    "album": "single • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:19 pm",
-      "artist": "Buzzcocks",
-      "title": "What Do I Get?"
-    },
     {
       "time": "9:22 pm",
       "artist": "Jimmy Eat World",
@@ -26,9 +21,20 @@
       "time": "9:26 pm",
       "artist": "Chicago",
       "title": "Saturday In The Park"
+    },
+    {
+      "time": "9:30 pm",
+      "artist": "Dave Matthews Band",
+      "title": "Satellite"
     }
   ],
   "recent": [
+    {
+      "time": "9:19 pm",
+      "artist": "Buzzcocks",
+      "title": "What Do I Get?",
+      "album": "single • 1978"
+    },
     {
       "time": "9:16 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Well...All Right",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "Foo Fighters",
-      "title": "Everlong",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
