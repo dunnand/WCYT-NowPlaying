@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T15:55:31",
+  "updatedAt": "2026-10-02T15:59:56",
   "now": {
-    "artist": "Goo Goo Dolls",
-    "title": "Name",
-    "album": "A Boy Named Goo • 1995",
+    "artist": "MC Lyte",
+    "title": "Cha Cha Cha",
+    "album": "Eyes on This • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 pm",
-      "artist": "MC Lyte",
-      "title": "Cha Cha Cha"
-    },
     {
       "time": "4:03 pm",
       "artist": "Men At Work",
@@ -21,9 +16,20 @@
       "time": "4:06 pm",
       "artist": "Muna",
       "title": "Silk Chiffon"
+    },
+    {
+      "time": "4:10 pm",
+      "artist": "Kenny Rogers",
+      "title": "You Decorated My Life"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 pm",
+      "artist": "MC Lyte",
+      "title": "Cha Cha Cha",
+      "album": "Eyes on This • 1989"
+    },
     {
       "time": "3:55 pm",
       "artist": "Goo Goo Dolls",
@@ -167,12 +173,6 @@
       "artist": "Don McLean",
       "title": "American Pie",
       "album": "American Pie • 1971"
-    },
-    {
-      "time": "2:18 pm",
-      "artist": "KISS",
-      "title": "I Was Made for Lovin' You",
-      "album": "Dynasty • 1979"
     }
   ]
 }
