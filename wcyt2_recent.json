@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-01T23:05:09",
+  "updatedAt": "2026-10-01T23:09:06",
   "now": {
-    "artist": "John Lennon",
-    "title": "Mind Games",
-    "album": "Mind Games • 1973",
+    "artist": "The Standells",
+    "title": "Dirty Water",
+    "album": "Dirty Water • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:09 pm",
-      "artist": "The Standells",
-      "title": "Dirty Water"
-    },
     {
       "time": "11:11 pm",
       "artist": "Kraftwerk",
@@ -26,9 +21,20 @@
       "time": "11:22 pm",
       "artist": "Beach House",
       "title": "Space Song"
+    },
+    {
+      "time": "11:27 pm",
+      "artist": "The Strokes",
+      "title": "Hard To Explain."
     }
   ],
   "recent": [
+    {
+      "time": "11:09 pm",
+      "artist": "The Standells",
+      "title": "Dirty Water",
+      "album": "Dirty Water • 1966"
+    },
     {
       "time": "11:05 pm",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "B.O.B.",
       "title": "So Good",
       "album": "Strange Clouds • 2012"
-    },
-    {
-      "time": "9:42 pm",
-      "artist": "The Beatles",
-      "title": "If I Fell",
-      "album": "A Hard Day's Night • 1964"
     }
   ]
 }
