@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T01:40:10",
+  "updatedAt": "2026-10-02T01:44:57",
   "now": {
-    "artist": "My Bloody Valentine",
-    "title": "Sometimes",
-    "album": "Loveless • 1991",
-    "category": "TUNES"
+    "artist": "Doug E. Fresh",
+    "title": "The Show",
+    "album": "Oh, My God! • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 am",
-      "artist": "Doug E. Fresh",
-      "title": "The Show"
-    },
     {
       "time": "1:52 am",
       "artist": "Dow Jones & The Industrials",
@@ -21,9 +16,20 @@
       "time": "1:54 am",
       "artist": "HAIM",
       "title": "The Wire"
+    },
+    {
+      "time": "1:58 am",
+      "artist": "Talking Heads",
+      "title": "Uh-Oh, Love Comes to Town"
     }
   ],
   "recent": [
+    {
+      "time": "1:44 am",
+      "artist": "Doug E. Fresh",
+      "title": "The Show",
+      "album": "Oh, My God! • 1986"
+    },
     {
       "time": "1:40 am",
       "artist": "My Bloody Valentine",
@@ -167,12 +173,6 @@
       "artist": "The Doors",
       "title": "When the Music's Over",
       "album": "Strange Days • 1967"
-    },
-    {
-      "time": "12:03 am",
-      "artist": "Olivia Newton-John",
-      "title": "Hopelessly Devoted To You",
-      "album": "Grease Soundtrack • 1978"
     }
   ]
 }
