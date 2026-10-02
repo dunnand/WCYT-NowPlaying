@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T16:10:04",
+  "updatedAt": "2026-10-02T16:10:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kenny Rogers",
+    "title": "You Decorated My Life",
+    "album": "Kenny • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:10 pm",
-      "artist": "Kenny Rogers",
-      "title": "You Decorated My Life"
-    },
     {
       "time": "4:13 pm",
       "artist": "The Sonics",
@@ -26,9 +21,20 @@
       "time": "4:19 pm",
       "artist": "The Byrds",
       "title": "I'll Feel a Whole Lot Better"
+    },
+    {
+      "time": "4:22 pm",
+      "artist": "Ramones",
+      "title": "Pinhead"
     }
   ],
   "recent": [
+    {
+      "time": "4:10 pm",
+      "artist": "Kenny Rogers",
+      "title": "You Decorated My Life",
+      "album": "Kenny • 1979"
+    },
     {
       "time": "4:06 pm",
       "artist": "Muna",
@@ -172,12 +178,6 @@
       "artist": "Guided by Voices",
       "title": "Everywhere With Helicopter",
       "album": "Universal Truths and Cycles • 2002"
-    },
-    {
-      "time": "2:35 pm",
-      "artist": "La Vern Baker",
-      "title": "Jim Dandy",
-      "album": "Lavern Baker • 1957"
     }
   ]
 }
