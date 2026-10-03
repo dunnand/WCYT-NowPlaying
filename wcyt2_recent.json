@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T23:52:02",
+  "updatedAt": "2026-10-02T23:55:07",
   "now": {
-    "artist": "Phoenix",
-    "title": "Long Distance Call",
-    "album": "It's Never Been Like That • 2006",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "I Should Have known Better",
+    "album": "A Hard Day's Night • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 pm",
-      "artist": "The Beatles",
-      "title": "I Should Have known Better"
-    },
     {
       "time": "11:57 pm",
       "artist": "Dobie Gray",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:55 pm",
+      "artist": "The Beatles",
+      "title": "I Should Have known Better",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "11:52 pm",
       "artist": "Phoenix",
@@ -162,12 +163,6 @@
       "artist": "Charles Bradley",
       "title": "Heartaches and Pain",
       "album": "No Time For Dreaming • 2011"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Wilson Pickett",
-      "title": "Mustang Sally",
-      "album": "The Wicked Pickett • 1966"
     }
   ]
 }
