@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T23:03:26",
+  "updatedAt": "2026-10-02T23:07:23",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Sweet Jane",
-    "album": "Loaded • 1970",
+    "artist": "Jon Bon Jovi",
+    "title": "Blaze Of Glory",
+    "album": "Blaze of Glory • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:07 pm",
-      "artist": "Jon Bon Jovi",
-      "title": "Blaze Of Glory"
-    },
     {
       "time": "11:13 pm",
       "artist": "Tommy Edwards",
@@ -21,9 +16,20 @@
       "time": "11:15 pm",
       "artist": "Interpol",
       "title": "Slow Hands"
+    },
+    {
+      "time": "11:19 pm",
+      "artist": "The Beatles",
+      "title": "Mean Mr. Mustard"
     }
   ],
   "recent": [
+    {
+      "time": "11:07 pm",
+      "artist": "Jon Bon Jovi",
+      "title": "Blaze Of Glory",
+      "album": "Blaze of Glory • 1990"
+    },
     {
       "time": "11:03 pm",
       "artist": "The Velvet Underground",
@@ -167,12 +173,6 @@
       "artist": "Jesus Jones",
       "title": "Right Here, Right Now",
       "album": "Doubt • 1991"
-    },
-    {
-      "time": "9:33 pm",
-      "artist": "Wilson Phillips",
-      "title": "You're In Love",
-      "album": "Wilson Phillips • 1990"
     }
   ]
 }
