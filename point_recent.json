@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-03T04:50:38",
+  "updatedAt": "2026-10-03T04:50:50",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "Motion Picture Soundtrack",
+    "album": "Kid A • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Radiohead",
-      "title": "Motion Picture Soundtrack"
-    },
     {
       "time": "4:54 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:03 am",
       "artist": "Freak Slug",
       "title": "Muse"
+    },
+    {
+      "time": "5:07 am",
+      "artist": "Daya",
+      "title": "Agnostic"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Radiohead",
+      "title": "Motion Picture Soundtrack",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "4:46 am",
       "artist": "Panda Bear & Sonic Boom",
@@ -172,12 +178,6 @@
       "artist": "Babehoven",
       "title": "Blue Around You",
       "album": "I See Them, I See Me • 2026"
-    },
-    {
-      "time": "3:19 am",
-      "artist": "Sports Team",
-      "title": "Moving Together",
-      "album": "Boys These Days • 2025"
     }
   ]
 }
