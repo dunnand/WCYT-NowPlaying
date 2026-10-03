@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T21:57:24",
+  "updatedAt": "2026-10-02T21:59:08",
   "now": {
-    "artist": "The Beatles",
-    "title": "Do You Want To Know A Secret",
-    "album": "Please Please Me • 1963",
+    "artist": "The Jam",
+    "title": "Down in the Tube Station at Midnight",
+    "album": "All Mod Cons • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "The Jam",
-      "title": "Down in the Tube Station at Midnight"
-    },
     {
       "time": "10:03 pm",
       "artist": "Montell Jordan",
@@ -26,9 +21,20 @@
       "time": "10:09 pm",
       "artist": "Pearl Jam",
       "title": "World Wide Suicide"
+    },
+    {
+      "time": "10:13 pm",
+      "artist": "Wilson Pickett",
+      "title": "Mustang Sally"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "The Jam",
+      "title": "Down in the Tube Station at Midnight",
+      "album": "All Mod Cons • 1978"
+    },
     {
       "time": "9:57 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Vic Chesnutt",
       "title": "Replenished",
       "album": "The Salesman & Bernadette • 1998"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Crystal Castles",
-      "title": "Not In Love",
-      "album": "• 2010"
     }
   ]
 }
