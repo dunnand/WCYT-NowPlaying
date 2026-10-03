@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T20:55:53",
+  "updatedAt": "2026-10-02T20:58:57",
   "now": {
-    "artist": "Kool & The Gang",
-    "title": "Jungle Boogie",
-    "album": "Wild and Peaceful • 1973",
+    "artist": "Lou Reed",
+    "title": "Perfect Day",
+    "album": "Transformer • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:58 pm",
-      "artist": "Lou Reed",
-      "title": "Perfect Day"
-    },
     {
       "time": "9:02 pm",
       "artist": "Nick Cave and the Bad Seeds",
@@ -26,9 +21,20 @@
       "time": "9:10 pm",
       "artist": "Lynyrd Skynyrd",
       "title": "Sweet Home Alabama"
+    },
+    {
+      "time": "9:14 pm",
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You"
     }
   ],
   "recent": [
+    {
+      "time": "8:58 pm",
+      "artist": "Lou Reed",
+      "title": "Perfect Day",
+      "album": "Transformer • 1972"
+    },
     {
       "time": "8:55 pm",
       "artist": "Kool & The Gang",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Dirty Harry",
       "album": "Demon Days • 2005"
-    },
-    {
-      "time": "7:32 pm",
-      "artist": "Bruno Mars",
-      "title": "Locked Out Of Heaven",
-      "album": "Unorthodox Jukebox • 2012"
     }
   ]
 }
