@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T21:29:53",
+  "updatedAt": "2026-10-02T21:33:39",
   "now": {
-    "artist": "Beach House",
-    "title": "Norway",
-    "album": "Teen Dream • 2010",
-    "category": "TUNES"
+    "artist": "Wilson Phillips",
+    "title": "You're In Love",
+    "album": "Wilson Phillips • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:33 pm",
-      "artist": "Wilson Phillips",
-      "title": "You're In Love"
-    },
     {
       "time": "9:38 pm",
       "artist": "Jesus Jones",
@@ -26,9 +21,20 @@
       "time": "9:44 pm",
       "artist": "They Might Be Giants",
       "title": "Kiss Me, Son of God"
+    },
+    {
+      "time": "9:46 pm",
+      "artist": "SAULT",
+      "title": "Stop Dem"
     }
   ],
   "recent": [
+    {
+      "time": "9:33 pm",
+      "artist": "Wilson Phillips",
+      "title": "You're In Love",
+      "album": "Wilson Phillips • 1990"
+    },
     {
       "time": "9:29 pm",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Think For Yourself",
       "album": "Rubber Soul • 1965"
-    },
-    {
-      "time": "8:06 pm",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "Green Shirt",
-      "album": "Armed Forces • 1979"
     }
   ]
 }
