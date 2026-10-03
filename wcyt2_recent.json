@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T23:55:07",
+  "updatedAt": "2026-10-02T23:57:41",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Should Have known Better",
-    "album": "A Hard Day's Night • 1964",
+    "artist": "Dobie Gray",
+    "title": "Drift Away",
+    "album": "Drift Away • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:57 pm",
+      "time": "12:01 am",
+      "artist": "The Beatles",
+      "title": "I Should Have known Better"
+    },
+    {
+      "time": "12:04 am",
       "artist": "Dobie Gray",
       "title": "Drift Away"
     }
   ],
   "recent": [
+    {
+      "time": "11:57 pm",
+      "artist": "Dobie Gray",
+      "title": "Drift Away",
+      "album": "Drift Away • 1973"
+    },
     {
       "time": "11:55 pm",
       "artist": "The Beatles",
@@ -157,12 +168,6 @@
       "artist": "Radiohead",
       "title": "Let Down",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "10:16 pm",
-      "artist": "Charles Bradley",
-      "title": "Heartaches and Pain",
-      "album": "No Time For Dreaming • 2011"
     }
   ]
 }
