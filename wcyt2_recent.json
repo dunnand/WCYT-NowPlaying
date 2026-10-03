@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T23:18:52",
+  "updatedAt": "2026-10-02T23:19:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Mean Mr. Mustard",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:19 pm",
-      "artist": "The Beatles",
-      "title": "Mean Mr. Mustard"
-    },
     {
       "time": "11:20 pm",
       "artist": "Childish Gambino",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:19 pm",
+      "artist": "The Beatles",
+      "title": "Mean Mr. Mustard",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "11:15 pm",
       "artist": "Interpol",
@@ -172,12 +173,6 @@
       "artist": "SAULT",
       "title": "Stop Dem",
       "album": "UNTITLED • 2020"
-    },
-    {
-      "time": "9:44 pm",
-      "artist": "They Might Be Giants",
-      "title": "Kiss Me, Son of God",
-      "album": "Lincoln • 1988"
     }
   ]
 }
