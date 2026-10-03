@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T23:44:07",
+  "updatedAt": "2026-10-02T23:44:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Willie Nelson",
+    "title": "Georgia On My Mind",
+    "album": "Stardust • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:44 pm",
-      "artist": "Willie Nelson",
-      "title": "Georgia On My Mind"
-    },
     {
       "time": "11:48 pm",
       "artist": "Barbra Streisand",
@@ -26,9 +21,20 @@
       "time": "11:55 pm",
       "artist": "The Beatles",
       "title": "I Should Have known Better"
+    },
+    {
+      "time": "11:57 pm",
+      "artist": "Dobie Gray",
+      "title": "Drift Away"
     }
   ],
   "recent": [
+    {
+      "time": "11:44 pm",
+      "artist": "Willie Nelson",
+      "title": "Georgia On My Mind",
+      "album": "Stardust • 1978"
+    },
     {
       "time": "11:40 pm",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Don Gibson",
       "title": "Blue Blue Day",
       "album": "Oh Lonesome Me • 1958"
-    },
-    {
-      "time": "10:03 pm",
-      "artist": "Montell Jordan",
-      "title": "This Is How We Do It",
-      "album": "This Is How We Do It • 1995"
     }
   ]
 }
