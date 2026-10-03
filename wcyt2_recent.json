@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-02T21:10:00",
+  "updatedAt": "2026-10-02T21:14:37",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Sweet Home Alabama",
-    "album": "Second Helping • 1974",
+    "artist": "Whitney Houston",
+    "title": "I Will Always Love You",
+    "album": "The Bodyguard • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "9:14 pm",
-      "artist": "Whitney Houston",
-      "title": "I Will Always Love You"
-    },
-    {
-      "time": "9:19 pm",
+      "time": "9:18 pm",
       "artist": "A Tribe Called Quest",
       "title": "Dis Generation"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:14 pm",
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You",
+      "album": "The Bodyguard • 1992"
+    },
     {
       "time": "9:10 pm",
       "artist": "Lynyrd Skynyrd",
@@ -172,12 +173,6 @@
       "artist": "Uncle Tupelo",
       "title": "Gun",
       "album": "Still Feel Gone • 1991"
-    },
-    {
-      "time": "7:46 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Out in the Cold",
-      "album": "Into the Great Wide Open • 1991"
     }
   ]
 }
