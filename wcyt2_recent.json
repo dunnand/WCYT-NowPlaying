@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T21:49:49",
+  "updatedAt": "2026-10-02T21:51:50",
   "now": {
-    "artist": "Nick Drake",
-    "title": "Pink Moon",
-    "album": "Pink Moon • 1972",
+    "artist": "The Beatles",
+    "title": "If I Needed Someone",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:51 pm",
-      "artist": "The Beatles",
-      "title": "If I Needed Someone"
-    },
     {
       "time": "9:54 pm",
       "artist": "Randy Newman",
@@ -26,9 +21,20 @@
       "time": "9:59 pm",
       "artist": "The Jam",
       "title": "Down in the Tube Station at Midnight"
+    },
+    {
+      "time": "10:03 pm",
+      "artist": "Montell Jordan",
+      "title": "This Is How We Do It"
     }
   ],
   "recent": [
+    {
+      "time": "9:51 pm",
+      "artist": "The Beatles",
+      "title": "If I Needed Someone",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "9:49 pm",
       "artist": "Nick Drake",
@@ -172,12 +178,6 @@
       "artist": "Nine Inch Nails",
       "title": "Survivalism",
       "album": "Year Zero • 2007"
-    },
-    {
-      "time": "8:25 pm",
-      "artist": "Buddy Holly",
-      "title": "Oh, Boy!",
-      "album": "The Chirping Crickets • 1957"
     }
   ]
 }
