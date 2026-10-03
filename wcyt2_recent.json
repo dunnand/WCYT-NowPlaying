@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-02T23:24:36",
+  "updatedAt": "2026-10-02T23:24:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "of Montreal",
+    "title": "Jacques Lamure",
+    "album": "The Parade • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:24 pm",
-      "artist": "of Montreal",
-      "title": "Jacques Lamure"
-    },
     {
       "time": "11:27 pm",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "11:35 pm",
       "artist": "Whitesnake",
       "title": "Is This Love"
+    },
+    {
+      "time": "11:40 pm",
+      "artist": "Run The Jewels",
+      "title": "walking in the snow"
     }
   ],
   "recent": [
+    {
+      "time": "11:24 pm",
+      "artist": "of Montreal",
+      "title": "Jacques Lamure",
+      "album": "The Parade • 1999"
+    },
     {
       "time": "11:20 pm",
       "artist": "Childish Gambino",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "If I Needed Someone",
       "album": "Rubber Soul • 1965"
-    },
-    {
-      "time": "9:49 pm",
-      "artist": "Nick Drake",
-      "title": "Pink Moon",
-      "album": "Pink Moon • 1972"
     }
   ]
 }
