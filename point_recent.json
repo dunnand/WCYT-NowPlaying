@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-04T07:10:33",
+  "updatedAt": "2026-10-04T07:10:44",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sufjan Stevens",
+    "title": "Mystery of Love",
+    "album": "Mystery of Love •",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 am",
-      "artist": "Sufjan Stevens",
-      "title": "Mystery of Love"
-    },
     {
       "time": "7:14 am",
       "artist": "Mj Lenderman",
@@ -26,9 +21,20 @@
       "time": "7:22 am",
       "artist": "Folly Group",
       "title": "Strange Neighbour"
+    },
+    {
+      "time": "7:25 am",
+      "artist": "The War on Drugs",
+      "title": "Who's That"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 am",
+      "artist": "Sufjan Stevens",
+      "title": "Mystery of Love",
+      "album": "Mystery of Love •"
+    },
     {
       "time": "7:07 am",
       "artist": "Soccer Mommy",
@@ -172,12 +178,6 @@
       "artist": "Courting",
       "title": "Flex",
       "album": "New Last Name • 2024"
-    },
-    {
-      "time": "5:39 am",
-      "artist": "Swapmeet",
-      "title": "Bonny",
-      "album": "Mount Zero • 2026"
     }
   ]
 }
