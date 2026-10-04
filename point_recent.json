@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-04T06:47:19",
+  "updatedAt": "2026-10-04T06:47:31",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "I Promise",
+    "album": "OK Computer • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:47 am",
-      "artist": "Radiohead",
-      "title": "I Promise"
-    },
     {
       "time": "6:51 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "6:59 am",
       "artist": "Sharp Pins",
       "title": "It's A Mod Mod World"
+    },
+    {
+      "time": "7:02 am",
+      "artist": "Wilco",
+      "title": "Cold Slope"
     }
   ],
   "recent": [
+    {
+      "time": "6:47 am",
+      "artist": "Radiohead",
+      "title": "I Promise",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "6:43 am",
       "artist": "feeble little horse",
@@ -172,12 +178,6 @@
       "artist": "Blood Orange",
       "title": "Somewhere in Between",
       "album": "Essex Honey • 2025"
-    },
-    {
-      "time": "5:19 am",
-      "artist": "Sugar",
-      "title": "A Good Idea",
-      "album": "Copper Blue • 1992"
     }
   ]
 }
