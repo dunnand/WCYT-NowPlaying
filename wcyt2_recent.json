@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T09:00:39",
+  "updatedAt": "2026-10-05T09:04:38",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "Like Dylan in the Movies",
-    "album": "If You're Feeling Sinister • 1996",
-    "category": "TUNES"
+    "artist": "Chicago",
+    "title": "You're The Inspiration",
+    "album": "Chicago 17 • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:04 am",
-      "artist": "Chicago",
-      "title": "You're The Inspiration"
-    },
     {
       "time": "9:08 am",
       "artist": "Culture Club",
@@ -21,9 +16,25 @@
       "time": "9:10 am",
       "artist": "Alice Merton",
       "title": "run away girl"
+    },
+    {
+      "time": "9:14 am",
+      "artist": "Bruce Springsteen",
+      "title": "Badlands"
+    },
+    {
+      "time": "9:18 am",
+      "artist": "The Beatles",
+      "title": "From Me To You"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "Chicago",
+      "title": "You're The Inspiration",
+      "album": "Chicago 17 • 1984"
+    },
     {
       "time": "9:00 am",
       "artist": "Belle and Sebastian",
@@ -167,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Lose Yourself to Dance (feat. Pharrell Williams)",
       "album": "Random Access Memories • 2013"
-    },
-    {
-      "time": "10:55 pm",
-      "artist": "Kings of Leon",
-      "title": "King of the Rodeo",
-      "album": "Aha Shake Heartbreak • 2004"
     }
   ]
 }
