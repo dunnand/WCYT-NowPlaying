@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T10:44:41",
+  "updatedAt": "2026-10-05T10:44:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Tender",
+    "album": "13 • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:44 am",
-      "artist": "Blur",
-      "title": "Tender"
-    },
     {
       "time": "10:52 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "11:03 am",
       "artist": "EPMD",
       "title": "So Wat Cha Sayin'"
+    },
+    {
+      "time": "11:08 am",
+      "artist": "Christine and the Queens",
+      "title": "People, I've been sad"
     }
   ],
   "recent": [
+    {
+      "time": "10:44 am",
+      "artist": "Blur",
+      "title": "Tender",
+      "album": "13 • 1999"
+    },
     {
       "time": "10:41 am",
       "artist": "Ke$ha",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "From Me To You",
       "album": "single • 1963"
-    },
-    {
-      "time": "9:14 am",
-      "artist": "Bruce Springsteen",
-      "title": "Badlands",
-      "album": "Darkness on the Edge of Town • 1978"
     }
   ]
 }
