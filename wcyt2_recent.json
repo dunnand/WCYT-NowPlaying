@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T13:28:05",
+  "updatedAt": "2026-10-05T13:31:32",
   "now": {
-    "artist": "Fiona Apple",
-    "title": "Limp",
-    "album": "When the Pawn • 1999",
-    "category": "TUNES"
+    "artist": "Bill Haley and his Comets",
+    "title": "(We're Gonna) Rock Around the Clock",
+    "album": "Shake Rattle and Roll • 1955",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:31 pm",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock"
-    },
     {
       "time": "1:33 pm",
       "artist": "Rihanna",
@@ -26,9 +21,20 @@
       "time": "1:41 pm",
       "artist": "Qt",
       "title": "Hey QT"
+    },
+    {
+      "time": "1:45 pm",
+      "artist": "Gin Blossoms",
+      "title": "Hey Jealousy"
     }
   ],
   "recent": [
+    {
+      "time": "1:31 pm",
+      "artist": "Bill Haley and his Comets",
+      "title": "(We're Gonna) Rock Around the Clock",
+      "album": "Shake Rattle and Roll • 1955"
+    },
     {
       "time": "1:28 pm",
       "artist": "Fiona Apple",
@@ -172,12 +178,6 @@
       "artist": "Eric B. & Rakim",
       "title": "Paid in Full",
       "album": "Paid in Full • 1987"
-    },
-    {
-      "time": "11:50 am",
-      "artist": "Dinosaur Jr.",
-      "title": "Start Choppin",
-      "album": "Where You Been • 1993"
     }
   ]
 }
