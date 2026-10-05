@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:34:27",
+  "updatedAt": "2026-10-05T15:37:40",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Pump It Up",
-    "album": "This Year's Model • 1978",
+    "artist": "The Beatles",
+    "title": "Getting Better",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:37 pm",
-      "artist": "The Beatles",
-      "title": "Getting Better"
-    },
     {
       "time": "3:40 pm",
       "artist": "Eric Clapton",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:37 pm",
+      "artist": "The Beatles",
+      "title": "Getting Better",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "3:34 pm",
       "artist": "Elvis Costello",
@@ -177,12 +178,6 @@
       "artist": "Beyonce",
       "title": "BLACK PARADE",
       "album": "The Lion King: The Gift • 2020"
-    },
-    {
-      "time": "1:57 pm",
-      "artist": "Guns N' Roses",
-      "title": "Welcome to the Jungle",
-      "album": "Appetite for Destruction • 1987"
     }
   ]
 }
