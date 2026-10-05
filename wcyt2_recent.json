@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T09:14:32",
+  "updatedAt": "2026-10-05T09:14:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Badlands",
+    "album": "Darkness on the Edge of Town • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 am",
-      "artist": "Bruce Springsteen",
-      "title": "Badlands"
-    },
     {
       "time": "9:18 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "9:24 am",
       "artist": "The Beatles",
       "title": "Getting Better"
+    },
+    {
+      "time": "9:26 am",
+      "artist": "Eric Clapton",
+      "title": "After Midnight"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 am",
+      "artist": "Bruce Springsteen",
+      "title": "Badlands",
+      "album": "Darkness on the Edge of Town • 1978"
+    },
     {
       "time": "9:10 am",
       "artist": "Alice Merton",
@@ -172,12 +178,6 @@
       "artist": "Tommy Edwards",
       "title": "It's All In The Game",
       "album": "single • 1951"
-    },
-    {
-      "time": "11:07 pm",
-      "artist": "Jon Bon Jovi",
-      "title": "Blaze Of Glory",
-      "album": "Blaze of Glory • 1990"
     }
   ]
 }
