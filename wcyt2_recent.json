@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T08:51:37",
+  "updatedAt": "2026-10-05T08:55:55",
   "now": {
-    "artist": "Radiohead",
-    "title": "Identikit",
-    "album": "A Moon Shaped Pool • 2016",
+    "artist": "Steve Earle",
+    "title": "The Mountain",
+    "album": "The Mountain • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 am",
-      "artist": "Steve Earle",
-      "title": "The Mountain"
-    },
     {
       "time": "9:00 am",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "9:08 am",
       "artist": "Culture Club",
       "title": "I'll Tumble 4 You"
+    },
+    {
+      "time": "9:10 am",
+      "artist": "Alice Merton",
+      "title": "run away girl"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 am",
+      "artist": "Steve Earle",
+      "title": "The Mountain",
+      "album": "The Mountain • 1999"
+    },
     {
       "time": "8:51 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Townes Van Zandt",
       "title": "To Live Is to Fly",
       "album": "The Late Great Townes Van Zandt • 1972"
-    },
-    {
-      "time": "10:47 pm",
-      "artist": "Kings of Leon",
-      "title": "Closer",
-      "album": "Only by the Night • 2008"
     }
   ]
 }
