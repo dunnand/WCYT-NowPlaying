@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T08:43:56",
+  "updatedAt": "2026-10-05T08:44:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sonic Youth",
+    "title": "The Empty Page",
+    "album": "Murray Street • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:44 am",
-      "artist": "Sonic Youth",
-      "title": "The Empty Page"
-    },
     {
       "time": "8:48 am",
       "artist": "Sigur Ros",
@@ -26,9 +21,20 @@
       "time": "8:55 am",
       "artist": "Steve Earle",
       "title": "The Mountain"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "Belle and Sebastian",
+      "title": "Like Dylan in the Movies"
     }
   ],
   "recent": [
+    {
+      "time": "8:44 am",
+      "artist": "Sonic Youth",
+      "title": "The Empty Page",
+      "album": "Murray Street • 2002"
+    },
     {
       "time": "8:40 am",
       "artist": "Marina & The Diamonds",
@@ -172,12 +178,6 @@
       "artist": "Tracy Chapman",
       "title": "Fast Car",
       "album": "Tracy Chapman • 1988"
-    },
-    {
-      "time": "10:29 pm",
-      "artist": "Tom Petty & The Heartbreakers",
-      "title": "Refugee",
-      "album": "Damn the Torpedoes • 1980"
     }
   ]
 }
