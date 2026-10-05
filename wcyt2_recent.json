@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T13:13:13",
+  "updatedAt": "2026-10-05T13:20:27",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Ball and Biscuit",
-    "album": "Elephant • 2003",
-    "category": "TUNES"
+    "artist": "The Kinks",
+    "title": "You Really Got Me",
+    "album": "Kinks • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:20 pm",
-      "artist": "The Kinks",
-      "title": "You Really Got Me"
-    },
     {
       "time": "1:22 pm",
       "artist": "Santana",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:20 pm",
+      "artist": "The Kinks",
+      "title": "You Really Got Me",
+      "album": "Kinks • 1964"
+    },
     {
       "time": "1:13 pm",
       "artist": "The White Stripes",
@@ -177,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "American Dream",
       "album": "American Dream • 2017"
-    },
-    {
-      "time": "11:37 am",
-      "artist": "The Who",
-      "title": "Substitute",
-      "album": "single • 1966"
     }
   ]
 }
