@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T12:30:43",
+  "updatedAt": "2026-10-05T12:31:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Blue Suede Shoes",
+    "album": "Elvis Presley • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "Elvis Presley",
-      "title": "Blue Suede Shoes"
-    },
     {
       "time": "12:32 pm",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Elvis Presley",
+      "title": "Blue Suede Shoes",
+      "album": "Elvis Presley • 1956"
+    },
     {
       "time": "12:27 pm",
       "artist": "Eels",
@@ -172,12 +173,6 @@
       "artist": "Elvis Costello & The Attractions",
       "title": "I Want You",
       "album": "Blood & Chocolate • 1986"
-    },
-    {
-      "time": "10:52 am",
-      "artist": "Bruce Springsteen",
-      "title": "Secret Garden",
-      "album": "Jerry Maguire Soundtrack • 1997"
     }
   ]
 }
