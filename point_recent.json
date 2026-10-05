@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T05:55:00",
+  "updatedAt": "2026-10-05T05:55:10",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bonnie 'Prince' Billy",
+    "title": "I See a Darkness",
+    "album": "I See a Darkness • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:55 am",
-      "artist": "Bonnie 'Prince' Billy",
-      "title": "I See a Darkness"
-    },
     {
       "time": "5:59 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "6:05 am",
       "artist": "Julia Holter",
       "title": "Spinning"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "Car Seat Headrest",
+      "title": "Fill In The Blank"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 am",
+      "artist": "Bonnie 'Prince' Billy",
+      "title": "I See a Darkness",
+      "album": "I See a Darkness • 1999"
+    },
     {
       "time": "5:51 am",
       "artist": "Gilla Band",
@@ -172,12 +178,6 @@
       "artist": "mary in the junkyard",
       "title": "Myrtle",
       "album": "Role Model Hermit • 2026"
-    },
-    {
-      "time": "4:12 am",
-      "artist": "Jessica Pratt",
-      "title": "Empires Never Know",
-      "album": "Here in the Pitch • 2024"
     }
   ]
 }
