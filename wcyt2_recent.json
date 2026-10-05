@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:52:58",
+  "updatedAt": "2026-10-05T15:53:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I'll Be Back",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:53 pm",
-      "artist": "The Beatles",
-      "title": "I'll Be Back"
-    },
     {
       "time": "3:55 pm",
       "artist": "Leon Bridges",
@@ -26,9 +21,20 @@
       "time": "4:04 pm",
       "artist": "The Afghan Whigs",
       "title": "Conjure Me"
+    },
+    {
+      "time": "4:08 pm",
+      "artist": "Dire Straits",
+      "title": "Walk Of Life"
     }
   ],
   "recent": [
+    {
+      "time": "3:53 pm",
+      "artist": "The Beatles",
+      "title": "I'll Be Back",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "3:49 pm",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Syd Barrett",
       "title": "Love Song",
       "album": "The Madcap Laughs • 1970"
-    },
-    {
-      "time": "2:20 pm",
-      "artist": "Harry Styles",
-      "title": "Sign of the Times",
-      "album": "Harry Styles • 2017"
     }
   ]
 }
