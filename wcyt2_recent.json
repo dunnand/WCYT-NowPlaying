@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T12:44:57",
+  "updatedAt": "2026-10-05T12:45:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "My Father's Eyes",
+    "album": "Pilgrim • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 pm",
-      "artist": "Eric Clapton",
-      "title": "My Father's Eyes"
-    },
     {
       "time": "12:49 pm",
       "artist": "Erykah Badu",
@@ -26,9 +21,20 @@
       "time": "12:58 pm",
       "artist": "George Harrison",
       "title": "Got My Mind Set On You"
+    },
+    {
+      "time": "1:02 pm",
+      "artist": "Beyonce",
+      "title": "BREAK MY SOUL"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 pm",
+      "artist": "Eric Clapton",
+      "title": "My Father's Eyes",
+      "album": "Pilgrim • 1998"
+    },
     {
       "time": "12:42 pm",
       "artist": "Lizzo",
@@ -172,12 +178,6 @@
       "artist": "John Denver",
       "title": "Thank God I'm A Country Boy",
       "album": "Back Home Again • 1974"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "Jim Croce",
-      "title": "I Got A Name",
-      "album": "I Got a Name • 1973"
     }
   ]
 }
