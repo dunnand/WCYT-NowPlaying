@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T17:26:15",
+  "updatedAt": "2026-10-05T17:26:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Jim Croce",
+    "title": "I Got A Name",
+    "album": "I Got a Name • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:26 pm",
-      "artist": "Jim Croce",
-      "title": "I Got A Name"
-    },
     {
       "time": "5:29 pm",
       "artist": "John Denver",
@@ -26,9 +21,20 @@
       "time": "5:34 pm",
       "artist": "The Crystals",
       "title": "He's a Rebel"
+    },
+    {
+      "time": "5:37 pm",
+      "artist": "Joy Division",
+      "title": "She's Lost Control"
     }
   ],
   "recent": [
+    {
+      "time": "5:26 pm",
+      "artist": "Jim Croce",
+      "title": "I Got A Name",
+      "album": "I Got a Name • 1973"
+    },
     {
       "time": "5:22 pm",
       "artist": "Christine and the Queens",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "The Fat Man",
       "album": "Rock and Rollin' With Fats Domino • 1956"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "Built to Spill",
-      "title": "Car",
-      "album": "Theres Nothing Wrong With Love • 1994"
     }
   ]
 }
