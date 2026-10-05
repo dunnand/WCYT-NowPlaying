@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T16:58:35",
+  "updatedAt": "2026-10-05T17:06:01",
   "now": {
-    "artist": "Blur",
-    "title": "Tender",
-    "album": "13 • 1999",
-    "category": "TUNES"
+    "artist": "Bruce Springsteen",
+    "title": "Secret Garden",
+    "album": "Jerry Maguire Soundtrack • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:06 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Secret Garden"
-    },
     {
       "time": "5:10 pm",
       "artist": "Elvis Costello & The Attractions",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:06 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Secret Garden",
+      "album": "Jerry Maguire Soundtrack • 1997"
+    },
     {
       "time": "4:58 pm",
       "artist": "Blur",
@@ -172,12 +173,6 @@
       "artist": "Elvis Costello",
       "title": "Pump It Up",
       "album": "This Year's Model • 1978"
-    },
-    {
-      "time": "3:32 pm",
-      "artist": "The Beatles",
-      "title": "From Me To You",
-      "album": "single • 1963"
     }
   ]
 }
