@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:40:22",
+  "updatedAt": "2026-10-05T15:43:23",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "After Midnight",
-    "album": "Eric Clapton • 1970",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "Car",
+    "album": "Theres Nothing Wrong With Love • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:43 pm",
-      "artist": "Built to Spill",
-      "title": "Car"
-    },
     {
       "time": "3:46 pm",
       "artist": "Fats Domino",
@@ -26,9 +21,20 @@
       "time": "3:53 pm",
       "artist": "The Beatles",
       "title": "I'll Be Back"
+    },
+    {
+      "time": "3:55 pm",
+      "artist": "Leon Bridges",
+      "title": "Bad Bad News"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 pm",
+      "artist": "Built to Spill",
+      "title": "Car",
+      "album": "Theres Nothing Wrong With Love • 1994"
+    },
     {
       "time": "3:40 pm",
       "artist": "Eric Clapton",
@@ -172,12 +178,6 @@
       "artist": "Supertramp",
       "title": "Bloody Well Right",
       "album": "Crime of the Century • 1975"
-    },
-    {
-      "time": "2:06 pm",
-      "artist": "Radiohead",
-      "title": "Morning Bell",
-      "album": "Kid A • 2000"
     }
   ]
 }
