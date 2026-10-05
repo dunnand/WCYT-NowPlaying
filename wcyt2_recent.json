@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T17:26:25",
+  "updatedAt": "2026-10-05T17:29:29",
   "now": {
-    "artist": "Jim Croce",
-    "title": "I Got A Name",
-    "album": "I Got a Name • 1973",
+    "artist": "John Denver",
+    "title": "Thank God I'm A Country Boy",
+    "album": "Back Home Again • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "John Denver",
-      "title": "Thank God I'm A Country Boy"
-    },
     {
       "time": "5:32 pm",
       "artist": "The Unicorns",
@@ -26,9 +21,20 @@
       "time": "5:37 pm",
       "artist": "Joy Division",
       "title": "She's Lost Control"
+    },
+    {
+      "time": "5:40 pm",
+      "artist": "Celine Dion",
+      "title": "The Power Of Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:29 pm",
+      "artist": "John Denver",
+      "title": "Thank God I'm A Country Boy",
+      "album": "Back Home Again • 1974"
+    },
     {
       "time": "5:26 pm",
       "artist": "Jim Croce",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Human",
       "album": "Day & Age • 2008"
-    },
-    {
-      "time": "3:46 pm",
-      "artist": "Fats Domino",
-      "title": "The Fat Man",
-      "album": "Rock and Rollin' With Fats Domino • 1956"
     }
   ]
 }
