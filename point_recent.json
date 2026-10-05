@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T11:47:21",
+  "updatedAt": "2026-10-05T11:47:43",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Ramones",
+    "title": "Pinhead",
+    "album": "Leave Home • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 am",
-      "artist": "Ramones",
-      "title": "Pinhead"
-    },
     {
       "time": "11:50 am",
       "artist": "Anna Burch",
@@ -26,9 +21,20 @@
       "time": "11:56 am",
       "artist": "Hiatus Kaiyote",
       "title": "Telescope"
+    },
+    {
+      "time": "12:00 pm",
+      "artist": "Bat for Lashes",
+      "title": "Laura"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 am",
+      "artist": "Ramones",
+      "title": "Pinhead",
+      "album": "Leave Home • 1977"
+    },
     {
       "time": "11:43 am",
       "artist": "Fontaines D.C.",
@@ -172,12 +178,6 @@
       "artist": "Westside Cowboy",
       "title": "Coyote",
       "album": "It Goes On • 2026"
-    },
-    {
-      "time": "10:13 am",
-      "artist": "Dinosaur Jr.",
-      "title": "Blowin' Up",
-      "album": "There Near • 2026"
     }
   ]
 }
