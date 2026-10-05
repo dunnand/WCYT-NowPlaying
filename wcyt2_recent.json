@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-05T10:03:17",
+  "updatedAt": "2026-10-05T10:07:49",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Body Paint",
-    "album": "The Car • 2022",
+    "artist": "System of a Down",
+    "title": "Toxicity",
+    "album": "Toxicity • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:07 am",
-      "artist": "System of a Down",
-      "title": "Toxicity"
-    },
     {
       "time": "10:11 am",
       "artist": "James Brown",
       "title": "The Payback"
     },
     {
-      "time": "10:19 am",
+      "time": "10:18 am",
       "artist": "Radiohead",
       "title": "Motion Picture Soundtrack"
     },
@@ -26,9 +21,20 @@
       "time": "10:22 am",
       "artist": "Justin Bieber",
       "title": "Baby"
+    },
+    {
+      "time": "10:25 am",
+      "artist": "James Taylor",
+      "title": "You've Got A Friend"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 am",
+      "artist": "System of a Down",
+      "title": "Toxicity",
+      "album": "Toxicity • 2001"
+    },
     {
       "time": "10:03 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Marina & The Diamonds",
       "title": "How To Be A Heartbreaker",
       "album": "Electra Heart • 2012"
-    },
-    {
-      "time": "8:35 am",
-      "artist": "Radiohead",
-      "title": "Exit Music (for a Film)",
-      "album": "OK Computer • 1997"
     }
   ]
 }
