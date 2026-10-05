@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T08:53:20",
+  "updatedAt": "2026-10-05T08:53:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Galaxie 500",
+    "title": "Strange",
+    "album": "On Fire • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:53 am",
-      "artist": "Galaxie 500",
-      "title": "Strange"
-    },
     {
       "time": "8:56 am",
       "artist": "The National",
@@ -26,9 +21,20 @@
       "time": "9:04 am",
       "artist": "Public Image Ltd.",
       "title": "Flowers of Romance"
+    },
+    {
+      "time": "9:07 am",
+      "artist": "Jane Remover",
+      "title": "Fling"
     }
   ],
   "recent": [
+    {
+      "time": "8:53 am",
+      "artist": "Galaxie 500",
+      "title": "Strange",
+      "album": "On Fire • 1989"
+    },
     {
       "time": "8:50 am",
       "artist": "Metric",
@@ -172,12 +178,6 @@
       "artist": "Phoebe Bridgers",
       "title": "On Video",
       "album": "Primetime Soundtrack • 2026"
-    },
-    {
-      "time": "7:14 am",
-      "artist": "Kacy Hill",
-      "title": "No One",
-      "album": "Bug • 2024"
     }
   ]
 }
