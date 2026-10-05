@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T16:32:37",
+  "updatedAt": "2026-10-05T16:35:51",
   "now": {
-    "artist": "Radiohead",
-    "title": "Motion Picture Soundtrack",
-    "album": "Kid A • 2000",
+    "artist": "Justin Bieber",
+    "title": "Baby",
+    "album": "My World 2.0 • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 pm",
-      "artist": "Justin Bieber",
-      "title": "Baby"
-    },
     {
       "time": "4:39 pm",
       "artist": "James Taylor",
@@ -26,9 +21,20 @@
       "time": "4:46 pm",
       "artist": "Sam Cooke",
       "title": "Only Sixteen"
+    },
+    {
+      "time": "4:48 pm",
+      "artist": "R.E.M.",
+      "title": "Bad Day"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 pm",
+      "artist": "Justin Bieber",
+      "title": "Baby",
+      "album": "My World 2.0 • 2010"
+    },
     {
       "time": "4:32 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Identikit",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "3:00 pm",
-      "artist": "Nirvana.",
-      "title": "Smells Like Teen Spirit",
-      "album": "Nevermind • 1991"
     }
   ]
 }
