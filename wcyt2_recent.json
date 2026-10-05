@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:34:15",
+  "updatedAt": "2026-10-05T15:34:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Costello",
+    "title": "Pump It Up",
+    "album": "This Year's Model • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:34 pm",
-      "artist": "Elvis Costello",
-      "title": "Pump It Up"
-    },
     {
       "time": "3:37 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "3:46 pm",
       "artist": "Fats Domino",
       "title": "The Fat Man"
+    },
+    {
+      "time": "3:49 pm",
+      "artist": "The Killers",
+      "title": "Human"
     }
   ],
   "recent": [
+    {
+      "time": "3:34 pm",
+      "artist": "Elvis Costello",
+      "title": "Pump It Up",
+      "album": "This Year's Model • 1978"
+    },
     {
       "time": "3:32 pm",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "Guns N' Roses",
       "title": "Welcome to the Jungle",
       "album": "Appetite for Destruction • 1987"
-    },
-    {
-      "time": "1:54 pm",
-      "artist": "George Michael",
-      "title": "Faith",
-      "album": "Faith • 1988"
     }
   ]
 }
