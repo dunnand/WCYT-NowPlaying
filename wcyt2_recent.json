@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:14:18",
+  "updatedAt": "2026-10-05T15:18:20",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "Like Dylan in the Movies",
-    "album": "If You're Feeling Sinister • 1996",
-    "category": "TUNES"
+    "artist": "Chicago",
+    "title": "You're The Inspiration",
+    "album": "Chicago 17 • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:18 pm",
-      "artist": "Chicago",
-      "title": "You're The Inspiration"
-    },
     {
       "time": "3:22 pm",
       "artist": "Culture Club",
@@ -21,9 +16,25 @@
       "time": "3:24 pm",
       "artist": "Alice Merton",
       "title": "run away girl"
+    },
+    {
+      "time": "3:28 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Badlands"
+    },
+    {
+      "time": "3:32 pm",
+      "artist": "The Beatles",
+      "title": "From Me To You"
     }
   ],
   "recent": [
+    {
+      "time": "3:18 pm",
+      "artist": "Chicago",
+      "title": "You're The Inspiration",
+      "album": "Chicago 17 • 1984"
+    },
     {
       "time": "3:14 pm",
       "artist": "Belle and Sebastian",
@@ -167,12 +178,6 @@
       "artist": "The Who",
       "title": "I Can See For Miles",
       "album": "The Who Sell Out • 1967"
-    },
-    {
-      "time": "1:33 pm",
-      "artist": "Rihanna",
-      "title": "Umbrella",
-      "album": "Good Girl Gone Bad • 2007"
     }
   ]
 }
