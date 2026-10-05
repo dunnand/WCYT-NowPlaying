@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T09:20:54",
+  "updatedAt": "2026-10-05T09:24:00",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Pump It Up",
-    "album": "This Year's Model • 1978",
+    "artist": "The Beatles",
+    "title": "Getting Better",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:24 am",
-      "artist": "The Beatles",
-      "title": "Getting Better"
-    },
     {
       "time": "9:26 am",
       "artist": "Eric Clapton",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:24 am",
+      "artist": "The Beatles",
+      "title": "Getting Better",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "9:20 am",
       "artist": "Elvis Costello",
@@ -177,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "Sober",
       "album": "STN MTN / Kauai • 2014"
-    },
-    {
-      "time": "11:19 pm",
-      "artist": "The Beatles",
-      "title": "Mean Mr. Mustard",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
