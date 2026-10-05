@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:05:21",
+  "updatedAt": "2026-10-05T15:09:41",
   "now": {
-    "artist": "Radiohead",
-    "title": "Identikit",
-    "album": "A Moon Shaped Pool • 2016",
+    "artist": "Steve Earle",
+    "title": "The Mountain",
+    "album": "The Mountain • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:09 pm",
-      "artist": "Steve Earle",
-      "title": "The Mountain"
-    },
     {
       "time": "3:14 pm",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "3:22 pm",
       "artist": "Culture Club",
       "title": "I'll Tumble 4 You"
+    },
+    {
+      "time": "3:24 pm",
+      "artist": "Alice Merton",
+      "title": "run away girl"
     }
   ],
   "recent": [
+    {
+      "time": "3:09 pm",
+      "artist": "Steve Earle",
+      "title": "The Mountain",
+      "album": "The Mountain • 1999"
+    },
     {
       "time": "3:05 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Bill Haley and his Comets",
       "title": "(We're Gonna) Rock Around the Clock",
       "album": "Shake Rattle and Roll • 1955"
-    },
-    {
-      "time": "1:28 pm",
-      "artist": "Fiona Apple",
-      "title": "Limp",
-      "album": "When the Pawn • 1999"
     }
   ]
 }
