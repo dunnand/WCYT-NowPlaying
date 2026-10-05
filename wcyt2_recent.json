@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T15:37:40",
+  "updatedAt": "2026-10-05T15:40:22",
   "now": {
-    "artist": "The Beatles",
-    "title": "Getting Better",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Eric Clapton",
+    "title": "After Midnight",
+    "album": "Eric Clapton • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:40 pm",
-      "artist": "Eric Clapton",
-      "title": "After Midnight"
-    },
     {
       "time": "3:43 pm",
       "artist": "Built to Spill",
@@ -23,12 +18,23 @@
       "title": "The Fat Man"
     },
     {
-      "time": "3:49 pm",
+      "time": "3:48 pm",
       "artist": "The Killers",
       "title": "Human"
+    },
+    {
+      "time": "3:53 pm",
+      "artist": "The Beatles",
+      "title": "I'll Be Back"
     }
   ],
   "recent": [
+    {
+      "time": "3:40 pm",
+      "artist": "Eric Clapton",
+      "title": "After Midnight",
+      "album": "Eric Clapton • 1970"
+    },
     {
       "time": "3:37 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Morning Bell",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "2:01 pm",
-      "artist": "Beyonce",
-      "title": "BLACK PARADE",
-      "album": "The Lion King: The Gift • 2020"
     }
   ]
 }
