@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T21:12:00",
+  "updatedAt": "2026-10-05T21:12:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Jane's Addiction",
+    "title": "Ocean Size",
+    "album": "Nothing's Shocking • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Jane's Addiction",
-      "title": "Ocean Size"
-    },
     {
       "time": "9:16 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "9:25 pm",
       "artist": "The Band",
       "title": "Ophelia"
+    },
+    {
+      "time": "9:28 pm",
+      "artist": "Sleater",
+      "title": "Kinney - Combat Rock"
     }
   ],
   "recent": [
+    {
+      "time": "9:12 pm",
+      "artist": "Jane's Addiction",
+      "title": "Ocean Size",
+      "album": "Nothing's Shocking • 1988"
+    },
     {
       "time": "9:07 pm",
       "artist": "Jackson Browne",
@@ -172,12 +178,6 @@
       "artist": "Santana",
       "title": "No One To Depend On",
       "album": "Santana III • 1972"
-    },
-    {
-      "time": "7:34 pm",
-      "artist": "The Kinks",
-      "title": "You Really Got Me",
-      "album": "Kinks • 1964"
     }
   ]
 }
