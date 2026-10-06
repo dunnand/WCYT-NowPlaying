@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T20:15:31",
+  "updatedAt": "2026-10-05T20:20:06",
   "now": {
-    "artist": "Beyonce",
-    "title": "BLACK PARADE",
-    "album": "The Lion King: The Gift • 2020",
+    "artist": "Radiohead",
+    "title": "Morning Bell",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 pm",
-      "artist": "Radiohead",
-      "title": "Morning Bell"
-    },
     {
       "time": "8:24 pm",
       "artist": "Supertramp",
@@ -26,9 +21,20 @@
       "time": "8:34 pm",
       "artist": "Harry Styles",
       "title": "Sign of the Times"
+    },
+    {
+      "time": "8:40 pm",
+      "artist": "Syd Barrett",
+      "title": "Love Song"
     }
   ],
   "recent": [
+    {
+      "time": "8:20 pm",
+      "artist": "Radiohead",
+      "title": "Morning Bell",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "8:15 pm",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Blue Suede Shoes",
       "album": "Elvis Presley • 1956"
-    },
-    {
-      "time": "6:41 pm",
-      "artist": "Eels",
-      "title": "Novocaine For The Soul",
-      "album": "Beautiful Freak • 1996"
     }
   ]
 }
