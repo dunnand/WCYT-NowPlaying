@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T18:58:42",
+  "updatedAt": "2026-10-06T19:00:45",
   "now": {
-    "artist": "The Beatles",
-    "title": "Chains",
-    "album": "Please Please Me • 1963",
+    "artist": "Charlie Rich",
+    "title": "Behind Closed Doors",
+    "album": "Behind Closed Doors • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 pm",
-      "artist": "Charlie Rich",
-      "title": "Behind Closed Doors"
-    },
     {
       "time": "7:03 pm",
       "artist": "Sunny Day Real Estate",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:00 pm",
+      "artist": "Charlie Rich",
+      "title": "Behind Closed Doors",
+      "album": "Behind Closed Doors • 1973"
+    },
     {
       "time": "6:58 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Oasis",
       "title": "Don't Look Back in Anger",
       "album": "Whats the Story) Morning Glory? • 1995"
-    },
-    {
-      "time": "5:18 pm",
-      "artist": "Vampire Weekend",
-      "title": "Unbelievers",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
