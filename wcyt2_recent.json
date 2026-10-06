@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T06:18:33",
+  "updatedAt": "2026-10-06T06:18:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Journey",
+    "title": "Lights",
+    "album": "Infinity • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:18 am",
-      "artist": "Journey",
-      "title": "Lights"
-    },
     {
       "time": "6:21 am",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "6:28 am",
       "artist": "The Beatles",
       "title": "Every Little Thing"
+    },
+    {
+      "time": "6:30 am",
+      "artist": "Elton John",
+      "title": "Bite Your Lip (Get Up and Dance!)"
     }
   ],
   "recent": [
+    {
+      "time": "6:18 am",
+      "artist": "Journey",
+      "title": "Lights",
+      "album": "Infinity • 1978"
+    },
     {
       "time": "6:15 am",
       "artist": "Lizzo",
@@ -172,12 +178,6 @@
       "artist": "Muddy Waters",
       "title": "Hoochie Coochie Man",
       "album": "single • 1954"
-    },
-    {
-      "time": "4:40 am",
-      "artist": "Sleater-Kinney",
-      "title": "Dig Me Out",
-      "album": "Dig Me Out • 1997"
     }
   ]
 }
