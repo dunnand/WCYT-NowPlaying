@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T08:07:49",
+  "updatedAt": "2026-10-06T08:12:57",
   "now": {
-    "artist": "Childish Gambino",
-    "title": "19.10",
-    "album": "3.15.20 • 2020",
+    "artist": "The Beatles",
+    "title": "Across The Universe",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:12 am",
-      "artist": "The Beatles",
-      "title": "Across The Universe"
-    },
     {
       "time": "8:16 am",
       "artist": "Al Green",
@@ -26,9 +21,20 @@
       "time": "8:23 am",
       "artist": "The Velvet Underground",
       "title": "Femme Fatale"
+    },
+    {
+      "time": "8:26 am",
+      "artist": "Billy Joel",
+      "title": "Only The Good Die Young"
     }
   ],
   "recent": [
+    {
+      "time": "8:12 am",
+      "artist": "The Beatles",
+      "title": "Across The Universe",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "8:07 am",
       "artist": "Childish Gambino",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Oh, Boy!",
       "album": "The Chirping Crickets • 1957"
-    },
-    {
-      "time": "6:36 am",
-      "artist": "Mista",
-      "title": "Blackberry Molasses",
-      "album": "Mista • 1996"
     }
   ]
 }
