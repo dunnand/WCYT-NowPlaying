@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T04:15:25",
+  "updatedAt": "2026-10-06T04:20:30",
   "now": {
-    "artist": "Deftones",
-    "title": "Genesis",
-    "album": "Ohms • 2020",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Someday.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:20 am",
-      "artist": "The Strokes",
-      "title": "Someday."
-    },
     {
       "time": "4:23 am",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "4:32 am",
       "artist": "Wilco",
       "title": "Everyone Hides"
+    },
+    {
+      "time": "4:35 am",
+      "artist": "Guy Clark",
+      "title": "L.A. Freeway"
     }
   ],
   "recent": [
+    {
+      "time": "4:20 am",
+      "artist": "The Strokes",
+      "title": "Someday.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "4:15 am",
       "artist": "Deftones",
@@ -172,12 +178,6 @@
       "artist": "Sister Rosetta Tharpe",
       "title": "Precious Memories",
       "album": "single • 1944"
-    },
-    {
-      "time": "2:40 am",
-      "artist": "Shawn Mullins",
-      "title": "Lullaby",
-      "album": "Souls Core • 1998"
     }
   ]
 }
