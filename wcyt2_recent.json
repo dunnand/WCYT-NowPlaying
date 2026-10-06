@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T07:23:05",
+  "updatedAt": "2026-10-06T07:26:59",
   "now": {
-    "artist": "The Strokes",
-    "title": "Barely Legal.",
-    "album": "Is This It • 2001",
-    "category": "TUNES"
+    "artist": "Taylor Swift",
+    "title": "Bad Blood",
+    "album": "1989 • 2014",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 am",
-      "artist": "Taylor Swift",
-      "title": "Bad Blood"
-    },
     {
       "time": "7:30 am",
       "artist": "Paul Anka",
@@ -26,9 +21,20 @@
       "time": "7:36 am",
       "artist": "Lloyd Price",
       "title": "Stagger Lee"
+    },
+    {
+      "time": "7:38 am",
+      "artist": "U2",
+      "title": "Stuck In A Moment You Can't Get Out Of"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 am",
+      "artist": "Taylor Swift",
+      "title": "Bad Blood",
+      "album": "1989 • 2014"
+    },
     {
       "time": "7:23 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Swedish House Mafia",
       "title": "Don't You Worry Child",
       "album": "Until Now • 2012"
-    },
-    {
-      "time": "5:45 am",
-      "artist": "The Troggs",
-      "title": "Wild Thing",
-      "album": "Wild Thing • 1966"
     }
   ]
 }
