@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T01:34:52",
+  "updatedAt": "2026-10-06T01:35:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Queen",
+    "title": "A Kind of Magic",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 am",
-      "artist": "Queen",
-      "title": "A Kind of Magic"
-    },
     {
       "time": "1:39 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "1:50 am",
       "artist": "Coasters",
       "title": "Poison Ivy"
+    },
+    {
+      "time": "1:53 am",
+      "artist": "Sonic Youth",
+      "title": "Incinerate"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 am",
+      "artist": "Queen",
+      "title": "A Kind of Magic",
+      "album": ""
+    },
     {
       "time": "1:32 am",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Don't Pass Me By",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "Radiohead",
-      "title": "Reckoner",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
