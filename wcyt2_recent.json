@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T15:11:42",
+  "updatedAt": "2026-10-06T15:14:08",
   "now": {
-    "artist": "The Beatles",
-    "title": "Baby It's You",
-    "album": "Please Please Me • 1963",
+    "artist": "The Doors",
+    "title": "Riders on the Storm",
+    "album": "L.A. Woman • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 pm",
-      "artist": "The Doors",
-      "title": "Riders on the Storm"
-    },
     {
       "time": "3:21 pm",
       "artist": "The Flaming Lips",
@@ -23,12 +18,18 @@
       "title": "I Still Miss Someone"
     },
     {
-      "time": "3:27 pm",
+      "time": "3:26 pm",
       "artist": "The Go! Team",
       "title": "Ladyflash"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 pm",
+      "artist": "The Doors",
+      "title": "Riders on the Storm",
+      "album": "L.A. Woman • 1971"
+    },
     {
       "time": "3:11 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "You've Passed",
       "album": "On Avery Island • 1996"
-    },
-    {
-      "time": "1:43 pm",
-      "artist": "Tyler, the Creator",
-      "title": "IGOR'S THEME",
-      "album": "IGOR • 2019"
     }
   ]
 }
