@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T02:34:56",
+  "updatedAt": "2026-10-06T02:40:25",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "All My Love",
-    "album": "In Through the Out Door • 1979",
+    "artist": "Shawn Mullins",
+    "title": "Lullaby",
+    "album": "Souls Core • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 am",
-      "artist": "Shawn Mullins",
-      "title": "Lullaby"
-    },
     {
       "time": "2:44 am",
       "artist": "Sister Rosetta Tharpe",
@@ -21,9 +16,20 @@
       "time": "2:49 am",
       "artist": "Spoon",
       "title": "The Way We Get By"
+    },
+    {
+      "time": "2:52 am",
+      "artist": "The Beatles",
+      "title": "I'm Only Sleeping"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 am",
+      "artist": "Shawn Mullins",
+      "title": "Lullaby",
+      "album": "Souls Core • 1998"
+    },
     {
       "time": "2:34 am",
       "artist": "Led Zeppelin",
@@ -167,12 +173,6 @@
       "artist": "Tom Petty",
       "title": "You Don't Know How It Feels",
       "album": "Wildflowers • 1994"
-    },
-    {
-      "time": "1:11 am",
-      "artist": "They Might Be Giants",
-      "title": "Particle Man",
-      "album": "Flood • 1990"
     }
   ]
 }
