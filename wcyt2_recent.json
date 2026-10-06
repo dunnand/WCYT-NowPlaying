@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T11:09:10",
+  "updatedAt": "2026-10-06T11:12:56",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Lady d'Arbanville",
-    "album": "Mona Bone Jakon • 1970",
+    "artist": "The Beatles",
+    "title": "Can't Buy Me Love",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "The Beatles",
-      "title": "Can't Buy Me Love"
-    },
     {
       "time": "11:15 am",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "11:22 am",
       "artist": "Crosby, Stills, Nash & Young",
       "title": "Woodstock"
+    },
+    {
+      "time": "11:26 am",
+      "artist": "Sheryl Crow",
+      "title": "A Change Would Do You Good"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "The Beatles",
+      "title": "Can't Buy Me Love",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "11:09 am",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Dreams",
       "album": "Desperate Youth, Blood Thirsty Babes • 2004"
-    },
-    {
-      "time": "9:31 am",
-      "artist": "Fats Domino",
-      "title": "Blueberry Hill",
-      "album": "This Is Fats Domino! • 1956"
     }
   ]
 }
