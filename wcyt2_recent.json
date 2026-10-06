@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T02:00:26",
+  "updatedAt": "2026-10-06T02:03:30",
   "now": {
-    "artist": "Olly Murs",
-    "title": "Troublemaker",
-    "album": "Right Place Right Time • 2012",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Pictures of Me",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:03 am",
-      "artist": "Elliott Smith",
-      "title": "Pictures of Me"
-    },
     {
       "time": "2:07 am",
       "artist": "Pearl Jam",
@@ -21,9 +16,20 @@
       "time": "2:11 am",
       "artist": "Waylon Jennings",
       "title": "Theme From The Dukes Of Hazzard (Good Ol' Boys)"
+    },
+    {
+      "time": "2:13 am",
+      "artist": "The Kinks",
+      "title": "Living on a Thin Line"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 am",
+      "artist": "Elliott Smith",
+      "title": "Pictures of Me",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "2:00 am",
       "artist": "Olly Murs",
@@ -167,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Time",
       "album": "The Dark Side of the Moon • 1973"
-    },
-    {
-      "time": "12:33 am",
-      "artist": "Joni Mitchell",
-      "title": "Help Me",
-      "album": "Court and Spark • 1974"
     }
   ]
 }
