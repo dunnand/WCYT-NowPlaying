@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T15:03:11",
+  "updatedAt": "2026-10-06T15:03:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Styx",
+    "title": "Lady",
+    "album": "Styx II • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 pm",
-      "artist": "Styx",
-      "title": "Lady"
-    },
     {
       "time": "3:06 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "3:11 pm",
       "artist": "The Beatles",
       "title": "Baby It's You"
+    },
+    {
+      "time": "3:14 pm",
+      "artist": "The Doors",
+      "title": "Riders on the Storm"
     }
   ],
   "recent": [
+    {
+      "time": "3:03 pm",
+      "artist": "Styx",
+      "title": "Lady",
+      "album": "Styx II • 1975"
+    },
     {
       "time": "2:57 pm",
       "artist": "Little Simz",
@@ -172,12 +178,6 @@
       "artist": "Doris Day",
       "title": "Whatever Will Be Will Be (Que Sera, Sera)",
       "album": "single • 1956"
-    },
-    {
-      "time": "1:30 pm",
-      "artist": "Modest Mouse",
-      "title": "Heart Cooks Brain",
-      "album": "Lonesome Crowded West • 1998"
     }
   ]
 }
