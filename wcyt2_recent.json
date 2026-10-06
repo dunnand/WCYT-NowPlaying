@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T12:34:13",
+  "updatedAt": "2026-10-06T12:36:48",
   "now": {
-    "artist": "Pavement",
-    "title": "Date With IKEA",
-    "album": "Brighten the Corners • 1997",
-    "category": "TUNES"
+    "artist": "Wilco",
+    "title": "Quarters",
+    "album": "Schmilco • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:36 pm",
-      "artist": "Wilco",
-      "title": "Quarters"
-    },
     {
       "time": "12:39 pm",
       "artist": "Wilco",
@@ -21,9 +16,20 @@
       "time": "12:45 pm",
       "artist": "R.E.M.",
       "title": "Supernatural Superserious"
+    },
+    {
+      "time": "12:48 pm",
+      "artist": "Thundercat",
+      "title": "Them Changes"
     }
   ],
   "recent": [
+    {
+      "time": "12:36 pm",
+      "artist": "Wilco",
+      "title": "Quarters",
+      "album": "Schmilco • 2016"
+    },
     {
       "time": "12:34 pm",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "Echo & The Bunnymen",
       "title": "Bring on the Dancing Horses",
       "album": "Songs to Learn & Sing • 1985"
-    },
-    {
-      "time": "10:51 am",
-      "artist": "Prince",
-      "title": "Gold",
-      "album": "The Gold Experience • 1995"
     }
   ]
 }
