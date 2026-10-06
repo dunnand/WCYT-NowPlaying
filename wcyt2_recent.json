@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T21:16:28",
+  "updatedAt": "2026-10-05T21:20:44",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Shame Shame",
-    "album": "Medicine at Midnight • 2021",
+    "artist": "The Walkmen",
+    "title": "The Rat",
+    "album": "Bows + Arrows • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 pm",
-      "artist": "The Walkmen",
-      "title": "The Rat"
-    },
     {
       "time": "9:25 pm",
       "artist": "The Band",
@@ -26,9 +21,20 @@
       "time": "9:33 pm",
       "artist": "M.I.A.",
       "title": "Go Off"
+    },
+    {
+      "time": "9:36 pm",
+      "artist": "The Kinks",
+      "title": "Strangers"
     }
   ],
   "recent": [
+    {
+      "time": "9:20 pm",
+      "artist": "The Walkmen",
+      "title": "The Rat",
+      "album": "Bows + Arrows • 2004"
+    },
     {
       "time": "9:16 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Bill Haley and his Comets",
       "title": "(We're Gonna) Rock Around the Clock",
       "album": "Shake Rattle and Roll • 1955"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "Fiona Apple",
-      "title": "Limp",
-      "album": "When the Pawn • 1999"
     }
   ]
 }
