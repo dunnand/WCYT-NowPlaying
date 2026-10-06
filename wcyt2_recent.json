@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T14:16:41",
+  "updatedAt": "2026-10-06T14:20:17",
   "now": {
-    "artist": "Radiohead",
-    "title": "All I Need",
-    "album": "In Rainbows • 2007",
+    "artist": "Tom Jones",
+    "title": "Delilah",
+    "album": "The Tom Jones Fever Zone • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:20 pm",
-      "artist": "Tom Jones",
-      "title": "Delilah"
-    },
     {
       "time": "2:23 pm",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "2:29 pm",
       "artist": "Taylor Swift",
       "title": "Back To Decemeber"
+    },
+    {
+      "time": "2:33 pm",
+      "artist": "Stephen Malkmus",
+      "title": "Jenny & the Ess-Dog"
     }
   ],
   "recent": [
+    {
+      "time": "2:20 pm",
+      "artist": "Tom Jones",
+      "title": "Delilah",
+      "album": "The Tom Jones Fever Zone • 1968"
+    },
     {
       "time": "2:16 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Thundercat",
       "title": "Them Changes",
       "album": "Drunk • 2017"
-    },
-    {
-      "time": "12:45 pm",
-      "artist": "R.E.M.",
-      "title": "Supernatural Superserious",
-      "album": "Accelerate • 2008"
     }
   ]
 }
