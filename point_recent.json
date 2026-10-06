@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T01:00:26",
+  "updatedAt": "2026-10-06T01:00:58",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Talking Heads",
+    "title": "Air",
+    "album": "Fear of Music • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Talking Heads",
-      "title": "Air"
-    },
     {
       "time": "1:04 am",
       "artist": "Sparks",
@@ -31,9 +26,20 @@
       "time": "1:12 am",
       "artist": "Babehoven",
       "title": "Blue Around You"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Stef Chura",
+      "title": "The Concrete"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "Talking Heads",
+      "title": "Air",
+      "album": "Fear of Music • 1984"
+    },
     {
       "time": "12:56 am",
       "artist": "Queens of the Stone Age",
@@ -177,12 +183,6 @@
       "artist": "Beach House",
       "title": "Once Twice Melody",
       "album": "Once Twice Melody • 2022"
-    },
-    {
-      "time": "11:25 pm",
-      "artist": "beabadoobee",
-      "title": "Nothing to Prove (feat. Hayley Williams)",
-      "album": "Pylon • 2026"
     }
   ]
 }
