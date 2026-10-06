@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T07:57:41",
+  "updatedAt": "2026-10-06T07:57:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "Who Wants to Live Forever",
+    "album": "A Kind of Magic • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:57 am",
-      "artist": "Queen",
-      "title": "Who Wants to Live Forever"
-    },
     {
       "time": "8:02 am",
       "artist": "The Wedding Present",
@@ -26,9 +21,20 @@
       "time": "8:12 am",
       "artist": "The Beatles",
       "title": "Across The Universe"
+    },
+    {
+      "time": "8:16 am",
+      "artist": "Al Green",
+      "title": "Take Me to the River"
     }
   ],
   "recent": [
+    {
+      "time": "7:57 am",
+      "artist": "Queen",
+      "title": "Who Wants to Live Forever",
+      "album": "A Kind of Magic • 1986"
+    },
     {
       "time": "7:53 am",
       "artist": "Alanis Morissette",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Every Little Thing",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "6:25 am",
-      "artist": "Sheryl Crow",
-      "title": "Soak Up The Sun",
-      "album": "Cmon, Cmon • 2002"
     }
   ]
 }
