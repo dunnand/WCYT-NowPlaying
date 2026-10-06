@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-05T21:12:10",
+  "updatedAt": "2026-10-05T21:16:28",
   "now": {
-    "artist": "Jane's Addiction",
-    "title": "Ocean Size",
-    "album": "Nothing's Shocking • 1988",
+    "artist": "Foo Fighters",
+    "title": "Shame Shame",
+    "album": "Medicine at Midnight • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:16 pm",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame"
-    },
     {
       "time": "9:20 pm",
       "artist": "The Walkmen",
@@ -26,9 +21,20 @@
       "time": "9:28 pm",
       "artist": "Sleater",
       "title": "Kinney - Combat Rock"
+    },
+    {
+      "time": "9:33 pm",
+      "artist": "M.I.A.",
+      "title": "Go Off"
     }
   ],
   "recent": [
+    {
+      "time": "9:16 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame",
+      "album": "Medicine at Midnight • 2021"
+    },
     {
       "time": "9:12 pm",
       "artist": "Jane's Addiction",
@@ -172,12 +178,6 @@
       "artist": "Fiona Apple",
       "title": "Limp",
       "album": "When the Pawn • 1999"
-    },
-    {
-      "time": "7:36 pm",
-      "artist": "Santana",
-      "title": "No One To Depend On",
-      "album": "Santana III • 1972"
     }
   ]
 }
