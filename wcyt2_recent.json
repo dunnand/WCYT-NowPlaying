@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T18:47:48",
+  "updatedAt": "2026-10-06T18:52:16",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Born To Run",
-    "album": "Born to Run • 1975",
+    "artist": "The Beatles",
+    "title": "Hey Bulldog",
+    "album": "Yellow Submarine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:52 pm",
-      "artist": "The Beatles",
-      "title": "Hey Bulldog"
-    },
     {
       "time": "6:55 pm",
       "artist": "Carly Simon",
@@ -26,9 +21,20 @@
       "time": "7:01 pm",
       "artist": "Charlie Rich",
       "title": "Behind Closed Doors"
+    },
+    {
+      "time": "7:04 pm",
+      "artist": "Sunny Day Real Estate",
+      "title": "In Circles"
     }
   ],
   "recent": [
+    {
+      "time": "6:52 pm",
+      "artist": "The Beatles",
+      "title": "Hey Bulldog",
+      "album": "Yellow Submarine • 1969"
+    },
     {
       "time": "6:47 pm",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Songs Ohia",
       "title": "Just Be Simple",
       "album": "The Magnolia Electric Co • 2003"
-    },
-    {
-      "time": "5:09 pm",
-      "artist": "Chordettes",
-      "title": "Mr. Sandman",
-      "album": "The Chordettes • 1957"
     }
   ]
 }
