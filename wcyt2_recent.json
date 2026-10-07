@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T05:25:39",
+  "updatedAt": "2026-10-07T05:28:11",
   "now": {
-    "artist": "The Beatles",
-    "title": "Good Morning Good Morning",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "David Bowie",
+    "title": "Golden Years",
+    "album": "Station to Station • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:28 am",
-      "artist": "David Bowie",
-      "title": "Golden Years"
-    },
     {
       "time": "5:32 am",
       "artist": "Yo La Tengo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:28 am",
+      "artist": "David Bowie",
+      "title": "Golden Years",
+      "album": "Station to Station • 1976"
+    },
     {
       "time": "5:25 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Tori Amos",
       "title": "Cornflake Girl",
       "album": "Under the Pink • 1994"
-    },
-    {
-      "time": "3:50 am",
-      "artist": "Radiohead",
-      "title": "Bloom",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
