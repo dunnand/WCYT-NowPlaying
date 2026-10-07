@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T00:42:02",
+  "updatedAt": "2026-10-07T00:42:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "TV on the Radio",
+    "title": "Wolf Like Me",
+    "album": "Return To Cookie Mountain • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "TV on the Radio",
-      "title": "Wolf Like Me"
-    },
     {
       "time": "12:46 am",
       "artist": "Townes Van Zandt",
@@ -23,7 +18,7 @@
       "title": "In the Summertime"
     },
     {
-      "time": "12:52 am",
+      "time": "12:53 am",
       "artist": "Rod Stewart",
       "title": "Ooh La La"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "TV on the Radio",
+      "title": "Wolf Like Me",
+      "album": "Return To Cookie Mountain • 2006"
+    },
     {
       "time": "12:35 am",
       "artist": "Pink Floyd",
@@ -177,12 +178,6 @@
       "artist": "Rage Against the Machine",
       "title": "Renegades of Funk",
       "album": "Renegades • 2000"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Rich",
-      "album": "Fever To Tell • 2003"
     }
   ]
 }
