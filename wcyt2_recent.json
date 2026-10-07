@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T16:13:17",
+  "updatedAt": "2026-10-07T16:15:39",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Knockin' on Heaven's Door",
-    "album": "Knockin' on Heaven's Door • 1973",
+    "artist": "The Beatles",
+    "title": "Don't Want To Spoil The Party",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 pm",
-      "artist": "The Beatles",
-      "title": "Don't Want To Spoil The Party"
-    },
     {
       "time": "4:18 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "4:25 pm",
       "artist": "The Knack",
       "title": "My Sharona"
+    },
+    {
+      "time": "4:30 pm",
+      "artist": "Warren G",
+      "title": "Regulate"
     }
   ],
   "recent": [
+    {
+      "time": "4:15 pm",
+      "artist": "The Beatles",
+      "title": "Don't Want To Spoil The Party",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "4:13 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "UB40",
       "title": "Red Red Wine",
       "album": "Labour of Love • 1988"
-    },
-    {
-      "time": "2:45 pm",
-      "artist": "R.E.M.",
-      "title": "Finest Worksong",
-      "album": "Document • 1987"
     }
   ]
 }
