@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T01:20:17",
+  "updatedAt": "2026-10-07T01:24:46",
   "now": {
-    "artist": "Madonna",
-    "title": "Express Yourself",
-    "album": "Like a Prayer • 1989",
+    "artist": "James Brown",
+    "title": "We Got To Change",
+    "album": "Single • 2024",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:24 am",
-      "artist": "James Brown",
-      "title": "We Got To Change"
-    },
     {
       "time": "1:28 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "1:31 am",
       "artist": "The Beatles",
       "title": "Don't Want To Spoil The Party"
+    },
+    {
+      "time": "1:34 am",
+      "artist": "Queen",
+      "title": "A Kind of Magic"
     }
   ],
   "recent": [
+    {
+      "time": "1:24 am",
+      "artist": "James Brown",
+      "title": "We Got To Change",
+      "album": "Single • 2024"
+    },
     {
       "time": "1:20 am",
       "artist": "Madonna",
@@ -167,12 +173,6 @@
       "artist": "The Halo Benders",
       "title": "Your Asterisk",
       "album": "The Rebels Not In • 1998"
-    },
-    {
-      "time": "10:49 pm",
-      "artist": "Freda Payne",
-      "title": "Band Of Gold",
-      "album": "Band of Gold • 1970"
     }
   ]
 }
