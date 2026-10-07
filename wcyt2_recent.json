@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T07:52:40",
+  "updatedAt": "2026-10-07T07:56:33",
   "now": {
-    "artist": "Alanis Morissette",
-    "title": "You Learn",
-    "album": "Jagged Little Pill • 1996",
+    "artist": "Queen",
+    "title": "Who Wants to Live Forever",
+    "album": "A Kind of Magic • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:56 am",
-      "artist": "Queen",
-      "title": "Who Wants to Live Forever"
-    },
     {
       "time": "8:01 am",
       "artist": "The Wedding Present",
@@ -21,9 +16,25 @@
       "time": "8:06 am",
       "artist": "Childish Gambino",
       "title": "19.10"
+    },
+    {
+      "time": "8:11 am",
+      "artist": "The Beatles",
+      "title": "Across The Universe"
+    },
+    {
+      "time": "8:15 am",
+      "artist": "Al Green",
+      "title": "Take Me to the River"
     }
   ],
   "recent": [
+    {
+      "time": "7:56 am",
+      "artist": "Queen",
+      "title": "Who Wants to Live Forever",
+      "album": "A Kind of Magic • 1986"
+    },
     {
       "time": "7:52 am",
       "artist": "Alanis Morissette",
@@ -167,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Every Little Thing",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "6:24 am",
-      "artist": "Sheryl Crow",
-      "title": "Soak Up The Sun",
-      "album": "Cmon, Cmon • 2002"
     }
   ]
 }
