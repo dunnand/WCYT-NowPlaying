@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-07T00:42:43",
+  "updatedAt": "2026-10-07T00:47:00",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Wolf Like Me",
-    "album": "Return To Cookie Mountain • 2006",
-    "category": "TUNES"
+    "artist": "Townes Van Zandt",
+    "title": "Waiting Around to Die",
+    "album": "Townes Van Zandt • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "Townes Van Zandt",
-      "title": "Waiting Around to Die"
-    },
     {
       "time": "12:49 am",
       "artist": "Mungo Jerry",
       "title": "In the Summertime"
     },
     {
-      "time": "12:53 am",
+      "time": "12:52 am",
       "artist": "Rod Stewart",
       "title": "Ooh La La"
     },
@@ -26,9 +21,20 @@
       "time": "12:56 am",
       "artist": "The Lumineers",
       "title": "Ho Hey"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "The Shins",
+      "title": "Know Your Onion!"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "Townes Van Zandt",
+      "title": "Waiting Around to Die",
+      "album": "Townes Van Zandt • 1969"
+    },
     {
       "time": "12:42 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "will.i.am",
       "title": "#thatPOWER",
       "album": "#willpower • 2013"
-    },
-    {
-      "time": "10:10 pm",
-      "artist": "Rage Against the Machine",
-      "title": "Renegades of Funk",
-      "album": "Renegades • 2000"
     }
   ]
 }
