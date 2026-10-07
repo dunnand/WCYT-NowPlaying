@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-10-07T00:08:03",
+  "updatedAt": "2026-10-07T00:08:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Don't Pass Me By",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:08 am",
+      "time": "12:11 am",
+      "artist": "Radiohead",
+      "title": "Reckoner"
+    },
+    {
+      "time": "12:16 am",
       "artist": "The Beatles",
       "title": "Don't Pass Me By"
     },
     {
-      "time": "12:11 am",
+      "time": "12:20 am",
       "artist": "Leon Bridges",
       "title": "Smooth Sailin'"
-    },
-    {
-      "time": "12:14 am",
-      "artist": "Hootie & The Blowfish",
-      "title": "I Go Blind"
-    },
-    {
-      "time": "12:18 am",
-      "artist": "Phil Collins",
-      "title": "True Colors"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "The Beatles",
+      "title": "Don't Pass Me By",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:03 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Grimes",
       "title": "We Appreciate Power (feat. Hana)",
       "album": "Single •"
-    },
-    {
-      "time": "9:32 pm",
-      "artist": "Bruce Springsteen",
-      "title": "I'm On Fire",
-      "album": "Born in the U.S.A. • 1985"
     }
   ]
 }
