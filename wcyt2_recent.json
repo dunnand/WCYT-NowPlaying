@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T07:16:57",
+  "updatedAt": "2026-10-07T07:21:55",
   "now": {
-    "artist": "Eagles",
-    "title": "New Kid In Town",
-    "album": "Hotel California • 1976",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Barely Legal.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:21 am",
-      "artist": "The Strokes",
-      "title": "Barely Legal."
-    },
     {
       "time": "7:25 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "7:31 am",
       "artist": "The Magnetic Fields",
       "title": "Fear of Trains"
+    },
+    {
+      "time": "7:34 am",
+      "artist": "Lloyd Price",
+      "title": "Stagger Lee"
     }
   ],
   "recent": [
+    {
+      "time": "7:21 am",
+      "artist": "The Strokes",
+      "title": "Barely Legal.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "7:16 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "The Troggs",
       "title": "Wild Thing",
       "album": "Wild Thing • 1966"
-    },
-    {
-      "time": "5:40 am",
-      "artist": "Sufjan Stevens",
-      "title": "Flint (For the Unemployed and Underpaid)",
-      "album": "Michigan • 2003"
     }
   ]
 }
