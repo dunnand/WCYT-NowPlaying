@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T16:23:05",
+  "updatedAt": "2026-10-07T16:25:20",
   "now": {
-    "artist": "The Beatles",
-    "title": "Here, There & Everywhere",
-    "album": "Revolver • 1966",
+    "artist": "The Knack",
+    "title": "My Sharona",
+    "album": "Proof: The Very Best Of The Knack • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:25 pm",
-      "artist": "The Knack",
-      "title": "My Sharona"
-    },
     {
       "time": "4:30 pm",
       "artist": "Warren G",
@@ -26,9 +21,20 @@
       "time": "4:36 pm",
       "artist": "Sonic Youth",
       "title": "Incinerate"
+    },
+    {
+      "time": "4:41 pm",
+      "artist": "The Beatles",
+      "title": "I Wanna Be Your Man"
     }
   ],
   "recent": [
+    {
+      "time": "4:25 pm",
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "album": "Proof: The Very Best Of The Knack • 1979"
+    },
     {
       "time": "4:23 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Hootie & The Blowfish",
       "title": "I Go Blind",
       "album": "Single • 1996"
-    },
-    {
-      "time": "2:55 pm",
-      "artist": "Tyler, the Creator",
-      "title": "IGOR'S THEME",
-      "album": "IGOR • 2019"
     }
   ]
 }
