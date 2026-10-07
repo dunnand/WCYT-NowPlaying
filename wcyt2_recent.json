@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T21:10:44",
+  "updatedAt": "2026-10-06T21:11:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Say Yes! to M!ch!gan!",
+    "album": "Michigan • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Say Yes! to M!ch!gan!"
-    },
     {
       "time": "9:13 pm",
       "artist": "Super Furry Animals",
@@ -26,9 +21,20 @@
       "time": "9:20 pm",
       "artist": "Portishead",
       "title": "Sour Times"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Mary Jane's Last Dance"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Say Yes! to M!ch!gan!",
+      "album": "Michigan • 2003"
+    },
     {
       "time": "9:07 pm",
       "artist": "Shontelle",
@@ -172,12 +178,6 @@
       "artist": "The Clash",
       "title": "Rock the Casbah",
       "album": "Combat Rock • 1982"
-    },
-    {
-      "time": "7:35 pm",
-      "artist": "David Bowie",
-      "title": "Let's Dance",
-      "album": "Lets Dance • 1983"
     }
   ]
 }
