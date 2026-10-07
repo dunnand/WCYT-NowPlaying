@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T21:40:12",
+  "updatedAt": "2026-10-06T21:40:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Don McLean",
+    "title": "American Pie",
+    "album": "American Pie • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:40 pm",
-      "artist": "Don McLean",
-      "title": "American Pie"
-    },
     {
       "time": "9:48 pm",
       "artist": "The Doors",
@@ -26,9 +21,20 @@
       "time": "9:54 pm",
       "artist": "The Tammys",
       "title": "Egyptian Shumba"
+    },
+    {
+      "time": "9:56 pm",
+      "artist": "Earth, Wind & Fire",
+      "title": "Boogie Wonderland feat. The Emotions"
     }
   ],
   "recent": [
+    {
+      "time": "9:40 pm",
+      "artist": "Don McLean",
+      "title": "American Pie",
+      "album": "American Pie • 1971"
+    },
     {
       "time": "9:34 pm",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Ray Price",
       "title": "Crazy Arms",
       "album": "single • 1956"
-    },
-    {
-      "time": "8:04 pm",
-      "artist": "Wipers",
-      "title": "When It's Over",
-      "album": "Youth Of America • 1990"
     }
   ]
 }
