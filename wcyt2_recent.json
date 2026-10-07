@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T05:58:28",
+  "updatedAt": "2026-10-07T05:59:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "William Onyeabor",
+    "title": "Good Name",
+    "album": "Good Name • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:58 am",
-      "artist": "William Onyeabor",
-      "title": "Good Name"
-    },
     {
       "time": "6:08 am",
       "artist": "Peter Gabriel",
@@ -26,9 +21,20 @@
       "time": "6:17 am",
       "artist": "Journey",
       "title": "Lights"
+    },
+    {
+      "time": "6:20 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Jamming"
     }
   ],
   "recent": [
+    {
+      "time": "5:59 am",
+      "artist": "William Onyeabor",
+      "title": "Good Name",
+      "album": "Good Name • 1983"
+    },
     {
       "time": "5:54 am",
       "artist": "R.E.M.",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Everyone Hides",
       "album": "Ode to Joy • 2019"
-    },
-    {
-      "time": "4:25 am",
-      "artist": "Sufjan Stevens",
-      "title": "Casimir Pulaski Day",
-      "album": "Illinois • 2005"
     }
   ]
 }
