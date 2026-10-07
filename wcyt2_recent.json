@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T12:08:46",
+  "updatedAt": "2026-10-07T12:08:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "A Little Less Conversation",
+    "album": "Almost in Love • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 pm",
-      "artist": "Elvis Presley",
-      "title": "A Little Less Conversation"
-    },
     {
       "time": "12:10 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "12:27 pm",
       "artist": "The Beatles",
       "title": "In My Life"
+    },
+    {
+      "time": "12:30 pm",
+      "artist": "John Lennon",
+      "title": "Isolation"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 pm",
+      "artist": "Elvis Presley",
+      "title": "A Little Less Conversation",
+      "album": "Almost in Love • 1970"
+    },
     {
       "time": "12:04 pm",
       "artist": "H.E.R.",
@@ -172,12 +178,6 @@
       "artist": "Slowdive",
       "title": "Star Roving",
       "album": "Slowdive • 2017"
-    },
-    {
-      "time": "10:21 am",
-      "artist": "Mazzy Star",
-      "title": "Look on Down From the Bridge",
-      "album": "Among My Swan • 1996"
     }
   ]
 }
