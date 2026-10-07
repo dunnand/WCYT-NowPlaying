@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T02:26:39",
+  "updatedAt": "2026-10-07T02:26:51",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Blur",
+    "title": "Beetlebum",
+    "album": "Blur • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:26 am",
-      "artist": "Blur",
-      "title": "Beetlebum"
-    },
     {
       "time": "2:31 am",
       "artist": "Jack White",
@@ -26,9 +21,20 @@
       "time": "2:36 am",
       "artist": "Fiona Apple",
       "title": "Limp"
+    },
+    {
+      "time": "2:40 am",
+      "artist": "Sufjan Stevens",
+      "title": "Sugar"
     }
   ],
   "recent": [
+    {
+      "time": "2:26 am",
+      "artist": "Blur",
+      "title": "Beetlebum",
+      "album": "Blur • 1997"
+    },
     {
       "time": "2:23 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Samia",
       "title": "North Poles",
       "album": "Bloodless • 2025"
-    },
-    {
-      "time": "12:51 am",
-      "artist": "Swapmeet",
-      "title": "Bonny",
-      "album": "Mount Zero • 2026"
     }
   ]
 }
