@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T21:17:27",
+  "updatedAt": "2026-10-06T21:20:10",
   "now": {
-    "artist": "Wilco",
-    "title": "More...",
-    "album": "Star Wars • 2015",
+    "artist": "Portishead",
+    "title": "Sour Times",
+    "album": "Dummy • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 pm",
-      "artist": "Portishead",
-      "title": "Sour Times"
-    },
     {
       "time": "9:24 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "9:32 pm",
       "artist": "Bruce Springsteen",
       "title": "I'm On Fire"
+    },
+    {
+      "time": "9:34 pm",
+      "artist": "Grimes",
+      "title": "We Appreciate Power (feat. Hana)"
     }
   ],
   "recent": [
+    {
+      "time": "9:20 pm",
+      "artist": "Portishead",
+      "title": "Sour Times",
+      "album": "Dummy • 1994"
+    },
     {
       "time": "9:17 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Cher",
       "title": "Half-Breed",
       "album": "Half-Breed • 1973"
-    },
-    {
-      "time": "7:47 pm",
-      "artist": "Cheap Trick",
-      "title": "I Want You to Want Me",
-      "album": "In Color • 1977"
     }
   ]
 }
