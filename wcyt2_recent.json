@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-06T22:46:20",
+  "updatedAt": "2026-10-06T22:49:14",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Really Got A Hold On Me",
-    "album": "With the Beatles • 1963",
+    "artist": "Freda Payne",
+    "title": "Band Of Gold",
+    "album": "Band of Gold • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:49 pm",
+      "time": "10:52 pm",
+      "artist": "The Beatles",
+      "title": "You Really Got A Hold On Me"
+    },
+    {
+      "time": "10:54 pm",
       "artist": "Freda Payne",
       "title": "Band Of Gold"
     }
   ],
   "recent": [
+    {
+      "time": "10:49 pm",
+      "artist": "Freda Payne",
+      "title": "Band Of Gold",
+      "album": "Band of Gold • 1970"
+    },
     {
       "time": "10:46 pm",
       "artist": "The Beatles",
@@ -157,12 +168,6 @@
       "artist": "Portishead",
       "title": "Sour Times",
       "album": "Dummy • 1994"
-    },
-    {
-      "time": "9:17 pm",
-      "artist": "Wilco",
-      "title": "More...",
-      "album": "Star Wars • 2015"
     }
   ]
 }
