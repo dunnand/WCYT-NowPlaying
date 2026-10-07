@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T18:44:57",
+  "updatedAt": "2026-10-07T18:45:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Green Day",
+    "title": "Chump",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:45 pm",
-      "artist": "Green Day",
-      "title": "Chump"
-    },
     {
       "time": "6:47 pm",
       "artist": "The Church",
@@ -26,9 +21,20 @@
       "time": "6:58 pm",
       "artist": "Deftones",
       "title": "Genesis"
+    },
+    {
+      "time": "7:03 pm",
+      "artist": "The Strokes",
+      "title": "Someday."
     }
   ],
   "recent": [
+    {
+      "time": "6:45 pm",
+      "artist": "Green Day",
+      "title": "Chump",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "6:39 pm",
       "artist": "Tori Amos",
@@ -172,12 +178,6 @@
       "artist": "Jennifer Lopez",
       "title": "Love Don't Cost A Thing",
       "album": "J.Lo • 2001"
-    },
-    {
-      "time": "5:07 pm",
-      "artist": "Jimmy Buffett",
-      "title": "Margaritaville",
-      "album": "Changes in Latitudes, Changes in Attitudes • 1977"
     }
   ]
 }
