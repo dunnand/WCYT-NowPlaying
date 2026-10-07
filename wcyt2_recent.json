@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T03:28:18",
+  "updatedAt": "2026-10-07T03:31:01",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Saw Her Standing There",
-    "album": "Please Please Me • 1963",
+    "artist": "Gladys Knight & The Pips",
+    "title": "Midnight Train to Georgia",
+    "album": "Imagination • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:31 am",
-      "artist": "Gladys Knight & The Pips",
-      "title": "Midnight Train to Georgia"
-    },
     {
       "time": "3:35 am",
       "artist": "The Sugarcubes",
@@ -23,12 +18,23 @@
       "title": "Lonely Teardrops"
     },
     {
-      "time": "3:42 am",
+      "time": "3:41 am",
       "artist": "Snow Patrol",
       "title": "Run"
+    },
+    {
+      "time": "3:48 am",
+      "artist": "The Beatles",
+      "title": "Don't Bother Me"
     }
   ],
   "recent": [
+    {
+      "time": "3:31 am",
+      "artist": "Gladys Knight & The Pips",
+      "title": "Midnight Train to Georgia",
+      "album": "Imagination • 1973"
+    },
     {
       "time": "3:28 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Pictures of Me",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "1:59 am",
-      "artist": "Olly Murs",
-      "title": "Troublemaker",
-      "album": "Right Place Right Time • 2012"
     }
   ]
 }
