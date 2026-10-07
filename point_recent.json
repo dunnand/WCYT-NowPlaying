@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T16:54:46",
+  "updatedAt": "2026-10-07T16:54:58",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sufjan Stevens",
+    "title": "Jacksonville",
+    "album": "Illinois • 2005",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:54 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Jacksonville"
-    },
     {
       "time": "5:00 pm",
       "artist": "CHVRCHES",
@@ -21,9 +16,20 @@
       "time": "5:03 pm",
       "artist": "Ty Segall",
       "title": "Glass"
+    },
+    {
+      "time": "5:08 pm",
+      "artist": "Iron & Wine",
+      "title": "Waves Of Galveston"
     }
   ],
   "recent": [
+    {
+      "time": "4:54 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Jacksonville",
+      "album": "Illinois • 2005"
+    },
     {
       "time": "4:52 pm",
       "artist": "Julia Jacklin",
@@ -167,12 +173,6 @@
       "artist": "Way Dynamic",
       "title": "Miffed It",
       "album": "Massive Shoe • 2026"
-    },
-    {
-      "time": "2:43 pm",
-      "artist": "Tame Impala",
-      "title": "Dracula",
-      "album": "Deadbeat • 2025"
     }
   ]
 }
