@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T22:07:18",
+  "updatedAt": "2026-10-06T22:10:52",
   "now": {
-    "artist": "Yeah Yeah Yeahs",
-    "title": "Rich",
-    "album": "Fever To Tell • 2003",
-    "category": "TUNES"
+    "artist": "Rage Against the Machine",
+    "title": "Renegades of Funk",
+    "album": "Renegades • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "Rage Against the Machine",
-      "title": "Renegades of Funk"
-    },
     {
       "time": "10:15 pm",
       "artist": "will.i.am",
@@ -26,9 +21,20 @@
       "time": "10:23 pm",
       "artist": "A Tribe Called Quest",
       "title": "Award Tour"
+    },
+    {
+      "time": "10:26 pm",
+      "artist": "Madonna",
+      "title": "Borderline"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "Rage Against the Machine",
+      "title": "Renegades of Funk",
+      "album": "Renegades • 2000"
+    },
     {
       "time": "10:07 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -172,12 +178,6 @@
       "artist": "Koji Kondo",
       "title": "Super Mario Sunshine (Staff Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "8:38 pm",
-      "artist": "Queen Latifah",
-      "title": "Ladies First",
-      "album": "All Hail the Queen • 1989"
     }
   ]
 }
