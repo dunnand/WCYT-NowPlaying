@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T17:35:45",
+  "updatedAt": "2026-10-07T17:35:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I'm Only Sleeping",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 pm",
-      "artist": "The Beatles",
-      "title": "I'm Only Sleeping"
-    },
     {
       "time": "5:38 pm",
       "artist": "Taio Cruz",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:35 pm",
+      "artist": "The Beatles",
+      "title": "I'm Only Sleeping",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "5:33 pm",
       "artist": "Spoon",
@@ -172,12 +173,6 @@
       "artist": "James Brown",
       "title": "We Got To Change",
       "album": "Single • 2024"
-    },
-    {
-      "time": "4:04 pm",
-      "artist": "Madonna",
-      "title": "Express Yourself",
-      "album": "Like a Prayer • 1989"
     }
   ]
 }
