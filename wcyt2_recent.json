@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T18:32:27",
+  "updatedAt": "2026-10-07T18:34:44",
   "now": {
-    "artist": "The Beatles",
-    "title": "Don't Bother Me",
-    "album": "With the Beatles • 1963",
+    "artist": "Radiohead",
+    "title": "Bloom",
+    "album": "The King of Limbs • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:34 pm",
-      "artist": "Radiohead",
-      "title": "Bloom"
-    },
     {
       "time": "6:39 pm",
       "artist": "Tori Amos",
@@ -23,12 +18,18 @@
       "title": "Chump"
     },
     {
-      "time": "6:48 pm",
+      "time": "6:47 pm",
       "artist": "The Church",
       "title": "Under the Milky Way"
     }
   ],
   "recent": [
+    {
+      "time": "6:34 pm",
+      "artist": "Radiohead",
+      "title": "Bloom",
+      "album": "The King of Limbs • 2011"
+    },
     {
       "time": "6:32 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "The Shins",
       "title": "Turn a Square",
       "album": "Chutes Too Narrow • 2003"
-    },
-    {
-      "time": "5:00 pm",
-      "artist": "Kacey Musgraves",
-      "title": "Jade Green",
-      "album": "Deeper Well • 2024"
     }
   ]
 }
