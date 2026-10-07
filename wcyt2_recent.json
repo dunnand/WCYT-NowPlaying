@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T07:02:04",
+  "updatedAt": "2026-10-07T07:02:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Prince and The Revolution",
+    "title": "Raspberry Beret",
+    "album": "Around the World in a Day • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 am",
-      "artist": "Prince and The Revolution",
-      "title": "Raspberry Beret"
-    },
     {
       "time": "7:05 am",
       "artist": "Deftones",
@@ -26,9 +21,20 @@
       "time": "7:17 am",
       "artist": "Eagles",
       "title": "New Kid In Town"
+    },
+    {
+      "time": "7:22 am",
+      "artist": "The Strokes",
+      "title": "Barely Legal."
     }
   ],
   "recent": [
+    {
+      "time": "7:02 am",
+      "artist": "Prince and The Revolution",
+      "title": "Raspberry Beret",
+      "album": "Around the World in a Day • 1985"
+    },
     {
       "time": "7:00 am",
       "artist": "Pixies",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Golden Years",
       "album": "Station to Station • 1976"
-    },
-    {
-      "time": "5:25 am",
-      "artist": "The Beatles",
-      "title": "Good Morning Good Morning",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
     }
   ]
 }
