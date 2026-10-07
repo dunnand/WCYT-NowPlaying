@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T00:47:00",
+  "updatedAt": "2026-10-07T00:49:33",
   "now": {
-    "artist": "Townes Van Zandt",
-    "title": "Waiting Around to Die",
-    "album": "Townes Van Zandt • 1969",
+    "artist": "Mungo Jerry",
+    "title": "In the Summertime",
+    "album": "In the Summertime • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "Mungo Jerry",
-      "title": "In the Summertime"
-    },
     {
       "time": "12:52 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "12:59 am",
       "artist": "The Shins",
       "title": "Know Your Onion!"
+    },
+    {
+      "time": "1:02 am",
+      "artist": "Vampire Weekend",
+      "title": "M79"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "Mungo Jerry",
+      "title": "In the Summertime",
+      "album": "In the Summertime • 1970"
+    },
     {
       "time": "12:47 am",
       "artist": "Townes Van Zandt",
@@ -172,12 +178,6 @@
       "artist": "Sophie B. Hawkins",
       "title": "As I Lay Me Down",
       "album": "Whaler • 1995"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "will.i.am",
-      "title": "#thatPOWER",
-      "album": "#willpower • 2013"
     }
   ]
 }
