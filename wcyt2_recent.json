@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T12:08:58",
+  "updatedAt": "2026-10-07T12:10:31",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "A Little Less Conversation",
-    "album": "Almost in Love • 1970",
+    "artist": "The Beatles",
+    "title": "Piggies",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 pm",
-      "artist": "The Beatles",
-      "title": "Piggies"
-    },
     {
       "time": "12:12 pm",
       "artist": "Funkadelic",
@@ -26,9 +21,20 @@
       "time": "12:30 pm",
       "artist": "John Lennon",
       "title": "Isolation"
+    },
+    {
+      "time": "12:33 pm",
+      "artist": "Pavement",
+      "title": "Date With IKEA"
     }
   ],
   "recent": [
+    {
+      "time": "12:10 pm",
+      "artist": "The Beatles",
+      "title": "Piggies",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:08 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Richard Thompson",
       "title": "Dad's Gonna Kill Me",
       "album": "Sweet Warrior • 2007"
-    },
-    {
-      "time": "10:26 am",
-      "artist": "Slowdive",
-      "title": "Star Roving",
-      "album": "Slowdive • 2017"
     }
   ]
 }
