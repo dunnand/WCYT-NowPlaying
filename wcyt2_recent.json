@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T11:21:13",
+  "updatedAt": "2026-10-07T11:24:58",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Woodstock",
-    "album": "Dj Vu • 1970",
+    "artist": "Sheryl Crow",
+    "title": "A Change Would Do You Good",
+    "album": "Tuesday Night Music Club • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:24 am",
-      "artist": "Sheryl Crow",
-      "title": "A Change Would Do You Good"
-    },
     {
       "time": "11:28 am",
       "artist": "Thom Yorke",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:24 am",
+      "artist": "Sheryl Crow",
+      "title": "A Change Would Do You Good",
+      "album": "Tuesday Night Music Club • 1997"
+    },
     {
       "time": "11:21 am",
       "artist": "Crosby, Stills, Nash & Young",
@@ -172,12 +173,6 @@
       "artist": "Janet Jackson",
       "title": "What's Gonna Be",
       "album": "Extinction Level Event: The Final World Front • 1998"
-    },
-    {
-      "time": "9:45 am",
-      "artist": "Depeche Mode",
-      "title": "Walking in My Shoes",
-      "album": "Songs of Faith and Devotion • 1993"
     }
   ]
 }
