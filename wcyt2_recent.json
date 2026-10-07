@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T15:54:32",
+  "updatedAt": "2026-10-07T15:56:27",
   "now": {
-    "artist": "They Might Be Giants",
-    "title": "Particle Man",
-    "album": "Flood • 1990",
+    "artist": "Tom Petty",
+    "title": "You Don't Know How It Feels",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:56 pm",
-      "artist": "Tom Petty",
-      "title": "You Don't Know How It Feels"
-    },
     {
       "time": "4:00 pm",
       "artist": "The Cult",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:56 pm",
+      "artist": "Tom Petty",
+      "title": "You Don't Know How It Feels",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "3:54 pm",
       "artist": "They Might Be Giants",
@@ -172,12 +173,6 @@
       "artist": "Backstreet Boys",
       "title": "Everybody (Backstreet's Back)",
       "album": "Backstreet's Back • 1997"
-    },
-    {
-      "time": "2:27 pm",
-      "artist": "*NSYNC",
-      "title": "Bye Bye Bye",
-      "album": "No Strings Attached • 2000"
     }
   ]
 }
