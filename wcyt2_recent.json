@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T00:32:06",
+  "updatedAt": "2026-10-07T00:35:23",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Help Me",
-    "album": "Court and Spark • 1974",
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 am",
-      "artist": "Pink Floyd",
-      "title": "Time"
-    },
     {
       "time": "12:42 am",
       "artist": "TV on the Radio",
@@ -26,9 +21,20 @@
       "time": "12:49 am",
       "artist": "Mungo Jerry",
       "title": "In the Summertime"
+    },
+    {
+      "time": "12:53 am",
+      "artist": "Rod Stewart",
+      "title": "Ooh La La"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 am",
+      "artist": "Pink Floyd",
+      "title": "Time",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "12:32 am",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Rich",
       "album": "Fever To Tell • 2003"
-    },
-    {
-      "time": "10:04 pm",
-      "artist": "Vampire Weekend",
-      "title": "White Sky",
-      "album": "Contra • 2010"
     }
   ]
 }
