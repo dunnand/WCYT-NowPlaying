@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-06T19:57:42",
+  "updatedAt": "2026-10-06T20:00:26",
   "now": {
-    "artist": "The Beatles",
-    "title": "Octopus's Garden",
-    "album": "Abbey Road • 1969",
+    "artist": "Christopher Cross",
+    "title": "Sailing",
+    "album": "Christopher Cross • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "Christopher Cross",
-      "title": "Sailing"
-    },
     {
       "time": "8:04 pm",
       "artist": "Wipers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "Christopher Cross",
+      "title": "Sailing",
+      "album": "Christopher Cross • 1979"
+    },
     {
       "time": "7:57 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Soundgarden",
       "title": "Spoonman",
       "album": "Superunknown • 1994"
-    },
-    {
-      "time": "6:24 pm",
-      "artist": "Grimes",
-      "title": "Violence",
-      "album": "Miss Anthropocene • 2019"
     }
   ]
 }
