@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T15:16:05",
+  "updatedAt": "2026-10-07T15:16:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Help Me",
+    "album": "Court and Spark • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:16 pm",
-      "artist": "Joni Mitchell",
-      "title": "Help Me"
-    },
     {
       "time": "3:19 pm",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "3:31 pm",
       "artist": "Townes Van Zandt",
       "title": "Waiting Around to Die"
+    },
+    {
+      "time": "3:34 pm",
+      "artist": "Mungo Jerry",
+      "title": "In the Summertime"
     }
   ],
   "recent": [
+    {
+      "time": "3:16 pm",
+      "artist": "Joni Mitchell",
+      "title": "Help Me",
+      "album": "Court and Spark • 1974"
+    },
     {
       "time": "3:13 pm",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Khruangbin & Leon Bridges",
       "title": "Texas Sun",
       "album": "Texas Sun • 2020"
-    },
-    {
-      "time": "1:56 pm",
-      "artist": "Rush",
-      "title": "Freewill",
-      "album": "Permanent Waves • 1980"
     }
   ]
 }
