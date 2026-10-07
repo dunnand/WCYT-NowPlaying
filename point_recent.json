@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T08:21:08",
+  "updatedAt": "2026-10-07T08:21:28",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Elliott Smith",
+    "title": "Son of Sam",
+    "album": "Figure 8 • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:21 am",
-      "artist": "Elliott Smith",
-      "title": "Son of Sam"
-    },
     {
       "time": "8:24 am",
       "artist": "Lucid Express",
@@ -26,9 +21,20 @@
       "time": "8:32 am",
       "artist": "Siouxsie and the Banshees",
       "title": "Peek-a-boo"
+    },
+    {
+      "time": "8:35 am",
+      "artist": "Spoon",
+      "title": "Rent I Pay"
     }
   ],
   "recent": [
+    {
+      "time": "8:21 am",
+      "artist": "Elliott Smith",
+      "title": "Son of Sam",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "8:17 am",
       "artist": "The Mountain Goats",
@@ -172,12 +178,6 @@
       "artist": "Wishy",
       "title": "Mona Lisa",
       "album": "Nature's Pill • 2026"
-    },
-    {
-      "time": "6:47 am",
-      "artist": "Kiwi Jr",
-      "title": "Painting After Painting",
-      "album": "Blowin Up • 2026"
     }
   ]
 }
