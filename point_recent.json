@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T02:40:22",
+  "updatedAt": "2026-10-07T02:40:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sufjan Stevens",
+    "title": "Sugar",
+    "album": "The Ascension • 2020",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 am",
-      "artist": "Sufjan Stevens",
-      "title": "Sugar"
-    },
     {
       "time": "2:44 am",
       "artist": "Babe Rainbow",
@@ -21,9 +16,20 @@
       "time": "2:47 am",
       "artist": "Ebbb",
       "title": "Come Alive"
+    },
+    {
+      "time": "2:50 am",
+      "artist": "Grizzly Bear",
+      "title": "Ready, Able"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 am",
+      "artist": "Sufjan Stevens",
+      "title": "Sugar",
+      "album": "The Ascension • 2020"
+    },
     {
       "time": "2:36 am",
       "artist": "Fiona Apple",
@@ -167,12 +173,6 @@
       "artist": "Deep Sea Diver",
       "title": "What Do I Know",
       "album": "Billboard Heart • 2025"
-    },
-    {
-      "time": "1:07 am",
-      "artist": "Yves Jarvis",
-      "title": "Bootstrap Jubilee",
-      "album": "The Zug • 2022"
     }
   ]
 }
