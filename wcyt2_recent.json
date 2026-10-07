@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T15:16:39",
+  "updatedAt": "2026-10-07T15:19:56",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Help Me",
-    "album": "Court and Spark • 1974",
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:19 pm",
-      "artist": "Pink Floyd",
-      "title": "Time"
-    },
     {
       "time": "3:27 pm",
       "artist": "TV on the Radio",
@@ -26,9 +21,20 @@
       "time": "3:34 pm",
       "artist": "Mungo Jerry",
       "title": "In the Summertime"
+    },
+    {
+      "time": "3:37 pm",
+      "artist": "Rod Stewart",
+      "title": "Ooh La La"
     }
   ],
   "recent": [
+    {
+      "time": "3:19 pm",
+      "artist": "Pink Floyd",
+      "title": "Time",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "3:16 pm",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "The Halo Benders",
       "title": "Your Asterisk",
       "album": "The Rebels Not In • 1998"
-    },
-    {
-      "time": "2:01 pm",
-      "artist": "Khruangbin & Leon Bridges",
-      "title": "Texas Sun",
-      "album": "Texas Sun • 2020"
     }
   ]
 }
