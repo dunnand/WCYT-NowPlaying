@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T04:04:20",
+  "updatedAt": "2026-10-07T04:04:42",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
+    "artist": "Beck",
+    "title": "Ride Lonesome",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:04 am",
-      "artist": "Beck",
-      "title": "Ride Lonesome"
-    },
     {
       "time": "4:09 am",
       "artist": "Unknown Mortal Orchestra",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:04 am",
+      "artist": "Beck",
+      "title": "Ride Lonesome",
+      "album": ""
+    },
     {
       "time": "4:00 am",
       "artist": "Sea Lemon",
@@ -177,12 +178,6 @@
       "artist": "Mac DeMarco",
       "title": "This Old Dog",
       "album": "This Old Dog • 2017"
-    },
-    {
-      "time": "2:31 am",
-      "artist": "Jack White",
-      "title": "Dollar Bill",
-      "album": "Frozen Charlotte • 2026"
     }
   ]
 }
