@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T09:30:10",
+  "updatedAt": "2026-10-07T09:30:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fats Domino",
+    "title": "Blueberry Hill",
+    "album": "This Is Fats Domino! • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "Fats Domino",
-      "title": "Blueberry Hill"
-    },
     {
       "time": "9:32 am",
       "artist": "TV on the Radio",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "Fats Domino",
+      "title": "Blueberry Hill",
+      "album": "This Is Fats Domino! • 1956"
+    },
     {
       "time": "9:26 am",
       "artist": "De La Soul",
@@ -172,12 +173,6 @@
       "artist": "Queen",
       "title": "Who Wants to Live Forever",
       "album": "A Kind of Magic • 1986"
-    },
-    {
-      "time": "7:52 am",
-      "artist": "Alanis Morissette",
-      "title": "You Learn",
-      "album": "Jagged Little Pill • 1996"
     }
   ]
 }
