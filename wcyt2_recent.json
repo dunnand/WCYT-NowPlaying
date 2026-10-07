@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T01:34:13",
+  "updatedAt": "2026-10-07T01:38:29",
   "now": {
-    "artist": "Queen",
-    "title": "A Kind of Magic",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Here, There & Everywhere",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:38 am",
-      "artist": "The Beatles",
-      "title": "Here, There & Everywhere"
-    },
     {
       "time": "1:40 am",
       "artist": "The Knack",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:38 am",
+      "artist": "The Beatles",
+      "title": "Here, There & Everywhere",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "1:34 am",
       "artist": "Queen",
@@ -177,12 +178,6 @@
       "artist": "Leon Bridges",
       "title": "Smooth Sailin'",
       "album": "Coming Home • 2015"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "The Beatles",
-      "title": "Don't Pass Me By",
-      "album": "The Beatles • 1968"
     }
   ]
 }
