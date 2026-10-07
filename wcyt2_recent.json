@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T05:28:11",
+  "updatedAt": "2026-10-07T05:32:06",
   "now": {
-    "artist": "David Bowie",
-    "title": "Golden Years",
-    "album": "Station to Station • 1976",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Nowhere Near",
+    "album": "Painful • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:32 am",
-      "artist": "Yo La Tengo",
-      "title": "Nowhere Near"
-    },
     {
       "time": "5:38 am",
       "artist": "John Lee Hooker",
@@ -21,9 +16,20 @@
       "time": "5:40 am",
       "artist": "Sufjan Stevens",
       "title": "Flint (For the Unemployed and Underpaid)"
+    },
+    {
+      "time": "5:44 am",
+      "artist": "The Troggs",
+      "title": "Wild Thing"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 am",
+      "artist": "Yo La Tengo",
+      "title": "Nowhere Near",
+      "album": "Painful • 1993"
+    },
     {
       "time": "5:28 am",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Green Day",
       "title": "Chump",
       "album": "Dookie • 1994"
-    },
-    {
-      "time": "3:55 am",
-      "artist": "Tori Amos",
-      "title": "Cornflake Girl",
-      "album": "Under the Pink • 1994"
     }
   ]
 }
