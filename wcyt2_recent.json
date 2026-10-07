@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T03:24:54",
+  "updatedAt": "2026-10-07T03:28:18",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Staring at the Sun",
-    "album": "Young Liars • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "I Saw Her Standing There",
+    "album": "Please Please Me • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:28 am",
-      "artist": "The Beatles",
-      "title": "I Saw Her Standing There"
-    },
     {
       "time": "3:31 am",
       "artist": "Gladys Knight & The Pips",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:28 am",
+      "artist": "The Beatles",
+      "title": "I Saw Her Standing There",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "3:24 am",
       "artist": "TV on the Radio",
@@ -177,12 +178,6 @@
       "artist": "Olly Murs",
       "title": "Troublemaker",
       "album": "Right Place Right Time • 2012"
-    },
-    {
-      "time": "1:57 am",
-      "artist": "The Beatles",
-      "title": "I Wanna Be Your Man",
-      "album": "With the Beatles • 1963"
     }
   ]
 }
