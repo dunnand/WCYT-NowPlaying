@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T14:11:22",
+  "updatedAt": "2026-10-07T14:11:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Don't Pass Me By",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:11 pm",
-      "artist": "The Beatles",
-      "title": "Don't Pass Me By"
-    },
     {
       "time": "2:15 pm",
       "artist": "Leon Bridges",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:11 pm",
+      "artist": "The Beatles",
+      "title": "Don't Pass Me By",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "2:10 pm",
       "artist": "Bon Jovi",
@@ -172,12 +173,6 @@
       "artist": "Thundercat",
       "title": "Them Changes",
       "album": "Drunk • 2017"
-    },
-    {
-      "time": "12:44 pm",
-      "artist": "R.E.M.",
-      "title": "Supernatural Superserious",
-      "album": "Accelerate • 2008"
     }
   ]
 }
