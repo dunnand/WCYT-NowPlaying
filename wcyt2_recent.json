@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T16:04:48",
+  "updatedAt": "2026-10-07T16:09:13",
   "now": {
-    "artist": "Madonna",
-    "title": "Express Yourself",
-    "album": "Like a Prayer • 1989",
+    "artist": "James Brown",
+    "title": "We Got To Change",
+    "album": "Single • 2024",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 pm",
-      "artist": "James Brown",
-      "title": "We Got To Change"
-    },
     {
       "time": "4:13 pm",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "4:15 pm",
       "artist": "The Beatles",
       "title": "Don't Want To Spoil The Party"
+    },
+    {
+      "time": "4:18 pm",
+      "artist": "Queen",
+      "title": "A Kind of Magic"
     }
   ],
   "recent": [
+    {
+      "time": "4:09 pm",
+      "artist": "James Brown",
+      "title": "We Got To Change",
+      "album": "Single • 2024"
+    },
     {
       "time": "4:04 pm",
       "artist": "Madonna",
@@ -167,12 +173,6 @@
       "artist": "Phil Collins",
       "title": "True Colors",
       "album": "...Hits • 1998"
-    },
-    {
-      "time": "2:37 pm",
-      "artist": "Linkin Park",
-      "title": "In The End",
-      "album": "Hybrid Theory • 2001"
     }
   ]
 }
