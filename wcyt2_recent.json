@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T00:33:15",
+  "updatedAt": "2026-10-08T00:33:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Help Me",
+    "album": "Court and Spark • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:33 am",
-      "artist": "Joni Mitchell",
-      "title": "Help Me"
-    },
     {
       "time": "12:37 am",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "12:48 am",
       "artist": "Townes Van Zandt",
       "title": "Waiting Around to Die"
+    },
+    {
+      "time": "12:51 am",
+      "artist": "Mungo Jerry",
+      "title": "In the Summertime"
     }
   ],
   "recent": [
+    {
+      "time": "12:33 am",
+      "artist": "Joni Mitchell",
+      "title": "Help Me",
+      "album": "Court and Spark • 1974"
+    },
     {
       "time": "12:30 am",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "The Velvet Underground",
       "title": "Femme Fatale",
       "album": "The Velvet Underground & Nico • 1967"
-    },
-    {
-      "time": "11:03 pm",
-      "artist": "Vampire Weekend",
-      "title": "Oxford Comma",
-      "album": "Vampire Weekend • 2008"
     }
   ]
 }
