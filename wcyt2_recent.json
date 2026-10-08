@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T08:22:51",
+  "updatedAt": "2026-10-08T08:26:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "Across The Universe",
-    "album": "Let It Be • 1970",
+    "artist": "Al Green",
+    "title": "Take Me to the River",
+    "album": "Explores Your Mind • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:26 am",
-      "artist": "Al Green",
-      "title": "Take Me to the River"
-    },
     {
       "time": "8:30 am",
       "artist": "Vampire Weekend",
@@ -23,12 +18,23 @@
       "title": "Femme Fatale"
     },
     {
-      "time": "8:36 am",
+      "time": "8:35 am",
       "artist": "Billy Joel",
       "title": "Only The Good Die Young"
+    },
+    {
+      "time": "8:39 am",
+      "artist": "Beastie Boys",
+      "title": "Gratitude"
     }
   ],
   "recent": [
+    {
+      "time": "8:26 am",
+      "artist": "Al Green",
+      "title": "Take Me to the River",
+      "album": "Explores Your Mind • 1974"
+    },
     {
       "time": "8:22 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "System of a Down",
       "title": "Aerials",
       "album": "Toxicity • 2001"
-    },
-    {
-      "time": "6:41 am",
-      "artist": "Buddy Holly",
-      "title": "Oh, Boy!",
-      "album": "The Chirping Crickets • 1957"
     }
   ]
 }
