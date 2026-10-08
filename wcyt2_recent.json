@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T00:33:45",
+  "updatedAt": "2026-10-08T00:37:12",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Help Me",
-    "album": "Court and Spark • 1974",
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:37 am",
-      "artist": "Pink Floyd",
-      "title": "Time"
-    },
     {
       "time": "12:44 am",
       "artist": "TV on the Radio",
@@ -26,9 +21,20 @@
       "time": "12:51 am",
       "artist": "Mungo Jerry",
       "title": "In the Summertime"
+    },
+    {
+      "time": "12:54 am",
+      "artist": "Rod Stewart",
+      "title": "Ooh La La"
     }
   ],
   "recent": [
+    {
+      "time": "12:37 am",
+      "artist": "Pink Floyd",
+      "title": "Time",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "12:33 am",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Billy Joel",
       "title": "Only The Good Die Young",
       "album": "The Stranger • 1978"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "The Velvet Underground",
-      "title": "Femme Fatale",
-      "album": "The Velvet Underground & Nico • 1967"
     }
   ]
 }
