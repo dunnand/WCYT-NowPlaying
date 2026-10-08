@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T04:10:04",
+  "updatedAt": "2026-10-08T04:10:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Eminence Front",
+    "album": "It's Hard • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:10 am",
-      "artist": "The Who",
-      "title": "Eminence Front"
-    },
     {
       "time": "4:15 am",
       "artist": "Deftones",
@@ -26,9 +21,20 @@
       "time": "4:24 am",
       "artist": "Fleetwood Mac",
       "title": "You Make Loving Fun"
+    },
+    {
+      "time": "4:27 am",
+      "artist": "Sufjan Stevens",
+      "title": "Casimir Pulaski Day"
     }
   ],
   "recent": [
+    {
+      "time": "4:10 am",
+      "artist": "The Who",
+      "title": "Eminence Front",
+      "album": "It's Hard • 1982"
+    },
     {
       "time": "4:05 am",
       "artist": "The Church",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "All My Love",
       "album": "In Through the Out Door • 1979"
-    },
-    {
-      "time": "2:32 am",
-      "artist": "Twenty One Pilots",
-      "title": "Holding On To You",
-      "album": "Regional at Best • 2011"
     }
   ]
 }
