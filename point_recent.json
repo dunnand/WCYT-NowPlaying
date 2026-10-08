@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T11:53:36",
+  "updatedAt": "2026-10-08T11:53:48",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Fugazi",
+    "title": "Repeater",
+    "album": "Repeater • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:53 am",
-      "artist": "Fugazi",
-      "title": "Repeater"
-    },
     {
       "time": "11:56 am",
       "artist": "Angel Olsen",
@@ -26,9 +21,20 @@
       "time": "12:06 pm",
       "artist": "T. Rex",
       "title": "Children of the Revolution"
+    },
+    {
+      "time": "12:11 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Tell Me You Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "11:53 am",
+      "artist": "Fugazi",
+      "title": "Repeater",
+      "album": "Repeater • 1990"
+    },
     {
       "time": "11:50 am",
       "artist": "Gilla Band",
@@ -172,12 +178,6 @@
       "artist": "Car Seat Headrest",
       "title": "Vincent",
       "album": "Teens of Denial • 2016"
-    },
-    {
-      "time": "9:48 am",
-      "artist": "The Antlers",
-      "title": "Director",
-      "album": "Familiars • 2014"
     }
   ]
 }
