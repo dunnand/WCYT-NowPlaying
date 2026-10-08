@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T19:27:28",
+  "updatedAt": "2026-10-08T19:30:23",
   "now": {
-    "artist": "Styx",
-    "title": "Lady",
-    "album": "Styx II • 1975",
+    "artist": "The Beatles",
+    "title": "Long Tall Sally",
+    "album": "Long Tall Sally EP • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 pm",
-      "artist": "The Beatles",
-      "title": "Long Tall Sally"
-    },
     {
       "time": "7:32 pm",
       "artist": "Talking Heads",
@@ -26,9 +21,20 @@
       "time": "7:38 pm",
       "artist": "The Doors",
       "title": "Riders on the Storm"
+    },
+    {
+      "time": "7:45 pm",
+      "artist": "The Flaming Lips",
+      "title": "Buggin'"
     }
   ],
   "recent": [
+    {
+      "time": "7:30 pm",
+      "artist": "The Beatles",
+      "title": "Long Tall Sally",
+      "album": "Long Tall Sally EP • 1964"
+    },
     {
       "time": "7:27 pm",
       "artist": "Styx",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Satellite",
       "album": "Young Liars • 2003"
-    },
-    {
-      "time": "5:58 pm",
-      "artist": "Doris Day",
-      "title": "Whatever Will Be Will Be (Que Sera, Sera)",
-      "album": "single • 1956"
     }
   ]
 }
