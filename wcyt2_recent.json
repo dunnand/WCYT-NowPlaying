@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T20:22:41",
+  "updatedAt": "2026-10-07T20:22:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Lee Hooker",
+    "title": "I'm in the Mood",
+    "album": "single • 1951",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:22 pm",
-      "artist": "John Lee Hooker",
-      "title": "I'm in the Mood"
-    },
     {
       "time": "8:25 pm",
       "artist": "Sufjan Stevens",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:22 pm",
+      "artist": "John Lee Hooker",
+      "title": "I'm in the Mood",
+      "album": "single • 1951"
+    },
     {
       "time": "8:16 pm",
       "artist": "Yo La Tengo",
@@ -172,12 +173,6 @@
       "artist": "The Church",
       "title": "Under the Milky Way",
       "album": "Under the Milky Way • 1988"
-    },
-    {
-      "time": "6:45 pm",
-      "artist": "Green Day",
-      "title": "Chump",
-      "album": "Dookie • 1994"
     }
   ]
 }
