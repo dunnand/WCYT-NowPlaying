@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T03:49:31",
+  "updatedAt": "2026-10-08T03:49:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Don't Bother Me",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "The Beatles",
-      "title": "Don't Bother Me"
-    },
     {
       "time": "3:51 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:02 am",
       "artist": "Green Day",
       "title": "Chump"
+    },
+    {
+      "time": "4:05 am",
+      "artist": "The Church",
+      "title": "Under the Milky Way"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "The Beatles",
+      "title": "Don't Bother Me",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "3:43 am",
       "artist": "Snow Patrol",
@@ -172,12 +178,6 @@
       "artist": "Kacey Musgraves",
       "title": "Jade Green",
       "album": "Deeper Well • 2024"
-    },
-    {
-      "time": "2:14 am",
-      "artist": "The Kinks",
-      "title": "Living on a Thin Line",
-      "album": "Word of Mouth • 1984"
     }
   ]
 }
