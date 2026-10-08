@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T20:12:33",
+  "updatedAt": "2026-10-07T20:12:45",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Cheekface",
+    "title": "Black Site",
+    "album": "Podium • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:12 pm",
-      "artist": "Cheekface",
-      "title": "Black Site"
-    },
     {
       "time": "8:15 pm",
       "artist": "Rahill",
@@ -21,9 +16,20 @@
       "time": "8:20 pm",
       "artist": "Runnner",
       "title": "Coinstar"
+    },
+    {
+      "time": "8:24 pm",
+      "artist": "Beach House",
+      "title": "April Suzanne (Cover Version)"
     }
   ],
   "recent": [
+    {
+      "time": "8:12 pm",
+      "artist": "Cheekface",
+      "title": "Black Site",
+      "album": "Podium • 2026"
+    },
     {
       "time": "8:08 pm",
       "artist": "R.E.M.",
@@ -167,12 +173,6 @@
       "artist": "Sweeping Promises",
       "title": "Accent",
       "album": "You Say I Romanticize • 2026"
-    },
-    {
-      "time": "6:32 pm",
-      "artist": "Blur",
-      "title": "Song 2",
-      "album": "Blur • 1997"
     }
   ]
 }
