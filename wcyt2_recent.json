@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T23:03:35",
+  "updatedAt": "2026-10-07T23:03:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Oxford Comma",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:03 pm",
-      "artist": "Vampire Weekend",
-      "title": "Oxford Comma"
-    },
     {
       "time": "11:06 pm",
       "artist": "The Velvet Underground",
@@ -26,9 +21,20 @@
       "time": "11:13 pm",
       "artist": "Beastie Boys",
       "title": "Gratitude"
+    },
+    {
+      "time": "11:16 pm",
+      "artist": "Louis Armstrong",
+      "title": "A Kiss to Build a Dream On"
     }
   ],
   "recent": [
+    {
+      "time": "11:03 pm",
+      "artist": "Vampire Weekend",
+      "title": "Oxford Comma",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "10:59 pm",
       "artist": "Al Green",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Being For The Benefit Of Mr. Kite!",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "9:26 pm",
-      "artist": "System of a Down",
-      "title": "Aerials",
-      "album": "Toxicity • 2001"
     }
   ]
 }
