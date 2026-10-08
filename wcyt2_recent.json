@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T15:33:31",
+  "updatedAt": "2026-10-08T15:37:03",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Lady d'Arbanville",
-    "album": "Mona Bone Jakon • 1970",
+    "artist": "The Beatles",
+    "title": "Can't Buy Me Love",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:37 pm",
-      "artist": "The Beatles",
-      "title": "Can't Buy Me Love"
-    },
     {
       "time": "3:39 pm",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "3:46 pm",
       "artist": "Crosby, Stills, Nash & Young",
       "title": "Woodstock"
+    },
+    {
+      "time": "3:50 pm",
+      "artist": "Sheryl Crow",
+      "title": "A Change Would Do You Good"
     }
   ],
   "recent": [
+    {
+      "time": "3:37 pm",
+      "artist": "The Beatles",
+      "title": "Can't Buy Me Love",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "3:33 pm",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Olivia Newton-John",
       "title": "I Honestly Love You",
       "album": "Long Live Love • 1974"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "Them",
-      "title": "Gloria",
-      "album": "single • 1964"
     }
   ]
 }
