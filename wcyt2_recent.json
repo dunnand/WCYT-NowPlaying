@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T14:10:51",
+  "updatedAt": "2026-10-08T14:12:46",
   "now": {
-    "artist": "Doris Day",
-    "title": "Whatever Will Be Will Be (Que Sera, Sera)",
-    "album": "single • 1956",
-    "category": "AUDIO"
+    "artist": "TV on the Radio",
+    "title": "Satellite",
+    "album": "Young Liars • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:12 pm",
-      "artist": "TV on the Radio",
-      "title": "Satellite"
-    },
     {
       "time": "2:17 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "2:19 pm",
       "artist": "Tyler, the Creator",
       "title": "IGOR'S THEME"
+    },
+    {
+      "time": "2:23 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "You've Passed"
     }
   ],
   "recent": [
+    {
+      "time": "2:12 pm",
+      "artist": "TV on the Radio",
+      "title": "Satellite",
+      "album": "Young Liars • 2003"
+    },
     {
       "time": "2:10 pm",
       "artist": "Doris Day",
@@ -167,12 +173,6 @@
       "artist": "Hall & Oates",
       "title": "You've Lost That Lovin' Feeling",
       "album": "Voices • 1980"
-    },
-    {
-      "time": "12:17 pm",
-      "artist": "The Go-Go's",
-      "title": "Tonite",
-      "album": "Beauty and the Beat • 1981"
     }
   ]
 }
