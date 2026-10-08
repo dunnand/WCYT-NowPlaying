@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T23:52:23",
+  "updatedAt": "2026-10-07T23:52:35",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Arctic Monkeys",
+    "title": "505",
+    "album": "Favourite Worst Nightmare • 2007",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:52 pm",
-      "artist": "Arctic Monkeys",
-      "title": "505"
-    },
     {
       "time": "11:56 pm",
       "artist": "Beck",
@@ -21,9 +16,20 @@
       "time": "12:00 am",
       "artist": "This Is Lorelei",
       "title": "The Kid With the Crown"
+    },
+    {
+      "time": "12:04 am",
+      "artist": "The xx",
+      "title": "Fiction"
     }
   ],
   "recent": [
+    {
+      "time": "11:52 pm",
+      "artist": "Arctic Monkeys",
+      "title": "505",
+      "album": "Favourite Worst Nightmare • 2007"
+    },
     {
       "time": "11:47 pm",
       "artist": "Ty Segall",
@@ -167,12 +173,6 @@
       "artist": "Whitney",
       "title": "Dandelions",
       "album": "Small Talk • 2025"
-    },
-    {
-      "time": "10:12 pm",
-      "artist": "Westside Cowboy",
-      "title": "Paper Chains",
-      "album": "It Goes On • 2026"
     }
   ]
 }
