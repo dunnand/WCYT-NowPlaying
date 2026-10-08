@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T01:40:12",
+  "updatedAt": "2026-10-08T01:42:27",
   "now": {
-    "artist": "The Beatles",
-    "title": "Here, There & Everywhere",
-    "album": "Revolver • 1966",
+    "artist": "The Knack",
+    "title": "My Sharona",
+    "album": "Proof: The Very Best Of The Knack • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "The Knack",
-      "title": "My Sharona"
-    },
     {
       "time": "1:47 am",
       "artist": "Warren G",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "Sonic Youth",
       "title": "Incinerate"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "The Beatles",
+      "title": "I Wanna Be Your Man"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "album": "Proof: The Very Best Of The Knack • 1979"
+    },
     {
       "time": "1:40 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Hootie & The Blowfish",
       "title": "I Go Blind",
       "album": "Single • 1996"
-    },
-    {
-      "time": "12:13 am",
-      "artist": "Leon Bridges",
-      "title": "Smooth Sailin'",
-      "album": "Coming Home • 2015"
     }
   ]
 }
