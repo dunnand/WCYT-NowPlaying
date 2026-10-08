@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T21:39:24",
+  "updatedAt": "2026-10-07T21:39:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "The Tourist",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:39 pm",
-      "artist": "Radiohead",
-      "title": "The Tourist"
-    },
     {
       "time": "9:44 pm",
       "artist": "Pixies",
@@ -26,9 +21,20 @@
       "time": "9:50 pm",
       "artist": "Deftones",
       "title": "Ohms"
+    },
+    {
+      "time": "9:54 pm",
+      "artist": "Songs Ohia",
+      "title": "Farewell Transmission"
     }
   ],
   "recent": [
+    {
+      "time": "9:39 pm",
+      "artist": "Radiohead",
+      "title": "The Tourist",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "9:36 pm",
       "artist": "Q-Tip",
@@ -172,12 +178,6 @@
       "artist": "Sleater-Kinney",
       "title": "Oh!",
       "album": "One Beat • 2002"
-    },
-    {
-      "time": "7:59 pm",
-      "artist": "Larry Young",
-      "title": "Turn Off the Lights",
-      "album": "Fuel • 1975"
     }
   ]
 }
