@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T21:13:55",
+  "updatedAt": "2026-10-07T21:20:35",
   "now": {
-    "artist": "Elton John",
-    "title": "Bite Your Lip (Get Up and Dance!)",
-    "album": "Blue Moves • 1976",
+    "artist": "Mista",
+    "title": "Blackberry Molasses",
+    "album": "Mista • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 pm",
-      "artist": "Mista",
-      "title": "Blackberry Molasses"
-    },
     {
       "time": "9:24 pm",
       "artist": "Buddy Holly",
@@ -26,9 +21,20 @@
       "time": "9:30 pm",
       "artist": "The Beatles",
       "title": "Being For The Benefit Of Mr. Kite!"
+    },
+    {
+      "time": "9:32 pm",
+      "artist": "Son Little",
+      "title": "Blue Magic (Waikiki)"
     }
   ],
   "recent": [
+    {
+      "time": "9:20 pm",
+      "artist": "Mista",
+      "title": "Blackberry Molasses",
+      "album": "Mista • 1996"
+    },
     {
       "time": "9:13 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "How to Fight Loneliness",
       "album": "Summerteeth • 1999"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Sonic Youth",
-      "title": "100%",
-      "album": "Dirty • 1992"
     }
   ]
 }
