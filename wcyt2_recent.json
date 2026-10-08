@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T00:44:23",
+  "updatedAt": "2026-10-08T00:48:40",
   "now": {
-    "artist": "TV on the Radio",
-    "title": "Wolf Like Me",
-    "album": "Return To Cookie Mountain • 2006",
-    "category": "TUNES"
+    "artist": "Townes Van Zandt",
+    "title": "Waiting Around to Die",
+    "album": "Townes Van Zandt • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:48 am",
-      "artist": "Townes Van Zandt",
-      "title": "Waiting Around to Die"
-    },
     {
       "time": "12:51 am",
       "artist": "Mungo Jerry",
@@ -26,9 +21,20 @@
       "time": "12:58 am",
       "artist": "The Lumineers",
       "title": "Ho Hey"
+    },
+    {
+      "time": "1:01 am",
+      "artist": "The Shins",
+      "title": "Know Your Onion!"
     }
   ],
   "recent": [
+    {
+      "time": "12:48 am",
+      "artist": "Townes Van Zandt",
+      "title": "Waiting Around to Die",
+      "album": "Townes Van Zandt • 1969"
+    },
     {
       "time": "12:44 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "Louis Armstrong",
       "title": "A Kiss to Build a Dream On",
       "album": "Hello, Dolly! • 1951"
-    },
-    {
-      "time": "11:13 pm",
-      "artist": "Beastie Boys",
-      "title": "Gratitude",
-      "album": "Check Your Head • 1992"
     }
   ]
 }
