@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T19:03:32",
+  "updatedAt": "2026-10-08T19:03:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Taylor Swift",
+    "title": "Lover",
+    "album": "Lover • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:03 pm",
-      "artist": "Taylor Swift",
-      "title": "Lover"
-    },
     {
       "time": "7:07 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "7:14 pm",
       "artist": "U2",
       "title": "Sunday Bloody Sunday"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "The Undertones",
+      "title": "My Perfect Cousin"
     }
   ],
   "recent": [
+    {
+      "time": "7:03 pm",
+      "artist": "Taylor Swift",
+      "title": "Lover",
+      "album": "Lover • 2019"
+    },
     {
       "time": "7:00 pm",
       "artist": "Sleater-Kinney",
@@ -172,12 +178,6 @@
       "artist": "Kraftwerk",
       "title": "Europe Endless",
       "album": "Trans-Europe Express • 1977"
-    },
-    {
-      "time": "5:26 pm",
-      "artist": "Chappell Roan",
-      "title": "Good Luck, Babe!",
-      "album": "single • 2024"
     }
   ]
 }
