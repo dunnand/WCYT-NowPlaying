@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T09:45:11",
+  "updatedAt": "2026-10-08T09:45:23",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This Mortal Coil",
+    "title": "Song to the Siren",
+    "album": "It'll End In Tears • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:45 am",
-      "artist": "This Mortal Coil",
-      "title": "Song to the Siren"
-    },
     {
       "time": "9:48 am",
       "artist": "The Antlers",
@@ -26,9 +21,20 @@
       "time": "9:59 am",
       "artist": "Modest Mouse",
       "title": "Trailer Trash"
+    },
+    {
+      "time": "10:05 am",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "title": "Gondii"
     }
   ],
   "recent": [
+    {
+      "time": "9:45 am",
+      "artist": "This Mortal Coil",
+      "title": "Song to the Siren",
+      "album": "It'll End In Tears • 1984"
+    },
     {
       "time": "9:41 am",
       "artist": "Babehoven",
@@ -172,12 +178,6 @@
       "artist": "Bon Iver",
       "title": "Holocene",
       "album": "Bon Iver, Bon Iver • 2011"
-    },
-    {
-      "time": "8:01 am",
-      "artist": "Beck",
-      "title": "Saw Lightning",
-      "album": "Hyperspace • 2019"
     }
   ]
 }
