@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T21:20:35",
+  "updatedAt": "2026-10-07T21:24:29",
   "now": {
-    "artist": "Mista",
-    "title": "Blackberry Molasses",
-    "album": "Mista • 1996",
+    "artist": "Buddy Holly",
+    "title": "Oh, Boy!",
+    "album": "The Chirping Crickets • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:24 pm",
-      "artist": "Buddy Holly",
-      "title": "Oh, Boy!"
-    },
     {
       "time": "9:26 pm",
       "artist": "System of a Down",
@@ -26,9 +21,20 @@
       "time": "9:32 pm",
       "artist": "Son Little",
       "title": "Blue Magic (Waikiki)"
+    },
+    {
+      "time": "9:36 pm",
+      "artist": "Q",
+      "title": "Tip - Vivrant Thing"
     }
   ],
   "recent": [
+    {
+      "time": "9:24 pm",
+      "artist": "Buddy Holly",
+      "title": "Oh, Boy!",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "9:20 pm",
       "artist": "Mista",
@@ -172,12 +178,6 @@
       "artist": "Bruce Springsteen",
       "title": "The Ties That Bind",
       "album": "The River • 1980"
-    },
-    {
-      "time": "7:43 pm",
-      "artist": "Wilco",
-      "title": "How to Fight Loneliness",
-      "album": "Summerteeth • 1999"
     }
   ]
 }
