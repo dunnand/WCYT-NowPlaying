@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T23:32:43",
+  "updatedAt": "2026-10-07T23:32:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "Metal Heart",
+    "album": "Moon Pix • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:32 pm",
-      "artist": "Cat Power",
-      "title": "Metal Heart"
-    },
     {
       "time": "11:36 pm",
       "artist": "Dave Matthews Band",
@@ -26,9 +21,20 @@
       "time": "11:45 pm",
       "artist": "Rick James",
       "title": "Super Freak"
+    },
+    {
+      "time": "11:48 pm",
+      "artist": "Lana Del Rey",
+      "title": "White Dress"
     }
   ],
   "recent": [
+    {
+      "time": "11:32 pm",
+      "artist": "Cat Power",
+      "title": "Metal Heart",
+      "album": "Moon Pix • 1998"
+    },
     {
       "time": "11:29 pm",
       "artist": "Usher",
@@ -172,12 +178,6 @@
       "artist": "Eagles",
       "title": "New Kid In Town",
       "album": "Hotel California • 1976"
-    },
-    {
-      "time": "9:54 pm",
-      "artist": "Songs Ohia",
-      "title": "Farewell Transmission",
-      "album": "The Magnolia Electric Co • 2003"
     }
   ]
 }
