@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T01:30:24",
+  "updatedAt": "2026-10-08T01:32:49",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Knockin' on Heaven's Door",
-    "album": "Knockin' on Heaven's Door • 1973",
+    "artist": "The Beatles",
+    "title": "Don't Want To Spoil The Party",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:32 am",
-      "artist": "The Beatles",
-      "title": "Don't Want To Spoil The Party"
-    },
     {
       "time": "1:35 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "1:42 am",
       "artist": "The Knack",
       "title": "My Sharona"
+    },
+    {
+      "time": "1:47 am",
+      "artist": "Warren G",
+      "title": "Regulate"
     }
   ],
   "recent": [
+    {
+      "time": "1:32 am",
+      "artist": "The Beatles",
+      "title": "Don't Want To Spoil The Party",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "1:30 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Reckoner",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "12:02 am",
-      "artist": "Chantels",
-      "title": "Maybe",
-      "album": "We Are The Chantels • 1958"
     }
   ]
 }
