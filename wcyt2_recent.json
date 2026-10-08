@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T13:55:12",
+  "updatedAt": "2026-10-08T13:55:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Marvin Gaye",
+    "title": "Let's Get It On",
+    "album": "Let's Get It On • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 pm",
-      "artist": "Marvin Gaye",
-      "title": "Let's Get It On"
-    },
     {
       "time": "2:00 pm",
       "artist": "Them",
@@ -26,9 +21,20 @@
       "time": "2:06 pm",
       "artist": "Modest Mouse",
       "title": "Heart Cooks Brain"
+    },
+    {
+      "time": "2:10 pm",
+      "artist": "Doris Day",
+      "title": "Whatever Will Be Will Be (Que Sera, Sera)"
     }
   ],
   "recent": [
+    {
+      "time": "1:55 pm",
+      "artist": "Marvin Gaye",
+      "title": "Let's Get It On",
+      "album": "Let's Get It On • 1973"
+    },
     {
       "time": "1:52 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Beautiful Day",
       "album": "All That You Can't Leave Behind • 2000"
-    },
-    {
-      "time": "11:55 am",
-      "artist": "Ugly Casanova",
-      "title": "Barnacles",
-      "album": "Sharpen Your Teeth • 2002"
     }
   ]
 }
