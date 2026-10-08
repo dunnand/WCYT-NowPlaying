@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T23:03:47",
+  "updatedAt": "2026-10-07T23:06:52",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Oxford Comma",
-    "album": "Vampire Weekend • 2008",
-    "category": "TUNES"
+    "artist": "The Velvet Underground",
+    "title": "Femme Fatale",
+    "album": "The Velvet Underground & Nico • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:06 pm",
-      "artist": "The Velvet Underground",
-      "title": "Femme Fatale"
-    },
     {
       "time": "11:09 pm",
       "artist": "Billy Joel",
@@ -26,9 +21,20 @@
       "time": "11:16 pm",
       "artist": "Louis Armstrong",
       "title": "A Kiss to Build a Dream On"
+    },
+    {
+      "time": "11:20 pm",
+      "artist": "Wilco",
+      "title": "Poor Places"
     }
   ],
   "recent": [
+    {
+      "time": "11:06 pm",
+      "artist": "The Velvet Underground",
+      "title": "Femme Fatale",
+      "album": "The Velvet Underground & Nico • 1967"
+    },
     {
       "time": "11:03 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "Blue Magic (Waikiki)",
       "album": "Son Little • 2015"
-    },
-    {
-      "time": "9:30 pm",
-      "artist": "The Beatles",
-      "title": "Being For The Benefit Of Mr. Kite!",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
     }
   ]
 }
