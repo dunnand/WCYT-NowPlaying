@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T19:30:23",
+  "updatedAt": "2026-10-08T19:32:26",
   "now": {
-    "artist": "The Beatles",
-    "title": "Long Tall Sally",
-    "album": "Long Tall Sally EP • 1964",
+    "artist": "Talking Heads",
+    "title": "Memories Can't Wait",
+    "album": "Fear of Music • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:32 pm",
-      "artist": "Talking Heads",
-      "title": "Memories Can't Wait"
-    },
     {
       "time": "7:35 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:45 pm",
       "artist": "The Flaming Lips",
       "title": "Buggin'"
+    },
+    {
+      "time": "7:48 pm",
+      "artist": "Johnny Cash",
+      "title": "I Still Miss Someone"
     }
   ],
   "recent": [
+    {
+      "time": "7:32 pm",
+      "artist": "Talking Heads",
+      "title": "Memories Can't Wait",
+      "album": "Fear of Music • 1979"
+    },
     {
       "time": "7:30 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "The Night Before",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "6:00 pm",
-      "artist": "TV on the Radio",
-      "title": "Satellite",
-      "album": "Young Liars • 2003"
     }
   ]
 }
