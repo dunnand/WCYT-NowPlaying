@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-10-08T14:40:16",
+  "updatedAt": "2026-10-08T14:40:26",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
-    "category": ""
+    "artist": "Buzzcocks",
+    "title": "Ever Fallen In Love (With Some You Shouldn't've?)",
+    "album": "Love Bites • 1978",
+    "category": "AUDIO"
   },
-  "comingUp": [],
+  "comingUp": [
+    {
+      "time": "2:42 pm",
+      "artist": "Bonnie Tyler",
+      "title": "Total Eclipse Of The Heart"
+    },
+    {
+      "time": "2:47 pm",
+      "artist": "Mazzy Star",
+      "title": "Look on Down From the Bridge"
+    },
+    {
+      "time": "2:52 pm",
+      "artist": "Slowdive",
+      "title": "Star Roving"
+    },
+    {
+      "time": "2:56 pm",
+      "artist": "Richard Thompson",
+      "title": "Dad's Gonna Kill Me"
+    }
+  ],
   "recent": [
+    {
+      "time": "2:40 pm",
+      "artist": "Buzzcocks",
+      "title": "Ever Fallen In Love (With Some You Shouldn't've?)",
+      "album": "Love Bites • 1978"
+    },
     {
       "time": "2:39 pm",
       "artist": "Khruangbin & Leon Bridges",
@@ -151,12 +178,6 @@
       "artist": "Wilco",
       "title": "Quarters",
       "album": "Schmilco • 2016"
-    },
-    {
-      "time": "12:53 pm",
-      "artist": "Pavement",
-      "title": "Date With IKEA",
-      "album": "Brighten the Corners • 1997"
     }
   ]
 }
