@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T22:30:28",
+  "updatedAt": "2026-10-07T22:34:03",
   "now": {
-    "artist": "Tame Impala",
-    "title": "The Less I Know The Better",
-    "album": "Currents • 2015",
-    "category": "TUNES"
+    "artist": "Sixpence None The Richer",
+    "title": "Kiss Me",
+    "album": "Sixpence None the Richer • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:34 pm",
-      "artist": "Sixpence None The Richer",
-      "title": "Kiss Me"
-    },
     {
       "time": "10:37 pm",
       "artist": "Alanis Morissette",
@@ -21,9 +16,25 @@
       "time": "10:41 pm",
       "artist": "Queen",
       "title": "Who Wants to Live Forever"
+    },
+    {
+      "time": "10:46 pm",
+      "artist": "The Wedding Present",
+      "title": "Brassneck"
+    },
+    {
+      "time": "10:51 pm",
+      "artist": "Childish Gambino",
+      "title": "19.10"
     }
   ],
   "recent": [
+    {
+      "time": "10:34 pm",
+      "artist": "Sixpence None The Richer",
+      "title": "Kiss Me",
+      "album": "Sixpence None the Richer • 1998"
+    },
     {
       "time": "10:30 pm",
       "artist": "Tame Impala",
@@ -167,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Jamming",
       "album": "Exodus • 1977"
-    },
-    {
-      "time": "9:02 pm",
-      "artist": "Journey",
-      "title": "Lights",
-      "album": "Infinity • 1978"
     }
   ]
 }
