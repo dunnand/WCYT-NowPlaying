@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T15:46:35",
+  "updatedAt": "2026-10-08T15:50:25",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Woodstock",
-    "album": "Dj Vu • 1970",
+    "artist": "Sheryl Crow",
+    "title": "A Change Would Do You Good",
+    "album": "Tuesday Night Music Club • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:50 pm",
-      "artist": "Sheryl Crow",
-      "title": "A Change Would Do You Good"
-    },
     {
       "time": "3:54 pm",
       "artist": "Thom Yorke",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:50 pm",
+      "artist": "Sheryl Crow",
+      "title": "A Change Would Do You Good",
+      "album": "Tuesday Night Music Club • 1997"
+    },
     {
       "time": "3:46 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "The Night Before",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "2:12 pm",
-      "artist": "TV on the Radio",
-      "title": "Satellite",
-      "album": "Young Liars • 2003"
     }
   ]
 }
