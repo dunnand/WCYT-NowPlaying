@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T21:24:29",
+  "updatedAt": "2026-10-07T21:26:42",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Oh, Boy!",
-    "album": "The Chirping Crickets • 1957",
+    "artist": "System of a Down",
+    "title": "Aerials",
+    "album": "Toxicity • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:26 pm",
-      "artist": "System of a Down",
-      "title": "Aerials"
-    },
     {
       "time": "9:30 pm",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:26 pm",
+      "artist": "System of a Down",
+      "title": "Aerials",
+      "album": "Toxicity • 2001"
+    },
     {
       "time": "9:24 pm",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "Young MC",
       "title": "Bust A Move",
       "album": "Stone Cold Rhymin' • 1989"
-    },
-    {
-      "time": "7:47 pm",
-      "artist": "Bruce Springsteen",
-      "title": "The Ties That Bind",
-      "album": "The River • 1980"
     }
   ]
 }
