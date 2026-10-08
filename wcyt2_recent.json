@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T14:03:02",
+  "updatedAt": "2026-10-08T14:06:28",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "I Honestly Love You",
-    "album": "Long Live Love • 1974",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Heart Cooks Brain",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:06 pm",
-      "artist": "Modest Mouse",
-      "title": "Heart Cooks Brain"
-    },
     {
       "time": "2:10 pm",
       "artist": "Doris Day",
@@ -21,9 +16,20 @@
       "time": "2:12 pm",
       "artist": "TV on the Radio",
       "title": "Satellite"
+    },
+    {
+      "time": "2:17 pm",
+      "artist": "The Beatles",
+      "title": "The Night Before"
     }
   ],
   "recent": [
+    {
+      "time": "2:06 pm",
+      "artist": "Modest Mouse",
+      "title": "Heart Cooks Brain",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "2:03 pm",
       "artist": "Olivia Newton-John",
@@ -167,12 +173,6 @@
       "artist": "Spiritualized",
       "title": "Ladies & Gentlemen We Are Floating in Space (I Can't Help Falling in Love)",
       "album": "Ladies and Gentlemen We Are Floating in Space • 1997"
-    },
-    {
-      "time": "12:08 pm",
-      "artist": "Slowdive",
-      "title": "Machine Gun",
-      "album": "Souvlaki • 1993"
     }
   ]
 }
