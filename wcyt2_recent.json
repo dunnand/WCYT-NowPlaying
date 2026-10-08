@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-07T23:54:09",
+  "updatedAt": "2026-10-07T23:57:15",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Old Time Rock & Roll",
-    "album": "Stranger in Town • 1979",
+    "artist": "The Carpenters",
+    "title": "For All We Know",
+    "album": "Carpenters • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:57 pm",
-      "artist": "The Carpenters",
-      "title": "For All We Know"
-    },
     {
       "time": "11:59 pm",
       "artist": "The Killers",
@@ -26,9 +21,20 @@
       "time": "12:06 am",
       "artist": "Paul McCartney and Wings",
       "title": "Band On The Run"
+    },
+    {
+      "time": "12:11 am",
+      "artist": "De La Soul",
+      "title": "Let, Let Me In"
     }
   ],
   "recent": [
+    {
+      "time": "11:57 pm",
+      "artist": "The Carpenters",
+      "title": "For All We Know",
+      "album": "Carpenters • 1971"
+    },
     {
       "time": "11:54 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Stuck In A Moment You Can't Get Out Of",
       "album": "All That You Can't Leave Behind • 2001"
-    },
-    {
-      "time": "10:19 pm",
-      "artist": "Lloyd Price",
-      "title": "Stagger Lee",
-      "album": "The Exciting Lloyd Price • 1959"
     }
   ]
 }
