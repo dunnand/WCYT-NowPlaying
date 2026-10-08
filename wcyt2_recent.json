@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T06:43:37",
+  "updatedAt": "2026-10-08T06:47:22",
   "now": {
-    "artist": "System of a Down",
-    "title": "Aerials",
-    "album": "Toxicity • 2001",
+    "artist": "The Beatles",
+    "title": "Being For The Benefit Of Mr. Kite!",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:47 am",
-      "artist": "The Beatles",
-      "title": "Being For The Benefit Of Mr. Kite!"
-    },
     {
       "time": "6:49 am",
       "artist": "Son Little",
@@ -21,9 +16,25 @@
       "time": "6:53 am",
       "artist": "Q",
       "title": "Tip - Vivrant Thing"
+    },
+    {
+      "time": "6:56 am",
+      "artist": "Radiohead",
+      "title": "The Tourist"
+    },
+    {
+      "time": "7:01 am",
+      "artist": "Pixies",
+      "title": "Wave of Mutilation"
     }
   ],
   "recent": [
+    {
+      "time": "6:47 am",
+      "artist": "The Beatles",
+      "title": "Being For The Benefit Of Mr. Kite!",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "6:43 am",
       "artist": "System of a Down",
@@ -167,12 +178,6 @@
       "artist": "Minako Hamano",
       "title": "Brain Age 2: More Training in Minutes a Day! (Staff Credits)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "5:07 am",
-      "artist": "Young MC",
-      "title": "Bust A Move",
-      "album": "Stone Cold Rhymin' • 1989"
     }
   ]
 }
