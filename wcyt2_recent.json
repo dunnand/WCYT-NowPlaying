@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T02:49:52",
+  "updatedAt": "2026-10-09T02:55:38",
   "now": {
-    "artist": "Queen",
-    "title": "Bohemian Rhapsody",
-    "album": "A Night at the Opera • 1975",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Proud Mary",
+    "album": "Bayou Country • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:55 am",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Proud Mary"
-    },
     {
       "time": "2:58 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "3:06 am",
       "artist": "Jimmy \"C\" Newman",
       "title": "A Fallen Star"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "The White Stripes",
+      "title": "Hardest Button To Button"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 am",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Proud Mary",
+      "album": "Bayou Country • 1969"
+    },
     {
       "time": "2:49 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Traffic",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "1:03 am",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Suzie Q",
-      "album": "Creedence Clearwater Revival • 1968"
     }
   ]
 }
