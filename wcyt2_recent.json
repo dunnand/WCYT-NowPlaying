@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T15:15:01",
+  "updatedAt": "2026-10-09T15:15:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "Just What I Needed",
+    "album": "The Cars • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "The Cars",
-      "title": "Just What I Needed"
-    },
     {
       "time": "3:18 pm",
       "artist": "The Temptations",
@@ -26,9 +21,20 @@
       "time": "3:24 pm",
       "artist": "Santana",
       "title": "The Game Of Love Feat. Michelle Branch"
+    },
+    {
+      "time": "3:29 pm",
+      "artist": "Radiohead",
+      "title": "Present Tense"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "The Cars",
+      "title": "Just What I Needed",
+      "album": "The Cars • 1978"
+    },
     {
       "time": "3:09 pm",
       "artist": "Sly and the Family Stone",
@@ -172,12 +178,6 @@
       "artist": "Rufus Wainwright",
       "title": "The Art Teacher",
       "album": "Want Two • 2004"
-    },
-    {
-      "time": "1:35 pm",
-      "artist": "The Everly Brothers",
-      "title": "Wake Up Little Susie",
-      "album": "The Everly Brothers • 1958"
     }
   ]
 }
