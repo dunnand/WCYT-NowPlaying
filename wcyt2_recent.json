@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T14:10:54",
+  "updatedAt": "2026-10-09T14:11:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Monday Morning",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:11 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Monday Morning"
-    },
     {
       "time": "2:13 pm",
       "artist": "Four Tops",
@@ -26,9 +21,20 @@
       "time": "2:20 pm",
       "artist": "Sly and the Family Stone",
       "title": "Dance to the Music"
+    },
+    {
+      "time": "2:23 pm",
+      "artist": "The Beach Boys",
+      "title": "Forever"
     }
   ],
   "recent": [
+    {
+      "time": "2:11 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Monday Morning",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "2:07 pm",
       "artist": "*NSYNC",
@@ -172,12 +178,6 @@
       "artist": "The Fleetwoods",
       "title": "Mr. Blue",
       "album": "Mr. Blue • 1959"
-    },
-    {
-      "time": "12:13 pm",
-      "artist": "Depeche Mode",
-      "title": "Enjoy the Silence",
-      "album": "Violator • 1990"
     }
   ]
 }
