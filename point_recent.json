@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T21:48:11",
+  "updatedAt": "2026-10-08T21:48:33",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Kate Bush",
+    "title": "Babooshka",
+    "album": "Never for Ever • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 pm",
-      "artist": "Kate Bush",
-      "title": "Babooshka"
-    },
     {
       "time": "9:51 pm",
       "artist": "Beach House",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:48 pm",
+      "artist": "Kate Bush",
+      "title": "Babooshka",
+      "album": "Never for Ever • 1980"
+    },
     {
       "time": "9:44 pm",
       "artist": "Black Marble",
@@ -172,12 +173,6 @@
       "artist": "The Antlers",
       "title": "Rains",
       "album": "A7* • 2023"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "The Nerves",
-      "title": "TV Adverts",
-      "album": "(single) • 1978"
     }
   ]
 }
