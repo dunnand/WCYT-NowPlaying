@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T14:34:49",
+  "updatedAt": "2026-10-09T14:35:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Someone Something",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:34 pm",
-      "artist": "Spoon",
-      "title": "Someone Something"
-    },
     {
       "time": "2:37 pm",
       "artist": "Sonic Youth",
@@ -26,9 +21,20 @@
       "time": "2:48 pm",
       "artist": "Spiritualized",
       "title": "Electricity"
+    },
+    {
+      "time": "2:52 pm",
+      "artist": "Mariah Carey",
+      "title": "All I Want for Christmas Is You"
     }
   ],
   "recent": [
+    {
+      "time": "2:35 pm",
+      "artist": "Spoon",
+      "title": "Someone Something",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "2:31 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "The D.O.C.",
       "title": "It's Funky Enough",
       "album": "No One Can Do It Better • 1989"
-    },
-    {
-      "time": "12:39 pm",
-      "artist": "Rufus",
-      "title": "Ain't Nobody Feat. Chaka Khan",
-      "album": "Stompin' at the Savoy • 1983"
     }
   ]
 }
