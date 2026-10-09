@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T22:22:22",
+  "updatedAt": "2026-10-08T22:25:40",
   "now": {
-    "artist": "Yeah Yeah Yeahs",
-    "title": "Our Time",
-    "album": "Yeah Yeah Yeahs • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 pm",
-      "artist": "The Beatles",
-      "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)"
-    },
     {
       "time": "10:26 pm",
       "artist": "Brian Eno",
@@ -26,9 +21,20 @@
       "time": "10:33 pm",
       "artist": "Thom Yorke",
       "title": "Dawn Chorus"
+    },
+    {
+      "time": "10:38 pm",
+      "artist": "Train",
+      "title": "Hey Soul Sister"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 pm",
+      "artist": "The Beatles",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "10:22 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -172,12 +178,6 @@
       "artist": "Zedd",
       "title": "Clarity",
       "album": "Clarity • 2012"
-    },
-    {
-      "time": "8:49 pm",
-      "artist": "Queens of the Stone Age",
-      "title": "No One Knows",
-      "album": "Songs for the Deaf • 2002"
     }
   ]
 }
