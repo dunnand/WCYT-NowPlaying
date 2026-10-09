@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T00:43:29",
+  "updatedAt": "2026-10-09T00:43:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Gram Parsons",
+    "title": "She",
+    "album": "GP • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:43 am",
-      "artist": "Gram Parsons",
-      "title": "She"
-    },
     {
       "time": "12:48 am",
       "artist": "Creedence Clearwater Revival",
@@ -31,9 +26,20 @@
       "time": "12:56 am",
       "artist": "Buddy Holly",
       "title": "Take Your Time"
+    },
+    {
+      "time": "12:58 am",
+      "artist": "Radiohead",
+      "title": "Nude"
     }
   ],
   "recent": [
+    {
+      "time": "12:43 am",
+      "artist": "Gram Parsons",
+      "title": "She",
+      "album": "GP • 1973"
+    },
     {
       "time": "12:38 am",
       "artist": "Creedence Clearwater Revival",
@@ -177,12 +183,6 @@
       "artist": "Bruce Springsteen",
       "title": "Born To Run",
       "album": "Born to Run • 1975"
-    },
-    {
-      "time": "11:07 pm",
-      "artist": "Black Pumas",
-      "title": "I'm Ready",
-      "album": "Black Pumas • 2021"
     }
   ]
 }
