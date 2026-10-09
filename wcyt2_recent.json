@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T18:24:28",
+  "updatedAt": "2026-10-09T18:30:36",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Fool in the Rain",
-    "album": "In Through the Out Door • 1979",
+    "artist": "American Football",
+    "title": "Never Meant",
+    "album": "American Football • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:30 pm",
-      "artist": "American Football",
-      "title": "Never Meant"
-    },
     {
       "time": "6:35 pm",
       "artist": "Screamin Jay Hawkins",
@@ -21,9 +16,20 @@
       "time": "6:37 pm",
       "artist": "Yeasayer",
       "title": "2080"
+    },
+    {
+      "time": "6:42 pm",
+      "artist": "The Sonics",
+      "title": "Have Love Will Travel"
     }
   ],
   "recent": [
+    {
+      "time": "6:30 pm",
+      "artist": "American Football",
+      "title": "Never Meant",
+      "album": "American Football • 1999"
+    },
     {
       "time": "6:24 pm",
       "artist": "Led Zeppelin",
@@ -167,12 +173,6 @@
       "artist": "Weezer",
       "title": "The World Has Turned and Left Me Here",
       "album": "Weezer • 1994"
-    },
-    {
-      "time": "4:45 pm",
-      "artist": "Soundgarden",
-      "title": "Heretic",
-      "album": "Badmotorfinger • 1991"
     }
   ]
 }
