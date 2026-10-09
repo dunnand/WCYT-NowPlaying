@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T12:34:13",
+  "updatedAt": "2026-10-09T12:39:00",
   "now": {
-    "artist": "Mazzy Star",
-    "title": "Flowers in December",
-    "album": "Among My Swan • 1996",
+    "artist": "Rufus",
+    "title": "Ain't Nobody Feat. Chaka Khan",
+    "album": "Stompin' at the Savoy • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 pm",
-      "artist": "Rufus",
-      "title": "Ain't Nobody Feat. Chaka Khan"
-    },
     {
       "time": "12:43 pm",
       "artist": "The D.O.C.",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:39 pm",
+      "artist": "Rufus",
+      "title": "Ain't Nobody Feat. Chaka Khan",
+      "album": "Stompin' at the Savoy • 1983"
+    },
     {
       "time": "12:34 pm",
       "artist": "Mazzy Star",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Morning Bell/Amnesiac",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "11:08 am",
-      "artist": "Bee Gees",
-      "title": "Jive Talkin'",
-      "album": "Main Course • 1975"
     }
   ]
 }
