@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T07:40:41",
+  "updatedAt": "2026-10-09T07:41:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Was a Sunny Day",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:40 am",
-      "artist": "Paul Simon",
-      "title": "Was a Sunny Day"
-    },
     {
       "time": "7:44 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "7:52 am",
       "artist": "The Mamas & The Papas",
       "title": "Creeque Alley"
+    },
+    {
+      "time": "7:56 am",
+      "artist": "Rolling Stones",
+      "title": "Angie"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 am",
+      "artist": "Paul Simon",
+      "title": "Was a Sunny Day",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "7:31 am",
       "artist": "Satomi Terui",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "I'm Walkin'",
       "album": "Here Stands Fats Domino • 1957"
-    },
-    {
-      "time": "5:54 am",
-      "artist": "Green Day",
-      "title": "Nice Guys Finish Last",
-      "album": "nimrod. • 1997"
     }
   ]
 }
