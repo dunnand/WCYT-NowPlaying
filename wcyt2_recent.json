@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T10:17:45",
+  "updatedAt": "2026-10-09T10:20:08",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Up in Arms",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Elton Britt",
+    "title": "Uranium Fever",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 am",
-      "artist": "Elton Britt",
-      "title": "Uranium Fever"
-    },
     {
       "time": "10:22 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "10:28 am",
       "artist": "Thom Yorke",
       "title": "Suspirium"
+    },
+    {
+      "time": "10:32 am",
+      "artist": "Alanis Morissette",
+      "title": "Hand In My Pocket"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 am",
+      "artist": "Elton Britt",
+      "title": "Uranium Fever",
+      "album": ""
+    },
     {
       "time": "10:17 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Run-D.M.C.",
       "title": "It's Like That",
       "album": "Run-D.M.C. • 1984"
-    },
-    {
-      "time": "8:31 am",
-      "artist": "Stone Temple Pilots",
-      "title": "Trippin' on a Hole in a Paper Heart",
-      "album": "Tiny Music... Songs from the Vatican Gift Shop • 1996"
     }
   ]
 }
