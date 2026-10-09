@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T12:13:36",
+  "updatedAt": "2026-10-09T12:17:40",
   "now": {
-    "artist": "Depeche Mode",
-    "title": "Enjoy the Silence",
-    "album": "Violator • 1990",
+    "artist": "The Fleetwoods",
+    "title": "Mr. Blue",
+    "album": "Mr. Blue • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 pm",
-      "artist": "The Fleetwoods",
-      "title": "Mr. Blue"
-    },
     {
       "time": "12:20 pm",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "12:26 pm",
       "artist": "Radiohead",
       "title": "Burn the Witch"
+    },
+    {
+      "time": "12:30 pm",
+      "artist": "Janet Jackson",
+      "title": "Together Again"
     }
   ],
   "recent": [
+    {
+      "time": "12:17 pm",
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue",
+      "album": "Mr. Blue • 1959"
+    },
     {
       "time": "12:13 pm",
       "artist": "Depeche Mode",
@@ -172,12 +178,6 @@
       "artist": "Beastie Boys",
       "title": "Sabotage",
       "album": "Ill Communication • 1994"
-    },
-    {
-      "time": "10:32 am",
-      "artist": "Alanis Morissette",
-      "title": "Hand In My Pocket",
-      "album": "Jagged Little Pill • 1995"
     }
   ]
 }
