@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T16:14:27",
+  "updatedAt": "2026-10-09T16:18:41",
   "now": {
-    "artist": "George Harrison",
-    "title": "What Is Life",
-    "album": "All Things Must Pass • 1971",
-    "category": "AUDIO"
+    "artist": "Sebadoh",
+    "title": "On Fire",
+    "album": "Harmacy • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:18 pm",
-      "artist": "Sebadoh",
-      "title": "On Fire"
-    },
     {
       "time": "4:22 pm",
       "artist": "Nina Simone",
@@ -21,9 +16,20 @@
       "time": "4:25 pm",
       "artist": "The Mars Volta",
       "title": "Inertiatic ESP"
+    },
+    {
+      "time": "4:30 pm",
+      "artist": "Neil Young with Crazy Horse",
+      "title": "Cowgirl in the Sand"
     }
   ],
   "recent": [
+    {
+      "time": "4:18 pm",
+      "artist": "Sebadoh",
+      "title": "On Fire",
+      "album": "Harmacy • 1996"
+    },
     {
       "time": "4:14 pm",
       "artist": "George Harrison",
@@ -167,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "Antenna",
       "album": "The Eternal • 2009"
-    },
-    {
-      "time": "2:35 pm",
-      "artist": "Spoon",
-      "title": "Someone Something",
-      "album": "Kill The Moonlight • 2002"
     }
   ]
 }
