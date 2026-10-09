@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T02:58:43",
+  "updatedAt": "2026-10-09T03:01:59",
   "now": {
-    "artist": "David Bowie",
-    "title": "Suffragette City",
-    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
+    "artist": "Radiohead",
+    "title": "Airbag",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:01 am",
-      "artist": "Radiohead",
-      "title": "Airbag"
-    },
     {
       "time": "3:06 am",
       "artist": "Jimmy \"C\" Newman",
@@ -21,9 +16,20 @@
       "time": "3:09 am",
       "artist": "The White Stripes",
       "title": "Hardest Button To Button"
+    },
+    {
+      "time": "3:12 am",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Down On The Corner"
     }
   ],
   "recent": [
+    {
+      "time": "3:01 am",
+      "artist": "Radiohead",
+      "title": "Airbag",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "2:58 am",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Cherub Rock",
       "album": "Siamese Dream • 1993"
-    },
-    {
-      "time": "1:16 am",
-      "artist": "Pearl Jam",
-      "title": "In My Tree",
-      "album": "No Code • 1996"
     }
   ]
 }
