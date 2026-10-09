@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T12:07:50",
+  "updatedAt": "2026-10-09T12:13:36",
   "now": {
-    "artist": "The Who",
-    "title": "Love, Reign O'er Me",
-    "album": "Quadrophenia • 1973",
+    "artist": "Depeche Mode",
+    "title": "Enjoy the Silence",
+    "album": "Violator • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 pm",
-      "artist": "Depeche Mode",
-      "title": "Enjoy the Silence"
-    },
     {
       "time": "12:17 pm",
       "artist": "The Fleetwoods",
@@ -26,9 +21,20 @@
       "time": "12:23 pm",
       "artist": "Sly and the Family Stone",
       "title": "Hot Fun In The Summertime"
+    },
+    {
+      "time": "12:26 pm",
+      "artist": "Radiohead",
+      "title": "Burn the Witch"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 pm",
+      "artist": "Depeche Mode",
+      "title": "Enjoy the Silence",
+      "album": "Violator • 1990"
+    },
     {
       "time": "12:07 pm",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Alanis Morissette",
       "title": "Hand In My Pocket",
       "album": "Jagged Little Pill • 1995"
-    },
-    {
-      "time": "10:28 am",
-      "artist": "Thom Yorke",
-      "title": "Suspirium",
-      "album": "Suspiria • 2018"
     }
   ]
 }
