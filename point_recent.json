@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T22:15:19",
+  "updatedAt": "2026-10-08T22:15:31",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Alt J",
+    "title": "Breezeblocks",
+    "album": "An Awesome Wave • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "Alt J",
-      "title": "Breezeblocks"
-    },
     {
       "time": "10:19 pm",
       "artist": "SPIRIT OF THE BEEHIVE",
@@ -21,9 +16,20 @@
       "time": "10:22 pm",
       "artist": "Sharp Pins",
       "title": "It's A Mod Mod World"
+    },
+    {
+      "time": "10:24 pm",
+      "artist": "Interpol",
+      "title": "Wings On Fire"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "Alt J",
+      "title": "Breezeblocks",
+      "album": "An Awesome Wave • 2012"
+    },
     {
       "time": "10:10 pm",
       "artist": "Magnolia Electric Co.",
@@ -167,12 +173,6 @@
       "artist": "Wolf Parade",
       "title": "Yulia",
       "album": "Expo 86 • 2010"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Fontaines D.C.",
-      "title": "Tongue",
-      "album": "Dopamine Chamber • 2026"
     }
   ]
 }
