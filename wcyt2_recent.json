@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T23:11:51",
+  "updatedAt": "2026-10-08T23:12:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Born To Run",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:11 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Born To Run"
-    },
     {
       "time": "11:16 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "11:23 pm",
       "artist": "The Beatles",
       "title": "Chains"
+    },
+    {
+      "time": "11:25 pm",
+      "artist": "Charlie Rich",
+      "title": "Behind Closed Doors"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Born To Run",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "11:07 pm",
       "artist": "Black Pumas",
@@ -172,12 +178,6 @@
       "artist": "Chordettes",
       "title": "Mr. Sandman",
       "album": "The Chordettes • 1957"
-    },
-    {
-      "time": "9:29 pm",
-      "artist": "Nirvana.",
-      "title": "Something in the Way",
-      "album": "Nevermind • 1991"
     }
   ]
 }
