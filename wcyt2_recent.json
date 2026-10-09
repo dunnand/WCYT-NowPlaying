@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T02:41:26",
+  "updatedAt": "2026-10-09T02:41:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Tangled Up in Blue",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:41 am",
-      "artist": "Bob Dylan",
-      "title": "Tangled Up in Blue"
-    },
     {
       "time": "2:47 am",
       "artist": "Creedence Clearwater Revival",
@@ -26,9 +21,20 @@
       "time": "2:55 am",
       "artist": "Creedence Clearwater Revival",
       "title": "Proud Mary"
+    },
+    {
+      "time": "2:58 am",
+      "artist": "David Bowie",
+      "title": "Suffragette City"
     }
   ],
   "recent": [
+    {
+      "time": "2:41 am",
+      "artist": "Bob Dylan",
+      "title": "Tangled Up in Blue",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "2:38 am",
       "artist": "Kenji Yamamoto, Kouichi Kyuma",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Take Your Time",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "12:54 am",
-      "artist": "Elliott Smith",
-      "title": "Ballad of Big Nothing",
-      "album": "Either Or • 1997"
     }
   ]
 }
