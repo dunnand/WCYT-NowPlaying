@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T22:56:16",
+  "updatedAt": "2026-10-08T23:00:42",
   "now": {
-    "artist": "Radiohead",
-    "title": "My Iron Lung",
-    "album": "The Bends • 1995",
+    "artist": "Todd Rundgren",
+    "title": "Bang The Drum All Day",
+    "album": "The Ever Popular Tortured Artist Effect • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:00 pm",
-      "artist": "Todd Rundgren",
-      "title": "Bang The Drum All Day"
-    },
     {
       "time": "11:04 pm",
       "artist": "Scandal",
@@ -21,9 +16,20 @@
       "time": "11:08 pm",
       "artist": "Black Pumas",
       "title": "I'm Ready"
+    },
+    {
+      "time": "11:12 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Born To Run"
     }
   ],
   "recent": [
+    {
+      "time": "11:00 pm",
+      "artist": "Todd Rundgren",
+      "title": "Bang The Drum All Day",
+      "album": "The Ever Popular Tortured Artist Effect • 1983"
+    },
     {
       "time": "10:56 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Kansas City, Hey-Hey-Hey-Hey!",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "9:20 pm",
-      "artist": "Bachman-Turner Overdrive",
-      "title": "You Ain't Seen Nothing Yet",
-      "album": "Not Fragile • 1974"
     }
   ]
 }
