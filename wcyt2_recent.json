@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T21:23:56",
+  "updatedAt": "2026-10-08T21:26:19",
   "now": {
-    "artist": "The Beatles",
-    "title": "Kansas City, Hey-Hey-Hey-Hey!",
-    "album": "Beatles for Sale • 1964",
+    "artist": "Barry White",
+    "title": "Can't Get Enough Of Your Love, Babe",
+    "album": "Can't Get Enough • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:26 pm",
-      "artist": "Barry White",
-      "title": "Can't Get Enough Of Your Love, Babe"
-    },
     {
       "time": "9:29 pm",
       "artist": "Nirvana.",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:26 pm",
+      "artist": "Barry White",
+      "title": "Can't Get Enough Of Your Love, Babe",
+      "album": "Can't Get Enough • 1974"
+    },
     {
       "time": "9:23 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Guided by Voices",
       "title": "My Valuable Hunting Knife",
       "album": "Alien Lanes • 1995"
-    },
-    {
-      "time": "7:57 pm",
-      "artist": "Selena Gomez",
-      "title": "Love You Like A Love Song",
-      "album": "When the Sun Goes Down • 2011"
     }
   ]
 }
