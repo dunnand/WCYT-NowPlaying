@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T22:08:21",
+  "updatedAt": "2026-10-08T22:16:13",
   "now": {
-    "artist": "Black Sabbath",
-    "title": "War Pigs",
-    "album": "Paranoid • 1970",
+    "artist": "Boston",
+    "title": "Don't Look Back",
+    "album": "Don’t Look Back • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:16 pm",
-      "artist": "Boston",
-      "title": "Don't Look Back"
-    },
     {
       "time": "10:22 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -26,9 +21,20 @@
       "time": "10:26 pm",
       "artist": "Brian Eno",
       "title": "King's Lead Hat"
+    },
+    {
+      "time": "10:30 pm",
+      "artist": "Sebadoh",
+      "title": "Magnet's Coil"
     }
   ],
   "recent": [
+    {
+      "time": "10:16 pm",
+      "artist": "Boston",
+      "title": "Don't Look Back",
+      "album": "Don’t Look Back • 1978"
+    },
     {
       "time": "10:08 pm",
       "artist": "Black Sabbath",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "What Ever Happened?",
       "album": "Room on Fire • 2003"
-    },
-    {
-      "time": "8:42 pm",
-      "artist": "The Killers",
-      "title": "Runaways",
-      "album": "Battle Born • 2012"
     }
   ]
 }
