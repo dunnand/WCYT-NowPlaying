@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T15:05:09",
+  "updatedAt": "2026-10-09T15:09:46",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Do I Wanna Know",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Sly and the Family Stone",
+    "title": "I Want to Take You Higher",
+    "album": "Stand! • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:09 pm",
-      "artist": "Sly and the Family Stone",
-      "title": "I Want to Take You Higher"
-    },
     {
       "time": "3:15 pm",
       "artist": "The Cars",
@@ -26,9 +21,20 @@
       "time": "3:21 pm",
       "artist": "Cat Stevens",
       "title": "Sitting"
+    },
+    {
+      "time": "3:24 pm",
+      "artist": "Santana",
+      "title": "The Game Of Love Feat. Michelle Branch"
     }
   ],
   "recent": [
+    {
+      "time": "3:09 pm",
+      "artist": "Sly and the Family Stone",
+      "title": "I Want to Take You Higher",
+      "album": "Stand! • 1969"
+    },
     {
       "time": "3:05 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Wake Up Little Susie",
       "album": "The Everly Brothers • 1958"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "PJ Harvey",
-      "title": "Rid of Me",
-      "album": "Rid of Me • 1993"
     }
   ]
 }
