@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T01:39:25",
+  "updatedAt": "2026-10-09T01:39:37",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "American Football",
+    "title": "No Feeling",
+    "album": "American Football • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:39 am",
-      "artist": "American Football",
-      "title": "No Feeling"
-    },
     {
       "time": "1:44 am",
       "artist": "Twisted Teens",
@@ -26,9 +21,20 @@
       "time": "1:50 am",
       "artist": "Beatrix",
       "title": "Turn You Down"
+    },
+    {
+      "time": "1:53 am",
+      "artist": "Vacations",
+      "title": "Midwest"
     }
   ],
   "recent": [
+    {
+      "time": "1:39 am",
+      "artist": "American Football",
+      "title": "No Feeling",
+      "album": "American Football • 2026"
+    },
     {
       "time": "1:34 am",
       "artist": "Angine De Poitrine",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Hold You Now",
       "album": "Father of the Bride • 2019"
-    },
-    {
-      "time": "12:06 am",
-      "artist": "Alex G",
-      "title": "Salt",
-      "album": "Beach Music • 2015"
     }
   ]
 }
