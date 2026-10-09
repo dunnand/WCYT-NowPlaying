@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T00:50:56",
+  "updatedAt": "2026-10-09T00:54:14",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "I Don't Want To Know",
-    "album": "Rumours • 1977",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Ballad of Big Nothing",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:54 am",
-      "artist": "Elliott Smith",
-      "title": "Ballad of Big Nothing"
-    },
     {
       "time": "12:56 am",
       "artist": "Buddy Holly",
@@ -26,9 +21,20 @@
       "time": "1:03 am",
       "artist": "Creedence Clearwater Revival",
       "title": "Suzie Q"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Thom Yorke",
+      "title": "Traffic"
     }
   ],
   "recent": [
+    {
+      "time": "12:54 am",
+      "artist": "Elliott Smith",
+      "title": "Ballad of Big Nothing",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "12:50 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Chains",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "11:19 pm",
-      "artist": "Carly Simon",
-      "title": "Nobody Does It Better",
-      "album": "The Spy Who Loved Me Soundtrack • 1977"
     }
   ]
 }
