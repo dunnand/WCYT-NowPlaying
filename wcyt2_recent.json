@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T11:12:16",
+  "updatedAt": "2026-10-09T11:15:19",
   "now": {
-    "artist": "Radiohead",
-    "title": "Morning Bell/Amnesiac",
-    "album": "Amnesiac • 2001",
+    "artist": "SAULT",
+    "title": "Let Me Go",
+    "album": "5 • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 am",
-      "artist": "SAULT",
-      "title": "Let Me Go"
-    },
     {
       "time": "11:18 am",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "11:26 am",
       "artist": "Vampire Weekend",
       "title": "Step"
+    },
+    {
+      "time": "11:30 am",
+      "artist": "The Zutons",
+      "title": "Valerie"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 am",
+      "artist": "SAULT",
+      "title": "Let Me Go",
+      "album": "5 • 2019"
+    },
     {
       "time": "11:12 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "Be a Body",
       "album": "Visions • 2012"
-    },
-    {
-      "time": "9:25 am",
-      "artist": "Regina Spektor",
-      "title": "Us",
-      "album": "Begin to Hope • 2006"
     }
   ]
 }
