@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T09:30:30",
+  "updatedAt": "2026-10-09T09:30:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grimes",
+    "title": "Be a Body",
+    "album": "Visions • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 am",
-      "artist": "Grimes",
-      "title": "Be a Body"
-    },
     {
       "time": "9:35 am",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "9:43 am",
       "artist": "Bruce Springsteen",
       "title": "Cover Me"
+    },
+    {
+      "time": "9:46 am",
+      "artist": "Terence Trent D'Arby",
+      "title": "Wishing Well"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 am",
+      "artist": "Grimes",
+      "title": "Be a Body",
+      "album": "Visions • 2012"
+    },
     {
       "time": "9:25 am",
       "artist": "Regina Spektor",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Was a Sunny Day",
       "album": "There Goes Rhymin Simon • 1973"
-    },
-    {
-      "time": "7:31 am",
-      "artist": "Satomi Terui",
-      "title": "Star Fox 64 3D (Staff Credits)",
-      "album": "Nintendo Music •"
     }
   ]
 }
