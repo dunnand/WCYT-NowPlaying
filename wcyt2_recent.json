@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T20:30:05",
+  "updatedAt": "2026-10-08T20:33:29",
   "now": {
-    "artist": "The Beatles",
-    "title": "Rocky Racoon",
-    "album": "The Beatles • 1968",
+    "artist": "America",
+    "title": "A Horse With No Name",
+    "album": "America • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:33 pm",
-      "artist": "America",
-      "title": "A Horse With No Name"
-    },
     {
       "time": "8:37 pm",
       "artist": "Swervedriver",
@@ -26,9 +21,20 @@
       "time": "8:46 pm",
       "artist": "The Strokes",
       "title": "What Ever Happened?"
+    },
+    {
+      "time": "8:49 pm",
+      "artist": "Queens of the Stone Age",
+      "title": "No One Knows"
     }
   ],
   "recent": [
+    {
+      "time": "8:33 pm",
+      "artist": "America",
+      "title": "A Horse With No Name",
+      "album": "America • 1971"
+    },
     {
       "time": "8:30 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Dissident",
       "album": "Vs. • 1993"
-    },
-    {
-      "time": "7:03 pm",
-      "artist": "Taylor Swift",
-      "title": "Lover",
-      "album": "Lover • 2019"
     }
   ]
 }
