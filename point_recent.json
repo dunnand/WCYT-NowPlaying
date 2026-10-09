@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T05:09:05",
+  "updatedAt": "2026-10-09T05:09:15",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Spoon",
+    "title": "My Babe",
+    "album": "Lucifer on the Sofa • 2022",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:09 am",
-      "artist": "Spoon",
-      "title": "My Babe"
-    },
     {
       "time": "5:12 am",
       "artist": "King Gizzard & The Lizard Wizard",
@@ -26,9 +21,20 @@
       "time": "5:19 am",
       "artist": "Bully",
       "title": "Kills to Be Resistant"
+    },
+    {
+      "time": "5:22 am",
+      "artist": "The Strokes",
+      "title": "At The Door"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 am",
+      "artist": "Spoon",
+      "title": "My Babe",
+      "album": "Lucifer on the Sofa • 2022"
+    },
     {
       "time": "5:06 am",
       "artist": "Bon Iver",
@@ -172,12 +178,6 @@
       "artist": "Courtney Barnett",
       "title": "Avant Gardener",
       "album": "A Sea of Split Peas • 2015"
-    },
-    {
-      "time": "3:42 am",
-      "artist": "2nd Grade",
-      "title": "Anywhere Girls",
-      "album": "Girls and Boys • 2026"
     }
   ]
 }
