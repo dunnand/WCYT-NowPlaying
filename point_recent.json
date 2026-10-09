@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T03:03:52",
+  "updatedAt": "2026-10-09T03:04:24",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "Brother",
+    "album": "Odelay • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:04 am",
-      "artist": "Beck",
-      "title": "Brother"
-    },
     {
       "time": "3:09 am",
       "artist": "Geese",
@@ -26,9 +21,20 @@
       "time": "3:16 am",
       "artist": "Fleet Foxes",
       "title": "Lorelai"
+    },
+    {
+      "time": "3:21 am",
+      "artist": "Wilco",
+      "title": "You Never Know"
     }
   ],
   "recent": [
+    {
+      "time": "3:04 am",
+      "artist": "Beck",
+      "title": "Brother",
+      "album": "Odelay • 1996"
+    },
     {
       "time": "2:59 am",
       "artist": "IDLES",
@@ -172,12 +178,6 @@
       "artist": "Angine De Poitrine",
       "title": "Sarniezz",
       "album": "Vol. II • 2026"
-    },
-    {
-      "time": "1:31 am",
-      "artist": "Father John Misty",
-      "title": "I'm Writing a Novel",
-      "album": "Fear Fun • 2012"
     }
   ]
 }
