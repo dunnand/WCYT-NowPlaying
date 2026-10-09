@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T16:30:06",
+  "updatedAt": "2026-10-09T16:30:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Neil Young with Crazy Horse",
+    "title": "Cowgirl in the Sand",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:30 pm",
-      "artist": "Neil Young with Crazy Horse",
-      "title": "Cowgirl in the Sand"
-    },
     {
       "time": "4:40 pm",
       "artist": "Sturgill Simpson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:30 pm",
+      "artist": "Neil Young with Crazy Horse",
+      "title": "Cowgirl in the Sand",
+      "album": ""
+    },
     {
       "time": "4:25 pm",
       "artist": "The Mars Volta",
@@ -172,12 +173,6 @@
       "artist": "Mariah Carey",
       "title": "All I Want for Christmas Is You",
       "album": "Merry Christmas • 1994"
-    },
-    {
-      "time": "2:47 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "We The People",
-      "album": "We The People.... • 2016"
     }
   ]
 }
