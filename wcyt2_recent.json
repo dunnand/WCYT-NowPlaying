@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T03:39:18",
+  "updatedAt": "2026-10-09T03:43:44",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Uncle John's Band",
-    "album": "Workingman's Dead • 1970",
+    "artist": "Joni Mitchell",
+    "title": "Amelia",
+    "album": "Hejira • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 am",
-      "artist": "Joni Mitchell",
-      "title": "Amelia"
-    },
     {
       "time": "3:49 am",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "3:55 am",
       "artist": "Pink Floyd",
       "title": "Mother"
+    },
+    {
+      "time": "4:01 am",
+      "artist": "The Flaming Lips",
+      "title": "Turn it On"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 am",
+      "artist": "Joni Mitchell",
+      "title": "Amelia",
+      "album": "Hejira • 1976"
+    },
     {
       "time": "3:39 am",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Rihanna",
       "title": "Don't Stop the Music",
       "album": "Good Girl Gone Bad • 2007"
-    },
-    {
-      "time": "2:02 am",
-      "artist": "Ride",
-      "title": "Home Is a Feeling",
-      "album": "Weather Diaries • 2017"
     }
   ]
 }
