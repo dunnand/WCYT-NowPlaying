@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T17:06:28",
+  "updatedAt": "2026-10-09T17:06:50",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Unknown Mortal Orchestra",
+    "title": "One at a Time",
+    "album": "II • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:06 pm",
-      "artist": "Unknown Mortal Orchestra",
-      "title": "One at a Time"
-    },
     {
       "time": "5:09 pm",
       "artist": "Julia Jacklin",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:06 pm",
+      "artist": "Unknown Mortal Orchestra",
+      "title": "One at a Time",
+      "album": "II • 2012"
+    },
     {
       "time": "5:03 pm",
       "artist": "Waxahatchee",
@@ -172,12 +173,6 @@
       "artist": "The Strokes",
       "title": "Falling Out of Love",
       "album": "Reality Awaits • 2026"
-    },
-    {
-      "time": "3:28 pm",
-      "artist": "Puma Blue",
-      "title": "Pretty",
-      "album": "Holy Waters • 2023"
     }
   ]
 }
