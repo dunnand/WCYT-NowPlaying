@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T02:41:38",
+  "updatedAt": "2026-10-09T02:47:17",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Tangled Up in Blue",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Green River",
+    "album": "Green River • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:47 am",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Green River"
-    },
     {
       "time": "2:49 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "2:58 am",
       "artist": "David Bowie",
       "title": "Suffragette City"
+    },
+    {
+      "time": "3:02 am",
+      "artist": "Radiohead",
+      "title": "Airbag"
     }
   ],
   "recent": [
+    {
+      "time": "2:47 am",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Green River",
+      "album": "Green River • 1969"
+    },
     {
       "time": "2:41 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Nude",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "12:56 am",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
