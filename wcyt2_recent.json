@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T01:11:41",
+  "updatedAt": "2026-10-09T01:16:55",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "Traffic",
-    "album": "ANIMA • 2019",
-    "category": "TUNES"
+    "artist": "Pearl Jam",
+    "title": "In My Tree",
+    "album": "No Code • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:16 am",
-      "artist": "Pearl Jam",
-      "title": "In My Tree"
-    },
     {
       "time": "1:20 am",
       "artist": "The Smashing Pumpkins",
@@ -21,9 +16,20 @@
       "time": "1:25 am",
       "artist": "R.E.M.",
       "title": "Radio Free Europe"
+    },
+    {
+      "time": "1:29 am",
+      "artist": "The Vapors",
+      "title": "Turning Japanese"
     }
   ],
   "recent": [
+    {
+      "time": "1:16 am",
+      "artist": "Pearl Jam",
+      "title": "In My Tree",
+      "album": "No Code • 1996"
+    },
     {
       "time": "1:11 am",
       "artist": "Thom Yorke",
@@ -167,12 +173,6 @@
       "artist": "Waylon Jennings & Willie Nelson",
       "title": "Just To Satisfy You",
       "album": "Just to Satisfy You • 1969"
-    },
-    {
-      "time": "11:35 pm",
-      "artist": "Radiohead",
-      "title": "House of Cards",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
