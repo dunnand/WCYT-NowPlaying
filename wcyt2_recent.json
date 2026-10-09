@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T02:49:41",
+  "updatedAt": "2026-10-09T02:49:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "album": "A Night at the Opera • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:49 am",
-      "artist": "Queen",
-      "title": "Bohemian Rhapsody"
-    },
     {
       "time": "2:55 am",
       "artist": "Creedence Clearwater Revival",
@@ -26,9 +21,20 @@
       "time": "3:02 am",
       "artist": "Radiohead",
       "title": "Airbag"
+    },
+    {
+      "time": "3:06 am",
+      "artist": "Jimmy \"C\" Newman",
+      "title": "A Fallen Star"
     }
   ],
   "recent": [
+    {
+      "time": "2:49 am",
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody",
+      "album": "A Night at the Opera • 1975"
+    },
     {
       "time": "2:47 am",
       "artist": "Creedence Clearwater Revival",
@@ -172,12 +178,6 @@
       "artist": "Creedence Clearwater Revival",
       "title": "Suzie Q",
       "album": "Creedence Clearwater Revival • 1968"
-    },
-    {
-      "time": "12:58 am",
-      "artist": "Radiohead",
-      "title": "Nude",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
