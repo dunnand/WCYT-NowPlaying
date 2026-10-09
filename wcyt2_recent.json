@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-08T22:38:15",
+  "updatedAt": "2026-10-08T22:38:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Train",
+    "title": "Hey Soul Sister",
+    "album": "Save Me, San Francisco • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:38 pm",
-      "artist": "Train",
-      "title": "Hey Soul Sister"
-    },
     {
       "time": "10:41 pm",
       "artist": "Sun Kil Moon",
@@ -26,9 +21,20 @@
       "time": "10:52 pm",
       "artist": "Soundgarden",
       "title": "Spoonman"
+    },
+    {
+      "time": "10:56 pm",
+      "artist": "Radiohead",
+      "title": "My Iron Lung"
     }
   ],
   "recent": [
+    {
+      "time": "10:38 pm",
+      "artist": "Train",
+      "title": "Hey Soul Sister",
+      "album": "Save Me, San Francisco • 2009"
+    },
     {
       "time": "10:33 pm",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Soft Cell",
       "title": "Tainted Love",
       "album": "Non-Stop Erotic Cabaret • 1981"
-    },
-    {
-      "time": "9:04 pm",
-      "artist": "R.E.M.",
-      "title": "The One I Love",
-      "album": "Document • 1987"
     }
   ]
 }
