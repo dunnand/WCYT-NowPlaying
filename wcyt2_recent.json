@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T01:02:58",
+  "updatedAt": "2026-10-09T01:03:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Suzie Q",
+    "album": "Creedence Clearwater Revival • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Suzie Q"
-    },
     {
       "time": "1:11 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "1:20 am",
       "artist": "The Smashing Pumpkins",
       "title": "Cherub Rock"
+    },
+    {
+      "time": "1:25 am",
+      "artist": "R.E.M.",
+      "title": "Radio Free Europe"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Suzie Q",
+      "album": "Creedence Clearwater Revival • 1968"
+    },
     {
       "time": "12:58 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Platters",
       "title": "Twilight Time",
       "album": "single • 1958"
-    },
-    {
-      "time": "11:27 pm",
-      "artist": "Sunny Day Real Estate",
-      "title": "In Circles",
-      "album": "Diary • 1994"
     }
   ]
 }
