@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T21:22:33",
+  "updatedAt": "2026-10-09T21:25:17",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "If Not For You",
-    "album": "New Morning • 1970",
+    "artist": "Cocteau Twins",
+    "title": "Cherry-Coloured Funk",
+    "album": "Heaven Or Las Vegas • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 pm",
-      "artist": "Cocteau Twins",
-      "title": "Cherry-Coloured Funk"
-    },
     {
       "time": "9:28 pm",
       "artist": "Dean Martin",
@@ -21,9 +16,20 @@
       "time": "9:31 pm",
       "artist": "Radiohead",
       "title": "Kid A"
+    },
+    {
+      "time": "9:36 pm",
+      "artist": "Ella Fitzgerald",
+      "title": "After You've Gone"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 pm",
+      "artist": "Cocteau Twins",
+      "title": "Cherry-Coloured Funk",
+      "album": "Heaven Or Las Vegas • 1990"
+    },
     {
       "time": "9:22 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Blur",
       "title": "Girls & Boys",
       "album": "Parklife • 1994"
-    },
-    {
-      "time": "7:54 pm",
-      "artist": "blink-182",
-      "title": "Adam's Song",
-      "album": "Enema of the State • 1999"
     }
   ]
 }
