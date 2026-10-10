@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T20:44:53",
+  "updatedAt": "2026-10-09T20:49:26",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "A Brain In A Bottle",
-    "album": "Tomorrow's Modern Boxes • 2014",
-    "category": "TUNES"
+    "artist": "Bruce Springsteen",
+    "title": "Human Touch",
+    "album": "Human Touch • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:49 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Human Touch"
-    },
     {
       "time": "8:54 pm",
       "artist": "Celine Dion",
@@ -21,9 +16,20 @@
       "time": "8:58 pm",
       "artist": "Pretenders",
       "title": "Brass In Pocket"
+    },
+    {
+      "time": "9:01 pm",
+      "artist": "Prince and The Revolution",
+      "title": "Paisley Park"
     }
   ],
   "recent": [
+    {
+      "time": "8:49 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Human Touch",
+      "album": "Human Touch • 1992"
+    },
     {
       "time": "8:44 pm",
       "artist": "Thom Yorke",
@@ -167,12 +173,6 @@
       "artist": "Eagles",
       "title": "Witchy Woman",
       "album": "Eagles • 1972"
-    },
-    {
-      "time": "7:11 pm",
-      "artist": "The Clash",
-      "title": "Tommy Gun",
-      "album": "Give 'Em Enough Rope • 1978"
     }
   ]
 }
