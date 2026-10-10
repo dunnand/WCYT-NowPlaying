@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-10T15:26:57",
+  "updatedAt": "2026-10-10T15:30:53",
   "now": {
-    "artist": "Sarah McLachlan",
-    "title": "Angel",
-    "album": "Surfacing • 1998",
+    "artist": "Ray Charles",
+    "title": "Lonely Avenue",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 pm",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue"
-    },
     {
       "time": "3:33 pm",
       "artist": "The Killers",
       "title": "Read My Mind"
     },
     {
-      "time": "3:38 pm",
+      "time": "3:37 pm",
       "artist": "Elvis Presley",
       "title": "In The Ghetto"
     },
@@ -26,9 +21,20 @@
       "time": "3:40 pm",
       "artist": "Weezer",
       "title": "Turning Up the Radio"
+    },
+    {
+      "time": "3:44 pm",
+      "artist": "Sinead O'Connor",
+      "title": "Nothing Compares 2 U"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 pm",
+      "artist": "Ray Charles",
+      "title": "Lonely Avenue",
+      "album": "single • 1956"
+    },
     {
       "time": "3:26 pm",
       "artist": "Sarah McLachlan",
@@ -172,12 +178,6 @@
       "artist": "Talk Talk",
       "title": "It's My Life",
       "album": "Its My Life • 1984"
-    },
-    {
-      "time": "1:49 pm",
-      "artist": "Queen",
-      "title": "Innuendo",
-      "album": "Innuendo • 1991"
     }
   ]
 }
