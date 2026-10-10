@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T09:37:31",
+  "updatedAt": "2026-10-10T09:37:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Campus",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:37 am",
-      "artist": "Vampire Weekend",
-      "title": "Campus"
-    },
     {
       "time": "9:40 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "9:46 am",
       "artist": "Ned's Atomic Dustbin",
       "title": "Grey Cell Green"
+    },
+    {
+      "time": "9:50 am",
+      "artist": "Nas",
+      "title": "The World Is Yours"
     }
   ],
   "recent": [
+    {
+      "time": "9:37 am",
+      "artist": "Vampire Weekend",
+      "title": "Campus",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "9:34 am",
       "artist": "Songs Ohia",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Procession",
       "album": "single • 1981"
-    },
-    {
-      "time": "8:04 am",
-      "artist": "Torment",
-      "title": "Time To Think",
-      "album": "Psyclops Carnival • 1986"
     }
   ]
 }
