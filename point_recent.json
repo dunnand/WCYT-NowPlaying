@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T09:10:49",
+  "updatedAt": "2026-10-10T09:15:55",
   "now": {
-    "artist": "Hum",
-    "title": "Stars",
-    "album": "You'd Prefer an Astronaut • 1995",
+    "artist": "Bright Eyes",
+    "title": "Lua",
+    "album": "Fevers Mirrors • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 am",
-      "artist": "Bright Eyes",
-      "title": "Lua"
-    },
     {
       "time": "9:20 am",
       "artist": "Fiona Apple",
@@ -26,9 +21,20 @@
       "time": "9:26 am",
       "artist": "The White Stripes",
       "title": "The Big Three Killed My Baby"
+    },
+    {
+      "time": "9:28 am",
+      "artist": "Future Islands",
+      "title": "The Fountain"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 am",
+      "artist": "Bright Eyes",
+      "title": "Lua",
+      "album": "Fevers Mirrors • 2000"
+    },
     {
       "time": "9:10 am",
       "artist": "Hum",
@@ -172,12 +178,6 @@
       "artist": "Bon Iver",
       "title": "RABi",
       "album": "i,i • 2019"
-    },
-    {
-      "time": "7:37 am",
-      "artist": "This Is Lorelei",
-      "title": "The Kid With the Crown",
-      "album": "The Singer in My Band • 2026"
     }
   ]
 }
