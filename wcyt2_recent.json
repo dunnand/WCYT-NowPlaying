@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T13:07:25",
+  "updatedAt": "2026-10-10T13:07:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "album": "Piano Man • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 pm",
-      "artist": "Billy Joel",
-      "title": "Piano Man"
-    },
     {
       "time": "1:10 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "1:20 pm",
       "artist": "Bobby Darin",
       "title": "Dream Lover"
+    },
+    {
+      "time": "1:23 pm",
+      "artist": "The Carpenters",
+      "title": "Only Yesterday"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 pm",
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "album": "Piano Man • 1973"
+    },
     {
       "time": "1:04 pm",
       "artist": "Minako Hamano",
@@ -172,12 +178,6 @@
       "artist": "Les Paul",
       "title": "How High The Moon",
       "album": "single • 1951"
-    },
-    {
-      "time": "11:20 am",
-      "artist": "Ozzy Osbourne",
-      "title": "No More Tears",
-      "album": "No More Tears • 1991"
     }
   ]
 }
