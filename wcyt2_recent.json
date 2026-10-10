@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T11:14:13",
+  "updatedAt": "2026-10-10T11:17:08",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I Want You",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "David Bowie",
+    "title": "Oh! You Pretty Things / Eight Line Poem",
+    "album": "Hunky Dory • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:17 am",
-      "artist": "David Bowie",
-      "title": "Oh! You Pretty Things / Eight Line Poem"
-    },
     {
       "time": "11:20 am",
       "artist": "Ozzy Osbourne",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:17 am",
+      "artist": "David Bowie",
+      "title": "Oh! You Pretty Things / Eight Line Poem",
+      "album": "Hunky Dory • 1971"
+    },
     {
       "time": "11:14 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Ned's Atomic Dustbin",
       "title": "Grey Cell Green",
       "album": "God Fodder • 1991"
-    },
-    {
-      "time": "9:43 am",
-      "artist": "Weezer",
-      "title": "Cleopatra",
-      "album": "Everything Will Be Alright in the End • 2014"
     }
   ]
 }
