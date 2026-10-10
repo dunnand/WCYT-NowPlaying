@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T23:21:06",
+  "updatedAt": "2026-10-09T23:25:10",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Convenient Parking",
-    "album": "Lonesome Crowded West • 1998",
-    "category": "TUNES"
+    "artist": "Johnny & The Hurricanes",
+    "title": "Red River Rock",
+    "album": "Red River Rock • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:25 pm",
-      "artist": "Johnny & The Hurricanes",
-      "title": "Red River Rock"
-    },
     {
       "time": "11:27 pm",
       "artist": "Sonic Youth",
@@ -26,9 +21,20 @@
       "time": "11:32 pm",
       "artist": "Wilco",
       "title": "North American Kids"
+    },
+    {
+      "time": "11:34 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "The King of Carrot Flowers Pt. One"
     }
   ],
   "recent": [
+    {
+      "time": "11:25 pm",
+      "artist": "Johnny & The Hurricanes",
+      "title": "Red River Rock",
+      "album": "Red River Rock • 1959"
+    },
     {
       "time": "11:21 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Prince",
       "title": "Alphabet St.",
       "album": "Lovesexy • 1988"
-    },
-    {
-      "time": "9:48 pm",
-      "artist": "Cranberries",
-      "title": "When You're Gone",
-      "album": "To The Faithful Departed • 1996"
     }
   ]
 }
