@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T11:46:01",
+  "updatedAt": "2026-10-10T11:51:10",
   "now": {
-    "artist": "Paul Simon",
-    "title": "The Coast",
-    "album": "The Rhythm of the Saints • 1990",
+    "artist": "Eric B. & Rakim",
+    "title": "Eric B. Is President",
+    "album": "Paid in Full • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:50 am",
-      "artist": "Eric B. & Rakim",
-      "title": "Eric B. Is President"
-    },
     {
       "time": "11:57 am",
       "artist": "Jungle Brothers",
@@ -26,9 +21,20 @@
       "time": "12:04 pm",
       "artist": "Faces",
       "title": "Ooh La La"
+    },
+    {
+      "time": "12:07 pm",
+      "artist": "Peter Frampton",
+      "title": "Do You Feel Like We Do"
     }
   ],
   "recent": [
+    {
+      "time": "11:51 am",
+      "artist": "Eric B. & Rakim",
+      "title": "Eric B. Is President",
+      "album": "Paid in Full • 1987"
+    },
     {
       "time": "11:46 am",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Brenda Lee",
       "title": "I'm sorry",
       "album": "Brenda Lee • 1960"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Grateful Dead",
-      "title": "Casey Jones",
-      "album": "Workingman's Dead • 1970"
     }
   ]
 }
