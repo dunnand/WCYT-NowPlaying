@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T08:36:25",
+  "updatedAt": "2026-10-10T08:41:20",
   "now": {
-    "artist": "Elton John",
-    "title": "Saturday Night's Alright for Fighting",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Melissa Etheridge",
+    "title": "I'm The Only One",
+    "album": "Yes I Am • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 am",
-      "artist": "Melissa Etheridge",
-      "title": "I'm The Only One"
-    },
     {
       "time": "8:45 am",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "8:50 am",
       "artist": "The Everly Brothers",
       "title": "So Sad (To Watch Good Love Go Bad)"
+    },
+    {
+      "time": "8:53 am",
+      "artist": "The Afghan Whigs",
+      "title": "Arabian Heights"
     }
   ],
   "recent": [
+    {
+      "time": "8:41 am",
+      "artist": "Melissa Etheridge",
+      "title": "I'm The Only One",
+      "album": "Yes I Am • 1994"
+    },
     {
       "time": "8:36 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
       "album": "Blue Lines • 1991"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "Mad Season",
-      "title": "River of Deceit",
-      "album": "Above • 1995"
     }
   ]
 }
