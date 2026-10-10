@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T00:17:28",
+  "updatedAt": "2026-10-10T00:21:16",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Style",
-    "album": "1989 • 2014",
+    "artist": "Eagles",
+    "title": "Love Will Keep Us Alive",
+    "album": "Hell Freezes Over • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:21 am",
-      "artist": "Eagles",
-      "title": "Love Will Keep Us Alive"
-    },
     {
       "time": "12:25 am",
       "artist": "Eels",
@@ -21,9 +16,20 @@
       "time": "12:29 am",
       "artist": "Tears For Fears",
       "title": "Shout"
+    },
+    {
+      "time": "12:35 am",
+      "artist": "Tina Turner",
+      "title": "The Best"
     }
   ],
   "recent": [
+    {
+      "time": "12:21 am",
+      "artist": "Eagles",
+      "title": "Love Will Keep Us Alive",
+      "album": "Hell Freezes Over • 1994"
+    },
     {
       "time": "12:17 am",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "Rick Springfield",
       "title": "Human Touch",
       "album": "Living in Oz • 1983"
-    },
-    {
-      "time": "10:46 pm",
-      "artist": "DJ Shadow",
-      "title": "Midnight In A Perfect World",
-      "album": "Entroducing • 1996"
     }
   ]
 }
