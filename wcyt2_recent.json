@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T20:15:29",
+  "updatedAt": "2026-10-09T20:15:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Me Mine",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 pm",
-      "artist": "The Beatles",
-      "title": "I Me Mine"
-    },
     {
       "time": "8:17 pm",
       "artist": "Buffalo Springfield",
@@ -26,9 +21,20 @@
       "time": "8:23 pm",
       "artist": "Gladys Knight & The Pips",
       "title": "Every Beat Of My Heart"
+    },
+    {
+      "time": "8:25 pm",
+      "artist": "Patrick Hernandez",
+      "title": "Born To Be Alive"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 pm",
+      "artist": "The Beatles",
+      "title": "I Me Mine",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "8:11 pm",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Screamin Jay Hawkins",
       "title": "I Put a Spell on You",
       "album": "At Home with Screamin Jay Hawkins • 1958"
-    },
-    {
-      "time": "6:30 pm",
-      "artist": "American Football",
-      "title": "Never Meant",
-      "album": "American Football • 1999"
     }
   ]
 }
