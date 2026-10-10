@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T17:09:36",
+  "updatedAt": "2026-10-10T17:12:11",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Me and Julio Down by the Schoolyard",
-    "album": "Paul Simon • 1972",
+    "artist": "Dion",
+    "title": "Donna The Prima Donna",
+    "album": "Donna the Prima Donna • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 pm",
-      "artist": "Dion",
-      "title": "Donna The Prima Donna"
-    },
     {
       "time": "5:15 pm",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "5:23 pm",
       "artist": "Rolling Stones",
       "title": "Tumbling Dice"
+    },
+    {
+      "time": "5:26 pm",
+      "artist": "Spice Girls",
+      "title": "Wannabe"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 pm",
+      "artist": "Dion",
+      "title": "Donna The Prima Donna",
+      "album": "Donna the Prima Donna • 1963"
+    },
     {
       "time": "5:09 pm",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "Lonely Avenue",
       "album": "single • 1956"
-    },
-    {
-      "time": "3:26 pm",
-      "artist": "Sarah McLachlan",
-      "title": "Angel",
-      "album": "Surfacing • 1998"
     }
   ]
 }
