@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T02:30:42",
+  "updatedAt": "2026-10-10T02:34:08",
   "now": {
-    "artist": "Twisted Sister",
-    "title": "We're Not Gonna Take It",
-    "album": "Stay Hungry • 1984",
+    "artist": "Olivia Rodrigo",
+    "title": "Can’t Catch Me Now",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:34 am",
-      "artist": "Olivia Rodrigo",
-      "title": "Can’t Catch Me Now"
-    },
     {
       "time": "2:37 am",
       "artist": "Spiritualized",
@@ -26,9 +21,20 @@
       "time": "2:46 am",
       "artist": "Radiohead",
       "title": "2 + 2 = 5 (The Lukewarm.)"
+    },
+    {
+      "time": "2:50 am",
+      "artist": "Rihanna",
+      "title": "Diamonds"
     }
   ],
   "recent": [
+    {
+      "time": "2:34 am",
+      "artist": "Olivia Rodrigo",
+      "title": "Can’t Catch Me Now",
+      "album": ""
+    },
     {
       "time": "2:30 am",
       "artist": "Twisted Sister",
@@ -172,12 +178,6 @@
       "artist": "Eric B. & Rakim",
       "title": "Let the Rhythm Hit 'Em",
       "album": "Let the Rhythm Hit Em • 1990"
-    },
-    {
-      "time": "12:59 am",
-      "artist": "Bruce Springsteen",
-      "title": "Darkness on the Edge of Town",
-      "album": "Darkness on the Edge of Town • 1978"
     }
   ]
 }
