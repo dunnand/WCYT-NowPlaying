@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T19:05:12",
+  "updatedAt": "2026-10-10T19:05:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "New York Dolls",
+    "title": "Personality Crisis",
+    "album": "New York Dolls • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:05 pm",
-      "artist": "New York Dolls",
-      "title": "Personality Crisis"
-    },
     {
       "time": "7:08 pm",
       "artist": "The Beach Boys",
@@ -31,9 +26,20 @@
       "time": "7:21 pm",
       "artist": "Monotones",
       "title": "Book Of Love"
+    },
+    {
+      "time": "7:23 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Crying Lightning"
     }
   ],
   "recent": [
+    {
+      "time": "7:05 pm",
+      "artist": "New York Dolls",
+      "title": "Personality Crisis",
+      "album": "New York Dolls • 1973"
+    },
     {
       "time": "7:02 pm",
       "artist": "Elvis Presley",
@@ -177,12 +183,6 @@
       "artist": "The Beach Boys",
       "title": "Barbara Ann",
       "album": "Beach Boy Party! • 1965"
-    },
-    {
-      "time": "5:31 pm",
-      "artist": "Weezer",
-      "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)",
-      "album": "Weezer • 2008"
     }
   ]
 }
