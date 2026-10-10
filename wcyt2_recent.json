@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T17:09:24",
+  "updatedAt": "2026-10-10T17:09:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Me and Julio Down by the Schoolyard",
+    "album": "Paul Simon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:09 pm",
-      "artist": "Paul Simon",
-      "title": "Me and Julio Down by the Schoolyard"
-    },
     {
       "time": "5:12 pm",
       "artist": "Dion",
@@ -26,9 +21,20 @@
       "time": "5:19 pm",
       "artist": "Diana Ross & The Supremes",
       "title": "Someday We'll Be Together"
+    },
+    {
+      "time": "5:23 pm",
+      "artist": "Rolling Stones",
+      "title": "Tumbling Dice"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 pm",
+      "artist": "Paul Simon",
+      "title": "Me and Julio Down by the Schoolyard",
+      "album": "Paul Simon • 1972"
+    },
     {
       "time": "5:05 pm",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Sarah McLachlan",
       "title": "Angel",
       "album": "Surfacing • 1998"
-    },
-    {
-      "time": "3:23 pm",
-      "artist": "The Clash",
-      "title": "Clash Citry Rockers",
-      "album": "The Clash • 1979"
     }
   ]
 }
