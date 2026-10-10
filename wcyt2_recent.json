@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T23:16:50",
+  "updatedAt": "2026-10-09T23:21:06",
   "now": {
-    "artist": "Bill Withers",
-    "title": "Lean on Me",
-    "album": "Still Bill • 1972",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Convenient Parking",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:20 pm",
-      "artist": "Modest Mouse",
-      "title": "Convenient Parking"
-    },
     {
       "time": "11:25 pm",
       "artist": "Johnny & The Hurricanes",
@@ -26,9 +21,20 @@
       "time": "11:29 pm",
       "artist": "The Temptations",
       "title": "The Way You Do The Things You Do"
+    },
+    {
+      "time": "11:32 pm",
+      "artist": "Wilco",
+      "title": "North American Kids"
     }
   ],
   "recent": [
+    {
+      "time": "11:21 pm",
+      "artist": "Modest Mouse",
+      "title": "Convenient Parking",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "11:16 pm",
       "artist": "Bill Withers",
@@ -172,12 +178,6 @@
       "artist": "Cranberries",
       "title": "When You're Gone",
       "album": "To The Faithful Departed • 1996"
-    },
-    {
-      "time": "9:44 pm",
-      "artist": "Coolio",
-      "title": "Fantastic Voyage",
-      "album": "It Takes A Thief • 1994"
     }
   ]
 }
