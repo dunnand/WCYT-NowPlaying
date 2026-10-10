@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T12:04:11",
+  "updatedAt": "2026-10-10T12:04:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Faces",
+    "title": "Ooh La La",
+    "album": "Ooh La La • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 pm",
-      "artist": "Faces",
-      "title": "Ooh La La"
-    },
     {
       "time": "12:07 pm",
       "artist": "Peter Frampton",
@@ -26,9 +21,20 @@
       "time": "12:25 pm",
       "artist": "Astrud Gilberto",
       "title": "Summer Samba (So Nice)"
+    },
+    {
+      "time": "12:28 pm",
+      "artist": "Al Green",
+      "title": "I'm Still in Love With You"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 pm",
+      "artist": "Faces",
+      "title": "Ooh La La",
+      "album": "Ooh La La • 1973"
+    },
     {
       "time": "12:00 pm",
       "artist": "BTS",
@@ -172,12 +178,6 @@
       "artist": "Dell-Vikings",
       "title": "Come Go With Me",
       "album": "Come Go With the Del-Vikings • 1957"
-    },
-    {
-      "time": "10:23 am",
-      "artist": "Natalie Merchant",
-      "title": "Carnival",
-      "album": "Tigerlily • 1995"
     }
   ]
 }
