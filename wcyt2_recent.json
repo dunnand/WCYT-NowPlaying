@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T18:11:33",
+  "updatedAt": "2026-10-10T18:16:40",
   "now": {
-    "artist": "Sufjan Stevens",
-    "title": "Chicago",
-    "album": "Illinois • 2005",
-    "category": "TUNES"
+    "artist": "The Beach Boys",
+    "title": "Good to My Baby",
+    "album": "The Beach Boys Today! • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:16 pm",
-      "artist": "The Beach Boys",
-      "title": "Good to My Baby"
-    },
     {
       "time": "6:18 pm",
       "artist": "Frankie Valli",
@@ -26,9 +21,20 @@
       "time": "6:26 pm",
       "artist": "Run The Jewels",
       "title": "Early"
+    },
+    {
+      "time": "6:30 pm",
+      "artist": "Fall Out Boy",
+      "title": "Thnks Fr Th Mmrs"
     }
   ],
   "recent": [
+    {
+      "time": "6:16 pm",
+      "artist": "The Beach Boys",
+      "title": "Good to My Baby",
+      "album": "The Beach Boys Today! • 1965"
+    },
     {
       "time": "6:11 pm",
       "artist": "Sufjan Stevens",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "I Might Be Wrong",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "4:38 pm",
-      "artist": "The White Stripes",
-      "title": "Little Bird",
-      "album": "De Stijl • 2000"
     }
   ]
 }
