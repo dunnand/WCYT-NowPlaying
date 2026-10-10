@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T11:07:44",
+  "updatedAt": "2026-10-10T11:14:13",
   "now": {
-    "artist": "Songs Ohia",
-    "title": "Lioness",
-    "album": "The Lioness • 2000",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "I Want You",
+    "album": "Blonde on Blonde • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:14 am",
-      "artist": "Bob Dylan",
-      "title": "I Want You"
-    },
     {
       "time": "11:17 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "11:27 am",
       "artist": "Les Paul",
       "title": "How High The Moon"
+    },
+    {
+      "time": "11:29 am",
+      "artist": "Wolf Parade",
+      "title": "I'll Believe In Anything"
     }
   ],
   "recent": [
+    {
+      "time": "11:14 am",
+      "artist": "Bob Dylan",
+      "title": "I Want You",
+      "album": "Blonde on Blonde • 1966"
+    },
     {
       "time": "11:07 am",
       "artist": "Songs Ohia",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Cleopatra",
       "album": "Everything Will Be Alright in the End • 2014"
-    },
-    {
-      "time": "9:40 am",
-      "artist": "Wilco",
-      "title": "Heavy Metal Drummer",
-      "album": "Yankee Hotel Foxtrot • 2002"
     }
   ]
 }
