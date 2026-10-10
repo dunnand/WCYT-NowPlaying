@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T19:00:03",
+  "updatedAt": "2026-10-10T19:00:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cat Stevens",
+    "title": "Moonshadow",
+    "album": "Teaser and the Firecat • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 pm",
-      "artist": "Cat Stevens",
-      "title": "Moonshadow"
-    },
     {
       "time": "7:02 pm",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "7:09 pm",
       "artist": "The Beach Boys",
       "title": "Friends"
+    },
+    {
+      "time": "7:11 pm",
+      "artist": "Sparks",
+      "title": "A Big Surprise"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 pm",
+      "artist": "Cat Stevens",
+      "title": "Moonshadow",
+      "album": "Teaser and the Firecat • 1971"
+    },
     {
       "time": "6:56 pm",
       "artist": "Toshiyuki Sudo",
@@ -172,12 +178,6 @@
       "artist": "Little Richard",
       "title": "Good Golly Miss Molly",
       "album": "Little Richard • 1958"
-    },
-    {
-      "time": "5:26 pm",
-      "artist": "Spice Girls",
-      "title": "Wannabe",
-      "album": "Spice • 1996"
     }
   ]
 }
