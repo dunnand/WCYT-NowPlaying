@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T02:30:22",
+  "updatedAt": "2026-10-10T02:30:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Twisted Sister",
+    "title": "We're Not Gonna Take It",
+    "album": "Stay Hungry • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:30 am",
-      "artist": "Twisted Sister",
-      "title": "We're Not Gonna Take It"
-    },
     {
       "time": "2:34 am",
       "artist": "Olivia Rodrigo",
@@ -26,9 +21,20 @@
       "time": "2:42 am",
       "artist": "James Taylor",
       "title": "Up On The Roof"
+    },
+    {
+      "time": "2:46 am",
+      "artist": "Radiohead",
+      "title": "2 + 2 = 5 (The Lukewarm.)"
     }
   ],
   "recent": [
+    {
+      "time": "2:30 am",
+      "artist": "Twisted Sister",
+      "title": "We're Not Gonna Take It",
+      "album": "Stay Hungry • 1984"
+    },
     {
       "time": "2:27 am",
       "artist": "The Durutti Column",
@@ -172,12 +178,6 @@
       "artist": "Bruce Springsteen",
       "title": "Darkness on the Edge of Town",
       "album": "Darkness on the Edge of Town • 1978"
-    },
-    {
-      "time": "12:54 am",
-      "artist": "Rihanna",
-      "title": "What's My Name",
-      "album": "Loud • 2010"
     }
   ]
 }
