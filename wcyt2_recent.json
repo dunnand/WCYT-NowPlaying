@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T19:00:15",
+  "updatedAt": "2026-10-10T19:02:50",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Moonshadow",
-    "album": "Teaser and the Firecat • 1971",
+    "artist": "Elvis Presley",
+    "title": "Little Sister",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 pm",
-      "artist": "Elvis Presley",
-      "title": "Little Sister"
-    },
     {
       "time": "7:05 pm",
       "artist": "New York Dolls",
@@ -26,9 +21,20 @@
       "time": "7:11 pm",
       "artist": "Sparks",
       "title": "A Big Surprise"
+    },
+    {
+      "time": "7:15 pm",
+      "artist": "Temple of the Dog",
+      "title": "Say Hello 2 Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "7:02 pm",
+      "artist": "Elvis Presley",
+      "title": "Little Sister",
+      "album": "single • 1961"
+    },
     {
       "time": "7:00 pm",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)",
       "album": "Weezer • 2008"
-    },
-    {
-      "time": "5:29 pm",
-      "artist": "Little Richard",
-      "title": "Good Golly Miss Molly",
-      "album": "Little Richard • 1958"
     }
   ]
 }
