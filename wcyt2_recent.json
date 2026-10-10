@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T14:39:40",
+  "updatedAt": "2026-10-10T14:43:28",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "22",
-    "album": "Red • 2012",
+    "artist": "Rancid",
+    "title": "Ruby Soho",
+    "album": "...And Out Come the Wolves • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 pm",
-      "artist": "Rancid",
-      "title": "Ruby Soho"
-    },
     {
       "time": "2:45 pm",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "2:54 pm",
       "artist": "Van Halen",
       "title": "When It's Love"
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "jealousy, jealousy"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 pm",
+      "artist": "Rancid",
+      "title": "Ruby Soho",
+      "album": "...And Out Come the Wolves • 1995"
+    },
     {
       "time": "2:39 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "We’ve Got Tonight",
       "album": "Stranger in Town • 1979"
-    },
-    {
-      "time": "1:07 pm",
-      "artist": "Billy Joel",
-      "title": "Piano Man",
-      "album": "Piano Man • 1973"
     }
   ]
 }
