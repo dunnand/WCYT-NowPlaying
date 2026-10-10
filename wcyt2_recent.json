@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T15:23:11",
+  "updatedAt": "2026-10-10T15:26:57",
   "now": {
-    "artist": "The Clash",
-    "title": "Clash Citry Rockers",
-    "album": "The Clash • 1979",
+    "artist": "Sarah McLachlan",
+    "title": "Angel",
+    "album": "Surfacing • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 pm",
-      "artist": "Sarah McLachlan",
-      "title": "Angel"
-    },
     {
       "time": "3:30 pm",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "3:38 pm",
       "artist": "Elvis Presley",
       "title": "In The Ghetto"
+    },
+    {
+      "time": "3:40 pm",
+      "artist": "Weezer",
+      "title": "Turning Up the Radio"
     }
   ],
   "recent": [
+    {
+      "time": "3:26 pm",
+      "artist": "Sarah McLachlan",
+      "title": "Angel",
+      "album": "Surfacing • 1998"
+    },
     {
       "time": "3:23 pm",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Queen",
       "title": "Innuendo",
       "album": "Innuendo • 1991"
-    },
-    {
-      "time": "1:43 pm",
-      "artist": "Pulp",
-      "title": "This.Is.Hardcore",
-      "album": "This Is Hardcore • 1998"
     }
   ]
 }
