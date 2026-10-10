@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T09:10:16",
+  "updatedAt": "2026-10-10T09:13:32",
   "now": {
-    "artist": "The Weeknd",
-    "title": "Blinding Lights",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spiritualized",
+    "title": "Do It All Over Again",
+    "album": "Let It Come Down • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:13 am",
-      "artist": "Spiritualized",
-      "title": "Do It All Over Again"
-    },
     {
       "time": "9:17 am",
       "artist": "John Travolta & Olivia Newton",
@@ -26,9 +21,20 @@
       "time": "9:23 am",
       "artist": "Wiz Khalifa",
       "title": "Black & Yellow"
+    },
+    {
+      "time": "9:27 am",
+      "artist": "Fleetwood Mac",
+      "title": "Warm Ways"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 am",
+      "artist": "Spiritualized",
+      "title": "Do It All Over Again",
+      "album": "Let It Come Down • 2001"
+    },
     {
       "time": "9:10 am",
       "artist": "The Weeknd",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "You Satellite",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "7:36 am",
-      "artist": "Matchbox Twenty",
-      "title": "Back 2 Good",
-      "album": "Yourself or Someone Like You • 1998"
     }
   ]
 }
