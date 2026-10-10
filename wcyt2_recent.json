@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T21:16:36",
+  "updatedAt": "2026-10-09T21:20:10",
   "now": {
-    "artist": "The White Stripes",
-    "title": "There's No Home for You Here",
-    "album": "Elephant • 2003",
-    "category": "TUNES"
+    "artist": "Wilco",
+    "title": "The Joke Explained",
+    "album": "Star Wars • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 pm",
-      "artist": "Wilco",
-      "title": "The Joke Explained"
-    },
     {
       "time": "9:22 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "9:28 pm",
       "artist": "Dean Martin",
       "title": "That's Amore"
+    },
+    {
+      "time": "9:31 pm",
+      "artist": "Radiohead",
+      "title": "Kid A"
     }
   ],
   "recent": [
+    {
+      "time": "9:20 pm",
+      "artist": "Wilco",
+      "title": "The Joke Explained",
+      "album": "Star Wars • 2015"
+    },
     {
       "time": "9:16 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Has Ended",
       "album": "Suspiria • 2018"
-    },
-    {
-      "time": "7:45 pm",
-      "artist": "Spoon",
-      "title": "Stay Don't Go",
-      "album": "Kill The Moonlight • 2002"
     }
   ]
 }
