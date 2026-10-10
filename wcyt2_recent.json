@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T17:29:07",
+  "updatedAt": "2026-10-10T17:29:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Little Richard",
+    "title": "Good Golly Miss Molly",
+    "album": "Little Richard • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "Little Richard",
-      "title": "Good Golly Miss Molly"
-    },
     {
       "time": "5:31 pm",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:29 pm",
+      "artist": "Little Richard",
+      "title": "Good Golly Miss Molly",
+      "album": "Little Richard • 1958"
+    },
     {
       "time": "5:26 pm",
       "artist": "Spice Girls",
@@ -172,12 +173,6 @@
       "artist": "Slint",
       "title": "Breadcrumb Trail",
       "album": "Spiderland • 1991"
-    },
-    {
-      "time": "3:44 pm",
-      "artist": "Sinead O'Connor",
-      "title": "Nothing Compares 2 U",
-      "album": "I Do Not Want What I Havent Got • 1990"
     }
   ]
 }
