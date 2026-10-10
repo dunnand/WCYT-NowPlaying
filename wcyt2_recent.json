@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T14:30:44",
+  "updatedAt": "2026-10-10T14:31:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Pyramid Song",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:31 pm",
-      "artist": "Radiohead",
-      "title": "Pyramid Song"
-    },
     {
       "time": "2:35 pm",
       "artist": "The Zutons",
@@ -26,9 +21,20 @@
       "time": "2:43 pm",
       "artist": "Rancid",
       "title": "Ruby Soho"
+    },
+    {
+      "time": "2:46 pm",
+      "artist": "Rolling Stones",
+      "title": "Love Is Strong"
     }
   ],
   "recent": [
+    {
+      "time": "2:31 pm",
+      "artist": "Radiohead",
+      "title": "Pyramid Song",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "2:27 pm",
       "artist": "Rihanna",
@@ -172,12 +178,6 @@
       "artist": "Stevie Wonder",
       "title": "Go Home",
       "album": "In Square Circle • 1985"
-    },
-    {
-      "time": "12:57 pm",
-      "artist": "Mission of Burma",
-      "title": "Forget",
-      "album": "Signals, Calls, and Marches EP • 1981"
     }
   ]
 }
