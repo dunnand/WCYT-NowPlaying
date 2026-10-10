@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T21:20:10",
+  "updatedAt": "2026-10-09T21:22:33",
   "now": {
-    "artist": "Wilco",
-    "title": "The Joke Explained",
-    "album": "Star Wars • 2015",
+    "artist": "Bob Dylan",
+    "title": "If Not For You",
+    "album": "New Morning • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:22 pm",
-      "artist": "Bob Dylan",
-      "title": "If Not For You"
-    },
     {
       "time": "9:25 pm",
       "artist": "Cocteau Twins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:22 pm",
+      "artist": "Bob Dylan",
+      "title": "If Not For You",
+      "album": "New Morning • 1970"
+    },
     {
       "time": "9:20 pm",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "blink-182",
       "title": "Adam's Song",
       "album": "Enema of the State • 1999"
-    },
-    {
-      "time": "7:49 pm",
-      "artist": "Thom Yorke",
-      "title": "Has Ended",
-      "album": "Suspiria • 2018"
     }
   ]
 }
