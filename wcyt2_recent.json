@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T13:55:54",
+  "updatedAt": "2026-10-10T13:56:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Talk Talk",
+    "title": "It's My Life",
+    "album": "Its My Life • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 pm",
-      "artist": "Talk Talk",
-      "title": "It's My Life"
-    },
     {
       "time": "1:59 pm",
       "artist": "The Cramps",
@@ -26,9 +21,20 @@
       "time": "2:05 pm",
       "artist": "Paul McCartney and Wings",
       "title": "Junior's Farm"
+    },
+    {
+      "time": "2:09 pm",
+      "artist": "Steely Dan",
+      "title": "Peg"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 pm",
+      "artist": "Talk Talk",
+      "title": "It's My Life",
+      "album": "Its My Life • 1984"
+    },
     {
       "time": "1:49 pm",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Astrud Gilberto",
       "title": "Summer Samba (So Nice)",
       "album": "A Certain Smile, A Certain Sadness • 1966"
-    },
-    {
-      "time": "12:21 pm",
-      "artist": "Radiohead",
-      "title": "Knives Out",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
