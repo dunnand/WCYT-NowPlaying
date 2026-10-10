@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T22:15:44",
+  "updatedAt": "2026-10-09T22:18:40",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Can't Help Falling In Love",
-    "album": "Blue Hawaii • 1961",
+    "artist": "ABBA",
+    "title": "Fernando",
+    "album": "Greatest Hits • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:18 pm",
-      "artist": "ABBA",
-      "title": "Fernando"
-    },
     {
       "time": "10:22 pm",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "10:31 pm",
       "artist": "U2",
       "title": "All Because Of You"
+    },
+    {
+      "time": "10:35 pm",
+      "artist": "Aretha Franklin",
+      "title": "Think"
     }
   ],
   "recent": [
+    {
+      "time": "10:18 pm",
+      "artist": "ABBA",
+      "title": "Fernando",
+      "album": "Greatest Hits • 1975"
+    },
     {
       "time": "10:15 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Bruce Springsteen",
       "title": "Human Touch",
       "album": "Human Touch • 1992"
-    },
-    {
-      "time": "8:44 pm",
-      "artist": "Thom Yorke",
-      "title": "A Brain In A Bottle",
-      "album": "Tomorrow's Modern Boxes • 2014"
     }
   ]
 }
