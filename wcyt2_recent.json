@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T03:35:47",
+  "updatedAt": "2026-10-10T03:40:55",
   "now": {
-    "artist": "John Denver",
-    "title": "Sunshine On My Shoulders",
-    "album": "Poems, Prayers & Promises • 1971",
+    "artist": "Etta James",
+    "title": "Something's Got a Hold on Me",
+    "album": "Etta James • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:40 am",
-      "artist": "Etta James",
-      "title": "Something's Got a Hold on Me"
-    },
     {
       "time": "3:43 am",
       "artist": "Joy Division",
@@ -26,9 +21,20 @@
       "time": "3:50 am",
       "artist": "Kenny Rogers",
       "title": "Lucille"
+    },
+    {
+      "time": "3:54 am",
+      "artist": "Golden Smog",
+      "title": "Glad & Sorry"
     }
   ],
   "recent": [
+    {
+      "time": "3:40 am",
+      "artist": "Etta James",
+      "title": "Something's Got a Hold on Me",
+      "album": "Etta James • 1962"
+    },
     {
       "time": "3:35 am",
       "artist": "John Denver",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "I Just Don't Know What to Do With Myself",
       "album": "Elephant • 2003"
-    },
-    {
-      "time": "2:04 am",
-      "artist": "Silhouettes",
-      "title": "Get A Job",
-      "album": "single • 1957"
     }
   ]
 }
