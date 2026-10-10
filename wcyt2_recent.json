@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-09T22:18:40",
+  "updatedAt": "2026-10-09T22:22:47",
   "now": {
-    "artist": "ABBA",
-    "title": "Fernando",
-    "album": "Greatest Hits • 1975",
+    "artist": "David Bowie",
+    "title": "Little Wonder",
+    "album": "Earthling • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:22 pm",
-      "artist": "David Bowie",
-      "title": "Little Wonder"
-    },
     {
       "time": "10:28 pm",
       "artist": "The Orioles",
@@ -26,9 +21,20 @@
       "time": "10:35 pm",
       "artist": "Aretha Franklin",
       "title": "Think"
+    },
+    {
+      "time": "10:37 pm",
+      "artist": "Wiz Khalifa",
+      "title": "Young, Wild, Free feat. Snoop Dogg & Bruno Mars"
     }
   ],
   "recent": [
+    {
+      "time": "10:22 pm",
+      "artist": "David Bowie",
+      "title": "Little Wonder",
+      "album": "Earthling • 1997"
+    },
     {
       "time": "10:18 pm",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Celine Dion",
       "title": "If You Asked Me To",
       "album": "Celine Dion • 1992"
-    },
-    {
-      "time": "8:49 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Human Touch",
-      "album": "Human Touch • 1992"
     }
   ]
 }
