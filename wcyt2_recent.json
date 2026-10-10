@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T08:29:17",
+  "updatedAt": "2026-10-10T08:33:13",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Concrete Jungle",
-    "album": "Catch a Fire • 1973",
+    "artist": "Frankie Valli",
+    "title": "Can't Take My Eyes Off You",
+    "album": "Frankie Valli: Solo • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:33 am",
-      "artist": "Frankie Valli",
-      "title": "Can't Take My Eyes Off You"
-    },
     {
       "time": "8:36 am",
       "artist": "Elton John",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:33 am",
+      "artist": "Frankie Valli",
+      "title": "Can't Take My Eyes Off You",
+      "album": "Frankie Valli: Solo • 1967"
+    },
     {
       "time": "8:29 am",
       "artist": "Bob Marley and the Wailers",
@@ -177,12 +178,6 @@
       "artist": "Slowdive",
       "title": "Sugar For The Pill",
       "album": "Slowdive • 2017"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "U2",
-      "title": "Walk On",
-      "album": "All That You Can't Leave Behind • 2000"
     }
   ]
 }
