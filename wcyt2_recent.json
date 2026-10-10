@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T10:11:40",
+  "updatedAt": "2026-10-10T10:16:00",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Casey Jones",
-    "album": "Workingman's Dead • 1970",
+    "artist": "Brenda Lee",
+    "title": "I'm sorry",
+    "album": "Brenda Lee • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 am",
-      "artist": "Brenda Lee",
-      "title": "I'm sorry"
-    },
     {
       "time": "10:18 am",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "10:27 am",
       "artist": "Dell",
       "title": "Vikings - Come Go With Me"
+    },
+    {
+      "time": "10:29 am",
+      "artist": "Vampire Weekend",
+      "title": "A-Punk"
     }
   ],
   "recent": [
+    {
+      "time": "10:16 am",
+      "artist": "Brenda Lee",
+      "title": "I'm sorry",
+      "album": "Brenda Lee • 1960"
+    },
     {
       "time": "10:11 am",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "Arabian Heights",
       "album": "In Spades • 2017"
-    },
-    {
-      "time": "8:50 am",
-      "artist": "The Everly Brothers",
-      "title": "So Sad (To Watch Good Love Go Bad)",
-      "album": "It's Everly Time • 1960"
     }
   ]
 }
