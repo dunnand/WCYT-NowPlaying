@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T00:39:26",
+  "updatedAt": "2026-10-10T00:42:49",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "stupid song",
-    "album": "",
+    "artist": "Wilco",
+    "title": "What Light",
+    "album": "Sky Blue Sky • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "Wilco",
-      "title": "What Light"
-    },
     {
       "time": "12:46 am",
       "artist": "Eno",
@@ -26,9 +21,20 @@
       "time": "12:54 am",
       "artist": "Rihanna",
       "title": "What's My Name"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "Bruce Springsteen",
+      "title": "Darkness on the Edge of Town"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "Wilco",
+      "title": "What Light",
+      "album": "Sky Blue Sky • 2007"
+    },
     {
       "time": "12:39 am",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Cape Cod Kwassa Kwassa",
       "album": "Vampire Weekend • 2008"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "Barry Manilow",
-      "title": "Can't Smile Without You",
-      "album": "Even Now • 1978"
     }
   ]
 }
