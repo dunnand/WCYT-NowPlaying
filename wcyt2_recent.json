@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T05:26:10",
+  "updatedAt": "2026-10-10T05:30:46",
   "now": {
-    "artist": "Santana",
-    "title": "Samba Pa Ti",
-    "album": "Abraxas • 1974",
+    "artist": "The Beach Boys",
+    "title": "Good Vibrations",
+    "album": "single • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:30 am",
-      "artist": "The Beach Boys",
-      "title": "Good Vibrations"
-    },
     {
       "time": "5:34 am",
       "artist": "Supertramp",
@@ -26,9 +21,20 @@
       "time": "5:41 am",
       "artist": "Syd Barrett",
       "title": "Baby Lemonade"
+    },
+    {
+      "time": "5:45 am",
+      "artist": "The Lemonheads",
+      "title": "It's a Shame About Ray"
     }
   ],
   "recent": [
+    {
+      "time": "5:30 am",
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
+      "album": "single • 1966"
+    },
     {
       "time": "5:26 am",
       "artist": "Santana",
@@ -172,12 +178,6 @@
       "artist": "The Shins",
       "title": "Fighting in a Sack",
       "album": "Chutes Too Narrow • 2003"
-    },
-    {
-      "time": "3:57 am",
-      "artist": "The Everly Brothers",
-      "title": "('Til) I Kissed You",
-      "album": "single • 1959"
     }
   ]
 }
