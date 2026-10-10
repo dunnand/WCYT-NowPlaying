@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T15:15:41",
+  "updatedAt": "2026-10-10T15:20:26",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Black Dog",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Bob Dylan",
+    "title": "Blowin' in the Wind",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:20 pm",
-      "artist": "Bob Dylan",
-      "title": "Blowin' in the Wind"
-    },
     {
       "time": "3:23 pm",
       "artist": "The Clash",
@@ -23,7 +18,7 @@
       "title": "Angel"
     },
     {
-      "time": "3:31 pm",
+      "time": "3:30 pm",
       "artist": "Ray Charles",
       "title": "Lonely Avenue"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:20 pm",
+      "artist": "Bob Dylan",
+      "title": "Blowin' in the Wind",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "3:15 pm",
       "artist": "Led Zeppelin",
@@ -177,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Worship You",
       "album": "Modern Vampires Of The City • 2013"
-    },
-    {
-      "time": "1:37 pm",
-      "artist": "Diana Ross & The Supremes",
-      "title": "Baby Love",
-      "album": "Where Did Our Love Go • 1964"
     }
   ]
 }
