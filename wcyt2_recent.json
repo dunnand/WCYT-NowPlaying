@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T15:15:19",
+  "updatedAt": "2026-10-10T15:15:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Black Dog",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "Led Zeppelin",
-      "title": "Black Dog"
-    },
     {
       "time": "3:20 pm",
       "artist": "Bob Dylan",
@@ -31,9 +26,20 @@
       "time": "3:31 pm",
       "artist": "Ray Charles",
       "title": "Lonely Avenue"
+    },
+    {
+      "time": "3:33 pm",
+      "artist": "The Killers",
+      "title": "Read My Mind"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "Led Zeppelin",
+      "title": "Black Dog",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "3:08 pm",
       "artist": "James Brown",
@@ -177,12 +183,6 @@
       "artist": "Diana Ross & The Supremes",
       "title": "Baby Love",
       "album": "Where Did Our Love Go • 1964"
-    },
-    {
-      "time": "1:33 pm",
-      "artist": "Sheryl Crow",
-      "title": "Steve McQueen",
-      "album": "Cmon, Cmon • 2002"
     }
   ]
 }
