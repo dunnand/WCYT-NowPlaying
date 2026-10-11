@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T01:17:00",
+  "updatedAt": "2026-10-11T01:17:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Husker Du",
+    "title": "Pink Turns to Blue",
+    "album": "Zen Arcade • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:17 am",
-      "artist": "Husker Du",
-      "title": "Pink Turns to Blue"
-    },
     {
       "time": "1:19 am",
       "artist": "Kate Bush",
@@ -26,9 +21,20 @@
       "time": "1:28 am",
       "artist": "Doobie Brothers",
       "title": "Rockin' Down The Highway"
+    },
+    {
+      "time": "1:32 am",
+      "artist": "John Prine",
+      "title": "Illegal Smile"
     }
   ],
   "recent": [
+    {
+      "time": "1:17 am",
+      "artist": "Husker Du",
+      "title": "Pink Turns to Blue",
+      "album": "Zen Arcade • 1984"
+    },
     {
       "time": "1:12 am",
       "artist": "Aphex Twin",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "All I Really Want To Do",
       "album": "Another Side of Bob Dylan • 1964"
-    },
-    {
-      "time": "11:02 pm",
-      "artist": "Beck",
-      "title": "Already Dead",
-      "album": "Sea Change • 2002"
     }
   ]
 }
