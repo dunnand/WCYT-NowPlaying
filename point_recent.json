@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T07:42:13",
+  "updatedAt": "2026-10-11T07:42:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Nothing",
+    "title": "a short history of decay",
+    "album": "a short history of decay • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "Nothing",
-      "title": "a short history of decay"
-    },
     {
       "time": "7:47 am",
       "artist": "Graham Hunt",
@@ -26,9 +21,20 @@
       "time": "7:54 am",
       "artist": "Softcult",
       "title": "Not Sorry"
+    },
+    {
+      "time": "7:57 am",
+      "artist": "Yo La Tengo",
+      "title": "Tom Courtenay"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "Nothing",
+      "title": "a short history of decay",
+      "album": "a short history of decay • 2026"
+    },
     {
       "time": "7:37 am",
       "artist": "Alabama Shakes",
@@ -172,12 +178,6 @@
       "artist": "Ty Segall",
       "title": "Glass",
       "album": "Chrome • 2026"
-    },
-    {
-      "time": "6:02 am",
-      "artist": "Angine de Poitrine",
-      "title": "Sherpa",
-      "album": "Vol. I • 2024"
     }
   ]
 }
