@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T08:12:44",
+  "updatedAt": "2026-10-11T08:13:16",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Kim Gordon",
+    "title": "NOT TODAY",
+    "album": "PLAY ME • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:13 am",
-      "artist": "Kim Gordon",
-      "title": "NOT TODAY"
-    },
     {
       "time": "8:16 am",
       "artist": "Tom Waits",
@@ -26,9 +21,20 @@
       "time": "8:24 am",
       "artist": "Julia Jacklin",
       "title": "If I Had The Hand Of God"
+    },
+    {
+      "time": "8:27 am",
+      "artist": "Sufjan Stevens",
+      "title": "The Dress Looks Nice on You"
     }
   ],
   "recent": [
+    {
+      "time": "8:13 am",
+      "artist": "Kim Gordon",
+      "title": "NOT TODAY",
+      "album": "PLAY ME • 2026"
+    },
     {
       "time": "8:06 am",
       "artist": "Beat Happening",
@@ -172,12 +178,6 @@
       "artist": "Westside Cowboy",
       "title": "Can't See",
       "album": "So Much Country 'Till We Get There • 2026"
-    },
-    {
-      "time": "6:31 am",
-      "artist": "Fugazi",
-      "title": "Blueprint",
-      "album": "Repeater • 1990"
     }
   ]
 }
