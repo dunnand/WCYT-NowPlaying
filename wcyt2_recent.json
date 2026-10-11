@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T05:48:45",
+  "updatedAt": "2026-10-11T05:48:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Asleep In The Back",
+    "album": "Asleep In the Back • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:48 am",
-      "artist": "Elbow",
-      "title": "Asleep In The Back"
-    },
     {
       "time": "5:52 am",
       "artist": "Buffalo Springfield",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:48 am",
+      "artist": "Elbow",
+      "title": "Asleep In The Back",
+      "album": "Asleep In the Back • 2001"
+    },
     {
       "time": "5:45 am",
       "artist": "Marvin Gaye",
@@ -177,12 +178,6 @@
       "artist": "James Taylor",
       "title": "Carolina In My Mind",
       "album": "James Taylor • 1968"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "The Decemberists",
-      "title": "I Was Meant for the Stage",
-      "album": "Her Majesty the Decemberists • 2003"
     }
   ]
 }
