@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T17:32:35",
+  "updatedAt": "2026-10-11T17:36:53",
   "now": {
-    "artist": "Seal",
-    "title": "Crazy",
-    "album": "Seal • 1991",
+    "artist": "Adele",
+    "title": "Someone Like You",
+    "album": "21 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:36 pm",
-      "artist": "Adele",
-      "title": "Someone Like You"
-    },
     {
       "time": "5:41 pm",
       "artist": "Arctic Monkeys",
@@ -21,9 +16,20 @@
       "time": "5:44 pm",
       "artist": "Daft Punk",
       "title": "Digital Love"
+    },
+    {
+      "time": "5:49 pm",
+      "artist": "The Beach Boys",
+      "title": "Vega-Tables"
     }
   ],
   "recent": [
+    {
+      "time": "5:36 pm",
+      "artist": "Adele",
+      "title": "Someone Like You",
+      "album": "21 • 2011"
+    },
     {
       "time": "5:32 pm",
       "artist": "Seal",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Maggie's Farm",
       "album": "Bringing It All Back Home • 1965"
-    },
-    {
-      "time": "3:39 pm",
-      "artist": "The Dandy Warhols",
-      "title": "Bohemian Like You",
-      "album": "Thirteen Tales From Urban Bohemia • 2000"
     }
   ]
 }
