@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T15:43:15",
+  "updatedAt": "2026-10-11T15:47:01",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Maggie's Farm",
-    "album": "Bringing It All Back Home • 1965",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Used to Be",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:47 pm",
-      "artist": "Beach House",
-      "title": "Used to Be"
-    },
     {
       "time": "3:50 pm",
       "artist": "They Might Be Giants",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:47 pm",
+      "artist": "Beach House",
+      "title": "Used to Be",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "3:43 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Britney Spears",
       "title": "Oops....I Did It Again",
       "album": "Oops!... I Did It Again • 2000"
-    },
-    {
-      "time": "2:10 pm",
-      "artist": "Jimmie Rodgers",
-      "title": "Honeycomb",
-      "album": "Honeycomb • 1957"
     }
   ]
 }
