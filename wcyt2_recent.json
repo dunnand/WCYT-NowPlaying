@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T02:06:46",
+  "updatedAt": "2026-10-11T02:07:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Africa",
+    "album": "Weezer • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:07 am",
-      "artist": "Weezer",
-      "title": "Africa"
-    },
     {
       "time": "2:11 am",
       "artist": "Arrested Development",
@@ -26,9 +21,20 @@
       "time": "2:18 am",
       "artist": "The Replacements",
       "title": "Unsatisfied"
+    },
+    {
+      "time": "2:23 am",
+      "artist": "Rush",
+      "title": "Subdivisions"
     }
   ],
   "recent": [
+    {
+      "time": "2:07 am",
+      "artist": "Weezer",
+      "title": "Africa",
+      "album": "Weezer • 2019"
+    },
     {
       "time": "2:03 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Franz Ferdinand",
       "title": "No You Girls",
       "album": "Tonight Franz Ferdinand • 2007"
-    },
-    {
-      "time": "12:28 am",
-      "artist": "Mahito Yokota",
-      "title": "Super Mario Galaxy",
-      "album": "Nintendo Music •"
     }
   ]
 }
