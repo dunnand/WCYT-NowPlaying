@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T11:06:55",
+  "updatedAt": "2026-10-11T11:08:58",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Wear My Ring Around Your Neck",
-    "album": "single • 1958",
+    "artist": "Daft Punk",
+    "title": "One More Time",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:08 am",
-      "artist": "Daft Punk",
-      "title": "One More Time"
-    },
     {
       "time": "11:14 am",
       "artist": "The Beach Boys",
@@ -21,9 +16,20 @@
       "time": "11:15 am",
       "artist": "Bruno Mars",
       "title": "Lazy Song"
+    },
+    {
+      "time": "11:19 am",
+      "artist": "Lush",
+      "title": "Sweetness and Light"
     }
   ],
   "recent": [
+    {
+      "time": "11:08 am",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "11:06 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Joy Division",
       "title": "Heart and Soul",
       "album": "Closer • 1980"
-    },
-    {
-      "time": "9:26 am",
-      "artist": "Genesis",
-      "title": "Misunderstanding",
-      "album": "Duke • 1980"
     }
   ]
 }
