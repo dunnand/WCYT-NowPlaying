@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T07:09:12",
+  "updatedAt": "2026-10-11T07:09:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Lost Cause",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:09 am",
-      "artist": "Beck",
-      "title": "Lost Cause"
-    },
     {
       "time": "7:12 am",
       "artist": "Basement Jaxx",
@@ -26,9 +21,20 @@
       "time": "7:22 am",
       "artist": "Elastica",
       "title": "Connection"
+    },
+    {
+      "time": "7:24 am",
+      "artist": "Elton John",
+      "title": "Can You Feel The Love Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "7:09 am",
+      "artist": "Beck",
+      "title": "Lost Cause",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "7:05 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Salt-N-Pepa",
       "title": "Push It",
       "album": "Hot, Cool & Vicious • 1986"
-    },
-    {
-      "time": "5:19 am",
-      "artist": "Simple Minds",
-      "title": "Don't You (Forget About Me)",
-      "album": "Once Upon a Time • 1985"
     }
   ]
 }
