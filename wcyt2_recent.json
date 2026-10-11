@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T06:29:50",
+  "updatedAt": "2026-10-11T06:34:07",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Nebraska",
-    "album": "Nebraska • 1982",
+    "artist": "Run The Jewels",
+    "title": "walking in the snow",
+    "album": "RTJ4 • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:34 am",
-      "artist": "Run The Jewels",
-      "title": "walking in the snow"
-    },
     {
       "time": "6:38 am",
       "artist": "Parliament",
@@ -21,9 +16,20 @@
       "time": "6:45 am",
       "artist": "The Beach Boys",
       "title": "Sloop John B."
+    },
+    {
+      "time": "6:48 am",
+      "artist": "Paul McCartney",
+      "title": "Maybe I'm Amazed"
     }
   ],
   "recent": [
+    {
+      "time": "6:34 am",
+      "artist": "Run The Jewels",
+      "title": "walking in the snow",
+      "album": "RTJ4 • 2020"
+    },
     {
       "time": "6:29 am",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "Bush",
       "title": "Swallowed",
       "album": "Razorblade Suitcase • 1996"
-    },
-    {
-      "time": "4:45 am",
-      "artist": "John Lennon",
-      "title": "#9 Dream",
-      "album": "Walls and Bridges • 1974"
     }
   ]
 }
