@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T00:36:35",
+  "updatedAt": "2026-10-11T00:40:41",
   "now": {
-    "artist": "Bee Gees",
-    "title": "You Should Be Dancing",
-    "album": "Children of the World • 1976",
-    "category": "AUDIO"
+    "artist": "Bright Eyes",
+    "title": "First Day Of My Life",
+    "album": "I'm Wide Awake, It's Morning • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:40 am",
-      "artist": "Bright Eyes",
-      "title": "First Day Of My Life"
-    },
     {
       "time": "12:43 am",
       "artist": "St. Vincent",
@@ -26,9 +21,20 @@
       "time": "12:51 am",
       "artist": "Alice in Chains",
       "title": "No Excuses"
+    },
+    {
+      "time": "12:55 am",
+      "artist": "Chordettes",
+      "title": "Lollipop"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "Bright Eyes",
+      "title": "First Day Of My Life",
+      "album": "I'm Wide Awake, It's Morning • 2005"
+    },
     {
       "time": "12:36 am",
       "artist": "Bee Gees",
@@ -172,12 +178,6 @@
       "artist": "Four Tops",
       "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "album": "Four Tops Second Album • 1965"
-    },
-    {
-      "time": "10:25 pm",
-      "artist": "Coldplay",
-      "title": "Violet Hill",
-      "album": "Viva la Vida or Death and All His Friends • 2008"
     }
   ]
 }
