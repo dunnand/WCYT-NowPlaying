@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T00:43:35",
+  "updatedAt": "2026-10-11T00:46:10",
   "now": {
-    "artist": "St. Vincent",
-    "title": "New York",
-    "album": "Masseduction • 2018",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Shelter From the Storm",
+    "album": "Shelter From the Storm • 1975",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "Bob Dylan",
-      "title": "Shelter From the Storm"
-    },
     {
       "time": "12:51 am",
       "artist": "Alice in Chains",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "Bob Dylan",
+      "title": "Shelter From the Storm",
+      "album": "Shelter From the Storm • 1975"
+    },
     {
       "time": "12:43 am",
       "artist": "St. Vincent",
@@ -172,12 +173,6 @@
       "artist": "The White Stripes",
       "title": "The Big Three Killed My Baby",
       "album": "The White Stripes • 1999"
-    },
-    {
-      "time": "10:31 pm",
-      "artist": "Rihanna",
-      "title": "Only Girl (In The World)",
-      "album": "Loud • 2010"
     }
   ]
 }
