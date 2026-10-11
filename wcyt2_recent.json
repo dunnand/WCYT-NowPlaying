@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T01:01:02",
+  "updatedAt": "2026-10-11T01:05:23",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I Don't Believe You",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "Grimes",
+    "title": "California",
+    "album": "Art Angels • 2015",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 am",
-      "artist": "Grimes",
-      "title": "California"
-    },
     {
       "time": "1:08 am",
       "artist": "Amy Grant",
@@ -21,9 +16,20 @@
       "time": "1:12 am",
       "artist": "Aphex Twin",
       "title": "Come To Daddy (Pappy Mix)"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "Husker Du",
+      "title": "Pink Turns to Blue"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "Grimes",
+      "title": "California",
+      "album": "Art Angels • 2015"
+    },
     {
       "time": "1:01 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Eagles",
       "title": "Best Of My Love",
       "album": "On the Border • 1974"
-    },
-    {
-      "time": "10:49 pm",
-      "artist": "unknown",
-      "title": "NES Remix Pack (Records Roll)",
-      "album": "Nintendo Music •"
     }
   ]
 }
