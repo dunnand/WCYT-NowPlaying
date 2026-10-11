@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T09:29:55",
+  "updatedAt": "2026-10-11T09:35:24",
   "now": {
-    "artist": "Joy Division",
-    "title": "Heart and Soul",
-    "album": "Closer • 1980",
+    "artist": "Olivia Rodrigo",
+    "title": "bad idea right?",
+    "album": "Guts • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 am",
-      "artist": "Olivia Rodrigo",
-      "title": "bad idea right?"
-    },
     {
       "time": "9:38 am",
       "artist": "The Allman Brothers Band",
@@ -21,9 +16,20 @@
       "time": "9:43 am",
       "artist": "The Cookies",
       "title": "Chains"
+    },
+    {
+      "time": "9:45 am",
+      "artist": "Big Star",
+      "title": "The Ballad of El Goodo"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 am",
+      "artist": "Olivia Rodrigo",
+      "title": "bad idea right?",
+      "album": "Guts • 2023"
+    },
     {
       "time": "9:29 am",
       "artist": "Joy Division",
@@ -167,12 +173,6 @@
       "artist": "Fugazi",
       "title": "Blueprint",
       "album": "Repeater • 1990"
-    },
-    {
-      "time": "7:53 am",
-      "artist": "Wire",
-      "title": "Strange",
-      "album": "Pink Flag • 1977"
     }
   ]
 }
