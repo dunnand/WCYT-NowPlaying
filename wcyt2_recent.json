@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T04:15:35",
+  "updatedAt": "2026-10-11T04:19:51",
   "now": {
-    "artist": "Built to Spill",
-    "title": "Else",
-    "album": "Keep It Like A Secret • 1999",
-    "category": "TUNES"
+    "artist": "When In Rome",
+    "title": "The Promise",
+    "album": "When in Rome • 1988",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:19 am",
-      "artist": "When In Rome",
-      "title": "The Promise"
-    },
     {
       "time": "4:23 am",
       "artist": "Tesla",
@@ -21,9 +16,25 @@
       "time": "4:28 am",
       "artist": "SAULT",
       "title": "Stop Dem"
+    },
+    {
+      "time": "4:32 am",
+      "artist": "Elvis Presley",
+      "title": "An American Trilogy"
+    },
+    {
+      "time": "4:37 am",
+      "artist": "Funkadelic",
+      "title": "Can You Get to That"
     }
   ],
   "recent": [
+    {
+      "time": "4:19 am",
+      "artist": "When In Rome",
+      "title": "The Promise",
+      "album": "When in Rome • 1988"
+    },
     {
       "time": "4:15 am",
       "artist": "Built to Spill",
@@ -167,12 +178,6 @@
       "artist": "Dusty Springfield",
       "title": "Wishin' And Hopin'",
       "album": "A Girl Called Dusty • 1964"
-    },
-    {
-      "time": "2:40 am",
-      "artist": "The Who",
-      "title": "The Real Me",
-      "album": "Quadrophenia • 1973"
     }
   ]
 }
