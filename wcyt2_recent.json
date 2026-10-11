@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T03:13:55",
+  "updatedAt": "2026-10-11T03:14:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Not Dark Yet",
+    "album": "Time Out of Mind • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 am",
-      "artist": "Bob Dylan",
-      "title": "Not Dark Yet"
-    },
     {
       "time": "3:20 am",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "3:29 am",
       "artist": "Silk Sonic",
       "title": "Leave the Door Open"
+    },
+    {
+      "time": "3:33 am",
+      "artist": "Dave Matthews Band",
+      "title": "Grey Street"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 am",
+      "artist": "Bob Dylan",
+      "title": "Not Dark Yet",
+      "album": "Time Out of Mind • 1997"
+    },
     {
       "time": "3:08 am",
       "artist": "Boards of Canada",
@@ -172,12 +178,6 @@
       "artist": "Dilated Peoples",
       "title": "This Way",
       "album": "Neighborhood Watch • 2004"
-    },
-    {
-      "time": "1:31 am",
-      "artist": "John Prine",
-      "title": "Illegal Smile",
-      "album": "John Prine • 1971"
     }
   ]
 }
