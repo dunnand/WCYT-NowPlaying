@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T23:02:19",
+  "updatedAt": "2026-10-10T23:05:34",
   "now": {
-    "artist": "Beck",
-    "title": "Already Dead",
-    "album": "Sea Change • 2002",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "All I Really Want To Do",
+    "album": "Another Side of Bob Dylan • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 pm",
-      "artist": "Bob Dylan",
-      "title": "All I Really Want To Do"
-    },
     {
       "time": "11:09 pm",
       "artist": "Fela Kuti",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:05 pm",
+      "artist": "Bob Dylan",
+      "title": "All I Really Want To Do",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "11:02 pm",
       "artist": "Beck",
@@ -162,12 +163,6 @@
       "artist": "Tinnie Tempah",
       "title": "Written In The Stars",
       "album": "Disc-Overy • 2010"
-    },
-    {
-      "time": "9:29 pm",
-      "artist": "Donovan",
-      "title": "There is a Mountain",
-      "album": "There Is a Mountain • 1967"
     }
   ]
 }
