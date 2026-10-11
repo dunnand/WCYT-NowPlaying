@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T08:32:50",
+  "updatedAt": "2026-10-11T08:39:19",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "Stay Loose",
-    "album": "Dear Catastrophe Waitress • 2003",
-    "category": "TUNES"
+    "artist": "Gloria Gaynor",
+    "title": "I Will Survive",
+    "album": "Love Tracks • 1978",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:39 am",
-      "artist": "Gloria Gaynor",
-      "title": "I Will Survive"
-    },
     {
       "time": "8:42 am",
       "artist": "Antony and the Johnsons",
@@ -26,9 +21,25 @@
       "time": "8:50 am",
       "artist": "AC/DC",
       "title": "Highway to Hell"
+    },
+    {
+      "time": "8:53 am",
+      "artist": "Genesis",
+      "title": "No Son Of Mine"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "Angel Olsen",
+      "title": "Shut Up Kiss Me"
     }
   ],
   "recent": [
+    {
+      "time": "8:39 am",
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "album": "Love Tracks • 1978"
+    },
     {
       "time": "8:32 am",
       "artist": "Belle and Sebastian",
@@ -172,12 +183,6 @@
       "artist": "Beck",
       "title": "Lost Cause",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "7:05 am",
-      "artist": "David Bowie",
-      "title": "The Stars (Are Out Tonight)",
-      "album": "The Next Day • 2013"
     }
   ]
 }
