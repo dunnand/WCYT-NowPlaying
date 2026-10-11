@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T15:53:21",
+  "updatedAt": "2026-10-11T15:56:37",
   "now": {
-    "artist": "Tom Petty",
-    "title": "You Wreck Me",
-    "album": "Wildflowers • 1994",
+    "artist": "Paul Simon",
+    "title": "Hearts and Bones",
+    "album": "Hearts and Bones • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:56 pm",
-      "artist": "Paul Simon",
-      "title": "Hearts and Bones"
-    },
     {
       "time": "4:02 pm",
       "artist": "Phil Collins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:56 pm",
+      "artist": "Paul Simon",
+      "title": "Hearts and Bones",
+      "album": "Hearts and Bones • 1983"
+    },
     {
       "time": "3:53 pm",
       "artist": "Tom Petty",
@@ -172,12 +173,6 @@
       "artist": "Prince and the New Power Generation",
       "title": "7",
       "album": "Love Symbol • 1992"
-    },
-    {
-      "time": "2:20 pm",
-      "artist": "B.O.B",
-      "title": "NothinOnYou",
-      "album": "May 25th • 2010"
     }
   ]
 }
