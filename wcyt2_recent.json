@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T02:46:31",
+  "updatedAt": "2026-10-11T02:48:48",
   "now": {
-    "artist": "Buzzcocks",
-    "title": "I Don't Mind",
-    "album": "Another Music In A Different Kitchen • 1978",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "This Is Just A Modern Rock Song",
+    "album": "This Is Just A Modern Rock Song • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:48 am",
-      "artist": "Belle and Sebastian",
-      "title": "This Is Just A Modern Rock Song"
-    },
     {
       "time": "2:55 am",
       "artist": "Fats Domino",
@@ -26,9 +21,20 @@
       "time": "3:02 am",
       "artist": "Dion",
       "title": "Abraham, Martin And John"
+    },
+    {
+      "time": "3:05 am",
+      "artist": "Wilco",
+      "title": "Love Is Everywhere (Beware)"
     }
   ],
   "recent": [
+    {
+      "time": "2:48 am",
+      "artist": "Belle and Sebastian",
+      "title": "This Is Just A Modern Rock Song",
+      "album": "This Is Just A Modern Rock Song • 1998"
+    },
     {
       "time": "2:46 am",
       "artist": "Buzzcocks",
@@ -172,12 +178,6 @@
       "artist": "Aphex Twin",
       "title": "Come To Daddy (Pappy Mix)",
       "album": "Come to Daddy [EP] • 1997"
-    },
-    {
-      "time": "1:08 am",
-      "artist": "Amy Grant",
-      "title": "Baby, Baby",
-      "album": "Heart in Motion • 1991"
     }
   ]
 }
