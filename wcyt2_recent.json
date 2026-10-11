@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T21:53:08",
+  "updatedAt": "2026-10-10T21:59:05",
   "now": {
-    "artist": "David Bowie",
-    "title": "Heroes",
-    "album": "Heroes • 1977",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Lively Up Yourself",
+    "album": "Natty Dread • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Lively Up Yourself"
-    },
     {
       "time": "10:04 pm",
       "artist": "Destroyer",
@@ -26,9 +21,20 @@
       "time": "10:12 pm",
       "artist": "Elton John",
       "title": "Harmony"
+    },
+    {
+      "time": "10:15 pm",
+      "artist": "Vic Chesnutt",
+      "title": "Where Were You"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Lively Up Yourself",
+      "album": "Natty Dread • 1974"
+    },
     {
       "time": "9:53 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Neighborhood #4 (7 Kettles)",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "8:21 pm",
-      "artist": "Carl Perkins",
-      "title": "Blue Suede Shoes",
-      "album": "Dance Album of Carl Perkins • 1957"
     }
   ]
 }
