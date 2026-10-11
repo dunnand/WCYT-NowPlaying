@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T07:46:00",
+  "updatedAt": "2026-10-11T07:46:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Doors",
+    "title": "Waiting for the Sun",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:46 am",
-      "artist": "The Doors",
-      "title": "Waiting for the Sun"
-    },
     {
       "time": "7:50 am",
       "artist": "Dusty Springfield",
@@ -31,9 +26,20 @@
       "time": "8:00 am",
       "artist": "Five Satins",
       "title": "In The Still Of The Nite"
+    },
+    {
+      "time": "8:03 am",
+      "artist": "Coldplay",
+      "title": "Viva la Vida"
     }
   ],
   "recent": [
+    {
+      "time": "7:46 am",
+      "artist": "The Doors",
+      "title": "Waiting for the Sun",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "7:42 am",
       "artist": "Donovan",
@@ -177,12 +183,6 @@
       "artist": "Elliott Smith",
       "title": "Junk Bond Trader",
       "album": "Figure 8 • 2000"
-    },
-    {
-      "time": "6:06 am",
-      "artist": "Daft Punk",
-      "title": "Face to Face",
-      "album": "Discovery • 2001"
     }
   ]
 }
