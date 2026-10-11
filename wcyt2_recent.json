@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T22:35:04",
+  "updatedAt": "2026-10-10T22:35:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "The Big Three Killed My Baby",
+    "album": "The White Stripes • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:35 pm",
-      "artist": "The White Stripes",
-      "title": "The Big Three Killed My Baby"
-    },
     {
       "time": "10:37 pm",
       "artist": "Whitney Houston",
@@ -26,9 +21,20 @@
       "time": "10:46 pm",
       "artist": "Fleetwood Mac",
       "title": "Everywhere"
+    },
+    {
+      "time": "10:50 pm",
+      "artist": "unknown",
+      "title": "NES Remix Pack (Records Roll)"
     }
   ],
   "recent": [
+    {
+      "time": "10:35 pm",
+      "artist": "The White Stripes",
+      "title": "The Big Three Killed My Baby",
+      "album": "The White Stripes • 1999"
+    },
     {
       "time": "10:31 pm",
       "artist": "Rihanna",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "Dreams",
       "album": "Rumours • 1977"
-    },
-    {
-      "time": "8:54 pm",
-      "artist": "DJ Shadow",
-      "title": "You Can't Go Home Again",
-      "album": "The Private Press • 2002"
     }
   ]
 }
