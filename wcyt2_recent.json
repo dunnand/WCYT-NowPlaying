@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T04:54:55",
+  "updatedAt": "2026-10-11T04:57:10",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Hound Dog",
-    "album": "single • 1956",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Grace Under Pressure",
+    "album": "Cast of Thousands • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Elbow",
-      "title": "Grace Under Pressure"
-    },
     {
       "time": "5:02 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "5:05 am",
       "artist": "The Killers",
       "title": "The Man"
+    },
+    {
+      "time": "5:10 am",
+      "artist": "Counting Crows",
+      "title": "A Long December"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Elbow",
+      "title": "Grace Under Pressure",
+      "album": "Cast of Thousands • 2003"
+    },
     {
       "time": "4:54 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Ultravox",
       "title": "Reap the Wild Wind",
       "album": "Quartet • 1982"
-    },
-    {
-      "time": "3:20 am",
-      "artist": "U2",
-      "title": "Like a Song...",
-      "album": "War • 1983"
     }
   ]
 }
