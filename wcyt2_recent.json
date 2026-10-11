@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T07:00:38",
+  "updatedAt": "2026-10-11T07:05:23",
   "now": {
-    "artist": "The Dismemberment Plan",
-    "title": "You Are Invited",
-    "album": "Emergency & I • 1999",
-    "category": "TUNES"
+    "artist": "David Bowie",
+    "title": "The Stars (Are Out Tonight)",
+    "album": "The Next Day • 2013",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:05 am",
-      "artist": "David Bowie",
-      "title": "The Stars (Are Out Tonight)"
-    },
     {
       "time": "7:09 am",
       "artist": "Beck",
@@ -21,9 +16,20 @@
       "time": "7:12 am",
       "artist": "Basement Jaxx",
       "title": "Where's Your Head At"
+    },
+    {
+      "time": "7:17 am",
+      "artist": "Beach House",
+      "title": "Wild"
     }
   ],
   "recent": [
+    {
+      "time": "7:05 am",
+      "artist": "David Bowie",
+      "title": "The Stars (Are Out Tonight)",
+      "album": "The Next Day • 2013"
+    },
     {
       "time": "7:00 am",
       "artist": "The Dismemberment Plan",
@@ -167,12 +173,6 @@
       "artist": "Simple Minds",
       "title": "Don't You (Forget About Me)",
       "album": "Once Upon a Time • 1985"
-    },
-    {
-      "time": "5:14 am",
-      "artist": "Daft Punk",
-      "title": "Revolution 909",
-      "album": "Homework • 1997"
     }
   ]
 }
