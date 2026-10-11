@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T14:10:18",
+  "updatedAt": "2026-10-11T14:12:31",
   "now": {
-    "artist": "Jimmie Rodgers",
-    "title": "Honeycomb",
-    "album": "Honeycomb • 1957",
+    "artist": "Britney Spears",
+    "title": "Oops....I Did It Again",
+    "album": "Oops!... I Did It Again • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:12 pm",
-      "artist": "Britney Spears",
-      "title": "Oops....I Did It Again"
-    },
     {
       "time": "2:16 pm",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:12 pm",
+      "artist": "Britney Spears",
+      "title": "Oops....I Did It Again",
+      "album": "Oops!... I Did It Again • 2000"
+    },
     {
       "time": "2:10 pm",
       "artist": "Jimmie Rodgers",
@@ -172,12 +173,6 @@
       "artist": "Violent Femmes",
       "title": "Add It Up",
       "album": "Violent Femmes • 1983"
-    },
-    {
-      "time": "12:26 pm",
-      "artist": "The Fall",
-      "title": "Eat Y'self Fitter",
-      "album": "Perverted by Language • 1983"
     }
   ]
 }
