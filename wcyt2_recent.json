@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T20:04:24",
+  "updatedAt": "2026-10-10T20:08:09",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "Grace Is Gone",
-    "album": "Busted Stuff • 2002",
+    "artist": "Weezer",
+    "title": "California Kids",
+    "album": "Weezer • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 pm",
-      "artist": "Weezer",
-      "title": "California Kids"
-    },
     {
       "time": "8:11 pm",
       "artist": "Genesis",
@@ -28,12 +23,18 @@
       "title": "Blue Suede Shoes"
     },
     {
-      "time": "8:24 pm",
+      "time": "8:23 pm",
       "artist": "Arcade Fire",
       "title": "Neighborhood #4 (7 Kettles)"
     }
   ],
   "recent": [
+    {
+      "time": "8:08 pm",
+      "artist": "Weezer",
+      "title": "California Kids",
+      "album": "Weezer • 2016"
+    },
     {
       "time": "8:04 pm",
       "artist": "Dave Matthews Band",
@@ -177,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Cruel Summer",
       "album": "Lover • 2019"
-    },
-    {
-      "time": "6:33 pm",
-      "artist": "Beach House",
-      "title": "Heart of Chambers",
-      "album": "Devotion • 2008"
     }
   ]
 }
