@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T18:05:09",
+  "updatedAt": "2026-10-11T18:11:27",
   "now": {
-    "artist": "Depeche Mode",
-    "title": "Blasphemous Rumours",
-    "album": "Some Great Reward • 1984",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Slack",
+    "album": "Superchunk •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:11 pm",
-      "artist": "Superchunk",
-      "title": "Slack"
-    },
     {
       "time": "6:14 pm",
       "artist": "Little River Band",
@@ -21,9 +16,20 @@
       "time": "6:17 pm",
       "artist": "Four Tops",
       "title": "Standing In The Shadows Of Love"
+    },
+    {
+      "time": "6:20 pm",
+      "artist": "The Modern Lovers",
+      "title": "Roadrunner"
     }
   ],
   "recent": [
+    {
+      "time": "6:11 pm",
+      "artist": "Superchunk",
+      "title": "Slack",
+      "album": "Superchunk •"
+    },
     {
       "time": "6:05 pm",
       "artist": "Depeche Mode",
@@ -167,12 +173,6 @@
       "artist": "Rush",
       "title": "Working Man",
       "album": "Rush • 1974"
-    },
-    {
-      "time": "4:08 pm",
-      "artist": "Beyonce",
-      "title": "Halo",
-      "album": "I Am... Sasha Fierce • 2008"
     }
   ]
 }
