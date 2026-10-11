@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T00:07:22",
+  "updatedAt": "2026-10-11T00:07:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "I'll Be Your Baby Tonight",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:07 am",
-      "artist": "Bob Dylan",
-      "title": "I'll Be Your Baby Tonight"
-    },
     {
       "time": "12:10 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "12:19 am",
       "artist": "Ace Of Base",
       "title": "All That She Wants"
+    },
+    {
+      "time": "12:22 am",
+      "artist": "The Go",
+      "title": "Go's - We Got The Beat"
     }
   ],
   "recent": [
+    {
+      "time": "12:07 am",
+      "artist": "Bob Dylan",
+      "title": "I'll Be Your Baby Tonight",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "12:03 am",
       "artist": "Broadcast",
@@ -172,12 +178,6 @@
       "artist": "SAULT",
       "title": "Wildfires",
       "album": "UNTITLED • 2020"
-    },
-    {
-      "time": "9:46 pm",
-      "artist": "DEVO",
-      "title": "Gates of Steel",
-      "album": "Freedom of Choice • 1980"
     }
   ]
 }
