@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T17:49:42",
+  "updatedAt": "2026-10-11T17:53:26",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Vega-Tables",
-    "album": "The Smile Sessions • 2011",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Olsen Olsen",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:53 pm",
-      "artist": "Sigur Ros",
-      "title": "Olsen Olsen"
-    },
     {
       "time": "5:59 pm",
       "artist": "Sting",
@@ -26,9 +21,20 @@
       "time": "6:05 pm",
       "artist": "Depeche Mode",
       "title": "Blasphemous Rumours"
+    },
+    {
+      "time": "6:11 pm",
+      "artist": "Superchunk",
+      "title": "Slack"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 pm",
+      "artist": "Sigur Ros",
+      "title": "Olsen Olsen",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "5:49 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Hearts and Bones",
       "album": "Hearts and Bones • 1983"
-    },
-    {
-      "time": "3:53 pm",
-      "artist": "Tom Petty",
-      "title": "You Wreck Me",
-      "album": "Wildflowers • 1994"
     }
   ]
 }
