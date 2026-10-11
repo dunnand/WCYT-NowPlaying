@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T21:52:56",
+  "updatedAt": "2026-10-10T21:53:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Heroes",
+    "album": "Heroes • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:53 pm",
-      "artist": "David Bowie",
-      "title": "\"Heroes\""
-    },
     {
       "time": "9:59 pm",
       "artist": "Bob Marley and the Wailers",
@@ -26,9 +21,20 @@
       "time": "10:08 pm",
       "artist": "Aretha Franklin",
       "title": "A Change Is Gonna Come"
+    },
+    {
+      "time": "10:12 pm",
+      "artist": "Elton John",
+      "title": "Harmony"
     }
   ],
   "recent": [
+    {
+      "time": "9:53 pm",
+      "artist": "David Bowie",
+      "title": "Heroes",
+      "album": "Heroes • 1977"
+    },
     {
       "time": "9:49 pm",
       "artist": "SAULT",
@@ -172,12 +178,6 @@
       "artist": "Carl Perkins",
       "title": "Blue Suede Shoes",
       "album": "Dance Album of Carl Perkins • 1957"
-    },
-    {
-      "time": "8:15 pm",
-      "artist": "The Prodigy",
-      "title": "No Good (Start the Dance)",
-      "album": "Music for the Jilted Generation • 1994"
     }
   ]
 }
