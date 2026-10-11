@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T01:55:36",
+  "updatedAt": "2026-10-11T01:56:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Newborn",
+    "album": "Asleep in the Back • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "Elbow",
-      "title": "Newborn"
-    },
     {
       "time": "2:03 am",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "2:11 am",
       "artist": "Arrested Development",
       "title": "Tennessee"
+    },
+    {
+      "time": "2:15 am",
+      "artist": "Beat Happening",
+      "title": "Noise"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "Elbow",
+      "title": "Newborn",
+      "album": "Asleep in the Back • 2001"
+    },
     {
       "time": "1:51 am",
       "artist": "Reina del Cid",
@@ -172,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "Kiss On My List",
       "album": "Voices • 1981"
-    },
-    {
-      "time": "12:22 am",
-      "artist": "The Go-Go's",
-      "title": "We Got The Beat",
-      "album": "Beauty and the Beat • 1982"
     }
   ]
 }
