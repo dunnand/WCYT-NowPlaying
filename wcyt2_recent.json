@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T13:49:37",
+  "updatedAt": "2026-10-11T13:53:55",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "A Movie Script Ending",
-    "album": "The Photo Album • 2001",
-    "category": "TUNES"
+    "artist": "Henry Mancini",
+    "title": "Moon River",
+    "album": "Breakfast at Tiffany's: Soundtrack • 1961",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 pm",
-      "artist": "Henry Mancini",
-      "title": "Moon River"
-    },
     {
       "time": "1:56 pm",
       "artist": "Gil Scott",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:53 pm",
+      "artist": "Henry Mancini",
+      "title": "Moon River",
+      "album": "Breakfast at Tiffany's: Soundtrack • 1961"
+    },
     {
       "time": "1:49 pm",
       "artist": "Death Cab for Cutie",
@@ -177,12 +178,6 @@
       "artist": "Chance the Rapper feat. Lil Wayne & 2 Chainz",
       "title": "No Problem",
       "album": "Coloring Book • 2016"
-    },
-    {
-      "time": "12:12 pm",
-      "artist": "Gary Lewis & The Playboys",
-      "title": "She's Just My Style",
-      "album": "She's Just My Style • 1965"
     }
   ]
 }
