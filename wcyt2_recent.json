@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T15:43:03",
+  "updatedAt": "2026-10-11T15:43:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Maggie's Farm",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 pm",
-      "artist": "Bob Dylan",
-      "title": "Maggie's Farm"
-    },
     {
       "time": "3:47 pm",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "3:53 pm",
       "artist": "Tom Petty",
       "title": "You Wreck Me"
+    },
+    {
+      "time": "3:56 pm",
+      "artist": "Paul Simon",
+      "title": "Hearts and Bones"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 pm",
+      "artist": "Bob Dylan",
+      "title": "Maggie's Farm",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "3:39 pm",
       "artist": "The Dandy Warhols",
@@ -172,12 +178,6 @@
       "artist": "Jimmie Rodgers",
       "title": "Honeycomb",
       "album": "Honeycomb • 1957"
-    },
-    {
-      "time": "1:59 pm",
-      "artist": "Primal Scream",
-      "title": "Come Together",
-      "album": "Screamadelica • 1991"
     }
   ]
 }
