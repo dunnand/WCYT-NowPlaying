@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T22:12:26",
+  "updatedAt": "2026-10-10T22:15:10",
   "now": {
-    "artist": "Elton John",
-    "title": "Harmony",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Vic Chesnutt",
+    "title": "Where Were You",
+    "album": "West of Rome • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "Vic Chesnutt",
-      "title": "Where Were You"
-    },
     {
       "time": "10:19 pm",
       "artist": "The Dave Brubeck Quartet",
@@ -21,9 +16,20 @@
       "time": "10:25 pm",
       "artist": "Coldplay",
       "title": "Violet Hill"
+    },
+    {
+      "time": "10:28 pm",
+      "artist": "Four Tops",
+      "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "Vic Chesnutt",
+      "title": "Where Were You",
+      "album": "West of Rome • 1991"
+    },
     {
       "time": "10:12 pm",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "TLC",
       "title": "Waterfalls",
       "album": "CrazySexyCool • 1995"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Third Eye Blind",
-      "title": "Semi-Charmed Life",
-      "album": "Third Eye Blind • 1997"
     }
   ]
 }
