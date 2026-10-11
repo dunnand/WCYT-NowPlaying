@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T09:03:34",
+  "updatedAt": "2026-10-11T09:03:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Any Day Now",
+    "album": "Asleep in the Back • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:03 am",
-      "artist": "Elbow",
-      "title": "Any Day Now"
-    },
     {
       "time": "9:09 am",
       "artist": "Depeche Mode",
@@ -26,9 +21,20 @@
       "time": "9:19 am",
       "artist": "The Halo Benders",
       "title": "Don't Touch My Bikini"
+    },
+    {
+      "time": "9:22 am",
+      "artist": "Heavenly",
+      "title": "Atta Girl"
     }
   ],
   "recent": [
+    {
+      "time": "9:03 am",
+      "artist": "Elbow",
+      "title": "Any Day Now",
+      "album": "Asleep in the Back • 2001"
+    },
     {
       "time": "9:00 am",
       "artist": "Angel Olsen",
@@ -172,12 +178,6 @@
       "artist": "Stray Cats",
       "title": "Rock This Town",
       "album": "Built for Speed • 1982"
-    },
-    {
-      "time": "7:29 am",
-      "artist": "The Soft Boys",
-      "title": "I Wanna Destroy You",
-      "album": "Underwater Moonlight • 1980"
     }
   ]
 }
