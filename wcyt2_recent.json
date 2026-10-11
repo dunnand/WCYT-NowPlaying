@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T16:02:11",
+  "updatedAt": "2026-10-11T16:02:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Phil Collins",
+    "title": "Groovy Kind Of Love",
+    "album": "Buster soundtrack • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:02 pm",
-      "artist": "Phil Collins",
-      "title": "Groovy Kind Of Love"
-    },
     {
       "time": "4:05 pm",
       "artist": "Nintendo",
@@ -26,9 +21,20 @@
       "time": "4:12 pm",
       "artist": "Rush",
       "title": "Working Man"
+    },
+    {
+      "time": "4:19 pm",
+      "artist": "Belle and Sebastian",
+      "title": "I Fought in a War"
     }
   ],
   "recent": [
+    {
+      "time": "4:02 pm",
+      "artist": "Phil Collins",
+      "title": "Groovy Kind Of Love",
+      "album": "Buster soundtrack • 1988"
+    },
     {
       "time": "3:56 pm",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Public Enemy",
       "title": "Welcome to the Terrordome",
       "album": "Fear of a Black Planet • 1990"
-    },
-    {
-      "time": "2:24 pm",
-      "artist": "Prince and the New Power Generation",
-      "title": "7",
-      "album": "Love Symbol • 1992"
     }
   ]
 }
