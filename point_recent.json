@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T20:09:01",
+  "updatedAt": "2026-10-10T20:12:55",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "3rd Planet",
-    "album": "The Moon & Antarctica • 2000",
+    "artist": "Snail Mail",
+    "title": "My Maker",
+    "album": "Ricochet • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:12 pm",
-      "artist": "Snail Mail",
-      "title": "My Maker"
-    },
     {
       "time": "8:17 pm",
       "artist": "Adrianne Lenker",
@@ -21,9 +16,20 @@
       "time": "8:20 pm",
       "artist": "Waxahatchee",
       "title": "Mud"
+    },
+    {
+      "time": "8:23 pm",
+      "artist": "DIIV",
+      "title": "Kid"
     }
   ],
   "recent": [
+    {
+      "time": "8:12 pm",
+      "artist": "Snail Mail",
+      "title": "My Maker",
+      "album": "Ricochet • 2026"
+    },
     {
       "time": "8:09 pm",
       "artist": "Modest Mouse",
@@ -167,12 +173,6 @@
       "artist": "Mirah",
       "title": "Stumbling",
       "album": "Dedication • 2026"
-    },
-    {
-      "time": "6:44 pm",
-      "artist": "2nd Grade",
-      "title": "Fender Boys",
-      "album": "Girls and Boys • 2026"
     }
   ]
 }
