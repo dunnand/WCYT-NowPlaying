@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T20:21:27",
+  "updatedAt": "2026-10-10T20:23:42",
   "now": {
-    "artist": "Carl Perkins",
-    "title": "Blue Suede Shoes",
-    "album": "Dance Album of Carl Perkins • 1957",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Neighborhood #4 (7 Kettles)",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:23 pm",
-      "artist": "Arcade Fire",
-      "title": "Neighborhood #4 (7 Kettles)"
-    },
     {
       "time": "8:28 pm",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:23 pm",
+      "artist": "Arcade Fire",
+      "title": "Neighborhood #4 (7 Kettles)",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "8:21 pm",
       "artist": "Carl Perkins",
@@ -172,12 +173,6 @@
       "artist": "Madonna",
       "title": "Into The Groove",
       "album": "single • 1985"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "Richard Marx",
-      "title": "Right Here Waiting",
-      "album": "Repeat Offender • 1989"
     }
   ]
 }
