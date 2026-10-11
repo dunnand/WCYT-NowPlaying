@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T21:09:09",
+  "updatedAt": "2026-10-10T21:12:53",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Delicate",
-    "album": "reputation • 2017",
+    "artist": "Michael Jackson",
+    "title": "Rock With You",
+    "album": "Off the Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Michael Jackson",
-      "title": "Rock With You"
-    },
     {
       "time": "9:16 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:12 pm",
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "album": "Off the Wall • 1979"
+    },
     {
       "time": "9:09 pm",
       "artist": "Taylor Swift",
@@ -172,12 +173,6 @@
       "artist": "The Chemical Brothers",
       "title": "Block Rockin' Beats",
       "album": "Dig Your Own Hole • 1997"
-    },
-    {
-      "time": "7:29 pm",
-      "artist": "Vampire Weekend",
-      "title": "Ya Hey",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
