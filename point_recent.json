@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T21:45:24",
+  "updatedAt": "2026-10-10T21:48:48",
   "now": {
-    "artist": "Kevin Morby",
-    "title": "This Is A Photograph",
-    "album": "This Is A Photograph •",
+    "artist": "The Clash",
+    "title": "London Calling",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 pm",
-      "artist": "The Clash",
-      "title": "London Calling"
-    },
     {
       "time": "9:52 pm",
       "artist": "Ty Segall",
@@ -21,9 +16,20 @@
       "time": "9:56 pm",
       "artist": "Men I Trust",
       "title": "Carried Away"
+    },
+    {
+      "time": "10:00 pm",
+      "artist": "Neon Indian",
+      "title": "Deadbeat Summer"
     }
   ],
   "recent": [
+    {
+      "time": "9:48 pm",
+      "artist": "The Clash",
+      "title": "London Calling",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "9:45 pm",
       "artist": "Kevin Morby",
@@ -167,12 +173,6 @@
       "artist": "Snail Mail",
       "title": "My Maker",
       "album": "Ricochet • 2026"
-    },
-    {
-      "time": "8:09 pm",
-      "artist": "Modest Mouse",
-      "title": "3rd Planet",
-      "album": "The Moon & Antarctica • 2000"
     }
   ]
 }
