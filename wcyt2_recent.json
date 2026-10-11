@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-11T15:20:08",
+  "updatedAt": "2026-10-11T15:22:13",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "I Get Around",
-    "album": "All Summer Long • 1964",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Zebra",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "3:22 pm",
-      "artist": "Beach House",
-      "title": "Zebra"
-    },
-    {
-      "time": "3:27 pm",
+      "time": "3:26 pm",
       "artist": "The Beach Boys",
       "title": "Fun, Fun, Fun"
     },
@@ -31,9 +26,20 @@
       "time": "3:37 pm",
       "artist": "The Everly Brothers",
       "title": "All I Have To Do Is Dream"
+    },
+    {
+      "time": "3:39 pm",
+      "artist": "The Dandy Warhols",
+      "title": "Bohemian Like You"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 pm",
+      "artist": "Beach House",
+      "title": "Zebra",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "3:20 pm",
       "artist": "The Beach Boys",
@@ -177,12 +183,6 @@
       "artist": "Gang of Four",
       "title": "Natural's Not in It",
       "album": "Entertainment • 1979"
-    },
-    {
-      "time": "1:35 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "traitor",
-      "album": "SOUR • 2021"
     }
   ]
 }
