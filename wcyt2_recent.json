@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T05:52:40",
+  "updatedAt": "2026-10-11T05:55:16",
   "now": {
-    "artist": "Buffalo Springfield",
-    "title": "For What It's Worth",
-    "album": "Buffalo Springfield • 1967",
+    "artist": "Olivia Newton-John",
+    "title": "Please Mr. Please",
+    "album": "Have You Never Been Mellow • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:55 am",
-      "artist": "Olivia Newton",
-      "title": "John - Please Mr. Please"
-    },
     {
       "time": "5:58 am",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "6:06 am",
       "artist": "Daft Punk",
       "title": "Face to Face"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "Elliott Smith",
+      "title": "Junk Bond Trader"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 am",
+      "artist": "Olivia Newton-John",
+      "title": "Please Mr. Please",
+      "album": "Have You Never Been Mellow • 1975"
+    },
     {
       "time": "5:52 am",
       "artist": "Buffalo Springfield",
@@ -172,12 +178,6 @@
       "artist": "Bryan Adams",
       "title": "(Everything I Do) I Do It For You",
       "album": "Waking Up the Neighbours • 1991"
-    },
-    {
-      "time": "4:07 am",
-      "artist": "Wilco",
-      "title": "Locator",
-      "album": "Schmilco • 2016"
     }
   ]
 }
