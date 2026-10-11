@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T01:28:08",
+  "updatedAt": "2026-10-11T01:28:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Doobie Brothers",
+    "title": "Rockin' Down The Highway",
+    "album": "Toulouse Street • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:28 am",
-      "artist": "Doobie Brothers",
-      "title": "Rockin' Down The Highway"
-    },
     {
       "time": "1:31 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "1:39 am",
       "artist": "Chicago",
       "title": "Does Anybody Really Know What Time It Is?"
+    },
+    {
+      "time": "1:43 am",
+      "artist": "Michael Murphey",
+      "title": "Wildfire"
     }
   ],
   "recent": [
+    {
+      "time": "1:28 am",
+      "artist": "Doobie Brothers",
+      "title": "Rockin' Down The Highway",
+      "album": "Toulouse Street • 1976"
+    },
     {
       "time": "1:23 am",
       "artist": "David Wise",
@@ -172,12 +178,6 @@
       "artist": "The Crickets",
       "title": "Maybe Baby",
       "album": "The Chirping Crickets • 1957"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "Wilson Phillips",
-      "title": "Release Me",
-      "album": "Wilson Phillips • 1990"
     }
   ]
 }
