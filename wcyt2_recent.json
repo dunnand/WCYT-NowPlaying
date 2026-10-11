@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T15:15:16",
+  "updatedAt": "2026-10-11T15:17:31",
   "now": {
-    "artist": "Neil Sedaka",
-    "title": "Oh! Carol",
-    "album": "single • 1959",
-    "category": "AUDIO"
+    "artist": "The Apples in Stereo",
+    "title": "Please",
+    "album": "Velocity of Sound • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:17 pm",
-      "artist": "The Apples in Stereo",
-      "title": "Please"
-    },
     {
       "time": "3:20 pm",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "3:27 pm",
       "artist": "The Beach Boys",
       "title": "Fun, Fun, Fun"
+    },
+    {
+      "time": "3:29 pm",
+      "artist": "Roxy Music",
+      "title": "Love Is The Drug"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 pm",
+      "artist": "The Apples in Stereo",
+      "title": "Please",
+      "album": "Velocity of Sound • 2002"
+    },
     {
       "time": "3:15 pm",
       "artist": "Neil Sedaka",
@@ -172,12 +178,6 @@
       "artist": "Steve Miller Band",
       "title": "Abracadabra",
       "album": "Abracadabra • 1982"
-    },
-    {
-      "time": "1:25 pm",
-      "artist": "Whitney Houston",
-      "title": "Greatest Love of All",
-      "album": "Whitney Houston • 1985"
     }
   ]
 }
