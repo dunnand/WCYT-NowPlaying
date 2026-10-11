@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T09:35:24",
+  "updatedAt": "2026-10-11T09:38:30",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "bad idea right?",
-    "album": "Guts • 2023",
+    "artist": "The Allman Brothers Band",
+    "title": "Ramblin' Man",
+    "album": "Brothers and Sisters • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:38 am",
-      "artist": "The Allman Brothers Band",
-      "title": "Ramblin' Man"
-    },
     {
       "time": "9:43 am",
       "artist": "The Cookies",
@@ -21,9 +16,25 @@
       "time": "9:45 am",
       "artist": "Big Star",
       "title": "The Ballad of El Goodo"
+    },
+    {
+      "time": "9:50 am",
+      "artist": "Cream",
+      "title": "I'm So Glad"
+    },
+    {
+      "time": "9:54 am",
+      "artist": "The Wailers",
+      "title": "Burnin' and Lootin'"
     }
   ],
   "recent": [
+    {
+      "time": "9:38 am",
+      "artist": "The Allman Brothers Band",
+      "title": "Ramblin' Man",
+      "album": "Brothers and Sisters • 1973"
+    },
     {
       "time": "9:35 am",
       "artist": "Olivia Rodrigo",
@@ -167,12 +178,6 @@
       "artist": "Five Satins",
       "title": "In The Still Of The Nite",
       "album": "single • 1956"
-    },
-    {
-      "time": "7:56 am",
-      "artist": "Fugazi",
-      "title": "Blueprint",
-      "album": "Repeater • 1990"
     }
   ]
 }
