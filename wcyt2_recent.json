@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T00:46:10",
+  "updatedAt": "2026-10-11T00:51:06",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Shelter From the Storm",
-    "album": "Shelter From the Storm • 1975",
+    "artist": "Alice in Chains",
+    "title": "No Excuses",
+    "album": "Jar of Flies - EP • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:51 am",
-      "artist": "Alice in Chains",
-      "title": "No Excuses"
-    },
     {
       "time": "12:55 am",
       "artist": "Chordettes",
@@ -21,9 +16,20 @@
       "time": "12:57 am",
       "artist": "Darondo",
       "title": "Didn't I"
+    },
+    {
+      "time": "1:01 am",
+      "artist": "Bob Dylan",
+      "title": "I Don't Believe You"
     }
   ],
   "recent": [
+    {
+      "time": "12:51 am",
+      "artist": "Alice in Chains",
+      "title": "No Excuses",
+      "album": "Jar of Flies - EP • 1994"
+    },
     {
       "time": "12:46 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Whitney Houston",
       "title": "I Have Nothing",
       "album": "The Bodyguard • 1992"
-    },
-    {
-      "time": "10:35 pm",
-      "artist": "The White Stripes",
-      "title": "The Big Three Killed My Baby",
-      "album": "The White Stripes • 1999"
     }
   ]
 }
