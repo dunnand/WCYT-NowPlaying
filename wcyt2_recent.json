@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T05:02:18",
+  "updatedAt": "2026-10-11T05:05:45",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It Ain't Me Babe",
-    "album": "It Ain't Me Babe • 1964",
+    "artist": "The Killers",
+    "title": "The Man",
+    "album": "Wonderful Wonderful • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 am",
-      "artist": "The Killers",
-      "title": "The Man"
-    },
     {
       "time": "5:10 am",
       "artist": "Counting Crows",
@@ -21,9 +16,20 @@
       "time": "5:14 am",
       "artist": "Daft Punk",
       "title": "Revolution 909"
+    },
+    {
+      "time": "5:19 am",
+      "artist": "Simple Minds",
+      "title": "Don't You (Forget About Me)"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 am",
+      "artist": "The Killers",
+      "title": "The Man",
+      "album": "Wonderful Wonderful • 2017"
+    },
     {
       "time": "5:02 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Dave Matthews Band",
       "title": "Grey Street",
       "album": "Busted Stuff • 2002"
-    },
-    {
-      "time": "3:29 am",
-      "artist": "Silk Sonic",
-      "title": "Leave the Door Open",
-      "album": "An Evening With Silk Sonic • 2021"
     }
   ]
 }
