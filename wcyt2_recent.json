@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T15:26:58",
+  "updatedAt": "2026-10-11T15:29:21",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Fun, Fun, Fun",
-    "album": "Shut Down Volume 2 • 1964",
+    "artist": "Roxy Music",
+    "title": "Love Is The Drug",
+    "album": "Siren • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:29 pm",
-      "artist": "Roxy Music",
-      "title": "Love Is The Drug"
-    },
     {
       "time": "3:33 pm",
       "artist": "The Jesus Lizard",
@@ -26,9 +21,20 @@
       "time": "3:39 pm",
       "artist": "The Dandy Warhols",
       "title": "Bohemian Like You"
+    },
+    {
+      "time": "3:43 pm",
+      "artist": "Bob Dylan",
+      "title": "Maggie's Farm"
     }
   ],
   "recent": [
+    {
+      "time": "3:29 pm",
+      "artist": "Roxy Music",
+      "title": "Love Is The Drug",
+      "album": "Siren • 1975"
+    },
     {
       "time": "3:26 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Death Cab for Cutie",
       "title": "A Movie Script Ending",
       "album": "The Photo Album • 2001"
-    },
-    {
-      "time": "1:42 pm",
-      "artist": "George McCrae",
-      "title": "Rock Your Baby",
-      "album": "Rock Your Baby • 1974"
     }
   ]
 }
