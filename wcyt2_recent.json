@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T15:03:09",
+  "updatedAt": "2026-10-11T15:07:25",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Four Out Of Five",
-    "album": "Tranquility Base Hotel & Casino •",
-    "category": "TUNES"
+    "artist": "John Cale",
+    "title": "Fear Is A Man's Best Friend",
+    "album": "Fear • 1974",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:07 pm",
-      "artist": "John Cale",
-      "title": "Fear Is A Man's Best Friend"
-    },
     {
       "time": "3:11 pm",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "3:17 pm",
       "artist": "The Apples in Stereo",
       "title": "Please"
+    },
+    {
+      "time": "3:20 pm",
+      "artist": "The Beach Boys",
+      "title": "I Get Around"
     }
   ],
   "recent": [
+    {
+      "time": "3:07 pm",
+      "artist": "John Cale",
+      "title": "Fear Is A Man's Best Friend",
+      "album": "Fear • 1974"
+    },
     {
       "time": "3:03 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "Dig for Fire",
       "album": "Bossanova • 1990"
-    },
-    {
-      "time": "1:12 pm",
-      "artist": "David Bowie",
-      "title": "Lazarus",
-      "album": "Blackstar • 2016"
     }
   ]
 }
