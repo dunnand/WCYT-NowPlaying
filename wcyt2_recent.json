@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T10:04:37",
+  "updatedAt": "2026-10-11T10:08:33",
   "now": {
-    "artist": "Cat Power",
-    "title": "Werewolf",
-    "album": "You Are Free • 2003",
-    "category": "TUNES"
+    "artist": "The Beach Boys",
+    "title": "When I Grow Up (To Be A Man)",
+    "album": "The Beach Boys Today! • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:08 am",
-      "artist": "The Beach Boys",
-      "title": "When I Grow Up (To Be A Man)"
-    },
     {
       "time": "10:10 am",
       "artist": "Black Eyed Peas",
@@ -26,9 +21,20 @@
       "time": "10:19 am",
       "artist": "John Prine",
       "title": "All the Best"
+    },
+    {
+      "time": "10:22 am",
+      "artist": "Lionel Richie",
+      "title": "Say You, Say Me"
     }
   ],
   "recent": [
+    {
+      "time": "10:08 am",
+      "artist": "The Beach Boys",
+      "title": "When I Grow Up (To Be A Man)",
+      "album": "The Beach Boys Today! • 1965"
+    },
     {
       "time": "10:04 am",
       "artist": "Cat Power",
@@ -172,12 +178,6 @@
       "artist": "Panda Bear & Sonic Boom",
       "title": "Edge of the Edge",
       "album": "Edge of the Edge • 2022"
-    },
-    {
-      "time": "8:25 am",
-      "artist": "De La Soul",
-      "title": "Plug Tunin'",
-      "album": "3 Feet High and Rising • 1989"
     }
   ]
 }
