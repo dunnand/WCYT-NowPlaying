@@ -1,39 +1,40 @@
 {
-  "updatedAt": "2026-10-10T20:01:30",
+  "updatedAt": "2026-10-10T20:01:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Partridge Family",
+    "title": "I Think I Love You",
+    "album": "The Partridge Family Album • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "8:01 pm",
+      "time": "8:04 pm",
+      "artist": "Beyonce",
+      "title": "Sweet Dreams"
+    },
+    {
+      "time": "8:07 pm",
       "artist": "Partridge Family",
       "title": "I Think I Love You"
     },
     {
-      "time": "8:04 pm",
+      "time": "8:10 pm",
       "artist": "Dave Matthews Band",
       "title": "Grace Is Gone"
     },
     {
-      "time": "8:08 pm",
+      "time": "8:14 pm",
       "artist": "Weezer",
       "title": "California Kids"
-    },
-    {
-      "time": "8:11 pm",
-      "artist": "Genesis",
-      "title": "Follow You Follow Me"
-    },
-    {
-      "time": "8:15 pm",
-      "artist": "The Prodigy",
-      "title": "No Good (Start the Dance)"
     }
   ],
   "recent": [
+    {
+      "time": "8:01 pm",
+      "artist": "Partridge Family",
+      "title": "I Think I Love You",
+      "album": "The Partridge Family Album • 1970"
+    },
     {
       "time": "7:58 pm",
       "artist": "Beyonce",
@@ -177,12 +178,6 @@
       "artist": "Fall Out Boy",
       "title": "Thnks Fr Th Mmrs",
       "album": "Infinity on High • 2007"
-    },
-    {
-      "time": "6:26 pm",
-      "artist": "Run The Jewels",
-      "title": "Early",
-      "album": "Run the Jewels 2 • 2014"
     }
   ]
 }
