@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-10T20:08:09",
+  "updatedAt": "2026-10-10T20:11:34",
   "now": {
-    "artist": "Weezer",
-    "title": "California Kids",
-    "album": "Weezer • 2016",
+    "artist": "Genesis",
+    "title": "Follow You Follow Me",
+    "album": "... And Then There Were Three... • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:11 pm",
-      "artist": "Genesis",
-      "title": "Follow You Follow Me"
-    },
     {
       "time": "8:15 pm",
       "artist": "The Prodigy",
@@ -26,9 +21,20 @@
       "time": "8:23 pm",
       "artist": "Arcade Fire",
       "title": "Neighborhood #4 (7 Kettles)"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "Bob Dylan",
+      "title": "Corrina, Corrina"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 pm",
+      "artist": "Genesis",
+      "title": "Follow You Follow Me",
+      "album": "... And Then There Were Three... • 1978"
+    },
     {
       "time": "8:08 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Suede",
       "title": "Trash",
       "album": "Coming Up • 1996"
-    },
-    {
-      "time": "6:38 pm",
-      "artist": "Taylor Swift",
-      "title": "Cruel Summer",
-      "album": "Lover • 2019"
     }
   ]
 }
