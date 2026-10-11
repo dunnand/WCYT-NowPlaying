@@ -1,39 +1,40 @@
 {
-  "updatedAt": "2026-10-10T21:01:24",
+  "updatedAt": "2026-10-10T21:01:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Dreams",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "9:01 pm",
+      "time": "9:05 pm",
+      "artist": "DJ Shadow",
+      "title": "You Can't Go Home Again"
+    },
+    {
+      "time": "9:12 pm",
       "artist": "Fleetwood Mac",
       "title": "Dreams"
     },
     {
-      "time": "9:05 pm",
+      "time": "9:16 pm",
       "artist": "Daft Punk",
       "title": "Aerodynamic"
     },
     {
-      "time": "9:09 pm",
+      "time": "9:20 pm",
       "artist": "Taylor Swift",
       "title": "Delicate"
-    },
-    {
-      "time": "9:12 pm",
-      "artist": "Michael Jackson",
-      "title": "Rock With You"
-    },
-    {
-      "time": "9:16 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Walls (Circus)"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Dreams",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "8:54 pm",
       "artist": "DJ Shadow",
@@ -177,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Crying Lightning",
       "album": "Humbug • 2009"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "Monotones",
-      "title": "Book Of Love",
-      "album": "Book of Love • 1958"
     }
   ]
 }
