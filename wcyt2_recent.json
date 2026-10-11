@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T17:41:50",
+  "updatedAt": "2026-10-11T17:44:35",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Mardy Bum",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "Daft Punk",
+    "title": "Digital Love",
+    "album": "Discovery • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "Daft Punk",
-      "title": "Digital Love"
-    },
     {
       "time": "5:49 pm",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "5:59 pm",
       "artist": "Sting",
       "title": "Fields Of Gold"
+    },
+    {
+      "time": "6:03 pm",
+      "artist": "Daniel Johnston",
+      "title": "True Love Will Find You in the End"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "Daft Punk",
+      "title": "Digital Love",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "5:41 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "They Might Be Giants",
       "title": "Istanbul (Not Constantinople)",
       "album": "Flood • 1990"
-    },
-    {
-      "time": "3:47 pm",
-      "artist": "Beach House",
-      "title": "Used to Be",
-      "album": "Teen Dream • 2010"
     }
   ]
 }
