@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T07:55:47",
+  "updatedAt": "2026-10-12T07:55:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Only A Northern Song",
+    "album": "Yellow Submarine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:55 am",
-      "artist": "The Beatles",
-      "title": "Only A Northern Song"
-    },
     {
       "time": "7:59 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "8:13 am",
       "artist": "Blessid Union of Souls",
       "title": "Hey Leonardo"
+    },
+    {
+      "time": "8:16 am",
+      "artist": "Talking Heads",
+      "title": "Once in a Lifetime"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "The Beatles",
+      "title": "Only A Northern Song",
+      "album": "Yellow Submarine • 1969"
+    },
     {
       "time": "7:49 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "I Wanna Get Better",
       "album": ""
-    },
-    {
-      "time": "6:27 am",
-      "artist": "Tom Waits",
-      "title": "Tango Till They're Sore",
-      "album": "Rain Dogs • 1985"
     }
   ]
 }
