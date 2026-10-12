@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T18:52:05",
+  "updatedAt": "2026-10-12T18:56:43",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Misty Mountain Hop",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "The Clash",
+    "title": "The Guns of Brixton",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:56 pm",
-      "artist": "The Clash",
-      "title": "The Guns of Brixton"
-    },
     {
       "time": "6:59 pm",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "7:06 pm",
       "artist": "David Bowie",
       "title": "Starman"
+    },
+    {
+      "time": "7:11 pm",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Makin' Some Noise"
     }
   ],
   "recent": [
+    {
+      "time": "6:56 pm",
+      "artist": "The Clash",
+      "title": "The Guns of Brixton",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "6:52 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Bloc Party",
       "title": "Like Eating Glass",
       "album": "Silent Alarm • 2005"
-    },
-    {
-      "time": "5:24 pm",
-      "artist": "Perez Prado y Su Orquesta",
-      "title": "Mambo No. 5",
-      "album": "single • 1949"
     }
   ]
 }
