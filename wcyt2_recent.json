@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T21:06:55",
+  "updatedAt": "2026-10-11T21:10:29",
   "now": {
-    "artist": "Barbra Streisand And Bryan Adams",
-    "title": "I Finally Found Someone",
-    "album": "• 1996",
+    "artist": "Buddy Holly",
+    "title": "Rave On",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 pm",
-      "artist": "Buddy Holly",
-      "title": "Rave On"
-    },
     {
       "time": "9:12 pm",
       "artist": "Arcade Fire",
@@ -26,9 +21,20 @@
       "time": "9:19 pm",
       "artist": "FKA twigs",
       "title": "Pendulum"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "Candlebox",
+      "title": "Far Behind"
     }
   ],
   "recent": [
+    {
+      "time": "9:10 pm",
+      "artist": "Buddy Holly",
+      "title": "Rave On",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "9:06 pm",
       "artist": "Barbra Streisand And Bryan Adams",
@@ -172,12 +178,6 @@
       "artist": "Talk Talk",
       "title": "Ascension Day",
       "album": "Laughing Stock • 1991"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "The O'Jays",
-      "title": "For the Love of Money",
-      "album": "Ship Ahoy • 1973"
     }
   ]
 }
