@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T11:46:18",
+  "updatedAt": "2026-10-12T11:49:22",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Sugarcube",
-    "album": "I Can Hear the Heart Beating as One • 1997",
-    "category": "TUNES"
+    "artist": "Foo Fighters",
+    "title": "Breakout",
+    "album": "There Is Nothing Left to Lose • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:49 am",
-      "artist": "Foo Fighters",
-      "title": "Breakout"
-    },
     {
       "time": "11:52 am",
       "artist": "Prince",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:49 am",
+      "artist": "Foo Fighters",
+      "title": "Breakout",
+      "album": "There Is Nothing Left to Lose • 1999"
+    },
     {
       "time": "11:46 am",
       "artist": "Yo La Tengo",
@@ -172,12 +173,6 @@
       "artist": "Deerhoof",
       "title": "This Magnificent Bird Will Rise",
       "album": "Reveille • 2009"
-    },
-    {
-      "time": "10:23 am",
-      "artist": "The Cars",
-      "title": "You're All I've Got Tonight",
-      "album": "The Cars • 1978"
     }
   ]
 }
