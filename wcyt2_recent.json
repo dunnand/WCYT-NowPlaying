@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T01:06:17",
+  "updatedAt": "2026-10-12T01:10:33",
   "now": {
-    "artist": "Radiohead",
-    "title": "Lucky",
-    "album": "OK Computer • 1997",
+    "artist": "Chantels",
+    "title": "Maybe",
+    "album": "We Are The Chantels • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Chantels",
-      "title": "Maybe"
-    },
     {
       "time": "1:13 am",
       "artist": "Bloc Party",
@@ -26,9 +21,20 @@
       "time": "1:19 am",
       "artist": "clipping.",
       "title": "Nothing Is Safe"
+    },
+    {
+      "time": "1:24 am",
+      "artist": "Elliott Smith",
+      "title": "Baby Britain"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Chantels",
+      "title": "Maybe",
+      "album": "We Are The Chantels • 1958"
+    },
     {
       "time": "1:06 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Eagle-Eye Cherry",
       "title": "Save Tonight",
       "album": "Desireless • 1998"
-    },
-    {
-      "time": "11:23 pm",
-      "artist": "Bad Religion",
-      "title": "American Jesus",
-      "album": "Recipe for Hate • 1993"
     }
   ]
 }
