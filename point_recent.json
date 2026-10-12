@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T09:51:45",
+  "updatedAt": "2026-10-12T09:52:07",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The White Stripes",
+    "title": "Hello Operator",
+    "album": "De Stijl • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:52 am",
-      "artist": "The White Stripes",
-      "title": "Hello Operator"
-    },
     {
       "time": "9:54 am",
       "artist": "Bon Iver",
@@ -26,9 +21,20 @@
       "time": "10:02 am",
       "artist": "Ginger Root",
       "title": "No Problems"
+    },
+    {
+      "time": "10:05 am",
+      "artist": "Fiona Apple",
+      "title": "Drumset"
     }
   ],
   "recent": [
+    {
+      "time": "9:52 am",
+      "artist": "The White Stripes",
+      "title": "Hello Operator",
+      "album": "De Stijl • 2000"
+    },
     {
       "time": "9:48 am",
       "artist": "Phoebe Bridgers",
@@ -172,12 +178,6 @@
       "artist": "Geese",
       "title": "Taxes",
       "album": "Getting Killed • 2025"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "The Postal Service",
-      "title": "Against All Odds",
-      "album": "Give Up •"
     }
   ]
 }
