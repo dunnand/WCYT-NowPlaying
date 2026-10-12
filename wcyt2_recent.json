@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T13:53:17",
+  "updatedAt": "2026-10-12T13:57:33",
   "now": {
-    "artist": "Red Rider",
-    "title": "Lunatic Fringe",
-    "album": "As Far as Siam • 1981",
+    "artist": "Bleachers",
+    "title": "Goodmorning",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:57 pm",
-      "artist": "Bleachers",
-      "title": "Goodmorning"
-    },
     {
       "time": "2:01 pm",
       "artist": "Elton John",
@@ -21,9 +16,20 @@
       "time": "2:04 pm",
       "artist": "Aretha Franklin",
       "title": "Chain of Fools"
+    },
+    {
+      "time": "2:07 pm",
+      "artist": "The Pointer Sisters",
+      "title": "Yes We Can Can"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 pm",
+      "artist": "Bleachers",
+      "title": "Goodmorning",
+      "album": ""
+    },
     {
       "time": "1:53 pm",
       "artist": "Red Rider",
@@ -167,12 +173,6 @@
       "artist": "Madonna",
       "title": "Take A Bow",
       "album": "Bedtime Stories • 1994"
-    },
-    {
-      "time": "12:22 pm",
-      "artist": "KISS",
-      "title": "Deuce",
-      "album": "Kiss • 1974"
     }
   ]
 }
