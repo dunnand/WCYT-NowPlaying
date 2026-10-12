@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T18:59:36",
+  "updatedAt": "2026-10-12T18:59:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "Yellow",
+    "album": "Parachutes • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:59 pm",
-      "artist": "Coldplay",
-      "title": "Yellow"
-    },
     {
       "time": "7:04 pm",
       "artist": "Glen Campbell",
@@ -26,9 +21,20 @@
       "time": "7:11 pm",
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Makin' Some Noise"
+    },
+    {
+      "time": "7:14 pm",
+      "artist": "Joe Turner & His Blues Kings",
+      "title": "Shake, Rattle And Roll"
     }
   ],
   "recent": [
+    {
+      "time": "6:59 pm",
+      "artist": "Coldplay",
+      "title": "Yellow",
+      "album": "Parachutes • 2000"
+    },
     {
       "time": "6:56 pm",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "The Angels",
       "title": "My Boyfriend's Back",
       "album": "My Boyfriend's Back • 1963"
-    },
-    {
-      "time": "5:27 pm",
-      "artist": "Bloc Party",
-      "title": "Like Eating Glass",
-      "album": "Silent Alarm • 2005"
     }
   ]
 }
