@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T07:59:04",
+  "updatedAt": "2026-10-12T08:09:01",
   "now": {
-    "artist": "David Bowie",
-    "title": "Blackstar",
-    "album": "Blackstar • 2016",
+    "artist": "Weezer",
+    "title": "El Scorcho",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 am",
-      "artist": "Weezer",
-      "title": "El Scorcho"
-    },
     {
       "time": "8:13 am",
       "artist": "Blessid Union of Souls",
@@ -21,9 +16,20 @@
       "time": "8:16 am",
       "artist": "Talking Heads",
       "title": "Once in a Lifetime"
+    },
+    {
+      "time": "8:20 am",
+      "artist": "Sammy Hagar",
+      "title": "I Can't Drive 55"
     }
   ],
   "recent": [
+    {
+      "time": "8:09 am",
+      "artist": "Weezer",
+      "title": "El Scorcho",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "7:59 am",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "The Promised Land",
       "album": "Darkness on the Edge of Town • 1978"
-    },
-    {
-      "time": "6:33 am",
-      "artist": "Coldplay",
-      "title": "Talk",
-      "album": "X&Y • 2005"
     }
   ]
 }
