@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T15:46:48",
+  "updatedAt": "2026-10-12T15:51:15",
   "now": {
-    "artist": "U2",
-    "title": "Zoo Station",
-    "album": "Achtung Baby • 1991",
+    "artist": "Ray Charles",
+    "title": "Shake a Tail Feather",
+    "album": "Blues Brothers • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:51 pm",
-      "artist": "Ray Charles",
-      "title": "Shake a Tail Feather"
-    },
     {
       "time": "3:54 pm",
       "artist": "Traveling Wilburys",
@@ -21,9 +16,20 @@
       "time": "3:57 pm",
       "artist": "Nourished By Time",
       "title": "Tossed Away"
+    },
+    {
+      "time": "4:02 pm",
+      "artist": "Paul Simon",
+      "title": "Duncan"
     }
   ],
   "recent": [
+    {
+      "time": "3:51 pm",
+      "artist": "Ray Charles",
+      "title": "Shake a Tail Feather",
+      "album": "Blues Brothers • 1980"
+    },
     {
       "time": "3:46 pm",
       "artist": "U2",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Highway 61 Revisited",
       "album": "Highway 61 Revisited • 1965"
-    },
-    {
-      "time": "2:07 pm",
-      "artist": "The Pointer Sisters",
-      "title": "Yes We Can Can",
-      "album": "The Pointer Sisters • 1973"
     }
   ]
 }
