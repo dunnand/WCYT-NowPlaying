@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T22:48:14",
+  "updatedAt": "2026-10-11T22:53:14",
   "now": {
-    "artist": "Coldplay",
-    "title": "The Scientist",
-    "album": "A Rush of Blood to the Head • 2002",
+    "artist": "Aretha Franklin",
+    "title": "I Say a Little Prayer",
+    "album": "Aretha Now • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:53 pm",
-      "artist": "Aretha Franklin",
-      "title": "I Say a Little Prayer"
-    },
     {
       "time": "10:56 pm",
       "artist": "Stevie Wright",
@@ -26,9 +21,20 @@
       "time": "11:07 pm",
       "artist": "Billie Holiday",
       "title": "Strange Fruit"
+    },
+    {
+      "time": "11:10 pm",
+      "artist": "Black Eyed Peas",
+      "title": "Let's Get It Started"
     }
   ],
   "recent": [
+    {
+      "time": "10:53 pm",
+      "artist": "Aretha Franklin",
+      "title": "I Say a Little Prayer",
+      "album": "Aretha Now • 1968"
+    },
     {
       "time": "10:48 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Herman's Hermits",
       "title": "I'm Into Something Good",
       "album": "Herman's Hermits • 1965"
-    },
-    {
-      "time": "9:12 pm",
-      "artist": "Arcade Fire",
-      "title": "Crown of Love",
-      "album": "Funeral • 2004"
     }
   ]
 }
