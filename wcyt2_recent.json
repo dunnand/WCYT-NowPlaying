@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-12T07:55:59",
+  "updatedAt": "2026-10-12T07:59:04",
   "now": {
-    "artist": "The Beatles",
-    "title": "Only A Northern Song",
-    "album": "Yellow Submarine • 1969",
+    "artist": "David Bowie",
+    "title": "Blackstar",
+    "album": "Blackstar • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:59 am",
-      "artist": "David Bowie",
-      "title": "Blackstar"
-    },
-    {
-      "time": "8:09 am",
+      "time": "8:08 am",
       "artist": "Weezer",
       "title": "El Scorcho"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:59 am",
+      "artist": "David Bowie",
+      "title": "Blackstar",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "7:55 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Coldplay",
       "title": "Talk",
       "album": "X&Y • 2005"
-    },
-    {
-      "time": "6:29 am",
-      "artist": "Bleachers",
-      "title": "I Wanna Get Better",
-      "album": ""
     }
   ]
 }
