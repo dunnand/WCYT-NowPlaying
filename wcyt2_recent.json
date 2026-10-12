@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T02:43:42",
+  "updatedAt": "2026-10-12T02:43:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Serge Gainsbourg",
+    "title": "Melody",
+    "album": "Histoire de Melody Nelson • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 am",
-      "artist": "Serge Gainsbourg",
-      "title": "Melody"
-    },
     {
       "time": "2:51 am",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "2:58 am",
       "artist": "Bob Dylan",
       "title": "One of Us Must Know (Sooner or Later)"
+    },
+    {
+      "time": "3:03 am",
+      "artist": "Joni Mitchell",
+      "title": "Free Man in Paris"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "Serge Gainsbourg",
+      "title": "Melody",
+      "album": "Histoire de Melody Nelson • 1971"
+    },
     {
       "time": "2:41 am",
       "artist": "Thundercat",
@@ -172,12 +178,6 @@
       "artist": "Chantels",
       "title": "Maybe",
       "album": "We Are The Chantels • 1958"
-    },
-    {
-      "time": "1:06 am",
-      "artist": "Radiohead",
-      "title": "Lucky",
-      "album": "OK Computer • 1997"
     }
   ]
 }
