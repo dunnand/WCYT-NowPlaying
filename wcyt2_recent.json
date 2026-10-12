@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T22:48:02",
+  "updatedAt": "2026-10-11T22:48:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "The Scientist",
+    "album": "A Rush of Blood to the Head • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:48 pm",
-      "artist": "Coldplay",
-      "title": "The Scientist"
-    },
     {
       "time": "10:53 pm",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "11:00 pm",
       "artist": "Jeff Buckley",
       "title": "Lover, You Should've Come Over"
+    },
+    {
+      "time": "11:07 pm",
+      "artist": "Billie Holiday",
+      "title": "Strange Fruit"
     }
   ],
   "recent": [
+    {
+      "time": "10:48 pm",
+      "artist": "Coldplay",
+      "title": "The Scientist",
+      "album": "A Rush of Blood to the Head • 2002"
+    },
     {
       "time": "10:43 pm",
       "artist": "Simon & Garfunkel",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Crown of Love",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "9:10 pm",
-      "artist": "Buddy Holly",
-      "title": "Rave On",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
