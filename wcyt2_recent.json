@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T21:59:08",
+  "updatedAt": "2026-10-11T22:02:20",
   "now": {
-    "artist": "Yes",
-    "title": "Roundabout",
-    "album": "Fragile • 1972",
+    "artist": "Johnny Cash",
+    "title": "Folsom Prison Blues",
+    "album": "Folsom Prison Blues • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:02 pm",
-      "artist": "Johnny Cash",
-      "title": "Folsom Prison Blues"
-    },
     {
       "time": "10:04 pm",
       "artist": "Death Cab for Cutie",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:02 pm",
+      "artist": "Johnny Cash",
+      "title": "Folsom Prison Blues",
+      "album": "Folsom Prison Blues • 1955"
+    },
     {
       "time": "9:59 pm",
       "artist": "Yes",
@@ -172,12 +173,6 @@
       "artist": "Bonnie Raitt",
       "title": "I Can't Make You Love Me",
       "album": "Luck of the Draw • 1991"
-    },
-    {
-      "time": "8:27 pm",
-      "artist": "Garbage",
-      "title": "Stupid Girl",
-      "album": "Garbage • 1995"
     }
   ]
 }
