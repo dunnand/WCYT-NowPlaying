@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T21:10:29",
+  "updatedAt": "2026-10-11T21:12:22",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Rave On",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Crown of Love",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Arcade Fire",
-      "title": "Crown of Love"
-    },
     {
       "time": "9:17 pm",
       "artist": "Herman's Hermits",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:12 pm",
+      "artist": "Arcade Fire",
+      "title": "Crown of Love",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "9:10 pm",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "Bat for Lashes",
       "title": "Laura",
       "album": "The Haunted Man • 2012"
-    },
-    {
-      "time": "7:28 pm",
-      "artist": "Talk Talk",
-      "title": "Ascension Day",
-      "album": "Laughing Stock • 1991"
     }
   ]
 }
