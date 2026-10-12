@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T02:51:23",
+  "updatedAt": "2026-10-12T02:55:00",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Fire on the Mountain",
-    "album": "Shakedown Street • 1978",
+    "artist": "Air",
+    "title": "Playground Love",
+    "album": "The Virgin Suicides • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:55 am",
-      "artist": "Air",
-      "title": "Playground Love"
-    },
     {
       "time": "2:58 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,25 @@
       "time": "3:06 am",
       "artist": "Bryan Adams Rod Stewart, Sting",
       "title": "All For Love"
+    },
+    {
+      "time": "3:10 am",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'"
+    },
+    {
+      "time": "3:12 am",
+      "artist": "Bright Eyes",
+      "title": "Lua"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 am",
+      "artist": "Air",
+      "title": "Playground Love",
+      "album": "The Virgin Suicides • 2000"
+    },
     {
       "time": "2:51 am",
       "artist": "Grateful Dead",
@@ -172,12 +183,6 @@
       "artist": "Cream",
       "title": "I Feel Free",
       "album": "Fresh Cream • 1967"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "Bloc Party",
-      "title": "Banquet",
-      "album": "Silent Alarm • 2005"
     }
   ]
 }
