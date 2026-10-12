@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T04:55:12",
+  "updatedAt": "2026-10-12T05:00:09",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "The State I Am In",
-    "album": "Tigermilk • 1996",
-    "category": "TUNES"
+    "artist": "Platters",
+    "title": "Only You (And You Alone)",
+    "album": "Only You • 1955",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "Platters",
-      "title": "Only You (And You Alone)"
-    },
     {
       "time": "5:02 am",
       "artist": "The Corrs",
@@ -26,9 +21,20 @@
       "time": "5:08 am",
       "artist": "Adele",
       "title": "Skyfall"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "Built to Spill",
+      "title": "You Were Right"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "Platters",
+      "title": "Only You (And You Alone)",
+      "album": "Only You • 1955"
+    },
     {
       "time": "4:55 am",
       "artist": "Belle and Sebastian",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Scary Monsters (and Super Creeps)",
       "album": "Scary Monsters • 1980"
-    },
-    {
-      "time": "3:26 am",
-      "artist": "Billy Joel",
-      "title": "The River Of Dreams",
-      "album": "River of Dreams • 1993"
     }
   ]
 }
