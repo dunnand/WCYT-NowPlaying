@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T00:50:50",
+  "updatedAt": "2026-10-12T00:54:04",
   "now": {
-    "artist": "Squeeze",
-    "title": "Up The Junction",
-    "album": "Cool For Cats • 1979",
+    "artist": "Elvis Presley",
+    "title": "It's Now Or Never",
+    "album": "single • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "Elvis Presley",
-      "title": "It's Now Or Never"
-    },
     {
       "time": "12:57 am",
       "artist": "The Staple Singers",
@@ -26,9 +21,20 @@
       "time": "1:03 am",
       "artist": "The Only Ones",
       "title": "Another Girl, Another Planet"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Radiohead",
+      "title": "Lucky"
     }
   ],
   "recent": [
+    {
+      "time": "12:54 am",
+      "artist": "Elvis Presley",
+      "title": "It's Now Or Never",
+      "album": "single • 1960"
+    },
     {
       "time": "12:50 am",
       "artist": "Squeeze",
@@ -172,12 +178,6 @@
       "artist": "Billie Holiday",
       "title": "Strange Fruit",
       "album": "Billie Holiday • 1947"
-    },
-    {
-      "time": "11:00 pm",
-      "artist": "Jeff Buckley",
-      "title": "Lover, You Should've Come Over",
-      "album": "Grace • 1994"
     }
   ]
 }
