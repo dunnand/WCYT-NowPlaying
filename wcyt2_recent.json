@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T07:36:04",
+  "updatedAt": "2026-10-12T07:38:37",
   "now": {
-    "artist": "Animal Collective",
-    "title": "Leaf House",
-    "album": "Sung Tongs • 2004",
-    "category": "TUNES"
+    "artist": "Bobby Day",
+    "title": "Rockin' Robin",
+    "album": "Rockin' With Robin • 1960",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:38 am",
-      "artist": "Bobby Day",
-      "title": "Rockin' Robin"
-    },
     {
       "time": "7:41 am",
       "artist": "Redbone",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:38 am",
+      "artist": "Bobby Day",
+      "title": "Rockin' Robin",
+      "album": "Rockin' With Robin • 1960"
+    },
     {
       "time": "7:36 am",
       "artist": "Animal Collective",
@@ -177,12 +178,6 @@
       "artist": "David Guetta",
       "title": "Play Hard Feat. Ne-Yo & Akon",
       "album": "Nothing But the Beat 2.0 • 2012"
-    },
-    {
-      "time": "6:06 am",
-      "artist": "David Bowie",
-      "title": "Space Oddity",
-      "album": "David Bowie • 1969"
     }
   ]
 }
