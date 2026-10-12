@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T07:30:33",
+  "updatedAt": "2026-10-12T07:30:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Handy Man",
+    "album": "JT • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 am",
-      "artist": "James Taylor",
-      "title": "Handy Man"
-    },
     {
       "time": "7:33 am",
       "artist": "Ramones",
@@ -26,9 +21,20 @@
       "time": "7:38 am",
       "artist": "Bobby Day",
       "title": "Rockin' Robin"
+    },
+    {
+      "time": "7:41 am",
+      "artist": "Redbone",
+      "title": "Come And Get Your Love"
     }
   ],
   "recent": [
+    {
+      "time": "7:30 am",
+      "artist": "James Taylor",
+      "title": "Handy Man",
+      "album": "JT • 1977"
+    },
     {
       "time": "7:27 am",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Ricky Nelson",
       "title": "Never Be Anyone Else But You",
       "album": "single • 1959"
-    },
-    {
-      "time": "5:55 am",
-      "artist": "The Flaming Lips",
-      "title": "Feeling Yourself Disintegrate",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
