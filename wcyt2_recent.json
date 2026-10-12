@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T02:27:12",
+  "updatedAt": "2026-10-12T02:27:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cher",
+    "title": "Believe",
+    "album": "Believe • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:27 am",
-      "artist": "Cher",
-      "title": "Believe"
-    },
     {
       "time": "2:31 am",
       "artist": "Edwin McCain",
@@ -26,9 +21,20 @@
       "time": "2:37 am",
       "artist": "Wall Of Voodoo",
       "title": "Mexican Radio"
+    },
+    {
+      "time": "2:41 am",
+      "artist": "Thundercat",
+      "title": "Funny Thing"
     }
   ],
   "recent": [
+    {
+      "time": "2:27 am",
+      "artist": "Cher",
+      "title": "Believe",
+      "album": "Believe • 1998"
+    },
     {
       "time": "2:23 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "It's Now Or Never",
       "album": "single • 1960"
-    },
-    {
-      "time": "12:50 am",
-      "artist": "Squeeze",
-      "title": "Up The Junction",
-      "album": "Cool For Cats • 1979"
     }
   ]
 }
