@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T06:38:01",
+  "updatedAt": "2026-10-12T06:38:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "The Promised Land",
+    "album": "Darkness on the Edge of Town • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:38 am",
-      "artist": "Bruce Springsteen",
-      "title": "The Promised Land"
-    },
     {
       "time": "6:42 am",
       "artist": "Arcade Fire",
@@ -28,12 +23,18 @@
       "title": "Less Than Zero"
     },
     {
-      "time": "6:54 am",
+      "time": "6:55 am",
       "artist": "Pavement",
       "title": "Frontwards"
     }
   ],
   "recent": [
+    {
+      "time": "6:38 am",
+      "artist": "Bruce Springsteen",
+      "title": "The Promised Land",
+      "album": "Darkness on the Edge of Town • 1978"
+    },
     {
       "time": "6:33 am",
       "artist": "Coldplay",
@@ -177,12 +178,6 @@
       "artist": "The Corrs",
       "title": "Breathless",
       "album": "In Blue • 2000"
-    },
-    {
-      "time": "5:00 am",
-      "artist": "Platters",
-      "title": "Only You (And You Alone)",
-      "album": "Only You • 1955"
     }
   ]
 }
