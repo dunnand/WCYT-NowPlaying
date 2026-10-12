@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T02:14:18",
+  "updatedAt": "2026-10-12T02:16:33",
   "now": {
-    "artist": "Little Richard",
-    "title": "Tutti Frutti",
-    "album": "Heres Little Richard • 1957",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Rebellion (Lies)",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:16 am",
-      "artist": "Arcade Fire",
-      "title": "Rebellion (Lies)"
-    },
     {
       "time": "2:21 am",
       "artist": "Bobby Vee",
@@ -21,9 +16,20 @@
       "time": "2:23 am",
       "artist": "Bruno Mars",
       "title": "When I Was Your Man"
+    },
+    {
+      "time": "2:27 am",
+      "artist": "Cher",
+      "title": "Believe"
     }
   ],
   "recent": [
+    {
+      "time": "2:16 am",
+      "artist": "Arcade Fire",
+      "title": "Rebellion (Lies)",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "2:14 am",
       "artist": "Little Richard",
@@ -167,12 +173,6 @@
       "artist": "Peter Gabriel",
       "title": "Biko",
       "album": "Peter Gabriel • 1982"
-    },
-    {
-      "time": "12:37 am",
-      "artist": "Supertramp",
-      "title": "Breakfast In America",
-      "album": "Breakfast in America • 1980"
     }
   ]
 }
