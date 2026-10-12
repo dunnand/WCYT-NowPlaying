@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-11T23:51:11",
+  "updatedAt": "2026-10-11T23:55:06",
   "now": {
-    "artist": "Aesop Rock",
-    "title": "None Shall Pass",
-    "album": "None Shall Pass • 2007",
+    "artist": "Bob Dylan",
+    "title": "Desolation Row",
+    "album": "Highway 61 Revisited • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 pm",
-      "artist": "Bob Dylan",
-      "title": "Desolation Row"
-    },
     {
       "time": "12:06 am",
       "artist": "The Spinners",
@@ -26,9 +21,20 @@
       "time": "12:17 am",
       "artist": "Buddy Holly",
       "title": "Everyday"
+    },
+    {
+      "time": "12:19 am",
+      "artist": "Daft Punk",
+      "title": "Robot Rock"
     }
   ],
   "recent": [
+    {
+      "time": "11:55 pm",
+      "artist": "Bob Dylan",
+      "title": "Desolation Row",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "11:51 pm",
       "artist": "Aesop Rock",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Colors",
       "album": "Colors • 2017"
-    },
-    {
-      "time": "10:08 pm",
-      "artist": "Bob Dylan",
-      "title": "With God on Our Side",
-      "album": "With God on Our Side • 1964"
     }
   ]
 }
