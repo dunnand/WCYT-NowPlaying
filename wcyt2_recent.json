@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T09:40:19",
+  "updatedAt": "2026-10-12T09:44:44",
   "now": {
-    "artist": "Blondie",
-    "title": "Heart of Glass",
-    "album": "Parallel Lines • 1978",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Say Yes",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:44 am",
-      "artist": "Elliott Smith",
-      "title": "Say Yes"
-    },
     {
       "time": "9:46 am",
       "artist": "Sister Rosetta Tharpe",
@@ -26,9 +21,20 @@
       "time": "9:55 am",
       "artist": "The Beach Boys",
       "title": "God Only Knows"
+    },
+    {
+      "time": "9:58 am",
+      "artist": "Billie Eilish",
+      "title": "bury a friend"
     }
   ],
   "recent": [
+    {
+      "time": "9:44 am",
+      "artist": "Elliott Smith",
+      "title": "Say Yes",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "9:40 am",
       "artist": "Blondie",
@@ -172,12 +178,6 @@
       "artist": "Blessid Union of Souls",
       "title": "Hey Leonardo",
       "album": "Hey Leonardo • 1999"
-    },
-    {
-      "time": "8:09 am",
-      "artist": "Weezer",
-      "title": "El Scorcho",
-      "album": "Pinkerton • 1996"
     }
   ]
 }
