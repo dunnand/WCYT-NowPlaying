@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T03:47:16",
+  "updatedAt": "2026-10-12T03:51:32",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Run Like Hell",
-    "album": "The Wall • 1979",
+    "artist": "CAKE",
+    "title": "Love You Madly",
+    "album": "Comfort Eagle • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:51 am",
-      "artist": "CAKE",
-      "title": "Love You Madly"
-    },
     {
       "time": "3:55 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "4:03 am",
       "artist": "R.E.M.",
       "title": "Losing My Religion"
+    },
+    {
+      "time": "4:07 am",
+      "artist": "Ricky Nelson",
+      "title": "Poor Little Fool"
     }
   ],
   "recent": [
+    {
+      "time": "3:51 am",
+      "artist": "CAKE",
+      "title": "Love You Madly",
+      "album": "Comfort Eagle • 2001"
+    },
     {
       "time": "3:47 am",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Bobby Vee",
       "title": "Run To Him",
       "album": "Take Good Care of My Baby • 1961"
-    },
-    {
-      "time": "2:16 am",
-      "artist": "Arcade Fire",
-      "title": "Rebellion (Lies)",
-      "album": "Funeral • 2004"
     }
   ]
 }
