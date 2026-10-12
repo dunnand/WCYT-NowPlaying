@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T19:04:19",
+  "updatedAt": "2026-10-12T19:06:53",
   "now": {
-    "artist": "Glen Campbell",
-    "title": "By The Time I Get To Phoenix",
-    "album": "By the Time I Get to Phoenix • 1967",
+    "artist": "David Bowie",
+    "title": "Starman",
+    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:06 pm",
-      "artist": "David Bowie",
-      "title": "Starman"
-    },
     {
       "time": "7:10 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:06 pm",
+      "artist": "David Bowie",
+      "title": "Starman",
+      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
+    },
     {
       "time": "7:04 pm",
       "artist": "Glen Campbell",
@@ -172,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "Low",
       "album": "Out of Time • 1991"
-    },
-    {
-      "time": "5:34 pm",
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "album": "Single • 2017"
     }
   ]
 }
