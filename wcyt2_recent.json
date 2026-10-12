@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T05:52:13",
+  "updatedAt": "2026-10-12T05:55:57",
   "now": {
-    "artist": "ABBA",
-    "title": "Dancing Queen",
-    "album": "Arrival • 1977",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "Feeling Yourself Disintegrate",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:55 am",
-      "artist": "The Flaming Lips",
-      "title": "Feeling Yourself Disintegrate"
-    },
     {
       "time": "6:00 am",
       "artist": "Ricky Nelson",
@@ -26,9 +21,20 @@
       "time": "6:06 am",
       "artist": "David Bowie",
       "title": "Space Oddity"
+    },
+    {
+      "time": "6:11 am",
+      "artist": "David Guetta",
+      "title": "Play Hard Feat. Ne-Yo & Akon"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 am",
+      "artist": "The Flaming Lips",
+      "title": "Feeling Yourself Disintegrate",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "5:52 am",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Felt",
       "title": "Rain of Crystal Spires",
       "album": "Bubblegum Perfume • 1990"
-    },
-    {
-      "time": "4:19 am",
-      "artist": "3rd Bass",
-      "title": "Pop Goes The Weasel",
-      "album": "Derelicts of Dialect • 1991"
     }
   ]
 }
