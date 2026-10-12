@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T06:57:54",
+  "updatedAt": "2026-10-12T07:00:19",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Peggy Sue",
-    "album": "Buddy Holly • 1958",
+    "artist": "Franz Ferdinand",
+    "title": "Take Me Out",
+    "album": "Franz Ferdinand • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 am",
-      "artist": "Franz Ferdinand",
-      "title": "Take Me Out"
-    },
     {
       "time": "7:04 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "7:08 am",
       "artist": "Drake",
       "title": "Headlines"
+    },
+    {
+      "time": "7:12 am",
+      "artist": "Duncan Sheik",
+      "title": "Barely Breathing"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 am",
+      "artist": "Franz Ferdinand",
+      "title": "Take Me Out",
+      "album": "Franz Ferdinand • 2004"
+    },
     {
       "time": "6:57 am",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Ric Ocasek",
       "title": "Emotion In Motion",
       "album": "This Side of Paradise • 1986"
-    },
-    {
-      "time": "5:22 am",
-      "artist": "Bruce Springsteen",
-      "title": "The River",
-      "album": "The River • 1980"
     }
   ]
 }
