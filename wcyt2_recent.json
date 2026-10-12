@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T16:17:06",
+  "updatedAt": "2026-10-12T16:21:23",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Beast Of Burden",
-    "album": "Some Girls • 1978",
-    "category": "AUDIO"
+    "artist": "Dinosaur Jr",
+    "title": "Feel The Pain",
+    "album": "Without a Sound • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:21 pm",
-      "artist": "Dinosaur Jr",
-      "title": "Feel The Pain"
-    },
     {
       "time": "4:25 pm",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "4:27 pm",
       "artist": "De La Soul",
       "title": "Rock Kane Flow feat. MF DOOM"
+    },
+    {
+      "time": "4:30 pm",
+      "artist": "Carlton and the Shoes",
+      "title": "Love Me Forever"
     }
   ],
   "recent": [
+    {
+      "time": "4:21 pm",
+      "artist": "Dinosaur Jr",
+      "title": "Feel The Pain",
+      "album": "Without a Sound • 1994"
+    },
     {
       "time": "4:17 pm",
       "artist": "Rolling Stones",
@@ -167,12 +173,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "My Friends",
       "album": "One Hot Minute • 1995"
-    },
-    {
-      "time": "2:38 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Into My Arms",
-      "album": "The Boatmans Call • 1997"
     }
   ]
 }
