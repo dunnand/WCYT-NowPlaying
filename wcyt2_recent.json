@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T12:16:05",
+  "updatedAt": "2026-10-12T12:16:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "All Things Must Pass",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:16 pm",
-      "artist": "George Harrison",
-      "title": "All Things Must Pass"
-    },
     {
       "time": "12:20 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "12:25 pm",
       "artist": "Madonna",
       "title": "Take A Bow"
+    },
+    {
+      "time": "12:31 pm",
+      "artist": "Bobby Darin",
+      "title": "Splish Splash"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 pm",
+      "artist": "George Harrison",
+      "title": "All Things Must Pass",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "12:09 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "The Four Seasons",
       "title": "Walk Like A Man",
       "album": "Big Girls Don't Cry and Twelve Others • 1963"
-    },
-    {
-      "time": "10:40 am",
-      "artist": "Belle and Sebastian",
-      "title": "Step Into My Office, Baby",
-      "album": "Dear Catastrophe Waitress • 2003"
     }
   ]
 }
