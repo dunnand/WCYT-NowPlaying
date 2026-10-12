@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T10:34:15",
+  "updatedAt": "2026-10-12T10:35:48",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "The Wind",
-    "album": "Teaser and the Firecat • 1971",
+    "artist": "Green Day",
+    "title": "Coming Clean",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:35 am",
-      "artist": "Green Day",
-      "title": "Coming Clean"
-    },
     {
       "time": "10:37 am",
       "artist": "Lloyd Price",
@@ -21,9 +16,20 @@
       "time": "10:40 am",
       "artist": "Belle and Sebastian",
       "title": "Step Into My Office, Baby"
+    },
+    {
+      "time": "10:44 am",
+      "artist": "The Four Seasons",
+      "title": "Walk Like A Man"
     }
   ],
   "recent": [
+    {
+      "time": "10:35 am",
+      "artist": "Green Day",
+      "title": "Coming Clean",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "10:34 am",
       "artist": "Cat Stevens",
@@ -167,12 +173,6 @@
       "artist": "Chapterhouse",
       "title": "Pearl",
       "album": "Whirlpool • 1991"
-    },
-    {
-      "time": "9:04 am",
-      "artist": "Radiohead",
-      "title": "Fake Plastic Trees",
-      "album": "The Bends • 1995"
     }
   ]
 }
