@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T03:10:47",
+  "updatedAt": "2026-10-12T03:12:40",
   "now": {
-    "artist": "Ricky Nelson",
-    "title": "I'm Walkin'",
-    "album": "Ricky • 1957",
-    "category": "AUDIO"
+    "artist": "Bright Eyes",
+    "title": "Lua",
+    "album": "Fevers Mirrors • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:12 am",
-      "artist": "Bright Eyes",
-      "title": "Lua"
-    },
     {
       "time": "3:17 am",
       "artist": "Jefferson Airplane",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:12 am",
+      "artist": "Bright Eyes",
+      "title": "Lua",
+      "album": "Fevers Mirrors • 2000"
+    },
     {
       "time": "3:10 am",
       "artist": "Ricky Nelson",
@@ -172,12 +173,6 @@
       "artist": "Prince and The Revolution",
       "title": "Take Me With U",
       "album": "Purple Rain • 1984"
-    },
-    {
-      "time": "1:32 am",
-      "artist": "Pixies",
-      "title": "Bone Machine",
-      "album": "Surfer Rosa • 1988"
     }
   ]
 }
