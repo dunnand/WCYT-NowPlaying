@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T04:45:25",
+  "updatedAt": "2026-10-12T04:45:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beta Band",
+    "title": "Squares",
+    "album": "Hot Shots II • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "The Beta Band",
-      "title": "Squares"
-    },
     {
       "time": "4:49 am",
       "artist": "The Four Seasons",
@@ -31,9 +26,20 @@
       "time": "5:00 am",
       "artist": "Platters",
       "title": "Only You (And You Alone)"
+    },
+    {
+      "time": "5:02 am",
+      "artist": "The Corrs",
+      "title": "Breathless"
     }
   ],
   "recent": [
+    {
+      "time": "4:45 am",
+      "artist": "The Beta Band",
+      "title": "Squares",
+      "album": "Hot Shots II • 2001"
+    },
     {
       "time": "4:41 am",
       "artist": "Fleetwood Mac",
@@ -177,12 +183,6 @@
       "artist": "Jefferson Airplane",
       "title": "White Rabbit",
       "album": "Surrealistic Pillow • 1967"
-    },
-    {
-      "time": "3:12 am",
-      "artist": "Bright Eyes",
-      "title": "Lua",
-      "album": "Fevers Mirrors • 2000"
     }
   ]
 }
