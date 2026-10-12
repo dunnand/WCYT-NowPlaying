@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T09:37:14",
+  "updatedAt": "2026-10-12T09:40:19",
   "now": {
-    "artist": "Clairo",
-    "title": "Sofia",
-    "album": "Immunity • 2019",
+    "artist": "Blondie",
+    "title": "Heart of Glass",
+    "album": "Parallel Lines • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:40 am",
-      "artist": "Blondie",
-      "title": "Heart of Glass"
-    },
     {
       "time": "9:44 am",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "9:49 am",
       "artist": "Broken Social Scene",
       "title": "Cause = Time"
+    },
+    {
+      "time": "9:55 am",
+      "artist": "The Beach Boys",
+      "title": "God Only Knows"
     }
   ],
   "recent": [
+    {
+      "time": "9:40 am",
+      "artist": "Blondie",
+      "title": "Heart of Glass",
+      "album": "Parallel Lines • 1978"
+    },
     {
       "time": "9:37 am",
       "artist": "Clairo",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "El Scorcho",
       "album": "Pinkerton • 1996"
-    },
-    {
-      "time": "7:59 am",
-      "artist": "David Bowie",
-      "title": "Blackstar",
-      "album": "Blackstar • 2016"
     }
   ]
 }
