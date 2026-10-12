@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T06:38:13",
+  "updatedAt": "2026-10-12T06:42:29",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "The Promised Land",
-    "album": "Darkness on the Edge of Town • 1978",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "In the Backseat",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:42 am",
-      "artist": "Arcade Fire",
-      "title": "In the Backseat"
-    },
     {
       "time": "6:47 am",
       "artist": "Clairo",
@@ -23,12 +18,23 @@
       "title": "Less Than Zero"
     },
     {
-      "time": "6:55 am",
+      "time": "6:54 am",
       "artist": "Pavement",
       "title": "Frontwards"
+    },
+    {
+      "time": "6:58 am",
+      "artist": "Buddy Holly",
+      "title": "Peggy Sue"
     }
   ],
   "recent": [
+    {
+      "time": "6:42 am",
+      "artist": "Arcade Fire",
+      "title": "In the Backseat",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "6:38 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "The Association",
       "title": "Windy",
       "album": "Insight Out • 1967"
-    },
-    {
-      "time": "5:02 am",
-      "artist": "The Corrs",
-      "title": "Breathless",
-      "album": "In Blue • 2000"
     }
   ]
 }
