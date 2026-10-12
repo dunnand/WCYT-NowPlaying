@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T09:55:13",
+  "updatedAt": "2026-10-12T09:55:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "God Only Knows",
+    "album": "Pet Sounds • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:55 am",
-      "artist": "The Beach Boys",
-      "title": "God Only Knows"
-    },
     {
       "time": "9:58 am",
       "artist": "Billie Eilish",
@@ -26,9 +21,20 @@
       "time": "10:04 am",
       "artist": "The Smashing Pumpkins",
       "title": "Spaceboy"
+    },
+    {
+      "time": "10:08 am",
+      "artist": "Kate Bush",
+      "title": "Breathing"
     }
   ],
   "recent": [
+    {
+      "time": "9:55 am",
+      "artist": "The Beach Boys",
+      "title": "God Only Knows",
+      "album": "Pet Sounds • 1966"
+    },
     {
       "time": "9:49 am",
       "artist": "Broken Social Scene",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "Alma Mater (feat. Lana Del Ray, Bartees Strange, Clairo)",
       "album": "Bleachers • 2024"
-    },
-    {
-      "time": "8:20 am",
-      "artist": "Sammy Hagar",
-      "title": "I Can't Drive 55",
-      "album": "VOA • 1984"
     }
   ]
 }
