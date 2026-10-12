@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T14:00:52",
+  "updatedAt": "2026-10-12T14:01:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Daniel",
+    "album": "Don't Shoot Me I'm Only the Piano Player • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 pm",
-      "artist": "Elton John",
-      "title": "Daniel"
-    },
     {
       "time": "2:04 pm",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "2:13 pm",
       "artist": "Bob Dylan",
       "title": "Highway 61 Revisited"
+    },
+    {
+      "time": "2:17 pm",
+      "artist": "Stampeders",
+      "title": "Sweet City Woman"
     }
   ],
   "recent": [
+    {
+      "time": "2:01 pm",
+      "artist": "Elton John",
+      "title": "Daniel",
+      "album": "Don't Shoot Me I'm Only the Piano Player • 1973"
+    },
     {
       "time": "1:57 pm",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Bobby Darin",
       "title": "Splish Splash",
       "album": "Bobby Darin • 1958"
-    },
-    {
-      "time": "12:25 pm",
-      "artist": "Madonna",
-      "title": "Take A Bow",
-      "album": "Bedtime Stories • 1994"
     }
   ]
 }
