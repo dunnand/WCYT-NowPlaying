@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T01:03:20",
+  "updatedAt": "2026-10-12T01:06:17",
   "now": {
-    "artist": "The Only Ones",
-    "title": "Another Girl, Another Planet",
-    "album": "The Only Ones • 1978",
+    "artist": "Radiohead",
+    "title": "Lucky",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "Radiohead",
-      "title": "Lucky"
-    },
     {
       "time": "1:10 am",
       "artist": "Chantels",
@@ -26,9 +21,20 @@
       "time": "1:16 am",
       "artist": "Cream",
       "title": "I Feel Free"
+    },
+    {
+      "time": "1:19 am",
+      "artist": "clipping.",
+      "title": "Nothing Is Safe"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "Radiohead",
+      "title": "Lucky",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "1:03 am",
       "artist": "The Only Ones",
@@ -172,12 +178,6 @@
       "artist": "Bad Religion",
       "title": "American Jesus",
       "album": "Recipe for Hate • 1993"
-    },
-    {
-      "time": "11:19 pm",
-      "artist": "Adele",
-      "title": "Set Fire To The Rain",
-      "album": "21 • 2011"
     }
   ]
 }
