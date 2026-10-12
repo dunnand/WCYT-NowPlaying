@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T03:47:04",
+  "updatedAt": "2026-10-12T03:47:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Run Like Hell",
+    "album": "The Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:47 am",
-      "artist": "Pink Floyd",
-      "title": "Run Like Hell"
-    },
     {
       "time": "3:51 am",
       "artist": "CAKE",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:47 am",
+      "artist": "Pink Floyd",
+      "title": "Run Like Hell",
+      "album": "The Wall • 1979"
+    },
     {
       "time": "3:41 am",
       "artist": "Bob Dylan",
@@ -177,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Rebellion (Lies)",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "2:14 am",
-      "artist": "Little Richard",
-      "title": "Tutti Frutti",
-      "album": "Heres Little Richard • 1957"
     }
   ]
 }
