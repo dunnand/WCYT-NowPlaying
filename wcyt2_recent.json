@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T07:47:43",
+  "updatedAt": "2026-10-12T07:49:58",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Devoted To You",
-    "album": "single • 1958",
+    "artist": "Bob Dylan",
+    "title": "Thunder on the Mountain",
+    "album": "Modern Times • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:49 am",
-      "artist": "Bob Dylan",
-      "title": "Thunder on the Mountain"
-    },
     {
       "time": "7:55 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:49 am",
+      "artist": "Bob Dylan",
+      "title": "Thunder on the Mountain",
+      "album": "Modern Times • 2006"
+    },
     {
       "time": "7:47 am",
       "artist": "The Everly Brothers",
@@ -172,12 +173,6 @@
       "artist": "Tom Waits",
       "title": "Tango Till They're Sore",
       "album": "Rain Dogs • 1985"
-    },
-    {
-      "time": "6:22 am",
-      "artist": "New Order",
-      "title": "Bizarre Love Triangle",
-      "album": "Brotherhood • 1986"
     }
   ]
 }
