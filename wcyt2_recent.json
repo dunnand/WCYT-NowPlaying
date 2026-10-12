@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T07:30:43",
+  "updatedAt": "2026-10-12T07:33:59",
   "now": {
-    "artist": "James Taylor",
-    "title": "Handy Man",
-    "album": "JT • 1977",
+    "artist": "Ramones",
+    "title": "Havana Affair",
+    "album": "Ramones • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:33 am",
-      "artist": "Ramones",
-      "title": "Havana Affair"
-    },
     {
       "time": "7:35 am",
       "artist": "Animal Collective",
@@ -26,9 +21,20 @@
       "time": "7:41 am",
       "artist": "Redbone",
       "title": "Come And Get Your Love"
+    },
+    {
+      "time": "7:44 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "The King of Carrot Flowers, Parts Two & Three"
     }
   ],
   "recent": [
+    {
+      "time": "7:33 am",
+      "artist": "Ramones",
+      "title": "Havana Affair",
+      "album": "Ramones • 1976"
+    },
     {
       "time": "7:30 am",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "O Valencia!",
       "album": "The Crane Wife • 2006"
-    },
-    {
-      "time": "6:01 am",
-      "artist": "Ricky Nelson",
-      "title": "Never Be Anyone Else But You",
-      "album": "single • 1959"
     }
   ]
 }
