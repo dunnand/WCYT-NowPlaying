@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-12T18:59:48",
+  "updatedAt": "2026-10-12T19:04:19",
   "now": {
-    "artist": "Coldplay",
-    "title": "Yellow",
-    "album": "Parachutes • 2000",
+    "artist": "Glen Campbell",
+    "title": "By The Time I Get To Phoenix",
+    "album": "By the Time I Get to Phoenix • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:04 pm",
-      "artist": "Glen Campbell",
-      "title": "By The Time I Get To Phoenix"
-    },
     {
       "time": "7:06 pm",
       "artist": "David Bowie",
       "title": "Starman"
     },
     {
-      "time": "7:11 pm",
+      "time": "7:10 pm",
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Makin' Some Noise"
     },
@@ -26,9 +21,20 @@
       "time": "7:14 pm",
       "artist": "Joe Turner & His Blues Kings",
       "title": "Shake, Rattle And Roll"
+    },
+    {
+      "time": "7:17 pm",
+      "artist": "Death Cab for Cutie",
+      "title": "The New Year"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 pm",
+      "artist": "Glen Campbell",
+      "title": "By The Time I Get To Phoenix",
+      "album": "By the Time I Get to Phoenix • 1967"
+    },
     {
       "time": "6:59 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "Shape of You",
       "album": "Single • 2017"
-    },
-    {
-      "time": "5:32 pm",
-      "artist": "The Angels",
-      "title": "My Boyfriend's Back",
-      "album": "My Boyfriend's Back • 1963"
     }
   ]
 }
