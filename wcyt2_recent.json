@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T00:34:29",
+  "updatedAt": "2026-10-12T00:37:16",
   "now": {
-    "artist": "Pavement",
-    "title": "Trigger Cut",
-    "album": "Slanted and Enchanted • 1992",
-    "category": "TUNES"
+    "artist": "Supertramp",
+    "title": "Breakfast In America",
+    "album": "Breakfast in America • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:37 am",
-      "artist": "Supertramp",
-      "title": "Breakfast In America"
-    },
     {
       "time": "12:40 am",
       "artist": "Peter Gabriel",
@@ -21,9 +16,20 @@
       "time": "12:46 am",
       "artist": "Weezer",
       "title": "All My Favorite Songs"
+    },
+    {
+      "time": "12:50 am",
+      "artist": "Squeeze",
+      "title": "Up The Junction"
     }
   ],
   "recent": [
+    {
+      "time": "12:37 am",
+      "artist": "Supertramp",
+      "title": "Breakfast In America",
+      "album": "Breakfast in America • 1980"
+    },
     {
       "time": "12:34 am",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "Coldplay",
       "title": "The Scientist",
       "album": "A Rush of Blood to the Head • 2002"
-    },
-    {
-      "time": "10:43 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "Bridge Over Troubled Water",
-      "album": "Bridge Over Troubled Water • 1970"
     }
   ]
 }
