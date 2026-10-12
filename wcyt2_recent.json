@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T01:00:37",
+  "updatedAt": "2026-10-12T01:03:20",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Don't Worry Baby",
-    "album": "Shut Down Volume 2 • 1964",
+    "artist": "The Only Ones",
+    "title": "Another Girl, Another Planet",
+    "album": "The Only Ones • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "The Only Ones",
-      "title": "Another Girl, Another Planet"
-    },
     {
       "time": "1:06 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "1:13 am",
       "artist": "Bloc Party",
       "title": "Banquet"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Cream",
+      "title": "I Feel Free"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "The Only Ones",
+      "title": "Another Girl, Another Planet",
+      "album": "The Only Ones • 1978"
+    },
     {
       "time": "1:00 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Adele",
       "title": "Set Fire To The Rain",
       "album": "21 • 2011"
-    },
-    {
-      "time": "11:14 pm",
-      "artist": "Bob Dylan",
-      "title": "Just Like a Woman",
-      "album": "Blonde on Blonde • 1966"
     }
   ]
 }
