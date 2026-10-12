@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T14:52:48",
+  "updatedAt": "2026-10-12T14:56:34",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Dancing In The Dark",
-    "album": "Born in the U.S.A. • 1984",
+    "artist": "Wilco",
+    "title": "All Lives, You Say?",
+    "album": "All Lives, You Say? • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 pm",
-      "artist": "Wilco",
-      "title": "All Lives, You Say?"
-    },
     {
       "time": "2:59 pm",
       "artist": "Stealers Wheel",
@@ -21,9 +16,20 @@
       "time": "3:02 pm",
       "artist": "Pure Prairie League",
       "title": "Amie"
+    },
+    {
+      "time": "3:07 pm",
+      "artist": "Crystal Castles",
+      "title": "Alice Practice"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 pm",
+      "artist": "Wilco",
+      "title": "All Lives, You Say?",
+      "album": "All Lives, You Say? • 2021"
+    },
     {
       "time": "2:52 pm",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Jazz (We've Got)",
       "album": "Jazz • 1991"
-    },
-    {
-      "time": "1:21 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "So Much Trouble In The World",
-      "album": "Survival • 1979"
     }
   ]
 }
