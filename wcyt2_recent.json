@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T02:58:24",
+  "updatedAt": "2026-10-12T03:03:14",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "One of Us Must Know (Sooner or Later)",
-    "album": "One of Us Must Know • 1966",
+    "artist": "Joni Mitchell",
+    "title": "Free Man in Paris",
+    "album": "Court and Spark • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 am",
-      "artist": "Joni Mitchell",
-      "title": "Free Man in Paris"
-    },
     {
       "time": "3:06 am",
       "artist": "Bryan Adams Rod Stewart, Sting",
@@ -26,9 +21,20 @@
       "time": "3:12 am",
       "artist": "Bright Eyes",
       "title": "Lua"
+    },
+    {
+      "time": "3:17 am",
+      "artist": "Jefferson Airplane",
+      "title": "White Rabbit"
     }
   ],
   "recent": [
+    {
+      "time": "3:03 am",
+      "artist": "Joni Mitchell",
+      "title": "Free Man in Paris",
+      "album": "Court and Spark • 1974"
+    },
     {
       "time": "2:58 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Baby Britain",
       "album": "XO • 1998"
-    },
-    {
-      "time": "1:19 am",
-      "artist": "clipping.",
-      "title": "Nothing Is Safe",
-      "album": "There Existed an Addiction to Blood • 2019"
     }
   ]
 }
