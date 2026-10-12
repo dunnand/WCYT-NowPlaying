@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T12:20:10",
+  "updatedAt": "2026-10-12T12:22:45",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Song to Woody",
-    "album": "Bob Dylan • 1962",
+    "artist": "KISS",
+    "title": "Deuce",
+    "album": "Kiss • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:22 pm",
-      "artist": "KISS",
-      "title": "Deuce"
-    },
     {
       "time": "12:25 pm",
       "artist": "Madonna",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:22 pm",
+      "artist": "KISS",
+      "title": "Deuce",
+      "album": "Kiss • 1974"
+    },
     {
       "time": "12:20 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Sleater-Kinney",
       "title": "One More Hour",
       "album": "Dig Me Out • 1997"
-    },
-    {
-      "time": "10:46 am",
-      "artist": "Charles Bradley",
-      "title": "Victim Of Loving",
-      "album": "Victim of Love • 2013"
     }
   ]
 }
