@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T00:29:13",
+  "updatedAt": "2026-10-12T00:34:29",
   "now": {
-    "artist": "Badly Drawn Boy",
-    "title": "The Shining",
-    "album": "The Hour of Bewilderbeast • 1999",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Trigger Cut",
+    "album": "Slanted and Enchanted • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:34 am",
-      "artist": "Pavement",
-      "title": "Trigger Cut"
-    },
     {
       "time": "12:37 am",
       "artist": "Supertramp",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:34 am",
+      "artist": "Pavement",
+      "title": "Trigger Cut",
+      "album": "Slanted and Enchanted • 1992"
+    },
     {
       "time": "12:29 am",
       "artist": "Badly Drawn Boy",
@@ -172,12 +173,6 @@
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "album": "Bridge Over Troubled Water • 1970"
-    },
-    {
-      "time": "10:39 pm",
-      "artist": "Shuggie Otis",
-      "title": "Inspiration/Information",
-      "album": "Inspiration Information • 1974"
     }
   ]
 }
