@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T12:05:02",
+  "updatedAt": "2026-10-12T12:09:17",
   "now": {
-    "artist": "Electric Light Orchestra",
-    "title": "Telephone Line",
-    "album": "A New World Record • 1977",
+    "artist": "Bob Dylan",
+    "title": "A Hard Rain's A-Gonna Fall",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:09 pm",
-      "artist": "Bob Dylan",
-      "title": "A Hard Rain's A-Gonna Fall"
-    },
     {
       "time": "12:16 pm",
       "artist": "George Harrison",
@@ -26,9 +21,20 @@
       "time": "12:22 pm",
       "artist": "KISS",
       "title": "Deuce"
+    },
+    {
+      "time": "12:25 pm",
+      "artist": "Madonna",
+      "title": "Take A Bow"
     }
   ],
   "recent": [
+    {
+      "time": "12:09 pm",
+      "artist": "Bob Dylan",
+      "title": "A Hard Rain's A-Gonna Fall",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "12:05 pm",
       "artist": "Electric Light Orchestra",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "Step Into My Office, Baby",
       "album": "Dear Catastrophe Waitress • 2003"
-    },
-    {
-      "time": "10:37 am",
-      "artist": "Lloyd Price",
-      "title": "Personality",
-      "album": "Mr. Personality • 1959"
     }
   ]
 }
