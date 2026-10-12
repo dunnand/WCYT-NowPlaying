@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T11:49:22",
+  "updatedAt": "2026-10-12T11:52:47",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Breakout",
-    "album": "There Is Nothing Left to Lose • 1999",
+    "artist": "Prince",
+    "title": "Delirious",
+    "album": "1999 • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:52 am",
-      "artist": "Prince",
-      "title": "Delirious"
-    },
     {
       "time": "11:56 am",
       "artist": "The Bodysnatchers",
@@ -21,9 +16,20 @@
       "time": "11:59 am",
       "artist": "Bleachers",
       "title": "dirty wedding dress"
+    },
+    {
+      "time": "12:04 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Telephone Line"
     }
   ],
   "recent": [
+    {
+      "time": "11:52 am",
+      "artist": "Prince",
+      "title": "Delirious",
+      "album": "1999 • 1982"
+    },
     {
       "time": "11:49 am",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Drake",
       "title": "Find Your Love",
       "album": "Thank Me Later • 2010"
-    },
-    {
-      "time": "10:27 am",
-      "artist": "Deerhoof",
-      "title": "This Magnificent Bird Will Rise",
-      "album": "Reveille • 2009"
     }
   ]
 }

@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T11:52:36",
+  "updatedAt": "2026-10-12T11:52:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Clash",
+    "title": "Lost in the Supermarket",
+    "album": "London Calling • 1979",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:52 am",
-      "artist": "The Clash",
-      "title": "Lost in the Supermarket"
-    },
     {
       "time": "11:56 am",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "12:03 pm",
       "artist": "Sloan",
       "title": "So Far Down"
+    },
+    {
+      "time": "12:06 pm",
+      "artist": "Weyes Blood",
+      "title": "Andromeda"
     }
   ],
   "recent": [
+    {
+      "time": "11:52 am",
+      "artist": "The Clash",
+      "title": "Lost in the Supermarket",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "11:48 am",
       "artist": "Frankie Rose",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "In Orbit",
       "album": "Cityfolk • 2025"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Crumb",
-      "title": "The Bug",
-      "album": "AMAMA • 2024"
     }
   ]
 }
