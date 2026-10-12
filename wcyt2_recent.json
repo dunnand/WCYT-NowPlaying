@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T07:44:40",
+  "updatedAt": "2026-10-12T07:47:43",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "The King of Carrot Flowers, Parts Two & Three",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "The Everly Brothers",
+    "title": "Devoted To You",
+    "album": "single • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 am",
-      "artist": "The Everly Brothers",
-      "title": "Devoted To You"
-    },
     {
       "time": "7:49 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "7:59 am",
       "artist": "David Bowie",
       "title": "Blackstar"
+    },
+    {
+      "time": "8:09 am",
+      "artist": "Weezer",
+      "title": "El Scorcho"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 am",
+      "artist": "The Everly Brothers",
+      "title": "Devoted To You",
+      "album": "single • 1958"
+    },
     {
       "time": "7:44 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Bizarre Love Triangle",
       "album": "Brotherhood • 1986"
-    },
-    {
-      "time": "6:18 am",
-      "artist": "9 Boyz",
-      "title": "Tootsie Roll",
-      "album": "199Quad • 1994"
     }
   ]
 }
