@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T13:02:38",
+  "updatedAt": "2026-10-12T13:05:36",
   "now": {
-    "artist": "R.E.M.",
-    "title": "We Walk",
-    "album": "Murmur • 1983",
+    "artist": "Bleachers",
+    "title": "Rollercoaster",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 pm",
-      "artist": "Bleachers",
-      "title": "Rollercoaster"
-    },
     {
       "time": "1:08 pm",
       "artist": "Sparks",
@@ -21,9 +16,20 @@
       "time": "1:11 pm",
       "artist": "The Weirdos",
       "title": "We Got the Neutron Bomb"
+    },
+    {
+      "time": "1:14 pm",
+      "artist": "Cat Power",
+      "title": "Good Woman"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 pm",
+      "artist": "Bleachers",
+      "title": "Rollercoaster",
+      "album": ""
+    },
     {
       "time": "1:02 pm",
       "artist": "R.E.M.",
@@ -167,12 +173,6 @@
       "artist": "Wilco",
       "title": "I'm Always in Love",
       "album": "Summerteeth • 1999"
-    },
-    {
-      "time": "11:25 am",
-      "artist": "DEVO",
-      "title": "(I Can't Get No) Satisfaction",
-      "album": "Q: Are We Not Men? A: We Are Devo! • 1978"
     }
   ]
 }
