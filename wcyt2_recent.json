@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T18:33:28",
+  "updatedAt": "2026-10-12T18:35:21",
   "now": {
-    "artist": "Blur",
-    "title": "Song 2",
-    "album": "Blur • 1997",
-    "category": "TUNES"
+    "artist": "Portishead",
+    "title": "All Mine",
+    "album": "Portishead • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:35 pm",
-      "artist": "Portishead",
-      "title": "All Mine"
-    },
     {
       "time": "6:39 pm",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "6:47 pm",
       "artist": "Taylor Swift",
       "title": "august"
+    },
+    {
+      "time": "6:52 pm",
+      "artist": "Led Zeppelin",
+      "title": "Misty Mountain Hop"
     }
   ],
   "recent": [
+    {
+      "time": "6:35 pm",
+      "artist": "Portishead",
+      "title": "All Mine",
+      "album": "Portishead • 1997"
+    },
     {
       "time": "6:33 pm",
       "artist": "Blur",
@@ -172,12 +178,6 @@
       "artist": "Amy Winehouse",
       "title": "Back to Black",
       "album": "Back to Black • 2006"
-    },
-    {
-      "time": "5:03 pm",
-      "artist": "T. Rex",
-      "title": "Bang A Gong (Get It On)",
-      "album": "Electric Warrior • 1972"
     }
   ]
 }
