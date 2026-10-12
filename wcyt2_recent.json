@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T12:16:25",
+  "updatedAt": "2026-10-12T12:20:10",
   "now": {
-    "artist": "George Harrison",
-    "title": "All Things Must Pass",
-    "album": "All Things Must Pass • 1970",
+    "artist": "Bob Dylan",
+    "title": "Song to Woody",
+    "album": "Bob Dylan • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:20 pm",
-      "artist": "Bob Dylan",
-      "title": "Song to Woody"
-    },
     {
       "time": "12:22 pm",
       "artist": "KISS",
@@ -26,9 +21,20 @@
       "time": "12:31 pm",
       "artist": "Bobby Darin",
       "title": "Splish Splash"
+    },
+    {
+      "time": "12:33 pm",
+      "artist": "The Decemberists",
+      "title": "The Crane Wife 1 & 2"
     }
   ],
   "recent": [
+    {
+      "time": "12:20 pm",
+      "artist": "Bob Dylan",
+      "title": "Song to Woody",
+      "album": "Bob Dylan • 1962"
+    },
     {
       "time": "12:16 pm",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "Victim Of Loving",
       "album": "Victim of Love • 2013"
-    },
-    {
-      "time": "10:44 am",
-      "artist": "The Four Seasons",
-      "title": "Walk Like A Man",
-      "album": "Big Girls Don't Cry and Twelve Others • 1963"
     }
   ]
 }
