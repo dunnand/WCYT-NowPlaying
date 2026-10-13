@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T03:09:26",
+  "updatedAt": "2026-10-13T03:09:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Polar Opposites",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:09 am",
-      "artist": "Modest Mouse",
-      "title": "Polar Opposites"
-    },
     {
       "time": "3:13 am",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "3:20 am",
       "artist": "Billy Joel",
       "title": "Uptown Girl"
+    },
+    {
+      "time": "3:24 am",
+      "artist": "Taylor Swift",
+      "title": "Glitch"
     }
   ],
   "recent": [
+    {
+      "time": "3:09 am",
+      "artist": "Modest Mouse",
+      "title": "Polar Opposites",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "3:06 am",
       "artist": "DJ Shadow",
@@ -172,12 +178,6 @@
       "artist": "Brenton Wood",
       "title": "The Oogum Boogum Song",
       "album": "Oogum Boogum • 1967"
-    },
-    {
-      "time": "1:40 am",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "Oliver's Army",
-      "album": "Armed Forces • 1979"
     }
   ]
 }
