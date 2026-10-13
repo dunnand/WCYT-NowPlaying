@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T16:55:16",
+  "updatedAt": "2026-10-13T17:01:07",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Enchanted (Taylor's version)",
-    "album": "Speak Now • 2023",
+    "artist": "Bob Dylan",
+    "title": "You're a Big Girl Now",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:01 pm",
-      "artist": "Bob Dylan",
-      "title": "You're a Big Girl Now"
-    },
     {
       "time": "5:05 pm",
       "artist": "Queen",
@@ -21,9 +16,25 @@
       "time": "5:10 pm",
       "artist": "Belle and Sebastian",
       "title": "I'm a Cuckoo"
+    },
+    {
+      "time": "5:16 pm",
+      "artist": "Etta James",
+      "title": "All I Could Do Was Cry"
+    },
+    {
+      "time": "5:18 pm",
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)"
     }
   ],
   "recent": [
+    {
+      "time": "5:01 pm",
+      "artist": "Bob Dylan",
+      "title": "You're a Big Girl Now",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "4:55 pm",
       "artist": "Taylor Swift",
@@ -167,12 +178,6 @@
       "artist": "Dion",
       "title": "Lovers Who Wander",
       "album": "Lovers Who Wander • 1962"
-    },
-    {
-      "time": "3:33 pm",
-      "artist": "James Brown",
-      "title": "Give It Up Or Turnit A Loose",
-      "album": "Sex Machine • 1970"
     }
   ]
 }
