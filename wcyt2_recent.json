@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T14:00:23",
+  "updatedAt": "2026-10-13T14:03:48",
   "now": {
-    "artist": "The Clash",
-    "title": "Rudie Can't Fail",
-    "album": "London Calling • 1979",
+    "artist": "Cream",
+    "title": "Strange Brew",
+    "album": "Disraeli Gears • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 pm",
-      "artist": "Cream",
-      "title": "Strange Brew"
-    },
     {
       "time": "2:06 pm",
       "artist": "Players Association",
@@ -26,9 +21,20 @@
       "time": "2:17 pm",
       "artist": "Elvis Presley",
       "title": "Jailhouse Rock"
+    },
+    {
+      "time": "2:19 pm",
+      "artist": "Bad Religion",
+      "title": "Sorrow"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 pm",
+      "artist": "Cream",
+      "title": "Strange Brew",
+      "album": "Disraeli Gears • 1967"
+    },
     {
       "time": "2:00 pm",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Windowsill",
       "album": "Neon Bible • 2007"
-    },
-    {
-      "time": "12:27 pm",
-      "artist": "Beach Weather",
-      "title": "Chit Chat",
-      "album": "Chit Chat • 2016"
     }
   ]
 }
