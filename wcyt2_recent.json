@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T19:41:06",
+  "updatedAt": "2026-10-13T19:43:41",
   "now": {
-    "artist": "The Specials",
-    "title": "You're Wondering Now",
-    "album": "Specials • 1979",
+    "artist": "Elvis Presley",
+    "title": "Love Me Tender",
+    "album": "Love Me Tender • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 pm",
-      "artist": "Elvis Presley",
-      "title": "Love Me Tender"
-    },
     {
       "time": "7:46 pm",
       "artist": "Clap Your Hands Say Yeah",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:43 pm",
+      "artist": "Elvis Presley",
+      "title": "Love Me Tender",
+      "album": "Love Me Tender • 1956"
+    },
     {
       "time": "7:41 pm",
       "artist": "The Specials",
@@ -172,12 +173,6 @@
       "artist": "Bill Withers",
       "title": "Grandma's Hands",
       "album": "Just As I Am • 1971"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "Bob Dylan",
-      "title": "John Wesley Harding",
-      "album": "John Wesley Harding • 1967"
     }
   ]
 }
