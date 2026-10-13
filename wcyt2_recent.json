@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T13:03:08",
+  "updatedAt": "2026-10-13T13:03:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Over My Head",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Over My Head"
-    },
     {
       "time": "1:06 pm",
       "artist": "Cream",
@@ -26,9 +21,20 @@
       "time": "1:15 pm",
       "artist": "Elvis Presley",
       "title": "Good Luck Charm"
+    },
+    {
+      "time": "1:17 pm",
+      "artist": "The Congos",
+      "title": "Fisherman"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Over My Head",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "1:00 pm",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Brittany Howard",
       "title": "Stay High",
       "album": "Jaime • 2019"
-    },
-    {
-      "time": "11:27 am",
-      "artist": "R.E.M.",
-      "title": "The Great Beyond",
-      "album": "Man on the Moon Soundtrack • 1999"
     }
   ]
 }
