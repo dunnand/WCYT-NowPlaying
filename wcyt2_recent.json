@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T20:03:04",
+  "updatedAt": "2026-10-12T20:05:50",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "No Particular Place to Go",
-    "album": "St. Louis to Liverpool • 1964",
+    "artist": "Tower of Power",
+    "title": "What Is Hip?",
+    "album": "Tower of Power • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:05 pm",
-      "artist": "Tower of Power",
-      "title": "What Is Hip?"
-    },
     {
       "time": "8:10 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "8:21 pm",
       "artist": "Camera Obscura",
       "title": "Keep It Clean"
+    },
+    {
+      "time": "8:24 pm",
+      "artist": "The Decemberists",
+      "title": "The Perfect Crime #2"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 pm",
+      "artist": "Tower of Power",
+      "title": "What Is Hip?",
+      "album": "Tower of Power • 1973"
+    },
     {
       "time": "8:03 pm",
       "artist": "Chuck Berry",
@@ -172,12 +178,6 @@
       "artist": "Blur",
       "title": "Song 2",
       "album": "Blur • 1997"
-    },
-    {
-      "time": "6:29 pm",
-      "artist": "Demi Lovato",
-      "title": "Give Your Heart A Break",
-      "album": "Demi • 2011"
     }
   ]
 }
