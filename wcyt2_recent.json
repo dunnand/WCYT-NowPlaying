@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T20:45:32",
+  "updatedAt": "2026-10-12T20:45:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Magic Dance",
+    "album": "Labyrinth • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:45 pm",
-      "artist": "David Bowie",
-      "title": "Magic Dance"
-    },
     {
       "time": "8:50 pm",
       "artist": "The Weeknd",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:45 pm",
+      "artist": "David Bowie",
+      "title": "Magic Dance",
+      "album": "Labyrinth • 1986"
+    },
     {
       "time": "8:42 pm",
       "artist": "Daniel Johnston",
@@ -172,12 +173,6 @@
       "artist": "David Bowie",
       "title": "Starman",
       "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
-    },
-    {
-      "time": "7:04 pm",
-      "artist": "Glen Campbell",
-      "title": "By The Time I Get To Phoenix",
-      "album": "By the Time I Get to Phoenix • 1967"
     }
   ]
 }
