@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T21:22:12",
+  "updatedAt": "2026-10-12T21:24:17",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Walk Right Back",
-    "album": "single • 1961",
-    "category": "AUDIO"
+    "artist": "The Afghan Whigs",
+    "title": "The Lottery",
+    "album": "Do to the Beast • 2014",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:24 pm",
-      "artist": "The Afghan Whigs",
-      "title": "The Lottery"
-    },
     {
       "time": "9:28 pm",
       "artist": "Elliott Smith",
@@ -21,9 +16,20 @@
       "time": "9:31 pm",
       "artist": "Pearl Jam",
       "title": "Present Tense"
+    },
+    {
+      "time": "9:37 pm",
+      "artist": "Depeche Mode",
+      "title": "Just Can't Get Enough"
     }
   ],
   "recent": [
+    {
+      "time": "9:24 pm",
+      "artist": "The Afghan Whigs",
+      "title": "The Lottery",
+      "album": "Do to the Beast • 2014"
+    },
     {
       "time": "9:22 pm",
       "artist": "The Everly Brothers",
@@ -167,12 +173,6 @@
       "artist": "Fleetwood Mac",
       "title": "Angel",
       "album": "Tusk • 1979"
-    },
-    {
-      "time": "7:46 pm",
-      "artist": "Grimes",
-      "title": "Delete Forever.",
-      "album": "Miss Anthropocene • 2020"
     }
   ]
 }
