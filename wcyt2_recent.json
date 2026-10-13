@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T18:07:08",
+  "updatedAt": "2026-10-13T18:10:32",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "Somewhere In The Night",
-    "album": "Even Now • 1978",
+    "artist": "Bob Dylan",
+    "title": "John Wesley Harding",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:10 pm",
-      "artist": "Bob Dylan",
-      "title": "John Wesley Harding"
-    },
     {
       "time": "6:13 pm",
       "artist": "Bill Withers",
@@ -26,9 +21,20 @@
       "time": "6:17 pm",
       "artist": "Eno",
       "title": "In Dark Trees"
+    },
+    {
+      "time": "6:19 pm",
+      "artist": "Aerosmith",
+      "title": "Crazy"
     }
   ],
   "recent": [
+    {
+      "time": "6:10 pm",
+      "artist": "Bob Dylan",
+      "title": "John Wesley Harding",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "6:07 pm",
       "artist": "Barry Manilow",
@@ -172,12 +178,6 @@
       "artist": "Aaliyah",
       "title": "Try Again",
       "album": "Aaliyah • 2001"
-    },
-    {
-      "time": "4:23 pm",
-      "artist": "Joy Division",
-      "title": "Disorder",
-      "album": "Unknown Pleasures • 1979"
     }
   ]
 }
