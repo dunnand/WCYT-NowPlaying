@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T16:20:04",
+  "updatedAt": "2026-10-13T16:23:10",
   "now": {
-    "artist": "John Denver",
-    "title": "Take Me Home, Country Roads",
-    "album": "Poems, Prayers & Promises • 1971",
+    "artist": "Joy Division",
+    "title": "Disorder",
+    "album": "Unknown Pleasures • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:23 pm",
-      "artist": "Joy Division",
-      "title": "Disorder"
-    },
     {
       "time": "4:26 pm",
       "artist": "Aaliyah",
@@ -26,9 +21,20 @@
       "time": "4:35 pm",
       "artist": "Kenny Rogers",
       "title": "Coward Of The County"
+    },
+    {
+      "time": "4:39 pm",
+      "artist": "Pavement",
+      "title": "Carrot Rope"
     }
   ],
   "recent": [
+    {
+      "time": "4:23 pm",
+      "artist": "Joy Division",
+      "title": "Disorder",
+      "album": "Unknown Pleasures • 1979"
+    },
     {
       "time": "4:20 pm",
       "artist": "John Denver",
@@ -172,12 +178,6 @@
       "artist": "Camera Obscura",
       "title": "Eighties Fan",
       "album": "Biggest Bluest Hi-Fi • 2001"
-    },
-    {
-      "time": "2:49 pm",
-      "artist": "Beyonce",
-      "title": "Blue",
-      "album": "Beyonce • 2013"
     }
   ]
 }
