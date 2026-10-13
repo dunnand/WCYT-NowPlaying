@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T19:25:48",
+  "updatedAt": "2026-10-13T19:29:32",
   "now": {
-    "artist": "The Band",
-    "title": "Stage Fright",
-    "album": "Stage Fright • 1970",
+    "artist": "Dusty Springfield",
+    "title": "Son of a Preacher Man",
+    "album": "Dusty in Memphis • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:29 pm",
-      "artist": "Dusty Springfield",
-      "title": "Son of a Preacher Man"
-    },
     {
       "time": "7:31 pm",
       "artist": "The Kinks",
@@ -26,9 +21,20 @@
       "time": "7:41 pm",
       "artist": "The Specials",
       "title": "You're Wondering Now"
+    },
+    {
+      "time": "7:43 pm",
+      "artist": "Elvis Presley",
+      "title": "Love Me Tender"
     }
   ],
   "recent": [
+    {
+      "time": "7:29 pm",
+      "artist": "Dusty Springfield",
+      "title": "Son of a Preacher Man",
+      "album": "Dusty in Memphis • 1969"
+    },
     {
       "time": "7:25 pm",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "The Smiths",
       "title": "Barbarism Begins at Home",
       "album": "Meat Is Murder • 1985"
-    },
-    {
-      "time": "5:52 pm",
-      "artist": "Siouxsie and the Banshees",
-      "title": "Happy House",
-      "album": "Kaleidoscope • 1980"
     }
   ]
 }
