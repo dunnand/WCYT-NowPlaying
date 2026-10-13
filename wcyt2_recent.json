@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T12:31:05",
+  "updatedAt": "2026-10-13T12:31:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Windowsill",
+    "album": "Neon Bible • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Arcade Fire",
-      "title": "Windowsill"
-    },
     {
       "time": "12:35 pm",
       "artist": "Elbow",
@@ -26,9 +21,20 @@
       "time": "12:44 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Mayonaise"
+    },
+    {
+      "time": "12:50 pm",
+      "artist": "Green Day",
+      "title": "When I Come Around"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Arcade Fire",
+      "title": "Windowsill",
+      "album": "Neon Bible • 2007"
+    },
     {
       "time": "12:27 pm",
       "artist": "Beach Weather",
@@ -172,12 +178,6 @@
       "artist": "My Bloody Valentine",
       "title": "You Made Me Realise",
       "album": "You Made Me Realise EP • 1988"
-    },
-    {
-      "time": "10:57 am",
-      "artist": "The Go-Betweens",
-      "title": "Cattle And Cane",
-      "album": "Before Hollywood • 1983"
     }
   ]
 }
