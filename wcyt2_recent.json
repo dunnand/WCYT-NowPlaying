@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T16:31:10",
+  "updatedAt": "2026-10-13T16:35:27",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "My Back Pages",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "Kenny Rogers",
+    "title": "Coward Of The County",
+    "album": "Kenny • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 pm",
-      "artist": "Kenny Rogers",
-      "title": "Coward Of The County"
-    },
     {
       "time": "4:39 pm",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "4:47 pm",
       "artist": "Siouxsie and the Banshees",
       "title": "Into the Light"
+    },
+    {
+      "time": "4:52 pm",
+      "artist": "Siouxsie and the Banshees",
+      "title": "Spellbound"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 pm",
+      "artist": "Kenny Rogers",
+      "title": "Coward Of The County",
+      "album": "Kenny • 1979"
+    },
     {
       "time": "4:31 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Beat Happening",
       "title": "Godsend",
       "album": "You Turn Me On • 1992"
-    },
-    {
-      "time": "3:01 pm",
-      "artist": "Bruno Mars",
-      "title": "Treasure",
-      "album": "Unorthodox Jukebox • 2012"
     }
   ]
 }
