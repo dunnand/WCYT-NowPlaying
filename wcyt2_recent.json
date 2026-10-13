@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T03:13:03",
+  "updatedAt": "2026-10-13T03:17:50",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Two-Headed Boy, Part Two",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "The Clash",
+    "title": "Should I Stay or Should I Go",
+    "album": "Combat Rock • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:17 am",
-      "artist": "The Clash",
-      "title": "Should I Stay or Should I Go"
-    },
     {
       "time": "3:20 am",
       "artist": "Billy Joel",
@@ -21,9 +16,25 @@
       "time": "3:24 am",
       "artist": "Taylor Swift",
       "title": "Glitch"
+    },
+    {
+      "time": "3:26 am",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Tuesday's Gone"
+    },
+    {
+      "time": "3:34 am",
+      "artist": "Nick Drake",
+      "title": "Northern Sky"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 am",
+      "artist": "The Clash",
+      "title": "Should I Stay or Should I Go",
+      "album": "Combat Rock • 1982"
+    },
     {
       "time": "3:13 am",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +178,6 @@
       "artist": "Bobby Vinton",
       "title": "Roses Are Red (My Love)",
       "album": "Roses Are Red • 1962"
-    },
-    {
-      "time": "1:46 am",
-      "artist": "Gordon Lightfoot",
-      "title": "The Wreck Of The Edmond Fitzgerald",
-      "album": "Summertime Dream • 1976"
     }
   ]
 }
