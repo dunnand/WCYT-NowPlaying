@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T03:20:55",
+  "updatedAt": "2026-10-13T03:24:11",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Uptown Girl",
-    "album": "An Innocent Man • 1983",
+    "artist": "Taylor Swift",
+    "title": "Glitch",
+    "album": "Midnights 3am • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:24 am",
-      "artist": "Taylor Swift",
-      "title": "Glitch"
-    },
     {
       "time": "3:26 am",
       "artist": "Lynyrd Skynyrd",
@@ -21,9 +16,20 @@
       "time": "3:34 am",
       "artist": "Nick Drake",
       "title": "Northern Sky"
+    },
+    {
+      "time": "3:38 am",
+      "artist": "Battles",
+      "title": "Atlas"
     }
   ],
   "recent": [
+    {
+      "time": "3:24 am",
+      "artist": "Taylor Swift",
+      "title": "Glitch",
+      "album": "Midnights 3am • 2022"
+    },
     {
       "time": "3:20 am",
       "artist": "Billy Joel",
@@ -167,12 +173,6 @@
       "artist": "Sebadoh",
       "title": "Beauty Of The Ride",
       "album": "Harmacy • 1996"
-    },
-    {
-      "time": "1:54 am",
-      "artist": "Iggy Pop",
-      "title": "Some Weird Sin",
-      "album": "Lust for Life • 1977"
     }
   ]
 }
