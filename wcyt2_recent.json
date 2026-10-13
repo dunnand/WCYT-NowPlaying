@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T14:36:00",
+  "updatedAt": "2026-10-13T14:36:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Somebody That I Used To Know",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:36 pm",
-      "artist": "Elliott Smith",
-      "title": "Somebody That I Used To Know"
-    },
     {
       "time": "2:38 pm",
       "artist": "The Beach Boys",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:36 pm",
+      "artist": "Elliott Smith",
+      "title": "Somebody That I Used To Know",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "2:34 pm",
       "artist": "Elvis Costello",
@@ -177,12 +178,6 @@
       "artist": "Cream",
       "title": "White Room",
       "album": "Wheels of Fire • 1968"
-    },
-    {
-      "time": "1:03 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Over My Head",
-      "album": "Fleetwood Mac • 1975"
     }
   ]
 }
