@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T07:48:30",
+  "updatedAt": "2026-10-13T07:48:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "One Too Many Mornings",
+    "album": "The Times They Are A-Changin • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:48 am",
-      "artist": "Bob Dylan",
-      "title": "One Too Many Mornings"
-    },
     {
       "time": "7:51 am",
       "artist": "Ariana Grande",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:48 am",
+      "artist": "Bob Dylan",
+      "title": "One Too Many Mornings",
+      "album": "The Times They Are A-Changin • 1964"
+    },
     {
       "time": "7:44 am",
       "artist": "Deftones",
@@ -172,12 +173,6 @@
       "artist": "Turnstile",
       "title": "HOLIDAY",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "6:11 am",
-      "artist": "Genesis",
-      "title": "That's All",
-      "album": "Genesis • 1984"
     }
   ]
 }
