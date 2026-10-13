@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T21:28:21",
+  "updatedAt": "2026-10-12T21:28:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Southern Belle",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:28 pm",
-      "artist": "Elliott Smith",
-      "title": "Southern Belle"
-    },
     {
       "time": "9:31 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "9:41 pm",
       "artist": "Galaxie 500",
       "title": "Tell Me"
+    },
+    {
+      "time": "9:45 pm",
+      "artist": "Turnstile",
+      "title": "Blackout"
     }
   ],
   "recent": [
+    {
+      "time": "9:28 pm",
+      "artist": "Elliott Smith",
+      "title": "Southern Belle",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "9:24 pm",
       "artist": "The Afghan Whigs",
@@ -172,12 +178,6 @@
       "artist": "Robert Palmer",
       "title": "Bad Case Of Loving You",
       "album": "Secrets • 1979"
-    },
-    {
-      "time": "7:50 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Angel",
-      "album": "Tusk • 1979"
     }
   ]
 }
