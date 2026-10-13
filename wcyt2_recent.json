@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T05:59:22",
+  "updatedAt": "2026-10-13T06:02:30",
   "now": {
-    "artist": "Cat Power",
-    "title": "Top Expert",
-    "album": "Myra Lee • 1996",
-    "category": "TUNES"
+    "artist": "Dave Matthews Band",
+    "title": "Crash into Me",
+    "album": "Crash • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:02 am",
-      "artist": "Dave Matthews Band",
-      "title": "Crash into Me"
-    },
     {
       "time": "6:07 am",
       "artist": "Fleetwood Mac",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:02 am",
+      "artist": "Dave Matthews Band",
+      "title": "Crash into Me",
+      "album": "Crash • 1996"
+    },
     {
       "time": "5:59 am",
       "artist": "Cat Power",
@@ -172,12 +173,6 @@
       "artist": "Alicia Keys",
       "title": "Fallin'",
       "album": "Songs in A Minor • 2001"
-    },
-    {
-      "time": "4:29 am",
-      "artist": "The Jam",
-      "title": "The Eton Rifles",
-      "album": "Setting Sons • 1979"
     }
   ]
 }
