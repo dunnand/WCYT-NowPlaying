@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T21:37:20",
+  "updatedAt": "2026-10-12T21:37:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Depeche Mode",
+    "title": "Just Can't Get Enough",
+    "album": "Speak & Spell • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:37 pm",
-      "artist": "Depeche Mode",
-      "title": "Just Can't Get Enough"
-    },
     {
       "time": "9:41 pm",
       "artist": "Galaxie 500",
@@ -26,9 +21,20 @@
       "time": "9:48 pm",
       "artist": "Billy Joel",
       "title": "Just The Way You Are"
+    },
+    {
+      "time": "9:51 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Still The Same"
     }
   ],
   "recent": [
+    {
+      "time": "9:37 pm",
+      "artist": "Depeche Mode",
+      "title": "Just Can't Get Enough",
+      "album": "Speak & Spell • 1981"
+    },
     {
       "time": "9:31 pm",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "No Particular Place to Go",
       "album": "St. Louis to Liverpool • 1964"
-    },
-    {
-      "time": "7:58 pm",
-      "artist": "Air France",
-      "title": "Collapsing Outside Your Doorstep",
-      "album": "No Way Down • 2008"
     }
   ]
 }
