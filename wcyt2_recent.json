@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T14:00:13",
+  "updatedAt": "2026-10-13T14:00:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Rudie Can't Fail",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 pm",
-      "artist": "The Clash",
-      "title": "Rudie Can't Fail"
-    },
     {
       "time": "2:03 pm",
       "artist": "Cream",
@@ -26,9 +21,20 @@
       "time": "2:13 pm",
       "artist": "DJ Jazzy Jeff & The Fresh Prince",
       "title": "Summertime"
+    },
+    {
+      "time": "2:17 pm",
+      "artist": "Elvis Presley",
+      "title": "Jailhouse Rock"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "The Clash",
+      "title": "Rudie Can't Fail",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "1:57 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Beach Weather",
       "title": "Chit Chat",
       "album": "Chit Chat • 2016"
-    },
-    {
-      "time": "12:23 pm",
-      "artist": "Pearl Jam",
-      "title": "Indifference",
-      "album": "Vs. • 1993"
     }
   ]
 }
