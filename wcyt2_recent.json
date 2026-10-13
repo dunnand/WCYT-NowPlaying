@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T21:03:16",
+  "updatedAt": "2026-10-12T21:03:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I've Got a Feeling",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:03 pm",
-      "artist": "The Beatles",
-      "title": "I've Got a Feeling"
-    },
     {
       "time": "9:06 pm",
       "artist": "The Association",
@@ -26,9 +21,20 @@
       "time": "9:12 pm",
       "artist": "Built to Spill",
       "title": "The Plan"
+    },
+    {
+      "time": "9:16 pm",
+      "artist": "Johnny Cash",
+      "title": "Cry! Cry! Cry!"
     }
   ],
   "recent": [
+    {
+      "time": "9:03 pm",
+      "artist": "The Beatles",
+      "title": "I've Got a Feeling",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "9:00 pm",
       "artist": "The Foundations",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "In My Room",
       "album": "Surfer Girl • 1963"
-    },
-    {
-      "time": "7:17 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "The New Year",
-      "album": "Transatlanticism • 2003"
     }
   ]
 }
