@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T14:31:32",
+  "updatedAt": "2026-10-13T14:34:36",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Tenth Avenue Freeze-Out",
-    "album": "Born to Run • 1975",
+    "artist": "Elvis Costello",
+    "title": "Welcome to the Working Week",
+    "album": "My Aim Is True • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:34 pm",
-      "artist": "Elvis Costello",
-      "title": "Welcome to the Working Week"
-    },
     {
       "time": "2:36 pm",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "2:40 pm",
       "artist": "Eric Clapton",
       "title": "Let It Rain"
+    },
+    {
+      "time": "2:45 pm",
+      "artist": "Archers of Loaf",
+      "title": "Wrong"
     }
   ],
   "recent": [
+    {
+      "time": "2:34 pm",
+      "artist": "Elvis Costello",
+      "title": "Welcome to the Working Week",
+      "album": "My Aim Is True • 1977"
+    },
     {
       "time": "2:31 pm",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "Over My Head",
       "album": "Fleetwood Mac • 1975"
-    },
-    {
-      "time": "1:00 pm",
-      "artist": "Turnstile",
-      "title": "SEEIN' STARS",
-      "album": "NEVER ENOUGH • 2025"
     }
   ]
 }
