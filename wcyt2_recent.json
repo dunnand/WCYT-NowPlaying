@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T00:20:24",
+  "updatedAt": "2026-10-13T00:20:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mariah Carey",
+    "title": "One Sweet Day",
+    "album": "Daydream • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:20 am",
-      "artist": "Mariah Carey",
-      "title": "One Sweet Day"
-    },
     {
       "time": "12:25 am",
       "artist": "Nirvana",
@@ -26,9 +21,20 @@
       "time": "12:31 am",
       "artist": "Paul Simon",
       "title": "Late In The Evening"
+    },
+    {
+      "time": "12:35 am",
+      "artist": "Kassi Valazza",
+      "title": "Weight of the Wheel"
     }
   ],
   "recent": [
+    {
+      "time": "12:20 am",
+      "artist": "Mariah Carey",
+      "title": "One Sweet Day",
+      "album": "Daydream • 1995"
+    },
     {
       "time": "12:16 am",
       "artist": "Flo-Rida",
@@ -172,12 +178,6 @@
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Still The Same",
       "album": "Stranger in Town • 1978"
-    },
-    {
-      "time": "9:48 pm",
-      "artist": "Billy Joel",
-      "title": "Just The Way You Are",
-      "album": "The Stranger • 1977"
     }
   ]
 }
