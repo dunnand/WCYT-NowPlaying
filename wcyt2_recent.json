@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T11:08:27",
+  "updatedAt": "2026-10-13T11:11:59",
   "now": {
-    "artist": "John Prine",
-    "title": "How Lucky",
-    "album": "Pink Cadillac • 1979",
+    "artist": "Big Brother & the Holding Company",
+    "title": "Piece of My Heart",
+    "album": "Cheap Thrills • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "Big Brother & the Holding Company",
-      "title": "Piece of My Heart"
-    },
     {
       "time": "11:16 am",
       "artist": "The Who",
@@ -26,9 +21,20 @@
       "time": "11:24 am",
       "artist": "The Raincoats",
       "title": "In Love"
+    },
+    {
+      "time": "11:27 am",
+      "artist": "R.E.M.",
+      "title": "The Great Beyond"
     }
   ],
   "recent": [
+    {
+      "time": "11:11 am",
+      "artist": "Big Brother & the Holding Company",
+      "title": "Piece of My Heart",
+      "album": "Cheap Thrills • 1968"
+    },
     {
       "time": "11:08 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Guess I'm Doing Fine",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "9:31 am",
-      "artist": "McGuire Sisters",
-      "title": "Sincerely",
-      "album": "Single • 1954"
     }
   ]
 }
