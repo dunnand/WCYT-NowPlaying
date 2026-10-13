@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T20:56:42",
+  "updatedAt": "2026-10-12T20:56:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Desperado",
+    "album": "Desperado • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:56 pm",
-      "artist": "Eagles",
-      "title": "Desperado"
-    },
     {
       "time": "9:00 pm",
       "artist": "The Foundations",
@@ -26,9 +21,20 @@
       "time": "9:06 pm",
       "artist": "The Association",
       "title": "Along Comes Mary"
+    },
+    {
+      "time": "9:09 pm",
+      "artist": "Al Green",
+      "title": "Tired of Being Alone"
     }
   ],
   "recent": [
+    {
+      "time": "8:56 pm",
+      "artist": "Eagles",
+      "title": "Desperado",
+      "album": "Desperado • 1973"
+    },
     {
       "time": "8:50 pm",
       "artist": "The Weeknd",
@@ -172,12 +178,6 @@
       "artist": "Joe Turner & His Blues Kings",
       "title": "Shake, Rattle And Roll",
       "album": "The Boss of the Blues • 1956"
-    },
-    {
-      "time": "7:10 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Makin' Some Noise",
-      "album": "Into the Great Wide Open • 1991"
     }
   ]
 }
