@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T05:50:38",
+  "updatedAt": "2026-10-13T05:54:42",
   "now": {
-    "artist": "Cream",
-    "title": "Crossroads",
-    "album": "Wheels of Fire • 1968",
+    "artist": "Foo Fighters",
+    "title": "Rope",
+    "album": "Wasting Light • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:54 am",
-      "artist": "Foo Fighters",
-      "title": "Rope"
-    },
     {
       "time": "5:59 am",
       "artist": "Cat Power",
@@ -21,9 +16,20 @@
       "time": "6:02 am",
       "artist": "Dave Matthews Band",
       "title": "Crash into Me"
+    },
+    {
+      "time": "6:07 am",
+      "artist": "Fleetwood Mac",
+      "title": "Little Lies"
     }
   ],
   "recent": [
+    {
+      "time": "5:54 am",
+      "artist": "Foo Fighters",
+      "title": "Rope",
+      "album": "Wasting Light • 2011"
+    },
     {
       "time": "5:50 am",
       "artist": "Cream",
@@ -167,12 +173,6 @@
       "artist": "Beck",
       "title": "It's All in Your Mind",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "4:23 am",
-      "artist": "Turnstile",
-      "title": "MYSTERY",
-      "album": "Glow On • 2021"
     }
   ]
 }
