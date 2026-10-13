@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T11:45:46",
+  "updatedAt": "2026-10-13T11:49:20",
   "now": {
-    "artist": "Blind Melon",
-    "title": "No Rain",
-    "album": "Blind Melon • 1993",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Needle In The Hay",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:49 am",
-      "artist": "Elliott Smith",
-      "title": "Needle In The Hay"
-    },
     {
       "time": "11:53 am",
       "artist": "My Bloody Valentine",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:49 am",
+      "artist": "Elliott Smith",
+      "title": "Needle In The Hay",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "11:45 am",
       "artist": "Blind Melon",
@@ -172,12 +173,6 @@
       "artist": "Broken Social Scene",
       "title": "Almost Crimes (Radio Kills remix)",
       "album": "You Forgot It In People • 2002"
-    },
-    {
-      "time": "10:10 am",
-      "artist": "Bee Gees",
-      "title": "Tragedy",
-      "album": "Spirits Having Flown • 1979"
     }
   ]
 }
