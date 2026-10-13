@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T21:03:28",
+  "updatedAt": "2026-10-12T21:06:53",
   "now": {
-    "artist": "The Beatles",
-    "title": "I've Got a Feeling",
-    "album": "Let It Be • 1970",
+    "artist": "The Association",
+    "title": "Along Comes Mary",
+    "album": "And Then...Along Comes the Association • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:06 pm",
-      "artist": "The Association",
-      "title": "Along Comes Mary"
-    },
     {
       "time": "9:09 pm",
       "artist": "Al Green",
@@ -26,9 +21,20 @@
       "time": "9:16 pm",
       "artist": "Johnny Cash",
       "title": "Cry! Cry! Cry!"
+    },
+    {
+      "time": "9:18 pm",
+      "artist": "Cat Power",
+      "title": "I Don't Blame You"
     }
   ],
   "recent": [
+    {
+      "time": "9:06 pm",
+      "artist": "The Association",
+      "title": "Along Comes Mary",
+      "album": "And Then...Along Comes the Association • 1966"
+    },
     {
       "time": "9:03 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Dawes",
       "title": "A Little Bit of Everything",
       "album": "Nothing Is Wrong • 2011"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "The Beach Boys",
-      "title": "In My Room",
-      "album": "Surfer Girl • 1963"
     }
   ]
 }
