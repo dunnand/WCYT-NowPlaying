@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T20:45:44",
+  "updatedAt": "2026-10-12T20:50:43",
   "now": {
-    "artist": "David Bowie",
-    "title": "Magic Dance",
-    "album": "Labyrinth • 1986",
+    "artist": "The Weeknd",
+    "title": "After Hours",
+    "album": "After Hours • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 pm",
-      "artist": "The Weeknd",
-      "title": "After Hours"
-    },
     {
       "time": "8:56 pm",
       "artist": "Eagles",
@@ -21,9 +16,20 @@
       "time": "9:00 pm",
       "artist": "The Foundations",
       "title": "Build Me Up Buttercup"
+    },
+    {
+      "time": "9:03 pm",
+      "artist": "The Beatles",
+      "title": "I've Got a Feeling"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 pm",
+      "artist": "The Weeknd",
+      "title": "After Hours",
+      "album": "After Hours • 2020"
+    },
     {
       "time": "8:45 pm",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Makin' Some Noise",
       "album": "Into the Great Wide Open • 1991"
-    },
-    {
-      "time": "7:06 pm",
-      "artist": "David Bowie",
-      "title": "Starman",
-      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
     }
   ]
 }
