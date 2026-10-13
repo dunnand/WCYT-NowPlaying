@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T08:54:14",
+  "updatedAt": "2026-10-13T08:54:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Diana Ross",
+    "title": "I'm Coming Out",
+    "album": "Diana • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 am",
-      "artist": "Diana Ross",
-      "title": "I'm Coming Out"
-    },
     {
       "time": "8:59 am",
       "artist": "Diana Ross & Lionel Richie",
@@ -26,9 +21,20 @@
       "time": "9:08 am",
       "artist": "Bob Marley and the Wailers",
       "title": "Zimbabwe"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Elton John",
+      "title": "Bennie And The Jets"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 am",
+      "artist": "Diana Ross",
+      "title": "I'm Coming Out",
+      "album": "Diana • 1980"
+    },
     {
       "time": "8:50 am",
       "artist": "Slowdive",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "We The People",
       "album": "We The People.... • 2016"
-    },
-    {
-      "time": "7:24 am",
-      "artist": "The Flaming Lips",
-      "title": "Ego Tripping at the Gates of Hell",
-      "album": "Yoshimi Battles The Pink Robots • 2002"
     }
   ]
 }
