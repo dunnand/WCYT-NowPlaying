@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T00:52:49",
+  "updatedAt": "2026-10-13T00:55:14",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Cathy's Clown",
-    "album": "A Date with the Everly Brothers • 1960",
+    "artist": "Carly Simon",
+    "title": "You Belong To Me",
+    "album": "Boys in the Trees • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "Carly Simon",
-      "title": "You Belong To Me"
-    },
     {
       "time": "12:58 am",
       "artist": "Nirvana.",
@@ -26,9 +21,20 @@
       "time": "1:07 am",
       "artist": "Aesop Rock",
       "title": "Daylight"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Broadcast",
+      "title": "Come On Let's Go"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "Carly Simon",
+      "title": "You Belong To Me",
+      "album": "Boys in the Trees • 1978"
+    },
     {
       "time": "12:52 am",
       "artist": "The Everly Brothers",
@@ -172,12 +178,6 @@
       "artist": "Frank Black",
       "title": "Headache",
       "album": "Teenager of the Year • 1994"
-    },
-    {
-      "time": "10:25 pm",
-      "artist": "Bruno Mars",
-      "title": "It Will Rain",
-      "album": "The Twilight Saga: Breaking Dawn, Pt. 1 • 2011"
     }
   ]
 }
