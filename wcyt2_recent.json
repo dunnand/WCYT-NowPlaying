@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T17:40:06",
+  "updatedAt": "2026-10-13T17:40:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Space Song",
+    "album": "Depression Cherry • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:40 pm",
-      "artist": "Beach House",
-      "title": "Space Song"
-    },
     {
       "time": "5:45 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "5:52 pm",
       "artist": "Siouxsie and the Banshees",
       "title": "Happy House"
+    },
+    {
+      "time": "5:56 pm",
+      "artist": "The Smiths",
+      "title": "Barbarism Begins at Home"
     }
   ],
   "recent": [
+    {
+      "time": "5:40 pm",
+      "artist": "Beach House",
+      "title": "Space Song",
+      "album": "Depression Cherry • 2015"
+    },
     {
       "time": "5:35 pm",
       "artist": "Elbow",
@@ -172,12 +178,6 @@
       "artist": "The Halo Benders",
       "title": "Bury Me",
       "album": "The Rebels Not In • 1998"
-    },
-    {
-      "time": "3:57 pm",
-      "artist": "The Afghan Whigs",
-      "title": "Algiers",
-      "album": "Do to the Beast • 2014"
     }
   ]
 }
