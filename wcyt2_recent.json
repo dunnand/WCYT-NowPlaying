@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T18:23:47",
+  "updatedAt": "2026-10-13T18:26:21",
   "now": {
-    "artist": "John Lee Hooker",
-    "title": "I'm in the Mood",
-    "album": "single • 1951",
+    "artist": "Dave Matthews Band",
+    "title": "Where Are You Going",
+    "album": "Busted Stuff • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:26 pm",
-      "artist": "Dave Matthews Band",
-      "title": "Where Are You Going"
-    },
     {
       "time": "6:30 pm",
       "artist": "Glen Campbell",
@@ -21,9 +16,20 @@
       "time": "6:33 pm",
       "artist": "FKA twigs",
       "title": "holy terrain"
+    },
+    {
+      "time": "6:37 pm",
+      "artist": "Alice in Chains",
+      "title": "Rooster"
     }
   ],
   "recent": [
+    {
+      "time": "6:26 pm",
+      "artist": "Dave Matthews Band",
+      "title": "Where Are You Going",
+      "album": "Busted Stuff • 2002"
+    },
     {
       "time": "6:23 pm",
       "artist": "John Lee Hooker",
@@ -167,12 +173,6 @@
       "artist": "Siouxsie and the Banshees",
       "title": "Spellbound",
       "album": "Juju • 1981"
-    },
-    {
-      "time": "4:47 pm",
-      "artist": "Siouxsie and the Banshees",
-      "title": "Into the Light",
-      "album": "Tinderbox • 1986"
     }
   ]
 }
