@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T14:36:22",
+  "updatedAt": "2026-10-13T14:38:35",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Somebody That I Used To Know",
-    "album": "Figure 8 • 2000",
-    "category": "TUNES"
+    "artist": "The Beach Boys",
+    "title": "Darlin'",
+    "album": "Wild Honey • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:38 pm",
-      "artist": "The Beach Boys",
-      "title": "Darlin'"
-    },
     {
       "time": "2:40 pm",
       "artist": "Eric Clapton",
@@ -26,9 +21,20 @@
       "time": "2:49 pm",
       "artist": "Beyonce",
       "title": "Blue"
+    },
+    {
+      "time": "2:53 pm",
+      "artist": "Camera Obscura",
+      "title": "Eighties Fan"
     }
   ],
   "recent": [
+    {
+      "time": "2:38 pm",
+      "artist": "The Beach Boys",
+      "title": "Darlin'",
+      "album": "Wild Honey • 1967"
+    },
     {
       "time": "2:36 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "The Honey Drippers",
       "title": "Impeach the President",
       "album": "Impeach The President/Roy C’s Theme • 1973"
-    },
-    {
-      "time": "1:06 pm",
-      "artist": "Cream",
-      "title": "White Room",
-      "album": "Wheels of Fire • 1968"
     }
   ]
 }
