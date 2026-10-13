@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T17:01:07",
+  "updatedAt": "2026-10-13T17:05:41",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "You're a Big Girl Now",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "Queen",
+    "title": "One Vision",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 pm",
-      "artist": "Queen",
-      "title": "One Vision"
-    },
     {
       "time": "5:10 pm",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "5:18 pm",
       "artist": "ABBA",
       "title": "Gimme! Gimme! Gimme! (A Man After Midnight)"
+    },
+    {
+      "time": "5:23 pm",
+      "artist": "Aaron Neville",
+      "title": "Everybody Plays The Fool"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 pm",
+      "artist": "Queen",
+      "title": "One Vision",
+      "album": ""
+    },
     {
       "time": "5:01 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "James Taylor",
       "title": "Don't Let Me Be Lonely Tonight",
       "album": "One Man Dog • 1972"
-    },
-    {
-      "time": "3:36 pm",
-      "artist": "Dion",
-      "title": "Lovers Who Wander",
-      "album": "Lovers Who Wander • 1962"
     }
   ]
 }
