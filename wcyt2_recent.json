@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T14:38:35",
+  "updatedAt": "2026-10-13T14:40:47",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Darlin'",
-    "album": "Wild Honey • 1967",
+    "artist": "Eric Clapton",
+    "title": "Let It Rain",
+    "album": "Eric Clapton • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 pm",
-      "artist": "Eric Clapton",
-      "title": "Let It Rain"
-    },
     {
       "time": "2:45 pm",
       "artist": "Archers of Loaf",
@@ -26,9 +21,20 @@
       "time": "2:53 pm",
       "artist": "Camera Obscura",
       "title": "Eighties Fan"
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Teddy Picker"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 pm",
+      "artist": "Eric Clapton",
+      "title": "Let It Rain",
+      "album": "Eric Clapton • 1970"
+    },
     {
       "time": "2:38 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Good Luck Charm",
       "album": "single • 1962"
-    },
-    {
-      "time": "1:11 pm",
-      "artist": "The Honey Drippers",
-      "title": "Impeach the President",
-      "album": "Impeach The President/Roy C’s Theme • 1973"
     }
   ]
 }
