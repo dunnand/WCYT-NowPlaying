@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T06:07:45",
+  "updatedAt": "2026-10-13T06:11:11",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Little Lies",
-    "album": "Tango in the Night • 1987",
+    "artist": "Genesis",
+    "title": "That's All",
+    "album": "Genesis • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:11 am",
-      "artist": "Genesis",
-      "title": "That's All"
-    },
     {
       "time": "6:15 am",
       "artist": "Turnstile",
@@ -23,12 +18,18 @@
       "title": "Hammond Song"
     },
     {
-      "time": "6:24 am",
+      "time": "6:23 am",
       "artist": "Sun Ra",
       "title": "The Night of the Purple Moon"
     }
   ],
   "recent": [
+    {
+      "time": "6:11 am",
+      "artist": "Genesis",
+      "title": "That's All",
+      "album": "Genesis • 1984"
+    },
     {
       "time": "6:07 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +173,6 @@
       "artist": "Townes Van Zandt",
       "title": "Poncho & Lefty",
       "album": "The Late Great Townes Van Zandt • 1972"
-    },
-    {
-      "time": "4:36 am",
-      "artist": "Avenged Sevenfold",
-      "title": "Hail To The King",
-      "album": "Hail to the King • 2013"
     }
   ]
 }
