@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T16:26:42",
+  "updatedAt": "2026-10-13T16:31:10",
   "now": {
-    "artist": "Aaliyah",
-    "title": "Try Again",
-    "album": "Aaliyah • 2001",
+    "artist": "Bob Dylan",
+    "title": "My Back Pages",
+    "album": "Another Side of Bob Dylan • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:31 pm",
-      "artist": "Bob Dylan",
-      "title": "My Back Pages"
-    },
     {
       "time": "4:35 pm",
       "artist": "Kenny Rogers",
@@ -26,9 +21,20 @@
       "time": "4:43 pm",
       "artist": "Black Sheep",
       "title": "The Choice Is Yours (Revisited)"
+    },
+    {
+      "time": "4:47 pm",
+      "artist": "Siouxsie and the Banshees",
+      "title": "Into the Light"
     }
   ],
   "recent": [
+    {
+      "time": "4:31 pm",
+      "artist": "Bob Dylan",
+      "title": "My Back Pages",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "4:26 pm",
       "artist": "Aaliyah",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "Treasure",
       "album": "Unorthodox Jukebox • 2012"
-    },
-    {
-      "time": "2:58 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Teddy Picker",
-      "album": "Favourite Worst Nightmare • 2007"
     }
   ]
 }
