@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-12T21:48:09",
+  "updatedAt": "2026-10-12T21:51:26",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Just The Way You Are",
-    "album": "The Stranger • 1977",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Still The Same",
+    "album": "Stranger in Town • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:51 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Still The Same"
-    },
     {
       "time": "9:55 pm",
       "artist": "Dirty Projectors",
       "title": "Rise Above"
     },
     {
-      "time": "10:00 pm",
+      "time": "9:59 pm",
       "artist": "Diana Ross & The Supremes",
       "title": "Love Child"
     },
@@ -26,9 +21,20 @@
       "time": "10:02 pm",
       "artist": "The Carpenters",
       "title": "Yesterday Once More"
+    },
+    {
+      "time": "10:06 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Rocket"
     }
   ],
   "recent": [
+    {
+      "time": "9:51 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Still The Same",
+      "album": "Stranger in Town • 1978"
+    },
     {
       "time": "9:48 pm",
       "artist": "Billy Joel",
@@ -172,12 +178,6 @@
       "artist": "Camera Obscura",
       "title": "Keep It Clean",
       "album": "Underachievers Please Try Harder • 2003"
-    },
-    {
-      "time": "8:15 pm",
-      "artist": "D'Angelo and The Vanguard",
-      "title": "Betray My Heart",
-      "album": "Black Messiah • 2014"
     }
   ]
 }
