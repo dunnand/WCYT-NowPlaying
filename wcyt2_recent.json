@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T19:25:38",
+  "updatedAt": "2026-10-13T19:25:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Band",
+    "title": "Stage Fright",
+    "album": "Stage Fright • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 pm",
-      "artist": "The Band",
-      "title": "Stage Fright"
-    },
     {
       "time": "7:29 pm",
       "artist": "Dusty Springfield",
@@ -26,9 +21,20 @@
       "time": "7:38 pm",
       "artist": "Drifters",
       "title": "On Broadway"
+    },
+    {
+      "time": "7:41 pm",
+      "artist": "The Specials",
+      "title": "You're Wondering Now"
     }
   ],
   "recent": [
+    {
+      "time": "7:25 pm",
+      "artist": "The Band",
+      "title": "Stage Fright",
+      "album": "Stage Fright • 1970"
+    },
     {
       "time": "7:23 pm",
       "artist": "Mario 3D World Big Band",
@@ -172,12 +178,6 @@
       "artist": "Siouxsie and the Banshees",
       "title": "Happy House",
       "album": "Kaleidoscope • 1980"
-    },
-    {
-      "time": "5:49 pm",
-      "artist": "Madonna",
-      "title": "Beautiful Stranger",
-      "album": "Austin Powers: The Spy Who Shagged Me Soundtrack • 1999"
     }
   ]
 }
