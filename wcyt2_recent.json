@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T05:26:27",
+  "updatedAt": "2026-10-13T05:28:40",
   "now": {
-    "artist": "Willie Nelson",
-    "title": "Blue Eyes Crying In The Rain",
-    "album": "Red Headed Stranger • 1975",
+    "artist": "Bob Dylan",
+    "title": "Summer Days",
+    "album": "Love and Theft • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:28 am",
-      "artist": "Bob Dylan",
-      "title": "Summer Days"
-    },
     {
       "time": "5:33 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "5:40 am",
       "artist": "Beastie Boys",
       "title": "Intergalactic"
+    },
+    {
+      "time": "5:44 am",
+      "artist": "Dean Martin",
+      "title": "That's Amore"
     }
   ],
   "recent": [
+    {
+      "time": "5:28 am",
+      "artist": "Bob Dylan",
+      "title": "Summer Days",
+      "album": "Love and Theft • 2001"
+    },
     {
       "time": "5:26 am",
       "artist": "Willie Nelson",
@@ -172,12 +178,6 @@
       "artist": "Ike and Tina Turner",
       "title": "River Deep - Mountain High",
       "album": "River Deep  Mountain High • 1966"
-    },
-    {
-      "time": "3:57 am",
-      "artist": "Foo Fighters",
-      "title": "Times Like These",
-      "album": "One by One • 2002"
     }
   ]
 }
