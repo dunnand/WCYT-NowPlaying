@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T22:06:34",
+  "updatedAt": "2026-10-12T22:10:41",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Rocket",
-    "album": "Siamese Dream • 1993",
+    "artist": "Avenged Sevenfold",
+    "title": "Shepherd of Fire",
+    "album": "Hail to the King • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "Avenged Sevenfold",
-      "title": "Shepherd of Fire"
-    },
     {
       "time": "10:16 pm",
       "artist": "Belle and Sebastian",
@@ -21,9 +16,20 @@
       "time": "10:19 pm",
       "artist": "Drake",
       "title": "Forever"
+    },
+    {
+      "time": "10:25 pm",
+      "artist": "Bruno Mars",
+      "title": "It Will Rain"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "Avenged Sevenfold",
+      "title": "Shepherd of Fire",
+      "album": "Hail to the King • 2013"
+    },
     {
       "time": "10:06 pm",
       "artist": "The Smashing Pumpkins",
@@ -167,12 +173,6 @@
       "artist": "Daniel Johnston",
       "title": "Cold Hard World",
       "album": "Dont Be Scared • 1982"
-    },
-    {
-      "time": "8:37 pm",
-      "artist": "Belle and Sebastian",
-      "title": "The Stars of Track and Field",
-      "album": "If You're Feeling Sinister • 1996"
     }
   ]
 }
