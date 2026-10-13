@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-12T21:47:45",
+  "updatedAt": "2026-10-12T21:48:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "Just The Way You Are",
+    "album": "The Stranger • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 pm",
-      "artist": "Billy Joel",
-      "title": "Just The Way You Are"
-    },
     {
       "time": "9:51 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "10:00 pm",
       "artist": "Diana Ross & The Supremes",
       "title": "Love Child"
+    },
+    {
+      "time": "10:02 pm",
+      "artist": "The Carpenters",
+      "title": "Yesterday Once More"
     }
   ],
   "recent": [
+    {
+      "time": "9:48 pm",
+      "artist": "Billy Joel",
+      "title": "Just The Way You Are",
+      "album": "The Stranger • 1977"
+    },
     {
       "time": "9:44 pm",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "D'Angelo and The Vanguard",
       "title": "Betray My Heart",
       "album": "Black Messiah • 2014"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "Radiohead",
-      "title": "High and Dry",
-      "album": "The Bends • 1995"
     }
   ]
 }
