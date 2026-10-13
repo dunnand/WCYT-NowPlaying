@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T11:08:17",
+  "updatedAt": "2026-10-13T11:08:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Prine",
+    "title": "How Lucky",
+    "album": "Pink Cadillac • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:08 am",
-      "artist": "John Prine",
-      "title": "How Lucky"
-    },
     {
       "time": "11:12 am",
       "artist": "Big Brother & the Holding Company",
@@ -26,9 +21,20 @@
       "time": "11:21 am",
       "artist": "Archie Bell and The Drells",
       "title": "Tighten Up"
+    },
+    {
+      "time": "11:24 am",
+      "artist": "The Raincoats",
+      "title": "In Love"
     }
   ],
   "recent": [
+    {
+      "time": "11:08 am",
+      "artist": "John Prine",
+      "title": "How Lucky",
+      "album": "Pink Cadillac • 1979"
+    },
     {
       "time": "11:05 am",
       "artist": "Travis Scott",
@@ -172,12 +178,6 @@
       "artist": "McGuire Sisters",
       "title": "Sincerely",
       "album": "Single • 1954"
-    },
-    {
-      "time": "9:26 am",
-      "artist": "Def Leppard",
-      "title": "Have You Ever Needed Someone So Bad",
-      "album": "Adrenalize • 1992"
     }
   ]
 }
