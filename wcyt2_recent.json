@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T07:48:42",
+  "updatedAt": "2026-10-13T07:51:24",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "One Too Many Mornings",
-    "album": "The Times They Are A-Changin • 1964",
+    "artist": "Ariana Grande",
+    "title": "The Way",
+    "album": "Yours Truly • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 am",
-      "artist": "Ariana Grande",
-      "title": "The Way"
-    },
     {
       "time": "7:55 am",
       "artist": "PJ Harvey",
@@ -21,9 +16,20 @@
       "time": "7:58 am",
       "artist": "Prince",
       "title": "Pink Cashmere"
+    },
+    {
+      "time": "8:02 am",
+      "artist": "Husker Du",
+      "title": "Could You Be the One?"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 am",
+      "artist": "Ariana Grande",
+      "title": "The Way",
+      "album": "Yours Truly • 2013"
+    },
     {
       "time": "7:48 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "The Roches",
       "title": "Hammond Song",
       "album": "The Roches • 1979"
-    },
-    {
-      "time": "6:15 am",
-      "artist": "Turnstile",
-      "title": "HOLIDAY",
-      "album": "GLOW ON • 2021"
     }
   ]
 }
