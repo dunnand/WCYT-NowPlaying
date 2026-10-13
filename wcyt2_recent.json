@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T09:17:07",
+  "updatedAt": "2026-10-13T09:21:16",
   "now": {
-    "artist": "Alicia Keys",
-    "title": "No One",
-    "album": "As I Am • 2007",
+    "artist": "Albert King",
+    "title": "Born Under a Bad Sign",
+    "album": "Born Under a Bad Sign • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:21 am",
-      "artist": "Albert King",
-      "title": "Born Under a Bad Sign"
-    },
     {
       "time": "9:23 am",
       "artist": "Ram Jam",
@@ -26,9 +21,20 @@
       "time": "9:31 am",
       "artist": "McGuire Sisters",
       "title": "Sincerely"
+    },
+    {
+      "time": "9:34 am",
+      "artist": "Beck",
+      "title": "Guess I'm Doing Fine"
     }
   ],
   "recent": [
+    {
+      "time": "9:21 am",
+      "artist": "Albert King",
+      "title": "Born Under a Bad Sign",
+      "album": "Born Under a Bad Sign • 1967"
+    },
     {
       "time": "9:17 am",
       "artist": "Alicia Keys",
@@ -172,12 +178,6 @@
       "artist": "Ariana Grande",
       "title": "The Way",
       "album": "Yours Truly • 2013"
-    },
-    {
-      "time": "7:48 am",
-      "artist": "Bob Dylan",
-      "title": "One Too Many Mornings",
-      "album": "The Times They Are A-Changin • 1964"
     }
   ]
 }
