@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T18:05:22",
+  "updatedAt": "2026-10-14T18:05:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "It's All I Can Do",
+    "album": "Candy-O • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:05 pm",
-      "artist": "The Cars",
-      "title": "It's All I Can Do"
-    },
     {
       "time": "6:09 pm",
       "artist": "Cat Stevens",
@@ -26,9 +21,20 @@
       "time": "6:14 pm",
       "artist": "Bee Gees",
       "title": "Massachusetts"
+    },
+    {
+      "time": "6:16 pm",
+      "artist": "Commodores",
+      "title": "Still"
     }
   ],
   "recent": [
+    {
+      "time": "6:05 pm",
+      "artist": "The Cars",
+      "title": "It's All I Can Do",
+      "album": "Candy-O • 1979"
+    },
     {
       "time": "6:02 pm",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Black Pumas",
       "title": "Colors",
       "album": "Black Pumas • 2019"
-    },
-    {
-      "time": "4:31 pm",
-      "artist": "The Prodigy",
-      "title": "Breathe",
-      "album": "The Fat of the Land • 1997"
     }
   ]
 }
