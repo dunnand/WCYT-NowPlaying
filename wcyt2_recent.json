@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T02:34:45",
+  "updatedAt": "2026-10-14T02:38:13",
   "now": {
-    "artist": "The Smiths",
-    "title": "Heaven Knows I'm Miserable Now",
-    "album": "Hatful of Hollow • 1984",
+    "artist": "Grimes",
+    "title": "My Name Is Dark",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:38 am",
-      "artist": "Grimes",
-      "title": "My Name Is Dark"
-    },
     {
       "time": "2:44 am",
       "artist": "Rolling Stones",
@@ -21,9 +16,20 @@
       "time": "2:48 am",
       "artist": "Bob Dylan",
       "title": "Don't Think Twice, It's All Right"
+    },
+    {
+      "time": "2:51 am",
+      "artist": "Stevie Wonder",
+      "title": "I Wish"
     }
   ],
   "recent": [
+    {
+      "time": "2:38 am",
+      "artist": "Grimes",
+      "title": "My Name Is Dark",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "2:34 am",
       "artist": "The Smiths",
@@ -167,12 +173,6 @@
       "artist": "Bjork",
       "title": "Bachelorette",
       "album": "Homogenic • 1997"
-    },
-    {
-      "time": "12:49 am",
-      "artist": "Roberta Flack",
-      "title": "Killing Me Softly With His Song",
-      "album": "Killing Me Softly • 1973"
     }
   ]
 }
