@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T15:00:28",
+  "updatedAt": "2026-10-14T15:05:06",
   "now": {
-    "artist": "The Cure",
-    "title": "A Strange Day",
-    "album": "Pornography • 1982",
+    "artist": "American Football",
+    "title": "Uncomfortably Numb (feat. Hayley Williams)",
+    "album": "American Football •",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:05 pm",
-      "artist": "American Football",
-      "title": "Uncomfortably Numb (feat. Hayley Williams)"
-    },
     {
       "time": "3:09 pm",
       "artist": "Grateful Dead",
@@ -21,9 +16,20 @@
       "time": "3:14 pm",
       "artist": "Crystals",
       "title": "Da Doo Ron Ron"
+    },
+    {
+      "time": "3:16 pm",
+      "artist": "Led Zeppelin",
+      "title": "Going to California"
     }
   ],
   "recent": [
+    {
+      "time": "3:05 pm",
+      "artist": "American Football",
+      "title": "Uncomfortably Numb (feat. Hayley Williams)",
+      "album": "American Football •"
+    },
     {
       "time": "3:00 pm",
       "artist": "The Cure",
@@ -167,12 +173,6 @@
       "artist": "Lucinda Williams",
       "title": "Jackson",
       "album": "Car Wheels on a Gravel Road • 1998"
-    },
-    {
-      "time": "1:18 pm",
-      "artist": "Wire",
-      "title": "Mannequin",
-      "album": "Pink Flag • 1977"
     }
   ]
 }
