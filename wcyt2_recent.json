@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T07:54:38",
+  "updatedAt": "2026-10-14T07:57:11",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Rock & Roll Music",
-    "album": "One Dozen Berrys • 1958",
-    "category": "AUDIO"
+    "artist": "Animal Collective",
+    "title": "Grass",
+    "album": "Feels • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:57 am",
-      "artist": "Animal Collective",
-      "title": "Grass"
-    },
     {
       "time": "8:00 am",
       "artist": "Grateful Dead",
@@ -21,9 +16,20 @@
       "time": "8:04 am",
       "artist": "Arcade Fire",
       "title": "Sprawl II (MOUNTIANS BEYOND MOUNTIANS)"
+    },
+    {
+      "time": "8:10 am",
+      "artist": "Blur",
+      "title": "Country House"
     }
   ],
   "recent": [
+    {
+      "time": "7:57 am",
+      "artist": "Animal Collective",
+      "title": "Grass",
+      "album": "Feels • 2005"
+    },
     {
       "time": "7:54 am",
       "artist": "Chuck Berry",
@@ -167,12 +173,6 @@
       "artist": "The Cure",
       "title": "Primary",
       "album": "Faith • 1981"
-    },
-    {
-      "time": "6:20 am",
-      "artist": "The Cure",
-      "title": "Push",
-      "album": "The Head on the Door • 1985"
     }
   ]
 }
