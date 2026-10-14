@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T08:39:06",
+  "updatedAt": "2026-10-14T08:42:00",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Moody Blue",
-    "album": "Moody Blue • 1977",
+    "artist": "Funkadelic",
+    "title": "Maggot Brain",
+    "album": "Maggot Brain • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 am",
-      "artist": "Funkadelic",
-      "title": "Maggot Brain"
-    },
     {
       "time": "8:51 am",
       "artist": "Chromatics",
@@ -26,9 +21,20 @@
       "time": "9:03 am",
       "artist": "John Lennon",
       "title": "Imagine"
+    },
+    {
+      "time": "9:06 am",
+      "artist": "Celine Dion",
+      "title": "My Heart Will Go On"
     }
   ],
   "recent": [
+    {
+      "time": "8:42 am",
+      "artist": "Funkadelic",
+      "title": "Maggot Brain",
+      "album": "Maggot Brain • 1971"
+    },
     {
       "time": "8:39 am",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "The Golden Age",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "6:54 am",
-      "artist": "Monotones",
-      "title": "Book Of Love",
-      "album": "Book of Love • 1958"
     }
   ]
 }
