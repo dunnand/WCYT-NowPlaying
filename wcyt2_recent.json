@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T22:10:15",
+  "updatedAt": "2026-10-13T22:10:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Smiths",
+    "title": "The Queen Is Dead",
+    "album": "The Queen is Dead • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "The Smiths",
-      "title": "The Queen Is Dead"
-    },
     {
       "time": "10:16 pm",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "The Smiths",
+      "title": "The Queen Is Dead",
+      "album": "The Queen is Dead • 1986"
+    },
     {
       "time": "10:04 pm",
       "artist": "The Smiths",
@@ -172,12 +173,6 @@
       "artist": "Deftones",
       "title": "Change (In the House of Flies)",
       "album": "White Pony • 2000"
-    },
-    {
-      "time": "8:37 pm",
-      "artist": "B.O.B.",
-      "title": "So Good",
-      "album": "Strange Clouds • 2012"
     }
   ]
 }
