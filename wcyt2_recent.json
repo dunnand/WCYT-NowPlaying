@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T13:52:08",
+  "updatedAt": "2026-10-14T13:57:02",
   "now": {
-    "artist": "The Cure",
-    "title": "All Cats Are Grey",
-    "album": "Faith • 1981",
+    "artist": "Foo Fighters",
+    "title": "Shame Shame",
+    "album": "Medicine at Midnight • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:57 pm",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame"
-    },
     {
       "time": "2:01 pm",
       "artist": "Wings",
@@ -21,9 +16,20 @@
       "time": "2:06 pm",
       "artist": "Donovan",
       "title": "Mellow Yellow"
+    },
+    {
+      "time": "2:10 pm",
+      "artist": "Joni Mitchell",
+      "title": "The Hissing of Summer Lawns"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 pm",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame",
+      "album": "Medicine at Midnight • 2021"
+    },
     {
       "time": "1:52 pm",
       "artist": "The Cure",
@@ -167,12 +173,6 @@
       "artist": "Hole",
       "title": "Doll Parts",
       "album": "Live Through This • 1994"
-    },
-    {
-      "time": "12:21 pm",
-      "artist": "The Doors",
-      "title": "Love Her Madly",
-      "album": "L.A. Woman • 1971"
     }
   ]
 }
