@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T12:34:07",
+  "updatedAt": "2026-10-14T12:35:50",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Oxford Town",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "artist": "Beyonce",
+    "title": "XO",
+    "album": "Beyonce • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 pm",
-      "artist": "Beyonce",
-      "title": "XO"
-    },
     {
       "time": "12:39 pm",
       "artist": "Jewel",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:35 pm",
+      "artist": "Beyonce",
+      "title": "XO",
+      "album": "Beyonce • 2013"
+    },
     {
       "time": "12:34 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Olivia Newton-John",
       "title": "If You Love Me (Let Me Know)",
       "album": "If You Love Me, Let Me Know • 1974"
-    },
-    {
-      "time": "10:55 am",
-      "artist": "Neil Young",
-      "title": "Shut It Down 2020",
-      "album": "Shut It Down 2020 • 2020"
     }
   ]
 }
