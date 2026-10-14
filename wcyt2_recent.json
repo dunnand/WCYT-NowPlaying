@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T09:06:17",
+  "updatedAt": "2026-10-14T09:10:52",
   "now": {
-    "artist": "Celine Dion",
-    "title": "My Heart Will Go On",
-    "album": "Let's Talk About Love • 1997",
+    "artist": "Nat King Cole",
+    "title": "It's Only A Paper Moon",
+    "album": "single • 1943",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 am",
-      "artist": "Nat King Cole",
-      "title": "It's Only A Paper Moon"
-    },
     {
       "time": "9:13 am",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "9:19 am",
       "artist": "Drake",
       "title": "Hotline Bling"
+    },
+    {
+      "time": "9:23 am",
+      "artist": "Cocteau Twins",
+      "title": "Heaven or Las Vegas"
     }
   ],
   "recent": [
+    {
+      "time": "9:10 am",
+      "artist": "Nat King Cole",
+      "title": "It's Only A Paper Moon",
+      "album": "single • 1943"
+    },
     {
       "time": "9:06 am",
       "artist": "Celine Dion",
@@ -172,12 +178,6 @@
       "artist": "The Cure",
       "title": "Disintegration",
       "album": "Disintegration • 1989"
-    },
-    {
-      "time": "7:13 am",
-      "artist": "The Afghan Whigs",
-      "title": "66",
-      "album": "1965 • 1998"
     }
   ]
 }
