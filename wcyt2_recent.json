@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T21:37:49",
+  "updatedAt": "2026-10-13T21:41:47",
   "now": {
-    "artist": "Tom Petty",
-    "title": "A Higher Place",
-    "album": "Wildflowers • 1994",
+    "artist": "David Bowie",
+    "title": "Where Are We Now?",
+    "album": "The Next Day • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:41 pm",
-      "artist": "David Bowie",
-      "title": "Where Are We Now?"
-    },
     {
       "time": "9:45 pm",
       "artist": "Dilated Peoples",
@@ -21,9 +16,20 @@
       "time": "9:49 pm",
       "artist": "Beastie Boys",
       "title": "Ch-Check It Out"
+    },
+    {
+      "time": "9:52 pm",
+      "artist": "The Beach Boys",
+      "title": "Heroes and Villains"
     }
   ],
   "recent": [
+    {
+      "time": "9:41 pm",
+      "artist": "David Bowie",
+      "title": "Where Are We Now?",
+      "album": "The Next Day • 2013"
+    },
     {
       "time": "9:37 pm",
       "artist": "Tom Petty",
@@ -167,12 +173,6 @@
       "artist": "Cat Stevens",
       "title": "Father and Son",
       "album": "Tea for the Tillerman • 1970"
-    },
-    {
-      "time": "8:13 pm",
-      "artist": "Turnstile",
-      "title": "T.L.C. (Turnstile Love Connection)",
-      "album": "GLOW ON • 2021"
     }
   ]
 }
