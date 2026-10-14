@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T03:13:31",
+  "updatedAt": "2026-10-14T03:17:45",
   "now": {
-    "artist": "Ed Sheeran",
-    "title": "The A Team",
-    "album": "+ • 2011",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Punch and Judy",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:17 am",
-      "artist": "Elliott Smith",
-      "title": "Punch and Judy"
-    },
     {
       "time": "3:20 am",
       "artist": "Pearl Jam",
@@ -21,9 +16,20 @@
       "time": "3:23 am",
       "artist": "The Smiths",
       "title": "A Rush and a Push and the Land Is Ours"
+    },
+    {
+      "time": "3:26 am",
+      "artist": "The Smiths",
+      "title": "There Is a Light That Never Goes Out"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 am",
+      "artist": "Elliott Smith",
+      "title": "Punch and Judy",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "3:13 am",
       "artist": "Ed Sheeran",
@@ -167,12 +173,6 @@
       "artist": "Paul Simon",
       "title": "Mother And Child Reunion",
       "album": "Paul Simon • 1972"
-    },
-    {
-      "time": "1:41 am",
-      "artist": "Neil Young",
-      "title": "On the Beach",
-      "album": "On the Beach • 1974"
     }
   ]
 }
