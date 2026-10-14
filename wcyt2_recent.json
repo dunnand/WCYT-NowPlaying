@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T03:44:38",
+  "updatedAt": "2026-10-14T03:49:03",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "All My Life",
-    "album": "One by One • 2002",
+    "artist": "FKA twigs",
+    "title": "Video Girl",
+    "album": "LP1 • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:48 am",
-      "artist": "FKA twigs",
-      "title": "Video Girl"
-    },
     {
       "time": "3:52 am",
       "artist": "Raspberries",
@@ -26,9 +21,20 @@
       "time": "4:00 am",
       "artist": "The Flamingos",
       "title": "I Only Have Eyes for You"
+    },
+    {
+      "time": "4:03 am",
+      "artist": "The Decemberists",
+      "title": "California One / Youth and Beauty Brigade"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "FKA twigs",
+      "title": "Video Girl",
+      "album": "LP1 • 2014"
+    },
     {
       "time": "3:44 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "Strictly Reserved For You",
       "album": "Victim of Love • 2013"
-    },
-    {
-      "time": "2:15 am",
-      "artist": "The Decemberists",
-      "title": "Here I Dreamt I Was an Architect",
-      "album": "Castaways and Cutouts • 2002"
     }
   ]
 }
