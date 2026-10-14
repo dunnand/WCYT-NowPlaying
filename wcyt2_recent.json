@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T13:37:38",
+  "updatedAt": "2026-10-14T13:37:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Adele",
+    "title": "Rumour Has It",
+    "album": "21 • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:37 pm",
-      "artist": "Adele",
-      "title": "Rumour Has It"
-    },
     {
       "time": "1:41 pm",
       "artist": "Matchbox Twenty",
@@ -26,9 +21,20 @@
       "time": "1:47 pm",
       "artist": "The Cure",
       "title": "The Hanging Garden"
+    },
+    {
+      "time": "1:52 pm",
+      "artist": "The Cure",
+      "title": "All Cats Are Grey"
     }
   ],
   "recent": [
+    {
+      "time": "1:37 pm",
+      "artist": "Adele",
+      "title": "Rumour Has It",
+      "album": "21 • 2012"
+    },
     {
       "time": "1:34 pm",
       "artist": "Dinosaur Jr.",
@@ -172,12 +178,6 @@
       "artist": "Styx",
       "title": "Lorelei",
       "album": "Pieces of Eight • 1976"
-    },
-    {
-      "time": "12:01 pm",
-      "artist": "Beyonce",
-      "title": "BREAK MY SOUL",
-      "album": "RENAISSANCE • 2022"
     }
   ]
 }
