@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T00:32:30",
+  "updatedAt": "2026-10-14T00:35:44",
   "now": {
-    "artist": "Three Dog Night",
-    "title": "Shambala",
-    "album": "Cyan • 1973",
+    "artist": "Elvis Presley",
+    "title": "Are You Lonesome Tonight?",
+    "album": "single • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 am",
-      "artist": "Elvis Presley",
-      "title": "Are You Lonesome Tonight?"
-    },
     {
       "time": "12:38 am",
       "artist": "Van Morrison",
@@ -26,9 +21,20 @@
       "time": "12:49 am",
       "artist": "Roberta Flack",
       "title": "Killing Me Softly With His Song"
+    },
+    {
+      "time": "12:54 am",
+      "artist": "Bjork",
+      "title": "Bachelorette"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 am",
+      "artist": "Elvis Presley",
+      "title": "Are You Lonesome Tonight?",
+      "album": "single • 1960"
+    },
     {
       "time": "12:32 am",
       "artist": "Three Dog Night",
@@ -172,12 +178,6 @@
       "artist": "The Flaming Lips",
       "title": "This Here Giraffe",
       "album": "Clouds Taste Metallic • 1995"
-    },
-    {
-      "time": "9:57 pm",
-      "artist": "Extreme",
-      "title": "More Than Words",
-      "album": "Extreme II • 1991"
     }
   ]
 }
