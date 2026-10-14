@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T03:11:14",
+  "updatedAt": "2026-10-14T03:11:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Return To Sender",
+    "album": "Girls! Girls! Girls! • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:11 am",
-      "artist": "Elvis Presley",
-      "title": "Return To Sender"
-    },
     {
       "time": "3:13 am",
       "artist": "Ed Sheeran",
@@ -26,9 +21,20 @@
       "time": "3:20 am",
       "artist": "Pearl Jam",
       "title": "Last Kiss"
+    },
+    {
+      "time": "3:23 am",
+      "artist": "The Smiths",
+      "title": "A Rush and a Push and the Land Is Ours"
     }
   ],
   "recent": [
+    {
+      "time": "3:11 am",
+      "artist": "Elvis Presley",
+      "title": "Return To Sender",
+      "album": "Girls! Girls! Girls! • 1962"
+    },
     {
       "time": "3:07 am",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Hero",
       "album": "Van Weezer • 2021"
-    },
-    {
-      "time": "1:33 am",
-      "artist": "The Smiths",
-      "title": "Well I Wonder",
-      "album": "Meat Is Murder • 1985"
     }
   ]
 }
