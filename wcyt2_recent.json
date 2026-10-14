@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T08:09:56",
+  "updatedAt": "2026-10-14T08:13:40",
   "now": {
-    "artist": "Blur",
-    "title": "Country House",
-    "album": "The Great Escape • 1995",
-    "category": "TUNES"
+    "artist": "Bruce Springsteen",
+    "title": "Streets Of Philadelphia",
+    "album": "Philadelphia Soundtrack • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:13 am",
-      "artist": "Bruce Springsteen",
-      "title": "Streets Of Philadelphia"
-    },
     {
       "time": "8:18 am",
       "artist": "The Cure",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:13 am",
+      "artist": "Bruce Springsteen",
+      "title": "Streets Of Philadelphia",
+      "album": "Philadelphia Soundtrack • 1994"
+    },
     {
       "time": "8:09 am",
       "artist": "Blur",
@@ -172,12 +173,6 @@
       "artist": "Akon",
       "title": "Don't Matter",
       "album": "Konvicted • 2006"
-    },
-    {
-      "time": "6:37 am",
-      "artist": "Eagles",
-      "title": "Take It To The Limit",
-      "album": "One of These Nights • 1975"
     }
   ]
 }
