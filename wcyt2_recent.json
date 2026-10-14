@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T15:36:07",
+  "updatedAt": "2026-10-14T15:39:20",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "The Times They Are A-Changin'",
-    "album": "The Times They Are A-Changin' • 1964",
+    "artist": "Charles Bradley featuring Menahan Street Band",
+    "title": "I Feel a Change",
+    "album": "Black Velvet • 2018",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:39 pm",
-      "artist": "Charles Bradley featuring Menahan Street Band",
-      "title": "I Feel a Change"
-    },
     {
       "time": "3:43 pm",
       "artist": "Supergrass",
@@ -21,9 +16,20 @@
       "time": "3:48 pm",
       "artist": "The Chemical Brothers",
       "title": "Setting Sun"
+    },
+    {
+      "time": "3:53 pm",
+      "artist": "The Cure",
+      "title": "Close to Me"
     }
   ],
   "recent": [
+    {
+      "time": "3:39 pm",
+      "artist": "Charles Bradley featuring Menahan Street Band",
+      "title": "I Feel a Change",
+      "album": "Black Velvet • 2018"
+    },
     {
       "time": "3:36 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Wings",
       "title": "Let 'Em In",
       "album": "Wings at the Speed of Sound • 1976"
-    },
-    {
-      "time": "1:57 pm",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame",
-      "album": "Medicine at Midnight • 2021"
     }
   ]
 }
