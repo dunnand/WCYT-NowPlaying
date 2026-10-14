@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T02:44:19",
+  "updatedAt": "2026-10-14T02:48:03",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Brown Sugar",
-    "album": "Sticky Fingers • 1971",
+    "artist": "Bob Dylan",
+    "title": "Don't Think Twice, It's All Right",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:48 am",
-      "artist": "Bob Dylan",
-      "title": "Don't Think Twice, It's All Right"
-    },
     {
       "time": "2:51 am",
       "artist": "Stevie Wonder",
@@ -26,9 +21,20 @@
       "time": "2:58 am",
       "artist": "T. Rex",
       "title": "Ride a White Swan"
+    },
+    {
+      "time": "3:00 am",
+      "artist": "U2",
+      "title": "Who's Gonna Ride Your Wild Horses"
     }
   ],
   "recent": [
+    {
+      "time": "2:48 am",
+      "artist": "Bob Dylan",
+      "title": "Don't Think Twice, It's All Right",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "2:44 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Wake Up",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "12:59 am",
-      "artist": "Chuck Berry",
-      "title": "Johnny B. Goode",
-      "album": "Berry Is on Top • 1959"
     }
   ]
 }
