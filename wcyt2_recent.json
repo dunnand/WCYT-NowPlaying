@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T03:40:12",
+  "updatedAt": "2026-10-14T03:44:38",
   "now": {
-    "artist": "David Bowie",
-    "title": "Rebel Rebel",
-    "album": "Diamond Dogs • 1974",
+    "artist": "Foo Fighters",
+    "title": "All My Life",
+    "album": "One by One • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "Foo Fighters",
-      "title": "All My Life"
-    },
     {
       "time": "3:48 am",
       "artist": "FKA twigs",
@@ -26,9 +21,20 @@
       "time": "3:56 am",
       "artist": "The Smashing Pumpkins",
       "title": "1979"
+    },
+    {
+      "time": "4:00 am",
+      "artist": "The Flamingos",
+      "title": "I Only Have Eyes for You"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "Foo Fighters",
+      "title": "All My Life",
+      "album": "One by One • 2002"
+    },
     {
       "time": "3:40 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Here I Dreamt I Was an Architect",
       "album": "Castaways and Cutouts • 2002"
-    },
-    {
-      "time": "2:10 am",
-      "artist": "Coldplay",
-      "title": "Clocks",
-      "album": "A Rush of Blood to the Head • 2002"
     }
   ]
 }
