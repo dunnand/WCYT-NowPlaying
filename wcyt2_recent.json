@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T00:38:49",
+  "updatedAt": "2026-10-14T00:39:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Van Morrison",
+    "title": "Wild Night",
+    "album": "Tupelo Honey • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 am",
-      "artist": "Van Morrison",
-      "title": "Wild Night"
-    },
     {
       "time": "12:42 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "12:54 am",
       "artist": "Bjork",
       "title": "Bachelorette"
+    },
+    {
+      "time": "12:59 am",
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode"
     }
   ],
   "recent": [
+    {
+      "time": "12:39 am",
+      "artist": "Van Morrison",
+      "title": "Wild Night",
+      "album": "Tupelo Honey • 1971"
+    },
     {
       "time": "12:35 am",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "The Smiths",
       "title": "I Know It's Over",
       "album": "The Queen is Dead • 1986"
-    },
-    {
-      "time": "10:00 pm",
-      "artist": "The Flaming Lips",
-      "title": "This Here Giraffe",
-      "album": "Clouds Taste Metallic • 1995"
     }
   ]
 }
