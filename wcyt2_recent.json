@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T20:34:06",
+  "updatedAt": "2026-10-13T20:37:31",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Tom Courtenay",
-    "album": "Electropura • 1995",
-    "category": "TUNES"
+    "artist": "B.O.B.",
+    "title": "So Good",
+    "album": "Strange Clouds • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:37 pm",
-      "artist": "B.O.B.",
-      "title": "So Good"
-    },
     {
       "time": "8:41 pm",
       "artist": "Deftones",
@@ -21,9 +16,20 @@
       "time": "8:46 pm",
       "artist": "Phil Collins",
       "title": "Do You Remember?"
+    },
+    {
+      "time": "8:50 pm",
+      "artist": "Frankie Lymon & The Teenagers",
+      "title": "Why Do Fools Fall In Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:37 pm",
+      "artist": "B.O.B.",
+      "title": "So Good",
+      "album": "Strange Clouds • 2012"
+    },
     {
       "time": "8:34 pm",
       "artist": "Yo La Tengo",
@@ -167,12 +173,6 @@
       "artist": "The Folk Implosion",
       "title": "Natural One",
       "album": "Kids (soundtrack) • 1995"
-    },
-    {
-      "time": "7:08 pm",
-      "artist": "Radiohead",
-      "title": "Electioneering",
-      "album": "OK Computer • 1997"
     }
   ]
 }
