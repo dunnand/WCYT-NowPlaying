@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T10:31:19",
+  "updatedAt": "2026-10-14T10:34:34",
   "now": {
-    "artist": "Alexandra Stan",
-    "title": "Mr. Saxobeat",
-    "album": "Saxobeats • 2011",
+    "artist": "Eric Clapton",
+    "title": "Tears In Heaven",
+    "album": "Rush {soundtrack} • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:34 am",
-      "artist": "Eric Clapton",
-      "title": "Tears In Heaven"
-    },
     {
       "time": "10:38 am",
       "artist": "Erykah Badu",
@@ -26,9 +21,20 @@
       "time": "10:49 am",
       "artist": "The Cure",
       "title": "The Figurehead"
+    },
+    {
+      "time": "10:55 am",
+      "artist": "Neil Young",
+      "title": "Shut It Down 2020"
     }
   ],
   "recent": [
+    {
+      "time": "10:34 am",
+      "artist": "Eric Clapton",
+      "title": "Tears In Heaven",
+      "album": "Rush {soundtrack} • 1992"
+    },
     {
       "time": "10:31 am",
       "artist": "Alexandra Stan",
@@ -172,12 +178,6 @@
       "artist": "Funkadelic",
       "title": "Maggot Brain",
       "album": "Maggot Brain • 1971"
-    },
-    {
-      "time": "8:39 am",
-      "artist": "Elvis Presley",
-      "title": "Moody Blue",
-      "album": "Moody Blue • 1977"
     }
   ]
 }
