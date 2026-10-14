@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T02:43:59",
+  "updatedAt": "2026-10-14T02:44:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Brown Sugar",
+    "album": "Sticky Fingers • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:44 am",
-      "artist": "Rolling Stones",
-      "title": "Brown Sugar"
-    },
     {
       "time": "2:48 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "2:55 am",
       "artist": "Bob Dylan",
       "title": "In My Time of Dyin'"
+    },
+    {
+      "time": "2:58 am",
+      "artist": "T. Rex",
+      "title": "Ride a White Swan"
     }
   ],
   "recent": [
+    {
+      "time": "2:44 am",
+      "artist": "Rolling Stones",
+      "title": "Brown Sugar",
+      "album": "Sticky Fingers • 1971"
+    },
     {
       "time": "2:38 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Johnny B. Goode",
       "album": "Berry Is on Top • 1959"
-    },
-    {
-      "time": "12:54 am",
-      "artist": "Bjork",
-      "title": "Bachelorette",
-      "album": "Homogenic • 1997"
     }
   ]
 }
