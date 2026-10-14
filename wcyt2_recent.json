@@ -1,13 +1,35 @@
 {
-  "updatedAt": "2026-10-13T22:48:11",
+  "updatedAt": "2026-10-13T23:58:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "All My Little Words",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
-  "comingUp": [],
+  "comingUp": [
+    {
+      "time": "12:00 am",
+      "artist": "Enrique Iglesias",
+      "title": "I Like it"
+    },
+    {
+      "time": "12:04 am",
+      "artist": "Guided by Voices",
+      "title": "My Kind of Soldier"
+    },
+    {
+      "time": "12:07 am",
+      "artist": "Birdman",
+      "title": "Money To Blow Feat. Lil Wayne & Drake"
+    }
+  ],
   "recent": [
+    {
+      "time": "11:58 pm",
+      "artist": "The Magnetic Fields",
+      "title": "All My Little Words",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "10:43 pm",
       "artist": "Cut Copy",
@@ -151,12 +173,6 @@
       "artist": "Nilsson",
       "title": "Jump Into the Fire",
       "album": "Nilsson Schmilsson • 1971"
-    },
-    {
-      "time": "9:16 pm",
-      "artist": "Beauty Queen",
-      "title": "On Edge",
-      "album": "Single • 2025"
     }
   ]
 }
