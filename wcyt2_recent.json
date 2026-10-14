@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T09:51:48",
+  "updatedAt": "2026-10-14T09:51:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kraftwerk",
+    "title": "Autobahn",
+    "album": "Autobahn • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:51 am",
-      "artist": "Kraftwerk",
-      "title": "Autobahn"
-    },
     {
       "time": "10:04 am",
       "artist": "CSS",
@@ -31,9 +26,20 @@
       "time": "10:16 am",
       "artist": "Eels",
       "title": "Last Stop: This Town"
+    },
+    {
+      "time": "10:19 am",
+      "artist": "Brandi Carlile",
+      "title": "The Joke"
     }
   ],
   "recent": [
+    {
+      "time": "9:51 am",
+      "artist": "Kraftwerk",
+      "title": "Autobahn",
+      "album": "Autobahn • 1974"
+    },
     {
       "time": "9:48 am",
       "artist": "Feist",
@@ -177,12 +183,6 @@
       "artist": "Animal Collective",
       "title": "Grass",
       "album": "Feels • 2005"
-    },
-    {
-      "time": "7:54 am",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music",
-      "album": "One Dozen Berrys • 1958"
     }
   ]
 }
