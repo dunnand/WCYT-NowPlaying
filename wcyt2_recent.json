@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T01:33:44",
+  "updatedAt": "2026-10-14T01:37:31",
   "now": {
-    "artist": "The Smiths",
-    "title": "Well I Wonder",
-    "album": "Meat Is Murder • 1985",
+    "artist": "Weezer",
+    "title": "Hero",
+    "album": "Van Weezer • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:37 am",
-      "artist": "Weezer",
-      "title": "Hero"
-    },
     {
       "time": "1:41 am",
       "artist": "Neil Young",
@@ -21,9 +16,20 @@
       "time": "1:48 am",
       "artist": "Paul Simon",
       "title": "Mother And Child Reunion"
+    },
+    {
+      "time": "1:51 am",
+      "artist": "Arctic Monkeys",
+      "title": "Fluorescent Adolescent"
     }
   ],
   "recent": [
+    {
+      "time": "1:37 am",
+      "artist": "Weezer",
+      "title": "Hero",
+      "album": "Van Weezer • 2021"
+    },
     {
       "time": "1:33 am",
       "artist": "The Smiths",
@@ -167,12 +173,6 @@
       "artist": "The Magnetic Fields",
       "title": "All My Little Words",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "10:43 pm",
-      "artist": "Cut Copy",
-      "title": "Hearts On Fire",
-      "album": "In Ghost Colours • 2008"
     }
   ]
 }
