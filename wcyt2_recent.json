@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T01:41:17",
+  "updatedAt": "2026-10-14T01:41:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "On the Beach",
+    "album": "On the Beach • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:41 am",
-      "artist": "Neil Young",
-      "title": "On the Beach"
-    },
     {
       "time": "1:48 am",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "Chiffons",
       "title": "One Fine Day"
+    },
+    {
+      "time": "1:56 am",
+      "artist": "Rod Stewart",
+      "title": "Maggie May"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 am",
+      "artist": "Neil Young",
+      "title": "On the Beach",
+      "album": "On the Beach • 1974"
+    },
     {
       "time": "1:37 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Enrique Iglesias",
       "title": "I Like it",
       "album": "Euphoria • 2010"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "The Magnetic Fields",
-      "title": "All My Little Words",
-      "album": "69 Love Songs • 1999"
     }
   ]
 }
