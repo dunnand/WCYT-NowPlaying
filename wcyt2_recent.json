@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T00:59:36",
+  "updatedAt": "2026-10-14T00:59:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "album": "Berry Is on Top • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "Chuck Berry",
-      "title": "Johnny B. Goode"
-    },
     {
       "time": "1:02 am",
       "artist": "Arcade Fire",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode",
+      "album": "Berry Is on Top • 1959"
+    },
     {
       "time": "12:54 am",
       "artist": "Bjork",
@@ -172,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "Here Today",
       "album": "Pet Sounds • 1966"
-    },
-    {
-      "time": "10:20 pm",
-      "artist": "Santana",
-      "title": "Black Magic Woman",
-      "album": "Abraxas • 1971"
     }
   ]
 }
