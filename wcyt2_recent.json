@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T08:00:07",
+  "updatedAt": "2026-10-14T08:00:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "St. Stephen",
+    "album": "Aoxomoxoa • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 am",
-      "artist": "Grateful Dead",
-      "title": "St. Stephen"
-    },
     {
       "time": "8:04 am",
       "artist": "Arcade Fire",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:00 am",
+      "artist": "Grateful Dead",
+      "title": "St. Stephen",
+      "album": "Aoxomoxoa • 1969"
+    },
     {
       "time": "7:57 am",
       "artist": "Animal Collective",
@@ -172,12 +173,6 @@
       "artist": "Miley Cyrus",
       "title": "Flowers",
       "album": "Endless Summer Vacation • 2023"
-    },
-    {
-      "time": "6:25 am",
-      "artist": "The Cure",
-      "title": "Primary",
-      "album": "Faith • 1981"
     }
   ]
 }
