@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T04:51:39",
+  "updatedAt": "2026-10-14T04:57:49",
   "now": {
-    "artist": "Elton John",
-    "title": "Tiny Dancer",
-    "album": "Madman Across the Water • 1972",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "In the Aeroplane Over the Sea",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "In the Aeroplane Over the Sea"
-    },
     {
       "time": "5:01 am",
       "artist": "Eddie Cochran",
@@ -26,9 +21,20 @@
       "time": "5:07 am",
       "artist": "Donovan",
       "title": "Sunshine Superman"
+    },
+    {
+      "time": "5:10 am",
+      "artist": "Big Time Rush",
+      "title": "Music Sounds Better With U feat. Mann"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "In the Aeroplane Over the Sea",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "4:51 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Last Kiss",
       "album": "single • 1999"
-    },
-    {
-      "time": "3:17 am",
-      "artist": "Elliott Smith",
-      "title": "Punch and Judy",
-      "album": "Either Or • 1997"
     }
   ]
 }
