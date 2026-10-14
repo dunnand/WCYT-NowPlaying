@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T18:05:34",
+  "updatedAt": "2026-10-14T18:09:00",
   "now": {
-    "artist": "The Cars",
-    "title": "It's All I Can Do",
-    "album": "Candy-O • 1979",
+    "artist": "Cat Stevens",
+    "title": "Another Saturday Night",
+    "album": "Saturnight • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:09 pm",
-      "artist": "Cat Stevens",
-      "title": "Another Saturday Night"
-    },
     {
       "time": "6:11 pm",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "6:16 pm",
       "artist": "Commodores",
       "title": "Still"
+    },
+    {
+      "time": "6:20 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Silver Springs"
     }
   ],
   "recent": [
+    {
+      "time": "6:09 pm",
+      "artist": "Cat Stevens",
+      "title": "Another Saturday Night",
+      "album": "Saturnight • 1974"
+    },
     {
       "time": "6:05 pm",
       "artist": "The Cars",
@@ -172,12 +178,6 @@
       "artist": "Circulatory System",
       "title": "The Lovely Universe",
       "album": "Circulatory System • 2001"
-    },
-    {
-      "time": "4:37 pm",
-      "artist": "Black Pumas",
-      "title": "Colors",
-      "album": "Black Pumas • 2019"
     }
   ]
 }
