@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T15:16:43",
+  "updatedAt": "2026-10-14T15:20:09",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Going to California",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Drifters with Ben E. King",
+    "title": "Save The Last Dance For Me",
+    "album": "Save The Last Dance For Me • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:20 pm",
-      "artist": "Drifters with Ben E. King",
-      "title": "Save The Last Dance For Me"
-    },
     {
       "time": "3:22 pm",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "3:29 pm",
       "artist": "Sam Cooke",
       "title": "Only Sixteen"
+    },
+    {
+      "time": "3:31 pm",
+      "artist": "Broken Social Scene",
+      "title": "Stars and Sons"
     }
   ],
   "recent": [
+    {
+      "time": "3:20 pm",
+      "artist": "Drifters with Ben E. King",
+      "title": "Save The Last Dance For Me",
+      "album": "Save The Last Dance For Me • 1962"
+    },
     {
       "time": "3:16 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Adele",
       "title": "Rumour Has It",
       "album": "21 • 2012"
-    },
-    {
-      "time": "1:34 pm",
-      "artist": "Dinosaur Jr.",
-      "title": "Almost Ready",
-      "album": "Beyond • 2007"
     }
   ]
 }
