@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T04:20:02",
+  "updatedAt": "2026-10-14T04:20:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Zurich Is Stained",
+    "album": "Slanted & Enchanted • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:20 am",
-      "artist": "Pavement",
-      "title": "Zurich Is Stained"
-    },
     {
       "time": "4:21 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "4:31 am",
       "artist": "The Cure",
       "title": "Just Like Heaven"
+    },
+    {
+      "time": "4:34 am",
+      "artist": "John Prine",
+      "title": "I Remember Everything"
     }
   ],
   "recent": [
+    {
+      "time": "4:20 am",
+      "artist": "Pavement",
+      "title": "Zurich Is Stained",
+      "album": "Slanted & Enchanted • 1992"
+    },
     {
       "time": "4:16 am",
       "artist": "Billie Eilish",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Don't Think Twice, It's All Right",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "2:44 am",
-      "artist": "Rolling Stones",
-      "title": "Brown Sugar",
-      "album": "Sticky Fingers • 1971"
     }
   ]
 }
