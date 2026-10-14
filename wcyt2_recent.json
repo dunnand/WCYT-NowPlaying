@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T06:54:20",
+  "updatedAt": "2026-10-14T06:56:33",
   "now": {
-    "artist": "Monotones",
-    "title": "Book Of Love",
-    "album": "Book of Love • 1958",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "The Golden Age",
+    "album": "Sea Change • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:56 am",
-      "artist": "Beck",
-      "title": "The Golden Age"
-    },
     {
       "time": "7:01 am",
       "artist": "James Brown",
@@ -21,9 +16,20 @@
       "time": "7:03 am",
       "artist": "Bill Callahan",
       "title": "Riding for the Feeling"
+    },
+    {
+      "time": "7:09 am",
+      "artist": "Blues Traveler",
+      "title": "Run-Around"
     }
   ],
   "recent": [
+    {
+      "time": "6:56 am",
+      "artist": "Beck",
+      "title": "The Golden Age",
+      "album": "Sea Change • 2002"
+    },
     {
       "time": "6:54 am",
       "artist": "Monotones",
@@ -167,12 +173,6 @@
       "artist": "The Cure",
       "title": "In Between Days",
       "album": "The Head on the Door • 1985"
-    },
-    {
-      "time": "5:22 am",
-      "artist": "The Cure",
-      "title": "Closedown",
-      "album": "Disintegration • 1989"
     }
   ]
 }
