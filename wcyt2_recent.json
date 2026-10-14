@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T22:30:26",
+  "updatedAt": "2026-10-13T22:32:40",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Subterranean Homesick Blues",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Syd Barrett",
+    "title": "Dark Globe",
+    "album": "The Madcap Laughs • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:32 pm",
-      "artist": "Syd Barrett",
-      "title": "Dark Globe"
-    },
     {
       "time": "10:34 pm",
       "artist": "Guided by Voices",
@@ -26,9 +21,20 @@
       "time": "10:40 pm",
       "artist": "The Black Keys",
       "title": "10 A.M. Automatic"
+    },
+    {
+      "time": "10:43 pm",
+      "artist": "Cut Copy",
+      "title": "Hearts On Fire"
     }
   ],
   "recent": [
+    {
+      "time": "10:32 pm",
+      "artist": "Syd Barrett",
+      "title": "Dark Globe",
+      "album": "The Madcap Laughs • 1970"
+    },
     {
       "time": "10:30 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "Have I Told You Lately",
       "album": "Vagabond Heart • 1993"
-    },
-    {
-      "time": "8:59 pm",
-      "artist": "BADBADNOTGOOD",
-      "title": "Time Moves Slow (feat. Sam Herring)",
-      "album": "IV • 2016"
     }
   ]
 }
