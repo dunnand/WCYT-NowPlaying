@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T17:07:33",
+  "updatedAt": "2026-10-14T17:10:39",
   "now": {
-    "artist": "Wild Cherry",
-    "title": "Play That Funky Music",
-    "album": "Wild Cherry • 1976",
+    "artist": "The Beach Boys",
+    "title": "Caroline No",
+    "album": "Pet Sounds • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:10 pm",
-      "artist": "The Beach Boys",
-      "title": "Caroline No"
-    },
     {
       "time": "5:13 pm",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "5:23 pm",
       "artist": "Blondie",
       "title": "Hanging on the Telephone"
+    },
+    {
+      "time": "5:25 pm",
+      "artist": "Collective Soul",
+      "title": "Shine"
     }
   ],
   "recent": [
+    {
+      "time": "5:10 pm",
+      "artist": "The Beach Boys",
+      "title": "Caroline No",
+      "album": "Pet Sounds • 1966"
+    },
     {
       "time": "5:07 pm",
       "artist": "Wild Cherry",
@@ -172,12 +178,6 @@
       "artist": "Broken Social Scene",
       "title": "Stars and Sons",
       "album": "You Forgot it in People • 2002"
-    },
-    {
-      "time": "3:29 pm",
-      "artist": "Sam Cooke",
-      "title": "Only Sixteen",
-      "album": "Hit Kit • 1959"
     }
   ]
 }
