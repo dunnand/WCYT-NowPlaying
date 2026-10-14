@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T17:12:52",
+  "updatedAt": "2026-10-14T17:13:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Feel Flows",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:13 pm",
-      "artist": "The Beach Boys",
-      "title": "Feel Flows"
-    },
     {
       "time": "5:17 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "5:25 pm",
       "artist": "Collective Soul",
       "title": "Shine"
+    },
+    {
+      "time": "5:30 pm",
+      "artist": "Howlin' Wolf",
+      "title": "Smokestack Lightnin'"
     }
   ],
   "recent": [
+    {
+      "time": "5:13 pm",
+      "artist": "The Beach Boys",
+      "title": "Feel Flows",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "5:10 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "The Times They Are A-Changin'",
       "album": "The Times They Are A-Changin' • 1964"
-    },
-    {
-      "time": "3:31 pm",
-      "artist": "Broken Social Scene",
-      "title": "Stars and Sons",
-      "album": "You Forgot it in People • 2002"
     }
   ]
 }
