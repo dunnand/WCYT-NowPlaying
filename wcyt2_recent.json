@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T14:01:21",
+  "updatedAt": "2026-10-14T14:06:27",
   "now": {
-    "artist": "Wings",
-    "title": "Let 'Em In",
-    "album": "Wings at the Speed of Sound • 1976",
+    "artist": "Donovan",
+    "title": "Mellow Yellow",
+    "album": "Mellow Yellow • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:06 pm",
-      "artist": "Donovan",
-      "title": "Mellow Yellow"
-    },
     {
       "time": "2:10 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "2:18 pm",
       "artist": "Pink Floyd",
       "title": "Have a Cigar"
+    },
+    {
+      "time": "2:23 pm",
+      "artist": "Pantera",
+      "title": "Walk"
     }
   ],
   "recent": [
+    {
+      "time": "2:06 pm",
+      "artist": "Donovan",
+      "title": "Mellow Yellow",
+      "album": "Mellow Yellow • 1967"
+    },
     {
       "time": "2:01 pm",
       "artist": "Wings",
@@ -172,12 +178,6 @@
       "artist": "Death Cab for Cutie",
       "title": "Tiny Vessels",
       "album": "Transatlanticism • 2003"
-    },
-    {
-      "time": "12:27 pm",
-      "artist": "Chuck Berry",
-      "title": "Memphis, Tennessee",
-      "album": "single • 1958"
     }
   ]
 }
