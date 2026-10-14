@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T15:16:31",
+  "updatedAt": "2026-10-14T15:16:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Going to California",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:16 pm",
-      "artist": "Led Zeppelin",
-      "title": "Going to California"
-    },
     {
       "time": "3:20 pm",
       "artist": "Drifters with Ben E. King",
@@ -26,9 +21,20 @@
       "time": "3:25 pm",
       "artist": "Suede",
       "title": "Metal Mickey"
+    },
+    {
+      "time": "3:29 pm",
+      "artist": "Sam Cooke",
+      "title": "Only Sixteen"
     }
   ],
   "recent": [
+    {
+      "time": "3:16 pm",
+      "artist": "Led Zeppelin",
+      "title": "Going to California",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "3:14 pm",
       "artist": "Crystals",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Almost Ready",
       "album": "Beyond • 2007"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "Cage The Elephant",
-      "title": "Ain't No Rest for the Wicked",
-      "album": "Cage The Elephant • 2008"
     }
   ]
 }
