@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T00:39:01",
+  "updatedAt": "2026-10-14T00:42:25",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Wild Night",
-    "album": "Tupelo Honey • 1971",
+    "artist": "Bob Dylan",
+    "title": "Visions of Johanna",
+    "album": "Blonde on Blonde • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "Bob Dylan",
-      "title": "Visions of Johanna"
-    },
     {
       "time": "12:49 am",
       "artist": "Roberta Flack",
@@ -26,9 +21,20 @@
       "time": "12:59 am",
       "artist": "Chuck Berry",
       "title": "Johnny B. Goode"
+    },
+    {
+      "time": "1:02 am",
+      "artist": "Arcade Fire",
+      "title": "Wake Up"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "Bob Dylan",
+      "title": "Visions of Johanna",
+      "album": "Blonde on Blonde • 1966"
+    },
     {
       "time": "12:39 am",
       "artist": "Van Morrison",
@@ -171,12 +177,6 @@
       "time": "10:10 pm",
       "artist": "The Smiths",
       "title": "The Queen Is Dead",
-      "album": "The Queen is Dead • 1986"
-    },
-    {
-      "time": "10:04 pm",
-      "artist": "The Smiths",
-      "title": "I Know It's Over",
       "album": "The Queen is Dead • 1986"
     }
   ]
