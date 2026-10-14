@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T21:52:28",
+  "updatedAt": "2026-10-13T21:57:14",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Heroes and Villains",
-    "album": "The Smile Sessions • 2011",
+    "artist": "Extreme",
+    "title": "More Than Words",
+    "album": "Extreme II • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:57 pm",
-      "artist": "Extreme",
-      "title": "More Than Words"
-    },
     {
       "time": "10:00 pm",
       "artist": "The Flaming Lips",
@@ -26,9 +21,20 @@
       "time": "10:10 pm",
       "artist": "The Smiths",
       "title": "The Queen Is Dead"
+    },
+    {
+      "time": "10:16 pm",
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero"
     }
   ],
   "recent": [
+    {
+      "time": "9:57 pm",
+      "artist": "Extreme",
+      "title": "More Than Words",
+      "album": "Extreme II • 1991"
+    },
     {
       "time": "9:52 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Stories",
       "title": "Brother Louie",
       "album": "About Us • 1973"
-    },
-    {
-      "time": "8:27 pm",
-      "artist": "Andy Williams",
-      "title": "Love Theme From \"Romeo And Juliet\"",
-      "album": "Get Together with Andy Williams • 1969"
     }
   ]
 }
