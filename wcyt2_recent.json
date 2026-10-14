@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T14:10:01",
+  "updatedAt": "2026-10-14T14:10:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "The Hissing of Summer Lawns",
+    "album": "The Hissing of Summer Lawns • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 pm",
-      "artist": "Joni Mitchell",
-      "title": "The Hissing of Summer Lawns"
-    },
     {
       "time": "2:13 pm",
       "artist": "B.B. King",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:10 pm",
+      "artist": "Joni Mitchell",
+      "title": "The Hissing of Summer Lawns",
+      "album": "The Hissing of Summer Lawns • 1975"
+    },
     {
       "time": "2:06 pm",
       "artist": "Donovan",
@@ -177,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Oxford Town",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "12:29 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "Tiny Vessels",
-      "album": "Transatlanticism • 2003"
     }
   ]
 }
