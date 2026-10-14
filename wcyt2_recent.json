@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T14:01:09",
+  "updatedAt": "2026-10-14T14:01:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Wings",
+    "title": "Let 'Em In",
+    "album": "Wings at the Speed of Sound • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 pm",
-      "artist": "Wings",
-      "title": "Let 'Em In"
-    },
     {
       "time": "2:06 pm",
       "artist": "Donovan",
@@ -26,9 +21,20 @@
       "time": "2:13 pm",
       "artist": "B.B. King",
       "title": "The Thrill Is Gone"
+    },
+    {
+      "time": "2:18 pm",
+      "artist": "Pink Floyd",
+      "title": "Have a Cigar"
     }
   ],
   "recent": [
+    {
+      "time": "2:01 pm",
+      "artist": "Wings",
+      "title": "Let 'Em In",
+      "album": "Wings at the Speed of Sound • 1976"
+    },
     {
       "time": "1:57 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Memphis, Tennessee",
       "album": "single • 1958"
-    },
-    {
-      "time": "12:24 pm",
-      "artist": "Hole",
-      "title": "Doll Parts",
-      "album": "Live Through This • 1994"
     }
   ]
 }
