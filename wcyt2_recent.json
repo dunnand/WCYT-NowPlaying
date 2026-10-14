@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T08:38:55",
+  "updatedAt": "2026-10-14T08:39:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Moody Blue",
+    "album": "Moody Blue • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:39 am",
-      "artist": "Elvis Presley",
-      "title": "Moody Blue"
-    },
     {
       "time": "8:41 am",
       "artist": "Funkadelic",
@@ -26,9 +21,20 @@
       "time": "8:58 am",
       "artist": "Cromagnon",
       "title": "Caledonia"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "John Lennon",
+      "title": "Imagine"
     }
   ],
   "recent": [
+    {
+      "time": "8:39 am",
+      "artist": "Elvis Presley",
+      "title": "Moody Blue",
+      "album": "Moody Blue • 1977"
+    },
     {
       "time": "8:34 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Monotones",
       "title": "Book Of Love",
       "album": "Book of Love • 1958"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Everclear",
-      "title": "So Much For The Afterglow",
-      "album": "So Much for the Afterglow • 1997"
     }
   ]
 }
