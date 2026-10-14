@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T02:55:55",
+  "updatedAt": "2026-10-14T02:58:31",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "In My Time of Dyin'",
-    "album": "Bob Dylan • 1962",
+    "artist": "T. Rex",
+    "title": "Ride a White Swan",
+    "album": "T. Rex • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:58 am",
-      "artist": "T. Rex",
-      "title": "Ride a White Swan"
-    },
     {
       "time": "3:00 am",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "3:07 am",
       "artist": "Arcade Fire",
       "title": "Une année sans lumière"
+    },
+    {
+      "time": "3:11 am",
+      "artist": "Elvis Presley",
+      "title": "Return To Sender"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 am",
+      "artist": "T. Rex",
+      "title": "Ride a White Swan",
+      "album": "T. Rex • 1970"
+    },
     {
       "time": "2:55 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "CAKE",
       "title": "I Will Survive",
       "album": "Fashion Nugget • 1996"
-    },
-    {
-      "time": "1:12 am",
-      "artist": "David Bowie",
-      "title": "I Can't Give Everything Away",
-      "album": "Blackstar • 2016"
     }
   ]
 }
