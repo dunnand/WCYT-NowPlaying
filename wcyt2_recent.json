@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T19:08:51",
+  "updatedAt": "2026-10-14T19:14:48",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Like a Rolling Stone",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Electric Light Orchestra",
+    "title": "Mr. Blue Sky",
+    "album": "Out of the Blue • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:14 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "Mr. Blue Sky"
-    },
     {
       "time": "7:19 pm",
       "artist": "Pavement",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:14 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Mr. Blue Sky",
+      "album": "Out of the Blue • 1977"
+    },
     {
       "time": "7:08 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Paranoid Android",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "5:40 pm",
-      "artist": "Daft Punk",
-      "title": "Doin' It Right (feat. Panda Bear)",
-      "album": "Random Access Memories • 2013"
     }
   ]
 }
