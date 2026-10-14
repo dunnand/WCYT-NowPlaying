@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T12:33:57",
+  "updatedAt": "2026-10-14T12:34:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Oxford Town",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Bob Dylan",
-      "title": "Oxford Town"
-    },
     {
       "time": "12:35 pm",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "12:43 pm",
       "artist": "Lenny Kravitz",
       "title": "Always on the Run"
+    },
+    {
+      "time": "12:47 pm",
+      "artist": "The Cure",
+      "title": "Plainsong"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Bob Dylan",
+      "title": "Oxford Town",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "12:29 pm",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Neil Young",
       "title": "Shut It Down 2020",
       "album": "Shut It Down 2020 • 2020"
-    },
-    {
-      "time": "10:49 am",
-      "artist": "The Cure",
-      "title": "The Figurehead",
-      "album": "Pornography • 1982"
     }
   ]
 }
