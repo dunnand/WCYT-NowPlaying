@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T08:09:46",
+  "updatedAt": "2026-10-14T08:09:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Country House",
+    "album": "The Great Escape • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:09 am",
-      "artist": "Blur",
-      "title": "Country House"
-    },
     {
       "time": "8:13 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "8:26 am",
       "artist": "The Cure",
       "title": "Lullaby"
+    },
+    {
+      "time": "8:34 am",
+      "artist": "Arctic Monkeys",
+      "title": "Body Paint"
     }
   ],
   "recent": [
+    {
+      "time": "8:09 am",
+      "artist": "Blur",
+      "title": "Country House",
+      "album": "The Great Escape • 1995"
+    },
     {
       "time": "8:04 am",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "Eagles",
       "title": "Take It To The Limit",
       "album": "One of These Nights • 1975"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Boards of Canada",
-      "title": "Music Is Math",
-      "album": "Geogaddi • 2002"
     }
   ]
 }
