@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T00:19:06",
+  "updatedAt": "2026-10-14T00:23:42",
   "now": {
-    "artist": "Beck",
-    "title": "Deadweight",
-    "album": "Odelay • 1996",
-    "category": "TUNES"
+    "artist": "The Smiths",
+    "title": "Some Girls Are Bigger Than Others",
+    "album": "The Queen is Dead • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:23 am",
-      "artist": "The Smiths",
-      "title": "Some Girls Are Bigger Than Others"
-    },
     {
       "time": "12:26 am",
       "artist": "The Smiths",
@@ -21,9 +16,20 @@
       "time": "12:29 am",
       "artist": "Yola",
       "title": "I Don't Wanna Lie"
+    },
+    {
+      "time": "12:32 am",
+      "artist": "Three Dog Night",
+      "title": "Shambala"
     }
   ],
   "recent": [
+    {
+      "time": "12:23 am",
+      "artist": "The Smiths",
+      "title": "Some Girls Are Bigger Than Others",
+      "album": "The Queen is Dead • 1986"
+    },
     {
       "time": "12:19 am",
       "artist": "Beck",
@@ -167,12 +173,6 @@
       "artist": "Dilated Peoples",
       "title": "Worst Comes To Worst",
       "album": "Expansion Team • 2001"
-    },
-    {
-      "time": "9:41 pm",
-      "artist": "David Bowie",
-      "title": "Where Are We Now?",
-      "album": "The Next Day • 2013"
     }
   ]
 }
