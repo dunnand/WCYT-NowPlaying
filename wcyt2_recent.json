@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T16:25:23",
+  "updatedAt": "2026-10-14T16:28:09",
   "now": {
-    "artist": "James Brown",
-    "title": "I Got You (I Feel Good)",
-    "album": "Single • 1965",
+    "artist": "Toto",
+    "title": "Hold The Line",
+    "album": "Toto • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:28 pm",
-      "artist": "Toto",
-      "title": "Hold The Line"
-    },
     {
       "time": "4:31 pm",
       "artist": "The Prodigy",
@@ -26,9 +21,20 @@
       "time": "4:41 pm",
       "artist": "Circulatory System",
       "title": "The Lovely Universe"
+    },
+    {
+      "time": "4:45 pm",
+      "artist": "Coldplay",
+      "title": "Don't Panic"
     }
   ],
   "recent": [
+    {
+      "time": "4:28 pm",
+      "artist": "Toto",
+      "title": "Hold The Line",
+      "album": "Toto • 1978"
+    },
     {
       "time": "4:25 pm",
       "artist": "James Brown",
@@ -172,12 +178,6 @@
       "artist": "Portishead",
       "title": "Wandering Star",
       "album": "Dummy • 1994"
-    },
-    {
-      "time": "2:42 pm",
-      "artist": "The Beach Boys",
-      "title": "Cabin Essence",
-      "album": "The Smile Sessions • 2011"
     }
   ]
 }
