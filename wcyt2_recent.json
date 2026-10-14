@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-13T22:26:09",
+  "updatedAt": "2026-10-13T22:30:26",
   "now": {
-    "artist": "Supertramp",
-    "title": "Take The Long Way Home",
-    "album": "Breakfast in America • 1979",
+    "artist": "Bob Dylan",
+    "title": "Subterranean Homesick Blues",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:30 pm",
-      "artist": "Bob Dylan",
-      "title": "Subterranean Homesick Blues"
-    },
     {
       "time": "10:32 pm",
       "artist": "Syd Barrett",
@@ -23,12 +18,23 @@
       "title": "Jane of the Waking Universe"
     },
     {
-      "time": "10:37 pm",
+      "time": "10:36 pm",
       "artist": "Childish Gambino",
       "title": "Redbone"
+    },
+    {
+      "time": "10:40 pm",
+      "artist": "The Black Keys",
+      "title": "10 A.M. Automatic"
     }
   ],
   "recent": [
+    {
+      "time": "10:30 pm",
+      "artist": "Bob Dylan",
+      "title": "Subterranean Homesick Blues",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "10:26 pm",
       "artist": "Supertramp",
@@ -172,12 +178,6 @@
       "artist": "BADBADNOTGOOD",
       "title": "Time Moves Slow (feat. Sam Herring)",
       "album": "IV • 2016"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "Howlin' Wolf",
-      "title": "Spoonful",
-      "album": "Howlin' Wolf • 1962"
     }
   ]
 }
