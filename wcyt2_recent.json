@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T19:14:48",
+  "updatedAt": "2026-10-14T19:19:45",
   "now": {
-    "artist": "Electric Light Orchestra",
-    "title": "Mr. Blue Sky",
-    "album": "Out of the Blue • 1977",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Elevate Me Later",
+    "album": "Crooked Rain, Crooked Rain • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:19 pm",
-      "artist": "Pavement",
-      "title": "Elevate Me Later"
-    },
     {
       "time": "7:22 pm",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "7:25 pm",
       "artist": "Enrique Iglesias",
       "title": "Hero"
+    },
+    {
+      "time": "7:29 pm",
+      "artist": "The Beach Boys",
+      "title": "Little Honda"
     }
   ],
   "recent": [
+    {
+      "time": "7:19 pm",
+      "artist": "Pavement",
+      "title": "Elevate Me Later",
+      "album": "Crooked Rain, Crooked Rain • 1994"
+    },
     {
       "time": "7:14 pm",
       "artist": "Electric Light Orchestra",
@@ -167,12 +173,6 @@
       "artist": "Annie Lennox",
       "title": "Walking On Broken Glass",
       "album": "Diva • 1992"
-    },
-    {
-      "time": "5:45 pm",
-      "artist": "Radiohead",
-      "title": "Paranoid Android",
-      "album": "OK Computer • 1997"
     }
   ]
 }
