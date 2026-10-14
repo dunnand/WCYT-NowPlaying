@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T12:12:13",
+  "updatedAt": "2026-10-14T12:12:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Talking Heads",
+    "title": "Life During Wartime",
+    "album": "Fear of Music • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 pm",
-      "artist": "Talking Heads",
-      "title": "Life During Wartime"
-    },
     {
       "time": "12:18 pm",
       "artist": "Bee Gees",
@@ -31,9 +26,20 @@
       "time": "12:27 pm",
       "artist": "Chuck Berry",
       "title": "Memphis, Tennessee"
+    },
+    {
+      "time": "12:29 pm",
+      "artist": "Death Cab for Cutie",
+      "title": "Tiny Vessels"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 pm",
+      "artist": "Talking Heads",
+      "title": "Life During Wartime",
+      "album": "Fear of Music • 1979"
+    },
     {
       "time": "12:09 pm",
       "artist": "Bobby Lewis",
@@ -177,12 +183,6 @@
       "artist": "CAKE",
       "title": "Short Skirt/Long Jacket",
       "album": "Comfort Eagle • 2001"
-    },
-    {
-      "time": "10:24 am",
-      "artist": "Bon Iver",
-      "title": "Flume",
-      "album": "For Emma, Forever Ago • 2008"
     }
   ]
 }
