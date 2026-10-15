@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T12:00:27",
+  "updatedAt": "2026-10-15T12:04:32",
   "now": {
-    "artist": "T. Rex",
-    "title": "Jeepster",
-    "album": "Electric Warrior • 1971",
+    "artist": "Diana Ross & The Supremes",
+    "title": "Back In My Arms Again",
+    "album": "More Hits by The Supremes • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 pm",
-      "artist": "Diana Ross & The Supremes",
-      "title": "Back In My Arms Again"
-    },
     {
       "time": "12:07 pm",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "12:15 pm",
       "artist": "The Beatles",
       "title": "One After 909"
+    },
+    {
+      "time": "12:18 pm",
+      "artist": "Dave Matthews Band",
+      "title": "What Would You Say"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 pm",
+      "artist": "Diana Ross & The Supremes",
+      "title": "Back In My Arms Again",
+      "album": "More Hits by The Supremes • 1965"
+    },
     {
       "time": "12:00 pm",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "Dave Matthews Band",
       "title": "The Space Between",
       "album": "Everyday • 2001"
-    },
-    {
-      "time": "10:28 am",
-      "artist": "Maurice Williams & The Zodiacs",
-      "title": "Stay",
-      "album": "Single • 1953"
     }
   ]
 }
