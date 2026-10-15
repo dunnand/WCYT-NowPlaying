@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T03:28:28",
+  "updatedAt": "2026-10-15T03:30:51",
   "now": {
-    "artist": "Happenings",
-    "title": "See You In September",
-    "album": "The Happenings • 1966",
+    "artist": "The Who",
+    "title": "5:15",
+    "album": "Quadrophenia • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "The Who",
-      "title": "5:15"
-    },
     {
       "time": "3:35 am",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "3:43 am",
       "artist": "Amerie",
       "title": "1 Thing"
+    },
+    {
+      "time": "3:47 am",
+      "artist": "Bob Dylan",
+      "title": "Most Likely You Go Your Way and I'll Go Mine"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "The Who",
+      "title": "5:15",
+      "album": "Quadrophenia • 1973"
+    },
     {
       "time": "3:28 am",
       "artist": "Happenings",
@@ -172,12 +178,6 @@
       "artist": "Sebadoh",
       "title": "Skull",
       "album": "Bakesale • 1994"
-    },
-    {
-      "time": "2:02 am",
-      "artist": "Bruno Mars",
-      "title": "Locked Out Of Heaven",
-      "album": "Unorthodox Jukebox • 2012"
     }
   ]
 }
