@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T17:46:43",
+  "updatedAt": "2026-10-15T17:47:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "When the Sun Goes Down",
+    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:47 pm",
-      "artist": "Arctic Monkeys",
-      "title": "When the Sun Goes Down"
-    },
     {
       "time": "5:50 pm",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "5:58 pm",
       "artist": "Belle and Sebastian",
       "title": "Sleep the Clock Around"
+    },
+    {
+      "time": "6:03 pm",
+      "artist": "Boards of Canada",
+      "title": "Roygbiv"
     }
   ],
   "recent": [
+    {
+      "time": "5:47 pm",
+      "artist": "Arctic Monkeys",
+      "title": "When the Sun Goes Down",
+      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
+    },
     {
       "time": "5:42 pm",
       "artist": "Moses Sumney",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Around the World",
       "album": "Homework • 1997"
-    },
-    {
-      "time": "4:02 pm",
-      "artist": "Led Zeppelin",
-      "title": "Achilles Last Stand",
-      "album": "Presence • 1976"
     }
   ]
 }
