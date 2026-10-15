@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T22:18:15",
+  "updatedAt": "2026-10-14T22:21:59",
   "now": {
-    "artist": "Adele",
-    "title": "Rolling In The Deep",
-    "album": "21 • 2010",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Speeding Motorcycle",
+    "album": "Fakebook • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:21 pm",
-      "artist": "Yo La Tengo",
-      "title": "Speeding Motorcycle"
-    },
     {
       "time": "10:25 pm",
       "artist": "Black Crowes",
@@ -21,9 +16,20 @@
       "time": "10:30 pm",
       "artist": "The Replacements",
       "title": "Can't Hardly Wait"
+    },
+    {
+      "time": "10:33 pm",
+      "artist": "Rod Stewart",
+      "title": "Some Guys Have All The Luck"
     }
   ],
   "recent": [
+    {
+      "time": "10:21 pm",
+      "artist": "Yo La Tengo",
+      "title": "Speeding Motorcycle",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "10:18 pm",
       "artist": "Adele",
@@ -167,12 +173,6 @@
       "artist": "The Four Seasons",
       "title": "C'mon Marianne",
       "album": "New Gold Hits • 1967"
-    },
-    {
-      "time": "8:56 pm",
-      "artist": "Sister Sledge",
-      "title": "We Are Family",
-      "album": "We Are Family • 1979"
     }
   ]
 }
