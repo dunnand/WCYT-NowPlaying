@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T04:38:00",
+  "updatedAt": "2026-10-15T04:40:34",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Love Me",
-    "album": "Elvis • 1956",
+    "artist": "Audioslave",
+    "title": "Show Me How to Live",
+    "album": "Audioslave • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:40 am",
-      "artist": "Audioslave",
-      "title": "Show Me How to Live"
-    },
     {
       "time": "4:45 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "4:50 am",
       "artist": "Charles Bradley",
       "title": "Heartaches and Pain"
+    },
+    {
+      "time": "4:52 am",
+      "artist": "Pavement",
+      "title": "Cut Your Hair"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 am",
+      "artist": "Audioslave",
+      "title": "Show Me How to Live",
+      "album": "Audioslave • 2002"
+    },
     {
       "time": "4:38 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Beastie Boys",
       "title": "(You Gotta) Fight For Your Right (To Party!)",
       "album": "Licensed to Ill • 1987"
-    },
-    {
-      "time": "3:06 am",
-      "artist": "Bauhaus",
-      "title": "All We Ever Wanted Was Everything",
-      "album": "The Sky's Gone Out • 1982"
     }
   ]
 }
