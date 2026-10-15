@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T08:44:04",
+  "updatedAt": "2026-10-15T08:48:29",
   "now": {
-    "artist": "Justin Timberlake",
-    "title": "Suit & Tie",
-    "album": "The 20/20 Experience • 2013",
-    "category": "AUDIO"
+    "artist": "Beck",
+    "title": "Mixed Bizness",
+    "album": "Midnite Vultures • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:48 am",
-      "artist": "Beck",
-      "title": "Mixed Bizness"
-    },
     {
       "time": "8:52 am",
       "artist": "Bjork",
@@ -23,12 +18,23 @@
       "title": "Notorious"
     },
     {
-      "time": "9:01 am",
+      "time": "9:00 am",
       "artist": "Elton John",
       "title": "I'm Still Standing"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "Kacey Musgraves",
+      "title": "Jade Green"
     }
   ],
   "recent": [
+    {
+      "time": "8:48 am",
+      "artist": "Beck",
+      "title": "Mixed Bizness",
+      "album": "Midnite Vultures • 1999"
+    },
     {
       "time": "8:44 am",
       "artist": "Justin Timberlake",
@@ -172,12 +178,6 @@
       "artist": "Ramones",
       "title": "Teenage Lobotomy",
       "album": "Rocket to Russia • 1977"
-    },
-    {
-      "time": "7:17 am",
-      "artist": "Dave Matthews",
-      "title": "Save Me",
-      "album": "Some Devil • 2003"
     }
   ]
 }
