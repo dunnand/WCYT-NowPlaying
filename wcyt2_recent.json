@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-10-15T05:40:19",
+  "updatedAt": "2026-10-15T05:42:51",
   "now": {
-    "artist": "ABBA",
-    "title": "Waterloo",
-    "album": "Waterloo • 1974",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Two-Headed Boy",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:42 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Two-Headed Boy"
-    },
     {
       "time": "5:47 am",
       "artist": "The Fleetwoods",
       "title": "Mr. Blue"
     },
     {
-      "time": "5:50 am",
+      "time": "5:49 am",
       "artist": "Audioslave",
       "title": "Like a Stone"
+    },
+    {
+      "time": "5:55 am",
+      "artist": "Connie Stevens",
+      "title": "Sixteen Reasons"
     }
   ],
   "recent": [
+    {
+      "time": "5:42 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Two-Headed Boy",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "5:40 am",
       "artist": "ABBA",
@@ -167,12 +173,6 @@
       "artist": "Cece Peniston",
       "title": "Finally",
       "album": "Finally • 1991"
-    },
-    {
-      "time": "3:54 am",
-      "artist": "George Michael",
-      "title": "Freedom",
-      "album": "Listen Without Prejudice Vol. 1 • 1990"
     }
   ]
 }
