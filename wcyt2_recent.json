@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T01:16:25",
+  "updatedAt": "2026-10-15T01:22:43",
   "now": {
-    "artist": "Oasis",
-    "title": "Slide Away",
-    "album": "Definitely Maybe • 1994",
+    "artist": "Whitney Houston",
+    "title": "So Emotional",
+    "album": "Whitney • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:22 am",
-      "artist": "Whitney Houston",
-      "title": "So Emotional"
-    },
     {
       "time": "1:26 am",
       "artist": "AC/DC",
@@ -21,9 +16,20 @@
       "time": "1:32 am",
       "artist": "Charli XCX",
       "title": "Von dutch"
+    },
+    {
+      "time": "1:34 am",
+      "artist": "Steve Miller Band",
+      "title": "Rock'n Me"
     }
   ],
   "recent": [
+    {
+      "time": "1:22 am",
+      "artist": "Whitney Houston",
+      "title": "So Emotional",
+      "album": "Whitney • 1988"
+    },
     {
       "time": "1:16 am",
       "artist": "Oasis",
@@ -167,12 +173,6 @@
       "artist": "The Flaming Lips",
       "title": "Fight Test",
       "album": "Yoshimi Battles The Pink Robots • 2002"
-    },
-    {
-      "time": "11:48 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Mainstreet",
-      "album": "Night Moves • 1977"
     }
   ]
 }
