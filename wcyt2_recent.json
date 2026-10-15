@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T17:47:15",
+  "updatedAt": "2026-10-15T17:50:23",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "When the Sun Goes Down",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "Coldplay",
+    "title": "Trouble",
+    "album": "Parachutes • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:50 pm",
-      "artist": "Coldplay",
-      "title": "Trouble"
-    },
     {
       "time": "5:55 pm",
       "artist": "Mac DeMarco",
@@ -26,9 +21,20 @@
       "time": "6:03 pm",
       "artist": "Boards of Canada",
       "title": "Roygbiv"
+    },
+    {
+      "time": "6:06 pm",
+      "artist": "John Cougar Mellencamp",
+      "title": "Cherry Bomb"
     }
   ],
   "recent": [
+    {
+      "time": "5:50 pm",
+      "artist": "Coldplay",
+      "title": "Trouble",
+      "album": "Parachutes • 2000"
+    },
     {
       "time": "5:47 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "19.10",
       "album": "3.15.20 • 2020"
-    },
-    {
-      "time": "4:12 pm",
-      "artist": "Daft Punk",
-      "title": "Around the World",
-      "album": "Homework • 1997"
     }
   ]
 }
