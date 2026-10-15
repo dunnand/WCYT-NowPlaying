@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-10-14T22:11:05",
+  "updatedAt": "2026-10-14T22:16:00",
   "now": {
-    "artist": "Coldplay",
-    "title": "Fix You",
-    "album": "X&Y • 2005",
+    "artist": "The Beach Boys",
+    "title": "You're So Good to Me",
+    "album": "Summer Days • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:16 pm",
+      "time": "10:18 pm",
       "artist": "The Beach Boys",
       "title": "You're So Good to Me"
     },
     {
-      "time": "10:18 pm",
+      "time": "10:20 pm",
       "artist": "Adele",
       "title": "Rolling In The Deep"
     },
     {
-      "time": "10:21 pm",
+      "time": "10:24 pm",
       "artist": "Yo La Tengo",
       "title": "Speeding Motorcycle"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "Black Crowes",
+      "title": "She Talks To Angels"
     }
   ],
   "recent": [
+    {
+      "time": "10:16 pm",
+      "artist": "The Beach Boys",
+      "title": "You're So Good to Me",
+      "album": "Summer Days • 1965"
+    },
     {
       "time": "10:11 pm",
       "artist": "Coldplay",
@@ -167,12 +178,6 @@
       "artist": "Billie Eilish",
       "title": "Happier Than Ever",
       "album": "Happier Than Ever • 2021"
-    },
-    {
-      "time": "8:47 pm",
-      "artist": "Lionel Richie",
-      "title": "Deep River Woman feat. Alabama",
-      "album": "Dancing on the Ceiling • 1985"
     }
   ]
 }
