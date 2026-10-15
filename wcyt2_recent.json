@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T09:12:34",
+  "updatedAt": "2026-10-15T09:12:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Crusaders",
+    "title": "Street Life",
+    "album": "Street Life • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 am",
-      "artist": "The Crusaders",
-      "title": "Street Life"
-    },
     {
       "time": "9:17 am",
       "artist": "Brenda Lee",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:12 am",
+      "artist": "The Crusaders",
+      "title": "Street Life",
+      "album": "Street Life • 1979"
+    },
     {
       "time": "9:10 am",
       "artist": "Arthur Conley",
@@ -177,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Wouldn't It Be Nice",
       "album": "Pet Sounds • 1966"
-    },
-    {
-      "time": "7:39 am",
-      "artist": "The Flaming Lips",
-      "title": "Do You Realize??",
-      "album": "Yoshimi Battles The Pink Robots • 2002"
     }
   ]
 }
