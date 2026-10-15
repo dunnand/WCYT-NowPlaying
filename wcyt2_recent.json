@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T04:31:47",
+  "updatedAt": "2026-10-15T04:34:00",
   "now": {
-    "artist": "The Clash",
-    "title": "London's Burning",
-    "album": "The Clash • 1977",
+    "artist": "Radiohead",
+    "title": "(Nice Dream)",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:33 am",
-      "artist": "Radiohead",
-      "title": "(Nice Dream)"
-    },
     {
       "time": "4:37 am",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "4:40 am",
       "artist": "Audioslave",
       "title": "Show Me How to Live"
+    },
+    {
+      "time": "4:45 am",
+      "artist": "Bob Dylan",
+      "title": "I Shall Be Free"
     }
   ],
   "recent": [
+    {
+      "time": "4:34 am",
+      "artist": "Radiohead",
+      "title": "(Nice Dream)",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "4:31 am",
       "artist": "The Clash",
@@ -167,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Big Me",
       "album": "Foo Fighters • 1995"
-    },
-    {
-      "time": "3:00 am",
-      "artist": "Deee-Lite",
-      "title": "Groove Is in the Heart",
-      "album": "World Clique • 1990"
     }
   ]
 }
