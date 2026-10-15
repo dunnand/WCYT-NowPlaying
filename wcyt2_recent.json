@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T14:56:56",
+  "updatedAt": "2026-10-15T15:00:42",
   "now": {
-    "artist": "Counting Crows",
-    "title": "Big Yellow Taxi",
-    "album": "Hard Candy • 2002",
+    "artist": "The Beach Boys",
+    "title": "I'm So Young",
+    "album": "The Beach Boys Today! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:00 pm",
-      "artist": "The Beach Boys",
-      "title": "I'm So Young"
-    },
     {
       "time": "3:03 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "3:14 pm",
       "artist": "Katy Perry",
       "title": "Last Friday Night (TGIF)"
+    },
+    {
+      "time": "3:18 pm",
+      "artist": "Eels",
+      "title": "I Like Birds"
     }
   ],
   "recent": [
+    {
+      "time": "3:00 pm",
+      "artist": "The Beach Boys",
+      "title": "I'm So Young",
+      "album": "The Beach Boys Today! • 1965"
+    },
     {
       "time": "2:56 pm",
       "artist": "Counting Crows",
@@ -172,12 +178,6 @@
       "artist": "Little Willie John",
       "title": "Fever",
       "album": "single • 1956"
-    },
-    {
-      "time": "1:18 pm",
-      "artist": "Janet Jackson",
-      "title": "Love Will Never Do Without You",
-      "album": "Janet Jackson's Rhythm Nation 1814 • 1990"
     }
   ]
 }
