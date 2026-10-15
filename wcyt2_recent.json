@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T16:02:28",
+  "updatedAt": "2026-10-15T16:12:40",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Achilles Last Stand",
-    "album": "Presence • 1976",
+    "artist": "Daft Punk",
+    "title": "Around the World",
+    "album": "Homework • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:12 pm",
-      "artist": "Daft Punk",
-      "title": "Around the World"
-    },
     {
       "time": "4:19 pm",
       "artist": "Childish Gambino",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:12 pm",
+      "artist": "Daft Punk",
+      "title": "Around the World",
+      "album": "Homework • 1997"
+    },
     {
       "time": "4:02 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +173,6 @@
       "artist": "Cat Power",
       "title": "Lived in Bars",
       "album": "The Greatest • 2006"
-    },
-    {
-      "time": "2:25 pm",
-      "artist": "Avril Lavigne",
-      "title": "Complicated",
-      "album": "Let Go • 2002"
     }
   ]
 }
