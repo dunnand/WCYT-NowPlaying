@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T15:18:02",
+  "updatedAt": "2026-10-15T15:18:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "I Like Birds",
+    "album": "Daisies of the Galaxy • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:18 pm",
-      "artist": "Eels",
-      "title": "I Like Birds"
-    },
     {
       "time": "3:20 pm",
       "artist": "The Black Keys",
@@ -26,9 +21,20 @@
       "time": "3:28 pm",
       "artist": "Bush",
       "title": "Glycerine"
+    },
+    {
+      "time": "3:32 pm",
+      "artist": "Counting Crows",
+      "title": "Mr. Jones"
     }
   ],
   "recent": [
+    {
+      "time": "3:18 pm",
+      "artist": "Eels",
+      "title": "I Like Birds",
+      "album": "Daisies of the Galaxy • 2000"
+    },
     {
       "time": "3:14 pm",
       "artist": "Katy Perry",
@@ -172,12 +178,6 @@
       "artist": "Mazzy Star",
       "title": "Fade Into You",
       "album": "So Tonight That I Might See • 1993"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "J Cole",
-      "title": "Work Out",
-      "album": "Cole World: The Sideline Story • 2011"
     }
   ]
 }
