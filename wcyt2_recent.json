@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T05:08:40",
+  "updatedAt": "2026-10-15T05:14:49",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Jokerman",
-    "album": "Infidels • 1983",
+    "artist": "Chappell Roan",
+    "title": "Pink Pony Club",
+    "album": "The Rise and Fall of a Midwest Princess • 2024",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:14 am",
-      "artist": "Chappell Roan",
-      "title": "Pink Pony Club"
-    },
     {
       "time": "5:19 am",
       "artist": "The Trammps",
@@ -21,9 +16,20 @@
       "time": "5:29 am",
       "artist": "The Brothers Johnson",
       "title": "Strawberry Letter 23"
+    },
+    {
+      "time": "5:34 am",
+      "artist": "Elliott Smith",
+      "title": "Son of Sam"
     }
   ],
   "recent": [
+    {
+      "time": "5:14 am",
+      "artist": "Chappell Roan",
+      "title": "Pink Pony Club",
+      "album": "The Rise and Fall of a Midwest Princess • 2024"
+    },
     {
       "time": "5:08 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Madonna",
       "title": "Frozen",
       "album": "Ray of Light • 1998"
-    },
-    {
-      "time": "3:30 am",
-      "artist": "The Who",
-      "title": "5:15",
-      "album": "Quadrophenia • 1973"
     }
   ]
 }
