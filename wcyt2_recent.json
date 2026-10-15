@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T12:00:16",
+  "updatedAt": "2026-10-15T12:00:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "T. Rex",
+    "title": "Jeepster",
+    "album": "Electric Warrior • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 pm",
-      "artist": "T. Rex",
-      "title": "Jeepster"
-    },
     {
       "time": "12:04 pm",
       "artist": "Diana Ross & The Supremes",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Bob Dylan",
       "title": "Girl From the North Country"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "The Beatles",
+      "title": "One After 909"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 pm",
+      "artist": "T. Rex",
+      "title": "Jeepster",
+      "album": "Electric Warrior • 1971"
+    },
     {
       "time": "11:58 am",
       "artist": "Minako Hamano",
@@ -172,12 +178,6 @@
       "artist": "Maurice Williams & The Zodiacs",
       "title": "Stay",
       "album": "Single • 1953"
-    },
-    {
-      "time": "10:26 am",
-      "artist": "Stone Temple Pilots",
-      "title": "Unglued",
-      "album": "Purple • 1994"
     }
   ]
 }
