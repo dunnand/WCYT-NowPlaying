@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T10:05:14",
+  "updatedAt": "2026-10-15T10:10:41",
   "now": {
-    "artist": "Neil Young",
-    "title": "Southern Man",
-    "album": "After the Gold Rush • 1970",
+    "artist": "Bob Dylan",
+    "title": "Boots of Spanish Leather",
+    "album": "The Times They Are A-Changin • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 am",
-      "artist": "Bob Dylan",
-      "title": "Boots of Spanish Leather"
-    },
     {
       "time": "10:15 am",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "10:22 am",
       "artist": "Rod Stewart",
       "title": "Tonight's The Night (Gonna Be Alright)"
+    },
+    {
+      "time": "10:26 am",
+      "artist": "Stone Temple Pilots",
+      "title": "Unglued"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 am",
+      "artist": "Bob Dylan",
+      "title": "Boots of Spanish Leather",
+      "album": "The Times They Are A-Changin • 1964"
+    },
     {
       "time": "10:05 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "Alanis Morissette",
       "title": "Hands Clean",
       "album": "Under Rug Swept • 2002"
-    },
-    {
-      "time": "8:31 am",
-      "artist": "Frank Ocean",
-      "title": "White Ferrari",
-      "album": "Blonde • 2016"
     }
   ]
 }
