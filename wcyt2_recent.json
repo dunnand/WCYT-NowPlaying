@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T11:08:12",
+  "updatedAt": "2026-10-15T11:08:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Shattered",
+    "album": "Some Girls • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:08 am",
-      "artist": "Rolling Stones",
-      "title": "Shattered"
-    },
     {
       "time": "11:11 am",
       "artist": "Fatboy Slim",
@@ -31,9 +26,20 @@
       "time": "11:23 am",
       "artist": "Alanis Morissette",
       "title": "Uninvited"
+    },
+    {
+      "time": "11:27 am",
+      "artist": "Paul McCartney",
+      "title": "New"
     }
   ],
   "recent": [
+    {
+      "time": "11:08 am",
+      "artist": "Rolling Stones",
+      "title": "Shattered",
+      "album": "Some Girls • 1978"
+    },
     {
       "time": "11:03 am",
       "artist": "The Decemberists",
@@ -177,12 +183,6 @@
       "artist": "Fray",
       "title": "Over My Head (Cable Car)",
       "album": "How to Save a Life • 2004"
-    },
-    {
-      "time": "9:28 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Bright Horses",
-      "album": "Ghosteen • 2019"
     }
   ]
 }
