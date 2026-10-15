@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T23:01:26",
+  "updatedAt": "2026-10-14T23:03:59",
   "now": {
-    "artist": "The Magnetic Fields",
-    "title": "The Book of Love",
-    "album": "69 Love Songs • 1999",
-    "category": "TUNES"
+    "artist": "Ray Charles",
+    "title": "I Got a Woman",
+    "album": "single • 1954",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:03 pm",
-      "artist": "Ray Charles",
-      "title": "I Got a Woman"
-    },
     {
       "time": "11:06 pm",
       "artist": "The Black Keys",
@@ -26,9 +21,20 @@
       "time": "11:14 pm",
       "artist": "A Tribe Called Quest",
       "title": "The Space Program"
+    },
+    {
+      "time": "11:20 pm",
+      "artist": "Boyz II Men",
+      "title": "End Of The Road"
     }
   ],
   "recent": [
+    {
+      "time": "11:03 pm",
+      "artist": "Ray Charles",
+      "title": "I Got a Woman",
+      "album": "single • 1954"
+    },
     {
       "time": "11:01 pm",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "Meat Puppets",
       "title": "Swimming Ground",
       "album": "Up on the Sun • 1985"
-    },
-    {
-      "time": "9:31 pm",
-      "artist": "Sonic Youth",
-      "title": "Bull in the Heather",
-      "album": "Experimental Jet Set, Trash and No Star • 1994"
     }
   ]
 }
