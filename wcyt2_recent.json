@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-14T22:57:42",
+  "updatedAt": "2026-10-14T23:01:26",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Honesty",
-    "album": "52nd Street • 1978",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "The Book of Love",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "11:01 pm",
-      "artist": "The Magnetic Fields",
-      "title": "The Book of Love"
-    },
-    {
-      "time": "11:04 pm",
+      "time": "11:03 pm",
       "artist": "Ray Charles",
       "title": "I Got a Woman"
     },
@@ -26,9 +21,20 @@
       "time": "11:12 pm",
       "artist": "The Everly Brothers",
       "title": "When Will I Be Loved"
+    },
+    {
+      "time": "11:14 pm",
+      "artist": "A Tribe Called Quest",
+      "title": "The Space Program"
     }
   ],
   "recent": [
+    {
+      "time": "11:01 pm",
+      "artist": "The Magnetic Fields",
+      "title": "The Book of Love",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "10:57 pm",
       "artist": "Billy Joel",
@@ -172,12 +178,6 @@
       "artist": "Sonic Youth",
       "title": "Bull in the Heather",
       "album": "Experimental Jet Set, Trash and No Star • 1994"
-    },
-    {
-      "time": "9:28 pm",
-      "artist": "Sleater-Kinney",
-      "title": "Good Things",
-      "album": "Call The Doctor • 1996"
     }
   ]
 }
