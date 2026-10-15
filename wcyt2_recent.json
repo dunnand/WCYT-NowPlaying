@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T12:15:08",
+  "updatedAt": "2026-10-15T12:17:41",
   "now": {
-    "artist": "The Beatles",
-    "title": "One After 909",
-    "album": "Let It Be • 1970",
+    "artist": "Dave Matthews Band",
+    "title": "What Would You Say",
+    "album": "Under The Table And Dreaming • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 pm",
-      "artist": "Dave Matthews Band",
-      "title": "What Would You Say"
-    },
     {
       "time": "12:21 pm",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "12:24 pm",
       "artist": "Arctic Monkeys",
       "title": "I Bet You Look Good On The Dance Floor"
+    },
+    {
+      "time": "12:27 pm",
+      "artist": "Bob Dylan",
+      "title": "Sad-Eyed Lady of the Lowlands"
     }
   ],
   "recent": [
+    {
+      "time": "12:17 pm",
+      "artist": "Dave Matthews Band",
+      "title": "What Would You Say",
+      "album": "Under The Table And Dreaming • 1994"
+    },
     {
       "time": "12:15 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "U2",
       "title": "So Cruel",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "10:39 am",
-      "artist": "Superchunk",
-      "title": "The First Part",
-      "album": "Foolish • 1994"
     }
   ]
 }
