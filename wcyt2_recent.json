@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T04:52:42",
+  "updatedAt": "2026-10-15T04:52:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Cut Your Hair",
+    "album": "Crooked Rain, Crooked Rain • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:52 am",
-      "artist": "Pavement",
-      "title": "Cut Your Hair"
-    },
     {
       "time": "4:55 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "5:08 am",
       "artist": "Bob Dylan",
       "title": "Jokerman"
+    },
+    {
+      "time": "5:14 am",
+      "artist": "Chappell Roan",
+      "title": "Pink Pony Club"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 am",
+      "artist": "Pavement",
+      "title": "Cut Your Hair",
+      "album": "Crooked Rain, Crooked Rain • 1994"
+    },
     {
       "time": "4:50 am",
       "artist": "Charles Bradley",
@@ -172,12 +178,6 @@
       "artist": "Del Shannon",
       "title": "Hats Off To Larry",
       "album": "Hats Off to Del Shannon • 1962"
-    },
-    {
-      "time": "3:17 am",
-      "artist": "Doobie Brothers",
-      "title": "Black Water",
-      "album": "What Were Once Vices Are Now Habits • 1974"
     }
   ]
 }
