@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T04:27:53",
+  "updatedAt": "2026-10-15T04:31:47",
   "now": {
-    "artist": "Beach House",
-    "title": "Norway",
-    "album": "Teen Dream • 2010",
-    "category": "TUNES"
+    "artist": "The Clash",
+    "title": "London's Burning",
+    "album": "The Clash • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:31 am",
-      "artist": "The Clash",
-      "title": "London's Burning"
-    },
     {
       "time": "4:33 am",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:31 am",
+      "artist": "The Clash",
+      "title": "London's Burning",
+      "album": "The Clash • 1977"
+    },
     {
       "time": "4:27 am",
       "artist": "Beach House",
@@ -172,12 +173,6 @@
       "artist": "Deee-Lite",
       "title": "Groove Is in the Heart",
       "album": "World Clique • 1990"
-    },
-    {
-      "time": "2:57 am",
-      "artist": "Crystal Castles",
-      "title": "Not In Love",
-      "album": "• 2010"
     }
   ]
 }
