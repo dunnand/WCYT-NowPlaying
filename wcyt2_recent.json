@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T01:08:15",
+  "updatedAt": "2026-10-15T01:08:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Beyonce",
+    "title": "Formation",
+    "album": "Lemonade • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:08 am",
-      "artist": "Beyonce",
-      "title": "Formation"
-    },
     {
       "time": "1:11 am",
       "artist": "Nirvana",
@@ -26,9 +21,20 @@
       "time": "1:22 am",
       "artist": "Whitney Houston",
       "title": "So Emotional"
+    },
+    {
+      "time": "1:26 am",
+      "artist": "AC/DC",
+      "title": "Shoot to Thrill"
     }
   ],
   "recent": [
+    {
+      "time": "1:08 am",
+      "artist": "Beyonce",
+      "title": "Formation",
+      "album": "Lemonade • 2016"
+    },
     {
       "time": "1:04 am",
       "artist": "Camera Obscura",
@@ -172,12 +178,6 @@
       "artist": "Billie Eilish",
       "title": "LUNCH",
       "album": "Hit Me Hard and Soft • 2024"
-    },
-    {
-      "time": "11:37 pm",
-      "artist": "The Fall",
-      "title": "Cruiser's Creek",
-      "album": "single • 1985"
     }
   ]
 }
