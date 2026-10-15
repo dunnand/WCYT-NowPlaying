@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T09:48:31",
+  "updatedAt": "2026-10-15T09:53:06",
   "now": {
-    "artist": "Red Hot Chili Peppers",
-    "title": "Give It Away",
-    "album": "Blood Sugar Sex Magik • 1991",
+    "artist": "Elvis Costello & The Attractions",
+    "title": "I Hope You're Happy Now",
+    "album": "Blood & Chocolates • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:53 am",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "I Hope You're Happy Now"
-    },
     {
       "time": "9:56 am",
       "artist": "EPMD",
@@ -21,9 +16,20 @@
       "time": "10:01 am",
       "artist": "Beyonce",
       "title": "BODYGUARD"
+    },
+    {
+      "time": "10:05 am",
+      "artist": "Neil Young",
+      "title": "Southern Man"
     }
   ],
   "recent": [
+    {
+      "time": "9:53 am",
+      "artist": "Elvis Costello & The Attractions",
+      "title": "I Hope You're Happy Now",
+      "album": "Blood & Chocolates • 1986"
+    },
     {
       "time": "9:48 am",
       "artist": "Red Hot Chili Peppers",
@@ -167,12 +173,6 @@
       "artist": "Coldplay",
       "title": "A Sky Full of Stars",
       "album": "Ghost Stories • 2014"
-    },
-    {
-      "time": "8:16 am",
-      "artist": "Daft Punk",
-      "title": "Harder, Better, Faster, Stronger",
-      "album": "Discovery • 2001"
     }
   ]
 }
