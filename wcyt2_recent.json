@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T03:17:00",
+  "updatedAt": "2026-10-15T03:21:16",
   "now": {
-    "artist": "Doobie Brothers",
-    "title": "Black Water",
-    "album": "What Were Once Vices Are Now Habits • 1974",
+    "artist": "Del Shannon",
+    "title": "Hats Off To Larry",
+    "album": "Hats Off to Del Shannon • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:21 am",
-      "artist": "Del Shannon",
-      "title": "Hats Off To Larry"
-    },
     {
       "time": "3:23 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "3:30 am",
       "artist": "The Who",
       "title": "5:15"
+    },
+    {
+      "time": "3:35 am",
+      "artist": "Madonna",
+      "title": "Frozen"
     }
   ],
   "recent": [
+    {
+      "time": "3:21 am",
+      "artist": "Del Shannon",
+      "title": "Hats Off To Larry",
+      "album": "Hats Off to Del Shannon • 1962"
+    },
     {
       "time": "3:17 am",
       "artist": "Doobie Brothers",
@@ -172,12 +178,6 @@
       "artist": "Death Cab For Cutie",
       "title": "Company Calls",
       "album": "We Have the Facts and We're Voting Yes • 2000"
-    },
-    {
-      "time": "1:53 am",
-      "artist": "Ray Charles",
-      "title": "Mess Around",
-      "album": "single • 1953"
     }
   ]
 }
