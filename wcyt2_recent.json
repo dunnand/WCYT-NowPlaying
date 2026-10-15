@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T11:23:19",
+  "updatedAt": "2026-10-15T11:27:37",
   "now": {
-    "artist": "Alanis Morissette",
-    "title": "Uninvited",
-    "album": "City of Angels: Music from the Motion Picture • 1998",
+    "artist": "Paul McCartney",
+    "title": "New",
+    "album": "New • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:27 am",
-      "artist": "Paul McCartney",
-      "title": "New"
-    },
     {
       "time": "11:30 am",
       "artist": "Camera Obscura",
@@ -21,9 +16,20 @@
       "time": "11:33 am",
       "artist": "Daft Punk",
       "title": "Something About Us"
+    },
+    {
+      "time": "11:37 am",
+      "artist": "Justin Bieber",
+      "title": "Sorry"
     }
   ],
   "recent": [
+    {
+      "time": "11:27 am",
+      "artist": "Paul McCartney",
+      "title": "New",
+      "album": "New • 2013"
+    },
     {
       "time": "11:23 am",
       "artist": "Alanis Morissette",
@@ -167,12 +173,6 @@
       "artist": "Elvis Costello & The Attractions",
       "title": "I Hope You're Happy Now",
       "album": "Blood & Chocolates • 1986"
-    },
-    {
-      "time": "9:48 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Give It Away",
-      "album": "Blood Sugar Sex Magik • 1991"
     }
   ]
 }
