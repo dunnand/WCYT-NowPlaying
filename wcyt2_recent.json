@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T10:05:03",
+  "updatedAt": "2026-10-15T10:05:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Southern Man",
+    "album": "After the Gold Rush • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 am",
-      "artist": "Neil Young",
-      "title": "Southern Man"
-    },
     {
       "time": "10:10 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "10:20 am",
       "artist": "Donovan",
       "title": "Sunny Goodge Street"
+    },
+    {
+      "time": "10:22 am",
+      "artist": "Rod Stewart",
+      "title": "Tonight's The Night (Gonna Be Alright)"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 am",
+      "artist": "Neil Young",
+      "title": "Southern Man",
+      "album": "After the Gold Rush • 1970"
+    },
     {
       "time": "10:01 am",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Frank Ocean",
       "title": "White Ferrari",
       "album": "Blonde • 2016"
-    },
-    {
-      "time": "8:27 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Excursions",
-      "album": "The Low End Theory • 1991"
     }
   ]
 }
