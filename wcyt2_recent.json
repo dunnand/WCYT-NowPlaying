@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T05:02:02",
+  "updatedAt": "2026-10-15T05:02:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Blondie",
+    "title": "Rapture",
+    "album": "Autoamerican • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:02 am",
-      "artist": "Blondie",
-      "title": "Rapture"
-    },
     {
       "time": "5:08 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "5:19 am",
       "artist": "The Trammps",
       "title": "Disco Inferno"
+    },
+    {
+      "time": "5:30 am",
+      "artist": "The Brothers Johnson",
+      "title": "Strawberry Letter 23"
     }
   ],
   "recent": [
+    {
+      "time": "5:02 am",
+      "artist": "Blondie",
+      "title": "Rapture",
+      "album": "Autoamerican • 1980"
+    },
     {
       "time": "4:55 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Happenings",
       "title": "See You In September",
       "album": "The Happenings • 1966"
-    },
-    {
-      "time": "3:23 am",
-      "artist": "John Prine",
-      "title": "The Great Compromise",
-      "album": "Diamonds in the Rough • 1972"
     }
   ]
 }
