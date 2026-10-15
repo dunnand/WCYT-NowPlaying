@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T07:59:30",
+  "updatedAt": "2026-10-15T07:59:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Cure",
+    "title": "Close to Me",
+    "album": "The Head on the Door • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:59 am",
-      "artist": "The Cure",
-      "title": "Close to Me"
-    },
     {
       "time": "8:03 am",
       "artist": "Samia",
@@ -26,9 +21,20 @@
       "time": "8:10 am",
       "artist": "Beach House",
       "title": "Become"
+    },
+    {
+      "time": "8:16 am",
+      "artist": "Radiohead",
+      "title": "Sail to the Moon. (Brush the Cobwebs Out of the Sky.)"
     }
   ],
   "recent": [
+    {
+      "time": "7:59 am",
+      "artist": "The Cure",
+      "title": "Close to Me",
+      "album": "The Head on the Door • 1985"
+    },
     {
       "time": "7:56 am",
       "artist": "Swapmeet",
@@ -172,12 +178,6 @@
       "artist": "Jessie Ware",
       "title": "Spotlight",
       "album": "What's Your Pleasure? • 2020"
-    },
-    {
-      "time": "6:15 am",
-      "artist": "Westside Cowboy",
-      "title": "Kick Stones (The Boys)",
-      "album": "It Goes On • 2026"
     }
   ]
 }
