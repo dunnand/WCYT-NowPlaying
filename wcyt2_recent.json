@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T22:21:59",
+  "updatedAt": "2026-10-14T22:25:16",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Speeding Motorcycle",
-    "album": "Fakebook • 1990",
-    "category": "TUNES"
+    "artist": "Black Crowes",
+    "title": "She Talks To Angels",
+    "album": "Shake Your Money Maker • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 pm",
-      "artist": "Black Crowes",
-      "title": "She Talks To Angels"
-    },
     {
       "time": "10:30 pm",
       "artist": "The Replacements",
@@ -21,9 +16,25 @@
       "time": "10:33 pm",
       "artist": "Rod Stewart",
       "title": "Some Guys Have All The Luck"
+    },
+    {
+      "time": "10:37 pm",
+      "artist": "Beyonce",
+      "title": "16 CARRIAGES"
+    },
+    {
+      "time": "10:41 pm",
+      "artist": "Bloc Party",
+      "title": "Helicopter"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 pm",
+      "artist": "Black Crowes",
+      "title": "She Talks To Angels",
+      "album": "Shake Your Money Maker • 1991"
+    },
     {
       "time": "10:21 pm",
       "artist": "Yo La Tengo",
@@ -167,12 +178,6 @@
       "artist": "David Bowie",
       "title": "The Jean Genie",
       "album": "Aladdin Sane • 1973"
-    },
-    {
-      "time": "8:59 pm",
-      "artist": "The Four Seasons",
-      "title": "C'mon Marianne",
-      "album": "New Gold Hits • 1967"
     }
   ]
 }
