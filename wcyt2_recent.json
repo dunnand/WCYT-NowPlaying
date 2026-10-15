@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T23:48:56",
+  "updatedAt": "2026-10-14T23:52:31",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Mainstreet",
-    "album": "Night Moves • 1977",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "Fight Test",
+    "album": "Yoshimi Battles The Pink Robots • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:52 pm",
-      "artist": "The Flaming Lips",
-      "title": "Fight Test"
-    },
     {
       "time": "11:56 pm",
       "artist": "Feist",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:52 pm",
+      "artist": "The Flaming Lips",
+      "title": "Fight Test",
+      "album": "Yoshimi Battles The Pink Robots • 2002"
+    },
     {
       "time": "11:48 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -167,12 +168,6 @@
       "artist": "The Beach Boys",
       "title": "You're So Good to Me",
       "album": "Summer Days • 1965"
-    },
-    {
-      "time": "10:11 pm",
-      "artist": "Coldplay",
-      "title": "Fix You",
-      "album": "X&Y • 2005"
     }
   ]
 }
