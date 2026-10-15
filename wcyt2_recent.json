@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T03:30:51",
+  "updatedAt": "2026-10-15T03:35:48",
   "now": {
-    "artist": "The Who",
-    "title": "5:15",
-    "album": "Quadrophenia • 1973",
+    "artist": "Madonna",
+    "title": "Frozen",
+    "album": "Ray of Light • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:35 am",
-      "artist": "Madonna",
-      "title": "Frozen"
-    },
     {
       "time": "3:40 am",
       "artist": "Connie Francis",
@@ -26,9 +21,20 @@
       "time": "3:47 am",
       "artist": "Bob Dylan",
       "title": "Most Likely You Go Your Way and I'll Go Mine"
+    },
+    {
+      "time": "3:50 am",
+      "artist": "A Tribe Called Quest",
+      "title": "Dis Generation"
     }
   ],
   "recent": [
+    {
+      "time": "3:35 am",
+      "artist": "Madonna",
+      "title": "Frozen",
+      "album": "Ray of Light • 1998"
+    },
     {
       "time": "3:30 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Soundgarden",
       "title": "Outshined",
       "album": "Badmotorfinger • 1991"
-    },
-    {
-      "time": "2:06 am",
-      "artist": "Sebadoh",
-      "title": "Skull",
-      "album": "Bakesale • 1994"
     }
   ]
 }
