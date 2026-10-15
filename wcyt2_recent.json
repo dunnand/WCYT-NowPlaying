@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T19:34:57",
+  "updatedAt": "2026-10-15T19:39:34",
   "now": {
-    "artist": "David Byrne",
-    "title": "Angels",
-    "album": "David Byrne • 1994",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "President of What?",
+    "album": "Something About Airplanes • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:39 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "President of What?"
-    },
     {
       "time": "7:43 pm",
       "artist": "Kraftwerk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:39 pm",
+      "artist": "Death Cab for Cutie",
+      "title": "President of What?",
+      "album": "Something About Airplanes • 1998"
+    },
     {
       "time": "7:34 pm",
       "artist": "David Byrne",
@@ -172,12 +173,6 @@
       "artist": "Journey",
       "title": "Don't Stop Believin'",
       "album": "Escape • 1981"
-    },
-    {
-      "time": "6:06 pm",
-      "artist": "John Cougar Mellencamp",
-      "title": "Cherry Bomb",
-      "album": "Lonesome Jubilee • 1987"
     }
   ]
 }
