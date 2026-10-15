@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T08:16:11",
+  "updatedAt": "2026-10-15T08:19:45",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Harder, Better, Faster, Stronger",
-    "album": "Discovery • 2001",
+    "artist": "Coldplay",
+    "title": "A Sky Full of Stars",
+    "album": "Ghost Stories • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:19 am",
-      "artist": "Coldplay",
-      "title": "A Sky Full of Stars"
-    },
     {
       "time": "8:24 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "8:31 am",
       "artist": "Frank Ocean",
       "title": "White Ferrari"
+    },
+    {
+      "time": "8:35 am",
+      "artist": "Alanis Morissette",
+      "title": "Hands Clean"
     }
   ],
   "recent": [
+    {
+      "time": "8:19 am",
+      "artist": "Coldplay",
+      "title": "A Sky Full of Stars",
+      "album": "Ghost Stories • 2014"
+    },
     {
       "time": "8:16 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "Sober",
       "album": "STN MTN / Kauai • 2014"
-    },
-    {
-      "time": "6:52 am",
-      "artist": "Gladys Knight & The Pips",
-      "title": "I Heard It Through The Grapevine",
-      "album": "Everybody Needs Love • 1967"
     }
   ]
 }
