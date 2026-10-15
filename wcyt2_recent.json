@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T02:50:25",
+  "updatedAt": "2026-10-15T02:52:31",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "The Sound of Settling",
-    "album": "Transatlanticism • 2003",
-    "category": "TUNES"
+    "artist": "Amy Winehouse",
+    "title": "You Know I'm No Good",
+    "album": "Back to Black • 2006",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:52 am",
-      "artist": "Amy Winehouse",
-      "title": "You Know I'm No Good"
-    },
     {
       "time": "2:57 am",
       "artist": "Crystal Castles",
@@ -26,9 +21,20 @@
       "time": "3:04 am",
       "artist": "Foo Fighters",
       "title": "Big Me"
+    },
+    {
+      "time": "3:06 am",
+      "artist": "Bauhaus",
+      "title": "All We Ever Wanted Was Everything"
     }
   ],
   "recent": [
+    {
+      "time": "2:52 am",
+      "artist": "Amy Winehouse",
+      "title": "You Know I'm No Good",
+      "album": "Back to Black • 2006"
+    },
     {
       "time": "2:50 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Charli XCX",
       "title": "Von dutch",
       "album": "BRAT • 2024"
-    },
-    {
-      "time": "1:26 am",
-      "artist": "AC/DC",
-      "title": "Shoot to Thrill",
-      "album": "Back to Black • 1980"
     }
   ]
 }
