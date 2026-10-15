@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T12:50:05",
+  "updatedAt": "2026-10-15T12:50:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "All Those Years Ago",
+    "album": "Somewhere in England • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:50 pm",
-      "artist": "George Harrison",
-      "title": "All Those Years Ago"
-    },
     {
       "time": "12:53 pm",
       "artist": "George Michael",
@@ -26,9 +21,20 @@
       "time": "1:02 pm",
       "artist": "The Pop Group",
       "title": "She Is Beyond Good And Evil"
+    },
+    {
+      "time": "1:06 pm",
+      "artist": "Fleetwood Mac",
+      "title": "The Chain"
     }
   ],
   "recent": [
+    {
+      "time": "12:50 pm",
+      "artist": "George Harrison",
+      "title": "All Those Years Ago",
+      "album": "Somewhere in England • 1981"
+    },
     {
       "time": "12:45 pm",
       "artist": "Depeche Mode",
@@ -172,12 +178,6 @@
       "artist": "Kendrick Lamar",
       "title": "i",
       "album": "To Pimp a Butterfly • 2015"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "Fatboy Slim",
-      "title": "Weapon of Choice",
-      "album": "Halfway Between the Gutter & The Stars • 2000"
     }
   ]
 }
