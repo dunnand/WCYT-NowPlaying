@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T19:39:34",
+  "updatedAt": "2026-10-15T19:43:38",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "President of What?",
-    "album": "Something About Airplanes • 1998",
-    "category": "TUNES"
+    "artist": "Kraftwerk",
+    "title": "Pocket Calculator",
+    "album": "Computer World • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 pm",
-      "artist": "Kraftwerk",
-      "title": "Pocket Calculator"
-    },
     {
       "time": "7:48 pm",
       "artist": "Laurie Anderson",
@@ -21,9 +16,25 @@
       "time": "7:56 pm",
       "artist": "Chappell Roan",
       "title": "Good Luck, Babe!"
+    },
+    {
+      "time": "8:00 pm",
+      "artist": "The Clash",
+      "title": "Lost in the Supermarket"
+    },
+    {
+      "time": "8:04 pm",
+      "artist": "Ten Years After",
+      "title": "I'd Love To Change The World"
     }
   ],
   "recent": [
+    {
+      "time": "7:43 pm",
+      "artist": "Kraftwerk",
+      "title": "Pocket Calculator",
+      "album": "Computer World • 1981"
+    },
     {
       "time": "7:39 pm",
       "artist": "Death Cab for Cutie",
@@ -167,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "There'd Better Be A Mirrorball",
       "album": "The Car • 2022"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "Journey",
-      "title": "Don't Stop Believin'",
-      "album": "Escape • 1981"
     }
   ]
 }
