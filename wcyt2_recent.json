@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-15T10:10:41",
+  "updatedAt": "2026-10-15T10:15:16",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Boots of Spanish Leather",
-    "album": "The Times They Are A-Changin • 1964",
+    "artist": "Paul Simon",
+    "title": "Slip Slidin' Away",
+    "album": "single • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:15 am",
-      "artist": "Paul Simon",
-      "title": "Slip Slidin' Away"
-    },
-    {
-      "time": "10:20 am",
+      "time": "10:19 am",
       "artist": "Donovan",
       "title": "Sunny Goodge Street"
     },
@@ -26,9 +21,25 @@
       "time": "10:26 am",
       "artist": "Stone Temple Pilots",
       "title": "Unglued"
+    },
+    {
+      "time": "10:28 am",
+      "artist": "Maurice Williams & The Zodiacs",
+      "title": "Stay"
+    },
+    {
+      "time": "10:30 am",
+      "artist": "Dave Matthews Band",
+      "title": "The Space Between"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 am",
+      "artist": "Paul Simon",
+      "title": "Slip Slidin' Away",
+      "album": "single • 1977"
+    },
     {
       "time": "10:10 am",
       "artist": "Bob Dylan",
@@ -172,12 +183,6 @@
       "artist": "The Avalanches",
       "title": "Since I Left You",
       "album": "Since I Left You • 2000"
-    },
-    {
-      "time": "8:35 am",
-      "artist": "Alanis Morissette",
-      "title": "Hands Clean",
-      "album": "Under Rug Swept • 2002"
     }
   ]
 }
