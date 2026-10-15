@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T03:53:57",
+  "updatedAt": "2026-10-15T03:54:09",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beach House",
+    "title": "Saltwater",
+    "album": "Beach House • 2006",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:54 am",
-      "artist": "Beach House",
-      "title": "Saltwater"
-    },
     {
       "time": "3:57 am",
       "artist": "Deafheaven",
@@ -26,9 +21,20 @@
       "time": "4:06 am",
       "artist": "DEVO",
       "title": "Freedom of Choice"
+    },
+    {
+      "time": "4:10 am",
+      "artist": "The Beths",
+      "title": "Knees Deep"
     }
   ],
   "recent": [
+    {
+      "time": "3:54 am",
+      "artist": "Beach House",
+      "title": "Saltwater",
+      "album": "Beach House • 2006"
+    },
     {
       "time": "3:50 am",
       "artist": "Babehoven",
@@ -172,12 +178,6 @@
       "artist": "Mac DeMarco",
       "title": "Salad Days",
       "album": "Salad Days • 2014"
-    },
-    {
-      "time": "2:21 am",
-      "artist": "Trembler",
-      "title": "The Gonzales Shoulder",
-      "album": "Total Sorry • 2025"
     }
   ]
 }
