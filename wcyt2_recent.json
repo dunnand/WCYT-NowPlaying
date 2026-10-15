@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T01:46:07",
+  "updatedAt": "2026-10-15T01:49:53",
   "now": {
-    "artist": "Elton John",
-    "title": "Candle in the Wind",
-    "album": "Goodbye Yellow Brick Road • 1973",
-    "category": "AUDIO"
+    "artist": "Ride",
+    "title": "Taste",
+    "album": "Nowhere • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:49 am",
-      "artist": "Ride",
-      "title": "Taste"
-    },
     {
       "time": "1:53 am",
       "artist": "Ray Charles",
@@ -21,9 +16,20 @@
       "time": "1:55 am",
       "artist": "Death Cab For Cutie",
       "title": "Company Calls"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "David Ruffin",
+      "title": "My Whole World Ended (The Moment You Left Me)"
     }
   ],
   "recent": [
+    {
+      "time": "1:49 am",
+      "artist": "Ride",
+      "title": "Taste",
+      "album": "Nowhere • 1990"
+    },
     {
       "time": "1:46 am",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "Mariah Carey",
       "title": "Hero",
       "album": "Music Box • 1993"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "Brandy and Monica",
-      "title": "The Boy Is Mine",
-      "album": "Never Say Never / The Boy Is Mine • 1999"
     }
   ]
 }
