@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T08:19:45",
+  "updatedAt": "2026-10-15T08:24:11",
   "now": {
-    "artist": "Coldplay",
-    "title": "A Sky Full of Stars",
-    "album": "Ghost Stories • 2014",
+    "artist": "David Bowie",
+    "title": "Life on Mars?",
+    "album": "Hunky Dory • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 am",
-      "artist": "David Bowie",
-      "title": "Life on Mars?"
-    },
     {
       "time": "8:27 am",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "8:35 am",
       "artist": "Alanis Morissette",
       "title": "Hands Clean"
+    },
+    {
+      "time": "8:39 am",
+      "artist": "The Avalanches",
+      "title": "Since I Left You"
     }
   ],
   "recent": [
+    {
+      "time": "8:24 am",
+      "artist": "David Bowie",
+      "title": "Life on Mars?",
+      "album": "Hunky Dory • 1971"
+    },
     {
       "time": "8:19 am",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "The Biggest Lie",
       "album": "Elliott Smith • 1995"
-    },
-    {
-      "time": "6:55 am",
-      "artist": "Childish Gambino",
-      "title": "Sober",
-      "album": "STN MTN / Kauai • 2014"
     }
   ]
 }
