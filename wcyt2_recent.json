@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T21:42:39",
+  "updatedAt": "2026-10-14T21:43:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "You're My Best Friend",
+    "album": "A Night at the Opera • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:42 pm",
-      "artist": "Queen",
-      "title": "You're My Best Friend"
-    },
     {
       "time": "9:45 pm",
       "artist": "Dusty Springfield",
@@ -26,9 +21,20 @@
       "time": "9:53 pm",
       "artist": "Cream",
       "title": "Sunshine of Your Love"
+    },
+    {
+      "time": "9:58 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Sisters of the Moon"
     }
   ],
   "recent": [
+    {
+      "time": "9:43 pm",
+      "artist": "Queen",
+      "title": "You're My Best Friend",
+      "album": "A Night at the Opera • 1976"
+    },
     {
       "time": "9:39 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "No. 1 Party Anthem",
       "album": "AM • 2013"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "Elliott Smith",
-      "title": "Bottle Up and Explode!",
-      "album": "XO • 1998"
     }
   ]
 }
