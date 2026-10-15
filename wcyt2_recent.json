@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T16:00:27",
+  "updatedAt": "2026-10-15T16:02:28",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "I'm Gonna Get a Gun",
-    "album": "Matthew and Son • 1967",
+    "artist": "Led Zeppelin",
+    "title": "Achilles Last Stand",
+    "album": "Presence • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:02 pm",
-      "artist": "Led Zeppelin",
-      "title": "Achilles Last Stand"
-    },
     {
       "time": "4:12 pm",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "4:25 pm",
       "artist": "Plastic Bertrand",
       "title": "Ca Plane Pour Moi"
+    },
+    {
+      "time": "4:28 pm",
+      "artist": "James Brown",
+      "title": "It's a Man's Man's World"
     }
   ],
   "recent": [
+    {
+      "time": "4:02 pm",
+      "artist": "Led Zeppelin",
+      "title": "Achilles Last Stand",
+      "album": "Presence • 1976"
+    },
     {
       "time": "4:00 pm",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Avril Lavigne",
       "title": "Complicated",
       "album": "Let Go • 2002"
-    },
-    {
-      "time": "2:21 pm",
-      "artist": "One Direction",
-      "title": "Little Things",
-      "album": "Take Me Home • 2012"
     }
   ]
 }
