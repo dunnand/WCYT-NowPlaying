@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T09:01:05",
+  "updatedAt": "2026-10-15T09:04:02",
   "now": {
-    "artist": "Elton John",
-    "title": "I'm Still Standing",
-    "album": "Too Low for Zero • 1983",
+    "artist": "Kacey Musgraves",
+    "title": "Jade Green",
+    "album": "Deeper Well • 2024",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:03 am",
-      "artist": "Kacey Musgraves",
-      "title": "Jade Green"
-    },
     {
       "time": "9:06 am",
       "artist": "Warren Zevon",
@@ -21,9 +16,20 @@
       "time": "9:10 am",
       "artist": "Arthur Conley",
       "title": "Sweet Soul Music"
+    },
+    {
+      "time": "9:12 am",
+      "artist": "The Crusaders",
+      "title": "Street Life"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "Kacey Musgraves",
+      "title": "Jade Green",
+      "album": "Deeper Well • 2024"
+    },
     {
       "time": "9:01 am",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Where Boys Fear to Tread",
       "album": "Mellon Collie and the Infinite Sadness • 1995"
-    },
-    {
-      "time": "7:30 am",
-      "artist": "Tommy James",
-      "title": "Draggin' The Line",
-      "album": "Christian of the World • 1971"
     }
   ]
 }
