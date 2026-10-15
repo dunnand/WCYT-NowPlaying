@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T06:32:45",
+  "updatedAt": "2026-10-15T06:35:30",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Brianstorm",
-    "album": "Favourite Worst Nightmare • 2007",
-    "category": "TUNES"
+    "artist": "The Cascades",
+    "title": "Rhythm Of The Rain",
+    "album": "Rhythm of the Rain • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:35 am",
-      "artist": "The Cascades",
-      "title": "Rhythm Of The Rain"
-    },
     {
       "time": "6:37 am",
       "artist": "James Taylor",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:35 am",
+      "artist": "The Cascades",
+      "title": "Rhythm Of The Rain",
+      "album": "Rhythm of the Rain • 1963"
+    },
     {
       "time": "6:32 am",
       "artist": "Arctic Monkeys",
@@ -177,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "Heartaches and Pain",
       "album": "No Time For Dreaming • 2011"
-    },
-    {
-      "time": "4:45 am",
-      "artist": "Bob Dylan",
-      "title": "I Shall Be Free",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
