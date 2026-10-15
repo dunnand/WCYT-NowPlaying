@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T01:40:48",
+  "updatedAt": "2026-10-15T01:43:43",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Them Belly Full (But We Hungry)",
-    "album": "Natty Dread • 1974",
+    "artist": "Buffalo Springfield",
+    "title": "Sit Down I Think I Love You",
+    "album": "Buffalo Springfield • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 am",
-      "artist": "Buffalo Springfield",
-      "title": "Sit Down I Think I Love You"
-    },
     {
       "time": "1:46 am",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "Ray Charles",
       "title": "Mess Around"
+    },
+    {
+      "time": "1:55 am",
+      "artist": "Death Cab For Cutie",
+      "title": "Company Calls"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 am",
+      "artist": "Buffalo Springfield",
+      "title": "Sit Down I Think I Love You",
+      "album": "Buffalo Springfield • 1967"
+    },
     {
       "time": "1:40 am",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Calamity Song",
       "album": "The King Is Dead • 2011"
-    },
-    {
-      "time": "12:09 am",
-      "artist": "Count Five",
-      "title": "Psychotic Reaction",
-      "album": "Psychotic Reaction • 1966"
     }
   ]
 }
