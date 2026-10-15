@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T09:34:32",
+  "updatedAt": "2026-10-15T09:34:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Slow Pulp",
+    "title": "Red Car",
+    "album": "Melodie • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:34 am",
-      "artist": "Slow Pulp",
-      "title": "Red Car"
-    },
     {
       "time": "9:38 am",
       "artist": "Yo La Tengo",
@@ -26,9 +21,20 @@
       "time": "9:43 am",
       "artist": "Babehoven",
       "title": "Blue Around You"
+    },
+    {
+      "time": "9:47 am",
+      "artist": "The Clash",
+      "title": "The Guns of Brixton"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 am",
+      "artist": "Slow Pulp",
+      "title": "Red Car",
+      "album": "Melodie • 2026"
+    },
     {
       "time": "9:29 am",
       "artist": "Television",
@@ -172,12 +178,6 @@
       "artist": "Angel Olsen",
       "title": "Give It Up",
       "album": "My Woman • 2016"
-    },
-    {
-      "time": "7:59 am",
-      "artist": "The Cure",
-      "title": "Close to Me",
-      "album": "The Head on the Door • 1985"
     }
   ]
 }
