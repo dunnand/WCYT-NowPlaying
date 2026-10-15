@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-15T03:04:42",
+  "updatedAt": "2026-10-15T03:06:47",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Big Me",
-    "album": "Foo Fighters • 1995",
+    "artist": "Bauhaus",
+    "title": "All We Ever Wanted Was Everything",
+    "album": "The Sky's Gone Out • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "3:06 am",
-      "artist": "Bauhaus",
-      "title": "All We Ever Wanted Was Everything"
-    },
-    {
-      "time": "3:11 am",
+      "time": "3:10 am",
       "artist": "Beastie Boys",
       "title": "(You Gotta) Fight For Your Right (To Party!)"
     },
@@ -21,9 +16,20 @@
       "time": "3:14 am",
       "artist": "Shinobu Tanaka, Kazumi Totaka",
       "title": "Luigi's Mansion (Staff Roll)"
+    },
+    {
+      "time": "3:17 am",
+      "artist": "Doobie Brothers",
+      "title": "Black Water"
     }
   ],
   "recent": [
+    {
+      "time": "3:06 am",
+      "artist": "Bauhaus",
+      "title": "All We Ever Wanted Was Everything",
+      "album": "The Sky's Gone Out • 1982"
+    },
     {
       "time": "3:04 am",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Buffalo Springfield",
       "title": "Sit Down I Think I Love You",
       "album": "Buffalo Springfield • 1967"
-    },
-    {
-      "time": "1:40 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Them Belly Full (But We Hungry)",
-      "album": "Natty Dread • 1974"
     }
   ]
 }
