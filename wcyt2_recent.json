@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T14:39:50",
+  "updatedAt": "2026-10-15T14:43:46",
   "now": {
-    "artist": "Sheryl Crow",
-    "title": "My Favorite Mistake",
-    "album": "The Globe Sessions • 1998",
+    "artist": "Slowdive",
+    "title": "When the Sun Hits",
+    "album": "Souvlaki • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 pm",
-      "artist": "Slowdive",
-      "title": "When the Sun Hits"
-    },
     {
       "time": "2:48 pm",
       "artist": "Jackson Browne",
@@ -26,9 +21,20 @@
       "time": "2:57 pm",
       "artist": "Counting Crows",
       "title": "Big Yellow Taxi"
+    },
+    {
+      "time": "3:01 pm",
+      "artist": "The Beach Boys",
+      "title": "I'm So Young"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 pm",
+      "artist": "Slowdive",
+      "title": "When the Sun Hits",
+      "album": "Souvlaki • 1993"
+    },
     {
       "time": "2:39 pm",
       "artist": "Sheryl Crow",
@@ -172,12 +178,6 @@
       "artist": "Animal Collective",
       "title": "Who Could Win a Rabbit",
       "album": "Sung Tongs • 2004"
-    },
-    {
-      "time": "1:06 pm",
-      "artist": "Fleetwood Mac",
-      "title": "The Chain",
-      "album": "Rumours • 1977"
     }
   ]
 }
