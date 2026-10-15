@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T14:03:13",
+  "updatedAt": "2026-10-15T14:03:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Brain Damage",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 pm",
-      "artist": "Pink Floyd",
-      "title": "Brain Damage"
-    },
     {
       "time": "2:07 pm",
       "artist": "be your own PET",
@@ -31,9 +26,20 @@
       "time": "2:18 pm",
       "artist": "Prince",
       "title": "New Power Generation"
+    },
+    {
+      "time": "2:21 pm",
+      "artist": "One Direction",
+      "title": "Little Things"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 pm",
+      "artist": "Pink Floyd",
+      "title": "Brain Damage",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "1:58 pm",
       "artist": "Foo Fighters",
@@ -177,12 +183,6 @@
       "artist": "Arctic Monkeys",
       "title": "I Bet You Look Good On The Dance Floor",
       "album": "Whatever People Say I Am, That's What I'm Not • 2006"
-    },
-    {
-      "time": "12:21 pm",
-      "artist": "Elvis Presley",
-      "title": "Don't",
-      "album": "single • 1958"
     }
   ]
 }
