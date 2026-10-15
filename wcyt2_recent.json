@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T14:53:03",
+  "updatedAt": "2026-10-15T14:56:56",
   "now": {
-    "artist": "Jane's Addiction",
-    "title": "Mountain Song",
-    "album": "Nothing's Shocking • 1988",
+    "artist": "Counting Crows",
+    "title": "Big Yellow Taxi",
+    "album": "Hard Candy • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 pm",
-      "artist": "Counting Crows",
-      "title": "Big Yellow Taxi"
-    },
     {
       "time": "3:00 pm",
       "artist": "The Beach Boys",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:56 pm",
+      "artist": "Counting Crows",
+      "title": "Big Yellow Taxi",
+      "album": "Hard Candy • 2002"
+    },
     {
       "time": "2:53 pm",
       "artist": "Jane's Addiction",
@@ -177,12 +178,6 @@
       "artist": "Janet Jackson",
       "title": "Love Will Never Do Without You",
       "album": "Janet Jackson's Rhythm Nation 1814 • 1990"
-    },
-    {
-      "time": "1:14 pm",
-      "artist": "Joni Mitchell",
-      "title": "River",
-      "album": "Blue • 1971"
     }
   ]
 }
