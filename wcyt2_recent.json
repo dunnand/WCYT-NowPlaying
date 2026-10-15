@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T01:00:40",
+  "updatedAt": "2026-10-15T01:01:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "Lost!",
+    "album": "Viva la Vida or Death and All His Friends • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Coldplay",
-      "title": "Lost!"
-    },
     {
       "time": "1:04 am",
       "artist": "Camera Obscura",
@@ -26,9 +21,20 @@
       "time": "1:11 am",
       "artist": "Nirvana",
       "title": "Heart-Shaped Box"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Oasis",
+      "title": "Slide Away"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Coldplay",
+      "title": "Lost!",
+      "album": "Viva la Vida or Death and All His Friends • 2008"
+    },
     {
       "time": "12:56 am",
       "artist": "Christina Perri",
@@ -172,12 +178,6 @@
       "artist": "Rush",
       "title": "Red Barchetta",
       "album": "Moving Pictures • 1981"
-    },
-    {
-      "time": "11:26 pm",
-      "artist": "The Flaming Lips",
-      "title": "The Spark That Bled",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
