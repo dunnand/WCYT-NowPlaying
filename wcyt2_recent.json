@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T05:34:49",
+  "updatedAt": "2026-10-15T05:37:54",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Son of Sam",
-    "album": "Figure 8 • 2000",
-    "category": "TUNES"
+    "artist": "The Beach Boys",
+    "title": "California Girls",
+    "album": "Summer Days • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:37 am",
-      "artist": "The Beach Boys",
-      "title": "California Girls"
-    },
     {
       "time": "5:40 am",
       "artist": "ABBA",
@@ -26,9 +21,20 @@
       "time": "5:47 am",
       "artist": "The Fleetwoods",
       "title": "Mr. Blue"
+    },
+    {
+      "time": "5:50 am",
+      "artist": "Audioslave",
+      "title": "Like a Stone"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 am",
+      "artist": "The Beach Boys",
+      "title": "California Girls",
+      "album": "Summer Days • 1965"
+    },
     {
       "time": "5:34 am",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Dis Generation",
       "album": "We got it from Here... Thank You 4 Your service • 2016"
-    },
-    {
-      "time": "3:47 am",
-      "artist": "Bob Dylan",
-      "title": "Most Likely You Go Your Way and I'll Go Mine",
-      "album": "Blonde on Blonde • 1966"
     }
   ]
 }
