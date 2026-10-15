@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T10:47:04",
+  "updatedAt": "2026-10-15T10:47:26",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Fleet Foxes",
+    "title": "Your Protector",
+    "album": "Fleet Foxes • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:47 am",
-      "artist": "Fleet Foxes",
-      "title": "Your Protector"
-    },
     {
       "time": "10:51 am",
       "artist": "Cut Worms",
@@ -26,9 +21,20 @@
       "time": "11:02 am",
       "artist": "Public Image Ltd.",
       "title": "Public Image"
+    },
+    {
+      "time": "11:05 am",
+      "artist": "Waxahatchee",
+      "title": "Oxbow"
     }
   ],
   "recent": [
+    {
+      "time": "10:47 am",
+      "artist": "Fleet Foxes",
+      "title": "Your Protector",
+      "album": "Fleet Foxes • 2008"
+    },
     {
       "time": "10:43 am",
       "artist": "M83",
@@ -172,12 +178,6 @@
       "artist": "Andy Shauf",
       "title": "Spanish on the Beach",
       "album": "Wilds • 2021"
-    },
-    {
-      "time": "9:14 am",
-      "artist": "The Bug Club",
-      "title": "Watching the Omnibus",
-      "album": "Every Single Muscle • 2026"
     }
   ]
 }
