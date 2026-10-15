@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T06:32:31",
+  "updatedAt": "2026-10-15T06:32:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Brianstorm",
+    "album": "Favourite Worst Nightmare • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:32 am",
-      "artist": "Arctic Monkeys",
-      "title": "Brianstorm"
-    },
     {
       "time": "6:35 am",
       "artist": "The Cascades",
@@ -31,9 +26,20 @@
       "time": "6:44 am",
       "artist": "Moonglows",
       "title": "Sincerely"
+    },
+    {
+      "time": "6:48 am",
+      "artist": "Elton John",
+      "title": "This Train Don't Stop There Anymore"
     }
   ],
   "recent": [
+    {
+      "time": "6:32 am",
+      "artist": "Arctic Monkeys",
+      "title": "Brianstorm",
+      "album": "Favourite Worst Nightmare • 2007"
+    },
     {
       "time": "6:28 am",
       "artist": "Elvis Costello",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "I Shall Be Free",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "4:40 am",
-      "artist": "Audioslave",
-      "title": "Show Me How to Live",
-      "album": "Audioslave • 2002"
     }
   ]
 }
