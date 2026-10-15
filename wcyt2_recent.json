@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T03:35:48",
+  "updatedAt": "2026-10-15T03:40:55",
   "now": {
-    "artist": "Madonna",
-    "title": "Frozen",
-    "album": "Ray of Light • 1998",
+    "artist": "Connie Francis",
+    "title": "My Happiness",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:40 am",
-      "artist": "Connie Francis",
-      "title": "My Happiness"
-    },
     {
       "time": "3:43 am",
       "artist": "Amerie",
@@ -26,9 +21,20 @@
       "time": "3:50 am",
       "artist": "A Tribe Called Quest",
       "title": "Dis Generation"
+    },
+    {
+      "time": "3:54 am",
+      "artist": "George Michael",
+      "title": "Freedom"
     }
   ],
   "recent": [
+    {
+      "time": "3:40 am",
+      "artist": "Connie Francis",
+      "title": "My Happiness",
+      "album": "single • 1958"
+    },
     {
       "time": "3:35 am",
       "artist": "Madonna",
@@ -172,12 +178,6 @@
       "artist": "Aerosmith",
       "title": "Rag Doll",
       "album": "Permanent Vacation • 1987"
-    },
-    {
-      "time": "2:09 am",
-      "artist": "Soundgarden",
-      "title": "Outshined",
-      "album": "Badmotorfinger • 1991"
     }
   ]
 }
