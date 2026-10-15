@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T13:10:08",
+  "updatedAt": "2026-10-15T13:10:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Animal Collective",
+    "title": "Who Could Win a Rabbit",
+    "album": "Sung Tongs • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:10 pm",
-      "artist": "Animal Collective",
-      "title": "Who Could Win a Rabbit"
-    },
     {
       "time": "1:12 pm",
       "artist": "Chet Atkins",
@@ -31,9 +26,20 @@
       "time": "1:22 pm",
       "artist": "Little Willie John",
       "title": "Fever"
+    },
+    {
+      "time": "1:24 pm",
+      "artist": "Bright Eyes",
+      "title": "The Calendar Hung Itself"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 pm",
+      "artist": "Animal Collective",
+      "title": "Who Could Win a Rabbit",
+      "album": "Sung Tongs • 2004"
+    },
     {
       "time": "1:06 pm",
       "artist": "Fleetwood Mac",
@@ -177,12 +183,6 @@
       "artist": "Daft Punk",
       "title": "Something About Us",
       "album": "Discovery • 2001"
-    },
-    {
-      "time": "11:30 am",
-      "artist": "Camera Obscura",
-      "title": "French Navy",
-      "album": "My Maudlin Career • 2009"
     }
   ]
 }
