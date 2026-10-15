@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T00:42:32",
+  "updatedAt": "2026-10-15T00:46:08",
   "now": {
-    "artist": "Basement Jaxx",
-    "title": "Romeo",
-    "album": "Rooty • 2001",
+    "artist": "Demi Lovato",
+    "title": "Heart Attack",
+    "album": "Demi • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "Demi Lovato",
-      "title": "Heart Attack"
-    },
     {
       "time": "12:49 am",
       "artist": "Steely Dan",
@@ -26,9 +21,20 @@
       "time": "12:56 am",
       "artist": "Christina Perri",
       "title": "A Thousand Years"
+    },
+    {
+      "time": "1:01 am",
+      "artist": "Coldplay",
+      "title": "Lost!"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "Demi Lovato",
+      "title": "Heart Attack",
+      "album": "Demi • 2013"
+    },
     {
       "time": "12:42 am",
       "artist": "Basement Jaxx",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "When Will I Be Loved",
       "album": "The Fabulous Style of The Everly Brothers • 1960"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "The Black Keys",
-      "title": "Everywhere I Go",
-      "album": "Thickfreakness • 2003"
     }
   ]
 }
