@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-14T20:38:05",
+  "updatedAt": "2026-10-14T20:42:10",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "In the Arms of Sleep",
-    "album": "Mellon Collie and the Infinite Sadness • 1995",
+    "artist": "Kate Bush",
+    "title": "Running Up That Hill (A Deal With God)",
+    "album": "Hounds of Love • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:42 pm",
-      "artist": "Kate Bush",
-      "title": "Running Up That Hill (A Deal With God)"
-    },
     {
       "time": "8:47 pm",
       "artist": "Lionel Richie",
@@ -21,9 +16,20 @@
       "time": "8:51 pm",
       "artist": "Billie Eilish",
       "title": "Happier Than Ever"
+    },
+    {
+      "time": "8:56 pm",
+      "artist": "Sister Sledge",
+      "title": "We Are Family"
     }
   ],
   "recent": [
+    {
+      "time": "8:42 pm",
+      "artist": "Kate Bush",
+      "title": "Running Up That Hill (A Deal With God)",
+      "album": "Hounds of Love • 1985"
+    },
     {
       "time": "8:38 pm",
       "artist": "The Smashing Pumpkins",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Like a Rolling Stone",
       "album": "Highway 61 Revisited • 1965"
-    },
-    {
-      "time": "7:05 pm",
-      "artist": "DEVO",
-      "title": "Uncontrollable Urge",
-      "album": "Q: Are We Not Men? A: We Are Devo! • 1978"
     }
   ]
 }
