@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T12:11:34",
+  "updatedAt": "2026-10-15T12:15:08",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Girl From the North Country",
-    "album": "Girl From the North Country • 1963",
+    "artist": "The Beatles",
+    "title": "One After 909",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 pm",
-      "artist": "The Beatles",
-      "title": "One After 909"
-    },
     {
       "time": "12:17 pm",
       "artist": "Dave Matthews Band",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:15 pm",
+      "artist": "The Beatles",
+      "title": "One After 909",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "12:11 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Superchunk",
       "title": "The First Part",
       "album": "Foolish • 1994"
-    },
-    {
-      "time": "10:36 am",
-      "artist": "Lorde",
-      "title": "Royals",
-      "album": "Pure Heroine • 2013"
     }
   ]
 }
