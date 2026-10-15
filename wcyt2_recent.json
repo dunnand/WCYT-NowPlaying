@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T19:11:39",
+  "updatedAt": "2026-10-15T19:15:43",
   "now": {
-    "artist": "XTC",
-    "title": "Making Plans for Nigel",
-    "album": "Drums and Wires • 1979",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Talkin' Blues",
+    "album": "Natty Dread • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Talkin' Blues"
-    },
     {
       "time": "7:20 pm",
       "artist": "Penguins",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:15 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Talkin' Blues",
+      "album": "Natty Dread • 1974"
+    },
     {
       "time": "7:11 pm",
       "artist": "XTC",
@@ -167,12 +168,6 @@
       "artist": "Arctic Monkeys",
       "title": "When the Sun Goes Down",
       "album": "Whatever People Say I Am, That's What I'm Not • 2006"
-    },
-    {
-      "time": "5:42 pm",
-      "artist": "Moses Sumney",
-      "title": "Virile",
-      "album": "Aromanticism • 2017"
     }
   ]
 }
