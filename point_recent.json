@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T17:23:25",
+  "updatedAt": "2026-10-16T17:23:37",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Geese",
+    "title": "Cobra",
+    "album": "Getting Killed • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:23 pm",
-      "artist": "Geese",
-      "title": "Cobra"
-    },
     {
       "time": "5:26 pm",
       "artist": "Slow Fiction",
@@ -26,9 +21,20 @@
       "time": "5:36 pm",
       "artist": "Portishead",
       "title": "Mysterons"
+    },
+    {
+      "time": "5:41 pm",
+      "artist": "Twisted Teens",
+      "title": "When We First Met"
     }
   ],
   "recent": [
+    {
+      "time": "5:23 pm",
+      "artist": "Geese",
+      "title": "Cobra",
+      "album": "Getting Killed • 2025"
+    },
     {
       "time": "5:20 pm",
       "artist": "Arcy Drive",
@@ -172,12 +178,6 @@
       "artist": "Vacations",
       "title": "Midwest",
       "album": "No Place Like Home • 2024"
-    },
-    {
-      "time": "3:52 pm",
-      "artist": "The Strokes",
-      "title": "Lonely in the Future",
-      "album": "Reality Awaits • 2026"
     }
   ]
 }
