@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T05:16:23",
+  "updatedAt": "2026-10-16T05:16:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Masters of War",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:16 am",
-      "artist": "Bob Dylan",
-      "title": "Masters of War"
-    },
     {
       "time": "5:20 am",
       "artist": "Lorde",
@@ -26,9 +21,20 @@
       "time": "5:28 am",
       "artist": "Sigur Ros",
       "title": "Star�lfur"
+    },
+    {
+      "time": "5:34 am",
+      "artist": "Queen",
+      "title": "Radio Ga-Ga"
     }
   ],
   "recent": [
+    {
+      "time": "5:16 am",
+      "artist": "Bob Dylan",
+      "title": "Masters of War",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "5:12 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Maggie Rogers",
       "title": "That's Where I Am",
       "album": "That's Where I Am • 2022"
-    },
-    {
-      "time": "3:33 am",
-      "artist": "The Police",
-      "title": "Every Breath You Take",
-      "album": "Synchronicity • 1983"
     }
   ]
 }
