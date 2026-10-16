@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T02:39:35",
+  "updatedAt": "2026-10-16T02:44:12",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "The Final Cut",
-    "album": "The Final Cut • 1983",
+    "artist": "Black Pumas",
+    "title": "I'm Ready",
+    "album": "Black Pumas • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:44 am",
-      "artist": "Black Pumas",
-      "title": "I'm Ready"
-    },
     {
       "time": "2:48 am",
       "artist": "Bob Marley and the Wailers",
@@ -21,9 +16,20 @@
       "time": "2:51 am",
       "artist": "Dixie Cups",
       "title": "Chapel Of Love"
+    },
+    {
+      "time": "2:54 am",
+      "artist": "Elton John",
+      "title": "Rocket Man"
     }
   ],
   "recent": [
+    {
+      "time": "2:44 am",
+      "artist": "Black Pumas",
+      "title": "I'm Ready",
+      "album": "Black Pumas • 2021"
+    },
     {
       "time": "2:39 am",
       "artist": "Pink Floyd",
@@ -167,12 +173,6 @@
       "artist": "Low",
       "title": "Over the Ocean",
       "album": "The Curtain Hits The Cast • 1996"
-    },
-    {
-      "time": "1:00 am",
-      "artist": "The Jeremy Spencer Band",
-      "title": "Cool Breeze",
-      "album": "Flee • 1979"
     }
   ]
 }
