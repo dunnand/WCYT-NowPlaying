@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T05:51:23",
+  "updatedAt": "2026-10-16T05:51:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Simple Twist of Fate",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:51 am",
-      "artist": "Bob Dylan",
-      "title": "Simple Twist of Fate"
-    },
     {
       "time": "5:55 am",
       "artist": "My Morning Jacket",
@@ -31,9 +26,20 @@
       "time": "6:08 am",
       "artist": "Sting",
       "title": "If I Ever Lose My Faith In You"
+    },
+    {
+      "time": "6:12 am",
+      "artist": "Elvis Presley",
+      "title": "I Want You, I Need You, I Love You"
     }
   ],
   "recent": [
+    {
+      "time": "5:51 am",
+      "artist": "Bob Dylan",
+      "title": "Simple Twist of Fate",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "5:48 am",
       "artist": "Interpol",
@@ -177,12 +183,6 @@
       "artist": "Missy Elliott",
       "title": "Get Ur Freak On",
       "album": "Miss E ...So Addictive • 2001"
-    },
-    {
-      "time": "4:10 am",
-      "artist": "Elvis Presley",
-      "title": "Mystery Train",
-      "album": "Rock N Roll • 1956"
     }
   ]
 }
