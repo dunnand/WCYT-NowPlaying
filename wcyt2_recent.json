@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-16T03:58:11",
+  "updatedAt": "2026-10-16T04:01:23",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Dear Landlord",
-    "album": "John Wesley Harding • 1967",
+    "artist": "Eagles",
+    "title": "Life In The Fast Lane",
+    "album": "Hotel California • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "4:01 am",
-      "artist": "Eagles",
-      "title": "Life In The Fast Lane"
-    },
-    {
-      "time": "4:06 am",
+      "time": "4:05 am",
       "artist": "Prince and the New Power Generation",
       "title": "Diamonds And Pearls"
     },
@@ -26,9 +21,20 @@
       "time": "4:12 am",
       "artist": "Missy Elliott",
       "title": "Get Ur Freak On"
+    },
+    {
+      "time": "4:16 am",
+      "artist": "Gary Puckett & The Union Gap",
+      "title": "Lady Willpower"
     }
   ],
   "recent": [
+    {
+      "time": "4:01 am",
+      "artist": "Eagles",
+      "title": "Life In The Fast Lane",
+      "album": "Hotel California • 1977"
+    },
     {
       "time": "3:58 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Michael Jackson",
       "title": "Earth Song",
       "album": "HIStory: Past, Present And Future - Book I • 1995"
-    },
-    {
-      "time": "2:22 am",
-      "artist": "Paramore",
-      "title": "Still into You",
-      "album": "Paramore • 2013"
     }
   ]
 }
