@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T19:01:24",
+  "updatedAt": "2026-10-16T19:05:20",
   "now": {
-    "artist": "Styx",
-    "title": "Renegade",
-    "album": "Pieces of Eight • 1979",
+    "artist": "Goldfinger",
+    "title": "Superman",
+    "album": "Hang-Ups • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:05 pm",
-      "artist": "Goldfinger",
-      "title": "Superman"
-    },
     {
       "time": "7:08 pm",
       "artist": "Jerry Lee Lewis",
@@ -21,9 +16,20 @@
       "time": "7:10 pm",
       "artist": "Okkervil River",
       "title": "For Real"
+    },
+    {
+      "time": "7:15 pm",
+      "artist": "Dion",
+      "title": "The Wanderer"
     }
   ],
   "recent": [
+    {
+      "time": "7:05 pm",
+      "artist": "Goldfinger",
+      "title": "Superman",
+      "album": "Hang-Ups • 1997"
+    },
     {
       "time": "7:01 pm",
       "artist": "Styx",
@@ -167,12 +173,6 @@
       "artist": "Blur",
       "title": "Parklife",
       "album": "Parklife • 1994"
-    },
-    {
-      "time": "5:32 pm",
-      "artist": "His Name Is Alive",
-      "title": "Universal Frequencies",
-      "album": "Stars On E.S.P. • 1996"
     }
   ]
 }
