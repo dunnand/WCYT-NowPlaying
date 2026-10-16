@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T08:05:20",
+  "updatedAt": "2026-10-16T08:05:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Jimmy Eat World",
+    "title": "Sweetness",
+    "album": "Bleed American • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:05 am",
-      "artist": "Jimmy Eat World",
-      "title": "Sweetness"
-    },
     {
       "time": "8:09 am",
       "artist": "Four Tops",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:05 am",
+      "artist": "Jimmy Eat World",
+      "title": "Sweetness",
+      "album": "Bleed American • 2001"
+    },
     {
       "time": "8:00 am",
       "artist": "Al Green",
@@ -177,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Balad of a Thin Man",
       "album": "Highway 61 Revisited • 1965"
-    },
-    {
-      "time": "6:15 am",
-      "artist": "Justin Timberlake",
-      "title": "Rock Your Body",
-      "album": "Justified • 2002"
     }
   ]
 }
