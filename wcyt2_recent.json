@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T15:07:39",
+  "updatedAt": "2026-10-16T15:11:23",
   "now": {
-    "artist": "Green Day",
-    "title": "Welcome to Paradise",
-    "album": "Dookie • 1994",
+    "artist": "Patsy Cline",
+    "title": "Walkin' After Midnight",
+    "album": "Patsy Cline • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:11 pm",
-      "artist": "Patsy Cline",
-      "title": "Walkin' After Midnight"
-    },
     {
       "time": "3:13 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "3:20 pm",
       "artist": "Johnny Cash",
       "title": "Ain't No Grave"
+    },
+    {
+      "time": "3:23 pm",
+      "artist": "Sleater",
+      "title": "Kinney - Be Yr Mama"
     }
   ],
   "recent": [
+    {
+      "time": "3:11 pm",
+      "artist": "Patsy Cline",
+      "title": "Walkin' After Midnight",
+      "album": "Patsy Cline • 1957"
+    },
     {
       "time": "3:07 pm",
       "artist": "Green Day",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Angeles",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "1:39 pm",
-      "artist": "Goodie Mob",
-      "title": "Cell Therapy",
-      "album": "Soul Food • 1995"
     }
   ]
 }
