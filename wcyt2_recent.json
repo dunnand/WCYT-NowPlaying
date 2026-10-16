@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T16:52:42",
+  "updatedAt": "2026-10-16T16:52:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Lennon",
+    "title": "Jealous Guy",
+    "album": "Imagine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:52 pm",
-      "artist": "John Lennon",
-      "title": "Jealous Guy"
-    },
     {
       "time": "4:56 pm",
       "artist": "Bobby Vee",
@@ -26,9 +21,20 @@
       "time": "5:03 pm",
       "artist": "Ben E. King",
       "title": "Spanish Harlem"
+    },
+    {
+      "time": "5:06 pm",
+      "artist": "Kraftwerk",
+      "title": "The Model"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 pm",
+      "artist": "John Lennon",
+      "title": "Jealous Guy",
+      "album": "Imagine • 1971"
+    },
     {
       "time": "4:49 pm",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Patsy Cline",
       "title": "Walkin' After Midnight",
       "album": "Patsy Cline • 1957"
-    },
-    {
-      "time": "3:07 pm",
-      "artist": "Green Day",
-      "title": "Welcome to Paradise",
-      "album": "Dookie • 1994"
     }
   ]
 }
