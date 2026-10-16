@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T05:28:33",
+  "updatedAt": "2026-10-16T05:34:14",
   "now": {
-    "artist": "Sigur Ros",
-    "title": "Star�lfur",
-    "album": "Agaetis byrjun • 1999",
-    "category": "TUNES"
+    "artist": "Queen",
+    "title": "Radio Ga-Ga",
+    "album": "The Works • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 am",
-      "artist": "Queen",
-      "title": "Radio Ga-Ga"
-    },
     {
       "time": "5:40 am",
       "artist": "Rick Springfield",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:34 am",
+      "artist": "Queen",
+      "title": "Radio Ga-Ga",
+      "album": "The Works • 1984"
+    },
     {
       "time": "5:28 am",
       "artist": "Sigur Ros",
@@ -172,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Dear Landlord",
       "album": "John Wesley Harding • 1967"
-    },
-    {
-      "time": "3:54 am",
-      "artist": "Grandaddy",
-      "title": "Now It's On",
-      "album": "Sumday • 2003"
     }
   ]
 }
