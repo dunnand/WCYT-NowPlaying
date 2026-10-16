@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T11:02:02",
+  "updatedAt": "2026-10-16T11:02:32",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "TV on the Radio",
+    "title": "Shout Me Out",
+    "album": "Dear Science • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:02 am",
-      "artist": "TV on the Radio",
-      "title": "Shout Me Out"
-    },
     {
       "time": "11:06 am",
       "artist": "Cate Le Bon",
@@ -26,9 +21,20 @@
       "time": "11:13 am",
       "artist": "Beach House",
       "title": "Master of None"
+    },
+    {
+      "time": "11:17 am",
+      "artist": "The Fall",
+      "title": "Frightened"
     }
   ],
   "recent": [
+    {
+      "time": "11:02 am",
+      "artist": "TV on the Radio",
+      "title": "Shout Me Out",
+      "album": "Dear Science • 2008"
+    },
     {
       "time": "10:58 am",
       "artist": "St. Vincent",
@@ -172,12 +178,6 @@
       "artist": "Swapmeet",
       "title": "Bonny",
       "album": "Mount Zero • 2026"
-    },
-    {
-      "time": "9:27 am",
-      "artist": "Bon Iver",
-      "title": "If Only I Could Wait (feat. Danielle Haim)",
-      "album": "SABLE, fABLE • 2025"
     }
   ]
 }
