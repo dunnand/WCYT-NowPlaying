@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T03:54:35",
+  "updatedAt": "2026-10-16T03:58:11",
   "now": {
-    "artist": "Grandaddy",
-    "title": "Now It's On",
-    "album": "Sumday • 2003",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Dear Landlord",
+    "album": "John Wesley Harding • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 am",
-      "artist": "Bob Dylan",
-      "title": "Dear Landlord"
-    },
     {
       "time": "4:01 am",
       "artist": "Eagles",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:58 am",
+      "artist": "Bob Dylan",
+      "title": "Dear Landlord",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "3:54 am",
       "artist": "Grandaddy",
@@ -177,12 +178,6 @@
       "artist": "Paramore",
       "title": "Still into You",
       "album": "Paramore • 2013"
-    },
-    {
-      "time": "2:17 am",
-      "artist": "Erykah Badu",
-      "title": "The Healer",
-      "album": "New Amerykah, Part One {4th World War} • 2008"
     }
   ]
 }
