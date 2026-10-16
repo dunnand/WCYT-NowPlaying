@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T01:38:35",
+  "updatedAt": "2026-10-16T01:42:51",
   "now": {
-    "artist": "Peter Gabriel",
-    "title": "Solsbury Hill",
-    "album": "Peter Gabriel • 1982",
+    "artist": "Harry Styles",
+    "title": "As It Was",
+    "album": "Harry's House • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "Harry Styles",
-      "title": "As It Was"
-    },
     {
       "time": "1:45 am",
       "artist": "Boards of Canada",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "Camera Obscura",
       "title": "Teenager"
+    },
+    {
+      "time": "1:57 am",
+      "artist": "Radiohead",
+      "title": "Codex"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "album": "Harry's House • 2022"
+    },
     {
       "time": "1:38 am",
       "artist": "Peter Gabriel",
@@ -172,12 +178,6 @@
       "artist": "Jamiroquai",
       "title": "Alright",
       "album": "Travelling Without Moving • 1996"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "Fugazi",
-      "title": "Repeater",
-      "album": "Repeater • 1990"
     }
   ]
 }
