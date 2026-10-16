@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T04:54:31",
+  "updatedAt": "2026-10-16T05:03:20",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "Dance Yrself Clean",
-    "album": "This Is Happening • 2010",
-    "category": "TUNES"
+    "artist": "Bee Gees",
+    "title": "More Than a Woman",
+    "album": "Saturday Night Fever • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 am",
-      "artist": "Bee Gees",
-      "title": "More Than a Woman"
-    },
     {
       "time": "5:06 am",
       "artist": "Roxette",
@@ -26,9 +21,20 @@
       "time": "5:12 am",
       "artist": "Modest Mouse",
       "title": "Float On"
+    },
+    {
+      "time": "5:16 am",
+      "artist": "Bob Dylan",
+      "title": "Masters of War"
     }
   ],
   "recent": [
+    {
+      "time": "5:03 am",
+      "artist": "Bee Gees",
+      "title": "More Than a Woman",
+      "album": "Saturday Night Fever • 1977"
+    },
     {
       "time": "4:54 am",
       "artist": "LCD Soundsystem",
@@ -172,12 +178,6 @@
       "artist": "The Presidents of the United States of America",
       "title": "Peaches",
       "album": "The Presidents of the United States of America • 1995"
-    },
-    {
-      "time": "3:16 am",
-      "artist": "Gorillaz",
-      "title": "Stylo feat. Mos Def and Bobby Womack",
-      "album": "Plastic Beach • 2010"
     }
   ]
 }
