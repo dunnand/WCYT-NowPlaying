@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T03:30:41",
+  "updatedAt": "2026-10-16T03:30:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pixies",
+    "title": "Debaser",
+    "album": "Doolittle • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "Pixies",
-      "title": "Debaser"
-    },
     {
       "time": "3:33 am",
       "artist": "The Police",
@@ -26,9 +21,20 @@
       "time": "3:42 am",
       "artist": "Pink Floyd",
       "title": "Money"
+    },
+    {
+      "time": "3:48 am",
+      "artist": "Grateful Dead",
+      "title": "Estimated Prophet"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "Pixies",
+      "title": "Debaser",
+      "album": "Doolittle • 1989"
+    },
     {
       "time": "3:23 am",
       "artist": "Primal Scream",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Codex",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "1:53 am",
-      "artist": "Camera Obscura",
-      "title": "Teenager",
-      "album": "Underachievers Please Try Harder • 2003"
     }
   ]
 }
