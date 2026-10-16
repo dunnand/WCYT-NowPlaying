@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T18:18:36",
+  "updatedAt": "2026-10-16T18:18:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Paper Thin Walls",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:18 pm",
-      "artist": "Modest Mouse",
-      "title": "Paper Thin Walls"
-    },
     {
       "time": "6:21 pm",
       "artist": "Katy Perry",
@@ -26,9 +21,20 @@
       "time": "6:29 pm",
       "artist": "Tom Petty and the Heartbreakers",
       "title": "All or Nothin'"
+    },
+    {
+      "time": "6:33 pm",
+      "artist": "Macy Gray",
+      "title": "I Try"
     }
   ],
   "recent": [
+    {
+      "time": "6:18 pm",
+      "artist": "Modest Mouse",
+      "title": "Paper Thin Walls",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "6:12 pm",
       "artist": "Nick Cave and the Bad Seeds",
@@ -172,12 +178,6 @@
       "artist": "ABBA",
       "title": "Lay All Your Love on Me",
       "album": "Super Trouper • 1980"
-    },
-    {
-      "time": "4:42 pm",
-      "artist": "Pretenders",
-      "title": "Stop Your Sobbing",
-      "album": "Pretenders • 1980"
     }
   ]
 }
