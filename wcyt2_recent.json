@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T10:20:52",
+  "updatedAt": "2026-10-16T10:26:17",
   "now": {
-    "artist": "Pavement",
-    "title": "The Hexx",
-    "album": "Twilight Terror • 1999",
-    "category": "TUNES"
+    "artist": "Louis Armstrong",
+    "title": "A Kiss to Build a Dream On",
+    "album": "Hello, Dolly! • 1951",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:26 am",
-      "artist": "Louis Armstrong",
-      "title": "A Kiss to Build a Dream On"
-    },
     {
       "time": "10:30 am",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "10:36 am",
       "artist": "James Blake",
       "title": "The Wilhelm Scream"
+    },
+    {
+      "time": "10:41 am",
+      "artist": "Mr. Big",
+      "title": "To Be With You"
     }
   ],
   "recent": [
+    {
+      "time": "10:26 am",
+      "artist": "Louis Armstrong",
+      "title": "A Kiss to Build a Dream On",
+      "album": "Hello, Dolly! • 1951"
+    },
     {
       "time": "10:20 am",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "The Sugarcubes",
       "title": "Regina",
       "album": "Here Today, Tomorrow Next Week! • 1989"
-    },
-    {
-      "time": "8:41 am",
-      "artist": "Wallflowers",
-      "title": "The Difference",
-      "album": "Bringing Down the Horse • 1997"
     }
   ]
 }
