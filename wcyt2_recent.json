@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T18:49:40",
+  "updatedAt": "2026-10-16T18:54:25",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Uncle Albert/Admiral Halsey",
-    "album": "Ram • 1971",
+    "artist": "The Beach Boys",
+    "title": "409",
+    "album": "Surfin' Safari • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:54 pm",
-      "artist": "The Beach Boys",
-      "title": "409"
-    },
     {
       "time": "6:56 pm",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "7:01 pm",
       "artist": "Styx",
       "title": "Renegade"
+    },
+    {
+      "time": "7:05 pm",
+      "artist": "Goldfinger",
+      "title": "Superman"
     }
   ],
   "recent": [
+    {
+      "time": "6:54 pm",
+      "artist": "The Beach Boys",
+      "title": "409",
+      "album": "Surfin' Safari • 1962"
+    },
     {
       "time": "6:49 pm",
       "artist": "Paul McCartney",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "Leif Erikson",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "5:13 pm",
-      "artist": "Fats Domino",
-      "title": "Blue Monday",
-      "album": "This Is Fats Domino! • 1956"
     }
   ]
 }
