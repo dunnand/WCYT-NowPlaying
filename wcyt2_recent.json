@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T07:14:13",
+  "updatedAt": "2026-10-16T07:16:04",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "All Shook Up",
-    "album": "single • 1957",
+    "artist": "MGMT",
+    "title": "Electric Feel",
+    "album": "Oracular Spectacular • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 am",
-      "artist": "MGMT",
-      "title": "Electric Feel"
-    },
     {
       "time": "7:19 am",
       "artist": "Four Tops",
@@ -21,9 +16,20 @@
       "time": "7:22 am",
       "artist": "M.I.A.",
       "title": "Borders"
+    },
+    {
+      "time": "7:27 am",
+      "artist": "Talk Talk",
+      "title": "New Grass"
     }
   ],
   "recent": [
+    {
+      "time": "7:16 am",
+      "artist": "MGMT",
+      "title": "Electric Feel",
+      "album": "Oracular Spectacular • 2007"
+    },
     {
       "time": "7:14 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Rick Springfield",
       "title": "Don't Talk To Strangers",
       "album": "Working Class Dog • 1982"
-    },
-    {
-      "time": "5:34 am",
-      "artist": "Queen",
-      "title": "Radio Ga-Ga",
-      "album": "The Works • 1984"
     }
   ]
 }
