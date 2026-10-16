@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T18:18:48",
+  "updatedAt": "2026-10-16T18:21:42",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Paper Thin Walls",
-    "album": "The Moon & Antarctica • 2000",
-    "category": "TUNES"
+    "artist": "Katy Perry",
+    "title": "Hot N Cold",
+    "album": "Hot N Cold • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:21 pm",
-      "artist": "Katy Perry",
-      "title": "Hot N Cold"
-    },
     {
       "time": "6:25 pm",
       "artist": "J. Cole",
@@ -26,9 +21,20 @@
       "time": "6:33 pm",
       "artist": "Macy Gray",
       "title": "I Try"
+    },
+    {
+      "time": "6:37 pm",
+      "artist": "A Flock Of Seagulls",
+      "title": "I Ran (So Far Away)"
     }
   ],
   "recent": [
+    {
+      "time": "6:21 pm",
+      "artist": "Katy Perry",
+      "title": "Hot N Cold",
+      "album": "Hot N Cold • 2008"
+    },
     {
       "time": "6:18 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Haim",
       "title": "Summer Girl",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "4:44 pm",
-      "artist": "ABBA",
-      "title": "Lay All Your Love on Me",
-      "album": "Super Trouper • 1980"
     }
   ]
 }
