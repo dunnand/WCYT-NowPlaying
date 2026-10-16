@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T12:10:16",
+  "updatedAt": "2026-10-16T12:13:52",
   "now": {
-    "artist": "Blondie",
-    "title": "One Way or Another",
-    "album": "Parallel Lines • 1978",
+    "artist": "Diana Ross & The Supremes",
+    "title": "My World Is Empty Without You",
+    "album": "I Hear a Symphony • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 pm",
-      "artist": "Diana Ross & The Supremes",
-      "title": "My World Is Empty Without You"
-    },
     {
       "time": "12:16 pm",
       "artist": "Buzzcocks",
@@ -26,9 +21,20 @@
       "time": "12:23 pm",
       "artist": "The Cars",
       "title": "Bye Bye Love"
+    },
+    {
+      "time": "12:28 pm",
+      "artist": "R.E.M.",
+      "title": "What's the Frequency, Kenneth?"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 pm",
+      "artist": "Diana Ross & The Supremes",
+      "title": "My World Is Empty Without You",
+      "album": "I Hear a Symphony • 1966"
+    },
     {
       "time": "12:10 pm",
       "artist": "Blondie",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "Personal Jesus",
       "album": "American IV: The Man Comes Around • 2002"
-    },
-    {
-      "time": "10:26 am",
-      "artist": "Louis Armstrong",
-      "title": "A Kiss to Build a Dream On",
-      "album": "Hello, Dolly! • 1951"
     }
   ]
 }
