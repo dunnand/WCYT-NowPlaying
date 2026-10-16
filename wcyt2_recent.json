@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T10:17:50",
+  "updatedAt": "2026-10-16T10:20:52",
   "now": {
-    "artist": "Steve Miller Band",
-    "title": "Jungle Love",
-    "album": "Book of Dreams • 1977",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "The Hexx",
+    "album": "Twilight Terror • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:20 am",
-      "artist": "Pavement",
-      "title": "The Hexx"
-    },
     {
       "time": "10:26 am",
       "artist": "Louis Armstrong",
@@ -26,9 +21,20 @@
       "time": "10:34 am",
       "artist": "Aretha Franklin",
       "title": "Respect"
+    },
+    {
+      "time": "10:36 am",
+      "artist": "James Blake",
+      "title": "The Wilhelm Scream"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 am",
+      "artist": "Pavement",
+      "title": "The Hexx",
+      "album": "Twilight Terror • 1999"
+    },
     {
       "time": "10:17 am",
       "artist": "Steve Miller Band",
@@ -172,12 +178,6 @@
       "artist": "Wallflowers",
       "title": "The Difference",
       "album": "Bringing Down the Horse • 1997"
-    },
-    {
-      "time": "8:38 am",
-      "artist": "The Jesus Lizard",
-      "title": "Mouth Breather",
-      "album": "Goat • 1991"
     }
   ]
 }
