@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T19:21:13",
+  "updatedAt": "2026-10-16T19:25:05",
   "now": {
-    "artist": "Pavement",
-    "title": "Here",
-    "album": "Slanted & Enchanted • 1992",
-    "category": "TUNES"
+    "artist": "Linda Scott",
+    "title": "I've Told Every Little Star",
+    "album": "Donna Reeds Dinner Party • 1995",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:25 pm",
-      "artist": "Linda Scott",
-      "title": "I've Told Every Little Star"
-    },
     {
       "time": "7:27 pm",
       "artist": "The B",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:25 pm",
+      "artist": "Linda Scott",
+      "title": "I've Told Every Little Star",
+      "album": "Donna Reeds Dinner Party • 1995"
+    },
     {
       "time": "7:21 pm",
       "artist": "Pavement",
@@ -172,12 +173,6 @@
       "artist": "Gnarls Barkley",
       "title": "Crazy",
       "album": "St. Elsewhere • 2006"
-    },
-    {
-      "time": "5:53 pm",
-      "artist": "Olivia Newton-John",
-      "title": "Have You Never Been Mellow",
-      "album": "Have You Never Been Mellow • 1975"
     }
   ]
 }
