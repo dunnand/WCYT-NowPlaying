@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T09:01:35",
+  "updatedAt": "2026-10-16T09:04:55",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Night Moves",
-    "album": "Night Moves • 1977",
+    "artist": "Don Gibson",
+    "title": "Lonesome Number One",
+    "album": "I Wrote a Song • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:04 am",
-      "artist": "Don Gibson",
-      "title": "Lonesome Number One"
-    },
     {
       "time": "9:07 am",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "9:13 am",
       "artist": "Led Zeppelin",
       "title": "Dancing Days"
+    },
+    {
+      "time": "9:17 am",
+      "artist": "Ween",
+      "title": "The Mollusk"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "Don Gibson",
+      "title": "Lonesome Number One",
+      "album": "I Wrote a Song • 1961"
+    },
     {
       "time": "9:01 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +178,6 @@
       "artist": "MGMT",
       "title": "Electric Feel",
       "album": "Oracular Spectacular • 2007"
-    },
-    {
-      "time": "7:14 am",
-      "artist": "Elvis Presley",
-      "title": "All Shook Up",
-      "album": "single • 1957"
     }
   ]
 }
