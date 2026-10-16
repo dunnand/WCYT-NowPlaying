@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T08:05:30",
+  "updatedAt": "2026-10-16T08:09:03",
   "now": {
-    "artist": "Jimmy Eat World",
-    "title": "Sweetness",
-    "album": "Bleed American • 2001",
+    "artist": "Four Tops",
+    "title": "Reach Out I'll Be There",
+    "album": "Reach Out • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:09 am",
-      "artist": "Four Tops",
-      "title": "Reach Out I'll Be There"
-    },
     {
       "time": "8:11 am",
       "artist": "Billy Joel",
@@ -26,9 +21,20 @@
       "time": "8:18 am",
       "artist": "Radiohead",
       "title": "Ful Stop"
+    },
+    {
+      "time": "8:24 am",
+      "artist": "M.I.A.",
+      "title": "Bucky Done Gun"
     }
   ],
   "recent": [
+    {
+      "time": "8:09 am",
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There",
+      "album": "Reach Out • 1967"
+    },
     {
       "time": "8:05 am",
       "artist": "Jimmy Eat World",
@@ -172,12 +178,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Hope the High Road",
       "album": "The Nashville Sound • 2017"
-    },
-    {
-      "time": "6:19 am",
-      "artist": "Bob Dylan",
-      "title": "Balad of a Thin Man",
-      "album": "Highway 61 Revisited • 1965"
     }
   ]
 }
