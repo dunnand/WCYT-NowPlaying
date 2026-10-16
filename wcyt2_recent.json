@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T13:59:17",
+  "updatedAt": "2026-10-16T13:59:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Commodores",
+    "title": "Sail On",
+    "album": "Midnight Magic • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:59 pm",
-      "artist": "Commodores",
-      "title": "Sail On"
-    },
     {
       "time": "2:03 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -21,9 +16,20 @@
       "time": "2:06 pm",
       "artist": "The Byrds",
       "title": "Turn! Turn! Turn!"
+    },
+    {
+      "time": "2:10 pm",
+      "artist": "Curtis Mayfield",
+      "title": "Superfly"
     }
   ],
   "recent": [
+    {
+      "time": "1:59 pm",
+      "artist": "Commodores",
+      "title": "Sail On",
+      "album": "Midnight Magic • 1979"
+    },
     {
       "time": "1:55 pm",
       "artist": "Robert Glasper",
@@ -167,12 +173,6 @@
       "artist": "Bobby Darin",
       "title": "Mack The Knife",
       "album": "That's All • 1959"
-    },
-    {
-      "time": "12:27 pm",
-      "artist": "R.E.M.",
-      "title": "What's the Frequency, Kenneth?",
-      "album": "Monster • 1994"
     }
   ]
 }
