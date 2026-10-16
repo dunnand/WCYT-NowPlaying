@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T05:51:33",
+  "updatedAt": "2026-10-16T05:55:48",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Simple Twist of Fate",
-    "album": "Blood on the Tracks • 1975",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "One Big Holiday",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:55 am",
-      "artist": "My Morning Jacket",
-      "title": "One Big Holiday"
-    },
     {
       "time": "6:01 am",
       "artist": "Pink",
@@ -31,9 +26,20 @@
       "time": "6:12 am",
       "artist": "Elvis Presley",
       "title": "I Want You, I Need You, I Love You"
+    },
+    {
+      "time": "6:15 am",
+      "artist": "Justin Timberlake",
+      "title": "Rock Your Body"
     }
   ],
   "recent": [
+    {
+      "time": "5:55 am",
+      "artist": "My Morning Jacket",
+      "title": "One Big Holiday",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "5:51 am",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "Gary Puckett & The Union Gap",
       "title": "Lady Willpower",
       "album": "Incredible • 1968"
-    },
-    {
-      "time": "4:12 am",
-      "artist": "Missy Elliott",
-      "title": "Get Ur Freak On",
-      "album": "Miss E ...So Addictive • 2001"
     }
   ]
 }
