@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T00:49:23",
+  "updatedAt": "2026-10-16T00:49:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Whispers",
+    "title": "And the Beat Goes On",
+    "album": "The Whispers • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "The Whispers",
-      "title": "And the Beat Goes On"
-    },
     {
       "time": "12:53 am",
       "artist": "Crosby, Stills & Nash",
@@ -31,9 +26,20 @@
       "time": "1:07 am",
       "artist": "Drifters",
       "title": "There Goes My Baby"
+    },
+    {
+      "time": "1:09 am",
+      "artist": "Elbow",
+      "title": "One Day Like This"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "The Whispers",
+      "title": "And the Beat Goes On",
+      "album": "The Whispers • 1979"
+    },
     {
       "time": "12:43 am",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "Khruangbin & Leon Bridges",
       "title": "Texas Sun",
       "album": "Texas Sun • 2020"
-    },
-    {
-      "time": "10:25 pm",
-      "artist": "Madness",
-      "title": "Our House",
-      "album": "The Rise & Fall • 1982"
     }
   ]
 }
