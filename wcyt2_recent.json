@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T06:58:53",
+  "updatedAt": "2026-10-16T07:01:57",
   "now": {
-    "artist": "John Prine",
-    "title": "Fish and Whistle",
-    "album": "Bruised Orange • 1978",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Tiny Cities Made of Ashes",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:01 am",
-      "artist": "Modest Mouse",
-      "title": "Tiny Cities Made of Ashes"
-    },
     {
       "time": "7:05 am",
       "artist": "Lil Nas X",
@@ -26,9 +21,20 @@
       "time": "7:11 am",
       "artist": "Super Furry Animals",
       "title": "Something 4 the Weekend"
+    },
+    {
+      "time": "7:14 am",
+      "artist": "Elvis Presley",
+      "title": "All Shook Up"
     }
   ],
   "recent": [
+    {
+      "time": "7:01 am",
+      "artist": "Modest Mouse",
+      "title": "Tiny Cities Made of Ashes",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "6:58 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Masters of War",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "5:12 am",
-      "artist": "Modest Mouse",
-      "title": "Float On",
-      "album": "Good News for People Who Love Bad News • 2004"
     }
   ]
 }
