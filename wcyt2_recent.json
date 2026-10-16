@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T15:01:12",
+  "updatedAt": "2026-10-16T15:04:16",
   "now": {
-    "artist": "Bobby \"Boris\" Pickett",
-    "title": "The Monster Mash",
-    "album": "The Original Monster Mash • 1962",
+    "artist": "Elvis Presley",
+    "title": "Always On My Mind",
+    "album": "Separate Ways • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:04 pm",
-      "artist": "Elvis Presley",
-      "title": "Always On My Mind"
-    },
     {
       "time": "3:07 pm",
       "artist": "Green Day",
@@ -23,12 +18,23 @@
       "title": "Walkin' After Midnight"
     },
     {
-      "time": "3:14 pm",
+      "time": "3:13 pm",
       "artist": "Modest Mouse",
       "title": "Gravity Rides Everything"
+    },
+    {
+      "time": "3:18 pm",
+      "artist": "Aretha Franklin",
+      "title": "(You Make Me Feel Like) A Natural Woman"
     }
   ],
   "recent": [
+    {
+      "time": "3:04 pm",
+      "artist": "Elvis Presley",
+      "title": "Always On My Mind",
+      "album": "Separate Ways • 1972"
+    },
     {
       "time": "3:01 pm",
       "artist": "Bobby \"Boris\" Pickett",
@@ -172,12 +178,6 @@
       "artist": "Joey Bad",
       "title": "For My People",
       "album": "All-Amerikkkan • 2017"
-    },
-    {
-      "time": "1:32 pm",
-      "artist": "The Four Seasons",
-      "title": "Rag Doll",
-      "album": "Rag Doll • 1964"
     }
   ]
 }
