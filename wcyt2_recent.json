@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T12:23:52",
+  "updatedAt": "2026-10-16T12:27:58",
   "now": {
-    "artist": "The Cars",
-    "title": "Bye Bye Love",
-    "album": "The Cars • 1978",
+    "artist": "R.E.M.",
+    "title": "What's the Frequency, Kenneth?",
+    "album": "Monster • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:28 pm",
-      "artist": "R.E.M.",
-      "title": "What's the Frequency, Kenneth?"
-    },
     {
       "time": "12:31 pm",
       "artist": "Bobby Darin",
@@ -26,9 +21,20 @@
       "time": "12:38 pm",
       "artist": "Browns",
       "title": "The Old Lamplighter"
+    },
+    {
+      "time": "12:40 pm",
+      "artist": "LCD Soundsystem",
+      "title": "All I Want"
     }
   ],
   "recent": [
+    {
+      "time": "12:27 pm",
+      "artist": "R.E.M.",
+      "title": "What's the Frequency, Kenneth?",
+      "album": "Monster • 1994"
+    },
     {
       "time": "12:23 pm",
       "artist": "The Cars",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Climbing Up the Walls",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "10:41 am",
-      "artist": "Mr. Big",
-      "title": "To Be With You",
-      "album": "Lean into It • 1991"
     }
   ]
 }
