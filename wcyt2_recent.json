@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T10:00:47",
+  "updatedAt": "2026-10-16T10:04:46",
   "now": {
-    "artist": "Paul McCartney and Wings",
-    "title": "Jet",
-    "album": "Band on the Run • 1973",
+    "artist": "Cat Stevens",
+    "title": "The First Cut Is The Deepest",
+    "album": "New Masters • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:04 am",
-      "artist": "Cat Stevens",
-      "title": "The First Cut Is The Deepest"
-    },
     {
       "time": "10:07 am",
       "artist": "Steely Dan",
@@ -26,9 +21,20 @@
       "time": "10:17 am",
       "artist": "Steve Miller Band",
       "title": "Jungle Love"
+    },
+    {
+      "time": "10:20 am",
+      "artist": "Pavement",
+      "title": "The Hexx"
     }
   ],
   "recent": [
+    {
+      "time": "10:04 am",
+      "artist": "Cat Stevens",
+      "title": "The First Cut Is The Deepest",
+      "album": "New Masters • 1967"
+    },
     {
       "time": "10:00 am",
       "artist": "Paul McCartney and Wings",
@@ -172,12 +178,6 @@
       "artist": "M.I.A.",
       "title": "Bucky Done Gun",
       "album": "Arular • 2005"
-    },
-    {
-      "time": "8:18 am",
-      "artist": "Radiohead",
-      "title": "Ful Stop",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
