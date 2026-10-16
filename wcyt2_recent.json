@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T20:00:14",
+  "updatedAt": "2026-10-15T20:00:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Lost in the Supermarket",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "The Clash",
-      "title": "Lost in the Supermarket"
-    },
     {
       "time": "8:04 pm",
       "artist": "Ten Years After",
@@ -26,9 +21,20 @@
       "time": "8:11 pm",
       "artist": "Gerry & The Pacemakers",
       "title": "Ferry Cross The Mersey"
+    },
+    {
+      "time": "8:13 pm",
+      "artist": "Robert John",
+      "title": "The Lion Sleeps Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "The Clash",
+      "title": "Lost in the Supermarket",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "7:56 pm",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Buckets of Rain",
       "album": "Blood on the Tracks • 1975"
-    },
-    {
-      "time": "6:22 pm",
-      "artist": "Barbara Lewis",
-      "title": "Hello Stranger",
-      "album": "Hello Stranger • 1963"
     }
   ]
 }
