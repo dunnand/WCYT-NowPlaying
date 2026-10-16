@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T10:00:37",
+  "updatedAt": "2026-10-16T10:00:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney and Wings",
+    "title": "Jet",
+    "album": "Band on the Run • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 am",
-      "artist": "Paul McCartney and Wings",
-      "title": "Jet"
-    },
     {
       "time": "10:04 am",
       "artist": "Cat Stevens",
@@ -26,9 +21,20 @@
       "time": "10:15 am",
       "artist": "The Four Seasons",
       "title": "Candy Girl"
+    },
+    {
+      "time": "10:17 am",
+      "artist": "Steve Miller Band",
+      "title": "Jungle Love"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 am",
+      "artist": "Paul McCartney and Wings",
+      "title": "Jet",
+      "album": "Band on the Run • 1973"
+    },
     {
       "time": "9:56 am",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Ful Stop",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "8:14 am",
-      "artist": "The Cardigans",
-      "title": "Lovefool",
-      "album": "First Band on the Moon • 1996"
     }
   ]
 }
