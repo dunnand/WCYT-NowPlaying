@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T05:28:23",
+  "updatedAt": "2026-10-16T05:28:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Star�lfur",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:28 am",
-      "artist": "Sigur Ros",
-      "title": "Star�lfur"
-    },
     {
       "time": "5:34 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "5:42 am",
       "artist": "Grimes",
       "title": "We Appreciate Power (feat. Hana)"
+    },
+    {
+      "time": "5:48 am",
+      "artist": "Interpol",
+      "title": "Hands Away"
     }
   ],
   "recent": [
+    {
+      "time": "5:28 am",
+      "artist": "Sigur Ros",
+      "title": "Star�lfur",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "5:24 am",
       "artist": "Seal",
@@ -172,12 +178,6 @@
       "artist": "Grandaddy",
       "title": "Now It's On",
       "album": "Sumday • 2003"
-    },
-    {
-      "time": "3:48 am",
-      "artist": "Grateful Dead",
-      "title": "Estimated Prophet",
-      "album": "Terrapin Station • 1977"
     }
   ]
 }
