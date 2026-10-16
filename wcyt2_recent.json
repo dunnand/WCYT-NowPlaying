@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T22:37:36",
+  "updatedAt": "2026-10-15T22:37:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Player",
+    "title": "Baby Come Back",
+    "album": "Player • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:37 pm",
-      "artist": "Player",
-      "title": "Baby Come Back"
-    },
     {
       "time": "10:41 pm",
       "artist": "Drifters",
@@ -31,9 +26,20 @@
       "time": "10:53 pm",
       "artist": "Elvis Presley",
       "title": "Don't Be Cruel"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "Broadcast",
+      "title": "Valerie"
     }
   ],
   "recent": [
+    {
+      "time": "10:37 pm",
+      "artist": "Player",
+      "title": "Baby Come Back",
+      "album": "Player • 1977"
+    },
     {
       "time": "10:34 pm",
       "artist": "Herman's Hermits",
@@ -177,12 +183,6 @@
       "artist": "Chuck Berry",
       "title": "School Days",
       "album": "After School Session • 1957"
-    },
-    {
-      "time": "9:06 pm",
-      "artist": "Gang Starr",
-      "title": "Mass Appeal",
-      "album": "Hard to Earn • 1994"
     }
   ]
 }
