@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T10:52:42",
+  "updatedAt": "2026-10-16T10:52:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Antlers",
+    "title": "Something in the Air",
+    "album": "Blight • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:52 am",
-      "artist": "The Antlers",
-      "title": "Something in the Air"
-    },
     {
       "time": "10:58 am",
       "artist": "St. Vincent",
@@ -26,9 +21,20 @@
       "time": "11:05 am",
       "artist": "Father John Misty",
       "title": "The X-panded Universe"
+    },
+    {
+      "time": "11:11 am",
+      "artist": "Way Dynamic",
+      "title": "Officially"
     }
   ],
   "recent": [
+    {
+      "time": "10:52 am",
+      "artist": "The Antlers",
+      "title": "Something in the Air",
+      "album": "Blight • 2025"
+    },
     {
       "time": "10:46 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Tom Waits",
       "title": "Day After Tomorrow",
       "album": "Real Gone • 2004"
-    },
-    {
-      "time": "9:16 am",
-      "artist": "Grizzly Bear",
-      "title": "Three Rings",
-      "album": "Painted Ruins • 2017"
     }
   ]
 }
