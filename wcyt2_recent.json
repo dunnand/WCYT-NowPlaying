@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T01:28:20",
+  "updatedAt": "2026-10-16T01:28:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "album": "Metallica • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:28 am",
-      "artist": "Metallica",
-      "title": "Enter Sandman"
-    },
     {
       "time": "1:34 am",
       "artist": "Orchestral Manoeuvres in the Dark",
@@ -26,9 +21,20 @@
       "time": "1:43 am",
       "artist": "Harry Styles",
       "title": "As It Was"
+    },
+    {
+      "time": "1:45 am",
+      "artist": "Boards of Canada",
+      "title": "1969"
     }
   ],
   "recent": [
+    {
+      "time": "1:28 am",
+      "artist": "Metallica",
+      "title": "Enter Sandman",
+      "album": "Metallica • 1991"
+    },
     {
       "time": "1:22 am",
       "artist": "Lush",
@@ -172,12 +178,6 @@
       "artist": "Garnet Mimms & The Enchanters",
       "title": "Cry Baby",
       "album": "Cry Baby • 1963"
-    },
-    {
-      "time": "10:55 pm",
-      "artist": "Broadcast",
-      "title": "Valerie",
-      "album": "Haha Sound • 2003"
     }
   ]
 }
