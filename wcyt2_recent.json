@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T22:00:26",
+  "updatedAt": "2026-10-15T22:04:54",
   "now": {
-    "artist": "Fruit Bats",
-    "title": "When U Love Somebody",
-    "album": "Mouthfuls • 2003",
-    "category": "TUNES"
+    "artist": "blink-182",
+    "title": "Always",
+    "album": "blink-182 • 2003",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:04 pm",
-      "artist": "blink",
-      "title": "182 - Always"
-    },
     {
       "time": "10:09 pm",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "10:17 pm",
       "artist": "Elastica",
       "title": "Stutter"
+    },
+    {
+      "time": "10:19 pm",
+      "artist": "Leonard Cohen",
+      "title": "First We Take Manhattan"
     }
   ],
   "recent": [
+    {
+      "time": "10:04 pm",
+      "artist": "blink-182",
+      "title": "Always",
+      "album": "blink-182 • 2003"
+    },
     {
       "time": "10:00 pm",
       "artist": "Fruit Bats",
@@ -172,12 +178,6 @@
       "artist": "Minor Threat",
       "title": "Cashing In",
       "album": "Out of Step • 1983"
-    },
-    {
-      "time": "8:24 pm",
-      "artist": "Fugees",
-      "title": "Fu-Gee-La",
-      "album": "The Score • 1996"
     }
   ]
 }
