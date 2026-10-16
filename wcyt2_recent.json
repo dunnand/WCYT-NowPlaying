@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T01:15:47",
+  "updatedAt": "2026-10-16T01:16:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Help Me, Rhonda",
+    "album": "Summer Days • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:16 am",
-      "artist": "The Beach Boys",
-      "title": "Help Me, Rhonda"
-    },
     {
       "time": "1:18 am",
       "artist": "M83",
@@ -26,9 +21,20 @@
       "time": "1:28 am",
       "artist": "Metallica",
       "title": "Enter Sandman"
+    },
+    {
+      "time": "1:34 am",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "title": "Messages"
     }
   ],
   "recent": [
+    {
+      "time": "1:16 am",
+      "artist": "The Beach Boys",
+      "title": "Help Me, Rhonda",
+      "album": "Summer Days • 1965"
+    },
     {
       "time": "1:09 am",
       "artist": "Elbow",
@@ -172,12 +178,6 @@
       "artist": "Elton John",
       "title": "Circle Of Life",
       "album": "The Lion King: Original Motion Picture Soundtrack • 1994"
-    },
-    {
-      "time": "10:43 pm",
-      "artist": "The Fall",
-      "title": "Frightened",
-      "album": "Live at the Witch Trials • 1979"
     }
   ]
 }
