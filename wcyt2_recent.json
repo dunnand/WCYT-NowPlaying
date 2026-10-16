@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-15T20:52:07",
+  "updatedAt": "2026-10-15T20:56:45",
   "now": {
-    "artist": "Coldplay",
-    "title": "Speed of Sound",
-    "album": "X&Y • 2005",
+    "artist": "Lana Del Rey",
+    "title": "Video Games",
+    "album": "Born to Die • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:56 pm",
-      "artist": "Lana Del Rey",
-      "title": "Video Games"
-    },
     {
       "time": "9:01 pm",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "9:10 pm",
       "artist": "Chuck Berry",
       "title": "School Days"
+    },
+    {
+      "time": "9:12 pm",
+      "artist": "Feist",
+      "title": "My Moon My Man"
     }
   ],
   "recent": [
+    {
+      "time": "8:56 pm",
+      "artist": "Lana Del Rey",
+      "title": "Video Games",
+      "album": "Born to Die • 2012"
+    },
     {
       "time": "8:52 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Talkin' Blues",
       "album": "Natty Dread • 1974"
-    },
-    {
-      "time": "7:11 pm",
-      "artist": "XTC",
-      "title": "Making Plans for Nigel",
-      "album": "Drums and Wires • 1979"
     }
   ]
 }
