@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T02:54:14",
+  "updatedAt": "2026-10-16T02:54:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Rocket Man",
+    "album": "Honky Chteau • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:54 am",
-      "artist": "Elton John",
-      "title": "Rocket Man"
-    },
     {
       "time": "2:58 am",
       "artist": "Jan & Dean",
@@ -26,9 +21,20 @@
       "time": "3:04 am",
       "artist": "Pixies",
       "title": "Hey"
+    },
+    {
+      "time": "3:08 am",
+      "artist": "Link Wray & His Ray Men",
+      "title": "Rumble"
     }
   ],
   "recent": [
+    {
+      "time": "2:54 am",
+      "artist": "Elton John",
+      "title": "Rocket Man",
+      "album": "Honky Chteau • 1972"
+    },
     {
       "time": "2:51 am",
       "artist": "Dixie Cups",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Help Me, Rhonda",
       "album": "Summer Days • 1965"
-    },
-    {
-      "time": "1:09 am",
-      "artist": "Elbow",
-      "title": "One Day Like This",
-      "album": "The Seldom Seen Kid • 2008"
     }
   ]
 }
