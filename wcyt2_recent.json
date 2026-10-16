@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T15:04:16",
+  "updatedAt": "2026-10-16T15:07:39",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Always On My Mind",
-    "album": "Separate Ways • 1972",
+    "artist": "Green Day",
+    "title": "Welcome to Paradise",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:07 pm",
-      "artist": "Green Day",
-      "title": "Welcome to Paradise"
-    },
     {
       "time": "3:11 pm",
       "artist": "Patsy Cline",
@@ -26,9 +21,20 @@
       "time": "3:18 pm",
       "artist": "Aretha Franklin",
       "title": "(You Make Me Feel Like) A Natural Woman"
+    },
+    {
+      "time": "3:20 pm",
+      "artist": "Johnny Cash",
+      "title": "Ain't No Grave"
     }
   ],
   "recent": [
+    {
+      "time": "3:07 pm",
+      "artist": "Green Day",
+      "title": "Welcome to Paradise",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "3:04 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Goodie Mob",
       "title": "Cell Therapy",
       "album": "Soul Food • 1995"
-    },
-    {
-      "time": "1:35 pm",
-      "artist": "Joey Bad",
-      "title": "For My People",
-      "album": "All-Amerikkkan • 2017"
     }
   ]
 }
