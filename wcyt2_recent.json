@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-10-16T07:07:43",
+  "updatedAt": "2026-10-16T07:11:20",
   "now": {
-    "artist": "Queen",
-    "title": "Don't Stop Me Now",
-    "album": "Jazz • 1978",
+    "artist": "Super Furry Animals",
+    "title": "Something 4 the Weekend",
+    "album": "Fuzzy Logic • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:11 am",
-      "artist": "Super Furry Animals",
-      "title": "Something 4 the Weekend"
-    },
     {
       "time": "7:14 am",
       "artist": "Elvis Presley",
       "title": "All Shook Up"
     },
     {
-      "time": "7:16 am",
+      "time": "7:15 am",
       "artist": "MGMT",
       "title": "Electric Feel"
+    },
+    {
+      "time": "7:19 am",
+      "artist": "Four Tops",
+      "title": "It's The Same Old Song"
     }
   ],
   "recent": [
+    {
+      "time": "7:11 am",
+      "artist": "Super Furry Animals",
+      "title": "Something 4 the Weekend",
+      "album": "Fuzzy Logic • 1996"
+    },
     {
       "time": "7:07 am",
       "artist": "Queen",
@@ -167,12 +173,6 @@
       "artist": "Sigur Ros",
       "title": "Star�lfur",
       "album": "Agaetis byrjun • 1999"
-    },
-    {
-      "time": "5:24 am",
-      "artist": "Seal",
-      "title": "Fly Like An Eagle",
-      "album": "Space Jam Soundtrack • 1996"
     }
   ]
 }
