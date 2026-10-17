@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T13:35:15",
+  "updatedAt": "2026-10-17T13:39:31",
   "now": {
-    "artist": "julie",
-    "title": "flutter",
-    "album": "flutter • 2020",
+    "artist": "Buzzcocks",
+    "title": "Boredom",
+    "album": "Spiral Scratch • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:39 pm",
-      "artist": "Buzzcocks",
-      "title": "Boredom"
-    },
     {
       "time": "1:42 pm",
       "artist": "beabadoobee",
@@ -21,9 +16,20 @@
       "time": "1:45 pm",
       "artist": "Hovvdy",
       "title": "Forever"
+    },
+    {
+      "time": "1:48 pm",
+      "artist": "The White Stripes",
+      "title": "Jimmy the Exploder"
     }
   ],
   "recent": [
+    {
+      "time": "1:39 pm",
+      "artist": "Buzzcocks",
+      "title": "Boredom",
+      "album": "Spiral Scratch • 1977"
+    },
     {
       "time": "1:35 pm",
       "artist": "julie",
@@ -167,12 +173,6 @@
       "artist": "Sextile",
       "title": "Contortion",
       "album": "Push • 2023"
-    },
-    {
-      "time": "11:57 am",
-      "artist": "Big Thief",
-      "title": "Orange",
-      "album": "U.F.O.F. • 2019"
     }
   ]
 }
