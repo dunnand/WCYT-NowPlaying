@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T22:39:24",
+  "updatedAt": "2026-10-16T22:42:27",
   "now": {
-    "artist": "Sonny & Cher",
-    "title": "I Got You Babe",
-    "album": "Look at Us • 1965",
+    "artist": "Bill Withers",
+    "title": "Loveley Day",
+    "album": "Menagerie • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:42 pm",
-      "artist": "Bill Withers",
-      "title": "Loveley Day"
-    },
     {
       "time": "10:46 pm",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "10:53 pm",
       "artist": "Neko Case",
       "title": "Deep Red Bells"
+    },
+    {
+      "time": "10:57 pm",
+      "artist": "Neil Diamond",
+      "title": "Sweet Caroline"
     }
   ],
   "recent": [
+    {
+      "time": "10:42 pm",
+      "artist": "Bill Withers",
+      "title": "Loveley Day",
+      "album": "Menagerie • 1977"
+    },
     {
       "time": "10:39 pm",
       "artist": "Sonny & Cher",
@@ -172,12 +178,6 @@
       "artist": "Monica",
       "title": "For You I Will",
       "album": "The Boy Is Mine • 1997"
-    },
-    {
-      "time": "9:05 pm",
-      "artist": "Moses Sumney",
-      "title": "Cut Me",
-      "album": "Aromanticism • 2017"
     }
   ]
 }
