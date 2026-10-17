@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T22:28:57",
+  "updatedAt": "2026-10-16T22:29:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barry Manilow",
+    "title": "Looks Like We Made It",
+    "album": "This One's for You • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:29 pm",
-      "artist": "Barry Manilow",
-      "title": "Looks Like We Made It"
-    },
     {
       "time": "10:32 pm",
       "artist": "Barry White",
@@ -26,9 +21,20 @@
       "time": "10:39 pm",
       "artist": "Sonny & Cher",
       "title": "I Got You Babe"
+    },
+    {
+      "time": "10:42 pm",
+      "artist": "Bill Withers",
+      "title": "Loveley Day"
     }
   ],
   "recent": [
+    {
+      "time": "10:29 pm",
+      "artist": "Barry Manilow",
+      "title": "Looks Like We Made It",
+      "album": "This One's for You • 1976"
+    },
     {
       "time": "10:25 pm",
       "artist": "Magdalena Bay",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Brown Eyed Handsome Man",
       "album": "After School Session • 1957"
-    },
-    {
-      "time": "8:50 pm",
-      "artist": "Weezer",
-      "title": "Pink Triangle",
-      "album": "Pinkerton • 1996"
     }
   ]
 }
