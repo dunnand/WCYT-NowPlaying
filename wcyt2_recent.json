@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T23:58:02",
+  "updatedAt": "2026-10-17T00:03:33",
   "now": {
-    "artist": "Alice in Chains",
-    "title": "Down in a Hole",
-    "album": "Dirt • 1992",
+    "artist": "Dell-Vikings",
+    "title": "Come Go With Me",
+    "album": "Come Go With the Del-Vikings • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "Dell",
-      "title": "Vikings - Come Go With Me"
-    },
     {
       "time": "12:06 am",
       "artist": "The New Pornographers",
@@ -26,9 +21,20 @@
       "time": "12:12 am",
       "artist": "Maggie Rogers",
       "title": "On + Off"
+    },
+    {
+      "time": "12:15 am",
+      "artist": "Aphex Twin",
+      "title": "Windowlicker"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "Dell-Vikings",
+      "title": "Come Go With Me",
+      "album": "Come Go With the Del-Vikings • 1957"
+    },
     {
       "time": "11:58 pm",
       "artist": "Alice in Chains",
@@ -172,12 +178,6 @@
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Against The Wind",
       "album": "Against the Wind • 1980"
-    },
-    {
-      "time": "10:10 pm",
-      "artist": "Foo Fighters",
-      "title": "My Hero",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
