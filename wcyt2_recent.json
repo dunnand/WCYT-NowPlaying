@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T01:02:58",
+  "updatedAt": "2026-10-17T01:03:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Johnny Cash",
+    "title": "The Man Comes Around",
+    "album": "American IV: The Man Comes Around • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Johnny Cash",
-      "title": "The Man Comes Around"
-    },
     {
       "time": "1:07 am",
       "artist": "Joe",
@@ -26,9 +21,20 @@
       "time": "1:15 am",
       "artist": "Belle and Sebastian",
       "title": "Expectations"
+    },
+    {
+      "time": "1:19 am",
+      "artist": "Built to Spill",
+      "title": "Bad Light"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Johnny Cash",
+      "title": "The Man Comes Around",
+      "album": "American IV: The Man Comes Around • 2002"
+    },
     {
       "time": "12:58 am",
       "artist": "Joey Bad",
@@ -172,12 +178,6 @@
       "artist": "Commodores",
       "title": "Nightshift",
       "album": "Nightshift • 1985"
-    },
-    {
-      "time": "11:15 pm",
-      "artist": "Boogie Down Productions",
-      "title": "Stop the Violence",
-      "album": "By All Means Necessary • 1988"
     }
   ]
 }
