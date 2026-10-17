@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T17:26:36",
+  "updatedAt": "2026-10-17T17:30:00",
   "now": {
-    "artist": "Mott the Hoople",
-    "title": "All the Young Dudes",
-    "album": "All the Young Dudes • 1972",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Roman Candle",
+    "album": "Roman Candle • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "Elliott Smith",
-      "title": "Roman Candle"
-    },
     {
       "time": "5:33 pm",
       "artist": "Huey \"Piano\" Smith",
@@ -26,9 +21,20 @@
       "time": "5:40 pm",
       "artist": "Rolling Stones",
       "title": "Let's Spend The Night Together"
+    },
+    {
+      "time": "5:44 pm",
+      "artist": "FUN.",
+      "title": "Carry On"
     }
   ],
   "recent": [
+    {
+      "time": "5:30 pm",
+      "artist": "Elliott Smith",
+      "title": "Roman Candle",
+      "album": "Roman Candle • 1994"
+    },
     {
       "time": "5:26 pm",
       "artist": "Mott the Hoople",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Even Better Than The Real Thing",
       "album": "Achtung Baby • 1992"
-    },
-    {
-      "time": "3:41 pm",
-      "artist": "Superchunk",
-      "title": "Hyper Enough",
-      "album": "Here's Where the Strings Come In • 1995"
     }
   ]
 }
