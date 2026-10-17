@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T18:52:49",
+  "updatedAt": "2026-10-17T18:52:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Metallica",
+    "title": "Master of Puppets",
+    "album": "Master of Puppets • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:52 pm",
-      "artist": "Metallica",
-      "title": "Master of Puppets"
-    },
     {
       "time": "7:01 pm",
       "artist": "Kazumi Totaka",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:52 pm",
+      "artist": "Metallica",
+      "title": "Master of Puppets",
+      "album": "Master of Puppets • 1986"
+    },
     {
       "time": "6:48 pm",
       "artist": "Men At Work",
@@ -172,12 +173,6 @@
       "artist": "Mott the Hoople",
       "title": "All the Young Dudes",
       "album": "All the Young Dudes • 1972"
-    },
-    {
-      "time": "5:23 pm",
-      "artist": "The Band",
-      "title": "To Kingdom Come",
-      "album": "Music from Big Pink • 1968"
     }
   ]
 }
