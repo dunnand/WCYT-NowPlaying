@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T14:03:27",
+  "updatedAt": "2026-10-17T14:08:22",
   "now": {
-    "artist": "Pere Ubu",
-    "title": "Final Solution",
-    "album": "single • 1976",
+    "artist": "Johnny Cash",
+    "title": "A Boy Named Sue",
+    "album": "At San Quentin • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:08 pm",
-      "artist": "Johnny Cash",
-      "title": "A Boy Named Sue"
-    },
     {
       "time": "2:12 pm",
       "artist": "The Police",
@@ -26,9 +21,20 @@
       "time": "2:19 pm",
       "artist": "Ramones",
       "title": "Beat on the Brat"
+    },
+    {
+      "time": "2:21 pm",
+      "artist": "Pavement",
+      "title": "Grounded"
     }
   ],
   "recent": [
+    {
+      "time": "2:08 pm",
+      "artist": "Johnny Cash",
+      "title": "A Boy Named Sue",
+      "album": "At San Quentin • 1969"
+    },
     {
       "time": "2:03 pm",
       "artist": "Pere Ubu",
@@ -172,12 +178,6 @@
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Red Right Hand",
       "album": "Let Love In • 1994"
-    },
-    {
-      "time": "12:24 pm",
-      "artist": "Leonard Cohen",
-      "title": "I Want It Darker",
-      "album": "You Want It Darker • 2016"
     }
   ]
 }
