@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T00:41:30",
+  "updatedAt": "2026-10-17T00:42:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Brian Eno",
+    "title": "By This River",
+    "album": "Before and After Science • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "Brian Eno",
-      "title": "By This River"
-    },
     {
       "time": "12:44 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -31,9 +26,20 @@
       "time": "12:56 am",
       "artist": "Beat Happening",
       "title": "Hot Chocolate Boy"
+    },
+    {
+      "time": "12:58 am",
+      "artist": "Joey Bad",
+      "title": "Land of the Free"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "Brian Eno",
+      "title": "By This River",
+      "album": "Before and After Science • 1977"
+    },
     {
       "time": "12:36 am",
       "artist": "King Creosote",
@@ -177,12 +183,6 @@
       "artist": "Neko Case",
       "title": "Deep Red Bells",
       "album": "Blacklisted • 2002"
-    },
-    {
-      "time": "10:50 pm",
-      "artist": "Chordettes",
-      "title": "Mr. Sandman",
-      "album": "The Chordettes • 1957"
     }
   ]
 }
