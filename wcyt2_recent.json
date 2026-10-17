@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T04:46:43",
+  "updatedAt": "2026-10-17T04:46:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Just Because I Do",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "My Morning Jacket",
-      "title": "Just Because I Do"
-    },
     {
       "time": "4:49 am",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "4:58 am",
       "artist": "Pearl Jam",
       "title": "Better Man"
+    },
+    {
+      "time": "5:03 am",
+      "artist": "The Smashing Pumpkins",
+      "title": "Landslide"
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "4:43 am",
       "artist": "Maroon 5",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "In a Jar",
       "album": "You're Living All Over Me • 1987"
-    },
-    {
-      "time": "3:16 am",
-      "artist": "Dexy's Midnight Runners",
-      "title": "Come On Eileen",
-      "album": "Too-Rye-Ay • 1982"
     }
   ]
 }
