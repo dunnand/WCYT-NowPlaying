@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T05:28:37",
+  "updatedAt": "2026-10-17T05:32:23",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "Lay Down Sally",
-    "album": "Slowhand • 1978",
+    "artist": "Lonestar",
+    "title": "Amazed",
+    "album": "Lonely Grill • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 am",
-      "artist": "Lonestar",
-      "title": "Amazed"
-    },
     {
       "time": "5:36 am",
       "artist": "Little Richard",
@@ -21,9 +16,20 @@
       "time": "5:38 am",
       "artist": "Klaxons",
       "title": "Golden Skans"
+    },
+    {
+      "time": "5:41 am",
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "Dancing In The Street"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 am",
+      "artist": "Lonestar",
+      "title": "Amazed",
+      "album": "Lonely Grill • 1999"
+    },
     {
       "time": "5:28 am",
       "artist": "Eric Clapton",
@@ -167,12 +173,6 @@
       "artist": "Elliott Smith",
       "title": "Cupid's Trick",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "4:02 am",
-      "artist": "Primus",
-      "title": "Jerry Was A Race Car Driver",
-      "album": "Sailing the Seas of Cheese • 1991"
     }
   ]
 }
