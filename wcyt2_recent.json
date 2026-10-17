@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T13:30:47",
+  "updatedAt": "2026-10-17T13:30:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Hard To Explain.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:30 pm",
-      "artist": "The Strokes",
-      "title": "Hard To Explain."
-    },
     {
       "time": "1:34 pm",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "1:43 pm",
       "artist": "Yo La Tengo",
       "title": "Big Day Coming"
+    },
+    {
+      "time": "1:50 pm",
+      "artist": "Michael W. Smith",
+      "title": "Place In This World"
     }
   ],
   "recent": [
+    {
+      "time": "1:30 pm",
+      "artist": "The Strokes",
+      "title": "Hard To Explain.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "1:25 pm",
       "artist": "LCD Soundsystem",
@@ -172,12 +178,6 @@
       "artist": "John Denver",
       "title": "Rocky Mountain High",
       "album": "Rocky Mountain High • 1972"
-    },
-    {
-      "time": "11:57 am",
-      "artist": "Joe Jackson",
-      "title": "Is She Really Going Out With Him?",
-      "album": "Look Sharp! • 1979"
     }
   ]
 }
