@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T10:16:50",
+  "updatedAt": "2026-10-17T10:19:44",
   "now": {
-    "artist": "James Taylor",
-    "title": "Mexico",
-    "album": "Gorilla • 1975",
+    "artist": "Nine Inch Nails",
+    "title": "Hurt",
+    "album": "The Downward Spiral • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:19 am",
-      "artist": "Nine Inch Nails",
-      "title": "Hurt"
-    },
     {
       "time": "10:24 am",
       "artist": "Ritchie Valens",
@@ -21,9 +16,20 @@
       "time": "10:26 am",
       "artist": "PJ Harvey",
       "title": "A Place Called Home"
+    },
+    {
+      "time": "10:30 am",
+      "artist": "Peter, Paul & Mary",
+      "title": "Puff The Magic Dragon"
     }
   ],
   "recent": [
+    {
+      "time": "10:19 am",
+      "artist": "Nine Inch Nails",
+      "title": "Hurt",
+      "album": "The Downward Spiral • 1994"
+    },
     {
       "time": "10:16 am",
       "artist": "James Taylor",
@@ -167,12 +173,6 @@
       "artist": "Ride",
       "title": "Chrome  Waves",
       "album": "Going Blank Again • 1990"
-    },
-    {
-      "time": "8:31 am",
-      "artist": "Oasis",
-      "title": "Rock 'n' Roll Star",
-      "album": "Definitely Maybe • 1994"
     }
   ]
 }
