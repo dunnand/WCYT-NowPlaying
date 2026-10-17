@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T01:56:12",
+  "updatedAt": "2026-10-17T01:58:15",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Well...All Right",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Roland",
+    "album": "Turn on the Bright Lights • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:58 am",
-      "artist": "Interpol",
-      "title": "Roland"
-    },
     {
       "time": "2:02 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:58 am",
+      "artist": "Interpol",
+      "title": "Roland",
+      "album": "Turn on the Bright Lights • 2002"
+    },
     {
       "time": "1:56 am",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "Crowded House",
       "title": "Something So Strong",
       "album": "Crowded House • 1987"
-    },
-    {
-      "time": "12:26 am",
-      "artist": "Crosby, Stills & Nash",
-      "title": "Wasted On The Way",
-      "album": "Daylight Again • 1982"
     }
   ]
 }
