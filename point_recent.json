@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T03:39:03",
+  "updatedAt": "2026-10-17T03:41:37",
   "now": {
-    "artist": "Lykke Li",
-    "title": "Happy Now",
-    "album": "The Afterparty • 2026",
+    "artist": "Wishy",
+    "title": "Mona Lisa",
+    "album": "Nature's Pill • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:41 am",
-      "artist": "Wishy",
-      "title": "Mona Lisa"
-    },
     {
       "time": "3:46 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "3:56 am",
       "artist": "Vampire Weekend",
       "title": "Obvious Bicycle"
+    },
+    {
+      "time": "4:00 am",
+      "artist": "Vampire Weekend",
+      "title": "Classical"
     }
   ],
   "recent": [
+    {
+      "time": "3:41 am",
+      "artist": "Wishy",
+      "title": "Mona Lisa",
+      "album": "Nature's Pill • 2026"
+    },
     {
       "time": "3:39 am",
       "artist": "Lykke Li",
@@ -172,12 +178,6 @@
       "artist": "Beat Happening",
       "title": "Teenage Caveman",
       "album": "You Turn Me • 1992"
-    },
-    {
-      "time": "2:01 am",
-      "artist": "Aldous Harding",
-      "title": "One Stop",
-      "album": "Train on the Island • 2026"
     }
   ]
 }
