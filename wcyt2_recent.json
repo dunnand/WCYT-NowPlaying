@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T19:11:44",
+  "updatedAt": "2026-10-17T19:16:07",
   "now": {
-    "artist": "Nina Simone",
-    "title": "Baltimore",
-    "album": "Baltimore • 1978",
+    "artist": "Marvelettes",
+    "title": "Playboy",
+    "album": "Playboy • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:16 pm",
-      "artist": "Marvelettes",
-      "title": "Playboy"
-    },
     {
       "time": "7:18 pm",
       "artist": "Ohio Players",
@@ -26,9 +21,20 @@
       "time": "7:26 pm",
       "artist": "Buddy Holly",
       "title": "Oh, Boy!"
+    },
+    {
+      "time": "7:29 pm",
+      "artist": "The Strokes",
+      "title": "When It Started."
     }
   ],
   "recent": [
+    {
+      "time": "7:16 pm",
+      "artist": "Marvelettes",
+      "title": "Playboy",
+      "album": "Playboy • 1962"
+    },
     {
       "time": "7:11 pm",
       "artist": "Nina Simone",
@@ -172,12 +178,6 @@
       "artist": "FUN.",
       "title": "Carry On",
       "album": "Some Nights • 2012"
-    },
-    {
-      "time": "5:40 pm",
-      "artist": "Rolling Stones",
-      "title": "Let's Spend The Night Together",
-      "album": "single • 1965"
     }
   ]
 }
