@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T21:13:34",
+  "updatedAt": "2026-10-16T21:13:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Subterranean Homesick Alien",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:13 pm",
-      "artist": "Radiohead",
-      "title": "Subterranean Homesick Alien"
-    },
     {
       "time": "9:18 pm",
       "artist": "Black Flag",
@@ -26,9 +21,20 @@
       "time": "9:25 pm",
       "artist": "Magdalena Bay",
       "title": "This Is The World (I Made It For You)"
+    },
+    {
+      "time": "9:30 pm",
+      "artist": "M.I.A.",
+      "title": "Galang"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 pm",
+      "artist": "Radiohead",
+      "title": "Subterranean Homesick Alien",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "9:09 pm",
       "artist": "Monica",
@@ -172,12 +178,6 @@
       "artist": "Madvillain",
       "title": "All Caps",
       "album": "Madvillainy • 2004"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "The Doors",
-      "title": "L.A. Woman",
-      "album": "L.A. Woman • 1971"
     }
   ]
 }
