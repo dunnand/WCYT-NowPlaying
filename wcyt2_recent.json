@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T03:34:06",
+  "updatedAt": "2026-10-17T03:34:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dave Clark Five",
+    "title": "Catch Us If You Can",
+    "album": "The Story of Dave Clark Five • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:34 am",
-      "artist": "Dave Clark Five",
-      "title": "Catch Us If You Can"
-    },
     {
       "time": "3:36 am",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "3:42 am",
       "artist": "Tom Petty",
       "title": "It's Good to Be King"
+    },
+    {
+      "time": "3:47 am",
+      "artist": "Johnny Cash",
+      "title": "Don't Take Your Guns To Town"
     }
   ],
   "recent": [
+    {
+      "time": "3:34 am",
+      "artist": "Dave Clark Five",
+      "title": "Catch Us If You Can",
+      "album": "The Story of Dave Clark Five • 1979"
+    },
     {
       "time": "3:31 am",
       "artist": "The Barbarians",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Any Time At All",
       "album": "A Hard Day's Night • 1964"
-    },
-    {
-      "time": "1:58 am",
-      "artist": "Interpol",
-      "title": "Roland",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
