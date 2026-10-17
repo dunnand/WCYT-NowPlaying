@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T22:06:46",
+  "updatedAt": "2026-10-16T22:06:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Marc Anthony",
+    "title": "I Need To Know",
+    "album": "Marc Anthony • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:06 pm",
-      "artist": "Marc Anthony",
-      "title": "I Need To Know"
-    },
     {
       "time": "10:10 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "10:19 pm",
       "artist": "Bon Jovi",
       "title": "I'll Be There For You"
+    },
+    {
+      "time": "10:25 pm",
+      "artist": "Magdalena Bay",
+      "title": "Secrets (Your Fire)"
     }
   ],
   "recent": [
+    {
+      "time": "10:06 pm",
+      "artist": "Marc Anthony",
+      "title": "I Need To Know",
+      "album": "Marc Anthony • 1999"
+    },
     {
       "time": "10:02 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Bee Gees",
       "title": "I Started A Joke",
       "album": "Idea • 1968"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Not That Funny",
-      "album": "Tusk • 1979"
     }
   ]
 }
