@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T07:07:02",
+  "updatedAt": "2026-10-17T07:07:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Freak Slug",
+    "title": "Muse",
+    "album": "Amulet • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:07 am",
-      "artist": "Freak Slug",
-      "title": "Muse"
-    },
     {
       "time": "7:10 am",
       "artist": "Young Jesus",
@@ -26,9 +21,20 @@
       "time": "7:17 am",
       "artist": "L.A. Witch",
       "title": "The Lines"
+    },
+    {
+      "time": "7:20 am",
+      "artist": "This Is Lorelei",
+      "title": "The Kid With the Crown"
     }
   ],
   "recent": [
+    {
+      "time": "7:07 am",
+      "artist": "Freak Slug",
+      "title": "Muse",
+      "album": "Amulet • 2026"
+    },
     {
       "time": "7:04 am",
       "artist": "Guided by Voices",
@@ -172,12 +178,6 @@
       "artist": "Power Snatch",
       "title": "Perfect Hand (Power Snatch version)",
       "album": "Box For Buddy, Box For Star • 2026"
-    },
-    {
-      "time": "5:40 am",
-      "artist": "Yves Jarvis",
-      "title": "Bootstrap Jubilee",
-      "album": "The Zug • 2022"
     }
   ]
 }
