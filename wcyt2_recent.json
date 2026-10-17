@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T04:05:37",
+  "updatedAt": "2026-10-17T04:08:41",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Cupid's Trick",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Don Henley",
+    "title": "Dirty Laundry",
+    "album": "I Can't Stand Still • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:08 am",
-      "artist": "Don Henley",
-      "title": "Dirty Laundry"
-    },
     {
       "time": "4:14 am",
       "artist": "Doug E. Fresh",
@@ -21,9 +16,25 @@
       "time": "4:19 am",
       "artist": "Magdalena Bay",
       "title": "You Lose!"
+    },
+    {
+      "time": "4:22 am",
+      "artist": "Don McLean",
+      "title": "Vincent"
+    },
+    {
+      "time": "4:26 am",
+      "artist": "Donna Fargo",
+      "title": "Funny Face"
     }
   ],
   "recent": [
+    {
+      "time": "4:08 am",
+      "artist": "Don Henley",
+      "title": "Dirty Laundry",
+      "album": "I Can't Stand Still • 1982"
+    },
     {
       "time": "4:05 am",
       "artist": "Elliott Smith",
@@ -167,12 +178,6 @@
       "artist": "Mumford & Sons",
       "title": "I Will Wait",
       "album": "HA201234 7 • 2012"
-    },
-    {
-      "time": "2:39 am",
-      "artist": "John Mayer",
-      "title": "Daughters",
-      "album": "Heavier Things • 2005"
     }
   ]
 }
