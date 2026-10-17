@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T20:15:57",
+  "updatedAt": "2026-10-16T20:24:17",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Oh Comely",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Bananarama",
+    "title": "Venus",
+    "album": "True Confessions • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 pm",
-      "artist": "Bananarama",
-      "title": "Venus"
-    },
     {
       "time": "8:27 pm",
       "artist": "Barbra Streisand",
@@ -21,9 +16,25 @@
       "time": "8:31 pm",
       "artist": "Magdalena Bay",
       "title": "Top Dog"
+    },
+    {
+      "time": "8:34 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Not That Funny"
+    },
+    {
+      "time": "8:37 pm",
+      "artist": "Bee Gees",
+      "title": "I Started A Joke"
     }
   ],
   "recent": [
+    {
+      "time": "8:24 pm",
+      "artist": "Bananarama",
+      "title": "Venus",
+      "album": "True Confessions • 1986"
+    },
     {
       "time": "8:15 pm",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +178,6 @@
       "artist": "Bobby Vinton",
       "title": "Mr. Lonely",
       "album": "Roses Are Red • 1962"
-    },
-    {
-      "time": "6:56 pm",
-      "artist": "Sparks",
-      "title": "Something for the Girl With Everything",
-      "album": "Propaganda • 1974"
     }
   ]
 }
