@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T11:57:54",
+  "updatedAt": "2026-10-17T12:01:18",
   "now": {
-    "artist": "Joe Jackson",
-    "title": "Is She Really Going Out With Him?",
-    "album": "Look Sharp! • 1979",
+    "artist": "John Denver",
+    "title": "Rocky Mountain High",
+    "album": "Rocky Mountain High • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "John Denver",
-      "title": "Rocky Mountain High"
-    },
     {
       "time": "12:06 pm",
       "artist": "Orange Juice",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Johnny Thunders & the Heartbreakers",
       "title": "Chinese Rocks"
+    },
+    {
+      "time": "12:13 pm",
+      "artist": "CAKE",
+      "title": "Perhaps, Perhaps, Perhaps"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "John Denver",
+      "title": "Rocky Mountain High",
+      "album": "Rocky Mountain High • 1972"
+    },
     {
       "time": "11:57 am",
       "artist": "Joe Jackson",
@@ -172,12 +178,6 @@
       "artist": "PJ Harvey",
       "title": "A Place Called Home",
       "album": "Stories from the City, Stories from the Sea • 2000"
-    },
-    {
-      "time": "10:24 am",
-      "artist": "Ritchie Valens",
-      "title": "Come on, Let's Go",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
