@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T14:41:55",
+  "updatedAt": "2026-10-17T14:46:41",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Naomi",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Neil Young",
+    "title": "Transformer Man",
+    "album": "Trans • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:46 pm",
-      "artist": "Neil Young",
-      "title": "Transformer Man"
-    },
     {
       "time": "2:50 pm",
       "artist": "Nick Drake",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:46 pm",
+      "artist": "Neil Young",
+      "title": "Transformer Man",
+      "album": "Trans • 1982"
+    },
     {
       "time": "2:41 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +173,6 @@
       "artist": "Neil Young",
       "title": "Mr. Soul",
       "album": "Buffalo Springfield Again • 1967"
-    },
-    {
-      "time": "1:11 pm",
-      "artist": "The Strokes",
-      "title": "Alone, Together.",
-      "album": "Is This It • 2001"
     }
   ]
 }
