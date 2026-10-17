@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T21:13:46",
+  "updatedAt": "2026-10-16T21:18:03",
   "now": {
-    "artist": "Radiohead",
-    "title": "Subterranean Homesick Alien",
-    "album": "OK Computer • 1997",
+    "artist": "Black Flag",
+    "title": "My War",
+    "album": "My War • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:18 pm",
-      "artist": "Black Flag",
-      "title": "My War"
-    },
     {
       "time": "9:21 pm",
       "artist": "Bobby Brown",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:18 pm",
+      "artist": "Black Flag",
+      "title": "My War",
+      "album": "My War • 1984"
+    },
     {
       "time": "9:13 pm",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Donovan",
       "title": "Hurdy Gurdy Man",
       "album": "The Hurdy Gurdy Man • 1968"
-    },
-    {
-      "time": "7:48 pm",
-      "artist": "Madvillain",
-      "title": "All Caps",
-      "album": "Madvillainy • 2004"
     }
   ]
 }
