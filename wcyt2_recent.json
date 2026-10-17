@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T04:22:24",
+  "updatedAt": "2026-10-17T04:22:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Don McLean",
+    "title": "Vincent",
+    "album": "American Pie • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:22 am",
-      "artist": "Don McLean",
-      "title": "Vincent"
-    },
     {
       "time": "4:26 am",
       "artist": "Donna Fargo",
@@ -26,9 +21,20 @@
       "time": "4:33 am",
       "artist": "Neil Young & Crazy Horse",
       "title": "Cinnamon Girl"
+    },
+    {
+      "time": "4:36 am",
+      "artist": "Earth, Wind & Fire",
+      "title": "Shining Star"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 am",
+      "artist": "Don McLean",
+      "title": "Vincent",
+      "album": "American Pie • 1971"
+    },
     {
       "time": "4:19 am",
       "artist": "Magdalena Bay",
@@ -172,12 +178,6 @@
       "artist": "Icona Pop",
       "title": "I Love It",
       "album": "HA201247 6 • 2013"
-    },
-    {
-      "time": "2:50 am",
-      "artist": "Phil Collins",
-      "title": "Everyday",
-      "album": "Both Sides • 1993"
     }
   ]
 }
