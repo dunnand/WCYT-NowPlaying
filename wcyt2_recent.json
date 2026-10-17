@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T20:34:11",
+  "updatedAt": "2026-10-16T20:36:58",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Not That Funny",
-    "album": "Tusk • 1979",
+    "artist": "Bee Gees",
+    "title": "I Started A Joke",
+    "album": "Idea • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:37 pm",
-      "artist": "Bee Gees",
-      "title": "I Started A Joke"
-    },
     {
       "time": "8:40 pm",
       "artist": "ABBA",
@@ -26,9 +21,20 @@
       "time": "8:47 pm",
       "artist": "America",
       "title": "Ventura Highway"
+    },
+    {
+      "time": "8:51 pm",
+      "artist": "Weezer",
+      "title": "Pink Triangle"
     }
   ],
   "recent": [
+    {
+      "time": "8:36 pm",
+      "artist": "Bee Gees",
+      "title": "I Started A Joke",
+      "album": "Idea • 1968"
+    },
     {
       "time": "8:34 pm",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Okkervil River",
       "title": "For Real",
       "album": "Black Sheep Boy • 2005"
-    },
-    {
-      "time": "7:08 pm",
-      "artist": "Jerry Lee Lewis",
-      "title": "Great Balls of Fire",
-      "album": "Single • 1957"
     }
   ]
 }
