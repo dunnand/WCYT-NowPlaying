@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T15:41:41",
+  "updatedAt": "2026-10-17T15:45:16",
   "now": {
-    "artist": "Superchunk",
-    "title": "Hyper Enough",
-    "album": "Here's Where the Strings Come In • 1995",
-    "category": "TUNES"
+    "artist": "U2",
+    "title": "Even Better Than The Real Thing",
+    "album": "Achtung Baby • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:45 pm",
-      "artist": "U2",
-      "title": "Even Better Than The Real Thing"
-    },
     {
       "time": "3:48 pm",
       "artist": "Kurtis Blow",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:45 pm",
+      "artist": "U2",
+      "title": "Even Better Than The Real Thing",
+      "album": "Achtung Baby • 1992"
+    },
     {
       "time": "3:41 pm",
       "artist": "Superchunk",
@@ -172,12 +173,6 @@
       "artist": "Pavement",
       "title": "Grounded",
       "album": "Wowee Zowee • 1995"
-    },
-    {
-      "time": "2:19 pm",
-      "artist": "Ramones",
-      "title": "Beat on the Brat",
-      "album": "Ramones • 1976"
     }
   ]
 }
