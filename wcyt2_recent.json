@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T22:06:58",
+  "updatedAt": "2026-10-16T22:10:10",
   "now": {
-    "artist": "Marc Anthony",
-    "title": "I Need To Know",
-    "album": "Marc Anthony • 1999",
+    "artist": "Foo Fighters",
+    "title": "My Hero",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "Foo Fighters",
-      "title": "My Hero"
-    },
     {
       "time": "10:14 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:10 pm",
+      "artist": "Foo Fighters",
+      "title": "My Hero",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "10:06 pm",
       "artist": "Marc Anthony",
@@ -172,12 +173,6 @@
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "album": "ABBA: The Album • 1977"
-    },
-    {
-      "time": "8:36 pm",
-      "artist": "Bee Gees",
-      "title": "I Started A Joke",
-      "album": "Idea • 1968"
     }
   ]
 }
