@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T08:19:11",
+  "updatedAt": "2026-10-17T08:21:35",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Roll Over Beethoven",
-    "album": "Berry Is on Top • 1959",
+    "artist": "Linkin Park",
+    "title": "In The End",
+    "album": "Hybrid Theory • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:21 am",
-      "artist": "Linkin Park",
-      "title": "In The End"
-    },
     {
       "time": "8:25 am",
       "artist": "The Stooges",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:21 am",
+      "artist": "Linkin Park",
+      "title": "In The End",
+      "album": "Hybrid Theory • 2001"
+    },
     {
       "time": "8:19 am",
       "artist": "Chuck Berry",
@@ -172,12 +173,6 @@
       "artist": "Falco",
       "title": "Rock Me Amadeus",
       "album": "Falco 3 • 1986"
-    },
-    {
-      "time": "6:54 am",
-      "artist": "Faith No More",
-      "title": "We Care A Lot",
-      "album": "We Care a Lot • 1985"
     }
   ]
 }
