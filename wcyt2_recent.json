@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T20:40:02",
+  "updatedAt": "2026-10-16T20:40:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Take A Chance On Me",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 pm",
-      "artist": "ABBA",
-      "title": "Take A Chance On Me"
-    },
     {
       "time": "8:44 pm",
       "artist": "Barry McGuire",
@@ -31,9 +26,20 @@
       "time": "8:54 pm",
       "artist": "Chuck Berry",
       "title": "Brown Eyed Handsome Man"
+    },
+    {
+      "time": "8:57 pm",
+      "artist": "Justin Timberlake",
+      "title": "Like I Love You"
     }
   ],
   "recent": [
+    {
+      "time": "8:40 pm",
+      "artist": "ABBA",
+      "title": "Take A Chance On Me",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "8:36 pm",
       "artist": "Bee Gees",
@@ -177,12 +183,6 @@
       "artist": "Dion",
       "title": "The Wanderer",
       "album": "Runaround Sue • 1961"
-    },
-    {
-      "time": "7:10 pm",
-      "artist": "Okkervil River",
-      "title": "For Real",
-      "album": "Black Sheep Boy • 2005"
     }
   ]
 }
