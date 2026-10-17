@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T20:03:50",
+  "updatedAt": "2026-10-16T20:07:44",
   "now": {
-    "artist": "Interpol",
-    "title": "Obstacle 2",
-    "album": "Turn on the Bright Lights • 2002",
-    "category": "TUNES"
+    "artist": "Katy Perry",
+    "title": "The One That Got Away",
+    "album": "Teenage Dream • 2010",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 pm",
-      "artist": "Katy Perry",
-      "title": "The One That Got Away"
-    },
     {
       "time": "8:11 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "8:24 pm",
       "artist": "Bananarama",
       "title": "Venus"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "Barbra Streisand",
+      "title": "Woman In Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 pm",
+      "artist": "Katy Perry",
+      "title": "The One That Got Away",
+      "album": "Teenage Dream • 2010"
+    },
     {
       "time": "8:03 pm",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "Uncle Albert/Admiral Halsey",
       "album": "Ram • 1971"
-    },
-    {
-      "time": "6:45 pm",
-      "artist": "Haim",
-      "title": "I Know Alone",
-      "album": "Women in Music, Pt. III • 2020"
     }
   ]
 }
