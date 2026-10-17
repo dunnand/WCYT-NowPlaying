@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T20:50:55",
+  "updatedAt": "2026-10-16T20:54:52",
   "now": {
-    "artist": "Weezer",
-    "title": "Pink Triangle",
-    "album": "Pinkerton • 1996",
+    "artist": "Chuck Berry",
+    "title": "Brown Eyed Handsome Man",
+    "album": "After School Session • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 pm",
-      "artist": "Chuck Berry",
-      "title": "Brown Eyed Handsome Man"
-    },
     {
       "time": "8:57 pm",
       "artist": "Justin Timberlake",
@@ -26,9 +21,20 @@
       "time": "9:05 pm",
       "artist": "Moses Sumney",
       "title": "Cut Me"
+    },
+    {
+      "time": "9:09 pm",
+      "artist": "Monica",
+      "title": "For You I Will"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 pm",
+      "artist": "Chuck Berry",
+      "title": "Brown Eyed Handsome Man",
+      "album": "After School Session • 1957"
+    },
     {
       "time": "8:50 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "The B-52's",
       "title": "Private Idaho",
       "album": "Wild Planet • 1980"
-    },
-    {
-      "time": "7:25 pm",
-      "artist": "Linda Scott",
-      "title": "I've Told Every Little Star",
-      "album": "Donna Reeds Dinner Party • 1995"
     }
   ]
 }
