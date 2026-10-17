@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-10-16T22:10:10",
+  "updatedAt": "2026-10-16T22:14:16",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "My Hero",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Against The Wind",
+    "album": "Against the Wind • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:14 pm",
+      "time": "10:19 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Against The Wind"
     },
     {
-      "time": "10:19 pm",
+      "time": "10:25 pm",
       "artist": "Bon Jovi",
       "title": "I'll Be There For You"
     },
     {
-      "time": "10:25 pm",
+      "time": "10:30 pm",
       "artist": "Magdalena Bay",
       "title": "Secrets (Your Fire)"
     }
   ],
   "recent": [
+    {
+      "time": "10:14 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Against The Wind",
+      "album": "Against the Wind • 1980"
+    },
     {
       "time": "10:10 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Barry McGuire",
       "title": "Eve Of Destruction",
       "album": "Eve of Destruction • 1965"
-    },
-    {
-      "time": "8:40 pm",
-      "artist": "ABBA",
-      "title": "Take A Chance On Me",
-      "album": "ABBA: The Album • 1977"
     }
   ]
 }
