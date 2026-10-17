@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T09:56:52",
+  "updatedAt": "2026-10-17T09:57:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Jackson Browne",
+    "title": "Doctor My Eyes",
+    "album": "Jackson Browne • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:57 am",
-      "artist": "Jackson Browne",
-      "title": "Doctor My Eyes"
-    },
     {
       "time": "10:00 am",
       "artist": "Sam Cooke",
@@ -26,9 +21,20 @@
       "time": "10:13 am",
       "artist": "Johnny Cash",
       "title": "Orange Blossom Special"
+    },
+    {
+      "time": "10:16 am",
+      "artist": "James Taylor",
+      "title": "Mexico"
     }
   ],
   "recent": [
+    {
+      "time": "9:57 am",
+      "artist": "Jackson Browne",
+      "title": "Doctor My Eyes",
+      "album": "Jackson Browne • 1972"
+    },
     {
       "time": "9:53 am",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Roll Over Beethoven",
       "album": "Berry Is on Top • 1959"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "Nirvana",
-      "title": "Pennyroyal Tea",
-      "album": "In Utero • 1993"
     }
   ]
 }
