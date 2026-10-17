@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T01:03:22",
+  "updatedAt": "2026-10-17T01:07:38",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "The Man Comes Around",
-    "album": "American IV: The Man Comes Around • 2002",
+    "artist": "Joe",
+    "title": "I Wanna Know",
+    "album": "My Name Is Joe • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 am",
-      "artist": "Joe",
-      "title": "I Wanna Know"
-    },
     {
       "time": "1:12 am",
       "artist": "OK Go",
@@ -26,9 +21,20 @@
       "time": "1:19 am",
       "artist": "Built to Spill",
       "title": "Bad Light"
+    },
+    {
+      "time": "1:22 am",
+      "artist": "Dan Fogelberg",
+      "title": "Hard To Say"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 am",
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "album": "My Name Is Joe • 2000"
+    },
     {
       "time": "1:03 am",
       "artist": "Johnny Cash",
@@ -172,12 +178,6 @@
       "artist": "Magdalena Bay",
       "title": "Killshot",
       "album": "A Little Rhythm and a Wicked Feeling • 2024"
-    },
-    {
-      "time": "11:20 pm",
-      "artist": "Commodores",
-      "title": "Nightshift",
-      "album": "Nightshift • 1985"
     }
   ]
 }
