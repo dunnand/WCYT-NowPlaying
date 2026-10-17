@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T05:22:12",
+  "updatedAt": "2026-10-17T05:25:34",
   "now": {
-    "artist": "Elvis Costello",
-    "title": "Miracle Man",
-    "album": "My Aim Is True • 1977",
+    "artist": "Petula Clark",
+    "title": "Downtown",
+    "album": "Downtown • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:25 am",
-      "artist": "Petula Clark",
-      "title": "Downtown"
-    },
     {
       "time": "5:28 am",
       "artist": "Eric Clapton",
@@ -26,9 +21,20 @@
       "time": "5:36 am",
       "artist": "Little Richard",
       "title": "Keep a Knockin'"
+    },
+    {
+      "time": "5:38 am",
+      "artist": "Klaxons",
+      "title": "Golden Skans"
     }
   ],
   "recent": [
+    {
+      "time": "5:25 am",
+      "artist": "Petula Clark",
+      "title": "Downtown",
+      "album": "Downtown • 1965"
+    },
     {
       "time": "5:22 am",
       "artist": "Elvis Costello",
@@ -172,12 +178,6 @@
       "artist": "Macklemore",
       "title": "Same Love ft. Mary Lambert",
       "album": "The Heist • 2012"
-    },
-    {
-      "time": "3:55 am",
-      "artist": "Neil Diamond",
-      "title": "Cherry, Cherry",
-      "album": "The Feel of Neil Diamond (1966 • 1966"
     }
   ]
 }
