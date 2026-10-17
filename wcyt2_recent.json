@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T07:10:46",
+  "updatedAt": "2026-10-17T07:14:20",
   "now": {
-    "artist": "Gordon Lightfoot",
-    "title": "Sundown",
-    "album": "Sundown • 1974",
+    "artist": "Sam Cooke",
+    "title": "Chain Gang",
+    "album": "Swing Low • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:14 am",
-      "artist": "Sam Cooke",
-      "title": "Chain Gang"
-    },
     {
       "time": "7:16 am",
       "artist": "Hall & Oates",
@@ -26,9 +21,20 @@
       "time": "7:21 am",
       "artist": "LCD Soundsystem",
       "title": "Home"
+    },
+    {
+      "time": "7:29 am",
+      "artist": "My Chemical Romance",
+      "title": "Helena"
     }
   ],
   "recent": [
+    {
+      "time": "7:14 am",
+      "artist": "Sam Cooke",
+      "title": "Chain Gang",
+      "album": "Swing Low • 1961"
+    },
     {
       "time": "7:10 am",
       "artist": "Gordon Lightfoot",
@@ -172,12 +178,6 @@
       "artist": "Katy Perry",
       "title": "Teenage Dream",
       "album": "Teenage Dream • 2010"
-    },
-    {
-      "time": "5:41 am",
-      "artist": "Martha Reeves & The Vandellas",
-      "title": "Dancing In The Street",
-      "album": "Dance Party • 1965"
     }
   ]
 }
