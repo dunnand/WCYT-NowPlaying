@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T19:29:03",
+  "updatedAt": "2026-10-17T19:31:56",
   "now": {
-    "artist": "The Strokes",
-    "title": "When It Started.",
-    "album": "Is This It • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Good Day Sunshine",
+    "album": "Revolver • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:31 pm",
-      "artist": "The Beatles",
-      "title": "Good Day Sunshine"
-    },
     {
       "time": "7:34 pm",
       "artist": "Kendrick Lamar",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:31 pm",
+      "artist": "The Beatles",
+      "title": "Good Day Sunshine",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "7:29 pm",
       "artist": "The Strokes",
@@ -172,12 +173,6 @@
       "artist": "Yuka Tsujiyoko",
       "title": "Fire Emblem: Seisen no Keifu (The Continent Thereafter)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "5:58 pm",
-      "artist": "MC Lyte",
-      "title": "Lyte as a Rock",
-      "album": "Lyte as a Rock • 1988"
     }
   ]
 }
