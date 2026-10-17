@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T04:46:55",
+  "updatedAt": "2026-10-17T04:49:40",
   "now": {
     "artist": "My Morning Jacket",
-    "title": "Just Because I Do",
+    "title": "The Way That He Sings",
     "album": "At Dawn • 2001",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:49 am",
-      "artist": "My Morning Jacket",
-      "title": "The Way That He Sings"
-    },
     {
       "time": "4:55 am",
       "artist": "Jessie J",
@@ -26,9 +21,20 @@
       "time": "5:03 am",
       "artist": "The Smashing Pumpkins",
       "title": "Landslide"
+    },
+    {
+      "time": "5:06 am",
+      "artist": "Dow Jones & The Industrials",
+      "title": "Can't Stand The Midwest"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 am",
+      "artist": "My Morning Jacket",
+      "title": "The Way That He Sings",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "4:46 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Magdalena Bay",
       "title": "All You Do",
       "album": "Mecurial World (Deluxe) • 2022"
-    },
-    {
-      "time": "3:20 am",
-      "artist": "Dinosaur Jr.",
-      "title": "In a Jar",
-      "album": "You're Living All Over Me • 1987"
     }
   ]
 }
