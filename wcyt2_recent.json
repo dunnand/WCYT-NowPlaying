@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T13:30:59",
+  "updatedAt": "2026-10-17T13:34:42",
   "now": {
     "artist": "The Strokes",
-    "title": "Hard To Explain.",
+    "title": "Soma.",
     "album": "Is This It • 2001",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:34 pm",
-      "artist": "The Strokes",
-      "title": "Soma."
-    },
     {
       "time": "1:37 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "1:50 pm",
       "artist": "Michael W. Smith",
       "title": "Place In This World"
+    },
+    {
+      "time": "1:54 pm",
+      "artist": "Naked Eyes",
+      "title": "Always Something There To Remind Me"
     }
   ],
   "recent": [
+    {
+      "time": "1:34 pm",
+      "artist": "The Strokes",
+      "title": "Soma.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "1:30 pm",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Orange Juice",
       "title": "Blue Boy",
       "album": "The Glasgow School • 2005"
-    },
-    {
-      "time": "12:01 pm",
-      "artist": "John Denver",
-      "title": "Rocky Mountain High",
-      "album": "Rocky Mountain High • 1972"
     }
   ]
 }
