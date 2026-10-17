@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T13:34:42",
+  "updatedAt": "2026-10-17T13:37:18",
   "now": {
-    "artist": "The Strokes",
-    "title": "Soma.",
-    "album": "Is This It • 2001",
-    "category": "TUNES"
+    "artist": "Radiohead",
+    "title": "Daydreaming",
+    "album": "A Moon Shaped Pool • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:37 pm",
-      "artist": "Radiohead",
-      "title": "Daydreaming"
-    },
     {
       "time": "1:43 pm",
       "artist": "Yo La Tengo",
@@ -26,9 +21,20 @@
       "time": "1:54 pm",
       "artist": "Naked Eyes",
       "title": "Always Something There To Remind Me"
+    },
+    {
+      "time": "1:58 pm",
+      "artist": "Neil Diamond",
+      "title": "America"
     }
   ],
   "recent": [
+    {
+      "time": "1:37 pm",
+      "artist": "Radiohead",
+      "title": "Daydreaming",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "1:34 pm",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Orlons",
       "title": "Don't Hang Up",
       "album": "single • 1962"
-    },
-    {
-      "time": "12:06 pm",
-      "artist": "Orange Juice",
-      "title": "Blue Boy",
-      "album": "The Glasgow School • 2005"
     }
   ]
 }
