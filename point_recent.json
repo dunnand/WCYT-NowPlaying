@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T11:40:12",
+  "updatedAt": "2026-10-17T11:40:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This is Lorelei",
+    "title": "Oh No Now My",
+    "album": "Oh No Now My • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 am",
-      "artist": "This is Lorelei",
-      "title": "Oh No Now My"
-    },
     {
       "time": "11:43 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "11:50 am",
       "artist": "Jack White",
       "title": "G.O.D. And The Broken Ribs"
+    },
+    {
+      "time": "11:54 am",
+      "artist": "Toro y Moi",
+      "title": "Hollywood (feat. Benjamin Gibbard)"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 am",
+      "artist": "This is Lorelei",
+      "title": "Oh No Now My",
+      "album": "Oh No Now My • 2026"
+    },
     {
       "time": "11:30 am",
       "artist": "The Decemberists",
@@ -172,12 +178,6 @@
       "artist": "Mirah",
       "title": "Stumbling",
       "album": "Dedication • 2026"
-    },
-    {
-      "time": "9:58 am",
-      "artist": "Hippo Campus",
-      "title": "Forget It",
-      "album": "Flood • 2024"
     }
   ]
 }
