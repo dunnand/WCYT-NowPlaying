@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-17T17:14:30",
+  "updatedAt": "2026-10-17T17:23:22",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Free Bird",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
+    "artist": "The Band",
+    "title": "To Kingdom Come",
+    "album": "Music from Big Pink • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:23 pm",
-      "artist": "The Band",
-      "title": "To Kingdom Come"
-    },
     {
       "time": "5:26 pm",
       "artist": "Mott the Hoople",
       "title": "All the Young Dudes"
     },
     {
-      "time": "5:30 pm",
+      "time": "5:29 pm",
       "artist": "Elliott Smith",
       "title": "Roman Candle"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:23 pm",
+      "artist": "The Band",
+      "title": "To Kingdom Come",
+      "album": "Music from Big Pink • 1968"
+    },
     {
       "time": "5:14 pm",
       "artist": "Lynyrd Skynyrd",
@@ -177,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Desert Island Disk",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "3:34 pm",
-      "artist": "Johnny Rivers",
-      "title": "Secret Agent Man",
-      "album": "...And I Know You Wanna Dance • 1966"
     }
   ]
 }
