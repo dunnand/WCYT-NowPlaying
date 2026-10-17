@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T13:11:42",
+  "updatedAt": "2026-10-17T13:14:46",
   "now": {
-    "artist": "The Strokes",
-    "title": "Alone, Together.",
-    "album": "Is This It • 2001",
-    "category": "TUNES"
+    "artist": "Neil Young",
+    "title": "Mr. Soul",
+    "album": "Buffalo Springfield Again • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:14 pm",
-      "artist": "Neil Young",
-      "title": "Mr. Soul"
-    },
     {
       "time": "1:17 pm",
       "artist": "Patti Smith Group",
@@ -26,9 +21,20 @@
       "time": "1:25 pm",
       "artist": "LCD Soundsystem",
       "title": "Oh Baby"
+    },
+    {
+      "time": "1:31 pm",
+      "artist": "The Strokes",
+      "title": "Hard To Explain."
     }
   ],
   "recent": [
+    {
+      "time": "1:14 pm",
+      "artist": "Neil Young",
+      "title": "Mr. Soul",
+      "album": "Buffalo Springfield Again • 1967"
+    },
     {
       "time": "1:11 pm",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Irene Cara",
       "title": "Flashdance...What A Feeling",
       "album": "What a Feelin' • 1983"
-    },
-    {
-      "time": "11:42 am",
-      "artist": "Bjork",
-      "title": "I Miss You",
-      "album": "Post • 1995"
     }
   ]
 }
