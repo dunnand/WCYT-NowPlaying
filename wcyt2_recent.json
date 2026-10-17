@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T09:57:24",
+  "updatedAt": "2026-10-17T10:00:16",
   "now": {
-    "artist": "Jackson Browne",
-    "title": "Doctor My Eyes",
-    "album": "Jackson Browne • 1972",
+    "artist": "Sam Cooke",
+    "title": "Another Saturday Night",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 am",
-      "artist": "Sam Cooke",
-      "title": "Another Saturday Night"
-    },
     {
       "time": "10:03 am",
       "artist": "James Brown",
@@ -26,9 +21,20 @@
       "time": "10:16 am",
       "artist": "James Taylor",
       "title": "Mexico"
+    },
+    {
+      "time": "10:19 am",
+      "artist": "Nine Inch Nails",
+      "title": "Hurt"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 am",
+      "artist": "Sam Cooke",
+      "title": "Another Saturday Night",
+      "album": "single • 1963"
+    },
     {
       "time": "9:57 am",
       "artist": "Jackson Browne",
@@ -172,12 +178,6 @@
       "artist": "Linkin Park",
       "title": "In The End",
       "album": "Hybrid Theory • 2001"
-    },
-    {
-      "time": "8:19 am",
-      "artist": "Chuck Berry",
-      "title": "Roll Over Beethoven",
-      "album": "Berry Is on Top • 1959"
     }
   ]
 }
