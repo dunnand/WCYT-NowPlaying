@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-16T22:42:27",
+  "updatedAt": "2026-10-16T22:46:33",
   "now": {
-    "artist": "Bill Withers",
-    "title": "Loveley Day",
-    "album": "Menagerie • 1977",
+    "artist": "Madonna",
+    "title": "Nothing Really Matters",
+    "album": "Ray of Light • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:46 pm",
-      "artist": "Madonna",
-      "title": "Nothing Really Matters"
-    },
     {
       "time": "10:50 pm",
       "artist": "Chordettes",
@@ -26,9 +21,20 @@
       "time": "10:57 pm",
       "artist": "Neil Diamond",
       "title": "Sweet Caroline"
+    },
+    {
+      "time": "11:00 pm",
+      "artist": "Kamasi Washington",
+      "title": "Street Fighter Mas"
     }
   ],
   "recent": [
+    {
+      "time": "10:46 pm",
+      "artist": "Madonna",
+      "title": "Nothing Really Matters",
+      "album": "Ray of Light • 1999"
+    },
     {
       "time": "10:42 pm",
       "artist": "Bill Withers",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Subterranean Homesick Alien",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "9:09 pm",
-      "artist": "Monica",
-      "title": "For You I Will",
-      "album": "The Boy Is Mine • 1997"
     }
   ]
 }
