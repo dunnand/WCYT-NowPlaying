@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T06:13:53",
+  "updatedAt": "2026-10-17T06:17:05",
   "now": {
-    "artist": "My Chemical Romance",
-    "title": "Dead!",
-    "album": "The Black Parade • 2006",
+    "artist": "Righteous Brothers",
+    "title": "Just Once In My Life",
+    "album": "Just Once in My Life • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:17 am",
-      "artist": "Righteous Brothers",
-      "title": "Just Once In My Life"
-    },
     {
       "time": "6:20 am",
       "artist": "Gerry Rafferty",
@@ -26,9 +21,20 @@
       "time": "6:28 am",
       "artist": "M.I.A.",
       "title": "Bad Girls"
+    },
+    {
+      "time": "6:32 am",
+      "artist": "Interpol",
+      "title": "Stella Was a Diver and She Was Always Down"
     }
   ],
   "recent": [
+    {
+      "time": "6:17 am",
+      "artist": "Righteous Brothers",
+      "title": "Just Once In My Life",
+      "album": "Just Once in My Life • 1965"
+    },
     {
       "time": "6:13 am",
       "artist": "My Chemical Romance",
@@ -172,12 +178,6 @@
       "artist": "Jessie J",
       "title": "Price Tag",
       "album": "Who You Are • 2011"
-    },
-    {
-      "time": "4:49 am",
-      "artist": "My Morning Jacket",
-      "title": "The Way That He Sings",
-      "album": "At Dawn • 2001"
     }
   ]
 }
