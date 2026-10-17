@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-17T19:27:00",
+  "updatedAt": "2026-10-17T19:29:03",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Oh, Boy!",
-    "album": "The Chirping Crickets • 1957",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "When It Started.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:29 pm",
-      "artist": "The Strokes",
-      "title": "When It Started."
-    },
     {
       "time": "7:31 pm",
       "artist": "The Beatles",
@@ -21,9 +16,25 @@
       "time": "7:34 pm",
       "artist": "Kendrick Lamar",
       "title": "Swimming Pools"
+    },
+    {
+      "time": "7:38 pm",
+      "artist": "Sleater",
+      "title": "Kinney - Anonymous"
+    },
+    {
+      "time": "7:40 pm",
+      "artist": "Sonic Youth",
+      "title": "Tunic (Song for Karen)"
     }
   ],
   "recent": [
+    {
+      "time": "7:29 pm",
+      "artist": "The Strokes",
+      "title": "When It Started.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "7:27 pm",
       "artist": "Buddy Holly",
@@ -167,12 +178,6 @@
       "artist": "MC Lyte",
       "title": "Lyte as a Rock",
       "album": "Lyte as a Rock • 1988"
-    },
-    {
-      "time": "5:55 pm",
-      "artist": "Madonna",
-      "title": "Open Your Heart",
-      "album": "True Blue • 1986"
     }
   ]
 }
