@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T00:06:24",
+  "updatedAt": "2026-10-18T00:06:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Band",
+    "title": "This Wheel's on Fire",
+    "album": "Music from Big Pink • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:06 am",
-      "artist": "The Band",
-      "title": "This Wheel's on Fire"
-    },
     {
       "time": "12:09 am",
       "artist": "Leon Bridges",
@@ -26,9 +21,20 @@
       "time": "12:17 am",
       "artist": "Paul McCartney",
       "title": "Calico Skies"
+    },
+    {
+      "time": "12:19 am",
+      "artist": "Poison",
+      "title": "Nothin' But A Good Time"
     }
   ],
   "recent": [
+    {
+      "time": "12:06 am",
+      "artist": "The Band",
+      "title": "This Wheel's on Fire",
+      "album": "Music from Big Pink • 1968"
+    },
     {
       "time": "12:04 am",
       "artist": "The Strokes",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "drivers license",
       "album": "SOUR • 2021"
-    },
-    {
-      "time": "9:15 pm",
-      "artist": "Orange Juice",
-      "title": "Rip It Up",
-      "album": "Rip It Up • 1982"
     }
   ]
 }
