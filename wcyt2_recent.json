@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T05:31:30",
+  "updatedAt": "2026-10-18T05:34:56",
   "now": {
-    "artist": "M.I.A.",
-    "title": "Jimmy",
-    "album": "Kala • 2007",
+    "artist": "The Beatles",
+    "title": "No Reply",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 am",
-      "artist": "The Beatles",
-      "title": "No Reply"
-    },
     {
       "time": "5:37 am",
       "artist": "Thin Lizzy",
@@ -26,9 +21,20 @@
       "time": "5:46 am",
       "artist": "Post Malone",
       "title": "Sunflower"
+    },
+    {
+      "time": "5:48 am",
+      "artist": "Matchbox Twenty",
+      "title": "If You're Gone"
     }
   ],
   "recent": [
+    {
+      "time": "5:34 am",
+      "artist": "The Beatles",
+      "title": "No Reply",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "5:31 am",
       "artist": "M.I.A.",
@@ -172,12 +178,6 @@
       "artist": "One Direction",
       "title": "Kiss You",
       "album": "Take Me Home • 2012"
-    },
-    {
-      "time": "4:00 am",
-      "artist": "Peter, Paul & Mary",
-      "title": "Leaving On A Jet Plane",
-      "album": "Album 1700 • 1967"
     }
   ]
 }
