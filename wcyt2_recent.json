@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T10:43:11",
+  "updatedAt": "2026-10-18T10:45:22",
   "now": {
-    "artist": "Peter & Gordon",
-    "title": "I Go To Pieces",
-    "album": "I Go to Pieces • 1965",
+    "artist": "Qt",
+    "title": "Hey QT",
+    "album": "single • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 am",
-      "artist": "Qt",
-      "title": "Hey QT"
-    },
     {
       "time": "10:49 am",
       "artist": "The Cure",
@@ -21,9 +16,20 @@
       "time": "10:52 am",
       "artist": "The Cure",
       "title": "Never Enough"
+    },
+    {
+      "time": "10:57 am",
+      "artist": "Styx",
+      "title": "Too Much Time On My Hands"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 am",
+      "artist": "Qt",
+      "title": "Hey QT",
+      "album": "single • 2014"
+    },
     {
       "time": "10:43 am",
       "artist": "Peter & Gordon",
@@ -167,12 +173,6 @@
       "artist": "Willie Nelson",
       "title": "Time of the Preacher",
       "album": "Shotgun Willie • 1973"
-    },
-    {
-      "time": "9:15 am",
-      "artist": "Olivia Rodrigo",
-      "title": "Can’t Catch Me Now",
-      "album": ""
     }
   ]
 }
