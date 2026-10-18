@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T01:48:30",
+  "updatedAt": "2026-10-18T01:51:27",
   "now": {
-    "artist": "Nancy Sinatra",
-    "title": "You Only Live Twice",
-    "album": "You Only Live Twice • 1967",
+    "artist": "The Temptations",
+    "title": "Shakey Ground",
+    "album": "A Song for You • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:51 am",
-      "artist": "The Temptations",
-      "title": "Shakey Ground"
-    },
     {
       "time": "1:55 am",
       "artist": "The Smashing Pumpkins",
@@ -26,9 +21,20 @@
       "time": "2:04 am",
       "artist": "Gorillaz",
       "title": "Feel Good Inc."
+    },
+    {
+      "time": "2:07 am",
+      "artist": "Interpol",
+      "title": "PDA"
     }
   ],
   "recent": [
+    {
+      "time": "1:51 am",
+      "artist": "The Temptations",
+      "title": "Shakey Ground",
+      "album": "A Song for You • 1975"
+    },
     {
       "time": "1:48 am",
       "artist": "Nancy Sinatra",
@@ -172,12 +178,6 @@
       "artist": "Medicine",
       "title": "Time Baby III",
       "album": "The Crow Soundtrack • 1994"
-    },
-    {
-      "time": "12:09 am",
-      "artist": "Leon Bridges",
-      "title": "Beyond",
-      "album": "Good Thing • 2018"
     }
   ]
 }
