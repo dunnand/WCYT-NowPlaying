@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T03:01:11",
+  "updatedAt": "2026-10-18T03:03:12",
   "now": {
-    "artist": "Little Richard",
-    "title": "Good Golly Miss Molly",
-    "album": "Little Richard • 1958",
+    "artist": "*NSYNC",
+    "title": "It's Gonna Be Me",
+    "album": "No Strings Attached • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 am",
-      "artist": "*NSYNC",
-      "title": "It's Gonna Be Me"
-    },
     {
       "time": "3:06 am",
       "artist": "Stan Getz & Astrud Gilberto",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:03 am",
+      "artist": "*NSYNC",
+      "title": "It's Gonna Be Me",
+      "album": "No Strings Attached • 2000"
+    },
     {
       "time": "3:01 am",
       "artist": "Little Richard",
@@ -172,12 +173,6 @@
       "artist": "Ramones",
       "title": "Do You Remember Rock'N'Roll Radio",
       "album": "End of the Century • 1980"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "Public Enemy",
-      "title": "Can't Do Nuttin' For Ya, Man!",
-      "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
     }
   ]
 }
