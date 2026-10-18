@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T08:02:00",
+  "updatedAt": "2026-10-18T08:02:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Spandau Ballet",
+    "title": "Gold",
+    "album": "True • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 am",
-      "artist": "Spandau Ballet",
-      "title": "Gold"
-    },
     {
       "time": "8:06 am",
       "artist": "Olivia Rodrigo",
@@ -26,9 +21,20 @@
       "time": "8:14 am",
       "artist": "The Velvet Underground",
       "title": "Rock & Roll"
+    },
+    {
+      "time": "8:19 am",
+      "artist": "Nelly Furtado",
+      "title": "I'm Like A Bird"
     }
   ],
   "recent": [
+    {
+      "time": "8:02 am",
+      "artist": "Spandau Ballet",
+      "title": "Gold",
+      "album": "True • 1983"
+    },
     {
       "time": "7:59 am",
       "artist": "The Smiths",
@@ -172,12 +178,6 @@
       "artist": "Todd Rundgren",
       "title": "I Saw The Light",
       "album": "Something/Anything? • 1972"
-    },
-    {
-      "time": "6:30 am",
-      "artist": "Otis Redding",
-      "title": "Respect",
-      "album": "Otis Blue • 1965"
     }
   ]
 }
