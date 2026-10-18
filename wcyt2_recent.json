@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T11:39:55",
+  "updatedAt": "2026-10-18T11:40:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Hold Me Tight",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 am",
-      "artist": "The Beatles",
-      "title": "Hold Me Tight"
-    },
     {
       "time": "11:42 am",
       "artist": "Harry Styles",
@@ -26,9 +21,20 @@
       "time": "11:59 am",
       "artist": "Another Sunny Day",
       "title": "I'm In Love With A Girl Who Doesn't Know I Exist"
+    },
+    {
+      "time": "12:00 pm",
+      "artist": "The Jam",
+      "title": "Start!"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 am",
+      "artist": "The Beatles",
+      "title": "Hold Me Tight",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "11:36 am",
       "artist": "Lightning Bolt",
@@ -172,12 +178,6 @@
       "artist": "Sabrina Carpenter",
       "title": "Espresso",
       "album": ""
-    },
-    {
-      "time": "10:07 am",
-      "artist": "Steve Perry",
-      "title": "Foolish Heart",
-      "album": "Foolish Heart • 1984"
     }
   ]
 }
