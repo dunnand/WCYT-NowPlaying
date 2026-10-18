@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T09:31:41",
+  "updatedAt": "2026-10-18T09:36:45",
   "now": {
-    "artist": "My Bloody Valentine",
-    "title": "Sometimes",
-    "album": "Loveless • 1991",
-    "category": "TUNES"
+    "artist": "Harry Belafonte",
+    "title": "Day-O (Banana Boat Song)",
+    "album": "Calypso • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:36 am",
-      "artist": "Harry Belafonte",
-      "title": "Day-O (Banana Boat Song)"
-    },
     {
       "time": "9:39 am",
       "artist": "The New Pornographers",
@@ -26,9 +21,20 @@
       "time": "9:48 am",
       "artist": "The Highwomen",
       "title": "Crowded Table"
+    },
+    {
+      "time": "9:51 am",
+      "artist": "My Bloody Valentine",
+      "title": "Only Shallow"
     }
   ],
   "recent": [
+    {
+      "time": "9:36 am",
+      "artist": "Harry Belafonte",
+      "title": "Day-O (Banana Boat Song)",
+      "album": "Calypso • 1956"
+    },
     {
       "time": "9:31 am",
       "artist": "My Bloody Valentine",
@@ -172,12 +178,6 @@
       "artist": "The Smiths",
       "title": "William, It Was Really Nothing",
       "album": "single • 1984"
-    },
-    {
-      "time": "7:56 am",
-      "artist": "The Afghan Whigs",
-      "title": "Gentlemen",
-      "album": "Gentlemen • 1993"
     }
   ]
 }
