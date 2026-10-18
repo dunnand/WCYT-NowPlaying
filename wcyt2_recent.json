@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T03:23:19",
+  "updatedAt": "2026-10-18T03:26:12",
   "now": {
-    "artist": "The Romantics",
-    "title": "What I Like About You",
-    "album": "The Romantics • 1980",
+    "artist": "HAIM",
+    "title": "The Wire",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 am",
-      "artist": "HAIM",
-      "title": "The Wire"
-    },
     {
       "time": "3:30 am",
       "artist": "The Microphones",
@@ -26,9 +21,20 @@
       "time": "3:37 am",
       "artist": "The Hold Steady",
       "title": "Stuck Between Stations"
+    },
+    {
+      "time": "3:41 am",
+      "artist": "Justin Bieber",
+      "title": "Beauty And A Beat"
     }
   ],
   "recent": [
+    {
+      "time": "3:26 am",
+      "artist": "HAIM",
+      "title": "The Wire",
+      "album": ""
+    },
     {
       "time": "3:23 am",
       "artist": "The Romantics",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "I Am One",
       "album": "Gish • 1991"
-    },
-    {
-      "time": "1:51 am",
-      "artist": "The Temptations",
-      "title": "Shakey Ground",
-      "album": "A Song for You • 1975"
     }
   ]
 }
