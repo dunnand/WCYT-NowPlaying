@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T07:25:33",
+  "updatedAt": "2026-10-18T07:30:10",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Moondance",
-    "album": "Moondance • 1977",
+    "artist": "Slowdive",
+    "title": "Alison",
+    "album": "Souvlaki • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:30 am",
-      "artist": "Slowdive",
-      "title": "Alison"
-    },
     {
       "time": "7:33 am",
       "artist": "Nina Simone",
@@ -26,9 +21,20 @@
       "time": "7:41 am",
       "artist": "Nico",
       "title": "Chelsea Girls"
+    },
+    {
+      "time": "7:49 am",
+      "artist": "Leon Bridges",
+      "title": "Bad Bad News"
     }
   ],
   "recent": [
+    {
+      "time": "7:30 am",
+      "artist": "Slowdive",
+      "title": "Alison",
+      "album": "Souvlaki • 1993"
+    },
     {
       "time": "7:25 am",
       "artist": "Van Morrison",
@@ -172,12 +178,6 @@
       "artist": "Janet Jackson",
       "title": "Runaway",
       "album": "Design of a Decade: 1986 - 1996 • 1995"
-    },
-    {
-      "time": "6:00 am",
-      "artist": "Depeche Mode",
-      "title": "World in My Eyes",
-      "album": "Violator • 1990"
     }
   ]
 }
