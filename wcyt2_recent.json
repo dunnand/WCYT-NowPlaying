@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T01:05:24",
+  "updatedAt": "2026-10-18T01:05:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Alameda",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:05 am",
-      "artist": "Elliott Smith",
-      "title": "Alameda"
-    },
     {
       "time": "1:09 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "1:15 am",
       "artist": "Ramones",
       "title": "Do You Remember Rock'N'Roll Radio"
+    },
+    {
+      "time": "1:19 am",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "Dig, Lazarus, Dig!!!"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "Elliott Smith",
+      "title": "Alameda",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "1:02 am",
       "artist": "Imagine Dragons",
@@ -172,12 +178,6 @@
       "artist": "Suicid",
       "title": "Cheree",
       "album": "Suicide • 1977"
-    },
-    {
-      "time": "10:21 pm",
-      "artist": "Stiff Little Fingers",
-      "title": "Alternative Ulster",
-      "album": "Inflammable Material • 1979"
     }
   ]
 }
