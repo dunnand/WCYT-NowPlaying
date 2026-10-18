@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T11:06:55",
+  "updatedAt": "2026-10-18T11:12:10",
   "now": {
-    "artist": "The Allman Brothers Band",
-    "title": "Blue Sky",
-    "album": "Eat a Peach • 1972",
+    "artist": "Big Star",
+    "title": "Thirteen",
+    "album": "#1 Record • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "Big Star",
-      "title": "Thirteen"
-    },
     {
       "time": "11:14 am",
       "artist": "Lucinda Williams",
@@ -26,9 +21,20 @@
       "time": "11:26 am",
       "artist": "Boney M.",
       "title": "Rivers of Babylon"
+    },
+    {
+      "time": "11:30 am",
+      "artist": "The Cure",
+      "title": "Mint Car"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "Big Star",
+      "title": "Thirteen",
+      "album": "#1 Record • 1972"
+    },
     {
       "time": "11:06 am",
       "artist": "The Allman Brothers Band",
@@ -172,12 +178,6 @@
       "artist": "The New Pornographers",
       "title": "Letter From an Occupant",
       "album": "Mass Romantic • 2000"
-    },
-    {
-      "time": "9:36 am",
-      "artist": "Harry Belafonte",
-      "title": "Day-O (Banana Boat Song)",
-      "album": "Calypso • 1956"
     }
   ]
 }
