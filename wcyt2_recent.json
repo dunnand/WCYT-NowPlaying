@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T04:00:38",
+  "updatedAt": "2026-10-18T04:03:55",
   "now": {
-    "artist": "Peter, Paul & Mary",
-    "title": "Leaving On A Jet Plane",
-    "album": "Album 1700 • 1967",
+    "artist": "One Direction",
+    "title": "Kiss You",
+    "album": "Take Me Home • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "One Direction",
-      "title": "Kiss You"
-    },
     {
       "time": "4:07 am",
       "artist": "Madonna",
@@ -21,9 +16,20 @@
       "time": "4:11 am",
       "artist": "Alanis Morissette",
       "title": "Head Over Feet"
+    },
+    {
+      "time": "4:15 am",
+      "artist": "Romeo Void",
+      "title": "Never Say Never"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "One Direction",
+      "title": "Kiss You",
+      "album": "Take Me Home • 2012"
+    },
     {
       "time": "4:00 am",
       "artist": "Peter, Paul & Mary",
@@ -167,12 +173,6 @@
       "artist": "The Band",
       "title": "The Shape I'm In",
       "album": "Stage Fright • 1970"
-    },
-    {
-      "time": "2:28 am",
-      "artist": "HAIM",
-      "title": "Falling",
-      "album": ""
     }
   ]
 }
