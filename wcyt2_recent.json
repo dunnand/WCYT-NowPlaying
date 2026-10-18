@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T04:48:09",
+  "updatedAt": "2026-10-18T04:50:11",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Blue Suede Shoes",
-    "album": "Elvis Presley • 1956",
+    "artist": "Jay Sean",
+    "title": "Down feat. Lil' Wayne",
+    "album": "All or Nothing • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Jay Sean",
-      "title": "Down feat. Lil' Wayne"
-    },
     {
       "time": "4:53 am",
       "artist": "The Jimi Hendrix Experience",
@@ -21,9 +16,20 @@
       "time": "4:57 am",
       "artist": "Pink",
       "title": "Try"
+    },
+    {
+      "time": "5:01 am",
+      "artist": "Cat Power",
+      "title": "Cross Bones Style"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Jay Sean",
+      "title": "Down feat. Lil' Wayne",
+      "album": "All or Nothing • 2009"
+    },
     {
       "time": "4:48 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "The Romantics",
       "title": "What I Like About You",
       "album": "The Romantics • 1980"
-    },
-    {
-      "time": "3:19 am",
-      "artist": "Robert Palmer",
-      "title": "Addicted To Love",
-      "album": "Riptide • 1986"
     }
   ]
 }
