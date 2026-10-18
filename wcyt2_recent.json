@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T01:40:42",
+  "updatedAt": "2026-10-18T01:48:30",
   "now": {
-    "artist": "Kate Bush",
-    "title": "Nocturn",
-    "album": "Aerial • 2005",
+    "artist": "Nancy Sinatra",
+    "title": "You Only Live Twice",
+    "album": "You Only Live Twice • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:48 am",
-      "artist": "Nancy Sinatra",
-      "title": "You Only Live Twice"
-    },
     {
       "time": "1:51 am",
       "artist": "The Temptations",
@@ -26,9 +21,20 @@
       "time": "1:59 am",
       "artist": "Justin Timberlake",
       "title": "Mirrors"
+    },
+    {
+      "time": "2:04 am",
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc."
     }
   ],
   "recent": [
+    {
+      "time": "1:48 am",
+      "artist": "Nancy Sinatra",
+      "title": "You Only Live Twice",
+      "album": "You Only Live Twice • 1967"
+    },
     {
       "time": "1:40 am",
       "artist": "Kate Bush",
@@ -172,12 +178,6 @@
       "artist": "Leon Bridges",
       "title": "Beyond",
       "album": "Good Thing • 2018"
-    },
-    {
-      "time": "12:06 am",
-      "artist": "The Band",
-      "title": "This Wheel's on Fire",
-      "album": "Music from Big Pink • 1968"
     }
   ]
 }
