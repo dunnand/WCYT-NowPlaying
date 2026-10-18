@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T09:29:26",
+  "updatedAt": "2026-10-18T09:31:41",
   "now": {
-    "artist": "ZZ Top",
-    "title": "Tush",
-    "album": "Fandango! • 1975",
-    "category": "AUDIO"
+    "artist": "My Bloody Valentine",
+    "title": "Sometimes",
+    "album": "Loveless • 1991",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:31 am",
-      "artist": "My Bloody Valentine",
-      "title": "Sometimes"
-    },
     {
       "time": "9:36 am",
       "artist": "Harry Belafonte",
@@ -26,9 +21,20 @@
       "time": "9:43 am",
       "artist": "John Lennon",
       "title": "Give Peace a Chance"
+    },
+    {
+      "time": "9:48 am",
+      "artist": "The Highwomen",
+      "title": "Crowded Table"
     }
   ],
   "recent": [
+    {
+      "time": "9:31 am",
+      "artist": "My Bloody Valentine",
+      "title": "Sometimes",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "9:29 am",
       "artist": "ZZ Top",
@@ -172,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "Gentlemen",
       "album": "Gentlemen • 1993"
-    },
-    {
-      "time": "7:52 am",
-      "artist": "Spiritualized",
-      "title": "Ladies and Gentlemen We Are Floating in Space",
-      "album": "Ladies and Gentlemen We Are Floating in Space • 1997"
     }
   ]
 }
