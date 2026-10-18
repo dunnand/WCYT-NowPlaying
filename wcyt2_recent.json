@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T08:19:40",
+  "updatedAt": "2026-10-18T08:23:36",
   "now": {
-    "artist": "Nelly Furtado",
-    "title": "I'm Like A Bird",
-    "album": "Whoa, Nelly! • 2000",
+    "artist": "Justin Bieber",
+    "title": "Baby",
+    "album": "My World 2.0 • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:23 am",
-      "artist": "Justin Bieber",
-      "title": "Baby"
-    },
     {
       "time": "8:26 am",
       "artist": "William Onyeabor",
@@ -26,9 +21,20 @@
       "time": "8:39 am",
       "artist": "Ke$ha",
       "title": "Die Young"
+    },
+    {
+      "time": "8:43 am",
+      "artist": "Nine Inch Nails",
+      "title": "The Hand That Feeds"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 am",
+      "artist": "Justin Bieber",
+      "title": "Baby",
+      "album": "My World 2.0 • 2010"
+    },
     {
       "time": "8:19 am",
       "artist": "Nelly Furtado",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Identikit",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "6:44 am",
-      "artist": "Guided by Voices",
-      "title": "Everywhere With Helicopter",
-      "album": "Universal Truths and Cycles • 2002"
     }
   ]
 }
