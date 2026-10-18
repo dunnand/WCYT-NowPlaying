@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T08:14:56",
+  "updatedAt": "2026-10-18T08:19:40",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Rock & Roll",
-    "album": "Loaded • 1970",
+    "artist": "Nelly Furtado",
+    "title": "I'm Like A Bird",
+    "album": "Whoa, Nelly! • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:19 am",
-      "artist": "Nelly Furtado",
-      "title": "I'm Like A Bird"
-    },
     {
       "time": "8:23 am",
       "artist": "Justin Bieber",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:19 am",
+      "artist": "Nelly Furtado",
+      "title": "I'm Like A Bird",
+      "album": "Whoa, Nelly! • 2000"
+    },
     {
       "time": "8:14 am",
       "artist": "The Velvet Underground",
@@ -177,12 +178,6 @@
       "artist": "Guided by Voices",
       "title": "Everywhere With Helicopter",
       "album": "Universal Truths and Cycles • 2002"
-    },
-    {
-      "time": "6:41 am",
-      "artist": "The Mountain Goats",
-      "title": "No Children",
-      "album": "Tallahassee • 2003"
     }
   ]
 }
