@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T16:12:40",
+  "updatedAt": "2026-10-18T16:16:16",
   "now": {
-    "artist": "Dinosaur Jr.",
-    "title": "I Don't Think So",
-    "album": "Without a Sound • 1994",
-    "category": "TUNES"
+    "artist": "Chuck Berry",
+    "title": "Too Much Monkey Business",
+    "album": "After School Session • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:16 pm",
-      "artist": "Chuck Berry",
-      "title": "Too Much Monkey Business"
-    },
     {
       "time": "4:19 pm",
       "artist": "Nine Inch Nails",
@@ -26,9 +21,20 @@
       "time": "4:24 pm",
       "artist": "Radiohead",
       "title": "Glass Eyes"
+    },
+    {
+      "time": "4:27 pm",
+      "artist": "DJ Shadow",
+      "title": "Building Steam With A Grain Of Salt"
     }
   ],
   "recent": [
+    {
+      "time": "4:16 pm",
+      "artist": "Chuck Berry",
+      "title": "Too Much Monkey Business",
+      "album": "After School Session • 1957"
+    },
     {
       "time": "4:12 pm",
       "artist": "Dinosaur Jr.",
@@ -172,12 +178,6 @@
       "artist": "Whitesnake",
       "title": "Here I Go Again",
       "album": "Saints & Sinners • 1987"
-    },
-    {
-      "time": "2:31 pm",
-      "artist": "Coolio",
-      "title": "Gangsta Paradise",
-      "album": "Gangsta's Paradise • 1995"
     }
   ]
 }
