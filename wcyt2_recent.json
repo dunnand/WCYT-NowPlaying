@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T10:28:30",
+  "updatedAt": "2026-10-18T10:32:05",
   "now": {
-    "artist": "AC/DC",
-    "title": "T.N.T.",
-    "album": "High Voltage • 1975",
+    "artist": "The Cure",
+    "title": "High",
+    "album": "single • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:32 am",
-      "artist": "The Cure",
-      "title": "High"
-    },
     {
       "time": "10:35 am",
       "artist": "Ray Charles",
@@ -21,9 +16,20 @@
       "time": "10:38 am",
       "artist": "Outkast",
       "title": "The Whole World (feat. Killer Mike)"
+    },
+    {
+      "time": "10:43 am",
+      "artist": "Peter & Gordon",
+      "title": "I Go To Pieces"
     }
   ],
   "recent": [
+    {
+      "time": "10:32 am",
+      "artist": "The Cure",
+      "title": "High",
+      "album": "single • 1992"
+    },
     {
       "time": "10:28 am",
       "artist": "AC/DC",
@@ -167,12 +173,6 @@
       "artist": "American Football",
       "title": "Honestly?",
       "album": "American Football • 1999"
-    },
-    {
-      "time": "8:56 am",
-      "artist": "All-4-One",
-      "title": "I Can Love You Like That",
-      "album": "And the Music Speaks • 1995"
     }
   ]
 }
