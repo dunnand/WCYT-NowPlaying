@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T03:26:12",
+  "updatedAt": "2026-10-18T03:30:15",
   "now": {
-    "artist": "HAIM",
-    "title": "The Wire",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "Something",
+    "album": "It Was Hot, We Stayed in the Water • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "The Microphones",
-      "title": "Something"
-    },
     {
       "time": "3:34 am",
       "artist": "The Kinks",
@@ -26,9 +21,20 @@
       "time": "3:41 am",
       "artist": "Justin Bieber",
       "title": "Beauty And A Beat"
+    },
+    {
+      "time": "3:45 am",
+      "artist": "The Meters",
+      "title": "Just Kissed My Baby"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "The Microphones",
+      "title": "Something",
+      "album": "It Was Hot, We Stayed in the Water • 2000"
+    },
     {
       "time": "3:26 am",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "Mirrors",
       "album": "The 20/20 Experience • 2013"
-    },
-    {
-      "time": "1:55 am",
-      "artist": "The Smashing Pumpkins",
-      "title": "I Am One",
-      "album": "Gish • 1991"
     }
   ]
 }
