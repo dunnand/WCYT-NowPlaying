@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T03:53:56",
+  "updatedAt": "2026-10-18T03:56:32",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "I Still Miss Someone",
-    "album": "The Fabulous Johnny Cash • 1958",
+    "artist": "Kaiser Chiefs",
+    "title": "I Predict a Riot",
+    "album": "Employment • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:56 am",
-      "artist": "Kaiser Chiefs",
-      "title": "I Predict a Riot"
-    },
     {
       "time": "4:00 am",
       "artist": "Peter, Paul & Mary",
@@ -21,9 +16,20 @@
       "time": "4:03 am",
       "artist": "One Direction",
       "title": "Kiss You"
+    },
+    {
+      "time": "4:07 am",
+      "artist": "Madonna",
+      "title": "I'll Remember"
     }
   ],
   "recent": [
+    {
+      "time": "3:56 am",
+      "artist": "Kaiser Chiefs",
+      "title": "I Predict a Riot",
+      "album": "Employment • 2005"
+    },
     {
       "time": "3:53 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Fight Like a Brave",
       "album": "The Uplift Mofo Party Plan • 1987"
-    },
-    {
-      "time": "2:22 am",
-      "artist": "Randy Newman",
-      "title": "I Love to See You Smile",
-      "album": "The Natural soundtrack • 1984"
     }
   ]
 }
