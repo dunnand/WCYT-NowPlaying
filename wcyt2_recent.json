@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T12:07:14",
+  "updatedAt": "2026-10-18T12:10:39",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "I Just Might",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Hold Steady",
+    "title": "Stay Positive",
+    "album": "Stay Positive • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:10 pm",
-      "artist": "The Hold Steady",
-      "title": "Stay Positive"
-    },
     {
       "time": "12:13 pm",
       "artist": "Bread",
@@ -26,9 +21,20 @@
       "time": "12:20 pm",
       "artist": "Jessie J",
       "title": "Domino"
+    },
+    {
+      "time": "12:24 pm",
+      "artist": "Captain & Tennille",
+      "title": "Muskrat Love"
     }
   ],
   "recent": [
+    {
+      "time": "12:10 pm",
+      "artist": "The Hold Steady",
+      "title": "Stay Positive",
+      "album": "Stay Positive • 2008"
+    },
     {
       "time": "12:07 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "Lonely Avenue",
       "album": "single • 1956"
-    },
-    {
-      "time": "10:32 am",
-      "artist": "The Cure",
-      "title": "High",
-      "album": "single • 1992"
     }
   ]
 }
