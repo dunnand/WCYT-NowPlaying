@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T04:53:45",
+  "updatedAt": "2026-10-18T04:56:59",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Hey Joe",
-    "album": "Are You Experienced • 1967",
+    "artist": "Pink",
+    "title": "Try",
+    "album": "The Truth About Love • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Pink",
-      "title": "Try"
-    },
     {
       "time": "5:01 am",
       "artist": "Cat Power",
@@ -21,9 +16,20 @@
       "time": "5:05 am",
       "artist": "Dave Matthews Band",
       "title": "Satellite"
+    },
+    {
+      "time": "5:10 am",
+      "artist": "Sade",
+      "title": "The Sweetest Taboo"
     }
   ],
   "recent": [
+    {
+      "time": "4:56 am",
+      "artist": "Pink",
+      "title": "Try",
+      "album": "The Truth About Love • 2012"
+    },
     {
       "time": "4:53 am",
       "artist": "The Jimi Hendrix Experience",
@@ -167,12 +173,6 @@
       "artist": "The Microphones",
       "title": "Something",
       "album": "It Was Hot, We Stayed in the Water • 2000"
-    },
-    {
-      "time": "3:26 am",
-      "artist": "HAIM",
-      "title": "The Wire",
-      "album": ""
     }
   ]
 }
