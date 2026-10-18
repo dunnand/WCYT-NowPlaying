@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T03:15:27",
+  "updatedAt": "2026-10-18T03:19:21",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Everlong",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Robert Palmer",
+    "title": "Addicted To Love",
+    "album": "Riptide • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:19 am",
-      "artist": "Robert Palmer",
-      "title": "Addicted To Love"
-    },
     {
       "time": "3:23 am",
       "artist": "The Romantics",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:19 am",
+      "artist": "Robert Palmer",
+      "title": "Addicted To Love",
+      "album": "Riptide • 1986"
+    },
     {
       "time": "3:15 am",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Nancy Sinatra",
       "title": "You Only Live Twice",
       "album": "You Only Live Twice • 1967"
-    },
-    {
-      "time": "1:40 am",
-      "artist": "Kate Bush",
-      "title": "Nocturn",
-      "album": "Aerial • 2005"
     }
   ]
 }
