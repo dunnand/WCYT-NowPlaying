@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T11:42:28",
+  "updatedAt": "2026-10-18T11:48:05",
   "now": {
-    "artist": "Harry Styles",
-    "title": "Sign of the Times",
-    "album": "Harry Styles • 2017",
+    "artist": "The Chambers Brothers",
+    "title": "Time Has Come Today",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 am",
-      "artist": "The Chambers Brothers",
-      "title": "Time Has Come Today"
-    },
     {
       "time": "11:59 am",
       "artist": "Another Sunny Day",
@@ -21,9 +16,20 @@
       "time": "12:00 pm",
       "artist": "The Jam",
       "title": "Start!"
+    },
+    {
+      "time": "12:03 pm",
+      "artist": "The Vaselines",
+      "title": "Son of a Gun"
     }
   ],
   "recent": [
+    {
+      "time": "11:48 am",
+      "artist": "The Chambers Brothers",
+      "title": "Time Has Come Today",
+      "album": ""
+    },
     {
       "time": "11:42 am",
       "artist": "Harry Styles",
@@ -167,12 +173,6 @@
       "artist": "Dire Straits",
       "title": "Six Blade Knife",
       "album": "Dire Straits • 1978"
-    },
-    {
-      "time": "10:13 am",
-      "artist": "Half Man Half Biscuit",
-      "title": "Joy Division Oven Gloves",
-      "album": "Achtung Bono • 2005"
     }
   ]
 }
