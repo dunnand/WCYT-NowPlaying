@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T09:43:15",
+  "updatedAt": "2026-10-18T09:43:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Lennon",
+    "title": "Give Peace a Chance",
+    "album": "Give Peace a Chance • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:43 am",
-      "artist": "John Lennon",
-      "title": "Give Peace a Chance"
-    },
     {
       "time": "9:48 am",
       "artist": "The Highwomen",
@@ -26,9 +21,20 @@
       "time": "9:56 am",
       "artist": "My Bloody Valentine",
       "title": "Soon"
+    },
+    {
+      "time": "10:02 am",
+      "artist": "Starship",
+      "title": "Nothing's Gonna Stop Us Now"
     }
   ],
   "recent": [
+    {
+      "time": "9:43 am",
+      "artist": "John Lennon",
+      "title": "Give Peace a Chance",
+      "album": "Give Peace a Chance • 1969"
+    },
     {
       "time": "9:39 am",
       "artist": "The New Pornographers",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "the cure",
       "album": ""
-    },
-    {
-      "time": "8:02 am",
-      "artist": "Spandau Ballet",
-      "title": "Gold",
-      "album": "True • 1983"
     }
   ]
 }
