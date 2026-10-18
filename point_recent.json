@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T10:02:09",
+  "updatedAt": "2026-10-18T10:02:39",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Kim Gordon",
+    "title": "Play Me",
+    "album": "Play Me • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:02 am",
-      "artist": "Kim Gordon",
-      "title": "Play Me"
-    },
     {
       "time": "10:04 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "10:11 am",
       "artist": "Melody's Echo Chamber",
       "title": "Eyes Closed"
+    },
+    {
+      "time": "10:14 am",
+      "artist": "The Strokes",
+      "title": "You Talk Way Too Much"
     }
   ],
   "recent": [
+    {
+      "time": "10:02 am",
+      "artist": "Kim Gordon",
+      "title": "Play Me",
+      "album": "Play Me • 2026"
+    },
     {
       "time": "9:58 am",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Mike D",
       "title": "Switch Up",
       "album": "Thank You • 2026"
-    },
-    {
-      "time": "8:26 am",
-      "artist": "The Replacements",
-      "title": "Can't Hardly Wait",
-      "album": "Pleased to Meet Me • 1987"
     }
   ]
 }
