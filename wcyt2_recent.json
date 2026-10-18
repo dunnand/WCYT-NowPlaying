@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T15:28:53",
+  "updatedAt": "2026-10-18T15:32:48",
   "now": {
-    "artist": "Deftones",
-    "title": "Bored",
-    "album": "Adrenaline • 1995",
+    "artist": "X",
+    "title": "Sugarlight",
+    "album": "Los Angeles • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 pm",
-      "artist": "X",
-      "title": "Sugarlight"
-    },
     {
       "time": "3:35 pm",
       "artist": "John Lennon & Yoko Ono",
@@ -21,9 +16,25 @@
       "time": "3:41 pm",
       "artist": "The Weeknd",
       "title": "Blinding Lights"
+    },
+    {
+      "time": "3:44 pm",
+      "artist": "Herbie Hancock",
+      "title": "Chameleon"
+    },
+    {
+      "time": "3:59 pm",
+      "artist": "Smokey Robinson & The Miracles",
+      "title": "I Second That Emotion"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 pm",
+      "artist": "X",
+      "title": "Sugarlight",
+      "album": "Los Angeles • 1982"
+    },
     {
       "time": "3:28 pm",
       "artist": "Deftones",
@@ -167,12 +178,6 @@
       "artist": "John Prine",
       "title": "Summer's End",
       "album": "The Tree of Forgiveness • 2018"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "Muse",
-      "title": "Plug In Baby",
-      "album": "Origin of Symmetry • 2001"
     }
   ]
 }
