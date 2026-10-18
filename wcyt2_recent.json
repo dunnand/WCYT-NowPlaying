@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-17T22:31:58",
+  "updatedAt": "2026-10-17T22:34:21",
   "now": {
-    "artist": "Marcels",
-    "title": "Blue Moon",
-    "album": "Blue Moon • 1961",
+    "artist": "Supertramp",
+    "title": "The Logical Song",
+    "album": "Breakfast in America • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:34 pm",
+      "time": "10:38 pm",
+      "artist": "Marcels",
+      "title": "Blue Moon"
+    },
+    {
+      "time": "10:40 pm",
       "artist": "Supertramp",
       "title": "The Logical Song"
     }
   ],
   "recent": [
+    {
+      "time": "10:34 pm",
+      "artist": "Supertramp",
+      "title": "The Logical Song",
+      "album": "Breakfast in America • 1979"
+    },
     {
       "time": "10:31 pm",
       "artist": "Marcels",
@@ -157,12 +168,6 @@
       "artist": "Belle and Sebastian",
       "title": "Me and the Major",
       "album": "If You're Feeling Sinister • 1996"
-    },
-    {
-      "time": "9:00 pm",
-      "artist": "Gotye",
-      "title": "Somebody That I Used To Know",
-      "album": "Making Mirrors • 2011"
     }
   ]
 }
