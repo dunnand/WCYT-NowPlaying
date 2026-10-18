@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T08:02:22",
+  "updatedAt": "2026-10-18T08:06:07",
   "now": {
-    "artist": "Spandau Ballet",
-    "title": "Gold",
-    "album": "True • 1983",
+    "artist": "Olivia Rodrigo",
+    "title": "the cure",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:06 am",
-      "artist": "Olivia Rodrigo",
-      "title": "the cure"
-    },
     {
       "time": "8:11 am",
       "artist": "Kings of Leon",
@@ -26,9 +21,20 @@
       "time": "8:19 am",
       "artist": "Nelly Furtado",
       "title": "I'm Like A Bird"
+    },
+    {
+      "time": "8:23 am",
+      "artist": "Justin Bieber",
+      "title": "Baby"
     }
   ],
   "recent": [
+    {
+      "time": "8:06 am",
+      "artist": "Olivia Rodrigo",
+      "title": "the cure",
+      "album": ""
+    },
     {
       "time": "8:02 am",
       "artist": "Spandau Ballet",
@@ -172,12 +178,6 @@
       "artist": "PJ Harvey",
       "title": "A Perfect Day Elise",
       "album": "Is This Desire • 1998"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Todd Rundgren",
-      "title": "I Saw The Light",
-      "album": "Something/Anything? • 1972"
     }
   ]
 }
