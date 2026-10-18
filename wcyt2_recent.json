@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T02:18:18",
+  "updatedAt": "2026-10-18T02:22:40",
   "now": {
-    "artist": "Pavement",
-    "title": "Rattled By The Rush",
-    "album": "Wowee Zowee • 1995",
-    "category": "TUNES"
+    "artist": "Randy Newman",
+    "title": "I Love to See You Smile",
+    "album": "The Natural soundtrack • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:22 am",
-      "artist": "Randy Newman",
-      "title": "I Love to See You Smile"
-    },
     {
       "time": "2:25 am",
       "artist": "Red Hot Chili Peppers",
@@ -21,9 +16,20 @@
       "time": "2:28 am",
       "artist": "HAIM",
       "title": "Falling"
+    },
+    {
+      "time": "2:33 am",
+      "artist": "The Band",
+      "title": "The Shape I'm In"
     }
   ],
   "recent": [
+    {
+      "time": "2:22 am",
+      "artist": "Randy Newman",
+      "title": "I Love to See You Smile",
+      "album": "The Natural soundtrack • 1984"
+    },
     {
       "time": "2:18 am",
       "artist": "Pavement",
@@ -167,12 +173,6 @@
       "artist": "Gorillaz",
       "title": "Andromeda feat. D.R.A.M.",
       "album": "Humanz • 2017"
-    },
-    {
-      "time": "12:38 am",
-      "artist": "Phoenix",
-      "title": "1901",
-      "album": "Wolfgang Amadeus Phoenix • 2009"
     }
   ]
 }
