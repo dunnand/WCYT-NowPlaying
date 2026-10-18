@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T16:03:05",
+  "updatedAt": "2026-10-18T16:06:49",
   "now": {
-    "artist": "John Cale",
-    "title": "Paris 1919",
-    "album": "Paris 1919 • 1973",
+    "artist": "Peter, Paul & Mary",
+    "title": "Blowin' In The Wind",
+    "album": "Peter, Paul and Mary • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:06 pm",
-      "artist": "Peter, Paul & Mary",
-      "title": "Blowin' In The Wind"
-    },
     {
       "time": "4:09 pm",
       "artist": "Labi Siffre",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:06 pm",
+      "artist": "Peter, Paul & Mary",
+      "title": "Blowin' In The Wind",
+      "album": "Peter, Paul and Mary • 1962"
+    },
     {
       "time": "4:03 pm",
       "artist": "John Cale",
@@ -177,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Decks Dark",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "2:20 pm",
-      "artist": "Jim Reeves",
-      "title": "Is It Really Over?",
-      "album": "Single • 1965"
     }
   ]
 }
