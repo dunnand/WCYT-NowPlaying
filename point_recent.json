@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T09:50:03",
+  "updatedAt": "2026-10-18T09:50:15",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "American Football",
+    "title": "The Summer Ends",
+    "album": "American Football • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 am",
-      "artist": "American Football",
-      "title": "The Summer Ends"
-    },
     {
       "time": "9:54 am",
       "artist": "American Football",
@@ -26,9 +21,20 @@
       "time": "10:01 am",
       "artist": "Julia Jacklin",
       "title": "The Hardest Thing"
+    },
+    {
+      "time": "10:05 am",
+      "artist": "Wild Nothing",
+      "title": "Only Heather"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 am",
+      "artist": "American Football",
+      "title": "The Summer Ends",
+      "album": "American Football • 1999"
+    },
     {
       "time": "9:46 am",
       "artist": "Squirrel Flower",
@@ -172,12 +178,6 @@
       "artist": "Broadcast",
       "title": "The Games You Play",
       "album": "Spell Blanket - Collected Demos 2006-2009 • 2024"
-    },
-    {
-      "time": "8:18 am",
-      "artist": "The Clash",
-      "title": "London's Burning",
-      "album": "The Clash • 1977"
     }
   ]
 }
