@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T02:50:39",
+  "updatedAt": "2026-10-18T02:54:41",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Ramble On",
-    "album": "Led Zeppelin II • 1969",
+    "artist": "The Jam",
+    "title": "English Rose",
+    "album": "All Mod Cons • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:54 am",
-      "artist": "The Jam",
-      "title": "English Rose"
-    },
     {
       "time": "2:57 am",
       "artist": "The Flaming Lips",
@@ -26,9 +21,20 @@
       "time": "3:03 am",
       "artist": "*NSYNC",
       "title": "It's Gonna Be Me"
+    },
+    {
+      "time": "3:06 am",
+      "artist": "Stan Getz & Astrud Gilberto",
+      "title": "The Girl From Ipanema"
     }
   ],
   "recent": [
+    {
+      "time": "2:54 am",
+      "artist": "The Jam",
+      "title": "English Rose",
+      "album": "All Mod Cons • 1978"
+    },
     {
       "time": "2:50 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Alameda",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "1:02 am",
-      "artist": "Imagine Dragons",
-      "title": "Radioactive",
-      "album": "HA201306 3 • 2012"
     }
   ]
 }
