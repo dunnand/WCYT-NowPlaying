@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T20:11:39",
+  "updatedAt": "2026-10-18T20:16:12",
   "now": {
-    "artist": "Alan Vega",
-    "title": "Jukebox Baby",
-    "album": "Alan Vega • 1980",
+    "artist": "Jim James",
+    "title": "Come Again",
+    "album": "Wowed Out • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:16 pm",
-      "artist": "Jim James",
-      "title": "Come Again"
-    },
     {
       "time": "8:19 pm",
       "artist": "The Decemberists",
@@ -21,9 +16,20 @@
       "time": "8:24 pm",
       "artist": "Interpol",
       "title": "Wings On Fire"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "Babehoven",
+      "title": "Blue Around You"
     }
   ],
   "recent": [
+    {
+      "time": "8:16 pm",
+      "artist": "Jim James",
+      "title": "Come Again",
+      "album": "Wowed Out • 2026"
+    },
     {
       "time": "8:11 pm",
       "artist": "Alan Vega",
@@ -167,12 +173,6 @@
       "artist": "Wishy",
       "title": "Mona Lisa",
       "album": "Nature's Pill • 2026"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "Beat Happening",
-      "title": "What's Important",
-      "album": "Beat Happening • 1985"
     }
   ]
 }
