@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T19:12:57",
+  "updatedAt": "2026-10-19T19:16:01",
   "now": {
-    "artist": "Paul Simon",
-    "title": "I Know What I Know",
-    "album": "Graceland • 1986",
+    "artist": "Olivia Rodrigo",
+    "title": "vampire",
+    "album": "Guts • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:16 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "vampire"
-    },
     {
       "time": "7:19 pm",
       "artist": "Bob Marley and the Wailers",
@@ -21,9 +16,20 @@
       "time": "7:23 pm",
       "artist": "Leonard Cohen",
       "title": "Master Song"
+    },
+    {
+      "time": "7:29 pm",
+      "artist": "Elton John",
+      "title": "Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "7:16 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "vampire",
+      "album": "Guts • 2023"
+    },
     {
       "time": "7:12 pm",
       "artist": "Paul Simon",
@@ -167,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "Texarkana",
       "album": "Out of Time • 1991"
-    },
-    {
-      "time": "5:23 pm",
-      "artist": "Led Zeppelin",
-      "title": "Rock and Roll",
-      "album": "Led Zeppelin IV • 1971"
     }
   ]
 }
