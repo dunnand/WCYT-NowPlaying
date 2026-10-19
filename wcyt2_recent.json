@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T19:29:10",
+  "updatedAt": "2026-10-19T19:29:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Tonight",
+    "album": "Blue Moves • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:29 pm",
-      "artist": "Elton John",
-      "title": "Tonight"
-    },
     {
       "time": "7:37 pm",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "7:42 pm",
       "artist": "Elliott Smith",
       "title": "No Name No. 5"
+    },
+    {
+      "time": "7:46 pm",
+      "artist": "Dean Martin",
+      "title": "That's Amore"
     }
   ],
   "recent": [
+    {
+      "time": "7:29 pm",
+      "artist": "Elton John",
+      "title": "Tonight",
+      "album": "Blue Moves • 1976"
+    },
     {
       "time": "7:23 pm",
       "artist": "Leonard Cohen",
@@ -172,12 +178,6 @@
       "artist": "Simon & Garfunkel",
       "title": "A Hazy Shade Of Winter",
       "album": "Bookends • 1966"
-    },
-    {
-      "time": "5:32 pm",
-      "artist": "Pearl Jam",
-      "title": "Light Years",
-      "album": "Binaural • 2000"
     }
   ]
 }
