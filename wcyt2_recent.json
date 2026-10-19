@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T19:19:37",
+  "updatedAt": "2026-10-19T19:19:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "War",
+    "album": "Rastaman Vibration • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:19 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "War"
-    },
     {
       "time": "7:23 pm",
       "artist": "Leonard Cohen",
@@ -26,9 +21,20 @@
       "time": "7:37 pm",
       "artist": "Ray Charles",
       "title": "Hit The Road Jack"
+    },
+    {
+      "time": "7:39 pm",
+      "artist": "Bee Gees",
+      "title": "Night Fever"
     }
   ],
   "recent": [
+    {
+      "time": "7:19 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "War",
+      "album": "Rastaman Vibration • 1976"
+    },
     {
       "time": "7:16 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Rave On",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "5:26 pm",
-      "artist": "R.E.M.",
-      "title": "Texarkana",
-      "album": "Out of Time • 1991"
     }
   ]
 }
