@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-10-19T11:12:46",
+  "updatedAt": "2026-10-19T11:20:24",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Idiot Wind",
-    "album": "Blood On the Tracks • 1975",
+    "artist": "Queen",
+    "title": "Killer Queen",
+    "album": "Sheer Heart Attack • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:20 am",
-      "artist": "SAULT",
-      "title": "Stop Dem"
+      "time": "11:23 am",
+      "artist": "Muse",
+      "title": "Knights of Cydonia"
     },
     {
-      "time": "11:24 am",
-      "artist": "Bob Dylan",
-      "title": "Idiot Wind"
+      "time": "11:29 am",
+      "artist": "Led Zeppelin",
+      "title": "Good Times Bad Times"
     },
     {
-      "time": "11:31 am",
-      "artist": "Queen",
-      "title": "Killer Queen"
+      "time": "11:32 am",
+      "artist": "Cat Stevens",
+      "title": "Wild World"
+    },
+    {
+      "time": "11:35 am",
+      "artist": "Spin Doctors",
+      "title": "Little Miss Can't Be Wrong"
     }
   ],
   "recent": [
+    {
+      "time": "11:20 am",
+      "artist": "Queen",
+      "title": "Killer Queen",
+      "album": "Sheer Heart Attack • 1975"
+    },
     {
       "time": "11:12 am",
       "artist": "Bob Dylan",
@@ -167,12 +178,6 @@
       "artist": "OK Go",
       "title": "Here It Goes Again",
       "album": "Oh No • 2005"
-    },
-    {
-      "time": "9:47 am",
-      "artist": "Jerry Lee Lewis",
-      "title": "Whole Lotta Shakin' Going on",
-      "album": "Single • 1957"
     }
   ]
 }
