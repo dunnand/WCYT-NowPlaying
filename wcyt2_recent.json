@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-19T19:29:22",
+  "updatedAt": "2026-10-19T19:37:03",
   "now": {
-    "artist": "Elton John",
-    "title": "Tonight",
-    "album": "Blue Moves • 1976",
+    "artist": "Ray Charles",
+    "title": "Hit The Road Jack",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:37 pm",
-      "artist": "Ray Charles",
-      "title": "Hit The Road Jack"
-    },
-    {
-      "time": "7:39 pm",
+      "time": "7:38 pm",
       "artist": "Bee Gees",
       "title": "Night Fever"
     },
@@ -26,9 +21,20 @@
       "time": "7:46 pm",
       "artist": "Dean Martin",
       "title": "That's Amore"
+    },
+    {
+      "time": "7:49 pm",
+      "artist": "My Morning Jacket",
+      "title": "Mahgeetah"
     }
   ],
   "recent": [
+    {
+      "time": "7:37 pm",
+      "artist": "Ray Charles",
+      "title": "Hit The Road Jack",
+      "album": "single • 1961"
+    },
     {
       "time": "7:29 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Lover",
       "album": "Lover • 2019"
-    },
-    {
-      "time": "5:37 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "A Hazy Shade Of Winter",
-      "album": "Bookends • 1966"
     }
   ]
 }
