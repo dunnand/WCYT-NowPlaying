@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T12:24:20",
+  "updatedAt": "2026-10-19T12:29:33",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Box Of Rain",
-    "album": "American Beauty • 1970",
+    "artist": "Leonard Cohen",
+    "title": "Bird on the Wire",
+    "album": "Songs from a Room • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:29 pm",
-      "artist": "Leonard Cohen",
-      "title": "Bird on the Wire"
-    },
     {
       "time": "12:32 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "12:41 pm",
       "artist": "The Everly Brothers",
       "title": "Bye, Bye Love"
+    },
+    {
+      "time": "12:43 pm",
+      "artist": "Lemon Jelly",
+      "title": "Ramblin' Man"
     }
   ],
   "recent": [
+    {
+      "time": "12:29 pm",
+      "artist": "Leonard Cohen",
+      "title": "Bird on the Wire",
+      "album": "Songs from a Room • 1969"
+    },
     {
       "time": "12:24 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "Blue Magic (Waikiki)",
       "album": "Son Little • 2015"
-    },
-    {
-      "time": "10:47 am",
-      "artist": "Loretta Lynn",
-      "title": "You Ain't Woman Enough",
-      "album": "You Ain't Woman Enough • 1966"
     }
   ]
 }
