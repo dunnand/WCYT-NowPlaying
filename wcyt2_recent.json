@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T17:23:11",
+  "updatedAt": "2026-10-19T17:26:56",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Rock and Roll",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "R.E.M.",
+    "title": "Texarkana",
+    "album": "Out of Time • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:26 pm",
-      "artist": "R.E.M.",
-      "title": "Texarkana"
-    },
     {
       "time": "5:30 pm",
       "artist": "Buddy Holly",
@@ -21,9 +16,20 @@
       "time": "5:32 pm",
       "artist": "Pearl Jam",
       "title": "Light Years"
+    },
+    {
+      "time": "5:37 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "A Hazy Shade Of Winter"
     }
   ],
   "recent": [
+    {
+      "time": "5:26 pm",
+      "artist": "R.E.M.",
+      "title": "Texarkana",
+      "album": "Out of Time • 1991"
+    },
     {
       "time": "5:23 pm",
       "artist": "Led Zeppelin",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Let Down",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "3:41 pm",
-      "artist": "Montell Jordan",
-      "title": "This Is How We Do It",
-      "album": "This Is How We Do It • 1995"
     }
   ]
 }
