@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T21:04:52",
+  "updatedAt": "2026-10-18T21:07:47",
   "now": {
-    "artist": "Roxy Music",
-    "title": "Virginia Plain",
-    "album": "Roxy Music • 1972",
+    "artist": "Goo Goo Dolls",
+    "title": "Name",
+    "album": "A Boy Named Goo • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "Goo Goo Dolls",
-      "title": "Name"
-    },
     {
       "time": "9:12 pm",
       "artist": "James Brown and The Famous Flames",
@@ -21,9 +16,20 @@
       "time": "9:15 pm",
       "artist": "Kings of Leon",
       "title": "Red Morning Light"
+    },
+    {
+      "time": "9:18 pm",
+      "artist": "Monkees",
+      "title": "I'm A Believer"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "Goo Goo Dolls",
+      "title": "Name",
+      "album": "A Boy Named Goo • 1995"
+    },
     {
       "time": "9:04 pm",
       "artist": "Roxy Music",
@@ -167,12 +173,6 @@
       "artist": "Galaxie 500",
       "title": "Listen, the Snow is Falling",
       "album": "This Is Our Music •"
-    },
-    {
-      "time": "7:33 pm",
-      "artist": "Fiona Apple",
-      "title": "Fast as You Can",
-      "album": "When the Pawn • 1999"
     }
   ]
 }
