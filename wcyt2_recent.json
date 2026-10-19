@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T19:12:45",
+  "updatedAt": "2026-10-19T19:12:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "I Know What I Know",
+    "album": "Graceland • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:12 pm",
-      "artist": "Paul Simon",
-      "title": "I Know What I Know"
-    },
     {
       "time": "7:16 pm",
       "artist": "Olivia Rodrigo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:12 pm",
+      "artist": "Paul Simon",
+      "title": "I Know What I Know",
+      "album": "Graceland • 1986"
+    },
     {
       "time": "7:09 pm",
       "artist": "The Jesus and Mary Chain",
@@ -172,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "Rock and Roll",
       "album": "Led Zeppelin IV • 1971"
-    },
-    {
-      "time": "5:20 pm",
-      "artist": "Merrilee Rush & The Turnabouts",
-      "title": "Angel of the Morning",
-      "album": "Angel of the Morning • 1968"
     }
   ]
 }
