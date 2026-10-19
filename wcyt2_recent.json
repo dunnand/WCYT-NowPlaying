@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T09:41:47",
+  "updatedAt": "2026-10-19T09:47:02",
   "now": {
-    "artist": "Sinead O'Connor",
-    "title": "The Emperor's New Clothes",
-    "album": "I Do Not Want What I Haven't Got • 1990",
+    "artist": "Jerry Lee Lewis",
+    "title": "Whole Lotta Shakin' Going on",
+    "album": "Single • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:46 am",
-      "artist": "Jerry Lee Lewis",
-      "title": "Whole Lotta Shakin' Going on"
-    },
     {
       "time": "9:49 am",
       "artist": "OK Go",
@@ -26,9 +21,20 @@
       "time": "9:56 am",
       "artist": "Vampire Weekend",
       "title": "Diane Young"
+    },
+    {
+      "time": "9:59 am",
+      "artist": "Slint",
+      "title": "Nosferatu Man"
     }
   ],
   "recent": [
+    {
+      "time": "9:47 am",
+      "artist": "Jerry Lee Lewis",
+      "title": "Whole Lotta Shakin' Going on",
+      "album": "Single • 1957"
+    },
     {
       "time": "9:41 am",
       "artist": "Sinead O'Connor",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Sub-Culture",
       "album": "Low-Life • 1985"
-    },
-    {
-      "time": "8:04 am",
-      "artist": "Rage Against the Machine",
-      "title": "No Shelter",
-      "album": "The Battle of Los Angeles • 1999"
     }
   ]
 }
