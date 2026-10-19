@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T22:02:22",
+  "updatedAt": "2026-10-18T22:04:15",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Take Your Time",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "M83",
+    "title": "We Own The Sky",
+    "album": "Saturdays = Youth • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:04 pm",
-      "artist": "M83",
-      "title": "We Own The Sky"
-    },
     {
       "time": "10:08 pm",
       "artist": "Kenny Rogers & The First Edition",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:04 pm",
+      "artist": "M83",
+      "title": "We Own The Sky",
+      "album": "Saturdays = Youth • 2008"
+    },
     {
       "time": "10:02 pm",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "Au Pairs",
       "title": "Come Again",
       "album": "Playing with a Different Sex • 1981"
-    },
-    {
-      "time": "8:41 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "Twilight",
-      "album": "Time • 1981"
     }
   ]
 }
