@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T08:51:57",
+  "updatedAt": "2026-10-19T08:57:05",
   "now": {
-    "artist": "Radiohead",
-    "title": "Bloom",
-    "album": "The King of Limbs • 2011",
+    "artist": "Rolling Stones",
+    "title": "Out Of Tears",
+    "album": "Voodoo Lounge • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 am",
-      "artist": "Rolling Stones",
-      "title": "Out Of Tears"
-    },
     {
       "time": "9:02 am",
       "artist": "Sarah McLachlan",
@@ -21,9 +16,20 @@
       "time": "9:06 am",
       "artist": "Bette Midler",
       "title": "Wind Beneath My Wings"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Benny Mardones",
+      "title": "Into The Night"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 am",
+      "artist": "Rolling Stones",
+      "title": "Out Of Tears",
+      "album": "Voodoo Lounge • 1994"
+    },
     {
       "time": "8:51 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "Gallows Pole",
       "album": "Led Zeppelin III • 1970"
-    },
-    {
-      "time": "7:17 am",
-      "artist": "Can",
-      "title": "Future Days",
-      "album": "Future Days • 1973"
     }
   ]
 }
