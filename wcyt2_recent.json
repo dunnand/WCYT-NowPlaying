@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T08:21:38",
+  "updatedAt": "2026-10-19T08:21:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Three Little Birds",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:21 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Three Little Birds"
-    },
     {
       "time": "8:24 am",
       "artist": "The Postal Service",
@@ -31,9 +26,20 @@
       "time": "8:37 am",
       "artist": "Rancid",
       "title": "Time Bomb"
+    },
+    {
+      "time": "8:39 am",
+      "artist": "Nat King Cole",
+      "title": "It's Only A Paper Moon"
     }
   ],
   "recent": [
+    {
+      "time": "8:21 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Three Little Birds",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "8:19 am",
       "artist": "Kings of Leon",
@@ -177,12 +183,6 @@
       "artist": "M.I.A.",
       "title": "Boys",
       "album": "Kala • 2007"
-    },
-    {
-      "time": "6:42 am",
-      "artist": "Les Paul",
-      "title": "How High The Moon",
-      "album": "single • 1951"
     }
   ]
 }
