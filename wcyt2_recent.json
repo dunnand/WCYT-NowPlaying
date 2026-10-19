@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T05:21:32",
+  "updatedAt": "2026-10-19T05:24:44",
   "now": {
-    "artist": "Phoenix",
-    "title": "Long Distance Call",
-    "album": "It's Never Been Like That • 2006",
-    "category": "TUNES"
+    "artist": "Ace Frehley",
+    "title": "New York Groove",
+    "album": "Ace Frehley • 1978",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:24 am",
-      "artist": "Ace Frehley",
-      "title": "New York Groove"
-    },
     {
       "time": "5:27 am",
       "artist": "Madonna",
@@ -26,9 +21,25 @@
       "time": "5:35 am",
       "artist": "Fleetwood Mac",
       "title": "Don't Stop"
+    },
+    {
+      "time": "5:38 am",
+      "artist": "Pantera",
+      "title": "Cowboys from Hell"
+    },
+    {
+      "time": "5:42 am",
+      "artist": "The Crickets",
+      "title": "Maybe Baby"
     }
   ],
   "recent": [
+    {
+      "time": "5:24 am",
+      "artist": "Ace Frehley",
+      "title": "New York Groove",
+      "album": "Ace Frehley • 1978"
+    },
     {
       "time": "5:21 am",
       "artist": "Phoenix",
@@ -172,12 +183,6 @@
       "artist": "Kings of Leon",
       "title": "Closer",
       "album": "Only by the Night • 2008"
-    },
-    {
-      "time": "3:55 am",
-      "artist": "The Isley Brothers",
-      "title": "Shout, Pts. 1 & 2",
-      "album": "Shout! • 1959"
     }
   ]
 }
