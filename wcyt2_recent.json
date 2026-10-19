@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T15:33:55",
+  "updatedAt": "2026-10-19T15:34:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Leonard Cohen",
+    "title": "Suzanne",
+    "album": "Songs of Leonard Cohen • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:34 pm",
-      "artist": "Leonard Cohen",
-      "title": "Suzanne"
-    },
     {
       "time": "3:38 pm",
       "artist": "Thundercat",
@@ -26,9 +21,20 @@
       "time": "3:45 pm",
       "artist": "Radiohead",
       "title": "Let Down"
+    },
+    {
+      "time": "3:50 pm",
+      "artist": "Cocteau Twins",
+      "title": "Aikea-Guinea"
     }
   ],
   "recent": [
+    {
+      "time": "3:34 pm",
+      "artist": "Leonard Cohen",
+      "title": "Suzanne",
+      "album": "Songs of Leonard Cohen • 1967"
+    },
     {
       "time": "3:28 pm",
       "artist": "Iron & Wine",
@@ -172,12 +178,6 @@
       "artist": "The Prodigy",
       "title": "Firestarter",
       "album": "The Fat of the Land • 1997"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "The Cranberries",
-      "title": "Dreams",
-      "album": "Everybody Else Is Doing It, So Why Can’t We? • 1993"
     }
   ]
 }
