@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-10-19T10:04:23",
+  "updatedAt": "2026-10-19T10:07:37",
   "now": {
-    "artist": "Smash Mouth",
-    "title": "All Star",
-    "album": "Astro Lounge • 1999",
+    "artist": "Bruce Springsteen",
+    "title": "Hungry Heart",
+    "album": "The River • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:07 am",
-      "artist": "Smash Mouth",
-      "title": "All Star"
-    },
-    {
       "time": "10:10 am",
-      "artist": "Bruce Springsteen",
-      "title": "Hungry Heart"
-    },
-    {
-      "time": "10:14 am",
       "artist": "Audio Two",
       "title": "Top Billin'"
     },
     {
-      "time": "10:16 am",
+      "time": "10:13 am",
       "artist": "Silk Sonic",
       "title": "Leave the Door Open"
+    },
+    {
+      "time": "10:17 am",
+      "artist": "LCD Soundsystem",
+      "title": "Daft Punk Is Playing At My House"
     }
   ],
   "recent": [
+    {
+      "time": "10:07 am",
+      "artist": "Bruce Springsteen",
+      "title": "Hungry Heart",
+      "album": "The River • 1981"
+    },
     {
       "time": "10:04 am",
       "artist": "Smash Mouth",
@@ -172,12 +173,6 @@
       "artist": "Taio Cruz",
       "title": "Dynamite",
       "album": "Rokstarr • 2011"
-    },
-    {
-      "time": "8:24 am",
-      "artist": "The Postal Service",
-      "title": "We Will Become Silhouettes",
-      "album": "Give Up • 2003"
     }
   ]
 }
