@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T05:51:38",
+  "updatedAt": "2026-10-19T05:54:02",
   "now": {
-    "artist": "The Lumineers",
-    "title": "Ho Hey",
-    "album": "The Lumineers • 2012",
+    "artist": "Paul Simon",
+    "title": "The Obvious Child",
+    "album": "The Rhythm of the Saints • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:54 am",
-      "artist": "Paul Simon",
-      "title": "The Obvious Child"
-    },
     {
       "time": "5:58 am",
       "artist": "Peter Gabriel",
@@ -21,9 +16,20 @@
       "time": "6:04 am",
       "artist": "Talking Heads",
       "title": "Crosseyed and Painless"
+    },
+    {
+      "time": "6:09 am",
+      "artist": "Dionne Warwick & Friends",
+      "title": "That's What Friends Are For"
     }
   ],
   "recent": [
+    {
+      "time": "5:54 am",
+      "artist": "Paul Simon",
+      "title": "The Obvious Child",
+      "album": "The Rhythm of the Saints • 1990"
+    },
     {
       "time": "5:51 am",
       "artist": "The Lumineers",
@@ -167,12 +173,6 @@
       "artist": "10cc",
       "title": "The Things We Do For Love",
       "album": "Deceptive Bends • 1977"
-    },
-    {
-      "time": "4:29 am",
-      "artist": "Yes",
-      "title": "Long Distance Runaround",
-      "album": "Fragile • 1972"
     }
   ]
 }
