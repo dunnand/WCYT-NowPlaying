@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T01:05:44",
+  "updatedAt": "2026-10-19T01:05:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Roll Over Beethoven",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 am",
-      "artist": "The Beatles",
-      "title": "Roll Over Beethoven"
-    },
     {
       "time": "1:08 am",
       "artist": "Orville Peck",
@@ -26,9 +21,20 @@
       "time": "1:17 am",
       "artist": "Matchbox Twenty",
       "title": "3 A.M."
+    },
+    {
+      "time": "1:21 am",
+      "artist": "Prince",
+      "title": "U Got The Look"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "The Beatles",
+      "title": "Roll Over Beethoven",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "1:01 am",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "Kazumi Totaka",
       "title": "Yoshi's Story (Story of Yoshi)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "America",
-      "title": "You Can Do Magic",
-      "album": "View from the Ground • 1982"
     }
   ]
 }
