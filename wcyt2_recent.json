@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T19:19:58",
+  "updatedAt": "2026-10-19T19:23:24",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "War",
-    "album": "Rastaman Vibration • 1976",
+    "artist": "Leonard Cohen",
+    "title": "Master Song",
+    "album": "Songs of Leonard Cohen • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:23 pm",
-      "artist": "Leonard Cohen",
-      "title": "Master Song"
-    },
     {
       "time": "7:29 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "7:39 pm",
       "artist": "Bee Gees",
       "title": "Night Fever"
+    },
+    {
+      "time": "7:42 pm",
+      "artist": "Elliott Smith",
+      "title": "No Name No. 5"
     }
   ],
   "recent": [
+    {
+      "time": "7:23 pm",
+      "artist": "Leonard Cohen",
+      "title": "Master Song",
+      "album": "Songs of Leonard Cohen • 1967"
+    },
     {
       "time": "7:19 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Light Years",
       "album": "Binaural • 2000"
-    },
-    {
-      "time": "5:30 pm",
-      "artist": "Buddy Holly",
-      "title": "Rave On",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
