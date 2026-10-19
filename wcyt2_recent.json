@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T02:20:19",
+  "updatedAt": "2026-10-19T02:20:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Danzig",
+    "title": "Mother",
+    "album": "Danzig • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:20 am",
-      "artist": "Danzig",
-      "title": "Mother"
-    },
     {
       "time": "2:23 am",
       "artist": "Big Audio Dynamite",
@@ -26,9 +21,20 @@
       "time": "2:33 am",
       "artist": "Tom Petty & The Heartbreakers",
       "title": "I Need To Know"
+    },
+    {
+      "time": "2:35 am",
+      "artist": "T. Rex",
+      "title": "Cosmic Dancer"
     }
   ],
   "recent": [
+    {
+      "time": "2:20 am",
+      "artist": "Danzig",
+      "title": "Mother",
+      "album": "Danzig • 1988"
+    },
     {
       "time": "2:16 am",
       "artist": "Melissa Etheridge",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "I'll Cry Instead",
       "album": "A Hard Day's Night • 1964"
-    },
-    {
-      "time": "12:43 am",
-      "artist": "The Chi-Lites",
-      "title": "Out of My Mind",
-      "album": "Chi-Lites • 1973"
     }
   ]
 }
