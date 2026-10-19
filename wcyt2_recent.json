@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T15:15:31",
+  "updatedAt": "2026-10-19T15:18:13",
   "now": {
-    "artist": "Otis Redding",
-    "title": "(Sittin' on) The Dock of the Bay",
-    "album": "The Dock of the Bay • 1968",
+    "artist": "ABBA",
+    "title": "The Name of the Game",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:18 pm",
-      "artist": "ABBA",
-      "title": "The Name of the Game"
-    },
     {
       "time": "3:22 pm",
       "artist": "Jesus Jones",
@@ -26,9 +21,20 @@
       "time": "3:28 pm",
       "artist": "Iron & Wine",
       "title": "Upward Over the Mountain"
+    },
+    {
+      "time": "3:34 pm",
+      "artist": "Leonard Cohen",
+      "title": "Suzanne"
     }
   ],
   "recent": [
+    {
+      "time": "3:18 pm",
+      "artist": "ABBA",
+      "title": "The Name of the Game",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "3:15 pm",
       "artist": "Otis Redding",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "All My Friends",
       "album": "Sound of Silver • 2007"
-    },
-    {
-      "time": "1:41 pm",
-      "artist": "Robyn",
-      "title": "Dancing On My Own",
-      "album": "Body Talk, Pt. 1 - EP • 2010"
     }
   ]
 }
