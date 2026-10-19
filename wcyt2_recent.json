@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T17:30:29",
+  "updatedAt": "2026-10-19T17:30:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Rave On",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:30 pm",
-      "artist": "Buddy Holly",
-      "title": "Rave On"
-    },
     {
       "time": "5:32 pm",
       "artist": "Pearl Jam",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:30 pm",
+      "artist": "Buddy Holly",
+      "title": "Rave On",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "5:26 pm",
       "artist": "R.E.M.",
@@ -172,12 +173,6 @@
       "artist": "Cocteau Twins",
       "title": "Aikea-Guinea",
       "album": "Aikea-Guinea EP • 1985"
-    },
-    {
-      "time": "3:45 pm",
-      "artist": "Radiohead",
-      "title": "Let Down",
-      "album": "OK Computer • 1997"
     }
   ]
 }
