@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T17:10:34",
+  "updatedAt": "2026-10-19T17:13:49",
   "now": {
-    "artist": "James Taylor",
-    "title": "Country Road",
-    "album": "Sweet Baby James • 1970",
+    "artist": "Ramones",
+    "title": "I Wanna Be Your Boyfriend",
+    "album": "Ramones • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:13 pm",
-      "artist": "Ramones",
-      "title": "I Wanna Be Your Boyfriend"
-    },
     {
       "time": "5:16 pm",
       "artist": "Outkast",
@@ -26,9 +21,20 @@
       "time": "5:23 pm",
       "artist": "Led Zeppelin",
       "title": "Rock and Roll"
+    },
+    {
+      "time": "5:26 pm",
+      "artist": "R.E.M.",
+      "title": "Texarkana"
     }
   ],
   "recent": [
+    {
+      "time": "5:13 pm",
+      "artist": "Ramones",
+      "title": "I Wanna Be Your Boyfriend",
+      "album": "Ramones • 1976"
+    },
     {
       "time": "5:10 pm",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "Iron & Wine",
       "title": "Upward Over the Mountain",
       "album": "The Creek Drank the Cradle • 2002"
-    },
-    {
-      "time": "3:25 pm",
-      "artist": "Solomon Linda's Original Evening Birds",
-      "title": "Mbube",
-      "album": "single • 1939"
     }
   ]
 }
