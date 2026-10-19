@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T15:57:42",
+  "updatedAt": "2026-10-19T16:00:38",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "good 4 u",
-    "album": "SOUR • 2021",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "I Will Sing You Songs",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:00 pm",
-      "artist": "My Morning Jacket",
-      "title": "I Will Sing You Songs"
-    },
     {
       "time": "4:10 pm",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "4:24 pm",
       "artist": "Tyler, the Creator",
       "title": "IGOR'S THEME"
+    },
+    {
+      "time": "4:27 pm",
+      "artist": "Elvis Costello",
+      "title": "(I Don't Want to Go to) Chelsea"
     }
   ],
   "recent": [
+    {
+      "time": "4:00 pm",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "3:57 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Small Faces",
       "title": "Itchycoo Park",
       "album": "There Are But Four Small Faces • 1967"
-    },
-    {
-      "time": "2:33 pm",
-      "artist": "Eagles",
-      "title": "Heartache Tonight",
-      "album": "The Long Run • 1979"
     }
   ]
 }
