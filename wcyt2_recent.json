@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T11:42:52",
+  "updatedAt": "2026-10-19T11:46:06",
   "now": {
-    "artist": "OK Go",
-    "title": "Get Over It",
-    "album": "OK Go • 2002",
+    "artist": "Jimmy Eat World",
+    "title": "The Middle",
+    "album": "Bleed American • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:46 am",
-      "artist": "Jimmy Eat World",
-      "title": "The Middle"
-    },
     {
       "time": "11:48 am",
       "artist": "Tame Impala",
@@ -26,9 +21,20 @@
       "time": "11:56 am",
       "artist": "Stereolab",
       "title": "French Disko"
+    },
+    {
+      "time": "11:59 am",
+      "artist": "The Clash",
+      "title": "Police on My Back"
     }
   ],
   "recent": [
+    {
+      "time": "11:46 am",
+      "artist": "Jimmy Eat World",
+      "title": "The Middle",
+      "album": "Bleed American • 2001"
+    },
     {
       "time": "11:42 am",
       "artist": "OK Go",
@@ -172,12 +178,6 @@
       "artist": "Silk Sonic",
       "title": "Leave the Door Open",
       "album": "An Evening With Silk Sonic • 2021"
-    },
-    {
-      "time": "10:10 am",
-      "artist": "Audio Two",
-      "title": "Top Billin'",
-      "album": "What More Can I Say? • 1988"
     }
   ]
 }
