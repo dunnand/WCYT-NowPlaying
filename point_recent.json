@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T08:54:20",
+  "updatedAt": "2026-10-19T08:54:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Fleet Foxes",
+    "title": "Blue Ridge Mountains",
+    "album": "Fleet Foxes • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 am",
-      "artist": "Fleet Foxes",
-      "title": "Blue Ridge Mountains"
-    },
     {
       "time": "8:58 am",
       "artist": "Wednesday",
@@ -26,9 +21,20 @@
       "time": "9:07 am",
       "artist": "The Clash",
       "title": "Clampdown"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Snail Mail",
+      "title": "Tonight, Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 am",
+      "artist": "Fleet Foxes",
+      "title": "Blue Ridge Mountains",
+      "album": "Fleet Foxes • 2008"
+    },
     {
       "time": "8:51 am",
       "artist": "Telehealth",
@@ -172,12 +178,6 @@
       "artist": "Kevin Morby",
       "title": "PBJ",
       "album": "• 2026"
-    },
-    {
-      "time": "7:10 am",
-      "artist": "Good Dear Good",
-      "title": "Slick",
-      "album": "sook • 2025"
     }
   ]
 }
