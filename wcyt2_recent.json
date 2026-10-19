@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T11:42:42",
+  "updatedAt": "2026-10-19T11:42:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "OK Go",
+    "title": "Get Over It",
+    "album": "OK Go • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:42 am",
-      "artist": "OK Go",
-      "title": "Get Over It"
-    },
     {
       "time": "11:46 am",
       "artist": "Jimmy Eat World",
@@ -26,9 +21,20 @@
       "time": "11:52 am",
       "artist": "Spoon",
       "title": "The Agony of Laffitte"
+    },
+    {
+      "time": "11:56 am",
+      "artist": "Stereolab",
+      "title": "French Disko"
     }
   ],
   "recent": [
+    {
+      "time": "11:42 am",
+      "artist": "OK Go",
+      "title": "Get Over It",
+      "album": "OK Go • 2002"
+    },
     {
       "time": "11:39 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Audio Two",
       "title": "Top Billin'",
       "album": "What More Can I Say? • 1988"
-    },
-    {
-      "time": "10:07 am",
-      "artist": "Bruce Springsteen",
-      "title": "Hungry Heart",
-      "album": "The River • 1981"
     }
   ]
 }
