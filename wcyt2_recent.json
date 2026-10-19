@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T13:05:12",
+  "updatedAt": "2026-10-19T13:05:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cameo",
+    "title": "Word Up",
+    "album": "Word Up! • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 pm",
-      "artist": "Cameo",
-      "title": "Word Up"
-    },
     {
       "time": "1:09 pm",
       "artist": "Bonnie Tyler",
@@ -26,9 +21,20 @@
       "time": "1:17 pm",
       "artist": "Pink Floyd",
       "title": "Wish You Were Here"
+    },
+    {
+      "time": "1:22 pm",
+      "artist": "Buckingham Nicks",
+      "title": "Crying in the Night"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 pm",
+      "artist": "Cameo",
+      "title": "Word Up",
+      "album": "Word Up! • 1986"
+    },
     {
       "time": "1:01 pm",
       "artist": "Temple of the Dog",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Good Times Bad Times",
       "album": "Led Zeppelin • 1969"
-    },
-    {
-      "time": "11:23 am",
-      "artist": "Muse",
-      "title": "Knights of Cydonia",
-      "album": "Black Holes and Revelations • 2006"
     }
   ]
 }
