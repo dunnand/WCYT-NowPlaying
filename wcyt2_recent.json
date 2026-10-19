@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T11:29:35",
+  "updatedAt": "2026-10-19T11:32:17",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Good Times Bad Times",
-    "album": "Led Zeppelin • 1969",
+    "artist": "Cat Stevens",
+    "title": "Wild World",
+    "album": "Tea for the Tillerman • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:32 am",
-      "artist": "Cat Stevens",
-      "title": "Wild World"
-    },
     {
       "time": "11:35 am",
       "artist": "Spin Doctors",
@@ -26,9 +21,20 @@
       "time": "11:42 am",
       "artist": "OK Go",
       "title": "Get Over It"
+    },
+    {
+      "time": "11:46 am",
+      "artist": "Jimmy Eat World",
+      "title": "The Middle"
     }
   ],
   "recent": [
+    {
+      "time": "11:32 am",
+      "artist": "Cat Stevens",
+      "title": "Wild World",
+      "album": "Tea for the Tillerman • 1970"
+    },
     {
       "time": "11:29 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Slint",
       "title": "Nosferatu Man",
       "album": "Spiderland • 1991"
-    },
-    {
-      "time": "9:56 am",
-      "artist": "Vampire Weekend",
-      "title": "Diane Young",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
