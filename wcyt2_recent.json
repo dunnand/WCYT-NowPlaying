@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-18T21:48:41",
+  "updatedAt": "2026-10-18T21:48:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "One Chance",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:48 pm",
-      "artist": "Modest Mouse",
-      "title": "One Chance"
-    },
     {
       "time": "9:51 pm",
       "artist": "Solomon Burke",
@@ -31,9 +26,20 @@
       "time": "10:02 pm",
       "artist": "Buddy Holly",
       "title": "Take Your Time"
+    },
+    {
+      "time": "10:04 pm",
+      "artist": "M83",
+      "title": "We Own The Sky"
     }
   ],
   "recent": [
+    {
+      "time": "9:48 pm",
+      "artist": "Modest Mouse",
+      "title": "One Chance",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "9:45 pm",
       "artist": "Sex Pistols",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Love Me Do",
       "album": "Love Me Do • 1962"
-    },
-    {
-      "time": "8:23 pm",
-      "artist": "Green Day",
-      "title": "Boulevard Of Broken Dreams",
-      "album": "American Idiot • 2004"
     }
   ]
 }
