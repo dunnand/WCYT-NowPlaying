@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-10-19T11:12:36",
+  "updatedAt": "2026-10-19T11:12:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Idiot Wind",
+    "album": "Blood On the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:12 am",
+      "time": "11:20 am",
+      "artist": "SAULT",
+      "title": "Stop Dem"
+    },
+    {
+      "time": "11:24 am",
       "artist": "Bob Dylan",
       "title": "Idiot Wind"
     },
     {
-      "time": "11:20 am",
+      "time": "11:31 am",
       "artist": "Queen",
       "title": "Killer Queen"
-    },
-    {
-      "time": "11:23 am",
-      "artist": "Muse",
-      "title": "Knights of Cydonia"
-    },
-    {
-      "time": "11:29 am",
-      "artist": "Led Zeppelin",
-      "title": "Good Times Bad Times"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "Bob Dylan",
+      "title": "Idiot Wind",
+      "album": "Blood On the Tracks • 1975"
+    },
     {
       "time": "11:09 am",
       "artist": "SAULT",
@@ -172,12 +173,6 @@
       "artist": "Jerry Lee Lewis",
       "title": "Whole Lotta Shakin' Going on",
       "album": "Single • 1957"
-    },
-    {
-      "time": "9:41 am",
-      "artist": "Sinead O'Connor",
-      "title": "The Emperor's New Clothes",
-      "album": "I Do Not Want What I Haven't Got • 1990"
     }
   ]
 }
