@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T01:42:50",
+  "updatedAt": "2026-10-19T01:46:35",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Lowdown",
-    "album": "At Dawn • 2001",
-    "category": "TUNES"
+    "artist": "Nicki Minaj",
+    "title": "Va Va Voom",
+    "album": "Pink Friday: Roman Reloaded • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:46 am",
-      "artist": "Nicki Minaj",
-      "title": "Va Va Voom"
-    },
     {
       "time": "1:49 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "1:57 am",
       "artist": "Don Gibson",
       "title": "Oh Lonesome Me"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "Nine Inch Nails",
+      "title": "Survivalism"
     }
   ],
   "recent": [
+    {
+      "time": "1:46 am",
+      "artist": "Nicki Minaj",
+      "title": "Va Va Voom",
+      "album": "Pink Friday: Roman Reloaded • 2012"
+    },
     {
       "time": "1:42 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "I Wont Let You Down",
       "album": "Hungry Ghosts • 2014"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "Mark Ronson",
-      "title": "Valerie (feat. Amy Winehouse)",
-      "album": "Version • 2007"
     }
   ]
 }
