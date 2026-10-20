@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T15:11:55",
+  "updatedAt": "2026-10-20T15:15:49",
   "now": {
-    "artist": "Gwen Stefani",
-    "title": "The Sweet Escape",
-    "album": "The Sweet Escape • 2006",
-    "category": "AUDIO"
+    "artist": "Les Savy Fav",
+    "title": "Hold On to Your Genre",
+    "album": "Inches • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "Les Savy Fav",
-      "title": "Hold On to Your Genre"
-    },
     {
       "time": "3:21 pm",
       "artist": "Train",
@@ -26,9 +21,20 @@
       "time": "3:27 pm",
       "artist": "A Tribe Called Quest",
       "title": "Bonita Applebum"
+    },
+    {
+      "time": "3:31 pm",
+      "artist": "Genesis",
+      "title": "In Too Deep"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "Les Savy Fav",
+      "title": "Hold On to Your Genre",
+      "album": "Inches • 2004"
+    },
     {
       "time": "3:11 pm",
       "artist": "Gwen Stefani",
@@ -172,12 +178,6 @@
       "artist": "Guided by Voices",
       "title": "Echos Myron",
       "album": "Bee Thousand • 1994"
-    },
-    {
-      "time": "1:46 pm",
-      "artist": "The Cars",
-      "title": "My Best Friend's Girl",
-      "album": "The Cars • 1978"
     }
   ]
 }
