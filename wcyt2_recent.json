@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T11:56:43",
+  "updatedAt": "2026-10-20T11:59:57",
   "now": {
-    "artist": "Steve Miller Band",
-    "title": "The Joker",
-    "album": "The Joker • 1973",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Manic Depression",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Manic Depression"
-    },
     {
       "time": "12:03 pm",
       "artist": "Fleetwood Mac",
@@ -28,12 +23,18 @@
       "title": "Blueberry Hill"
     },
     {
-      "time": "12:12 pm",
+      "time": "12:11 pm",
       "artist": "Modest Mouse",
       "title": "Ocean Breathes Salty"
     }
   ],
   "recent": [
+    {
+      "time": "11:59 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Manic Depression",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "11:56 am",
       "artist": "Steve Miller Band",
@@ -177,12 +178,6 @@
       "artist": "Grimes",
       "title": "Violence",
       "album": "Miss Anthropocene • 2019"
-    },
-    {
-      "time": "10:01 am",
-      "artist": "Ssgt. Sadler Barry (U.S. Army Special Forces)",
-      "title": "Ballad Of The Green Berets",
-      "album": "Ballad of the Green Berets • 1966"
     }
   ]
 }
