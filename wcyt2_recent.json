@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T23:13:12",
+  "updatedAt": "2026-10-19T23:15:57",
   "now": {
-    "artist": "Weezer",
-    "title": "Susanne",
-    "album": "Mallrats Soundtrack • 1995",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "The Sprawl",
+    "album": "Daydream Nation • 1988",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:15 pm",
-      "artist": "Sonic Youth",
-      "title": "The Sprawl"
-    },
     {
       "time": "11:23 pm",
       "artist": "Dream Academy",
@@ -21,9 +16,20 @@
       "time": "11:27 pm",
       "artist": "Superchunk",
       "title": "Slack"
+    },
+    {
+      "time": "11:30 pm",
+      "artist": "Al Stewart",
+      "title": "Year Of The Cat"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 pm",
+      "artist": "Sonic Youth",
+      "title": "The Sprawl",
+      "album": "Daydream Nation • 1988"
+    },
     {
       "time": "11:13 pm",
       "artist": "Weezer",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "It Won't Be Long",
       "album": "With the Beatles • 1963"
-    },
-    {
-      "time": "9:34 pm",
-      "artist": "Interpol",
-      "title": "Take You On A Cruise",
-      "album": "Antics • 2004"
     }
   ]
 }
