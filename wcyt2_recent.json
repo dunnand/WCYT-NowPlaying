@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T15:20:57",
+  "updatedAt": "2026-10-20T15:21:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Train",
+    "title": "Drive By",
+    "album": "California 37 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:21 pm",
-      "artist": "Train",
-      "title": "Drive By"
-    },
     {
       "time": "3:24 pm",
       "artist": "The Magnetic Fields",
@@ -26,9 +21,20 @@
       "time": "3:31 pm",
       "artist": "Genesis",
       "title": "In Too Deep"
+    },
+    {
+      "time": "3:36 pm",
+      "artist": "Joy Division",
+      "title": "The Eternal"
     }
   ],
   "recent": [
+    {
+      "time": "3:21 pm",
+      "artist": "Train",
+      "title": "Drive By",
+      "album": "California 37 • 2011"
+    },
     {
       "time": "3:15 pm",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "Peggy Lee",
       "title": "Fever",
       "album": "Things Are Swingin’ • 1959"
-    },
-    {
-      "time": "1:50 pm",
-      "artist": "Guided by Voices",
-      "title": "Echos Myron",
-      "album": "Bee Thousand • 1994"
     }
   ]
 }
