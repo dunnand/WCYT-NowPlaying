@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T05:08:04",
+  "updatedAt": "2026-10-20T05:08:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Buggles",
+    "title": "Video Killed The Radio Star",
+    "album": "The Age of Plastic • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:08 am",
-      "artist": "The Buggles",
-      "title": "Video Killed The Radio Star"
-    },
     {
       "time": "5:11 am",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "5:19 am",
       "artist": "The Beatles",
       "title": "What Goes On"
+    },
+    {
+      "time": "5:22 am",
+      "artist": "Blondie",
+      "title": "Sunday Girl"
     }
   ],
   "recent": [
+    {
+      "time": "5:08 am",
+      "artist": "The Buggles",
+      "title": "Video Killed The Radio Star",
+      "album": "The Age of Plastic • 1979"
+    },
     {
       "time": "5:03 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "That's All Right",
       "album": "single • 1956"
-    },
-    {
-      "time": "3:36 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Otherside",
-      "album": "Californication • 1999"
     }
   ]
 }
