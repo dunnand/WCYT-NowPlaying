@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T01:07:54",
+  "updatedAt": "2026-10-20T01:08:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Train",
+    "title": "Drive By",
+    "album": "California 37 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:08 am",
-      "artist": "Train",
-      "title": "Drive By"
-    },
     {
       "time": "1:11 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "1:18 am",
       "artist": "De La Soul",
       "title": "Potholes in My Lawn"
+    },
+    {
+      "time": "1:22 am",
+      "artist": "Genesis",
+      "title": "In Too Deep"
     }
   ],
   "recent": [
+    {
+      "time": "1:08 am",
+      "artist": "Train",
+      "title": "Drive By",
+      "album": "California 37 • 2011"
+    },
     {
       "time": "1:04 am",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "Al Stewart",
       "title": "Year Of The Cat",
       "album": "Year of the Cat • 1977"
-    },
-    {
-      "time": "11:27 pm",
-      "artist": "Superchunk",
-      "title": "Slack",
-      "album": "Superchunk •"
     }
   ]
 }
