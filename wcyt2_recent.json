@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T01:31:06",
+  "updatedAt": "2026-10-20T01:34:38",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Goodbye To Love",
-    "album": "A Song for You • 1972",
+    "artist": "Lesley Gore",
+    "title": "Maybe I Know",
+    "album": "Girl Talk • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:34 am",
-      "artist": "Lesley Gore",
-      "title": "Maybe I Know"
-    },
     {
       "time": "1:37 am",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "1:48 am",
       "artist": "Steely Dan",
       "title": "Fire In The Hole"
+    },
+    {
+      "time": "1:51 am",
+      "artist": "The Magnetic Fields",
+      "title": "100,000 Fireflies"
     }
   ],
   "recent": [
+    {
+      "time": "1:34 am",
+      "artist": "Lesley Gore",
+      "title": "Maybe I Know",
+      "album": "Girl Talk • 1964"
+    },
     {
       "time": "1:31 am",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "Narc",
       "album": "Antics • 2004"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "The Everly Brothers",
-      "title": "('Til) I Kissed You",
-      "album": "single • 1959"
     }
   ]
 }
