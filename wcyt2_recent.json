@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T03:10:02",
+  "updatedAt": "2026-10-20T03:10:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Meat Puppets",
+    "title": "Plateau",
+    "album": "Meat Puppets II • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:10 am",
-      "artist": "Meat Puppets",
-      "title": "Plateau"
-    },
     {
       "time": "3:12 am",
       "artist": "Minutemen",
@@ -26,9 +21,20 @@
       "time": "3:17 am",
       "artist": "Bob Dylan",
       "title": "Sara"
+    },
+    {
+      "time": "3:22 am",
+      "artist": "Queen",
+      "title": "Death on Two Legs (Dedicated to...)"
     }
   ],
   "recent": [
+    {
+      "time": "3:10 am",
+      "artist": "Meat Puppets",
+      "title": "Plateau",
+      "album": "Meat Puppets II • 1984"
+    },
     {
       "time": "3:05 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -172,12 +178,6 @@
       "artist": "Nina Simone",
       "title": "Wild Is the Wind",
       "album": "Wild Is the Wind • 1966"
-    },
-    {
-      "time": "1:37 am",
-      "artist": "Paul McCartney and Wings",
-      "title": "Listen To What The Man Said",
-      "album": "Venus and Mars • 1975"
     }
   ]
 }
