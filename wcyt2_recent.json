@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T02:12:10",
+  "updatedAt": "2026-10-20T02:14:32",
   "now": {
-    "artist": "Beck",
-    "title": "Teenage Wastebasket",
-    "album": "One Foot in the Grave • 1994",
-    "category": "TUNES"
+    "artist": "Joy Division",
+    "title": "The Eternal",
+    "album": "Closer • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:14 am",
-      "artist": "Joy Division",
-      "title": "The Eternal"
-    },
     {
       "time": "2:20 am",
       "artist": "Lionel Richie",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:14 am",
+      "artist": "Joy Division",
+      "title": "The Eternal",
+      "album": "Closer • 1980"
+    },
     {
       "time": "2:12 am",
       "artist": "Beck",
@@ -172,12 +173,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Fire",
       "album": "Are You Experienced • 1967"
-    },
-    {
-      "time": "12:37 am",
-      "artist": "Grandaddy",
-      "title": "The Crystal Lake",
-      "album": "The Sophtware Slump • 2000"
     }
   ]
 }
