@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T22:43:20",
+  "updatedAt": "2026-10-19T22:45:45",
   "now": {
-    "artist": "Sam Cooke",
-    "title": "Cupid",
-    "album": "Cookes Tour • 1960",
+    "artist": "The Who",
+    "title": "Behind Blue Eyes",
+    "album": "Who's Next • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 pm",
-      "artist": "The Who",
-      "title": "Behind Blue Eyes"
-    },
     {
       "time": "10:49 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "10:57 pm",
       "artist": "The Mountain Goats",
       "title": "Palmcorder Yajna"
+    },
+    {
+      "time": "11:01 pm",
+      "artist": "Harvey Danger",
+      "title": "Sad Sweetheart of the Rodeo"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 pm",
+      "artist": "The Who",
+      "title": "Behind Blue Eyes",
+      "album": "Who's Next • 1971"
+    },
     {
       "time": "10:43 pm",
       "artist": "Sam Cooke",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Loves Me Like A Rock",
       "album": "There Goes Rhymin Simon • 1973"
-    },
-    {
-      "time": "9:07 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "bad idea right?",
-      "album": "Guts • 2023"
     }
   ]
 }
