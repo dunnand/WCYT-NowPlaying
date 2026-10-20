@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T05:19:52",
+  "updatedAt": "2026-10-20T05:22:26",
   "now": {
-    "artist": "The Beatles",
-    "title": "What Goes On",
-    "album": "single • 1965",
+    "artist": "Blondie",
+    "title": "Sunday Girl",
+    "album": "Parallel Lines • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 am",
-      "artist": "Blondie",
-      "title": "Sunday Girl"
-    },
     {
       "time": "5:25 am",
       "artist": "The Flaming Lips",
@@ -23,12 +18,18 @@
       "title": "Take Five"
     },
     {
-      "time": "5:35 am",
+      "time": "5:34 am",
       "artist": "of Montreal",
       "title": "Vegan in Furs"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 am",
+      "artist": "Blondie",
+      "title": "Sunday Girl",
+      "album": "Parallel Lines • 1978"
+    },
     {
       "time": "5:19 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Stone Temple Pilots",
       "title": "Big Bang Baby",
       "album": "Tiny Music... Songs from the Vatican Gift Shop • 1996"
-    },
-    {
-      "time": "3:50 am",
-      "artist": "will.i.am",
-      "title": "#thatPOWER",
-      "album": "#willpower • 2013"
     }
   ]
 }
