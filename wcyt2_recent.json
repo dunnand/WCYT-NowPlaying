@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T03:57:38",
+  "updatedAt": "2026-10-20T03:57:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Precision Auto",
+    "album": "On The Mouth • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:57 am",
-      "artist": "Superchunk",
-      "title": "Precision Auto"
-    },
     {
       "time": "4:00 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "4:10 am",
       "artist": "Grimes",
       "title": "You'll miss me when I'm not around"
+    },
+    {
+      "time": "4:13 am",
+      "artist": "No Doubt",
+      "title": "It's My Life"
     }
   ],
   "recent": [
+    {
+      "time": "3:57 am",
+      "artist": "Superchunk",
+      "title": "Precision Auto",
+      "album": "On The Mouth • 1993"
+    },
     {
       "time": "3:54 am",
       "artist": "Stone Temple Pilots",
@@ -172,12 +178,6 @@
       "artist": "Matchbox Twenty",
       "title": "Bent",
       "album": "Mad Season • 2000"
-    },
-    {
-      "time": "2:30 am",
-      "artist": "Steve Miller Band",
-      "title": "The Joker",
-      "album": "The Joker • 1973"
     }
   ]
 }
