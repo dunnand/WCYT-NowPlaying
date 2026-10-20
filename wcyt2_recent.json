@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T00:34:17",
+  "updatedAt": "2026-10-20T00:37:27",
   "now": {
-    "artist": "Billy Joel",
-    "title": "She's Always A Woman",
-    "album": "The Stranger • 1977",
-    "category": "AUDIO"
+    "artist": "Grandaddy",
+    "title": "The Crystal Lake",
+    "album": "The Sophtware Slump • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:37 am",
-      "artist": "Grandaddy",
-      "title": "The Crystal Lake"
-    },
     {
       "time": "12:42 am",
       "artist": "The Jimi Hendrix Experience",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:37 am",
+      "artist": "Grandaddy",
+      "title": "The Crystal Lake",
+      "album": "The Sophtware Slump • 2000"
+    },
     {
       "time": "12:34 am",
       "artist": "Billy Joel",
@@ -177,12 +178,6 @@
       "artist": "Harvey Danger",
       "title": "Sad Sweetheart of the Rodeo",
       "album": "King James Version • 2000"
-    },
-    {
-      "time": "10:57 pm",
-      "artist": "The Mountain Goats",
-      "title": "Palmcorder Yajna",
-      "album": "We Shall All Be Healed • 2004"
     }
   ]
 }
