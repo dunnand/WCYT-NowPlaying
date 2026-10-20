@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-20T01:11:17",
+  "updatedAt": "2026-10-20T01:15:21",
   "now": {
-    "artist": "Wilco",
-    "title": "A Shot In The Arm",
-    "album": "Summerteeth • 1999",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "The Summer",
+    "album": "Fakebook • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "1:15 am",
-      "artist": "Yo La Tengo",
-      "title": "The Summer"
-    },
-    {
-      "time": "1:18 am",
+      "time": "1:17 am",
       "artist": "De La Soul",
       "title": "Potholes in My Lawn"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:15 am",
+      "artist": "Yo La Tengo",
+      "title": "The Summer",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "1:11 am",
       "artist": "Wilco",
@@ -172,12 +173,6 @@
       "artist": "Aliotta haynes Jeremiah",
       "title": "Lake Shore Drive",
       "album": "Lake Shore Drive • 1972"
-    },
-    {
-      "time": "11:35 pm",
-      "artist": "Otis Redding",
-      "title": "Hard to Handle",
-      "album": "The Immortal Otis Redding • 1968"
     }
   ]
 }
