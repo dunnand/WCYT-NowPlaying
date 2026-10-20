@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T00:42:22",
+  "updatedAt": "2026-10-20T00:44:54",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Fire",
-    "album": "Are You Experienced • 1967",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Rock and Roll Never Forgets",
+    "album": "Night Moves • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Rock and Roll Never Forgets"
-    },
     {
       "time": "12:48 am",
       "artist": "Sonic Youth",
@@ -26,9 +21,20 @@
       "time": "1:00 am",
       "artist": "Gwen Stefani",
       "title": "The Sweet Escape"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "Pearl Jam",
+      "title": "Life Wasted"
     }
   ],
   "recent": [
+    {
+      "time": "12:44 am",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Rock and Roll Never Forgets",
+      "album": "Night Moves • 1977"
+    },
     {
       "time": "12:42 am",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "Gardenhead / Leave Me Alone",
       "album": "On Avery Island • 1996"
-    },
-    {
-      "time": "11:04 pm",
-      "artist": "Thom Yorke",
-      "title": "Dawn Chorus",
-      "album": "ANIMA • 2019"
     }
   ]
 }
