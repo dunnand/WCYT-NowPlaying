@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T01:00:06",
+  "updatedAt": "2026-10-20T01:00:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Gwen Stefani",
+    "title": "The Sweet Escape",
+    "album": "The Sweet Escape • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Gwen Stefani",
-      "title": "The Sweet Escape"
-    },
     {
       "time": "1:04 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "1:11 am",
       "artist": "Wilco",
       "title": "A Shot In The Arm"
+    },
+    {
+      "time": "1:15 am",
+      "artist": "Yo La Tengo",
+      "title": "The Summer"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "Gwen Stefani",
+      "title": "The Sweet Escape",
+      "album": "The Sweet Escape • 2006"
+    },
     {
       "time": "12:53 am",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Dream Academy",
       "title": "Life In A Northern Town",
       "album": "The Dream Academy • 1985"
-    },
-    {
-      "time": "11:15 pm",
-      "artist": "Sonic Youth",
-      "title": "The Sprawl",
-      "album": "Daydream Nation • 1988"
     }
   ]
 }
