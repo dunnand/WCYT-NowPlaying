@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T03:16:52",
+  "updatedAt": "2026-10-20T03:17:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Sara",
+    "album": "Desire • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:17 am",
-      "artist": "Bob Dylan",
-      "title": "Sara"
-    },
     {
       "time": "3:22 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "3:30 am",
       "artist": "Nilsson",
       "title": "Everybody's Talkin'"
+    },
+    {
+      "time": "3:32 am",
+      "artist": "Bob Dylan & The Band",
+      "title": "This Wheel's on Fire"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 am",
+      "artist": "Bob Dylan",
+      "title": "Sara",
+      "album": "Desire • 1976"
+    },
     {
       "time": "3:14 am",
       "artist": "Malcolm Todd",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "The Fat Man",
       "album": "Rock and Rollin' With Fats Domino • 1956"
-    },
-    {
-      "time": "1:51 am",
-      "artist": "The Magnetic Fields",
-      "title": "100,000 Fireflies",
-      "album": "Distant Plastic Trees • 1991"
     }
   ]
 }
