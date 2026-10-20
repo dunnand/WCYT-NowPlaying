@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T21:32:21",
+  "updatedAt": "2026-10-19T21:32:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Everyday",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:32 pm",
-      "artist": "Buddy Holly",
-      "title": "Everyday"
-    },
     {
       "time": "9:34 pm",
       "artist": "Interpol",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:32 pm",
+      "artist": "Buddy Holly",
+      "title": "Everyday",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "9:29 pm",
       "artist": "The White Stripes",
@@ -172,12 +173,6 @@
       "artist": "Prince and The Revolution",
       "title": "Let's Go Crazy",
       "album": "Purple Rain • 1984"
-    },
-    {
-      "time": "7:59 pm",
-      "artist": "Zedd",
-      "title": "Clarity",
-      "album": "Clarity • 2012"
     }
   ]
 }
