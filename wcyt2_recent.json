@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T16:22:42",
+  "updatedAt": "2026-10-20T16:25:26",
   "now": {
-    "artist": "Superchunk",
-    "title": "Precision Auto",
-    "album": "On The Mouth • 1993",
-    "category": "TUNES"
+    "artist": "Lionel Richie",
+    "title": "Ballerina Girl",
+    "album": "Dancing on the Ceiling • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:25 pm",
-      "artist": "Lionel Richie",
-      "title": "Ballerina Girl"
-    },
     {
       "time": "4:29 pm",
       "artist": "Rod Stewart",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:25 pm",
+      "artist": "Lionel Richie",
+      "title": "Ballerina Girl",
+      "album": "Dancing on the Ceiling • 1985"
+    },
     {
       "time": "4:22 pm",
       "artist": "Superchunk",
@@ -172,12 +173,6 @@
       "artist": "Lesley Gore",
       "title": "Maybe I Know",
       "album": "Girl Talk • 1964"
-    },
-    {
-      "time": "2:51 pm",
-      "artist": "Grandaddy",
-      "title": "The Crystal Lake",
-      "album": "The Sophtware Slump • 2000"
     }
   ]
 }
