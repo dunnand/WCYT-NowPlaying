@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T11:24:52",
+  "updatedAt": "2026-10-20T11:25:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Train",
+    "title": "Drive By",
+    "album": "California 37 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:25 am",
-      "artist": "Train",
-      "title": "Drive By"
-    },
     {
       "time": "11:28 am",
       "artist": "The Magnetic Fields",
@@ -26,9 +21,20 @@
       "time": "11:34 am",
       "artist": "Genesis",
       "title": "In Too Deep"
+    },
+    {
+      "time": "11:40 am",
+      "artist": "Joy Division",
+      "title": "The Eternal"
     }
   ],
   "recent": [
+    {
+      "time": "11:25 am",
+      "artist": "Train",
+      "title": "Drive By",
+      "album": "California 37 • 2011"
+    },
     {
       "time": "11:19 am",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "Liz Phair",
       "title": "6'1\"",
       "album": ""
-    },
-    {
-      "time": "9:29 am",
-      "artist": "Billie Holiday",
-      "title": "Strange Fruit",
-      "album": "Billie Holiday • 1947"
     }
   ]
 }
