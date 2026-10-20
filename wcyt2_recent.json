@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T10:07:37",
+  "updatedAt": "2026-10-20T10:10:31",
   "now": {
-    "artist": "Green Day",
-    "title": "Basket Case",
-    "album": "Dookie • 1994",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "I Wanna Be Your Joey Ramone",
+    "album": "Call The Doctor • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:10 am",
-      "artist": "Sleater",
-      "title": "Kinney - I Wanna Be Your Joey Ramone"
-    },
     {
       "time": "10:13 am",
       "artist": "Cutting Crew",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:10 am",
+      "artist": "Sleater-Kinney",
+      "title": "I Wanna Be Your Joey Ramone",
+      "album": "Call The Doctor • 1996"
+    },
     {
       "time": "10:07 am",
       "artist": "Green Day",
@@ -172,12 +173,6 @@
       "artist": "Muse",
       "title": "Supermassive Black Hole",
       "album": "Black Holes and Revelations • 2006"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "Bobby Darin",
-      "title": "Splish Splash",
-      "album": "Bobby Darin • 1958"
     }
   ]
 }
