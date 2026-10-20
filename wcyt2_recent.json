@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T11:59:57",
+  "updatedAt": "2026-10-20T12:03:30",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Manic Depression",
-    "album": "Are You Experienced • 1967",
+    "artist": "Fleetwood Mac",
+    "title": "Oh Daddy",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Oh Daddy"
-    },
     {
       "time": "12:07 pm",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Modest Mouse",
       "title": "Ocean Breathes Salty"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "Rolling Stones",
+      "title": "Street Fighting Man"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Oh Daddy",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "11:59 am",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "Green Day",
       "title": "Basket Case",
       "album": "Dookie • 1994"
-    },
-    {
-      "time": "10:03 am",
-      "artist": "Grimes",
-      "title": "Violence",
-      "album": "Miss Anthropocene • 2019"
     }
   ]
 }
