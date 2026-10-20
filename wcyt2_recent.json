@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T08:55:45",
+  "updatedAt": "2026-10-20T08:56:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sebadoh",
+    "title": "Weird",
+    "album": "The Sebadoh • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:56 am",
-      "artist": "Sebadoh",
-      "title": "Weird"
-    },
     {
       "time": "8:59 am",
       "artist": "Soundgarden",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:56 am",
+      "artist": "Sebadoh",
+      "title": "Weird",
+      "album": "The Sebadoh • 1999"
+    },
     {
       "time": "8:51 am",
       "artist": "Taylor Swift",
@@ -167,12 +168,6 @@
       "artist": "Curtis Mayfield",
       "title": "We the People Who Are Darker Than Blue",
       "album": "Curtis • 1970"
-    },
-    {
-      "time": "7:00 am",
-      "artist": "LCD Soundsystem",
-      "title": "Disco Infiltrator",
-      "album": "LCD Soundsystem • 2005"
     }
   ]
 }
