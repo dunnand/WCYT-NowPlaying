@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T21:25:20",
+  "updatedAt": "2026-10-19T21:29:59",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Miss You",
-    "album": "Some Girls • 1978",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Jimmy the Exploder",
+    "album": "The White Stripes • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:30 pm",
-      "artist": "The White Stripes",
-      "title": "Jimmy the Exploder"
-    },
     {
       "time": "9:32 pm",
       "artist": "Buddy Holly",
@@ -21,9 +16,20 @@
       "time": "9:34 pm",
       "artist": "Interpol",
       "title": "Take You On A Cruise"
+    },
+    {
+      "time": "9:39 pm",
+      "artist": "The Beatles",
+      "title": "It Won't Be Long"
     }
   ],
   "recent": [
+    {
+      "time": "9:29 pm",
+      "artist": "The White Stripes",
+      "title": "Jimmy the Exploder",
+      "album": "The White Stripes • 1999"
+    },
     {
       "time": "9:25 pm",
       "artist": "Rolling Stones",
@@ -167,12 +173,6 @@
       "artist": "Zedd",
       "title": "Clarity",
       "album": "Clarity • 2012"
-    },
-    {
-      "time": "7:55 pm",
-      "artist": "Nick Drake",
-      "title": "Time Has Told Me",
-      "album": "Five Leaves Left • 1969"
     }
   ]
 }
