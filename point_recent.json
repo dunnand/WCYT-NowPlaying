@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T12:31:14",
+  "updatedAt": "2026-10-20T12:31:45",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Yo La Tengo",
+    "title": "Paddle Forward",
+    "album": "Fade • 2013",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Yo La Tengo",
-      "title": "Paddle Forward"
-    },
     {
       "time": "12:34 pm",
       "artist": "Ducks Ltd.",
@@ -26,9 +21,20 @@
       "time": "12:40 pm",
       "artist": "Cocteau Twins",
       "title": "Heaven or Las Vegas"
+    },
+    {
+      "time": "12:46 pm",
+      "artist": "2nd Grade",
+      "title": "Fender Boys"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Yo La Tengo",
+      "title": "Paddle Forward",
+      "album": "Fade • 2013"
+    },
     {
       "time": "12:29 pm",
       "artist": "Sharp Pins",
@@ -172,12 +178,6 @@
       "artist": "Mitski",
       "title": "I'll Change for You",
       "album": "Nothing's About To Happen To Me • 2026"
-    },
-    {
-      "time": "10:52 am",
-      "artist": "GUV",
-      "title": "Warmer Than Gold",
-      "album": "Warmer Than Gold • 2026"
     }
   ]
 }
