@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T23:30:32",
+  "updatedAt": "2026-10-19T23:30:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Al Stewart",
+    "title": "Year Of The Cat",
+    "album": "Year of the Cat • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:30 pm",
-      "artist": "Al Stewart",
-      "title": "Year Of The Cat"
-    },
     {
       "time": "11:34 pm",
       "artist": "Otis Redding",
@@ -26,9 +21,20 @@
       "time": "11:41 pm",
       "artist": "Os Mutantes",
       "title": "Caminhante noturno"
+    },
+    {
+      "time": "11:46 pm",
+      "artist": "David Bowie",
+      "title": "Beauty and the Beast"
     }
   ],
   "recent": [
+    {
+      "time": "11:30 pm",
+      "artist": "Al Stewart",
+      "title": "Year Of The Cat",
+      "album": "Year of the Cat • 1977"
+    },
     {
       "time": "11:27 pm",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "Wilson Phillips",
       "title": "You're In Love",
       "album": "Wilson Phillips • 1990"
-    },
-    {
-      "time": "9:44 pm",
-      "artist": "Whitney Houston",
-      "title": "I Will Always Love You",
-      "album": "The Bodyguard • 1992"
     }
   ]
 }
