@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T03:40:42",
+  "updatedAt": "2026-10-20T03:42:36",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "That's All Right",
-    "album": "single • 1956",
+    "artist": "Goo Goo Dolls",
+    "title": "Here Is Gone",
+    "album": "Gutterflower • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:42 am",
-      "artist": "Goo Goo Dolls",
-      "title": "Here Is Gone"
-    },
     {
       "time": "3:46 am",
       "artist": "The Jimi Hendrix Experience",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:42 am",
+      "artist": "Goo Goo Dolls",
+      "title": "Here Is Gone",
+      "album": "Gutterflower • 2002"
+    },
     {
       "time": "3:40 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Lionel Richie",
       "title": "Ballerina Girl",
       "album": "Dancing on the Ceiling • 1985"
-    },
-    {
-      "time": "2:14 am",
-      "artist": "Joy Division",
-      "title": "The Eternal",
-      "album": "Closer • 1980"
     }
   ]
 }
