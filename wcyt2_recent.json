@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T20:15:35",
+  "updatedAt": "2026-10-19T20:15:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Tusk",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Tusk"
-    },
     {
       "time": "8:18 pm",
       "artist": "Barbra Streisand & Neil Diamond",
@@ -26,9 +21,20 @@
       "time": "8:26 pm",
       "artist": "Ray Charles",
       "title": "Georgia On My Mind"
+    },
+    {
+      "time": "8:29 pm",
+      "artist": "Neil Young",
+      "title": "The Needle and the Damage Done"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Tusk",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "8:11 pm",
       "artist": "Panda Bear & Sonic Boom",
@@ -172,12 +178,6 @@
       "artist": "Average-White-Band",
       "title": "Pick up the Pieces",
       "album": "AWB • 1974"
-    },
-    {
-      "time": "6:25 pm",
-      "artist": "Jimmy Jones",
-      "title": "Handy Man",
-      "album": "Good Timin • 1960"
     }
   ]
 }
