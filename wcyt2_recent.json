@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T06:32:10",
+  "updatedAt": "2026-10-20T06:32:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "She Said She Said",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:32 am",
-      "artist": "The Beatles",
-      "title": "She Said She Said"
-    },
     {
       "time": "6:34 am",
       "artist": "Son Little",
@@ -26,9 +21,20 @@
       "time": "6:42 am",
       "artist": "Mariah Carey",
       "title": "Someday"
+    },
+    {
+      "time": "6:47 am",
+      "artist": "Gloria Estefan & The Miami Sound Machine",
+      "title": "Rhythm Is Gonna Get You"
     }
   ],
   "recent": [
+    {
+      "time": "6:32 am",
+      "artist": "The Beatles",
+      "title": "She Said She Said",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "6:27 am",
       "artist": "Junior Boys",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "4ÆM",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "4:59 am",
-      "artist": "Whitney Houston",
-      "title": "Saving All My Love For You",
-      "album": "Whitney Houston • 1985"
     }
   ]
 }
