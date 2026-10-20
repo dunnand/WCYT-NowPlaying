@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T12:07:15",
+  "updatedAt": "2026-10-20T12:09:38",
   "now": {
-    "artist": "Beck",
-    "title": "Teenage Wastebasket",
-    "album": "One Foot in the Grave • 1994",
-    "category": "TUNES"
+    "artist": "Fats Domino",
+    "title": "Blueberry Hill",
+    "album": "This Is Fats Domino! • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:09 pm",
-      "artist": "Fats Domino",
-      "title": "Blueberry Hill"
-    },
     {
       "time": "12:11 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "12:18 pm",
       "artist": "Shontelle",
       "title": "Impossible"
+    },
+    {
+      "time": "12:22 pm",
+      "artist": "Bjork",
+      "title": "Army of Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:09 pm",
+      "artist": "Fats Domino",
+      "title": "Blueberry Hill",
+      "album": "This Is Fats Domino! • 1956"
+    },
     {
       "time": "12:07 pm",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "Cutting Crew",
       "title": "(I Just) Died In Yor Arms Tonight",
       "album": "Broadcast • 1986"
-    },
-    {
-      "time": "10:10 am",
-      "artist": "Sleater-Kinney",
-      "title": "I Wanna Be Your Joey Ramone",
-      "album": "Call The Doctor • 1996"
     }
   ]
 }
