@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T00:44:54",
+  "updatedAt": "2026-10-20T00:48:47",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Rock and Roll Never Forgets",
-    "album": "Night Moves • 1977",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Sunday",
+    "album": "A Thousand Leaves • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:48 am",
-      "artist": "Sonic Youth",
-      "title": "Sunday"
-    },
     {
       "time": "12:53 am",
       "artist": "Thom Yorke",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:48 am",
+      "artist": "Sonic Youth",
+      "title": "Sunday",
+      "album": "A Thousand Leaves • 1998"
+    },
     {
       "time": "12:44 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +173,6 @@
       "artist": "Weezer",
       "title": "Susanne",
       "album": "Mallrats Soundtrack • 1995"
-    },
-    {
-      "time": "11:09 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Gardenhead / Leave Me Alone",
-      "album": "On Avery Island • 1996"
     }
   ]
 }
