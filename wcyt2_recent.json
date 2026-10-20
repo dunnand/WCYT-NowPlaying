@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T03:57:58",
+  "updatedAt": "2026-10-20T04:00:42",
   "now": {
-    "artist": "Superchunk",
-    "title": "Precision Auto",
-    "album": "On The Mouth • 1993",
-    "category": "TUNES"
+    "artist": "Rod Stewart",
+    "title": "Passion",
+    "album": "Foolish Behaviour • 1980",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:00 am",
-      "artist": "Rod Stewart",
-      "title": "Passion"
-    },
     {
       "time": "4:06 am",
       "artist": "The Fall",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:00 am",
+      "artist": "Rod Stewart",
+      "title": "Passion",
+      "album": "Foolish Behaviour • 1980"
+    },
     {
       "time": "3:57 am",
       "artist": "Superchunk",
@@ -172,12 +173,6 @@
       "artist": "Wilco",
       "title": "More...",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "2:33 am",
-      "artist": "Matchbox Twenty",
-      "title": "Bent",
-      "album": "Mad Season • 2000"
     }
   ]
 }
