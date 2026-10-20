@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T16:05:49",
+  "updatedAt": "2026-10-20T16:08:03",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blueberry Hill",
-    "album": "This Is Fats Domino! • 1956",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Ocean Breathes Salty",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:08 pm",
-      "artist": "Modest Mouse",
-      "title": "Ocean Breathes Salty"
-    },
     {
       "time": "4:11 pm",
       "artist": "Rolling Stones",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:08 pm",
+      "artist": "Modest Mouse",
+      "title": "Ocean Breathes Salty",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "4:05 pm",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "Billy Joel",
       "title": "Tell Her About It",
       "album": "An Innocent Man • 1983"
-    },
-    {
-      "time": "2:33 pm",
-      "artist": "Cutting Crew",
-      "title": "(I Just) Died In Yor Arms Tonight",
-      "album": "Broadcast • 1986"
     }
   ]
 }
