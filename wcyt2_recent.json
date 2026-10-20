@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T21:16:59",
+  "updatedAt": "2026-10-19T21:22:47",
   "now": {
-    "artist": "Rod Stewart",
-    "title": "Every Picture Tells A Story",
-    "album": "Every Picture Tells a Story • 1971",
+    "artist": "Standells",
+    "title": "Dirty Water",
+    "album": "Dirty Water • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:22 pm",
-      "artist": "Standells",
-      "title": "Dirty Water"
-    },
     {
       "time": "9:25 pm",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "9:32 pm",
       "artist": "Buddy Holly",
       "title": "Everyday"
+    },
+    {
+      "time": "9:34 pm",
+      "artist": "Interpol",
+      "title": "Take You On A Cruise"
     }
   ],
   "recent": [
+    {
+      "time": "9:22 pm",
+      "artist": "Standells",
+      "title": "Dirty Water",
+      "album": "Dirty Water • 1966"
+    },
     {
       "time": "9:16 pm",
       "artist": "Rod Stewart",
@@ -172,12 +178,6 @@
       "artist": "My Morning Jacket",
       "title": "Mahgeetah",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "7:46 pm",
-      "artist": "Dean Martin",
-      "title": "That's Amore",
-      "album": "Dean Martin Sings • 1953"
     }
   ]
 }
