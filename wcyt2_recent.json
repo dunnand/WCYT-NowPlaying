@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T21:03:35",
+  "updatedAt": "2026-10-19T21:07:32",
   "now": {
-    "artist": "Madonna",
-    "title": "Crazy For You",
-    "album": "single • 1985",
+    "artist": "Olivia Rodrigo",
+    "title": "bad idea right?",
+    "album": "Guts • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "bad idea right?"
-    },
     {
       "time": "9:10 pm",
       "artist": "Paul Simon",
@@ -21,9 +16,20 @@
       "time": "9:13 pm",
       "artist": "The Jimi Hendrix Experience",
       "title": "Foxy Lady"
+    },
+    {
+      "time": "9:17 pm",
+      "artist": "Rod Stewart",
+      "title": "Every Picture Tells A Story"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "bad idea right?",
+      "album": "Guts • 2023"
+    },
     {
       "time": "9:03 pm",
       "artist": "Madonna",
@@ -167,12 +173,6 @@
       "artist": "Ray Charles",
       "title": "Hit The Road Jack",
       "album": "single • 1961"
-    },
-    {
-      "time": "7:29 pm",
-      "artist": "Elton John",
-      "title": "Tonight",
-      "album": "Blue Moves • 1976"
     }
   ]
 }
