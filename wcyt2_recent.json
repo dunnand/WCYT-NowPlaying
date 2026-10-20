@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T21:10:34",
+  "updatedAt": "2026-10-19T21:10:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Loves Me Like A Rock",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 pm",
-      "artist": "Paul Simon",
-      "title": "Loves Me Like A Rock"
-    },
     {
       "time": "9:13 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "9:22 pm",
       "artist": "Standells",
       "title": "Dirty Water"
+    },
+    {
+      "time": "9:25 pm",
+      "artist": "Rolling Stones",
+      "title": "Miss You"
     }
   ],
   "recent": [
+    {
+      "time": "9:10 pm",
+      "artist": "Paul Simon",
+      "title": "Loves Me Like A Rock",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "9:07 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Bee Gees",
       "title": "Night Fever",
       "album": "Saturday Night Fever • 1978"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "Ray Charles",
-      "title": "Hit The Road Jack",
-      "album": "single • 1961"
     }
   ]
 }
