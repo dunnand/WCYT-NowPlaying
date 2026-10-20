@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T00:14:32",
+  "updatedAt": "2026-10-20T00:14:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Green Day",
+    "title": "Basket Case",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:14 am",
-      "artist": "Green Day",
-      "title": "Basket Case"
-    },
     {
       "time": "12:17 am",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "12:24 am",
       "artist": "Billy Joel",
       "title": "Tell Her About It"
+    },
+    {
+      "time": "12:28 am",
+      "artist": "Turnstile",
+      "title": "ALIEN LOVE CALL (feat. Blood Orange)"
     }
   ],
   "recent": [
+    {
+      "time": "12:14 am",
+      "artist": "Green Day",
+      "title": "Basket Case",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "12:11 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "John Prine",
       "title": "Pretty Good",
       "album": "John Prine • 1971"
-    },
-    {
-      "time": "10:31 pm",
-      "artist": "Doobie Brothers",
-      "title": "Jesus Is Just Alright",
-      "album": "Toulouse Street • 1972"
     }
   ]
 }
