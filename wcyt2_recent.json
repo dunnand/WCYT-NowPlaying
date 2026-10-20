@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T10:24:14",
+  "updatedAt": "2026-10-20T10:27:28",
   "now": {
-    "artist": "Billy Joel",
-    "title": "She's Always A Woman",
-    "album": "The Stranger • 1977",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Rock and Roll Never Forgets",
+    "album": "Night Moves • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:27 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Rock and Roll Never Forgets"
-    },
     {
       "time": "10:31 am",
       "artist": "Grandaddy",
@@ -26,9 +21,25 @@
       "time": "10:38 am",
       "artist": "The Carpenters",
       "title": "Goodbye To Love"
+    },
+    {
+      "time": "10:42 am",
+      "artist": "Yo La Tengo",
+      "title": "The Summer"
+    },
+    {
+      "time": "10:45 am",
+      "artist": "Thom Yorke",
+      "title": "Twist"
     }
   ],
   "recent": [
+    {
+      "time": "10:27 am",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Rock and Roll Never Forgets",
+      "album": "Night Moves • 1977"
+    },
     {
       "time": "10:24 am",
       "artist": "Billy Joel",
@@ -172,12 +183,6 @@
       "artist": "Felt",
       "title": "Primitive Painters",
       "album": "Ignite the Seven Cannons • 1985"
-    },
-    {
-      "time": "8:59 am",
-      "artist": "Soundgarden",
-      "title": "Rusty Cage",
-      "album": "Badmotorfinger • 1991"
     }
   ]
 }
