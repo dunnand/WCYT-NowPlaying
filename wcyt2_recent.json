@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-19T21:32:41",
+  "updatedAt": "2026-10-19T21:34:46",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Everyday",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Take You On A Cruise",
+    "album": "Antics • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:34 pm",
-      "artist": "Interpol",
-      "title": "Take You On A Cruise"
-    },
     {
       "time": "9:39 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "9:41 pm",
       "artist": "Wilco",
       "title": "Quarters"
+    },
+    {
+      "time": "9:45 pm",
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 pm",
+      "artist": "Interpol",
+      "title": "Take You On A Cruise",
+      "album": "Antics • 2004"
+    },
     {
       "time": "9:32 pm",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Queen",
       "title": "I Want It All",
       "album": "The Miracle • 1989"
-    },
-    {
-      "time": "8:03 pm",
-      "artist": "Prince and The Revolution",
-      "title": "Let's Go Crazy",
-      "album": "Purple Rain • 1984"
     }
   ]
 }
