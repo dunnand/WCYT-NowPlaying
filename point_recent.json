@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T19:48:41",
+  "updatedAt": "2026-10-20T19:48:51",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "Nobody's Fault but My Own",
+    "album": "Mutations • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:48 pm",
-      "artist": "Beck",
-      "title": "Nobody's Fault but My Own"
-    },
     {
       "time": "7:53 pm",
       "artist": "Justice",
@@ -21,9 +16,20 @@
       "time": "7:57 pm",
       "artist": "10,000 Maniacs",
       "title": "These Are Days"
+    },
+    {
+      "time": "8:01 pm",
+      "artist": "Toro y Moi",
+      "title": "Omaha"
     }
   ],
   "recent": [
+    {
+      "time": "7:48 pm",
+      "artist": "Beck",
+      "title": "Nobody's Fault but My Own",
+      "album": "Mutations • 1998"
+    },
     {
       "time": "7:45 pm",
       "artist": "M83",
@@ -167,12 +173,6 @@
       "artist": "Tame Impala",
       "title": "Dracula",
       "album": "Deadbeat • 2025"
-    },
-    {
-      "time": "6:20 pm",
-      "artist": "Spiritualized",
-      "title": "The Mainline Song",
-      "album": "Everything Was Beautiful • 2021"
     }
   ]
 }
