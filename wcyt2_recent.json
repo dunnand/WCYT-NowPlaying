@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-20T03:36:36",
+  "updatedAt": "2026-10-20T03:40:42",
   "now": {
-    "artist": "Red Hot Chili Peppers",
-    "title": "Otherside",
-    "album": "Californication • 1999",
+    "artist": "Elvis Presley",
+    "title": "That's All Right",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:40 am",
-      "artist": "Elvis Presley",
-      "title": "That's All Right"
-    },
     {
       "time": "3:42 am",
       "artist": "Goo Goo Dolls",
       "title": "Here Is Gone"
     },
     {
-      "time": "3:47 am",
+      "time": "3:46 am",
       "artist": "The Jimi Hendrix Experience",
       "title": "Manic Depression"
     },
@@ -26,9 +21,20 @@
       "time": "3:50 am",
       "artist": "will.i.am",
       "title": "#thatPOWER"
+    },
+    {
+      "time": "3:54 am",
+      "artist": "Stone Temple Pilots",
+      "title": "Big Bang Baby"
     }
   ],
   "recent": [
+    {
+      "time": "3:40 am",
+      "artist": "Elvis Presley",
+      "title": "That's All Right",
+      "album": "single • 1956"
+    },
     {
       "time": "3:36 am",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +178,6 @@
       "artist": "Joy Division",
       "title": "The Eternal",
       "album": "Closer • 1980"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "Beck",
-      "title": "Teenage Wastebasket",
-      "album": "One Foot in the Grave • 1994"
     }
   ]
 }
