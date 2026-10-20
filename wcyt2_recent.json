@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T00:31:15",
+  "updatedAt": "2026-10-20T00:34:17",
   "now": {
-    "artist": "Al Green",
-    "title": "Call Me (Come Back Home)",
-    "album": "Call Me • 1973",
+    "artist": "Billy Joel",
+    "title": "She's Always A Woman",
+    "album": "The Stranger • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 am",
-      "artist": "Billy Joel",
-      "title": "She's Always A Woman"
-    },
     {
       "time": "12:37 am",
       "artist": "Grandaddy",
@@ -26,9 +21,25 @@
       "time": "12:45 am",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Rock and Roll Never Forgets"
+    },
+    {
+      "time": "12:48 am",
+      "artist": "Sonic Youth",
+      "title": "Sunday"
+    },
+    {
+      "time": "12:53 am",
+      "artist": "Thom Yorke",
+      "title": "Twist"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 am",
+      "artist": "Billy Joel",
+      "title": "She's Always A Woman",
+      "album": "The Stranger • 1977"
+    },
     {
       "time": "12:31 am",
       "artist": "Al Green",
@@ -172,12 +183,6 @@
       "artist": "The Mountain Goats",
       "title": "Palmcorder Yajna",
       "album": "We Shall All Be Healed • 2004"
-    },
-    {
-      "time": "10:53 pm",
-      "artist": "Vampire Weekend",
-      "title": "Unbelievers",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
