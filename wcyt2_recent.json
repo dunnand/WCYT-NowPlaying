@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T17:42:46",
+  "updatedAt": "2026-10-20T17:46:20",
   "now": {
-    "artist": "The Cars",
-    "title": "My Best Friend's Girl",
-    "album": "The Cars • 1978",
-    "category": "AUDIO"
+    "artist": "Guided by Voices",
+    "title": "Echos Myron",
+    "album": "Bee Thousand • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:46 pm",
-      "artist": "Guided by Voices",
-      "title": "Echos Myron"
-    },
     {
       "time": "5:48 pm",
       "artist": "Peggy Lee",
@@ -26,9 +21,20 @@
       "time": "5:55 pm",
       "artist": "Roy Orbison",
       "title": "In Dreams"
+    },
+    {
+      "time": "5:58 pm",
+      "artist": "Washed Out",
+      "title": "All I Know"
     }
   ],
   "recent": [
+    {
+      "time": "5:46 pm",
+      "artist": "Guided by Voices",
+      "title": "Echos Myron",
+      "album": "Bee Thousand • 1994"
+    },
     {
       "time": "5:42 pm",
       "artist": "The Cars",
@@ -172,12 +178,6 @@
       "artist": "Superchunk",
       "title": "Precision Auto",
       "album": "On The Mouth • 1993"
-    },
-    {
-      "time": "4:18 pm",
-      "artist": "Bjork",
-      "title": "Army of Me",
-      "album": "Post • 1995"
     }
   ]
 }
