@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T01:00:26",
+  "updatedAt": "2026-10-20T01:04:10",
   "now": {
-    "artist": "Gwen Stefani",
-    "title": "The Sweet Escape",
-    "album": "The Sweet Escape • 2006",
+    "artist": "Pearl Jam",
+    "title": "Life Wasted",
+    "album": "Pearl Jam • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:04 am",
-      "artist": "Pearl Jam",
-      "title": "Life Wasted"
-    },
     {
       "time": "1:08 am",
       "artist": "Train",
@@ -26,9 +21,20 @@
       "time": "1:15 am",
       "artist": "Yo La Tengo",
       "title": "The Summer"
+    },
+    {
+      "time": "1:18 am",
+      "artist": "De La Soul",
+      "title": "Potholes in My Lawn"
     }
   ],
   "recent": [
+    {
+      "time": "1:04 am",
+      "artist": "Pearl Jam",
+      "title": "Life Wasted",
+      "album": "Pearl Jam • 2006"
+    },
     {
       "time": "1:00 am",
       "artist": "Gwen Stefani",
@@ -172,12 +178,6 @@
       "artist": "Superchunk",
       "title": "Slack",
       "album": "Superchunk •"
-    },
-    {
-      "time": "11:23 pm",
-      "artist": "Dream Academy",
-      "title": "Life In A Northern Town",
-      "album": "The Dream Academy • 1985"
     }
   ]
 }
