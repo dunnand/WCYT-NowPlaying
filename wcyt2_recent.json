@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T05:53:20",
+  "updatedAt": "2026-10-20T05:53:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Glory Days",
+    "album": "Born in the U.S.A. • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 am",
-      "artist": "Bruce Springsteen",
-      "title": "Glory Days"
-    },
     {
       "time": "5:57 am",
       "artist": "Bau",
@@ -26,9 +21,20 @@
       "time": "6:04 am",
       "artist": "The Cars",
       "title": "My Best Friend's Girl"
+    },
+    {
+      "time": "6:07 am",
+      "artist": "Cat Stevens",
+      "title": "Peace Train"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 am",
+      "artist": "Bruce Springsteen",
+      "title": "Glory Days",
+      "album": "Born in the U.S.A. • 1985"
+    },
     {
       "time": "5:48 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "Washed Out",
       "title": "All I Know",
       "album": "Paracosm • 2013"
-    },
-    {
-      "time": "4:19 am",
-      "artist": "Loretta Lynn",
-      "title": "Van Lear Rose",
-      "album": "Van Lear Rose • 2004"
     }
   ]
 }
