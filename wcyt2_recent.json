@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T05:08:15",
+  "updatedAt": "2026-10-20T05:11:31",
   "now": {
-    "artist": "The Buggles",
-    "title": "Video Killed The Radio Star",
-    "album": "The Age of Plastic • 1979",
+    "artist": "The Beach Boys",
+    "title": "Surf's Up",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:11 am",
-      "artist": "The Beach Boys",
-      "title": "Surf's Up"
-    },
     {
       "time": "5:15 am",
       "artist": "Low",
@@ -26,9 +21,20 @@
       "time": "5:22 am",
       "artist": "Blondie",
       "title": "Sunday Girl"
+    },
+    {
+      "time": "5:25 am",
+      "artist": "The Flaming Lips",
+      "title": "The Gash"
     }
   ],
   "recent": [
+    {
+      "time": "5:11 am",
+      "artist": "The Beach Boys",
+      "title": "Surf's Up",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "5:08 am",
       "artist": "The Buggles",
@@ -172,12 +178,6 @@
       "artist": "Goo Goo Dolls",
       "title": "Here Is Gone",
       "album": "Gutterflower • 2002"
-    },
-    {
-      "time": "3:40 am",
-      "artist": "Elvis Presley",
-      "title": "That's All Right",
-      "album": "single • 1956"
     }
   ]
 }
