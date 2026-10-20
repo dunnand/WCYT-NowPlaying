@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T00:37:27",
+  "updatedAt": "2026-10-20T00:42:22",
   "now": {
-    "artist": "Grandaddy",
-    "title": "The Crystal Lake",
-    "album": "The Sophtware Slump • 2000",
-    "category": "TUNES"
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Fire",
+    "album": "Are You Experienced • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Fire"
-    },
     {
       "time": "12:45 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "12:53 am",
       "artist": "Thom Yorke",
       "title": "Twist"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Gwen Stefani",
+      "title": "The Sweet Escape"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Fire",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "12:37 am",
       "artist": "Grandaddy",
@@ -172,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Dawn Chorus",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "11:01 pm",
-      "artist": "Harvey Danger",
-      "title": "Sad Sweetheart of the Rodeo",
-      "album": "King James Version • 2000"
     }
   ]
 }
