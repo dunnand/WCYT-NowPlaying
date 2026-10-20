@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-10-20T06:03:26",
+  "updatedAt": "2026-10-20T06:07:00",
   "now": {
-    "artist": "The Cars",
-    "title": "My Best Friend's Girl",
-    "album": "The Cars • 1978",
+    "artist": "Cat Stevens",
+    "title": "Peace Train",
+    "album": "Teaser and the Firecat • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "6:07 am",
-      "artist": "The Cars",
-      "title": "My Best Friend's Girl"
-    },
-    {
       "time": "6:10 am",
-      "artist": "Cat Stevens",
-      "title": "Peace Train"
+      "artist": "Iron & Wine",
+      "title": "Passing Afternoon"
     },
     {
       "time": "6:14 am",
-      "artist": "Iron & Wine",
-      "title": "Passing Afternoon"
+      "artist": "Spencer Davis Group",
+      "title": "Gimme Some Lovin'"
+    },
+    {
+      "time": "6:17 am",
+      "artist": "Commodores",
+      "title": "Machine Gun"
+    },
+    {
+      "time": "6:20 am",
+      "artist": "Joan Osborne",
+      "title": "One Of Us"
     }
   ],
   "recent": [
+    {
+      "time": "6:07 am",
+      "artist": "Cat Stevens",
+      "title": "Peace Train",
+      "album": "Teaser and the Firecat • 1971"
+    },
     {
       "time": "6:03 am",
       "artist": "The Cars",
@@ -167,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "California Waiting",
       "album": "Youth & Young Manhood • 2003"
-    },
-    {
-      "time": "4:36 am",
-      "artist": "Maurice Williams & The Zodiacs",
-      "title": "Stay",
-      "album": "Single • 1953"
     }
   ]
 }
