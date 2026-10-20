@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T14:44:12",
+  "updatedAt": "2026-10-20T14:47:25",
   "now": {
-    "artist": "Billy Joel",
-    "title": "She's Always A Woman",
-    "album": "The Stranger • 1977",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Rock and Roll Never Forgets",
+    "album": "Night Moves • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:47 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Rock and Roll Never Forgets"
-    },
     {
       "time": "2:51 pm",
       "artist": "Grandaddy",
@@ -26,9 +21,25 @@
       "time": "2:58 pm",
       "artist": "The Carpenters",
       "title": "Goodbye To Love"
+    },
+    {
+      "time": "3:02 pm",
+      "artist": "Yo La Tengo",
+      "title": "The Summer"
+    },
+    {
+      "time": "3:04 pm",
+      "artist": "Thom Yorke",
+      "title": "Twist"
     }
   ],
   "recent": [
+    {
+      "time": "2:47 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Rock and Roll Never Forgets",
+      "album": "Night Moves • 1977"
+    },
     {
       "time": "2:44 pm",
       "artist": "Billy Joel",
@@ -172,12 +183,6 @@
       "artist": "Whitney Houston",
       "title": "Saving All My Love For You",
       "album": "Whitney Houston • 1985"
-    },
-    {
-      "time": "1:22 pm",
-      "artist": "The Fall",
-      "title": "Leave the Capitol",
-      "album": "Slates [EP] • 1981"
     }
   ]
 }
