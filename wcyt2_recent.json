@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T19:47:29",
+  "updatedAt": "2026-10-20T19:49:42",
   "now": {
-    "artist": "Carl Perkins",
-    "title": "Blue Suede Shoes",
-    "album": "Dance Album of Carl Perkins • 1957",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "Disco Infiltrator",
+    "album": "LCD Soundsystem • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:49 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Disco Infiltrator"
-    },
     {
       "time": "7:54 pm",
       "artist": "Rolling Stones",
@@ -21,9 +16,20 @@
       "time": "7:58 pm",
       "artist": "St. Vincent",
       "title": "Los Ageless"
+    },
+    {
+      "time": "8:03 pm",
+      "artist": "Lou Bega",
+      "title": "Mambo No. 5 (A Little Bit Of...)"
     }
   ],
   "recent": [
+    {
+      "time": "7:49 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Disco Infiltrator",
+      "album": "LCD Soundsystem • 2005"
+    },
     {
       "time": "7:47 pm",
       "artist": "Carl Perkins",
@@ -167,12 +173,6 @@
       "artist": "Gloria Estefan & The Miami Sound Machine",
       "title": "Rhythm Is Gonna Get You",
       "album": "Let It Loose • 1987"
-    },
-    {
-      "time": "6:13 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Glory Days",
-      "album": "Born in the U.S.A. • 1985"
     }
   ]
 }
