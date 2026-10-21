@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T01:09:09",
+  "updatedAt": "2026-10-21T01:11:40",
   "now": {
-    "artist": "Jose Gonzalez",
-    "title": "Heartbeats",
-    "album": "Veneer • 2003",
-    "category": "TUNES"
+    "artist": "Sam & Dave",
+    "title": "Soul Man",
+    "album": "Soul Man • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:11 am",
-      "artist": "Sam & Dave",
-      "title": "Soul Man"
-    },
     {
       "time": "1:14 am",
       "artist": "Yo La Tengo",
@@ -21,9 +16,25 @@
       "time": "1:16 am",
       "artist": "Slowdive",
       "title": "Slomo"
+    },
+    {
+      "time": "1:23 am",
+      "artist": "Iron & Wine",
+      "title": "Lion's Mane"
+    },
+    {
+      "time": "1:26 am",
+      "artist": "No Age",
+      "title": "Teen Creeps"
     }
   ],
   "recent": [
+    {
+      "time": "1:11 am",
+      "artist": "Sam & Dave",
+      "title": "Soul Man",
+      "album": "Soul Man • 1967"
+    },
     {
       "time": "1:09 am",
       "artist": "Jose Gonzalez",
@@ -167,12 +178,6 @@
       "artist": "The Mountain Goats",
       "title": "Cotton",
       "album": "We Shall All Be Healed • 2004"
-    },
-    {
-      "time": "11:35 pm",
-      "artist": "Billie Holiday",
-      "title": "I'll Be Seeing You",
-      "album": "Billie Holiday • 1957"
     }
   ]
 }
