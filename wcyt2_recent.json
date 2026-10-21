@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-10-21T11:07:41",
+  "updatedAt": "2026-10-21T11:13:46",
   "now": {
-    "artist": "The Who",
-    "title": "Who Are You",
-    "album": "Who Are You • 1978",
+    "artist": "Counting Crows",
+    "title": "Round Here",
+    "album": "August and Everything After • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:13 am",
-      "artist": "Counting Crows",
-      "title": "Round Here"
-    },
-    {
       "time": "11:19 am",
       "artist": "Justin Timberlake",
       "title": "What Goes Around Comes Around"
+    },
+    {
+      "time": "11:23 am",
+      "artist": "Thom Yorke",
+      "title": "Suspirium"
     }
   ],
   "recent": [
+    {
+      "time": "11:13 am",
+      "artist": "Counting Crows",
+      "title": "Round Here",
+      "album": "August and Everything After • 1994"
+    },
     {
       "time": "11:07 am",
       "artist": "The Who",
@@ -162,12 +168,6 @@
       "artist": "Mary Hopkin",
       "title": "Those Were the Days",
       "album": "Post Card • 1969"
-    },
-    {
-      "time": "9:22 am",
-      "artist": "JAY-Z",
-      "title": "On To The Next",
-      "album": "The Blueprint 3 • 2009"
     }
   ]
 }
