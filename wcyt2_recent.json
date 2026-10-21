@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-10-21T00:10:36",
+  "updatedAt": "2026-10-21T00:16:07",
   "now": {
-    "artist": "Slowdive",
-    "title": "No Longer Making Time",
-    "album": "Slowdive • 2017",
-    "category": "TUNES"
+    "artist": "Green Day",
+    "title": "Emenius Sleepus",
+    "album": "Dookie • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:16 am",
-      "artist": "Green Day",
-      "title": "Emenius Sleepus"
-    },
     {
       "time": "12:18 am",
       "artist": "The Killers",
       "title": "Caution"
+    },
+    {
+      "time": "12:22 am",
+      "artist": "Andy Gibb",
+      "title": "I Just Want To Be Your Everything"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 am",
+      "artist": "Green Day",
+      "title": "Emenius Sleepus",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "12:10 am",
       "artist": "Slowdive",
@@ -162,12 +168,6 @@
       "artist": "My Morning Jacket",
       "title": "Steam Engine",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "10:34 pm",
-      "artist": "Kingston Trio",
-      "title": "Tom Dooley",
-      "album": "Tom Dooley • 1958"
     }
   ]
 }
