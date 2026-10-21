@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T19:03:16",
+  "updatedAt": "2026-10-21T19:07:22",
   "now": {
-    "artist": "Soundgarden",
-    "title": "Spoonman",
-    "album": "Superunknown • 1994",
+    "artist": "Sam Cooke",
+    "title": "Only Sixteen",
+    "album": "Hit Kit • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:07 pm",
-      "artist": "Sam Cooke",
-      "title": "Only Sixteen"
-    },
     {
       "time": "7:09 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -26,9 +21,20 @@
       "time": "7:15 pm",
       "artist": "Clairo",
       "title": "Sofia"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "Sunny Day Real Estate",
+      "title": "In Circles"
     }
   ],
   "recent": [
+    {
+      "time": "7:07 pm",
+      "artist": "Sam Cooke",
+      "title": "Only Sixteen",
+      "album": "Hit Kit • 1959"
+    },
     {
       "time": "7:03 pm",
       "artist": "Soundgarden",
@@ -172,12 +178,6 @@
       "artist": "Adolescents",
       "title": "Amoeba",
       "album": "Adolescents • 1981"
-    },
-    {
-      "time": "5:34 pm",
-      "artist": "Swervedriver",
-      "title": "Rave Down",
-      "album": "Raise • 1991"
     }
   ]
 }
