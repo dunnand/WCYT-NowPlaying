@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-10-21T12:02:34",
+  "updatedAt": "2026-10-21T12:02:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Step",
+    "album": "Modern Vampires Of The City • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:02 pm",
-      "artist": "Vampire Weekend",
-      "title": "Step"
-    },
     {
       "time": "12:06 pm",
       "artist": "The Dismemberment Plan",
       "title": "The City"
+    },
+    {
+      "time": "12:11 pm",
+      "artist": "Peter Gabriel",
+      "title": "Sledgehammer"
     }
   ],
   "recent": [
+    {
+      "time": "12:02 pm",
+      "artist": "Vampire Weekend",
+      "title": "Step",
+      "album": "Modern Vampires Of The City • 2013"
+    },
     {
       "time": "11:59 am",
       "artist": "Jurassic 5",
@@ -162,12 +168,6 @@
       "artist": "Grimes",
       "title": "Be a Body",
       "album": "Visions • 2012"
-    },
-    {
-      "time": "10:18 am",
-      "artist": "Norah Jones",
-      "title": "Don't Know Why",
-      "album": "Come Away with Me • 2002"
     }
   ]
 }
