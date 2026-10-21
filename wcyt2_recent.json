@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T15:59:52",
+  "updatedAt": "2026-10-21T16:04:41",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Hollywood Nights",
-    "album": "Stranger in Town • 1978",
+    "artist": "The Spinners",
+    "title": "That's What Girls Are Made For",
+    "album": "That's What Girls Are Made For • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:04 pm",
-      "artist": "The Spinners",
-      "title": "That's What Girls Are Made For"
-    },
     {
       "time": "4:07 pm",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "4:14 pm",
       "artist": "Steely Dan",
       "title": "Josie"
+    },
+    {
+      "time": "4:18 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "You've Passed"
     }
   ],
   "recent": [
+    {
+      "time": "4:04 pm",
+      "artist": "The Spinners",
+      "title": "That's What Girls Are Made For",
+      "album": "That's What Girls Are Made For • 1961"
+    },
     {
       "time": "3:59 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +178,6 @@
       "artist": "America",
       "title": "A Horse With No Name",
       "album": "America • 1971"
-    },
-    {
-      "time": "2:21 pm",
-      "artist": "The Jackson 5",
-      "title": "I Want You Back",
-      "album": "Diana Ross Presents The Jackson 5 • 1969"
     }
   ]
 }
