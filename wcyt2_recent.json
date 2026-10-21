@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T22:16:35",
+  "updatedAt": "2026-10-20T22:19:49",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Bermuda Highway",
-    "album": "At Dawn • 2001",
-    "category": "TUNES"
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "album": "With a Little Help from My Friends • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:19 pm",
-      "artist": "Joe Cocker",
-      "title": "With A Little Help From My Friends"
-    },
     {
       "time": "10:24 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "10:34 pm",
       "artist": "Kingston Trio",
       "title": "Tom Dooley"
+    },
+    {
+      "time": "10:37 pm",
+      "artist": "My Morning Jacket",
+      "title": "Steam Engine"
     }
   ],
   "recent": [
+    {
+      "time": "10:19 pm",
+      "artist": "Joe Cocker",
+      "title": "With A Little Help From My Friends",
+      "album": "With a Little Help from My Friends • 1968"
+    },
     {
       "time": "10:16 pm",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "The xx",
       "title": "Angels",
       "album": "Coexist • 2012"
-    },
-    {
-      "time": "8:50 pm",
-      "artist": "Randy Newman",
-      "title": "I Think It's Going to Rain Today",
-      "album": "Randy Newman • 1968"
     }
   ]
 }
