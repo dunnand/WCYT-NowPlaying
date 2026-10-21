@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T15:59:42",
+  "updatedAt": "2026-10-21T15:59:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Hollywood Nights",
+    "album": "Stranger in Town • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 pm",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Hollywood Nights"
-    },
     {
       "time": "4:04 pm",
       "artist": "The Spinners",
@@ -26,9 +21,20 @@
       "time": "4:11 pm",
       "artist": "Tommy Roe",
       "title": "Dizzy"
+    },
+    {
+      "time": "4:14 pm",
+      "artist": "Steely Dan",
+      "title": "Josie"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Hollywood Nights",
+      "album": "Stranger in Town • 1978"
+    },
     {
       "time": "3:53 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "The Jackson 5",
       "title": "I Want You Back",
       "album": "Diana Ross Presents The Jackson 5 • 1969"
-    },
-    {
-      "time": "2:19 pm",
-      "artist": "The Marvelettes",
-      "title": "Please Mr. Postman",
-      "album": "Please Mr. Postman • 1961"
     }
   ]
 }
