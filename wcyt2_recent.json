@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T20:50:09",
+  "updatedAt": "2026-10-20T20:50:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Randy Newman",
+    "title": "I Think It's Going to Rain Today",
+    "album": "Randy Newman • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 pm",
-      "artist": "Randy Newman",
-      "title": "I Think It's Going to Rain Today"
-    },
     {
       "time": "8:53 pm",
       "artist": "The xx",
@@ -26,9 +21,20 @@
       "time": "8:59 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Perfect"
+    },
+    {
+      "time": "9:02 pm",
+      "artist": "Alan Parsons Project",
+      "title": "Eye In The Sky"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 pm",
+      "artist": "Randy Newman",
+      "title": "I Think It's Going to Rain Today",
+      "album": "Randy Newman • 1968"
+    },
     {
       "time": "8:46 pm",
       "artist": "The Hold Steady",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "4ÆM",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "7:10 pm",
-      "artist": "808 State",
-      "title": "Pacific 202",
-      "album": "Ninety • 1989"
     }
   ]
 }
