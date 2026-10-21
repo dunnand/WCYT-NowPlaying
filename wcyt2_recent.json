@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-21T16:18:18",
+  "updatedAt": "2026-10-21T16:21:12",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "You've Passed",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "The Fleetwoods",
+    "title": "Mr. Blue",
+    "album": "Mr. Blue • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:21 pm",
-      "artist": "The Fleetwoods",
-      "title": "Mr. Blue"
-    },
     {
       "time": "4:23 pm",
       "artist": "Songs Ohia",
       "title": "Just Be Simple"
     },
     {
-      "time": "4:27 pm",
+      "time": "4:28 pm",
       "artist": "The Zombies",
       "title": "Care of Cell 44"
     },
@@ -26,9 +21,20 @@
       "time": "4:31 pm",
       "artist": "David Guetta",
       "title": "Play Hard Feat. Ne-Yo & Akon"
+    },
+    {
+      "time": "4:35 pm",
+      "artist": "Elliott Smith",
+      "title": "Speed Trials"
     }
   ],
   "recent": [
+    {
+      "time": "4:21 pm",
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue",
+      "album": "Mr. Blue • 1959"
+    },
     {
       "time": "4:18 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "Tyler, the Creator",
       "title": "IGOR'S THEME",
       "album": "IGOR • 2019"
-    },
-    {
-      "time": "2:44 pm",
-      "artist": "Arctic Monkeys",
-      "title": "R U Mine?",
-      "album": "AM • 2013"
     }
   ]
 }
