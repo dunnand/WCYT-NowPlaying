@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T22:24:46",
+  "updatedAt": "2026-10-20T22:30:13",
   "now": {
-    "artist": "Elton John",
-    "title": "Don't Let The Sun Go Down On Me",
-    "album": "Caribou • 1974",
+    "artist": "Madonna",
+    "title": "You'll See",
+    "album": "Something to Remember • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:30 pm",
-      "artist": "Madonna",
-      "title": "You'll See"
-    },
     {
       "time": "10:34 pm",
       "artist": "Kingston Trio",
@@ -21,9 +16,20 @@
       "time": "10:37 pm",
       "artist": "My Morning Jacket",
       "title": "Steam Engine"
+    },
+    {
+      "time": "10:44 pm",
+      "artist": "Serge Gainsbourg",
+      "title": "Bonnie and Clyde (with Brigitte Bardot)"
     }
   ],
   "recent": [
+    {
+      "time": "10:30 pm",
+      "artist": "Madonna",
+      "title": "You'll See",
+      "album": "Something to Remember • 1995"
+    },
     {
       "time": "10:24 pm",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Perfect",
       "album": "Adore • 1998"
-    },
-    {
-      "time": "8:56 pm",
-      "artist": "Elliott Smith",
-      "title": "Rose Parade",
-      "album": "Either Or • 1997"
     }
   ]
 }
