@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-21T01:01:52",
+  "updatedAt": "2026-10-21T01:05:16",
   "now": {
-    "artist": "ABBA",
-    "title": "Mamma Mia",
-    "album": "ABBA • 1975",
+    "artist": "Barry Manilow",
+    "title": "I Write The Songs",
+    "album": "Tryin' to Get the Feeling • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:05 am",
-      "artist": "Barry Manilow",
-      "title": "I Write The Songs"
-    },
-    {
-      "time": "1:09 am",
+      "time": "1:08 am",
       "artist": "Jose Gonzalez",
       "title": "Heartbeats"
     },
@@ -21,9 +16,20 @@
       "time": "1:11 am",
       "artist": "Sam & Dave",
       "title": "Soul Man"
+    },
+    {
+      "time": "1:14 am",
+      "artist": "Yo La Tengo",
+      "title": "Stockholm Syndrome"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "Barry Manilow",
+      "title": "I Write The Songs",
+      "album": "Tryin' to Get the Feeling • 1975"
+    },
     {
       "time": "1:01 am",
       "artist": "ABBA",
@@ -167,12 +173,6 @@
       "artist": "Aphex Twin",
       "title": "4",
       "album": "Richard D. James Album • 1996"
-    },
-    {
-      "time": "11:28 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Our House",
-      "album": "Dj Vu • 1970"
     }
   ]
 }
