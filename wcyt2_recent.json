@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-10-21T05:02:03",
+  "updatedAt": "2026-10-21T05:04:20",
   "now": {
-    "artist": "Big Bopper",
-    "title": "Chantilly Lace",
-    "album": "Chantilly Lace • 1959",
+    "artist": "John Mayer",
+    "title": "Your Body Is A Wonderland",
+    "album": "Room for Squares • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "5:04 am",
-      "artist": "John Mayer",
-      "title": "Your Body Is A Wonderland"
-    },
-    {
-      "time": "5:08 am",
+      "time": "5:07 am",
       "artist": "Thom Yorke",
       "title": "Traffic"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "Superchunk",
+      "title": "Throwing Things"
     }
   ],
   "recent": [
+    {
+      "time": "5:04 am",
+      "artist": "John Mayer",
+      "title": "Your Body Is A Wonderland",
+      "album": "Room for Squares • 2002"
+    },
     {
       "time": "5:02 am",
       "artist": "Big Bopper",
@@ -162,12 +168,6 @@
       "artist": "Joy Division",
       "title": "Transmission",
       "album": "Single • 1979"
-    },
-    {
-      "time": "3:23 am",
-      "artist": "Hanson",
-      "title": "MMMBop",
-      "album": "Middle Of Nowhere • 2004"
     }
   ]
 }
