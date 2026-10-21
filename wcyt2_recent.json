@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-10-21T13:40:06",
+  "updatedAt": "2026-10-21T13:44:00",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Big Shot",
-    "album": "52nd Street • 1979",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Fire Down Below",
+    "album": "Night Moves • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:44 pm",
+      "time": "1:48 pm",
+      "artist": "Billy Joel",
+      "title": "Big Shot"
+    },
+    {
+      "time": "1:52 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Fire Down Below"
     },
     {
-      "time": "1:48 pm",
+      "time": "1:56 pm",
       "artist": "King Crimson",
       "title": "The Court of the Crimson King (including The Return of the Fire Witch and The Dance of the Puppets)"
-    },
-    {
-      "time": "1:57 pm",
-      "artist": "The Carpenters",
-      "title": "We've Only Just Begun"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "Heavenly",
-      "title": "P.U.N.K. Girl"
     }
   ],
   "recent": [
+    {
+      "time": "1:44 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Fire Down Below",
+      "album": "Night Moves • 1976"
+    },
     {
       "time": "1:40 pm",
       "artist": "Billy Joel",
@@ -172,12 +173,6 @@
       "artist": "The Dismemberment Plan",
       "title": "The City",
       "album": "Emergency & I • 1999"
-    },
-    {
-      "time": "12:02 pm",
-      "artist": "Vampire Weekend",
-      "title": "Step",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
