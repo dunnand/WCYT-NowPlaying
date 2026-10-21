@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T15:40:54",
+  "updatedAt": "2026-10-21T15:44:50",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Heart Cooks Brain",
-    "album": "Lonesome Crowded West • 1998",
-    "category": "TUNES"
+    "artist": "Eddie Murphy",
+    "title": "Party All The Time",
+    "album": "How Could It Be • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:44 pm",
-      "artist": "Eddie Murphy",
-      "title": "Party All The Time"
-    },
     {
       "time": "3:49 pm",
       "artist": "Gerard McMann",
@@ -21,9 +16,20 @@
       "time": "3:53 pm",
       "artist": "Bob Dylan",
       "title": "False Prophet"
+    },
+    {
+      "time": "3:59 pm",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Hollywood Nights"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 pm",
+      "artist": "Eddie Murphy",
+      "title": "Party All The Time",
+      "album": "How Could It Be • 1985"
+    },
     {
       "time": "3:40 pm",
       "artist": "Modest Mouse",
@@ -167,12 +173,6 @@
       "artist": "Spoon",
       "title": "The Underdog",
       "album": "Ga Ga Ga Ga Ga • 2007"
-    },
-    {
-      "time": "2:05 pm",
-      "artist": "Blood Orange",
-      "title": "Champagne Coast",
-      "album": "Coastal Grooves • 2011"
     }
   ]
 }
