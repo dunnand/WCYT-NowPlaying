@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T23:03:17",
+  "updatedAt": "2026-10-20T23:03:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "U2",
+    "title": "New Year's Day",
+    "album": "War • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:03 pm",
-      "artist": "U2",
-      "title": "New Year's Day"
-    },
     {
       "time": "11:08 pm",
       "artist": "Bow Wow Wow",
@@ -26,9 +21,20 @@
       "time": "11:14 pm",
       "artist": "Eagles",
       "title": "One Of These Nights"
+    },
+    {
+      "time": "11:19 pm",
+      "artist": "Chicago",
+      "title": "Saturday In The Park"
     }
   ],
   "recent": [
+    {
+      "time": "11:03 pm",
+      "artist": "U2",
+      "title": "New Year's Day",
+      "album": "War • 1983"
+    },
     {
       "time": "10:59 pm",
       "artist": "Alice in Chains",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Delicate",
       "album": "reputation • 2017"
-    },
-    {
-      "time": "9:21 pm",
-      "artist": "Modest Mouse",
-      "title": "Dark Center of the Universe",
-      "album": "The Moon & Antarctica • 2000"
     }
   ]
 }
