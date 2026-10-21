@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T02:18:11",
+  "updatedAt": "2026-10-21T02:18:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Stereolab",
+    "title": "Wow and Flutter",
+    "album": "Mars Audiac Quintet • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:18 am",
-      "artist": "Stereolab",
-      "title": "Wow and Flutter"
-    },
     {
       "time": "2:21 am",
       "artist": "Rebounder",
@@ -26,9 +21,20 @@
       "time": "2:28 am",
       "artist": "The Germs",
       "title": "Lexicon Devil"
+    },
+    {
+      "time": "2:31 am",
+      "artist": "Toro y Moi",
+      "title": "All Alone"
     }
   ],
   "recent": [
+    {
+      "time": "2:18 am",
+      "artist": "Stereolab",
+      "title": "Wow and Flutter",
+      "album": "Mars Audiac Quintet • 1994"
+    },
     {
       "time": "2:14 am",
       "artist": "The National",
@@ -172,12 +178,6 @@
       "artist": "MILLY",
       "title": "Drip From The Fountain",
       "album": "Your Own Becoming • 2024"
-    },
-    {
-      "time": "12:51 am",
-      "artist": "Hiatus Kaiyote",
-      "title": "Make Friends",
-      "album": "Love Heart Cheat Code • 2024"
     }
   ]
 }
