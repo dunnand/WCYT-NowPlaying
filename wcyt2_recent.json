@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T22:16:23",
+  "updatedAt": "2026-10-20T22:16:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Bermuda Highway",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:16 pm",
-      "artist": "My Morning Jacket",
-      "title": "Bermuda Highway"
-    },
     {
       "time": "10:19 pm",
       "artist": "Joe Cocker",
@@ -26,9 +21,20 @@
       "time": "10:30 pm",
       "artist": "Madonna",
       "title": "You'll See"
+    },
+    {
+      "time": "10:34 pm",
+      "artist": "Kingston Trio",
+      "title": "Tom Dooley"
     }
   ],
   "recent": [
+    {
+      "time": "10:16 pm",
+      "artist": "My Morning Jacket",
+      "title": "Bermuda Highway",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "10:12 pm",
       "artist": "Boz Scaggs",
@@ -172,12 +178,6 @@
       "artist": "Randy Newman",
       "title": "I Think It's Going to Rain Today",
       "album": "Randy Newman • 1968"
-    },
-    {
-      "time": "8:46 pm",
-      "artist": "The Hold Steady",
-      "title": "The Swish",
-      "album": "Almost Killed Me • 2004"
     }
   ]
 }
