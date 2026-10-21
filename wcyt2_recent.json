@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T01:23:38",
+  "updatedAt": "2026-10-21T01:23:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Iron & Wine",
+    "title": "Lion's Mane",
+    "album": "The Creek Drank the Cradle • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:23 am",
-      "artist": "Iron & Wine",
-      "title": "Lion's Mane"
-    },
     {
       "time": "1:26 am",
       "artist": "No Age",
@@ -26,9 +21,20 @@
       "time": "1:33 am",
       "artist": "Pink Floyd",
       "title": "High Hopes"
+    },
+    {
+      "time": "1:40 am",
+      "artist": "Love Battery",
+      "title": "Foot"
     }
   ],
   "recent": [
+    {
+      "time": "1:23 am",
+      "artist": "Iron & Wine",
+      "title": "Lion's Mane",
+      "album": "The Creek Drank the Cradle • 2002"
+    },
     {
       "time": "1:16 am",
       "artist": "Slowdive",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Carry the Zero",
       "album": "Keep It Like A Secret • 1999"
-    },
-    {
-      "time": "11:44 pm",
-      "artist": "Steve Lacy",
-      "title": "Playground",
-      "album": "Apollo XXI • 2019"
     }
   ]
 }
