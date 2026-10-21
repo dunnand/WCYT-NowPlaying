@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T03:11:10",
+  "updatedAt": "2026-10-21T03:11:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Heartbreakin Man",
+    "album": "The Tennessee Fire • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:11 am",
-      "artist": "My Morning Jacket",
-      "title": "Heartbreakin Man"
-    },
     {
       "time": "3:14 am",
       "artist": "Tom Petty",
@@ -21,9 +16,25 @@
       "time": "3:17 am",
       "artist": "Van Halen",
       "title": "Why Can't This Be Love"
+    },
+    {
+      "time": "3:20 am",
+      "artist": "Turnstile",
+      "title": "Blackout"
+    },
+    {
+      "time": "3:23 am",
+      "artist": "Hanson",
+      "title": "MMMBop"
     }
   ],
   "recent": [
+    {
+      "time": "3:11 am",
+      "artist": "My Morning Jacket",
+      "title": "Heartbreakin Man",
+      "album": "The Tennessee Fire • 1999"
+    },
     {
       "time": "3:07 am",
       "artist": "Interpol",
@@ -167,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "august",
       "album": "folklore • 2020"
-    },
-    {
-      "time": "1:44 am",
-      "artist": "Jungle Brothers",
-      "title": "What \"U\" Waitin' 4?",
-      "album": "Done by the Forces of Nature • 1989"
     }
   ]
 }
