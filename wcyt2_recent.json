@@ -1,24 +1,35 @@
 {
-  "updatedAt": "2026-10-21T14:10:29",
+  "updatedAt": "2026-10-21T14:14:12",
   "now": {
-    "artist": "Spoon",
-    "title": "The Underdog",
-    "album": "Ga Ga Ga Ga Ga • 2007",
-    "category": "TUNES"
+    "artist": "Phil Collins",
+    "title": "In The Air Tonight",
+    "album": "Face Value • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "2:14 pm",
+      "time": "2:19 pm",
       "artist": "Jamiroquai",
       "title": "Cosmic Girl"
     },
     {
-      "time": "2:18 pm",
+      "time": "2:23 pm",
       "artist": "Jeff Buckley",
       "title": "Hallelujah"
+    },
+    {
+      "time": "2:30 pm",
+      "artist": "Prince and The Revolution",
+      "title": "When Doves Cry"
     }
   ],
   "recent": [
+    {
+      "time": "2:14 pm",
+      "artist": "Phil Collins",
+      "title": "In The Air Tonight",
+      "album": "Face Value • 1981"
+    },
     {
       "time": "2:10 pm",
       "artist": "Spoon",
@@ -162,12 +173,6 @@
       "artist": "Spencer Davis Group",
       "title": "I'm A Man",
       "album": "Im a Man • 1967"
-    },
-    {
-      "time": "12:22 pm",
-      "artist": "Pulp",
-      "title": "Sunrise",
-      "album": "We Love Life • 2002"
     }
   ]
 }
