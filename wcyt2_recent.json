@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T03:53:05",
+  "updatedAt": "2026-10-21T03:53:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Beck",
+    "title": "Devil's Haircut",
+    "album": "Odelay • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:53 am",
-      "artist": "Beck",
-      "title": "Devil's Haircut"
-    },
     {
       "time": "3:56 am",
       "artist": "Wipers",
@@ -21,9 +16,20 @@
       "time": "3:59 am",
       "artist": "Malcolm Todd",
       "title": "Roommates"
+    },
+    {
+      "time": "4:02 am",
+      "artist": "of Montreal",
+      "title": "The Past Is a Grotesque Animal"
     }
   ],
   "recent": [
+    {
+      "time": "3:53 am",
+      "artist": "Beck",
+      "title": "Devil's Haircut",
+      "album": "Odelay • 1996"
+    },
     {
       "time": "3:46 am",
       "artist": "Still Corners",
@@ -167,12 +173,6 @@
       "artist": "The New Pornographers",
       "title": "The Electric Version",
       "album": "Electric Version • 2003"
-    },
-    {
-      "time": "2:21 am",
-      "artist": "Eric Clapton",
-      "title": "I Shot The Sheriff",
-      "album": "461 Ocean Boulevard • 1974"
     }
   ]
 }
