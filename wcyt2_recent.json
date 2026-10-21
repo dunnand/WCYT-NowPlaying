@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T06:58:05",
+  "updatedAt": "2026-10-21T06:58:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Janet Jackson",
+    "title": "Again",
+    "album": "Janet • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:58 am",
-      "artist": "Janet Jackson",
-      "title": "Again"
-    },
     {
       "time": "7:02 am",
       "artist": "Mazzy Star",
@@ -26,9 +21,20 @@
       "time": "7:09 am",
       "artist": "George Clinton",
       "title": "Atomic Dog"
+    },
+    {
+      "time": "7:14 am",
+      "artist": "Turnstile",
+      "title": "MYSTERY"
     }
   ],
   "recent": [
+    {
+      "time": "6:58 am",
+      "artist": "Janet Jackson",
+      "title": "Again",
+      "album": "Janet • 1993"
+    },
     {
       "time": "6:53 am",
       "artist": "Outkast",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Love Is Blindness",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "5:27 am",
-      "artist": "Steppenwolf",
-      "title": "Born To Be Wild",
-      "album": "Steppenwolf • 1968"
     }
   ]
 }
