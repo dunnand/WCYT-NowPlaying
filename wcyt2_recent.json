@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T21:07:34",
+  "updatedAt": "2026-10-20T21:11:10",
   "now": {
-    "artist": "The Go-Go's",
-    "title": "Head Over Heels",
-    "album": "Talk Show • 1984",
+    "artist": "Weezer",
+    "title": "All My Favorite Songs",
+    "album": "OK Human • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Weezer",
-      "title": "All My Favorite Songs"
-    },
     {
       "time": "9:14 pm",
       "artist": "The Hold Steady",
@@ -26,9 +21,20 @@
       "time": "9:21 pm",
       "artist": "Modest Mouse",
       "title": "Dark Center of the Universe"
+    },
+    {
+      "time": "9:26 pm",
+      "artist": "Taylor Swift",
+      "title": "Delicate"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Weezer",
+      "title": "All My Favorite Songs",
+      "album": "OK Human • 2021"
+    },
     {
       "time": "9:07 pm",
       "artist": "The Go-Go's",
@@ -172,12 +178,6 @@
       "artist": "Soundgarden",
       "title": "Rusty Cage",
       "album": "Badmotorfinger • 1991"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "10538 Overture",
-      "album": "The Electric Light Orchestra • 1971"
     }
   ]
 }
