@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T10:45:24",
+  "updatedAt": "2026-10-21T10:48:57",
   "now": {
-    "artist": "Doobie Brothers",
-    "title": "Listen To The Music",
-    "album": "Toulouse Street • 1972",
+    "artist": "Martha Reeves & The Vandellas",
+    "title": "Jimmy Mack",
+    "album": "Watchout! • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:48 am",
-      "artist": "Martha Reeves & The Vandellas",
-      "title": "Jimmy Mack"
-    },
     {
       "time": "10:51 am",
       "artist": "The Temptations",
@@ -21,9 +16,20 @@
       "time": "10:54 am",
       "artist": "The Who",
       "title": "Who Are You"
+    },
+    {
+      "time": "11:00 am",
+      "artist": "Counting Crows",
+      "title": "Round Here"
     }
   ],
   "recent": [
+    {
+      "time": "10:48 am",
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "Jimmy Mack",
+      "album": "Watchout! • 1966"
+    },
     {
       "time": "10:45 am",
       "artist": "Doobie Brothers",
@@ -167,12 +173,6 @@
       "artist": "Fleetwood Mac",
       "title": "Songbird",
       "album": "Rumours • 1977"
-    },
-    {
-      "time": "9:11 am",
-      "artist": "Kai Winding",
-      "title": "More",
-      "album": "More • 1963"
     }
   ]
 }
