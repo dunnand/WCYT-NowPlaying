@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T03:11:21",
+  "updatedAt": "2026-10-21T03:14:28",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Heartbreakin Man",
-    "album": "The Tennessee Fire • 1999",
-    "category": "TUNES"
+    "artist": "Tom Petty",
+    "title": "I Won't Back Down",
+    "album": "Full Moon Fever • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 am",
-      "artist": "Tom Petty",
-      "title": "I Won't Back Down"
-    },
     {
       "time": "3:17 am",
       "artist": "Van Halen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:14 am",
+      "artist": "Tom Petty",
+      "title": "I Won't Back Down",
+      "album": "Full Moon Fever • 1989"
+    },
     {
       "time": "3:11 am",
       "artist": "My Morning Jacket",
@@ -172,12 +173,6 @@
       "artist": "Righteous Brothers",
       "title": "You've Lost That Lovin' Feelin'",
       "album": "Youve Lost That Lovin Feelin • 1965"
-    },
-    {
-      "time": "1:48 am",
-      "artist": "Taylor Swift",
-      "title": "august",
-      "album": "folklore • 2020"
     }
   ]
 }
