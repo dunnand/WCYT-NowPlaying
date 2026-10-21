@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-10-21T11:23:27",
+  "updatedAt": "2026-10-21T11:23:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Suspirium",
+    "album": "Suspiria • 2018",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:23 am",
-      "artist": "Thom Yorke",
-      "title": "Suspirium"
-    },
     {
       "time": "11:26 am",
       "artist": "David Byrne",
       "title": "Hanging Upside Down"
+    },
+    {
+      "time": "11:31 am",
+      "artist": "Journey",
+      "title": "Open Arms"
     }
   ],
   "recent": [
+    {
+      "time": "11:23 am",
+      "artist": "Thom Yorke",
+      "title": "Suspirium",
+      "album": "Suspiria • 2018"
+    },
     {
       "time": "11:19 am",
       "artist": "Justin Timberlake",
@@ -162,12 +168,6 @@
       "artist": "Bob Dylan",
       "title": "Blind Willie McTell",
       "album": "The Bootleg Series Volumes 1-3 • 1991"
-    },
-    {
-      "time": "9:31 am",
-      "artist": "Taylor Swift",
-      "title": "We Are Never Ever Getting Back Together",
-      "album": "Red • 2012"
     }
   ]
 }
