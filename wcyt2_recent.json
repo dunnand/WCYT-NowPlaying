@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T21:11:10",
+  "updatedAt": "2026-10-20T21:14:35",
   "now": {
-    "artist": "Weezer",
-    "title": "All My Favorite Songs",
-    "album": "OK Human • 2021",
-    "category": "AUDIO"
+    "artist": "The Hold Steady",
+    "title": "Sequestered In Memphis",
+    "album": "Stay Positive • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:14 pm",
-      "artist": "The Hold Steady",
-      "title": "Sequestered In Memphis"
-    },
     {
       "time": "9:18 pm",
       "artist": "Bonnie Pointer",
@@ -26,9 +21,20 @@
       "time": "9:26 pm",
       "artist": "Taylor Swift",
       "title": "Delicate"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "Joni Mitchell",
+      "title": "Don't Interrupt the Sorrow"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 pm",
+      "artist": "The Hold Steady",
+      "title": "Sequestered In Memphis",
+      "album": "Stay Positive • 2008"
+    },
     {
       "time": "9:11 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Carl Perkins",
       "title": "Blue Suede Shoes",
       "album": "Dance Album of Carl Perkins • 1957"
-    },
-    {
-      "time": "7:42 pm",
-      "artist": "Soundgarden",
-      "title": "Rusty Cage",
-      "album": "Badmotorfinger • 1991"
     }
   ]
 }
