@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T21:21:38",
+  "updatedAt": "2026-10-20T21:26:36",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Dark Center of the Universe",
-    "album": "The Moon & Antarctica • 2000",
-    "category": "TUNES"
+    "artist": "Taylor Swift",
+    "title": "Delicate",
+    "album": "reputation • 2017",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:26 pm",
-      "artist": "Taylor Swift",
-      "title": "Delicate"
-    },
     {
       "time": "9:29 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "9:36 pm",
       "artist": "Mark Dinning",
       "title": "Teen Angel"
+    },
+    {
+      "time": "9:39 pm",
+      "artist": "Interpol",
+      "title": "C'mere"
     }
   ],
   "recent": [
+    {
+      "time": "9:26 pm",
+      "artist": "Taylor Swift",
+      "title": "Delicate",
+      "album": "reputation • 2017"
+    },
     {
       "time": "9:21 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "St. Vincent",
       "title": "Los Ageless",
       "album": "Masseduction • 2018"
-    },
-    {
-      "time": "7:54 pm",
-      "artist": "Rolling Stones",
-      "title": "Jumpin' Jack Flash",
-      "album": "single • 1968"
     }
   ]
 }
