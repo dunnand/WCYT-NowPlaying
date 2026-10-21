@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T10:45:14",
+  "updatedAt": "2026-10-21T10:45:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Doobie Brothers",
+    "title": "Listen To The Music",
+    "album": "Toulouse Street • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 am",
-      "artist": "Doobie Brothers",
-      "title": "Listen To The Music"
-    },
     {
       "time": "10:48 am",
       "artist": "Martha Reeves & The Vandellas",
@@ -21,9 +16,20 @@
       "time": "10:51 am",
       "artist": "The Temptations",
       "title": "Ain't Too Proud To Beg"
+    },
+    {
+      "time": "10:54 am",
+      "artist": "The Who",
+      "title": "Who Are You"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 am",
+      "artist": "Doobie Brothers",
+      "title": "Listen To The Music",
+      "album": "Toulouse Street • 1972"
+    },
     {
       "time": "10:41 am",
       "artist": "Toosii",
@@ -167,12 +173,6 @@
       "artist": "Kai Winding",
       "title": "More",
       "album": "More • 1963"
-    },
-    {
-      "time": "9:08 am",
-      "artist": "Edwin Starr",
-      "title": "War",
-      "album": "War & Peace • 1970"
     }
   ]
 }
