@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T05:23:42",
+  "updatedAt": "2026-10-21T05:27:57",
   "now": {
-    "artist": "Interpol",
-    "title": "NYC",
-    "album": "Turn on the Bright Lights • 2002",
-    "category": "TUNES"
+    "artist": "Steppenwolf",
+    "title": "Born To Be Wild",
+    "album": "Steppenwolf • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:27 am",
-      "artist": "Steppenwolf",
-      "title": "Born To Be Wild"
-    },
     {
       "time": "5:31 am",
       "artist": "U2",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:27 am",
+      "artist": "Steppenwolf",
+      "title": "Born To Be Wild",
+      "album": "Steppenwolf • 1968"
+    },
     {
       "time": "5:23 am",
       "artist": "Interpol",
@@ -167,12 +168,6 @@
       "artist": "Beck",
       "title": "Devil's Haircut",
       "album": "Odelay • 1996"
-    },
-    {
-      "time": "3:46 am",
-      "artist": "Still Corners",
-      "title": "The Trip",
-      "album": "Strange Pleasures • 2013"
     }
   ]
 }
