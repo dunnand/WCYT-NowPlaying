@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T01:01:32",
+  "updatedAt": "2026-10-21T01:01:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "Mamma Mia",
+    "album": "ABBA • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "ABBA",
-      "title": "Mamma Mia"
-    },
     {
       "time": "1:05 am",
       "artist": "Barry Manilow",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "ABBA",
+      "title": "Mamma Mia",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "12:59 am",
       "artist": "The Olivia Tremor Control",
@@ -172,12 +173,6 @@
       "artist": "Crosby, Stills, Nash & Young",
       "title": "Our House",
       "album": "Dj Vu • 1970"
-    },
-    {
-      "time": "11:26 pm",
-      "artist": "Johnny Burnette",
-      "title": "You're Sixteen",
-      "album": "Johnny Burnette • 1960"
     }
   ]
 }
