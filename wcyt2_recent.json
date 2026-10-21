@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T00:26:12",
+  "updatedAt": "2026-10-21T00:30:56",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Forever Young",
-    "album": "Planet Waves • 1974",
+    "artist": "Jimmy Gilmer & The Fireballs",
+    "title": "Sugar Shack",
+    "album": "Sugar Shack • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 am",
-      "artist": "Jimmy Gilmer & The Fireballs",
-      "title": "Sugar Shack"
-    },
     {
       "time": "12:32 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "12:41 am",
       "artist": "Peggy Lee",
       "title": "Fever"
+    },
+    {
+      "time": "12:44 am",
+      "artist": "The Knife",
+      "title": "Heartbeats"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 am",
+      "artist": "Jimmy Gilmer & The Fireballs",
+      "title": "Sugar Shack",
+      "album": "Sugar Shack • 1963"
+    },
     {
       "time": "12:26 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Alice in Chains",
       "title": "Nutshell",
       "album": "Jar of Flies - EP • 1994"
-    },
-    {
-      "time": "10:53 pm",
-      "artist": "Aerosmith",
-      "title": "Livin' On The Edge",
-      "album": "Get a Grip • 1993"
     }
   ]
 }
