@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T20:59:36",
+  "updatedAt": "2026-10-20T20:59:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Smashing Pumpkins",
+    "title": "Perfect",
+    "album": "Adore • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Perfect"
-    },
     {
       "time": "9:02 pm",
       "artist": "Alan Parsons Project",
@@ -26,9 +21,20 @@
       "time": "9:11 pm",
       "artist": "Weezer",
       "title": "All My Favorite Songs"
+    },
+    {
+      "time": "9:14 pm",
+      "artist": "The Hold Steady",
+      "title": "Sequestered In Memphis"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Perfect",
+      "album": "Adore • 1998"
+    },
     {
       "time": "8:56 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Junior Boys",
       "title": "In The Morning",
       "album": "So This Is Goodbye • 2006"
-    },
-    {
-      "time": "7:26 pm",
-      "artist": "DEVO",
-      "title": "Mongoloid",
-      "album": "Q: Are We Not Men? A: We Are Devo! • 1978"
     }
   ]
 }
