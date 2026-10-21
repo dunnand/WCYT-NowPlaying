@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T00:02:41",
+  "updatedAt": "2026-10-21T00:03:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "You Said Something",
+    "album": "Stories from the City, Stories from the Sea • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "PJ Harvey",
-      "title": "You Said Something"
-    },
     {
       "time": "12:06 am",
       "artist": "Neko Case",
@@ -21,9 +16,20 @@
       "time": "12:10 am",
       "artist": "Slowdive",
       "title": "No Longer Making Time"
+    },
+    {
+      "time": "12:16 am",
+      "artist": "Green Day",
+      "title": "Emenius Sleepus"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "PJ Harvey",
+      "title": "You Said Something",
+      "album": "Stories from the City, Stories from the Sea • 2000"
+    },
     {
       "time": "11:58 pm",
       "artist": "Vampire Weekend",
@@ -167,12 +173,6 @@
       "artist": "Elton John",
       "title": "Don't Let The Sun Go Down On Me",
       "album": "Caribou • 1974"
-    },
-    {
-      "time": "10:19 pm",
-      "artist": "Joe Cocker",
-      "title": "With A Little Help From My Friends",
-      "album": "With a Little Help from My Friends • 1968"
     }
   ]
 }
