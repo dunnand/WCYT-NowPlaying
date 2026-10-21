@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-20T22:34:33",
+  "updatedAt": "2026-10-20T22:37:27",
   "now": {
-    "artist": "Kingston Trio",
-    "title": "Tom Dooley",
-    "album": "Tom Dooley • 1958",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Steam Engine",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:37 pm",
-      "artist": "My Morning Jacket",
-      "title": "Steam Engine"
-    },
     {
       "time": "10:44 pm",
       "artist": "Serge Gainsbourg",
@@ -21,9 +16,20 @@
       "time": "10:49 pm",
       "artist": "Usher",
       "title": "Numb"
+    },
+    {
+      "time": "10:53 pm",
+      "artist": "Aerosmith",
+      "title": "Livin' On The Edge"
     }
   ],
   "recent": [
+    {
+      "time": "10:37 pm",
+      "artist": "My Morning Jacket",
+      "title": "Steam Engine",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "10:34 pm",
       "artist": "Kingston Trio",
@@ -167,12 +173,6 @@
       "artist": "The Go-Go's",
       "title": "Head Over Heels",
       "album": "Talk Show • 1984"
-    },
-    {
-      "time": "9:03 pm",
-      "artist": "Alan Parsons Project",
-      "title": "Eye In The Sky",
-      "album": "Eye in the Sky • 1982"
     }
   ]
 }
