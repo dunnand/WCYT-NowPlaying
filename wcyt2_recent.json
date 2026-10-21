@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T02:45:08",
+  "updatedAt": "2026-10-21T02:48:24",
   "now": {
-    "artist": "James Taylor",
-    "title": "Fire And Rain",
-    "album": "Sweet Baby James • 1970",
+    "artist": "Jim Croce",
+    "title": "I'll Have To Say I Love You In A Song",
+    "album": "I Got a Name • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:48 am",
-      "artist": "Jim Croce",
-      "title": "I'll Have To Say I Love You In A Song"
-    },
     {
       "time": "2:50 am",
       "artist": "Justice",
@@ -26,9 +21,20 @@
       "time": "2:57 am",
       "artist": "John Denver",
       "title": "Back Home Again"
+    },
+    {
+      "time": "3:01 am",
+      "artist": "Pavement",
+      "title": "Father to a Sister of Thought"
     }
   ],
   "recent": [
+    {
+      "time": "2:48 am",
+      "artist": "Jim Croce",
+      "title": "I'll Have To Say I Love You In A Song",
+      "album": "I Got a Name • 1974"
+    },
     {
       "time": "2:45 am",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "Slowdive",
       "title": "Slomo",
       "album": "Slowdive • 2017"
-    },
-    {
-      "time": "1:14 am",
-      "artist": "Yo La Tengo",
-      "title": "Stockholm Syndrome",
-      "album": "I Can Hear the Heart Beating as One • 1997"
     }
   ]
 }
