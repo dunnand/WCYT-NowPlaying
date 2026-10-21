@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T16:14:03",
+  "updatedAt": "2026-10-21T16:18:18",
   "now": {
-    "artist": "Steely Dan",
-    "title": "Josie",
-    "album": "Aja • 1978",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "You've Passed",
+    "album": "On Avery Island • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:18 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "You've Passed"
-    },
     {
       "time": "4:21 pm",
       "artist": "The Fleetwoods",
@@ -23,12 +18,23 @@
       "title": "Just Be Simple"
     },
     {
-      "time": "4:28 pm",
+      "time": "4:27 pm",
       "artist": "The Zombies",
       "title": "Care of Cell 44"
+    },
+    {
+      "time": "4:31 pm",
+      "artist": "David Guetta",
+      "title": "Play Hard Feat. Ne-Yo & Akon"
     }
   ],
   "recent": [
+    {
+      "time": "4:18 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "You've Passed",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "4:14 pm",
       "artist": "Steely Dan",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "R U Mine?",
       "album": "AM • 2013"
-    },
-    {
-      "time": "2:36 pm",
-      "artist": "Steely Dan",
-      "title": "Do It Again",
-      "album": "Cant Buy a Thrill • 1973"
     }
   ]
 }
