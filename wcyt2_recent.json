@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T05:38:09",
+  "updatedAt": "2026-10-22T05:41:23",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "Mandy",
-    "album": "Barry Manilow II • 1974",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "The One You Really Love",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:41 am",
-      "artist": "The Magnetic Fields",
-      "title": "The One You Really Love"
-    },
     {
       "time": "5:44 am",
       "artist": "Bobby Darin",
@@ -26,9 +21,20 @@
       "time": "5:49 am",
       "artist": "Traffic",
       "title": "Feelin' Alright"
+    },
+    {
+      "time": "5:53 am",
+      "artist": "Camp Cope",
+      "title": "The Opener"
     }
   ],
   "recent": [
+    {
+      "time": "5:41 am",
+      "artist": "The Magnetic Fields",
+      "title": "The One You Really Love",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "5:38 am",
       "artist": "Barry Manilow",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Time Trap",
       "album": "Keep It Like A Secret • 1999"
-    },
-    {
-      "time": "3:59 am",
-      "artist": "Sunny Day Real Estate",
-      "title": "In Circles",
-      "album": "Diary • 1994"
     }
   ]
 }
