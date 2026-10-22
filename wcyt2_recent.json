@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T20:43:38",
+  "updatedAt": "2026-10-21T20:43:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "SOS",
+    "album": "ABBA • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:43 pm",
-      "artist": "ABBA",
-      "title": "SOS"
-    },
     {
       "time": "8:46 pm",
       "artist": "Sigur Ros",
@@ -31,9 +26,20 @@
       "time": "8:59 pm",
       "artist": "The Magnetic Fields",
       "title": "The One You Really Love"
+    },
+    {
+      "time": "9:02 pm",
+      "artist": "Bobby Darin",
+      "title": "Splish Splash"
     }
   ],
   "recent": [
+    {
+      "time": "8:43 pm",
+      "artist": "ABBA",
+      "title": "SOS",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "8:39 pm",
       "artist": "Train",
@@ -177,12 +183,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Rich",
       "album": "Fever To Tell • 2003"
-    },
-    {
-      "time": "7:07 pm",
-      "artist": "Sam Cooke",
-      "title": "Only Sixteen",
-      "album": "Hit Kit • 1959"
     }
   ]
 }
