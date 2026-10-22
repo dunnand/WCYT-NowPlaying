@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T14:40:40",
+  "updatedAt": "2026-10-22T14:42:42",
   "now": {
-    "artist": "The Who",
-    "title": "I Can't Explain",
-    "album": "The Who Sings My Generation • 1965",
+    "artist": "Van Morrison",
+    "title": "Domino",
+    "album": "His Band and the Street Choir • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 pm",
-      "artist": "Van Morrison",
-      "title": "Domino"
-    },
     {
       "time": "2:45 pm",
       "artist": "Nirvana",
@@ -26,9 +21,20 @@
       "time": "2:52 pm",
       "artist": "Sufjan Stevens",
       "title": "The Dress Looks Nice on You"
+    },
+    {
+      "time": "2:55 pm",
+      "artist": "The Lovin' Spoonful",
+      "title": "Summer in the City"
     }
   ],
   "recent": [
+    {
+      "time": "2:42 pm",
+      "artist": "Van Morrison",
+      "title": "Domino",
+      "album": "His Band and the Street Choir • 1971"
+    },
     {
       "time": "2:40 pm",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Guns N' Roses",
       "title": "Sweet Child O' Mine",
       "album": "Appetite for Destruction • 1987"
-    },
-    {
-      "time": "12:23 pm",
-      "artist": "George Michael",
-      "title": "Father Figurer",
-      "album": "Faith • 1988"
     }
   ]
 }
