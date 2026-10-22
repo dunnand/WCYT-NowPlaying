@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T17:54:49",
+  "updatedAt": "2026-10-22T17:58:43",
   "now": {
-    "artist": "The Clash",
-    "title": "Death or Glory",
-    "album": "London Calling • 1979",
+    "artist": "Nada Surf",
+    "title": "Popular",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:58 pm",
-      "artist": "Nada Surf",
-      "title": "Popular"
-    },
     {
       "time": "6:02 pm",
       "artist": "Platters",
@@ -21,9 +16,20 @@
       "time": "6:04 pm",
       "artist": "Yo La Tengo",
       "title": "Cherry Chapstick"
+    },
+    {
+      "time": "6:09 pm",
+      "artist": "Yardbirds",
+      "title": "For Your Love"
     }
   ],
   "recent": [
+    {
+      "time": "5:58 pm",
+      "artist": "Nada Surf",
+      "title": "Popular",
+      "album": ""
+    },
     {
       "time": "5:54 pm",
       "artist": "The Clash",
@@ -166,12 +172,6 @@
       "time": "4:10 pm",
       "artist": "Catherine Wheel",
       "title": "Crank",
-      "album": ""
-    },
-    {
-      "time": "4:04 pm",
-      "artist": "Ani DiFranco",
-      "title": "32 Flavors",
       "album": ""
     }
   ]
