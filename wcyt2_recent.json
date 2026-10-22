@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T09:04:15",
+  "updatedAt": "2026-10-22T09:07:31",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "R U Mine?",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Hooverphonic",
+    "title": "Mad About You",
+    "album": "",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 am",
-      "artist": "Hooverphonic",
-      "title": "Mad About You"
-    },
     {
       "time": "9:11 am",
       "artist": "Nine Inch Nails",
@@ -26,9 +21,20 @@
       "time": "9:18 am",
       "artist": "Dire Straits",
       "title": "Romeo and Juliet"
+    },
+    {
+      "time": "9:24 am",
+      "artist": "Deftones",
+      "title": "Genesis"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 am",
+      "artist": "Hooverphonic",
+      "title": "Mad About You",
+      "album": ""
+    },
     {
       "time": "9:04 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Jim Croce",
       "title": "I Got A Name",
       "album": "I Got a Name • 1973"
-    },
-    {
-      "time": "7:13 am",
-      "artist": "James Taylor",
-      "title": "You've Got A Friend",
-      "album": "Mud Slide Slim and the Blue Horizon • 1971"
     }
   ]
 }
