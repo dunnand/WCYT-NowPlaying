@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T03:42:20",
+  "updatedAt": "2026-10-22T03:44:55",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Second Hand News",
-    "album": "Rumours • 1977",
+    "artist": "Soundgarden",
+    "title": "Spoonman",
+    "album": "Superunknown • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "Soundgarden",
-      "title": "Spoonman"
-    },
     {
       "time": "3:48 am",
       "artist": "Sam Cooke",
@@ -26,9 +21,20 @@
       "time": "3:54 am",
       "artist": "The Crystals",
       "title": "He Hit Me (It Felt Like a Kiss)"
+    },
+    {
+      "time": "3:56 am",
+      "artist": "Clairo",
+      "title": "Sofia"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "Soundgarden",
+      "title": "Spoonman",
+      "album": "Superunknown • 1994"
+    },
     {
       "time": "3:42 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Swervedriver",
       "title": "Rave Down",
       "album": "Raise • 1991"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "Throwing Muses",
-      "title": "Not Too Soon",
-      "album": "The Real Ramona • 1991"
     }
   ]
 }
