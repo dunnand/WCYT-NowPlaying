@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T03:04:36",
+  "updatedAt": "2026-10-22T03:04:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Who",
+    "title": "Pinball Wizard",
+    "album": "Tommy • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:04 am",
-      "artist": "The Who",
-      "title": "Pinball Wizard"
-    },
     {
       "time": "3:07 am",
       "artist": "BADBADNOTGOOD",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:04 am",
+      "artist": "The Who",
+      "title": "Pinball Wizard",
+      "album": "Tommy • 1969"
+    },
     {
       "time": "3:00 am",
       "artist": "Yeah Yeah Yeahs",
@@ -172,12 +173,6 @@
       "artist": "Grover Washington Jr. & Bill Withers",
       "title": "Just The Two Of Us",
       "album": "Winelight • 1980"
-    },
-    {
-      "time": "1:22 am",
-      "artist": "Madonna",
-      "title": "Lucky Star",
-      "album": "Madonna • 1983"
     }
   ]
 }
