@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T09:04:05",
+  "updatedAt": "2026-10-22T09:04:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "R U Mine?",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:04 am",
-      "artist": "Arctic Monkeys",
-      "title": "R U Mine?"
-    },
     {
       "time": "9:07 am",
       "artist": "Hooverphonic",
@@ -26,9 +21,20 @@
       "time": "9:14 am",
       "artist": "Culture Club",
       "title": "Karma Chameleon"
+    },
+    {
+      "time": "9:18 am",
+      "artist": "Dire Straits",
+      "title": "Romeo and Juliet"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "Arctic Monkeys",
+      "title": "R U Mine?",
+      "album": "AM • 2013"
+    },
     {
       "time": "8:58 am",
       "artist": "Tom Waits",
@@ -172,12 +178,6 @@
       "artist": "James Taylor",
       "title": "You've Got A Friend",
       "album": "Mud Slide Slim and the Blue Horizon • 1971"
-    },
-    {
-      "time": "7:09 am",
-      "artist": "Kacey Musgraves",
-      "title": "Jade Green",
-      "album": "Deeper Well • 2024"
     }
   ]
 }
