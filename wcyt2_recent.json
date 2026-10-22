@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T03:36:37",
+  "updatedAt": "2026-10-22T03:36:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Say Yes! to M!ch!gan!",
+    "album": "Michigan • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:36 am",
-      "artist": "Sufjan Stevens",
-      "title": "Say Yes! to M!ch!gan!"
-    },
     {
       "time": "3:39 am",
       "artist": "The Creation",
@@ -31,9 +26,20 @@
       "time": "3:49 am",
       "artist": "Sam Cooke",
       "title": "Only Sixteen"
+    },
+    {
+      "time": "3:50 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Rich"
     }
   ],
   "recent": [
+    {
+      "time": "3:36 am",
+      "artist": "Sufjan Stevens",
+      "title": "Say Yes! to M!ch!gan!",
+      "album": "Michigan • 2003"
+    },
     {
       "time": "3:32 am",
       "artist": "The Guess Who",
@@ -177,12 +183,6 @@
       "artist": "Thom Yorke",
       "title": "Harrowdown Hill",
       "album": "The Eraser • 2006"
-    },
-    {
-      "time": "1:58 am",
-      "artist": "Sun Kil Moon",
-      "title": "Carry Me Ohio",
-      "album": "Ghosts of the Great Highway • 2003"
     }
   ]
 }
