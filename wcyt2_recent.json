@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T21:22:55",
+  "updatedAt": "2026-10-21T21:26:29",
   "now": {
-    "artist": "AC/DC",
-    "title": "You Shook Me All Night Long",
-    "album": "Back in Black • 1980",
+    "artist": "Bangles",
+    "title": "Manic Monday",
+    "album": "Different Light • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:26 pm",
-      "artist": "Bangles",
-      "title": "Manic Monday"
-    },
     {
       "time": "9:29 pm",
       "artist": "James Brown",
@@ -21,9 +16,25 @@
       "time": "9:33 pm",
       "artist": "System of a Down",
       "title": "Lonely Day"
+    },
+    {
+      "time": "9:36 pm",
+      "artist": "Bill Withers",
+      "title": "Ain't No Sunshine"
+    },
+    {
+      "time": "9:38 pm",
+      "artist": "Thom Yorke",
+      "title": "Black Swan"
     }
   ],
   "recent": [
+    {
+      "time": "9:26 pm",
+      "artist": "Bangles",
+      "title": "Manic Monday",
+      "album": "Different Light • 1985"
+    },
     {
       "time": "9:22 pm",
       "artist": "AC/DC",
@@ -167,12 +178,6 @@
       "artist": "The Four Seasons",
       "title": "December, 1963 (Oh, What a Night)",
       "album": "Who Loves You • 1975"
-    },
-    {
-      "time": "7:54 pm",
-      "artist": "Drake",
-      "title": "Find Your Love",
-      "album": "Thank Me Later • 2010"
     }
   ]
 }
