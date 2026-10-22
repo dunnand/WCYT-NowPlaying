@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T04:15:15",
+  "updatedAt": "2026-10-22T04:15:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Janet Jackson",
+    "title": "Nasty",
+    "album": "Control • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 am",
-      "artist": "Janet Jackson",
-      "title": "Nasty"
-    },
     {
       "time": "4:19 am",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "4:28 am",
       "artist": "Manfred Mann's Earth Band",
       "title": "Blinded By The Light"
+    },
+    {
+      "time": "4:31 am",
+      "artist": "R.E.M.",
+      "title": "Aftermath"
     }
   ],
   "recent": [
+    {
+      "time": "4:15 am",
+      "artist": "Janet Jackson",
+      "title": "Nasty",
+      "album": "Control • 1986"
+    },
     {
       "time": "4:10 am",
       "artist": "Huey Lewis & The News",
@@ -172,12 +178,6 @@
       "artist": "Manu Dibango",
       "title": "Soul Makossa",
       "album": "Soul Makossa • 1972"
-    },
-    {
-      "time": "2:45 am",
-      "artist": "The Flying Burrito Brothers",
-      "title": "Sin City",
-      "album": "The Gilded Palace of Sin • 1969"
     }
   ]
 }
