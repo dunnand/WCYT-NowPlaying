@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T00:20:31",
+  "updatedAt": "2026-10-22T00:22:32",
   "now": {
-    "artist": "Randy Newman",
-    "title": "You've Got a Friend in Me",
-    "album": "Toy Story soundtrack • 1995",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Heart Cooks Brain",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:22 am",
-      "artist": "Modest Mouse",
-      "title": "Heart Cooks Brain"
-    },
     {
       "time": "12:26 am",
       "artist": "Eddie Murphy",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:22 am",
+      "artist": "Modest Mouse",
+      "title": "Heart Cooks Brain",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "12:20 am",
       "artist": "Randy Newman",
@@ -172,12 +173,6 @@
       "artist": "John Denver",
       "title": "Thank God I'm A Country Boy",
       "album": "Back Home Again • 1974"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "The Monks",
-      "title": "Monk Time",
-      "album": "Black Monk Time • 1966"
     }
   ]
 }
