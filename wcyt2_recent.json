@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T14:29:59",
+  "updatedAt": "2026-10-22T14:32:59",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "A Day in the Life of a Tree",
-    "album": "Surf's Up • 1971",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Mansard Roof",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:32 pm",
-      "artist": "Vampire Weekend",
-      "title": "Mansard Roof"
-    },
     {
       "time": "2:35 pm",
       "artist": "The Marvelettes",
@@ -26,9 +21,20 @@
       "time": "2:40 pm",
       "artist": "Beck",
       "title": "Sexx Laws"
+    },
+    {
+      "time": "2:44 pm",
+      "artist": "Flo",
+      "title": "Rida - Wild Ones feat. Sia"
     }
   ],
   "recent": [
+    {
+      "time": "2:32 pm",
+      "artist": "Vampire Weekend",
+      "title": "Mansard Roof",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "2:29 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Tom Jones",
       "title": "It's Not Unusual",
       "album": "Along Came Jones • 1965"
-    },
-    {
-      "time": "12:03 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Maps",
-      "album": "Fever To Tell • 2003"
     }
   ]
 }
