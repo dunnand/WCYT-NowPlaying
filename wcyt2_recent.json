@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T17:02:17",
+  "updatedAt": "2026-10-22T17:04:12",
   "now": {
-    "artist": "Tom Jones",
-    "title": "It's Not Unusual",
-    "album": "Along Came Jones • 1965",
-    "category": "AUDIO"
+    "artist": "The Decemberists",
+    "title": "Don't Carry It All",
+    "album": "The King Is Dead • 2011",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:04 pm",
-      "artist": "The Decemberists",
-      "title": "Don't Carry It All"
-    },
     {
       "time": "5:08 pm",
       "artist": "Chris Cornell",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:04 pm",
+      "artist": "The Decemberists",
+      "title": "Don't Carry It All",
+      "album": "The King Is Dead • 2011"
+    },
     {
       "time": "5:02 pm",
       "artist": "Tom Jones",
@@ -172,12 +173,6 @@
       "artist": "Yo La Tengo",
       "title": "Our Way to Fall",
       "album": "And Then Nothing Turned Itself Inside • 2000"
-    },
-    {
-      "time": "3:23 pm",
-      "artist": "Minako Hamano",
-      "title": "Brain Age 2: More Training in Minutes a Day! (Staff Credits)",
-      "album": "Nintendo Music •"
     }
   ]
 }
