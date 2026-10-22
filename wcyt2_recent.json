@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-21T21:19:21",
+  "updatedAt": "2026-10-21T21:19:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "A Tribe Called Quest",
+    "title": "Award Tour",
+    "album": "Midnight Marauders • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:19 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "Award Tour"
-    },
     {
       "time": "9:22 pm",
       "artist": "AC/DC",
@@ -26,9 +21,20 @@
       "time": "9:29 pm",
       "artist": "James Brown",
       "title": "We Got To Change"
+    },
+    {
+      "time": "9:33 pm",
+      "artist": "System of a Down",
+      "title": "Lonely Day"
     }
   ],
   "recent": [
+    {
+      "time": "9:19 pm",
+      "artist": "A Tribe Called Quest",
+      "title": "Award Tour",
+      "album": "Midnight Marauders • 1993"
+    },
     {
       "time": "9:15 pm",
       "artist": "Sophie B. Hawkins",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Aftermath",
       "album": "Reckoning • 2004"
-    },
-    {
-      "time": "7:46 pm",
-      "artist": "Manfred Mann's Earth Band",
-      "title": "Blinded By The Light",
-      "album": "The Roaring Silence • 1976"
     }
   ]
 }
