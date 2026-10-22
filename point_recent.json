@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T19:55:57",
+  "updatedAt": "2026-10-22T19:56:19",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Gorillaz",
+    "title": "Orange County",
+    "album": "The Mountain • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:56 pm",
-      "artist": "Gorillaz",
-      "title": "Orange County"
-    },
     {
       "time": "7:59 pm",
       "artist": "Westside Cowboy",
@@ -21,9 +16,20 @@
       "time": "8:02 pm",
       "artist": "Interpol",
       "title": "Wings On Fire"
+    },
+    {
+      "time": "8:07 pm",
+      "artist": "Iron & Wine",
+      "title": "Tree by the River"
     }
   ],
   "recent": [
+    {
+      "time": "7:56 pm",
+      "artist": "Gorillaz",
+      "title": "Orange County",
+      "album": "The Mountain • 2026"
+    },
     {
       "time": "7:51 pm",
       "artist": "@",
@@ -167,12 +173,6 @@
       "artist": "LCD Soundsystem",
       "title": "Dance Yrself Clean",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "6:07 pm",
-      "artist": "CHVRCHES",
-      "title": "Roses",
-      "album": "• 2026"
     }
   ]
 }
