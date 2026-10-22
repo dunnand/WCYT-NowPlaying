@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T10:51:47",
+  "updatedAt": "2026-10-22T10:51:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Hotel Yorba",
+    "album": "White Blood Cells • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:51 am",
-      "artist": "The White Stripes",
-      "title": "Hotel Yorba"
-    },
     {
       "time": "10:54 am",
       "artist": "Sigur Ros",
@@ -26,9 +21,20 @@
       "time": "11:04 am",
       "artist": "Ani DiFranco",
       "title": "32 Flavors"
+    },
+    {
+      "time": "11:10 am",
+      "artist": "Catherine Wheel",
+      "title": "Crank"
     }
   ],
   "recent": [
+    {
+      "time": "10:51 am",
+      "artist": "The White Stripes",
+      "title": "Hotel Yorba",
+      "album": "White Blood Cells • 2002"
+    },
     {
       "time": "10:46 am",
       "artist": "Dawes",
@@ -172,12 +178,6 @@
       "artist": "Dire Straits",
       "title": "Romeo and Juliet",
       "album": "Making Movies • 1980"
-    },
-    {
-      "time": "9:14 am",
-      "artist": "Culture Club",
-      "title": "Karma Chameleon",
-      "album": "Colour by Numbers • 1983"
     }
   ]
 }
