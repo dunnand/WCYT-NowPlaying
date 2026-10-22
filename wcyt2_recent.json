@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T06:14:51",
+  "updatedAt": "2026-10-22T06:17:46",
   "now": {
-    "artist": "System of a Down",
-    "title": "Lonely Day",
-    "album": "Hypnotize • 2005",
+    "artist": "Bill Withers",
+    "title": "Ain't No Sunshine",
+    "album": "Just As I Am • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:17 am",
-      "artist": "Bill Withers",
-      "title": "Ain't No Sunshine"
-    },
     {
       "time": "6:19 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "6:28 am",
       "artist": "Eric Clapton",
       "title": "After Midnight"
+    },
+    {
+      "time": "6:31 am",
+      "artist": "A Tribe Called Quest",
+      "title": "I Left My Wallet in El Segundo"
     }
   ],
   "recent": [
+    {
+      "time": "6:17 am",
+      "artist": "Bill Withers",
+      "title": "Ain't No Sunshine",
+      "album": "Just As I Am • 1971"
+    },
     {
       "time": "6:14 am",
       "artist": "System of a Down",
@@ -172,12 +178,6 @@
       "artist": "Rascal Flatts",
       "title": "Life is a Highway",
       "album": "Cars soundtrack • 2006"
-    },
-    {
-      "time": "4:45 am",
-      "artist": "Don Gibson",
-      "title": "Oh Lonesome Me",
-      "album": "Oh Lonesome Me • 1958"
     }
   ]
 }
