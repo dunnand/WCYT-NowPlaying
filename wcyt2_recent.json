@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T00:41:22",
+  "updatedAt": "2026-10-22T00:41:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Hollywood Nights",
+    "album": "Stranger in Town • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:41 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Hollywood Nights"
-    },
     {
       "time": "12:46 am",
       "artist": "The Spinners",
@@ -26,9 +21,20 @@
       "time": "12:53 am",
       "artist": "Tommy Roe",
       "title": "Dizzy"
+    },
+    {
+      "time": "12:55 am",
+      "artist": "Steely Dan",
+      "title": "Josie"
     }
   ],
   "recent": [
+    {
+      "time": "12:41 am",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Hollywood Nights",
+      "album": "Stranger in Town • 1978"
+    },
     {
       "time": "12:35 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Everything Hits at Once",
       "album": "Girls Can Tell • 2001"
-    },
-    {
-      "time": "10:58 pm",
-      "artist": "The Waterboys",
-      "title": "You in the Sky",
-      "album": "Book of Lightning • 2007"
     }
   ]
 }
