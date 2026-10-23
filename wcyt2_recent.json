@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T18:59:49",
+  "updatedAt": "2026-10-23T19:03:33",
   "now": {
-    "artist": "R.E.M.",
-    "title": "Shiny Happy People",
-    "album": "Out of Time • 1991",
+    "artist": "Ritchie Valens",
+    "title": "Donna",
+    "album": "Ritchie Valens • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:03 pm",
-      "artist": "Ritchie Valens",
-      "title": "Donna"
-    },
     {
       "time": "7:05 pm",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "7:12 pm",
       "artist": "Bruno Mars",
       "title": "Just the Way You Are"
+    },
+    {
+      "time": "7:16 pm",
+      "artist": "The Magnetic Fields",
+      "title": "Papa Was a Rodeo"
     }
   ],
   "recent": [
+    {
+      "time": "7:03 pm",
+      "artist": "Ritchie Valens",
+      "title": "Donna",
+      "album": "Ritchie Valens • 1959"
+    },
     {
       "time": "6:59 pm",
       "artist": "R.E.M.",
@@ -172,12 +178,6 @@
       "artist": "The Stone Roses",
       "title": "I Am The Resurrection",
       "album": "single • 1989"
-    },
-    {
-      "time": "5:24 pm",
-      "artist": "Modest Mouse",
-      "title": "Other People's Lives",
-      "album": "Building Nothing Out of Something • 1999"
     }
   ]
 }
