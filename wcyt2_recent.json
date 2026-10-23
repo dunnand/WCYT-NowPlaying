@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T07:11:11",
+  "updatedAt": "2026-10-23T07:11:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "You've Got A Friend",
+    "album": "Mud Slide Slim and the Blue Horizon • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:11 am",
-      "artist": "James Taylor",
-      "title": "You've Got A Friend"
-    },
     {
       "time": "7:16 am",
       "artist": "Jim Croce",
@@ -26,9 +21,20 @@
       "time": "7:23 am",
       "artist": "The Monks",
       "title": "Monk Time"
+    },
+    {
+      "time": "7:25 am",
+      "artist": "John Denver",
+      "title": "Thank God I'm A Country Boy"
     }
   ],
   "recent": [
+    {
+      "time": "7:11 am",
+      "artist": "James Taylor",
+      "title": "You've Got A Friend",
+      "album": "Mud Slide Slim and the Blue Horizon • 1971"
+    },
     {
       "time": "7:08 am",
       "artist": "Kacey Musgraves",
@@ -172,12 +178,6 @@
       "artist": "Bobby Darin",
       "title": "Splish Splash",
       "album": "Bobby Darin • 1958"
-    },
-    {
-      "time": "5:39 am",
-      "artist": "The Magnetic Fields",
-      "title": "The One You Really Love",
-      "album": "69 Love Songs • 1999"
     }
   ]
 }
