@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T09:29:37",
+  "updatedAt": "2026-10-23T09:32:39",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Domino",
-    "album": "His Band and the Street Choir • 1971",
+    "artist": "Nirvana",
+    "title": "Aneurysm",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:32 am",
-      "artist": "Nirvana",
-      "title": "Aneurysm"
-    },
     {
       "time": "9:37 am",
       "artist": "Connie Francis",
@@ -26,9 +21,20 @@
       "time": "9:42 am",
       "artist": "The Lovin' Spoonful",
       "title": "Summer in the City"
+    },
+    {
+      "time": "9:44 am",
+      "artist": "Ed Sheeran",
+      "title": "Shape of You"
     }
   ],
   "recent": [
+    {
+      "time": "9:32 am",
+      "artist": "Nirvana",
+      "title": "Aneurysm",
+      "album": ""
+    },
     {
       "time": "9:29 am",
       "artist": "Van Morrison",
@@ -171,12 +177,6 @@
       "time": "7:55 am",
       "artist": "Soul Coughing",
       "title": "Super Bon Bon",
-      "album": ""
-    },
-    {
-      "time": "7:51 am",
-      "artist": "Enigma",
-      "title": "Return To Innocence",
       "album": ""
     }
   ]
