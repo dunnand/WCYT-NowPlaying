@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T14:19:24",
+  "updatedAt": "2026-10-23T14:19:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "Let's Go",
+    "album": "Candy-O • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:19 pm",
-      "artist": "The Cars",
-      "title": "Let's Go"
-    },
     {
       "time": "2:22 pm",
       "artist": "? & The Mysterians",
@@ -26,9 +21,20 @@
       "time": "2:32 pm",
       "artist": "Smokey Robinson & The Miracles",
       "title": "Shop Around"
+    },
+    {
+      "time": "2:35 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Livin' Thing"
     }
   ],
   "recent": [
+    {
+      "time": "2:19 pm",
+      "artist": "The Cars",
+      "title": "Let's Go",
+      "album": "Candy-O • 1979"
+    },
     {
       "time": "2:15 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Platters",
       "title": "Only You (And You Alone)",
       "album": "Only You • 1955"
-    },
-    {
-      "time": "12:40 pm",
-      "artist": "Nada Surf",
-      "title": "Popular",
-      "album": ""
     }
   ]
 }
