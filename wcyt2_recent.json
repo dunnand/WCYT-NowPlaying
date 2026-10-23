@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T11:20:52",
+  "updatedAt": "2026-10-23T11:21:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eagles",
+    "title": "Take It Easy",
+    "album": "Eagles • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:21 am",
-      "artist": "Eagles",
-      "title": "Take It Easy"
-    },
     {
       "time": "11:24 am",
       "artist": "The Hollies",
@@ -31,9 +26,20 @@
       "time": "11:38 am",
       "artist": "Dell",
       "title": "Vikings - Come Go With Me"
+    },
+    {
+      "time": "11:40 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Maps"
     }
   ],
   "recent": [
+    {
+      "time": "11:21 am",
+      "artist": "Eagles",
+      "title": "Take It Easy",
+      "album": "Eagles • 1972"
+    },
     {
       "time": "11:18 am",
       "artist": "The Zombies",
@@ -177,12 +183,6 @@
       "artist": "The Lovin' Spoonful",
       "title": "Summer in the City",
       "album": "Hums of the Lovin' Spoonful • 1966"
-    },
-    {
-      "time": "9:39 am",
-      "artist": "Sufjan Stevens",
-      "title": "The Dress Looks Nice on You",
-      "album": "Seven Swans • 2004"
     }
   ]
 }
