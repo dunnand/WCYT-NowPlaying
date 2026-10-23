@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T06:46:14",
+  "updatedAt": "2026-10-23T06:46:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Buena Vista Social Club",
+    "title": "Chan Chan",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:46 am",
-      "artist": "Buena Vista Social Club",
-      "title": "Chan Chan"
-    },
     {
       "time": "6:50 am",
       "artist": "Ministry",
@@ -26,9 +21,20 @@
       "time": "7:04 am",
       "artist": "Blondie",
       "title": "The Tide Is High"
+    },
+    {
+      "time": "7:08 am",
+      "artist": "Kacey Musgraves",
+      "title": "Jade Green"
     }
   ],
   "recent": [
+    {
+      "time": "6:46 am",
+      "artist": "Buena Vista Social Club",
+      "title": "Chan Chan",
+      "album": ""
+    },
     {
       "time": "6:42 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "ABBA",
       "title": "SOS",
       "album": "ABBA • 1975"
-    },
-    {
-      "time": "5:19 am",
-      "artist": "Train",
-      "title": "Drops Of Jupiter (Tell Me)",
-      "album": "Drops of Jupiter • 2001"
     }
   ]
 }
