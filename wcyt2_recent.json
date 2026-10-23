@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T05:02:24",
+  "updatedAt": "2026-10-23T05:02:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Portishead",
+    "title": "Sour Times",
+    "album": "Dummy • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:02 am",
-      "artist": "Portishead",
-      "title": "Sour Times"
-    },
     {
       "time": "5:06 am",
       "artist": "Phil Collins",
@@ -26,9 +21,20 @@
       "time": "5:16 am",
       "artist": "Chappell Roan",
       "title": "HOT TO GO!"
+    },
+    {
+      "time": "5:19 am",
+      "artist": "Train",
+      "title": "Drops Of Jupiter (Tell Me)"
     }
   ],
   "recent": [
+    {
+      "time": "5:02 am",
+      "artist": "Portishead",
+      "title": "Sour Times",
+      "album": "Dummy • 1994"
+    },
     {
       "time": "4:57 am",
       "artist": "Blur",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "Say Yes! to M!ch!gan!",
       "album": "Michigan • 2003"
-    },
-    {
-      "time": "3:31 am",
-      "artist": "The Guess Who",
-      "title": "American Woman",
-      "album": "American Woman • 1970"
     }
   ]
 }
