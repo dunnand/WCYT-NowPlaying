@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T00:58:25",
+  "updatedAt": "2026-10-23T01:01:18",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "You've Passed",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "The Fleetwoods",
+    "title": "Mr. Blue",
+    "album": "Mr. Blue • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "The Fleetwoods",
-      "title": "Mr. Blue"
-    },
     {
       "time": "1:03 am",
       "artist": "Songs Ohia",
@@ -26,9 +21,20 @@
       "time": "1:11 am",
       "artist": "David Guetta",
       "title": "Play Hard Feat. Ne-Yo & Akon"
+    },
+    {
+      "time": "1:15 am",
+      "artist": "Elliott Smith",
+      "title": "Speed Trials"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue",
+      "album": "Mr. Blue • 1959"
+    },
     {
       "time": "12:58 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "Hardest Button To Button",
       "album": "Elephant • 2003"
-    },
-    {
-      "time": "11:28 pm",
-      "artist": "Lloyd Price",
-      "title": "Personality",
-      "album": "Mr. Personality • 1959"
     }
   ]
 }
