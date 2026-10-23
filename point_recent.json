@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T09:35:21",
+  "updatedAt": "2026-10-23T09:35:43",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
+    "artist": "Black Mariah",
+    "title": "Bubblewrap",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 am",
-      "artist": "Black Mariah",
-      "title": "Bubblewrap"
-    },
     {
       "time": "9:39 am",
       "artist": "The War on Drugs",
@@ -26,9 +21,20 @@
       "time": "9:49 am",
       "artist": "Gorillaz",
       "title": "Delirium"
+    },
+    {
+      "time": "9:53 am",
+      "artist": "Cocteau Twins",
+      "title": "Ivo"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 am",
+      "artist": "Black Mariah",
+      "title": "Bubblewrap",
+      "album": ""
+    },
     {
       "time": "9:32 am",
       "artist": "Cheekface",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "Ohm",
       "album": "Fade • 2013"
-    },
-    {
-      "time": "8:03 am",
-      "artist": "Fontaines D.C.",
-      "title": "Big",
-      "album": "Dogrel • 2019"
     }
   ]
 }
