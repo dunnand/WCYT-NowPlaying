@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T20:55:35",
+  "updatedAt": "2026-10-22T20:59:40",
   "now": {
-    "artist": "Rihanna",
-    "title": "Pon de Replay",
-    "album": "Music of the Sun • 2005",
-    "category": "AUDIO"
+    "artist": "Ween",
+    "title": "Tried and True",
+    "album": "Quebec • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:59 pm",
-      "artist": "Ween",
-      "title": "Tried and True"
-    },
     {
       "time": "9:03 pm",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "9:11 pm",
       "artist": "Sister Hazel",
       "title": "All For You"
+    },
+    {
+      "time": "9:14 pm",
+      "artist": "Madness",
+      "title": "Baggy Trousers"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 pm",
+      "artist": "Ween",
+      "title": "Tried and True",
+      "album": "Quebec • 2003"
+    },
     {
       "time": "8:55 pm",
       "artist": "Rihanna",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "There'd Better Be A Mirrorball",
       "album": "The Car • 2022"
-    },
-    {
-      "time": "7:27 pm",
-      "artist": "Julee Cruise",
-      "title": "Falling",
-      "album": "Floating Into the Night • 1989"
     }
   ]
 }
