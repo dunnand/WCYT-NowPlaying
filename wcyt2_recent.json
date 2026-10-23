@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T19:47:48",
+  "updatedAt": "2026-10-23T19:50:23",
   "now": {
-    "artist": "Firefall",
-    "title": "You Are The Woman",
-    "album": "Firefall • 1976",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Coming Up Roses",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:50 pm",
-      "artist": "Elliott Smith",
-      "title": "Coming Up Roses"
-    },
     {
       "time": "7:53 pm",
       "artist": "Tommy Edwards",
@@ -21,9 +16,20 @@
       "time": "7:56 pm",
       "artist": "Yo La Tengo",
       "title": "Last Days of Disco"
+    },
+    {
+      "time": "8:02 pm",
+      "artist": "The Groop",
+      "title": "Woman You're Breaking Me"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 pm",
+      "artist": "Elliott Smith",
+      "title": "Coming Up Roses",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "7:47 pm",
       "artist": "Firefall",
@@ -167,12 +173,6 @@
       "artist": "Tina Turner",
       "title": "I Don't Wanna Fight",
       "album": "What's Love Got to Do with It • 1993"
-    },
-    {
-      "time": "6:22 pm",
-      "artist": "Shania Twain",
-      "title": "You've Got A Way",
-      "album": "Come On Over • 1999"
     }
   ]
 }
