@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T12:58:25",
+  "updatedAt": "2026-10-23T12:58:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Weezer",
+    "title": "Only in Dreams",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:58 pm",
-      "artist": "Weezer",
-      "title": "Only in Dreams"
-    },
     {
       "time": "1:06 pm",
       "artist": "TLC",
@@ -26,9 +21,20 @@
       "time": "1:15 pm",
       "artist": "J. Geils Band",
       "title": "Freeze-Frame"
+    },
+    {
+      "time": "1:19 pm",
+      "artist": "Childish Gambino",
+      "title": "19.10"
     }
   ],
   "recent": [
+    {
+      "time": "12:58 pm",
+      "artist": "Weezer",
+      "title": "Only in Dreams",
+      "album": ""
+    },
     {
       "time": "12:54 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "The Zombies",
       "title": "She's Not There",
       "album": "Begin Here • 1964"
-    },
-    {
-      "time": "11:08 am",
-      "artist": "Neu!",
-      "title": "Hallogallo",
-      "album": "Neu! • 1972"
     }
   ]
 }
