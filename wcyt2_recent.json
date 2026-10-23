@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T11:08:30",
+  "updatedAt": "2026-10-23T11:08:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neu!",
+    "title": "Hallogallo",
+    "album": "Neu! • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:08 am",
-      "artist": "Neu!",
-      "title": "Hallogallo"
-    },
     {
       "time": "11:18 am",
       "artist": "The Zombies",
@@ -26,9 +21,20 @@
       "time": "11:24 am",
       "artist": "The Hollies",
       "title": "Bus Stop"
+    },
+    {
+      "time": "11:27 am",
+      "artist": "Faust",
+      "title": "It's A Rainy Day Sunshine Girl"
     }
   ],
   "recent": [
+    {
+      "time": "11:08 am",
+      "artist": "Neu!",
+      "title": "Hallogallo",
+      "album": "Neu! • 1972"
+    },
     {
       "time": "11:05 am",
       "artist": "Lizzo",
@@ -172,12 +178,6 @@
       "artist": "Connie Francis",
       "title": "Who's Sorry Now",
       "album": "Who's Sorry Now? • 1958"
-    },
-    {
-      "time": "9:32 am",
-      "artist": "Nirvana",
-      "title": "Aneurysm",
-      "album": ""
     }
   ]
 }
