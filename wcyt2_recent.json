@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T23:40:15",
+  "updatedAt": "2026-10-22T23:40:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Shania Twain",
+    "title": "You've Got A Way",
+    "album": "Come On Over • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 pm",
-      "artist": "Shania Twain",
-      "title": "You've Got A Way"
-    },
     {
       "time": "11:43 pm",
       "artist": "Tina Turner",
@@ -26,9 +21,20 @@
       "time": "11:51 pm",
       "artist": "Van Halen",
       "title": "I'll Wait"
+    },
+    {
+      "time": "11:56 pm",
+      "artist": "Maggie Rogers",
+      "title": "That's Where I Am"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 pm",
+      "artist": "Shania Twain",
+      "title": "You've Got A Way",
+      "album": "Come On Over • 1999"
+    },
     {
       "time": "11:37 pm",
       "artist": "Brittany Howard",
@@ -172,12 +178,6 @@
       "artist": "Stevie Wonder",
       "title": "Sir Duke",
       "album": "Songs in the Key of Life • 1977"
-    },
-    {
-      "time": "10:03 pm",
-      "artist": "Lil Nas X",
-      "title": "MONTERO (Call Me By Your Name)",
-      "album": "Montero • 2021"
     }
   ]
 }
