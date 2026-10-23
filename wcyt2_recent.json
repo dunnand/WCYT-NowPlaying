@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T15:45:34",
+  "updatedAt": "2026-10-23T15:45:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Byrne",
+    "title": "Everybody's Coming to My House",
+    "album": "American Utopia • 2018",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:45 pm",
-      "artist": "David Byrne",
-      "title": "Everybody's Coming to My House"
-    },
     {
       "time": "3:49 pm",
       "artist": "Vertical Horizon",
@@ -26,9 +21,20 @@
       "time": "3:56 pm",
       "artist": "Madness",
       "title": "Baggy Trousers"
+    },
+    {
+      "time": "3:59 pm",
+      "artist": "Missing Persons",
+      "title": "Destination Unknown"
     }
   ],
   "recent": [
+    {
+      "time": "3:45 pm",
+      "artist": "David Byrne",
+      "title": "Everybody's Coming to My House",
+      "album": "American Utopia • 2018"
+    },
     {
       "time": "3:41 pm",
       "artist": "Ween",
@@ -172,12 +178,6 @@
       "artist": "The Cars",
       "title": "Let's Go",
       "album": "Candy-O • 1979"
-    },
-    {
-      "time": "2:15 pm",
-      "artist": "Arctic Monkeys",
-      "title": "There'd Better Be A Mirrorball",
-      "album": "The Car • 2022"
     }
   ]
 }
