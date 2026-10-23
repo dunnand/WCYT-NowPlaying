@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T21:31:06",
+  "updatedAt": "2026-10-22T21:31:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Goodbye Yellow Brick Road",
+    "album": "Goodbye Yellow Brick Road • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:31 pm",
-      "artist": "Elton John",
-      "title": "Goodbye Yellow Brick Road"
-    },
     {
       "time": "9:34 pm",
       "artist": "Van Morrison",
@@ -31,9 +26,20 @@
       "time": "9:51 pm",
       "artist": "Eric's Trip",
       "title": "Behind The Garage"
+    },
+    {
+      "time": "9:54 pm",
+      "artist": "The La's",
+      "title": "There She Goes"
     }
   ],
   "recent": [
+    {
+      "time": "9:31 pm",
+      "artist": "Elton John",
+      "title": "Goodbye Yellow Brick Road",
+      "album": "Goodbye Yellow Brick Road • 1973"
+    },
     {
       "time": "9:28 pm",
       "artist": "The Staple Singers",
@@ -177,12 +183,6 @@
       "artist": "The Zombies",
       "title": "This Will Be Our Year",
       "album": "Odessey and Oracle • 1968"
-    },
-    {
-      "time": "8:01 pm",
-      "artist": "Uncle Kracker",
-      "title": "Follow Me",
-      "album": "Double Wide • 2000"
     }
   ]
 }
