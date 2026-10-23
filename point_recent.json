@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T01:35:01",
+  "updatedAt": "2026-10-23T01:35:23",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Snail Mail",
+    "title": "Light on Our Feet",
+    "album": "Ricochet • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 am",
-      "artist": "Snail Mail",
-      "title": "Light on Our Feet"
-    },
     {
       "time": "1:39 am",
       "artist": "Ty Segall",
@@ -26,9 +21,20 @@
       "time": "1:47 am",
       "artist": "Cheekface",
       "title": "There Is A God"
+    },
+    {
+      "time": "1:51 am",
+      "artist": "Ora The Molecule",
+      "title": "Intergalactic Dance"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 am",
+      "artist": "Snail Mail",
+      "title": "Light on Our Feet",
+      "album": "Ricochet • 2026"
+    },
     {
       "time": "1:31 am",
       "artist": "TV Star",
@@ -172,12 +178,6 @@
       "artist": "Tame Impala",
       "title": "New Person, Same Old Mistakes",
       "album": "Currents • 2015"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Big Thief",
-      "title": "Shoulders",
-      "album": "Two Hands • 2019"
     }
   ]
 }
