@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T12:40:50",
+  "updatedAt": "2026-10-23T12:44:25",
   "now": {
-    "artist": "Nada Surf",
-    "title": "Popular",
-    "album": "",
+    "artist": "Platters",
+    "title": "Only You (And You Alone)",
+    "album": "Only You • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:44 pm",
-      "artist": "Platters",
-      "title": "Only You (And You Alone)"
-    },
     {
       "time": "12:47 pm",
       "artist": "Yo La Tengo",
@@ -21,9 +16,20 @@
       "time": "12:51 pm",
       "artist": "Yardbirds",
       "title": "For Your Love"
+    },
+    {
+      "time": "12:54 pm",
+      "artist": "Bruno Mars",
+      "title": "It Will Rain"
     }
   ],
   "recent": [
+    {
+      "time": "12:44 pm",
+      "artist": "Platters",
+      "title": "Only You (And You Alone)",
+      "album": "Only You • 1955"
+    },
     {
       "time": "12:40 pm",
       "artist": "Nada Surf",
@@ -167,12 +173,6 @@
       "artist": "EPMD",
       "title": "You Gots To Chill",
       "album": "Strictly Business • 1988"
-    },
-    {
-      "time": "10:52 am",
-      "artist": "Catherine Wheel",
-      "title": "Crank",
-      "album": ""
     }
   ]
 }
