@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T23:47:59",
+  "updatedAt": "2026-10-22T23:48:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Toto",
+    "title": "99",
+    "album": "Hydra • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:48 pm",
-      "artist": "Toto",
-      "title": "99"
-    },
     {
       "time": "11:51 pm",
       "artist": "Van Halen",
@@ -26,9 +21,20 @@
       "time": "12:00 am",
       "artist": "Looking Glass",
       "title": "Brandy (You're A Fine Girl)"
+    },
+    {
+      "time": "12:03 am",
+      "artist": "Gladys Knight & The Pips",
+      "title": "Midnight Train to Georgia"
     }
   ],
   "recent": [
+    {
+      "time": "11:48 pm",
+      "artist": "Toto",
+      "title": "99",
+      "album": "Hydra • 1980"
+    },
     {
       "time": "11:43 pm",
       "artist": "Tina Turner",
@@ -172,12 +178,6 @@
       "artist": "Mungo Jerry",
       "title": "In the Summertime",
       "album": "In the Summertime • 1970"
-    },
-    {
-      "time": "10:09 pm",
-      "artist": "Big Brother & The Holding Company",
-      "title": "Piece of My Heart",
-      "album": "Cheap Thrills • 1968"
     }
   ]
 }
