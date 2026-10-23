@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T22:17:28",
+  "updatedAt": "2026-10-22T22:19:31",
   "now": {
-    "artist": "Tommy Roe",
-    "title": "Sweet Pea",
-    "album": "Sweet Pea • 1966",
+    "artist": "Queen",
+    "title": "A Kind of Magic",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:19 pm",
-      "artist": "Queen",
-      "title": "A Kind of Magic"
-    },
     {
       "time": "10:23 pm",
       "artist": "The Flaming Lips",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:19 pm",
+      "artist": "Queen",
+      "title": "A Kind of Magic",
+      "album": ""
+    },
     {
       "time": "10:17 pm",
       "artist": "Tommy Roe",
@@ -172,12 +173,6 @@
       "artist": "DJ Shadow",
       "title": "Rocket Fuel (Feat. De La Soul)",
       "album": "Our Pathetic Age • 2019"
-    },
-    {
-      "time": "8:45 pm",
-      "artist": "Stardust",
-      "title": "Music Sounds Better With You",
-      "album": "Single • 1998"
     }
   ]
 }
