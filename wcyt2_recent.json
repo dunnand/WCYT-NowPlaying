@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T13:24:27",
+  "updatedAt": "2026-10-23T13:31:47",
   "now": {
-    "artist": "Grace Jones",
-    "title": "La vie en rose",
-    "album": "Portfolio • 1977",
+    "artist": "The Beach Boys",
+    "title": "A Day in the Life of a Tree",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:31 pm",
-      "artist": "The Beach Boys",
-      "title": "A Day in the Life of a Tree"
-    },
     {
       "time": "1:34 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "1:39 pm",
       "artist": "Blondie",
       "title": "Dreaming"
+    },
+    {
+      "time": "1:42 pm",
+      "artist": "Beck",
+      "title": "Sexx Laws"
     }
   ],
   "recent": [
+    {
+      "time": "1:31 pm",
+      "artist": "The Beach Boys",
+      "title": "A Day in the Life of a Tree",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "1:24 pm",
       "artist": "Grace Jones",
@@ -172,12 +178,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Maps",
       "album": "Fever To Tell • 2003"
-    },
-    {
-      "time": "11:38 am",
-      "artist": "Dell-Vikings",
-      "title": "Come Go With Me",
-      "album": "Come Go With the Del-Vikings • 1957"
     }
   ]
 }
