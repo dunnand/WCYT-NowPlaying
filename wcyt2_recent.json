@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T12:58:37",
+  "updatedAt": "2026-10-23T13:06:29",
   "now": {
-    "artist": "Weezer",
-    "title": "Only in Dreams",
+    "artist": "TLC",
+    "title": "Creep",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:06 pm",
-      "artist": "TLC",
-      "title": "Creep"
-    },
     {
       "time": "1:11 pm",
       "artist": "Jackson Browne",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:06 pm",
+      "artist": "TLC",
+      "title": "Creep",
+      "album": ""
+    },
     {
       "time": "12:58 pm",
       "artist": "Weezer",
@@ -172,12 +173,6 @@
       "artist": "Eagles",
       "title": "Take It Easy",
       "album": "Eagles • 1972"
-    },
-    {
-      "time": "11:18 am",
-      "artist": "The Zombies",
-      "title": "She's Not There",
-      "album": "Begin Here • 1964"
     }
   ]
 }
