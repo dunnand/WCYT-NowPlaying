@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T21:31:18",
+  "updatedAt": "2026-10-22T21:34:22",
   "now": {
-    "artist": "Elton John",
-    "title": "Goodbye Yellow Brick Road",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "Van Morrison",
+    "title": "Madame George",
+    "album": "Astral Weeks • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:34 pm",
-      "artist": "Van Morrison",
-      "title": "Madame George"
-    },
     {
       "time": "9:43 pm",
       "artist": "Bee Gees",
@@ -31,9 +26,20 @@
       "time": "9:54 pm",
       "artist": "The La's",
       "title": "There She Goes"
+    },
+    {
+      "time": "9:57 pm",
+      "artist": "The Sugarcubes",
+      "title": "Birthday"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 pm",
+      "artist": "Van Morrison",
+      "title": "Madame George",
+      "album": "Astral Weeks • 1968"
+    },
     {
       "time": "9:31 pm",
       "artist": "Elton John",
@@ -177,12 +183,6 @@
       "artist": "Foals",
       "title": "Mountain at My Gates",
       "album": "What Went Down • 2015"
-    },
-    {
-      "time": "8:05 pm",
-      "artist": "The Zombies",
-      "title": "This Will Be Our Year",
-      "album": "Odessey and Oracle • 1968"
     }
   ]
 }
