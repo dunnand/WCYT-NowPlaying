@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T02:56:25",
+  "updatedAt": "2026-10-23T02:59:00",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Rock & Roll Music",
-    "album": "One Dozen Berrys • 1958",
-    "category": "AUDIO"
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Y Control",
+    "album": "Fever To Tell • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:58 am",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Y Control"
-    },
     {
       "time": "3:03 am",
       "artist": "The Who",
@@ -21,9 +16,20 @@
       "time": "3:06 am",
       "artist": "BADBADNOTGOOD",
       "title": "Speaking Gently"
+    },
+    {
+      "time": "3:10 am",
+      "artist": "Ride",
+      "title": "Kaleidoscope"
     }
   ],
   "recent": [
+    {
+      "time": "2:59 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Y Control",
+      "album": "Fever To Tell • 2003"
+    },
     {
       "time": "2:56 am",
       "artist": "Chuck Berry",
@@ -167,12 +173,6 @@
       "artist": "Madonna",
       "title": "Lucky Star",
       "album": "Madonna • 1983"
-    },
-    {
-      "time": "1:18 am",
-      "artist": "The Flaming Lips",
-      "title": "Buggin'",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
