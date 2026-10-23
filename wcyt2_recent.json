@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T18:22:34",
+  "updatedAt": "2026-10-23T18:25:46",
   "now": {
-    "artist": "Shania Twain",
-    "title": "You've Got A Way",
-    "album": "Come On Over • 1999",
+    "artist": "Tina Turner",
+    "title": "I Don't Wanna Fight",
+    "album": "What's Love Got to Do with It • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:25 pm",
-      "artist": "Tina Turner",
-      "title": "I Don't Wanna Fight"
-    },
     {
       "time": "6:30 pm",
       "artist": "Toto",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:25 pm",
+      "artist": "Tina Turner",
+      "title": "I Don't Wanna Fight",
+      "album": "What's Love Got to Do with It • 1993"
+    },
     {
       "time": "6:22 pm",
       "artist": "Shania Twain",
@@ -172,12 +173,6 @@
       "artist": "Big Brother & The Holding Company",
       "title": "Piece of My Heart",
       "album": "Cheap Thrills • 1968"
-    },
-    {
-      "time": "4:47 pm",
-      "artist": "Stevie Wonder",
-      "title": "Sir Duke",
-      "album": "Songs in the Key of Life • 1977"
     }
   ]
 }
