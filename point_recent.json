@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T09:53:12",
+  "updatedAt": "2026-10-23T09:53:34",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Cocteau Twins",
+    "title": "Ivo",
+    "album": "Treasure • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:53 am",
-      "artist": "Cocteau Twins",
-      "title": "Ivo"
-    },
     {
       "time": "9:57 am",
       "artist": "Cocteau Twins",
@@ -26,9 +21,20 @@
       "time": "10:03 am",
       "artist": "@",
       "title": "Autosmile"
+    },
+    {
+      "time": "10:07 am",
+      "artist": "Son Little",
+      "title": "In Orbit"
     }
   ],
   "recent": [
+    {
+      "time": "9:53 am",
+      "artist": "Cocteau Twins",
+      "title": "Ivo",
+      "album": "Treasure • 1984"
+    },
     {
       "time": "9:49 am",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "Mitski",
       "title": "Happy",
       "album": "Puberty 2 • 2016"
-    },
-    {
-      "time": "8:17 am",
-      "artist": "The National",
-      "title": "Eucalyptus",
-      "album": "First Two Pages Of Frankenstein • 2023"
     }
   ]
 }
