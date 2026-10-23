@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-22T20:25:13",
+  "updatedAt": "2026-10-22T20:25:35",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Babehoven",
+    "title": "Blue Around You",
+    "album": "I See Them, I See Me • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:25 pm",
-      "artist": "Babehoven",
-      "title": "Blue Around You"
-    },
     {
       "time": "8:29 pm",
       "artist": "The Antlers",
@@ -26,9 +21,20 @@
       "time": "8:37 pm",
       "artist": "Phoebe Bridgers",
       "title": "Liberty Tree"
+    },
+    {
+      "time": "8:40 pm",
+      "artist": "Whitney",
+      "title": "FTA"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 pm",
+      "artist": "Babehoven",
+      "title": "Blue Around You",
+      "album": "I See Them, I See Me • 2026"
+    },
     {
       "time": "8:22 pm",
       "artist": "The Avalanches",
@@ -172,12 +178,6 @@
       "artist": "Victoryland",
       "title": "The Ugliest Girl On The Beach",
       "album": "My Heart Is A Room With No Cameras In It • 2026"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "Sharp Pins",
-      "title": "It's A Mod Mod World",
-      "album": "Mod Mayday 23 • 2026"
     }
   ]
 }
