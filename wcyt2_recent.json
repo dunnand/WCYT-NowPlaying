@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-22T23:48:11",
+  "updatedAt": "2026-10-22T23:51:26",
   "now": {
-    "artist": "Toto",
-    "title": "99",
-    "album": "Hydra • 1980",
+    "artist": "Van Halen",
+    "title": "I'll Wait",
+    "album": "1984 • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:51 pm",
-      "artist": "Van Halen",
-      "title": "I'll Wait"
-    },
-    {
-      "time": "11:56 pm",
+      "time": "11:55 pm",
       "artist": "Maggie Rogers",
       "title": "That's Where I Am"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:51 pm",
+      "artist": "Van Halen",
+      "title": "I'll Wait",
+      "album": "1984 • 1984"
+    },
     {
       "time": "11:48 pm",
       "artist": "Toto",
@@ -172,12 +173,6 @@
       "artist": "Tommy Roe",
       "title": "Sweet Pea",
       "album": "Sweet Pea • 1966"
-    },
-    {
-      "time": "10:14 pm",
-      "artist": "Mungo Jerry",
-      "title": "In the Summertime",
-      "album": "In the Summertime • 1970"
     }
   ]
 }
