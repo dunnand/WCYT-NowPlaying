@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T22:31:31",
+  "updatedAt": "2026-10-23T22:35:27",
   "now": {
-    "artist": "Stephen Malkmus",
-    "title": "Jo Jo's Jacket",
-    "album": "Stephen Malkmus • 2001",
-    "category": "TUNES"
+    "artist": "Tommy James & The Shondells",
+    "title": "I Think We're Alone Now",
+    "album": "I Think We're Alone Now • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:35 pm",
-      "artist": "Tommy James & The Shondells",
-      "title": "I Think We're Alone Now"
-    },
     {
       "time": "10:37 pm",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "10:45 pm",
       "artist": "Ariana Grande",
       "title": "The Way"
+    },
+    {
+      "time": "10:49 pm",
+      "artist": "The Shins",
+      "title": "So Says I"
     }
   ],
   "recent": [
+    {
+      "time": "10:35 pm",
+      "artist": "Tommy James & The Shondells",
+      "title": "I Think We're Alone Now",
+      "album": "I Think We're Alone Now • 1967"
+    },
     {
       "time": "10:31 pm",
       "artist": "Stephen Malkmus",
@@ -172,12 +178,6 @@
       "artist": "Chance the Rapper",
       "title": "Do You Remember",
       "album": "Do You Remember • 2019"
-    },
-    {
-      "time": "9:01 pm",
-      "artist": "Sufjan Stevens",
-      "title": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
-      "album": "Michigan • 2003"
     }
   ]
 }
