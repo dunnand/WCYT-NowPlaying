@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T20:40:27",
+  "updatedAt": "2026-10-23T20:43:20",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Black Math",
-    "album": "Elephant • 2003",
-    "category": "TUNES"
+    "artist": "The Who",
+    "title": "I Can See For Miles",
+    "album": "The Who Sell Out • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:43 pm",
-      "artist": "The Who",
-      "title": "I Can See For Miles"
-    },
     {
       "time": "8:47 pm",
       "artist": "Maxine Nightingale",
@@ -26,9 +21,20 @@
       "time": "8:53 pm",
       "artist": "Coldplay",
       "title": "Princess of China"
+    },
+    {
+      "time": "8:57 pm",
+      "artist": "St. Vincent",
+      "title": "The Strangers"
     }
   ],
   "recent": [
+    {
+      "time": "8:43 pm",
+      "artist": "The Who",
+      "title": "I Can See For Miles",
+      "album": "The Who Sell Out • 1967"
+    },
     {
       "time": "8:40 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "Just the Way You Are",
       "album": "Doo-Wops & Hooligans • 2010"
-    },
-    {
-      "time": "7:10 pm",
-      "artist": "Wilson Pickett",
-      "title": "I'm in Love",
-      "album": "I'm In Love • 1968"
     }
   ]
 }
