@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T22:31:19",
+  "updatedAt": "2026-10-23T22:31:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Stephen Malkmus",
+    "title": "Jo Jo's Jacket",
+    "album": "Stephen Malkmus • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:31 pm",
-      "artist": "Stephen Malkmus",
-      "title": "Jo Jo's Jacket"
-    },
     {
       "time": "10:35 pm",
       "artist": "Tommy James & The Shondells",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:31 pm",
+      "artist": "Stephen Malkmus",
+      "title": "Jo Jo's Jacket",
+      "album": "Stephen Malkmus • 2001"
+    },
     {
       "time": "10:27 pm",
       "artist": "Rod Stewart",
@@ -177,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
       "album": "Michigan • 2003"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "St. Vincent",
-      "title": "The Strangers",
-      "album": "Actor • 2009"
     }
   ]
 }
