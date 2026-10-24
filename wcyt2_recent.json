@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T07:22:45",
+  "updatedAt": "2026-10-24T07:22:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "America",
+    "title": "A Horse With No Name",
+    "album": "America • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:22 am",
-      "artist": "America",
-      "title": "A Horse With No Name"
-    },
     {
       "time": "7:26 am",
       "artist": "Herman's Hermits",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:22 am",
+      "artist": "America",
+      "title": "A Horse With No Name",
+      "album": "America • 1971"
+    },
     {
       "time": "7:19 am",
       "artist": "Jefferson Airplane",
@@ -177,12 +178,6 @@
       "artist": "The Seeds",
       "title": "Pushin' Too Hard",
       "album": "The Seeds • 1966"
-    },
-    {
-      "time": "5:53 am",
-      "artist": "The Unicorns",
-      "title": "I Was Born (A Unicorn)",
-      "album": "Who Will Cut Our Hair When We're Gone • 2003"
     }
   ]
 }
