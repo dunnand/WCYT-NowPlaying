@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T22:37:30",
+  "updatedAt": "2026-10-23T22:42:27",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "It's Only Rock 'N Roll (But I Like It)",
-    "album": "Its Only Rock n Roll • 1974",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Unseen Power of the Picket Fence",
+    "album": "No Alternative • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:42 pm",
-      "artist": "Pavement",
-      "title": "Unseen Power of the Picket Fence"
-    },
     {
       "time": "10:45 pm",
       "artist": "Ariana Grande",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:42 pm",
+      "artist": "Pavement",
+      "title": "Unseen Power of the Picket Fence",
+      "album": "No Alternative • 1993"
+    },
     {
       "time": "10:37 pm",
       "artist": "Rolling Stones",
@@ -172,12 +173,6 @@
       "artist": "Sleater-Kinney",
       "title": "The Day I Went Away",
       "album": "Sleater Kinney • 1995"
-    },
-    {
-      "time": "9:09 pm",
-      "artist": "Green Day",
-      "title": "Pulling Teeth",
-      "album": "Dookie • 1994"
     }
   ]
 }
