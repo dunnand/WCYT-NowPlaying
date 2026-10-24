@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T10:01:35",
+  "updatedAt": "2026-10-24T10:05:42",
   "now": {
-    "artist": "Lionel Richie",
-    "title": "Hello",
-    "album": "Cant Slow Down • 1983",
+    "artist": "Haim",
+    "title": "I Know Alone",
+    "album": "Women in Music, Pt. III • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 am",
-      "artist": "Haim",
-      "title": "I Know Alone"
-    },
     {
       "time": "10:09 am",
       "artist": "Charlie Rich",
@@ -21,9 +16,20 @@
       "time": "10:12 am",
       "artist": "Drifters",
       "title": "This Magic Moment"
+    },
+    {
+      "time": "10:14 am",
+      "artist": "Cheap Trick",
+      "title": "I Want You to Want Me"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 am",
+      "artist": "Haim",
+      "title": "I Know Alone",
+      "album": "Women in Music, Pt. III • 2020"
+    },
     {
       "time": "10:01 am",
       "artist": "Lionel Richie",
@@ -167,12 +173,6 @@
       "artist": "U2",
       "title": "Mysterious Ways",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "8:31 am",
-      "artist": "Boston",
-      "title": "Don't Look Back",
-      "album": "Don’t Look Back • 1978"
     }
   ]
 }
