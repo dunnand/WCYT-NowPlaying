@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T09:03:46",
+  "updatedAt": "2026-10-24T09:03:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Parr",
+    "title": "St. Elmo's Fire (Man In Motion)",
+    "album": "John Parr • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:03 am",
-      "artist": "John Parr",
-      "title": "St. Elmo's Fire (Man In Motion)"
-    },
     {
       "time": "9:07 am",
       "artist": "Haim",
@@ -26,9 +21,20 @@
       "time": "9:14 am",
       "artist": "Bruce Springsteen",
       "title": "Born To Run"
+    },
+    {
+      "time": "9:19 am",
+      "artist": "U2",
+      "title": "All Because Of You"
     }
   ],
   "recent": [
+    {
+      "time": "9:03 am",
+      "artist": "John Parr",
+      "title": "St. Elmo's Fire (Man In Motion)",
+      "album": "John Parr • 1985"
+    },
     {
       "time": "8:59 am",
       "artist": "Genesis",
@@ -172,12 +178,6 @@
       "artist": "Bachman-Turner Overdrive",
       "title": "You Ain't Seen Nothing Yet",
       "album": "Not Fragile • 1974"
-    },
-    {
-      "time": "7:27 am",
-      "artist": "Herman's Hermits",
-      "title": "There's A Kind Of Hush (All Over The World)",
-      "album": "There's a Kind of Hush All Over the World • 1967"
     }
   ]
 }
