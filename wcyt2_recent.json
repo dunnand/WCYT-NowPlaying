@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T00:10:52",
+  "updatedAt": "2026-10-24T00:11:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Troggs",
+    "title": "Wild Thing",
+    "album": "Wild Thing • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 am",
-      "artist": "The Troggs",
-      "title": "Wild Thing"
-    },
     {
       "time": "12:13 am",
       "artist": "Eminem",
@@ -26,9 +21,20 @@
       "time": "12:20 am",
       "artist": "Elliott Smith",
       "title": "Bled White"
+    },
+    {
+      "time": "12:23 am",
+      "artist": "Jesse Johnson",
+      "title": "Get To Know Yah"
     }
   ],
   "recent": [
+    {
+      "time": "12:11 am",
+      "artist": "The Troggs",
+      "title": "Wild Thing",
+      "album": "Wild Thing • 1966"
+    },
     {
       "time": "12:03 am",
       "artist": "Sigur Ros",
@@ -172,12 +178,6 @@
       "artist": "Grateful Dead",
       "title": "China Cat Sunflower",
       "album": "Aoxomoxoa • 1969"
-    },
-    {
-      "time": "9:31 pm",
-      "artist": "LaBelle",
-      "title": "Lady Marmalade",
-      "album": "Nightbirds • 1974"
     }
   ]
 }
