@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T09:14:37",
+  "updatedAt": "2026-10-24T09:14:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "Born To Run",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 am",
-      "artist": "Bruce Springsteen",
-      "title": "Born To Run"
-    },
     {
       "time": "9:19 am",
       "artist": "U2",
@@ -31,9 +26,20 @@
       "time": "9:29 am",
       "artist": "Alanis Morissette",
       "title": "Hand In My Pocket"
+    },
+    {
+      "time": "9:32 am",
+      "artist": "Foals",
+      "title": "My Number"
     }
   ],
   "recent": [
+    {
+      "time": "9:14 am",
+      "artist": "Bruce Springsteen",
+      "title": "Born To Run",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "9:11 am",
       "artist": "The Dandy Warhols",
@@ -177,12 +183,6 @@
       "artist": "Songs Ohia",
       "title": "The Black Crow",
       "album": "The Lioness • 2000"
-    },
-    {
-      "time": "7:37 am",
-      "artist": "Ed Sheeran",
-      "title": "The A Team",
-      "album": "+ • 2011"
     }
   ]
 }
