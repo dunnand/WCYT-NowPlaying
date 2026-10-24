@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T00:20:28",
+  "updatedAt": "2026-10-24T00:20:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Bled White",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:20 am",
-      "artist": "Elliott Smith",
-      "title": "Bled White"
-    },
     {
       "time": "12:23 am",
       "artist": "Jesse Johnson",
@@ -26,9 +21,20 @@
       "time": "12:31 am",
       "artist": "Grimes",
       "title": "We Appreciate Power (feat. Hana)"
+    },
+    {
+      "time": "12:37 am",
+      "artist": "Spoon",
+      "title": "Don't Let It Get You Down"
     }
   ],
   "recent": [
+    {
+      "time": "12:20 am",
+      "artist": "Elliott Smith",
+      "title": "Bled White",
+      "album": "XO • 1998"
+    },
     {
       "time": "12:17 am",
       "artist": "Q Lazzarus",
@@ -172,12 +178,6 @@
       "artist": "Sister Rosetta Tharpe",
       "title": "Strange Things Happening Every Day",
       "album": "single • 1944"
-    },
-    {
-      "time": "9:42 pm",
-      "artist": "Yo La Tengo",
-      "title": "From a Motel 6",
-      "album": "Painful • 1993"
     }
   ]
 }
