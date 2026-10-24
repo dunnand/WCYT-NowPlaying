@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T06:50:42",
+  "updatedAt": "2026-10-24T06:54:30",
   "now": {
     "artist": "Radiohead",
-    "title": "Myxomatosis",
-    "album": "Hail to the Thief • 2003",
+    "title": "I Promise",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:54 am",
-      "artist": "Radiohead",
-      "title": "I Promise"
-    },
     {
       "time": "6:58 am",
       "artist": "SPIRIT OF THE BEEHIVE",
@@ -26,9 +21,20 @@
       "time": "7:04 am",
       "artist": "King Tuff",
       "title": "Landline"
+    },
+    {
+      "time": "7:07 am",
+      "artist": "The Breeders",
+      "title": "Divine Hammer"
     }
   ],
   "recent": [
+    {
+      "time": "6:54 am",
+      "artist": "Radiohead",
+      "title": "I Promise",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "6:50 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Shannon & The Clams",
       "title": "Bean Fields",
       "album": "The Moon Is In The Wrong Place • 2024"
-    },
-    {
-      "time": "5:24 am",
-      "artist": "10,000 Maniacs",
-      "title": "These Are Days",
-      "album": "Our Time in Eden • 1992"
     }
   ]
 }
