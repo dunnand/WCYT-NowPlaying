@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T13:51:39",
+  "updatedAt": "2026-10-24T13:55:13",
   "now": {
-    "artist": "Harry Chapin",
-    "title": "Cat's In The Cradle",
-    "album": "Verities & Balderdash • 1974",
+    "artist": "Simon & Garfunkel",
+    "title": "America",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "America"
-    },
     {
       "time": "1:59 pm",
       "artist": "Ian Dury",
@@ -26,9 +21,20 @@
       "time": "2:06 pm",
       "artist": "Iggy Pop",
       "title": "Five Foot One"
+    },
+    {
+      "time": "2:10 pm",
+      "artist": "Backstreet Boys",
+      "title": "Everybody (Backstreet's Back)"
     }
   ],
   "recent": [
+    {
+      "time": "1:55 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "America",
+      "album": ""
+    },
     {
       "time": "1:51 pm",
       "artist": "Harry Chapin",
@@ -172,12 +178,6 @@
       "artist": "Mark Dinning",
       "title": "Teen Angel",
       "album": "Single • 1959"
-    },
-    {
-      "time": "12:12 pm",
-      "artist": "Modest Mouse",
-      "title": "Convenient Parking",
-      "album": "Lonesome Crowded West • 1998"
     }
   ]
 }
