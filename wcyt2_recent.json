@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T20:09:35",
+  "updatedAt": "2026-10-23T20:09:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Madonna",
+    "title": "Ray Of Light",
+    "album": "Ray of Light • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:09 pm",
-      "artist": "Madonna",
-      "title": "Ray Of Light"
-    },
     {
       "time": "8:15 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "8:21 pm",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Deanna"
+    },
+    {
+      "time": "8:24 pm",
+      "artist": "Chappell Roan",
+      "title": "Good Luck, Babe!"
     }
   ],
   "recent": [
+    {
+      "time": "8:09 pm",
+      "artist": "Madonna",
+      "title": "Ray Of Light",
+      "album": "Ray of Light • 1998"
+    },
     {
       "time": "8:04 pm",
       "artist": "Avenged Sevenfold",
@@ -172,12 +178,6 @@
       "artist": "Gladys Knight & The Pips",
       "title": "Midnight Train to Georgia",
       "album": "Imagination • 1973"
-    },
-    {
-      "time": "6:42 pm",
-      "artist": "Looking Glass",
-      "title": "Brandy (You're A Fine Girl)",
-      "album": "Looking Glass • 1972"
     }
   ]
 }
