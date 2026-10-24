@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T20:09:57",
+  "updatedAt": "2026-10-23T20:15:03",
   "now": {
-    "artist": "Madonna",
-    "title": "Ray Of Light",
-    "album": "Ray of Light • 1998",
+    "artist": "Foo Fighters",
+    "title": "Wind Up",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 pm",
-      "artist": "Foo Fighters",
-      "title": "Wind Up"
-    },
     {
       "time": "8:17 pm",
       "artist": "Morrissey",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:15 pm",
+      "artist": "Foo Fighters",
+      "title": "Wind Up",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "8:09 pm",
       "artist": "Madonna",
@@ -172,12 +173,6 @@
       "artist": "Sister Hazel",
       "title": "Your Mistake",
       "album": "single • 2002"
-    },
-    {
-      "time": "6:45 pm",
-      "artist": "Gladys Knight & The Pips",
-      "title": "Midnight Train to Georgia",
-      "album": "Imagination • 1973"
     }
   ]
 }
