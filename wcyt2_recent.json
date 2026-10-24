@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T07:16:11",
+  "updatedAt": "2026-10-24T07:19:58",
   "now": {
-    "artist": "ABBA",
-    "title": "Thank You for the Music",
-    "album": "ABBA: The Album • 1977",
+    "artist": "Jefferson Airplane",
+    "title": "Somebody to Love",
+    "album": "Surrealistic Pillow • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:19 am",
-      "artist": "Jefferson Airplane",
-      "title": "Somebody to Love"
-    },
     {
       "time": "7:22 am",
       "artist": "America",
@@ -26,9 +21,20 @@
       "time": "7:29 am",
       "artist": "Bachman",
       "title": "Turner Overdrive - You Ain't Seen Nothing Yet"
+    },
+    {
+      "time": "7:33 am",
+      "artist": "Beck",
+      "title": "Nobody's Fault but My Own"
     }
   ],
   "recent": [
+    {
+      "time": "7:19 am",
+      "artist": "Jefferson Airplane",
+      "title": "Somebody to Love",
+      "album": "Surrealistic Pillow • 1967"
+    },
     {
       "time": "7:16 am",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "The Unicorns",
       "title": "I Was Born (A Unicorn)",
       "album": "Who Will Cut Our Hair When We're Gone • 2003"
-    },
-    {
-      "time": "5:51 am",
-      "artist": "Elvis Presley",
-      "title": "That's All Right",
-      "album": "single • 1956"
     }
   ]
 }
