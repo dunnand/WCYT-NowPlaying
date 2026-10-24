@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T04:09:38",
+  "updatedAt": "2026-10-24T04:09:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Waite",
+    "title": "Missing You",
+    "album": "No Brakes • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 am",
-      "artist": "John Waite",
-      "title": "Missing You"
-    },
     {
       "time": "4:14 am",
       "artist": "Ministry",
@@ -26,9 +21,20 @@
       "time": "4:23 am",
       "artist": "Chicago",
       "title": "If You Leave Me Now"
+    },
+    {
+      "time": "4:26 am",
+      "artist": "Elvis Presley",
+      "title": "A Little Less Conversation"
     }
   ],
   "recent": [
+    {
+      "time": "4:09 am",
+      "artist": "John Waite",
+      "title": "Missing You",
+      "album": "No Brakes • 1984"
+    },
     {
       "time": "4:05 am",
       "artist": "Tom Cochrane",
@@ -172,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "Thinking out Loud",
       "album": "x • 2014"
-    },
-    {
-      "time": "2:33 am",
-      "artist": "Rufus Wainwright",
-      "title": "The Art Teacher",
-      "album": "Want Two • 2004"
     }
   ]
 }
