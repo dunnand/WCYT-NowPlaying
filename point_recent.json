@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T08:49:45",
+  "updatedAt": "2026-10-24T08:49:57",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Wilco",
+    "title": "Taste the Ceiling",
+    "album": "Star Wars • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:49 am",
-      "artist": "Wilco",
-      "title": "Taste the Ceiling"
-    },
     {
       "time": "8:53 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "8:59 am",
       "artist": "Frankie Rose",
       "title": "Best of Times"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "Cheekface",
+      "title": "No Fly Zone"
     }
   ],
   "recent": [
+    {
+      "time": "8:49 am",
+      "artist": "Wilco",
+      "title": "Taste the Ceiling",
+      "album": "Star Wars • 2015"
+    },
     {
       "time": "8:45 am",
       "artist": "Broken Social Scene",
@@ -172,12 +178,6 @@
       "artist": "Gilla Band",
       "title": "Alogia",
       "album": "Pugnello • 2026"
-    },
-    {
-      "time": "7:06 am",
-      "artist": "My Morning Jacket",
-      "title": "Wordless Chorus",
-      "album": "Z • 2005"
     }
   ]
 }
