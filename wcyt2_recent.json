@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T15:00:10",
+  "updatedAt": "2026-10-24T15:03:38",
   "now": {
-    "artist": "Beyonce",
-    "title": "Countdown",
-    "album": "4 • 2011",
+    "artist": "James Taylor",
+    "title": "Shower The People",
+    "album": "In the Pocket • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 pm",
-      "artist": "James Taylor",
-      "title": "Shower The People"
-    },
     {
       "time": "3:07 pm",
       "artist": "Bonnie 'Prince' Billy",
@@ -26,9 +21,20 @@
       "time": "3:18 pm",
       "artist": "Vampire Weekend",
       "title": "Campus"
+    },
+    {
+      "time": "3:21 pm",
+      "artist": "Vampire Weekend",
+      "title": "A-Punk"
     }
   ],
   "recent": [
+    {
+      "time": "3:03 pm",
+      "artist": "James Taylor",
+      "title": "Shower The People",
+      "album": "In the Pocket • 1976"
+    },
     {
       "time": "3:00 pm",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "American Football",
       "title": "Never Meant",
       "album": "American Football • 1999"
-    },
-    {
-      "time": "1:28 pm",
-      "artist": "Alvvays",
-      "title": "In Undertow",
-      "album": "Antisocialites • 2017"
     }
   ]
 }
