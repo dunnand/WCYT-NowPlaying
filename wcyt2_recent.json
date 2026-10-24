@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T08:31:23",
+  "updatedAt": "2026-10-24T08:37:13",
   "now": {
-    "artist": "Boston",
-    "title": "Don't Look Back",
-    "album": "Don’t Look Back • 1978",
+    "artist": "U2",
+    "title": "Mysterious Ways",
+    "album": "Achtung Baby • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:37 am",
-      "artist": "U2",
-      "title": "Mysterious Ways"
-    },
     {
       "time": "8:41 am",
       "artist": "The Everly Brothers",
@@ -26,9 +21,20 @@
       "time": "8:46 am",
       "artist": "Drifters",
       "title": "Up On The Roof"
+    },
+    {
+      "time": "8:49 am",
+      "artist": "Billie Eilish",
+      "title": "bad guy"
     }
   ],
   "recent": [
+    {
+      "time": "8:37 am",
+      "artist": "U2",
+      "title": "Mysterious Ways",
+      "album": "Achtung Baby • 1991"
+    },
     {
       "time": "8:31 am",
       "artist": "Boston",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Check The Rhime",
       "album": "Check the Rhime • 1991"
-    },
-    {
-      "time": "6:58 am",
-      "artist": "The Breeders",
-      "title": "Cannonball",
-      "album": "Last Splash • 1993"
     }
   ]
 }
