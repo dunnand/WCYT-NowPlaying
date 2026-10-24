@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T19:00:20",
+  "updatedAt": "2026-10-24T19:04:21",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "No. 1 Party Anthem",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "album": "Berry Is on Top • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:04 pm",
-      "artist": "Chuck Berry",
-      "title": "Johnny B. Goode"
-    },
     {
       "time": "7:06 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -21,9 +16,20 @@
       "time": "7:11 pm",
       "artist": "Gene Chandler",
       "title": "Duke Of Earl"
+    },
+    {
+      "time": "7:13 pm",
+      "artist": "Breathe Carolina",
+      "title": "Blackout"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 pm",
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode",
+      "album": "Berry Is on Top • 1959"
+    },
     {
       "time": "7:00 pm",
       "artist": "Arctic Monkeys",
@@ -167,12 +173,6 @@
       "artist": "DJ Shadow",
       "title": "Midnight In A Perfect World",
       "album": "Entroducing • 1996"
-    },
-    {
-      "time": "5:29 pm",
-      "artist": "Ellie Goulding",
-      "title": "Anything Could Happen",
-      "album": "Halcyon • 2012"
     }
   ]
 }
