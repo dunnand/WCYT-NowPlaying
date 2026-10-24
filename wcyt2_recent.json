@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T08:37:13",
+  "updatedAt": "2026-10-24T08:41:09",
   "now": {
-    "artist": "U2",
-    "title": "Mysterious Ways",
-    "album": "Achtung Baby • 1991",
+    "artist": "The Everly Brothers",
+    "title": "Wake Up Little Susie",
+    "album": "The Everly Brothers • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 am",
-      "artist": "The Everly Brothers",
-      "title": "Wake Up Little Susie"
-    },
     {
       "time": "8:43 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "8:49 am",
       "artist": "Billie Eilish",
       "title": "bad guy"
+    },
+    {
+      "time": "8:52 am",
+      "artist": "Madonna",
+      "title": "Deeper And Deeper"
     }
   ],
   "recent": [
+    {
+      "time": "8:41 am",
+      "artist": "The Everly Brothers",
+      "title": "Wake Up Little Susie",
+      "album": "The Everly Brothers • 1958"
+    },
     {
       "time": "8:37 am",
       "artist": "U2",
@@ -172,12 +178,6 @@
       "artist": "Kenny Rogers & Sheena Easton",
       "title": "We've Got Tonight",
       "album": "We've Got Tonight • 1983"
-    },
-    {
-      "time": "7:02 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Check The Rhime",
-      "album": "Check the Rhime • 1991"
     }
   ]
 }
