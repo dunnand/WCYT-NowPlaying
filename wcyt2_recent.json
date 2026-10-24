@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-23T21:09:16",
+  "updatedAt": "2026-10-23T21:11:31",
   "now": {
-    "artist": "Green Day",
-    "title": "Pulling Teeth",
-    "album": "Dookie • 1994",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "The Day I Went Away",
+    "album": "Sleater Kinney • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Sleater",
-      "title": "Kinney - The Day I Went Away"
-    },
     {
       "time": "9:14 pm",
       "artist": "Operation Ivy",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Sleater-Kinney",
+      "title": "The Day I Went Away",
+      "album": "Sleater Kinney • 1995"
+    },
     {
       "time": "9:09 pm",
       "artist": "Green Day",
@@ -172,12 +173,6 @@
       "artist": "Soulja Boy",
       "title": "Kiss Me Thru The Phone",
       "album": "iSouljaBoyTellem • 2008"
-    },
-    {
-      "time": "7:36 pm",
-      "artist": "Guy Clark",
-      "title": "L.A. Freeway",
-      "album": "Old No. 1 • 1975"
     }
   ]
 }
