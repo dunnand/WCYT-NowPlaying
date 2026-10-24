@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T05:39:07",
+  "updatedAt": "2026-10-24T05:42:43",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "I Honestly Love You",
-    "album": "Long Live Love • 1974",
+    "artist": "The Who",
+    "title": "Magic Bus",
+    "album": "Magic Bus • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:42 am",
-      "artist": "The Who",
-      "title": "Magic Bus"
-    },
     {
       "time": "5:45 am",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "5:51 am",
       "artist": "Elvis Presley",
       "title": "That's All Right"
+    },
+    {
+      "time": "5:53 am",
+      "artist": "The Unicorns",
+      "title": "I Was Born (A Unicorn)"
     }
   ],
   "recent": [
+    {
+      "time": "5:42 am",
+      "artist": "The Who",
+      "title": "Magic Bus",
+      "album": "Magic Bus • 1968"
+    },
     {
       "time": "5:39 am",
       "artist": "Olivia Newton-John",
@@ -172,12 +178,6 @@
       "artist": "Beyonce",
       "title": "Blue",
       "album": "Beyonce • 2013"
-    },
-    {
-      "time": "3:55 am",
-      "artist": "Waylon Jennings & Willie Nelson",
-      "title": "Just To Satisfy You",
-      "album": "Just to Satisfy You • 1969"
     }
   ]
 }
