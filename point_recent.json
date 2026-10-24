@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T02:11:10",
+  "updatedAt": "2026-10-24T02:11:22",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Phoebe Bridgers",
+    "title": "On Video",
+    "album": "Primetime Soundtrack • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:11 am",
-      "artist": "Phoebe Bridgers",
-      "title": "On Video"
-    },
     {
       "time": "2:14 am",
       "artist": "Bon Iver",
@@ -26,9 +21,20 @@
       "time": "2:20 am",
       "artist": "Phantastic Ferniture",
       "title": "Change My Mind"
+    },
+    {
+      "time": "2:23 am",
+      "artist": "Julia Jacklin",
+      "title": "The Hardest Thing"
     }
   ],
   "recent": [
+    {
+      "time": "2:11 am",
+      "artist": "Phoebe Bridgers",
+      "title": "On Video",
+      "album": "Primetime Soundtrack • 2026"
+    },
     {
       "time": "2:06 am",
       "artist": "New Order",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "Casimir Pulaski Day",
       "album": "Illinois • 2005"
-    },
-    {
-      "time": "12:32 am",
-      "artist": "Sadurn",
-      "title": "the weight",
-      "album": "The Underworld • 2026"
     }
   ]
 }
