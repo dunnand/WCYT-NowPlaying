@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T15:58:46",
+  "updatedAt": "2026-10-24T15:58:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joe Cocker",
+    "title": "You Are So Beautiful",
+    "album": "I Can Stand a Little Rain • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 pm",
-      "artist": "Joe Cocker",
-      "title": "You Are So Beautiful"
-    },
     {
       "time": "4:01 pm",
       "artist": "Creedence Clearwater Revival",
@@ -26,9 +21,20 @@
       "time": "4:07 pm",
       "artist": "Cocteau Twins",
       "title": "Cherry-Coloured Funk"
+    },
+    {
+      "time": "4:10 pm",
+      "artist": "Elvis Presley",
+      "title": "(Let Me Be Your) Teddy Bear"
     }
   ],
   "recent": [
+    {
+      "time": "3:58 pm",
+      "artist": "Joe Cocker",
+      "title": "You Are So Beautiful",
+      "album": "I Can Stand a Little Rain • 1974"
+    },
     {
       "time": "3:53 pm",
       "artist": "Creedence Clearwater Revival",
@@ -172,12 +178,6 @@
       "artist": "Creedence Clearwater Revival",
       "title": "Bad Moon Rising",
       "album": "Green River • 1969"
-    },
-    {
-      "time": "2:17 pm",
-      "artist": "U2",
-      "title": "Walk On",
-      "album": "All That You Can't Leave Behind • 2000"
     }
   ]
 }
