@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T07:42:11",
+  "updatedAt": "2026-10-24T07:42:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Songs Ohia",
+    "title": "The Black Crow",
+    "album": "The Lioness • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "Songs Ohia",
-      "title": "The Black Crow"
-    },
     {
       "time": "7:49 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "7:56 am",
       "artist": "Bjork",
       "title": "It's Oh So Quiet"
+    },
+    {
+      "time": "8:00 am",
+      "artist": "Superchunk",
+      "title": "Hello Hawk"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "Songs Ohia",
+      "title": "The Black Crow",
+      "album": "The Lioness • 2000"
+    },
     {
       "time": "7:37 am",
       "artist": "Ed Sheeran",
@@ -172,12 +178,6 @@
       "artist": "Mick Jagger & David Bowie",
       "title": "Dancing In The Street",
       "album": "Single • 1985"
-    },
-    {
-      "time": "6:10 am",
-      "artist": "Paul Young",
-      "title": "Oh Girl",
-      "album": "The Secret of Association • 1985"
     }
   ]
 }
