@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T11:07:05",
+  "updatedAt": "2026-10-24T11:07:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "System of a Down",
+    "title": "Hypnotize",
+    "album": "Hypnotize • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:07 am",
-      "artist": "System of a Down",
-      "title": "Hypnotize"
-    },
     {
       "time": "11:10 am",
       "artist": "B.J. Thomas",
@@ -26,9 +21,20 @@
       "time": "11:15 am",
       "artist": "Sheryl Crow",
       "title": "If It Makes You Happy"
+    },
+    {
+      "time": "11:20 am",
+      "artist": "Platters",
+      "title": "(You've Got) The Magic Touch"
     }
   ],
   "recent": [
+    {
+      "time": "11:07 am",
+      "artist": "System of a Down",
+      "title": "Hypnotize",
+      "album": "Hypnotize • 2005"
+    },
     {
       "time": "11:05 am",
       "artist": "Dave Clark Five",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Cape Cod Kwassa Kwassa",
       "album": "Vampire Weekend • 2008"
-    },
-    {
-      "time": "9:36 am",
-      "artist": "The Roots",
-      "title": "Don't Feel Right",
-      "album": "Game Theory • 2006"
     }
   ]
 }
