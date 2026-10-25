@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T16:57:26",
+  "updatedAt": "2026-10-25T17:01:32",
   "now": {
-    "artist": "David Byrne",
-    "title": "Miss America",
-    "album": "Feelings • 1997",
+    "artist": "Chuck Berry",
+    "title": "Memphis, Tennessee",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:01 pm",
-      "artist": "Chuck Berry",
-      "title": "Memphis, Tennessee"
-    },
     {
       "time": "5:03 pm",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "5:11 pm",
       "artist": "Paramore",
       "title": "Still into You"
+    },
+    {
+      "time": "5:15 pm",
+      "artist": "Death Cab for Cutie",
+      "title": "Amputations"
     }
   ],
   "recent": [
+    {
+      "time": "5:01 pm",
+      "artist": "Chuck Berry",
+      "title": "Memphis, Tennessee",
+      "album": "single • 1958"
+    },
     {
       "time": "4:57 pm",
       "artist": "David Byrne",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "True Blue",
       "album": "True Blue • 1986"
-    },
-    {
-      "time": "3:21 pm",
-      "artist": "Bryan Adams",
-      "title": "(Everything I Do) I Do It For You",
-      "album": "Waking Up the Neighbours • 1991"
     }
   ]
 }
