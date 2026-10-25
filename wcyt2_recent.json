@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T13:54:27",
+  "updatedAt": "2026-10-25T13:57:19",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Mardy Bum",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "Elvis Presley",
+    "title": "Can't Help Falling In Love",
+    "album": "Blue Hawaii • 1961",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:57 pm",
-      "artist": "Elvis Presley",
-      "title": "Can't Help Falling In Love"
-    },
     {
       "time": "2:00 pm",
       "artist": "Fleetwood Mac",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:57 pm",
+      "artist": "Elvis Presley",
+      "title": "Can't Help Falling In Love",
+      "album": "Blue Hawaii • 1961"
+    },
     {
       "time": "1:54 pm",
       "artist": "Arctic Monkeys",
@@ -177,12 +178,6 @@
       "artist": "Katy Perry",
       "title": "Last Friday Night (TGIF)",
       "album": "Teenage Dream • 2010"
-    },
-    {
-      "time": "12:18 pm",
-      "artist": "Billy Joe Royal",
-      "title": "Down In The Boondocks",
-      "album": "Down in the Boondocks • 1965"
     }
   ]
 }
