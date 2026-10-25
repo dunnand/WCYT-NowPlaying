@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T16:32:41",
+  "updatedAt": "2026-10-25T16:36:35",
   "now": {
-    "artist": "New Edition",
-    "title": "Candy Girl",
-    "album": "Candy Girl • 1983",
+    "artist": "HAIM",
+    "title": "The Wire",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:36 pm",
-      "artist": "HAIM",
-      "title": "The Wire"
-    },
     {
       "time": "4:40 pm",
       "artist": "Electric Light Orchestra",
@@ -21,9 +16,20 @@
       "time": "4:44 pm",
       "artist": "Dionne Warwick",
       "title": "Walk on By"
+    },
+    {
+      "time": "4:47 pm",
+      "artist": "George Harrison",
+      "title": "What Is Life"
     }
   ],
   "recent": [
+    {
+      "time": "4:36 pm",
+      "artist": "HAIM",
+      "title": "The Wire",
+      "album": ""
+    },
     {
       "time": "4:32 pm",
       "artist": "New Edition",
@@ -167,12 +173,6 @@
       "artist": "Amy Grant",
       "title": "Baby, Baby",
       "album": "Heart in Motion • 1991"
-    },
-    {
-      "time": "2:55 pm",
-      "artist": "Blondie",
-      "title": "(I'm Always Touched by Your) Presence Dear",
-      "album": "Plastic Letters • 1978"
     }
   ]
 }
