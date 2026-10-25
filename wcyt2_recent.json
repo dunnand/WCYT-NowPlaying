@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T00:02:47",
+  "updatedAt": "2026-10-25T00:05:32",
   "now": {
-    "artist": "Ray Charles",
-    "title": "I Got a Woman",
-    "album": "single • 1954",
+    "artist": "DJ Shadow",
+    "title": "You Can't Go Home Again",
+    "album": "The Private Press • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "DJ Shadow",
-      "title": "You Can't Go Home Again"
-    },
     {
       "time": "12:12 am",
       "artist": "The Mamas & The Papas",
@@ -26,9 +21,20 @@
       "time": "12:19 am",
       "artist": "Lauryn Hill",
       "title": "Everything Is Everything"
+    },
+    {
+      "time": "12:24 am",
+      "artist": "Lenny Kravitz",
+      "title": "It Ain't Over 'Til It's Over"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "DJ Shadow",
+      "title": "You Can't Go Home Again",
+      "album": "The Private Press • 2002"
+    },
     {
       "time": "12:02 am",
       "artist": "Ray Charles",
@@ -172,12 +178,6 @@
       "artist": "Queen",
       "title": "Under Pressure feat. David Bowie",
       "album": "Hot Space • 1981"
-    },
-    {
-      "time": "9:42 pm",
-      "artist": "Pretenders",
-      "title": "Middle Of The Road",
-      "album": "Learning to Crawl • 1984"
     }
   ]
 }
