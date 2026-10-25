@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T01:04:34",
+  "updatedAt": "2026-10-25T01:08:20",
   "now": {
-    "artist": "Le Tigre",
-    "title": "Hot Topic",
-    "album": "Le Tigre • 1999",
-    "category": "TUNES"
+    "artist": "Jamies",
+    "title": "Summertime, Summertime",
+    "album": "Single • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:08 am",
-      "artist": "Jamies",
-      "title": "Summertime, Summertime"
-    },
     {
       "time": "1:10 am",
       "artist": "Coldplay",
@@ -21,9 +16,20 @@
       "time": "1:13 am",
       "artist": "The Mamas & The Papas",
       "title": "Dedicated to the One I Love"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Demi Lovato",
+      "title": "Heart Attack"
     }
   ],
   "recent": [
+    {
+      "time": "1:08 am",
+      "artist": "Jamies",
+      "title": "Summertime, Summertime",
+      "album": "Single • 1958"
+    },
     {
       "time": "1:04 am",
       "artist": "Le Tigre",
@@ -167,12 +173,6 @@
       "artist": "Rick Springfield",
       "title": "Love Somebody",
       "album": "Living in Oz • 1984"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "Jewel",
-      "title": "Who Will Save Your Soul",
-      "album": "Pieces of You • 1995"
     }
   ]
 }
