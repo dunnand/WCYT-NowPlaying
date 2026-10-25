@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T22:00:32",
+  "updatedAt": "2026-10-24T22:00:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Beyonce",
+    "title": "Sweet Dreams",
+    "album": "I Am... Sasha Fierce • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 pm",
-      "artist": "Beyonce",
-      "title": "Sweet Dreams"
-    },
     {
       "time": "10:03 pm",
       "artist": "Diana Ross & The Supremes",
@@ -26,9 +21,20 @@
       "time": "10:12 pm",
       "artist": "Gloria Estefan",
       "title": "Live For Loving You"
+    },
+    {
+      "time": "10:16 pm",
+      "artist": "Elvis Presley",
+      "title": "Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 pm",
+      "artist": "Beyonce",
+      "title": "Sweet Dreams",
+      "album": "I Am... Sasha Fierce • 2008"
+    },
     {
       "time": "9:57 pm",
       "artist": "Rare Earth",
@@ -172,12 +178,6 @@
       "artist": "Diana Ross & The Supremes",
       "title": "In And Out Of Love",
       "album": "Reflections • 1968"
-    },
-    {
-      "time": "8:17 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Chicago",
-      "album": "Illinois • 2005"
     }
   ]
 }
