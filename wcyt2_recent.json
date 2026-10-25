@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T02:58:12",
+  "updatedAt": "2026-10-25T03:01:31",
   "now": {
-    "artist": "The Flamingos",
-    "title": "I Only Have Eyes for You",
-    "album": "Flamingo Serenade • 1959",
-    "category": "AUDIO"
+    "artist": "Bright Eyes",
+    "title": "First Day Of My Life",
+    "album": "I'm Wide Awake, It's Morning • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:01 am",
-      "artist": "Bright Eyes",
-      "title": "First Day Of My Life"
-    },
     {
       "time": "3:04 am",
       "artist": "Sly and the Family Stone",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:01 am",
+      "artist": "Bright Eyes",
+      "title": "First Day Of My Life",
+      "album": "I'm Wide Awake, It's Morning • 2005"
+    },
     {
       "time": "2:58 am",
       "artist": "The Flamingos",
@@ -172,12 +173,6 @@
       "artist": "Heaven 17",
       "title": "(We Don't Need This) Fascist Groove Thang",
       "album": "Penthouse and Pavement • 1981"
-    },
-    {
-      "time": "1:30 am",
-      "artist": "Marvin Gaye",
-      "title": "Sexual Healing",
-      "album": "Midnight Love • 1982"
     }
   ]
 }
