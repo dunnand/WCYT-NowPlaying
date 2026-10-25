@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-24T21:19:57",
+  "updatedAt": "2026-10-24T21:22:42",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Don't",
-    "album": "single • 1958",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Crying Lightning",
+    "album": "Humbug • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:22 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Crying Lightning"
-    },
     {
       "time": "9:26 pm",
       "artist": "Diana Ross & The Supremes",
@@ -21,9 +16,20 @@
       "time": "9:29 pm",
       "artist": "Adele",
       "title": "Rolling In The Deep"
+    },
+    {
+      "time": "9:33 pm",
+      "artist": "Galaxie 500",
+      "title": "Fourth of July"
     }
   ],
   "recent": [
+    {
+      "time": "9:22 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Crying Lightning",
+      "album": "Humbug • 2009"
+    },
     {
       "time": "9:19 pm",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Gordon Lightfoot",
       "title": "Rainy Day People",
       "album": "Cold on the Shoulder • 1975"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "Glen Campbell",
-      "title": "Southern Nights",
-      "album": "Southern Nights • 1977"
     }
   ]
 }
