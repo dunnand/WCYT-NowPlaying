@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T11:13:18",
+  "updatedAt": "2026-10-25T11:15:21",
   "now": {
-    "artist": "Little Richard and His Band",
-    "title": "Ready Teddy",
-    "album": "Heres Little Richard • 1957",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "A Movie Script Ending",
+    "album": "The Photo Album • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:15 am",
-      "artist": "Death Cab for Cutie",
-      "title": "A Movie Script Ending"
-    },
     {
       "time": "11:19 am",
       "artist": "Etta James",
@@ -21,9 +16,25 @@
       "time": "11:22 am",
       "artist": "Kelly Clarkson",
       "title": "Stronger (What Doesn't Kill Me)"
+    },
+    {
+      "time": "11:25 am",
+      "artist": "The Cranberries",
+      "title": "Ode To My Family"
+    },
+    {
+      "time": "11:30 am",
+      "artist": "Third Eye Blind",
+      "title": "Semi-Charmed Life"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 am",
+      "artist": "Death Cab for Cutie",
+      "title": "A Movie Script Ending",
+      "album": "The Photo Album • 2001"
+    },
     {
       "time": "11:13 am",
       "artist": "Little Richard and His Band",
@@ -167,12 +178,6 @@
       "artist": "Cocteau Twins",
       "title": "Ivo",
       "album": "Treasure • 1984"
-    },
-    {
-      "time": "9:38 am",
-      "artist": "James Taylor & J.D. Souther",
-      "title": "Her Town Too",
-      "album": "Dad Loves His Work • 1981"
     }
   ]
 }
