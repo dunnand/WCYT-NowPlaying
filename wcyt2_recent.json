@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T07:22:35",
+  "updatedAt": "2026-10-25T07:22:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Junk Bond Trader",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:22 am",
-      "artist": "Elliott Smith",
-      "title": "Junk Bond Trader"
-    },
     {
       "time": "7:26 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "7:33 am",
       "artist": "Rolling Stones",
       "title": "Love Is Strong"
+    },
+    {
+      "time": "7:37 am",
+      "artist": "Sarah McLachlan",
+      "title": "Angel"
     }
   ],
   "recent": [
+    {
+      "time": "7:22 am",
+      "artist": "Elliott Smith",
+      "title": "Junk Bond Trader",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "7:18 am",
       "artist": "Frank Ocean",
@@ -172,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "You Make My Dreams",
       "album": "Voices • 1980"
-    },
-    {
-      "time": "5:22 am",
-      "artist": "The Go-Go's",
-      "title": "Lust To Love",
-      "album": "Beauty and the Beat • 1981"
     }
   ]
 }
