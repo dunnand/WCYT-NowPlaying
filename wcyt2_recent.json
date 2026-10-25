@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T01:42:13",
+  "updatedAt": "2026-10-25T01:42:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Jam",
+    "title": "The Modern World",
+    "album": "This Is the Modern World • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "The Jam",
-      "title": "The Modern World"
-    },
     {
       "time": "1:44 am",
       "artist": "The Nerves",
@@ -26,9 +21,20 @@
       "time": "1:50 am",
       "artist": "The Mamas & The Papas",
       "title": "I Call Your Name"
+    },
+    {
+      "time": "1:52 am",
+      "artist": "Spinners",
+      "title": "Could It Be I'm Falling In Love"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "The Jam",
+      "title": "The Modern World",
+      "album": "This Is the Modern World • 1977"
+    },
     {
       "time": "1:38 am",
       "artist": "Kenji Yamamoto, Kouichi Kyuma",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "I Got a Woman",
       "album": "single • 1954"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "KRS-One",
-      "title": "MC's Act Like They Don't Know",
-      "album": "KRS-One • 1995"
     }
   ]
 }
