@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T13:57:19",
+  "updatedAt": "2026-10-25T14:00:11",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Can't Help Falling In Love",
-    "album": "Blue Hawaii • 1961",
+    "artist": "Fleetwood Mac",
+    "title": "Monday Morning",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Monday Morning"
-    },
     {
       "time": "2:02 pm",
       "artist": "Wilson Phillips",
@@ -26,9 +21,20 @@
       "time": "2:08 pm",
       "artist": "The Black Keys",
       "title": "Thickfreakness"
+    },
+    {
+      "time": "2:13 pm",
+      "artist": "Gary Puckett & The Union Gap",
+      "title": "This Girl Is A Woman Now"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Monday Morning",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "1:57 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Uncle Tupelo",
       "title": "Factory Belt",
       "album": "No Depression • 1990"
-    },
-    {
-      "time": "12:20 pm",
-      "artist": "Katy Perry",
-      "title": "Last Friday Night (TGIF)",
-      "album": "Teenage Dream • 2010"
     }
   ]
 }
