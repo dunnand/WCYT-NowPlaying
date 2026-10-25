@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T14:23:54",
+  "updatedAt": "2026-10-25T14:28:09",
   "now": {
-    "artist": "Alice in Chains",
-    "title": "No Excuses",
-    "album": "Jar of Flies - EP • 1994",
+    "artist": "Joe Cocker & Jennifer Warnes",
+    "title": "Up Where We Belong",
+    "album": "An Officer and a Gentleman • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:28 pm",
-      "artist": "Joe Cocker & Jennifer Warnes",
-      "title": "Up Where We Belong"
-    },
     {
       "time": "2:32 pm",
       "artist": "Luther Vandross",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:28 pm",
+      "artist": "Joe Cocker & Jennifer Warnes",
+      "title": "Up Where We Belong",
+      "album": "An Officer and a Gentleman • 1982"
+    },
     {
       "time": "2:23 pm",
       "artist": "Alice in Chains",
@@ -172,12 +173,6 @@
       "artist": "Jamila Woods",
       "title": "Betty (for Boogie)",
       "album": "LEGACY! LEGACY! • 2019"
-    },
-    {
-      "time": "12:47 pm",
-      "artist": "Animal Collective",
-      "title": "Alvin Row",
-      "album": "Spirit They're Gone Spirit They've Vanished • 2000"
     }
   ]
 }
