@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T10:28:08",
+  "updatedAt": "2026-10-25T10:28:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Suede",
+    "title": "Trash",
+    "album": "Coming Up • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:28 am",
-      "artist": "Suede",
-      "title": "Trash"
-    },
     {
       "time": "10:32 am",
       "artist": "Huey Lewis & The News",
@@ -26,9 +21,20 @@
       "time": "10:40 am",
       "artist": "*NSYNC",
       "title": "Better Place"
+    },
+    {
+      "time": "10:44 am",
+      "artist": "Arcade Fire",
+      "title": "Neighborhood #2 (Laïka)"
     }
   ],
   "recent": [
+    {
+      "time": "10:28 am",
+      "artist": "Suede",
+      "title": "Trash",
+      "album": "Coming Up • 1996"
+    },
     {
       "time": "10:23 am",
       "artist": "Stereolab",
@@ -172,12 +178,6 @@
       "artist": "Antony and the Johnsons",
       "title": "Hope There's Someone",
       "album": "I Am a Bird Now • 2005"
-    },
-    {
-      "time": "8:58 am",
-      "artist": "Norman Greenbaum",
-      "title": "Spirit In The Sky",
-      "album": "Spirit in the Sky • 1970"
     }
   ]
 }
