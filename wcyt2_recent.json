@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-25T10:28:20",
+  "updatedAt": "2026-10-25T10:32:15",
   "now": {
-    "artist": "Suede",
-    "title": "Trash",
-    "album": "Coming Up • 1996",
+    "artist": "Huey Lewis & The News",
+    "title": "I Want A New Drug",
+    "album": "Sports • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:32 am",
-      "artist": "Huey Lewis & The News",
-      "title": "I Want A New Drug"
-    },
-    {
-      "time": "10:36 am",
+      "time": "10:37 am",
       "artist": "Janet Jackson",
       "title": "What Have You Done For Me Lately"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:32 am",
+      "artist": "Huey Lewis & The News",
+      "title": "I Want A New Drug",
+      "album": "Sports • 1984"
+    },
     {
       "time": "10:28 am",
       "artist": "Suede",
@@ -172,12 +173,6 @@
       "artist": "J Cole",
       "title": "Work Out",
       "album": "Cole World: The Sideline Story • 2011"
-    },
-    {
-      "time": "9:01 am",
-      "artist": "Antony and the Johnsons",
-      "title": "Hope There's Someone",
-      "album": "I Am a Bird Now • 2005"
     }
   ]
 }
