@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T15:43:39",
+  "updatedAt": "2026-10-25T15:43:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "Just What I Needed",
+    "album": "The Cars • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 pm",
-      "artist": "The Cars",
-      "title": "Just What I Needed"
-    },
     {
       "time": "3:47 pm",
       "artist": "Death Cab for Cutie",
@@ -31,9 +26,20 @@
       "time": "3:59 pm",
       "artist": "Built to Spill",
       "title": "Else"
+    },
+    {
+      "time": "4:03 pm",
+      "artist": "M83",
+      "title": "Steve McQueen"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 pm",
+      "artist": "The Cars",
+      "title": "Just What I Needed",
+      "album": "The Cars • 1978"
+    },
     {
       "time": "3:39 pm",
       "artist": "Beyonce",
@@ -177,12 +183,6 @@
       "artist": "The Black Keys",
       "title": "Thickfreakness",
       "album": "Thickfreakness • 2003"
-    },
-    {
-      "time": "2:06 pm",
-      "artist": "Duane Eddy",
-      "title": "Rebel-'Rouser",
-      "album": "Have 'Twangy' Guitar Will Travel • 1958"
     }
   ]
 }
