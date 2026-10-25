@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T19:33:39",
+  "updatedAt": "2026-10-25T19:38:08",
   "now": {
-    "artist": "Husker Du",
-    "title": "Diane",
-    "album": "Metal Circus • 1983",
+    "artist": "Olivia Rodrigo",
+    "title": "drop dead",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:38 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "drop dead"
-    },
     {
       "time": "7:41 pm",
       "artist": "Bloc Party",
@@ -26,9 +21,20 @@
       "time": "7:48 pm",
       "artist": "LCD Soundsystem",
       "title": "All I Want"
+    },
+    {
+      "time": "7:54 pm",
+      "artist": "Prince and the New Power Generation",
+      "title": "7"
     }
   ],
   "recent": [
+    {
+      "time": "7:38 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "drop dead",
+      "album": ""
+    },
     {
       "time": "7:33 pm",
       "artist": "Husker Du",
@@ -172,12 +178,6 @@
       "artist": "Elastica",
       "title": "Connection",
       "album": "Elastica • 1995"
-    },
-    {
-      "time": "5:56 pm",
-      "artist": "Free",
-      "title": "All Right Now",
-      "album": "Fire and Water • 1970"
     }
   ]
 }
