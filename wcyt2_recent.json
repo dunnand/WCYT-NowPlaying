@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T07:59:27",
+  "updatedAt": "2026-10-25T08:02:10",
   "now": {
-    "artist": "King Harvest",
-    "title": "Dancing In The Moonlight",
-    "album": "Dancing in the Moonlight • 1972",
+    "artist": "Neil Young with Crazy Horse",
+    "title": "Cowgirl in the Sand",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 am",
-      "artist": "Neil Young with Crazy Horse",
-      "title": "Cowgirl in the Sand"
-    },
     {
       "time": "8:12 am",
       "artist": "Ozark Mountain Daredevils",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:02 am",
+      "artist": "Neil Young with Crazy Horse",
+      "title": "Cowgirl in the Sand",
+      "album": ""
+    },
     {
       "time": "7:59 am",
       "artist": "King Harvest",
@@ -177,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "Suit & Tie",
       "album": "The 20/20 Experience • 2013"
-    },
-    {
-      "time": "6:23 am",
-      "artist": "Andrew Bird",
-      "title": "Fake Palindromes",
-      "album": "Andrew Bird & the Mysterious Production of Eggs • 2005"
     }
   ]
 }
