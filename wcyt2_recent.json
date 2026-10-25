@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T03:45:32",
+  "updatedAt": "2026-10-25T03:48:17",
   "now": {
-    "artist": "Tom Jones",
-    "title": "She's A Lady",
-    "album": "Tom Jones Sings She's a Lady • 1971",
+    "artist": "Natalie Merchant",
+    "title": "Carnival",
+    "album": "Tigerlily • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:48 am",
-      "artist": "Natalie Merchant",
-      "title": "Carnival"
-    },
     {
       "time": "3:52 am",
       "artist": "Serge Gainsbourg",
@@ -21,9 +16,20 @@
       "time": "3:55 am",
       "artist": "Arctic Monkeys",
       "title": "Cornerstone"
+    },
+    {
+      "time": "3:58 am",
+      "artist": "Sly and the Family Stone",
+      "title": "Stand!"
     }
   ],
   "recent": [
+    {
+      "time": "3:48 am",
+      "artist": "Natalie Merchant",
+      "title": "Carnival",
+      "album": "Tigerlily • 1995"
+    },
     {
       "time": "3:45 am",
       "artist": "Tom Jones",
@@ -167,12 +173,6 @@
       "artist": "Mojave 3",
       "title": "Who Do You Love",
       "album": "Out of Tune • 1998"
-    },
-    {
-      "time": "2:15 am",
-      "artist": "Melissa Etheridge",
-      "title": "I'm The Only One",
-      "album": "Yes I Am • 1994"
     }
   ]
 }
