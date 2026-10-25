@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T06:55:41",
+  "updatedAt": "2026-10-25T06:55:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Marianne Faithfull",
+    "title": "Broken English",
+    "album": "Broken English • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:55 am",
-      "artist": "Marianne Faithfull",
-      "title": "Broken English"
-    },
     {
       "time": "7:00 am",
       "artist": "The Temptations",
@@ -26,9 +21,20 @@
       "time": "7:06 am",
       "artist": "The Kinks",
       "title": "Dead End Street"
+    },
+    {
+      "time": "7:10 am",
+      "artist": "Gram Parsons",
+      "title": "She"
     }
   ],
   "recent": [
+    {
+      "time": "6:55 am",
+      "artist": "Marianne Faithfull",
+      "title": "Broken English",
+      "album": "Broken English • 1979"
+    },
     {
       "time": "6:49 am",
       "artist": "Yuka Tsujiyoko",
@@ -172,12 +178,6 @@
       "artist": "Harry Belafonte",
       "title": "Day-O (Banana Boat Song)",
       "album": "Calypso • 1956"
-    },
-    {
-      "time": "4:50 am",
-      "artist": "Ozzy Osbourne",
-      "title": "No More Tears",
-      "album": "No More Tears • 1991"
     }
   ]
 }
