@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T14:19:06",
+  "updatedAt": "2026-10-25T14:19:17",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "10,000 Maniacs",
+    "title": "These Are Days",
+    "album": "Our Time in Eden • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:19 pm",
-      "artist": "10,000 Maniacs",
-      "title": "These Are Days"
-    },
     {
       "time": "2:22 pm",
       "artist": "Victoryland",
@@ -26,9 +21,20 @@
       "time": "2:29 pm",
       "artist": "Sam Fender",
       "title": "People Watching"
+    },
+    {
+      "time": "2:35 pm",
+      "artist": "Stef Chura",
+      "title": "The Concrete"
     }
   ],
   "recent": [
+    {
+      "time": "2:19 pm",
+      "artist": "10,000 Maniacs",
+      "title": "These Are Days",
+      "album": "Our Time in Eden • 1992"
+    },
     {
       "time": "2:15 pm",
       "artist": "Corridor",
@@ -172,12 +178,6 @@
       "artist": "Black Country, New Road",
       "title": "Strangers",
       "album": "HELP • 2026"
-    },
-    {
-      "time": "12:43 pm",
-      "artist": "Ty Segall",
-      "title": "Glass",
-      "album": "Chrome • 2026"
     }
   ]
 }
