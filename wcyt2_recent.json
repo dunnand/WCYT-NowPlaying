@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T14:01:32",
+  "updatedAt": "2026-10-26T14:03:03",
   "now": {
-    "artist": "Green Day",
-    "title": "Coming Clean",
-    "album": "Dookie • 1994",
+    "artist": "Doug E. Fresh",
+    "title": "The Show",
+    "album": "Oh, My God! • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 pm",
-      "artist": "Doug E. Fresh",
-      "title": "The Show"
-    },
     {
       "time": "2:09 pm",
       "artist": "Eagles",
@@ -21,9 +16,20 @@
       "time": "2:13 pm",
       "artist": "Koji Kondo",
       "title": "Super Mario 64 (Staff Roll)"
+    },
+    {
+      "time": "2:17 pm",
+      "artist": "Chicago",
+      "title": "Baby, What A Big Surprise"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 pm",
+      "artist": "Doug E. Fresh",
+      "title": "The Show",
+      "album": "Oh, My God! • 1986"
+    },
     {
       "time": "2:01 pm",
       "artist": "Green Day",
@@ -167,12 +173,6 @@
       "artist": "Dionne Warwick",
       "title": "I Say A Little Prayer",
       "album": "The Windows of the World • 1967"
-    },
-    {
-      "time": "12:33 pm",
-      "artist": "Eagles",
-      "title": "Best Of My Love",
-      "album": "On the Border • 1974"
     }
   ]
 }
