@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T01:35:43",
+  "updatedAt": "2026-10-26T01:39:17",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "I Just Might",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Animal Collective",
+    "title": "Leaf House",
+    "album": "Sung Tongs • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:39 am",
-      "artist": "Animal Collective",
-      "title": "Leaf House"
-    },
     {
       "time": "1:42 am",
       "artist": "Lipps Inc.",
@@ -26,9 +21,20 @@
       "time": "1:49 am",
       "artist": "Lizzo",
       "title": "Juice"
+    },
+    {
+      "time": "1:53 am",
+      "artist": "Elton John",
+      "title": "Saturday Night's Alright for Fighting"
     }
   ],
   "recent": [
+    {
+      "time": "1:39 am",
+      "artist": "Animal Collective",
+      "title": "Leaf House",
+      "album": "Sung Tongs • 2004"
+    },
     {
       "time": "1:35 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Justin Bieber",
       "title": "Boyfriend",
       "album": "Believe • 2012"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "The Roots",
-      "title": "What They Do",
-      "album": "Illadelph Halflife • 1996"
     }
   ]
 }
