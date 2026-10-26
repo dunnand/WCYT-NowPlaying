@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T11:00:00",
+  "updatedAt": "2026-10-26T11:00:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Carolina In My Mind",
+    "album": "James Taylor • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:00 am",
-      "artist": "James Taylor",
-      "title": "Carolina In My Mind"
-    },
     {
       "time": "11:03 am",
       "artist": "Katy Perry",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:00 am",
+      "artist": "James Taylor",
+      "title": "Carolina In My Mind",
+      "album": "James Taylor • 1968"
+    },
     {
       "time": "10:56 am",
       "artist": "Cat Power",
@@ -172,12 +173,6 @@
       "artist": "Minako Hamano",
       "title": "Super Metroid (Ending)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "9:26 am",
-      "artist": "Commodores",
-      "title": "Lady (You Bring Me Up)",
-      "album": "In the Pocket • 1981"
     }
   ]
 }
