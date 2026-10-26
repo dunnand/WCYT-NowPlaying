@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T07:09:01",
+  "updatedAt": "2026-10-26T07:09:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Everly Brothers",
+    "title": "Bye, Bye Love",
+    "album": "The Everly Brothers • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:09 am",
-      "artist": "The Everly Brothers",
-      "title": "Bye, Bye Love"
-    },
     {
       "time": "7:11 am",
       "artist": "Animal Collective",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:09 am",
+      "artist": "The Everly Brothers",
+      "title": "Bye, Bye Love",
+      "album": "The Everly Brothers • 1958"
+    },
     {
       "time": "7:06 am",
       "artist": "Pavement",
@@ -172,12 +173,6 @@
       "artist": "Air Supply",
       "title": "Lost In Love",
       "album": "Lost in Love • 1980"
-    },
-    {
-      "time": "5:36 am",
-      "artist": "Candlebox",
-      "title": "Far Behind",
-      "album": "Candlebox • 1994"
     }
   ]
 }
