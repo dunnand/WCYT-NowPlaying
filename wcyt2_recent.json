@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T07:54:18",
+  "updatedAt": "2026-10-26T07:58:44",
   "now": {
-    "artist": "Chicago",
-    "title": "Does Anybody Really Know What Time It Is?",
-    "album": "Chicago Transit Authority • 1969",
+    "artist": "Rolling Stones",
+    "title": "Tumbling Dice",
+    "album": "Exile on Main St. • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:58 am",
-      "artist": "Rolling Stones",
-      "title": "Tumbling Dice"
-    },
     {
       "time": "8:02 am",
       "artist": "Edwin McCain",
@@ -26,9 +21,20 @@
       "time": "8:08 am",
       "artist": "Amy Winehouse",
       "title": "Back to Black"
+    },
+    {
+      "time": "8:12 am",
+      "artist": "James Carr",
+      "title": "The Dark End of the Street"
     }
   ],
   "recent": [
+    {
+      "time": "7:58 am",
+      "artist": "Rolling Stones",
+      "title": "Tumbling Dice",
+      "album": "Exile on Main St. • 1972"
+    },
     {
       "time": "7:54 am",
       "artist": "Chicago",
@@ -172,12 +178,6 @@
       "artist": "Fishmans",
       "title": "Night Cruising",
       "album": "• 1996"
-    },
-    {
-      "time": "6:22 am",
-      "artist": "Mariah Carey",
-      "title": "#Beautiful",
-      "album": "Me. I Am Mariah The Elusive Chanteuse • 2014"
     }
   ]
 }
