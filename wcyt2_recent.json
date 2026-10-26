@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T12:27:29",
+  "updatedAt": "2026-10-26T12:30:11",
   "now": {
-    "artist": "Elton John",
-    "title": "Harmony",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "The Beach Boys",
+    "title": "Sloop John B.",
+    "album": "Pet Sounds • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "The Beach Boys",
-      "title": "Sloop John B."
-    },
     {
       "time": "12:33 pm",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "12:40 pm",
       "artist": "Fela Kuti",
       "title": "Upside Down"
+    },
+    {
+      "time": "12:47 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "The King of Carrot Flowers, Parts Two & Three"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 pm",
+      "artist": "The Beach Boys",
+      "title": "Sloop John B.",
+      "album": "Pet Sounds • 1966"
+    },
     {
       "time": "12:27 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Cat Power",
       "title": "I Don't Blame You",
       "album": "You Are Free • 2003"
-    },
-    {
-      "time": "10:52 am",
-      "artist": "Coleman Hawkins",
-      "title": "La Rosita",
-      "album": "Coleman Hawkins Encounters Ben Webster • 1959"
     }
   ]
 }
