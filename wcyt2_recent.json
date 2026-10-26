@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T00:58:56",
+  "updatedAt": "2026-10-26T01:02:05",
   "now": {
-    "artist": "Three Dog Night",
-    "title": "An Old Fashioned Love Song",
-    "album": "Harmony • 1971",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Olsen Olsen",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:02 am",
-      "artist": "Sigur Ros",
-      "title": "Olsen Olsen"
-    },
     {
       "time": "1:08 am",
       "artist": "Frankie Lymon & The Teenagers",
@@ -26,9 +21,20 @@
       "time": "1:14 am",
       "artist": "American Breed",
       "title": "Bend Me, Shape Me"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "Kendrick Lamar & SZA",
+      "title": "All the Stars"
     }
   ],
   "recent": [
+    {
+      "time": "1:02 am",
+      "artist": "Sigur Ros",
+      "title": "Olsen Olsen",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "12:58 am",
       "artist": "Three Dog Night",
@@ -172,12 +178,6 @@
       "artist": "The Fall",
       "title": "Paint Work",
       "album": "This Nation's Saving Grace • 1985"
-    },
-    {
-      "time": "11:12 pm",
-      "artist": "The Presidents of the United States of America",
-      "title": "Video Killed The Radio Star",
-      "album": "Pure Frosting • 1997"
     }
   ]
 }
