@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T16:19:33",
+  "updatedAt": "2026-10-26T16:22:39",
   "now": {
-    "artist": "Gloria Gaynor",
-    "title": "I Will Survive",
-    "album": "Love Tracks • 1978",
+    "artist": "The Beach Boys",
+    "title": "I Get Around",
+    "album": "All Summer Long • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:22 pm",
-      "artist": "The Beach Boys",
-      "title": "I Get Around"
-    },
     {
       "time": "4:24 pm",
       "artist": "AC/DC",
@@ -26,9 +21,20 @@
       "time": "4:29 pm",
       "artist": "Jackie Wilson",
       "title": "Lonely Teardrops"
+    },
+    {
+      "time": "4:32 pm",
+      "artist": "Beck",
+      "title": "It's All in Your Mind"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 pm",
+      "artist": "The Beach Boys",
+      "title": "I Get Around",
+      "album": "All Summer Long • 1964"
+    },
     {
       "time": "4:19 pm",
       "artist": "Gloria Gaynor",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Fluorescent Adolescent",
       "album": "Favourite Worst Nightmare • 2007"
-    },
-    {
-      "time": "2:45 pm",
-      "artist": "Pharrell Williams",
-      "title": "Happy",
-      "album": "Despicable Me 2 soundtrack • 2013"
     }
   ]
 }
