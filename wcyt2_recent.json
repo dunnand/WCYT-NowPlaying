@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T23:29:30",
+  "updatedAt": "2026-10-25T23:29:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Up On The Roof",
+    "album": "Flag • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:29 pm",
-      "artist": "James Taylor",
-      "title": "Up On The Roof"
-    },
     {
       "time": "11:33 pm",
       "artist": "Jim Croce",
@@ -26,9 +21,20 @@
       "time": "11:40 pm",
       "artist": "Brenda Lee",
       "title": "I'm sorry"
+    },
+    {
+      "time": "11:43 pm",
+      "artist": "John Denver",
+      "title": "Sunshine On My Shoulders"
     }
   ],
   "recent": [
+    {
+      "time": "11:29 pm",
+      "artist": "James Taylor",
+      "title": "Up On The Roof",
+      "album": "Flag • 1979"
+    },
     {
       "time": "11:26 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Little Richard",
       "title": "Keep a Knockin'",
       "album": "Little Richard • 1958"
-    },
-    {
-      "time": "9:52 pm",
-      "artist": "Lush",
-      "title": "Sweetness and Light",
-      "album": "Gala • 1990"
     }
   ]
 }
