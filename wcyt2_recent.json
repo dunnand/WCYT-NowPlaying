@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T13:59:29",
+  "updatedAt": "2026-10-26T14:01:32",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Say Yes",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Green Day",
+    "title": "Coming Clean",
+    "album": "Dookie • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 pm",
-      "artist": "Green Day",
-      "title": "Coming Clean"
-    },
     {
       "time": "2:03 pm",
       "artist": "Doug E. Fresh",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:01 pm",
+      "artist": "Green Day",
+      "title": "Coming Clean",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "1:59 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Eagles",
       "title": "Best Of My Love",
       "album": "On the Border • 1974"
-    },
-    {
-      "time": "12:30 pm",
-      "artist": "The Beach Boys",
-      "title": "Sloop John B.",
-      "album": "Pet Sounds • 1966"
     }
   ]
 }
