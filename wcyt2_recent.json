@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T01:32:17",
+  "updatedAt": "2026-10-26T01:32:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Petty",
+    "title": "Yer So Bad",
+    "album": "Full Moon Fever • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:32 am",
-      "artist": "Tom Petty",
-      "title": "Yer So Bad"
-    },
     {
       "time": "1:35 am",
       "artist": "Bruno Mars",
@@ -26,9 +21,20 @@
       "time": "1:42 am",
       "artist": "Lipps Inc.",
       "title": "Funky Town"
+    },
+    {
+      "time": "1:46 am",
+      "artist": "Dido",
+      "title": "Thank You"
     }
   ],
   "recent": [
+    {
+      "time": "1:32 am",
+      "artist": "Tom Petty",
+      "title": "Yer So Bad",
+      "album": "Full Moon Fever • 1989"
+    },
     {
       "time": "1:28 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Primal Scream",
       "title": "Come Together",
       "album": "Screamadelica • 1991"
-    },
-    {
-      "time": "11:43 pm",
-      "artist": "John Denver",
-      "title": "Sunshine On My Shoulders",
-      "album": "Poems, Prayers & Promises • 1971"
     }
   ]
 }
