@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T13:55:44",
+  "updatedAt": "2026-10-26T13:59:29",
   "now": {
-    "artist": "Maroon 5",
-    "title": "Love Somebody",
-    "album": "HA201314 4 • 2012",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Say Yes",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:59 pm",
-      "artist": "Elliott Smith",
-      "title": "Say Yes"
-    },
     {
       "time": "2:01 pm",
       "artist": "Green Day",
@@ -26,9 +21,20 @@
       "time": "2:09 pm",
       "artist": "Eagles",
       "title": "The Long Run"
+    },
+    {
+      "time": "2:13 pm",
+      "artist": "Koji Kondo",
+      "title": "Super Mario 64 (Staff Roll)"
     }
   ],
   "recent": [
+    {
+      "time": "1:59 pm",
+      "artist": "Elliott Smith",
+      "title": "Say Yes",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "1:55 pm",
       "artist": "Maroon 5",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Sloop John B.",
       "album": "Pet Sounds • 1966"
-    },
-    {
-      "time": "12:27 pm",
-      "artist": "Elton John",
-      "title": "Harmony",
-      "album": "Goodbye Yellow Brick Road • 1973"
     }
   ]
 }
