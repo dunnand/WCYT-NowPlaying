@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T16:41:29",
+  "updatedAt": "2026-10-26T16:41:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Human Behaviour",
+    "album": "Debut • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:41 pm",
-      "artist": "Bjork",
-      "title": "Human Behaviour"
-    },
     {
       "time": "4:45 pm",
       "artist": "Superchunk",
@@ -26,9 +21,20 @@
       "time": "4:54 pm",
       "artist": "Irene Cara",
       "title": "Fame"
+    },
+    {
+      "time": "4:57 pm",
+      "artist": "David Wise",
+      "title": "Donkey Kong Country: Tropical Freeze (Staff Roll)"
     }
   ],
   "recent": [
+    {
+      "time": "4:41 pm",
+      "artist": "Bjork",
+      "title": "Human Behaviour",
+      "album": "Debut • 1993"
+    },
     {
       "time": "4:38 pm",
       "artist": "Men I Trust",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "Maybe I'm Amazed",
       "album": "McCartney • 1970"
-    },
-    {
-      "time": "3:10 pm",
-      "artist": "Olivia Newton-John",
-      "title": "Please Mr. Please",
-      "album": "Have You Never Been Mellow • 1975"
     }
   ]
 }
