@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T14:56:19",
+  "updatedAt": "2026-10-26T14:59:35",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "R U Mine?",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Elvis Costello",
+    "title": "Veronica",
+    "album": "Spike • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:59 pm",
-      "artist": "Elvis Costello",
-      "title": "Veronica"
-    },
     {
       "time": "3:02 pm",
       "artist": "Eurythmics",
@@ -26,9 +21,20 @@
       "time": "3:10 pm",
       "artist": "Olivia Newton",
       "title": "John - Please Mr. Please"
+    },
+    {
+      "time": "3:14 pm",
+      "artist": "Paul McCartney",
+      "title": "Maybe I'm Amazed"
     }
   ],
   "recent": [
+    {
+      "time": "2:59 pm",
+      "artist": "Elvis Costello",
+      "title": "Veronica",
+      "album": "Spike • 1989"
+    },
     {
       "time": "2:56 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Michael Murphey",
       "title": "Wildfire",
       "album": "Night Thunder • 1975"
-    },
-    {
-      "time": "1:34 pm",
-      "artist": "The Cookies",
-      "title": "Chains",
-      "album": "single • 1962"
     }
   ]
 }
