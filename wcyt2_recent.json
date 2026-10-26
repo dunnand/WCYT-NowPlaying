@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T22:03:10",
+  "updatedAt": "2026-10-25T22:03:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Surfer Girl",
+    "album": "Surfer Girl • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:03 pm",
-      "artist": "The Beach Boys",
-      "title": "Surfer Girl"
-    },
     {
       "time": "10:05 pm",
       "artist": "Justin Bieber",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:03 pm",
+      "artist": "The Beach Boys",
+      "title": "Surfer Girl",
+      "album": "Surfer Girl • 1963"
+    },
     {
       "time": "9:59 pm",
       "artist": "Air",
@@ -172,12 +173,6 @@
       "artist": "All-American Rejects",
       "title": "Move Along",
       "album": "Move Along • 2005"
-    },
-    {
-      "time": "8:23 pm",
-      "artist": "Joy Division",
-      "title": "New Dawn Fades",
-      "album": "Unknown Pleasures • 1979"
     }
   ]
 }
