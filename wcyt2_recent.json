@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T13:50:02",
+  "updatedAt": "2026-10-26T13:50:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Broadcast",
+    "title": "Come On Let's Go",
+    "album": "The Noise Made by People • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 pm",
-      "artist": "Broadcast",
-      "title": "Come On Let's Go"
-    },
     {
       "time": "1:53 pm",
       "artist": "Aphex Twin",
@@ -26,9 +21,20 @@
       "time": "1:59 pm",
       "artist": "Elliott Smith",
       "title": "Say Yes"
+    },
+    {
+      "time": "2:01 pm",
+      "artist": "Green Day",
+      "title": "Coming Clean"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "Broadcast",
+      "title": "Come On Let's Go",
+      "album": "The Noise Made by People • 2000"
+    },
     {
       "time": "1:46 pm",
       "artist": "Katy Perry",
@@ -172,12 +178,6 @@
       "artist": "Dexy's Midnight Runners",
       "title": "Geno",
       "album": "Searching for the Young Soul Rebels • 1980"
-    },
-    {
-      "time": "12:17 pm",
-      "artist": "Descendents",
-      "title": "My Age",
-      "album": "Milo Goes to College • 1982"
     }
   ]
 }
