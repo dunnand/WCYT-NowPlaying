@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T02:59:18",
+  "updatedAt": "2026-10-26T03:03:06",
   "now": {
-    "artist": "Ween",
-    "title": "Voodoo Lady",
-    "album": "Chocolate and Cheese • 1994",
-    "category": "TUNES"
+    "artist": "Mickey & Sylvia",
+    "title": "Love Is Strange",
+    "album": "Single • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 am",
-      "artist": "Mickey & Sylvia",
-      "title": "Love Is Strange"
-    },
     {
       "time": "3:05 am",
       "artist": "Broken Social Scene",
@@ -26,9 +21,20 @@
       "time": "3:14 am",
       "artist": "Preservation Hall Jazz Band",
       "title": "That's It!"
+    },
+    {
+      "time": "3:18 am",
+      "artist": "Aerosmith",
+      "title": "Cryin'"
     }
   ],
   "recent": [
+    {
+      "time": "3:03 am",
+      "artist": "Mickey & Sylvia",
+      "title": "Love Is Strange",
+      "album": "Single • 1956"
+    },
     {
       "time": "2:59 am",
       "artist": "Ween",
@@ -172,12 +178,6 @@
       "artist": "Queen",
       "title": "Another One Bites The Dust",
       "album": "The Game • 1981"
-    },
-    {
-      "time": "1:24 am",
-      "artist": "Sugar Ray",
-      "title": "Fly",
-      "album": "Floored • 1997"
     }
   ]
 }
