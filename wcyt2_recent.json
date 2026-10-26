@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T08:55:17",
+  "updatedAt": "2026-10-26T08:59:03",
   "now": {
-    "artist": "Billy Joel",
-    "title": "The River Of Dreams",
-    "album": "River of Dreams • 1993",
+    "artist": "Jerry Lee Lewis",
+    "title": "Whole Lotta Shakin' Going on",
+    "album": "Single • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 am",
-      "artist": "Jerry Lee Lewis",
-      "title": "Whole Lotta Shakin' Going on"
-    },
     {
       "time": "9:01 am",
       "artist": "Cat Power",
@@ -26,9 +21,20 @@
       "time": "9:08 am",
       "artist": "James Blake",
       "title": "Limit to Your Love"
+    },
+    {
+      "time": "9:12 am",
+      "artist": "R.E.M.",
+      "title": "Losing My Religion"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 am",
+      "artist": "Jerry Lee Lewis",
+      "title": "Whole Lotta Shakin' Going on",
+      "album": "Single • 1957"
+    },
     {
       "time": "8:55 am",
       "artist": "Billy Joel",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Little Sister",
       "album": "single • 1961"
-    },
-    {
-      "time": "7:11 am",
-      "artist": "Animal Collective",
-      "title": "Fireworks",
-      "album": "Strawberry Jam • 2007"
     }
   ]
 }
