@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T22:55:34",
+  "updatedAt": "2026-10-25T22:55:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ricky Nelson",
+    "title": "I'm Walkin'",
+    "album": "Ricky • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:55 pm",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'"
-    },
     {
       "time": "10:57 pm",
       "artist": "Beyonce",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:55 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'",
+      "album": "Ricky • 1957"
+    },
     {
       "time": "10:52 pm",
       "artist": "The Olivia Tremor Control",
@@ -172,12 +173,6 @@
       "artist": "Joy Division",
       "title": "Love Will Tear Us Apart",
       "album": "Single • 1980"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Low",
-      "title": "Lullaby",
-      "album": "I Could Live in Hope • 1994"
     }
   ]
 }
