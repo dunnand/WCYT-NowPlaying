@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T04:38:42",
+  "updatedAt": "2026-10-26T04:52:19",
   "now": {
-    "artist": "Peter Frampton",
-    "title": "Do You Feel Like We Do",
-    "album": "Frampton Comes Alive! • 1976",
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "album": "Piano Man • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:52 am",
-      "artist": "Billy Joel",
-      "title": "Piano Man"
-    },
     {
       "time": "4:55 am",
       "artist": "Amadou & Mariam",
@@ -26,9 +21,20 @@
       "time": "5:01 am",
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "We’ve Got Tonight"
+    },
+    {
+      "time": "5:06 am",
+      "artist": "Bonnie Raitt",
+      "title": "I Can't Make You Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 am",
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "album": "Piano Man • 1973"
+    },
     {
       "time": "4:38 am",
       "artist": "Peter Frampton",
@@ -172,12 +178,6 @@
       "artist": "Broken Social Scene",
       "title": "Cause = Time",
       "album": "You Forgot It In People • 2002"
-    },
-    {
-      "time": "3:03 am",
-      "artist": "Mickey & Sylvia",
-      "title": "Love Is Strange",
-      "album": "Single • 1956"
     }
   ]
 }
