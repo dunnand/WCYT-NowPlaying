@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T03:34:48",
+  "updatedAt": "2026-10-26T03:34:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABC",
+    "title": "Poison Arrow",
+    "album": "The Lexicon of Love • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:34 am",
-      "artist": "ABC",
-      "title": "Poison Arrow"
-    },
     {
       "time": "3:38 am",
       "artist": "Harry Styles",
@@ -26,9 +21,20 @@
       "time": "3:45 am",
       "artist": "King Floyd",
       "title": "Groove Me"
+    },
+    {
+      "time": "3:48 am",
+      "artist": "Deerhoof",
+      "title": "This Magnificent Bird Will Rise"
     }
   ],
   "recent": [
+    {
+      "time": "3:34 am",
+      "artist": "ABC",
+      "title": "Poison Arrow",
+      "album": "The Lexicon of Love • 1982"
+    },
     {
       "time": "3:30 am",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Elton John",
       "title": "Saturday Night's Alright for Fighting",
       "album": "Goodbye Yellow Brick Road • 1973"
-    },
-    {
-      "time": "1:49 am",
-      "artist": "Lizzo",
-      "title": "Juice",
-      "album": "Cuz I Love You • 2019"
     }
   ]
 }
