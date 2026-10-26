@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T01:32:49",
+  "updatedAt": "2026-10-26T01:35:43",
   "now": {
-    "artist": "Tom Petty",
-    "title": "Yer So Bad",
-    "album": "Full Moon Fever • 1989",
+    "artist": "Bruno Mars",
+    "title": "I Just Might",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 am",
-      "artist": "Bruno Mars",
-      "title": "I Just Might"
-    },
     {
       "time": "1:39 am",
       "artist": "Animal Collective",
@@ -26,9 +21,20 @@
       "time": "1:46 am",
       "artist": "Dido",
       "title": "Thank You"
+    },
+    {
+      "time": "1:49 am",
+      "artist": "Lizzo",
+      "title": "Juice"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 am",
+      "artist": "Bruno Mars",
+      "title": "I Just Might",
+      "album": ""
+    },
     {
       "time": "1:32 am",
       "artist": "Tom Petty",
@@ -172,12 +178,6 @@
       "artist": "The Roots",
       "title": "What They Do",
       "album": "Illadelph Halflife • 1996"
-    },
-    {
-      "time": "11:48 pm",
-      "artist": "Primal Scream",
-      "title": "Come Together",
-      "album": "Screamadelica • 1991"
     }
   ]
 }
