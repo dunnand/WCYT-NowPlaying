@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T16:22:39",
+  "updatedAt": "2026-10-26T16:24:42",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "I Get Around",
-    "album": "All Summer Long • 1964",
+    "artist": "AC/DC",
+    "title": "Highway to Hell",
+    "album": "Highway to Hell • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:24 pm",
-      "artist": "AC/DC",
-      "title": "Highway to Hell"
-    },
     {
       "time": "4:28 pm",
       "artist": "Beck",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:24 pm",
+      "artist": "AC/DC",
+      "title": "Highway to Hell",
+      "album": "Highway to Hell • 1979"
+    },
     {
       "time": "4:22 pm",
       "artist": "The Beach Boys",
@@ -172,12 +173,6 @@
       "artist": "America",
       "title": "A Horse With No Name",
       "album": "America • 1971"
-    },
-    {
-      "time": "2:49 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Fluorescent Adolescent",
-      "album": "Favourite Worst Nightmare • 2007"
     }
   ]
 }
