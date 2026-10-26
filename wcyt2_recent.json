@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T08:24:40",
+  "updatedAt": "2026-10-26T08:26:13",
   "now": {
-    "artist": "The Magnetic Fields",
-    "title": "Absolutely Cuckoo",
-    "album": "69 Love Songs • 1999",
-    "category": "TUNES"
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "title": "Like A Rock",
+    "album": "Like a Rock • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:26 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Like A Rock"
-    },
     {
       "time": "8:32 am",
       "artist": "Bon Jovi",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:26 am",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Like A Rock",
+      "album": "Like a Rock • 1986"
+    },
     {
       "time": "8:24 am",
       "artist": "The Magnetic Fields",
@@ -172,12 +173,6 @@
       "artist": "The Weeknd",
       "title": "Can't Feel My Face",
       "album": ""
-    },
-    {
-      "time": "6:38 am",
-      "artist": "Bananarama",
-      "title": "Cruel Summer",
-      "album": "Bananarama • 1984"
     }
   ]
 }
