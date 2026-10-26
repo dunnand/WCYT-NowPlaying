@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-10-26T07:24:41",
+  "updatedAt": "2026-10-26T07:27:53",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Baby Britain",
-    "album": "XO • 1998",
-    "category": "TUNES"
+    "artist": "Cher",
+    "title": "Believe",
+    "album": "Believe • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:27 am",
-      "artist": "Cher",
-      "title": "Believe"
-    },
-    {
-      "time": "7:32 am",
+      "time": "7:31 am",
       "artist": "Barbra Streisand",
       "title": "Memory"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:27 am",
+      "artist": "Cher",
+      "title": "Believe",
+      "album": "Believe • 1998"
+    },
     {
       "time": "7:24 am",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Aesop Rock",
       "title": "Labor",
       "album": "Labor Days • 2001"
-    },
-    {
-      "time": "5:56 am",
-      "artist": "The Carpenters",
-      "title": "Only Yesterday",
-      "album": "Horizon • 1975"
     }
   ]
 }
