@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T15:10:53",
+  "updatedAt": "2026-10-26T15:14:07",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "Please Mr. Please",
-    "album": "Have You Never Been Mellow • 1975",
+    "artist": "Paul McCartney",
+    "title": "Maybe I'm Amazed",
+    "album": "McCartney • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 pm",
-      "artist": "Paul McCartney",
-      "title": "Maybe I'm Amazed"
-    },
     {
       "time": "3:18 pm",
       "artist": "The Black Keys",
@@ -26,9 +21,20 @@
       "time": "3:26 pm",
       "artist": "Styx",
       "title": "Fooling Yourself (The Angry Young Man)"
+    },
+    {
+      "time": "3:31 pm",
+      "artist": "Del Amitri",
+      "title": "Roll To Me"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 pm",
+      "artist": "Paul McCartney",
+      "title": "Maybe I'm Amazed",
+      "album": "McCartney • 1970"
+    },
     {
       "time": "3:10 pm",
       "artist": "Olivia Newton-John",
@@ -172,12 +178,6 @@
       "artist": "Aphex Twin",
       "title": "Avril 14th",
       "album": "Drukqs • 2001"
-    },
-    {
-      "time": "1:50 pm",
-      "artist": "Broadcast",
-      "title": "Come On Let's Go",
-      "album": "The Noise Made by People • 2000"
     }
   ]
 }
