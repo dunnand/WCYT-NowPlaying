@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T07:31:37",
+  "updatedAt": "2026-10-26T07:31:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barbra Streisand",
+    "title": "Memory",
+    "album": "Memories • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:31 am",
-      "artist": "Barbra Streisand",
-      "title": "Memory"
-    },
     {
       "time": "7:35 am",
       "artist": "Bobby Brown",
@@ -26,9 +21,20 @@
       "time": "7:43 am",
       "artist": "Johnny Williams",
       "title": "Slow Motion (Part 1)"
+    },
+    {
+      "time": "7:46 am",
+      "artist": "Rod Stewart",
+      "title": "The First Cut Is The Deepest"
     }
   ],
   "recent": [
+    {
+      "time": "7:31 am",
+      "artist": "Barbra Streisand",
+      "title": "Memory",
+      "album": "Memories • 1981"
+    },
     {
       "time": "7:27 am",
       "artist": "Cher",
@@ -172,12 +178,6 @@
       "artist": "Maggie Rogers",
       "title": "On + Off",
       "album": "Heard It in a Past Life • 2019"
-    },
-    {
-      "time": "6:00 am",
-      "artist": "Aesop Rock",
-      "title": "Labor",
-      "album": "Labor Days • 2001"
     }
   ]
 }
