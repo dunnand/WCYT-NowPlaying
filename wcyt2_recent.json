@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T22:39:20",
+  "updatedAt": "2026-10-25T22:39:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Bright Eyes",
+    "title": "Lua",
+    "album": "Fevers Mirrors • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:39 pm",
-      "artist": "Bright Eyes",
-      "title": "Lua"
-    },
     {
       "time": "10:43 pm",
       "artist": "Frankie Valli",
@@ -26,9 +21,20 @@
       "time": "10:52 pm",
       "artist": "The Olivia Tremor Control",
       "title": "The Opera House"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'"
     }
   ],
   "recent": [
+    {
+      "time": "10:39 pm",
+      "artist": "Bright Eyes",
+      "title": "Lua",
+      "album": "Fevers Mirrors • 2000"
+    },
     {
       "time": "10:35 pm",
       "artist": "Eric Clapton",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "Walking To New Orleans",
       "album": "single • 1960"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "Bright Eyes",
-      "title": "Haligh, Haligh, A Lie, Haligh",
-      "album": "Fevers Mirrors • 2000"
     }
   ]
 }
