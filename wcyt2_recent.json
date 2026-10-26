@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T22:17:05",
+  "updatedAt": "2026-10-25T22:17:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Lionel Richie",
+    "title": "You Are",
+    "album": "Lionel Richie • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:17 pm",
-      "artist": "Lionel Richie",
-      "title": "You Are"
-    },
     {
       "time": "10:21 pm",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "10:30 pm",
       "artist": "Eno",
       "title": "Baby's on Fire"
+    },
+    {
+      "time": "10:35 pm",
+      "artist": "Eric Clapton",
+      "title": "Wonderful Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "10:17 pm",
+      "artist": "Lionel Richie",
+      "title": "You Are",
+      "album": "Lionel Richie • 1982"
+    },
     {
       "time": "10:13 pm",
       "artist": "Michael Jackson",
@@ -172,12 +178,6 @@
       "artist": "Lil Nas X",
       "title": "Old Town Road (feat. Billy Ray Cyrus)",
       "album": "7 • 2019"
-    },
-    {
-      "time": "8:38 pm",
-      "artist": "Avenged Sevenfold",
-      "title": "Bat Country",
-      "album": "City of Evil • 2005"
     }
   ]
 }
