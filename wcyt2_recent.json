@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T21:25:18",
+  "updatedAt": "2026-10-25T21:30:28",
   "now": {
-    "artist": "Kate Bush",
-    "title": "Cloudbusting",
-    "album": "Hounds of Love • 1985",
+    "artist": "Olivia Rodrigo",
+    "title": "stupid song",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "stupid song"
-    },
     {
       "time": "9:33 pm",
       "artist": "Melissa Manchester",
@@ -21,9 +16,20 @@
       "time": "9:37 pm",
       "artist": "ABBA",
       "title": "Fernando"
+    },
+    {
+      "time": "9:41 pm",
+      "artist": "Arcade Fire",
+      "title": "Rebellion (Lies)"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "stupid song",
+      "album": ""
+    },
     {
       "time": "9:25 pm",
       "artist": "Kate Bush",
@@ -167,12 +173,6 @@
       "artist": "Patrick Hernandez",
       "title": "Born To Be Alive",
       "album": "Born to Be Alive • 1979"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "Bloc Party",
-      "title": "Banquet",
-      "album": "Silent Alarm • 2005"
     }
   ]
 }
