@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T05:56:40",
+  "updatedAt": "2026-10-26T06:00:26",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Only Yesterday",
-    "album": "Horizon • 1975",
+    "artist": "Aesop Rock",
+    "title": "Labor",
+    "album": "Labor Days • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:00 am",
-      "artist": "Aesop Rock",
-      "title": "Labor"
-    },
     {
       "time": "6:02 am",
       "artist": "Maggie Rogers",
@@ -31,9 +26,20 @@
       "time": "6:14 am",
       "artist": "Jimmie Rodgers",
       "title": "Honeycomb"
+    },
+    {
+      "time": "6:16 am",
+      "artist": "The Apples in Stereo",
+      "title": "Go"
     }
   ],
   "recent": [
+    {
+      "time": "6:00 am",
+      "artist": "Aesop Rock",
+      "title": "Labor",
+      "album": "Labor Days • 2001"
+    },
     {
       "time": "5:56 am",
       "artist": "The Carpenters",
@@ -177,12 +183,6 @@
       "artist": "Elvis Presley",
       "title": "In The Ghetto",
       "album": "From Elvis in Memphis • 1969"
-    },
-    {
-      "time": "4:06 am",
-      "artist": "Arctic Monkeys",
-      "title": "505",
-      "album": "Favourite Worst Nightmare • 2007"
     }
   ]
 }
