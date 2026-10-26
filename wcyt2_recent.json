@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T21:37:30",
+  "updatedAt": "2026-10-25T21:41:36",
   "now": {
-    "artist": "ABBA",
-    "title": "Fernando",
-    "album": "Greatest Hits • 1975",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Rebellion (Lies)",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:41 pm",
-      "artist": "Arcade Fire",
-      "title": "Rebellion (Lies)"
-    },
     {
       "time": "9:46 pm",
       "artist": "The Cookies",
@@ -26,9 +21,20 @@
       "time": "9:52 pm",
       "artist": "Lush",
       "title": "Sweetness and Light"
+    },
+    {
+      "time": "9:57 pm",
+      "artist": "Little Richard",
+      "title": "Keep a Knockin'"
     }
   ],
   "recent": [
+    {
+      "time": "9:41 pm",
+      "artist": "Arcade Fire",
+      "title": "Rebellion (Lies)",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "9:37 pm",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "So Far Away",
       "album": "Great American Songbook, Vol. 2 • 1995"
-    },
-    {
-      "time": "7:54 pm",
-      "artist": "Prince and the New Power Generation",
-      "title": "7",
-      "album": "Love Symbol • 1992"
     }
   ]
 }
