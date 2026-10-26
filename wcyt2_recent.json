@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T19:37:07",
+  "updatedAt": "2026-10-26T19:41:24",
   "now": {
-    "artist": "Deep Blue Something",
-    "title": "Breakfast At Tiffany's",
-    "album": "11th Song • 1995",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Song 2",
+    "album": "Blur • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:41 pm",
-      "artist": "Blur",
-      "title": "Song 2"
-    },
     {
       "time": "7:43 pm",
       "artist": "MC Lyte",
@@ -23,12 +18,18 @@
       "title": "Down Under"
     },
     {
-      "time": "7:50 pm",
+      "time": "7:49 pm",
       "artist": "Run The Jewels",
       "title": "walking in the snow"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 pm",
+      "artist": "Blur",
+      "title": "Song 2",
+      "album": "Blur • 1997"
+    },
     {
       "time": "7:37 pm",
       "artist": "Deep Blue Something",
@@ -172,12 +173,6 @@
       "artist": "Air",
       "title": "Cherry Blossom Girl",
       "album": "Talkie Walkie • 2004"
-    },
-    {
-      "time": "6:00 pm",
-      "artist": "Captain & Tennille",
-      "title": "Shop Around",
-      "album": "Song of Joy • 1976"
     }
   ]
 }
