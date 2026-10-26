@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T12:27:07",
+  "updatedAt": "2026-10-26T12:27:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Harmony",
+    "album": "Goodbye Yellow Brick Road • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:27 pm",
-      "artist": "Elton John",
-      "title": "Harmony"
-    },
     {
       "time": "12:30 pm",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "12:37 pm",
       "artist": "Dionne Warwick",
       "title": "I Say A Little Prayer"
+    },
+    {
+      "time": "12:40 pm",
+      "artist": "Fela Kuti",
+      "title": "Upside Down"
     }
   ],
   "recent": [
+    {
+      "time": "12:27 pm",
+      "artist": "Elton John",
+      "title": "Harmony",
+      "album": "Goodbye Yellow Brick Road • 1973"
+    },
     {
       "time": "12:23 pm",
       "artist": "Kenta Nagata, Satomi Terui",
@@ -172,12 +178,6 @@
       "artist": "Coleman Hawkins",
       "title": "La Rosita",
       "album": "Coleman Hawkins Encounters Ben Webster • 1959"
-    },
-    {
-      "time": "10:46 am",
-      "artist": "The Flaming Lips",
-      "title": "Feeling Yourself Disintegrate",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
