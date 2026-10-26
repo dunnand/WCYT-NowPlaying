@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T16:32:38",
+  "updatedAt": "2026-10-26T16:35:42",
   "now": {
-    "artist": "Beck",
-    "title": "It's All in Your Mind",
-    "album": "Sea Change • 2002",
-    "category": "TUNES"
+    "artist": "The Beach Boys",
+    "title": "Fun, Fun, Fun",
+    "album": "Shut Down Volume 2 • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 pm",
-      "artist": "The Beach Boys",
-      "title": "Fun, Fun, Fun"
-    },
     {
       "time": "4:37 pm",
       "artist": "Men I Trust",
@@ -21,9 +16,20 @@
       "time": "4:41 pm",
       "artist": "Bjork",
       "title": "Human Behaviour"
+    },
+    {
+      "time": "4:45 pm",
+      "artist": "Superchunk",
+      "title": "Like a Fool"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 pm",
+      "artist": "The Beach Boys",
+      "title": "Fun, Fun, Fun",
+      "album": "Shut Down Volume 2 • 1964"
+    },
     {
       "time": "4:32 pm",
       "artist": "Beck",
@@ -167,12 +173,6 @@
       "artist": "unknown",
       "title": "NES Remix Pack (Records Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "3:02 pm",
-      "artist": "Eurythmics",
-      "title": "Would I Lie To You",
-      "album": "Be Yourself Tonight • 1985"
     }
   ]
 }
