@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-25T22:17:17",
+  "updatedAt": "2026-10-25T22:21:13",
   "now": {
-    "artist": "Lionel Richie",
-    "title": "You Are",
-    "album": "Lionel Richie • 1982",
+    "artist": "Rod Stewart",
+    "title": "Tonight I'm Yours (Don't Hurt Me)",
+    "album": "Tonight Im Yours • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:21 pm",
-      "artist": "Rod Stewart",
-      "title": "Tonight I'm Yours (Don't Hurt Me)"
-    },
     {
       "time": "10:25 pm",
       "artist": "Olivia Rodrigo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:21 pm",
+      "artist": "Rod Stewart",
+      "title": "Tonight I'm Yours (Don't Hurt Me)",
+      "album": "Tonight Im Yours • 1982"
+    },
     {
       "time": "10:17 pm",
       "artist": "Lionel Richie",
@@ -172,12 +173,6 @@
       "artist": "Kansas",
       "title": "Dust In The Wind",
       "album": "Point of Know Return • 1978"
-    },
-    {
-      "time": "8:43 pm",
-      "artist": "Lil Nas X",
-      "title": "Old Town Road (feat. Billy Ray Cyrus)",
-      "album": "7 • 2019"
     }
   ]
 }
