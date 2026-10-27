@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T14:11:12",
+  "updatedAt": "2026-10-27T14:14:16",
   "now": {
-    "artist": "Kool & The Gang",
-    "title": "Funky Stuff",
-    "album": "Wild and Peaceful • 1973",
+    "artist": "Extreme",
+    "title": "More Than Words",
+    "album": "Extreme II • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:14 pm",
-      "artist": "Extreme",
-      "title": "More Than Words"
-    },
     {
       "time": "2:17 pm",
       "artist": "Muddy Waters",
@@ -21,9 +16,20 @@
       "time": "2:20 pm",
       "artist": "Chromatics",
       "title": "In The City"
+    },
+    {
+      "time": "2:28 pm",
+      "artist": "Bobby Vinton",
+      "title": "Blue Velvet"
     }
   ],
   "recent": [
+    {
+      "time": "2:14 pm",
+      "artist": "Extreme",
+      "title": "More Than Words",
+      "album": "Extreme II • 1991"
+    },
     {
       "time": "2:11 pm",
       "artist": "Kool & The Gang",
@@ -167,12 +173,6 @@
       "artist": "Psy",
       "title": "Gangnam Style",
       "album": "PSY 6 Six Rules, Part 1 • 2012"
-    },
-    {
-      "time": "12:35 pm",
-      "artist": "Boards of Canada",
-      "title": "Music Is Math",
-      "album": "Geogaddi • 2002"
     }
   ]
 }
