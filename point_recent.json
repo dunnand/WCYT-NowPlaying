@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T12:21:26",
+  "updatedAt": "2026-10-27T12:21:48",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Neutral Milk Hotel",
+    "title": "Oh Comely",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:21 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Oh Comely"
-    },
     {
       "time": "12:29 pm",
       "artist": "Big Thief",
@@ -26,9 +21,20 @@
       "time": "12:36 pm",
       "artist": "The Brook & The Bluff",
       "title": "Long Limbs"
+    },
+    {
+      "time": "12:39 pm",
+      "artist": "Nation of Language",
+      "title": "Silhouette"
     }
   ],
   "recent": [
+    {
+      "time": "12:21 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Oh Comely",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "12:17 pm",
       "artist": "Stef Chura",
@@ -172,12 +178,6 @@
       "artist": "Wishy",
       "title": "Sensational",
       "album": "Nature's Pill • 2026"
-    },
-    {
-      "time": "10:48 am",
-      "artist": "Sylvan Esso",
-      "title": "Concrete Glen",
-      "album": "Ow Infinity • 2026"
     }
   ]
 }
