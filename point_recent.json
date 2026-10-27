@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T12:55:40",
+  "updatedAt": "2026-10-27T12:59:43",
   "now": {
-    "artist": "Radiohead",
-    "title": "Lucky",
-    "album": "OK Computer • 1997",
+    "artist": "Gigi",
+    "title": "Message",
+    "album": "Thank You Sam • 2025",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 pm",
-      "artist": "Gigi",
-      "title": "Message"
-    },
     {
       "time": "1:02 pm",
       "artist": "2nd Grade",
@@ -26,9 +21,20 @@
       "time": "1:07 pm",
       "artist": "Arctic Monkeys",
       "title": "505"
+    },
+    {
+      "time": "1:11 pm",
+      "artist": "Bully",
+      "title": "Atom Bomb"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 pm",
+      "artist": "Gigi",
+      "title": "Message",
+      "album": "Thank You Sam • 2025"
+    },
     {
       "time": "12:55 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Kevin Morby",
       "title": "PBJ",
       "album": "• 2026"
-    },
-    {
-      "time": "11:20 am",
-      "artist": "Remember Sports",
-      "title": "Ghost",
-      "album": "The Refrigerator • 2026"
     }
   ]
 }
