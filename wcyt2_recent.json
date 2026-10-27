@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T03:44:05",
+  "updatedAt": "2026-10-27T03:44:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Somebody That I Used To Know",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "Elliott Smith",
-      "title": "Somebody That I Used To Know"
-    },
     {
       "time": "3:46 am",
       "artist": "The Four Seasons",
@@ -31,9 +26,20 @@
       "time": "3:55 am",
       "artist": "Huey \"Piano\" Smith",
       "title": "Rocking Pneumonia and the Boogie Woogie Flu"
+    },
+    {
+      "time": "3:58 am",
+      "artist": "Camera Obscura",
+      "title": "Eighties Fan"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "Elliott Smith",
+      "title": "Somebody That I Used To Know",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "3:40 am",
       "artist": "Fleetwood Mac",
@@ -177,12 +183,6 @@
       "artist": "Etta James",
       "title": "I Just Want To Make Love To You",
       "album": "At Last! • 1960"
-    },
-    {
-      "time": "2:06 am",
-      "artist": "Franz Ferdinand",
-      "title": "Do You Want To",
-      "album": "You Could Have It So Much Better • 2005"
     }
   ]
 }
