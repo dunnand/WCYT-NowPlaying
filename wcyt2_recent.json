@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T07:00:19",
+  "updatedAt": "2026-10-27T07:00:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Spandau Ballet",
+    "title": "True",
+    "album": "True • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 am",
-      "artist": "Spandau Ballet",
-      "title": "True"
-    },
     {
       "time": "7:05 am",
       "artist": "Malcolm Todd",
@@ -26,9 +21,20 @@
       "time": "7:13 am",
       "artist": "Sparks",
       "title": "This Town Ain't Big Enough for Both of Us"
+    },
+    {
+      "time": "7:16 am",
+      "artist": "Guided by Voices",
+      "title": "My Kind of Soldier"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 am",
+      "artist": "Spandau Ballet",
+      "title": "True",
+      "album": "True • 1983"
+    },
     {
       "time": "6:57 am",
       "artist": "The Smiths",
@@ -172,12 +178,6 @@
       "artist": "Blondie",
       "title": "Heart of Glass",
       "album": "Parallel Lines • 1978"
-    },
-    {
-      "time": "5:33 am",
-      "artist": "Glen Campbell",
-      "title": "By The Time I Get To Phoenix",
-      "album": "By the Time I Get to Phoenix • 1967"
     }
   ]
 }
