@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T23:14:40",
+  "updatedAt": "2026-10-26T23:14:52",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Jack White",
+    "title": "Dollar Bill",
+    "album": "Frozen Charlotte • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:14 pm",
-      "artist": "Jack White",
-      "title": "Dollar Bill"
-    },
     {
       "time": "11:17 pm",
       "artist": "Big Thief",
@@ -21,9 +16,20 @@
       "time": "11:23 pm",
       "artist": "Phoebe Bridgers",
       "title": "On Video"
+    },
+    {
+      "time": "11:27 pm",
+      "artist": "The Avalanches",
+      "title": "Highfield (feat. Panda Bear)"
     }
   ],
   "recent": [
+    {
+      "time": "11:14 pm",
+      "artist": "Jack White",
+      "title": "Dollar Bill",
+      "album": "Frozen Charlotte • 2026"
+    },
     {
       "time": "11:12 pm",
       "artist": "Songs Ohia",
@@ -167,12 +173,6 @@
       "artist": "The Cramps",
       "title": "Garbageman",
       "album": "Off the Bone • 1989"
-    },
-    {
-      "time": "9:28 pm",
-      "artist": "Mac DeMarco",
-      "title": "The Way You'd Love Her",
-      "album": "Another One • 2015"
     }
   ]
 }
