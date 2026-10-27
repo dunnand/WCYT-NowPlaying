@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-10-27T08:02:34",
+  "updatedAt": "2026-10-27T08:05:10",
   "now": {
-    "artist": "Grimes",
-    "title": "You'll miss me when I'm not around",
-    "album": "Miss Anthropocene • 2020",
+    "artist": "Elton John",
+    "title": "Daniel",
+    "album": "Don't Shoot Me I'm Only the Piano Player • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:05 am",
-      "artist": "Elton John",
-      "title": "Daniel"
-    },
     {
       "time": "8:08 am",
       "artist": "The Pointer Sisters",
       "title": "Yes We Can Can"
     },
     {
-      "time": "8:14 am",
+      "time": "8:15 am",
       "artist": "Arcade Fire",
       "title": "Wake Up"
+    },
+    {
+      "time": "8:20 am",
+      "artist": "The Everly Brothers",
+      "title": "Walk Right Back"
+    },
+    {
+      "time": "8:22 am",
+      "artist": "Stampeders",
+      "title": "Sweet City Woman"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 am",
+      "artist": "Elton John",
+      "title": "Daniel",
+      "album": "Don't Shoot Me I'm Only the Piano Player • 1973"
+    },
     {
       "time": "8:02 am",
       "artist": "Grimes",
@@ -167,12 +178,6 @@
       "artist": "Perez Prado",
       "title": "Patricia",
       "album": "single • 1958"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Slowdive",
-      "title": "Catch the Breeze",
-      "album": "Just For A Day • 1991"
     }
   ]
 }
