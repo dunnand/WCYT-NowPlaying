@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T09:50:35",
+  "updatedAt": "2026-10-27T09:50:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Jam",
+    "title": "When You're Young",
+    "album": "single • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 am",
-      "artist": "The Jam",
-      "title": "When You're Young"
-    },
     {
       "time": "9:53 am",
       "artist": "Tom Petty & The Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "9:59 am",
       "artist": "Rolling Stones",
       "title": "Beast Of Burden"
+    },
+    {
+      "time": "10:04 am",
+      "artist": "Stevie Wonder",
+      "title": "Superstition"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 am",
+      "artist": "The Jam",
+      "title": "When You're Young",
+      "album": "single • 1980"
+    },
     {
       "time": "9:47 am",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Walk Right Back",
       "album": "single • 1961"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "Arcade Fire",
-      "title": "Wake Up",
-      "album": "Funeral • 2004"
     }
   ]
 }
