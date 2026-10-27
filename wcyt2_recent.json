@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T05:46:57",
+  "updatedAt": "2026-10-27T05:49:34",
   "now": {
-    "artist": "Common",
-    "title": "Testify",
-    "album": "Be • 2005",
+    "artist": "The Beach Boys",
+    "title": "In My Room",
+    "album": "Surfer Girl • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:49 am",
-      "artist": "The Beach Boys",
-      "title": "In My Room"
-    },
     {
       "time": "5:51 am",
       "artist": "Lizzo",
@@ -21,9 +16,20 @@
       "time": "5:54 am",
       "artist": "Sheryl Crow",
       "title": "Strong Enough"
+    },
+    {
+      "time": "5:57 am",
+      "artist": "Spiritualized",
+      "title": "Broken Heart"
     }
   ],
   "recent": [
+    {
+      "time": "5:49 am",
+      "artist": "The Beach Boys",
+      "title": "In My Room",
+      "album": "Surfer Girl • 1963"
+    },
     {
       "time": "5:46 am",
       "artist": "Common",
@@ -167,12 +173,6 @@
       "artist": "Turnstile",
       "title": "ALIEN LOVE CALL (feat. Blood Orange)",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "4:20 am",
-      "artist": "Scorpions",
-      "title": "No One Like You",
-      "album": "Blackout • 1982"
     }
   ]
 }
