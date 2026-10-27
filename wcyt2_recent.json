@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T10:08:07",
+  "updatedAt": "2026-10-27T10:12:21",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "All My Life",
-    "album": "One by One • 2002",
+    "artist": "Charles Mingus",
+    "title": "Track B: Duet Solo Dancers",
+    "album": "The Black Saint and the Sinner Lady • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:12 am",
-      "artist": "Charles Mingus",
-      "title": "Track B: Duet Solo Dancers"
-    },
     {
       "time": "10:18 am",
       "artist": "T. Rex",
@@ -26,9 +21,20 @@
       "time": "10:28 am",
       "artist": "Portugal The Man",
       "title": "Feel It Still"
+    },
+    {
+      "time": "10:31 am",
+      "artist": "The Decemberists",
+      "title": "California One / Youth and Beauty Brigade"
     }
   ],
   "recent": [
+    {
+      "time": "10:12 am",
+      "artist": "Charles Mingus",
+      "title": "Track B: Duet Solo Dancers",
+      "album": "The Black Saint and the Sinner Lady • 1963"
+    },
     {
       "time": "10:08 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Call the Police",
       "album": "American Dream • 2017"
-    },
-    {
-      "time": "8:35 am",
-      "artist": "Diana Ross & The Supremes",
-      "title": "Love Child",
-      "album": "Love Child • 1968"
     }
   ]
 }
