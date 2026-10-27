@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T08:14:59",
+  "updatedAt": "2026-10-27T08:15:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Wake Up",
+    "album": "Funeral • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:14 am",
-      "artist": "Arcade Fire",
-      "title": "Wake Up"
-    },
     {
       "time": "8:20 am",
       "artist": "The Everly Brothers",
@@ -26,9 +21,20 @@
       "time": "8:26 am",
       "artist": "R.E.M.",
       "title": "The Great Beyond"
+    },
+    {
+      "time": "8:30 am",
+      "artist": "Elvis Presley",
+      "title": "Wear My Ring Around Your Neck"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Arcade Fire",
+      "title": "Wake Up",
+      "album": "Funeral • 2004"
+    },
     {
       "time": "8:09 am",
       "artist": "The Pointer Sisters",
@@ -172,12 +178,6 @@
       "artist": "The Foundations",
       "title": "Build Me Up Buttercup",
       "album": "The Foundations • 1968"
-    },
-    {
-      "time": "6:38 am",
-      "artist": "The Black Keys",
-      "title": "10 A.M. Automatic",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
