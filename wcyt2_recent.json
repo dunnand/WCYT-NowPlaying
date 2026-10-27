@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T09:16:09",
+  "updatedAt": "2026-10-27T09:20:37",
   "now": {
-    "artist": "The Decemberists",
-    "title": "Here I Dreamt I Was an Architect",
-    "album": "Castaways and Cutouts • 2002",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "When the Ship Comes In",
+    "album": "The Times They Are A-Changin' • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:20 am",
-      "artist": "Bob Dylan",
-      "title": "When the Ship Comes In"
-    },
     {
       "time": "9:23 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "9:32 am",
       "artist": "Ricky Nelson",
       "title": "Lonesome Town"
+    },
+    {
+      "time": "9:34 am",
+      "artist": "Arcade Fire",
+      "title": "Une année sans lumière"
     }
   ],
   "recent": [
+    {
+      "time": "9:20 am",
+      "artist": "Bob Dylan",
+      "title": "When the Ship Comes In",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "9:16 am",
       "artist": "The Decemberists",
@@ -172,12 +178,6 @@
       "artist": "Jessie J",
       "title": "Domino",
       "album": "Who You Are • 2011"
-    },
-    {
-      "time": "7:40 am",
-      "artist": "The Association",
-      "title": "Along Comes Mary",
-      "album": "And Then...Along Comes the Association • 1966"
     }
   ]
 }
