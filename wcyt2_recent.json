@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T12:31:30",
+  "updatedAt": "2026-10-27T12:31:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Electric Six",
+    "title": "Danger! High Voltage",
+    "album": "Fire • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Electric Six",
-      "title": "Danger! High Voltage"
-    },
     {
       "time": "12:35 pm",
       "artist": "Boards of Canada",
@@ -26,9 +21,20 @@
       "time": "12:43 pm",
       "artist": "Aerosmith",
       "title": "Crazy"
+    },
+    {
+      "time": "12:47 pm",
+      "artist": "Alice in Chains",
+      "title": "Rooster"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Electric Six",
+      "title": "Danger! High Voltage",
+      "album": "Fire • 2003"
+    },
     {
       "time": "12:27 pm",
       "artist": "Miley Cyrus",
@@ -172,12 +178,6 @@
       "artist": "Wang Chung",
       "title": "Everybody Have Fun Tonight",
       "album": "Mosaic • 1986"
-    },
-    {
-      "time": "10:56 am",
-      "artist": "Tracy Chapman",
-      "title": "Fast Car",
-      "album": "Tracy Chapman • 1988"
     }
   ]
 }
