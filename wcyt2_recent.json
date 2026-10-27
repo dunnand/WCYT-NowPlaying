@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T21:08:07",
+  "updatedAt": "2026-10-26T21:11:53",
   "now": {
-    "artist": "Roxy Music",
-    "title": "Love Is The Drug",
-    "album": "Siren • 1975",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "The Plan",
+    "album": "Keep It Like A Secret • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Built to Spill",
-      "title": "The Plan"
-    },
     {
       "time": "9:15 pm",
       "artist": "Buddy Holly",
@@ -21,9 +16,20 @@
       "time": "9:17 pm",
       "artist": "Broken Social Scene",
       "title": "Almost Crimes (Radio Kills remix)"
+    },
+    {
+      "time": "9:21 pm",
+      "artist": "Bobby Day",
+      "title": "Rockin' Robin"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Built to Spill",
+      "title": "The Plan",
+      "album": "Keep It Like A Secret • 1999"
+    },
     {
       "time": "9:08 pm",
       "artist": "Roxy Music",
@@ -167,12 +173,6 @@
       "artist": "Blur",
       "title": "Song 2",
       "album": "Blur • 1997"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "Deep Blue Something",
-      "title": "Breakfast At Tiffany's",
-      "album": "11th Song • 1995"
     }
   ]
 }
