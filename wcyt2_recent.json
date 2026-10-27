@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T16:48:25",
+  "updatedAt": "2026-10-27T16:50:26",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Blue Suede Shoes",
-    "album": "Elvis Presley • 1956",
+    "artist": "Dinosaur Jr.",
+    "title": "Almost Ready",
+    "album": "Beyond • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 pm",
-      "artist": "Dinosaur Jr.",
-      "title": "Almost Ready"
-    },
     {
       "time": "4:53 pm",
       "artist": "Etta James",
@@ -21,9 +16,20 @@
       "time": "4:56 pm",
       "artist": "Olly Murs",
       "title": "Troublemaker"
+    },
+    {
+      "time": "4:59 pm",
+      "artist": "Brian McKnight",
+      "title": "Back At One"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 pm",
+      "artist": "Dinosaur Jr.",
+      "title": "Almost Ready",
+      "album": "Beyond • 2007"
+    },
     {
       "time": "4:48 pm",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Happy Mondays",
       "title": "Wrote for Luck",
       "album": "Bummed • 1988"
-    },
-    {
-      "time": "3:23 pm",
-      "artist": "The Mighty Lemon Drops",
-      "title": "Another Girl, Another Planet",
-      "album": "Laughter • 1989"
     }
   ]
 }
