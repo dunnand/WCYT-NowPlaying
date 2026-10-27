@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T21:15:19",
+  "updatedAt": "2026-10-26T21:15:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "9:17 pm",
       "artist": "Broken Social Scene",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "9:11 pm",
       "artist": "Built to Spill",
@@ -172,12 +173,6 @@
       "artist": "MC Lyte",
       "title": "Cha Cha Cha",
       "album": "Eyes on This • 1989"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "Blur",
-      "title": "Song 2",
-      "album": "Blur • 1997"
     }
   ]
 }
