@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T00:02:52",
+  "updatedAt": "2026-10-27T00:05:36",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Don't",
-    "album": "single • 1958",
-    "category": "AUDIO"
+    "artist": "Arcade Fire",
+    "title": "Windowsill",
+    "album": "Neon Bible • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "Arcade Fire",
-      "title": "Windowsill"
-    },
     {
       "time": "12:10 am",
       "artist": "Dion",
@@ -21,9 +16,20 @@
       "time": "12:12 am",
       "artist": "One Direction",
       "title": "Kiss You"
+    },
+    {
+      "time": "12:15 am",
+      "artist": "Ride",
+      "title": "Today"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "Arcade Fire",
+      "title": "Windowsill",
+      "album": "Neon Bible • 2007"
+    },
     {
       "time": "12:02 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Nine Inch Nails",
       "title": "Down in It",
       "album": "Pretty Hate Machine • 1989"
-    },
-    {
-      "time": "9:35 pm",
-      "artist": "Neil Diamond",
-      "title": "Hello Again",
-      "album": "The Jazz Singer • 1980"
     }
   ]
 }
