@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-26T21:37:09",
+  "updatedAt": "2026-10-26T21:40:55",
   "now": {
-    "artist": "Gigi",
-    "title": "WAIT A MINUTE",
-    "album": "Thank You Sam • 2025",
+    "artist": "Radiohead",
+    "title": "The Tourist",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:40 pm",
-      "artist": "Radiohead",
-      "title": "The Tourist"
-    },
     {
       "time": "9:46 pm",
       "artist": "Perfume Genius",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:40 pm",
+      "artist": "Radiohead",
+      "title": "The Tourist",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "9:37 pm",
       "artist": "Gigi",
@@ -172,12 +173,6 @@
       "artist": "Lyres",
       "title": "I Want to Help You Ann",
       "album": "On Fyre • 1984"
-    },
-    {
-      "time": "8:05 pm",
-      "artist": "Kurt Vile",
-      "title": "Wakin on a Pretty Day",
-      "album": "Wakin on a Pretty Daze • 2013"
     }
   ]
 }
