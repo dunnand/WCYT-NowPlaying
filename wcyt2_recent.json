@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T03:44:17",
+  "updatedAt": "2026-10-27T03:46:22",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Somebody That I Used To Know",
-    "album": "Figure 8 • 2000",
-    "category": "TUNES"
+    "artist": "The Four Seasons",
+    "title": "Big Girls Don't Cry",
+    "album": "Sherry & 11 Others • 1962",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 am",
-      "artist": "The Four Seasons",
-      "title": "Big Girls Don't Cry"
-    },
     {
       "time": "3:48 am",
       "artist": "The Dramatics",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "The Four Seasons",
+      "title": "Big Girls Don't Cry",
+      "album": "Sherry & 11 Others • 1962"
+    },
     {
       "time": "3:44 am",
       "artist": "Elliott Smith",
@@ -177,12 +178,6 @@
       "artist": "Nicki Minaj",
       "title": "Starships",
       "album": "Pink Friday: Roman Reloaded • 2012"
-    },
-    {
-      "time": "2:09 am",
-      "artist": "Etta James",
-      "title": "I Just Want To Make Love To You",
-      "album": "At Last! • 1960"
     }
   ]
 }
