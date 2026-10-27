@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T15:19:40",
+  "updatedAt": "2026-10-27T15:19:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Public Image Ltd.",
+    "title": "Rise",
+    "album": "Album • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:19 pm",
-      "artist": "Public Image Ltd.",
-      "title": "Rise"
-    },
     {
       "time": "3:26 pm",
       "artist": "Mitski",
@@ -26,9 +21,20 @@
       "time": "3:32 pm",
       "artist": "Wednesday",
       "title": "Chosen to Deserve"
+    },
+    {
+      "time": "3:38 pm",
+      "artist": "Kevin Morby",
+      "title": "Javelin"
     }
   ],
   "recent": [
+    {
+      "time": "3:19 pm",
+      "artist": "Public Image Ltd.",
+      "title": "Rise",
+      "album": "Album • 1986"
+    },
     {
       "time": "3:16 pm",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "Set",
       "album": "The Silver Cord • 2023"
-    },
-    {
-      "time": "1:19 pm",
-      "artist": "Parquet Courts",
-      "title": "Instant Disassembly",
-      "album": "Sunbathing Animal • 2014"
     }
   ]
 }
