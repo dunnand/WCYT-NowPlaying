@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T01:57:23",
+  "updatedAt": "2026-10-27T02:00:59",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Polar Opposites",
-    "album": "Lonesome Crowded West • 1998",
-    "category": "TUNES"
+    "artist": "The Dave Brubeck Quartet",
+    "title": "Take Five",
+    "album": "Time Out • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 am",
-      "artist": "The Dave Brubeck Quartet",
-      "title": "Take Five"
-    },
     {
       "time": "2:06 am",
       "artist": "Franz Ferdinand",
@@ -26,9 +21,20 @@
       "time": "2:12 am",
       "artist": "Nicki Minaj",
       "title": "Starships"
+    },
+    {
+      "time": "2:16 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Two-Headed Boy, Part Two"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 am",
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Take Five",
+      "album": "Time Out • 1959"
+    },
     {
       "time": "1:57 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "The Pogues",
       "title": "A Rainy Night in Soho",
       "album": "Poguetry in Motion EP • 1986"
-    },
-    {
-      "time": "12:22 am",
-      "artist": "Sebadoh",
-      "title": "Beauty Of The Ride",
-      "album": "Harmacy • 1996"
     }
   ]
 }
