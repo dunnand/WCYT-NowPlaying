@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T19:24:46",
+  "updatedAt": "2026-10-27T19:27:51",
   "now": {
-    "artist": "Feist",
-    "title": "1234",
-    "album": "The Reminder • 2008",
+    "artist": "Elvis Presley",
+    "title": "Suspicious Minds",
+    "album": "single • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:27 pm",
-      "artist": "Elvis Presley",
-      "title": "Suspicious Minds"
-    },
     {
       "time": "7:32 pm",
       "artist": "The Jam",
@@ -26,9 +21,20 @@
       "time": "7:38 pm",
       "artist": "Nicki Minaj",
       "title": "Super Bass"
+    },
+    {
+      "time": "7:42 pm",
+      "artist": "CSS",
+      "title": "Let's Make Love and Listen to Death From Above"
     }
   ],
   "recent": [
+    {
+      "time": "7:27 pm",
+      "artist": "Elvis Presley",
+      "title": "Suspicious Minds",
+      "album": "single • 1969"
+    },
     {
       "time": "7:24 pm",
       "artist": "Feist",
@@ -172,12 +178,6 @@
       "artist": "Akon",
       "title": "Don't Matter",
       "album": "Konvicted • 2006"
-    },
-    {
-      "time": "5:46 pm",
-      "artist": "Howlin' Wolf",
-      "title": "Smokestack Lightnin'",
-      "album": "Moanin' in the Moonlight • 1959"
     }
   ]
 }
