@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T08:45:50",
+  "updatedAt": "2026-10-27T08:49:26",
   "now": {
-    "artist": "Blind Melon",
-    "title": "No Rain",
-    "album": "Blind Melon • 1993",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Needle In The Hay",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:49 am",
-      "artist": "Elliott Smith",
-      "title": "Needle In The Hay"
-    },
     {
       "time": "8:54 am",
       "artist": "Steve Perry",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:49 am",
+      "artist": "Elliott Smith",
+      "title": "Needle In The Hay",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "8:45 am",
       "artist": "Blind Melon",
@@ -172,12 +173,6 @@
       "artist": "Guided by Voices",
       "title": "My Kind of Soldier",
       "album": "Earthquake Glue • 2003"
-    },
-    {
-      "time": "7:13 am",
-      "artist": "Sparks",
-      "title": "This Town Ain't Big Enough for Both of Us",
-      "album": "Kimono My House • 1974"
     }
   ]
 }
