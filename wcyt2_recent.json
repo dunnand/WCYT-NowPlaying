@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T03:05:32",
+  "updatedAt": "2026-10-27T03:08:15",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Love Me Tender",
-    "album": "Love Me Tender • 1956",
+    "artist": "Dave Matthews Band",
+    "title": "Where Are You Going",
+    "album": "Busted Stuff • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:08 am",
-      "artist": "Dave Matthews Band",
-      "title": "Where Are You Going"
-    },
     {
       "time": "3:12 am",
       "artist": "Carlton and the Shoes",
@@ -21,9 +16,20 @@
       "time": "3:15 am",
       "artist": "Justin Bieber",
       "title": "Baby"
+    },
+    {
+      "time": "3:19 am",
+      "artist": "Breathe",
+      "title": "Hands To Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "3:08 am",
+      "artist": "Dave Matthews Band",
+      "title": "Where Are You Going",
+      "album": "Busted Stuff • 2002"
+    },
     {
       "time": "3:05 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Randy Newman",
       "title": "I Love L.A.",
       "album": "Trouble in Paradise • 1983"
-    },
-    {
-      "time": "1:23 am",
-      "artist": "The Psychedelic Furs",
-      "title": "The Ghost In You",
-      "album": "Mirror Moves • 1984"
     }
   ]
 }
