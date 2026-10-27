@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T12:51:28",
+  "updatedAt": "2026-10-27T12:55:40",
   "now": {
-    "artist": "mary in the junkyard",
-    "title": "Myrtle",
-    "album": "Role Model Hermit • 2026",
+    "artist": "Radiohead",
+    "title": "Lucky",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "Radiohead",
-      "title": "Lucky"
-    },
     {
       "time": "12:59 pm",
       "artist": "Gigi",
@@ -26,9 +21,20 @@
       "time": "1:04 pm",
       "artist": "Japanese Breakfast",
       "title": "Picture Window"
+    },
+    {
+      "time": "1:07 pm",
+      "artist": "Arctic Monkeys",
+      "title": "505"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "Radiohead",
+      "title": "Lucky",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "12:51 pm",
       "artist": "mary in the junkyard",
@@ -172,12 +178,6 @@
       "artist": "Remember Sports",
       "title": "Ghost",
       "album": "The Refrigerator • 2026"
-    },
-    {
-      "time": "11:18 am",
-      "artist": "Victoryland",
-      "title": "The Ugliest Girl On The Beach",
-      "album": "My Heart Is A Room With No Cameras In It • 2026"
     }
   ]
 }
