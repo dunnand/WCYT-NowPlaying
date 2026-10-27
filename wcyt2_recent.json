@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T04:42:39",
+  "updatedAt": "2026-10-27T04:45:47",
   "now": {
-    "artist": "James Taylor",
-    "title": "Handy Man",
-    "album": "JT • 1977",
+    "artist": "Janet Jackson",
+    "title": "That's The Way Love Goes",
+    "album": "Janet • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "Janet Jackson",
-      "title": "That's The Way Love Goes"
-    },
     {
       "time": "4:49 am",
       "artist": "Jack Scott",
@@ -21,9 +16,20 @@
       "time": "4:52 am",
       "artist": "Aaliyah",
       "title": "Try Again"
+    },
+    {
+      "time": "4:57 am",
+      "artist": "Inez Foxx",
+      "title": "Mockingbird"
     }
   ],
   "recent": [
+    {
+      "time": "4:45 am",
+      "artist": "Janet Jackson",
+      "title": "That's The Way Love Goes",
+      "album": "Janet • 1993"
+    },
     {
       "time": "4:42 am",
       "artist": "James Taylor",
@@ -167,12 +173,6 @@
       "artist": "The Magnetic Fields",
       "title": "Meaningless",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "3:19 am",
-      "artist": "Breathe",
-      "title": "Hands To Heaven",
-      "album": "All That Jazz • 1990"
     }
   ]
 }
