@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T11:21:08",
+  "updatedAt": "2026-10-28T11:21:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kraftwerk",
+    "title": "Numbers",
+    "album": "Computer World • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:21 am",
-      "artist": "Kraftwerk",
-      "title": "Numbers"
-    },
     {
       "time": "11:27 am",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:21 am",
+      "artist": "Kraftwerk",
+      "title": "Numbers",
+      "album": "Computer World • 1981"
+    },
     {
       "time": "11:16 am",
       "artist": "Journey",
@@ -172,12 +173,6 @@
       "artist": "Elton John",
       "title": "Tiny Dancer",
       "album": "Madman Across the Water • 1972"
-    },
-    {
-      "time": "9:30 am",
-      "artist": "The Afghan Whigs",
-      "title": "The Lottery",
-      "album": "Do to the Beast • 2014"
     }
   ]
 }
