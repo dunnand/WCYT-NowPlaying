@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T01:33:40",
+  "updatedAt": "2026-10-28T01:40:18",
   "now": {
-    "artist": "Players Association",
-    "title": "Turn The Music Up!",
-    "album": "Turn The Music Up! • 1979",
+    "artist": "Queen",
+    "title": "One Vision",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:40 am",
-      "artist": "Queen",
-      "title": "One Vision"
-    },
     {
       "time": "1:45 am",
       "artist": "Animal Collective",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "ABBA",
       "title": "Gimme! Gimme! Gimme! (A Man After Midnight)"
+    },
+    {
+      "time": "1:57 am",
+      "artist": "Lenny Kravitz",
+      "title": "Always on the Run"
     }
   ],
   "recent": [
+    {
+      "time": "1:40 am",
+      "artist": "Queen",
+      "title": "One Vision",
+      "album": ""
+    },
     {
       "time": "1:33 am",
       "artist": "Players Association",
@@ -172,12 +178,6 @@
       "artist": "Alicia Keys",
       "title": "Un Thinkable",
       "album": "The Element of Freedom • 2009"
-    },
-    {
-      "time": "12:02 am",
-      "artist": "Taylor Swift",
-      "title": "Bad Blood",
-      "album": "1989 • 2014"
     }
   ]
 }
