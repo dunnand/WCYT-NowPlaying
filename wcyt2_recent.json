@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T05:08:22",
+  "updatedAt": "2026-10-28T05:12:27",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Back To Decemeber",
-    "album": "Speak Now • 2010",
+    "artist": "Annie Lennox",
+    "title": "Walking On Broken Glass",
+    "album": "Diva • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 am",
-      "artist": "Annie Lennox",
-      "title": "Walking On Broken Glass"
-    },
     {
       "time": "5:16 am",
       "artist": "Fleetwood Mac",
@@ -21,9 +16,20 @@
       "time": "5:21 am",
       "artist": "U2",
       "title": "Angel Of Harlem"
+    },
+    {
+      "time": "5:25 am",
+      "artist": "Madonna",
+      "title": "La Isla Bonita"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 am",
+      "artist": "Annie Lennox",
+      "title": "Walking On Broken Glass",
+      "album": "Diva • 1992"
+    },
     {
       "time": "5:08 am",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "James Taylor",
       "title": "Don't Let Me Be Lonely Tonight",
       "album": "One Man Dog • 1972"
-    },
-    {
-      "time": "3:38 am",
-      "artist": "Doves",
-      "title": "Black And White Town",
-      "album": "Some Cities • 2005"
     }
   ]
 }
