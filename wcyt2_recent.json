@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T11:40:41",
+  "updatedAt": "2026-10-28T11:40:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Moody Blue",
+    "album": "Moody Blue • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 am",
-      "artist": "Elvis Presley",
-      "title": "Moody Blue"
-    },
     {
       "time": "11:43 am",
       "artist": "Bee Gees",
@@ -31,9 +26,20 @@
       "time": "11:53 am",
       "artist": "The Flamingos",
       "title": "I Only Have Eyes for You"
+    },
+    {
+      "time": "11:56 am",
+      "artist": "Arctic Monkeys",
+      "title": "Brianstorm"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 am",
+      "artist": "Elvis Presley",
+      "title": "Moody Blue",
+      "album": "Moody Blue • 1977"
+    },
     {
       "time": "11:37 am",
       "artist": "Dee Clark",
@@ -177,12 +183,6 @@
       "artist": "Audioslave",
       "title": "Show Me How to Live",
       "album": "Audioslave • 2002"
-    },
-    {
-      "time": "9:47 am",
-      "artist": "Flo Rida",
-      "title": "Low feat. T-Pain",
-      "album": "Mail on Sunday • 2007"
     }
   ]
 }
