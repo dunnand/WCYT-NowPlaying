@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T09:04:39",
+  "updatedAt": "2026-10-28T09:10:15",
   "now": {
-    "artist": "The Flaming Lips",
-    "title": "The Spark That Bled",
-    "album": "The Soft Bulletin • 1999",
-    "category": "TUNES"
+    "artist": "Duran Duran",
+    "title": "Hungry Like the Wolf",
+    "album": "Rio • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:10 am",
-      "artist": "Duran Duran",
-      "title": "Hungry Like the Wolf"
-    },
     {
       "time": "9:13 am",
       "artist": "The Fixx",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:10 am",
+      "artist": "Duran Duran",
+      "title": "Hungry Like the Wolf",
+      "album": "Rio • 1982"
+    },
     {
       "time": "9:04 am",
       "artist": "The Flaming Lips",
@@ -172,12 +173,6 @@
       "artist": "Bobby Lewis",
       "title": "Tossin' and Turnin'",
       "album": "Tossin' & Turnin' • 1961"
-    },
-    {
-      "time": "7:26 am",
-      "artist": "Death Cab For Cutie",
-      "title": "Company Calls",
-      "album": "We Have the Facts and We're Voting Yes • 2000"
     }
   ]
 }
