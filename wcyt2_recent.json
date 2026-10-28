@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T17:19:17",
+  "updatedAt": "2026-10-28T17:22:53",
   "now": {
-    "artist": "The Cars",
-    "title": "It's All I Can Do",
-    "album": "Candy-O • 1979",
+    "artist": "Cat Stevens",
+    "title": "Another Saturday Night",
+    "album": "Saturnight • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 pm",
-      "artist": "Cat Stevens",
-      "title": "Another Saturday Night"
-    },
     {
       "time": "5:25 pm",
       "artist": "Camera Obscura",
@@ -26,9 +21,20 @@
       "time": "5:31 pm",
       "artist": "Commodores",
       "title": "Still"
+    },
+    {
+      "time": "5:34 pm",
+      "artist": "Dave Matthews Band",
+      "title": "What Would You Say"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 pm",
+      "artist": "Cat Stevens",
+      "title": "Another Saturday Night",
+      "album": "Saturnight • 1974"
+    },
     {
       "time": "5:19 pm",
       "artist": "The Cars",
@@ -172,12 +178,6 @@
       "artist": "Dave Matthews Band",
       "title": "The Space Between",
       "album": "Everyday • 2001"
-    },
-    {
-      "time": "3:39 pm",
-      "artist": "Black Pumas",
-      "title": "Colors",
-      "album": "Black Pumas • 2019"
     }
   ]
 }
