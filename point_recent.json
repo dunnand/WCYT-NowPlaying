@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T11:30:13",
+  "updatedAt": "2026-10-28T11:30:23",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sonic Youth",
+    "title": "What We Know",
+    "album": "The Eternal • 2009",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:30 am",
-      "artist": "Sonic Youth",
-      "title": "What We Know"
-    },
     {
       "time": "11:34 am",
       "artist": "Gorillaz",
@@ -26,9 +21,20 @@
       "time": "11:42 am",
       "artist": "The English Beat",
       "title": "Mirror in the Bathroom"
+    },
+    {
+      "time": "11:45 am",
+      "artist": "Wilco",
+      "title": "North American Kids"
     }
   ],
   "recent": [
+    {
+      "time": "11:30 am",
+      "artist": "Sonic Youth",
+      "title": "What We Know",
+      "album": "The Eternal • 2009"
+    },
     {
       "time": "11:25 am",
       "artist": "Big Thief",
@@ -172,12 +178,6 @@
       "artist": "Destroyer",
       "title": "Painter in Your Pocket",
       "album": "Destroyer's Rubies • 2006"
-    },
-    {
-      "time": "9:37 am",
-      "artist": "Japanese Breakfast",
-      "title": "Orlando in Love",
-      "album": "For Melancholy Brunettes (& sad women) • 2025"
     }
   ]
 }
