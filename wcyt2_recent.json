@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T15:43:49",
+  "updatedAt": "2026-10-28T15:43:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dave Matthews Band",
+    "title": "The Space Between",
+    "album": "Everyday • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 pm",
-      "artist": "Dave Matthews Band",
-      "title": "The Space Between"
-    },
     {
       "time": "3:47 pm",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "3:56 pm",
       "artist": "Bjork",
       "title": "Venus as a Boy"
+    },
+    {
+      "time": "4:01 pm",
+      "artist": "Superchunk",
+      "title": "The First Part"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 pm",
+      "artist": "Dave Matthews Band",
+      "title": "The Space Between",
+      "album": "Everyday • 2001"
+    },
     {
       "time": "3:39 pm",
       "artist": "Black Pumas",
@@ -172,12 +178,6 @@
       "artist": "Rick Springfield",
       "title": "I've Done Everything For You",
       "album": "Working Class Dog • 1981"
-    },
-    {
-      "time": "2:15 pm",
-      "artist": "Nirvana.",
-      "title": "Smells Like Teen Spirit",
-      "album": "Nevermind • 1991"
     }
   ]
 }
