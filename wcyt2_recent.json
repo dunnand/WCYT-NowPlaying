@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T13:07:34",
+  "updatedAt": "2026-10-28T13:13:40",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Cowboy Dan",
-    "album": "Lonesome Crowded West • 1998",
-    "category": "TUNES"
+    "artist": "The Police",
+    "title": "Don't Stand So Close To Me",
+    "album": "Zenyatta Mondatta • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:13 pm",
-      "artist": "The Police",
-      "title": "Don't Stand So Close To Me"
-    },
     {
       "time": "1:17 pm",
       "artist": "Pretenders",
@@ -21,9 +16,20 @@
       "time": "1:21 pm",
       "artist": "Shogo Sakai, Megumi Ohara",
       "title": "Great Cave Escape"
+    },
+    {
+      "time": "1:24 pm",
+      "artist": "Talking Heads",
+      "title": "Life During Wartime"
     }
   ],
   "recent": [
+    {
+      "time": "1:13 pm",
+      "artist": "The Police",
+      "title": "Don't Stand So Close To Me",
+      "album": "Zenyatta Mondatta • 1981"
+    },
     {
       "time": "1:07 pm",
       "artist": "Modest Mouse",
@@ -167,12 +173,6 @@
       "artist": "Bee Gees",
       "title": "Massachusetts",
       "album": "Horizontal • 1968"
-    },
-    {
-      "time": "11:40 am",
-      "artist": "Elvis Presley",
-      "title": "Moody Blue",
-      "album": "Moody Blue • 1977"
     }
   ]
 }
