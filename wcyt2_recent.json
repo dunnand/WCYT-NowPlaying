@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T17:18:54",
+  "updatedAt": "2026-10-28T17:19:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "It's All I Can Do",
+    "album": "Candy-O • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:19 pm",
-      "artist": "The Cars",
-      "title": "It's All I Can Do"
-    },
     {
       "time": "5:22 pm",
       "artist": "Cat Stevens",
@@ -26,9 +21,20 @@
       "time": "5:28 pm",
       "artist": "Happenings",
       "title": "See You In September"
+    },
+    {
+      "time": "5:31 pm",
+      "artist": "Commodores",
+      "title": "Still"
     }
   ],
   "recent": [
+    {
+      "time": "5:19 pm",
+      "artist": "The Cars",
+      "title": "It's All I Can Do",
+      "album": "Candy-O • 1979"
+    },
     {
       "time": "5:14 pm",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Black Pumas",
       "title": "Colors",
       "album": "Black Pumas • 2019"
-    },
-    {
-      "time": "3:36 pm",
-      "artist": "Beck",
-      "title": "Mixed Bizness",
-      "album": "Midnite Vultures • 1999"
     }
   ]
 }
