@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T01:51:10",
+  "updatedAt": "2026-10-28T01:53:13",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Return To Sender",
-    "album": "Girls! Girls! Girls! • 1962",
+    "artist": "ABBA",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "album": "single • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "ABBA",
-      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)"
-    },
     {
       "time": "1:57 am",
       "artist": "Lenny Kravitz",
@@ -26,9 +21,20 @@
       "time": "2:06 am",
       "artist": "Enrique Iglesias",
       "title": "Hero"
+    },
+    {
+      "time": "2:10 am",
+      "artist": "The Decemberists",
+      "title": "The Engine Driver"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "album": "single • 1979"
+    },
     {
       "time": "1:51 am",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Eels",
       "title": "Last Stop: This Town",
       "album": "Electro Shock Blues • 1998"
-    },
-    {
-      "time": "12:12 am",
-      "artist": "Tame Impala",
-      "title": "The Less I Know The Better",
-      "album": "Currents • 2015"
     }
   ]
 }
