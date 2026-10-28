@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T09:04:19",
+  "updatedAt": "2026-10-28T09:04:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "The Spark That Bled",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:04 am",
-      "artist": "The Flaming Lips",
-      "title": "The Spark That Bled"
-    },
     {
       "time": "9:10 am",
       "artist": "Duran Duran",
@@ -26,9 +21,20 @@
       "time": "9:17 am",
       "artist": "Turnstile",
       "title": "NEVER ENOUGH"
+    },
+    {
+      "time": "9:20 am",
+      "artist": "Amerie",
+      "title": "1 Thing"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "The Flaming Lips",
+      "title": "The Spark That Bled",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "8:58 am",
       "artist": "Boyz II Men",
@@ -172,12 +178,6 @@
       "artist": "Death Cab For Cutie",
       "title": "Company Calls",
       "album": "We Have the Facts and We're Voting Yes • 2000"
-    },
-    {
-      "time": "7:23 am",
-      "artist": "Paul Simon",
-      "title": "Mother And Child Reunion",
-      "album": "Paul Simon • 1972"
     }
   ]
 }
