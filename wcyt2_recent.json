@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T07:57:06",
+  "updatedAt": "2026-10-28T08:00:25",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Speeding Motorcycle",
-    "album": "Fakebook • 1990",
-    "category": "TUNES"
+    "artist": "Black Crowes",
+    "title": "She Talks To Angels",
+    "album": "Shake Your Money Maker • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 am",
-      "artist": "Black Crowes",
-      "title": "She Talks To Angels"
-    },
     {
       "time": "8:05 am",
       "artist": "Aerosmith",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:00 am",
+      "artist": "Black Crowes",
+      "title": "She Talks To Angels",
+      "album": "Shake Your Money Maker • 1991"
+    },
     {
       "time": "7:57 am",
       "artist": "Yo La Tengo",
@@ -172,12 +173,6 @@
       "artist": "Coldplay",
       "title": "Lost!",
       "album": "Viva la Vida or Death and All His Friends • 2008"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Three Dog Night",
-      "title": "Shambala",
-      "album": "Cyan • 1973"
     }
   ]
 }
