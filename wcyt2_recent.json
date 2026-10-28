@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T05:24:48",
+  "updatedAt": "2026-10-28T05:28:23",
   "now": {
-    "artist": "Madonna",
-    "title": "La Isla Bonita",
-    "album": "True Blue • 1986",
+    "artist": "Grimes",
+    "title": "Delete Forever.",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:28 am",
-      "artist": "Grimes",
-      "title": "Delete Forever."
-    },
     {
       "time": "5:32 am",
       "artist": "Bright Eyes",
@@ -26,9 +21,20 @@
       "time": "5:39 am",
       "artist": "The Flaming Lips",
       "title": "Fight Test"
+    },
+    {
+      "time": "5:43 am",
+      "artist": "Taylor Swift",
+      "title": "Lover"
     }
   ],
   "recent": [
+    {
+      "time": "5:28 am",
+      "artist": "Grimes",
+      "title": "Delete Forever.",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "5:24 am",
       "artist": "Madonna",
@@ -172,12 +178,6 @@
       "artist": "Suede",
       "title": "Metal Mickey",
       "album": "Suede • 1993"
-    },
-    {
-      "time": "3:55 am",
-      "artist": "Jim Croce",
-      "title": "Time In A Bottle",
-      "album": "You Dont Mess Around with Jim • 1972"
     }
   ]
 }
