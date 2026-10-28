@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T00:00:42",
+  "updatedAt": "2026-10-28T00:01:04",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
+    "artist": "Caroline Rose",
+    "title": "Calm",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Caroline Rose",
-      "title": "Calm"
-    },
     {
       "time": "12:04 am",
       "artist": "Cornelius",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Caroline Rose",
+      "title": "Calm",
+      "album": ""
+    },
     {
       "time": "11:56 pm",
       "artist": "Beach House",
@@ -177,12 +178,6 @@
       "artist": "Future Islands",
       "title": "Long Flight",
       "album": "In Evening Air • 2010"
-    },
-    {
-      "time": "10:21 pm",
-      "artist": "King Gizzard & The Lizard Wizard",
-      "title": "Inner Cell",
-      "album": "Polygondwanaland • 2017"
     }
   ]
 }
