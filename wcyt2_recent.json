@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T14:40:42",
+  "updatedAt": "2026-10-28T14:43:56",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "R U Mine?",
-    "album": "AM • 2013",
+    "artist": "Elliott Smith",
+    "title": "The Biggest Lie",
+    "album": "Elliott Smith • 1995",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:43 pm",
-      "artist": "Elliott Smith",
-      "title": "The Biggest Lie"
-    },
     {
       "time": "2:46 pm",
       "artist": "Lloyd Price",
@@ -21,9 +16,20 @@
       "time": "2:48 pm",
       "artist": "Fray",
       "title": "Over My Head (Cable Car)"
+    },
+    {
+      "time": "2:52 pm",
+      "artist": "Barry Mann",
+      "title": "Who Put The Bomp (In The Bomp-Sha-Bomp)"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 pm",
+      "artist": "Elliott Smith",
+      "title": "The Biggest Lie",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "2:40 pm",
       "artist": "Arctic Monkeys",
@@ -167,12 +173,6 @@
       "artist": "Modest Mouse",
       "title": "Cowboy Dan",
       "album": "Lonesome Crowded West • 1998"
-    },
-    {
-      "time": "1:04 pm",
-      "artist": "Pavement",
-      "title": "Cut Your Hair",
-      "album": "Crooked Rain, Crooked Rain • 1994"
     }
   ]
 }
