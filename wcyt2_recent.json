@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T06:18:00",
+  "updatedAt": "2026-10-28T06:18:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "New Order",
+    "title": "Blue Monday",
+    "album": "single • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:18 am",
-      "artist": "New Order",
-      "title": "Blue Monday"
-    },
     {
       "time": "6:25 am",
       "artist": "Turnstile",
@@ -26,9 +21,20 @@
       "time": "6:32 am",
       "artist": "Three Dog Night",
       "title": "Shambala"
+    },
+    {
+      "time": "6:35 am",
+      "artist": "Coldplay",
+      "title": "Lost!"
     }
   ],
   "recent": [
+    {
+      "time": "6:18 am",
+      "artist": "New Order",
+      "title": "Blue Monday",
+      "album": "single • 1983"
+    },
     {
       "time": "6:14 am",
       "artist": "Katrina & The Waves",
@@ -172,12 +178,6 @@
       "artist": "Kenny Rogers",
       "title": "Coward Of The County",
       "album": "Kenny • 1979"
-    },
-    {
-      "time": "4:45 am",
-      "artist": "Cromagnon",
-      "title": "Caledonia",
-      "album": "Cave Rock • 1969"
     }
   ]
 }
