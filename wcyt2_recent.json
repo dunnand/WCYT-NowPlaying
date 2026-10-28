@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T10:45:58",
+  "updatedAt": "2026-10-28T10:49:00",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Son of Sam",
-    "album": "Figure 8 • 2000",
-    "category": "TUNES"
+    "artist": "Audioslave",
+    "title": "Like a Stone",
+    "album": "Audioslave • 2002",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:48 am",
-      "artist": "Audioslave",
-      "title": "Like a Stone"
-    },
     {
       "time": "10:53 am",
       "artist": "The Afghan Whigs",
@@ -23,12 +18,23 @@
       "title": "Skull"
     },
     {
-      "time": "11:01 am",
+      "time": "11:00 am",
       "artist": "Soundgarden",
       "title": "Outshined"
+    },
+    {
+      "time": "11:06 am",
+      "artist": "Journey",
+      "title": "Faithfully"
     }
   ],
   "recent": [
+    {
+      "time": "10:49 am",
+      "artist": "Audioslave",
+      "title": "Like a Stone",
+      "album": "Audioslave • 2002"
+    },
     {
       "time": "10:45 am",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "NEVER ENOUGH",
       "album": "NEVER ENOUGH • 2025"
-    },
-    {
-      "time": "9:13 am",
-      "artist": "The Fixx",
-      "title": "One Things Leads To Another",
-      "album": "Reach the Beach • 1983"
     }
   ]
 }
