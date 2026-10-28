@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T01:01:10",
+  "updatedAt": "2026-10-28T01:01:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dean Martin",
+    "title": "That's Amore",
+    "album": "Dean Martin Sings • 1953",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Dean Martin",
-      "title": "That's Amore"
-    },
     {
       "time": "1:04 am",
       "artist": "Counting Crows",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Dean Martin",
+      "title": "That's Amore",
+      "album": "Dean Martin Sings • 1953"
+    },
     {
       "time": "12:56 am",
       "artist": "Fiona Apple",
@@ -172,12 +173,6 @@
       "artist": "Phil Collins",
       "title": "Another Day In Paradise",
       "album": "...But Seriously • 1989"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "Celine Dion",
-      "title": "My Heart Will Go On",
-      "album": "Let's Talk About Love • 1997"
     }
   ]
 }
