@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T20:32:11",
+  "updatedAt": "2026-10-27T20:36:36",
   "now": {
-    "artist": "Paul Simon",
-    "title": "You Can Call Me Al",
-    "album": "Graceland • 1986",
+    "artist": "Bleachers",
+    "title": "dirty wedding dress",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:36 pm",
-      "artist": "Bleachers",
-      "title": "dirty wedding dress"
-    },
     {
       "time": "8:41 pm",
       "artist": "The Who",
@@ -21,9 +16,20 @@
       "time": "8:46 pm",
       "artist": "Dion",
       "title": "Lovers Who Wander"
+    },
+    {
+      "time": "8:49 pm",
+      "artist": "The Raincoats",
+      "title": "In Love"
     }
   ],
   "recent": [
+    {
+      "time": "8:36 pm",
+      "artist": "Bleachers",
+      "title": "dirty wedding dress",
+      "album": ""
+    },
     {
       "time": "8:32 pm",
       "artist": "Paul Simon",
@@ -167,12 +173,6 @@
       "artist": "Patty Smyth",
       "title": "The Warrior",
       "album": "Warrior • 1984"
-    },
-    {
-      "time": "7:01 pm",
-      "artist": "Guided by Voices",
-      "title": "Jane of the Waking Universe",
-      "album": "Mag Earwhig! • 1997"
     }
   ]
 }
