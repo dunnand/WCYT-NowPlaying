@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T15:30:02",
+  "updatedAt": "2026-10-28T15:32:37",
   "now": {
-    "artist": "Buffalo Springfield",
-    "title": "Sit Down I Think I Love You",
-    "album": "Buffalo Springfield • 1967",
+    "artist": "Toto",
+    "title": "Hold The Line",
+    "album": "Toto • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 pm",
-      "artist": "Toto",
-      "title": "Hold The Line"
-    },
     {
       "time": "3:35 pm",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "3:43 pm",
       "artist": "Dave Matthews Band",
       "title": "The Space Between"
+    },
+    {
+      "time": "3:47 pm",
+      "artist": "The Decemberists",
+      "title": "Los Angeles, I'm Yours"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 pm",
+      "artist": "Toto",
+      "title": "Hold The Line",
+      "album": "Toto • 1978"
+    },
     {
       "time": "3:30 pm",
       "artist": "Buffalo Springfield",
@@ -172,12 +178,6 @@
       "artist": "311",
       "title": "Down",
       "album": "311 • 1995"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "The Space Program",
-      "album": "We got it from Here... Thank You 4 Your service • 2016"
     }
   ]
 }
