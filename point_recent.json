@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-27T22:55:06",
+  "updatedAt": "2026-10-27T22:55:28",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bon Iver",
+    "title": "Perth",
+    "album": "Bon Iver, Bon Iver • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:55 pm",
-      "artist": "Bon Iver",
-      "title": "Perth"
-    },
     {
       "time": "10:59 pm",
       "artist": "Big Thief",
@@ -21,9 +16,20 @@
       "time": "11:03 pm",
       "artist": "Modest Mouse",
       "title": "Dashboard"
+    },
+    {
+      "time": "11:07 pm",
+      "artist": "Low",
+      "title": "What Part of Me"
     }
   ],
   "recent": [
+    {
+      "time": "10:55 pm",
+      "artist": "Bon Iver",
+      "title": "Perth",
+      "album": "Bon Iver, Bon Iver • 2011"
+    },
     {
       "time": "10:51 pm",
       "artist": "M83",
@@ -167,12 +173,6 @@
       "artist": "boygenius",
       "title": "Ketchum, ID",
       "album": "boygenius • 2018"
-    },
-    {
-      "time": "9:22 pm",
-      "artist": "M. Ward",
-      "title": "Never Had Nobody Like You",
-      "album": "Hold Time • 2009"
     }
   ]
 }
