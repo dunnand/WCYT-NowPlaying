@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T15:26:49",
+  "updatedAt": "2026-10-28T15:30:02",
   "now": {
-    "artist": "Beck",
-    "title": "Think I'm in Love",
-    "album": "The Information • 2006",
-    "category": "TUNES"
+    "artist": "Buffalo Springfield",
+    "title": "Sit Down I Think I Love You",
+    "album": "Buffalo Springfield • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 pm",
-      "artist": "Buffalo Springfield",
-      "title": "Sit Down I Think I Love You"
-    },
     {
       "time": "3:32 pm",
       "artist": "Toto",
@@ -26,9 +21,20 @@
       "time": "3:39 pm",
       "artist": "Black Pumas",
       "title": "Colors"
+    },
+    {
+      "time": "3:43 pm",
+      "artist": "Dave Matthews Band",
+      "title": "The Space Between"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 pm",
+      "artist": "Buffalo Springfield",
+      "title": "Sit Down I Think I Love You",
+      "album": "Buffalo Springfield • 1967"
+    },
     {
       "time": "3:26 pm",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "The Space Program",
       "album": "We got it from Here... Thank You 4 Your service • 2016"
-    },
-    {
-      "time": "1:56 pm",
-      "artist": "The Avalanches",
-      "title": "Since I Left You",
-      "album": "Since I Left You • 2000"
     }
   ]
 }
