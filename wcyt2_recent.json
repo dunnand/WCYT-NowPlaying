@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-10-28T00:28:13",
+  "updatedAt": "2026-10-28T00:32:18",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "My Hometown",
-    "album": "Born in the U.S.A. • 1985",
+    "artist": "Bleachers",
+    "title": "Goodmorning",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:32 am",
-      "artist": "Bleachers",
-      "title": "Goodmorning"
-    },
     {
       "time": "12:35 am",
       "artist": "The Congos",
       "title": "Fisherman"
     },
     {
-      "time": "12:41 am",
+      "time": "12:40 am",
       "artist": "Drifters",
       "title": "On Broadway"
+    },
+    {
+      "time": "12:43 am",
+      "artist": "Sparks",
+      "title": "When I'm with You"
     }
   ],
   "recent": [
+    {
+      "time": "12:32 am",
+      "artist": "Bleachers",
+      "title": "Goodmorning",
+      "album": ""
+    },
     {
       "time": "12:28 am",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "CAKE",
       "title": "I Will Survive",
       "album": "Fashion Nugget • 1996"
-    },
-    {
-      "time": "9:59 pm",
-      "artist": "Bjork",
-      "title": "Bachelorette",
-      "album": "Homogenic • 1997"
     }
   ]
 }
