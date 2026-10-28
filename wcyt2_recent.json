@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T10:28:49",
+  "updatedAt": "2026-10-28T10:34:36",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "The Lonesome Death of Hattie Carroll",
-    "album": "The Times They Are A-Changin' • 1964",
+    "artist": "Eagles",
+    "title": "Take It To The Limit",
+    "album": "One of These Nights • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:34 am",
-      "artist": "Eagles",
-      "title": "Take It To The Limit"
-    },
     {
       "time": "10:39 am",
       "artist": "Ride",
@@ -26,9 +21,20 @@
       "time": "10:46 am",
       "artist": "Elliott Smith",
       "title": "Son of Sam"
+    },
+    {
+      "time": "10:49 am",
+      "artist": "Audioslave",
+      "title": "Like a Stone"
     }
   ],
   "recent": [
+    {
+      "time": "10:34 am",
+      "artist": "Eagles",
+      "title": "Take It To The Limit",
+      "album": "One of These Nights • 1975"
+    },
     {
       "time": "10:28 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Boyz II Men",
       "title": "End Of The Road",
       "album": "CooleyHighHarmony • 1991"
-    },
-    {
-      "time": "8:54 am",
-      "artist": "The Afghan Whigs",
-      "title": "Algiers",
-      "album": "Do to the Beast • 2014"
     }
   ]
 }
