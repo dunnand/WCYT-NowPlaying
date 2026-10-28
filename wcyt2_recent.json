@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T04:01:04",
+  "updatedAt": "2026-10-28T04:03:06",
   "now": {
-    "artist": "The Crickets",
-    "title": "That'll Be the Day",
-    "album": "The Chirping Crickets • 1957",
+    "artist": "Dixie Chicks",
+    "title": "Not Ready to Make Nice",
+    "album": "Taking the Long Way • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "Dixie Chicks",
-      "title": "Not Ready to Make Nice"
-    },
     {
       "time": "4:07 am",
       "artist": "James Brown",
@@ -21,9 +16,20 @@
       "time": "4:09 am",
       "artist": "Tyler, the Creator",
       "title": "IGOR'S THEME"
+    },
+    {
+      "time": "4:12 am",
+      "artist": "The Chemical Brothers",
+      "title": "Setting Sun"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "Dixie Chicks",
+      "title": "Not Ready to Make Nice",
+      "album": "Taking the Long Way • 2006"
+    },
     {
       "time": "4:01 am",
       "artist": "The Crickets",
@@ -167,12 +173,6 @@
       "artist": "The Go-Go's",
       "title": "Vacation",
       "album": "Vacation • 1982"
-    },
-    {
-      "time": "2:25 am",
-      "artist": "Echo & the Bunnymen",
-      "title": "The Cutter",
-      "album": "Porcupine • 1983"
     }
   ]
 }
