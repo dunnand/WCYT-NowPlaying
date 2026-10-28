@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T19:17:54",
+  "updatedAt": "2026-10-28T19:20:07",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Wouldn't It Be Nice",
-    "album": "Pet Sounds • 1966",
+    "artist": "Queen",
+    "title": "You're My Best Friend",
+    "album": "A Night at the Opera • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:20 pm",
-      "artist": "Queen",
-      "title": "You're My Best Friend"
-    },
     {
       "time": "7:22 pm",
       "artist": "Sheryl Crow",
@@ -26,9 +21,20 @@
       "time": "7:30 pm",
       "artist": "Avril Lavigne",
       "title": "Complicated"
+    },
+    {
+      "time": "7:34 pm",
+      "artist": "Cat Power",
+      "title": "Lived in Bars"
     }
   ],
   "recent": [
+    {
+      "time": "7:20 pm",
+      "artist": "Queen",
+      "title": "You're My Best Friend",
+      "album": "A Night at the Opera • 1976"
+    },
     {
       "time": "7:17 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Depeche Mode",
       "title": "Personal Jesus",
       "album": "Violator • 1990"
-    },
-    {
-      "time": "5:48 pm",
-      "artist": "Chance the Rapper feat. Saba",
-      "title": "Angels",
-      "album": "Coloring Book • 2016"
     }
   ]
 }
