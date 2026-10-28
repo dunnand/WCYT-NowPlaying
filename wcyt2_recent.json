@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T01:01:42",
+  "updatedAt": "2026-10-28T01:04:41",
   "now": {
-    "artist": "Dean Martin",
-    "title": "That's Amore",
-    "album": "Dean Martin Sings • 1953",
+    "artist": "Counting Crows",
+    "title": "She Don't Want Nobody Near",
+    "album": "Films About Ghosts • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:04 am",
-      "artist": "Counting Crows",
-      "title": "She Don't Want Nobody Near"
-    },
     {
       "time": "1:07 am",
       "artist": "Chiffons",
@@ -21,9 +16,20 @@
       "time": "1:09 am",
       "artist": "Usher",
       "title": "DJ Got Us Falling In Love"
+    },
+    {
+      "time": "1:13 am",
+      "artist": "Gin Blossoms",
+      "title": "Follow You Down"
     }
   ],
   "recent": [
+    {
+      "time": "1:04 am",
+      "artist": "Counting Crows",
+      "title": "She Don't Want Nobody Near",
+      "album": "Films About Ghosts • 2003"
+    },
     {
       "time": "1:01 am",
       "artist": "Dean Martin",
@@ -167,12 +173,6 @@
       "artist": "Run-D.M.C.",
       "title": "Rock Box",
       "album": "Run-D.M.C. • 1984"
-    },
-    {
-      "time": "10:32 pm",
-      "artist": "Phil Collins",
-      "title": "Another Day In Paradise",
-      "album": "...But Seriously • 1989"
     }
   ]
 }
