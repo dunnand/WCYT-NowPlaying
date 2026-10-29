@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T05:57:21",
+  "updatedAt": "2026-10-29T06:00:47",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Float On",
-    "album": "Good News for People Who Love Bad News • 2004",
-    "category": "TUNES"
+    "artist": "Herman's Hermits",
+    "title": "Mrs. Brown You've Got A Lovely Daughter",
+    "album": "Herman's Hermits • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:00 am",
-      "artist": "Herman's Hermits",
-      "title": "Mrs. Brown You've Got A Lovely Daughter"
-    },
     {
       "time": "6:03 am",
       "artist": "The Pop Group",
@@ -26,9 +21,20 @@
       "time": "6:10 am",
       "artist": "Sister Rosetta Tharpe",
       "title": "Up Above My Head I Hear Music In The Air"
+    },
+    {
+      "time": "6:13 am",
+      "artist": "Interpol",
+      "title": "Hands Away"
     }
   ],
   "recent": [
+    {
+      "time": "6:00 am",
+      "artist": "Herman's Hermits",
+      "title": "Mrs. Brown You've Got A Lovely Daughter",
+      "album": "Herman's Hermits • 1965"
+    },
     {
       "time": "5:57 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Blackstar",
       "album": "Blackstar • 2016"
-    },
-    {
-      "time": "4:11 am",
-      "artist": "The Beach Boys",
-      "title": "Surfin' U.S.A.",
-      "album": "Surfin' U.S.A. • 1963"
     }
   ]
 }
