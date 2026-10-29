@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T11:05:10",
+  "updatedAt": "2026-10-29T11:05:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Prine",
+    "title": "I Remember Everything",
+    "album": "I Remeber Everything • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 am",
-      "artist": "John Prine",
-      "title": "I Remember Everything"
-    },
     {
       "time": "11:08 am",
       "artist": "Weather Report",
@@ -21,9 +16,20 @@
       "time": "11:13 am",
       "artist": "Bobby Vee",
       "title": "Rubber Ball"
+    },
+    {
+      "time": "11:16 am",
+      "artist": "Ten Years After",
+      "title": "I'd Love To Change The World"
     }
   ],
   "recent": [
+    {
+      "time": "11:05 am",
+      "artist": "John Prine",
+      "title": "I Remember Everything",
+      "album": "I Remeber Everything • 2020"
+    },
     {
       "time": "11:01 am",
       "artist": "Bangles",
@@ -167,12 +173,6 @@
       "artist": "Jimmy Cliff",
       "title": "I Can See Clearly Now",
       "album": "I Can See Clearly Now • 1993"
-    },
-    {
-      "time": "9:07 am",
-      "artist": "Cat Stevens",
-      "title": "Morning Has Broken",
-      "album": "Teaser and the Firecat • 1971"
     }
   ]
 }
