@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T15:15:30",
+  "updatedAt": "2026-10-29T15:19:56",
   "now": {
-    "artist": "Elton John",
-    "title": "Rocket Man",
-    "album": "Honky Chteau • 1972",
+    "artist": "Goldfinger",
+    "title": "Superman",
+    "album": "Hang-Ups • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:19 pm",
-      "artist": "Goldfinger",
-      "title": "Superman"
-    },
     {
       "time": "3:23 pm",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "3:25 pm",
       "artist": "Gnarls Barkley",
       "title": "Crazy"
+    },
+    {
+      "time": "3:28 pm",
+      "artist": "The Byrds",
+      "title": "Turn! Turn! Turn!"
     }
   ],
   "recent": [
+    {
+      "time": "3:19 pm",
+      "artist": "Goldfinger",
+      "title": "Superman",
+      "album": "Hang-Ups • 1997"
+    },
     {
       "time": "3:15 pm",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "Elton John",
       "title": "Little Jeannie",
       "album": "21 at 33 • 1980"
-    },
-    {
-      "time": "1:27 pm",
-      "artist": "His Name Is Alive",
-      "title": "Universal Frequencies",
-      "album": "Stars On E.S.P. • 1996"
     }
   ]
 }
