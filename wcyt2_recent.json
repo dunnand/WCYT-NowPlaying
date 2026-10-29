@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T12:33:30",
+  "updatedAt": "2026-10-29T12:37:14",
   "now": {
-    "artist": "Green Day",
-    "title": "Welcome to Paradise",
-    "album": "Dookie • 1994",
+    "artist": "The Cars",
+    "title": "Shake It Up",
+    "album": "Shake It Up • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:37 pm",
-      "artist": "The Cars",
-      "title": "Shake It Up"
-    },
     {
       "time": "12:40 pm",
       "artist": "Chicago",
@@ -21,9 +16,20 @@
       "time": "12:44 pm",
       "artist": "Alice Merton",
       "title": "run away girl"
+    },
+    {
+      "time": "12:48 pm",
+      "artist": "The Fall",
+      "title": "Frightened"
     }
   ],
   "recent": [
+    {
+      "time": "12:37 pm",
+      "artist": "The Cars",
+      "title": "Shake It Up",
+      "album": "Shake It Up • 1982"
+    },
     {
       "time": "12:33 pm",
       "artist": "Green Day",
@@ -167,12 +173,6 @@
       "artist": "Ten Years After",
       "title": "I'd Love To Change The World",
       "album": "A Space in Time • 1971"
-    },
-    {
-      "time": "11:14 am",
-      "artist": "Bobby Vee",
-      "title": "Rubber Ball",
-      "album": "Bobby Vee • 1961"
     }
   ]
 }
