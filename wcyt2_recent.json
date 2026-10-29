@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T10:48:53",
+  "updatedAt": "2026-10-29T10:52:37",
   "now": {
-    "artist": "L7",
-    "title": "Pretend We're Dead",
-    "album": "Bricks are Heavy • 1992",
+    "artist": "AC/DC",
+    "title": "Back in Black",
+    "album": "Back in Black • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:52 am",
-      "artist": "AC/DC",
-      "title": "Back in Black"
-    },
     {
       "time": "10:56 am",
       "artist": "Bangles",
@@ -21,9 +16,20 @@
       "time": "11:00 am",
       "artist": "John Prine",
       "title": "I Remember Everything"
+    },
+    {
+      "time": "11:02 am",
+      "artist": "Weather Report",
+      "title": "Birdland"
     }
   ],
   "recent": [
+    {
+      "time": "10:52 am",
+      "artist": "AC/DC",
+      "title": "Back in Black",
+      "album": "Back in Black • 1980"
+    },
     {
       "time": "10:48 am",
       "artist": "L7",
@@ -167,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Rope",
       "album": "Wasting Light • 2011"
-    },
-    {
-      "time": "8:56 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "As I Sat Sadly By Her Side",
-      "album": "No More Shall We Part • 2001"
     }
   ]
 }
