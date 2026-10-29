@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T00:51:49",
+  "updatedAt": "2026-10-29T00:56:49",
   "now": {
-    "artist": "John Prine",
-    "title": "The Great Compromise",
-    "album": "Diamonds in the Rough • 1972",
+    "artist": "Fugees",
+    "title": "Fu-Gee-La",
+    "album": "The Score • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:56 am",
-      "artist": "Fugees",
-      "title": "Fu-Gee-La"
-    },
     {
       "time": "1:00 am",
       "artist": "Coldplay",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:56 am",
+      "artist": "Fugees",
+      "title": "Fu-Gee-La",
+      "album": "The Score • 1996"
+    },
     {
       "time": "12:51 am",
       "artist": "John Prine",
@@ -172,12 +173,6 @@
       "artist": "The Dismemberment Plan",
       "title": "What Do You Want Me to Say?",
       "album": "Emergency & I • 1999"
-    },
-    {
-      "time": "10:29 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "President of What?",
-      "album": "Something About Airplanes • 1998"
     }
   ]
 }
