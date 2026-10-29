@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T23:58:04",
+  "updatedAt": "2026-10-29T00:00:33",
   "now": {
-    "artist": "Elastica",
-    "title": "Stutter",
-    "album": "Elastica • 1995",
+    "artist": "Chuck Berry",
+    "title": "Too Much Monkey Business",
+    "album": "After School Session • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 am",
-      "artist": "Chuck Berry",
-      "title": "Too Much Monkey Business"
-    },
     {
       "time": "12:03 am",
       "artist": "Broadcast",
@@ -26,9 +21,20 @@
       "time": "12:09 am",
       "artist": "Childish Gambino",
       "title": "This Is America"
+    },
+    {
+      "time": "12:13 am",
+      "artist": "Elton John",
+      "title": "Circle Of Life"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 am",
+      "artist": "Chuck Berry",
+      "title": "Too Much Monkey Business",
+      "album": "After School Session • 1957"
+    },
     {
       "time": "11:58 pm",
       "artist": "Elastica",
@@ -172,12 +178,6 @@
       "artist": "The Fall",
       "title": "Hip Priest",
       "album": "Hex Enduction Hour • 1982"
-    },
-    {
-      "time": "9:33 pm",
-      "artist": "Counting Crows",
-      "title": "Mr. Jones",
-      "album": "August and Everything After • 1994"
     }
   ]
 }
