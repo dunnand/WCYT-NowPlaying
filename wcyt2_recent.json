@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T20:55:42",
+  "updatedAt": "2026-10-28T20:59:20",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "Mainstreet",
-    "album": "Night Moves • 1977",
+    "artist": "Donovan",
+    "title": "Sunny Goodge Street",
+    "album": "Fairytale • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 pm",
-      "artist": "Donovan",
-      "title": "Sunny Goodge Street"
-    },
     {
       "time": "9:02 pm",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "9:08 pm",
       "artist": "Steely Dan",
       "title": "Rikki Don't Lose That Number"
+    },
+    {
+      "time": "9:12 pm",
+      "artist": "Built to Spill",
+      "title": "I Would Hurt a Fly"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 pm",
+      "artist": "Donovan",
+      "title": "Sunny Goodge Street",
+      "album": "Fairytale • 1965"
+    },
     {
       "time": "8:55 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +178,6 @@
       "artist": "Avril Lavigne",
       "title": "Complicated",
       "album": "Let Go • 2002"
-    },
-    {
-      "time": "7:27 pm",
-      "artist": "Charles Bradley",
-      "title": "Ain't It a Sin",
-      "album": "Changes • 2016"
     }
   ]
 }
