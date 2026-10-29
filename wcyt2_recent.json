@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T07:22:00",
+  "updatedAt": "2026-10-29T07:26:07",
   "now": {
-    "artist": "David Bowie",
-    "title": "Where Are We Now?",
-    "album": "The Next Day • 2013",
+    "artist": "Sugar Ray",
+    "title": "Every Morning",
+    "album": "14:59 • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 am",
-      "artist": "Sugar Ray",
-      "title": "Every Morning"
-    },
     {
       "time": "7:29 am",
       "artist": "The Cardigans",
@@ -21,9 +16,20 @@
       "time": "7:32 am",
       "artist": "Galaxie 500",
       "title": "Another Day"
+    },
+    {
+      "time": "7:36 am",
+      "artist": "Huey Lewis & The News",
+      "title": "Heart And Soul"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 am",
+      "artist": "Sugar Ray",
+      "title": "Every Morning",
+      "album": "14:59 • 1998"
+    },
     {
       "time": "7:22 am",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Eagles",
       "title": "Already Gone",
       "album": "On the Border • 1974"
-    },
-    {
-      "time": "5:49 am",
-      "artist": "Rolling Stones",
-      "title": "Shattered",
-      "album": "Some Girls • 1978"
     }
   ]
 }
