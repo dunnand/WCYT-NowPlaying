@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T22:52:30",
+  "updatedAt": "2026-10-28T22:55:35",
   "now": {
-    "artist": "The Selecter",
-    "title": "On My Radio",
-    "album": "single • 1979",
-    "category": "AUDIO"
+    "artist": "Fruit Bats",
+    "title": "When U Love Somebody",
+    "album": "Mouthfuls • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:55 pm",
-      "artist": "Fruit Bats",
-      "title": "When U Love Somebody"
-    },
     {
       "time": "10:59 pm",
       "artist": "Childish Gambino",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:55 pm",
+      "artist": "Fruit Bats",
+      "title": "When U Love Somebody",
+      "album": "Mouthfuls • 2003"
+    },
     {
       "time": "10:52 pm",
       "artist": "The Selecter",
@@ -167,12 +168,6 @@
       "artist": "Diana Ross & The Supremes",
       "title": "Back In My Arms Again",
       "album": "More Hits by The Supremes • 1965"
-    },
-    {
-      "time": "9:19 pm",
-      "artist": "Arctic Monkeys",
-      "title": "When the Sun Goes Down",
-      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
     }
   ]
 }
