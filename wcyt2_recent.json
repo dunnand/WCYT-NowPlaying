@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T20:14:24",
+  "updatedAt": "2026-10-28T20:18:08",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Honesty",
-    "album": "52nd Street • 1978",
+    "artist": "Amy Grant",
+    "title": "Every Heartbeat",
+    "album": "Heart in Motion • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:18 pm",
-      "artist": "Amy Grant",
-      "title": "Every Heartbeat"
-    },
     {
       "time": "8:21 pm",
       "artist": "Charles Bradley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:18 pm",
+      "artist": "Amy Grant",
+      "title": "Every Heartbeat",
+      "album": "Heart in Motion • 1991"
+    },
     {
       "time": "8:14 pm",
       "artist": "Billy Joel",
@@ -172,12 +173,6 @@
       "artist": "Prince",
       "title": "New Power Generation",
       "album": "Graffiti Bridge • 1990"
-    },
-    {
-      "time": "6:48 pm",
-      "artist": "PJ Harvey",
-      "title": "Missed",
-      "album": "Rid of Me • 1993"
     }
   ]
 }
