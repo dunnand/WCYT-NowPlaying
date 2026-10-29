@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T17:44:49",
+  "updatedAt": "2026-10-29T17:51:58",
   "now": {
-    "artist": "Steely Dan",
-    "title": "Deacon Blues",
-    "album": "Aja • 1977",
+    "artist": "Bobby Vinton",
+    "title": "Mr. Lonely",
+    "album": "Roses Are Red • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:52 pm",
-      "artist": "Bobby Vinton",
-      "title": "Mr. Lonely"
-    },
     {
       "time": "5:54 pm",
       "artist": "Steve Miller Band",
@@ -26,9 +21,20 @@
       "time": "6:00 pm",
       "artist": "Blondie",
       "title": "One Way or Another"
+    },
+    {
+      "time": "6:03 pm",
+      "artist": "Alice in Chains",
+      "title": "Down in a Hole"
     }
   ],
   "recent": [
+    {
+      "time": "5:51 pm",
+      "artist": "Bobby Vinton",
+      "title": "Mr. Lonely",
+      "album": "Roses Are Red • 1962"
+    },
     {
       "time": "5:44 pm",
       "artist": "Steely Dan",
@@ -172,12 +178,6 @@
       "artist": "Madvillain",
       "title": "All Caps",
       "album": "Madvillainy • 2004"
-    },
-    {
-      "time": "4:11 pm",
-      "artist": "Sister Rosetta Tharpe",
-      "title": "Strange Things Happening Every Day",
-      "album": "single • 1944"
     }
   ]
 }
