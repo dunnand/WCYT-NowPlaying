@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T08:43:33",
+  "updatedAt": "2026-10-29T08:49:14",
   "now": {
-    "artist": "Grimes",
-    "title": "My Name Is Dark",
-    "album": "Miss Anthropocene • 2020",
+    "artist": "M.I.A.",
+    "title": "Bucky Done Gun",
+    "album": "Arular • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:49 am",
-      "artist": "M.I.A.",
-      "title": "Bucky Done Gun"
-    },
     {
       "time": "8:53 am",
       "artist": "Iggy and The Stooges",
@@ -26,9 +21,20 @@
       "time": "9:02 am",
       "artist": "Foo Fighters",
       "title": "Rope"
+    },
+    {
+      "time": "9:06 am",
+      "artist": "Cat Stevens",
+      "title": "Morning Has Broken"
     }
   ],
   "recent": [
+    {
+      "time": "8:49 am",
+      "artist": "M.I.A.",
+      "title": "Bucky Done Gun",
+      "album": "Arular • 2005"
+    },
     {
       "time": "8:43 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Sting",
       "title": "If I Ever Lose My Faith In You",
       "album": "Ten Summoners Tales • 1993"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "Plastic Bertrand",
-      "title": "Ca Plane Pour Moi",
-      "album": "An 1 • 1977"
     }
   ]
 }
