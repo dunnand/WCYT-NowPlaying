@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T02:42:48",
+  "updatedAt": "2026-10-29T02:43:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Your Smiling Face",
+    "album": "JT • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 am",
-      "artist": "James Taylor",
-      "title": "Your Smiling Face"
-    },
     {
       "time": "2:45 am",
       "artist": "Tommy James",
@@ -26,9 +21,20 @@
       "time": "2:52 am",
       "artist": "Chubby Checker",
       "title": "Limbo Rock"
+    },
+    {
+      "time": "2:54 am",
+      "artist": "Tubeway Army",
+      "title": "Are 'Friends' Electric?"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "James Taylor",
+      "title": "Your Smiling Face",
+      "album": "JT • 1977"
+    },
     {
       "time": "2:40 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Paradise",
       "album": "Mylo Xyloto • 2011"
-    },
-    {
-      "time": "12:56 am",
-      "artist": "Fugees",
-      "title": "Fu-Gee-La",
-      "album": "The Score • 1996"
     }
   ]
 }
