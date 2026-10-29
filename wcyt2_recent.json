@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T05:49:12",
+  "updatedAt": "2026-10-29T05:49:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Shattered",
+    "album": "Some Girls • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:49 am",
-      "artist": "Rolling Stones",
-      "title": "Shattered"
-    },
     {
       "time": "5:53 am",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "6:00 am",
       "artist": "Herman's Hermits",
       "title": "Mrs. Brown You've Got A Lovely Daughter"
+    },
+    {
+      "time": "6:03 am",
+      "artist": "The Pop Group",
+      "title": "She Is Beyond Good And Evil"
     }
   ],
   "recent": [
+    {
+      "time": "5:49 am",
+      "artist": "Rolling Stones",
+      "title": "Shattered",
+      "album": "Some Girls • 1978"
+    },
     {
       "time": "5:47 am",
       "artist": "Mario 3D World Big Band",
@@ -172,12 +178,6 @@
       "artist": "Connie Francis",
       "title": "Who's Sorry Now",
       "album": "Who's Sorry Now? • 1958"
-    },
-    {
-      "time": "4:00 am",
-      "artist": "Michael Bolton",
-      "title": "When A Man Loves A Woman",
-      "album": "Time, Love & Tenderness • 1991"
     }
   ]
 }
