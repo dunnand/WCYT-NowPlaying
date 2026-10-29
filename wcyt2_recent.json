@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T11:35:00",
+  "updatedAt": "2026-10-29T11:35:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Four Tops",
+    "title": "It's The Same Old Song",
+    "album": "Four Tops Second Album • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:35 am",
-      "artist": "Four Tops",
-      "title": "It's The Same Old Song"
-    },
     {
       "time": "11:37 am",
       "artist": "Gorillaz",
@@ -26,9 +21,20 @@
       "time": "11:42 am",
       "artist": "Goodie Mob",
       "title": "Cell Therapy"
+    },
+    {
+      "time": "11:47 am",
+      "artist": "Big Country",
+      "title": "Fields of Fire"
     }
   ],
   "recent": [
+    {
+      "time": "11:35 am",
+      "artist": "Four Tops",
+      "title": "It's The Same Old Song",
+      "album": "Four Tops Second Album • 1965"
+    },
     {
       "time": "11:30 am",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Little Simz",
       "title": "Introvert",
       "album": "Sometimes I Might Be Introvert • 2021"
-    },
-    {
-      "time": "9:44 am",
-      "artist": "Mantronix",
-      "title": "Needle To The Groove",
-      "album": "The Album • 1985"
     }
   ]
 }
