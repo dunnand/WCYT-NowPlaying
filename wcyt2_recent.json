@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T06:50:21",
+  "updatedAt": "2026-10-29T06:50:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "One Big Holiday",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:50 am",
-      "artist": "My Morning Jacket",
-      "title": "One Big Holiday"
-    },
     {
       "time": "6:55 am",
       "artist": "Garnet Mimms & The Enchanters",
@@ -31,9 +26,20 @@
       "time": "7:06 am",
       "artist": "Dion & The Belmonts",
       "title": "Where Or When"
+    },
+    {
+      "time": "7:09 am",
+      "artist": "The Microphones",
+      "title": "The Glow"
     }
   ],
   "recent": [
+    {
+      "time": "6:50 am",
+      "artist": "My Morning Jacket",
+      "title": "One Big Holiday",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "6:45 am",
       "artist": "Grateful Dead",
@@ -177,12 +183,6 @@
       "artist": "Gerry & The Pacemakers",
       "title": "Ferry Cross The Mersey",
       "album": "Ferry Cross the Mersey • 1965"
-    },
-    {
-      "time": "5:16 am",
-      "artist": "Paramore",
-      "title": "Misery Business",
-      "album": "RIOT! • 2007"
     }
   ]
 }
