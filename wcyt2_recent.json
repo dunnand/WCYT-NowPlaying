@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T15:23:22",
+  "updatedAt": "2026-10-29T15:25:34",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Mystery Train",
-    "album": "Rock N Roll • 1956",
+    "artist": "Gnarls Barkley",
+    "title": "Crazy",
+    "album": "St. Elsewhere • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:25 pm",
-      "artist": "Gnarls Barkley",
-      "title": "Crazy"
-    },
     {
       "time": "3:28 pm",
       "artist": "The Byrds",
@@ -21,9 +16,20 @@
       "time": "3:32 pm",
       "artist": "Justin Timberlake",
       "title": "Say Something feat. Chris Stapleton"
+    },
+    {
+      "time": "3:37 pm",
+      "artist": "Pavement",
+      "title": "Here"
     }
   ],
   "recent": [
+    {
+      "time": "3:25 pm",
+      "artist": "Gnarls Barkley",
+      "title": "Crazy",
+      "album": "St. Elsewhere • 2006"
+    },
     {
       "time": "3:23 pm",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Christine and the Queens",
       "title": "People, I've been sad",
       "album": "La vita nuova • 2020"
-    },
-    {
-      "time": "1:36 pm",
-      "artist": "EPMD",
-      "title": "So Wat Cha Sayin'",
-      "album": "Unfinished Business • 1989"
     }
   ]
 }
