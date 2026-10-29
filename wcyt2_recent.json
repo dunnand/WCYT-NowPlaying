@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T16:47:18",
+  "updatedAt": "2026-10-29T16:47:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "She's Got A Way",
+    "album": "Cold Spring Harbor • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:47 pm",
-      "artist": "Billy Joel",
-      "title": "She's Got A Way"
-    },
     {
       "time": "4:50 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "4:56 pm",
       "artist": "Eddie Holman",
       "title": "Hey There Lonely Girl"
+    },
+    {
+      "time": "4:59 pm",
+      "artist": "The Carpenters",
+      "title": "(They Long To Be) Close To You"
     }
   ],
   "recent": [
+    {
+      "time": "4:47 pm",
+      "artist": "Billy Joel",
+      "title": "She's Got A Way",
+      "album": "Cold Spring Harbor • 1971"
+    },
     {
       "time": "4:43 pm",
       "artist": "American Football",
@@ -172,12 +178,6 @@
       "artist": "Elton John",
       "title": "Rocket Man",
       "album": "Honky Chteau • 1972"
-    },
-    {
-      "time": "3:12 pm",
-      "artist": "The Four Seasons",
-      "title": "Rag Doll",
-      "album": "Rag Doll • 1964"
     }
   ]
 }
