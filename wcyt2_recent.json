@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T08:14:15",
+  "updatedAt": "2026-10-29T08:14:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Help Me, Rhonda",
+    "album": "Summer Days • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:14 am",
-      "artist": "The Beach Boys",
-      "title": "Help Me, Rhonda"
-    },
     {
       "time": "8:17 am",
       "artist": "Florence + The Machine",
@@ -26,9 +21,20 @@
       "time": "8:24 am",
       "artist": "Luther Vandross",
       "title": "Power Of Love/Love Power"
+    },
+    {
+      "time": "8:28 am",
+      "artist": "Janet Jackson",
+      "title": "Let's Wait Awhile"
     }
   ],
   "recent": [
+    {
+      "time": "8:14 am",
+      "artist": "The Beach Boys",
+      "title": "Help Me, Rhonda",
+      "album": "Summer Days • 1965"
+    },
     {
       "time": "8:10 am",
       "artist": "Jimmy Eat World",
@@ -172,12 +178,6 @@
       "artist": "Cocteau Twins",
       "title": "Love's Easy Tears",
       "album": "Love's Easy Tears EP • 1986"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Tom Waits",
-      "title": "Underground",
-      "album": "Swordfishtrombones • 1983"
     }
   ]
 }
