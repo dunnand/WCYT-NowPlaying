@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T04:19:14",
+  "updatedAt": "2026-10-29T04:19:34",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Pulp",
+    "title": "This",
+    "album": "This • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:19 am",
-      "artist": "Pulp",
-      "title": "This"
-    },
     {
       "time": "4:25 am",
       "artist": "The Avalanches",
@@ -26,9 +21,20 @@
       "time": "4:33 am",
       "artist": "Julia Jacklin",
       "title": "If I Had The Hand Of God"
+    },
+    {
+      "time": "4:35 am",
+      "artist": "Toosii",
+      "title": "Favorite Song"
     }
   ],
   "recent": [
+    {
+      "time": "4:19 am",
+      "artist": "Pulp",
+      "title": "This",
+      "album": "This • 1998"
+    },
     {
       "time": "4:15 am",
       "artist": "Catholic Action",
@@ -172,12 +178,6 @@
       "artist": "Sharp Pins",
       "title": "Saturday Sun",
       "album": "Electric My Icebox • 2027"
-    },
-    {
-      "time": "2:41 am",
-      "artist": "Dinosaur Jr.",
-      "title": "Little Fury Things",
-      "album": "You're Living All Over Me • 1987"
     }
   ]
 }
