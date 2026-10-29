@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T21:02:05",
+  "updatedAt": "2026-10-28T21:02:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Superstar",
+    "album": "Carpenters • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:02 pm",
-      "artist": "The Carpenters",
-      "title": "Superstar"
-    },
     {
       "time": "9:05 pm",
       "artist": "Jan & Dean",
@@ -31,9 +26,20 @@
       "time": "9:17 pm",
       "artist": "Fats Domino",
       "title": "Blueberry Hill"
+    },
+    {
+      "time": "9:19 pm",
+      "artist": "Arctic Monkeys",
+      "title": "When the Sun Goes Down"
     }
   ],
   "recent": [
+    {
+      "time": "9:02 pm",
+      "artist": "The Carpenters",
+      "title": "Superstar",
+      "album": "Carpenters • 1971"
+    },
     {
       "time": "8:59 pm",
       "artist": "Donovan",
@@ -177,12 +183,6 @@
       "artist": "Cat Power",
       "title": "Lived in Bars",
       "album": "The Greatest • 2006"
-    },
-    {
-      "time": "7:30 pm",
-      "artist": "Avril Lavigne",
-      "title": "Complicated",
-      "album": "Let Go • 2002"
     }
   ]
 }
