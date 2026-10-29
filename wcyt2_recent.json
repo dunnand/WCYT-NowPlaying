@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T21:02:17",
+  "updatedAt": "2026-10-28T21:05:56",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Superstar",
-    "album": "Carpenters • 1971",
+    "artist": "Jan & Dean",
+    "title": "Surf City",
+    "album": "Surf City and Other Swingin' Cities • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 pm",
-      "artist": "Jan & Dean",
-      "title": "Surf City"
-    },
     {
       "time": "9:08 pm",
       "artist": "Steely Dan",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "Jan & Dean",
+      "title": "Surf City",
+      "album": "Surf City and Other Swingin' Cities • 1963"
+    },
     {
       "time": "9:02 pm",
       "artist": "The Carpenters",
@@ -177,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "Heartaches and Pain",
       "album": "No Time For Dreaming • 2011"
-    },
-    {
-      "time": "7:34 pm",
-      "artist": "Cat Power",
-      "title": "Lived in Bars",
-      "album": "The Greatest • 2006"
     }
   ]
 }
