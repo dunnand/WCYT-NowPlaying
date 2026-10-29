@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T14:05:11",
+  "updatedAt": "2026-10-29T14:05:22",
   "now": {
-    "artist": "Legal ID",
-    "title": "Legal ID",
-    "album": "",
-    "category": "LEGAL"
+    "artist": "Minutemen",
+    "title": "Corona",
+    "album": "Double Nickels on the Dime • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:05 pm",
-      "artist": "Minutemen",
-      "title": "Corona"
-    },
     {
       "time": "2:07 pm",
       "artist": "American Football",
@@ -26,9 +21,20 @@
       "time": "2:15 pm",
       "artist": "Slow Pulp",
       "title": "Red Car"
+    },
+    {
+      "time": "2:19 pm",
+      "artist": "Red PK",
+      "title": "Get Down"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 pm",
+      "artist": "Minutemen",
+      "title": "Corona",
+      "album": "Double Nickels on the Dime • 1984"
+    },
     {
       "time": "2:00 pm",
       "artist": "Spiritualized",
@@ -172,12 +178,6 @@
       "artist": "Ride",
       "title": "Today",
       "album": "Nowhere (Expanded) • 2010"
-    },
-    {
-      "time": "11:52 am",
-      "artist": "Husker Du",
-      "title": "New Day Rising",
-      "album": "New Day Rising • 1985"
     }
   ]
 }
