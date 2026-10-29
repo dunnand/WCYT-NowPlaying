@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T00:27:34",
+  "updatedAt": "2026-10-29T00:34:32",
   "now": {
-    "artist": "Grimes",
-    "title": "IDORU",
-    "album": "Miss Anthropocene • 2020",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "We Laugh Indoors",
+    "album": "The Photo Album • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:34 am",
-      "artist": "Death Cab for Cutie",
-      "title": "We Laugh Indoors"
-    },
     {
       "time": "12:39 am",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "12:47 am",
       "artist": "Coldplay",
       "title": "A Sky Full of Stars"
+    },
+    {
+      "time": "12:51 am",
+      "artist": "John Prine",
+      "title": "The Great Compromise"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 am",
+      "artist": "Death Cab for Cutie",
+      "title": "We Laugh Indoors",
+      "album": "The Photo Album • 2001"
+    },
     {
       "time": "12:27 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Jerry Butler And The Impressions",
       "title": "For Your Precious Love",
       "album": "single • 1958"
-    },
-    {
-      "time": "10:14 pm",
-      "artist": "David Byrne",
-      "title": "Angels",
-      "album": "David Byrne • 1994"
     }
   ]
 }
