@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T04:54:08",
+  "updatedAt": "2026-10-29T04:58:17",
   "now": {
-    "artist": "Les Savy Fav",
-    "title": "The Sweat Descends",
-    "album": "Inches • 2004",
-    "category": "TUNES"
+    "artist": "David Bowie",
+    "title": "I Can't Give Everything Away",
+    "album": "Blackstar • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:58 am",
-      "artist": "David Bowie",
-      "title": "I Can't Give Everything Away"
-    },
     {
       "time": "5:03 am",
       "artist": "Rod Stewart",
@@ -26,9 +21,20 @@
       "time": "5:14 am",
       "artist": "The Crickets",
       "title": "Maybe Baby"
+    },
+    {
+      "time": "5:16 am",
+      "artist": "Paramore",
+      "title": "Misery Business"
     }
   ],
   "recent": [
+    {
+      "time": "4:58 am",
+      "artist": "David Bowie",
+      "title": "I Can't Give Everything Away",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "4:54 am",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Lose Yourself to Dance (feat. Pharrell Williams)",
       "album": "Random Access Memories • 2013"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "The Black Keys",
-      "title": "Girl Is On My Mind",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
