@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T15:23:00",
+  "updatedAt": "2026-10-29T15:23:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Mystery Train",
+    "album": "Rock N Roll • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:23 pm",
-      "artist": "Elvis Presley",
-      "title": "Mystery Train"
-    },
     {
       "time": "3:25 pm",
       "artist": "Gnarls Barkley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:23 pm",
+      "artist": "Elvis Presley",
+      "title": "Mystery Train",
+      "album": "Rock N Roll • 1956"
+    },
     {
       "time": "3:19 pm",
       "artist": "Goldfinger",
@@ -172,12 +173,6 @@
       "artist": "EPMD",
       "title": "So Wat Cha Sayin'",
       "album": "Unfinished Business • 1989"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "Elton John",
-      "title": "Little Jeannie",
-      "album": "21 at 33 • 1980"
     }
   ]
 }
