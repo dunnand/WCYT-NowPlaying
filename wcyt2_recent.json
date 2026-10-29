@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T06:32:23",
+  "updatedAt": "2026-10-29T06:32:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Waits",
+    "title": "Underground",
+    "album": "Swordfishtrombones • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:32 am",
-      "artist": "Tom Waits",
-      "title": "Underground"
-    },
     {
       "time": "6:34 am",
       "artist": "Cocteau Twins",
@@ -26,9 +21,20 @@
       "time": "6:41 am",
       "artist": "Fleetwood Mac",
       "title": "The Chain"
+    },
+    {
+      "time": "6:45 am",
+      "artist": "Grateful Dead",
+      "title": "One More Saturday Night"
     }
   ],
   "recent": [
+    {
+      "time": "6:32 am",
+      "artist": "Tom Waits",
+      "title": "Underground",
+      "album": "Swordfishtrombones • 1983"
+    },
     {
       "time": "6:26 am",
       "artist": "Sigur Ros",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "I Can't Give Everything Away",
       "album": "Blackstar • 2016"
-    },
-    {
-      "time": "4:54 am",
-      "artist": "Les Savy Fav",
-      "title": "The Sweat Descends",
-      "album": "Inches • 2004"
     }
   ]
 }
