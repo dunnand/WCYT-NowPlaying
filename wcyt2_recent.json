@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T05:57:11",
+  "updatedAt": "2026-10-29T05:57:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Float On",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:57 am",
-      "artist": "Modest Mouse",
-      "title": "Float On"
-    },
     {
       "time": "6:00 am",
       "artist": "Herman's Hermits",
@@ -26,9 +21,20 @@
       "time": "6:06 am",
       "artist": "Roxette",
       "title": "Joyride"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "Sister Rosetta Tharpe",
+      "title": "Up Above My Head I Hear Music In The Air"
     }
   ],
   "recent": [
+    {
+      "time": "5:57 am",
+      "artist": "Modest Mouse",
+      "title": "Float On",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "5:53 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "Surfin' U.S.A.",
       "album": "Surfin' U.S.A. • 1963"
-    },
-    {
-      "time": "4:06 am",
-      "artist": "Grandaddy",
-      "title": "Now It's On",
-      "album": "Sumday • 2003"
     }
   ]
 }
