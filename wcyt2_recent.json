@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T00:56:49",
+  "updatedAt": "2026-10-29T01:00:52",
   "now": {
-    "artist": "Fugees",
-    "title": "Fu-Gee-La",
-    "album": "The Score • 1996",
+    "artist": "Coldplay",
+    "title": "Paradise",
+    "album": "Mylo Xyloto • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Coldplay",
-      "title": "Paradise"
-    },
     {
       "time": "1:05 am",
       "artist": "Aphex Twin",
@@ -21,9 +16,20 @@
       "time": "1:10 am",
       "artist": "The Decemberists",
       "title": "Sons & Daughters"
+    },
+    {
+      "time": "1:15 am",
+      "artist": "Curtis Harding",
+      "title": "Need Your Love"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "Coldplay",
+      "title": "Paradise",
+      "album": "Mylo Xyloto • 2011"
+    },
     {
       "time": "12:56 am",
       "artist": "Fugees",
@@ -167,12 +173,6 @@
       "artist": "Malcolm McLaren",
       "title": "Buffalo Gals",
       "album": "Duck Rock • 1983"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "The Dismemberment Plan",
-      "title": "What Do You Want Me to Say?",
-      "album": "Emergency & I • 1999"
     }
   ]
 }
