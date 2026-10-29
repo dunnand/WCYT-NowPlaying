@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T11:51:49",
+  "updatedAt": "2026-10-29T11:52:10",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Husker Du",
+    "title": "New Day Rising",
+    "album": "New Day Rising • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:52 am",
-      "artist": "Husker Du",
-      "title": "New Day Rising"
-    },
     {
       "time": "11:54 am",
       "artist": "Ride",
@@ -26,9 +21,20 @@
       "time": "12:04 pm",
       "artist": "They Might Be Giants",
       "title": "Destination Moon"
+    },
+    {
+      "time": "12:06 pm",
+      "artist": "Woods",
+      "title": "Moving To The Left"
     }
   ],
   "recent": [
+    {
+      "time": "11:52 am",
+      "artist": "Husker Du",
+      "title": "New Day Rising",
+      "album": "New Day Rising • 1985"
+    },
     {
       "time": "11:47 am",
       "artist": "Land of Talk",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Written In Reverse",
       "album": "Transference • 2010"
-    },
-    {
-      "time": "10:04 am",
-      "artist": "The War on Drugs",
-      "title": "Burning",
-      "album": "Lost In The Dream • 2014"
     }
   ]
 }
