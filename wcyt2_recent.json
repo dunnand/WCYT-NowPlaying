@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T21:17:06",
+  "updatedAt": "2026-10-28T21:19:20",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blueberry Hill",
-    "album": "This Is Fats Domino! • 1956",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "When the Sun Goes Down",
+    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:19 pm",
-      "artist": "Arctic Monkeys",
-      "title": "When the Sun Goes Down"
-    },
     {
       "time": "9:22 pm",
       "artist": "Diana Ross & The Supremes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:19 pm",
+      "artist": "Arctic Monkeys",
+      "title": "When the Sun Goes Down",
+      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
+    },
     {
       "time": "9:17 pm",
       "artist": "Fats Domino",
@@ -172,12 +173,6 @@
       "artist": "Joy Division",
       "title": "Atmosphere",
       "album": "Single • 1980"
-    },
-    {
-      "time": "7:47 pm",
-      "artist": "Genesis",
-      "title": "No Reply At All",
-      "album": "Abacab • 1981"
     }
   ]
 }
