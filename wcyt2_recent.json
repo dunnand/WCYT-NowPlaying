@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T01:05:20",
+  "updatedAt": "2026-10-29T01:05:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Aphex Twin",
+    "title": "Vordhosbn",
+    "album": "Drukqs • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 am",
-      "artist": "Aphex Twin",
-      "title": "Vordhosbn"
-    },
     {
       "time": "1:10 am",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "1:18 am",
       "artist": "Gang Starr",
       "title": "Mass Appeal"
+    },
+    {
+      "time": "1:21 am",
+      "artist": "Genesis",
+      "title": "I Can't Dance"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "Aphex Twin",
+      "title": "Vordhosbn",
+      "album": "Drukqs • 2001"
+    },
     {
       "time": "1:00 am",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "Papa Don't Preach",
       "album": "True Blue • 1986"
-    },
-    {
-      "time": "10:37 pm",
-      "artist": "Malcolm McLaren",
-      "title": "Buffalo Gals",
-      "album": "Duck Rock • 1983"
     }
   ]
 }
