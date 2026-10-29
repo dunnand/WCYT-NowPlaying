@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T01:43:18",
+  "updatedAt": "2026-10-29T01:54:09",
   "now": {
-    "artist": "The Trammps",
-    "title": "Disco Inferno",
-    "album": "Disco Inferno • 1976",
+    "artist": "Archies",
+    "title": "Sugar, Sugar",
+    "album": "single • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:54 am",
-      "artist": "Archies",
-      "title": "Sugar, Sugar"
-    },
     {
       "time": "1:57 am",
       "artist": "The Brothers Johnson",
@@ -26,9 +21,20 @@
       "time": "2:04 am",
       "artist": "ABBA",
       "title": "Waterloo"
+    },
+    {
+      "time": "2:06 am",
+      "artist": "Heavenly",
+      "title": "C Is The Heavenly Option"
     }
   ],
   "recent": [
+    {
+      "time": "1:54 am",
+      "artist": "Archies",
+      "title": "Sugar, Sugar",
+      "album": "single • 1969"
+    },
     {
       "time": "1:43 am",
       "artist": "The Trammps",
@@ -172,12 +178,6 @@
       "artist": "Broadcast",
       "title": "Valerie",
       "album": "Haha Sound • 2003"
-    },
-    {
-      "time": "12:00 am",
-      "artist": "Chuck Berry",
-      "title": "Too Much Monkey Business",
-      "album": "After School Session • 1957"
     }
   ]
 }
