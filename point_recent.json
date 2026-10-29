@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-28T21:07:09",
+  "updatedAt": "2026-10-28T21:07:21",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Beck",
+    "title": "Up All Night",
+    "album": "Colors • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "Beck",
-      "title": "Up All Night"
-    },
     {
       "time": "9:10 pm",
       "artist": "Belly",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "Beck",
+      "title": "Up All Night",
+      "album": "Colors • 2017"
+    },
     {
       "time": "9:03 pm",
       "artist": "Ducks Ltd.",
@@ -172,12 +173,6 @@
       "artist": "Junior Pro",
       "title": "Cool",
       "album": "Cool • 2026"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Radiohead",
-      "title": "Idiotic",
-      "album": "Kid A • 2000"
     }
   ]
 }
