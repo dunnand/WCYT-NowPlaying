@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T05:49:24",
+  "updatedAt": "2026-10-29T05:53:07",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Shattered",
-    "album": "Some Girls • 1978",
+    "artist": "Eagles",
+    "title": "Already Gone",
+    "album": "On the Border • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 am",
-      "artist": "Eagles",
-      "title": "Already Gone"
-    },
     {
       "time": "5:57 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "6:03 am",
       "artist": "The Pop Group",
       "title": "She Is Beyond Good And Evil"
+    },
+    {
+      "time": "6:06 am",
+      "artist": "Roxette",
+      "title": "Joyride"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 am",
+      "artist": "Eagles",
+      "title": "Already Gone",
+      "album": "On the Border • 1974"
+    },
     {
       "time": "5:49 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "Grandaddy",
       "title": "Now It's On",
       "album": "Sumday • 2003"
-    },
-    {
-      "time": "4:04 am",
-      "artist": "Connie Francis",
-      "title": "Who's Sorry Now",
-      "album": "Who's Sorry Now? • 1958"
     }
   ]
 }
