@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T00:43:46",
+  "updatedAt": "2026-10-29T00:47:32",
   "now": {
-    "artist": "Feist",
-    "title": "My Moon My Man",
-    "album": "The Reminder • 2007",
+    "artist": "Coldplay",
+    "title": "A Sky Full of Stars",
+    "album": "Ghost Stories • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 am",
-      "artist": "Coldplay",
-      "title": "A Sky Full of Stars"
-    },
     {
       "time": "12:51 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "1:00 am",
       "artist": "Coldplay",
       "title": "Paradise"
+    },
+    {
+      "time": "1:05 am",
+      "artist": "Aphex Twin",
+      "title": "Vordhosbn"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "Coldplay",
+      "title": "A Sky Full of Stars",
+      "album": "Ghost Stories • 2014"
+    },
     {
       "time": "12:43 am",
       "artist": "Feist",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "Redbone",
       "album": "Redbone • 2016"
-    },
-    {
-      "time": "10:24 pm",
-      "artist": "Chet Atkins",
-      "title": "Yakety, Axe",
-      "album": "More of That Guitar Country • 1965"
     }
   ]
 }
