@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T12:34:31",
+  "updatedAt": "2026-10-29T12:34:43",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Victoryland",
+    "title": "The Ugliest Girl On The Beach",
+    "album": "My Heart Is A Room With No Cameras In It • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Victoryland",
-      "title": "The Ugliest Girl On The Beach"
-    },
     {
       "time": "12:37 pm",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "12:44 pm",
       "artist": "Sadurn",
       "title": "the weight"
+    },
+    {
+      "time": "12:50 pm",
+      "artist": "Neko Case",
+      "title": "Hold On, Hold On"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Victoryland",
+      "title": "The Ugliest Girl On The Beach",
+      "album": "My Heart Is A Room With No Cameras In It • 2026"
+    },
     {
       "time": "12:30 pm",
       "artist": "Siouxsie and the Banshees",
@@ -172,12 +178,6 @@
       "artist": "The Jam",
       "title": "In the City",
       "album": "In the City • 1977"
-    },
-    {
-      "time": "10:45 am",
-      "artist": "Andy Shauf",
-      "title": "Try Again",
-      "album": "The Neon Skyline • 2020"
     }
   ]
 }
