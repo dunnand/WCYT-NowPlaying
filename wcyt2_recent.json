@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T04:58:17",
+  "updatedAt": "2026-10-29T05:03:50",
   "now": {
-    "artist": "David Bowie",
-    "title": "I Can't Give Everything Away",
-    "album": "Blackstar • 2016",
+    "artist": "Rod Stewart",
+    "title": "Tonight's The Night (Gonna Be Alright)",
+    "album": "A Night on the Town • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 am",
-      "artist": "Rod Stewart",
-      "title": "Tonight's The Night (Gonna Be Alright)"
-    },
     {
       "time": "5:07 am",
       "artist": "Primal Scream",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:03 am",
+      "artist": "Rod Stewart",
+      "title": "Tonight's The Night (Gonna Be Alright)",
+      "album": "A Night on the Town • 1976"
+    },
     {
       "time": "4:58 am",
       "artist": "David Bowie",
@@ -172,12 +173,6 @@
       "artist": "Low",
       "title": "Over the Ocean",
       "album": "The Curtain Hits The Cast • 1996"
-    },
-    {
-      "time": "3:17 am",
-      "artist": "Daft Punk",
-      "title": "Lose Yourself to Dance (feat. Pharrell Williams)",
-      "album": "Random Access Memories • 2013"
     }
   ]
 }
