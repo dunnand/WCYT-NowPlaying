@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T00:18:12",
+  "updatedAt": "2026-10-29T00:18:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fugazi",
+    "title": "Repeater",
+    "album": "Repeater • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 am",
-      "artist": "Fugazi",
-      "title": "Repeater"
-    },
     {
       "time": "12:21 am",
       "artist": "Outfield",
@@ -26,9 +21,20 @@
       "time": "12:27 am",
       "artist": "Grimes",
       "title": "IDORU"
+    },
+    {
+      "time": "12:34 am",
+      "artist": "Death Cab for Cutie",
+      "title": "We Laugh Indoors"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 am",
+      "artist": "Fugazi",
+      "title": "Repeater",
+      "album": "Repeater • 1990"
+    },
     {
       "time": "12:13 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Counting Crows",
       "title": "Big Yellow Taxi",
       "album": "Hard Candy • 2002"
-    },
-    {
-      "time": "9:59 pm",
-      "artist": "Steve Miller Band",
-      "title": "Rock'n Me",
-      "album": "Fly Like an Eagle • 1976"
     }
   ]
 }
