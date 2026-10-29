@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T14:14:55",
+  "updatedAt": "2026-10-29T14:18:17",
   "now": {
-    "artist": "The Whispers",
-    "title": "And the Beat Goes On",
-    "album": "The Whispers • 1979",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Parklife",
+    "album": "Parklife • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:18 pm",
-      "artist": "Blur",
-      "title": "Parklife"
-    },
     {
       "time": "2:21 pm",
       "artist": "Johnny Cash",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:18 pm",
+      "artist": "Blur",
+      "title": "Parklife",
+      "album": "Parklife • 1994"
+    },
     {
       "time": "2:14 pm",
       "artist": "The Whispers",
@@ -172,12 +173,6 @@
       "artist": "The National",
       "title": "Mistaken for Strangers",
       "album": "Boxer • 2007"
-    },
-    {
-      "time": "12:18 pm",
-      "artist": "Gorillaz",
-      "title": "We Got the Power feat. Jehnny Beth",
-      "album": "Humanz • 2017"
     }
   ]
 }
