@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-29T06:41:28",
+  "updatedAt": "2026-10-29T06:45:34",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "The Chain",
-    "album": "Rumours • 1977",
+    "artist": "Grateful Dead",
+    "title": "One More Saturday Night",
+    "album": "Europe '72 • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:45 am",
-      "artist": "Grateful Dead",
-      "title": "One More Saturday Night"
-    },
     {
       "time": "6:50 am",
       "artist": "My Morning Jacket",
       "title": "One Big Holiday"
     },
     {
-      "time": "6:56 am",
+      "time": "6:55 am",
       "artist": "Garnet Mimms & The Enchanters",
       "title": "Cry Baby"
     },
@@ -26,9 +21,20 @@
       "time": "6:59 am",
       "artist": "Plastic Bertrand",
       "title": "Ca Plane Pour Moi"
+    },
+    {
+      "time": "7:02 am",
+      "artist": "Sting",
+      "title": "If I Ever Lose My Faith In You"
     }
   ],
   "recent": [
+    {
+      "time": "6:45 am",
+      "artist": "Grateful Dead",
+      "title": "One More Saturday Night",
+      "album": "Europe '72 • 1972"
+    },
     {
       "time": "6:41 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Paramore",
       "title": "Misery Business",
       "album": "RIOT! • 2007"
-    },
-    {
-      "time": "5:14 am",
-      "artist": "The Crickets",
-      "title": "Maybe Baby",
-      "album": "The Chirping Crickets • 1957"
     }
   ]
 }
