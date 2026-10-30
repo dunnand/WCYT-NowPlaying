@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T05:09:41",
+  "updatedAt": "2026-10-30T05:09:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Alex G",
+    "title": "Sarah",
+    "album": "Trick • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:09 am",
-      "artist": "Alex G",
-      "title": "Sarah"
-    },
     {
       "time": "5:12 am",
       "artist": "Angel Olsen",
@@ -26,9 +21,20 @@
       "time": "5:22 am",
       "artist": "Car Seat Headrest",
       "title": "Cute Thing"
+    },
+    {
+      "time": "5:27 am",
+      "artist": "Adrianne Lenker",
+      "title": "Sadness As A Gift"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 am",
+      "artist": "Alex G",
+      "title": "Sarah",
+      "album": "Trick • 2015"
+    },
     {
       "time": "5:05 am",
       "artist": "The War on Drugs",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Run Away",
       "album": "Ride Lonesome • 2026"
-    },
-    {
-      "time": "3:32 am",
-      "artist": "The Smiths",
-      "title": "Still Ill",
-      "album": "The Smiths • 1984"
     }
   ]
 }
