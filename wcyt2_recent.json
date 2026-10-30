@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T05:49:46",
+  "updatedAt": "2026-10-30T05:49:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Roman Candle",
+    "album": "Roman Candle • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:49 am",
-      "artist": "Elliott Smith",
-      "title": "Roman Candle"
-    },
     {
       "time": "5:53 am",
       "artist": "Pure Prairie League",
@@ -26,9 +21,20 @@
       "time": "6:00 am",
       "artist": "Jessie Ware",
       "title": "Spotlight"
+    },
+    {
+      "time": "6:06 am",
+      "artist": "Justice",
+      "title": "Let There Be Light"
     }
   ],
   "recent": [
+    {
+      "time": "5:49 am",
+      "artist": "Elliott Smith",
+      "title": "Roman Candle",
+      "album": "Roman Candle • 1994"
+    },
     {
       "time": "5:46 am",
       "artist": "Kristin Hersh",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "I'm Free From the Chain Gang Now",
       "album": "American V: A Hundred Highways • 2006"
-    },
-    {
-      "time": "4:22 am",
-      "artist": "Dionne Warwick",
-      "title": "I'll Never Love This Way Again",
-      "album": "Dionne • 1979"
     }
   ]
 }
