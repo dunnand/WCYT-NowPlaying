@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T01:20:35",
+  "updatedAt": "2026-10-30T01:20:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Toto",
+    "title": "Africa",
+    "album": "Toto IV • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:20 am",
-      "artist": "Toto",
-      "title": "Africa"
-    },
     {
       "time": "1:25 am",
       "artist": "Billie Eilish",
@@ -26,9 +21,20 @@
       "time": "1:35 am",
       "artist": "Black Sabbath",
       "title": "Children of the Grave"
+    },
+    {
+      "time": "1:39 am",
+      "artist": "Guided by Voices",
+      "title": "Glad Girls"
     }
   ],
   "recent": [
+    {
+      "time": "1:20 am",
+      "artist": "Toto",
+      "title": "Africa",
+      "album": "Toto IV • 1982"
+    },
     {
       "time": "1:16 am",
       "artist": "The Stone Roses",
@@ -172,12 +178,6 @@
       "artist": "Stevie Nicks",
       "title": "Talk To Me",
       "album": "Rock a Little • 1985"
-    },
-    {
-      "time": "11:50 pm",
-      "artist": "Steve Winwood",
-      "title": "Roll With It",
-      "album": "Roll With It • 1988"
     }
   ]
 }
