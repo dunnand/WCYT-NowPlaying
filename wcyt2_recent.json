@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T01:59:09",
+  "updatedAt": "2026-10-30T01:59:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "Movement",
+    "album": "LCD Soundsystem • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:59 am",
-      "artist": "LCD Soundsystem",
-      "title": "Movement"
-    },
     {
       "time": "2:02 am",
       "artist": "Linkin Park",
@@ -26,9 +21,20 @@
       "time": "2:10 am",
       "artist": "Soundgarden",
       "title": "Black Hole Sun"
+    },
+    {
+      "time": "2:15 am",
+      "artist": "Mase",
+      "title": "Feels So Good"
     }
   ],
   "recent": [
+    {
+      "time": "1:59 am",
+      "artist": "LCD Soundsystem",
+      "title": "Movement",
+      "album": "LCD Soundsystem • 2005"
+    },
     {
       "time": "1:55 am",
       "artist": "Leon Bridges",
@@ -172,12 +178,6 @@
       "artist": "The English Beat",
       "title": "Tears of a Clown",
       "album": "I Just Can't Stop It • 1980"
-    },
-    {
-      "time": "12:29 am",
-      "artist": "Stevie Wonder",
-      "title": "Part-Time Lover",
-      "album": "In Square Circle • 1985"
     }
   ]
 }
