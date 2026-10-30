@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T12:17:01",
+  "updatedAt": "2026-10-30T12:17:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kate Bush",
+    "title": "Babooshka",
+    "album": "Never for Ever • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 pm",
-      "artist": "Kate Bush",
-      "title": "Babooshka"
-    },
     {
       "time": "12:20 pm",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "12:28 pm",
       "artist": "Kate Bush",
       "title": "Wuthering Heights"
+    },
+    {
+      "time": "12:32 pm",
+      "artist": "The Strokes",
+      "title": "New York City Cop.s"
     }
   ],
   "recent": [
+    {
+      "time": "12:17 pm",
+      "artist": "Kate Bush",
+      "title": "Babooshka",
+      "album": "Never for Ever • 1980"
+    },
     {
       "time": "12:12 pm",
       "artist": "Hall & Oates",
@@ -172,12 +178,6 @@
       "artist": "John Denver",
       "title": "Rocky Mountain High",
       "album": "Rocky Mountain High • 1972"
-    },
-    {
-      "time": "10:24 am",
-      "artist": "Paul McCartney",
-      "title": "New",
-      "album": "New • 2013"
     }
   ]
 }
