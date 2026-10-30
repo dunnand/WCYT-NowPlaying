@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T05:22:06",
+  "updatedAt": "2026-10-30T05:22:18",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Car Seat Headrest",
+    "title": "Cute Thing",
+    "album": "Twin Fantasy • 2018",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 am",
-      "artist": "Car Seat Headrest",
-      "title": "Cute Thing"
-    },
     {
       "time": "5:27 am",
       "artist": "Adrianne Lenker",
@@ -26,9 +21,20 @@
       "time": "5:35 am",
       "artist": "The Mountain Goats",
       "title": "Get Famous"
+    },
+    {
+      "time": "5:38 am",
+      "artist": "Lucy Dacus",
+      "title": "Troublemaker Doppleganger"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 am",
+      "artist": "Car Seat Headrest",
+      "title": "Cute Thing",
+      "album": "Twin Fantasy • 2018"
+    },
     {
       "time": "5:16 am",
       "artist": "Bon Iver",
@@ -172,12 +178,6 @@
       "artist": "The Avalanches",
       "title": "Frontier Psychiatrist",
       "album": "Since I Left You • 2000"
-    },
-    {
-      "time": "3:42 am",
-      "artist": "Widowspeak",
-      "title": "If You Change",
-      "album": "Roses • 2026"
     }
   ]
 }
