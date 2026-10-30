@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T11:40:20",
+  "updatedAt": "2026-10-30T11:40:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joy Division",
+    "title": "Shadowplay",
+    "album": "Unknown Pleasures • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 am",
-      "artist": "Joy Division",
-      "title": "Shadowplay"
-    },
     {
       "time": "11:44 am",
       "artist": "Johnny Rivers",
@@ -31,9 +26,20 @@
       "time": "11:54 am",
       "artist": "Champs",
       "title": "Tequila"
+    },
+    {
+      "time": "11:56 am",
+      "artist": "The Strokes",
+      "title": "Is This It."
     }
   ],
   "recent": [
+    {
+      "time": "11:40 am",
+      "artist": "Joy Division",
+      "title": "Shadowplay",
+      "album": "Unknown Pleasures • 1979"
+    },
     {
       "time": "11:37 am",
       "artist": "The McCoys",
@@ -177,12 +183,6 @@
       "artist": "Orlons",
       "title": "Don't Hang Up",
       "album": "single • 1962"
-    },
-    {
-      "time": "9:46 am",
-      "artist": "The Strokes",
-      "title": "Soma.",
-      "album": "Is This It • 2001"
     }
   ]
 }
