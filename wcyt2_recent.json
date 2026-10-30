@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T09:40:07",
+  "updatedAt": "2026-10-30T09:44:42",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Naomi",
-    "album": "On Avery Island • 1996",
-    "category": "TUNES"
+    "artist": "Ricky Nelson",
+    "title": "I'm Walkin'",
+    "album": "Ricky • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:44 am",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'"
-    },
     {
       "time": "9:46 am",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "9:51 am",
       "artist": "One Direction",
       "title": "If I Could Fly"
+    },
+    {
+      "time": "9:55 am",
+      "artist": "Missy Elliott",
+      "title": "The Rain (Supa Dupa Fly)"
     }
   ],
   "recent": [
+    {
+      "time": "9:44 am",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'",
+      "album": "Ricky • 1957"
+    },
     {
       "time": "9:40 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "Peter Gabriel",
       "title": "In Your Eyes",
       "album": "So • 1986"
-    },
-    {
-      "time": "7:49 am",
-      "artist": "Yo La Tengo",
-      "title": "Big Day Coming",
-      "album": "Painful • 1993"
     }
   ]
 }
