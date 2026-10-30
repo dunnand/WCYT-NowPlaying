@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T00:08:20",
+  "updatedAt": "2026-10-30T00:11:15",
   "now": {
     "artist": "My Morning Jacket",
-    "title": "Just Because I Do",
+    "title": "The Way That He Sings",
     "album": "At Dawn • 2001",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:11 am",
-      "artist": "My Morning Jacket",
-      "title": "The Way That He Sings"
-    },
     {
       "time": "12:16 am",
       "artist": "Leonard Cohen",
@@ -26,9 +21,20 @@
       "time": "12:25 am",
       "artist": "The Flaming Lips",
       "title": "Waitin' For a Superman"
+    },
+    {
+      "time": "12:29 am",
+      "artist": "Stevie Wonder",
+      "title": "Part-Time Lover"
     }
   ],
   "recent": [
+    {
+      "time": "12:11 am",
+      "artist": "My Morning Jacket",
+      "title": "The Way That He Sings",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "12:08 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "J. Geils Band",
       "title": "Centerfold",
       "album": "Freeze-Frame • 1981"
-    },
-    {
-      "time": "10:34 pm",
-      "artist": "Jackson Browne",
-      "title": "Tender Is The Night",
-      "album": "Lawyers in Love • 1983"
     }
   ]
 }
