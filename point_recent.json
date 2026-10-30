@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T19:44:26",
+  "updatedAt": "2026-10-30T19:44:38",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "My Morning Jacket",
+    "title": "Time Waited",
+    "album": "Is • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 pm",
-      "artist": "My Morning Jacket",
-      "title": "Time Waited"
-    },
     {
       "time": "7:48 pm",
       "artist": "Slow Pulp",
@@ -21,9 +16,20 @@
       "time": "7:52 pm",
       "artist": "Freak Slug",
       "title": "Muse"
+    },
+    {
+      "time": "7:55 pm",
+      "artist": "Caroline Polachek",
+      "title": "Welcome To My Island"
     }
   ],
   "recent": [
+    {
+      "time": "7:44 pm",
+      "artist": "My Morning Jacket",
+      "title": "Time Waited",
+      "album": "Is • 2025"
+    },
     {
       "time": "7:41 pm",
       "artist": "Kevin Morby",
@@ -167,12 +173,6 @@
       "artist": "Nick Cave & The Bad Seeds",
       "title": "Frogs",
       "album": "Wild God • 2024"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "CHVRCHES",
-      "title": "Roses",
-      "album": "• 2026"
     }
   ]
 }
