@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T08:58:15",
+  "updatedAt": "2026-10-30T09:01:31",
   "now": {
-    "artist": "OK Go",
-    "title": "White Knuckles",
-    "album": "Of the Blue Colour of the Sky • 2010",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Grounded",
+    "album": "Wowee Zowee • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:01 am",
-      "artist": "Pavement",
-      "title": "Grounded"
-    },
     {
       "time": "9:05 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "9:14 am",
       "artist": "The Sugarhill Gang",
       "title": "Rapper's Delight"
+    },
+    {
+      "time": "9:18 am",
+      "artist": "Chappell Roan",
+      "title": "HOT TO GO!"
     }
   ],
   "recent": [
+    {
+      "time": "9:01 am",
+      "artist": "Pavement",
+      "title": "Grounded",
+      "album": "Wowee Zowee • 1995"
+    },
     {
       "time": "8:58 am",
       "artist": "OK Go",
@@ -172,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "Sara Smile",
       "album": "Daryl Hall & John Oates • 1975"
-    },
-    {
-      "time": "7:06 am",
-      "artist": "Gordon Lightfoot",
-      "title": "Sundown",
-      "album": "Sundown • 1974"
     }
   ]
 }
