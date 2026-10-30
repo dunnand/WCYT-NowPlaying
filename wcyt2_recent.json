@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T20:26:17",
+  "updatedAt": "2026-10-29T20:30:40",
   "now": {
-    "artist": "Mary J. Blige",
-    "title": "Real Love",
-    "album": "What's the 411? • 1992",
+    "artist": "Operation Ivy",
+    "title": "Sound System",
+    "album": "Energy • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:30 pm",
-      "artist": "Operation Ivy",
-      "title": "Sound System"
-    },
     {
       "time": "8:32 pm",
       "artist": "The Four Seasons",
@@ -21,9 +16,20 @@
       "time": "8:35 pm",
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Alabama Pines"
+    },
+    {
+      "time": "8:39 pm",
+      "artist": "Sonic Youth",
+      "title": "Sugar Kane"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 pm",
+      "artist": "Operation Ivy",
+      "title": "Sound System",
+      "album": "Energy • 1989"
+    },
     {
       "time": "8:26 pm",
       "artist": "Mary J. Blige",
@@ -167,12 +173,6 @@
       "artist": "Commodores",
       "title": "Sail On",
       "album": "Midnight Magic • 1979"
-    },
-    {
-      "time": "6:54 pm",
-      "artist": "Foo Fighters",
-      "title": "Everlong",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
