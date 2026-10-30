@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T21:50:45",
+  "updatedAt": "2026-10-29T21:55:20",
   "now": {
-    "artist": "Eagles",
-    "title": "Life In The Fast Lane",
-    "album": "Hotel California • 1977",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "I Think I Need a New Heart",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:55 pm",
-      "artist": "The Magnetic Fields",
-      "title": "I Think I Need a New Heart"
-    },
     {
       "time": "9:57 pm",
       "artist": "Kamasi Washington",
@@ -23,12 +18,18 @@
       "title": "Hot N Cold"
     },
     {
-      "time": "10:08 pm",
+      "time": "10:07 pm",
       "artist": "Okkervil River",
       "title": "For Real"
     }
   ],
   "recent": [
+    {
+      "time": "9:55 pm",
+      "artist": "The Magnetic Fields",
+      "title": "I Think I Need a New Heart",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "9:50 pm",
       "artist": "Eagles",
@@ -172,12 +173,6 @@
       "artist": "Mary J. Blige",
       "title": "Real Love",
       "album": "What's the 411? • 1992"
-    },
-    {
-      "time": "8:23 pm",
-      "artist": "Elliott Smith",
-      "title": "Cupid's Trick",
-      "album": "Either Or • 1997"
     }
   ]
 }
