@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T00:08:10",
+  "updatedAt": "2026-10-30T00:08:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Just Because I Do",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:08 am",
-      "artist": "My Morning Jacket",
-      "title": "Just Because I Do"
-    },
     {
       "time": "12:11 am",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "12:21 am",
       "artist": "Pavement",
       "title": "In the Mouth a Desert"
+    },
+    {
+      "time": "12:25 am",
+      "artist": "The Flaming Lips",
+      "title": "Waitin' For a Superman"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "12:03 am",
       "artist": "Lana Del Rey",
@@ -172,12 +178,6 @@
       "artist": "Jackson Browne",
       "title": "Tender Is The Night",
       "album": "Lawyers in Love • 1983"
-    },
-    {
-      "time": "10:26 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Oh Comely",
-      "album": "In The Aeroplane Over The Sea • 1998"
     }
   ]
 }
