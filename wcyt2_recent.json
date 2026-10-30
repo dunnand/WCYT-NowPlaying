@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T08:38:00",
+  "updatedAt": "2026-10-30T08:41:22",
   "now": {
-    "artist": "Peter, Paul & Mary",
-    "title": "Puff The Magic Dragon",
-    "album": "Moving • 1963",
+    "artist": "James Taylor",
+    "title": "Mexico",
+    "album": "Gorilla • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 am",
-      "artist": "James Taylor",
-      "title": "Mexico"
-    },
     {
       "time": "8:44 am",
       "artist": "Michael W. Smith",
@@ -26,9 +21,20 @@
       "time": "8:51 am",
       "artist": "The Strokes",
       "title": "Alone, Together."
+    },
+    {
+      "time": "8:54 am",
+      "artist": "The Strokes",
+      "title": "Hard To Explain."
     }
   ],
   "recent": [
+    {
+      "time": "8:41 am",
+      "artist": "James Taylor",
+      "title": "Mexico",
+      "album": "Gorilla • 1975"
+    },
     {
       "time": "8:38 am",
       "artist": "Peter, Paul & Mary",
@@ -172,12 +178,6 @@
       "artist": "Jennifer Paige",
       "title": "Crush",
       "album": "Jennifer Paige • 1998"
-    },
-    {
-      "time": "6:37 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Bright Horses",
-      "album": "Ghosteen • 2019"
     }
   ]
 }
