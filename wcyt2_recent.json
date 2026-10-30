@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T01:51:58",
+  "updatedAt": "2026-10-30T01:55:54",
   "now": {
-    "artist": "Sebadoh",
-    "title": "Flame",
-    "album": "The Sebadoh • 1999",
-    "category": "TUNES"
+    "artist": "Leon Bridges",
+    "title": "Coming Home",
+    "album": "Coming Home • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 am",
-      "artist": "Leon Bridges",
-      "title": "Coming Home"
-    },
     {
       "time": "1:59 am",
       "artist": "LCD Soundsystem",
@@ -21,9 +16,20 @@
       "time": "2:02 am",
       "artist": "Linkin Park",
       "title": "In The End"
+    },
+    {
+      "time": "2:06 am",
+      "artist": "Leon Bridges",
+      "title": "River"
     }
   ],
   "recent": [
+    {
+      "time": "1:55 am",
+      "artist": "Leon Bridges",
+      "title": "Coming Home",
+      "album": "Coming Home • 2015"
+    },
     {
       "time": "1:51 am",
       "artist": "Sebadoh",
@@ -167,12 +173,6 @@
       "artist": "Stevie Wonder",
       "title": "Part-Time Lover",
       "album": "In Square Circle • 1985"
-    },
-    {
-      "time": "12:25 am",
-      "artist": "The Flaming Lips",
-      "title": "Waitin' For a Superman",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
