@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T00:47:16",
+  "updatedAt": "2026-10-30T00:47:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barry Manilow",
+    "title": "Looks Like We Made It",
+    "album": "This One's for You • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 am",
-      "artist": "Barry Manilow",
-      "title": "Looks Like We Made It"
-    },
     {
       "time": "12:50 am",
       "artist": "Roy Orbison",
@@ -31,9 +26,20 @@
       "time": "12:58 am",
       "artist": "Elvis Presley",
       "title": "Heartbreak Hotel"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Klaxons",
+      "title": "Golden Skans"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "Barry Manilow",
+      "title": "Looks Like We Made It",
+      "album": "This One's for You • 1976"
+    },
     {
       "time": "12:44 am",
       "artist": "The Mamas & The Papas",
@@ -177,12 +183,6 @@
       "artist": "John Mayer",
       "title": "Daughters",
       "album": "Heavier Things • 2005"
-    },
-    {
-      "time": "11:08 pm",
-      "artist": "Paul McCartney",
-      "title": "Uncle Albert/Admiral Halsey",
-      "album": "Ram • 1971"
     }
   ]
 }
