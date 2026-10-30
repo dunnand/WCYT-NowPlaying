@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T21:48:31",
+  "updatedAt": "2026-10-29T21:50:45",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "(You're The) Devil In Disguise",
-    "album": "single • 1963",
+    "artist": "Eagles",
+    "title": "Life In The Fast Lane",
+    "album": "Hotel California • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 pm",
-      "artist": "Eagles",
-      "title": "Life In The Fast Lane"
-    },
     {
       "time": "9:55 pm",
       "artist": "The Magnetic Fields",
@@ -26,9 +21,20 @@
       "time": "10:04 pm",
       "artist": "Katy Perry",
       "title": "Hot N Cold"
+    },
+    {
+      "time": "10:08 pm",
+      "artist": "Okkervil River",
+      "title": "For Real"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 pm",
+      "artist": "Eagles",
+      "title": "Life In The Fast Lane",
+      "album": "Hotel California • 1977"
+    },
     {
       "time": "9:48 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Cupid's Trick",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "8:18 pm",
-      "artist": "Kendrick Lamar",
-      "title": "These Walls feat. Bilal,  Anna Wise, Thundercat",
-      "album": "To Pimp a Butterfly • 2015"
     }
   ]
 }
