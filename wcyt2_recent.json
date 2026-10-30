@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T09:36:11",
+  "updatedAt": "2026-10-30T09:40:07",
   "now": {
-    "artist": "Joe Cocker",
-    "title": "Feeling Alright",
-    "album": "With a Little Help from My Friends • 1972",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Naomi",
+    "album": "On Avery Island • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:40 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Naomi"
-    },
     {
       "time": "9:44 am",
       "artist": "Ricky Nelson",
@@ -26,9 +21,20 @@
       "time": "9:49 am",
       "artist": "Orlons",
       "title": "Don't Hang Up"
+    },
+    {
+      "time": "9:51 am",
+      "artist": "One Direction",
+      "title": "If I Could Fly"
     }
   ],
   "recent": [
+    {
+      "time": "9:40 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Naomi",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "9:36 am",
       "artist": "Joe Cocker",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "Big Day Coming",
       "album": "Painful • 1993"
-    },
-    {
-      "time": "7:46 am",
-      "artist": "Sleater-Kinney",
-      "title": "Anonymous",
-      "album": "Call The Doctor • 1996"
     }
   ]
 }
