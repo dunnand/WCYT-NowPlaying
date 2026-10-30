@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T21:29:44",
+  "updatedAt": "2026-10-29T21:29:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barbra Streisand",
+    "title": "People",
+    "album": "Funny Girl • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:29 pm",
-      "artist": "Barbra Streisand",
-      "title": "People"
-    },
     {
       "time": "9:33 pm",
       "artist": "Jason Isbell and the 400 Unit",
@@ -26,9 +21,20 @@
       "time": "9:39 pm",
       "artist": "Grateful Dead",
       "title": "Estimated Prophet"
+    },
+    {
+      "time": "9:45 pm",
+      "artist": "Modest Mouse",
+      "title": "Paper Thin Walls"
     }
   ],
   "recent": [
+    {
+      "time": "9:29 pm",
+      "artist": "Barbra Streisand",
+      "title": "People",
+      "album": "Funny Girl • 1964"
+    },
     {
       "time": "9:25 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Olivia Newton-John",
       "title": "Have You Never Been Mellow",
       "album": "Have You Never Been Mellow • 1975"
-    },
-    {
-      "time": "7:58 pm",
-      "artist": "Booker T. & The MG's",
-      "title": "Green Onions",
-      "album": "Green Onions • 1962"
     }
   ]
 }
