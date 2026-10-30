@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T21:45:24",
+  "updatedAt": "2026-10-29T21:45:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Paper Thin Walls",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:45 pm",
-      "artist": "Modest Mouse",
-      "title": "Paper Thin Walls"
-    },
     {
       "time": "9:48 pm",
       "artist": "Elvis Presley",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:45 pm",
+      "artist": "Modest Mouse",
+      "title": "Paper Thin Walls",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "9:39 pm",
       "artist": "Grateful Dead",
@@ -177,12 +178,6 @@
       "artist": "Sonny & Cher",
       "title": "I Got You Babe",
       "album": "Look at Us • 1965"
-    },
-    {
-      "time": "8:09 pm",
-      "artist": "Joe",
-      "title": "I Wanna Know",
-      "album": "My Name Is Joe • 2000"
     }
   ]
 }
