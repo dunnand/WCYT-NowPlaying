@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T20:08:11",
+  "updatedAt": "2026-10-29T20:09:56",
   "now": {
-    "artist": "Jerry Lee Lewis",
-    "title": "Great Balls of Fire",
-    "album": "Single • 1957",
+    "artist": "Joe",
+    "title": "I Wanna Know",
+    "album": "My Name Is Joe • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:09 pm",
-      "artist": "Joe",
-      "title": "I Wanna Know"
-    },
     {
       "time": "8:15 pm",
       "artist": "Sonny & Cher",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:09 pm",
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "album": "My Name Is Joe • 2000"
+    },
     {
       "time": "8:08 pm",
       "artist": "Jerry Lee Lewis",
@@ -172,12 +173,6 @@
       "artist": "Chappell Roan",
       "title": "Red Wine Supernova",
       "album": "The Rise and Fall of a Midwest Princess • 2024"
-    },
-    {
-      "time": "6:34 pm",
-      "artist": "Minor Threat",
-      "title": "Minor Threat",
-      "album": "Minor Threat - EP • 1981"
     }
   ]
 }
