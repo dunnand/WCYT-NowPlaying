@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T17:41:53",
+  "updatedAt": "2026-10-30T17:42:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Just Because I Do",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:41 pm",
-      "artist": "My Morning Jacket",
-      "title": "Just Because I Do"
-    },
     {
       "time": "5:44 pm",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "5:54 pm",
       "artist": "Pavement",
       "title": "In the Mouth a Desert"
+    },
+    {
+      "time": "5:58 pm",
+      "artist": "The Flaming Lips",
+      "title": "Waitin' For a Superman"
     }
   ],
   "recent": [
+    {
+      "time": "5:42 pm",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "5:37 pm",
       "artist": "Lana Del Rey",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Identikit",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "4:01 pm",
-      "artist": "Patsy Cline",
-      "title": "I Fall To Pieces",
-      "album": "Showcase • 1961"
     }
   ]
 }
