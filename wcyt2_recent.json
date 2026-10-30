@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T15:56:21",
+  "updatedAt": "2026-10-30T15:58:28",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blue Monday",
-    "album": "This Is Fats Domino! • 1956",
+    "artist": "*NSYNC",
+    "title": "It's Gonna Be Me",
+    "album": "No Strings Attached • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 pm",
-      "artist": "*NSYNC",
-      "title": "It's Gonna Be Me"
-    },
     {
       "time": "4:01 pm",
       "artist": "Patsy Cline",
@@ -21,9 +16,20 @@
       "time": "4:04 pm",
       "artist": "Radiohead",
       "title": "Identikit"
+    },
+    {
+      "time": "4:09 pm",
+      "artist": "Spiritualized",
+      "title": "Ladies and Gentlemen We Are Floating in Space"
     }
   ],
   "recent": [
+    {
+      "time": "3:58 pm",
+      "artist": "*NSYNC",
+      "title": "It's Gonna Be Me",
+      "album": "No Strings Attached • 2000"
+    },
     {
       "time": "3:56 pm",
       "artist": "Fats Domino",
@@ -167,12 +173,6 @@
       "artist": "Madonna",
       "title": "I'll Remember",
       "album": "Something to Remember • 1994"
-    },
-    {
-      "time": "2:23 pm",
-      "artist": "Hall & Oates",
-      "title": "So Close",
-      "album": "Change of Season • 1990"
     }
   ]
 }
