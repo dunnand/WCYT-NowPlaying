@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T10:10:05",
+  "updatedAt": "2026-10-30T10:13:50",
   "now": {
-    "artist": "James Brown",
-    "title": "We Got To Change",
-    "album": "Single • 2024",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Trying Your Luck.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:13 am",
-      "artist": "The Strokes",
-      "title": "Trying Your Luck."
-    },
     {
       "time": "10:17 am",
       "artist": "Joe Jackson",
@@ -26,9 +21,20 @@
       "time": "10:24 am",
       "artist": "Paul McCartney",
       "title": "New"
+    },
+    {
+      "time": "10:26 am",
+      "artist": "John Denver",
+      "title": "Rocky Mountain High"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 am",
+      "artist": "The Strokes",
+      "title": "Trying Your Luck.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "10:10 am",
       "artist": "James Brown",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "This Too Shall Pass",
       "album": "Of the Blue Colour of the Sky • 2010"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "Michael W. Smith",
-      "title": "Place In This World",
-      "album": "Go West Young Man • 1991"
     }
   ]
 }
