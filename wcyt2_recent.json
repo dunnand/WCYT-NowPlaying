@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T16:38:57",
+  "updatedAt": "2026-10-30T16:42:52",
   "now": {
-    "artist": "The Microphones",
-    "title": "Something",
-    "album": "It Was Hot, We Stayed in the Water • 2000",
-    "category": "TUNES"
+    "artist": "Stan Getz & Astrud Gilberto",
+    "title": "The Girl From Ipanema",
+    "album": "Getz/Gilberto • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:42 pm",
-      "artist": "Stan Getz & Astrud Gilberto",
-      "title": "The Girl From Ipanema"
-    },
     {
       "time": "4:45 pm",
       "artist": "Sweet",
@@ -26,9 +21,20 @@
       "time": "4:53 pm",
       "artist": "Radiohead",
       "title": "Little by Little"
+    },
+    {
+      "time": "4:58 pm",
+      "artist": "The Hold Steady",
+      "title": "Stuck Between Stations"
     }
   ],
   "recent": [
+    {
+      "time": "4:42 pm",
+      "artist": "Stan Getz & Astrud Gilberto",
+      "title": "The Girl From Ipanema",
+      "album": "Getz/Gilberto • 1964"
+    },
     {
       "time": "4:38 pm",
       "artist": "The Microphones",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Glass Eyes",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "3:07 pm",
-      "artist": "Interpol",
-      "title": "PDA",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
