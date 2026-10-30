@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T09:48:50",
+  "updatedAt": "2026-10-30T09:49:10",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Husker Du",
+    "title": "What's Going On?",
+    "album": "Zen Arcade • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:49 am",
-      "artist": "Husker Du",
-      "title": "What's Going On?"
-    },
     {
       "time": "9:53 am",
       "artist": "Husker Du",
@@ -26,9 +21,20 @@
       "time": "10:01 am",
       "artist": "Phoebe Bridgers",
       "title": "On Video"
+    },
+    {
+      "time": "10:04 am",
+      "artist": "The Avalanches",
+      "title": "Blue Shadows (feat. Karen O)"
     }
   ],
   "recent": [
+    {
+      "time": "9:49 am",
+      "artist": "Husker Du",
+      "title": "What's Going On?",
+      "album": "Zen Arcade • 1984"
+    },
     {
       "time": "9:46 am",
       "artist": "Telehealth",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Lemon Glow",
       "album": "7 • 2018"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "Wilco",
-      "title": "Citizens",
-      "album": "Ode to Joy • 2019"
     }
   ]
 }
