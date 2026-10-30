@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-29T22:26:00",
+  "updatedAt": "2026-10-29T22:34:10",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Oh Comely",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Jackson Browne",
+    "title": "Tender Is The Night",
+    "album": "Lawyers in Love • 1983",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:34 pm",
-      "artist": "Jackson Browne",
-      "title": "Tender Is The Night"
-    },
     {
       "time": "10:39 pm",
       "artist": "J. Geils Band",
@@ -21,9 +16,20 @@
       "time": "10:42 pm",
       "artist": "Beyonce",
       "title": "BLACK PARADE"
+    },
+    {
+      "time": "10:47 pm",
+      "artist": "Doobie Brothers",
+      "title": "Long Train Runnin'"
     }
   ],
   "recent": [
+    {
+      "time": "10:34 pm",
+      "artist": "Jackson Browne",
+      "title": "Tender Is The Night",
+      "album": "Lawyers in Love • 1983"
+    },
     {
       "time": "10:26 pm",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +173,6 @@
       "artist": "Dire Straits",
       "title": "Walk Of Life",
       "album": "Brothers in Arms • 1985"
-    },
-    {
-      "time": "8:48 pm",
-      "artist": "Culture Club",
-      "title": "I'll Tumble 4 You",
-      "album": "Kissing to Be Clever • 1982"
     }
   ]
 }
