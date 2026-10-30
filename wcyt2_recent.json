@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T15:12:45",
+  "updatedAt": "2026-10-30T15:15:30",
   "now": {
-    "artist": "Radiohead",
-    "title": "Glass Eyes",
-    "album": "A Moon Shaped Pool • 2016",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "A Perfect Day Elise",
+    "album": "Is This Desire • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "PJ Harvey",
-      "title": "A Perfect Day Elise"
-    },
     {
       "time": "3:18 pm",
       "artist": "Prince",
@@ -26,9 +21,20 @@
       "time": "3:25 pm",
       "artist": "Saccharine Trust",
       "title": "A Human Certainty"
+    },
+    {
+      "time": "3:30 pm",
+      "artist": "Deftones",
+      "title": "Ohms"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "PJ Harvey",
+      "title": "A Perfect Day Elise",
+      "album": "Is This Desire • 1998"
+    },
     {
       "time": "3:12 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Genesis",
       "album": "Ohms • 2020"
-    },
-    {
-      "time": "1:39 pm",
-      "artist": "U2",
-      "title": "Sunday Bloody Sunday",
-      "album": "War • 1983"
     }
   ]
 }
