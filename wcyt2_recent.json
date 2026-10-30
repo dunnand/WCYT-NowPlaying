@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T16:38:46",
+  "updatedAt": "2026-10-30T16:38:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "Something",
+    "album": "It Was Hot, We Stayed in the Water • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:38 pm",
-      "artist": "The Microphones",
-      "title": "Something"
-    },
     {
       "time": "4:42 pm",
       "artist": "Stan Getz & Astrud Gilberto",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:38 pm",
+      "artist": "The Microphones",
+      "title": "Something",
+      "album": "It Was Hot, We Stayed in the Water • 2000"
+    },
     {
       "time": "4:34 pm",
       "artist": "Supertramp",
@@ -177,12 +178,6 @@
       "artist": "Interpol",
       "title": "PDA",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "2:59 pm",
-      "artist": "Kate Bush",
-      "title": "Nocturn",
-      "album": "Aerial • 2005"
     }
   ]
 }
