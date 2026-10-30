@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T09:22:10",
+  "updatedAt": "2026-10-30T09:25:56",
   "now": {
-    "artist": "Jim Croce",
-    "title": "Operator (That's Not The Way It Feels)",
-    "album": "You Dont Mess Around with Jim • 1972",
+    "artist": "Martha Reeves & The Vandellas",
+    "title": "(Love Is Like A) Heat Wave",
+    "album": "Heat Wave • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 am",
-      "artist": "Martha Reeves & The Vandellas",
-      "title": "(Love Is Like A) Heat Wave"
-    },
     {
       "time": "9:28 am",
       "artist": "Joan Baez",
@@ -26,9 +21,20 @@
       "time": "9:36 am",
       "artist": "Joe Cocker",
       "title": "Feeling Alright"
+    },
+    {
+      "time": "9:40 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Naomi"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 am",
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "(Love Is Like A) Heat Wave",
+      "album": "Heat Wave • 1963"
+    },
     {
       "time": "9:22 am",
       "artist": "Jim Croce",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "The End Has No End",
       "album": "Room on Fire • 2003"
-    },
-    {
-      "time": "7:28 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "I Need You",
-      "album": "Skeleton Tree • 2016"
     }
   ]
 }
