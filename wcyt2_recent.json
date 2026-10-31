@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T23:13:13",
+  "updatedAt": "2026-10-30T23:13:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sam Cooke",
+    "title": "Chain Gang",
+    "album": "Swing Low • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:13 pm",
-      "artist": "Sam Cooke",
-      "title": "Chain Gang"
-    },
     {
       "time": "11:15 pm",
       "artist": "Moses Sumney",
@@ -26,9 +21,20 @@
       "time": "11:23 pm",
       "artist": "Elliott Smith",
       "title": "Roman Candle"
+    },
+    {
+      "time": "11:26 pm",
+      "artist": "Pure Prairie League",
+      "title": "Let Me Love You Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "11:13 pm",
+      "artist": "Sam Cooke",
+      "title": "Chain Gang",
+      "album": "Swing Low • 1961"
+    },
     {
       "time": "11:09 pm",
       "artist": "Justin Timberlake",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "False Prophet",
       "album": "Rough and Rowdy Ways • 2020"
-    },
-    {
-      "time": "9:42 pm",
-      "artist": "The Cult",
-      "title": "She Sells Sanctuary",
-      "album": "Love • 1985"
     }
   ]
 }
