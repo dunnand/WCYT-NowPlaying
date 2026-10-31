@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T01:50:21",
+  "updatedAt": "2026-10-31T01:57:20",
   "now": {
-    "artist": "Eagles",
-    "title": "Hotel California",
-    "album": "Hotel California • 1994",
+    "artist": "Little Richard",
+    "title": "Rip It Up",
+    "album": "Here's Little Richard • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:57 am",
-      "artist": "Little Richard",
-      "title": "Rip It Up"
-    },
     {
       "time": "1:59 am",
       "artist": "John Mayer",
@@ -26,9 +21,20 @@
       "time": "2:06 am",
       "artist": "SAULT",
       "title": "Why Why Why Why Why"
+    },
+    {
+      "time": "2:10 am",
+      "artist": "Eels",
+      "title": "3 Speed"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 am",
+      "artist": "Little Richard",
+      "title": "Rip It Up",
+      "album": "Here's Little Richard • 1957"
+    },
     {
       "time": "1:50 am",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Genesis",
       "title": "Tonight, Tonight, Tonight",
       "album": "Invisible Touch • 1987"
-    },
-    {
-      "time": "12:20 am",
-      "artist": "Deftones",
-      "title": "Bored",
-      "album": "Adrenaline • 1995"
     }
   ]
 }
