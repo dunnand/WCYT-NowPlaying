@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T16:39:21",
+  "updatedAt": "2026-10-31T16:42:25",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Loves Me Like A Rock",
-    "album": "There Goes Rhymin Simon • 1973",
+    "artist": "The Beach Boys",
+    "title": "All Summer Long",
+    "album": "All Summer Long • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:42 pm",
-      "artist": "The Beach Boys",
-      "title": "All Summer Long"
-    },
     {
       "time": "4:44 pm",
       "artist": "Rod Stewart",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:42 pm",
+      "artist": "The Beach Boys",
+      "title": "All Summer Long",
+      "album": "All Summer Long • 1964"
+    },
     {
       "time": "4:39 pm",
       "artist": "Paul Simon",
@@ -177,12 +178,6 @@
       "artist": "Wilco",
       "title": "Cold Slope",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "3:10 pm",
-      "artist": "Ray Charles",
-      "title": "Hit The Road Jack",
-      "album": "single • 1961"
     }
   ]
 }
