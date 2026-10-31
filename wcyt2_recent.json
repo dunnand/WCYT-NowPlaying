@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T01:45:12",
+  "updatedAt": "2026-10-31T01:50:21",
   "now": {
-    "artist": "The Allman Brothers Band",
-    "title": "Blue Sky",
-    "album": "Eat a Peach • 1972",
+    "artist": "Eagles",
+    "title": "Hotel California",
+    "album": "Hotel California • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 am",
-      "artist": "Eagles",
-      "title": "Hotel California"
-    },
     {
       "time": "1:57 am",
       "artist": "Little Richard",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "Marvin Gaye",
       "title": "You're All I Need to Get By"
+    },
+    {
+      "time": "2:06 am",
+      "artist": "SAULT",
+      "title": "Why Why Why Why Why"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "album": "Hotel California • 1994"
+    },
     {
       "time": "1:45 am",
       "artist": "The Allman Brothers Band",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Bored",
       "album": "Adrenaline • 1995"
-    },
-    {
-      "time": "12:15 am",
-      "artist": "David Bowie",
-      "title": "The Wedding Song",
-      "album": "Black Tie White Noise • 1993"
     }
   ]
 }
