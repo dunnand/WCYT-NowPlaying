@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T00:11:30",
+  "updatedAt": "2026-10-31T00:15:17",
   "now": {
-    "artist": "Run The Jewels",
-    "title": "Early",
-    "album": "Run the Jewels 2 • 2014",
+    "artist": "David Bowie",
+    "title": "The Wedding Song",
+    "album": "Black Tie White Noise • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 am",
-      "artist": "David Bowie",
-      "title": "The Wedding Song"
-    },
     {
       "time": "12:19 am",
       "artist": "Deftones",
@@ -21,9 +16,20 @@
       "time": "12:23 am",
       "artist": "Genesis",
       "title": "Tonight, Tonight, Tonight"
+    },
+    {
+      "time": "12:28 am",
+      "artist": "Joy Division",
+      "title": "Atrocity Exhibition"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 am",
+      "artist": "David Bowie",
+      "title": "The Wedding Song",
+      "album": "Black Tie White Noise • 1993"
+    },
     {
       "time": "12:11 am",
       "artist": "Run The Jewels",
@@ -167,12 +173,6 @@
       "artist": "Earth, Wind & Fire",
       "title": "Shining Star",
       "album": "That's the Way of the World • 1975"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "Peter Bjorn and John",
-      "title": "Young Folk",
-      "album": "Writer's Block • 2006"
     }
   ]
 }
