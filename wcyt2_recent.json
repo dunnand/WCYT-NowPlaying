@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T21:02:05",
+  "updatedAt": "2026-10-30T21:02:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "A Place Called Home",
+    "album": "Stories from the City, Stories from the Sea • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:02 pm",
-      "artist": "PJ Harvey",
-      "title": "A Place Called Home"
-    },
     {
       "time": "9:05 pm",
       "artist": "Martha Reeves & The Vandellas",
@@ -31,9 +26,20 @@
       "time": "9:15 pm",
       "artist": "The Crests",
       "title": "Sixteen Candles"
+    },
+    {
+      "time": "9:18 pm",
+      "artist": "Lady Gaga",
+      "title": "Alejandro"
     }
   ],
   "recent": [
+    {
+      "time": "9:02 pm",
+      "artist": "PJ Harvey",
+      "title": "A Place Called Home",
+      "album": "Stories from the City, Stories from the Sea • 2000"
+    },
     {
       "time": "8:58 pm",
       "artist": "Christopher Cross",
@@ -177,12 +183,6 @@
       "artist": "Linkin Park",
       "title": "In The End",
       "album": "Hybrid Theory • 2001"
-    },
-    {
-      "time": "7:33 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Movement",
-      "album": "LCD Soundsystem • 2005"
     }
   ]
 }
