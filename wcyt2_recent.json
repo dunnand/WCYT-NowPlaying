@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T17:32:24",
+  "updatedAt": "2026-10-31T17:36:59",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Miss You",
-    "album": "Some Girls • 1978",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Dancefloors",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:37 pm",
-      "artist": "My Morning Jacket",
-      "title": "Dancefloors"
-    },
     {
       "time": "5:42 pm",
       "artist": "Wilco",
@@ -28,12 +23,23 @@
       "title": "Jacques Lamure"
     },
     {
-      "time": "5:52 pm",
+      "time": "5:51 pm",
       "artist": "Muddy Waters",
       "title": "Hoochie Coochie Man"
+    },
+    {
+      "time": "5:54 pm",
+      "artist": "MGMT",
+      "title": "Kids"
     }
   ],
   "recent": [
+    {
+      "time": "5:36 pm",
+      "artist": "My Morning Jacket",
+      "title": "Dancefloors",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "5:32 pm",
       "artist": "Rolling Stones",
@@ -177,12 +183,6 @@
       "artist": "Kasabian",
       "title": "Club Foot",
       "album": "Kasabian • 2004"
-    },
-    {
-      "time": "4:04 pm",
-      "artist": "Ke$ha",
-      "title": "Tik Tok",
-      "album": "Animal • 2009"
     }
   ]
 }
