@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T16:11:48",
+  "updatedAt": "2026-10-31T16:15:51",
   "now": {
-    "artist": "Wilco",
-    "title": "I Might",
-    "album": "The Whole Love • 2011",
+    "artist": "Wilson Phillips",
+    "title": "You're In Love",
+    "album": "Wilson Phillips • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 pm",
-      "artist": "Wilson Phillips",
-      "title": "You're In Love"
-    },
     {
       "time": "4:20 pm",
       "artist": "Jesus Jones",
@@ -26,9 +21,20 @@
       "time": "4:26 pm",
       "artist": "Kate Bush",
       "title": "This Woman's Work"
+    },
+    {
+      "time": "4:29 pm",
+      "artist": "Magdalena Bay",
+      "title": "Killshot"
     }
   ],
   "recent": [
+    {
+      "time": "4:15 pm",
+      "artist": "Wilson Phillips",
+      "title": "You're In Love",
+      "album": "Wilson Phillips • 1990"
+    },
     {
       "time": "4:11 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "The Vapors",
       "title": "Turning Japanese",
       "album": "New Clear Days • 1980"
-    },
-    {
-      "time": "2:40 pm",
-      "artist": "Temple of the Dog",
-      "title": "Hunger Strike",
-      "album": "Temple of the Dog • 1991"
     }
   ]
 }
