@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T10:41:10",
+  "updatedAt": "2026-10-31T10:41:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Everyday",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:41 am",
-      "artist": "Buddy Holly",
-      "title": "Everyday"
-    },
     {
       "time": "10:43 am",
       "artist": "M83",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:41 am",
+      "artist": "Buddy Holly",
+      "title": "Everyday",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "10:35 am",
       "artist": "Peter Gabriel",
@@ -172,12 +173,6 @@
       "artist": "John Cougar",
       "title": "Ain't Even Done With The Night",
       "album": "Nothin' Matters And What If It Did • 1981"
-    },
-    {
-      "time": "8:59 am",
-      "artist": "Naughty by Nature",
-      "title": "Hip Hop Hooray",
-      "album": "19 Naughty III • 1993"
     }
   ]
 }
