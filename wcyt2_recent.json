@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T01:57:20",
+  "updatedAt": "2026-10-31T01:59:43",
   "now": {
-    "artist": "Little Richard",
-    "title": "Rip It Up",
-    "album": "Here's Little Richard • 1957",
+    "artist": "John Mayer",
+    "title": "No Such Thing",
+    "album": "Room for Squares • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:59 am",
-      "artist": "John Mayer",
-      "title": "No Such Thing"
-    },
     {
       "time": "2:03 am",
       "artist": "Marvin Gaye",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:59 am",
+      "artist": "John Mayer",
+      "title": "No Such Thing",
+      "album": "Room for Squares • 2001"
+    },
     {
       "time": "1:57 am",
       "artist": "Little Richard",
@@ -172,12 +173,6 @@
       "artist": "Joy Division",
       "title": "Atrocity Exhibition",
       "album": "Closer • 1980"
-    },
-    {
-      "time": "12:23 am",
-      "artist": "Genesis",
-      "title": "Tonight, Tonight, Tonight",
-      "album": "Invisible Touch • 1987"
     }
   ]
 }
