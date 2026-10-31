@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-30T22:01:50",
+  "updatedAt": "2026-10-30T22:06:06",
   "now": {
-    "artist": "M.I.A.",
-    "title": "Borders",
-    "album": "AIM • 2016",
+    "artist": "Don McLean",
+    "title": "Vincent",
+    "album": "American Pie • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 pm",
-      "artist": "Don McLean",
-      "title": "Vincent"
-    },
     {
       "time": "10:09 pm",
       "artist": "Superchunk",
@@ -26,9 +21,20 @@
       "time": "10:16 pm",
       "artist": "Justice",
       "title": "Stress"
+    },
+    {
+      "time": "10:21 pm",
+      "artist": "Stevie Wonder",
+      "title": "Uptight (Everything's Alright)"
     }
   ],
   "recent": [
+    {
+      "time": "10:06 pm",
+      "artist": "Don McLean",
+      "title": "Vincent",
+      "album": "American Pie • 1971"
+    },
     {
       "time": "10:01 pm",
       "artist": "M.I.A.",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "Born on a Train",
       "album": "The Charm of the Highway Strip • 1994"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "Leon Bridges",
-      "title": "Smooth Sailin'",
-      "album": "Coming Home • 2015"
     }
   ]
 }
