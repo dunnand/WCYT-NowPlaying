@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T19:28:37",
+  "updatedAt": "2026-10-31T19:32:21",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Rock and Roll",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Bauhaus",
+    "title": "Bela Lugosi's Dead",
+    "album": "1979) • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:32 pm",
-      "artist": "Bauhaus",
-      "title": "Bela Lugosi's Dead"
-    },
     {
       "time": "7:42 pm",
       "artist": "Jimmy Eat World",
@@ -26,9 +21,20 @@
       "time": "7:47 pm",
       "artist": "Average",
       "title": "White-Band - Pick up the Pieces"
+    },
+    {
+      "time": "7:51 pm",
+      "artist": "Elliott Smith",
+      "title": "No Name No. 5"
     }
   ],
   "recent": [
+    {
+      "time": "7:32 pm",
+      "artist": "Bauhaus",
+      "title": "Bela Lugosi's Dead",
+      "album": "1979) • 1979"
+    },
     {
       "time": "7:28 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Muddy Waters",
       "title": "Hoochie Coochie Man",
       "album": "single • 1954"
-    },
-    {
-      "time": "5:49 pm",
-      "artist": "of Montreal",
-      "title": "Jacques Lamure",
-      "album": "The Parade • 1999"
     }
   ]
 }
