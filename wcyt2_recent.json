@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T19:28:25",
+  "updatedAt": "2026-10-31T19:28:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Rock and Roll",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:28 pm",
-      "artist": "Led Zeppelin",
-      "title": "Rock and Roll"
-    },
     {
       "time": "7:32 pm",
       "artist": "Bauhaus",
@@ -26,9 +21,20 @@
       "time": "7:44 pm",
       "artist": "The Beach Boys",
       "title": "Do You Wanna Dance"
+    },
+    {
+      "time": "7:47 pm",
+      "artist": "Average",
+      "title": "White-Band - Pick up the Pieces"
     }
   ],
   "recent": [
+    {
+      "time": "7:28 pm",
+      "artist": "Led Zeppelin",
+      "title": "Rock and Roll",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "7:23 pm",
       "artist": "Magdalena Bay",
@@ -172,12 +178,6 @@
       "artist": "of Montreal",
       "title": "Jacques Lamure",
       "album": "The Parade • 1999"
-    },
-    {
-      "time": "5:44 pm",
-      "artist": "ABBA",
-      "title": "The Name of the Game",
-      "album": "ABBA: The Album • 1977"
     }
   ]
 }
