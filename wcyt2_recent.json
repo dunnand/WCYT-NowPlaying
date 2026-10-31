@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T10:21:54",
+  "updatedAt": "2026-10-31T10:26:20",
   "now": {
-    "artist": "Neil Diamond",
-    "title": "Holly Holy",
-    "album": "single • 1969",
+    "artist": "Tom Petty & The Heartbreakers",
+    "title": "I Need To Know",
+    "album": "You're Gonna Get It! • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:26 am",
-      "artist": "Tom Petty & The Heartbreakers",
-      "title": "I Need To Know"
-    },
     {
       "time": "10:28 am",
       "artist": "Simon & Garfunkel",
@@ -26,9 +21,20 @@
       "time": "10:35 am",
       "artist": "Peter Gabriel",
       "title": "Steam"
+    },
+    {
+      "time": "10:41 am",
+      "artist": "Buddy Holly",
+      "title": "Everyday"
     }
   ],
   "recent": [
+    {
+      "time": "10:26 am",
+      "artist": "Tom Petty & The Heartbreakers",
+      "title": "I Need To Know",
+      "album": "You're Gonna Get It! • 1978"
+    },
     {
       "time": "10:21 am",
       "artist": "Neil Diamond",
@@ -172,12 +178,6 @@
       "artist": "Neil Sedaka",
       "title": "Breaking Up Is Hard To Do",
       "album": "single • 1962"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "The Mountain Goats",
-      "title": "Onions",
-      "album": "The Coroner's Gambit • 2000"
     }
   ]
 }
