@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T10:50:04",
+  "updatedAt": "2026-10-31T10:50:15",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "Saw Lightning",
+    "album": "Hyperspace • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:50 am",
-      "artist": "Beck",
-      "title": "Saw Lightning"
-    },
     {
       "time": "10:54 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "11:00 am",
       "artist": "Land of Talk",
       "title": "Dogs"
+    },
+    {
+      "time": "11:04 am",
+      "artist": "Downtown Boys",
+      "title": "Yellow Sun"
     }
   ],
   "recent": [
+    {
+      "time": "10:50 am",
+      "artist": "Beck",
+      "title": "Saw Lightning",
+      "album": "Hyperspace • 2019"
+    },
     {
       "time": "10:46 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Sleater-Kinney",
       "title": "Modern Girl",
       "album": "The Woods • 2005"
-    },
-    {
-      "time": "9:17 am",
-      "artist": "Bad Brains",
-      "title": "Banned in D.C.",
-      "album": "Bad Brains • 1982"
     }
   ]
 }
