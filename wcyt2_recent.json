@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T12:45:04",
+  "updatedAt": "2026-10-31T12:45:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sarah McLachlan",
+    "title": "Adia",
+    "album": "Surfacing • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 pm",
-      "artist": "Sarah McLachlan",
-      "title": "Adia"
-    },
     {
       "time": "12:49 pm",
       "artist": "Sinead O'Connor",
@@ -26,9 +21,20 @@
       "time": "12:59 pm",
       "artist": "Steve Earle",
       "title": "Copperhead Road"
+    },
+    {
+      "time": "1:03 pm",
+      "artist": "Haim",
+      "title": "Now I'm In It"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 pm",
+      "artist": "Sarah McLachlan",
+      "title": "Adia",
+      "album": "Surfacing • 1998"
+    },
     {
       "time": "12:41 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "War",
       "title": "Why Can't We Be Friends?",
       "album": "Why Can't We Be Friends? • 1975"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "The Wailers",
-      "title": "Duppy Conqueror",
-      "album": "Burnin' • 1973"
     }
   ]
 }
