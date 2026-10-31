@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T02:13:06",
+  "updatedAt": "2026-10-31T02:17:31",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "Layla",
-    "album": "Unplugged • 1992",
+    "artist": "Rod Stewart",
+    "title": "Forever Young",
+    "album": "Out of Order • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:17 am",
-      "artist": "Rod Stewart",
-      "title": "Forever Young"
-    },
     {
       "time": "2:21 am",
       "artist": "The Fall",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:17 am",
+      "artist": "Rod Stewart",
+      "title": "Forever Young",
+      "album": "Out of Order • 1988"
+    },
     {
       "time": "2:13 am",
       "artist": "Eric Clapton",
@@ -172,12 +173,6 @@
       "artist": "SAULT",
       "title": "Don't Waste My Time",
       "album": "5 • 2019"
-    },
-    {
-      "time": "12:43 am",
-      "artist": "Gorillaz",
-      "title": "19-2000",
-      "album": "Gorillaz • 2001"
     }
   ]
 }
