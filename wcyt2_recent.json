@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T17:32:12",
+  "updatedAt": "2026-10-31T17:32:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Miss You",
+    "album": "Some Girls • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 pm",
-      "artist": "Rolling Stones",
-      "title": "Miss You"
-    },
     {
       "time": "5:37 pm",
       "artist": "My Morning Jacket",
@@ -31,9 +26,20 @@
       "time": "5:49 pm",
       "artist": "of Montreal",
       "title": "Jacques Lamure"
+    },
+    {
+      "time": "5:52 pm",
+      "artist": "Muddy Waters",
+      "title": "Hoochie Coochie Man"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 pm",
+      "artist": "Rolling Stones",
+      "title": "Miss You",
+      "album": "Some Girls • 1978"
+    },
     {
       "time": "5:27 pm",
       "artist": "The Postal Service",
@@ -177,12 +183,6 @@
       "artist": "Ke$ha",
       "title": "Tik Tok",
       "album": "Animal • 2009"
-    },
-    {
-      "time": "4:01 pm",
-      "artist": "Wilco",
-      "title": "Everyone Hides",
-      "album": "Ode to Joy • 2019"
     }
   ]
 }
