@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T13:35:29",
+  "updatedAt": "2026-10-31T13:35:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "That's All Right",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 pm",
-      "artist": "Elvis Presley",
-      "title": "That's All Right"
-    },
     {
       "time": "1:37 pm",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "1:45 pm",
       "artist": "Spoon",
       "title": "The Agony of Laffitte"
+    },
+    {
+      "time": "1:49 pm",
+      "artist": "Strawberry Switchblade",
+      "title": "Trees and Flowers"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 pm",
+      "artist": "Elvis Presley",
+      "title": "That's All Right",
+      "album": "single • 1956"
+    },
     {
       "time": "1:32 pm",
       "artist": "Smash Mouth",
@@ -172,12 +178,6 @@
       "artist": "ZZ Top",
       "title": "Cheap Sunglasses",
       "album": "Degello • 1980"
-    },
-    {
-      "time": "11:53 am",
-      "artist": "Rage Against the Machine",
-      "title": "No Shelter",
-      "album": "The Battle of Los Angeles • 1999"
     }
   ]
 }
