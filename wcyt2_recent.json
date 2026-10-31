@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T04:11:13",
+  "updatedAt": "2026-10-31T04:11:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Steely Dan",
+    "title": "Hey Nineteen",
+    "album": "Gaucho • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:11 am",
-      "artist": "Steely Dan",
-      "title": "Hey Nineteen"
-    },
     {
       "time": "4:16 am",
       "artist": "Air Supply",
@@ -26,9 +21,20 @@
       "time": "4:25 am",
       "artist": "The D",
       "title": "Smash It Up, Part I"
+    },
+    {
+      "time": "4:30 am",
+      "artist": "George McCrae",
+      "title": "You Can Have It All"
     }
   ],
   "recent": [
+    {
+      "time": "4:11 am",
+      "artist": "Steely Dan",
+      "title": "Hey Nineteen",
+      "album": "Gaucho • 1980"
+    },
     {
       "time": "4:06 am",
       "artist": "Goo Goo Dolls",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "Blue Magic (Waikiki)",
       "album": "Son Little • 2015"
-    },
-    {
-      "time": "2:40 am",
-      "artist": "Joanna Newsom",
-      "title": "Peach, Plum, Pear",
-      "album": "The Milk Eyed Mender • 2004"
     }
   ]
 }
