@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T08:33:37",
+  "updatedAt": "2026-10-31T08:36:42",
   "now": {
-    "artist": "Ray Charles",
-    "title": "Born To Lose",
-    "album": "Dedicated to You • 1961",
+    "artist": "Simon & Garfunkel",
+    "title": "Cecilia",
+    "album": "Bridge Over Troubled Water • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:36 am",
-      "artist": "Simon & Garfunkel",
-      "title": "Cecilia"
-    },
     {
       "time": "8:39 am",
       "artist": "Nas",
@@ -26,9 +21,20 @@
       "time": "8:44 am",
       "artist": "The Mountain Goats",
       "title": "Onions"
+    },
+    {
+      "time": "8:47 am",
+      "artist": "Neil Sedaka",
+      "title": "Breaking Up Is Hard To Do"
     }
   ],
   "recent": [
+    {
+      "time": "8:36 am",
+      "artist": "Simon & Garfunkel",
+      "title": "Cecilia",
+      "album": "Bridge Over Troubled Water • 1970"
+    },
     {
       "time": "8:33 am",
       "artist": "Ray Charles",
@@ -172,12 +178,6 @@
       "artist": "Megadeth",
       "title": "Holy Wars... The Punishment Due",
       "album": "Rust in Peace • 1990"
-    },
-    {
-      "time": "7:00 am",
-      "artist": "The Weekend",
-      "title": "Die For You",
-      "album": "Starboy • 2016"
     }
   ]
 }
