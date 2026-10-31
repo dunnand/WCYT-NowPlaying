@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-10-30T21:46:34",
+  "updatedAt": "2026-10-30T21:52:21",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "False Prophet",
-    "album": "Rough and Rowdy Ways • 2020",
+    "artist": "Orange Juice",
+    "title": "Blue Boy",
+    "album": "The Glasgow School • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:52 pm",
-      "artist": "Orange Juice",
-      "title": "Blue Boy"
-    },
     {
       "time": "9:55 pm",
       "artist": "Dionne Warwick",
       "title": "I'll Never Love This Way Again"
     },
     {
-      "time": "9:59 pm",
+      "time": "9:58 pm",
       "artist": "Johnny Cash",
       "title": "I'm Free From the Chain Gang Now"
     },
@@ -26,9 +21,20 @@
       "time": "10:01 pm",
       "artist": "M.I.A.",
       "title": "Borders"
+    },
+    {
+      "time": "10:06 pm",
+      "artist": "Don McLean",
+      "title": "Vincent"
     }
   ],
   "recent": [
+    {
+      "time": "9:52 pm",
+      "artist": "Orange Juice",
+      "title": "Blue Boy",
+      "album": "The Glasgow School • 2005"
+    },
     {
       "time": "9:46 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Frankie Lymon & The Teenagers",
       "title": "Why Do Fools Fall In Love",
       "album": "The Teenagers Featuring Frankie Lymon • 1956"
-    },
-    {
-      "time": "8:18 pm",
-      "artist": "Nine Inch Nails",
-      "title": "Hurt",
-      "album": "The Downward Spiral • 1994"
     }
   ]
 }
