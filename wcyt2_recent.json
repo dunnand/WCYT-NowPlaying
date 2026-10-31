@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T01:38:12",
+  "updatedAt": "2026-10-31T01:38:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "AC/DC",
+    "title": "T.N.T.",
+    "album": "High Voltage • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:38 am",
-      "artist": "AC/DC",
-      "title": "T.N.T."
-    },
     {
       "time": "1:42 am",
       "artist": "Peter, Paul & Mary",
@@ -31,9 +26,20 @@
       "time": "1:57 am",
       "artist": "Little Richard",
       "title": "Rip It Up"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "John Mayer",
+      "title": "No Such Thing"
     }
   ],
   "recent": [
+    {
+      "time": "1:38 am",
+      "artist": "AC/DC",
+      "title": "T.N.T.",
+      "album": "High Voltage • 1975"
+    },
     {
       "time": "1:36 am",
       "artist": "Jim Reeves",
@@ -177,12 +183,6 @@
       "artist": "The Mamas & The Papas",
       "title": "Words Of Love",
       "album": "The Mamas & the Papas • 1966"
-    },
-    {
-      "time": "12:05 am",
-      "artist": "Lightning Bolt",
-      "title": "Assassins",
-      "album": "Wonderful Rainbow • 2005"
     }
   ]
 }
