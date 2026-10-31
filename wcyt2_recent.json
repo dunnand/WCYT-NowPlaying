@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T10:26:20",
+  "updatedAt": "2026-10-31T10:28:44",
   "now": {
-    "artist": "Tom Petty & The Heartbreakers",
-    "title": "I Need To Know",
-    "album": "You're Gonna Get It! • 1978",
+    "artist": "Simon & Garfunkel",
+    "title": "Mrs. Robinson",
+    "album": "Bookends • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:28 am",
-      "artist": "Simon & Garfunkel",
-      "title": "Mrs. Robinson"
-    },
     {
       "time": "10:32 am",
       "artist": "Van Halen",
@@ -26,9 +21,20 @@
       "time": "10:41 am",
       "artist": "Buddy Holly",
       "title": "Everyday"
+    },
+    {
+      "time": "10:43 am",
+      "artist": "M83",
+      "title": "We Own The Sky"
     }
   ],
   "recent": [
+    {
+      "time": "10:28 am",
+      "artist": "Simon & Garfunkel",
+      "title": "Mrs. Robinson",
+      "album": "Bookends • 1968"
+    },
     {
       "time": "10:26 am",
       "artist": "Tom Petty & The Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "Travis Scott",
       "title": "SICKO MODE",
       "album": "ASTROWORLD • 2018"
-    },
-    {
-      "time": "8:47 am",
-      "artist": "Neil Sedaka",
-      "title": "Breaking Up Is Hard To Do",
-      "album": "single • 1962"
     }
   ]
 }
