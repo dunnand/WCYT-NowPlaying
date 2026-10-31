@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T08:42:40",
+  "updatedAt": "2026-10-31T08:44:53",
   "now": {
-    "artist": "Conway Twitty",
-    "title": "It's Only Make Believe",
-    "album": "Conway Twitty Sings • 1959",
-    "category": "AUDIO"
+    "artist": "The Mountain Goats",
+    "title": "Onions",
+    "album": "The Coroner's Gambit • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:44 am",
-      "artist": "The Mountain Goats",
-      "title": "Onions"
-    },
     {
       "time": "8:47 am",
       "artist": "Neil Sedaka",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:44 am",
+      "artist": "The Mountain Goats",
+      "title": "Onions",
+      "album": "The Coroner's Gambit • 2000"
+    },
     {
       "time": "8:42 am",
       "artist": "Conway Twitty",
@@ -172,12 +173,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Sludgefeast",
       "album": "You're Living All Over Me • 1987"
-    },
-    {
-      "time": "7:14 am",
-      "artist": "Dead Kennedys",
-      "title": "Chemical Warfare",
-      "album": "Fresh Fruit for Rotting Vegetables • 1980"
     }
   ]
 }
