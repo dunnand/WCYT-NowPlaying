@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T17:42:28",
+  "updatedAt": "2026-10-31T17:44:44",
   "now": {
-    "artist": "Wilco",
-    "title": "Locator",
-    "album": "Schmilco • 2016",
+    "artist": "ABBA",
+    "title": "The Name of the Game",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "ABBA",
-      "title": "The Name of the Game"
-    },
     {
       "time": "5:49 pm",
       "artist": "of Montreal",
@@ -26,9 +21,20 @@
       "time": "5:54 pm",
       "artist": "MGMT",
       "title": "Kids"
+    },
+    {
+      "time": "5:59 pm",
+      "artist": "The Beach Boys",
+      "title": "Caroline No"
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "ABBA",
+      "title": "The Name of the Game",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "5:42 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Wilson Phillips",
       "title": "You're In Love",
       "album": "Wilson Phillips • 1990"
-    },
-    {
-      "time": "4:11 pm",
-      "artist": "Wilco",
-      "title": "I Might",
-      "album": "The Whole Love • 2011"
     }
   ]
 }
