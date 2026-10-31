@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T17:49:29",
+  "updatedAt": "2026-10-31T17:52:02",
   "now": {
-    "artist": "of Montreal",
-    "title": "Jacques Lamure",
-    "album": "The Parade • 1999",
-    "category": "TUNES"
+    "artist": "Muddy Waters",
+    "title": "Hoochie Coochie Man",
+    "album": "single • 1954",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:51 pm",
-      "artist": "Muddy Waters",
-      "title": "Hoochie Coochie Man"
-    },
     {
       "time": "5:54 pm",
       "artist": "MGMT",
@@ -26,9 +21,20 @@
       "time": "6:01 pm",
       "artist": "Wilco",
       "title": "Love Is Everywhere (Beware)"
+    },
+    {
+      "time": "6:05 pm",
+      "artist": "R.E.M.",
+      "title": "Texarkana"
     }
   ],
   "recent": [
+    {
+      "time": "5:52 pm",
+      "artist": "Muddy Waters",
+      "title": "Hoochie Coochie Man",
+      "album": "single • 1954"
+    },
     {
       "time": "5:49 pm",
       "artist": "of Montreal",
@@ -172,12 +178,6 @@
       "artist": "Terence Trent D'Arby",
       "title": "Wishing Well",
       "album": "Introducing the Hardline According to Terence Trent DArby • 1988"
-    },
-    {
-      "time": "4:20 pm",
-      "artist": "Jesus Jones",
-      "title": "Right Here, Right Now",
-      "album": "Doubt • 1991"
     }
   ]
 }
