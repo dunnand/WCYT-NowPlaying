@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T10:41:22",
+  "updatedAt": "2026-10-31T10:43:24",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Everyday",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "M83",
+    "title": "We Own The Sky",
+    "album": "Saturdays = Youth • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:43 am",
-      "artist": "M83",
-      "title": "We Own The Sky"
-    },
     {
       "time": "10:47 am",
       "artist": "Nancy Sinatra & Lee Hazlewood",
@@ -21,9 +16,20 @@
       "time": "10:50 am",
       "artist": "Weezer",
       "title": "Cleopatra"
+    },
+    {
+      "time": "10:54 am",
+      "artist": "Pete Rock & C.L. Smooth",
+      "title": "They Reminisce Over You (T.R.O.Y.)"
     }
   ],
   "recent": [
+    {
+      "time": "10:43 am",
+      "artist": "M83",
+      "title": "We Own The Sky",
+      "album": "Saturdays = Youth • 2008"
+    },
     {
       "time": "10:41 am",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Men At Work",
       "title": "Who Can It Be Now",
       "album": "Business as Usual • 1982"
-    },
-    {
-      "time": "9:03 am",
-      "artist": "John Cougar",
-      "title": "Ain't Even Done With The Night",
-      "album": "Nothin' Matters And What If It Did • 1981"
     }
   ]
 }
