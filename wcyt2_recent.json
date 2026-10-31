@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T17:44:44",
+  "updatedAt": "2026-10-31T17:49:29",
   "now": {
-    "artist": "ABBA",
-    "title": "The Name of the Game",
-    "album": "ABBA: The Album • 1977",
-    "category": "AUDIO"
+    "artist": "of Montreal",
+    "title": "Jacques Lamure",
+    "album": "The Parade • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:49 pm",
-      "artist": "of Montreal",
-      "title": "Jacques Lamure"
-    },
     {
       "time": "5:51 pm",
       "artist": "Muddy Waters",
@@ -26,9 +21,20 @@
       "time": "5:59 pm",
       "artist": "The Beach Boys",
       "title": "Caroline No"
+    },
+    {
+      "time": "6:01 pm",
+      "artist": "Wilco",
+      "title": "Love Is Everywhere (Beware)"
     }
   ],
   "recent": [
+    {
+      "time": "5:49 pm",
+      "artist": "of Montreal",
+      "title": "Jacques Lamure",
+      "album": "The Parade • 1999"
+    },
     {
       "time": "5:44 pm",
       "artist": "ABBA",
@@ -172,12 +178,6 @@
       "artist": "Jesus Jones",
       "title": "Right Here, Right Now",
       "album": "Doubt • 1991"
-    },
-    {
-      "time": "4:15 pm",
-      "artist": "Wilson Phillips",
-      "title": "You're In Love",
-      "album": "Wilson Phillips • 1990"
     }
   ]
 }
