@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T10:00:07",
+  "updatedAt": "2026-11-01T10:02:24",
   "now": {
-    "artist": "Elton Britt",
-    "title": "Uranium Fever",
-    "album": "",
+    "artist": "OK Go",
+    "title": "Get Over It",
+    "album": "OK Go • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:02 am",
-      "artist": "OK Go",
-      "title": "Get Over It"
-    },
     {
       "time": "10:05 am",
       "artist": "Aretha Franklin",
@@ -21,9 +16,20 @@
       "time": "10:09 am",
       "artist": "Taylor Swift",
       "title": "Delicate"
+    },
+    {
+      "time": "10:12 am",
+      "artist": "Arrested Development",
+      "title": "Mr. Wendal"
     }
   ],
   "recent": [
+    {
+      "time": "10:02 am",
+      "artist": "OK Go",
+      "title": "Get Over It",
+      "album": "OK Go • 2002"
+    },
     {
       "time": "10:00 am",
       "artist": "Elton Britt",
@@ -167,12 +173,6 @@
       "artist": "Tom Tom Club",
       "title": "On the Line Again",
       "album": "Close to the Bone • 1983"
-    },
-    {
-      "time": "8:19 am",
-      "artist": "R.E.M.",
-      "title": "Orange Crush",
-      "album": "Green • 1988"
     }
   ]
 }
