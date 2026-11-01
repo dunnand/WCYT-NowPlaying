@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T09:43:45",
+  "updatedAt": "2026-11-01T09:46:50",
   "now": {
-    "artist": "OK Go",
-    "title": "Do What You Want",
-    "album": "Oh No • 2005",
-    "category": "AUDIO"
+    "artist": "The xx",
+    "title": "Angels",
+    "album": "Coexist • 2012",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:46 am",
-      "artist": "The xx",
-      "title": "Angels"
-    },
     {
       "time": "9:49 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "10:00 am",
       "artist": "Elton Britt",
       "title": "Uranium Fever"
+    },
+    {
+      "time": "10:02 am",
+      "artist": "OK Go",
+      "title": "Get Over It"
     }
   ],
   "recent": [
+    {
+      "time": "9:46 am",
+      "artist": "The xx",
+      "title": "Angels",
+      "album": "Coexist • 2012"
+    },
     {
       "time": "9:43 am",
       "artist": "OK Go",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Blank Space",
       "album": "1989 • 2014"
-    },
-    {
-      "time": "8:01 am",
-      "artist": "Kings of Leon",
-      "title": "The Bandit",
-      "album": "When You See Yourself • 2021"
     }
   ]
 }
