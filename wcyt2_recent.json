@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T01:31:26",
+  "updatedAt": "2026-11-01T01:33:48",
   "now": {
     "artist": "The Beach Boys",
-    "title": "All I Wanna Do",
-    "album": "Sunflower • 1970",
+    "title": "Disney Girls (1957)",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:33 am",
-      "artist": "The Beach Boys",
-      "title": "Disney Girls (1957)"
-    },
     {
       "time": "1:37 am",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "1:44 am",
       "artist": "The Beach Boys",
       "title": "Forever"
+    },
+    {
+      "time": "1:47 am",
+      "artist": "Spacehog",
+      "title": "In the Meantime"
     }
   ],
   "recent": [
+    {
+      "time": "1:33 am",
+      "artist": "The Beach Boys",
+      "title": "Disney Girls (1957)",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "1:31 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "M83",
       "title": "Don't Save Us From The Flames",
       "album": "Before The Dawn Heals Us • 2005"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Buddy Holly",
-      "title": "Rave On",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
