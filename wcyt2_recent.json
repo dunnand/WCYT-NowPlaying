@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T12:17:08",
+  "updatedAt": "2026-11-01T12:17:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Sara",
+    "album": "Desire • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 pm",
-      "artist": "Bob Dylan",
-      "title": "Sara"
-    },
     {
       "time": "12:22 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "12:30 pm",
       "artist": "Bob Dylan",
       "title": "A Hard Rain's A-Gonna Fall"
+    },
+    {
+      "time": "12:37 pm",
+      "artist": "Bob Dylan",
+      "title": "Simple Twist of Fate"
     }
   ],
   "recent": [
+    {
+      "time": "12:17 pm",
+      "artist": "Bob Dylan",
+      "title": "Sara",
+      "album": "Desire • 1976"
+    },
     {
       "time": "12:15 pm",
       "artist": "unknown",
@@ -172,12 +178,6 @@
       "artist": "Mark Dinning",
       "title": "Teen Angel",
       "album": "Single • 1959"
-    },
-    {
-      "time": "10:56 am",
-      "artist": "Arrested Development",
-      "title": "Tennessee",
-      "album": "3 Years, 5 Months and 2 Days in the Life Of... • 1992"
     }
   ]
 }
