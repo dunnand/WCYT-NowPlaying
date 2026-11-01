@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T20:46:02",
+  "updatedAt": "2026-10-31T20:48:46",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Don't Worry Baby",
-    "album": "Shut Down Volume 2 • 1964",
+    "artist": "The Who",
+    "title": "Behind Blue Eyes",
+    "album": "Who's Next • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:48 pm",
-      "artist": "The Who",
-      "title": "Behind Blue Eyes"
-    },
     {
       "time": "8:52 pm",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "8:59 pm",
       "artist": "Smog",
       "title": "Let's Move to the Country"
+    },
+    {
+      "time": "9:02 pm",
+      "artist": "Songs Ohia",
+      "title": "Trans Am (this time anything finite at all)"
     }
   ],
   "recent": [
+    {
+      "time": "8:48 pm",
+      "artist": "The Who",
+      "title": "Behind Blue Eyes",
+      "album": "Who's Next • 1971"
+    },
     {
       "time": "8:46 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "North American Kids",
       "album": "Schmilco • 2016"
-    },
-    {
-      "time": "7:00 pm",
-      "artist": "The Beach Boys",
-      "title": "Darlin'",
-      "album": "Wild Honey • 1967"
     }
   ]
 }
