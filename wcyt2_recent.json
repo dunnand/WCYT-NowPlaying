@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T01:28:52",
+  "updatedAt": "2026-11-01T01:30:55",
   "now": {
     "artist": "The Beach Boys",
-    "title": "Slip On Through",
-    "album": "Sunflower • 1970",
+    "title": "Here Today",
+    "album": "Pet Sounds • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:30 am",
-      "artist": "The Beach Boys",
-      "title": "Here Today"
-    },
     {
       "time": "1:33 am",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "1:40 am",
       "artist": "Gang of Four",
       "title": "Damaged Goods"
+    },
+    {
+      "time": "1:43 am",
+      "artist": "Pearl Jam",
+      "title": "State of Love and Trust"
     }
   ],
   "recent": [
+    {
+      "time": "1:30 am",
+      "artist": "The Beach Boys",
+      "title": "Here Today",
+      "album": "Pet Sounds • 1966"
+    },
     {
       "time": "1:28 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Junior Senior",
       "title": "Move Your Feet",
       "album": "D-D-Don't Don't Stop the Beat • 2002"
-    },
-    {
-      "time": "1:00 am",
-      "artist": "Silhouettes",
-      "title": "Get A Job",
-      "album": "single • 1957"
     }
   ]
 }
