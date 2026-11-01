@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T01:30:55",
+  "updatedAt": "2026-11-01T01:33:49",
   "now": {
     "artist": "The Beach Boys",
-    "title": "Here Today",
-    "album": "Pet Sounds • 1966",
+    "title": "Surf's Up",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:33 am",
-      "artist": "The Beach Boys",
-      "title": "Surf's Up"
-    },
     {
       "time": "1:37 am",
       "artist": "The Beach Boys",
@@ -26,9 +21,25 @@
       "time": "1:43 am",
       "artist": "Pearl Jam",
       "title": "State of Love and Trust"
+    },
+    {
+      "time": "1:47 am",
+      "artist": "Elvis Presley",
+      "title": "(Let Me Be Your) Teddy Bear"
+    },
+    {
+      "time": "1:49 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs"
     }
   ],
   "recent": [
+    {
+      "time": "1:33 am",
+      "artist": "The Beach Boys",
+      "title": "Surf's Up",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "1:30 am",
       "artist": "The Beach Boys",
@@ -172,12 +183,6 @@
       "artist": "The Beach Boys",
       "title": "God Only Knows",
       "album": "Pet Sounds • 1966"
-    },
-    {
-      "time": "1:02 am",
-      "artist": "Junior Senior",
-      "title": "Move Your Feet",
-      "album": "D-D-Don't Don't Stop the Beat • 2002"
     }
   ]
 }
