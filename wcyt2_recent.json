@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T22:04:44",
+  "updatedAt": "2026-10-31T22:12:33",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Idiot Wind",
-    "album": "Blood On the Tracks • 1975",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Slow Hands",
+    "album": "Antics • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:12 pm",
-      "artist": "Interpol",
-      "title": "Slow Hands"
-    },
     {
       "time": "10:15 pm",
       "artist": "Wilco",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:12 pm",
+      "artist": "Interpol",
+      "title": "Slow Hands",
+      "album": "Antics • 2004"
+    },
     {
       "time": "10:04 pm",
       "artist": "Bob Dylan",
@@ -177,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "All My Friends",
       "album": "Sound of Silver • 2007"
-    },
-    {
-      "time": "8:33 pm",
-      "artist": "Doobie Brothers",
-      "title": "Jesus Is Just Alright",
-      "album": "Toulouse Street • 1972"
     }
   ]
 }
