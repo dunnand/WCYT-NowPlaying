@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T17:20:44",
+  "updatedAt": "2026-11-01T17:27:51",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Chimes of Freedom",
-    "album": "Chimes of Freedom • 1964",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Concrete Jungle",
+    "album": "Catch a Fire • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:27 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Concrete Jungle"
-    },
     {
       "time": "5:31 pm",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "5:38 pm",
       "artist": "Bob Dylan",
       "title": "Thunder on the Mountain"
+    },
+    {
+      "time": "5:44 pm",
+      "artist": "Bob Dylan",
+      "title": "Corrina, Corrina"
     }
   ],
   "recent": [
+    {
+      "time": "5:27 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Concrete Jungle",
+      "album": "Catch a Fire • 1973"
+    },
     {
       "time": "5:20 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Usher",
       "title": "OMG feat. will.i.am",
       "album": "Raymond v. Raymond • 2010"
-    },
-    {
-      "time": "3:42 pm",
-      "artist": "Bob Dylan",
-      "title": "Blowin' in the Wind",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
