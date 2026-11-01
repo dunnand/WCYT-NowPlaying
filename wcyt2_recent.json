@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T17:16:47",
+  "updatedAt": "2026-11-01T17:20:44",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Turn Your Lights Down Low",
-    "album": "Exodus • 1977",
+    "artist": "Bob Dylan",
+    "title": "Chimes of Freedom",
+    "album": "Chimes of Freedom • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:20 pm",
-      "artist": "Bob Dylan",
-      "title": "Chimes of Freedom"
-    },
     {
       "time": "5:27 pm",
       "artist": "Bob Marley and the Wailers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:20 pm",
+      "artist": "Bob Dylan",
+      "title": "Chimes of Freedom",
+      "album": "Chimes of Freedom • 1964"
+    },
     {
       "time": "5:16 pm",
       "artist": "Bob Marley and the Wailers",
@@ -177,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Blowin' in the Wind",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "3:37 pm",
-      "artist": "blink-182",
-      "title": "Always",
-      "album": "blink-182 • 2003"
     }
   ]
 }
