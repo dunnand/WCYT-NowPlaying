@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T04:03:27",
+  "updatedAt": "2026-11-01T04:03:59",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Kim Gordon",
+    "title": "Play Me",
+    "album": "Play Me • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "Kim Gordon",
-      "title": "Play Me"
-    },
     {
       "time": "4:06 am",
       "artist": "Dummy",
@@ -26,9 +21,20 @@
       "time": "4:15 am",
       "artist": "Sylan Esso",
       "title": "WDID"
+    },
+    {
+      "time": "4:17 am",
+      "artist": "The Shins",
+      "title": "Girl Inform Me"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "Kim Gordon",
+      "title": "Play Me",
+      "album": "Play Me • 2026"
+    },
     {
       "time": "4:00 am",
       "artist": "Julia Jacklin",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Run Away",
       "album": "Ride Lonesome • 2026"
-    },
-    {
-      "time": "2:28 am",
-      "artist": "Mojave 3",
-      "title": "Who Do You Love",
-      "album": "Out of Tune • 1998"
     }
   ]
 }
