@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T16:34:19",
+  "updatedAt": "2026-11-01T16:34:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Mississippi",
+    "album": "Love and Theft • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:34 pm",
-      "artist": "Bob Dylan",
-      "title": "Mississippi"
-    },
     {
       "time": "4:39 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "4:48 pm",
       "artist": "Belle and Sebastian",
       "title": "Is It Wicked Not to Care?"
+    },
+    {
+      "time": "4:52 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Like Dylan in the Movies"
     }
   ],
   "recent": [
+    {
+      "time": "4:34 pm",
+      "artist": "Bob Dylan",
+      "title": "Mississippi",
+      "album": "Love and Theft • 2001"
+    },
     {
       "time": "4:30 pm",
       "artist": "Toro y Moi",
@@ -172,12 +178,6 @@
       "artist": "Van Halen",
       "title": "When It's Love",
       "album": "OU812 • 1988"
-    },
-    {
-      "time": "2:58 pm",
-      "artist": "Belle and Sebastian",
-      "title": "A Summer Wasting",
-      "album": "The Boy with the Arab Strap • 1998"
     }
   ]
 }
