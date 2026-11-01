@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T10:30:30",
+  "updatedAt": "2026-11-01T10:33:01",
   "now": {
     "artist": "Bob Dylan",
-    "title": "If Not For You",
-    "album": "New Morning • 1970",
+    "title": "Isis",
+    "album": "Desire • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:33 am",
-      "artist": "Bob Dylan",
-      "title": "Isis"
-    },
     {
       "time": "10:40 am",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "10:45 am",
       "artist": "Bob Dylan",
       "title": "Joey"
+    },
+    {
+      "time": "10:56 am",
+      "artist": "Arrested Development",
+      "title": "Tennessee"
     }
   ],
   "recent": [
+    {
+      "time": "10:33 am",
+      "artist": "Bob Dylan",
+      "title": "Isis",
+      "album": "Desire • 1976"
+    },
     {
       "time": "10:30 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Supermassive Black Hole",
       "album": "Black Holes and Revelations • 2006"
-    },
-    {
-      "time": "9:00 am",
-      "artist": "Paul Anka",
-      "title": "Put Your Head On My Shoulder",
-      "album": "single • 1959"
     }
   ]
 }
