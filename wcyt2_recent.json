@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T08:51:25",
+  "updatedAt": "2026-11-01T08:54:00",
   "now": {
-    "artist": "Aretha Franklin",
-    "title": "Chain of Fools",
-    "album": "Lady Soul • 1968",
+    "artist": "Bill Withers",
+    "title": "Use Me",
+    "album": "Still Bill • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:53 am",
-      "artist": "Bill Withers",
-      "title": "Use Me"
-    },
     {
       "time": "8:57 am",
       "artist": "Archers of Loaf",
@@ -26,9 +21,20 @@
       "time": "9:03 am",
       "artist": "Muse",
       "title": "Supermassive Black Hole"
+    },
+    {
+      "time": "9:07 am",
+      "artist": "Aretha Franklin",
+      "title": "Do Right Woman, Do Right Man"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 am",
+      "artist": "Bill Withers",
+      "title": "Use Me",
+      "album": "Still Bill • 1972"
+    },
     {
       "time": "8:51 am",
       "artist": "Aretha Franklin",
@@ -172,12 +178,6 @@
       "artist": "The Presidents of the United States of America",
       "title": "Lump",
       "album": "The Presidents of the United States of America • 1995"
-    },
-    {
-      "time": "7:05 am",
-      "artist": "will.i.am",
-      "title": "#thatPOWER",
-      "album": "#willpower • 2013"
     }
   ]
 }
