@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T16:19:05",
+  "updatedAt": "2026-11-01T16:21:09",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Holiday",
-    "album": "Contra • 2010",
-    "category": "TUNES"
+    "artist": "Bob Marley and the Wailers",
+    "title": "Talkin' Blues",
+    "album": "Natty Dread • 1974",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:21 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Talkin' Blues"
-    },
     {
       "time": "4:25 pm",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "4:34 pm",
       "artist": "Bob Dylan",
       "title": "Mississippi"
+    },
+    {
+      "time": "4:40 pm",
+      "artist": "Bob Dylan",
+      "title": "Summer Days"
     }
   ],
   "recent": [
+    {
+      "time": "4:21 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Talkin' Blues",
+      "album": "Natty Dread • 1974"
+    },
     {
       "time": "4:19 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "I Knew You Were Trouble",
       "album": "Red • 2012"
-    },
-    {
-      "time": "2:44 pm",
-      "artist": "Black Pumas",
-      "title": "I'm Ready",
-      "album": "Black Pumas • 2021"
     }
   ]
 }
