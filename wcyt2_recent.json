@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T15:17:55",
+  "updatedAt": "2026-11-01T15:22:52",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Lively Up Yourself",
-    "album": "Natty Dread • 1974",
+    "artist": "Bob Dylan",
+    "title": "Balad of a Thin Man",
+    "album": "Highway 61 Revisited • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 pm",
-      "artist": "Bob Dylan",
-      "title": "Balad of a Thin Man"
-    },
     {
       "time": "3:28 pm",
       "artist": "Bob Marley and the Wailers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:22 pm",
+      "artist": "Bob Dylan",
+      "title": "Balad of a Thin Man",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "3:17 pm",
       "artist": "Bob Marley and the Wailers",
@@ -177,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Not the News",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "1:47 pm",
-      "artist": "Bob Dylan",
-      "title": "All I Really Want To Do",
-      "album": "Another Side of Bob Dylan • 1964"
     }
   ]
 }
