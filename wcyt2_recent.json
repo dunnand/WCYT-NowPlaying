@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-01T15:12:04",
+  "updatedAt": "2026-11-01T15:15:08",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Bend Down Low",
-    "album": "Natty Dread • 1974",
+    "artist": "Bob Dylan",
+    "title": "Baby, Let Me Follow You Down",
+    "album": "Bob Dylan • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "Bob Dylan",
-      "title": "Baby, Let Me Follow You Down"
-    },
     {
       "time": "3:17 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "Lively Up Yourself"
     },
     {
-      "time": "3:23 pm",
+      "time": "3:22 pm",
       "artist": "Bob Dylan",
       "title": "Balad of a Thin Man"
     },
@@ -26,9 +21,20 @@
       "time": "3:28 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "No Woman, No Cry"
+    },
+    {
+      "time": "3:32 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Expectations"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "Bob Dylan",
+      "title": "Baby, Let Me Follow You Down",
+      "album": "Bob Dylan • 1962"
+    },
     {
       "time": "3:12 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "Piazza, New York Catcher",
       "album": "Dear Catastrophe Waitress • 2003"
-    },
-    {
-      "time": "1:41 pm",
-      "artist": "Little Richard",
-      "title": "Keep a Knockin'",
-      "album": "Little Richard • 1958"
     }
   ]
 }
