@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T05:42:20",
+  "updatedAt": "2026-11-01T05:45:23",
   "now": {
-    "artist": "Aretha Franklin",
-    "title": "Rock Steady",
-    "album": "Young, Gifted and Black • 1972",
+    "artist": "Albert King",
+    "title": "Born Under a Bad Sign",
+    "album": "Born Under a Bad Sign • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:45 am",
-      "artist": "Albert King",
-      "title": "Born Under a Bad Sign"
-    },
     {
       "time": "5:48 am",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "5:56 am",
       "artist": "Bee Gees",
       "title": "Jive Talkin'"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "The Afghan Whigs",
+      "title": "Gentlemen"
     }
   ],
   "recent": [
+    {
+      "time": "5:45 am",
+      "artist": "Albert King",
+      "title": "Born Under a Bad Sign",
+      "album": "Born Under a Bad Sign • 1967"
+    },
     {
       "time": "5:42 am",
       "artist": "Aretha Franklin",
@@ -172,12 +178,6 @@
       "artist": "Panda Bear",
       "title": "Bros",
       "album": "Person Pitch • 2007"
-    },
-    {
-      "time": "3:55 am",
-      "artist": "Bobby Darin",
-      "title": "Beyond the Sea",
-      "album": "single • 1950"
     }
   ]
 }
