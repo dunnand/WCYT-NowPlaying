@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T16:21:09",
+  "updatedAt": "2026-11-01T16:25:04",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Talkin' Blues",
-    "album": "Natty Dread • 1974",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "If You're Feeling Sinister",
+    "album": "If You're Feeling Sinister • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:25 pm",
-      "artist": "Belle and Sebastian",
-      "title": "If You're Feeling Sinister"
-    },
     {
       "time": "4:30 pm",
       "artist": "Toro y Moi",
@@ -23,12 +18,18 @@
       "title": "Mississippi"
     },
     {
-      "time": "4:40 pm",
+      "time": "4:39 pm",
       "artist": "Bob Dylan",
       "title": "Summer Days"
     }
   ],
   "recent": [
+    {
+      "time": "4:25 pm",
+      "artist": "Belle and Sebastian",
+      "title": "If You're Feeling Sinister",
+      "album": "If You're Feeling Sinister • 1996"
+    },
     {
       "time": "4:21 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +173,6 @@
       "artist": "Beat Happening",
       "title": "Tiger Trap",
       "album": "You Turn Me • 1992"
-    },
-    {
-      "time": "2:48 pm",
-      "artist": "Taylor Swift",
-      "title": "I Knew You Were Trouble",
-      "album": "Red • 2012"
     }
   ]
 }
