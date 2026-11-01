@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T14:19:54",
+  "updatedAt": "2026-11-01T14:22:31",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "You're Gonna Make Me Lonesome When You Go",
-    "album": "Blood on the Tracks • 1975",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "Step Into My Office, Baby",
+    "album": "Dear Catastrophe Waitress • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:22 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Step Into My Office, Baby"
-    },
     {
       "time": "2:26 pm",
       "artist": "Rihanna",
@@ -28,12 +23,18 @@
       "title": "Teenage Caveman"
     },
     {
-      "time": "2:37 pm",
+      "time": "2:36 pm",
       "artist": "Slowdive",
       "title": "Don't Know Why"
     }
   ],
   "recent": [
+    {
+      "time": "2:22 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Step Into My Office, Baby",
+      "album": "Dear Catastrophe Waitress • 2003"
+    },
     {
       "time": "2:19 pm",
       "artist": "Bob Dylan",
@@ -177,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "All Along the Watchtower",
       "album": "John Wesley Harding • 1967"
-    },
-    {
-      "time": "12:46 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Funny Little Frog",
-      "album": "The Life Pursuit • 2006"
     }
   ]
 }
