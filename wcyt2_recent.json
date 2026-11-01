@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T01:47:39",
+  "updatedAt": "2026-11-01T01:49:20",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "(Let Me Be Your) Teddy Bear",
-    "album": "Loving You • 1957",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "I Will Sing You Songs",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:49 am",
-      "artist": "My Morning Jacket",
-      "title": "I Will Sing You Songs"
-    },
     {
       "time": "1:58 am",
       "artist": "The Beach Boys",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:49 am",
+      "artist": "My Morning Jacket",
+      "title": "I Will Sing You Songs",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "1:47 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "INXS",
       "title": "Need You Tonight",
       "album": "Kick • 1987"
-    },
-    {
-      "time": "1:20 am",
-      "artist": "The Fixx",
-      "title": "Red Skies",
-      "album": "Shuttered Room • 1982"
     }
   ]
 }
