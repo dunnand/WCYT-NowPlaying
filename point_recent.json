@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T12:49:49",
+  "updatedAt": "2026-11-01T12:50:11",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Gorillaz",
+    "title": "Delirium",
+    "album": "The Mountain • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:50 pm",
-      "artist": "Gorillaz",
-      "title": "Delirium"
-    },
     {
       "time": "12:53 pm",
       "artist": "Dazy",
@@ -21,9 +16,20 @@
       "time": "12:56 pm",
       "artist": "Wishy",
       "title": "Covergirl"
+    },
+    {
+      "time": "1:01 pm",
+      "artist": "Sharon Van Etten",
+      "title": "Serpents"
     }
   ],
   "recent": [
+    {
+      "time": "12:50 pm",
+      "artist": "Gorillaz",
+      "title": "Delirium",
+      "album": "The Mountain • 2026"
+    },
     {
       "time": "12:45 pm",
       "artist": "Perfume Genius",
@@ -167,12 +173,6 @@
       "artist": "Iron & Wine",
       "title": "Boy With a Coin",
       "album": "The Shepherd's Dog • 2007"
-    },
-    {
-      "time": "11:14 am",
-      "artist": "Brad Sucks",
-      "title": "Learning to Lie",
-      "album": "Naturally • 2025"
     }
   ]
 }
