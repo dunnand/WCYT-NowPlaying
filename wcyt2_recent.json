@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T12:36:48",
+  "updatedAt": "2026-11-01T12:41:05",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Simple Twist of Fate",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "Beastie Boys",
+    "title": "Jimmy James",
+    "album": "Check Your Head • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:41 pm",
-      "artist": "Beastie Boys",
-      "title": "Jimmy James"
-    },
     {
       "time": "12:44 pm",
       "artist": "The Everly Brothers",
@@ -26,9 +21,20 @@
       "time": "12:49 pm",
       "artist": "Bob Dylan",
       "title": "All Along the Watchtower"
+    },
+    {
+      "time": "12:51 pm",
+      "artist": "Grimes",
+      "title": "Flesh Without Blood"
     }
   ],
   "recent": [
+    {
+      "time": "12:41 pm",
+      "artist": "Beastie Boys",
+      "title": "Jimmy James",
+      "album": "Check Your Head • 1992"
+    },
     {
       "time": "12:36 pm",
       "artist": "Bob Dylan",
@@ -171,12 +177,6 @@
       "time": "11:16 am",
       "artist": "A Tribe Called Quest",
       "title": "Scenario",
-      "album": "The Low End Theory • 1991"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Excursions",
       "album": "The Low End Theory • 1991"
     }
   ]
