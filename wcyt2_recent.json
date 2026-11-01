@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T20:09:56",
+  "updatedAt": "2026-10-31T20:10:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Doin' the Cockroach",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:10 pm",
-      "artist": "Modest Mouse",
-      "title": "Doin' the Cockroach"
-    },
     {
       "time": "8:14 pm",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "8:23 pm",
       "artist": "Beastie Boys",
       "title": "Hey Ladies"
+    },
+    {
+      "time": "8:26 pm",
+      "artist": "Magdalena Bay",
+      "title": "All You Do"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 pm",
+      "artist": "Modest Mouse",
+      "title": "Doin' the Cockroach",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "8:07 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "Daft Punk Is Playing At My House",
       "album": "LCD Soundsystem • 2005"
-    },
-    {
-      "time": "6:21 pm",
-      "artist": "Magdalena Bay",
-      "title": "Death & Romance",
-      "album": "Imaginal Disk • 2024"
     }
   ]
 }
