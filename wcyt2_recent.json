@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T10:39:53",
+  "updatedAt": "2026-11-01T10:40:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Someday.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:40 am",
-      "artist": "The Strokes",
-      "title": "Someday."
-    },
     {
       "time": "10:43 am",
       "artist": "Aretha Franklin",
@@ -31,9 +26,20 @@
       "time": "11:01 am",
       "artist": "Mark Dinning",
       "title": "Teen Angel"
+    },
+    {
+      "time": "11:03 am",
+      "artist": "The Strokes",
+      "title": "Barely Legal."
     }
   ],
   "recent": [
+    {
+      "time": "10:40 am",
+      "artist": "The Strokes",
+      "title": "Someday.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "10:33 am",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "Aretha Franklin",
       "title": "Do Right Woman, Do Right Man",
       "album": "I Never Loved A Man The Way I Love You • 1967"
-    },
-    {
-      "time": "9:03 am",
-      "artist": "Muse",
-      "title": "Supermassive Black Hole",
-      "album": "Black Holes and Revelations • 2006"
     }
   ]
 }
