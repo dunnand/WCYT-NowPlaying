@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T09:49:45",
+  "updatedAt": "2026-11-01T09:56:11",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Changing of the Guards",
-    "album": "Changing of the Guards • 1978",
+    "artist": "Archers of Loaf",
+    "title": "Wrong",
+    "album": "Icky Mettle • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 am",
-      "artist": "Archers of Loaf",
-      "title": "Wrong"
-    },
     {
       "time": "10:00 am",
       "artist": "Elton Britt",
@@ -21,9 +16,20 @@
       "time": "10:02 am",
       "artist": "OK Go",
       "title": "Get Over It"
+    },
+    {
+      "time": "10:05 am",
+      "artist": "Aretha Franklin",
+      "title": "I Say a Little Prayer"
     }
   ],
   "recent": [
+    {
+      "time": "9:56 am",
+      "artist": "Archers of Loaf",
+      "title": "Wrong",
+      "album": "Icky Mettle • 1993"
+    },
     {
       "time": "9:49 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Archers of Loaf",
       "title": "Chumming the Ocean",
       "album": "All the Nations Airports • 1996"
-    },
-    {
-      "time": "8:09 am",
-      "artist": "Aphex Twin",
-      "title": "Windowlicker",
-      "album": "single • 1999"
     }
   ]
 }
