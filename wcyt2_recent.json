@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T13:41:56",
+  "updatedAt": "2026-11-01T13:44:00",
   "now": {
-    "artist": "Little Richard",
-    "title": "Keep a Knockin'",
-    "album": "Little Richard • 1958",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "Piazza, New York Catcher",
+    "album": "Dear Catastrophe Waitress • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:44 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Piazza, New York Catcher"
-    },
     {
       "time": "1:47 pm",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:44 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Piazza, New York Catcher",
+      "album": "Dear Catastrophe Waitress • 2003"
+    },
     {
       "time": "1:41 pm",
       "artist": "Little Richard",
@@ -172,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Wedding Song",
       "album": "Planet Waves • 1982"
-    },
-    {
-      "time": "12:08 pm",
-      "artist": "Yazoo",
-      "title": "Situation",
-      "album": "Upstairs at Erics • 1982"
     }
   ]
 }
