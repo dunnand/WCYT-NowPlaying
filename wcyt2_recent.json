@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-01T13:19:45",
+  "updatedAt": "2026-11-01T13:25:24",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Tangled Up in Blue",
-    "album": "Blood on the Tracks • 1975",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "I'm a Cuckoo",
+    "album": "Dear Catastrophe Waitress • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:25 pm",
-      "artist": "Belle and Sebastian",
-      "title": "I'm a Cuckoo"
-    },
     {
       "time": "1:30 pm",
       "artist": "Vampire Weekend",
       "title": "Horchata"
     },
     {
-      "time": "1:34 pm",
+      "time": "1:33 pm",
       "artist": "Bob Dylan",
       "title": "You're a Big Girl Now"
     },
@@ -31,9 +26,20 @@
       "time": "1:41 pm",
       "artist": "Little Richard",
       "title": "Keep a Knockin'"
+    },
+    {
+      "time": "1:44 pm",
+      "artist": "Belle and Sebastian",
+      "title": "Piazza, New York Catcher"
     }
   ],
   "recent": [
+    {
+      "time": "1:25 pm",
+      "artist": "Belle and Sebastian",
+      "title": "I'm a Cuckoo",
+      "album": "Dear Catastrophe Waitress • 2003"
+    },
     {
       "time": "1:19 pm",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "Ben E. King",
       "title": "Stand by Me",
       "album": "Don't Play That Song! • 1962"
-    },
-    {
-      "time": "11:52 am",
-      "artist": "Belle and Sebastian",
-      "title": "Asleep on a Sunbeam",
-      "album": "Dear Catastrophe Waitress • 2003"
     }
   ]
 }
