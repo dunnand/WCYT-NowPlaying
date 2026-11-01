@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T13:05:46",
+  "updatedAt": "2026-11-01T13:05:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric B. & Rakim",
+    "title": "Eric B. Is President",
+    "album": "Paid in Full • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 pm",
-      "artist": "Eric B. & Rakim",
-      "title": "Eric B. Is President"
-    },
     {
       "time": "1:12 pm",
       "artist": "*NSYNC",
@@ -26,9 +21,20 @@
       "time": "1:19 pm",
       "artist": "Bob Dylan",
       "title": "Tangled Up in Blue"
+    },
+    {
+      "time": "1:25 pm",
+      "artist": "Belle and Sebastian",
+      "title": "I'm a Cuckoo"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 pm",
+      "artist": "Eric B. & Rakim",
+      "title": "Eric B. Is President",
+      "album": "Paid in Full • 1987"
+    },
     {
       "time": "1:03 pm",
       "artist": "Elvis Costello & The Attractions",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Mozambique",
       "album": "Desire • 1976"
-    },
-    {
-      "time": "11:39 am",
-      "artist": "Usher",
-      "title": "Numb",
-      "album": "Looking 4 Myself • 2012"
     }
   ]
 }
