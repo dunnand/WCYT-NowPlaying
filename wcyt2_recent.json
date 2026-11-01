@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T12:17:20",
+  "updatedAt": "2026-11-01T12:22:36",
   "now": {
     "artist": "Bob Dylan",
-    "title": "Sara",
-    "album": "Desire • 1976",
+    "title": "Shelter From the Storm",
+    "album": "Shelter From the Storm • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:22 pm",
-      "artist": "Bob Dylan",
-      "title": "Shelter From the Storm"
-    },
     {
       "time": "12:27 pm",
       "artist": "Belle and Sebastian",
@@ -23,12 +18,23 @@
       "title": "A Hard Rain's A-Gonna Fall"
     },
     {
-      "time": "12:37 pm",
+      "time": "12:36 pm",
       "artist": "Bob Dylan",
       "title": "Simple Twist of Fate"
+    },
+    {
+      "time": "12:41 pm",
+      "artist": "Beastie Boys",
+      "title": "Jimmy James"
     }
   ],
   "recent": [
+    {
+      "time": "12:22 pm",
+      "artist": "Bob Dylan",
+      "title": "Shelter From the Storm",
+      "album": "Shelter From the Storm • 1975"
+    },
     {
       "time": "12:17 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "The Strokes",
       "title": "Barely Legal.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "11:01 am",
-      "artist": "Mark Dinning",
-      "title": "Teen Angel",
-      "album": "Single • 1959"
     }
   ]
 }
