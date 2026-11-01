@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T12:08:36",
+  "updatedAt": "2026-11-01T12:10:58",
   "now": {
-    "artist": "Yazoo",
-    "title": "Situation",
-    "album": "Upstairs at Erics • 1982",
+    "artist": "Bob Dylan",
+    "title": "Wedding Song",
+    "album": "Planet Waves • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 pm",
-      "artist": "Bob Dylan",
-      "title": "Wedding Song"
-    },
     {
       "time": "12:15 pm",
       "artist": "unknown",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:10 pm",
+      "artist": "Bob Dylan",
+      "title": "Wedding Song",
+      "album": "Planet Waves • 1982"
+    },
     {
       "time": "12:08 pm",
       "artist": "Yazoo",
@@ -172,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Joey",
       "album": "Desire • 1976"
-    },
-    {
-      "time": "10:43 am",
-      "artist": "Aretha Franklin",
-      "title": "Respect",
-      "album": "I Never Loved A Man The Way I Love You • 1967"
     }
   ]
 }
