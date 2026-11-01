@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T13:49:50",
+  "updatedAt": "2026-11-01T13:50:00",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Dummy",
+    "title": "Full Spectrum Dominance",
+    "album": "do you love the color of the sky? • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:49 pm",
-      "artist": "Dummy",
-      "title": "Full Spectrum Dominance"
-    },
     {
       "time": "1:53 pm",
       "artist": "Land of Talk",
@@ -21,9 +16,20 @@
       "time": "1:57 pm",
       "artist": "Sonic Youth",
       "title": "The Sprawl"
+    },
+    {
+      "time": "2:05 pm",
+      "artist": "Phoebe Bridgers",
+      "title": "On Video"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "Dummy",
+      "title": "Full Spectrum Dominance",
+      "album": "do you love the color of the sky? • 2026"
+    },
     {
       "time": "1:46 pm",
       "artist": "Julia Jacklin",
@@ -167,12 +173,6 @@
       "artist": "St. Vincent",
       "title": "Big Time Nothing",
       "album": "All Born Screaming • 2024"
-    },
-    {
-      "time": "12:18 pm",
-      "artist": "The Beths",
-      "title": "Expert In A Dying Field",
-      "album": "Expert In A Dying Field • 2022"
     }
   ]
 }
