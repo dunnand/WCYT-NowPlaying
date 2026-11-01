@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T15:28:39",
+  "updatedAt": "2026-11-01T15:33:02",
   "now": {
-    "artist": "julie",
-    "title": "flutter",
-    "album": "flutter • 2020",
+    "artist": "Radiohead",
+    "title": "I Might Be Wrong",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:33 pm",
-      "artist": "Radiohead",
-      "title": "I Might Be Wrong"
-    },
     {
       "time": "3:38 pm",
       "artist": "Sharp Pins",
@@ -21,9 +16,20 @@
       "time": "3:41 pm",
       "artist": "Destroyer",
       "title": "Hydroplaning Off The Edge Of The World"
+    },
+    {
+      "time": "3:46 pm",
+      "artist": "Beat Happening",
+      "title": "Indian Summer"
     }
   ],
   "recent": [
+    {
+      "time": "3:33 pm",
+      "artist": "Radiohead",
+      "title": "I Might Be Wrong",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "3:28 pm",
       "artist": "julie",
@@ -167,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "The Sprawl",
       "album": "Daydream Nation • 1988"
-    },
-    {
-      "time": "1:53 pm",
-      "artist": "Land of Talk",
-      "title": "Dogs",
-      "album": "LASTS • 2026"
     }
   ]
 }
