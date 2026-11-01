@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-31T23:05:00",
+  "updatedAt": "2026-10-31T23:08:13",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Wild World",
-    "album": "Tea for the Tillerman • 1970",
+    "artist": "Simon & Garfunkel",
+    "title": "A Hazy Shade Of Winter",
+    "album": "Bookends • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:08 pm",
+      "time": "11:10 pm",
+      "artist": "Cat Stevens",
+      "title": "Wild World"
+    },
+    {
+      "time": "11:13 pm",
       "artist": "Simon & Garfunkel",
       "title": "A Hazy Shade Of Winter"
     }
   ],
   "recent": [
+    {
+      "time": "11:08 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "A Hazy Shade Of Winter",
+      "album": "Bookends • 1966"
+    },
     {
       "time": "11:05 pm",
       "artist": "Cat Stevens",
@@ -157,12 +168,6 @@
       "artist": "Bob & Marcia",
       "title": "To Be Young Gifted and Black",
       "album": "Black Gold • 1970"
-    },
-    {
-      "time": "9:31 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Foxy Lady",
-      "album": "Are You Experienced • 1967"
     }
   ]
 }
