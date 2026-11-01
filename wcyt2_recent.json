@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T13:15:40",
+  "updatedAt": "2026-11-01T13:19:45",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "I Fought in a War",
-    "album": "Fold Your Hands Child You Walk Like A Peasant • 2000",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Tangled Up in Blue",
+    "album": "Blood on the Tracks • 1975",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:19 pm",
-      "artist": "Bob Dylan",
-      "title": "Tangled Up in Blue"
-    },
     {
       "time": "1:25 pm",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,25 @@
       "time": "1:34 pm",
       "artist": "Bob Dylan",
       "title": "You're a Big Girl Now"
+    },
+    {
+      "time": "1:38 pm",
+      "artist": "Beastie Boys",
+      "title": "Sure Shot"
+    },
+    {
+      "time": "1:41 pm",
+      "artist": "Little Richard",
+      "title": "Keep a Knockin'"
     }
   ],
   "recent": [
+    {
+      "time": "1:19 pm",
+      "artist": "Bob Dylan",
+      "title": "Tangled Up in Blue",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "1:15 pm",
       "artist": "Belle and Sebastian",
@@ -172,12 +183,6 @@
       "artist": "Belle and Sebastian",
       "title": "Asleep on a Sunbeam",
       "album": "Dear Catastrophe Waitress • 2003"
-    },
-    {
-      "time": "11:49 am",
-      "artist": "Bill Haley & His Comets",
-      "title": "See You Later, Alligator",
-      "album": "Rockin' the Joint • 1958"
     }
   ]
 }
