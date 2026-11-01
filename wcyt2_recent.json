@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T13:57:52",
+  "updatedAt": "2026-11-01T14:01:05",
   "now": {
-    "artist": "Beat Happening",
-    "title": "Noise",
-    "album": "You Turn Me • 1992",
+    "artist": "Stevie Wonder",
+    "title": "Go Home",
+    "album": "In Square Circle • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 pm",
-      "artist": "Stevie Wonder",
-      "title": "Go Home"
-    },
     {
       "time": "2:05 pm",
       "artist": "Tom Petty",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:01 pm",
+      "artist": "Stevie Wonder",
+      "title": "Go Home",
+      "album": "In Square Circle • 1985"
+    },
     {
       "time": "1:57 pm",
       "artist": "Beat Happening",
@@ -172,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "A Hard Rain's A-Gonna Fall",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "12:27 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Dear Catastrophe Waitress",
-      "album": "Dear Catastrophe Waitress • 2003"
     }
   ]
 }
