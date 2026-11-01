@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T15:42:05",
+  "updatedAt": "2026-11-01T15:42:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Blowin' in the Wind",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:42 pm",
-      "artist": "Bob Dylan",
-      "title": "Blowin' in the Wind"
-    },
     {
       "time": "3:44 pm",
       "artist": "Usher",
@@ -26,9 +21,20 @@
       "time": "3:52 pm",
       "artist": "Belle and Sebastian",
       "title": "I Don't Love Anyone"
+    },
+    {
+      "time": "3:56 pm",
+      "artist": "Sting",
+      "title": "We'll Be Together"
     }
   ],
   "recent": [
+    {
+      "time": "3:42 pm",
+      "artist": "Bob Dylan",
+      "title": "Blowin' in the Wind",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "3:37 pm",
       "artist": "blink-182",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "about her. again",
       "album": "Aloha • 2020"
-    },
-    {
-      "time": "2:05 pm",
-      "artist": "Tom Petty",
-      "title": "Runnin' Down A Dream",
-      "album": "Full Moon Fever • 1989"
     }
   ]
 }
