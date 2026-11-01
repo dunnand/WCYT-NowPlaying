@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T13:51:22",
+  "updatedAt": "2026-11-01T13:55:27",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "Not the News",
-    "album": "ANIMA • 2019",
-    "category": "TUNES"
+    "artist": "Beat Happening",
+    "title": "Hot Chocolate Boy",
+    "album": "Dreamy • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 pm",
-      "artist": "Beat Happening",
-      "title": "Hot Chocolate Boy"
-    },
     {
       "time": "1:57 pm",
       "artist": "Beat Happening",
@@ -21,9 +16,20 @@
       "time": "2:01 pm",
       "artist": "Stevie Wonder",
       "title": "Go Home"
+    },
+    {
+      "time": "2:05 pm",
+      "artist": "Tom Petty",
+      "title": "Runnin' Down A Dream"
     }
   ],
   "recent": [
+    {
+      "time": "1:55 pm",
+      "artist": "Beat Happening",
+      "title": "Hot Chocolate Boy",
+      "album": "Dreamy • 1991"
+    },
     {
       "time": "1:51 pm",
       "artist": "Thom Yorke",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Shelter From the Storm",
       "album": "Shelter From the Storm • 1975"
-    },
-    {
-      "time": "12:17 pm",
-      "artist": "Bob Dylan",
-      "title": "Sara",
-      "album": "Desire • 1976"
     }
   ]
 }
