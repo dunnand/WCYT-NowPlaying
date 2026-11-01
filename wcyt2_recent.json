@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-01T16:34:41",
+  "updatedAt": "2026-11-01T16:39:48",
   "now": {
     "artist": "Bob Dylan",
-    "title": "Mississippi",
+    "title": "Summer Days",
     "album": "Love and Theft • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "4:39 pm",
-      "artist": "Bob Dylan",
-      "title": "Summer Days"
-    },
-    {
-      "time": "4:45 pm",
+      "time": "4:44 pm",
       "artist": "Grimes",
       "title": "So Heavy I Fell Through the Earth"
     },
@@ -26,9 +21,20 @@
       "time": "4:52 pm",
       "artist": "Belle and Sebastian",
       "title": "Like Dylan in the Movies"
+    },
+    {
+      "time": "4:56 pm",
+      "artist": "The Communards",
+      "title": "Don't Leave Me This Way (with Sarah Jane Morris)"
     }
   ],
   "recent": [
+    {
+      "time": "4:39 pm",
+      "artist": "Bob Dylan",
+      "title": "Summer Days",
+      "album": "Love and Theft • 2001"
+    },
     {
       "time": "4:34 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Wipers",
       "title": "D-7",
       "album": "Is This Real? • 1980"
-    },
-    {
-      "time": "3:00 pm",
-      "artist": "Van Halen",
-      "title": "When It's Love",
-      "album": "OU812 • 1988"
     }
   ]
 }
