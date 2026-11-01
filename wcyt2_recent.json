@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T09:27:45",
+  "updatedAt": "2026-11-01T09:27:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Yello",
+    "title": "Oh Yeah",
+    "album": "Stella • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:27 am",
-      "artist": "Yello",
-      "title": "Oh Yeah"
-    },
     {
       "time": "9:30 am",
       "artist": "Yuka Tsujiyoko",
@@ -26,9 +21,20 @@
       "time": "9:40 am",
       "artist": "Bob Dylan",
       "title": "Buckets of Rain"
+    },
+    {
+      "time": "9:43 am",
+      "artist": "OK Go",
+      "title": "Do What You Want"
     }
   ],
   "recent": [
+    {
+      "time": "9:27 am",
+      "artist": "Yello",
+      "title": "Oh Yeah",
+      "album": "Stella • 1985"
+    },
     {
       "time": "9:23 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Bill Withers",
       "title": "Grandma's Hands",
       "album": "Just As I Am • 1971"
-    },
-    {
-      "time": "7:43 am",
-      "artist": "Washed Out",
-      "title": "All I Know",
-      "album": "Paracosm • 2013"
     }
   ]
 }
