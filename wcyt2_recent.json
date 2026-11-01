@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T12:29:59",
+  "updatedAt": "2026-11-01T12:36:48",
   "now": {
     "artist": "Bob Dylan",
-    "title": "A Hard Rain's A-Gonna Fall",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "title": "Simple Twist of Fate",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:36 pm",
-      "artist": "Bob Dylan",
-      "title": "Simple Twist of Fate"
-    },
     {
       "time": "12:41 pm",
       "artist": "Beastie Boys",
@@ -26,9 +21,20 @@
       "time": "12:46 pm",
       "artist": "Belle and Sebastian",
       "title": "Funny Little Frog"
+    },
+    {
+      "time": "12:49 pm",
+      "artist": "Bob Dylan",
+      "title": "All Along the Watchtower"
     }
   ],
   "recent": [
+    {
+      "time": "12:36 pm",
+      "artist": "Bob Dylan",
+      "title": "Simple Twist of Fate",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "12:29 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "Excursions",
       "album": "The Low End Theory • 1991"
-    },
-    {
-      "time": "11:10 am",
-      "artist": "Jamie Foxx",
-      "title": "Fly Love",
-      "album": "Rio Soundtrack • 2011"
     }
   ]
 }
