@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T09:40:31",
+  "updatedAt": "2026-11-01T09:43:45",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Buckets of Rain",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "OK Go",
+    "title": "Do What You Want",
+    "album": "Oh No • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:43 am",
-      "artist": "OK Go",
-      "title": "Do What You Want"
-    },
     {
       "time": "9:46 am",
       "artist": "The xx",
@@ -26,9 +21,20 @@
       "time": "9:56 am",
       "artist": "Archers of Loaf",
       "title": "Wrong"
+    },
+    {
+      "time": "10:00 am",
+      "artist": "Elton Britt",
+      "title": "Uranium Fever"
     }
   ],
   "recent": [
+    {
+      "time": "9:43 am",
+      "artist": "OK Go",
+      "title": "Do What You Want",
+      "album": "Oh No • 2005"
+    },
     {
       "time": "9:40 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Kings of Leon",
       "title": "The Bandit",
       "album": "When You See Yourself • 2021"
-    },
-    {
-      "time": "7:58 am",
-      "artist": "Kings of Leon",
-      "title": "Red Morning Light",
-      "album": "Youth & Young Manhood • 2003"
     }
   ]
 }
