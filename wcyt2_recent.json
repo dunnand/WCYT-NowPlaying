@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T18:43:10",
+  "updatedAt": "2026-11-01T18:46:16",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Dear Landlord",
-    "album": "John Wesley Harding • 1967",
-    "category": "AUDIO"
+    "artist": "Slowdive",
+    "title": "No Longer Making Time",
+    "album": "Slowdive • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:46 pm",
-      "artist": "Slowdive",
-      "title": "No Longer Making Time"
-    },
     {
       "time": "6:52 pm",
       "artist": "Belle and Sebastian",
@@ -21,9 +16,20 @@
       "time": "6:56 pm",
       "artist": "Belle and Sebastian",
       "title": "The State I Am In"
+    },
+    {
+      "time": "7:02 pm",
+      "artist": "Rockwell",
+      "title": "Somebody's Watching Me"
     }
   ],
   "recent": [
+    {
+      "time": "6:46 pm",
+      "artist": "Slowdive",
+      "title": "No Longer Making Time",
+      "album": "Slowdive • 2017"
+    },
     {
       "time": "6:43 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Them Belly Full (But We Hungry)",
       "album": "Natty Dread • 1974"
-    },
-    {
-      "time": "5:04 pm",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Dig, Lazarus, Dig!!!",
-      "album": ""
     }
   ]
 }
