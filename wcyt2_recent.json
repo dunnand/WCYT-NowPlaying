@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T18:24:47",
+  "updatedAt": "2026-11-01T18:28:42",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Run",
-    "album": "Contra • 2010",
-    "category": "TUNES"
+    "artist": "Bob Marley and the Wailers",
+    "title": "Get Up, Stand Up",
+    "album": "Burnin' • 1973",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:28 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Get Up, Stand Up"
-    },
     {
       "time": "6:31 pm",
       "artist": "Belle and Sebastian",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:28 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Get Up, Stand Up",
+      "album": "Burnin' • 1973"
+    },
     {
       "time": "6:24 pm",
       "artist": "Vampire Weekend",
@@ -172,12 +173,6 @@
       "artist": "Belle and Sebastian",
       "title": "Is It Wicked Not to Care?",
       "album": "The Boy with the Arab Strap • 1998"
-    },
-    {
-      "time": "4:45 pm",
-      "artist": "Grimes",
-      "title": "So Heavy I Fell Through the Earth",
-      "album": "Miss Anthropocene • 2019"
     }
   ]
 }
