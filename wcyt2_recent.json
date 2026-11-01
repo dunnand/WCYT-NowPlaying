@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T22:15:28",
+  "updatedAt": "2026-10-31T22:22:38",
   "now": {
-    "artist": "Wilco",
-    "title": "Art of Almost",
-    "album": "The Whole Love • 2011",
+    "artist": "Queen",
+    "title": "Killer Queen",
+    "album": "Sheer Heart Attack • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:22 pm",
-      "artist": "Queen",
-      "title": "Killer Queen"
-    },
     {
       "time": "10:25 pm",
       "artist": "The Cranberries",
@@ -26,9 +21,20 @@
       "time": "10:33 pm",
       "artist": "Phoenix",
       "title": "Long Distance Call"
+    },
+    {
+      "time": "10:36 pm",
+      "artist": "Madonna",
+      "title": "What It Feels Like For A Girl"
     }
   ],
   "recent": [
+    {
+      "time": "10:22 pm",
+      "artist": "Queen",
+      "title": "Killer Queen",
+      "album": "Sheer Heart Attack • 1975"
+    },
     {
       "time": "10:15 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "The Who",
       "title": "Behind Blue Eyes",
       "album": "Who's Next • 1971"
-    },
-    {
-      "time": "8:46 pm",
-      "artist": "The Beach Boys",
-      "title": "Don't Worry Baby",
-      "album": "Shut Down Volume 2 • 1964"
     }
   ]
 }
