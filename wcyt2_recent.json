@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-10-31T23:58:07",
+  "updatedAt": "2026-11-01T00:01:07",
   "now": {
-    "artist": "Liz Phair",
-    "title": "6'1\"",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Rave On",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Buddy Holly",
-      "title": "Rave On"
-    },
     {
       "time": "12:02 am",
       "artist": "M83",
@@ -26,9 +21,20 @@
       "time": "12:09 am",
       "artist": "Wilco",
       "title": "Quiet Amplifier"
+    },
+    {
+      "time": "12:15 am",
+      "artist": "Sinéad O'Connor",
+      "title": "The Emperor's New Clothes"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Buddy Holly",
+      "title": "Rave On",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "11:58 pm",
       "artist": "Liz Phair",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Thank God for Girls",
       "album": "Weezer • 2016"
-    },
-    {
-      "time": "9:37 pm",
-      "artist": "Spice Girls",
-      "title": "Spice Up Your Life",
-      "album": "Spiceworld • 1997"
     }
   ]
 }
