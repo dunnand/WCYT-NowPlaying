@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T00:30:20",
+  "updatedAt": "2026-11-01T00:30:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Duran Duran",
+    "title": "Girls on Film",
+    "album": "Duran Duran • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 am",
-      "artist": "Duran Duran",
-      "title": "Girls on Film"
-    },
     {
       "time": "12:33 am",
       "artist": "Magdalena Bay",
@@ -26,9 +21,20 @@
       "time": "12:41 am",
       "artist": "Al Stewart",
       "title": "Year Of The Cat"
+    },
+    {
+      "time": "12:46 am",
+      "artist": "Owl City",
+      "title": "Fireflies"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 am",
+      "artist": "Duran Duran",
+      "title": "Girls on Film",
+      "album": "Duran Duran • 1981"
+    },
     {
       "time": "12:26 am",
       "artist": "Cyndi Lauper",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Idiot Wind",
       "album": "Blood On the Tracks • 1975"
-    },
-    {
-      "time": "10:02 pm",
-      "artist": "Kings of Leon",
-      "title": "King of the Rodeo",
-      "album": "Aha Shake Heartbreak • 2004"
     }
   ]
 }
