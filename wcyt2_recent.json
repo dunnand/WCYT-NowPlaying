@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T08:46:50",
+  "updatedAt": "2026-11-01T08:47:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bill Withers",
+    "title": "Loveley Day",
+    "album": "Menagerie • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:47 am",
-      "artist": "Bill Withers",
-      "title": "Loveley Day"
-    },
     {
       "time": "8:51 am",
       "artist": "Aretha Franklin",
@@ -31,9 +26,20 @@
       "time": "9:00 am",
       "artist": "Paul Anka",
       "title": "Put Your Head On My Shoulder"
+    },
+    {
+      "time": "9:03 am",
+      "artist": "Muse",
+      "title": "Supermassive Black Hole"
     }
   ],
   "recent": [
+    {
+      "time": "8:47 am",
+      "artist": "Bill Withers",
+      "title": "Loveley Day",
+      "album": "Menagerie • 1977"
+    },
     {
       "time": "8:42 am",
       "artist": "Aretha Franklin",
@@ -177,12 +183,6 @@
       "artist": "Aretha Franklin",
       "title": "(You Make Me Feel Like) A Natural Woman",
       "album": "Lady Soul • 1968"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "Kings of Leon",
-      "title": "Fans",
-      "album": "Because of the Times • 2007"
     }
   ]
 }
