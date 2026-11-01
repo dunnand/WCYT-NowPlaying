@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T01:37:57",
+  "updatedAt": "2026-11-01T01:42:42",
   "now": {
-    "artist": "Interpol",
-    "title": "Take You On A Cruise",
-    "album": "Antics • 2004",
-    "category": "TUNES"
+    "artist": "The Beach Boys",
+    "title": "Good to My Baby",
+    "album": "The Beach Boys Today! • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "The Beach Boys",
-      "title": "Good to My Baby"
-    },
     {
       "time": "1:44 am",
       "artist": "The Beach Boys",
@@ -26,9 +21,20 @@
       "time": "1:52 am",
       "artist": "Wilco",
       "title": "Taste the Ceiling"
+    },
+    {
+      "time": "1:55 am",
+      "artist": "Panic At The Disco",
+      "title": "I Write Sins Not Tragedies"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "The Beach Boys",
+      "title": "Good to My Baby",
+      "album": "The Beach Boys Today! • 1965"
+    },
     {
       "time": "1:37 am",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Quiet Amplifier",
       "album": "Ode to Joy • 2019"
-    },
-    {
-      "time": "12:07 am",
-      "artist": "The Beach Boys",
-      "title": "Friends",
-      "album": "Friends • 1968"
     }
   ]
 }
