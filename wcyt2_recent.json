@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T10:43:19",
+  "updatedAt": "2026-11-01T10:45:42",
   "now": {
-    "artist": "Aretha Franklin",
-    "title": "Respect",
-    "album": "I Never Loved A Man The Way I Love You • 1967",
+    "artist": "Bob Dylan",
+    "title": "Joey",
+    "album": "Desire • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:45 am",
-      "artist": "Bob Dylan",
-      "title": "Joey"
-    },
     {
       "time": "10:56 am",
       "artist": "Arrested Development",
@@ -26,9 +21,20 @@
       "time": "11:03 am",
       "artist": "The Strokes",
       "title": "Barely Legal."
+    },
+    {
+      "time": "11:07 am",
+      "artist": "Aretha Franklin",
+      "title": "Think"
     }
   ],
   "recent": [
+    {
+      "time": "10:45 am",
+      "artist": "Bob Dylan",
+      "title": "Joey",
+      "album": "Desire • 1976"
+    },
     {
       "time": "10:43 am",
       "artist": "Aretha Franklin",
@@ -172,12 +178,6 @@
       "artist": "Archers of Loaf",
       "title": "Web In Front",
       "album": "The Speed of Cattle • 1996"
-    },
-    {
-      "time": "9:10 am",
-      "artist": "St. Vincent",
-      "title": "Los Ageless",
-      "album": "Masseduction • 2018"
     }
   ]
 }
