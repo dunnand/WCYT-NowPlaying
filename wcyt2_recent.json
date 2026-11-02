@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T12:46:53",
+  "updatedAt": "2026-11-02T12:51:09",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Carry On",
-    "album": "Dj Vu • 1970",
+    "artist": "Bob Dylan",
+    "title": "One of Us Must Know (Sooner or Later)",
+    "album": "One of Us Must Know • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:51 pm",
-      "artist": "Bob Dylan",
-      "title": "One of Us Must Know (Sooner or Later)"
-    },
     {
       "time": "12:56 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -26,9 +21,20 @@
       "time": "1:02 pm",
       "artist": "Crosby, Stills, Nash & Young",
       "title": "Woodstock"
+    },
+    {
+      "time": "1:06 pm",
+      "artist": "Foo Fighters",
+      "title": "Learn to Fly"
     }
   ],
   "recent": [
+    {
+      "time": "12:51 pm",
+      "artist": "Bob Dylan",
+      "title": "One of Us Must Know (Sooner or Later)",
+      "album": "One of Us Must Know • 1966"
+    },
     {
       "time": "12:46 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "Shame Shame",
       "album": "Medicine at Midnight • 2021"
-    },
-    {
-      "time": "11:14 am",
-      "artist": "Johnny Cash",
-      "title": "Ballad Of A Teenage Queen",
-      "album": "Ballad Of A Teenage Queen • 1958"
     }
   ]
 }
