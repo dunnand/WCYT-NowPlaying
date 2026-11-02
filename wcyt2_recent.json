@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T13:02:14",
+  "updatedAt": "2026-11-02T13:05:55",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Woodstock",
-    "album": "Dj Vu • 1970",
+    "artist": "Foo Fighters",
+    "title": "Learn to Fly",
+    "album": "There Is Nothing Left to Lose • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 pm",
-      "artist": "Foo Fighters",
-      "title": "Learn to Fly"
-    },
     {
       "time": "1:09 pm",
       "artist": "Perez Prado",
@@ -21,9 +16,20 @@
       "time": "1:12 pm",
       "artist": "Gorillaz",
       "title": "DARE"
+    },
+    {
+      "time": "1:16 pm",
+      "artist": "Bob Dylan",
+      "title": "Oxford Town"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 pm",
+      "artist": "Foo Fighters",
+      "title": "Learn to Fly",
+      "album": "There Is Nothing Left to Lose • 1999"
+    },
     {
       "time": "1:02 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -167,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Big Me",
       "album": "Foo Fighters • 1995"
-    },
-    {
-      "time": "11:31 am",
-      "artist": "Faith No More",
-      "title": "Midlife Crisis",
-      "album": "Angel Dust • 1992"
     }
   ]
 }
