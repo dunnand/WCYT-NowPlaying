@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T11:58:20",
+  "updatedAt": "2026-11-02T12:02:36",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "My Back Pages",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "Cat Stevens",
+    "title": "Where Do the Children Play",
+    "album": "Tea for the Tillerman • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:02 pm",
-      "artist": "Cat Stevens",
-      "title": "Where Do the Children Play"
-    },
     {
       "time": "12:06 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "12:14 pm",
       "artist": "Foo Fighters",
       "title": "Times Like These"
+    },
+    {
+      "time": "12:18 pm",
+      "artist": "Fugazi",
+      "title": "Cashout"
     }
   ],
   "recent": [
+    {
+      "time": "12:02 pm",
+      "artist": "Cat Stevens",
+      "title": "Where Do the Children Play",
+      "album": "Tea for the Tillerman • 1970"
+    },
     {
       "time": "11:58 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Erykah Badu",
       "title": "Certainly",
       "album": "Baduizm • 1997"
-    },
-    {
-      "time": "10:26 am",
-      "artist": "Grimes",
-      "title": "Life in the Vivid Dream",
-      "album": "Art Angels • 2015"
     }
   ]
 }
