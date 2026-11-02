@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T01:07:03",
+  "updatedAt": "2026-11-02T01:07:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "In My Time of Dyin'",
+    "album": "Bob Dylan • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:07 am",
-      "artist": "Bob Dylan",
-      "title": "In My Time of Dyin'"
-    },
     {
       "time": "1:09 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "1:18 am",
       "artist": "CAKE",
       "title": "Never There"
+    },
+    {
+      "time": "1:21 am",
+      "artist": "When In Rome",
+      "title": "The Promise"
     }
   ],
   "recent": [
+    {
+      "time": "1:07 am",
+      "artist": "Bob Dylan",
+      "title": "In My Time of Dyin'",
+      "album": "Bob Dylan • 1962"
+    },
     {
       "time": "1:02 am",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "drop dead",
       "album": ""
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "Kate Bush",
-      "title": "The Big Sky",
-      "album": "Hounds of Love • 1985"
     }
   ]
 }
