@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T13:10:01",
+  "updatedAt": "2026-11-02T13:12:16",
   "now": {
-    "artist": "Perez Prado",
-    "title": "Patricia",
-    "album": "single • 1958",
+    "artist": "Gorillaz",
+    "title": "DARE",
+    "album": "Demon Days • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:12 pm",
-      "artist": "Gorillaz",
-      "title": "DARE"
-    },
     {
       "time": "1:16 pm",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "1:18 pm",
       "artist": "Sturgill Simpson",
       "title": "I Don't Mind"
+    },
+    {
+      "time": "1:22 pm",
+      "artist": "Foo Fighters",
+      "title": "My Hero"
     }
   ],
   "recent": [
+    {
+      "time": "1:12 pm",
+      "artist": "Gorillaz",
+      "title": "DARE",
+      "album": "Demon Days • 2005"
+    },
     {
       "time": "1:10 pm",
       "artist": "Perez Prado",
@@ -167,12 +173,6 @@
       "artist": "'Til Tuesday",
       "title": "Voices Carry",
       "album": "Voices Carry • 1985"
-    },
-    {
-      "time": "11:37 am",
-      "artist": "Townes Van Zandt",
-      "title": "Snowin' on Raton",
-      "album": "At My Window • 1987"
     }
   ]
 }
