@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T15:52:35",
+  "updatedAt": "2026-11-02T15:55:19",
   "now": {
-    "artist": "The D",
-    "title": "New Rose",
-    "album": "DDD • 1977",
+    "artist": "Cat Stevens",
+    "title": "I'm Gonna Get a Gun",
+    "album": "Matthew and Son • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:55 pm",
-      "artist": "Cat Stevens",
-      "title": "I'm Gonna Get a Gun"
-    },
     {
       "time": "3:57 pm",
       "artist": "Rihanna",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:55 pm",
+      "artist": "Cat Stevens",
+      "title": "I'm Gonna Get a Gun",
+      "album": "Matthew and Son • 1967"
+    },
     {
       "time": "3:52 pm",
       "artist": "The D",
@@ -172,12 +173,6 @@
       "artist": "Gorillaz",
       "title": "Rock the House",
       "album": "Gorillaz • 2001"
-    },
-    {
-      "time": "2:19 pm",
-      "artist": "Gorillaz",
-      "title": "Feel Good Inc.",
-      "album": "Demon Days • 2005"
     }
   ]
 }
