@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T10:54:37",
+  "updatedAt": "2026-11-02T10:54:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cat Stevens",
+    "title": "Sitting",
+    "album": "Catch Bull at Four • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:54 am",
-      "artist": "Cat Stevens",
-      "title": "Sitting"
-    },
     {
       "time": "10:58 am",
       "artist": "Foo Fighters",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:54 am",
+      "artist": "Cat Stevens",
+      "title": "Sitting",
+      "album": "Catch Bull at Four • 1972"
+    },
     {
       "time": "10:50 am",
       "artist": "Florence + The Machine",
@@ -177,12 +178,6 @@
       "artist": "Elbow",
       "title": "Red",
       "album": "Asleep In the Back • 2001"
-    },
-    {
-      "time": "9:13 am",
-      "artist": "Dion & The Belmonts",
-      "title": "A Teenager In Love",
-      "album": "Presenting • 1959"
     }
   ]
 }
