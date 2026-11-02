@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T02:38:42",
+  "updatedAt": "2026-11-02T02:38:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Digital Love",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:38 am",
-      "artist": "Daft Punk",
-      "title": "Digital Love"
-    },
     {
       "time": "2:43 am",
       "artist": "Bob Dylan",
@@ -31,9 +26,20 @@
       "time": "2:55 am",
       "artist": "Ricky Nelson",
       "title": "Never Be Anyone Else But You"
+    },
+    {
+      "time": "2:57 am",
+      "artist": "Daft Punk",
+      "title": "Robot Rock"
     }
   ],
   "recent": [
+    {
+      "time": "2:38 am",
+      "artist": "Daft Punk",
+      "title": "Digital Love",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "2:34 am",
       "artist": "Bruce Springsteen",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "In My Time of Dyin'",
       "album": "Bob Dylan • 1962"
-    },
-    {
-      "time": "1:02 am",
-      "artist": "Coldplay",
-      "title": "Yellow",
-      "album": "Parachutes • 2000"
     }
   ]
 }
