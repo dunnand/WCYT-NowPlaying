@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T12:27:23",
+  "updatedAt": "2026-11-02T12:31:31",
   "now": {
     "artist": "Foo Fighters",
-    "title": "Everlong",
-    "album": "The Colour and the Shape • 1997",
+    "title": "I'll Stick Around",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Foo Fighters",
-      "title": "I'll Stick Around"
-    },
     {
       "time": "12:35 pm",
       "artist": "Madonna",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Foo Fighters",
+      "title": "I'll Stick Around",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "12:27 pm",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "Best of You",
       "album": "In Your Honor • 2005"
-    },
-    {
-      "time": "10:54 am",
-      "artist": "Cat Stevens",
-      "title": "Sitting",
-      "album": "Catch Bull at Four • 1972"
     }
   ]
 }
