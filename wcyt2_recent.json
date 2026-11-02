@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T22:05:45",
+  "updatedAt": "2026-11-01T22:09:50",
   "now": {
-    "artist": "Kate Bush",
-    "title": "The Big Sky",
-    "album": "Hounds of Love • 1985",
+    "artist": "Olivia Rodrigo",
+    "title": "drop dead",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "drop dead"
-    },
     {
       "time": "10:13 pm",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "10:23 pm",
       "artist": "Coldplay",
       "title": "Talk"
+    },
+    {
+      "time": "10:28 pm",
+      "artist": "Tame Impala",
+      "title": "New Person, Same Old Mistakes"
     }
   ],
   "recent": [
+    {
+      "time": "10:09 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "drop dead",
+      "album": ""
+    },
     {
       "time": "10:05 pm",
       "artist": "Kate Bush",
@@ -172,12 +178,6 @@
       "artist": "blink-182",
       "title": "I guess this is growing up",
       "album": "Dude Ranch • 1997"
-    },
-    {
-      "time": "8:39 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Waiting In Vain",
-      "album": "Exodus • 1977"
     }
   ]
 }
