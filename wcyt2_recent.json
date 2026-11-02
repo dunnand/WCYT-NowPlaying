@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-02T13:18:17",
+  "updatedAt": "2026-11-02T13:22:43",
   "now": {
-    "artist": "Sturgill Simpson",
-    "title": "I Don't Mind",
-    "album": "I Don't Mind • 2014",
+    "artist": "Foo Fighters",
+    "title": "My Hero",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:22 pm",
-      "artist": "Foo Fighters",
-      "title": "My Hero"
-    },
-    {
-      "time": "1:27 pm",
+      "time": "1:26 pm",
       "artist": "Foo Fighters",
       "title": "This Is a Call"
     },
@@ -21,9 +16,25 @@
       "time": "1:30 pm",
       "artist": "Supertramp",
       "title": "Breakfast In America"
+    },
+    {
+      "time": "1:33 pm",
+      "artist": "Prince and The Revolution",
+      "title": "Take Me With U"
+    },
+    {
+      "time": "1:37 pm",
+      "artist": "Minako Hamano",
+      "title": "Super Metroid (Ending)"
     }
   ],
   "recent": [
+    {
+      "time": "1:22 pm",
+      "artist": "Foo Fighters",
+      "title": "My Hero",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "1:18 pm",
       "artist": "Sturgill Simpson",
@@ -167,12 +178,6 @@
       "artist": "Cat Stevens",
       "title": "Trouble",
       "album": "Mona Bone Jakon • 1970"
-    },
-    {
-      "time": "11:49 am",
-      "artist": "Cat Stevens",
-      "title": "The Wind",
-      "album": "Teaser and the Firecat • 1971"
     }
   ]
 }
