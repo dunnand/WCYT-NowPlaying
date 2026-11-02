@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T12:51:40",
+  "updatedAt": "2026-11-02T12:52:02",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "TV on the Radio",
+    "title": "Crying",
+    "album": "Dear Science • 2008",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:51 pm",
-      "artist": "TV on the Radio",
-      "title": "Crying"
-    },
     {
       "time": "12:56 pm",
       "artist": "Alabama Shakes",
@@ -26,9 +21,20 @@
       "time": "1:04 pm",
       "artist": "New Order",
       "title": "Procession"
+    },
+    {
+      "time": "1:08 pm",
+      "artist": "MJ Lenderman",
+      "title": "Dancing In The Club"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 pm",
+      "artist": "TV on the Radio",
+      "title": "Crying",
+      "album": "Dear Science • 2008"
+    },
     {
       "time": "12:48 pm",
       "artist": "Aldous Harding",
@@ -172,12 +178,6 @@
       "artist": "Ok Cowgirl",
       "title": "Cruise the Town",
       "album": "Rhinestone Cowgirl • 2026"
-    },
-    {
-      "time": "11:19 am",
-      "artist": "M83",
-      "title": "Blister Sunrise",
-      "album": "I Wrote You A Letter • 2026"
     }
   ]
 }
