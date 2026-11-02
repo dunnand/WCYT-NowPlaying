@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T01:50:18",
+  "updatedAt": "2026-11-02T01:50:28",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Yo La Tengo",
+    "title": "The Summer",
+    "album": "Fakebook • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 am",
-      "artist": "Yo La Tengo",
-      "title": "The Summer"
-    },
     {
       "time": "1:53 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "Lifeguard",
       "title": "It Will Get Worse"
+    },
+    {
+      "time": "2:06 am",
+      "artist": "Vampire Weekend",
+      "title": "Unbelievers"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "Yo La Tengo",
+      "title": "The Summer",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "1:46 am",
       "artist": "@",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Won't Want for Love",
       "album": "The Hazards of Love • 2009"
-    },
-    {
-      "time": "12:09 am",
-      "artist": "June McDoom",
-      "title": "Human Angel",
-      "album": "Follow The Light • 2026"
     }
   ]
 }
