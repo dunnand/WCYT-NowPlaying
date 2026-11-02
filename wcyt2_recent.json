@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-02T05:34:59",
+  "updatedAt": "2026-11-02T05:40:35",
   "now": {
-    "artist": "Joy Division",
-    "title": "Heart and Soul",
-    "album": "Closer • 1980",
+    "artist": "Bruno Mars",
+    "title": "I Just Might",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "5:40 am",
-      "artist": "Bruno Mars",
-      "title": "I Just Might"
-    },
-    {
-      "time": "5:44 am",
+      "time": "5:43 am",
       "artist": "Daft Punk",
       "title": "Something About Us"
     },
@@ -26,9 +21,20 @@
       "time": "5:52 am",
       "artist": "Daft Punk",
       "title": "Technologic"
+    },
+    {
+      "time": "5:57 am",
+      "artist": "Yola",
+      "title": "Love All Night (Work All Day)"
     }
   ],
   "recent": [
+    {
+      "time": "5:40 am",
+      "artist": "Bruno Mars",
+      "title": "I Just Might",
+      "album": ""
+    },
     {
       "time": "5:34 am",
       "artist": "Joy Division",
@@ -172,12 +178,6 @@
       "artist": "Daft Punk",
       "title": "Around the World",
       "album": "Homework • 1997"
-    },
-    {
-      "time": "3:46 am",
-      "artist": "Bruce Springsteen",
-      "title": "Jungleland",
-      "album": "Born to Run • 1975"
     }
   ]
 }
