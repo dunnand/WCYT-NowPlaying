@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T01:18:21",
+  "updatedAt": "2026-11-02T01:21:05",
   "now": {
-    "artist": "CAKE",
-    "title": "Never There",
-    "album": "Prolonging the Magic • 1998",
+    "artist": "When In Rome",
+    "title": "The Promise",
+    "album": "When in Rome • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:21 am",
-      "artist": "When In Rome",
-      "title": "The Promise"
-    },
     {
       "time": "1:24 am",
       "artist": "Tesla",
@@ -23,12 +18,18 @@
       "title": "the cure"
     },
     {
-      "time": "1:35 am",
+      "time": "1:34 am",
       "artist": "Common",
       "title": "GO!"
     }
   ],
   "recent": [
+    {
+      "time": "1:21 am",
+      "artist": "When In Rome",
+      "title": "The Promise",
+      "album": "When in Rome • 1988"
+    },
     {
       "time": "1:18 am",
       "artist": "CAKE",
@@ -172,12 +173,6 @@
       "artist": "Tame Impala",
       "title": "New Person, Same Old Mistakes",
       "album": "Currents • 2015"
-    },
-    {
-      "time": "10:22 pm",
-      "artist": "Coldplay",
-      "title": "Talk",
-      "album": "X&Y • 2005"
     }
   ]
 }
