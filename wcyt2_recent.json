@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T15:12:00",
+  "updatedAt": "2026-11-02T15:14:42",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Song to Woody",
-    "album": "Bob Dylan • 1962",
+    "artist": "The D",
+    "title": "Neat Neat Neat",
+    "album": "DDD • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 pm",
-      "artist": "The D",
-      "title": "Neat Neat Neat"
-    },
     {
       "time": "3:17 pm",
       "artist": "George Michael",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:14 pm",
+      "artist": "The D",
+      "title": "Neat Neat Neat",
+      "album": "DDD • 1977"
+    },
     {
       "time": "3:12 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Foo Fighters",
       "title": "This Is a Call",
       "album": "Foo Fighters • 1995"
-    },
-    {
-      "time": "1:22 pm",
-      "artist": "Foo Fighters",
-      "title": "My Hero",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
