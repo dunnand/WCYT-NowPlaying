@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T03:02:40",
+  "updatedAt": "2026-11-02T03:06:47",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It's All Over Now, Baby Blue",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Grimes",
+    "title": "Genesis",
+    "album": "Visions • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:06 am",
-      "artist": "Grimes",
-      "title": "Genesis"
-    },
     {
       "time": "3:10 am",
       "artist": "Cocteau Twins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:06 am",
+      "artist": "Grimes",
+      "title": "Genesis",
+      "album": "Visions • 2012"
+    },
     {
       "time": "3:02 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Common",
       "title": "GO!",
       "album": "Be • 2005"
-    },
-    {
-      "time": "1:30 am",
-      "artist": "Olivia Rodrigo",
-      "title": "the cure",
-      "album": ""
     }
   ]
 }
