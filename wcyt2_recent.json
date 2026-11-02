@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T19:52:55",
+  "updatedAt": "2026-11-01T19:56:30",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Don't Think Twice, It's All Right",
-    "album": "The Freewheelin Bob Dylan • 1963",
-    "category": "AUDIO"
+    "artist": "Slowdive",
+    "title": "Slomo",
+    "album": "Slowdive • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:56 pm",
-      "artist": "Slowdive",
-      "title": "Slomo"
-    },
     {
       "time": "8:03 pm",
       "artist": "blink",
@@ -21,9 +16,20 @@
       "time": "8:07 pm",
       "artist": "blink",
       "title": "182 - All the Small Things"
+    },
+    {
+      "time": "8:11 pm",
+      "artist": "Spinners",
+      "title": "Working My Way Back To You"
     }
   ],
   "recent": [
+    {
+      "time": "7:56 pm",
+      "artist": "Slowdive",
+      "title": "Slomo",
+      "album": "Slowdive • 2017"
+    },
     {
       "time": "7:52 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "CAKE",
       "title": "Comfort Eagle",
       "album": "Comfort Eagle • 2001"
-    },
-    {
-      "time": "6:08 pm",
-      "artist": "HAIM",
-      "title": "Falling",
-      "album": ""
     }
   ]
 }
