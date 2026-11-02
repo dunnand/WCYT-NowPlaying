@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T00:56:28",
+  "updatedAt": "2026-11-02T01:00:23",
   "now": {
-    "artist": "CAKE",
-    "title": "Frank Sinatra",
-    "album": "Fashion Nugget • 1996",
+    "artist": "Shirley & Lee",
+    "title": "Let The Good Times Roll",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Shirley & Lee",
-      "title": "Let The Good Times Roll"
-    },
     {
       "time": "1:02 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "1:09 am",
       "artist": "Thom Yorke",
       "title": "Traffic"
+    },
+    {
+      "time": "1:15 am",
+      "artist": "CAKE",
+      "title": "Friend Is a Four Letter Word"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "Shirley & Lee",
+      "title": "Let The Good Times Roll",
+      "album": "single • 1956"
+    },
     {
       "time": "12:56 am",
       "artist": "CAKE",
@@ -172,12 +178,6 @@
       "artist": "Hall & Oates",
       "title": "Kiss On My List",
       "album": "Voices • 1981"
-    },
-    {
-      "time": "9:57 pm",
-      "artist": "The Boo Radleys",
-      "title": "Barney (...and Me)",
-      "album": "Giant Steps • 1993"
     }
   ]
 }
