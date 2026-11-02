@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-11-01T21:01:45",
+  "updatedAt": "2026-11-01T21:05:24",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Everywhere",
-    "album": "Tango in the Night • 1988",
+    "artist": "The Go-Go's",
+    "title": "We Got The Beat",
+    "album": "Beauty and the Beat • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "9:05 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Everywhere"
-    },
-    {
-      "time": "9:09 pm",
-      "artist": "The Go",
-      "title": "Go's - We Got The Beat"
-    },
-    {
-      "time": "9:11 pm",
+      "time": "9:07 pm",
       "artist": "Weezer",
       "title": "We Might as Well Be Strangers (feat. Wednesday)"
     },
     {
-      "time": "9:15 pm",
+      "time": "9:11 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "War"
+    },
+    {
+      "time": "9:14 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Zimbabwe"
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "The Go-Go's",
+      "title": "We Got The Beat",
+      "album": "Beauty and the Beat • 1982"
+    },
     {
       "time": "9:01 pm",
       "artist": "Fleetwood Mac",
@@ -172,12 +173,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "One Love / People Get Ready",
       "album": "Exodus • 1977"
-    },
-    {
-      "time": "7:25 pm",
-      "artist": "Bob Dylan",
-      "title": "Desolation Row",
-      "album": "Highway 61 Revisited • 1965"
     }
   ]
 }
