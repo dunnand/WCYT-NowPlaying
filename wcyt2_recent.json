@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-02T13:55:47",
+  "updatedAt": "2026-11-02T13:59:22",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Pledging My Time",
-    "album": "Pledging My Time • 1966",
+    "artist": "Curtis Mayfield",
+    "title": "Move on Up",
+    "album": "Curtis • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:59 pm",
-      "artist": "Curtis Mayfield",
-      "title": "Move on Up"
-    },
     {
       "time": "2:08 pm",
       "artist": "Fugazi",
       "title": "Blueprint"
     },
     {
-      "time": "2:12 pm",
+      "time": "2:11 pm",
       "artist": "Songs Ohia",
       "title": "Captain B"
     },
@@ -26,9 +21,20 @@
       "time": "2:19 pm",
       "artist": "Gorillaz",
       "title": "Feel Good Inc."
+    },
+    {
+      "time": "2:22 pm",
+      "artist": "Gorillaz",
+      "title": "Rock the House"
     }
   ],
   "recent": [
+    {
+      "time": "1:59 pm",
+      "artist": "Curtis Mayfield",
+      "title": "Move on Up",
+      "album": "Curtis • 1970"
+    },
     {
       "time": "1:55 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "Everlong",
       "album": "The Colour and the Shape • 1997"
-    },
-    {
-      "time": "12:23 pm",
-      "artist": "Solange",
-      "title": "Losing You",
-      "album": "True - EP • 2012"
     }
   ]
 }
