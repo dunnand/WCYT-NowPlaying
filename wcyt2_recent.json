@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T13:52:13",
+  "updatedAt": "2026-11-02T13:55:47",
   "now": {
-    "artist": "Gorillaz",
-    "title": "Dirty Harry",
-    "album": "Demon Days • 2005",
+    "artist": "Bob Dylan",
+    "title": "Pledging My Time",
+    "album": "Pledging My Time • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:55 pm",
-      "artist": "Bob Dylan",
-      "title": "Pledging My Time"
-    },
     {
       "time": "1:59 pm",
       "artist": "Curtis Mayfield",
@@ -26,9 +21,20 @@
       "time": "2:12 pm",
       "artist": "Songs Ohia",
       "title": "Captain B"
+    },
+    {
+      "time": "2:19 pm",
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc."
     }
   ],
   "recent": [
+    {
+      "time": "1:55 pm",
+      "artist": "Bob Dylan",
+      "title": "Pledging My Time",
+      "album": "Pledging My Time • 1966"
+    },
     {
       "time": "1:52 pm",
       "artist": "Gorillaz",
@@ -172,12 +178,6 @@
       "artist": "Solange",
       "title": "Losing You",
       "album": "True - EP • 2012"
-    },
-    {
-      "time": "12:18 pm",
-      "artist": "Fugazi",
-      "title": "Cashout",
-      "album": "The Argument • 2001"
     }
   ]
 }
