@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T07:54:49",
+  "updatedAt": "2026-11-02T08:00:45",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Like a Rolling Stone",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Buzzcocks",
+    "title": "What Do I Get?",
+    "album": "single • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 am",
-      "artist": "Buzzcocks",
-      "title": "What Do I Get?"
-    },
     {
       "time": "8:03 am",
       "artist": "Depeche Mode",
@@ -26,9 +21,20 @@
       "time": "8:10 am",
       "artist": "Elbow",
       "title": "Grace Under Pressure"
+    },
+    {
+      "time": "8:15 am",
+      "artist": "Bob Dylan",
+      "title": "Maggie's Farm"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 am",
+      "artist": "Buzzcocks",
+      "title": "What Do I Get?",
+      "album": "single • 1978"
+    },
     {
       "time": "7:54 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "De La Soul",
       "title": "Stakes Is High",
       "album": "Stakes is High • 1996"
-    },
-    {
-      "time": "6:19 am",
-      "artist": "Rihanna",
-      "title": "Work",
-      "album": "ANTI • 2016"
     }
   ]
 }
