@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T00:09:01",
+  "updatedAt": "2026-11-02T00:13:59",
   "now": {
     "artist": "Coldplay",
-    "title": "The Scientist",
-    "album": "A Rush of Blood to the Head • 2002",
+    "title": "Trouble",
+    "album": "Parachutes • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:14 am",
-      "artist": "Coldplay",
-      "title": "Trouble"
-    },
     {
       "time": "12:18 am",
       "artist": "Tyler, The Creator",
@@ -26,9 +21,20 @@
       "time": "12:25 am",
       "artist": "Bruce Springsteen",
       "title": "The Ghost of Tom Joad"
+    },
+    {
+      "time": "12:29 am",
+      "artist": "U2",
+      "title": "Like a Song..."
     }
   ],
   "recent": [
+    {
+      "time": "12:13 am",
+      "artist": "Coldplay",
+      "title": "Trouble",
+      "album": "Parachutes • 2000"
+    },
     {
       "time": "12:09 am",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "We Might as Well Be Strangers (feat. Wednesday)",
       "album": ""
-    },
-    {
-      "time": "9:05 pm",
-      "artist": "The Go-Go's",
-      "title": "We Got The Beat",
-      "album": "Beauty and the Beat • 1982"
     }
   ]
 }
