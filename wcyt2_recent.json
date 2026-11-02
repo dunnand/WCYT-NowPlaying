@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T20:58:14",
+  "updatedAt": "2026-11-01T20:58:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "blink-182",
+    "title": "What's My Age Again?",
+    "album": "Enema of the State • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:58 pm",
-      "artist": "blink",
-      "title": "182 - What's My Age Again?"
-    },
     {
       "time": "9:00 pm",
       "artist": "Boards of Canada",
@@ -26,9 +21,20 @@
       "time": "9:05 pm",
       "artist": "The Go",
       "title": "Go's - We Got The Beat"
+    },
+    {
+      "time": "9:08 pm",
+      "artist": "Weezer",
+      "title": "We Might as Well Be Strangers (feat. Wednesday)"
     }
   ],
   "recent": [
+    {
+      "time": "8:58 pm",
+      "artist": "blink-182",
+      "title": "What's My Age Again?",
+      "album": "Enema of the State • 1999"
+    },
     {
       "time": "8:54 pm",
       "artist": "Rihanna",
@@ -172,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Jamming",
       "album": "Exodus • 1977"
-    },
-    {
-      "time": "7:14 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Is This Love",
-      "album": "Kaya • 1978"
     }
   ]
 }
