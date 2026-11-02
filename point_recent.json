@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T09:55:15",
+  "updatedAt": "2026-11-02T09:59:01",
   "now": {
-    "artist": "Beach House",
-    "title": "Drunk in LA",
-    "album": "7 • 2018",
+    "artist": "Beck",
+    "title": "Wow",
+    "album": "Colors • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:59 am",
-      "artist": "Beck",
-      "title": "Wow"
-    },
     {
       "time": "10:02 am",
       "artist": "Mamalarky",
@@ -26,9 +21,20 @@
       "time": "10:08 am",
       "artist": "Phoebe Bridgers",
       "title": "Kyoto"
+    },
+    {
+      "time": "10:11 am",
+      "artist": "R.E.M.",
+      "title": "Me in Honey"
     }
   ],
   "recent": [
+    {
+      "time": "9:59 am",
+      "artist": "Beck",
+      "title": "Wow",
+      "album": "Colors • 2017"
+    },
     {
       "time": "9:55 am",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "Toro y Moi",
       "title": "Ordinary Pleasure",
       "album": "Outer Peace • 2019"
-    },
-    {
-      "time": "8:23 am",
-      "artist": "The Avalanches",
-      "title": "Blue Shadows (feat. Karen O)",
-      "album": "No Bad Memories • 2026"
     }
   ]
 }
