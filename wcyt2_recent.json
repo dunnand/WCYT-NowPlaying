@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T03:35:05",
+  "updatedAt": "2026-11-02T03:39:10",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Darkness on the Edge of Town",
-    "album": "Darkness on the Edge of Town • 1978",
+    "artist": "Daft Punk",
+    "title": "Aerodynamic",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:39 am",
-      "artist": "Daft Punk",
-      "title": "Aerodynamic"
-    },
     {
       "time": "3:42 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "3:56 am",
       "artist": "Daft Punk",
       "title": "Around the World"
+    },
+    {
+      "time": "4:03 am",
+      "artist": "Jerry Butler And The Impressions",
+      "title": "For Your Precious Love"
     }
   ],
   "recent": [
+    {
+      "time": "3:39 am",
+      "artist": "Daft Punk",
+      "title": "Aerodynamic",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "3:35 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "It Ain't Me Babe",
       "album": "It Ain't Me Babe • 1964"
-    },
-    {
-      "time": "1:58 am",
-      "artist": "Common",
-      "title": "The Light",
-      "album": "Like Water for Chocolate • 2000"
     }
   ]
 }
