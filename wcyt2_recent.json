@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T22:09:50",
+  "updatedAt": "2026-11-01T22:13:36",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "drop dead",
-    "album": "",
+    "artist": "Coldplay",
+    "title": "Speed of Sound",
+    "album": "X&Y • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:13 pm",
-      "artist": "Coldplay",
-      "title": "Speed of Sound"
-    },
     {
       "time": "10:18 pm",
       "artist": "The Wailers",
@@ -26,9 +21,20 @@
       "time": "10:28 pm",
       "artist": "Tame Impala",
       "title": "New Person, Same Old Mistakes"
+    },
+    {
+      "time": "10:34 pm",
+      "artist": "Brian Eno",
+      "title": "By This River"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 pm",
+      "artist": "Coldplay",
+      "title": "Speed of Sound",
+      "album": "X&Y • 2005"
+    },
     {
       "time": "10:09 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Little Richard and His Band",
       "title": "Long Tall Sally",
       "album": "Heres Little Richard • 1957"
-    },
-    {
-      "time": "8:43 pm",
-      "artist": "blink-182",
-      "title": "I guess this is growing up",
-      "album": "Dude Ranch • 1997"
     }
   ]
 }
