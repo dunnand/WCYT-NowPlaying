@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T12:55:57",
+  "updatedAt": "2026-11-02T12:56:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Helpless",
+    "album": "Dj Vu • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Helpless"
-    },
     {
       "time": "12:59 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "1:05 pm",
       "artist": "Foo Fighters",
       "title": "Learn to Fly"
+    },
+    {
+      "time": "1:10 pm",
+      "artist": "Perez Prado",
+      "title": "Patricia"
     }
   ],
   "recent": [
+    {
+      "time": "12:56 pm",
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Helpless",
+      "album": "Dj Vu • 1970"
+    },
     {
       "time": "12:51 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Mr. Tambourine Man",
       "album": "Bringing It All Back Home • 1965"
-    },
-    {
-      "time": "11:16 am",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame",
-      "album": "Medicine at Midnight • 2021"
     }
   ]
 }
