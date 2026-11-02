@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T21:32:25",
+  "updatedAt": "2026-11-01T21:35:48",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Make You Feel My Love",
-    "album": "Make You Feel My Love • 1997",
+    "artist": "Buddy Holly",
+    "title": "I'm Gonna Love You Too",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 pm",
-      "artist": "Buddy Holly",
-      "title": "I'm Gonna Love You Too"
-    },
     {
       "time": "9:37 pm",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "9:46 pm",
       "artist": "Grimes",
       "title": "Kill V. Maim"
+    },
+    {
+      "time": "9:50 pm",
+      "artist": "Bob Dylan",
+      "title": "Not Dark Yet"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 pm",
+      "artist": "Buddy Holly",
+      "title": "I'm Gonna Love You Too",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "9:32 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Spinners",
       "title": "Working My Way Back To You",
       "album": "Working My Way Back • 1980"
-    },
-    {
-      "time": "8:07 pm",
-      "artist": "blink-182",
-      "title": "All the Small Things",
-      "album": "Enema of the State • 1999"
     }
   ]
 }
