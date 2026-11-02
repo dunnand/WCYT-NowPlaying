@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T09:01:35",
+  "updatedAt": "2026-11-02T09:05:55",
   "now": {
-    "artist": "Grimes",
-    "title": "Be a Body",
-    "album": "Visions • 2012",
+    "artist": "Cat Stevens",
+    "title": "Father and Son",
+    "album": "Tea for the Tillerman • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 am",
-      "artist": "Cat Stevens",
-      "title": "Father and Son"
-    },
     {
       "time": "9:09 am",
       "artist": "Digable Planets",
@@ -26,9 +21,20 @@
       "time": "9:16 am",
       "artist": "Elbow",
       "title": "Red"
+    },
+    {
+      "time": "9:21 am",
+      "artist": "Bob Dylan",
+      "title": "Masters of War"
     }
   ],
   "recent": [
+    {
+      "time": "9:05 am",
+      "artist": "Cat Stevens",
+      "title": "Father and Son",
+      "album": "Tea for the Tillerman • 1970"
+    },
     {
       "time": "9:01 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Depeche Mode",
       "title": "Policy of Truth",
       "album": "Violator • 1990"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "Taylor Swift",
-      "title": "We Are Never Ever Getting Back Together",
-      "album": "Red • 2012"
     }
   ]
 }
