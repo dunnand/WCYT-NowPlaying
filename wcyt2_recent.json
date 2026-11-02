@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T00:34:16",
+  "updatedAt": "2026-11-02T00:38:01",
   "now": {
-    "artist": "Ultravox",
-    "title": "Reap the Wild Wind",
-    "album": "Quartet • 1982",
+    "artist": "Olivia Rodrigo",
+    "title": "stupid song",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:37 am",
-      "artist": "Olivia Rodrigo",
-      "title": "stupid song"
-    },
     {
       "time": "12:41 am",
       "artist": "Brian Eno",
@@ -21,9 +16,20 @@
       "time": "12:45 am",
       "artist": "Bob Dylan",
       "title": "I Want You"
+    },
+    {
+      "time": "12:48 am",
+      "artist": "Eno",
+      "title": "In Dark Trees"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 am",
+      "artist": "Olivia Rodrigo",
+      "title": "stupid song",
+      "album": ""
+    },
     {
       "time": "12:34 am",
       "artist": "Ultravox",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Make You Feel My Love",
       "album": "Make You Feel My Love • 1997"
-    },
-    {
-      "time": "9:28 pm",
-      "artist": "The Wailers",
-      "title": "Burnin' and Lootin'",
-      "album": "Burnin' • 1973"
     }
   ]
 }
