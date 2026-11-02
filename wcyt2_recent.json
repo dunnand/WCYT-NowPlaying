@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T12:31:31",
+  "updatedAt": "2026-11-02T12:35:15",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "I'll Stick Around",
-    "album": "Foo Fighters • 1995",
+    "artist": "Madonna",
+    "title": "Material Girl",
+    "album": "Like a Virgin • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 pm",
-      "artist": "Madonna",
-      "title": "Material Girl"
-    },
     {
       "time": "12:39 pm",
       "artist": "R.E.M.",
@@ -21,9 +16,20 @@
       "time": "12:43 pm",
       "artist": "BTS",
       "title": "Dynamite"
+    },
+    {
+      "time": "12:46 pm",
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Carry On"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 pm",
+      "artist": "Madonna",
+      "title": "Material Girl",
+      "album": "Like a Virgin • 1985"
+    },
     {
       "time": "12:31 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Taylor Swift",
       "title": "Shake It Off",
       "album": "1989 • 2014"
-    },
-    {
-      "time": "10:58 am",
-      "artist": "Foo Fighters",
-      "title": "Best of You",
-      "album": "In Your Honor • 2005"
     }
   ]
 }
