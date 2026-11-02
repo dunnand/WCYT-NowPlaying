@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T22:05:33",
+  "updatedAt": "2026-11-01T22:05:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kate Bush",
+    "title": "The Big Sky",
+    "album": "Hounds of Love • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 pm",
-      "artist": "Kate Bush",
-      "title": "The Big Sky"
-    },
     {
       "time": "10:10 pm",
       "artist": "Olivia Rodrigo",
@@ -26,9 +21,20 @@
       "time": "10:18 pm",
       "artist": "The Wailers",
       "title": "I Shot The Sheriff"
+    },
+    {
+      "time": "10:23 pm",
+      "artist": "Coldplay",
+      "title": "Talk"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Kate Bush",
+      "title": "The Big Sky",
+      "album": "Hounds of Love • 1985"
+    },
     {
       "time": "10:01 pm",
       "artist": "Hall & Oates",
@@ -172,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Waiting In Vain",
       "album": "Exodus • 1977"
-    },
-    {
-      "time": "8:35 pm",
-      "artist": "Bob Dylan",
-      "title": "Girl From the North Country",
-      "album": "Girl From the North Country • 1963"
     }
   ]
 }
