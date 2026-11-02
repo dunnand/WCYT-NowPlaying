@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T01:38:55",
+  "updatedAt": "2026-11-02T01:43:30",
   "now": {
-    "artist": "Eno",
-    "title": "On Some Faraway Beach",
-    "album": "Here Come the Warm Jets • 1974",
+    "artist": "Common",
+    "title": "Love Is...",
+    "album": "Be • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 am",
-      "artist": "Common",
-      "title": "Love Is..."
-    },
     {
       "time": "1:47 am",
       "artist": "Tegan & Sara",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "CAKE",
       "title": "Perhaps, Perhaps, Perhaps"
+    },
+    {
+      "time": "1:56 am",
+      "artist": "Bo Diddley",
+      "title": "I'm A Man"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 am",
+      "artist": "Common",
+      "title": "Love Is...",
+      "album": "Be • 2005"
+    },
     {
       "time": "1:38 am",
       "artist": "Eno",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Trouble",
       "album": "Parachutes • 2000"
-    },
-    {
-      "time": "12:09 am",
-      "artist": "Coldplay",
-      "title": "The Scientist",
-      "album": "A Rush of Blood to the Head • 2002"
     }
   ]
 }
