@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T00:50:59",
+  "updatedAt": "2026-11-02T00:53:35",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I'll Be Your Baby Tonight",
-    "album": "John Wesley Harding • 1967",
+    "artist": "Eno",
+    "title": "Needles in the Camel's Eye",
+    "album": "Here Come the Warm Jets • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "Eno",
-      "title": "Needles in the Camel's Eye"
-    },
     {
       "time": "12:56 am",
       "artist": "CAKE",
@@ -26,9 +21,20 @@
       "time": "1:02 am",
       "artist": "Coldplay",
       "title": "Yellow"
+    },
+    {
+      "time": "1:07 am",
+      "artist": "Bob Dylan",
+      "title": "In My Time of Dyin'"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "Eno",
+      "title": "Needles in the Camel's Eye",
+      "album": "Here Come the Warm Jets • 1974"
+    },
     {
       "time": "12:50 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Not Dark Yet",
       "album": "Time Out of Mind • 1997"
-    },
-    {
-      "time": "9:46 pm",
-      "artist": "Grimes",
-      "title": "Kill V. Maim",
-      "album": "Art Angels • 2015"
     }
   ]
 }
