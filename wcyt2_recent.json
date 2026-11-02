@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T13:30:52",
+  "updatedAt": "2026-11-02T13:31:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Supertramp",
+    "title": "Breakfast In America",
+    "album": "Breakfast in America • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:30 pm",
-      "artist": "Supertramp",
-      "title": "Breakfast In America"
-    },
     {
       "time": "1:33 pm",
       "artist": "Prince and The Revolution",
@@ -26,9 +21,20 @@
       "time": "1:40 pm",
       "artist": "Curits Mayfield",
       "title": "Freddie's Dead"
+    },
+    {
+      "time": "1:46 pm",
+      "artist": "Curtis Mayfield",
+      "title": "Billy Jack"
     }
   ],
   "recent": [
+    {
+      "time": "1:31 pm",
+      "artist": "Supertramp",
+      "title": "Breakfast In America",
+      "album": "Breakfast in America • 1980"
+    },
     {
       "time": "1:27 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "My Back Pages",
       "album": "Another Side of Bob Dylan • 1964"
-    },
-    {
-      "time": "11:53 am",
-      "artist": "Foo Fighters",
-      "title": "The Pretender",
-      "album": "Echoes, Silence, Patience & Grace • 2007"
     }
   ]
 }
