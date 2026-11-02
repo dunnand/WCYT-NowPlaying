@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T19:36:59",
+  "updatedAt": "2026-11-01T19:40:04",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "One Love / People Get Ready",
-    "album": "Exodus • 1977",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "This Is Just A Modern Rock Song",
+    "album": "This Is Just A Modern Rock Song • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:39 pm",
-      "artist": "Belle and Sebastian",
-      "title": "This Is Just A Modern Rock Song"
-    },
     {
       "time": "7:47 pm",
       "artist": "Carl Perkins",
@@ -21,9 +16,20 @@
       "time": "7:49 pm",
       "artist": "Carrie Underwood",
       "title": "Undo It"
+    },
+    {
+      "time": "7:52 pm",
+      "artist": "Bob Dylan",
+      "title": "Don't Think Twice, It's All Right"
     }
   ],
   "recent": [
+    {
+      "time": "7:40 pm",
+      "artist": "Belle and Sebastian",
+      "title": "This Is Just A Modern Rock Song",
+      "album": "This Is Just A Modern Rock Song • 1998"
+    },
     {
       "time": "7:36 pm",
       "artist": "Bob Marley and the Wailers",
@@ -167,12 +173,6 @@
       "artist": "Belle and Sebastian",
       "title": "Sleep the Clock Around",
       "album": "The Boy with the Arab Strap • 1998"
-    },
-    {
-      "time": "5:50 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Seeing Other People",
-      "album": "If You're Feeling Sinister • 1996"
     }
   ]
 }
