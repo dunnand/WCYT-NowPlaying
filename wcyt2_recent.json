@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T21:41:41",
+  "updatedAt": "2026-11-01T21:41:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "I Shall Be Free",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:41 pm",
-      "artist": "Bob Dylan",
-      "title": "I Shall Be Free"
-    },
     {
       "time": "9:46 pm",
       "artist": "Grimes",
@@ -26,9 +21,20 @@
       "time": "9:57 pm",
       "artist": "The Boo Radleys",
       "title": "Barney (...and Me)"
+    },
+    {
+      "time": "10:01 pm",
+      "artist": "Hall & Oates",
+      "title": "Kiss On My List"
     }
   ],
   "recent": [
+    {
+      "time": "9:41 pm",
+      "artist": "Bob Dylan",
+      "title": "I Shall Be Free",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "9:37 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "HAIM",
       "title": "Honey & I",
       "album": ""
-    },
-    {
-      "time": "8:14 pm",
-      "artist": "Echo & The Bunnymen",
-      "title": "Bring on the Dancing Horses",
-      "album": "Songs to Learn & Sing • 1985"
     }
   ]
 }
