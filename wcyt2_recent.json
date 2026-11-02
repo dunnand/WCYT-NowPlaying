@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T05:09:09",
+  "updatedAt": "2026-11-02T05:11:12",
   "now": {
-    "artist": "Les Paul",
-    "title": "How High The Moon",
-    "album": "single • 1951",
+    "artist": "Daft Punk",
+    "title": "One More Time",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:11 am",
-      "artist": "Daft Punk",
-      "title": "One More Time"
-    },
     {
       "time": "5:16 am",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:11 am",
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "5:09 am",
       "artist": "Les Paul",
@@ -172,12 +173,6 @@
       "artist": "The Soft Boys",
       "title": "I Wanna Destroy You",
       "album": "Underwater Moonlight • 1980"
-    },
-    {
-      "time": "3:21 am",
-      "artist": "Prince",
-      "title": "Partyman",
-      "album": "Batman • 1989"
     }
   ]
 }
