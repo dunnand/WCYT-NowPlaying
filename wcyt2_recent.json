@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T10:54:59",
+  "updatedAt": "2026-11-02T10:58:05",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "Sitting",
-    "album": "Catch Bull at Four • 1972",
+    "artist": "Foo Fighters",
+    "title": "Best of You",
+    "album": "In Your Honor • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:58 am",
-      "artist": "Foo Fighters",
-      "title": "Best of You"
-    },
     {
       "time": "11:02 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "11:10 am",
       "artist": "Erykah Badu",
       "title": "On & On"
+    },
+    {
+      "time": "11:14 am",
+      "artist": "Johnny Cash",
+      "title": "Ballad Of A Teenage Queen"
     }
   ],
   "recent": [
+    {
+      "time": "10:58 am",
+      "artist": "Foo Fighters",
+      "title": "Best of You",
+      "album": "In Your Honor • 2005"
+    },
     {
       "time": "10:54 am",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Masters of War",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "9:16 am",
-      "artist": "Elbow",
-      "title": "Red",
-      "album": "Asleep In the Back • 2001"
     }
   ]
 }
