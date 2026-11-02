@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T19:01:48",
+  "updatedAt": "2026-11-01T19:02:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rockwell",
+    "title": "Somebody's Watching Me",
+    "album": "Somebodys Watching Me • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 pm",
-      "artist": "Rockwell",
-      "title": "Somebody's Watching Me"
-    },
     {
       "time": "7:06 pm",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "7:14 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "Is This Love"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Jamming"
     }
   ],
   "recent": [
+    {
+      "time": "7:02 pm",
+      "artist": "Rockwell",
+      "title": "Somebody's Watching Me",
+      "album": "Somebodys Watching Me • 1984"
+    },
     {
       "time": "6:56 pm",
       "artist": "Belle and Sebastian",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Chimes of Freedom",
       "album": "Chimes of Freedom • 1964"
-    },
-    {
-      "time": "5:16 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Turn Your Lights Down Low",
-      "album": "Exodus • 1977"
     }
   ]
 }
