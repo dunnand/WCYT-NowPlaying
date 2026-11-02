@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T04:09:43",
+  "updatedAt": "2026-11-02T04:09:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "It's Alright, Ma",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 am",
-      "artist": "Bob Dylan",
-      "title": "It's Alright, Ma"
-    },
     {
       "time": "4:17 am",
       "artist": "Vampire Weekend",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:09 am",
+      "artist": "Bob Dylan",
+      "title": "It's Alright, Ma",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "4:05 am",
       "artist": "Daft Punk",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "Can’t Catch Me Now",
       "album": ""
-    },
-    {
-      "time": "2:20 am",
-      "artist": "Salt-N-Pepa",
-      "title": "Push It",
-      "album": "Hot, Cool & Vicious • 1986"
     }
   ]
 }
