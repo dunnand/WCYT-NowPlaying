@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-02T01:07:15",
+  "updatedAt": "2026-11-02T01:09:50",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "In My Time of Dyin'",
-    "album": "Bob Dylan • 1962",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Traffic",
+    "album": "ANIMA • 2019",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "1:09 am",
-      "artist": "Thom Yorke",
-      "title": "Traffic"
-    },
-    {
-      "time": "1:15 am",
+      "time": "1:14 am",
       "artist": "CAKE",
       "title": "Friend Is a Four Letter Word"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:09 am",
+      "artist": "Thom Yorke",
+      "title": "Traffic",
+      "album": "ANIMA • 2019"
+    },
     {
       "time": "1:07 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Coldplay",
       "title": "Speed of Sound",
       "album": "X&Y • 2005"
-    },
-    {
-      "time": "10:09 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "drop dead",
-      "album": ""
     }
   ]
 }
