@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T21:19:04",
+  "updatedAt": "2026-11-01T21:23:52",
   "now": {
-    "artist": "Coldplay",
-    "title": "Fix You",
-    "album": "X&Y • 2005",
+    "artist": "Bob Dylan",
+    "title": "I Don't Believe You",
+    "album": "Another Side of Bob Dylan • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:23 pm",
-      "artist": "Bob Dylan",
-      "title": "I Don't Believe You"
-    },
     {
       "time": "9:28 pm",
       "artist": "The Wailers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:23 pm",
+      "artist": "Bob Dylan",
+      "title": "I Don't Believe You",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "9:19 pm",
       "artist": "Coldplay",
@@ -177,12 +178,6 @@
       "artist": "Slowdive",
       "title": "Slomo",
       "album": "Slowdive • 2017"
-    },
-    {
-      "time": "7:52 pm",
-      "artist": "Bob Dylan",
-      "title": "Don't Think Twice, It's All Right",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
