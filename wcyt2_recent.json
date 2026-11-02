@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T16:32:06",
+  "updatedAt": "2026-11-02T16:36:21",
   "now": {
-    "artist": "David Bowie",
-    "title": "Rebel Rebel",
-    "album": "Diamond Dogs • 1974",
+    "artist": "Johnny Cash",
+    "title": "Rusty Cage",
+    "album": "Unchained • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:36 pm",
-      "artist": "Johnny Cash",
-      "title": "Rusty Cage"
-    },
     {
       "time": "4:39 pm",
       "artist": "Chordettes",
@@ -21,9 +16,20 @@
       "time": "4:41 pm",
       "artist": "Kings of Leon",
       "title": "The Bucket"
+    },
+    {
+      "time": "4:44 pm",
+      "artist": "Cat Stevens",
+      "title": "The First Cut Is The Deepest"
     }
   ],
   "recent": [
+    {
+      "time": "4:36 pm",
+      "artist": "Johnny Cash",
+      "title": "Rusty Cage",
+      "album": "Unchained • 1996"
+    },
     {
       "time": "4:32 pm",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "The D",
       "title": "Neat Neat Neat",
       "album": "DDD • 1977"
-    },
-    {
-      "time": "3:12 pm",
-      "artist": "Bob Dylan",
-      "title": "Song to Woody",
-      "album": "Bob Dylan • 1962"
     }
   ]
 }
