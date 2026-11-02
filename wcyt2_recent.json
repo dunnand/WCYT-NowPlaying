@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T21:57:04",
+  "updatedAt": "2026-11-01T21:57:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Boo Radleys",
+    "title": "Barney (...and Me)",
+    "album": "Giant Steps • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:57 pm",
-      "artist": "The Boo Radleys",
-      "title": "Barney (...and Me)"
-    },
     {
       "time": "10:01 pm",
       "artist": "Hall & Oates",
@@ -26,9 +21,20 @@
       "time": "10:10 pm",
       "artist": "Olivia Rodrigo",
       "title": "drop dead"
+    },
+    {
+      "time": "10:13 pm",
+      "artist": "Coldplay",
+      "title": "Speed of Sound"
     }
   ],
   "recent": [
+    {
+      "time": "9:57 pm",
+      "artist": "The Boo Radleys",
+      "title": "Barney (...and Me)",
+      "album": "Giant Steps • 1993"
+    },
     {
       "time": "9:50 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Clocks",
       "album": "A Rush of Blood to the Head • 2002"
-    },
-    {
-      "time": "8:27 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Three Little Birds",
-      "album": "Exodus • 1977"
     }
   ]
 }
