@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T11:02:17",
+  "updatedAt": "2026-11-02T11:05:51",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Shake It Off",
-    "album": "1989 • 2014",
+    "artist": "Cat Stevens",
+    "title": "The Hurt",
+    "album": "Foreigner • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 am",
-      "artist": "Cat Stevens",
-      "title": "The Hurt"
-    },
     {
       "time": "11:10 am",
       "artist": "Erykah Badu",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:05 am",
+      "artist": "Cat Stevens",
+      "title": "The Hurt",
+      "album": "Foreigner • 1973"
+    },
     {
       "time": "11:02 am",
       "artist": "Taylor Swift",
@@ -172,12 +173,6 @@
       "artist": "Dinosaur Jr.",
       "title": "The Wagon",
       "album": "Green Mind • 1991"
-    },
-    {
-      "time": "9:26 am",
-      "artist": "Thom Yorke",
-      "title": "Suspirium",
-      "album": "Suspiria • 2018"
     }
   ]
 }
