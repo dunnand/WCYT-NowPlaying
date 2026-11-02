@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T05:47:56",
+  "updatedAt": "2026-11-02T05:52:32",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Thunder Road",
-    "album": "Born to Run • 1975",
+    "artist": "Daft Punk",
+    "title": "Technologic",
+    "album": "Human After All • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:52 am",
-      "artist": "Daft Punk",
-      "title": "Technologic"
-    },
     {
       "time": "5:57 am",
       "artist": "Yola",
@@ -31,9 +26,20 @@
       "time": "6:09 am",
       "artist": "Billie Holiday",
       "title": "Strange Fruit"
+    },
+    {
+      "time": "6:12 am",
+      "artist": "The Dandy Warhols",
+      "title": "Bohemian Like You"
     }
   ],
   "recent": [
+    {
+      "time": "5:52 am",
+      "artist": "Daft Punk",
+      "title": "Technologic",
+      "album": "Human After All • 2005"
+    },
     {
       "time": "5:47 am",
       "artist": "Bruce Springsteen",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "It's Alright, Ma",
       "album": "Bringing It All Back Home • 1965"
-    },
-    {
-      "time": "4:05 am",
-      "artist": "Daft Punk",
-      "title": "Face to Face",
-      "album": "Discovery • 2001"
     }
   ]
 }
