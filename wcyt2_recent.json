@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T04:26:12",
+  "updatedAt": "2026-11-02T04:32:10",
   "now": {
-    "artist": "David Bowie",
-    "title": "Little Wonder",
-    "album": "Earthling • 1997",
+    "artist": "Stray Cats",
+    "title": "Rock This Town",
+    "album": "Built for Speed • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:32 am",
-      "artist": "Stray Cats",
-      "title": "Rock This Town"
-    },
     {
       "time": "4:34 am",
       "artist": "Billy Joel",
@@ -26,9 +21,20 @@
       "time": "4:41 am",
       "artist": "Bruce Springsteen",
       "title": "New York City Serenade"
+    },
+    {
+      "time": "4:50 am",
+      "artist": "Bruce Springsteen",
+      "title": "Tenth Avenue Freeze-Out"
     }
   ],
   "recent": [
+    {
+      "time": "4:32 am",
+      "artist": "Stray Cats",
+      "title": "Rock This Town",
+      "album": "Built for Speed • 1982"
+    },
     {
       "time": "4:26 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "It Take a Lot to Laugh, It Take a Train to Cry",
       "album": "It Takes a Lot to Laugh, It Takes a Train to Cry • 1965"
-    },
-    {
-      "time": "2:38 am",
-      "artist": "Daft Punk",
-      "title": "Digital Love",
-      "album": "Discovery • 2001"
     }
   ]
 }
