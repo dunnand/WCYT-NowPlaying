@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T04:54:05",
+  "updatedAt": "2026-11-02T04:54:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Harder, Better, Faster, Stronger",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:54 am",
-      "artist": "Daft Punk",
-      "title": "Harder, Better, Faster, Stronger"
-    },
     {
       "time": "4:57 am",
       "artist": "Bob Dylan",
@@ -31,9 +26,20 @@
       "time": "5:09 am",
       "artist": "Les Paul",
       "title": "How High The Moon"
+    },
+    {
+      "time": "5:11 am",
+      "artist": "Daft Punk",
+      "title": "One More Time"
     }
   ],
   "recent": [
+    {
+      "time": "4:54 am",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "4:51 am",
       "artist": "Bruce Springsteen",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "It's All Over Now, Baby Blue",
       "album": "Bringing It All Back Home • 1965"
-    },
-    {
-      "time": "2:57 am",
-      "artist": "Daft Punk",
-      "title": "Robot Rock",
-      "album": "Human After All • 2005"
     }
   ]
 }
