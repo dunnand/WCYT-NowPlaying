@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T05:40:35",
+  "updatedAt": "2026-11-02T05:43:59",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "I Just Might",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Something About Us",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:43 am",
-      "artist": "Daft Punk",
-      "title": "Something About Us"
-    },
     {
       "time": "5:47 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "5:57 am",
       "artist": "Yola",
       "title": "Love All Night (Work All Day)"
+    },
+    {
+      "time": "6:00 am",
+      "artist": "Buzzcocks",
+      "title": "Autonomy"
     }
   ],
   "recent": [
+    {
+      "time": "5:43 am",
+      "artist": "Daft Punk",
+      "title": "Something About Us",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "5:40 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Jerry Butler And The Impressions",
       "title": "For Your Precious Love",
       "album": "single • 1958"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "Daft Punk",
-      "title": "Around the World",
-      "album": "Homework • 1997"
     }
   ]
 }
