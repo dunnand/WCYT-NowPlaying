@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T01:24:40",
+  "updatedAt": "2026-11-02T01:24:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tesla",
+    "title": "Love Song",
+    "album": "The Great Radio Controversy • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:24 am",
-      "artist": "Tesla",
-      "title": "Love Song"
-    },
     {
       "time": "1:30 am",
       "artist": "Olivia Rodrigo",
@@ -26,9 +21,20 @@
       "time": "1:38 am",
       "artist": "Eno",
       "title": "On Some Faraway Beach"
+    },
+    {
+      "time": "1:43 am",
+      "artist": "Common",
+      "title": "Love Is..."
     }
   ],
   "recent": [
+    {
+      "time": "1:24 am",
+      "artist": "Tesla",
+      "title": "Love Song",
+      "album": "The Great Radio Controversy • 1989"
+    },
     {
       "time": "1:21 am",
       "artist": "When In Rome",
@@ -172,12 +178,6 @@
       "artist": "Brian Eno",
       "title": "By This River",
       "album": "Before and After Science • 1977"
-    },
-    {
-      "time": "10:28 pm",
-      "artist": "Tame Impala",
-      "title": "New Person, Same Old Mistakes",
-      "album": "Currents • 2015"
     }
   ]
 }
