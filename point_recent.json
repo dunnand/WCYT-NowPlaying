@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T01:50:28",
+  "updatedAt": "2026-11-02T01:53:03",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "The Summer",
-    "album": "Fakebook • 1990",
+    "artist": "Beach House",
+    "title": "Lazuli",
+    "album": "Bloom • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "Beach House",
-      "title": "Lazuli"
-    },
     {
       "time": "1:58 am",
       "artist": "Esther Rose",
@@ -26,9 +21,20 @@
       "time": "2:06 am",
       "artist": "Vampire Weekend",
       "title": "Unbelievers"
+    },
+    {
+      "time": "2:09 am",
+      "artist": "Bon Iver",
+      "title": "Hey, Ma"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "Beach House",
+      "title": "Lazuli",
+      "album": "Bloom • 2012"
+    },
     {
       "time": "1:50 am",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "The Last Dinner Party",
       "title": "Nothing Matters",
       "album": "Prelude To Ecstasy • 2024"
-    },
-    {
-      "time": "12:12 am",
-      "artist": "The Decemberists",
-      "title": "Won't Want for Love",
-      "album": "The Hazards of Love • 2009"
     }
   ]
 }
