@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-02T12:59:32",
+  "updatedAt": "2026-11-02T13:02:14",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "One Too Many Mornings",
-    "album": "The Times They Are A-Changin • 1964",
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Woodstock",
+    "album": "Dj Vu • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:02 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Woodstock"
-    },
     {
       "time": "1:05 pm",
       "artist": "Foo Fighters",
       "title": "Learn to Fly"
     },
     {
-      "time": "1:10 pm",
+      "time": "1:09 pm",
       "artist": "Perez Prado",
       "title": "Patricia"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:02 pm",
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Woodstock",
+      "album": "Dj Vu • 1970"
+    },
     {
       "time": "12:59 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Faith No More",
       "title": "Midlife Crisis",
       "album": "Angel Dust • 1992"
-    },
-    {
-      "time": "11:26 am",
-      "artist": "Blood Orange",
-      "title": "Champagne Coast",
-      "album": "Coastal Grooves • 2011"
     }
   ]
 }
