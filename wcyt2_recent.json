@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T00:41:24",
+  "updatedAt": "2026-11-02T00:41:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Brian Eno",
+    "title": "King's Lead Hat",
+    "album": "Before and After Science • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:41 am",
-      "artist": "Brian Eno",
-      "title": "King's Lead Hat"
-    },
     {
       "time": "12:45 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "12:51 am",
       "artist": "Bob Dylan",
       "title": "I'll Be Your Baby Tonight"
+    },
+    {
+      "time": "12:53 am",
+      "artist": "Eno",
+      "title": "Needles in the Camel's Eye"
     }
   ],
   "recent": [
+    {
+      "time": "12:41 am",
+      "artist": "Brian Eno",
+      "title": "King's Lead Hat",
+      "album": "Before and After Science • 1977"
+    },
     {
       "time": "12:38 am",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "I'm Gonna Love You Too",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "9:32 pm",
-      "artist": "Bob Dylan",
-      "title": "Make You Feel My Love",
-      "album": "Make You Feel My Love • 1997"
     }
   ]
 }
