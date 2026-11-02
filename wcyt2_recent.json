@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T02:03:07",
+  "updatedAt": "2026-11-02T02:06:35",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It Ain't Me Babe",
-    "album": "It Ain't Me Babe • 1964",
+    "artist": "Ride",
+    "title": "Home Is a Feeling",
+    "album": "Weather Diaries • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:06 am",
-      "artist": "Ride",
-      "title": "Home Is a Feeling"
-    },
     {
       "time": "2:10 am",
       "artist": "CAKE",
@@ -21,9 +16,20 @@
       "time": "2:11 am",
       "artist": "CAKE",
       "title": "Sheep Go to Heaven"
+    },
+    {
+      "time": "2:16 am",
+      "artist": "Simple Minds",
+      "title": "Don't You (Forget About Me)"
     }
   ],
   "recent": [
+    {
+      "time": "2:06 am",
+      "artist": "Ride",
+      "title": "Home Is a Feeling",
+      "album": "Weather Diaries • 2017"
+    },
     {
       "time": "2:03 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Brian Eno",
       "title": "King's Lead Hat",
       "album": "Before and After Science • 1977"
-    },
-    {
-      "time": "12:38 am",
-      "artist": "Olivia Rodrigo",
-      "title": "stupid song",
-      "album": ""
     }
   ]
 }
