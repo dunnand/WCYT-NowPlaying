@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T21:23:52",
+  "updatedAt": "2026-11-01T21:28:08",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I Don't Believe You",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "The Wailers",
+    "title": "Burnin' and Lootin'",
+    "album": "Burnin' • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:28 pm",
-      "artist": "The Wailers",
-      "title": "Burnin' and Lootin'"
-    },
     {
       "time": "9:32 pm",
       "artist": "Bob Dylan",
@@ -23,12 +18,23 @@
       "title": "I'm Gonna Love You Too"
     },
     {
-      "time": "9:38 pm",
+      "time": "9:37 pm",
       "artist": "Coldplay",
       "title": "In My Place"
+    },
+    {
+      "time": "9:42 pm",
+      "artist": "Bob Dylan",
+      "title": "I Shall Be Free"
     }
   ],
   "recent": [
+    {
+      "time": "9:28 pm",
+      "artist": "The Wailers",
+      "title": "Burnin' and Lootin'",
+      "album": "Burnin' • 1973"
+    },
     {
       "time": "9:23 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "blink-182",
       "title": "Adam's Song",
       "album": "Enema of the State • 1999"
-    },
-    {
-      "time": "7:56 pm",
-      "artist": "Slowdive",
-      "title": "Slomo",
-      "album": "Slowdive • 2017"
     }
   ]
 }
