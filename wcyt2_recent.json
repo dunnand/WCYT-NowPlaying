@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T00:25:05",
+  "updatedAt": "2026-11-02T00:29:27",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "The Ghost of Tom Joad",
-    "album": "The Ghost of Tom Joad • 1995",
+    "artist": "U2",
+    "title": "Like a Song...",
+    "album": "War • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:29 am",
-      "artist": "U2",
-      "title": "Like a Song..."
-    },
     {
       "time": "12:34 am",
       "artist": "Ultravox",
@@ -21,9 +16,20 @@
       "time": "12:37 am",
       "artist": "Olivia Rodrigo",
       "title": "stupid song"
+    },
+    {
+      "time": "12:41 am",
+      "artist": "Brian Eno",
+      "title": "King's Lead Hat"
     }
   ],
   "recent": [
+    {
+      "time": "12:29 am",
+      "artist": "U2",
+      "title": "Like a Song...",
+      "album": "War • 1983"
+    },
     {
       "time": "12:25 am",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "I Don't Believe You",
       "album": "Another Side of Bob Dylan • 1964"
-    },
-    {
-      "time": "9:19 pm",
-      "artist": "Coldplay",
-      "title": "Fix You",
-      "album": "X&Y • 2005"
     }
   ]
 }
