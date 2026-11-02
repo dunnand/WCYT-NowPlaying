@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-01T21:05:24",
+  "updatedAt": "2026-11-01T21:07:49",
   "now": {
-    "artist": "The Go-Go's",
-    "title": "We Got The Beat",
-    "album": "Beauty and the Beat • 1982",
+    "artist": "Weezer",
+    "title": "We Might as Well Be Strangers (feat. Wednesday)",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "Weezer",
-      "title": "We Might as Well Be Strangers (feat. Wednesday)"
-    },
     {
       "time": "9:11 pm",
       "artist": "Bob Marley and the Wailers",
@@ -21,9 +16,20 @@
       "time": "9:14 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "Zimbabwe"
+    },
+    {
+      "time": "9:19 pm",
+      "artist": "Coldplay",
+      "title": "Fix You"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "Weezer",
+      "title": "We Might as Well Be Strangers (feat. Wednesday)",
+      "album": ""
+    },
     {
       "time": "9:05 pm",
       "artist": "The Go-Go's",
@@ -167,12 +173,6 @@
       "artist": "Belle and Sebastian",
       "title": "This Is Just A Modern Rock Song",
       "album": "This Is Just A Modern Rock Song • 1998"
-    },
-    {
-      "time": "7:36 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "One Love / People Get Ready",
-      "album": "Exodus • 1977"
     }
   ]
 }
