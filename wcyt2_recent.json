@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T06:35:53",
+  "updatedAt": "2026-11-02T06:37:36",
   "now": {
-    "artist": "Minutemen",
-    "title": "West Germany",
-    "album": "Double Nickels on the Dime • 1984",
+    "artist": "Taylor Swift",
+    "title": "I Knew It, I Knew You",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:37 am",
-      "artist": "Taylor Swift",
-      "title": "I Knew It, I Knew You"
-    },
     {
       "time": "6:40 am",
       "artist": "De La Soul",
@@ -26,9 +21,20 @@
       "time": "6:46 am",
       "artist": "Depeche Mode",
       "title": "Precious"
+    },
+    {
+      "time": "6:50 am",
+      "artist": "Superchunk",
+      "title": "Learned to Surf"
     }
   ],
   "recent": [
+    {
+      "time": "6:37 am",
+      "artist": "Taylor Swift",
+      "title": "I Knew It, I Knew You",
+      "album": ""
+    },
     {
       "time": "6:35 am",
       "artist": "Minutemen",
@@ -172,12 +178,6 @@
       "artist": "De La Soul",
       "title": "A Roller Skating Jam Named \"Saturdays\"",
       "album": "De La Soul is Dead • 1991"
-    },
-    {
-      "time": "5:00 am",
-      "artist": "Bruce Springsteen",
-      "title": "The Promised Land",
-      "album": "Darkness on the Edge of Town • 1978"
     }
   ]
 }
