@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T12:06:24",
+  "updatedAt": "2026-11-02T12:09:46",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Breakout",
-    "album": "There Is Nothing Left to Lose • 1999",
+    "artist": "Grimes",
+    "title": "Vowels = Space and Time",
+    "album": "Visions • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:09 pm",
-      "artist": "Grimes",
-      "title": "Vowels = Space and Time"
-    },
     {
       "time": "12:14 pm",
       "artist": "Foo Fighters",
@@ -21,9 +16,20 @@
       "time": "12:18 pm",
       "artist": "Fugazi",
       "title": "Cashout"
+    },
+    {
+      "time": "12:23 pm",
+      "artist": "Solange",
+      "title": "Losing You"
     }
   ],
   "recent": [
+    {
+      "time": "12:09 pm",
+      "artist": "Grimes",
+      "title": "Vowels = Space and Time",
+      "album": "Visions • 2012"
+    },
     {
       "time": "12:06 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Phil Collins",
       "title": "Groovy Kind Of Love",
       "album": "Buster soundtrack • 1988"
-    },
-    {
-      "time": "10:33 am",
-      "artist": "Erykah Badu",
-      "title": "Next Lifetime",
-      "album": "Baduizm • 1997"
     }
   ]
 }
