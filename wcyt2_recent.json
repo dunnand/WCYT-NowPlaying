@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T04:09:55",
+  "updatedAt": "2026-11-02T04:17:12",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It's Alright, Ma",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Vampire Weekend",
+    "title": "This Life",
+    "album": "Father of the Bride • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:17 am",
-      "artist": "Vampire Weekend",
-      "title": "This Life"
-    },
     {
       "time": "4:21 am",
       "artist": "Daft Punk",
@@ -21,9 +16,20 @@
       "time": "4:26 am",
       "artist": "David Bowie",
       "title": "Little Wonder"
+    },
+    {
+      "time": "4:32 am",
+      "artist": "Stray Cats",
+      "title": "Rock This Town"
     }
   ],
   "recent": [
+    {
+      "time": "4:17 am",
+      "artist": "Vampire Weekend",
+      "title": "This Life",
+      "album": "Father of the Bride • 2019"
+    },
     {
       "time": "4:09 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "Backstreets",
       "album": "Born to Run • 1975"
-    },
-    {
-      "time": "2:24 am",
-      "artist": "Olivia Rodrigo",
-      "title": "Can’t Catch Me Now",
-      "album": ""
     }
   ]
 }
