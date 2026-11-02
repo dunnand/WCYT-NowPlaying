@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T04:57:52",
+  "updatedAt": "2026-11-02T05:00:45",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "John Wesley Harding",
-    "album": "John Wesley Harding • 1967",
+    "artist": "Bruce Springsteen",
+    "title": "The Promised Land",
+    "album": "Darkness on the Edge of Town • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "Bruce Springsteen",
-      "title": "The Promised Land"
-    },
     {
       "time": "5:05 am",
       "artist": "De La Soul",
@@ -26,9 +21,20 @@
       "time": "5:11 am",
       "artist": "Daft Punk",
       "title": "One More Time"
+    },
+    {
+      "time": "5:16 am",
+      "artist": "Bob Dylan",
+      "title": "Just Like a Woman"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "Bruce Springsteen",
+      "title": "The Promised Land",
+      "album": "Darkness on the Edge of Town • 1978"
+    },
     {
       "time": "4:57 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Cocteau Twins",
       "title": "Heaven or Las Vegas",
       "album": "Heaven or Las Vegas • 1990"
-    },
-    {
-      "time": "3:06 am",
-      "artist": "Grimes",
-      "title": "Genesis",
-      "album": "Visions • 2012"
     }
   ]
 }
