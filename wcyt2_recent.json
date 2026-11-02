@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T11:20:48",
+  "updatedAt": "2026-11-02T11:26:12",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Mr. Tambourine Man",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Blood Orange",
+    "title": "Champagne Coast",
+    "album": "Coastal Grooves • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:26 am",
-      "artist": "Blood Orange",
-      "title": "Champagne Coast"
-    },
     {
       "time": "11:31 am",
       "artist": "Faith No More",
@@ -21,9 +16,20 @@
       "time": "11:35 am",
       "artist": "Foo Fighters",
       "title": "Big Me"
+    },
+    {
+      "time": "11:37 am",
+      "artist": "Townes Van Zandt",
+      "title": "Snowin' on Raton"
     }
   ],
   "recent": [
+    {
+      "time": "11:26 am",
+      "artist": "Blood Orange",
+      "title": "Champagne Coast",
+      "album": "Coastal Grooves • 2011"
+    },
     {
       "time": "11:20 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Erykah Badu",
       "title": "Didn't Cha Know",
       "album": "Mama's Gun • 2000"
-    },
-    {
-      "time": "9:48 am",
-      "artist": "The Weeknd",
-      "title": "Blinding Lights",
-      "album": ""
     }
   ]
 }
