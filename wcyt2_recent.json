@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-02T03:42:37",
+  "updatedAt": "2026-11-02T03:46:32",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Eyes Open",
-    "album": "The Hunger Games • 2012",
+    "artist": "Bruce Springsteen",
+    "title": "Jungleland",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "3:46 am",
-      "artist": "Bruce Springsteen",
-      "title": "Jungleland"
-    },
-    {
-      "time": "3:56 am",
+      "time": "3:55 am",
       "artist": "Daft Punk",
       "title": "Around the World"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "Bruce Springsteen",
+      "title": "Jungleland",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "3:42 am",
       "artist": "Taylor Swift",
@@ -172,12 +173,6 @@
       "artist": "CAKE",
       "title": "Race Car Ya-Yas",
       "album": "Fashion Nugget • 1996"
-    },
-    {
-      "time": "2:06 am",
-      "artist": "Ride",
-      "title": "Home Is a Feeling",
-      "album": "Weather Diaries • 2017"
     }
   ]
 }
