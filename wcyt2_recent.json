@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T12:14:11",
+  "updatedAt": "2026-11-02T12:18:35",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Times Like These",
-    "album": "One by One • 2002",
+    "artist": "Fugazi",
+    "title": "Cashout",
+    "album": "The Argument • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 pm",
-      "artist": "Fugazi",
-      "title": "Cashout"
-    },
     {
       "time": "12:23 pm",
       "artist": "Solange",
@@ -26,9 +21,20 @@
       "time": "12:31 pm",
       "artist": "Foo Fighters",
       "title": "I'll Stick Around"
+    },
+    {
+      "time": "12:35 pm",
+      "artist": "Madonna",
+      "title": "Material Girl"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 pm",
+      "artist": "Fugazi",
+      "title": "Cashout",
+      "album": "The Argument • 2001"
+    },
     {
       "time": "12:14 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "The Weeknd",
       "title": "Can't Feel My Face",
       "album": ""
-    },
-    {
-      "time": "10:43 am",
-      "artist": "Whispers",
-      "title": "Rock Steady",
-      "album": "Just Gets Better with Time • 1987"
     }
   ]
 }
