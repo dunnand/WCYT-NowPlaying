@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T02:43:40",
+  "updatedAt": "2026-11-02T02:47:33",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It Take a Lot to Laugh, It Take a Train to Cry",
-    "album": "It Takes a Lot to Laugh, It Takes a Train to Cry • 1965",
+    "artist": "Bruce Springsteen",
+    "title": "Blinded by the Light",
+    "album": "Greetings from Asbury Park, N.J. • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:47 am",
-      "artist": "Bruce Springsteen",
-      "title": "Blinded by the Light"
-    },
     {
       "time": "2:52 am",
       "artist": "CAKE",
@@ -26,9 +21,20 @@
       "time": "2:57 am",
       "artist": "Daft Punk",
       "title": "Robot Rock"
+    },
+    {
+      "time": "3:02 am",
+      "artist": "Bob Dylan",
+      "title": "It's All Over Now, Baby Blue"
     }
   ],
   "recent": [
+    {
+      "time": "2:47 am",
+      "artist": "Bruce Springsteen",
+      "title": "Blinded by the Light",
+      "album": "Greetings from Asbury Park, N.J. • 1973"
+    },
     {
       "time": "2:43 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "CAKE",
       "title": "Friend Is a Four Letter Word",
       "album": "Fashion Nugget • 1996"
-    },
-    {
-      "time": "1:09 am",
-      "artist": "Thom Yorke",
-      "title": "Traffic",
-      "album": "ANIMA • 2019"
     }
   ]
 }
