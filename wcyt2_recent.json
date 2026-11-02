@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T03:02:28",
+  "updatedAt": "2026-11-02T03:02:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "It's All Over Now, Baby Blue",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:02 am",
-      "artist": "Bob Dylan",
-      "title": "It's All Over Now, Baby Blue"
-    },
     {
       "time": "3:06 am",
       "artist": "Grimes",
@@ -26,9 +21,20 @@
       "time": "3:15 am",
       "artist": "Daft Punk",
       "title": "Da Funk"
+    },
+    {
+      "time": "3:21 am",
+      "artist": "Prince",
+      "title": "Partyman"
     }
   ],
   "recent": [
+    {
+      "time": "3:02 am",
+      "artist": "Bob Dylan",
+      "title": "It's All Over Now, Baby Blue",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "2:57 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "the cure",
       "album": ""
-    },
-    {
-      "time": "1:24 am",
-      "artist": "Tesla",
-      "title": "Love Song",
-      "album": "The Great Radio Controversy • 1989"
     }
   ]
 }
