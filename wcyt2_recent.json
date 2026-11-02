@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T02:38:54",
+  "updatedAt": "2026-11-02T02:43:40",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Digital Love",
-    "album": "Discovery • 2001",
+    "artist": "Bob Dylan",
+    "title": "It Take a Lot to Laugh, It Take a Train to Cry",
+    "album": "It Takes a Lot to Laugh, It Takes a Train to Cry • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 am",
-      "artist": "Bob Dylan",
-      "title": "It Take a Lot to Laugh, It Take a Train to Cry"
-    },
     {
       "time": "2:47 am",
       "artist": "Bruce Springsteen",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "Bob Dylan",
+      "title": "It Take a Lot to Laugh, It Take a Train to Cry",
+      "album": "It Takes a Lot to Laugh, It Takes a Train to Cry • 1965"
+    },
     {
       "time": "2:38 am",
       "artist": "Daft Punk",
@@ -177,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Traffic",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "1:07 am",
-      "artist": "Bob Dylan",
-      "title": "In My Time of Dyin'",
-      "album": "Bob Dylan • 1962"
     }
   ]
 }
