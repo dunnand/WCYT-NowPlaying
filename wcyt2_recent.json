@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T20:20:31",
+  "updatedAt": "2026-11-02T20:23:16",
   "now": {
-    "artist": "The Halo Benders",
-    "title": "Your Asterisk",
-    "album": "The Rebels Not In • 1998",
+    "artist": "Ricky Nelson",
+    "title": "I'm Walkin'",
+    "album": "Ricky • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:23 pm",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'"
-    },
     {
       "time": "8:25 pm",
       "artist": "Justin Timberlake",
@@ -26,9 +21,20 @@
       "time": "8:32 pm",
       "artist": "Taylor Swift",
       "title": "Style"
+    },
+    {
+      "time": "8:36 pm",
+      "artist": "Hole",
+      "title": "Celebrity Skin"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'",
+      "album": "Ricky • 1957"
+    },
     {
       "time": "8:20 pm",
       "artist": "The Halo Benders",
@@ -172,12 +178,6 @@
       "artist": "Sturgill Simpson",
       "title": "Sing Along",
       "album": "Sing Along • 2019"
-    },
-    {
-      "time": "6:38 pm",
-      "artist": "Cream",
-      "title": "I'm So Glad",
-      "album": "Fresh Cream • 1966"
     }
   ]
 }
