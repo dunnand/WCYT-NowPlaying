@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T04:17:13",
+  "updatedAt": "2026-11-03T04:20:06",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Cruel Summer",
-    "album": "Lover • 2019",
+    "artist": "Nirvana",
+    "title": "All Apologies",
+    "album": "In Utero • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:20 am",
-      "artist": "Nirvana",
-      "title": "All Apologies"
-    },
     {
       "time": "4:23 am",
       "artist": "Nirvana",
@@ -21,9 +16,20 @@
       "time": "4:27 am",
       "artist": "Paul Simon",
       "title": "Late In The Evening"
+    },
+    {
+      "time": "4:31 am",
+      "artist": "Phil Collins",
+      "title": "Against All Odds (Take A Look At Me Now)"
     }
   ],
   "recent": [
+    {
+      "time": "4:20 am",
+      "artist": "Nirvana",
+      "title": "All Apologies",
+      "album": "In Utero • 1993"
+    },
     {
       "time": "4:17 am",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "Dolly Parton",
       "title": "Coat of Many Colors",
       "album": "Coat of Many Colors • 1971"
-    },
-    {
-      "time": "2:42 am",
-      "artist": "Muse",
-      "title": "Knights of Cydonia",
-      "album": "Black Holes and Revelations • 2006"
     }
   ]
 }
