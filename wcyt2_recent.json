@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T07:39:44",
+  "updatedAt": "2026-11-03T07:42:30",
   "now": {
-    "artist": "Superchunk",
-    "title": "Slack",
-    "album": "Superchunk •",
-    "category": "TUNES"
+    "artist": "OK GO",
+    "title": "All Together Now",
+    "album": "single • 2020",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "OK GO",
-      "title": "All Together Now"
-    },
     {
       "time": "7:46 am",
       "artist": "Elvis Costello",
@@ -26,9 +21,20 @@
       "time": "7:52 am",
       "artist": "Rihanna",
       "title": "Only Girl (In The World)"
+    },
+    {
+      "time": "7:55 am",
+      "artist": "Elvis Costello",
+      "title": "Less Than Zero"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "OK GO",
+      "title": "All Together Now",
+      "album": "single • 2020"
+    },
     {
       "time": "7:39 am",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "The Isley Brothers",
       "title": "Shout, Pts. 1 & 2",
       "album": "Shout! • 1959"
-    },
-    {
-      "time": "6:09 am",
-      "artist": "Nirvana",
-      "title": "Sliver",
-      "album": "Incesticide • 1992"
     }
   ]
 }
