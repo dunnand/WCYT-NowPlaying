@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T20:17:06",
+  "updatedAt": "2026-11-02T20:20:31",
   "now": {
-    "artist": "David Bowie",
-    "title": "Changes",
-    "album": "Hunky Dory • 1971",
+    "artist": "The Halo Benders",
+    "title": "Your Asterisk",
+    "album": "The Rebels Not In • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:20 pm",
-      "artist": "The Halo Benders",
-      "title": "Your Asterisk"
-    },
     {
       "time": "8:23 pm",
       "artist": "Ricky Nelson",
@@ -26,9 +21,20 @@
       "time": "8:30 pm",
       "artist": "Buffalo Springfield",
       "title": "Mr. Soul"
+    },
+    {
+      "time": "8:32 pm",
+      "artist": "Taylor Swift",
+      "title": "Style"
     }
   ],
   "recent": [
+    {
+      "time": "8:20 pm",
+      "artist": "The Halo Benders",
+      "title": "Your Asterisk",
+      "album": "The Rebels Not In • 1998"
+    },
     {
       "time": "8:17 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Cream",
       "title": "I'm So Glad",
       "album": "Fresh Cream • 1966"
-    },
-    {
-      "time": "6:34 pm",
-      "artist": "Loretta Lynn",
-      "title": "Portland, Oregon feat. Jack White",
-      "album": "Van Lear Rose • 2004"
     }
   ]
 }
