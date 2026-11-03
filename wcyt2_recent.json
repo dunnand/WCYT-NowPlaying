@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T14:57:56",
+  "updatedAt": "2026-11-03T14:58:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "Awaiting On You All",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:58 pm",
-      "artist": "George Harrison",
-      "title": "Awaiting On You All"
-    },
     {
       "time": "3:00 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "3:07 pm",
       "artist": "Pearl Jam",
       "title": "Immortality"
+    },
+    {
+      "time": "3:13 pm",
+      "artist": "Don Gibson",
+      "title": "Sea Of Heartbreak"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 pm",
+      "artist": "George Harrison",
+      "title": "Awaiting On You All",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "2:55 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "I Am Mine",
       "album": "Riot Act • 2002"
-    },
-    {
-      "time": "1:22 pm",
-      "artist": "Beach House",
-      "title": "Wild",
-      "album": "Bloom • 2012"
     }
   ]
 }
