@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T18:53:47",
+  "updatedAt": "2026-11-03T18:58:04",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Scarlet Begonias",
-    "album": "From the Mars Hotel • 1974",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Crosstown Traffic",
+    "album": "Electric Ladyland • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:57 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Crosstown Traffic"
-    },
     {
       "time": "7:00 pm",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "7:07 pm",
       "artist": "Grateful Dead",
       "title": "Truckin'"
+    },
+    {
+      "time": "7:12 pm",
+      "artist": "Pixies",
+      "title": "Hey"
     }
   ],
   "recent": [
+    {
+      "time": "6:58 pm",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Crosstown Traffic",
+      "album": "Electric Ladyland • 1968"
+    },
     {
       "time": "6:53 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Backdrifts. (Honeymoon Is Over.)",
       "album": "Hail to the Thief • 2003"
-    },
-    {
-      "time": "5:17 pm",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue",
-      "album": "single • 1956"
     }
   ]
 }
