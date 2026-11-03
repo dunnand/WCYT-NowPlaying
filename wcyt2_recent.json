@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T05:42:03",
+  "updatedAt": "2026-11-03T05:47:09",
   "now": {
     "artist": "Elton John",
-    "title": "Honky Cat",
-    "album": "Honky Chteau • 1972",
+    "title": "Tonight",
+    "album": "Blue Moves • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:47 am",
-      "artist": "Elton John",
-      "title": "Tonight"
-    },
     {
       "time": "5:55 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -26,9 +21,20 @@
       "time": "6:06 am",
       "artist": "Elvis Costello",
       "title": "Miracle Man"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "Nirvana",
+      "title": "Sliver"
     }
   ],
   "recent": [
+    {
+      "time": "5:47 am",
+      "artist": "Elton John",
+      "title": "Tonight",
+      "album": "Blue Moves • 1976"
+    },
     {
       "time": "5:42 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Uprising",
       "album": "The Resistance • 2009"
-    },
-    {
-      "time": "4:04 am",
-      "artist": "Sister Rosetta Tharpe",
-      "title": "Precious Memories",
-      "album": "single • 1944"
     }
   ]
 }
