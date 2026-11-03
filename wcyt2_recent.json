@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T04:43:02",
+  "updatedAt": "2026-11-03T04:46:47",
   "now": {
-    "artist": "Elton John",
-    "title": "Candle in the Wind",
-    "album": "Goodbye Yellow Brick Road • 1973",
+    "artist": "My Chemical Romance",
+    "title": "Helena",
+    "album": "Three Cheers for Sweet Revenge • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "My Chemical Romance",
-      "title": "Helena"
-    },
     {
       "time": "4:50 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "5:00 am",
       "artist": "Nirvana",
       "title": "Heart-Shaped Box"
+    },
+    {
+      "time": "5:06 am",
+      "artist": "Kingston Trio",
+      "title": "Tom Dooley"
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "My Chemical Romance",
+      "title": "Helena",
+      "album": "Three Cheers for Sweet Revenge • 2004"
+    },
     {
       "time": "4:43 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Donovan",
       "title": "Colours",
       "album": "Fairytale • 1965"
-    },
-    {
-      "time": "3:08 am",
-      "artist": "Muse",
-      "title": "Starlight",
-      "album": "Black Holes and Revelations • 2006"
     }
   ]
 }
