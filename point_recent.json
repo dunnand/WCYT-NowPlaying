@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T02:55:07",
+  "updatedAt": "2026-11-03T02:55:39",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "@",
+    "title": "Bird",
+    "album": "Autosmile • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:55 am",
-      "artist": "@",
-      "title": "Bird"
-    },
     {
       "time": "2:58 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "3:04 am",
       "artist": "Wishy",
       "title": "Covergirl"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "Beck",
+      "title": "Fix Me"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 am",
+      "artist": "@",
+      "title": "Bird",
+      "album": "Autosmile • 2026"
+    },
     {
       "time": "2:50 am",
       "artist": "King Gizzard & The Lizard Wizard",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Crystal",
       "album": "Get Ready • 2001"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "The Smiths",
-      "title": "The Headmaster Ritual",
-      "album": "Meat Is Murder • 1985"
     }
   ]
 }
