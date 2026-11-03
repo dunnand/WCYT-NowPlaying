@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T14:51:45",
+  "updatedAt": "2026-11-03T14:55:21",
   "now": {
-    "artist": "George Harrison",
-    "title": "All Things Must Pass",
-    "album": "All Things Must Pass • 1970",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Fire",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:55 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Fire"
-    },
     {
       "time": "2:58 pm",
       "artist": "George Harrison",
@@ -26,9 +21,20 @@
       "time": "3:03 pm",
       "artist": "George Harrison",
       "title": "Blow Away"
+    },
+    {
+      "time": "3:07 pm",
+      "artist": "Pearl Jam",
+      "title": "Immortality"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 pm",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Fire",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "2:51 pm",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Wild",
       "album": "Bloom • 2012"
-    },
-    {
-      "time": "1:18 pm",
-      "artist": "Pearl Jam",
-      "title": "Corduroy",
-      "album": "Vitalogy • 1994"
     }
   ]
 }
