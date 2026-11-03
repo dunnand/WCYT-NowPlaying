@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T11:51:05",
+  "updatedAt": "2026-11-03T11:55:30",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "St. Stephen",
-    "album": "Aoxomoxoa • 1969",
+    "artist": "Fleetwood Mac",
+    "title": "Tusk",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 am",
-      "artist": "Fleetwood Mac",
-      "title": "Tusk"
-    },
     {
       "time": "11:58 am",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "12:07 pm",
       "artist": "OutKast",
       "title": "Ms. Jackson"
+    },
+    {
+      "time": "12:11 pm",
+      "artist": "OutKast",
+      "title": "The Way You Move"
     }
   ],
   "recent": [
+    {
+      "time": "11:55 am",
+      "artist": "Fleetwood Mac",
+      "title": "Tusk",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "11:51 am",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Oasis",
       "title": "Slide Away",
       "album": "Definitely Maybe • 1994"
-    },
-    {
-      "time": "10:09 am",
-      "artist": "Grimes",
-      "title": "California",
-      "album": "Art Angels • 2015"
     }
   ]
 }
