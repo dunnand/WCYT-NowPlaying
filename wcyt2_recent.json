@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T05:41:41",
+  "updatedAt": "2026-11-03T05:42:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Honky Cat",
+    "album": "Honky Chteau • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:42 am",
-      "artist": "Elton John",
-      "title": "Honky Cat"
-    },
     {
       "time": "5:47 am",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "6:02 am",
       "artist": "Donovan",
       "title": "Season of the Witch"
+    },
+    {
+      "time": "6:06 am",
+      "artist": "Elvis Costello",
+      "title": "Miracle Man"
     }
   ],
   "recent": [
+    {
+      "time": "5:42 am",
+      "artist": "Elton John",
+      "title": "Honky Cat",
+      "album": "Honky Chteau • 1972"
+    },
     {
       "time": "5:38 am",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Sister Rosetta Tharpe",
       "title": "Precious Memories",
       "album": "single • 1944"
-    },
-    {
-      "time": "3:58 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Red Right Hand",
-      "album": "Let Love In • 1994"
     }
   ]
 }
