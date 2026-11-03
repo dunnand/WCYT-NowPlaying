@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T14:58:18",
+  "updatedAt": "2026-11-03T15:01:06",
   "now": {
-    "artist": "George Harrison",
-    "title": "Awaiting On You All",
-    "album": "All Things Must Pass • 1970",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Purple Haze",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:00 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Purple Haze"
-    },
     {
       "time": "3:03 pm",
       "artist": "George Harrison",
@@ -26,9 +21,20 @@
       "time": "3:13 pm",
       "artist": "Don Gibson",
       "title": "Sea Of Heartbreak"
+    },
+    {
+      "time": "3:15 pm",
+      "artist": "Public Enemy",
+      "title": "Harder Than You Think"
     }
   ],
   "recent": [
+    {
+      "time": "3:01 pm",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Purple Haze",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "2:58 pm",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Just Breathe",
       "album": "Backspacer • 2009"
-    },
-    {
-      "time": "1:28 pm",
-      "artist": "Pearl Jam",
-      "title": "I Am Mine",
-      "album": "Riot Act • 2002"
     }
   ]
 }
