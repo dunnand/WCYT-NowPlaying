@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T16:19:08",
+  "updatedAt": "2026-11-03T16:22:23",
   "now": {
     "artist": "Radiohead",
-    "title": "2 + 2 = 5 (The Lukewarm.)",
-    "album": "Hail to the Thief • 2003",
+    "title": "All I Need",
+    "album": "In Rainbows • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:22 pm",
-      "artist": "Radiohead",
-      "title": "All I Need"
-    },
     {
       "time": "4:26 pm",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "4:33 pm",
       "artist": "Pearl Jam",
       "title": "Nothingman"
+    },
+    {
+      "time": "4:38 pm",
+      "artist": "Siouxsie and the Banshees",
+      "title": "Happy House"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 pm",
+      "artist": "Radiohead",
+      "title": "All I Need",
+      "album": "In Rainbows • 2007"
+    },
     {
       "time": "4:19 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "All My Favorite Songs",
       "album": "OK Human • 2021"
-    },
-    {
-      "time": "2:43 pm",
-      "artist": "Billy Joel",
-      "title": "We Didn't Start The Fire",
-      "album": "Storm Front • 1989"
     }
   ]
 }
