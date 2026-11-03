@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T22:48:19",
+  "updatedAt": "2026-11-02T22:51:26",
   "now": {
-    "artist": "David Bowie",
-    "title": "Ziggy Stardust",
-    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
+    "artist": "Bob Dylan",
+    "title": "Visions of Johanna",
+    "album": "Blonde on Blonde • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:51 pm",
-      "artist": "Bob Dylan",
-      "title": "Visions of Johanna"
-    },
     {
       "time": "10:58 pm",
       "artist": "David Bowie",
@@ -23,12 +18,23 @@
       "title": "Don't Touch My Bikini"
     },
     {
-      "time": "11:07 pm",
+      "time": "11:06 pm",
       "artist": "Billie Holiday",
       "title": "I'll Be Seeing You"
+    },
+    {
+      "time": "11:10 pm",
+      "artist": "Johnny Cash",
+      "title": "Personal Jesus"
     }
   ],
   "recent": [
+    {
+      "time": "10:51 pm",
+      "artist": "Bob Dylan",
+      "title": "Visions of Johanna",
+      "album": "Blonde on Blonde • 1966"
+    },
     {
       "time": "10:48 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "Rock Your Body",
       "album": "Justified • 2002"
-    },
-    {
-      "time": "9:01 pm",
-      "artist": "David Bowie",
-      "title": "Golden Years",
-      "album": "Station to Station • 1976"
     }
   ]
 }
