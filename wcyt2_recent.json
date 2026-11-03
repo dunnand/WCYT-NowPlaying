@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T16:10:08",
+  "updatedAt": "2026-11-03T16:15:11",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Jeremy",
-    "album": "Ten • 1991",
+    "artist": "B.O.B",
+    "title": "NothinOnYou",
+    "album": "May 25th • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:15 pm",
-      "artist": "B.O.B",
-      "title": "NothinOnYou"
-    },
     {
       "time": "4:19 pm",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "4:22 pm",
       "artist": "Radiohead",
       "title": "All I Need"
+    },
+    {
+      "time": "4:26 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Four Out Of Five"
     }
   ],
   "recent": [
+    {
+      "time": "4:15 pm",
+      "artist": "B.O.B",
+      "title": "NothinOnYou",
+      "album": "May 25th • 2010"
+    },
     {
       "time": "4:10 pm",
       "artist": "Pearl Jam",
@@ -167,12 +173,6 @@
       "artist": "JAY-Z",
       "title": "Paris feat. Kanye West",
       "album": "Watch the Throne • 2011"
-    },
-    {
-      "time": "2:36 pm",
-      "artist": "Pearl Jam",
-      "title": "Hail, Hail",
-      "album": "No Code • 1996"
     }
   ]
 }
