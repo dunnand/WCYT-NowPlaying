@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T17:01:41",
+  "updatedAt": "2026-11-03T17:01:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Casey Jones",
+    "album": "Workingman's Dead • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:01 pm",
-      "artist": "Grateful Dead",
-      "title": "Casey Jones"
-    },
     {
       "time": "5:06 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "5:14 pm",
       "artist": "Pearl Jam",
       "title": "Once"
+    },
+    {
+      "time": "5:17 pm",
+      "artist": "Ray Charles",
+      "title": "Lonely Avenue"
     }
   ],
   "recent": [
+    {
+      "time": "5:01 pm",
+      "artist": "Grateful Dead",
+      "title": "Casey Jones",
+      "album": "Workingman's Dead • 1970"
+    },
     {
       "time": "4:57 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Voodoo Child (Slight Return)",
       "album": "Electric Ladyland • 1968"
-    },
-    {
-      "time": "3:15 pm",
-      "artist": "Public Enemy",
-      "title": "Harder Than You Think",
-      "album": "How You Sell Soul to a Soulless People Who Sold Their Soul? (200 • 2007"
     }
   ]
 }
