@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-03T15:59:26",
+  "updatedAt": "2026-11-03T16:03:11",
   "now": {
-    "artist": "Radiohead",
-    "title": "15 Step",
-    "album": "In Rainbows • 2007",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "1983...(A Merman I Should Turn to Be)",
+    "album": "Electric Ladyland • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "1983...(A Merman I Should Turn to Be)"
-    },
     {
       "time": "4:07 pm",
       "artist": "The Germs",
       "title": "Lexicon Devil"
     },
     {
-      "time": "4:10 pm",
+      "time": "4:09 pm",
       "artist": "Pearl Jam",
       "title": "Jeremy"
     },
@@ -26,9 +21,20 @@
       "time": "4:15 pm",
       "artist": "B.O.B",
       "title": "NothinOnYou"
+    },
+    {
+      "time": "4:19 pm",
+      "artist": "Radiohead",
+      "title": "2 + 2 = 5 (The Lukewarm.)"
     }
   ],
   "recent": [
+    {
+      "time": "4:03 pm",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "1983...(A Merman I Should Turn to Be)",
+      "album": "Electric Ladyland • 1968"
+    },
     {
       "time": "3:59 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "Lazy Song",
       "album": "Doo-Wops & Hooligans • 2010"
-    },
-    {
-      "time": "2:24 pm",
-      "artist": "Prince",
-      "title": "Musicology",
-      "album": "Musicology • 2004"
     }
   ]
 }
