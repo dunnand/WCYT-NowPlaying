@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T09:08:42",
+  "updatedAt": "2026-11-03T09:12:38",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "drivers license",
-    "album": "SOUR • 2021",
+    "artist": "Etta James",
+    "title": "At Last",
+    "album": "At Last! • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 am",
-      "artist": "Etta James",
-      "title": "At Last"
-    },
     {
       "time": "9:15 am",
       "artist": "St. Vincent",
@@ -21,9 +16,20 @@
       "time": "9:18 am",
       "artist": "Oasis",
       "title": "Live Forever"
+    },
+    {
+      "time": "9:22 am",
+      "artist": "Oasis",
+      "title": "Morning Glory"
     }
   ],
   "recent": [
+    {
+      "time": "9:12 am",
+      "artist": "Etta James",
+      "title": "At Last",
+      "album": "At Last! • 1960"
+    },
     {
       "time": "9:08 am",
       "artist": "Olivia Rodrigo",
@@ -167,12 +173,6 @@
       "artist": "Superchunk",
       "title": "Slack",
       "album": "Superchunk •"
-    },
-    {
-      "time": "7:36 am",
-      "artist": "Fleetwood Mac",
-      "title": "Little Lies",
-      "album": "Tango in the Night • 1987"
     }
   ]
 }
