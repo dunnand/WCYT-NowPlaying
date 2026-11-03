@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T15:20:10",
+  "updatedAt": "2026-11-03T15:25:08",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Voodoo Child (Slight Return)",
-    "album": "Electric Ladyland • 1968",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Do I Wanna Know",
+    "album": "AM • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:25 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Do I Wanna Know"
-    },
     {
       "time": "3:29 pm",
       "artist": "Pearl Jam",
@@ -21,9 +16,20 @@
       "time": "3:33 pm",
       "artist": "Pearl Jam",
       "title": "Indifference"
+    },
+    {
+      "time": "3:38 pm",
+      "artist": "Siouxsie and the Banshees",
+      "title": "Into the Light"
     }
   ],
   "recent": [
+    {
+      "time": "3:25 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Do I Wanna Know",
+      "album": "AM • 2013"
+    },
     {
       "time": "3:20 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -167,12 +173,6 @@
       "artist": "Grimes",
       "title": "4ÆM",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "1:49 pm",
-      "artist": "Siouxsie and the Banshees",
-      "title": "Halloween",
-      "album": "Juju • 1981"
     }
   ]
 }
