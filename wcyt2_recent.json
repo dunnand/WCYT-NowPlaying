@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T15:01:06",
+  "updatedAt": "2026-11-03T15:03:39",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Purple Haze",
-    "album": "Are You Experienced • 1967",
+    "artist": "George Harrison",
+    "title": "Blow Away",
+    "album": "George Harrison • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 pm",
-      "artist": "George Harrison",
-      "title": "Blow Away"
-    },
     {
       "time": "3:07 pm",
       "artist": "Pearl Jam",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:03 pm",
+      "artist": "George Harrison",
+      "title": "Blow Away",
+      "album": "George Harrison • 1979"
+    },
     {
       "time": "3:01 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +173,6 @@
       "artist": "Angel Olsen",
       "title": "Shut Up Kiss Me",
       "album": "My Woman • 2016"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "Pearl Jam",
-      "title": "Just Breathe",
-      "album": "Backspacer • 2009"
     }
   ]
 }
