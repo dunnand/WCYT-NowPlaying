@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T20:10:03",
+  "updatedAt": "2026-11-02T20:10:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Beauty and the Beast",
+    "album": "Heroes • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:10 pm",
-      "artist": "David Bowie",
-      "title": "Beauty and the Beast"
-    },
     {
       "time": "8:13 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "8:20 pm",
       "artist": "The Halo Benders",
       "title": "Your Asterisk"
+    },
+    {
+      "time": "8:23 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 pm",
+      "artist": "David Bowie",
+      "title": "Beauty and the Beast",
+      "album": "Heroes • 1977"
+    },
     {
       "time": "8:06 pm",
       "artist": "Kenta Nagata, Satomi Terui",
@@ -172,12 +178,6 @@
       "artist": "Lucinda Williams",
       "title": "Right in Time",
       "album": "Car Wheels on a Gravel Road • 1998"
-    },
-    {
-      "time": "6:23 pm",
-      "artist": "David Bowie",
-      "title": "The Man Who Sold the World",
-      "album": "The Man Who Sold the World • 1970"
     }
   ]
 }
