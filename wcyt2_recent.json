@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T14:51:22",
+  "updatedAt": "2026-11-03T14:51:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "All Things Must Pass",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:51 pm",
-      "artist": "George Harrison",
-      "title": "All Things Must Pass"
-    },
     {
       "time": "2:55 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "3:01 pm",
       "artist": "The Jimi Hendrix Experience",
       "title": "Purple Haze"
+    },
+    {
+      "time": "3:03 pm",
+      "artist": "George Harrison",
+      "title": "Blow Away"
     }
   ],
   "recent": [
+    {
+      "time": "2:51 pm",
+      "artist": "George Harrison",
+      "title": "All Things Must Pass",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "2:48 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Pearl Jam",
       "title": "Corduroy",
       "album": "Vitalogy • 1994"
-    },
-    {
-      "time": "1:08 pm",
-      "artist": "Funkadelic",
-      "title": "Maggot Brain",
-      "album": "Maggot Brain • 1971"
     }
   ]
 }
