@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-03T17:01:52",
+  "updatedAt": "2026-11-03T17:06:20",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Casey Jones",
-    "album": "Workingman's Dead • 1970",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Are You Experienced?",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:06 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Are You Experienced?"
-    },
     {
       "time": "5:10 pm",
       "artist": "Grateful Dead",
       "title": "Fire on the Mountain"
     },
     {
-      "time": "5:14 pm",
+      "time": "5:13 pm",
       "artist": "Pearl Jam",
       "title": "Once"
     },
@@ -26,9 +21,20 @@
       "time": "5:17 pm",
       "artist": "Ray Charles",
       "title": "Lonely Avenue"
+    },
+    {
+      "time": "5:20 pm",
+      "artist": "Radiohead",
+      "title": "Backdrifts. (Honeymoon Is Over.)"
     }
   ],
   "recent": [
+    {
+      "time": "5:06 pm",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Are You Experienced?",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "5:01 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Do I Wanna Know",
       "album": "AM • 2013"
-    },
-    {
-      "time": "3:20 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Voodoo Child (Slight Return)",
-      "album": "Electric Ladyland • 1968"
     }
   ]
 }
