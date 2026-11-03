@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T08:35:39",
+  "updatedAt": "2026-11-03T08:35:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Genesis",
+    "title": "That's All",
+    "album": "Genesis • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:35 am",
-      "artist": "Genesis",
-      "title": "That's All"
-    },
     {
       "time": "8:39 am",
       "artist": "Hall & Oates",
@@ -26,9 +21,20 @@
       "time": "8:47 am",
       "artist": "Elvis Costello",
       "title": "Pump It Up"
+    },
+    {
+      "time": "8:50 am",
+      "artist": "Elvis Costello",
+      "title": "Radio, Radio"
     }
   ],
   "recent": [
+    {
+      "time": "8:35 am",
+      "artist": "Genesis",
+      "title": "That's All",
+      "album": "Genesis • 1984"
+    },
     {
       "time": "8:31 am",
       "artist": "Nirvana.",
@@ -172,12 +178,6 @@
       "artist": "Donovan",
       "title": "There is a Mountain",
       "album": "There Is a Mountain • 1967"
-    },
-    {
-      "time": "6:58 am",
-      "artist": "Nirvana",
-      "title": "You Know You're Right",
-      "album": "Nirvana • 2002"
     }
   ]
 }
