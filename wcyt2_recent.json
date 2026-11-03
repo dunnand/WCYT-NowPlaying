@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T17:06:20",
+  "updatedAt": "2026-11-03T17:10:17",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Are You Experienced?",
-    "album": "Are You Experienced • 1967",
+    "artist": "Grateful Dead",
+    "title": "Fire on the Mountain",
+    "album": "Shakedown Street • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:10 pm",
-      "artist": "Grateful Dead",
-      "title": "Fire on the Mountain"
-    },
     {
       "time": "5:13 pm",
       "artist": "Pearl Jam",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:10 pm",
+      "artist": "Grateful Dead",
+      "title": "Fire on the Mountain",
+      "album": "Shakedown Street • 1978"
+    },
     {
       "time": "5:06 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "In My Tree",
       "album": "No Code • 1996"
-    },
-    {
-      "time": "3:25 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Do I Wanna Know",
-      "album": "AM • 2013"
     }
   ]
 }
