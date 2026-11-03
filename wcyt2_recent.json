@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T11:40:45",
+  "updatedAt": "2026-11-03T11:40:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Not That Funny",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 am",
-      "artist": "Fleetwood Mac",
-      "title": "Not That Funny"
-    },
     {
       "time": "11:43 am",
       "artist": "Four Tops",
@@ -26,9 +21,20 @@
       "time": "11:51 am",
       "artist": "Grateful Dead",
       "title": "St. Stephen"
+    },
+    {
+      "time": "11:55 am",
+      "artist": "Fleetwood Mac",
+      "title": "Tusk"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 am",
+      "artist": "Fleetwood Mac",
+      "title": "Not That Funny",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "11:38 am",
       "artist": "Malcolm Todd",
@@ -172,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "Don't Take Your Guns To Town",
       "album": "The Fabulous Johnny Cash •"
-    },
-    {
-      "time": "9:55 am",
-      "artist": "Oasis",
-      "title": "Rock 'n' Roll Star",
-      "album": "Definitely Maybe • 1994"
     }
   ]
 }
