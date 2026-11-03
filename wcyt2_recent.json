@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T07:36:18",
+  "updatedAt": "2026-11-03T07:39:44",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Little Lies",
-    "album": "Tango in the Night • 1987",
-    "category": "AUDIO"
+    "artist": "Superchunk",
+    "title": "Slack",
+    "album": "Superchunk •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:39 am",
-      "artist": "Superchunk",
-      "title": "Slack"
-    },
     {
       "time": "7:42 am",
       "artist": "OK GO",
@@ -26,9 +21,20 @@
       "time": "7:49 am",
       "artist": "OK Go",
       "title": "Here It Goes Again"
+    },
+    {
+      "time": "7:52 am",
+      "artist": "Rihanna",
+      "title": "Only Girl (In The World)"
     }
   ],
   "recent": [
+    {
+      "time": "7:39 am",
+      "artist": "Superchunk",
+      "title": "Slack",
+      "album": "Superchunk •"
+    },
     {
       "time": "7:36 am",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Nirvana",
       "title": "Sliver",
       "album": "Incesticide • 1992"
-    },
-    {
-      "time": "6:06 am",
-      "artist": "Elvis Costello",
-      "title": "Miracle Man",
-      "album": "My Aim Is True • 1977"
     }
   ]
 }
