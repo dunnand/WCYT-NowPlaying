@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-02T20:10:15",
+  "updatedAt": "2026-11-02T20:13:50",
   "now": {
-    "artist": "David Bowie",
-    "title": "Beauty and the Beast",
-    "album": "Heroes • 1977",
+    "artist": "Bob Dylan",
+    "title": "The Times They Are A-Changin'",
+    "album": "The Times They Are A-Changin' • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "8:13 pm",
-      "artist": "Bob Dylan",
-      "title": "The Times They Are A-Changin'"
-    },
-    {
-      "time": "8:17 pm",
+      "time": "8:16 pm",
       "artist": "David Bowie",
       "title": "Changes"
     },
@@ -26,9 +21,20 @@
       "time": "8:23 pm",
       "artist": "Ricky Nelson",
       "title": "I'm Walkin'"
+    },
+    {
+      "time": "8:25 pm",
+      "artist": "Justin Timberlake",
+      "title": "Cry Me a River"
     }
   ],
   "recent": [
+    {
+      "time": "8:13 pm",
+      "artist": "Bob Dylan",
+      "title": "The Times They Are A-Changin'",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "8:10 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Connie Francis",
       "title": "My Happiness",
       "album": "single • 1958"
-    },
-    {
-      "time": "6:27 pm",
-      "artist": "Lucinda Williams",
-      "title": "Right in Time",
-      "album": "Car Wheels on a Gravel Road • 1998"
     }
   ]
 }
