@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T22:51:26",
+  "updatedAt": "2026-11-02T22:58:43",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Visions of Johanna",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "David Bowie",
+    "title": "Drive-In Saturday",
+    "album": "Aladdin Sane • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:58 pm",
-      "artist": "David Bowie",
-      "title": "Drive-In Saturday"
-    },
     {
       "time": "11:03 pm",
       "artist": "The Halo Benders",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:58 pm",
+      "artist": "David Bowie",
+      "title": "Drive-In Saturday",
+      "album": "Aladdin Sane • 1973"
+    },
     {
       "time": "10:51 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Rihanna",
       "title": "What's My Name",
       "album": "Loud • 2010"
-    },
-    {
-      "time": "9:05 pm",
-      "artist": "Justin Timberlake",
-      "title": "Rock Your Body",
-      "album": "Justified • 2002"
     }
   ]
 }
