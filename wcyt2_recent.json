@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T09:12:38",
+  "updatedAt": "2026-11-03T09:15:34",
   "now": {
-    "artist": "Etta James",
-    "title": "At Last",
-    "album": "At Last! • 1960",
-    "category": "AUDIO"
+    "artist": "St. Vincent",
+    "title": "New York",
+    "album": "Masseduction • 2018",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:15 am",
-      "artist": "St. Vincent",
-      "title": "New York"
-    },
     {
       "time": "9:18 am",
       "artist": "Oasis",
@@ -21,9 +16,20 @@
       "time": "9:22 am",
       "artist": "Oasis",
       "title": "Morning Glory"
+    },
+    {
+      "time": "9:28 am",
+      "artist": "Boogie Down Productions",
+      "title": "The Bridge Is Over"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 am",
+      "artist": "St. Vincent",
+      "title": "New York",
+      "album": "Masseduction • 2018"
+    },
     {
       "time": "9:12 am",
       "artist": "Etta James",
@@ -167,12 +173,6 @@
       "artist": "OK GO",
       "title": "All Together Now",
       "album": "single • 2020"
-    },
-    {
-      "time": "7:39 am",
-      "artist": "Superchunk",
-      "title": "Slack",
-      "album": "Superchunk •"
     }
   ]
 }
