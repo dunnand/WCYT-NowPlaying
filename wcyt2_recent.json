@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T04:24:02",
+  "updatedAt": "2026-11-03T04:27:46",
   "now": {
-    "artist": "Nirvana",
-    "title": "Drain You",
-    "album": "Nevermind • 1991",
+    "artist": "Paul Simon",
+    "title": "Late In The Evening",
+    "album": "One-Trick Pony • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:27 am",
-      "artist": "Paul Simon",
-      "title": "Late In The Evening"
-    },
     {
       "time": "4:31 am",
       "artist": "Phil Collins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:27 am",
+      "artist": "Paul Simon",
+      "title": "Late In The Evening",
+      "album": "One-Trick Pony • 1980"
+    },
     {
       "time": "4:24 am",
       "artist": "Nirvana",
@@ -172,12 +173,6 @@
       "artist": "Rihanna",
       "title": "You Da One",
       "album": "Talk That Talk • 2011"
-    },
-    {
-      "time": "2:51 am",
-      "artist": "Muse",
-      "title": "Plug In Baby",
-      "album": "Origin of Symmetry • 2001"
     }
   ]
 }
