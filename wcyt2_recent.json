@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T16:26:23",
+  "updatedAt": "2026-11-03T16:30:41",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Four Out Of Five",
-    "album": "Tranquility Base Hotel & Casino •",
-    "category": "TUNES"
+    "artist": "Pearl Jam",
+    "title": "Last Kiss",
+    "album": "single • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:30 pm",
-      "artist": "Pearl Jam",
-      "title": "Last Kiss"
-    },
     {
       "time": "4:33 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "4:42 pm",
       "artist": "The Smiths",
       "title": "Barbarism Begins at Home"
+    },
+    {
+      "time": "4:49 pm",
+      "artist": "The Neighbourhood",
+      "title": "Devil's Advocate"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 pm",
+      "artist": "Pearl Jam",
+      "title": "Last Kiss",
+      "album": "single • 1999"
+    },
     {
       "time": "4:26 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Fire",
       "album": "Are You Experienced • 1967"
-    },
-    {
-      "time": "2:51 pm",
-      "artist": "George Harrison",
-      "title": "All Things Must Pass",
-      "album": "All Things Must Pass • 1970"
     }
   ]
 }
