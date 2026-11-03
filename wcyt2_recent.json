@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T17:25:44",
+  "updatedAt": "2026-11-03T17:29:46",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Bold as Love",
-    "album": "Axis: Bold as Love • 1967",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Zebra",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "Beach House",
-      "title": "Zebra"
-    },
     {
       "time": "5:34 pm",
       "artist": "Pearl Jam",
@@ -21,9 +16,20 @@
       "time": "5:40 pm",
       "artist": "Pearl Jam",
       "title": "Rearviewmirror"
+    },
+    {
+      "time": "5:45 pm",
+      "artist": "The Smiths",
+      "title": "Reel Around the Fountain"
     }
   ],
   "recent": [
+    {
+      "time": "5:29 pm",
+      "artist": "Beach House",
+      "title": "Zebra",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "5:25 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -167,12 +173,6 @@
       "artist": "George Harrison",
       "title": "Isn't It a Pity",
       "album": "All Things Must Pass • 1970"
-    },
-    {
-      "time": "3:45 pm",
-      "artist": "Turnstile",
-      "title": "UNDERWATER BOI",
-      "album": "GLOW ON • 2021"
     }
   ]
 }
