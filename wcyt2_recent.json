@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T17:44:50",
+  "updatedAt": "2026-11-03T17:45:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Smiths",
+    "title": "Reel Around the Fountain",
+    "album": "The Smiths • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "The Smiths",
-      "title": "Reel Around the Fountain"
-    },
     {
       "time": "5:50 pm",
       "artist": "The Smiths",
@@ -26,9 +21,20 @@
       "time": "5:57 pm",
       "artist": "Grateful Dead",
       "title": "Franklin's Tower"
+    },
+    {
+      "time": "6:01 pm",
+      "artist": "Grateful Dead",
+      "title": "Friend of the Devil"
     }
   ],
   "recent": [
+    {
+      "time": "5:45 pm",
+      "artist": "The Smiths",
+      "title": "Reel Around the Fountain",
+      "album": "The Smiths • 1984"
+    },
     {
       "time": "5:40 pm",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "1983...(A Merman I Should Turn to Be)",
       "album": "Electric Ladyland • 1968"
-    },
-    {
-      "time": "3:59 pm",
-      "artist": "Radiohead",
-      "title": "15 Step",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
