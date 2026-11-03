@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T12:45:19",
+  "updatedAt": "2026-11-03T12:45:34",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "@",
+    "title": "Bird",
+    "album": "Autosmile • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 pm",
-      "artist": "@",
-      "title": "Bird"
-    },
     {
       "time": "12:48 pm",
       "artist": "Low",
@@ -26,9 +21,20 @@
       "time": "12:58 pm",
       "artist": "Fake Names",
       "title": "If You Could See Me Today"
+    },
+    {
+      "time": "1:01 pm",
+      "artist": "Japanese Breakfast",
+      "title": "12 Steps"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 pm",
+      "artist": "@",
+      "title": "Bird",
+      "album": "Autosmile • 2026"
+    },
     {
       "time": "12:42 pm",
       "artist": "The Undertones",
@@ -172,12 +178,6 @@
       "artist": "Fleet Foxes",
       "title": "Ragged Wood",
       "album": "Fleet Foxes • 2008"
-    },
-    {
-      "time": "11:11 am",
-      "artist": "Chezile",
-      "title": "Beanie",
-      "album": "Delay • 2025"
     }
   ]
 }
