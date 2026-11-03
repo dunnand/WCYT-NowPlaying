@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T06:58:29",
+  "updatedAt": "2026-11-03T06:58:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Nirvana",
+    "title": "You Know You're Right",
+    "album": "Nirvana • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:58 am",
-      "artist": "Nirvana",
-      "title": "You Know You're Right"
-    },
     {
       "time": "7:02 am",
       "artist": "Donovan",
@@ -31,9 +26,20 @@
       "time": "7:11 am",
       "artist": "Patsy Cline",
       "title": "Walkin' After Midnight"
+    },
+    {
+      "time": "7:13 am",
+      "artist": "Oasis",
+      "title": "Stop Crying Your Heart Out"
     }
   ],
   "recent": [
+    {
+      "time": "6:58 am",
+      "artist": "Nirvana",
+      "title": "You Know You're Right",
+      "album": "Nirvana • 2002"
+    },
     {
       "time": "6:54 am",
       "artist": "Elvis Costello",
@@ -177,12 +183,6 @@
       "artist": "Donovan",
       "title": "Mellow Yellow",
       "album": "Mellow Yellow • 1967"
-    },
-    {
-      "time": "5:09 am",
-      "artist": "My Chemical Romance",
-      "title": "Welcome to the Black Parade",
-      "album": "The Black Parade • 2006"
     }
   ]
 }
