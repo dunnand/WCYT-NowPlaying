@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T16:26:01",
+  "updatedAt": "2026-11-03T16:26:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Four Out Of Five",
+    "album": "Tranquility Base Hotel & Casino •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:26 pm",
-      "artist": "Arctic Monkeys",
-      "title": "Four Out Of Five"
-    },
     {
       "time": "4:30 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "4:38 pm",
       "artist": "Siouxsie and the Banshees",
       "title": "Happy House"
+    },
+    {
+      "time": "4:42 pm",
+      "artist": "The Smiths",
+      "title": "Barbarism Begins at Home"
     }
   ],
   "recent": [
+    {
+      "time": "4:26 pm",
+      "artist": "Arctic Monkeys",
+      "title": "Four Out Of Five",
+      "album": "Tranquility Base Hotel & Casino •"
+    },
     {
       "time": "4:22 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "George Harrison",
       "title": "All Things Must Pass",
       "album": "All Things Must Pass • 1970"
-    },
-    {
-      "time": "2:48 pm",
-      "artist": "Weezer",
-      "title": "All My Favorite Songs",
-      "album": "OK Human • 2021"
     }
   ]
 }
