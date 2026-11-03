@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T16:52:42",
+  "updatedAt": "2026-11-03T16:57:47",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Box Of Rain",
-    "album": "American Beauty • 1970",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "All Along the Watchtower",
+    "album": "Electric Ladyland • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "All Along the Watchtower"
-    },
     {
       "time": "5:01 pm",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "5:10 pm",
       "artist": "Grateful Dead",
       "title": "Fire on the Mountain"
+    },
+    {
+      "time": "5:14 pm",
+      "artist": "Pearl Jam",
+      "title": "Once"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 pm",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "All Along the Watchtower",
+      "album": "Electric Ladyland • 1968"
+    },
     {
       "time": "4:52 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Public Enemy",
       "title": "Harder Than You Think",
       "album": "How You Sell Soul to a Soulless People Who Sold Their Soul? (200 • 2007"
-    },
-    {
-      "time": "3:13 pm",
-      "artist": "Don Gibson",
-      "title": "Sea Of Heartbreak",
-      "album": "Sea Of Heartbreak • 1954"
     }
   ]
 }
