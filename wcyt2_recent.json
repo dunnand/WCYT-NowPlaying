@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-02T20:30:03",
+  "updatedAt": "2026-11-02T20:30:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buffalo Springfield",
+    "title": "Mr. Soul",
+    "album": "Buffalo Springfield Again • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:30 pm",
-      "artist": "Buffalo Springfield",
-      "title": "Mr. Soul"
-    },
     {
       "time": "8:32 pm",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "8:39 pm",
       "artist": "Hole",
       "title": "Doll Parts"
+    },
+    {
+      "time": "8:43 pm",
+      "artist": "The Korgis",
+      "title": "Everybody's Got To Learn Sometime"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 pm",
+      "artist": "Buffalo Springfield",
+      "title": "Mr. Soul",
+      "album": "Buffalo Springfield Again • 1967"
+    },
     {
       "time": "8:25 pm",
       "artist": "Justin Timberlake",
@@ -172,12 +178,6 @@
       "artist": "Massive Attack",
       "title": "Unfinished Sympathy",
       "album": "Blue Lines • 1991"
-    },
-    {
-      "time": "6:45 pm",
-      "artist": "Massive Attack",
-      "title": "Teardrop",
-      "album": "Mezzanine • 1998"
     }
   ]
 }
