@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T19:03:29",
+  "updatedAt": "2026-11-03T19:06:44",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Hey Joe",
-    "album": "Are You Experienced • 1967",
+    "artist": "Grateful Dead",
+    "title": "Truckin'",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:06 pm",
-      "artist": "Grateful Dead",
-      "title": "Truckin'"
-    },
     {
       "time": "7:11 pm",
       "artist": "Pixies",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:06 pm",
+      "artist": "Grateful Dead",
+      "title": "Truckin'",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "7:03 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Present Tense",
       "album": "No Code • 1996"
-    },
-    {
-      "time": "5:29 pm",
-      "artist": "Beach House",
-      "title": "Zebra",
-      "album": "Teen Dream • 2010"
     }
   ]
 }
