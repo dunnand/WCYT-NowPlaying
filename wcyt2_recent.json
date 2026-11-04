@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T05:20:09",
+  "updatedAt": "2026-11-04T05:20:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Planet Telex",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:20 am",
-      "artist": "Radiohead",
-      "title": "Planet Telex"
-    },
     {
       "time": "5:24 am",
       "artist": "The Cure",
@@ -26,9 +21,20 @@
       "time": "5:31 am",
       "artist": "Nourished By Time",
       "title": "Tossed Away"
+    },
+    {
+      "time": "5:36 am",
+      "artist": "Radiohead",
+      "title": "Pyramid Song"
     }
   ],
   "recent": [
+    {
+      "time": "5:20 am",
+      "artist": "Radiohead",
+      "title": "Planet Telex",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "5:13 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Nude",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "3:39 am",
-      "artist": "John Prine",
-      "title": "Hello in There",
-      "album": "John Prine • 1971"
     }
   ]
 }
