@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T08:55:09",
+  "updatedAt": "2026-11-04T08:55:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Woodstock",
+    "album": "Ladies of the Canyon • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 am",
-      "artist": "Joni Mitchell",
-      "title": "Woodstock"
-    },
     {
       "time": "9:00 am",
       "artist": "KISS",
@@ -26,9 +21,20 @@
       "time": "9:08 am",
       "artist": "Marvin Gaye",
       "title": "Ain't Nothin' Like the Real Thing"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "KISS",
+      "title": "Detroit Rock City"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 am",
+      "artist": "Joni Mitchell",
+      "title": "Woodstock",
+      "album": "Ladies of the Canyon • 1970"
+    },
     {
       "time": "8:51 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Johnny B. Goode",
       "album": "Berry Is on Top • 1959"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "Radiohead",
-      "title": "The Bends",
-      "album": "The Bends • 1995"
     }
   ]
 }
