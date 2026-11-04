@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T02:19:42",
+  "updatedAt": "2026-11-04T02:19:54",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "My Morning Jacket",
+    "title": "The Way That He Sings",
+    "album": "At Dawn • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:19 am",
-      "artist": "My Morning Jacket",
-      "title": "The Way That He Sings"
-    },
     {
       "time": "2:25 am",
       "artist": "Mitski",
@@ -26,9 +21,20 @@
       "time": "2:31 am",
       "artist": "Dow Jones & The Industrials",
       "title": "Ladies with Appliances"
+    },
+    {
+      "time": "2:33 am",
+      "artist": "Bon Iver",
+      "title": "iMi"
     }
   ],
   "recent": [
+    {
+      "time": "2:19 am",
+      "artist": "My Morning Jacket",
+      "title": "The Way That He Sings",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "2:15 am",
       "artist": "King Gizzard & The Lizard Wizard",
@@ -172,12 +178,6 @@
       "artist": "feeble little horse",
       "title": "Dior",
       "album": "bitknot • 2026"
-    },
-    {
-      "time": "12:37 am",
-      "artist": "Talk Talk",
-      "title": "Living in Another World",
-      "album": "The Colour of Spring • 1986"
     }
   ]
 }
