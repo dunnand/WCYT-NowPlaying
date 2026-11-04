@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T20:37:26",
+  "updatedAt": "2026-11-03T20:40:31",
   "now": {
-    "artist": "The Smiths",
-    "title": "What Difference Does It Make?",
-    "album": "The Smiths • 1984",
+    "artist": "Bleachers",
+    "title": "Modern Girl",
+    "album": "Bleachers • 2024",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 pm",
-      "artist": "Bleachers",
-      "title": "Modern Girl"
-    },
     {
       "time": "8:44 pm",
       "artist": "Iggy Pop",
@@ -21,9 +16,20 @@
       "time": "8:48 pm",
       "artist": "Isaac Hayes",
       "title": "Never Can Say Goodbye"
+    },
+    {
+      "time": "8:53 pm",
+      "artist": "Radiohead",
+      "title": "How to Disappear Completely"
     }
   ],
   "recent": [
+    {
+      "time": "8:40 pm",
+      "artist": "Bleachers",
+      "title": "Modern Girl",
+      "album": "Bleachers • 2024"
+    },
     {
       "time": "8:37 pm",
       "artist": "The Smiths",
@@ -167,12 +173,6 @@
       "artist": "Pixies",
       "title": "Hey",
       "album": "Doolittle • 1999"
-    },
-    {
-      "time": "7:06 pm",
-      "artist": "Grateful Dead",
-      "title": "Truckin'",
-      "album": "American Beauty • 1970"
     }
   ]
 }
