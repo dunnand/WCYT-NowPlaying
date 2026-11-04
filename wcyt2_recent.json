@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T17:31:53",
+  "updatedAt": "2026-11-04T17:37:01",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Geek U.S.A.",
-    "album": "Siamese Dream • 1993",
+    "artist": "The Jam",
+    "title": "Going Underground",
+    "album": "Single • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:37 pm",
-      "artist": "The Jam",
-      "title": "Going Underground"
-    },
     {
       "time": "5:39 pm",
       "artist": "The Jam",
@@ -21,9 +16,20 @@
       "time": "5:42 pm",
       "artist": "Turnstile",
       "title": "HOLIDAY"
+    },
+    {
+      "time": "5:45 pm",
+      "artist": "Led Zeppelin",
+      "title": "Stairway to Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 pm",
+      "artist": "The Jam",
+      "title": "Going Underground",
+      "album": "Single • 1980"
+    },
     {
       "time": "5:31 pm",
       "artist": "The Smashing Pumpkins",
@@ -167,12 +173,6 @@
       "artist": "The Cure",
       "title": "A Strange Day",
       "album": "Pornography • 1982"
-    },
-    {
-      "time": "3:53 pm",
-      "artist": "The Cure",
-      "title": "Play for Today",
-      "album": "Seventeen Seconds • 1980"
     }
   ]
 }
