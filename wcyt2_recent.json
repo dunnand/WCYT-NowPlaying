@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T01:09:46",
+  "updatedAt": "2026-11-04T01:10:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Good Times Bad Times",
+    "album": "Led Zeppelin • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Led Zeppelin",
-      "title": "Good Times Bad Times"
-    },
     {
       "time": "1:12 am",
       "artist": "FKA twigs",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Led Zeppelin",
+      "title": "Good Times Bad Times",
+      "album": "Led Zeppelin • 1969"
+    },
     {
       "time": "1:05 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Beck",
       "title": "Colors",
       "album": "Colors • 2017"
-    },
-    {
-      "time": "11:29 pm",
-      "artist": "Radiohead",
-      "title": "In Limbo",
-      "album": "Kid A • 2000"
     }
   ]
 }
