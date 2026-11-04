@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T19:57:58",
+  "updatedAt": "2026-11-03T20:01:05",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "The Wind Cries Mary",
-    "album": "Are You Experienced • 1967",
+    "artist": "Iggy Pop",
+    "title": "Some Weird Sin",
+    "album": "Lust for Life • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:01 pm",
-      "artist": "Iggy Pop",
-      "title": "Some Weird Sin"
-    },
     {
       "time": "8:04 pm",
       "artist": "The Presidents of the United States of America",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:01 pm",
+      "artist": "Iggy Pop",
+      "title": "Some Weird Sin",
+      "album": "Lust for Life • 1977"
+    },
     {
       "time": "7:57 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +173,6 @@
       "artist": "Peter Gabriel",
       "title": "Digging in the Dirt",
       "album": "Digging in the Dirt  Us • 1992"
-    },
-    {
-      "time": "6:32 pm",
-      "artist": "Adele",
-      "title": "Someone Like You",
-      "album": "21 • 2011"
     }
   ]
 }
