@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T00:56:06",
+  "updatedAt": "2026-11-04T00:59:59",
   "now": {
-    "artist": "John Cale",
-    "title": "Paris 1919",
-    "album": "Paris 1919 • 1973",
+    "artist": "Radiohead",
+    "title": "Bones",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "Radiohead",
-      "title": "Bones"
-    },
     {
       "time": "1:03 am",
       "artist": "Monotones",
@@ -21,9 +16,20 @@
       "time": "1:05 am",
       "artist": "Radiohead",
       "title": "Knives Out"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "Led Zeppelin",
+      "title": "Good Times Bad Times"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "Radiohead",
+      "title": "Bones",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "12:56 am",
       "artist": "John Cale",
@@ -167,12 +173,6 @@
       "artist": "The Decemberists",
       "title": "Once in My Life",
       "album": "I'll Be Your Girl • 2018"
-    },
-    {
-      "time": "11:13 pm",
-      "artist": "Public Enemy",
-      "title": "Welcome to the Terrordome",
-      "album": "Fear of a Black Planet • 1990"
     }
   ]
 }
