@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:35:41",
+  "updatedAt": "2026-11-04T04:39:14",
   "now": {
     "artist": "John Prine",
-    "title": "Pretty Good",
+    "title": "Sam Stone",
     "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:39 am",
-      "artist": "John Prine",
-      "title": "Sam Stone"
-    },
     {
       "time": "4:43 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:53 am",
       "artist": "John Prine",
       "title": "Sweet Revenge"
+    },
+    {
+      "time": "4:55 am",
+      "artist": "Radiohead",
+      "title": "No Surprises"
     }
   ],
   "recent": [
+    {
+      "time": "4:39 am",
+      "artist": "John Prine",
+      "title": "Sam Stone",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "4:35 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Morning Bell/Amnesiac",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "3:04 am",
-      "artist": "Duane Eddy",
-      "title": "Rebel-'Rouser",
-      "album": "Have 'Twangy' Guitar Will Travel • 1958"
     }
   ]
 }
