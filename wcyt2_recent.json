@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T22:17:29",
+  "updatedAt": "2026-11-03T22:19:25",
   "now": {
-    "artist": "Radiohead",
-    "title": "I Will. (No Man's Land.)",
-    "album": "Hail to the Thief • 2003",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Used to Be",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:19 pm",
-      "artist": "Beach House",
-      "title": "Used to Be"
-    },
     {
       "time": "10:23 pm",
       "artist": "Public Enemy",
@@ -26,9 +21,20 @@
       "time": "10:31 pm",
       "artist": "The Smiths",
       "title": "I Know It's Over"
+    },
+    {
+      "time": "10:36 pm",
+      "artist": "The Smiths",
+      "title": "The Queen Is Dead"
     }
   ],
   "recent": [
+    {
+      "time": "10:19 pm",
+      "artist": "Beach House",
+      "title": "Used to Be",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "10:17 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Isaac Hayes",
       "title": "Never Can Say Goodbye",
       "album": "Black Moses • 1971"
-    },
-    {
-      "time": "8:44 pm",
-      "artist": "Iggy Pop",
-      "title": "The Passenger",
-      "album": "Lust for Life • 1977"
     }
   ]
 }
