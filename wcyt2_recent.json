@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:25:11",
+  "updatedAt": "2026-11-04T04:25:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Smiths",
+    "title": "Stop Me If You Think You've Heard This One Before",
+    "album": "Strangeways, Here We Come • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:25 am",
-      "artist": "The Smiths",
-      "title": "Stop Me If You Think You've Heard This One Before"
-    },
     {
       "time": "4:28 am",
       "artist": "The Cure",
@@ -26,9 +21,20 @@
       "time": "4:35 am",
       "artist": "John Prine",
       "title": "Pretty Good"
+    },
+    {
+      "time": "4:39 am",
+      "artist": "John Prine",
+      "title": "Sam Stone"
     }
   ],
   "recent": [
+    {
+      "time": "4:25 am",
+      "artist": "The Smiths",
+      "title": "Stop Me If You Think You've Heard This One Before",
+      "album": "Strangeways, Here We Come • 1987"
+    },
     {
       "time": "4:20 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Whole Lotta Love",
       "album": "Led Zeppelin II • 1969"
-    },
-    {
-      "time": "2:46 am",
-      "artist": "John Lennon",
-      "title": "Mind Games",
-      "album": "Mind Games • 1973"
     }
   ]
 }
