@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T08:34:33",
+  "updatedAt": "2026-11-04T08:43:25",
   "now": {
     "artist": "The Cure",
-    "title": "Fascination Street",
+    "title": "Lullaby",
     "album": "Disintegration • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:43 am",
-      "artist": "The Cure",
-      "title": "Lullaby"
-    },
     {
       "time": "8:50 am",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:43 am",
+      "artist": "The Cure",
+      "title": "Lullaby",
+      "album": "Disintegration • 1989"
+    },
     {
       "time": "8:34 am",
       "artist": "The Cure",
@@ -172,12 +173,6 @@
       "artist": "Joni Mitchell",
       "title": "California",
       "album": "Blue • 1971"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Adele",
-      "title": "Skyfall",
-      "album": "Skyfall • 2012"
     }
   ]
 }
