@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T06:25:40",
+  "updatedAt": "2026-11-04T06:29:15",
   "now": {
-    "artist": "Radiohead",
-    "title": "Sulk",
-    "album": "The Bends • 1995",
+    "artist": "The Cure",
+    "title": "Push",
+    "album": "The Head on the Door • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:29 am",
-      "artist": "The Cure",
-      "title": "Push"
-    },
     {
       "time": "6:33 am",
       "artist": "The Cure",
@@ -23,12 +18,18 @@
       "title": "Caution"
     },
     {
-      "time": "6:41 am",
+      "time": "6:40 am",
       "artist": "Radiohead",
       "title": "Sit Down. Stand Up. (Snakes & Ladders.)"
     }
   ],
   "recent": [
+    {
+      "time": "6:29 am",
+      "artist": "The Cure",
+      "title": "Push",
+      "album": "The Head on the Door • 1985"
+    },
     {
       "time": "6:25 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Leonard Cohen",
       "title": "Master Song",
       "album": "Songs of Leonard Cohen • 1967"
-    },
-    {
-      "time": "4:43 am",
-      "artist": "Radiohead",
-      "title": "Packt Like Sardines in a Crushd Tin Box",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
