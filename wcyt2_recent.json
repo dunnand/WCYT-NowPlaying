@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T23:43:15",
+  "updatedAt": "2026-11-03T23:47:32",
   "now": {
-    "artist": "Queen",
-    "title": "The Show Must Go On",
-    "album": "Innuendo • 1991",
+    "artist": "The Smiths",
+    "title": "Frankly, Mr. Shankly",
+    "album": "The Queen is Dead • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 pm",
-      "artist": "The Smiths",
-      "title": "Frankly, Mr. Shankly"
-    },
     {
       "time": "11:49 pm",
       "artist": "The Smiths",
@@ -21,9 +16,20 @@
       "time": "11:55 pm",
       "artist": "Bleachers",
       "title": "Tiny Moves"
+    },
+    {
+      "time": "11:59 pm",
+      "artist": "James Brown",
+      "title": "Get Up Offa That Thing"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 pm",
+      "artist": "The Smiths",
+      "title": "Frankly, Mr. Shankly",
+      "album": "The Queen is Dead • 1986"
+    },
     {
       "time": "11:43 pm",
       "artist": "Queen",
@@ -167,12 +173,6 @@
       "artist": "Gary Wilson",
       "title": "You Keep on Looking",
       "album": "You Think You Really Know Me • 1977"
-    },
-    {
-      "time": "9:54 pm",
-      "artist": "James Brown",
-      "title": "Say It Loud: I'm Black and I'm Proud, Part 1",
-      "album": "A Soulful Christmas • 1968"
     }
   ]
 }
