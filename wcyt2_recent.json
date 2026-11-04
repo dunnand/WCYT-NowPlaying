@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T07:19:09",
+  "updatedAt": "2026-11-04T07:24:17",
   "now": {
-    "artist": "Radiohead",
-    "title": "The Tourist",
-    "album": "OK Computer • 1997",
+    "artist": "Rancid",
+    "title": "Ruby Soho",
+    "album": "...And Out Come the Wolves • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:24 am",
-      "artist": "Rancid",
-      "title": "Ruby Soho"
-    },
     {
       "time": "7:26 am",
       "artist": "The Cure",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:24 am",
+      "artist": "Rancid",
+      "title": "Ruby Soho",
+      "album": "...And Out Come the Wolves • 1995"
+    },
     {
       "time": "7:19 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Reckoner",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "5:41 am",
-      "artist": "Joni Mitchell",
-      "title": "A Case of You",
-      "album": "Blue • 1971"
     }
   ]
 }
