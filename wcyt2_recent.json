@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-11-03T23:59:03",
+  "updatedAt": "2026-11-04T00:02:52",
   "now": {
-    "artist": "Radiohead",
-    "title": "(Nice Dream)",
-    "album": "The Bends • 1995",
+    "artist": "Adele",
+    "title": "Set Fire To The Rain",
+    "album": "21 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:02 am",
-      "artist": "Adele",
-      "title": "Set Fire To The Rain"
-    },
     {
       "time": "12:06 am",
       "artist": "Radiohead",
       "title": "Jigsaw Falling Into Place"
     },
     {
-      "time": "12:11 am",
+      "time": "12:10 am",
       "artist": "Radiohead",
       "title": "Kid A"
+    },
+    {
+      "time": "12:15 am",
+      "artist": "Drake",
+      "title": "Started From The Bottom"
     }
   ],
   "recent": [
+    {
+      "time": "12:02 am",
+      "artist": "Adele",
+      "title": "Set Fire To The Rain",
+      "album": "21 • 2011"
+    },
     {
       "time": "11:59 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "I Might Be Wrong",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "10:09 pm",
-      "artist": "Charles Bradley",
-      "title": "Lucifer",
-      "album": "single • 2019"
     }
   ]
 }
