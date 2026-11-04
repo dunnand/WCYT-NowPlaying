@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T15:15:34",
+  "updatedAt": "2026-11-04T15:17:57",
   "now": {
-    "artist": "Neil Young & Crazy Horse",
-    "title": "Everybody Knows This Is Nowhere",
-    "album": "Everybody Knows This Is Nowhere • 1969",
+    "artist": "Led Zeppelin",
+    "title": "All My Love",
+    "album": "In Through the Out Door • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:18 pm",
-      "artist": "Led Zeppelin",
-      "title": "All My Love"
-    },
     {
       "time": "3:23 pm",
       "artist": "Slint",
@@ -26,9 +21,20 @@
       "time": "3:32 pm",
       "artist": "R.E.M.",
       "title": "Bad Day"
+    },
+    {
+      "time": "3:36 pm",
+      "artist": "R.E.M.",
+      "title": "Imitation of Life"
     }
   ],
   "recent": [
+    {
+      "time": "3:17 pm",
+      "artist": "Led Zeppelin",
+      "title": "All My Love",
+      "album": "In Through the Out Door • 1979"
+    },
     {
       "time": "3:15 pm",
       "artist": "Neil Young & Crazy Horse",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Man On The Moon",
       "album": "Automatic for the People • 1992"
-    },
-    {
-      "time": "1:11 pm",
-      "artist": "BADBADNOTGOOD",
-      "title": "In Your Eyes (feat. Charlotte Day Wilson)",
-      "album": "IV • 2016"
     }
   ]
 }
