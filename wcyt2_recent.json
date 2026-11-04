@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:28:58",
+  "updatedAt": "2026-11-04T04:32:12",
   "now": {
-    "artist": "The Cure",
-    "title": "Just Like Heaven",
-    "album": "Kiss Me, Kiss Me, Kiss Me • 1987",
+    "artist": "Bleachers",
+    "title": "Goodmorning",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:32 am",
-      "artist": "Bleachers",
-      "title": "Goodmorning"
-    },
     {
       "time": "4:35 am",
       "artist": "John Prine",
@@ -21,9 +16,20 @@
       "time": "4:39 am",
       "artist": "John Prine",
       "title": "Sam Stone"
+    },
+    {
+      "time": "4:43 am",
+      "artist": "Radiohead",
+      "title": "Packt Like Sardines in a Crushd Tin Box"
     }
   ],
   "recent": [
+    {
+      "time": "4:32 am",
+      "artist": "Bleachers",
+      "title": "Goodmorning",
+      "album": ""
+    },
     {
       "time": "4:28 am",
       "artist": "The Cure",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "High and Dry",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "2:56 am",
-      "artist": "John Prine",
-      "title": "Angel From Montgomery",
-      "album": "John Prine • 1971"
     }
   ]
 }
