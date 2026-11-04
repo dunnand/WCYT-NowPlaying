@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T12:12:20",
+  "updatedAt": "2026-11-04T12:24:51",
   "now": {
-    "artist": "Kraftwerk",
-    "title": "Autobahn",
-    "album": "Autobahn • 1974",
+    "artist": "Nancy Sinatra",
+    "title": "You Only Live Twice",
+    "album": "You Only Live Twice • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:24 pm",
-      "artist": "Nancy Sinatra",
-      "title": "You Only Live Twice"
-    },
     {
       "time": "12:27 pm",
       "artist": "Kraftwerk",
@@ -26,9 +21,20 @@
       "time": "12:40 pm",
       "artist": "Kraftwerk",
       "title": "Radioactivity"
+    },
+    {
+      "time": "12:47 pm",
+      "artist": "R.E.M.",
+      "title": "E-Bow the Letter"
     }
   ],
   "recent": [
+    {
+      "time": "12:24 pm",
+      "artist": "Nancy Sinatra",
+      "title": "You Only Live Twice",
+      "album": "You Only Live Twice • 1967"
+    },
     {
       "time": "12:12 pm",
       "artist": "Kraftwerk",
@@ -172,12 +178,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "By the Way",
       "album": "By the Way • 2002"
-    },
-    {
-      "time": "10:21 am",
-      "artist": "David Guetta",
-      "title": "Without You feat. Usher",
-      "album": "Nothing But the Beat • 2011"
     }
   ]
 }
