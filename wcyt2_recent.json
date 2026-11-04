@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T00:07:01",
+  "updatedAt": "2026-11-04T00:10:56",
   "now": {
     "artist": "Radiohead",
-    "title": "Jigsaw Falling Into Place",
-    "album": "In Rainbows • 2007",
+    "title": "Kid A",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 am",
-      "artist": "Radiohead",
-      "title": "Kid A"
-    },
     {
       "time": "12:15 am",
       "artist": "Drake",
@@ -26,9 +21,20 @@
       "time": "12:23 am",
       "artist": "Radiohead",
       "title": "Black Star"
+    },
+    {
+      "time": "12:27 am",
+      "artist": "The Smiths",
+      "title": "Some Girls Are Bigger Than Others"
     }
   ],
   "recent": [
+    {
+      "time": "12:10 am",
+      "artist": "Radiohead",
+      "title": "Kid A",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "12:07 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Used to Be",
       "album": "Teen Dream • 2010"
-    },
-    {
-      "time": "10:17 pm",
-      "artist": "Radiohead",
-      "title": "I Will. (No Man's Land.)",
-      "album": "Hail to the Thief • 2003"
     }
   ]
 }
