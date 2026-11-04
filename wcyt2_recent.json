@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T23:23:55",
+  "updatedAt": "2026-11-03T23:24:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Idioteque",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:23 pm",
-      "artist": "Radiohead",
-      "title": "Idioteque"
-    },
     {
       "time": "11:29 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "11:37 pm",
       "artist": "Queen",
       "title": "Innuendo"
+    },
+    {
+      "time": "11:43 pm",
+      "artist": "Queen",
+      "title": "The Show Must Go On"
     }
   ],
   "recent": [
+    {
+      "time": "11:24 pm",
+      "artist": "Radiohead",
+      "title": "Idioteque",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "11:19 pm",
       "artist": "The Decemberists",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "New Heart Design",
       "album": "Glow On • 2021"
-    },
-    {
-      "time": "9:39 pm",
-      "artist": "Siouxsie and the Banshees",
-      "title": "Christine",
-      "album": "Kaleidoscope • 1980"
     }
   ]
 }
