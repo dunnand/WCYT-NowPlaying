@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:35:29",
+  "updatedAt": "2026-11-04T04:35:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Prine",
+    "title": "Pretty Good",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:35 am",
-      "artist": "John Prine",
-      "title": "Pretty Good"
-    },
     {
       "time": "4:39 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "4:47 am",
       "artist": "Leonard Cohen",
       "title": "Master Song"
+    },
+    {
+      "time": "4:53 am",
+      "artist": "John Prine",
+      "title": "Sweet Revenge"
     }
   ],
   "recent": [
+    {
+      "time": "4:35 am",
+      "artist": "John Prine",
+      "title": "Pretty Good",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "4:32 am",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Duane Eddy",
       "title": "Rebel-'Rouser",
       "album": "Have 'Twangy' Guitar Will Travel • 1958"
-    },
-    {
-      "time": "2:59 am",
-      "artist": "Radiohead",
-      "title": "High and Dry",
-      "album": "The Bends • 1995"
     }
   ]
 }
