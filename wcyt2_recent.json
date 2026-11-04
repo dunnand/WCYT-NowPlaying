@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T17:03:44",
+  "updatedAt": "2026-11-04T17:10:00",
   "now": {
     "artist": "Led Zeppelin",
-    "title": "Fool in the Rain",
-    "album": "In Through the Out Door • 1979",
+    "title": "Going to California",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:09 pm",
-      "artist": "Led Zeppelin",
-      "title": "Going to California"
-    },
     {
       "time": "5:13 pm",
       "artist": "SAULT",
@@ -21,9 +16,20 @@
       "time": "5:19 pm",
       "artist": "SAULT",
       "title": "Wildfires"
+    },
+    {
+      "time": "5:23 pm",
+      "artist": "Dawes",
+      "title": "A Little Bit of Everything"
     }
   ],
   "recent": [
+    {
+      "time": "5:10 pm",
+      "artist": "Led Zeppelin",
+      "title": "Going to California",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "5:03 pm",
       "artist": "Led Zeppelin",
@@ -167,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "Bad Day",
       "album": "In Time: The Best of R.E.M. 1988-2003 • 2003"
-    },
-    {
-      "time": "3:29 pm",
-      "artist": "Bruno Mars",
-      "title": "Grenade",
-      "album": "Doo-Wops & Hooligans • 2010"
     }
   ]
 }
