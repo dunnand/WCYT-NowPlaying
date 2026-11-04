@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T03:09:41",
+  "updatedAt": "2026-11-04T03:09:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Leonard Cohen",
+    "title": "Bird on the Wire",
+    "album": "Songs from a Room • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:09 am",
-      "artist": "Leonard Cohen",
-      "title": "Bird on the Wire"
-    },
     {
       "time": "3:13 am",
       "artist": "Alicia Keys",
@@ -26,9 +21,20 @@
       "time": "3:21 am",
       "artist": "Radiohead",
       "title": "Karma Police"
+    },
+    {
+      "time": "3:25 am",
+      "artist": "The Smiths",
+      "title": "A Rush and a Push and the Land Is Ours"
     }
   ],
   "recent": [
+    {
+      "time": "3:09 am",
+      "artist": "Leonard Cohen",
+      "title": "Bird on the Wire",
+      "album": "Songs from a Room • 1969"
+    },
     {
       "time": "3:06 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "you and forever",
       "album": "everyone for ten minutes • 2026"
-    },
-    {
-      "time": "1:31 am",
-      "artist": "The Smiths",
-      "title": "Well I Wonder",
-      "album": "Meat Is Murder • 1985"
     }
   ]
 }
