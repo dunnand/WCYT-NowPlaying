@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T20:53:53",
+  "updatedAt": "2026-11-03T20:59:39",
   "now": {
-    "artist": "Radiohead",
-    "title": "How to Disappear Completely",
-    "album": "Kid A • 2000",
+    "artist": "John Lennon",
+    "title": "Give Peace a Chance",
+    "album": "Give Peace a Chance • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 pm",
-      "artist": "John Lennon",
-      "title": "Give Peace a Chance"
-    },
     {
       "time": "9:04 pm",
       "artist": "Isaac Hayes",
@@ -26,9 +21,20 @@
       "time": "9:13 pm",
       "artist": "Ritchie Valens",
       "title": "La Bamba"
+    },
+    {
+      "time": "9:15 pm",
+      "artist": "Pearl Jam",
+      "title": "Life Wasted"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 pm",
+      "artist": "John Lennon",
+      "title": "Give Peace a Chance",
+      "album": "Give Peace a Chance • 1969"
+    },
     {
       "time": "8:53 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Fall Out Boy",
       "title": "My Songs Know What You Did In The Dark (Light Em Up)",
       "album": "Save Rock and Roll • 2013"
-    },
-    {
-      "time": "7:19 pm",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Little Wing",
-      "album": "Axis: Bold as Love • 1967"
     }
   ]
 }
