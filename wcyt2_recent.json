@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T22:12:33",
+  "updatedAt": "2026-11-03T22:12:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "I Might Be Wrong",
+    "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:12 pm",
-      "artist": "Radiohead",
-      "title": "I Might Be Wrong"
-    },
     {
       "time": "10:17 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "10:23 pm",
       "artist": "Public Enemy",
       "title": "Fight the Power"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "Public Enemy",
+      "title": "He Got Game feat. Stephen Stills"
     }
   ],
   "recent": [
+    {
+      "time": "10:12 pm",
+      "artist": "Radiohead",
+      "title": "I Might Be Wrong",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "10:09 pm",
       "artist": "Charles Bradley",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "Modern Girl",
       "album": "Bleachers • 2024"
-    },
-    {
-      "time": "8:37 pm",
-      "artist": "The Smiths",
-      "title": "What Difference Does It Make?",
-      "album": "The Smiths • 1984"
     }
   ]
 }
