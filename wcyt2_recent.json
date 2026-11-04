@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:47:27",
+  "updatedAt": "2026-11-04T04:53:20",
   "now": {
-    "artist": "Leonard Cohen",
-    "title": "Master Song",
-    "album": "Songs of Leonard Cohen • 1967",
+    "artist": "John Prine",
+    "title": "Sweet Revenge",
+    "album": "Sweet Revenge • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:53 am",
-      "artist": "John Prine",
-      "title": "Sweet Revenge"
-    },
     {
       "time": "4:55 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:01 am",
       "artist": "Radiohead",
       "title": "Pulk/Pull Revolving Doors"
+    },
+    {
+      "time": "5:06 am",
+      "artist": "Leonard Cohen",
+      "title": "One of Us Cannot Be Wrong"
     }
   ],
   "recent": [
+    {
+      "time": "4:53 am",
+      "artist": "John Prine",
+      "title": "Sweet Revenge",
+      "album": "Sweet Revenge • 1973"
+    },
     {
       "time": "4:47 am",
       "artist": "Leonard Cohen",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Just",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "Alicia Keys",
-      "title": "Girl On Fire",
-      "album": "HA201237 8 • 2012"
     }
   ]
 }
