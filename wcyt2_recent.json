@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T02:50:48",
+  "updatedAt": "2026-11-04T02:56:16",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Whole Lotta Love",
-    "album": "Led Zeppelin II • 1969",
+    "artist": "John Prine",
+    "title": "Angel From Montgomery",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 am",
-      "artist": "John Prine",
-      "title": "Angel From Montgomery"
-    },
     {
       "time": "2:59 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "3:06 am",
       "artist": "Radiohead",
       "title": "Morning Bell/Amnesiac"
+    },
+    {
+      "time": "3:09 am",
+      "artist": "Leonard Cohen",
+      "title": "Bird on the Wire"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 am",
+      "artist": "John Prine",
+      "title": "Angel From Montgomery",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "2:50 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Bullet Proof..I Wish I Was",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "FKA twigs",
-      "title": "Pendulum",
-      "album": "LP1 • 2014"
     }
   ]
 }
