@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T20:16:08",
+  "updatedAt": "2026-11-03T20:18:41",
   "now": {
-    "artist": "John Lee Hooker",
-    "title": "Boom Boom",
-    "album": "Burnin' • 1962",
-    "category": "AUDIO"
+    "artist": "Bat for Lashes",
+    "title": "Laura",
+    "album": "The Haunted Man • 2012",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:18 pm",
-      "artist": "Bat for Lashes",
-      "title": "Laura"
-    },
     {
       "time": "8:23 pm",
       "artist": "Prince",
@@ -21,9 +16,20 @@
       "time": "8:30 pm",
       "artist": "Prince",
       "title": "Nothing Compares 2 U"
+    },
+    {
+      "time": "8:35 pm",
+      "artist": "The Smiths",
+      "title": "Cemetry Gates"
     }
   ],
   "recent": [
+    {
+      "time": "8:18 pm",
+      "artist": "Bat for Lashes",
+      "title": "Laura",
+      "album": "The Haunted Man • 2012"
+    },
     {
       "time": "8:16 pm",
       "artist": "John Lee Hooker",
@@ -167,12 +173,6 @@
       "artist": "Grateful Dead",
       "title": "Scarlet Begonias",
       "album": "From the Mars Hotel • 1974"
-    },
-    {
-      "time": "6:51 pm",
-      "artist": "Turnstile",
-      "title": "DON'T PLAY",
-      "album": "GLOW ON • 2021"
     }
   ]
 }
