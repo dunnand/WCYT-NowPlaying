@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T17:45:44",
+  "updatedAt": "2026-11-04T17:53:35",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Stairway to Heaven",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Nina Simone",
+    "title": "Sinnerman",
+    "album": "Pastel Blues • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 pm",
-      "artist": "Nina Simone",
-      "title": "Sinnerman"
-    },
     {
       "time": "6:03 pm",
       "artist": "Led Zeppelin",
@@ -26,9 +21,20 @@
       "time": "6:12 pm",
       "artist": "Led Zeppelin",
       "title": "When The Levee Breaks"
+    },
+    {
+      "time": "6:19 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "I Am One"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 pm",
+      "artist": "Nina Simone",
+      "title": "Sinnerman",
+      "album": "Pastel Blues • 1965"
+    },
     {
       "time": "5:45 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "D'yer Mak'er",
       "album": "Houses of the Holy • 1973"
-    },
-    {
-      "time": "4:09 pm",
-      "artist": "Nick Drake",
-      "title": "River Man",
-      "album": "Five Leaves Left • 1969"
     }
   ]
 }
