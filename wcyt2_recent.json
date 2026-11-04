@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T01:39:30",
+  "updatedAt": "2026-11-04T01:44:07",
   "now": {
     "artist": "John Lennon",
-    "title": "#9 Dream",
-    "album": "Walls and Bridges • 1974",
+    "title": "Imagine",
+    "album": "Imagine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:44 am",
-      "artist": "John Lennon",
-      "title": "Imagine"
-    },
     {
       "time": "1:47 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "1:56 am",
       "artist": "John Lennon",
       "title": "Isolation"
+    },
+    {
+      "time": "1:58 am",
+      "artist": "Radiohead",
+      "title": "Electioneering"
     }
   ],
   "recent": [
+    {
+      "time": "1:44 am",
+      "artist": "John Lennon",
+      "title": "Imagine",
+      "album": "Imagine • 1971"
+    },
     {
       "time": "1:39 am",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Jigsaw Falling Into Place",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "12:02 am",
-      "artist": "Adele",
-      "title": "Set Fire To The Rain",
-      "album": "21 • 2011"
     }
   ]
 }
