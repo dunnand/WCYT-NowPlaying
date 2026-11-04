@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T06:33:30",
+  "updatedAt": "2026-11-04T06:33:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cure",
+    "title": "Primary",
+    "album": "Faith • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:33 am",
-      "artist": "The Cure",
-      "title": "Primary"
-    },
     {
       "time": "6:37 am",
       "artist": "The Killers",
@@ -26,9 +21,20 @@
       "time": "6:45 am",
       "artist": "Joni Mitchell",
       "title": "Big Yellow Taxi"
+    },
+    {
+      "time": "6:47 am",
+      "artist": "Radiohead",
+      "title": "The Gloaming. (Softly Open Our Mouths in the Cold.)"
     }
   ],
   "recent": [
+    {
+      "time": "6:33 am",
+      "artist": "The Cure",
+      "title": "Primary",
+      "album": "Faith • 1981"
+    },
     {
       "time": "6:29 am",
       "artist": "The Cure",
@@ -172,12 +178,6 @@
       "artist": "John Prine",
       "title": "Sweet Revenge",
       "album": "Sweet Revenge • 1973"
-    },
-    {
-      "time": "4:47 am",
-      "artist": "Leonard Cohen",
-      "title": "Master Song",
-      "album": "Songs of Leonard Cohen • 1967"
     }
   ]
 }
