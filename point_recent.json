@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T02:33:33",
+  "updatedAt": "2026-11-04T02:33:55",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bon Iver",
+    "title": "iMi",
+    "album": "i,i • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:33 am",
-      "artist": "Bon Iver",
-      "title": "iMi"
-    },
     {
       "time": "2:37 am",
       "artist": "Helena Deland",
@@ -26,9 +21,20 @@
       "time": "2:44 am",
       "artist": "Fontaines D.C.",
       "title": "Japan"
+    },
+    {
+      "time": "2:48 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Phenomena"
     }
   ],
   "recent": [
+    {
+      "time": "2:33 am",
+      "artist": "Bon Iver",
+      "title": "iMi",
+      "album": "i,i • 2019"
+    },
     {
       "time": "2:31 am",
       "artist": "Dow Jones & The Industrials",
@@ -172,12 +178,6 @@
       "artist": "Babehoven",
       "title": "Birdseye",
       "album": "Water's Here In You • 2024"
-    },
-    {
-      "time": "12:55 am",
-      "artist": "Snail Mail",
-      "title": "Dead End",
-      "album": "Ricochet • 2026"
     }
   ]
 }
