@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T05:05:54",
+  "updatedAt": "2026-11-04T05:06:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Leonard Cohen",
+    "title": "One of Us Cannot Be Wrong",
+    "album": "Songs of Leonard Cohen • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 am",
-      "artist": "Leonard Cohen",
-      "title": "One of Us Cannot Be Wrong"
-    },
     {
       "time": "5:10 am",
       "artist": "Bruno Mars",
@@ -26,9 +21,20 @@
       "time": "5:20 am",
       "artist": "Radiohead",
       "title": "Planet Telex"
+    },
+    {
+      "time": "5:24 am",
+      "artist": "The Cure",
+      "title": "Closedown"
     }
   ],
   "recent": [
+    {
+      "time": "5:06 am",
+      "artist": "Leonard Cohen",
+      "title": "One of Us Cannot Be Wrong",
+      "album": "Songs of Leonard Cohen • 1967"
+    },
     {
       "time": "5:01 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "Rollercoaster",
       "album": ""
-    },
-    {
-      "time": "3:28 am",
-      "artist": "The Smiths",
-      "title": "There Is a Light That Never Goes Out",
-      "album": "The Queen is Dead • 1986"
     }
   ]
 }
