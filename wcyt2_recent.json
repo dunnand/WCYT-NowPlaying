@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T01:10:18",
+  "updatedAt": "2026-11-04T01:13:03",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Good Times Bad Times",
-    "album": "Led Zeppelin • 1969",
+    "artist": "FKA twigs",
+    "title": "Pendulum",
+    "album": "LP1 • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:12 am",
-      "artist": "FKA twigs",
-      "title": "Pendulum"
-    },
     {
       "time": "1:18 am",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "1:21 am",
       "artist": "Radiohead",
       "title": "Climbing Up the Walls"
+    },
+    {
+      "time": "1:26 am",
+      "artist": "The Smiths",
+      "title": "The Headmaster Ritual"
     }
   ],
   "recent": [
+    {
+      "time": "1:13 am",
+      "artist": "FKA twigs",
+      "title": "Pendulum",
+      "album": "LP1 • 2014"
+    },
     {
       "time": "1:10 am",
       "artist": "Led Zeppelin",
@@ -167,12 +173,6 @@
       "artist": "Queen",
       "title": "Innuendo",
       "album": "Innuendo • 1991"
-    },
-    {
-      "time": "11:32 pm",
-      "artist": "Beck",
-      "title": "Colors",
-      "album": "Colors • 2017"
     }
   ]
 }
