@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T12:37:34",
+  "updatedAt": "2026-11-04T12:40:41",
   "now": {
-    "artist": "Neil Young",
-    "title": "Mr. Soul",
-    "album": "Buffalo Springfield Again • 1967",
+    "artist": "Kraftwerk",
+    "title": "Radioactivity",
+    "album": "Radio-Activity • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 pm",
-      "artist": "Kraftwerk",
-      "title": "Radioactivity"
-    },
     {
       "time": "12:47 pm",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "12:55 pm",
       "artist": "Red Hot Chili Peppers",
       "title": "The Zephyr Song"
+    },
+    {
+      "time": "12:59 pm",
+      "artist": "Neil Young & Crazy Horse",
+      "title": "Cinnamon Girl"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 pm",
+      "artist": "Kraftwerk",
+      "title": "Radioactivity",
+      "album": "Radio-Activity • 1975"
+    },
     {
       "time": "12:37 pm",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Scar Tissue",
       "album": "Californication • 1999"
-    },
-    {
-      "time": "10:32 am",
-      "artist": "BADBADNOTGOOD",
-      "title": "Speaking Gently",
-      "album": "IV • 2016"
     }
   ]
 }
