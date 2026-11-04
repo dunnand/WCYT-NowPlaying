@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T16:04:42",
+  "updatedAt": "2026-11-04T16:09:26",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Black Dog",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Nick Drake",
+    "title": "River Man",
+    "album": "Five Leaves Left • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:09 pm",
-      "artist": "Nick Drake",
-      "title": "River Man"
-    },
     {
       "time": "4:13 pm",
       "artist": "Led Zeppelin",
@@ -26,9 +21,20 @@
       "time": "4:22 pm",
       "artist": "Led Zeppelin",
       "title": "Dancing Days"
+    },
+    {
+      "time": "4:26 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Ava Adore"
     }
   ],
   "recent": [
+    {
+      "time": "4:09 pm",
+      "artist": "Nick Drake",
+      "title": "River Man",
+      "album": "Five Leaves Left • 1969"
+    },
     {
       "time": "4:04 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Linkin Park",
       "title": "In The End",
       "album": "Hybrid Theory • 2001"
-    },
-    {
-      "time": "2:21 pm",
-      "artist": "Stevie Wonder",
-      "title": "Isn't She Lovely",
-      "album": "Songs in the Key of Life • 1976"
     }
   ]
 }
