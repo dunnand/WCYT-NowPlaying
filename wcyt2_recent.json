@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:16:14",
+  "updatedAt": "2026-11-04T04:16:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Lucky",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:16 am",
-      "artist": "Radiohead",
-      "title": "Lucky"
-    },
     {
       "time": "4:20 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:28 am",
       "artist": "The Cure",
       "title": "Just Like Heaven"
+    },
+    {
+      "time": "4:32 am",
+      "artist": "Bleachers",
+      "title": "Goodmorning"
     }
   ],
   "recent": [
+    {
+      "time": "4:16 am",
+      "artist": "Radiohead",
+      "title": "Lucky",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "4:12 am",
       "artist": "Billie Eilish",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Ramble On",
       "album": "Led Zeppelin II • 1969"
-    },
-    {
-      "time": "2:38 am",
-      "artist": "John Lennon",
-      "title": "Jealous Guy",
-      "album": "Imagine • 1971"
     }
   ]
 }
