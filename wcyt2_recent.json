@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T09:08:59",
+  "updatedAt": "2026-11-04T09:11:12",
   "now": {
-    "artist": "Marvin Gaye",
-    "title": "Ain't Nothin' Like the Real Thing",
-    "album": "Youre All I Need • 1968",
+    "artist": "KISS",
+    "title": "Detroit Rock City",
+    "album": "Destroyer • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 am",
-      "artist": "KISS",
-      "title": "Detroit Rock City"
-    },
     {
       "time": "9:14 am",
       "artist": "Red Hot Chili Peppers",
@@ -26,9 +21,20 @@
       "time": "9:21 am",
       "artist": "Radiohead",
       "title": "Weird Fishes/Arpeggi"
+    },
+    {
+      "time": "9:27 am",
+      "artist": "Marvin Gaye",
+      "title": "I Heard It Through The Grapevine"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 am",
+      "artist": "KISS",
+      "title": "Detroit Rock City",
+      "album": "Destroyer • 1976"
+    },
     {
       "time": "9:08 am",
       "artist": "Marvin Gaye",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "The Tourist",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "Calvin Harris",
-      "title": "Feel So Close",
-      "album": "Feel So Close EP • 2011"
     }
   ]
 }
