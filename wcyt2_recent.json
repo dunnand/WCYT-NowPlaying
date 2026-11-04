@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T08:55:19",
+  "updatedAt": "2026-11-04T09:00:46",
   "now": {
-    "artist": "Joni Mitchell",
-    "title": "Woodstock",
-    "album": "Ladies of the Canyon • 1970",
+    "artist": "KISS",
+    "title": "Black Diamond",
+    "album": "Kiss • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:00 am",
-      "artist": "KISS",
-      "title": "Black Diamond"
-    },
     {
       "time": "9:04 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "9:11 am",
       "artist": "KISS",
       "title": "Detroit Rock City"
+    },
+    {
+      "time": "9:14 am",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Give It Away"
     }
   ],
   "recent": [
+    {
+      "time": "9:00 am",
+      "artist": "KISS",
+      "title": "Black Diamond",
+      "album": "Kiss • 1974"
+    },
     {
       "time": "8:55 am",
       "artist": "Joni Mitchell",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "The National Anthem",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "7:03 am",
-      "artist": "Chuck Berry",
-      "title": "Johnny B. Goode",
-      "album": "Berry Is on Top • 1959"
     }
   ]
 }
