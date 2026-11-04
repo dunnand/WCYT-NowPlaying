@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T22:01:06",
+  "updatedAt": "2026-11-03T22:05:01",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Given to Fly",
-    "album": "Yield • 1998",
+    "artist": "Black Eyed Peas",
+    "title": "Just Can't Get Enough",
+    "album": "The Beginning • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:04 pm",
-      "artist": "Black Eyed Peas",
-      "title": "Just Can't Get Enough"
-    },
     {
       "time": "10:09 pm",
       "artist": "Charles Bradley",
@@ -21,9 +16,20 @@
       "time": "10:12 pm",
       "artist": "Radiohead",
       "title": "I Might Be Wrong"
+    },
+    {
+      "time": "10:17 pm",
+      "artist": "Radiohead",
+      "title": "I Will. (No Man's Land.)"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Black Eyed Peas",
+      "title": "Just Can't Get Enough",
+      "album": "The Beginning • 2010"
+    },
     {
       "time": "10:01 pm",
       "artist": "Pearl Jam",
@@ -167,12 +173,6 @@
       "artist": "The Smiths",
       "title": "Cemetry Gates",
       "album": "The Queen is Dead • 1986"
-    },
-    {
-      "time": "8:30 pm",
-      "artist": "Prince",
-      "title": "Nothing Compares 2 U",
-      "album": "The Hits / The B-Sides • 1993"
     }
   ]
 }
