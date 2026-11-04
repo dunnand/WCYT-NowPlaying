@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:16:26",
+  "updatedAt": "2026-11-04T04:20:41",
   "now": {
     "artist": "Radiohead",
-    "title": "Lucky",
-    "album": "OK Computer • 1997",
+    "title": "My Iron Lung",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:20 am",
-      "artist": "Radiohead",
-      "title": "My Iron Lung"
-    },
     {
       "time": "4:25 am",
       "artist": "The Smiths",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:20 am",
+      "artist": "Radiohead",
+      "title": "My Iron Lung",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "4:16 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "John Lennon",
       "title": "Mind Games",
       "album": "Mind Games • 1973"
-    },
-    {
-      "time": "2:42 am",
-      "artist": "Led Zeppelin",
-      "title": "Ramble On",
-      "album": "Led Zeppelin II • 1969"
     }
   ]
 }
