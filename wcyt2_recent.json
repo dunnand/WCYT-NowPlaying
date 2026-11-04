@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T20:53:41",
+  "updatedAt": "2026-11-03T20:53:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "How to Disappear Completely",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:53 pm",
-      "artist": "Radiohead",
-      "title": "How to Disappear Completely"
-    },
     {
       "time": "8:59 pm",
       "artist": "John Lennon",
@@ -26,9 +21,20 @@
       "time": "9:08 pm",
       "artist": "Prince and the New Power Generation",
       "title": "Cream"
+    },
+    {
+      "time": "9:13 pm",
+      "artist": "Ritchie Valens",
+      "title": "La Bamba"
     }
   ],
   "recent": [
+    {
+      "time": "8:53 pm",
+      "artist": "Radiohead",
+      "title": "How to Disappear Completely",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "8:48 pm",
       "artist": "Isaac Hayes",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Little Wing",
       "album": "Axis: Bold as Love • 1967"
-    },
-    {
-      "time": "7:17 pm",
-      "artist": "Radiohead",
-      "title": "Faust Arp",
-      "album": "In Rainbows • 2007"
     }
   ]
 }
