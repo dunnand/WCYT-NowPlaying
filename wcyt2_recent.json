@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T01:56:08",
+  "updatedAt": "2026-11-04T01:58:49",
   "now": {
-    "artist": "John Lennon",
-    "title": "Isolation",
-    "album": "John Lennon/Plastic Ono Band • 1970",
+    "artist": "Radiohead",
+    "title": "Electioneering",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:58 am",
-      "artist": "Radiohead",
-      "title": "Electioneering"
-    },
     {
       "time": "2:02 am",
       "artist": "David Guetta",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:58 am",
+      "artist": "Radiohead",
+      "title": "Electioneering",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "1:56 am",
       "artist": "John Lennon",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Black Star",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "12:18 am",
-      "artist": "Radiohead",
-      "title": "Airbag",
-      "album": "OK Computer • 1997"
     }
   ]
 }
