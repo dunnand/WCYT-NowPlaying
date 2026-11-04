@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T10:24:39",
+  "updatedAt": "2026-11-04T10:28:13",
   "now": {
     "artist": "Red Hot Chili Peppers",
-    "title": "By the Way",
+    "title": "Can't Stop",
     "album": "By the Way • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:28 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Can't Stop"
-    },
     {
       "time": "10:32 am",
       "artist": "BADBADNOTGOOD",
@@ -26,9 +21,20 @@
       "time": "10:40 am",
       "artist": "R.E.M.",
       "title": "At My Most Beautiful"
+    },
+    {
+      "time": "10:43 am",
+      "artist": "The Cure",
+      "title": "The Lovecats"
     }
   ],
   "recent": [
+    {
+      "time": "10:28 am",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can't Stop",
+      "album": "By the Way • 2002"
+    },
     {
       "time": "10:24 am",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "august",
       "album": "folklore • 2020"
-    },
-    {
-      "time": "8:43 am",
-      "artist": "The Cure",
-      "title": "Lullaby",
-      "album": "Disintegration • 1989"
     }
   ]
 }
