@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T02:29:58",
+  "updatedAt": "2026-11-04T02:33:33",
   "now": {
-    "artist": "The Smiths",
-    "title": "Heaven Knows I'm Miserable Now",
-    "album": "Hatful of Hollow • 1984",
+    "artist": "Bleachers",
+    "title": "dirty wedding dress",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:33 am",
-      "artist": "Bleachers",
-      "title": "dirty wedding dress"
-    },
     {
       "time": "2:38 am",
       "artist": "John Lennon",
@@ -21,9 +16,20 @@
       "time": "2:42 am",
       "artist": "Led Zeppelin",
       "title": "Ramble On"
+    },
+    {
+      "time": "2:46 am",
+      "artist": "John Lennon",
+      "title": "Mind Games"
     }
   ],
   "recent": [
+    {
+      "time": "2:33 am",
+      "artist": "Bleachers",
+      "title": "dirty wedding dress",
+      "album": ""
+    },
     {
       "time": "2:29 am",
       "artist": "The Smiths",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Bones",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "12:56 am",
-      "artist": "John Cale",
-      "title": "Paris 1919",
-      "album": "Paris 1919 • 1973"
     }
   ]
 }
