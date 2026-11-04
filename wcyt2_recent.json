@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T02:56:16",
+  "updatedAt": "2026-11-04T02:59:53",
   "now": {
-    "artist": "John Prine",
-    "title": "Angel From Montgomery",
-    "album": "John Prine • 1971",
+    "artist": "Radiohead",
+    "title": "High and Dry",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:59 am",
-      "artist": "Radiohead",
-      "title": "High and Dry"
-    },
     {
       "time": "3:04 am",
       "artist": "Duane Eddy",
@@ -26,9 +21,20 @@
       "time": "3:09 am",
       "artist": "Leonard Cohen",
       "title": "Bird on the Wire"
+    },
+    {
+      "time": "3:13 am",
+      "artist": "Alicia Keys",
+      "title": "Girl On Fire"
     }
   ],
   "recent": [
+    {
+      "time": "2:59 am",
+      "artist": "Radiohead",
+      "title": "High and Dry",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "2:56 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Climbing Up the Walls",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "1:18 am",
-      "artist": "Radiohead",
-      "title": "Bullet Proof..I Wish I Was",
-      "album": "The Bends • 1995"
     }
   ]
 }
