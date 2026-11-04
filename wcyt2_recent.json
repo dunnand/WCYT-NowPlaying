@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T00:47:01",
+  "updatedAt": "2026-11-04T00:49:36",
   "now": {
-    "artist": "John Cale",
-    "title": "Hanky Panky Nohow",
-    "album": "Paris 1919 • 1973",
+    "artist": "Led Zeppelin",
+    "title": "Dazed and Confused",
+    "album": "Led Zeppelin • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "Led Zeppelin",
-      "title": "Dazed and Confused"
-    },
     {
       "time": "12:55 am",
       "artist": "John Cale",
@@ -26,9 +21,20 @@
       "time": "1:03 am",
       "artist": "Monotones",
       "title": "Book Of Love"
+    },
+    {
+      "time": "1:05 am",
+      "artist": "Radiohead",
+      "title": "Knives Out"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "Led Zeppelin",
+      "title": "Dazed and Confused",
+      "album": "Led Zeppelin • 1969"
+    },
     {
       "time": "12:47 am",
       "artist": "John Cale",
@@ -172,12 +178,6 @@
       "artist": "James Brown",
       "title": "Get Up (I Feel Like Being a)",
       "album": "Single • 1970"
-    },
-    {
-      "time": "10:58 pm",
-      "artist": "Joni Mitchell",
-      "title": "Cactus Tree",
-      "album": "Song to a Seagull • 1968"
     }
   ]
 }
