@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T23:36:58",
+  "updatedAt": "2026-11-03T23:43:15",
   "now": {
     "artist": "Queen",
-    "title": "Innuendo",
+    "title": "The Show Must Go On",
     "album": "Innuendo • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:43 pm",
-      "artist": "Queen",
-      "title": "The Show Must Go On"
-    },
     {
       "time": "11:47 pm",
       "artist": "The Smiths",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:43 pm",
+      "artist": "Queen",
+      "title": "The Show Must Go On",
+      "album": "Innuendo • 1991"
+    },
     {
       "time": "11:36 pm",
       "artist": "Queen",
@@ -172,12 +173,6 @@
       "artist": "James Brown",
       "title": "Say It Loud: I'm Black and I'm Proud, Part 1",
       "album": "A Soulful Christmas • 1968"
-    },
-    {
-      "time": "9:49 pm",
-      "artist": "Pearl Jam",
-      "title": "Light Years",
-      "album": "Binaural • 2000"
     }
   ]
 }
