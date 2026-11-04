@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-04T02:38:21",
+  "updatedAt": "2026-11-04T02:42:26",
   "now": {
-    "artist": "John Lennon",
-    "title": "Jealous Guy",
-    "album": "Imagine • 1971",
+    "artist": "Led Zeppelin",
+    "title": "Ramble On",
+    "album": "Led Zeppelin II • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 am",
-      "artist": "Led Zeppelin",
-      "title": "Ramble On"
-    },
     {
       "time": "2:46 am",
       "artist": "John Lennon",
       "title": "Mind Games"
     },
     {
-      "time": "2:51 am",
+      "time": "2:50 am",
       "artist": "Led Zeppelin",
       "title": "Whole Lotta Love"
     },
@@ -26,9 +21,20 @@
       "time": "2:56 am",
       "artist": "John Prine",
       "title": "Angel From Montgomery"
+    },
+    {
+      "time": "3:00 am",
+      "artist": "Radiohead",
+      "title": "High and Dry"
     }
   ],
   "recent": [
+    {
+      "time": "2:42 am",
+      "artist": "Led Zeppelin",
+      "title": "Ramble On",
+      "album": "Led Zeppelin II • 1969"
+    },
     {
       "time": "2:38 am",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Knives Out",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "1:03 am",
-      "artist": "Monotones",
-      "title": "Book Of Love",
-      "album": "Book of Love • 1958"
     }
   ]
 }
