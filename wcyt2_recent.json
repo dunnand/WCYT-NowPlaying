@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T20:22:56",
+  "updatedAt": "2026-11-03T20:23:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Prince",
+    "title": "Gold",
+    "album": "The Gold Experience • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:23 pm",
-      "artist": "Prince",
-      "title": "Gold"
-    },
     {
       "time": "8:30 pm",
       "artist": "Prince",
@@ -26,9 +21,20 @@
       "time": "8:37 pm",
       "artist": "The Smiths",
       "title": "What Difference Does It Make?"
+    },
+    {
+      "time": "8:40 pm",
+      "artist": "Bleachers",
+      "title": "Modern Girl"
     }
   ],
   "recent": [
+    {
+      "time": "8:23 pm",
+      "artist": "Prince",
+      "title": "Gold",
+      "album": "The Gold Experience • 1995"
+    },
     {
       "time": "8:18 pm",
       "artist": "Bat for Lashes",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Crosstown Traffic",
       "album": "Electric Ladyland • 1968"
-    },
-    {
-      "time": "6:53 pm",
-      "artist": "Grateful Dead",
-      "title": "Scarlet Begonias",
-      "album": "From the Mars Hotel • 1974"
     }
   ]
 }
