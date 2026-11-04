@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T18:09:25",
+  "updatedAt": "2026-11-04T18:12:50",
   "now": {
-    "artist": "Nina Simone",
-    "title": "Strange Fruit",
-    "album": "Pastel Blues • 1965",
+    "artist": "Led Zeppelin",
+    "title": "When The Levee Breaks",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:12 pm",
-      "artist": "Led Zeppelin",
-      "title": "When The Levee Breaks"
-    },
     {
       "time": "6:19 pm",
       "artist": "The Smashing Pumpkins",
@@ -23,12 +18,18 @@
       "title": "Love Is Strange"
     },
     {
-      "time": "6:27 pm",
+      "time": "6:26 pm",
       "artist": "Sonic Youth",
       "title": "Antenna"
     }
   ],
   "recent": [
+    {
+      "time": "6:12 pm",
+      "artist": "Led Zeppelin",
+      "title": "When The Levee Breaks",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "6:09 pm",
       "artist": "Nina Simone",
@@ -172,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Ava Adore",
       "album": "Adore • 1998"
-    },
-    {
-      "time": "4:22 pm",
-      "artist": "Led Zeppelin",
-      "title": "Dancing Days",
-      "album": "Houses of the Holy • 1973"
     }
   ]
 }
