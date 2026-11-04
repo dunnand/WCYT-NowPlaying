@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T03:39:04",
+  "updatedAt": "2026-11-04T03:39:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "John Prine",
+    "title": "Hello in There",
+    "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:39 am",
-      "artist": "John Prine",
-      "title": "Hello in There"
-    },
     {
       "time": "3:43 am",
       "artist": "Radiohead",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:39 am",
+      "artist": "John Prine",
+      "title": "Hello in There",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "3:36 am",
       "artist": "Radiohead",
@@ -177,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Like Spinning Plates",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "2:02 am",
-      "artist": "David Guetta",
-      "title": "Turn Me On feat. Nicki Minaj",
-      "album": "Nothing But the Beat • 2011"
     }
   ]
 }
