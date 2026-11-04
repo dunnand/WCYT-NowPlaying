@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T00:36:17",
+  "updatedAt": "2026-11-04T00:40:13",
   "now": {
-    "artist": "John Cale",
-    "title": "Fear Is A Man's Best Friend",
-    "album": "Fear • 1974",
+    "artist": "Led Zeppelin",
+    "title": "Babe I'm Gonna Leave You",
+    "album": "Led Zeppelin • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 am",
-      "artist": "Led Zeppelin",
-      "title": "Babe I'm Gonna Leave You"
-    },
     {
       "time": "12:47 am",
       "artist": "John Cale",
@@ -26,9 +21,20 @@
       "time": "12:56 am",
       "artist": "John Cale",
       "title": "Paris 1919"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Radiohead",
+      "title": "Bones"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "Led Zeppelin",
+      "title": "Babe I'm Gonna Leave You",
+      "album": "Led Zeppelin • 1969"
+    },
     {
       "time": "12:36 am",
       "artist": "John Cale",
@@ -172,12 +178,6 @@
       "artist": "The Jacksons",
       "title": "Shake Your Body (Down to the Ground)",
       "album": "Destiny • 1978"
-    },
-    {
-      "time": "10:49 pm",
-      "artist": "Joni Mitchell",
-      "title": "Both Sides, Now",
-      "album": "Clouds • 1969"
     }
   ]
 }
