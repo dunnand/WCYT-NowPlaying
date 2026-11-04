@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-11-03T19:00:07",
+  "updatedAt": "2026-11-03T19:00:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Sugar Magnolia",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "7:00 pm",
+      "time": "7:03 pm",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Crosstown Traffic"
+    },
+    {
+      "time": "7:05 pm",
       "artist": "Grateful Dead",
       "title": "Sugar Magnolia"
     },
     {
-      "time": "7:03 pm",
+      "time": "7:09 pm",
       "artist": "The Jimi Hendrix Experience",
       "title": "Hey Joe"
     },
     {
-      "time": "7:06 pm",
+      "time": "7:12 pm",
       "artist": "Grateful Dead",
       "title": "Truckin'"
-    },
-    {
-      "time": "7:11 pm",
-      "artist": "Pixies",
-      "title": "Hey"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 pm",
+      "artist": "Grateful Dead",
+      "title": "Sugar Magnolia",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "6:58 pm",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "The Jimi Hendrix Experience",
       "title": "Bold as Love",
       "album": "Axis: Bold as Love • 1967"
-    },
-    {
-      "time": "5:20 pm",
-      "artist": "Radiohead",
-      "title": "Backdrifts. (Honeymoon Is Over.)",
-      "album": "Hail to the Thief • 2003"
     }
   ]
 }
