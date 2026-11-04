@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T18:49:13",
+  "updatedAt": "2026-11-04T18:52:30",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Luna",
-    "album": "Siamese Dream • 1993",
+    "artist": "The Kinks",
+    "title": "Better Things",
+    "album": "Give the People What They Want • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:52 pm",
-      "artist": "The Kinks",
-      "title": "Better Things"
-    },
     {
       "time": "6:55 pm",
       "artist": "Joy Division",
@@ -21,9 +16,25 @@
       "time": "6:59 pm",
       "artist": "Turnstile",
       "title": "I CARE"
+    },
+    {
+      "time": "7:03 pm",
+      "artist": "Leonard Cohen",
+      "title": "Avalanche"
+    },
+    {
+      "time": "7:08 pm",
+      "artist": "Leonard Cohen",
+      "title": "Famous Blue Raincoat"
     }
   ],
   "recent": [
+    {
+      "time": "6:52 pm",
+      "artist": "The Kinks",
+      "title": "Better Things",
+      "album": "Give the People What They Want • 1981"
+    },
     {
       "time": "6:49 pm",
       "artist": "The Smashing Pumpkins",
@@ -167,12 +178,6 @@
       "artist": "The Cure",
       "title": "A Forest",
       "album": "Seventeen Seconds • 1980"
-    },
-    {
-      "time": "4:51 pm",
-      "artist": "The Cure",
-      "title": "Close to Me",
-      "album": "The Head on the Door • 1985"
     }
   ]
 }
