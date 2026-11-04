@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T07:18:57",
+  "updatedAt": "2026-11-04T07:19:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "The Tourist",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:19 am",
-      "artist": "Radiohead",
-      "title": "The Tourist"
-    },
     {
       "time": "7:24 am",
       "artist": "Rancid",
@@ -26,9 +21,20 @@
       "time": "7:35 am",
       "artist": "The Cure",
       "title": "Catch"
+    },
+    {
+      "time": "7:37 am",
+      "artist": "The Olivia Tremor Control",
+      "title": "Hideaway"
     }
   ],
   "recent": [
+    {
+      "time": "7:19 am",
+      "artist": "Radiohead",
+      "title": "The Tourist",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "7:15 am",
       "artist": "Calvin Harris",
@@ -172,12 +178,6 @@
       "artist": "Joni Mitchell",
       "title": "A Case of You",
       "album": "Blue • 1971"
-    },
-    {
-      "time": "5:36 am",
-      "artist": "Radiohead",
-      "title": "Pyramid Song",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
