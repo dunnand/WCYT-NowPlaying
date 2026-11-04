@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-03T20:10:42",
+  "updatedAt": "2026-11-03T20:16:08",
   "now": {
-    "artist": "Radiohead",
-    "title": "House of Cards",
-    "album": "In Rainbows • 2007",
+    "artist": "John Lee Hooker",
+    "title": "Boom Boom",
+    "album": "Burnin' • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:16 pm",
-      "artist": "John Lee Hooker",
-      "title": "Boom Boom"
-    },
     {
       "time": "8:18 pm",
       "artist": "Bat for Lashes",
@@ -21,9 +16,20 @@
       "time": "8:23 pm",
       "artist": "Prince",
       "title": "Gold"
+    },
+    {
+      "time": "8:30 pm",
+      "artist": "Prince",
+      "title": "Nothing Compares 2 U"
     }
   ],
   "recent": [
+    {
+      "time": "8:16 pm",
+      "artist": "John Lee Hooker",
+      "title": "Boom Boom",
+      "album": "Burnin' • 1962"
+    },
     {
       "time": "8:10 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Turnstile",
       "title": "DON'T PLAY",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "The Smiths",
-      "title": "This Night Has Opened My Eyes",
-      "album": "Hatful of Hollow • 1984"
     }
   ]
 }
