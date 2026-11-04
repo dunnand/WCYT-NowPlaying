@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T12:12:10",
+  "updatedAt": "2026-11-04T12:12:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kraftwerk",
+    "title": "Autobahn",
+    "album": "Autobahn • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 pm",
-      "artist": "Kraftwerk",
-      "title": "Autobahn"
-    },
     {
       "time": "12:24 pm",
       "artist": "Nancy Sinatra",
@@ -26,9 +21,20 @@
       "time": "12:37 pm",
       "artist": "Neil Young",
       "title": "Mr. Soul"
+    },
+    {
+      "time": "12:40 pm",
+      "artist": "Kraftwerk",
+      "title": "Radioactivity"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 pm",
+      "artist": "Kraftwerk",
+      "title": "Autobahn",
+      "album": "Autobahn • 1974"
+    },
     {
       "time": "12:08 pm",
       "artist": "Malcolm Todd",
@@ -172,12 +178,6 @@
       "artist": "David Guetta",
       "title": "Without You feat. Usher",
       "album": "Nothing But the Beat • 2011"
-    },
-    {
-      "time": "10:16 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Parallel Universe",
-      "album": "Californication • 1999"
     }
   ]
 }
