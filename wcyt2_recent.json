@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T08:43:25",
+  "updatedAt": "2026-11-04T08:51:04",
   "now": {
-    "artist": "The Cure",
-    "title": "Lullaby",
-    "album": "Disintegration • 1989",
+    "artist": "Taylor Swift",
+    "title": "august",
+    "album": "folklore • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 am",
-      "artist": "Taylor Swift",
-      "title": "august"
-    },
     {
       "time": "8:55 am",
       "artist": "Joni Mitchell",
@@ -21,9 +16,20 @@
       "time": "9:00 am",
       "artist": "KISS",
       "title": "Black Diamond"
+    },
+    {
+      "time": "9:04 am",
+      "artist": "Radiohead",
+      "title": "We Suck Young Blood. (Your Time Is Up.)"
     }
   ],
   "recent": [
+    {
+      "time": "8:51 am",
+      "artist": "Taylor Swift",
+      "title": "august",
+      "album": "folklore • 2020"
+    },
     {
       "time": "8:43 am",
       "artist": "The Cure",
@@ -167,12 +173,6 @@
       "artist": "Radiohead",
       "title": "The Bends",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "6:55 am",
-      "artist": "Joni Mitchell",
-      "title": "California",
-      "album": "Blue • 1971"
     }
   ]
 }
