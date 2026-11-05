@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-05T05:47:53",
+  "updatedAt": "2026-11-05T05:50:36",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Mother's Little Helper",
-    "album": "Aftermath • 1966",
+    "artist": "Neil Young",
+    "title": "The Needle and the Damage Done",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:50 am",
-      "artist": "Neil Young",
-      "title": "The Needle and the Damage Done"
-    },
     {
       "time": "5:52 am",
       "artist": "Supergrass",
       "title": "Moving"
     },
     {
-      "time": "5:56 am",
+      "time": "5:57 am",
       "artist": "The Fleetwoods",
       "title": "Mr. Blue"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:50 am",
+      "artist": "Neil Young",
+      "title": "The Needle and the Damage Done",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "5:47 am",
       "artist": "Rolling Stones",
@@ -172,12 +173,6 @@
       "artist": "Super Furry Animals",
       "title": "Play It Cool",
       "album": "Fuzzy Logic • 1996"
-    },
-    {
-      "time": "4:10 am",
-      "artist": "Blur",
-      "title": "Lonesome Street",
-      "album": "The Magic Whip • 2015"
     }
   ]
 }
