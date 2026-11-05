@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T00:07:36",
+  "updatedAt": "2026-11-05T00:07:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Otis Redding",
+    "title": "I've Been Loving You Too Long",
+    "album": "Otis Blue • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:07 am",
-      "artist": "Otis Redding",
-      "title": "I've Been Loving You Too Long"
-    },
     {
       "time": "12:10 am",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "12:20 am",
       "artist": "Stone Temple Pilots",
       "title": "Big Bang Baby"
+    },
+    {
+      "time": "12:23 am",
+      "artist": "Bangles",
+      "title": "Eternal Flame"
     }
   ],
   "recent": [
+    {
+      "time": "12:07 am",
+      "artist": "Otis Redding",
+      "title": "I've Been Loving You Too Long",
+      "album": "Otis Blue • 1965"
+    },
     {
       "time": "12:05 am",
       "artist": "Supergrass",
@@ -172,12 +178,6 @@
       "artist": "Lynyrd Skynyrd",
       "title": "Tuesday's Gone",
       "album": "pronounced leh-nrd skin-nrd • 1973"
-    },
-    {
-      "time": "10:23 pm",
-      "artist": "Foals",
-      "title": "Mountain at My Gates",
-      "album": "What Went Down • 2015"
     }
   ]
 }
