@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T14:30:07",
+  "updatedAt": "2026-11-05T14:30:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney",
+    "title": "Monkberry Moon Delight",
+    "album": "Ram • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:30 pm",
-      "artist": "Paul McCartney",
-      "title": "Monkberry Moon Delight"
-    },
     {
       "time": "2:35 pm",
       "artist": "The Stooges",
@@ -26,9 +21,20 @@
       "time": "2:43 pm",
       "artist": "The Stooges",
       "title": "I Wanna Be Your Dog"
+    },
+    {
+      "time": "2:46 pm",
+      "artist": "Paul McCartney and Wings",
+      "title": "Jet"
     }
   ],
   "recent": [
+    {
+      "time": "2:30 pm",
+      "artist": "Paul McCartney",
+      "title": "Monkberry Moon Delight",
+      "album": "Ram • 1971"
+    },
     {
       "time": "2:26 pm",
       "artist": "Miley Cyrus",
@@ -172,12 +178,6 @@
       "artist": "Smokey Robinson & The Miracles",
       "title": "I Second That Emotion",
       "album": "Going to a Go-Go • 1965"
-    },
-    {
-      "time": "12:38 pm",
-      "artist": "Parliament",
-      "title": "Mothership Connection (Star Child)",
-      "album": "Mothership Connection • 1975"
     }
   ]
 }
