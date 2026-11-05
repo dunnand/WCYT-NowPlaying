@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T14:39:33",
+  "updatedAt": "2026-11-05T14:43:37",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Too Many People",
-    "album": "Ram • 1971",
+    "artist": "The Stooges",
+    "title": "I Wanna Be Your Dog",
+    "album": "The Stooges • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 pm",
-      "artist": "The Stooges",
-      "title": "I Wanna Be Your Dog"
-    },
     {
       "time": "2:46 pm",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "2:56 pm",
       "artist": "Sister Rosetta Tharpe",
       "title": "Up Above My Head I Hear Music In The Air"
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "Wilco",
+      "title": "Impossible Germany"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 pm",
+      "artist": "The Stooges",
+      "title": "I Wanna Be Your Dog",
+      "album": "The Stooges • 1969"
+    },
     {
       "time": "2:39 pm",
       "artist": "Paul McCartney",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Roll Over Beethoven",
       "album": "Berry Is on Top • 1959"
-    },
-    {
-      "time": "12:55 pm",
-      "artist": "They Might Be Giants",
-      "title": "Istanbul (Not Constantinople)",
-      "album": "Flood • 1990"
     }
   ]
 }
