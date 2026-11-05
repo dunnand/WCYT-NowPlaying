@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T09:52:22",
+  "updatedAt": "2026-11-05T09:52:34",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Iggy Pop",
+    "title": "Some Weird Sin",
+    "album": "Lust for Life • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:52 am",
-      "artist": "Iggy Pop",
-      "title": "Some Weird Sin"
-    },
     {
       "time": "9:56 am",
       "artist": "This Heat",
@@ -26,9 +21,20 @@
       "time": "10:06 am",
       "artist": "Talking Heads",
       "title": "The Good Thing"
+    },
+    {
+      "time": "10:09 am",
+      "artist": "Andy Shauf",
+      "title": "The Worst In You"
     }
   ],
   "recent": [
+    {
+      "time": "9:52 am",
+      "artist": "Iggy Pop",
+      "title": "Some Weird Sin",
+      "album": "Lust for Life • 1977"
+    },
     {
       "time": "9:48 am",
       "artist": "Star Moles",
@@ -172,12 +178,6 @@
       "artist": "Nation of Language",
       "title": "September Again",
       "album": "Introduction, Presence • 2020"
-    },
-    {
-      "time": "8:10 am",
-      "artist": "Beatrix",
-      "title": "Dead Dog",
-      "album": "We Swallowed The Sky • 2026"
     }
   ]
 }
