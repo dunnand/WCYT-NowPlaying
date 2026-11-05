@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T21:29:36",
+  "updatedAt": "2026-11-04T21:35:22",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Simple Man",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "100%",
+    "album": "Dirty • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:35 pm",
-      "artist": "Sonic Youth",
-      "title": "100%"
-    },
     {
       "time": "9:37 pm",
       "artist": "Sister Rosetta Tharpe",
@@ -26,9 +21,20 @@
       "time": "9:44 pm",
       "artist": "Otis Redding",
       "title": "Hard to Handle"
+    },
+    {
+      "time": "9:46 pm",
+      "artist": "Flo Rida",
+      "title": "Good Feeling"
     }
   ],
   "recent": [
+    {
+      "time": "9:35 pm",
+      "artist": "Sonic Youth",
+      "title": "100%",
+      "album": "Dirty • 1992"
+    },
     {
       "time": "9:29 pm",
       "artist": "Lynyrd Skynyrd",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Rocket",
       "album": "Siamese Dream • 1993"
-    },
-    {
-      "time": "7:50 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Rhinoceros",
-      "album": "Gish • 1991"
     }
   ]
 }
