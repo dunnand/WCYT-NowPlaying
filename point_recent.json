@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T04:22:02",
+  "updatedAt": "2026-11-05T04:28:09",
   "now": {
-    "artist": "The Cure",
-    "title": "The Figurehead",
-    "album": "Pornography • 1982",
+    "artist": "Junior Pro",
+    "title": "Cool",
+    "album": "Cool • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:28 am",
-      "artist": "Junior Pro",
-      "title": "Cool"
-    },
     {
       "time": "4:31 am",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "4:41 am",
       "artist": "King Gizzard & The Lizard Wizard",
       "title": "Witchcraft"
+    },
+    {
+      "time": "4:46 am",
+      "artist": "M. Ward",
+      "title": "To Go Home"
     }
   ],
   "recent": [
+    {
+      "time": "4:28 am",
+      "artist": "Junior Pro",
+      "title": "Cool",
+      "album": "Cool • 2026"
+    },
     {
       "time": "4:22 am",
       "artist": "The Cure",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Via Chicago",
       "album": "Summerteeth • 1999"
-    },
-    {
-      "time": "2:46 am",
-      "artist": "DIIV",
-      "title": "Trillions",
-      "album": "ZIRP! • 2026"
     }
   ]
 }
