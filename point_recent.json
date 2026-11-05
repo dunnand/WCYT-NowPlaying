@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T02:49:29",
+  "updatedAt": "2026-11-05T02:49:51",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Wilco",
+    "title": "Via Chicago",
+    "album": "Summerteeth • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:49 am",
-      "artist": "Wilco",
-      "title": "Via Chicago"
-    },
     {
       "time": "2:54 am",
       "artist": "Iron & Wine",
@@ -26,9 +21,20 @@
       "time": "3:00 am",
       "artist": "Cornelius",
       "title": "Sparks"
+    },
+    {
+      "time": "3:04 am",
+      "artist": "New Order",
+      "title": "True Faith"
     }
   ],
   "recent": [
+    {
+      "time": "2:49 am",
+      "artist": "Wilco",
+      "title": "Via Chicago",
+      "album": "Summerteeth • 1999"
+    },
     {
       "time": "2:46 am",
       "artist": "DIIV",
@@ -172,12 +178,6 @@
       "artist": "Freak Slug",
       "title": "Muse",
       "album": "Amulet • 2026"
-    },
-    {
-      "time": "1:21 am",
-      "artist": "Home Is Where",
-      "title": "yes! yes! a thousands times yes!",
-      "album": "The Whaler • 2023"
     }
   ]
 }
