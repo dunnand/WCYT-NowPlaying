@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T22:02:58",
+  "updatedAt": "2026-11-04T22:03:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Whitney Houston",
+    "title": "So Emotional",
+    "album": "Whitney • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:03 pm",
-      "artist": "Whitney Houston",
-      "title": "So Emotional"
-    },
     {
       "time": "10:07 pm",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "10:15 pm",
       "artist": "Lynyrd Skynyrd",
       "title": "Sweet Home Alabama"
+    },
+    {
+      "time": "10:20 pm",
+      "artist": "Super Furry Animals",
+      "title": "Hello Sunshine"
     }
   ],
   "recent": [
+    {
+      "time": "10:03 pm",
+      "artist": "Whitney Houston",
+      "title": "So Emotional",
+      "album": "Whitney • 1988"
+    },
     {
       "time": "9:58 pm",
       "artist": "U2",
@@ -172,12 +178,6 @@
       "artist": "Lou Reed",
       "title": "Satellite of Love",
       "album": "Transformer • 1972"
-    },
-    {
-      "time": "8:24 pm",
-      "artist": "Os Mutantes",
-      "title": "Panis et circenses",
-      "album": "Os Mutantes • 1968"
     }
   ]
 }
