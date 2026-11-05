@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T08:30:21",
+  "updatedAt": "2026-11-05T08:30:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Guns N' Roses",
+    "title": "Patience",
+    "album": "G N' R Lies • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:30 am",
-      "artist": "Guns N' Roses",
-      "title": "Patience"
-    },
     {
       "time": "8:36 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "8:44 am",
       "artist": "Nick Drake",
       "title": "Northern Sky"
+    },
+    {
+      "time": "8:47 am",
+      "artist": "Vic Chesnutt",
+      "title": "You Are Never Alone"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 am",
+      "artist": "Guns N' Roses",
+      "title": "Patience",
+      "album": "G N' R Lies • 1989"
+    },
     {
       "time": "8:24 am",
       "artist": "George Michael",
@@ -172,12 +178,6 @@
       "artist": "Neil Young & Crazy Horse",
       "title": "Hey Hey, My My (Into the Black)",
       "album": "Rust Never Sleeps • 1979"
-    },
-    {
-      "time": "6:53 am",
-      "artist": "Sam Cooke",
-      "title": "(Ain't That) Good News",
-      "album": "Aint That Good News • 1964"
     }
   ]
 }
