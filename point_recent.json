@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T07:58:19",
+  "updatedAt": "2026-11-05T07:58:29",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Smiths",
+    "title": "Cemetry Gates",
+    "album": "The Queen is Dead • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:58 am",
-      "artist": "The Smiths",
-      "title": "Cemetry Gates"
-    },
     {
       "time": "8:00 am",
       "artist": "Cheekface",
@@ -26,9 +21,20 @@
       "time": "8:09 am",
       "artist": "Day Wave",
       "title": "Linger"
+    },
+    {
+      "time": "8:12 am",
+      "artist": "Le Tigre",
+      "title": "Phanta"
     }
   ],
   "recent": [
+    {
+      "time": "7:58 am",
+      "artist": "The Smiths",
+      "title": "Cemetry Gates",
+      "album": "The Queen is Dead • 1986"
+    },
     {
       "time": "7:52 am",
       "artist": "Sadurn",
@@ -172,12 +178,6 @@
       "artist": "Panda Bear & Sonic Boom",
       "title": "Never givi'n in",
       "album": "A ? of WHEN • 2026"
-    },
-    {
-      "time": "6:16 am",
-      "artist": "The Strokes",
-      "title": "Heart In A Cage",
-      "album": "First Impressions of Earth • 2006"
     }
   ]
 }
