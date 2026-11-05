@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T22:51:34",
+  "updatedAt": "2026-11-04T22:55:09",
   "now": {
-    "artist": "Foster The People",
-    "title": "Pumped Up Kicks",
-    "album": "Torches • 2010",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Kool Thing",
+    "album": "Goo • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:55 pm",
-      "artist": "Sonic Youth",
-      "title": "Kool Thing"
-    },
     {
       "time": "10:59 pm",
       "artist": "Sonic Youth",
@@ -21,9 +16,20 @@
       "time": "11:04 pm",
       "artist": "AC/DC",
       "title": "Shoot to Thrill"
+    },
+    {
+      "time": "11:09 pm",
+      "artist": "Aerosmith",
+      "title": "Rag Doll"
     }
   ],
   "recent": [
+    {
+      "time": "10:55 pm",
+      "artist": "Sonic Youth",
+      "title": "Kool Thing",
+      "album": "Goo • 1990"
+    },
     {
       "time": "10:51 pm",
       "artist": "Foster The People",
@@ -167,12 +173,6 @@
       "artist": "Otis Redding",
       "title": "(Sittin' on) The Dock of the Bay",
       "album": "The Dock of the Bay • 1968"
-    },
-    {
-      "time": "9:12 pm",
-      "artist": "Lou Reed",
-      "title": "Vicious",
-      "album": "Transformer • 1972"
     }
   ]
 }
