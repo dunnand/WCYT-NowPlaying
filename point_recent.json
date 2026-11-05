@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T00:42:31",
+  "updatedAt": "2026-11-05T00:42:43",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "of Montreal",
+    "title": "Jacques Lamure",
+    "album": "The Parade • 1999",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "of Montreal",
-      "title": "Jacques Lamure"
-    },
     {
       "time": "12:45 am",
       "artist": "The Mars Volta",
@@ -26,9 +21,20 @@
       "time": "12:55 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Dig, Lazarus, Dig!!!"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "SBTKRT",
+      "title": "LFO (feat. Sampha & George Riley)"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "of Montreal",
+      "title": "Jacques Lamure",
+      "album": "The Parade • 1999"
+    },
     {
       "time": "12:39 am",
       "artist": "Fontaines D.C.",
@@ -172,12 +178,6 @@
       "artist": "Ok Cowgirl",
       "title": "Cruise the Town",
       "album": "Rhinestone Cowgirl • 2026"
-    },
-    {
-      "time": "11:11 pm",
-      "artist": "Smith Westerns",
-      "title": "Be My Girl",
-      "album": "Smith Westerns • 2008"
     }
   ]
 }
