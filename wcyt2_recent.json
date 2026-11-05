@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T11:37:29",
+  "updatedAt": "2026-11-05T11:40:34",
   "now": {
-    "artist": "Weezer",
-    "title": "Pork and Beans",
-    "album": "Weezer • 2008",
+    "artist": "Beyonce",
+    "title": "Blue",
+    "album": "Beyonce • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:40 am",
-      "artist": "Beyonce",
-      "title": "Blue"
-    },
     {
       "time": "11:44 am",
       "artist": "Parliament",
@@ -26,9 +21,20 @@
       "time": "11:53 am",
       "artist": "Bruno Mars",
       "title": "Treasure"
+    },
+    {
+      "time": "11:56 am",
+      "artist": "Weezer",
+      "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)"
     }
   ],
   "recent": [
+    {
+      "time": "11:40 am",
+      "artist": "Beyonce",
+      "title": "Blue",
+      "album": "Beyonce • 2013"
+    },
     {
       "time": "11:37 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Space Song",
       "album": "Depression Cherry • 2015"
-    },
-    {
-      "time": "10:00 am",
-      "artist": "Weezer",
-      "title": "Keep Fishin'",
-      "album": "Maladroit • 2002"
     }
   ]
 }
