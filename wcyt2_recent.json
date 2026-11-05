@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T09:58:31",
+  "updatedAt": "2026-11-05T10:00:42",
   "now": {
     "artist": "Weezer",
-    "title": "Dope Nose",
-    "album": "Weezer • 2001",
+    "title": "Keep Fishin'",
+    "album": "Maladroit • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:00 am",
-      "artist": "Weezer",
-      "title": "Keep Fishin'"
-    },
     {
       "time": "10:04 am",
       "artist": "Beach House",
@@ -26,9 +21,20 @@
       "time": "10:13 am",
       "artist": "The Prodigy",
       "title": "Breathe"
+    },
+    {
+      "time": "10:18 am",
+      "artist": "J. Geils Band",
+      "title": "Love Stinks"
     }
   ],
   "recent": [
+    {
+      "time": "10:00 am",
+      "artist": "Weezer",
+      "title": "Keep Fishin'",
+      "album": "Maladroit • 2002"
+    },
     {
       "time": "9:58 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Anti-Hero",
       "album": "Midnights • 2022"
-    },
-    {
-      "time": "8:30 am",
-      "artist": "Guns N' Roses",
-      "title": "Patience",
-      "album": "G N' R Lies • 1989"
     }
   ]
 }
