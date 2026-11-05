@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T07:38:14",
+  "updatedAt": "2026-11-05T07:41:49",
   "now": {
-    "artist": "George Harrison",
-    "title": "All Those Years Ago",
-    "album": "Somewhere in England • 1981",
+    "artist": "Beauty Queen",
+    "title": "On Edge",
+    "album": "Single • 2025",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:41 am",
-      "artist": "Beauty Queen",
-      "title": "On Edge"
-    },
     {
       "time": "7:44 am",
       "artist": "The Zutons",
@@ -26,9 +21,20 @@
       "time": "7:52 am",
       "artist": "Thundercat",
       "title": "Funny Thing"
+    },
+    {
+      "time": "7:54 am",
+      "artist": "Eminem",
+      "title": "Not Afraid"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 am",
+      "artist": "Beauty Queen",
+      "title": "On Edge",
+      "album": "Single • 2025"
+    },
     {
       "time": "7:38 am",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "Supergrass",
       "title": "Moving",
       "album": "Supergrass • 1999"
-    },
-    {
-      "time": "5:50 am",
-      "artist": "Neil Young",
-      "title": "The Needle and the Damage Done",
-      "album": "Harvest • 1972"
     }
   ]
 }
