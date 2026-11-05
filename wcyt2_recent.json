@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T04:10:36",
+  "updatedAt": "2026-11-05T04:13:51",
   "now": {
-    "artist": "Blur",
-    "title": "Lonesome Street",
-    "album": "The Magic Whip • 2015",
-    "category": "TUNES"
+    "artist": "Super Furry Animals",
+    "title": "Play It Cool",
+    "album": "Fuzzy Logic • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:13 am",
-      "artist": "Super Furry Animals",
-      "title": "Play It Cool"
-    },
     {
       "time": "4:17 am",
       "artist": "Super Furry Animals",
@@ -21,9 +16,20 @@
       "time": "4:20 am",
       "artist": "Dire Straits",
       "title": "Money For Nothing"
+    },
+    {
+      "time": "4:24 am",
+      "artist": "Duran Duran",
+      "title": "Notorious"
     }
   ],
   "recent": [
+    {
+      "time": "4:13 am",
+      "artist": "Super Furry Animals",
+      "title": "Play It Cool",
+      "album": "Fuzzy Logic • 1996"
+    },
     {
       "time": "4:10 am",
       "artist": "Blur",
@@ -167,12 +173,6 @@
       "artist": "Mott the Hoople",
       "title": "All the Way From Memphis",
       "album": "Mott • 1973"
-    },
-    {
-      "time": "2:31 am",
-      "artist": "The Modern Lovers",
-      "title": "Roadrunner",
-      "album": "The Modern Lovers • 1976"
     }
   ]
 }
