@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T00:07:48",
+  "updatedAt": "2026-11-05T00:10:43",
   "now": {
-    "artist": "Otis Redding",
-    "title": "I've Been Loving You Too Long",
-    "album": "Otis Blue • 1965",
+    "artist": "David Byrne",
+    "title": "Everybody's Coming to My House",
+    "album": "American Utopia • 2018",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 am",
-      "artist": "David Byrne",
-      "title": "Everybody's Coming to My House"
-    },
     {
       "time": "12:14 am",
       "artist": "Sonic Youth",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:10 am",
+      "artist": "David Byrne",
+      "title": "Everybody's Coming to My House",
+      "album": "American Utopia • 2018"
+    },
     {
       "time": "12:07 am",
       "artist": "Otis Redding",
@@ -172,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "Disappearer",
       "album": "Goo • 1990"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Tuesday's Gone",
-      "album": "pronounced leh-nrd skin-nrd • 1973"
     }
   ]
 }
