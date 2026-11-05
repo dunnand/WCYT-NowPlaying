@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T02:20:09",
+  "updatedAt": "2026-11-05T02:25:15",
   "now": {
-    "artist": "Chicago",
-    "title": "Hard To Say I'm Sorry",
-    "album": "Chicago 16 • 1982",
+    "artist": "Taylor Swift",
+    "title": "Enchanted (Taylor's version)",
+    "album": "Speak Now • 2023",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:25 am",
-      "artist": "Taylor Swift",
-      "title": "Enchanted (Taylor's version)"
-    },
     {
       "time": "2:31 am",
       "artist": "The Modern Lovers",
@@ -21,9 +16,20 @@
       "time": "2:35 am",
       "artist": "Mott the Hoople",
       "title": "All the Way From Memphis"
+    },
+    {
+      "time": "2:40 am",
+      "artist": "The Killers",
+      "title": "Human"
     }
   ],
   "recent": [
+    {
+      "time": "2:25 am",
+      "artist": "Taylor Swift",
+      "title": "Enchanted (Taylor's version)",
+      "album": "Speak Now • 2023"
+    },
     {
       "time": "2:20 am",
       "artist": "Chicago",
@@ -167,12 +173,6 @@
       "artist": "Stone Temple Pilots",
       "title": "Big Empty",
       "album": "The Crow soundtrack • 1994"
-    },
-    {
-      "time": "12:54 am",
-      "artist": "Marvin Gaye",
-      "title": "Mercy Mercy Me (The Ecology)",
-      "album": "Whats Going On • 1971"
     }
   ]
 }
