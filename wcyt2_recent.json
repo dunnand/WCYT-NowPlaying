@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T19:55:49",
+  "updatedAt": "2026-11-04T19:59:57",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Rocket",
-    "album": "Siamese Dream • 1993",
+    "artist": "Kate Bush",
+    "title": "Running Up That Hill (A Deal With God)",
+    "album": "Hounds of Love • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:59 pm",
-      "artist": "Kate Bush",
-      "title": "Running Up That Hill (A Deal With God)"
-    },
     {
       "time": "8:05 pm",
       "artist": "Lionel Richie",
@@ -21,9 +16,20 @@
       "time": "8:09 pm",
       "artist": "Toosii",
       "title": "Favorite Song"
+    },
+    {
+      "time": "8:12 pm",
+      "artist": "Loretta Lynn",
+      "title": "Coal Miner's Daughter"
     }
   ],
   "recent": [
+    {
+      "time": "7:59 pm",
+      "artist": "Kate Bush",
+      "title": "Running Up That Hill (A Deal With God)",
+      "album": "Hounds of Love • 1985"
+    },
     {
       "time": "7:55 pm",
       "artist": "The Smashing Pumpkins",
@@ -167,12 +173,6 @@
       "artist": "Nina Simone",
       "title": "Strange Fruit",
       "album": "Pastel Blues • 1965"
-    },
-    {
-      "time": "6:04 pm",
-      "artist": "Led Zeppelin",
-      "title": "Trampled Under Foot",
-      "album": "Physical Graffiti • 1975"
     }
   ]
 }
