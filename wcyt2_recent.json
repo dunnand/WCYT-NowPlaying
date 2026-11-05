@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T04:07:43",
+  "updatedAt": "2026-11-05T04:07:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "See Emily Play",
+    "album": "single • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:07 am",
-      "artist": "Pink Floyd",
-      "title": "See Emily Play"
-    },
     {
       "time": "4:10 am",
       "artist": "Blur",
@@ -26,9 +21,20 @@
       "time": "4:17 am",
       "artist": "Super Furry Animals",
       "title": "Something 4 the Weekend"
+    },
+    {
+      "time": "4:20 am",
+      "artist": "Dire Straits",
+      "title": "Money For Nothing"
     }
   ],
   "recent": [
+    {
+      "time": "4:07 am",
+      "artist": "Pink Floyd",
+      "title": "See Emily Play",
+      "album": "single • 1967"
+    },
     {
       "time": "4:03 am",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Enchanted (Taylor's version)",
       "album": "Speak Now • 2023"
-    },
-    {
-      "time": "2:20 am",
-      "artist": "Chicago",
-      "title": "Hard To Say I'm Sorry",
-      "album": "Chicago 16 • 1982"
     }
   ]
 }
