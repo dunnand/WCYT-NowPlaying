@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T07:38:02",
+  "updatedAt": "2026-11-05T07:38:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "George Harrison",
+    "title": "All Those Years Ago",
+    "album": "Somewhere in England • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:38 am",
-      "artist": "George Harrison",
-      "title": "All Those Years Ago"
-    },
     {
       "time": "7:41 am",
       "artist": "Beauty Queen",
@@ -26,9 +21,20 @@
       "time": "7:48 am",
       "artist": "Neil Young & Crazy Horse",
       "title": "My My, Hey Hey (Out of the Blue)"
+    },
+    {
+      "time": "7:52 am",
+      "artist": "Thundercat",
+      "title": "Funny Thing"
     }
   ],
   "recent": [
+    {
+      "time": "7:38 am",
+      "artist": "George Harrison",
+      "title": "All Those Years Ago",
+      "album": "Somewhere in England • 1981"
+    },
     {
       "time": "7:33 am",
       "artist": "Foreigner",
@@ -172,12 +178,6 @@
       "artist": "Neil Young",
       "title": "The Needle and the Damage Done",
       "album": "Harvest • 1972"
-    },
-    {
-      "time": "5:47 am",
-      "artist": "Rolling Stones",
-      "title": "Mother's Little Helper",
-      "album": "Aftermath • 1966"
     }
   ]
 }
