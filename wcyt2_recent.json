@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T14:59:56",
+  "updatedAt": "2026-11-05T15:03:22",
   "now": {
-    "artist": "*NSYNC",
-    "title": "Bye Bye Bye",
-    "album": "No Strings Attached • 2000",
+    "artist": "The Band",
+    "title": "Across the Great Divide",
+    "album": "The Band • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:03 pm",
-      "artist": "The Band",
-      "title": "Across the Great Divide"
-    },
     {
       "time": "3:06 pm",
       "artist": "Billie Eilish",
@@ -21,9 +16,20 @@
       "time": "3:09 pm",
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Walls (Circus)"
+    },
+    {
+      "time": "3:14 pm",
+      "artist": "Vic Chesnutt",
+      "title": "Replenished"
     }
   ],
   "recent": [
+    {
+      "time": "3:03 pm",
+      "artist": "The Band",
+      "title": "Across the Great Divide",
+      "album": "The Band • 1969"
+    },
     {
       "time": "2:59 pm",
       "artist": "*NSYNC",
@@ -167,12 +173,6 @@
       "artist": "Kool & The Gang",
       "title": "Cherish",
       "album": "Emergency • 1985"
-    },
-    {
-      "time": "1:23 pm",
-      "artist": "Tom Petty",
-      "title": "It's Good to Be King",
-      "album": "Wildflowers • 1994"
     }
   ]
 }
