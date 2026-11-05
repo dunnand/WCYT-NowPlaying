@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T11:53:59",
+  "updatedAt": "2026-11-05T11:54:11",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Elliott Smith",
+    "title": "Everything Reminds Me of Her",
+    "album": "Figure 8 • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:54 am",
-      "artist": "Elliott Smith",
-      "title": "Everything Reminds Me of Her"
-    },
     {
       "time": "11:56 am",
       "artist": "Julia Holter",
@@ -26,9 +21,20 @@
       "time": "12:07 pm",
       "artist": "The Cramps",
       "title": "I Was a Teenage Werewolf"
+    },
+    {
+      "time": "12:10 pm",
+      "artist": "Japanese Breakfast",
+      "title": "Sit"
     }
   ],
   "recent": [
+    {
+      "time": "11:54 am",
+      "artist": "Elliott Smith",
+      "title": "Everything Reminds Me of Her",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "11:50 am",
       "artist": "Queens of the Stone Age",
@@ -172,12 +178,6 @@
       "artist": "GUV",
       "title": "Let Your Hands Go",
       "album": "Warmer Than Gold • 2026"
-    },
-    {
-      "time": "10:10 am",
-      "artist": "The Jesus and Mary Chain",
-      "title": "Something's Wrong",
-      "album": "Psychocandy • 1985"
     }
   ]
 }
