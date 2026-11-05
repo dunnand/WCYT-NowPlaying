@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T08:53:43",
+  "updatedAt": "2026-11-05T08:57:08",
   "now": {
-    "artist": "B.O.B.",
-    "title": "So Good",
-    "album": "Strange Clouds • 2012",
+    "artist": "Nick Drake",
+    "title": "Pink Moon",
+    "album": "Pink Moon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 am",
-      "artist": "Nick Drake",
-      "title": "Pink Moon"
-    },
     {
       "time": "8:59 am",
       "artist": "The Chemical Brothers",
@@ -26,9 +21,20 @@
       "time": "9:07 am",
       "artist": "Weezer",
       "title": "(If You're Wondering If I Want You to) I Want You To"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Weezer",
+      "title": "Beverly Hills"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 am",
+      "artist": "Nick Drake",
+      "title": "Pink Moon",
+      "album": "Pink Moon • 1972"
+    },
     {
       "time": "8:53 am",
       "artist": "B.O.B.",
@@ -172,12 +178,6 @@
       "artist": "Talk Talk",
       "title": "New Grass",
       "album": "Laughing Stock • 1991"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "Beach Weather",
-      "title": "Chit Chat",
-      "album": "Chit Chat • 2016"
     }
   ]
 }
