@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T14:43:37",
+  "updatedAt": "2026-11-05T14:46:41",
   "now": {
-    "artist": "The Stooges",
-    "title": "I Wanna Be Your Dog",
-    "album": "The Stooges • 1969",
+    "artist": "Paul McCartney and Wings",
+    "title": "Jet",
+    "album": "Band on the Run • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:46 pm",
-      "artist": "Paul McCartney and Wings",
-      "title": "Jet"
-    },
     {
       "time": "2:50 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:46 pm",
+      "artist": "Paul McCartney and Wings",
+      "title": "Jet",
+      "album": "Band on the Run • 1973"
+    },
     {
       "time": "2:43 pm",
       "artist": "The Stooges",
@@ -172,12 +173,6 @@
       "artist": "Wilco",
       "title": "Ashes of American Flags",
       "album": "Yankee Hotel Foxtrot • 2002"
-    },
-    {
-      "time": "12:57 pm",
-      "artist": "Chuck Berry",
-      "title": "Roll Over Beethoven",
-      "album": "Berry Is on Top • 1959"
     }
   ]
 }
