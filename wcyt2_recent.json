@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T22:07:05",
+  "updatedAt": "2026-11-04T22:11:01",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "cardigan",
-    "album": "Folklore • 2020",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "What We Know",
+    "album": "The Eternal • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:10 pm",
-      "artist": "Sonic Youth",
-      "title": "What We Know"
-    },
     {
       "time": "10:15 pm",
       "artist": "Lynyrd Skynyrd",
@@ -26,9 +21,20 @@
       "time": "10:23 pm",
       "artist": "Foals",
       "title": "Mountain at My Gates"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Tuesday's Gone"
     }
   ],
   "recent": [
+    {
+      "time": "10:11 pm",
+      "artist": "Sonic Youth",
+      "title": "What We Know",
+      "album": "The Eternal • 2009"
+    },
     {
       "time": "10:07 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "It Will Rain",
       "album": "The Twilight Saga: Breaking Dawn, Pt. 1 • 2011"
-    },
-    {
-      "time": "8:31 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Soma",
-      "album": "Siamese Dream • 1993"
     }
   ]
 }
