@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T21:12:15",
+  "updatedAt": "2026-11-04T21:12:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Lou Reed",
+    "title": "Vicious",
+    "album": "Transformer • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Lou Reed",
-      "title": "Vicious"
-    },
     {
       "time": "9:15 pm",
       "artist": "Otis Redding",
@@ -26,9 +21,20 @@
       "time": "9:27 pm",
       "artist": "Otis Redding",
       "title": "Fa-Fa-Fa-Fa-Fa (Sad Song)"
+    },
+    {
+      "time": "9:29 pm",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Simple Man"
     }
   ],
   "recent": [
+    {
+      "time": "9:12 pm",
+      "artist": "Lou Reed",
+      "title": "Vicious",
+      "album": "Transformer • 1972"
+    },
     {
       "time": "9:07 pm",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Don't Carry It All",
       "album": "The King Is Dead • 2011"
-    },
-    {
-      "time": "7:23 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Mayonaise",
-      "album": "Siamese Dream • 1993"
     }
   ]
 }
