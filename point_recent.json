@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T01:50:30",
+  "updatedAt": "2026-11-05T01:50:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Faith No More",
+    "title": "We Care a Lot",
+    "album": "We Care a Lot • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 am",
-      "artist": "Faith No More",
-      "title": "We Care a Lot"
-    },
     {
       "time": "1:54 am",
       "artist": "Cloud Nothings",
@@ -26,9 +21,20 @@
       "time": "2:00 am",
       "artist": "Cindy Lee",
       "title": "Flesh and Blood"
+    },
+    {
+      "time": "2:05 am",
+      "artist": "Ween",
+      "title": "Roses Are Free"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 am",
+      "artist": "Faith No More",
+      "title": "We Care a Lot",
+      "album": "We Care a Lot • 1985"
+    },
     {
       "time": "1:47 am",
       "artist": "Marika Hackman",
@@ -172,12 +178,6 @@
       "artist": "Midnight Sister",
       "title": "Foxes",
       "album": "Painting the Roses • 2021"
-    },
-    {
-      "time": "12:18 am",
-      "artist": "Kevin Morby",
-      "title": "100,000",
-      "album": "Little Wide Open • 2026"
     }
   ]
 }
