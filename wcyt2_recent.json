@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T07:58:17",
+  "updatedAt": "2026-11-05T08:00:42",
   "now": {
-    "artist": "Nick Drake",
-    "title": "From the Morning",
-    "album": "Pink Moon • 1972",
+    "artist": "Teenage Fanclub",
+    "title": "The Concept",
+    "album": "Bandwagonesque • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 am",
-      "artist": "Teenage Fanclub",
-      "title": "The Concept"
-    },
     {
       "time": "8:06 am",
       "artist": "Chuck Berry",
@@ -26,9 +21,20 @@
       "time": "8:12 am",
       "artist": "Sam Cooke",
       "title": "Good Times"
+    },
+    {
+      "time": "8:14 am",
+      "artist": "AVICII",
+      "title": "Levels"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 am",
+      "artist": "Teenage Fanclub",
+      "title": "The Concept",
+      "album": "Bandwagonesque • 1991"
+    },
     {
       "time": "7:58 am",
       "artist": "Nick Drake",
@@ -172,12 +178,6 @@
       "artist": "Talk Talk",
       "title": "After the Flood",
       "album": "Laughing Stock • 1991"
-    },
-    {
-      "time": "6:10 am",
-      "artist": "Supergrass",
-      "title": "Pumping On Your Stereo",
-      "album": "Supergrass • 1999"
     }
   ]
 }
