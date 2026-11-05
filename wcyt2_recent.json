@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T11:28:50",
+  "updatedAt": "2026-11-05T11:32:43",
   "now": {
     "artist": "Weezer",
-    "title": "Hero",
-    "album": "Van Weezer • 2021",
+    "title": "Photograph",
+    "album": "Weezer • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:32 am",
-      "artist": "Weezer",
-      "title": "Photograph"
-    },
     {
       "time": "11:35 am",
       "artist": "Os Mutantes",
@@ -26,9 +21,20 @@
       "time": "11:40 am",
       "artist": "Beyonce",
       "title": "Blue"
+    },
+    {
+      "time": "11:44 am",
+      "artist": "Parliament",
+      "title": "Flash Light"
     }
   ],
   "recent": [
+    {
+      "time": "11:32 am",
+      "artist": "Weezer",
+      "title": "Photograph",
+      "album": "Weezer • 2001"
+    },
     {
       "time": "11:28 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Ed Sheeran",
       "title": "Thinking out Loud",
       "album": "x • 2014"
-    },
-    {
-      "time": "9:51 am",
-      "artist": "The Jesus Lizard",
-      "title": "Nub",
-      "album": "Goat • 1991"
     }
   ]
 }
