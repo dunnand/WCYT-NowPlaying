@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T01:06:15",
+  "updatedAt": "2026-11-05T01:10:19",
   "now": {
-    "artist": "The Chemical Brothers",
-    "title": "The Boxer",
-    "album": "Push the Button • 2005",
+    "artist": "The Killers",
+    "title": "All These Things That I've Done",
+    "album": "Hot Fuss • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "The Killers",
-      "title": "All These Things That I've Done"
-    },
     {
       "time": "1:15 am",
       "artist": "Chance the Rapper",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "Stone Temple Pilots",
       "title": "Plush"
+    },
+    {
+      "time": "1:28 am",
+      "artist": "Big Country",
+      "title": "In A Big Country"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "The Killers",
+      "title": "All These Things That I've Done",
+      "album": "Hot Fuss • 2004"
+    },
     {
       "time": "1:06 am",
       "artist": "The Chemical Brothers",
@@ -172,12 +178,6 @@
       "artist": "Marvin Gaye",
       "title": "I Want You",
       "album": "I Want You • 1976"
-    },
-    {
-      "time": "11:33 pm",
-      "artist": "DJ Shadow",
-      "title": "Rocket Fuel (Feat. De La Soul)",
-      "album": "Our Pathetic Age • 2019"
     }
   ]
 }
