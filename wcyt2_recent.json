@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T23:59:28",
+  "updatedAt": "2026-11-05T00:03:20",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "Superstar",
-    "album": "If I Were A Carpenter • 1994",
+    "artist": "Elvis Presley",
+    "title": "That's All Right",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "Elvis Presley",
-      "title": "That's All Right"
-    },
     {
       "time": "12:05 am",
       "artist": "Supergrass",
@@ -26,9 +21,20 @@
       "time": "12:10 am",
       "artist": "David Byrne",
       "title": "Everybody's Coming to My House"
+    },
+    {
+      "time": "12:14 am",
+      "artist": "Sonic Youth",
+      "title": "Tunic (Song for Karen)"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "Elvis Presley",
+      "title": "That's All Right",
+      "album": "single • 1956"
+    },
     {
       "time": "11:59 pm",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Super Furry Animals",
       "title": "Hello Sunshine",
       "album": "Rings Around the World • 2001"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Sweet Home Alabama",
-      "album": "Second Helping • 1974"
     }
   ]
 }
