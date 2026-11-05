@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T04:07:53",
+  "updatedAt": "2026-11-05T04:10:36",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "See Emily Play",
-    "album": "single • 1967",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Lonesome Street",
+    "album": "The Magic Whip • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:10 am",
-      "artist": "Blur",
-      "title": "Lonesome Street"
-    },
     {
       "time": "4:13 am",
       "artist": "Super Furry Animals",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:10 am",
+      "artist": "Blur",
+      "title": "Lonesome Street",
+      "album": "The Magic Whip • 2015"
+    },
     {
       "time": "4:07 am",
       "artist": "Pink Floyd",
@@ -172,12 +173,6 @@
       "artist": "The Modern Lovers",
       "title": "Roadrunner",
       "album": "The Modern Lovers • 1976"
-    },
-    {
-      "time": "2:25 am",
-      "artist": "Taylor Swift",
-      "title": "Enchanted (Taylor's version)",
-      "album": "Speak Now • 2023"
     }
   ]
 }
