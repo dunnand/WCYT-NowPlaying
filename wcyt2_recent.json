@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T03:30:08",
+  "updatedAt": "2026-11-05T03:30:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Ambulance Blues",
+    "album": "On the Beach • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "Neil Young",
-      "title": "Ambulance Blues"
-    },
     {
       "time": "3:39 am",
       "artist": "Otis Redding",
@@ -26,9 +21,20 @@
       "time": "3:46 am",
       "artist": "Pink Floyd",
       "title": "Astronomy Domine"
+    },
+    {
+      "time": "3:50 am",
+      "artist": "Neil Young",
+      "title": "Like a Hurricane"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "Neil Young",
+      "title": "Ambulance Blues",
+      "album": "On the Beach • 1974"
+    },
     {
       "time": "3:26 am",
       "artist": "Bershy",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Don't Be Cruel",
       "album": "single • 1956"
-    },
-    {
-      "time": "1:55 am",
-      "artist": "Stone Temple Pilots",
-      "title": "Trippin' on a Hole in a Paper Heart",
-      "album": "Tiny Music... Songs from the Vatican Gift Shop • 1996"
     }
   ]
 }
