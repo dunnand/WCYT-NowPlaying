@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T02:16:22",
+  "updatedAt": "2026-11-05T02:20:09",
   "now": {
-    "artist": "The Cars",
-    "title": "Drive",
-    "album": "Heartbeat City • 1984",
+    "artist": "Chicago",
+    "title": "Hard To Say I'm Sorry",
+    "album": "Chicago 16 • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:20 am",
-      "artist": "Chicago",
-      "title": "Hard To Say I'm Sorry"
-    },
     {
       "time": "2:25 am",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:20 am",
+      "artist": "Chicago",
+      "title": "Hard To Say I'm Sorry",
+      "album": "Chicago 16 • 1982"
+    },
     {
       "time": "2:16 am",
       "artist": "The Cars",
@@ -172,12 +173,6 @@
       "artist": "Marvin Gaye",
       "title": "Mercy Mercy Me (The Ecology)",
       "album": "Whats Going On • 1971"
-    },
-    {
-      "time": "12:49 am",
-      "artist": "Avenged Sevenfold",
-      "title": "Hail To The King",
-      "album": "Hail to the King • 2013"
     }
   ]
 }
