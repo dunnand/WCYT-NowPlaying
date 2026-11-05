@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-05T05:36:10",
+  "updatedAt": "2026-11-05T05:41:36",
   "now": {
     "artist": "Neil Young",
-    "title": "Southern Man",
+    "title": "Tell Me Why",
     "album": "After the Gold Rush • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:41 am",
-      "artist": "Neil Young",
-      "title": "Tell Me Why"
-    },
     {
       "time": "5:44 am",
       "artist": "The Streets",
@@ -26,9 +21,20 @@
       "time": "5:50 am",
       "artist": "Neil Young",
       "title": "The Needle and the Damage Done"
+    },
+    {
+      "time": "5:52 am",
+      "artist": "Supergrass",
+      "title": "Moving"
     }
   ],
   "recent": [
+    {
+      "time": "5:41 am",
+      "artist": "Neil Young",
+      "title": "Tell Me Why",
+      "album": "After the Gold Rush • 1970"
+    },
     {
       "time": "5:36 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Read My Mind",
       "album": "Sam's Town • 2006"
-    },
-    {
-      "time": "4:01 am",
-      "artist": "Conway Twitty",
-      "title": "It's Only Make Believe",
-      "album": "Conway Twitty Sings • 1959"
     }
   ]
 }
