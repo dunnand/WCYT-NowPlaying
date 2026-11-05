@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-04T22:59:16",
+  "updatedAt": "2026-11-04T22:59:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Sunday",
+    "album": "A Thousand Leaves • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:59 pm",
-      "artist": "Sonic Youth",
-      "title": "Sunday"
-    },
     {
       "time": "11:04 pm",
       "artist": "AC/DC",
@@ -26,9 +21,20 @@
       "time": "11:12 pm",
       "artist": "Turnstile",
       "title": "SEEIN' STARS"
+    },
+    {
+      "time": "11:15 pm",
+      "artist": "Super Furry Animals",
+      "title": "Juxtapozed With U"
     }
   ],
   "recent": [
+    {
+      "time": "10:59 pm",
+      "artist": "Sonic Youth",
+      "title": "Sunday",
+      "album": "A Thousand Leaves • 1998"
+    },
     {
       "time": "10:55 pm",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Lynyrd Skynyrd",
       "title": "Free Bird",
       "album": "pronounced leh-nrd skin-nrd • 1973"
-    },
-    {
-      "time": "9:15 pm",
-      "artist": "Otis Redding",
-      "title": "(Sittin' on) The Dock of the Bay",
-      "album": "The Dock of the Bay • 1968"
     }
   ]
 }
