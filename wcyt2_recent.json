@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T11:23:13",
+  "updatedAt": "2026-11-06T11:23:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "'39",
+    "album": "A Night at the Opera • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:23 am",
-      "artist": "Queen",
-      "title": "'39"
-    },
     {
       "time": "11:26 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "11:34 am",
       "artist": "The Beatles",
       "title": "Baby It's You"
+    },
+    {
+      "time": "11:37 am",
+      "artist": "Queen",
+      "title": "Death on Two Legs (Dedicated to...)"
     }
   ],
   "recent": [
+    {
+      "time": "11:23 am",
+      "artist": "Queen",
+      "title": "'39",
+      "album": "A Night at the Opera • 1975"
+    },
     {
       "time": "11:19 am",
       "artist": "Chappell Roan",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "Monkberry Moon Delight",
       "album": "Ram • 1971"
-    },
-    {
-      "time": "2:26 pm",
-      "artist": "Miley Cyrus",
-      "title": "Flowers",
-      "album": "Endless Summer Vacation • 2023"
     }
   ]
 }
