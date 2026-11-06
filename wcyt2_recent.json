@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T18:04:10",
+  "updatedAt": "2026-11-06T18:06:13",
   "now": {
-    "artist": "The Beatles",
-    "title": "Eleanor Rigby",
-    "album": "Revolver • 1966",
+    "artist": "Ramones",
+    "title": "Beat on the Brat",
+    "album": "Ramones • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:06 pm",
-      "artist": "Ramones",
-      "title": "Beat on the Brat"
-    },
     {
       "time": "6:08 pm",
       "artist": "The Magnetic Fields",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:06 pm",
+      "artist": "Ramones",
+      "title": "Beat on the Brat",
+      "album": "Ramones • 1976"
+    },
     {
       "time": "6:04 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Wipers",
       "title": "When It's Over",
       "album": "Youth Of America • 1990"
-    },
-    {
-      "time": "11:54 am",
-      "artist": "Death Grips",
-      "title": "This Is Violence Now (Don't Get Me Wrong)",
-      "album": "Government Plates • 2013"
     }
   ]
 }
