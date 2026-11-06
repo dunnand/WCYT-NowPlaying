@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T11:29:07",
+  "updatedAt": "2026-11-06T11:34:56",
   "now": {
-    "artist": "Queen",
-    "title": "Bohemian Rhapsody",
-    "album": "A Night at the Opera • 1975",
+    "artist": "The Beatles",
+    "title": "Baby It's You",
+    "album": "Please Please Me • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:34 am",
-      "artist": "The Beatles",
-      "title": "Baby It's You"
-    },
     {
       "time": "11:37 am",
       "artist": "Queen",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:34 am",
+      "artist": "The Beatles",
+      "title": "Baby It's You",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "11:29 am",
       "artist": "Queen",
@@ -177,12 +178,6 @@
       "artist": "The Stooges",
       "title": "I Wanna Be Your Dog",
       "album": "The Stooges • 1969"
-    },
-    {
-      "time": "2:39 pm",
-      "artist": "Paul McCartney",
-      "title": "Too Many People",
-      "album": "Ram • 1971"
     }
   ]
 }
