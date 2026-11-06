@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T17:57:34",
+  "updatedAt": "2026-11-06T17:57:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "The March of the Black Queen",
+    "album": "Queen II • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:57 pm",
-      "artist": "Queen",
-      "title": "The March of the Black Queen"
-    },
     {
       "time": "6:04 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "6:08 pm",
       "artist": "The Magnetic Fields",
       "title": "100,000 Fireflies"
+    },
+    {
+      "time": "6:12 pm",
+      "artist": "Elvis Presley",
+      "title": "Blue Suede Shoes"
     }
   ],
   "recent": [
+    {
+      "time": "5:57 pm",
+      "artist": "Queen",
+      "title": "The March of the Black Queen",
+      "album": "Queen II • 1974"
+    },
     {
       "time": "5:54 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Baby You're a Rich Man",
       "album": "single • 1967"
-    },
-    {
-      "time": "11:47 am",
-      "artist": "No Doubt",
-      "title": "It's My Life",
-      "album": "The Singles 1992 - 2003 • 2003"
     }
   ]
 }
