@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T12:18:39",
+  "updatedAt": "2026-11-06T12:18:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "Don't Stop Me Now",
+    "album": "Jazz • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 pm",
-      "artist": "Queen",
-      "title": "Don't Stop Me Now"
-    },
     {
       "time": "12:22 pm",
       "artist": "Low",
@@ -31,9 +26,20 @@
       "time": "12:33 pm",
       "artist": "Green Day",
       "title": "Basket Case"
+    },
+    {
+      "time": "12:36 pm",
+      "artist": "Ellie Goulding",
+      "title": "Anything Could Happen"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 pm",
+      "artist": "Queen",
+      "title": "Don't Stop Me Now",
+      "album": "Jazz • 1978"
+    },
     {
       "time": "12:15 pm",
       "artist": "Kings of Leon",
@@ -177,12 +183,6 @@
       "artist": "JAY-Z",
       "title": "Empire State Of Mind feat Alicia Keys",
       "album": "The Blueprint 3 • 2009"
-    },
-    {
-      "time": "10:45 am",
-      "artist": "Arthur Russell",
-      "title": "That's Us / Wild Combination",
-      "album": "single • 2012"
     }
   ]
 }
