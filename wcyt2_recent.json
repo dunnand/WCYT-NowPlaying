@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T18:12:24",
+  "updatedAt": "2026-11-06T18:14:27",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Blue Suede Shoes",
-    "album": "Elvis Presley • 1956",
+    "artist": "Junior Boys",
+    "title": "In The Morning",
+    "album": "So This Is Goodbye • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:14 pm",
-      "artist": "Junior Boys",
-      "title": "In The Morning"
-    },
     {
       "time": "6:19 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "6:21 pm",
       "artist": "Arctic Monkeys",
       "title": "No. 1 Party Anthem"
+    },
+    {
+      "time": "6:25 pm",
+      "artist": "A Tribe Called Quest",
+      "title": "Bonita Applebum"
     }
   ],
   "recent": [
+    {
+      "time": "6:14 pm",
+      "artist": "Junior Boys",
+      "title": "In The Morning",
+      "album": "So This Is Goodbye • 2006"
+    },
     {
       "time": "6:12 pm",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Pretenders",
       "title": "Stop Your Sobbing",
       "album": "Pretenders • 1980"
-    },
-    {
-      "time": "12:07 pm",
-      "artist": "Wipers",
-      "title": "Doom Town",
-      "album": "Over the Edge • 1983"
     }
   ]
 }
