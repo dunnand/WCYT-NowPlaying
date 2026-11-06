@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T17:52:35",
+  "updatedAt": "2026-11-06T17:54:48",
   "now": {
-    "artist": "Queen",
-    "title": "Stone Cold Crazy",
-    "album": "Sheer Heart Attack • 1974",
+    "artist": "The Beatles",
+    "title": "Because",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:54 pm",
-      "artist": "The Beatles",
-      "title": "Because"
-    },
     {
       "time": "5:57 pm",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "6:06 pm",
       "artist": "Ramones",
       "title": "Beat on the Brat"
+    },
+    {
+      "time": "6:08 pm",
+      "artist": "The Magnetic Fields",
+      "title": "100,000 Fireflies"
     }
   ],
   "recent": [
+    {
+      "time": "5:54 pm",
+      "artist": "The Beatles",
+      "title": "Because",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "5:52 pm",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "No Doubt",
       "title": "It's My Life",
       "album": "The Singles 1992 - 2003 • 2003"
-    },
-    {
-      "time": "11:45 am",
-      "artist": "Jamies",
-      "title": "Summertime, Summertime",
-      "album": "Single • 1958"
     }
   ]
 }
