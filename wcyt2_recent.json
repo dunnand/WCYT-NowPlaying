@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T13:05:51",
+  "updatedAt": "2026-11-06T13:08:24",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "The Summer",
-    "album": "Fakebook • 1990",
-    "category": "TUNES"
+    "artist": "ABC",
+    "title": "The Look Of Love, Pt.1",
+    "album": "The Lexicon of Love • 1982",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:08 pm",
-      "artist": "ABC",
-      "title": "The Look Of Love, Pt.1"
-    },
     {
       "time": "1:11 pm",
       "artist": "A.C. Marias",
@@ -21,9 +16,20 @@
       "time": "1:16 pm",
       "artist": "Lil Nas X",
       "title": "INDUSTRY BABY"
+    },
+    {
+      "time": "1:20 pm",
+      "artist": "Queen",
+      "title": "Stone Cold Crazy"
     }
   ],
   "recent": [
+    {
+      "time": "1:08 pm",
+      "artist": "ABC",
+      "title": "The Look Of Love, Pt.1",
+      "album": "The Lexicon of Love • 1982"
+    },
     {
       "time": "1:05 pm",
       "artist": "Yo La Tengo",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Baby It's You",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "11:29 am",
-      "artist": "Queen",
-      "title": "Bohemian Rhapsody",
-      "album": "A Night at the Opera • 1975"
     }
   ]
 }
