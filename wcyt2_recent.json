@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-06T11:34:56",
+  "updatedAt": "2026-11-06T11:37:19",
   "now": {
-    "artist": "The Beatles",
-    "title": "Baby It's You",
-    "album": "Please Please Me • 1963",
+    "artist": "Queen",
+    "title": "Death on Two Legs (Dedicated to...)",
+    "album": "A Night at the Opera • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:37 am",
-      "artist": "Queen",
-      "title": "Death on Two Legs (Dedicated to...)"
-    },
     {
       "time": "11:40 am",
       "artist": "Wilco",
       "title": "Via Chicago"
     },
     {
-      "time": "11:46 am",
+      "time": "11:45 am",
       "artist": "Jamies",
       "title": "Summertime, Summertime"
     },
@@ -26,9 +21,20 @@
       "time": "11:47 am",
       "artist": "No Doubt",
       "title": "It's My Life"
+    },
+    {
+      "time": "11:51 am",
+      "artist": "The Beatles",
+      "title": "Baby You're a Rich Man"
     }
   ],
   "recent": [
+    {
+      "time": "11:37 am",
+      "artist": "Queen",
+      "title": "Death on Two Legs (Dedicated to...)",
+      "album": "A Night at the Opera • 1975"
+    },
     {
       "time": "11:34 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney and Wings",
       "title": "Jet",
       "album": "Band on the Run • 1973"
-    },
-    {
-      "time": "2:43 pm",
-      "artist": "The Stooges",
-      "title": "I Wanna Be Your Dog",
-      "album": "The Stooges • 1969"
     }
   ]
 }
