@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T12:13:39",
+  "updatedAt": "2026-11-07T12:16:25",
   "now": {
-    "artist": "The Shins",
-    "title": "Pressed in a Book",
-    "album": "Oh Inverted World • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Oh! Darling",
+    "album": "Abbey Road • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:16 pm",
-      "artist": "The Beatles",
-      "title": "Oh! Darling"
-    },
     {
       "time": "12:19 pm",
       "artist": "The Specials",
@@ -26,9 +21,20 @@
       "time": "12:26 pm",
       "artist": "Pavement",
       "title": "Harness Your Hopes"
+    },
+    {
+      "time": "12:29 pm",
+      "artist": "Modest Mouse",
+      "title": "Never Ending Math Equation"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 pm",
+      "artist": "The Beatles",
+      "title": "Oh! Darling",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "12:13 pm",
       "artist": "The Shins",
@@ -172,12 +178,6 @@
       "artist": "Joey Bad",
       "title": "Land of the Free",
       "album": "All-Amerikkkan • 2017"
-    },
-    {
-      "time": "10:37 am",
-      "artist": "The Beatles",
-      "title": "Come Together",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
