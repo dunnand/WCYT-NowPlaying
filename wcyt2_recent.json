@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T11:39:16",
+  "updatedAt": "2026-11-07T11:39:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Love You To",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:39 am",
-      "artist": "The Beatles",
-      "title": "Love You To"
-    },
     {
       "time": "11:42 am",
       "artist": "Katy Perry",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:39 am",
+      "artist": "The Beatles",
+      "title": "Love You To",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "11:36 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Dance Of The Clairvoyants",
       "album": "Gigaton • 2020"
-    },
-    {
-      "time": "9:55 am",
-      "artist": "Starship",
-      "title": "Nothing's Gonna Stop Us Now",
-      "album": "No Protection • 1987"
     }
   ]
 }
