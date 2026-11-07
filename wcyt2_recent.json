@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T07:07:09",
+  "updatedAt": "2026-11-07T07:07:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Train in Vain",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:07 am",
-      "artist": "The Clash",
-      "title": "Train in Vain"
-    },
     {
       "time": "7:10 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "7:20 am",
       "artist": "The Beatles",
       "title": "You Won't See Me"
+    },
+    {
+      "time": "7:24 am",
+      "artist": "The Doors",
+      "title": "Love Her Madly"
     }
   ],
   "recent": [
+    {
+      "time": "7:07 am",
+      "artist": "The Clash",
+      "title": "Train in Vain",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "7:05 am",
       "artist": "Koji Kondo",
@@ -172,12 +178,6 @@
       "artist": "Bill Haley and his Comets",
       "title": "(We're Gonna) Rock Around the Clock",
       "album": "Shake Rattle and Roll • 1955"
-    },
-    {
-      "time": "5:44 am",
-      "artist": "Elastica",
-      "title": "Vaseline",
-      "album": "Elastica • 1995"
     }
   ]
 }
