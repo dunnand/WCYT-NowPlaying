@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T15:48:17",
+  "updatedAt": "2026-11-07T15:50:32",
   "now": {
-    "artist": "The Beatles",
-    "title": "Boys",
-    "album": "Please Please Me • 1963",
+    "artist": "T. Rex",
+    "title": "20th Century Boy",
+    "album": "single • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:50 pm",
-      "artist": "T. Rex",
-      "title": "20th Century Boy"
-    },
     {
       "time": "3:54 pm",
       "artist": "Oasis",
@@ -26,9 +21,20 @@
       "time": "4:02 pm",
       "artist": "System of a Down",
       "title": "Toxicity"
+    },
+    {
+      "time": "4:05 pm",
+      "artist": "The Unicorns",
+      "title": "I Don't Wanna Die"
     }
   ],
   "recent": [
+    {
+      "time": "3:50 pm",
+      "artist": "T. Rex",
+      "title": "20th Century Boy",
+      "album": "single • 1973"
+    },
     {
       "time": "3:48 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Guided by Voices",
       "title": "Hold on Hope",
       "album": "Do The Collapse • 1999"
-    },
-    {
-      "time": "2:14 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Home",
-      "album": "This Is Happening • 2010"
     }
   ]
 }
