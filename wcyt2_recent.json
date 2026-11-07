@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T08:50:25",
+  "updatedAt": "2026-11-07T08:55:45",
   "now": {
-    "artist": "Metallica",
-    "title": "Sad but True",
-    "album": "Metallica • 1991",
+    "artist": "Spandau Ballet",
+    "title": "Gold",
+    "album": "True • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 am",
-      "artist": "Spandau Ballet",
-      "title": "Gold"
-    },
     {
       "time": "8:59 am",
       "artist": "The Specials",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:55 am",
+      "artist": "Spandau Ballet",
+      "title": "Gold",
+      "album": "True • 1983"
+    },
     {
       "time": "8:50 am",
       "artist": "Metallica",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "You Won't See Me",
       "album": "Rubber Soul • 1965"
-    },
-    {
-      "time": "7:13 am",
-      "artist": "The Doors",
-      "title": "L.A. Woman",
-      "album": "L.A. Woman • 1971"
     }
   ]
 }
