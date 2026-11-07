@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T08:40:10",
+  "updatedAt": "2026-11-07T08:40:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Don't Bother Me",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 am",
-      "artist": "The Beatles",
-      "title": "Don't Bother Me"
-    },
     {
       "time": "8:42 am",
       "artist": "Moses Sumney",
@@ -26,9 +21,20 @@
       "time": "8:50 am",
       "artist": "Metallica",
       "title": "Sad but True"
+    },
+    {
+      "time": "8:55 am",
+      "artist": "Spandau Ballet",
+      "title": "Gold"
     }
   ],
   "recent": [
+    {
+      "time": "8:40 am",
+      "artist": "The Beatles",
+      "title": "Don't Bother Me",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "8:36 am",
       "artist": "Whitney Houston & Enrique Iglesias",
@@ -172,12 +178,6 @@
       "artist": "Koji Kondo",
       "title": "Super Mario Sunshine (Staff Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "7:01 am",
-      "artist": "Skid Row",
-      "title": "18 And Life",
-      "album": "Skid Row • 1989"
     }
   ]
 }
