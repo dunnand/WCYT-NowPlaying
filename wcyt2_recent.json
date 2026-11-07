@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-07T08:22:06",
+  "updatedAt": "2026-11-07T08:24:19",
   "now": {
-    "artist": "The Beatles",
-    "title": "Chains",
-    "album": "Please Please Me • 1963",
+    "artist": "The Doors",
+    "title": "Roadhouse Blues",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 am",
-      "artist": "The Doors",
-      "title": "Roadhouse Blues"
-    },
     {
       "time": "8:28 am",
       "artist": "Low",
       "title": "Words"
     },
     {
-      "time": "8:34 am",
+      "time": "8:33 am",
       "artist": "Wilbert Harrison",
       "title": "Kansas City"
     },
@@ -26,9 +21,20 @@
       "time": "8:36 am",
       "artist": "Whitney Houston & Enrique Iglesias",
       "title": "Could I Have This Kiss Forever"
+    },
+    {
+      "time": "8:40 am",
+      "artist": "The Beatles",
+      "title": "Don't Bother Me"
     }
   ],
   "recent": [
+    {
+      "time": "8:24 am",
+      "artist": "The Doors",
+      "title": "Roadhouse Blues",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "8:22 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Genesis",
       "title": "Jesus He Knows Me",
       "album": "We Can't Dance • 1991"
-    },
-    {
-      "time": "6:47 am",
-      "artist": "J. Cole",
-      "title": "Can't Get Enough feat. Trey Songz",
-      "album": "Cole World: The Sideline Story • 2011"
     }
   ]
 }
