@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T12:16:25",
+  "updatedAt": "2026-11-07T12:19:50",
   "now": {
-    "artist": "The Beatles",
-    "title": "Oh! Darling",
-    "album": "Abbey Road • 1969",
+    "artist": "The Specials",
+    "title": "A Message to You Rudy",
+    "album": "Specials • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:19 pm",
-      "artist": "The Specials",
-      "title": "A Message to You Rudy"
-    },
     {
       "time": "12:22 pm",
       "artist": "The Cardigans",
@@ -26,9 +21,20 @@
       "time": "12:29 pm",
       "artist": "Modest Mouse",
       "title": "Never Ending Math Equation"
+    },
+    {
+      "time": "12:32 pm",
+      "artist": "ZZ Top",
+      "title": "Sharp Dressed Man"
     }
   ],
   "recent": [
+    {
+      "time": "12:19 pm",
+      "artist": "The Specials",
+      "title": "A Message to You Rudy",
+      "album": "Specials • 1979"
+    },
     {
       "time": "12:16 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Roxette",
       "title": "It Must Have Been Love",
       "album": "Pretty Woman soundtrack • 1990"
-    },
-    {
-      "time": "10:41 am",
-      "artist": "Joey Bad",
-      "title": "Land of the Free",
-      "album": "All-Amerikkkan • 2017"
     }
   ]
 }
