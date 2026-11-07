@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T00:00:17",
+  "updatedAt": "2026-11-07T00:03:53",
   "now": {
-    "artist": "Cat Power",
-    "title": "American Flag",
-    "album": "Moon Pix • 1998",
-    "category": "TUNES"
+    "artist": "The Crickets",
+    "title": "Not Fade Away",
+    "album": "The Chirping Crickets • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "The Crickets",
-      "title": "Not Fade Away"
-    },
     {
       "time": "12:06 am",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "12:12 am",
       "artist": "LCD Soundsystem",
       "title": "Dance Yrself Clean"
+    },
+    {
+      "time": "12:21 am",
+      "artist": "Dave Matthews Band",
+      "title": "So Much To Say"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "The Crickets",
+      "title": "Not Fade Away",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "12:00 am",
       "artist": "Cat Power",
@@ -172,12 +178,6 @@
       "artist": "*NSYNC",
       "title": "Bye Bye Bye",
       "album": "No Strings Attached • 2000"
-    },
-    {
-      "time": "10:34 pm",
-      "artist": "Christina Perri",
-      "title": "A Thousand Years",
-      "album": "The Twilight Saga: Breaking Dawn, Pt. 1 (Original Motion Picture • 2011"
     }
   ]
 }
