@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T16:02:15",
+  "updatedAt": "2026-11-07T16:02:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "System of a Down",
+    "title": "Toxicity",
+    "album": "Toxicity • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:02 pm",
-      "artist": "System of a Down",
-      "title": "Toxicity"
-    },
     {
       "time": "4:05 pm",
       "artist": "The Unicorns",
@@ -26,9 +21,20 @@
       "time": "4:11 pm",
       "artist": "Ride",
       "title": "Dreams Burn Down"
+    },
+    {
+      "time": "4:17 pm",
+      "artist": "Sebadoh",
+      "title": "Rebound"
     }
   ],
   "recent": [
+    {
+      "time": "4:02 pm",
+      "artist": "System of a Down",
+      "title": "Toxicity",
+      "album": "Toxicity • 2001"
+    },
     {
       "time": "3:59 pm",
       "artist": "Kendrick Lamar",
@@ -172,12 +178,6 @@
       "artist": "Georgia Satellites",
       "title": "Keep Your Hands To Yourself",
       "album": "Georgia Satellites • 1987"
-    },
-    {
-      "time": "2:29 pm",
-      "artist": "Bryan Adams",
-      "title": "Cuts Like A Knife",
-      "album": "So Far So Good • 1983"
     }
   ]
 }
