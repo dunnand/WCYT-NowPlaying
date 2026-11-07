@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T19:55:07",
+  "updatedAt": "2026-11-06T19:57:12",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Oh, Boy!",
-    "album": "The Chirping Crickets • 1957",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Dark Center of the Universe",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:57 pm",
-      "artist": "Modest Mouse",
-      "title": "Dark Center of the Universe"
-    },
     {
       "time": "8:02 pm",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:57 pm",
+      "artist": "Modest Mouse",
+      "title": "Dark Center of the Universe",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "7:55 pm",
       "artist": "Buddy Holly",
@@ -172,12 +173,6 @@
       "artist": "Air Supply",
       "title": "Even The Nights Are Better",
       "album": "Now and Forever • 1982"
-    },
-    {
-      "time": "6:31 pm",
-      "artist": "A Flock Of Seagulls",
-      "title": "I Ran (So Far Away)",
-      "album": "A Flock of Seagulls • 1982"
     }
   ]
 }
