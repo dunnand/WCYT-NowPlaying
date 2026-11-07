@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T17:03:55",
+  "updatedAt": "2026-11-07T17:04:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I'll Follow The Sun",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 pm",
-      "artist": "The Beatles",
-      "title": "I'll Follow The Sun"
-    },
     {
       "time": "5:05 pm",
       "artist": "Maroon 5",
@@ -26,9 +21,20 @@
       "time": "5:12 pm",
       "artist": "Siouxsie and the Banshees",
       "title": "Kiss Them for Me"
+    },
+    {
+      "time": "5:16 pm",
+      "artist": "After The Fire",
+      "title": "Der Kommissar"
     }
   ],
   "recent": [
+    {
+      "time": "5:04 pm",
+      "artist": "The Beatles",
+      "title": "I'll Follow The Sun",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "4:56 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Haim",
       "title": "I Know Alone",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "3:30 pm",
-      "artist": "Au Pairs",
-      "title": "Come Again",
-      "album": "Playing with a Different Sex • 1981"
     }
   ]
 }
