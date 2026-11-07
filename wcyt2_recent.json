@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T00:54:11",
+  "updatedAt": "2026-11-07T00:58:17",
   "now": {
-    "artist": "Lorde",
-    "title": "The Louvre",
-    "album": "Melodrama • 2017",
+    "artist": "The Beatles",
+    "title": "Two of Us",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:58 am",
-      "artist": "The Beatles",
-      "title": "Two of Us"
-    },
     {
       "time": "1:01 am",
       "artist": "Mazzy Star",
@@ -26,9 +21,20 @@
       "time": "1:08 am",
       "artist": "Hot Chip",
       "title": "And I Was a Boy From School"
+    },
+    {
+      "time": "1:14 am",
+      "artist": "Kings of Leon",
+      "title": "Wasted Time"
     }
   ],
   "recent": [
+    {
+      "time": "12:58 am",
+      "artist": "The Beatles",
+      "title": "Two of Us",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "12:54 am",
       "artist": "Lorde",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Rose Parade",
       "album": "Either Or • 1997"
-    },
-    {
-      "time": "11:22 pm",
-      "artist": "Rodriguez",
-      "title": "Sugar Man",
-      "album": "Cold Fact • 1970"
     }
   ]
 }
