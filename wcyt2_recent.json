@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T20:44:00",
+  "updatedAt": "2026-11-06T20:46:43",
   "now": {
-    "artist": "John Lee Hooker",
-    "title": "I'm in the Mood",
-    "album": "single • 1951",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Steam Engine",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:46 pm",
-      "artist": "My Morning Jacket",
-      "title": "Steam Engine"
-    },
     {
       "time": "8:54 pm",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:46 pm",
+      "artist": "My Morning Jacket",
+      "title": "Steam Engine",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "8:44 pm",
       "artist": "John Lee Hooker",
@@ -172,12 +173,6 @@
       "artist": "Bad Brains",
       "title": "Sailin' On",
       "album": "Bad Brains • 1982"
-    },
-    {
-      "time": "7:26 pm",
-      "artist": "The B-52's",
-      "title": "Private Idaho",
-      "album": "Wild Planet • 1980"
     }
   ]
 }
