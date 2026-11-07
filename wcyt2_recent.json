@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T14:49:04",
+  "updatedAt": "2026-11-07T14:52:38",
   "now": {
-    "artist": "Townes Van Zandt",
-    "title": "If I Needed You",
-    "album": "The Late Great Townes Van Zandt • 1972",
+    "artist": "The Beatles",
+    "title": "And I Love Her",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:52 pm",
-      "artist": "The Beatles",
-      "title": "And I Love Her"
-    },
     {
       "time": "2:55 pm",
       "artist": "Townes Van Zandt",
@@ -23,12 +18,23 @@
       "title": "In Rhythm"
     },
     {
-      "time": "3:06 pm",
+      "time": "3:05 pm",
       "artist": "Chordettes",
       "title": "Lollipop"
+    },
+    {
+      "time": "3:08 pm",
+      "artist": "Sonic Youth",
+      "title": "The Empty Page"
     }
   ],
   "recent": [
+    {
+      "time": "2:52 pm",
+      "artist": "The Beatles",
+      "title": "And I Love Her",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "2:49 pm",
       "artist": "Townes Van Zandt",
@@ -172,12 +178,6 @@
       "artist": "Maroon 5",
       "title": "Moves Like Jagger feat. Christina Aguilera",
       "album": "Hands All Over • 2011"
-    },
-    {
-      "time": "1:12 pm",
-      "artist": "The Beatles",
-      "title": "Rock and Roll Music",
-      "album": "Beatles for Sale • 1964"
     }
   ]
 }
