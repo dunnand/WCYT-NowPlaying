@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T00:34:08",
+  "updatedAt": "2026-11-07T00:34:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Oingo Boingo",
+    "title": "Weird Science",
+    "album": "Weird Science soundtrack • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 am",
-      "artist": "Oingo Boingo",
-      "title": "Weird Science"
-    },
     {
       "time": "12:37 am",
       "artist": "H.E.R.",
@@ -26,9 +21,20 @@
       "time": "12:45 am",
       "artist": "The Beatles",
       "title": "The Long and Winding Road"
+    },
+    {
+      "time": "12:49 am",
+      "artist": "The Microphones",
+      "title": "The Moon"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 am",
+      "artist": "Oingo Boingo",
+      "title": "Weird Science",
+      "album": "Weird Science soundtrack • 1985"
+    },
     {
       "time": "12:29 am",
       "artist": "Nine Inch Nails",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "False Prophet",
       "album": "Rough and Rowdy Ways • 2020"
-    },
-    {
-      "time": "11:02 pm",
-      "artist": "Crosby, Stills & Nash",
-      "title": "Wasted On The Way",
-      "album": "Daylight Again • 1982"
     }
   ]
 }
