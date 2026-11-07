@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-11-07T02:33:41",
+  "updatedAt": "2026-11-07T02:37:04",
   "now": {
-    "artist": "Lady Gaga",
-    "title": "Paparazzi",
-    "album": "The Fame • 2008",
+    "artist": "The Clash",
+    "title": "Clampdown",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "2:37 am",
+      "time": "2:40 am",
+      "artist": "Lady Gaga",
+      "title": "Paparazzi"
+    },
+    {
+      "time": "2:44 am",
       "artist": "The Clash",
       "title": "Clampdown"
     },
     {
-      "time": "2:40 am",
+      "time": "2:48 am",
       "artist": "Outkast",
       "title": "B.O.B. (Bombs Over Baghdad)"
     },
     {
-      "time": "2:45 am",
+      "time": "2:52 am",
       "artist": "Justin Bieber",
       "title": "All Around The World"
-    },
-    {
-      "time": "2:49 am",
-      "artist": "The Clash",
-      "title": "Clash Citry Rockers"
     }
   ],
   "recent": [
+    {
+      "time": "2:37 am",
+      "artist": "The Clash",
+      "title": "Clampdown",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "2:33 am",
       "artist": "Lady Gaga",
@@ -172,12 +178,6 @@
       "artist": "Hot Chip",
       "title": "And I Was a Boy From School",
       "album": "The Warning • 2006"
-    },
-    {
-      "time": "1:04 am",
-      "artist": "Pink",
-      "title": "Just Give Me A Reason",
-      "album": "The Truth About Love • 2012"
     }
   ]
 }
