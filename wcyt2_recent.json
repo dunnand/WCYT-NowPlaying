@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T13:57:47",
+  "updatedAt": "2026-11-07T14:01:17",
   "now": {
-    "artist": "The Flaming Lips",
-    "title": "A Spoonful Weighs a Ton",
-    "album": "The Soft Bulletin • 1999",
-    "category": "TUNES"
+    "artist": "Katy Perry",
+    "title": "Teenage Dream",
+    "album": "Teenage Dream • 2010",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:01 pm",
-      "artist": "Katy Perry",
-      "title": "Teenage Dream"
-    },
     {
       "time": "2:05 pm",
       "artist": "Sting",
@@ -21,9 +16,20 @@
       "time": "2:09 pm",
       "artist": "Yo La Tengo",
       "title": "You Can Have It All"
+    },
+    {
+      "time": "2:14 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Home"
     }
   ],
   "recent": [
+    {
+      "time": "2:01 pm",
+      "artist": "Katy Perry",
+      "title": "Teenage Dream",
+      "album": "Teenage Dream • 2010"
+    },
     {
       "time": "1:57 pm",
       "artist": "The Flaming Lips",
@@ -167,12 +173,6 @@
       "artist": "ZZ Top",
       "title": "Sharp Dressed Man",
       "album": "Eliminator • 1983"
-    },
-    {
-      "time": "12:29 pm",
-      "artist": "Modest Mouse",
-      "title": "Never Ending Math Equation",
-      "album": "Building Nothing out of Something • 1999"
     }
   ]
 }
