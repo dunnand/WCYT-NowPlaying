@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T23:26:00",
+  "updatedAt": "2026-11-06T23:29:27",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Rose Parade",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Bruno Mars",
+    "title": "Locked Out Of Heaven",
+    "album": "Unorthodox Jukebox • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:29 pm",
-      "artist": "Bruno Mars",
-      "title": "Locked Out Of Heaven"
-    },
     {
       "time": "11:33 pm",
       "artist": "Modest Mouse",
@@ -21,9 +16,20 @@
       "time": "11:38 pm",
       "artist": "Jimmy Eat World",
       "title": "Pain"
+    },
+    {
+      "time": "11:41 pm",
+      "artist": "Baauer",
+      "title": "Harlem Shake"
     }
   ],
   "recent": [
+    {
+      "time": "11:29 pm",
+      "artist": "Bruno Mars",
+      "title": "Locked Out Of Heaven",
+      "album": "Unorthodox Jukebox • 2012"
+    },
     {
       "time": "11:26 pm",
       "artist": "Elliott Smith",
@@ -167,12 +173,6 @@
       "artist": "Bon Jovi",
       "title": "I'll Be There For You",
       "album": "New Jersey • 1989"
-    },
-    {
-      "time": "9:57 pm",
-      "artist": "Soundgarden",
-      "title": "Rusty Cage",
-      "album": "Badmotorfinger • 1991"
     }
   ]
 }
