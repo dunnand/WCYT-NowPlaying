@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T17:05:40",
+  "updatedAt": "2026-11-07T17:09:26",
   "now": {
-    "artist": "Maroon 5",
-    "title": "Love Somebody",
-    "album": "HA201314 4 • 2012",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Between the Bars",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:09 pm",
-      "artist": "Elliott Smith",
-      "title": "Between the Bars"
-    },
     {
       "time": "5:11 pm",
       "artist": "Siouxsie and the Banshees",
@@ -21,9 +16,20 @@
       "time": "5:16 pm",
       "artist": "After The Fire",
       "title": "Der Kommissar"
+    },
+    {
+      "time": "5:22 pm",
+      "artist": "America",
+      "title": "You Can Do Magic"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 pm",
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "5:05 pm",
       "artist": "Maroon 5",
@@ -167,12 +173,6 @@
       "artist": "Townes Van Zandt",
       "title": "To Live Is to Fly",
       "album": "The Late Great Townes Van Zandt • 1972"
-    },
-    {
-      "time": "3:37 pm",
-      "artist": "Townes Van Zandt",
-      "title": "Rake",
-      "album": "Delta Momma Blues • 1970"
     }
   ]
 }
