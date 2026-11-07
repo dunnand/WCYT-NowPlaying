@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T12:55:02",
+  "updatedAt": "2026-11-07T12:57:15",
   "now": {
-    "artist": "The Beatles",
-    "title": "She Loves You",
-    "album": "single • 1963",
+    "artist": "Tom Petty and the Heartbreakers",
+    "title": "American Girl",
+    "album": "Tom Petty and the Heartbreakers • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:57 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "American Girl"
-    },
     {
       "time": "1:00 pm",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "1:07 pm",
       "artist": "Ted Leo and the Pharmacists",
       "title": "Where Have All The Rude Boys Gone"
+    },
+    {
+      "time": "1:12 pm",
+      "artist": "The Beatles",
+      "title": "Rock and Roll Music"
     }
   ],
   "recent": [
+    {
+      "time": "12:57 pm",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "American Girl",
+      "album": "Tom Petty and the Heartbreakers • 1976"
+    },
     {
       "time": "12:55 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Big Bopper",
       "title": "Chantilly Lace",
       "album": "Chantilly Lace • 1959"
-    },
-    {
-      "time": "11:25 am",
-      "artist": "Sigur Ros",
-      "title": "Svefn-g-englar",
-      "album": "Agaetis byrjun • 1999"
     }
   ]
 }
