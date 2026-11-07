@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T20:39:49",
+  "updatedAt": "2026-11-06T20:44:00",
   "now": {
-    "artist": "Joan Osborne",
-    "title": "One Of Us",
-    "album": "Relish • 1995",
+    "artist": "John Lee Hooker",
+    "title": "I'm in the Mood",
+    "album": "single • 1951",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:43 pm",
-      "artist": "John Lee Hooker",
-      "title": "I'm in the Mood"
-    },
     {
       "time": "8:46 pm",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "8:56 pm",
       "artist": "Feist",
       "title": "Mushaboom"
+    },
+    {
+      "time": "9:00 pm",
+      "artist": "Pavement",
+      "title": "Range Life"
     }
   ],
   "recent": [
+    {
+      "time": "8:44 pm",
+      "artist": "John Lee Hooker",
+      "title": "I'm in the Mood",
+      "album": "single • 1951"
+    },
     {
       "time": "8:39 pm",
       "artist": "Joan Osborne",
@@ -172,12 +178,6 @@
       "artist": "The B-52's",
       "title": "Private Idaho",
       "album": "Wild Planet • 1980"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "U2",
-      "title": "Until The End Of The World",
-      "album": "Achtung Baby • 1991"
     }
   ]
 }
