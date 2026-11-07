@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T20:28:48",
+  "updatedAt": "2026-11-06T20:30:53",
   "now": {
-    "artist": "Ramones",
-    "title": "Rockaway Beach",
-    "album": "Rocket to Russia (1977 • 1977",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Bermuda Highway",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:30 pm",
-      "artist": "My Morning Jacket",
-      "title": "Bermuda Highway"
-    },
     {
       "time": "8:33 pm",
       "artist": "Capital Cities",
@@ -31,9 +26,20 @@
       "time": "8:44 pm",
       "artist": "John Lee Hooker",
       "title": "I'm in the Mood"
+    },
+    {
+      "time": "8:46 pm",
+      "artist": "My Morning Jacket",
+      "title": "Steam Engine"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 pm",
+      "artist": "My Morning Jacket",
+      "title": "Bermuda Highway",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "8:28 pm",
       "artist": "Ramones",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Money (That's What I Want)",
       "album": "With the Beatles • 1963"
-    },
-    {
-      "time": "7:03 pm",
-      "artist": "Liquid Liquid",
-      "title": "Cavern",
-      "album": "Slip In And Out Of Phenomenon • 2008"
     }
   ]
 }
