@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T08:08:32",
+  "updatedAt": "2026-11-07T08:11:19",
   "now": {
-    "artist": "The Doors",
-    "title": "Peace Frog",
-    "album": "Morrison Hotel • 1970",
+    "artist": "The Beatles",
+    "title": "Blue Jay Way",
+    "album": "Magical Mystery Tour • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:11 am",
-      "artist": "The Beatles",
-      "title": "Blue Jay Way"
-    },
     {
       "time": "8:15 am",
       "artist": "The Doors",
@@ -26,9 +21,20 @@
       "time": "8:24 am",
       "artist": "The Doors",
       "title": "Roadhouse Blues"
+    },
+    {
+      "time": "8:28 am",
+      "artist": "Low",
+      "title": "Words"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 am",
+      "artist": "The Beatles",
+      "title": "Blue Jay Way",
+      "album": "Magical Mystery Tour • 1967"
+    },
     {
       "time": "8:08 am",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "The Mountain Goats",
       "title": "Color in Your Cheeks",
       "album": "All Hail West Texas • 2002"
-    },
-    {
-      "time": "6:37 am",
-      "artist": "Lizzo",
-      "title": "Juice",
-      "album": "Cuz I Love You • 2019"
     }
   ]
 }
