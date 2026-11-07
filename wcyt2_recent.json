@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T21:47:03",
+  "updatedAt": "2026-11-06T21:47:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Tomorrow Never Knows",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:47 pm",
-      "artist": "The Beatles",
-      "title": "Tomorrow Never Knows"
-    },
     {
       "time": "9:50 pm",
       "artist": "Demi Lovato",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:47 pm",
+      "artist": "The Beatles",
+      "title": "Tomorrow Never Knows",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "9:42 pm",
       "artist": "The Magnetic Fields",
@@ -172,12 +173,6 @@
       "artist": "Billie Eilish",
       "title": "LUNCH",
       "album": "Hit Me Hard and Soft • 2024"
-    },
-    {
-      "time": "8:18 pm",
-      "artist": "Barbra Streisand",
-      "title": "Woman In Love",
-      "album": "Guilty • 1980"
     }
   ]
 }
