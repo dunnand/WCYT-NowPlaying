@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T01:59:40",
+  "updatedAt": "2026-11-07T02:02:26",
   "now": {
-    "artist": "Jose Gonzalez",
-    "title": "Crosses",
-    "album": "Veneer • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Maxwell's Silver Hammer",
+    "album": "Abbey Road • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:02 am",
-      "artist": "The Beatles",
-      "title": "Maxwell's Silver Hammer"
-    },
     {
       "time": "2:05 am",
       "artist": "James Blake",
@@ -21,9 +16,25 @@
       "time": "2:10 am",
       "artist": "Spiritualized",
       "title": "I Think I'm in Love"
+    },
+    {
+      "time": "2:18 am",
+      "artist": "Ace Of Base",
+      "title": "The Sign"
+    },
+    {
+      "time": "2:21 am",
+      "artist": "Poison",
+      "title": "Nothin' But A Good Time"
     }
   ],
   "recent": [
+    {
+      "time": "2:02 am",
+      "artist": "The Beatles",
+      "title": "Maxwell's Silver Hammer",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "1:59 am",
       "artist": "Jose Gonzalez",
@@ -167,12 +178,6 @@
       "artist": "H.E.R.",
       "title": "Fight For You",
       "album": "Judas and the Black Messiah Soundtrack • 2021"
-    },
-    {
-      "time": "12:34 am",
-      "artist": "Oingo Boingo",
-      "title": "Weird Science",
-      "album": "Weird Science soundtrack • 1985"
     }
   ]
 }
