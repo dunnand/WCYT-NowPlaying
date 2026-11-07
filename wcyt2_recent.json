@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T18:57:16",
+  "updatedAt": "2026-11-06T19:01:12",
   "now": {
-    "artist": "Bjork",
-    "title": "Army of Me",
-    "album": "Post • 1995",
-    "category": "TUNES"
+    "artist": "Elvis Presley",
+    "title": "Mystery Train",
+    "album": "Rock N Roll • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:01 pm",
-      "artist": "Elvis Presley",
-      "title": "Mystery Train"
-    },
     {
       "time": "7:03 pm",
       "artist": "Liquid Liquid",
@@ -26,9 +21,20 @@
       "time": "7:11 pm",
       "artist": "Bruce Springsteen",
       "title": "American Skin (41 Shots)"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "Superchunk",
+      "title": "Precision Auto"
     }
   ],
   "recent": [
+    {
+      "time": "7:01 pm",
+      "artist": "Elvis Presley",
+      "title": "Mystery Train",
+      "album": "Rock N Roll • 1956"
+    },
     {
       "time": "6:57 pm",
       "artist": "Bjork",
@@ -172,12 +178,6 @@
       "artist": "ABC",
       "title": "The Look Of Love, Pt.1",
       "album": "The Lexicon of Love • 1982"
-    },
-    {
-      "time": "1:05 pm",
-      "artist": "Yo La Tengo",
-      "title": "The Summer",
-      "album": "Fakebook • 1990"
     }
   ]
 }
