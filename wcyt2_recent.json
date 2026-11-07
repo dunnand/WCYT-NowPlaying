@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T20:02:10",
+  "updatedAt": "2026-11-06T20:02:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Feel Fine",
+    "album": "single • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 pm",
-      "artist": "The Beatles",
-      "title": "I Feel Fine"
-    },
     {
       "time": "8:04 pm",
       "artist": "Adele",
@@ -26,9 +21,20 @@
       "time": "8:12 pm",
       "artist": "Guided by Voices",
       "title": "Echos Myron"
+    },
+    {
+      "time": "8:14 pm",
+      "artist": "Bananarama",
+      "title": "Venus"
     }
   ],
   "recent": [
+    {
+      "time": "8:02 pm",
+      "artist": "The Beatles",
+      "title": "I Feel Fine",
+      "album": "single • 1964"
+    },
     {
       "time": "7:57 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Billie Eilish",
       "title": "Happier Than Ever",
       "album": "Happier Than Ever • 2021"
-    },
-    {
-      "time": "6:36 pm",
-      "artist": "Air Supply",
-      "title": "Even The Nights Are Better",
-      "album": "Now and Forever • 1982"
     }
   ]
 }
