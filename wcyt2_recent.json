@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T00:21:16",
+  "updatedAt": "2026-11-07T00:25:22",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "So Much To Say",
-    "album": "Crash • 1996",
+    "artist": "Janet Jackson",
+    "title": "Again",
+    "album": "Janet • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:25 am",
-      "artist": "Janet Jackson",
-      "title": "Again"
-    },
     {
       "time": "12:29 am",
       "artist": "Nine Inch Nails",
@@ -21,9 +16,25 @@
       "time": "12:34 am",
       "artist": "Oingo Boingo",
       "title": "Weird Science"
+    },
+    {
+      "time": "12:37 am",
+      "artist": "H.E.R.",
+      "title": "Fight For You"
+    },
+    {
+      "time": "12:42 am",
+      "artist": "Lily Allen",
+      "title": "Smile"
     }
   ],
   "recent": [
+    {
+      "time": "12:25 am",
+      "artist": "Janet Jackson",
+      "title": "Again",
+      "album": "Janet • 1993"
+    },
     {
       "time": "12:21 am",
       "artist": "Dave Matthews Band",
@@ -167,12 +178,6 @@
       "artist": "Commodores",
       "title": "Nightshift",
       "album": "Nightshift • 1985"
-    },
-    {
-      "time": "10:54 pm",
-      "artist": "Mr Vegas",
-      "title": "Heads High",
-      "album": "Heads High • 1998"
     }
   ]
 }
