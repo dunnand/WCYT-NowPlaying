@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T04:35:18",
+  "updatedAt": "2026-11-07T04:40:08",
   "now": {
-    "artist": "Jurassic 5",
-    "title": "Quality Control",
-    "album": "Quality Control • 2000",
+    "artist": "The Beatles",
+    "title": "I'm Only Sleeping",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:39 am",
-      "artist": "The Beatles",
-      "title": "I'm Only Sleeping"
-    },
     {
       "time": "4:42 am",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "4:51 am",
       "artist": "Justin Bieber",
       "title": "Boyfriend"
+    },
+    {
+      "time": "4:54 am",
+      "artist": "Justice",
+      "title": "D.A.N.C.E."
     }
   ],
   "recent": [
+    {
+      "time": "4:40 am",
+      "artist": "The Beatles",
+      "title": "I'm Only Sleeping",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "4:35 am",
       "artist": "Jurassic 5",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "All I Want",
       "album": "This Is Happening • 2010"
-    },
-    {
-      "time": "3:04 am",
-      "artist": "Matchbox Twenty",
-      "title": "Unwell",
-      "album": "More Than You Think You Are • 2003"
     }
   ]
 }
