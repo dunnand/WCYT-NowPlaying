@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T07:20:42",
+  "updatedAt": "2026-11-07T07:23:59",
   "now": {
-    "artist": "The Beatles",
-    "title": "You Won't See Me",
-    "album": "Rubber Soul • 1965",
+    "artist": "The Doors",
+    "title": "Love Her Madly",
+    "album": "L.A. Woman • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:24 am",
-      "artist": "The Doors",
-      "title": "Love Her Madly"
-    },
     {
       "time": "7:27 am",
       "artist": "Jamiroquai",
@@ -26,9 +21,20 @@
       "time": "7:34 am",
       "artist": "Pulp",
       "title": "Sunrise"
+    },
+    {
+      "time": "7:40 am",
+      "artist": "The Unicorns",
+      "title": "Tuff Ghost"
     }
   ],
   "recent": [
+    {
+      "time": "7:23 am",
+      "artist": "The Doors",
+      "title": "Love Her Madly",
+      "album": "L.A. Woman • 1971"
+    },
     {
       "time": "7:20 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Elton John",
       "title": "Blessed",
       "album": "Made in England • 1995"
-    },
-    {
-      "time": "5:54 am",
-      "artist": "Kendrick Lamar & SZA",
-      "title": "All the Stars",
-      "album": "Black Panther: The Album • 2018"
     }
   ]
 }
