@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T21:40:28",
+  "updatedAt": "2026-11-06T21:42:47",
   "now": {
-    "artist": "Little Richard",
-    "title": "Tutti Frutti",
-    "album": "Heres Little Richard • 1957",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "I Thought You Were My Boyfriend",
+    "album": "i • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:42 pm",
-      "artist": "The Magnetic Fields",
-      "title": "I Thought You Were My Boyfriend"
-    },
     {
       "time": "9:47 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "9:50 pm",
       "artist": "Demi Lovato",
       "title": "Heart Attack"
+    },
+    {
+      "time": "9:53 pm",
+      "artist": "Sebadoh",
+      "title": "Weird"
     }
   ],
   "recent": [
+    {
+      "time": "9:42 pm",
+      "artist": "The Magnetic Fields",
+      "title": "I Thought You Were My Boyfriend",
+      "album": "i • 2004"
+    },
     {
       "time": "9:40 pm",
       "artist": "Little Richard",
@@ -167,12 +173,6 @@
       "artist": "Barbra Streisand",
       "title": "Woman In Love",
       "album": "Guilty • 1980"
-    },
-    {
-      "time": "8:14 pm",
-      "artist": "Bananarama",
-      "title": "Venus",
-      "album": "True Confessions • 1986"
     }
   ]
 }
