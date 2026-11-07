@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T08:08:20",
+  "updatedAt": "2026-11-07T08:08:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Doors",
+    "title": "Peace Frog",
+    "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:08 am",
-      "artist": "The Doors",
-      "title": "Peace Frog"
-    },
     {
       "time": "8:11 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "8:22 am",
       "artist": "The Beatles",
       "title": "Chains"
+    },
+    {
+      "time": "8:24 am",
+      "artist": "The Doors",
+      "title": "Roadhouse Blues"
     }
   ],
   "recent": [
+    {
+      "time": "8:08 am",
+      "artist": "The Doors",
+      "title": "Peace Frog",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "8:02 am",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Lizzo",
       "title": "Juice",
       "album": "Cuz I Love You • 2019"
-    },
-    {
-      "time": "6:34 am",
-      "artist": "Gang Starr",
-      "title": "Just to Get a Rep",
-      "album": "Step in the Arena • 1991"
     }
   ]
 }
