@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T12:51:36",
+  "updatedAt": "2026-11-07T12:55:02",
   "now": {
-    "artist": "The Who",
-    "title": "The Real Me",
-    "album": "Quadrophenia • 1973",
+    "artist": "The Beatles",
+    "title": "She Loves You",
+    "album": "single • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:54 pm",
-      "artist": "The Beatles",
-      "title": "She Loves You"
-    },
     {
       "time": "12:57 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "The Beatles",
+      "title": "She Loves You",
+      "album": "single • 1963"
+    },
     {
       "time": "12:51 pm",
       "artist": "The Who",
@@ -177,12 +178,6 @@
       "artist": "Sigur Ros",
       "title": "Svefn-g-englar",
       "album": "Agaetis byrjun • 1999"
-    },
-    {
-      "time": "11:21 am",
-      "artist": "The Kinks",
-      "title": "Lola",
-      "album": "Lola Versus Powerman and the Moneygoround, Part One • 1970"
     }
   ]
 }
