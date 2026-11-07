@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T08:24:19",
+  "updatedAt": "2026-11-07T08:28:15",
   "now": {
-    "artist": "The Doors",
-    "title": "Roadhouse Blues",
-    "album": "Morrison Hotel • 1970",
-    "category": "AUDIO"
+    "artist": "Low",
+    "title": "Words",
+    "album": "I Could Live in Hope • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:28 am",
-      "artist": "Low",
-      "title": "Words"
-    },
     {
       "time": "8:33 am",
       "artist": "Wilbert Harrison",
@@ -26,9 +21,20 @@
       "time": "8:40 am",
       "artist": "The Beatles",
       "title": "Don't Bother Me"
+    },
+    {
+      "time": "8:42 am",
+      "artist": "Moses Sumney",
+      "title": "Cut Me"
     }
   ],
   "recent": [
+    {
+      "time": "8:28 am",
+      "artist": "Low",
+      "title": "Words",
+      "album": "I Could Live in Hope • 1994"
+    },
     {
       "time": "8:24 am",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "Heavenly",
       "title": "P.U.N.K. Girl",
       "album": "Atta Girl • 1993"
-    },
-    {
-      "time": "6:50 am",
-      "artist": "Genesis",
-      "title": "Jesus He Knows Me",
-      "album": "We Can't Dance • 1991"
     }
   ]
 }
