@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T12:37:10",
+  "updatedAt": "2026-11-07T12:41:06",
   "now": {
-    "artist": "Cher",
-    "title": "If I Could Turn Back Time",
-    "album": "Heart of Stone • 1989",
+    "artist": "Haim",
+    "title": "The story of us",
+    "album": "i quit • 2025",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:41 pm",
-      "artist": "Haim",
-      "title": "The story of us"
-    },
     {
       "time": "12:43 pm",
       "artist": "The Who",
@@ -21,9 +16,20 @@
       "time": "12:48 pm",
       "artist": "The Beatles",
       "title": "Rain"
+    },
+    {
+      "time": "12:51 pm",
+      "artist": "The Who",
+      "title": "The Real Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:41 pm",
+      "artist": "Haim",
+      "title": "The story of us",
+      "album": "i quit • 2025"
+    },
     {
       "time": "12:37 pm",
       "artist": "Cher",
@@ -167,12 +173,6 @@
       "artist": "The Kinks",
       "title": "God's Children",
       "album": "Percy • 1971"
-    },
-    {
-      "time": "11:05 am",
-      "artist": "The Kinks",
-      "title": "Celluloid Heroes",
-      "album": "Everybody's in Show-Biz • 1972"
     }
   ]
 }
