@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T23:33:13",
+  "updatedAt": "2026-11-06T23:33:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Blame It on the Tetons",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:33 pm",
-      "artist": "Modest Mouse",
-      "title": "Blame It on the Tetons"
-    },
     {
       "time": "11:38 pm",
       "artist": "Jimmy Eat World",
@@ -26,9 +21,20 @@
       "time": "11:44 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Perfect"
+    },
+    {
+      "time": "11:47 pm",
+      "artist": "R.E.M.",
+      "title": "Near Wild Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "11:33 pm",
+      "artist": "Modest Mouse",
+      "title": "Blame It on the Tetons",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "11:29 pm",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Boogie Down Productions",
       "title": "Stop the Violence",
       "album": "By All Means Necessary • 1988"
-    },
-    {
-      "time": "10:01 pm",
-      "artist": "Bon Jovi",
-      "title": "I'll Be There For You",
-      "album": "New Jersey • 1989"
     }
   ]
 }
