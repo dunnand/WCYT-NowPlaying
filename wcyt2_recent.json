@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T07:13:03",
+  "updatedAt": "2026-11-07T07:20:42",
   "now": {
-    "artist": "The Doors",
-    "title": "L.A. Woman",
-    "album": "L.A. Woman • 1971",
+    "artist": "The Beatles",
+    "title": "You Won't See Me",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:20 am",
-      "artist": "The Beatles",
-      "title": "You Won't See Me"
-    },
     {
       "time": "7:24 am",
       "artist": "The Doors",
@@ -26,9 +21,20 @@
       "time": "7:31 am",
       "artist": "Preservation Hall Jazz Band",
       "title": "That's It!"
+    },
+    {
+      "time": "7:34 am",
+      "artist": "Pulp",
+      "title": "Sunrise"
     }
   ],
   "recent": [
+    {
+      "time": "7:20 am",
+      "artist": "The Beatles",
+      "title": "You Won't See Me",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "7:13 am",
       "artist": "The Doors",
@@ -172,12 +178,6 @@
       "artist": "Kendrick Lamar & SZA",
       "title": "All the Stars",
       "album": "Black Panther: The Album • 2018"
-    },
-    {
-      "time": "5:52 am",
-      "artist": "The Beatles",
-      "title": "Paperback Writer",
-      "album": "single • 1966"
     }
   ]
 }
