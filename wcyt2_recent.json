@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T21:04:59",
+  "updatedAt": "2026-11-06T21:05:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Mariah Carey",
+    "title": "Someday",
+    "album": "Mariah Carey • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 pm",
-      "artist": "Mariah Carey",
-      "title": "Someday"
-    },
     {
       "time": "9:09 pm",
       "artist": "Bobby Brown",
@@ -26,9 +21,20 @@
       "time": "9:18 pm",
       "artist": "Aaron Frazer",
       "title": "Over You"
+    },
+    {
+      "time": "9:21 pm",
+      "artist": "Interpol",
+      "title": "Untitled"
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "Mariah Carey",
+      "title": "Someday",
+      "album": "Mariah Carey • 1991"
+    },
     {
       "time": "9:00 pm",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "The Hold Steady",
       "title": "Sequestered In Memphis",
       "album": "Stay Positive • 2008"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Ramones",
-      "title": "I Wanna Be Sedated",
-      "album": "Road to Ruin • 1978"
     }
   ]
 }
