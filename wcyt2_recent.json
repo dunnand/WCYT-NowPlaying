@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T12:57:15",
+  "updatedAt": "2026-11-07T13:00:42",
   "now": {
-    "artist": "Tom Petty and the Heartbreakers",
-    "title": "American Girl",
-    "album": "Tom Petty and the Heartbreakers • 1976",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Ghost",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:00 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Ghost"
-    },
     {
       "time": "1:04 pm",
       "artist": "Chuck Berry",
@@ -26,9 +21,20 @@
       "time": "1:12 pm",
       "artist": "The Beatles",
       "title": "Rock and Roll Music"
+    },
+    {
+      "time": "1:15 pm",
+      "artist": "Maroon 5",
+      "title": "Moves Like Jagger feat. Christina Aguilera"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Ghost",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "12:57 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "To Be Alone With You",
       "album": "Seven Swans • 2004"
-    },
-    {
-      "time": "11:34 am",
-      "artist": "Big Bopper",
-      "title": "Chantilly Lace",
-      "album": "Chantilly Lace • 1959"
     }
   ]
 }
