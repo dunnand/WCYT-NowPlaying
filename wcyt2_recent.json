@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T05:45:40",
+  "updatedAt": "2026-11-07T05:45:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bill Haley and his Comets",
+    "title": "(We're Gonna) Rock Around the Clock",
+    "album": "Shake Rattle and Roll • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:45 am",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock"
-    },
     {
       "time": "5:47 am",
       "artist": "Justin Timberlake",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:45 am",
+      "artist": "Bill Haley and his Comets",
+      "title": "(We're Gonna) Rock Around the Clock",
+      "album": "Shake Rattle and Roll • 1955"
+    },
     {
       "time": "5:44 am",
       "artist": "Elastica",
@@ -172,12 +173,6 @@
       "artist": "Robert Palmer",
       "title": "Addicted To Love",
       "album": "Riptide • 1986"
-    },
-    {
-      "time": "4:15 am",
-      "artist": "Counting Crows",
-      "title": "Round Here",
-      "album": "August and Everything After • 1994"
     }
   ]
 }
