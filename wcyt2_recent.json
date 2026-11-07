@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T19:51:03",
+  "updatedAt": "2026-11-06T19:55:07",
   "now": {
-    "artist": "Haddaway",
-    "title": "What Is Love",
-    "album": "The Album • 1993",
+    "artist": "Buddy Holly",
+    "title": "Oh, Boy!",
+    "album": "The Chirping Crickets • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:55 pm",
-      "artist": "Buddy Holly",
-      "title": "Oh, Boy!"
-    },
     {
       "time": "7:57 pm",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "8:04 pm",
       "artist": "Adele",
       "title": "Rolling In The Deep"
+    },
+    {
+      "time": "8:08 pm",
+      "artist": "The Flaming Lips",
+      "title": "The Gash"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 pm",
+      "artist": "Buddy Holly",
+      "title": "Oh, Boy!",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "7:51 pm",
       "artist": "Haddaway",
@@ -172,12 +178,6 @@
       "artist": "A Flock Of Seagulls",
       "title": "I Ran (So Far Away)",
       "album": "A Flock of Seagulls • 1982"
-    },
-    {
-      "time": "6:28 pm",
-      "artist": "Beck",
-      "title": "Teenage Wastebasket",
-      "album": "One Foot in the Grave • 1994"
     }
   ]
 }
