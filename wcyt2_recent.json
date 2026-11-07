@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T20:02:22",
+  "updatedAt": "2026-11-06T20:04:27",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Feel Fine",
-    "album": "single • 1964",
+    "artist": "Adele",
+    "title": "Rolling In The Deep",
+    "album": "21 • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:04 pm",
-      "artist": "Adele",
-      "title": "Rolling In The Deep"
-    },
     {
       "time": "8:08 pm",
       "artist": "The Flaming Lips",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:04 pm",
+      "artist": "Adele",
+      "title": "Rolling In The Deep",
+      "album": "21 • 2010"
+    },
     {
       "time": "8:02 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Ramones",
       "title": "Blitzkrieg Bop",
       "album": "Ramones • 1976"
-    },
-    {
-      "time": "6:40 pm",
-      "artist": "Billie Eilish",
-      "title": "Happier Than Ever",
-      "album": "Happier Than Ever • 2021"
     }
   ]
 }
