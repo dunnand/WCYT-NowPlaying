@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T23:02:28",
+  "updatedAt": "2026-11-06T23:05:13",
   "now": {
-    "artist": "Crosby, Stills & Nash",
-    "title": "Wasted On The Way",
-    "album": "Daylight Again • 1982",
+    "artist": "Bob Dylan",
+    "title": "False Prophet",
+    "album": "Rough and Rowdy Ways • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 pm",
-      "artist": "Bob Dylan",
-      "title": "False Prophet"
-    },
     {
       "time": "11:11 pm",
       "artist": "Rodriguez",
@@ -21,9 +16,20 @@
       "time": "11:14 pm",
       "artist": "The Beatles",
       "title": "Carry That Weight"
+    },
+    {
+      "time": "11:16 pm",
+      "artist": "Rodriguez",
+      "title": "Inner City Blues"
     }
   ],
   "recent": [
+    {
+      "time": "11:05 pm",
+      "artist": "Bob Dylan",
+      "title": "False Prophet",
+      "album": "Rough and Rowdy Ways • 2020"
+    },
     {
       "time": "11:02 pm",
       "artist": "Crosby, Stills & Nash",
@@ -167,12 +173,6 @@
       "artist": "Ride",
       "title": "Twisterella",
       "album": "Going Blank Again • 1992"
-    },
-    {
-      "time": "9:33 pm",
-      "artist": "Richard Hell & The Voidoids",
-      "title": "Blank Generation",
-      "album": "ALBUM: Blank Generation • 1977"
     }
   ]
 }
