@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T04:40:08",
+  "updatedAt": "2026-11-07T04:42:53",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'm Only Sleeping",
-    "album": "Revolver • 1966",
+    "artist": "The Clash",
+    "title": "Lost in the Supermarket",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:42 am",
-      "artist": "The Clash",
-      "title": "Lost in the Supermarket"
-    },
     {
       "time": "4:46 am",
       "artist": "David Byrne",
@@ -26,9 +21,20 @@
       "time": "4:54 am",
       "artist": "Justice",
       "title": "D.A.N.C.E."
+    },
+    {
+      "time": "4:58 am",
+      "artist": "Norah Jones",
+      "title": "Don't Know Why"
     }
   ],
   "recent": [
+    {
+      "time": "4:42 am",
+      "artist": "The Clash",
+      "title": "Lost in the Supermarket",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "4:40 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Blind Willie McTell",
       "album": "The Bootleg Series Volumes 1-3 • 1991"
-    },
-    {
-      "time": "3:07 am",
-      "artist": "LCD Soundsystem",
-      "title": "All I Want",
-      "album": "This Is Happening • 2010"
     }
   ]
 }
