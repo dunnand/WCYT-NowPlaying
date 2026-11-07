@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T22:26:28",
+  "updatedAt": "2026-11-06T22:28:51",
   "now": {
-    "artist": "The Beatles",
-    "title": "Twist and Shout",
-    "album": "Please Please Me • 1963",
+    "artist": "Rodriguez",
+    "title": "Crucify Your Mind",
+    "album": "Cold Fact • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:28 pm",
-      "artist": "Rodriguez",
-      "title": "Crucify Your Mind"
-    },
     {
       "time": "10:31 pm",
       "artist": "Lou Bega",
@@ -26,9 +21,20 @@
       "time": "10:39 pm",
       "artist": "*NSYNC",
       "title": "Bye Bye Bye"
+    },
+    {
+      "time": "10:42 pm",
+      "artist": "Interpol",
+      "title": "Say Hello to the Angels"
     }
   ],
   "recent": [
+    {
+      "time": "10:28 pm",
+      "artist": "Rodriguez",
+      "title": "Crucify Your Mind",
+      "album": "Cold Fact • 1970"
+    },
     {
       "time": "10:26 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Range Life",
       "album": "Crooked Rain, Crooked Rain • 1994"
-    },
-    {
-      "time": "8:56 pm",
-      "artist": "Feist",
-      "title": "Mushaboom",
-      "album": "Let It Die • 2016"
     }
   ]
 }
