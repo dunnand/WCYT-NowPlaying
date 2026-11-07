@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T21:47:15",
+  "updatedAt": "2026-11-06T21:50:08",
   "now": {
-    "artist": "The Beatles",
-    "title": "Tomorrow Never Knows",
-    "album": "Revolver • 1966",
+    "artist": "Demi Lovato",
+    "title": "Heart Attack",
+    "album": "Demi • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:50 pm",
-      "artist": "Demi Lovato",
-      "title": "Heart Attack"
-    },
     {
       "time": "9:53 pm",
       "artist": "Sebadoh",
@@ -21,9 +16,20 @@
       "time": "9:57 pm",
       "artist": "Soundgarden",
       "title": "Rusty Cage"
+    },
+    {
+      "time": "10:01 pm",
+      "artist": "Bon Jovi",
+      "title": "I'll Be There For You"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 pm",
+      "artist": "Demi Lovato",
+      "title": "Heart Attack",
+      "album": "Demi • 2013"
+    },
     {
       "time": "9:47 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Interpol",
       "title": "C'mere",
       "album": "Antics • 2004"
-    },
-    {
-      "time": "8:22 pm",
-      "artist": "Billie Eilish",
-      "title": "LUNCH",
-      "album": "Hit Me Hard and Soft • 2024"
     }
   ]
 }
