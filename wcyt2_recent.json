@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T22:54:12",
+  "updatedAt": "2026-11-06T22:57:48",
   "now": {
-    "artist": "Mr Vegas",
-    "title": "Heads High",
-    "album": "Heads High • 1998",
+    "artist": "Commodores",
+    "title": "Nightshift",
+    "album": "Nightshift • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:57 pm",
-      "artist": "Commodores",
-      "title": "Nightshift"
-    },
     {
       "time": "11:02 pm",
       "artist": "Crosby, Stills & Nash",
@@ -21,9 +16,20 @@
       "time": "11:05 pm",
       "artist": "Bob Dylan",
       "title": "False Prophet"
+    },
+    {
+      "time": "11:11 pm",
+      "artist": "Rodriguez",
+      "title": "I Think of You"
     }
   ],
   "recent": [
+    {
+      "time": "10:57 pm",
+      "artist": "Commodores",
+      "title": "Nightshift",
+      "album": "Nightshift • 1985"
+    },
     {
       "time": "10:54 pm",
       "artist": "Mr Vegas",
@@ -167,12 +173,6 @@
       "artist": "The Decemberists",
       "title": "Calamity Song",
       "album": "The King Is Dead • 2011"
-    },
-    {
-      "time": "9:26 pm",
-      "artist": "The Mountain Goats",
-      "title": "Cotton",
-      "album": "We Shall All Be Healed • 2004"
     }
   ]
 }
