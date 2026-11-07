@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T11:54:23",
+  "updatedAt": "2026-11-07T11:54:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Jam",
+    "title": "Start!",
+    "album": "Sound Affects • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:54 am",
-      "artist": "The Jam",
-      "title": "Start!"
-    },
     {
       "time": "11:56 am",
       "artist": "Tom Petty & The Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "12:05 pm",
       "artist": "The Kinks",
       "title": "Strangers"
+    },
+    {
+      "time": "12:08 pm",
+      "artist": "The Meters",
+      "title": "People Say"
     }
   ],
   "recent": [
+    {
+      "time": "11:54 am",
+      "artist": "The Jam",
+      "title": "Start!",
+      "album": "Sound Affects • 1980"
+    },
     {
       "time": "11:50 am",
       "artist": "Sugar Ray",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Getting Better",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "The Isley Brothers",
-      "title": "Summer Breeze",
-      "album": "3 + 3 • 1973"
     }
   ]
 }
