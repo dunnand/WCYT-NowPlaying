@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T07:07:41",
+  "updatedAt": "2026-11-07T07:10:48",
   "now": {
-    "artist": "The Clash",
-    "title": "Train in Vain",
-    "album": "London Calling • 1979",
+    "artist": "The Beatles",
+    "title": "You've Got To Hide Your Love Away",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 am",
-      "artist": "The Beatles",
-      "title": "You've Got To Hide Your Love Away"
-    },
     {
       "time": "7:13 am",
       "artist": "The Doors",
@@ -26,9 +21,20 @@
       "time": "7:24 am",
       "artist": "The Doors",
       "title": "Love Her Madly"
+    },
+    {
+      "time": "7:27 am",
+      "artist": "Jamiroquai",
+      "title": "Cosmic Girl"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 am",
+      "artist": "The Beatles",
+      "title": "You've Got To Hide Your Love Away",
+      "album": "Help! • 1965"
+    },
     {
       "time": "7:07 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "What Goes Around Comes Around",
       "album": "FutureSex/LoveSounds • 2006"
-    },
-    {
-      "time": "5:45 am",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock",
-      "album": "Shake Rattle and Roll • 1955"
     }
   ]
 }
