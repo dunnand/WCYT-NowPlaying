@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T16:41:40",
+  "updatedAt": "2026-11-07T16:43:31",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'll Get You",
-    "album": "single • 1963",
+    "artist": "T. Rex",
+    "title": "Hot Love",
+    "album": "single • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:43 pm",
-      "artist": "T. Rex",
-      "title": "Hot Love"
-    },
     {
       "time": "4:48 pm",
       "artist": "Soundgarden",
@@ -26,9 +21,20 @@
       "time": "4:56 pm",
       "artist": "The White Stripes",
       "title": "Ball and Biscuit"
+    },
+    {
+      "time": "5:04 pm",
+      "artist": "The Beatles",
+      "title": "I'll Follow The Sun"
     }
   ],
   "recent": [
+    {
+      "time": "4:43 pm",
+      "artist": "T. Rex",
+      "title": "Hot Love",
+      "album": "single • 1971"
+    },
     {
       "time": "4:41 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "Wi' Nae Wee Bairn Ye'll Me Beget",
       "album": "69 Love Songs • 1999"
-    },
-    {
-      "time": "3:15 pm",
-      "artist": "The Highwomen",
-      "title": "Highwomen",
-      "album": "The Highwomen • 2019"
     }
   ]
 }
