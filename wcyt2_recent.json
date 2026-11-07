@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T10:37:07",
+  "updatedAt": "2026-11-07T10:37:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Come Together",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:37 am",
-      "artist": "The Beatles",
-      "title": "Come Together"
-    },
     {
       "time": "10:41 am",
       "artist": "Joey Bad",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:37 am",
+      "artist": "The Beatles",
+      "title": "Come Together",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "10:32 am",
       "artist": "School Of Seven Bells",
@@ -172,12 +173,6 @@
       "artist": "GENER8ION",
       "title": "STORM II  (ft. Yung Lean)",
       "album": ""
-    },
-    {
-      "time": "8:59 am",
-      "artist": "The Specials",
-      "title": "Free Nelson Mandela",
-      "album": "In the Studio • 1984"
     }
   ]
 }
