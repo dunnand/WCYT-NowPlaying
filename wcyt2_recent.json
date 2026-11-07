@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-06T23:16:44",
+  "updatedAt": "2026-11-06T23:20:09",
   "now": {
-    "artist": "Rodriguez",
-    "title": "Inner City Blues",
-    "album": "Cold Fact • 1970",
+    "artist": "The Beatles",
+    "title": "Black Bird",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:19 pm",
-      "artist": "The Beatles",
-      "title": "Black Bird"
-    },
     {
       "time": "11:22 pm",
       "artist": "Rodriguez",
@@ -26,9 +21,20 @@
       "time": "11:29 pm",
       "artist": "Bruno Mars",
       "title": "Locked Out Of Heaven"
+    },
+    {
+      "time": "11:33 pm",
+      "artist": "Modest Mouse",
+      "title": "Blame It on the Tetons"
     }
   ],
   "recent": [
+    {
+      "time": "11:20 pm",
+      "artist": "The Beatles",
+      "title": "Black Bird",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "11:16 pm",
       "artist": "Rodriguez",
@@ -172,12 +178,6 @@
       "artist": "Demi Lovato",
       "title": "Heart Attack",
       "album": "Demi • 2013"
-    },
-    {
-      "time": "9:47 pm",
-      "artist": "The Beatles",
-      "title": "Tomorrow Never Knows",
-      "album": "Revolver • 1966"
     }
   ]
 }
