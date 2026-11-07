@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-07T10:17:42",
+  "updatedAt": "2026-11-07T10:20:18",
   "now": {
-    "artist": "The Beatles",
-    "title": "Getting Better",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "The Kinks",
+    "title": "20th Century Man",
+    "album": "Muswell Hillbillies • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:20 am",
-      "artist": "The Kinks",
-      "title": "20th Century Man"
-    },
-    {
-      "time": "10:26 am",
+      "time": "10:25 am",
       "artist": "Primal Scream",
       "title": "Higher Than The Sun"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:20 am",
+      "artist": "The Kinks",
+      "title": "20th Century Man",
+      "album": "Muswell Hillbillies • 1971"
+    },
     {
       "time": "10:17 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Lush",
       "title": "For Love",
       "album": "Spooky • 1992"
-    },
-    {
-      "time": "8:42 am",
-      "artist": "Moses Sumney",
-      "title": "Cut Me",
-      "album": "Aromanticism • 2017"
     }
   ]
 }
