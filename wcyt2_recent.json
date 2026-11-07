@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T05:18:52",
+  "updatedAt": "2026-11-07T05:23:00",
   "now": {
-    "artist": "Roxy Music",
-    "title": "Avalon",
-    "album": "Avalon • 1982",
+    "artist": "Harry Styles",
+    "title": "As It Was",
+    "album": "Harry's House • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:23 am",
-      "artist": "Harry Styles",
-      "title": "As It Was"
-    },
     {
       "time": "5:25 am",
       "artist": "The Clash",
@@ -21,9 +16,20 @@
       "time": "5:31 am",
       "artist": "The Beatles",
       "title": "Birthday"
+    },
+    {
+      "time": "5:34 am",
+      "artist": "The Clash",
+      "title": "Rudie Can't Fail"
     }
   ],
   "recent": [
+    {
+      "time": "5:23 am",
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "album": "Harry's House • 2022"
+    },
     {
       "time": "5:18 am",
       "artist": "Roxy Music",
@@ -167,12 +173,6 @@
       "artist": "Built to Spill",
       "title": "Untrustable/Part 2 (About Someone Else)",
       "album": "Perfect From Now On • 1997"
-    },
-    {
-      "time": "3:49 am",
-      "artist": "The Clash",
-      "title": "I Fought the Law",
-      "album": "The Clash • 1979"
     }
   ]
 }
