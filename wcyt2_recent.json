@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T08:49:53",
+  "updatedAt": "2026-11-07T08:50:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Metallica",
+    "title": "Sad but True",
+    "album": "Metallica • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 am",
-      "artist": "Metallica",
-      "title": "Sad but True"
-    },
     {
       "time": "8:55 am",
       "artist": "Spandau Ballet",
@@ -26,9 +21,20 @@
       "time": "9:04 am",
       "artist": "GENER8ION",
       "title": "STORM II  (ft. Yung Lean)"
+    },
+    {
+      "time": "9:07 am",
+      "artist": "Spoon",
+      "title": "The Underdog"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 am",
+      "artist": "Metallica",
+      "title": "Sad but True",
+      "album": "Metallica • 1991"
+    },
     {
       "time": "8:46 am",
       "artist": "Lush",
@@ -172,12 +178,6 @@
       "artist": "The Doors",
       "title": "L.A. Woman",
       "album": "L.A. Woman • 1971"
-    },
-    {
-      "time": "7:10 am",
-      "artist": "The Beatles",
-      "title": "You've Got To Hide Your Love Away",
-      "album": "Help! • 1965"
     }
   ]
 }
