@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T11:15:34",
+  "updatedAt": "2026-11-07T11:19:00",
   "now": {
-    "artist": "Queens of the Stone Age",
-    "title": "The Lost Art of Keeping a Secret",
-    "album": "The Lost Art of Keeping a Secret • 2000",
+    "artist": "The Beatles",
+    "title": "I Need You",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:19 am",
-      "artist": "The Beatles",
-      "title": "I Need You"
-    },
     {
       "time": "11:21 am",
       "artist": "The Kinks",
@@ -26,9 +21,20 @@
       "time": "11:34 am",
       "artist": "Big Bopper",
       "title": "Chantilly Lace"
+    },
+    {
+      "time": "11:36 am",
+      "artist": "Sufjan Stevens",
+      "title": "To Be Alone With You"
     }
   ],
   "recent": [
+    {
+      "time": "11:19 am",
+      "artist": "The Beatles",
+      "title": "I Need You",
+      "album": "Help! • 1965"
+    },
     {
       "time": "11:15 am",
       "artist": "Queens of the Stone Age",
@@ -172,12 +178,6 @@
       "artist": "Mariah Carey",
       "title": "#Beautiful",
       "album": "Me. I Am Mariah The Elusive Chanteuse • 2014"
-    },
-    {
-      "time": "9:38 am",
-      "artist": "Stephen Malkmus and the Jicks",
-      "title": "Vanessa From Queens",
-      "album": "Pig Lib • 2003"
     }
   ]
 }
