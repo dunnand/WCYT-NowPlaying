@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T13:00:42",
+  "updatedAt": "2026-11-07T13:04:52",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Ghost",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Chuck Berry",
+    "title": "School Days",
+    "album": "After School Session • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:04 pm",
-      "artist": "Chuck Berry",
-      "title": "School Days"
-    },
     {
       "time": "1:07 pm",
       "artist": "Ted Leo and the Pharmacists",
@@ -26,9 +21,20 @@
       "time": "1:15 pm",
       "artist": "Maroon 5",
       "title": "Moves Like Jagger feat. Christina Aguilera"
+    },
+    {
+      "time": "1:18 pm",
+      "artist": "Sleater Kinney",
+      "title": "Words and Guitar"
     }
   ],
   "recent": [
+    {
+      "time": "1:04 pm",
+      "artist": "Chuck Berry",
+      "title": "School Days",
+      "album": "After School Session • 1957"
+    },
     {
       "time": "1:00 pm",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Love You To",
       "album": "Revolver • 1966"
-    },
-    {
-      "time": "11:36 am",
-      "artist": "Sufjan Stevens",
-      "title": "To Be Alone With You",
-      "album": "Seven Swans • 2004"
     }
   ]
 }
