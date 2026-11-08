@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T21:46:13",
+  "updatedAt": "2026-11-07T21:48:57",
   "now": {
-    "artist": "Willie Nelson",
-    "title": "On the Road Again",
-    "album": "Honeysuckle Rose • 1980",
+    "artist": "John Lennon & Yoko Ono",
+    "title": "Walking on Thin Ice",
+    "album": "Walking on Thin Ice • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 pm",
-      "artist": "John Lennon & Yoko Ono",
-      "title": "Walking on Thin Ice"
-    },
     {
       "time": "9:54 pm",
       "artist": "Atsuko Asahi, Manaka Kataoka",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:48 pm",
+      "artist": "John Lennon & Yoko Ono",
+      "title": "Walking on Thin Ice",
+      "album": "Walking on Thin Ice • 1981"
+    },
     {
       "time": "9:46 pm",
       "artist": "Willie Nelson",
@@ -172,12 +173,6 @@
       "artist": "The Velvet Underground",
       "title": "Oh! Sweet Nuthin'",
       "album": "Loaded • 1970"
-    },
-    {
-      "time": "8:14 pm",
-      "artist": "Van Morrison",
-      "title": "Into the Mystic",
-      "album": "Moondance • 1970"
     }
   ]
 }
