@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:22:05",
+  "updatedAt": "2026-11-08T00:22:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Tender",
+    "album": "13 • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:22 am",
-      "artist": "Blur",
-      "title": "Tender"
-    },
     {
       "time": "12:29 am",
       "artist": "Bobby McFerrin",
@@ -26,9 +21,20 @@
       "time": "12:36 am",
       "artist": "Magdalena Bay",
       "title": "Image"
+    },
+    {
+      "time": "12:40 am",
+      "artist": "The Shins",
+      "title": "Saint Simon"
     }
   ],
   "recent": [
+    {
+      "time": "12:22 am",
+      "artist": "Blur",
+      "title": "Tender",
+      "album": "13 • 1999"
+    },
     {
       "time": "12:16 am",
       "artist": "The Band",
@@ -172,12 +178,6 @@
       "artist": "Icona Pop",
       "title": "I Love It",
       "album": "HA201247 6 • 2013"
-    },
-    {
-      "time": "9:33 pm",
-      "artist": "The Beatles",
-      "title": "Nowhere Man",
-      "album": "Rubber Soul • 1965"
     }
   ]
 }
