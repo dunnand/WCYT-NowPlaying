@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T12:49:34",
+  "updatedAt": "2026-11-08T12:52:29",
   "now": {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Our House",
-    "album": "Dj Vu • 1970",
+    "artist": "Elvis Presley",
+    "title": "Kentucky Rain",
+    "album": "single • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:52 pm",
-      "artist": "Elvis Presley",
-      "title": "Kentucky Rain"
-    },
     {
       "time": "12:55 pm",
       "artist": "Songs Ohia",
@@ -26,9 +21,20 @@
       "time": "1:05 pm",
       "artist": "Olivia Newton",
       "title": "John - Hopelessly Devoted To You"
+    },
+    {
+      "time": "1:08 pm",
+      "artist": "Foo Fighters",
+      "title": "Monkey Wrench"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 pm",
+      "artist": "Elvis Presley",
+      "title": "Kentucky Rain",
+      "album": "single • 1970"
+    },
     {
       "time": "12:49 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -172,12 +178,6 @@
       "artist": "Sleater-Kinney",
       "title": "Oh!",
       "album": "One Beat • 2002"
-    },
-    {
-      "time": "11:10 am",
-      "artist": "Ray Charles",
-      "title": "What'd I Say, Pt. 1 & 2",
-      "album": "single • 1959"
     }
   ]
 }
