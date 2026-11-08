@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T07:35:27",
+  "updatedAt": "2026-11-08T07:39:54",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Waltz #2 (XO)",
-    "album": "XO • 1998",
-    "category": "TUNES"
+    "artist": "Madonna",
+    "title": "Crazy For You",
+    "album": "single • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:39 am",
-      "artist": "Madonna",
-      "title": "Crazy For You"
-    },
     {
       "time": "7:44 am",
       "artist": "Billy Bragg",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:39 am",
+      "artist": "Madonna",
+      "title": "Crazy For You",
+      "album": "single • 1985"
+    },
     {
       "time": "7:35 am",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Help",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "6:13 am",
-      "artist": "Blondie",
-      "title": "Sunday Girl",
-      "album": "Parallel Lines • 1978"
     }
   ]
 }
