@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T10:48:30",
+  "updatedAt": "2026-11-08T10:48:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "There There",
+    "album": "Hail to the Thief • 2003",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:48 am",
-      "artist": "Radiohead",
-      "title": "There There"
-    },
     {
       "time": "10:53 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "11:03 am",
       "artist": "Marika Hackman",
       "title": "33"
+    },
+    {
+      "time": "11:05 am",
+      "artist": "Beach House",
+      "title": "The Hours"
     }
   ],
   "recent": [
+    {
+      "time": "10:48 am",
+      "artist": "Radiohead",
+      "title": "There There",
+      "album": "Hail to the Thief • 2003"
+    },
     {
       "time": "10:45 am",
       "artist": "Hovvdy",
@@ -172,12 +178,6 @@
       "artist": "MJ Lenderman",
       "title": "You Don't Know The Shape I'm In",
       "album": "Manning Fireworks • 2024"
-    },
-    {
-      "time": "9:18 am",
-      "artist": "Interpol",
-      "title": "Obstacle 1",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
