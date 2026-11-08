@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T02:36:31",
+  "updatedAt": "2026-11-08T02:36:42",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Gorillaz",
+    "title": "Orange County",
+    "album": "The Mountain • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:36 am",
-      "artist": "Gorillaz",
-      "title": "Orange County"
-    },
     {
       "time": "2:40 am",
       "artist": "@",
@@ -26,9 +21,20 @@
       "time": "2:49 am",
       "artist": "Slow Pulp",
       "title": "Spill"
+    },
+    {
+      "time": "2:52 am",
+      "artist": "T. Rex",
+      "title": "Mad Donna"
     }
   ],
   "recent": [
+    {
+      "time": "2:36 am",
+      "artist": "Gorillaz",
+      "title": "Orange County",
+      "album": "The Mountain • 2026"
+    },
     {
       "time": "2:33 am",
       "artist": "Death Cab For Cutie",
@@ -172,12 +178,6 @@
       "artist": "Goose",
       "title": "Good2B",
       "album": "Big Modern! • 2026"
-    },
-    {
-      "time": "12:57 am",
-      "artist": "Nilufer Yanya",
-      "title": "Cold Heart",
-      "album": "Dancing Shoes EP • 2025"
     }
   ]
 }
