@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T14:02:08",
+  "updatedAt": "2026-11-08T14:05:43",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Another Day",
-    "album": "single • 1971",
+    "artist": "Alice in Chains",
+    "title": "Them Bones",
+    "album": "Dirt • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:05 pm",
-      "artist": "Alice in Chains",
-      "title": "Them Bones"
-    },
     {
       "time": "2:08 pm",
       "artist": "Ritchie Valens",
@@ -26,9 +21,20 @@
       "time": "2:16 pm",
       "artist": "The Beatles",
       "title": "Being For The Benefit Of Mr. Kite!"
+    },
+    {
+      "time": "2:18 pm",
+      "artist": "LCD Soundsystem",
+      "title": "I Can Change"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 pm",
+      "artist": "Alice in Chains",
+      "title": "Them Bones",
+      "album": "Dirt • 1992"
+    },
     {
       "time": "2:02 pm",
       "artist": "Paul McCartney",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "Secret",
       "album": "Bedtime Stories • 1994"
-    },
-    {
-      "time": "12:24 pm",
-      "artist": "Silver Jews",
-      "title": "Random Rules",
-      "album": "American Water • 1998"
     }
   ]
 }
