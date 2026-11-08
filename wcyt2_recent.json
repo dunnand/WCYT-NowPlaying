@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T13:08:05",
+  "updatedAt": "2026-11-08T13:12:02",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Monkey Wrench",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Doris Day",
+    "title": "Whatever Will Be Will Be (Que Sera, Sera)",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:11 pm",
-      "artist": "Doris Day",
-      "title": "Whatever Will Be Will Be (Que Sera, Sera)"
-    },
     {
       "time": "1:13 pm",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "1:21 pm",
       "artist": "Portugal The Man",
       "title": "Feel It Still"
+    },
+    {
+      "time": "1:24 pm",
+      "artist": "Pavement",
+      "title": "Shady Lane / J vs. S"
     }
   ],
   "recent": [
+    {
+      "time": "1:12 pm",
+      "artist": "Doris Day",
+      "title": "Whatever Will Be Will Be (Que Sera, Sera)",
+      "album": "single • 1956"
+    },
     {
       "time": "1:08 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Echo & The Bunnymen",
       "title": "Nocturnal Me",
       "album": "Ocean Rain • 1984"
-    },
-    {
-      "time": "11:27 am",
-      "artist": "System of a Down",
-      "title": "Spiders",
-      "album": "System Of A Down • 1999"
     }
   ]
 }
