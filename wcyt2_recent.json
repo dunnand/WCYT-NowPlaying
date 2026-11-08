@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T17:35:13",
+  "updatedAt": "2026-11-08T17:37:38",
   "now": {
-    "artist": "The Beatles",
-    "title": "Please Mister Postman",
-    "album": "With the Beatles • 1963",
+    "artist": "Rod Stewart",
+    "title": "Gasoline Alley",
+    "album": "Gasoline Alley • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:37 pm",
-      "artist": "Rod Stewart",
-      "title": "Gasoline Alley"
-    },
     {
       "time": "5:41 pm",
       "artist": "The Sugarcubes",
@@ -23,12 +18,23 @@
       "title": "Please, Please, Please"
     },
     {
-      "time": "5:48 pm",
+      "time": "5:47 pm",
       "artist": "Songs Ohia",
       "title": "Just Be Simple"
+    },
+    {
+      "time": "5:52 pm",
+      "artist": "The Beatles",
+      "title": "Michelle"
     }
   ],
   "recent": [
+    {
+      "time": "5:37 pm",
+      "artist": "Rod Stewart",
+      "title": "Gasoline Alley",
+      "album": "Gasoline Alley • 1970"
+    },
     {
       "time": "5:35 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty",
       "title": "You Don't Know How It Feels",
       "album": "Wildflowers • 1994"
-    },
-    {
-      "time": "4:04 pm",
-      "artist": "Pitbull",
-      "title": "Feel This Moment",
-      "album": "Global Warming • 2012"
     }
   ]
 }
