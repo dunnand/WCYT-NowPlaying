@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T01:41:21",
+  "updatedAt": "2026-11-08T01:44:25",
   "now": {
-    "artist": "The Beatles",
-    "title": "Sexy Sadie",
-    "album": "The Beatles • 1968",
+    "artist": "Wire",
+    "title": "Three Girl Rhumba",
+    "album": "Pink Flag • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:44 am",
-      "artist": "Wire",
-      "title": "Three Girl Rhumba"
-    },
     {
       "time": "1:45 am",
       "artist": "Dinosaur Jr.",
@@ -26,9 +21,20 @@
       "time": "1:55 am",
       "artist": "Sufjan Stevens",
       "title": "Holland"
+    },
+    {
+      "time": "1:58 am",
+      "artist": "The Shins",
+      "title": "Pink Bullets"
     }
   ],
   "recent": [
+    {
+      "time": "1:44 am",
+      "artist": "Wire",
+      "title": "Three Girl Rhumba",
+      "album": "Pink Flag • 1977"
+    },
     {
       "time": "1:41 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Band",
       "title": "Atlantic City",
       "album": "Jericho • 1993"
-    },
-    {
-      "time": "12:11 am",
-      "artist": "LCD Soundsystem",
-      "title": "Oh Baby",
-      "album": "American Dream • 2017"
     }
   ]
 }
