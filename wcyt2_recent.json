@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T21:46:01",
+  "updatedAt": "2026-11-07T21:46:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Willie Nelson",
+    "title": "On the Road Again",
+    "album": "Honeysuckle Rose • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:46 pm",
-      "artist": "Willie Nelson",
-      "title": "On the Road Again"
-    },
     {
       "time": "9:48 pm",
       "artist": "John Lennon & Yoko Ono",
@@ -26,9 +21,20 @@
       "time": "9:57 pm",
       "artist": "The Stranglers",
       "title": "Hanging Around"
+    },
+    {
+      "time": "10:01 pm",
+      "artist": "The Stranglers",
+      "title": "No More Heroes"
     }
   ],
   "recent": [
+    {
+      "time": "9:46 pm",
+      "artist": "Willie Nelson",
+      "title": "On the Road Again",
+      "album": "Honeysuckle Rose • 1980"
+    },
     {
       "time": "9:42 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Van Morrison",
       "title": "Into the Mystic",
       "album": "Moondance • 1970"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "Magdalena Bay",
-      "title": "Killshot",
-      "album": "A Little Rhythm and a Wicked Feeling • 2024"
     }
   ]
 }
