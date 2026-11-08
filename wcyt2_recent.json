@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T21:15:08",
+  "updatedAt": "2026-11-07T21:18:24",
   "now": {
-    "artist": "The Beatles",
-    "title": "Ob-La-Di, Ob-La-Da",
-    "album": "The Beatles • 1968",
+    "artist": "The Specials",
+    "title": "You're Wondering Now",
+    "album": "Specials • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:18 pm",
-      "artist": "The Specials",
-      "title": "You're Wondering Now"
-    },
     {
       "time": "9:20 pm",
       "artist": "Ween",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:18 pm",
+      "artist": "The Specials",
+      "title": "You're Wondering Now",
+      "album": "Specials • 1979"
+    },
     {
       "time": "9:15 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "The Fall",
       "title": "Blindness",
       "album": "Fall Heads Roll • 2005"
-    },
-    {
-      "time": "7:36 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
