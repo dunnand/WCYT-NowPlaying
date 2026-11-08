@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T18:48:57",
+  "updatedAt": "2026-11-08T18:49:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Here Comes The Sun",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:49 pm",
-      "artist": "The Beatles",
-      "title": "Here Comes The Sun"
-    },
     {
       "time": "6:52 pm",
       "artist": "Maggie Rogers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:49 pm",
+      "artist": "The Beatles",
+      "title": "Here Comes The Sun",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "6:42 pm",
       "artist": "Sun Kil Moon",
@@ -172,12 +173,6 @@
       "artist": "*NSYNC",
       "title": "Better Place",
       "album": "TROLLS Band Together Soundtrack • 2023"
-    },
-    {
-      "time": "5:16 pm",
-      "artist": "Bad Religion",
-      "title": "You",
-      "album": "No Control • 1989"
     }
   ]
 }
