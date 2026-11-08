@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T13:58:02",
+  "updatedAt": "2026-11-08T14:02:08",
   "now": {
-    "artist": "Lady Gaga",
-    "title": "Born This Way",
-    "album": "Born This Way • 2011",
+    "artist": "Paul McCartney",
+    "title": "Another Day",
+    "album": "single • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:02 pm",
-      "artist": "Paul McCartney",
-      "title": "Another Day"
-    },
     {
       "time": "2:05 pm",
       "artist": "Alice in Chains",
@@ -26,9 +21,20 @@
       "time": "2:10 pm",
       "artist": "TV on the Radio",
       "title": "Dreams"
+    },
+    {
+      "time": "2:16 pm",
+      "artist": "The Beatles",
+      "title": "Being For The Benefit Of Mr. Kite!"
     }
   ],
   "recent": [
+    {
+      "time": "2:02 pm",
+      "artist": "Paul McCartney",
+      "title": "Another Day",
+      "album": "single • 1971"
+    },
     {
       "time": "1:58 pm",
       "artist": "Lady Gaga",
@@ -172,12 +178,6 @@
       "artist": "Silver Jews",
       "title": "Random Rules",
       "album": "American Water • 1998"
-    },
-    {
-      "time": "12:21 pm",
-      "artist": "John Prine",
-      "title": "Summer's End",
-      "album": "The Tree of Forgiveness • 2018"
     }
   ]
 }
