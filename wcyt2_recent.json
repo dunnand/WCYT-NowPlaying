@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T21:11:22",
+  "updatedAt": "2026-11-07T21:15:08",
   "now": {
-    "artist": "The White Stripes",
-    "title": "My Doorbell",
-    "album": "Get Behind Me Satan • 2005",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Ob-La-Di, Ob-La-Da",
+    "album": "The Beatles • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "The Beatles",
-      "title": "Ob-La-Di, Ob-La-Da"
-    },
     {
       "time": "9:18 pm",
       "artist": "The Specials",
@@ -26,9 +21,20 @@
       "time": "9:23 pm",
       "artist": "Dion & The Belmonts",
       "title": "Where Or When"
+    },
+    {
+      "time": "9:25 pm",
+      "artist": "The Mars Volta",
+      "title": "Roulette Dares (The Haunt Of)"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "The Beatles",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "9:11 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Take Your Time",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "7:32 pm",
-      "artist": "Sneaker Pimps",
-      "title": "6 Underground",
-      "album": "Becoming X • 1996"
     }
   ]
 }
