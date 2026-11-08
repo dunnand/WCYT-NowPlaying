@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T23:58:05",
+  "updatedAt": "2026-11-08T00:01:04",
   "now": {
-    "artist": "Built to Spill",
-    "title": "Car",
-    "album": "Theres Nothing Wrong With Love • 1994",
-    "category": "TUNES"
+    "artist": "Nina Simone",
+    "title": "I Loves You, Porgy",
+    "album": "Little Girl Blue • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 am",
-      "artist": "Nina Simone",
-      "title": "I Loves You, Porgy"
-    },
     {
       "time": "12:05 am",
       "artist": "Vanessa Carlton",
@@ -26,9 +21,20 @@
       "time": "12:11 am",
       "artist": "LCD Soundsystem",
       "title": "Oh Baby"
+    },
+    {
+      "time": "12:17 am",
+      "artist": "The Band",
+      "title": "Atlantic City"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Nina Simone",
+      "title": "I Loves You, Porgy",
+      "album": "Little Girl Blue • 1958"
+    },
     {
       "time": "11:58 pm",
       "artist": "Built to Spill",
@@ -172,12 +178,6 @@
       "artist": "The Specials",
       "title": "You're Wondering Now",
       "album": "Specials • 1979"
-    },
-    {
-      "time": "9:15 pm",
-      "artist": "The Beatles",
-      "title": "Ob-La-Di, Ob-La-Da",
-      "album": "The Beatles • 1968"
     }
   ]
 }
