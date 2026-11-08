@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T04:19:10",
+  "updatedAt": "2026-11-08T04:19:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Hello Operator",
+    "album": "De Stijl • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:19 am",
-      "artist": "The White Stripes",
-      "title": "Hello Operator"
-    },
     {
       "time": "4:22 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "4:27 am",
       "artist": "Pantera",
       "title": "This Love"
+    },
+    {
+      "time": "4:35 am",
+      "artist": "Fats Domino",
+      "title": "Blue Monday"
     }
   ],
   "recent": [
+    {
+      "time": "4:19 am",
+      "artist": "The White Stripes",
+      "title": "Hello Operator",
+      "album": "De Stijl • 2000"
+    },
     {
       "time": "4:15 am",
       "artist": "Paul McCartney and Wings",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Ask Me Why",
       "album": "Please Please Me • 1963"
-    },
-    {
-      "time": "2:48 am",
-      "artist": "Taylor Swift",
-      "title": "Love Story",
-      "album": "Fearless • 2008"
     }
   ]
 }
