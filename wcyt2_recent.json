@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T19:36:21",
+  "updatedAt": "2026-11-07T19:36:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Take Your Time",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:36 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time"
-    },
     {
       "time": "7:38 pm",
       "artist": "The Fall",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:36 pm",
+      "artist": "Buddy Holly",
+      "title": "Take Your Time",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "7:32 pm",
       "artist": "Sneaker Pimps",
@@ -172,12 +173,6 @@
       "artist": "Escape Club",
       "title": "Wild Wild West",
       "album": "Wild Wild West • 1988"
-    },
-    {
-      "time": "6:06 pm",
-      "artist": "Green Day",
-      "title": "Sassafras Roots",
-      "album": "Dookie • 1994"
     }
   ]
 }
