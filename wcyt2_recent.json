@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T11:01:12",
+  "updatedAt": "2026-11-08T11:06:33",
   "now": {
-    "artist": "Elton John",
-    "title": "Don't Let The Sun Go Down On Me",
-    "album": "Caribou • 1974",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "What Is the Light?",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:06 am",
-      "artist": "The Flaming Lips",
-      "title": "What Is the Light?"
-    },
     {
       "time": "11:10 am",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "11:19 am",
       "artist": "The Beatles",
       "title": "You're Going To Lose That Girl"
+    },
+    {
+      "time": "11:21 am",
+      "artist": "Jessie J",
+      "title": "Domino"
     }
   ],
   "recent": [
+    {
+      "time": "11:06 am",
+      "artist": "The Flaming Lips",
+      "title": "What Is the Light?",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "11:01 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "Bjork",
       "title": "Hyperballad",
       "album": "Post • 1995"
-    },
-    {
-      "time": "9:20 am",
-      "artist": "Beck",
-      "title": "Loser",
-      "album": "Mellow Gold • 1994"
     }
   ]
 }
