@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T15:22:58",
+  "updatedAt": "2026-11-08T15:26:44",
   "now": {
-    "artist": "Phil Collins",
-    "title": "True Colors",
-    "album": "...Hits • 1998",
+    "artist": "Rod Stewart",
+    "title": "Ooh La La",
+    "album": "If We Fall in Love Tonight • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 pm",
-      "artist": "Rod Stewart",
-      "title": "Ooh La La"
-    },
     {
       "time": "3:30 pm",
       "artist": "The Jesus and Mary Chain",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:26 pm",
+      "artist": "Rod Stewart",
+      "title": "Ooh La La",
+      "album": "If We Fall in Love Tonight • 1998"
+    },
     {
       "time": "3:22 pm",
       "artist": "Phil Collins",
@@ -172,12 +173,6 @@
       "artist": "Wilco",
       "title": "Poor Places",
       "album": "Yankee Hotel Foxtrot • 2001"
-    },
-    {
-      "time": "1:48 pm",
-      "artist": "Parliament",
-      "title": "Unfunky UFO",
-      "album": "Mothership Connection • 1975"
     }
   ]
 }
