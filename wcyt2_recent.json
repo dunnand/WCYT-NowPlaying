@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T07:26:39",
+  "updatedAt": "2026-11-08T07:26:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Tell Me Why",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 am",
-      "artist": "The Beatles",
-      "title": "Tell Me Why"
-    },
     {
       "time": "7:28 am",
       "artist": "Justin Bieber",
@@ -26,9 +21,20 @@
       "time": "7:35 am",
       "artist": "Elliott Smith",
       "title": "Waltz #2 (XO)"
+    },
+    {
+      "time": "7:40 am",
+      "artist": "Madonna",
+      "title": "Crazy For You"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 am",
+      "artist": "The Beatles",
+      "title": "Tell Me Why",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "7:22 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "HAIM",
       "title": "The Steps",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "5:53 am",
-      "artist": "Bonnie Tyler",
-      "title": "Total Eclipse Of The Heart",
-      "album": "Faster Than the Speed of Night • 1983"
     }
   ]
 }
