@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T04:19:31",
+  "updatedAt": "2026-11-08T04:22:08",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Hello Operator",
-    "album": "De Stijl • 2000",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "I Want To Hold Your Hand",
+    "album": "single • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:22 am",
-      "artist": "The Beatles",
-      "title": "I Want To Hold Your Hand"
-    },
     {
       "time": "4:24 am",
       "artist": "Steve Miller Band",
@@ -26,9 +21,20 @@
       "time": "4:35 am",
       "artist": "Fats Domino",
       "title": "Blue Monday"
+    },
+    {
+      "time": "4:37 am",
+      "artist": "The Shins",
+      "title": "New Slang"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 am",
+      "artist": "The Beatles",
+      "title": "I Want To Hold Your Hand",
+      "album": "single • 1963"
+    },
     {
       "time": "4:19 am",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Justin Timberlake",
       "title": "Mirrors",
       "album": "The 20/20 Experience • 2013"
-    },
-    {
-      "time": "2:52 am",
-      "artist": "The Beatles",
-      "title": "Ask Me Why",
-      "album": "Please Please Me • 1963"
     }
   ]
 }
