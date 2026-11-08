@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T17:22:22",
+  "updatedAt": "2026-11-08T17:22:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dion",
+    "title": "Born to Be With You",
+    "album": "Born to Be With You • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 pm",
-      "artist": "Dion",
-      "title": "Born to Be With You"
-    },
     {
       "time": "5:29 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "5:35 pm",
       "artist": "The Beatles",
       "title": "Please Mister Postman"
+    },
+    {
+      "time": "5:37 pm",
+      "artist": "Rod Stewart",
+      "title": "Gasoline Alley"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 pm",
+      "artist": "Dion",
+      "title": "Born to Be With You",
+      "album": "Born to Be With You • 1975"
+    },
     {
       "time": "5:18 pm",
       "artist": "*NSYNC",
@@ -172,12 +178,6 @@
       "artist": "Impalas",
       "title": "Sorry (I Ran All The Way Home)",
       "album": "single • 1959"
-    },
-    {
-      "time": "3:55 pm",
-      "artist": "They Might Be Giants",
-      "title": "Particle Man",
-      "album": "Flood • 1990"
     }
   ]
 }
