@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T17:22:34",
+  "updatedAt": "2026-11-08T17:29:03",
   "now": {
-    "artist": "Dion",
-    "title": "Born to Be With You",
-    "album": "Born to Be With You • 1975",
+    "artist": "The Beatles",
+    "title": "Long, Long, Long",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "The Beatles",
-      "title": "Long, Long, Long"
-    },
     {
       "time": "5:32 pm",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "5:37 pm",
       "artist": "Rod Stewart",
       "title": "Gasoline Alley"
+    },
+    {
+      "time": "5:41 pm",
+      "artist": "The Sugarcubes",
+      "title": "Hit"
     }
   ],
   "recent": [
+    {
+      "time": "5:29 pm",
+      "artist": "The Beatles",
+      "title": "Long, Long, Long",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "5:22 pm",
       "artist": "Dion",
@@ -172,12 +178,6 @@
       "artist": "Stephen Malkmus",
       "title": "Jenny & the Ess-Dog",
       "album": "Stephen Malkmus • 2001"
-    },
-    {
-      "time": "3:57 pm",
-      "artist": "Impalas",
-      "title": "Sorry (I Ran All The Way Home)",
-      "album": "single • 1959"
     }
   ]
 }
