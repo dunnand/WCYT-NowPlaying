@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:01:04",
+  "updatedAt": "2026-11-08T00:05:00",
   "now": {
-    "artist": "Nina Simone",
-    "title": "I Loves You, Porgy",
-    "album": "Little Girl Blue • 1958",
+    "artist": "Vanessa Carlton",
+    "title": "A Thousand Miles",
+    "album": "Be Not Nobody • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "Vanessa Carlton",
-      "title": "A Thousand Miles"
-    },
     {
       "time": "12:09 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles",
+      "album": "Be Not Nobody • 2002"
+    },
     {
       "time": "12:01 am",
       "artist": "Nina Simone",
@@ -172,12 +173,6 @@
       "artist": "Ween",
       "title": "Ocean Man",
       "album": "The Mollusk • 1997"
-    },
-    {
-      "time": "9:18 pm",
-      "artist": "The Specials",
-      "title": "You're Wondering Now",
-      "album": "Specials • 1979"
     }
   ]
 }
