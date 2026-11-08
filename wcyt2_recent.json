@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T20:25:11",
+  "updatedAt": "2026-11-07T20:28:08",
   "now": {
-    "artist": "Spoon",
-    "title": "Paper Tiger",
-    "album": "Kill The Moonlight • 2002",
-    "category": "TUNES"
+    "artist": "Chuck Berry",
+    "title": "Too Much Monkey Business",
+    "album": "After School Session • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:28 pm",
-      "artist": "Chuck Berry",
-      "title": "Too Much Monkey Business"
-    },
     {
       "time": "8:31 pm",
       "artist": "Bleachers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:28 pm",
+      "artist": "Chuck Berry",
+      "title": "Too Much Monkey Business",
+      "album": "After School Session • 1957"
+    },
     {
       "time": "8:25 pm",
       "artist": "Spoon",
@@ -172,12 +173,6 @@
       "artist": "Men I Trust",
       "title": "Show Me How",
       "album": "Oncle Jazz • 2019"
-    },
-    {
-      "time": "6:51 pm",
-      "artist": "The Beatles",
-      "title": "Here, There & Everywhere",
-      "album": "Revolver • 1966"
     }
   ]
 }
