@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T17:32:10",
+  "updatedAt": "2026-11-08T17:35:13",
   "now": {
-    "artist": "Neil Young",
-    "title": "Heart Of Gold",
-    "album": "Harvest • 1972",
+    "artist": "The Beatles",
+    "title": "Please Mister Postman",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 pm",
-      "artist": "The Beatles",
-      "title": "Please Mister Postman"
-    },
     {
       "time": "5:37 pm",
       "artist": "Rod Stewart",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:35 pm",
+      "artist": "The Beatles",
+      "title": "Please Mister Postman",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "5:32 pm",
       "artist": "Neil Young",
@@ -177,12 +178,6 @@
       "artist": "Pitbull",
       "title": "Feel This Moment",
       "album": "Global Warming • 2012"
-    },
-    {
-      "time": "4:02 pm",
-      "artist": "The Beatles",
-      "title": "Kansas City, Hey-Hey-Hey-Hey!",
-      "album": "Beatles for Sale • 1964"
     }
   ]
 }
