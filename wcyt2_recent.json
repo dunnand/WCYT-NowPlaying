@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:33:30",
+  "updatedAt": "2026-11-08T00:33:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kate Bush",
+    "title": "Hounds of Love",
+    "album": "Hounds of Love • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:33 am",
-      "artist": "Kate Bush",
-      "title": "Hounds of Love"
-    },
     {
       "time": "12:36 am",
       "artist": "Magdalena Bay",
@@ -26,9 +21,20 @@
       "time": "12:44 am",
       "artist": "The Velvet Underground",
       "title": "Sweet Jane"
+    },
+    {
+      "time": "12:48 am",
+      "artist": "The Shins",
+      "title": "Kissing the Lipless"
     }
   ],
   "recent": [
+    {
+      "time": "12:33 am",
+      "artist": "Kate Bush",
+      "title": "Hounds of Love",
+      "album": "Hounds of Love • 1985"
+    },
     {
       "time": "12:29 am",
       "artist": "Bobby McFerrin",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Sweet Adeline",
       "album": "XO • 1998"
-    },
-    {
-      "time": "9:38 pm",
-      "artist": "The Orb",
-      "title": "Little Fluffy Clouds",
-      "album": "The Orb's Adventures Beyond the Ultraworld • 1991"
     }
   ]
 }
