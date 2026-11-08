@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T13:05:12",
+  "updatedAt": "2026-11-08T13:08:05",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "Hopelessly Devoted To You",
-    "album": "Grease Soundtrack • 1978",
+    "artist": "Foo Fighters",
+    "title": "Monkey Wrench",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:08 pm",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench"
-    },
     {
       "time": "1:11 pm",
       "artist": "Doris Day",
@@ -26,9 +21,20 @@
       "time": "1:18 pm",
       "artist": "The Beatles",
       "title": "I Saw Her Standing There"
+    },
+    {
+      "time": "1:21 pm",
+      "artist": "Portugal The Man",
+      "title": "Feel It Still"
     }
   ],
   "recent": [
+    {
+      "time": "1:08 pm",
+      "artist": "Foo Fighters",
+      "title": "Monkey Wrench",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "1:05 pm",
       "artist": "Olivia Newton-John",
@@ -172,12 +178,6 @@
       "artist": "System of a Down",
       "title": "Spiders",
       "album": "System Of A Down • 1999"
-    },
-    {
-      "time": "11:25 am",
-      "artist": "Guided by Voices",
-      "title": "Gold Star for Robot Boy",
-      "album": "Bee Thousand • 1994"
     }
   ]
 }
