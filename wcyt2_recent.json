@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T01:18:56",
+  "updatedAt": "2026-11-08T01:19:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Diana Ross",
+    "title": "Upside Down",
+    "album": "Diana • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:19 am",
-      "artist": "Diana Ross",
-      "title": "Upside Down"
-    },
     {
       "time": "1:23 am",
       "artist": "Animotion",
@@ -26,9 +21,20 @@
       "time": "1:31 am",
       "artist": "Wire",
       "title": "Mannequin"
+    },
+    {
+      "time": "1:33 am",
+      "artist": "Wire",
+      "title": "Strange"
     }
   ],
   "recent": [
+    {
+      "time": "1:19 am",
+      "artist": "Diana Ross",
+      "title": "Upside Down",
+      "album": "Diana • 1980"
+    },
     {
       "time": "1:15 am",
       "artist": "Cocteau Twins",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Octopus's Garden",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "Macklemore",
-      "title": "Same Love ft. Mary Lambert",
-      "album": "The Heist • 2012"
     }
   ]
 }
