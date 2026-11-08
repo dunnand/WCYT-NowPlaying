@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T19:36:43",
+  "updatedAt": "2026-11-07T19:38:37",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Take Your Time",
-    "album": "Buddy Holly • 1958",
+    "artist": "The Fall",
+    "title": "Blindness",
+    "album": "Fall Heads Roll • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:38 pm",
-      "artist": "The Fall",
-      "title": "Blindness"
-    },
     {
       "time": "7:45 pm",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "7:47 pm",
       "artist": "Kendrick Lamar",
       "title": "Swimming Pools"
+    },
+    {
+      "time": "7:52 pm",
+      "artist": "Tracy Chapman",
+      "title": "Give Me One Reason"
     }
   ],
   "recent": [
+    {
+      "time": "7:38 pm",
+      "artist": "The Fall",
+      "title": "Blindness",
+      "album": "Fall Heads Roll • 2005"
+    },
     {
       "time": "7:36 pm",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Golden Earring",
       "title": "Twilight Zone",
       "album": "Cut • 1983"
-    },
-    {
-      "time": "6:08 pm",
-      "artist": "Escape Club",
-      "title": "Wild Wild West",
-      "album": "Wild Wild West • 1988"
     }
   ]
 }
