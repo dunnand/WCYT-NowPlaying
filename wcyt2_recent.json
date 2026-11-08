@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T17:31:58",
+  "updatedAt": "2026-11-08T17:32:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Heart Of Gold",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:32 pm",
-      "artist": "Neil Young",
-      "title": "Heart Of Gold"
-    },
     {
       "time": "5:35 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "5:45 pm",
       "artist": "James Brown and The Famous Flames",
       "title": "Please, Please, Please"
+    },
+    {
+      "time": "5:48 pm",
+      "artist": "Songs Ohia",
+      "title": "Just Be Simple"
     }
   ],
   "recent": [
+    {
+      "time": "5:32 pm",
+      "artist": "Neil Young",
+      "title": "Heart Of Gold",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "5:29 pm",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Kansas City, Hey-Hey-Hey-Hey!",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "3:59 pm",
-      "artist": "Stephen Malkmus",
-      "title": "Jenny & the Ess-Dog",
-      "album": "Stephen Malkmus • 2001"
     }
   ]
 }
