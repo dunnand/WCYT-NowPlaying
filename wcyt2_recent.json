@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-11-08T13:03:07",
+  "updatedAt": "2026-11-08T13:05:12",
   "now": {
-    "artist": "The Beatles",
-    "title": "Can't Buy Me Love",
-    "album": "A Hard Day's Night • 1964",
+    "artist": "Olivia Newton-John",
+    "title": "Hopelessly Devoted To You",
+    "album": "Grease Soundtrack • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 pm",
-      "artist": "Olivia Newton",
-      "title": "John - Hopelessly Devoted To You"
-    },
     {
       "time": "1:08 pm",
       "artist": "Foo Fighters",
       "title": "Monkey Wrench"
     },
     {
-      "time": "1:12 pm",
+      "time": "1:11 pm",
       "artist": "Doris Day",
       "title": "Whatever Will Be Will Be (Que Sera, Sera)"
     },
     {
-      "time": "1:14 pm",
+      "time": "1:13 pm",
       "artist": "U2",
       "title": "Stuck In A Moment You Can't Get Out Of"
+    },
+    {
+      "time": "1:18 pm",
+      "artist": "The Beatles",
+      "title": "I Saw Her Standing There"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 pm",
+      "artist": "Olivia Newton-John",
+      "title": "Hopelessly Devoted To You",
+      "album": "Grease Soundtrack • 1978"
+    },
     {
       "time": "1:03 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Guided by Voices",
       "title": "Gold Star for Robot Boy",
       "album": "Bee Thousand • 1994"
-    },
-    {
-      "time": "11:21 am",
-      "artist": "Jessie J",
-      "title": "Domino",
-      "album": "Who You Are • 2011"
     }
   ]
 }
