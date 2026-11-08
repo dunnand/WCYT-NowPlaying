@@ -1,19 +1,40 @@
 {
-  "updatedAt": "2026-11-07T22:37:57",
+  "updatedAt": "2026-11-07T22:40:50",
   "now": {
-    "artist": "The Beatles",
-    "title": "Octopus's Garden",
-    "album": "Abbey Road • 1969",
+    "artist": "The Velvet Underground",
+    "title": "Rock & Roll",
+    "album": "Loaded • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:40 pm",
-      "artist": "The Velvet Underground",
-      "title": "Rock & Roll"
+      "time": "10:45 pm",
+      "artist": "Cat Power",
+      "title": "American Flag"
+    },
+    {
+      "time": "10:48 pm",
+      "artist": "The Crickets",
+      "title": "Not Fade Away"
+    },
+    {
+      "time": "10:51 pm",
+      "artist": "Interpol",
+      "title": "NYC"
+    },
+    {
+      "time": "10:55 pm",
+      "artist": "The Beatles",
+      "title": "Baby's In Black"
     }
   ],
   "recent": [
+    {
+      "time": "10:40 pm",
+      "artist": "The Velvet Underground",
+      "title": "Rock & Roll",
+      "album": "Loaded • 1970"
+    },
     {
       "time": "10:37 pm",
       "artist": "The Beatles",
@@ -157,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "My Doorbell",
       "album": "Get Behind Me Satan • 2005"
-    },
-    {
-      "time": "9:05 pm",
-      "artist": "The Specials",
-      "title": "Too Much Too Young",
-      "album": "Specials • 1979"
     }
   ]
 }
