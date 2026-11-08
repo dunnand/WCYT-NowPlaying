@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T04:41:09",
+  "updatedAt": "2026-11-08T04:45:36",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Am the Walrus",
-    "album": "Magical Mystery Tour • 1967",
+    "artist": "One Direction",
+    "title": "Kiss You",
+    "album": "Take Me Home • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "One Direction",
-      "title": "Kiss You"
-    },
     {
       "time": "4:48 am",
       "artist": "Portishead",
@@ -21,9 +16,20 @@
       "time": "4:53 am",
       "artist": "Pulp",
       "title": "Sorted for E's & Wizz"
+    },
+    {
+      "time": "4:57 am",
+      "artist": "Bruce Springsteen",
+      "title": "Hungry Heart"
     }
   ],
   "recent": [
+    {
+      "time": "4:45 am",
+      "artist": "One Direction",
+      "title": "Kiss You",
+      "album": "Take Me Home • 2012"
+    },
     {
       "time": "4:41 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Ted Leo and the Pharmacists",
       "title": "Me and Mia",
       "album": "Shake The Sheets • 2004"
-    },
-    {
-      "time": "3:11 am",
-      "artist": "Magdalena Bay",
-      "title": "All You Do",
-      "album": "Mecurial World (Deluxe) • 2022"
     }
   ]
 }
