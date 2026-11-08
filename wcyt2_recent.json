@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T06:13:09",
+  "updatedAt": "2026-11-08T06:16:11",
   "now": {
-    "artist": "Blondie",
-    "title": "Sunday Girl",
-    "album": "Parallel Lines • 1978",
+    "artist": "The Beatles",
+    "title": "Help",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:16 am",
-      "artist": "The Beatles",
-      "title": "Help"
-    },
     {
       "time": "6:18 am",
       "artist": "The Cars",
@@ -26,9 +21,20 @@
       "time": "6:25 am",
       "artist": "Nicki Minaj",
       "title": "Starships"
+    },
+    {
+      "time": "6:29 am",
+      "artist": "U2",
+      "title": "Sometimes You Can't Make It On Your Own"
     }
   ],
   "recent": [
+    {
+      "time": "6:16 am",
+      "artist": "The Beatles",
+      "title": "Help",
+      "album": "Help! • 1965"
+    },
     {
       "time": "6:13 am",
       "artist": "Blondie",
@@ -172,12 +178,6 @@
       "artist": "One Direction",
       "title": "Kiss You",
       "album": "Take Me Home • 2012"
-    },
-    {
-      "time": "4:41 am",
-      "artist": "The Beatles",
-      "title": "I Am the Walrus",
-      "album": "Magical Mystery Tour • 1967"
     }
   ]
 }
