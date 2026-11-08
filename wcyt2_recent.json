@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T04:34:47",
+  "updatedAt": "2026-11-08T04:37:00",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blue Monday",
-    "album": "This Is Fats Domino! • 1956",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "New Slang",
+    "album": "Oh Inverted World • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:37 am",
-      "artist": "The Shins",
-      "title": "New Slang"
-    },
     {
       "time": "4:41 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "4:45 am",
       "artist": "One Direction",
       "title": "Kiss You"
+    },
+    {
+      "time": "4:48 am",
+      "artist": "Portishead",
+      "title": "Roads"
     }
   ],
   "recent": [
+    {
+      "time": "4:37 am",
+      "artist": "The Shins",
+      "title": "New Slang",
+      "album": "Oh Inverted World • 2001"
+    },
     {
       "time": "4:34 am",
       "artist": "Fats Domino",
@@ -167,12 +173,6 @@
       "artist": "Tom Waits",
       "title": "Johnsburg, Illinois",
       "album": "Swordfishtrombones • 1983"
-    },
-    {
-      "time": "3:06 am",
-      "artist": "A Taste Of Honey",
-      "title": "Sukiyaki",
-      "album": "Twice as Sweet • 1980"
     }
   ]
 }
