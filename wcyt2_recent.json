@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T14:05:43",
+  "updatedAt": "2026-11-08T14:08:16",
   "now": {
-    "artist": "Alice in Chains",
-    "title": "Them Bones",
-    "album": "Dirt • 1992",
+    "artist": "Ritchie Valens",
+    "title": "Donna",
+    "album": "Ritchie Valens • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:08 pm",
-      "artist": "Ritchie Valens",
-      "title": "Donna"
-    },
     {
       "time": "2:10 pm",
       "artist": "TV on the Radio",
@@ -26,9 +21,20 @@
       "time": "2:18 pm",
       "artist": "LCD Soundsystem",
       "title": "I Can Change"
+    },
+    {
+      "time": "2:24 pm",
+      "artist": "Aphex Twin",
+      "title": "Xtal"
     }
   ],
   "recent": [
+    {
+      "time": "2:08 pm",
+      "artist": "Ritchie Valens",
+      "title": "Donna",
+      "album": "Ritchie Valens • 1959"
+    },
     {
       "time": "2:05 pm",
       "artist": "Alice in Chains",
@@ -172,12 +178,6 @@
       "artist": "Echo & The Bunnymen",
       "title": "Seven Seas",
       "album": "Ocean Rain • 1984"
-    },
-    {
-      "time": "12:28 pm",
-      "artist": "Madonna",
-      "title": "Secret",
-      "album": "Bedtime Stories • 1994"
     }
   ]
 }
