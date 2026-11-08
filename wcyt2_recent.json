@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T10:15:41",
+  "updatedAt": "2026-11-08T10:15:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "The Word",
+    "album": "Rubber Soul • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 am",
-      "artist": "The Beatles",
-      "title": "The Word"
-    },
     {
       "time": "10:18 am",
       "artist": "Harry Styles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:15 am",
+      "artist": "The Beatles",
+      "title": "The Word",
+      "album": "Rubber Soul • 1965"
+    },
     {
       "time": "10:09 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +173,6 @@
       "artist": "Kenji Yamamoto, Kouichi Kyuma",
       "title": "Metroid Prime (Ending Staff Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "8:40 am",
-      "artist": "Cocteau Twins",
-      "title": "Aikea-Guinea",
-      "album": "Aikea-Guinea EP • 1985"
     }
   ]
 }
