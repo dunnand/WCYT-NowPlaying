@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T20:25:01",
+  "updatedAt": "2026-11-07T20:25:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Spoon",
+    "title": "Paper Tiger",
+    "album": "Kill The Moonlight • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:25 pm",
-      "artist": "Spoon",
-      "title": "Paper Tiger"
-    },
     {
       "time": "8:28 pm",
       "artist": "Chuck Berry",
@@ -26,9 +21,20 @@
       "time": "8:34 pm",
       "artist": "The Beatles",
       "title": "I'm Happy Just To Dance With You"
+    },
+    {
+      "time": "8:36 pm",
+      "artist": "Mumford & Sons",
+      "title": "I Will Wait"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 pm",
+      "artist": "Spoon",
+      "title": "Paper Tiger",
+      "album": "Kill The Moonlight • 2002"
+    },
     {
       "time": "8:17 pm",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Here, There & Everywhere",
       "album": "Revolver • 1966"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "The Hives",
-      "title": "Hate to Say I Told You So",
-      "album": "Veni Vidi Vicious • 2000"
     }
   ]
 }
