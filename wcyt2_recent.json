@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T02:08:49",
+  "updatedAt": "2026-11-08T02:13:07",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "My Father's Eyes",
-    "album": "Pilgrim • 1998",
+    "artist": "Dionne Warwick & Friends",
+    "title": "That's What Friends Are For",
+    "album": "Friends • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:13 am",
-      "artist": "Dionne Warwick & Friends",
-      "title": "That's What Friends Are For"
-    },
     {
       "time": "2:17 am",
       "artist": "The Diabolical Biz Markie",
@@ -21,9 +16,20 @@
       "time": "2:21 am",
       "artist": "Magdalena Bay",
       "title": "Cry for Me"
+    },
+    {
+      "time": "2:26 am",
+      "artist": "X",
+      "title": "Ray Spex - Germ Free Adolescents"
     }
   ],
   "recent": [
+    {
+      "time": "2:13 am",
+      "artist": "Dionne Warwick & Friends",
+      "title": "That's What Friends Are For",
+      "album": "Friends • 1985"
+    },
     {
       "time": "2:08 am",
       "artist": "Eric Clapton",
@@ -167,12 +173,6 @@
       "artist": "Ke$ha",
       "title": "BlahBlahBlah Feat 3Oh3",
       "album": "Animal • 2010"
-    },
-    {
-      "time": "12:48 am",
-      "artist": "The Shins",
-      "title": "Kissing the Lipless",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
