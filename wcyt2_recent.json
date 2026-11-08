@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T10:58:38",
+  "updatedAt": "2026-11-08T11:01:12",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yellow Submarine",
-    "album": "Yellow Submarine • 1969",
+    "artist": "Elton John",
+    "title": "Don't Let The Sun Go Down On Me",
+    "album": "Caribou • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:01 am",
-      "artist": "Elton John",
-      "title": "Don't Let The Sun Go Down On Me"
-    },
     {
       "time": "11:06 am",
       "artist": "The Flaming Lips",
@@ -26,9 +21,20 @@
       "time": "11:15 am",
       "artist": "Sleater",
       "title": "Kinney - Oh!"
+    },
+    {
+      "time": "11:19 am",
+      "artist": "The Beatles",
+      "title": "You're Going To Lose That Girl"
     }
   ],
   "recent": [
+    {
+      "time": "11:01 am",
+      "artist": "Elton John",
+      "title": "Don't Let The Sun Go Down On Me",
+      "album": "Caribou • 1974"
+    },
     {
       "time": "10:58 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Loser",
       "album": "Mellow Gold • 1994"
-    },
-    {
-      "time": "9:17 am",
-      "artist": "Lizzo",
-      "title": "Truth Hurts",
-      "album": "Cuz I Love You • 2019"
     }
   ]
 }
