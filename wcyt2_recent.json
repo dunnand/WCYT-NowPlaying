@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:56:55",
+  "updatedAt": "2026-11-08T01:01:30",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Secret Garden",
-    "album": "Jerry Maguire Soundtrack • 1997",
+    "artist": "Jimmie Rodgers",
+    "title": "Honeycomb",
+    "album": "Honeycomb • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Jimmie Rodgers",
-      "title": "Honeycomb"
-    },
     {
       "time": "1:03 am",
       "artist": "Weezer",
@@ -21,9 +16,20 @@
       "time": "1:06 am",
       "artist": "The Beatles",
       "title": "Wild Honey Pie"
+    },
+    {
+      "time": "1:07 am",
+      "artist": "Joey Bad",
+      "title": "Waves"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Jimmie Rodgers",
+      "title": "Honeycomb",
+      "album": "Honeycomb • 1957"
+    },
     {
       "time": "12:56 am",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "The Who",
       "title": "5:15",
       "album": "Quadrophenia • 1973"
-    },
-    {
-      "time": "10:08 pm",
-      "artist": "The Beatles",
-      "title": "Dizzy Miss Lizzy",
-      "album": "Help! • 1965"
     }
   ]
 }
