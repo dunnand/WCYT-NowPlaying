@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:54:22",
+  "updatedAt": "2026-11-08T00:56:55",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Who Loves the Sun",
-    "album": "Loaded • 1970",
+    "artist": "Bruce Springsteen",
+    "title": "Secret Garden",
+    "album": "Jerry Maguire Soundtrack • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:56 am",
-      "artist": "Bruce Springsteen",
-      "title": "Secret Garden"
-    },
     {
       "time": "1:01 am",
       "artist": "Jimmie Rodgers",
@@ -21,9 +16,20 @@
       "time": "1:03 am",
       "artist": "Weezer",
       "title": "Island in the Sun"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "The Beatles",
+      "title": "Wild Honey Pie"
     }
   ],
   "recent": [
+    {
+      "time": "12:56 am",
+      "artist": "Bruce Springsteen",
+      "title": "Secret Garden",
+      "album": "Jerry Maguire Soundtrack • 1997"
+    },
     {
       "time": "12:54 am",
       "artist": "The Velvet Underground",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Dizzy Miss Lizzy",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "The Ting Tings",
-      "title": "Great DJ",
-      "album": "We Started Nothing • 2008"
     }
   ]
 }
