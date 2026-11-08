@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T05:43:42",
+  "updatedAt": "2026-11-08T05:48:47",
   "now": {
-    "artist": "Van Halen",
-    "title": "Right Now",
-    "album": "For Unlawful Carnal Knowledge • 1991",
+    "artist": "Cameo",
+    "title": "Word Up",
+    "album": "Word Up! • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 am",
-      "artist": "Cameo",
-      "title": "Word Up"
-    },
     {
       "time": "5:53 am",
       "artist": "Bonnie Tyler",
@@ -21,9 +16,20 @@
       "time": "5:57 am",
       "artist": "HAIM",
       "title": "The Steps"
+    },
+    {
+      "time": "6:02 am",
+      "artist": "The Buggles",
+      "title": "Video Killed The Radio Star"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 am",
+      "artist": "Cameo",
+      "title": "Word Up",
+      "album": "Word Up! • 1986"
+    },
     {
       "time": "5:43 am",
       "artist": "Van Halen",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "I Want To Hold Your Hand",
       "album": "single • 1963"
-    },
-    {
-      "time": "4:19 am",
-      "artist": "The White Stripes",
-      "title": "Hello Operator",
-      "album": "De Stijl • 2000"
     }
   ]
 }
