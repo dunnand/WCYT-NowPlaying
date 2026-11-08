@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T08:47:56",
+  "updatedAt": "2026-11-08T08:52:24",
   "now": {
-    "artist": "George Harrison",
-    "title": "My Sweet Lord",
-    "album": "All Things Must Pass • 1970",
+    "artist": "The Beatles",
+    "title": "She's Leaving Home",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:52 am",
-      "artist": "The Beatles",
-      "title": "She's Leaving Home"
-    },
     {
       "time": "8:56 am",
       "artist": "Sparks",
@@ -26,9 +21,20 @@
       "time": "9:03 am",
       "artist": "Bobby Goldsboro",
       "title": "Watchin' Scotty Grow"
+    },
+    {
+      "time": "9:05 am",
+      "artist": "A Tribe Called Quest",
+      "title": "Electric Relaxation"
     }
   ],
   "recent": [
+    {
+      "time": "8:52 am",
+      "artist": "The Beatles",
+      "title": "She's Leaving Home",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "8:47 am",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Wolf Like Me",
       "album": "Return To Cookie Mountain • 2006"
-    },
-    {
-      "time": "7:20 am",
-      "artist": "Jimmy \"C\" Newman",
-      "title": "A Fallen Star",
-      "album": "A Fallen Star • 1958"
     }
   ]
 }
