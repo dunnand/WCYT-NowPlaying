@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:11:21",
+  "updatedAt": "2026-11-08T00:16:58",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "Oh Baby",
-    "album": "American Dream • 2017",
-    "category": "TUNES"
+    "artist": "The Band",
+    "title": "Atlantic City",
+    "album": "Jericho • 1993",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:16 am",
-      "artist": "The Band",
-      "title": "Atlantic City"
-    },
     {
       "time": "12:22 am",
       "artist": "Blur",
@@ -21,9 +16,20 @@
       "time": "12:29 am",
       "artist": "Bobby McFerrin",
       "title": "Don't Worry, Be Happy"
+    },
+    {
+      "time": "12:33 am",
+      "artist": "Kate Bush",
+      "title": "Hounds of Love"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 am",
+      "artist": "The Band",
+      "title": "Atlantic City",
+      "album": "Jericho • 1993"
+    },
     {
       "time": "12:11 am",
       "artist": "LCD Soundsystem",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Nowhere Man",
       "album": "Rubber Soul • 1965"
-    },
-    {
-      "time": "9:25 pm",
-      "artist": "The Mars Volta",
-      "title": "Roulette Dares (The Haunt Of)",
-      "album": "De-Loused in the Comatorium • 2003"
     }
   ]
 }
