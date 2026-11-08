@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T01:01:30",
+  "updatedAt": "2026-11-08T01:03:48",
   "now": {
-    "artist": "Jimmie Rodgers",
-    "title": "Honeycomb",
-    "album": "Honeycomb • 1957",
+    "artist": "Weezer",
+    "title": "Island in the Sun",
+    "album": "Weezer • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Weezer",
-      "title": "Island in the Sun"
-    },
     {
       "time": "1:06 am",
       "artist": "The Beatles",
@@ -21,9 +16,25 @@
       "time": "1:07 am",
       "artist": "Joey Bad",
       "title": "Waves"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Celine Dion",
+      "title": "The Power Of Love"
+    },
+    {
+      "time": "1:15 am",
+      "artist": "Cocteau Twins",
+      "title": "Iceblink Luck"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Weezer",
+      "title": "Island in the Sun",
+      "album": "Weezer • 2001"
+    },
     {
       "time": "1:01 am",
       "artist": "Jimmie Rodgers",
@@ -167,12 +178,6 @@
       "artist": "Stereo MC's",
       "title": "Connected",
       "album": "Connected • 1992"
-    },
-    {
-      "time": "10:11 pm",
-      "artist": "The Who",
-      "title": "5:15",
-      "album": "Quadrophenia • 1973"
     }
   ]
 }
