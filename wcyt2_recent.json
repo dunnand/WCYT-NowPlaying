@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T07:28:54",
+  "updatedAt": "2026-11-08T07:32:09",
   "now": {
-    "artist": "Justin Bieber",
-    "title": "Baby",
-    "album": "My World 2.0 • 2010",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Spit on a Stranger",
+    "album": "Terror Twilight • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:32 am",
-      "artist": "Pavement",
-      "title": "Spit on a Stranger"
-    },
     {
       "time": "7:35 am",
       "artist": "Elliott Smith",
@@ -21,9 +16,20 @@
       "time": "7:39 am",
       "artist": "Madonna",
       "title": "Crazy For You"
+    },
+    {
+      "time": "7:44 am",
+      "artist": "Billy Bragg",
+      "title": "A New England"
     }
   ],
   "recent": [
+    {
+      "time": "7:32 am",
+      "artist": "Pavement",
+      "title": "Spit on a Stranger",
+      "album": "Terror Twilight • 1999"
+    },
     {
       "time": "7:28 am",
       "artist": "Justin Bieber",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "I Want You (She's So Heavy)",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "6:01 am",
-      "artist": "The Buggles",
-      "title": "Video Killed The Radio Star",
-      "album": "The Age of Plastic • 1979"
     }
   ]
 }
