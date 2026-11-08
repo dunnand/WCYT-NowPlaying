@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T20:00:51",
+  "updatedAt": "2026-11-07T20:01:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Danzig",
+    "title": "Mother",
+    "album": "Danzig • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "Danzig",
-      "title": "Mother"
-    },
     {
       "time": "8:04 pm",
       "artist": "Big Audio Dynamite",
@@ -26,9 +21,20 @@
       "time": "8:14 pm",
       "artist": "Van Morrison",
       "title": "Into the Mystic"
+    },
+    {
+      "time": "8:17 pm",
+      "artist": "The Velvet Underground",
+      "title": "Oh! Sweet Nuthin'"
     }
   ],
   "recent": [
+    {
+      "time": "8:01 pm",
+      "artist": "Danzig",
+      "title": "Mother",
+      "album": "Danzig • 1988"
+    },
     {
       "time": "7:56 pm",
       "artist": "Steve Earle",
@@ -172,12 +178,6 @@
       "artist": "Mike Posner",
       "title": "Cooler Than Me",
       "album": "31 Minutes to Takeoff • 2010"
-    },
-    {
-      "time": "6:33 pm",
-      "artist": "Sleater-Kinney",
-      "title": "Combat Rock",
-      "album": "One Beat • 2002"
     }
   ]
 }
