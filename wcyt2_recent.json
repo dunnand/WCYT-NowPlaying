@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T01:45:48",
+  "updatedAt": "2026-11-08T01:51:08",
   "now": {
-    "artist": "Dinosaur Jr.",
-    "title": "Start Choppin",
-    "album": "Where You Been • 1993",
-    "category": "TUNES"
+    "artist": "Gotye",
+    "title": "Somebody That I Used To Know",
+    "album": "Making Mirrors • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:51 am",
-      "artist": "Gotye",
-      "title": "Somebody That I Used To Know"
-    },
     {
       "time": "1:55 am",
       "artist": "Sufjan Stevens",
@@ -21,9 +16,20 @@
       "time": "1:58 am",
       "artist": "The Shins",
       "title": "Pink Bullets"
+    },
+    {
+      "time": "2:02 am",
+      "artist": "Imagine Dragons",
+      "title": "Radioactive"
     }
   ],
   "recent": [
+    {
+      "time": "1:51 am",
+      "artist": "Gotye",
+      "title": "Somebody That I Used To Know",
+      "album": "Making Mirrors • 2011"
+    },
     {
       "time": "1:45 am",
       "artist": "Dinosaur Jr.",
@@ -167,12 +173,6 @@
       "artist": "Bobby McFerrin",
       "title": "Don't Worry, Be Happy",
       "album": "Simple Pleasures • 1988"
-    },
-    {
-      "time": "12:22 am",
-      "artist": "Blur",
-      "title": "Tender",
-      "album": "13 • 1999"
     }
   ]
 }
