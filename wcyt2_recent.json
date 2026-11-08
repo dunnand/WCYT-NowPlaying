@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-07T22:05:15",
+  "updatedAt": "2026-11-07T22:08:31",
   "now": {
-    "artist": "The Ting Tings",
-    "title": "Great DJ",
-    "album": "We Started Nothing • 2008",
+    "artist": "The Beatles",
+    "title": "Dizzy Miss Lizzy",
+    "album": "Help! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:08 pm",
-      "artist": "The Beatles",
-      "title": "Dizzy Miss Lizzy"
-    },
     {
       "time": "10:11 pm",
       "artist": "The Who",
@@ -26,9 +21,20 @@
       "time": "10:21 pm",
       "artist": "James Blake",
       "title": "Limit to Your Love"
+    },
+    {
+      "time": "10:26 pm",
+      "artist": "Ugly Casanova",
+      "title": "Parasites"
     }
   ],
   "recent": [
+    {
+      "time": "10:08 pm",
+      "artist": "The Beatles",
+      "title": "Dizzy Miss Lizzy",
+      "album": "Help! • 1965"
+    },
     {
       "time": "10:05 pm",
       "artist": "The Ting Tings",
@@ -172,12 +178,6 @@
       "artist": "Mumford & Sons",
       "title": "I Will Wait",
       "album": "HA201234 7 • 2012"
-    },
-    {
-      "time": "8:34 pm",
-      "artist": "The Beatles",
-      "title": "I'm Happy Just To Dance With You",
-      "album": "A Hard Day's Night • 1964"
     }
   ]
 }
