@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T07:35:05",
+  "updatedAt": "2026-11-08T07:35:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Waltz #2 (XO)",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:35 am",
-      "artist": "Elliott Smith",
-      "title": "Waltz #2 (XO)"
-    },
     {
       "time": "7:39 am",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "7:46 am",
       "artist": "HAIM",
       "title": "Lost Track"
+    },
+    {
+      "time": "7:48 am",
+      "artist": "The Shins",
+      "title": "Know Your Onion!"
     }
   ],
   "recent": [
+    {
+      "time": "7:35 am",
+      "artist": "Elliott Smith",
+      "title": "Waltz #2 (XO)",
+      "album": "XO • 1998"
+    },
     {
       "time": "7:32 am",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Blondie",
       "title": "Sunday Girl",
       "album": "Parallel Lines • 1978"
-    },
-    {
-      "time": "6:05 am",
-      "artist": "The Beatles",
-      "title": "I Want You (She's So Heavy)",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
