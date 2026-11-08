@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T18:49:08",
+  "updatedAt": "2026-11-08T18:52:05",
   "now": {
-    "artist": "The Beatles",
-    "title": "Here Comes The Sun",
-    "album": "Abbey Road • 1969",
+    "artist": "Maggie Rogers",
+    "title": "Alaska",
+    "album": "Heard It in a Past Life • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:52 pm",
-      "artist": "Maggie Rogers",
-      "title": "Alaska"
-    },
     {
       "time": "6:55 pm",
       "artist": "Yo La Tengo",
@@ -21,9 +16,20 @@
       "time": "7:01 pm",
       "artist": "Tad",
       "title": "Grease Box"
+    },
+    {
+      "time": "7:05 pm",
+      "artist": "Bauhaus",
+      "title": "In the Flat Field"
     }
   ],
   "recent": [
+    {
+      "time": "6:52 pm",
+      "artist": "Maggie Rogers",
+      "title": "Alaska",
+      "album": "Heard It in a Past Life • 2019"
+    },
     {
       "time": "6:49 pm",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Dion",
       "title": "Born to Be With You",
       "album": "Born to Be With You • 1975"
-    },
-    {
-      "time": "5:18 pm",
-      "artist": "*NSYNC",
-      "title": "Better Place",
-      "album": "TROLLS Band Together Soundtrack • 2023"
     }
   ]
 }
