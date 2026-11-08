@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T10:15:53",
+  "updatedAt": "2026-11-08T10:18:28",
   "now": {
-    "artist": "The Beatles",
-    "title": "The Word",
-    "album": "Rubber Soul • 1965",
+    "artist": "Harry Styles",
+    "title": "Sign of the Times",
+    "album": "Harry Styles • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:18 am",
-      "artist": "Harry Styles",
-      "title": "Sign of the Times"
-    },
     {
       "time": "10:24 am",
       "artist": "U2",
@@ -21,9 +16,20 @@
       "time": "10:29 am",
       "artist": "Wonders",
       "title": "That Thing You Do!"
+    },
+    {
+      "time": "10:32 am",
+      "artist": "Phil Collins",
+      "title": "Take Me Home"
     }
   ],
   "recent": [
+    {
+      "time": "10:18 am",
+      "artist": "Harry Styles",
+      "title": "Sign of the Times",
+      "album": "Harry Styles • 2017"
+    },
     {
       "time": "10:15 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "George Harrison",
       "title": "My Sweet Lord",
       "album": "All Things Must Pass • 1970"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "Kenji Yamamoto, Kouichi Kyuma",
-      "title": "Metroid Prime (Ending Staff Roll)",
-      "album": "Nintendo Music •"
     }
   ]
 }
