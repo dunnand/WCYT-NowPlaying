@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:44:19",
+  "updatedAt": "2026-11-08T00:48:15",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Sweet Jane",
-    "album": "Loaded • 1970",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "Kissing the Lipless",
+    "album": "Chutes Too Narrow • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:48 am",
-      "artist": "The Shins",
-      "title": "Kissing the Lipless"
-    },
     {
       "time": "12:51 am",
       "artist": "Ke$ha",
@@ -23,12 +18,23 @@
       "title": "Who Loves the Sun"
     },
     {
-      "time": "12:57 am",
+      "time": "12:56 am",
       "artist": "Bruce Springsteen",
       "title": "Secret Garden"
+    },
+    {
+      "time": "1:01 am",
+      "artist": "Jimmie Rodgers",
+      "title": "Honeycomb"
     }
   ],
   "recent": [
+    {
+      "time": "12:48 am",
+      "artist": "The Shins",
+      "title": "Kissing the Lipless",
+      "album": "Chutes Too Narrow • 2003"
+    },
     {
       "time": "12:44 am",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "The Stranglers",
       "title": "Hanging Around",
       "album": "Rattus Norvegicus • 1977"
-    },
-    {
-      "time": "9:54 pm",
-      "artist": "Atsuko Asahi, Manaka Kataoka",
-      "title": "The Symbolic Tree (Animal Crossing: New Leaf)",
-      "album": "Nintendo Music •"
     }
   ]
 }
