@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T13:11:54",
+  "updatedAt": "2026-11-09T13:15:22",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Hardest Button To Button",
-    "album": "Elephant • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Long Tall Sally",
+    "album": "Long Tall Sally EP • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:15 pm",
-      "artist": "The Beatles",
-      "title": "Long Tall Sally"
-    },
     {
       "time": "1:17 pm",
       "artist": "Aerosmith",
@@ -26,9 +21,20 @@
       "time": "1:26 pm",
       "artist": "Alexandra Stan",
       "title": "Mr. Saxobeat"
+    },
+    {
+      "time": "1:30 pm",
+      "artist": "Sister Hazel",
+      "title": "Your Mistake"
     }
   ],
   "recent": [
+    {
+      "time": "1:15 pm",
+      "artist": "The Beatles",
+      "title": "Long Tall Sally",
+      "album": "Long Tall Sally EP • 1964"
+    },
     {
       "time": "1:11 pm",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Sweet Little Sixteen",
       "album": "One Dozen Berrys • 1958"
-    },
-    {
-      "time": "11:41 am",
-      "artist": "Ani DiFranco",
-      "title": "32 Flavors",
-      "album": ""
     }
   ]
 }
