@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:57:28",
+  "updatedAt": "2026-11-09T04:57:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Songbird",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Fleetwood Mac",
-      "title": "Songbird"
-    },
     {
       "time": "5:00 am",
       "artist": "Sigur Ros",
@@ -31,9 +26,20 @@
       "time": "5:12 am",
       "artist": "Sunny Day Real Estate",
       "title": "In Circles"
+    },
+    {
+      "time": "5:17 am",
+      "artist": "Sam Cooke",
+      "title": "Only Sixteen"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Fleetwood Mac",
+      "title": "Songbird",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "4:55 am",
       "artist": "The White Stripes",
@@ -177,12 +183,6 @@
       "artist": "Sufjan Stevens",
       "title": "The Dress Looks Nice on You",
       "album": "Seven Swans • 2004"
-    },
-    {
-      "time": "3:24 am",
-      "artist": "Elvis Presley",
-      "title": "All Shook Up",
-      "album": "single • 1957"
     }
   ]
 }
