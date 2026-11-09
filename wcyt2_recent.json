@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T01:13:13",
+  "updatedAt": "2026-11-09T01:15:48",
   "now": {
-    "artist": "Beat Happening",
-    "title": "Our Secret",
-    "album": "Beat Happening • 1985",
+    "artist": "HAIM",
+    "title": "Honey & I",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:15 am",
-      "artist": "HAIM",
-      "title": "Honey & I"
-    },
     {
       "time": "1:19 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "1:27 am",
       "artist": "The Killers",
       "title": "Somebody Told Me"
+    },
+    {
+      "time": "1:30 am",
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child"
     }
   ],
   "recent": [
+    {
+      "time": "1:15 am",
+      "artist": "HAIM",
+      "title": "Honey & I",
+      "album": ""
+    },
     {
       "time": "1:13 am",
       "artist": "Beat Happening",
@@ -172,12 +178,6 @@
       "artist": "PJ Harvey",
       "title": "The Wind",
       "album": "Is This Desire • 1998"
-    },
-    {
-      "time": "10:10 pm",
-      "artist": "John Denver",
-      "title": "Back Home Again",
-      "album": "Back Home Again • 1974"
     }
   ]
 }
