@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T19:23:22",
+  "updatedAt": "2026-11-08T19:27:58",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "Harrowdown Hill",
-    "album": "The Eraser • 2006",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Please Please Me",
+    "album": "Please Please Me • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:27 pm",
-      "artist": "The Beatles",
-      "title": "Please Please Me"
-    },
     {
       "time": "7:29 pm",
       "artist": "Andy Gibb",
@@ -26,9 +21,20 @@
       "time": "7:37 pm",
       "artist": "Ritchie Valens",
       "title": "La Bamba"
+    },
+    {
+      "time": "7:39 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Y Control"
     }
   ],
   "recent": [
+    {
+      "time": "7:27 pm",
+      "artist": "The Beatles",
+      "title": "Please Please Me",
+      "album": "Please Please Me • 1963"
+    },
     {
       "time": "7:23 pm",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Nicki Minaj",
       "title": "Super Bass",
       "album": "Pink Friday • 2011"
-    },
-    {
-      "time": "5:52 pm",
-      "artist": "The Beatles",
-      "title": "Michelle",
-      "album": "Rubber Soul • 1965"
     }
   ]
 }
