@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:44:01",
+  "updatedAt": "2026-11-09T04:44:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Jokerman",
+    "album": "Infidels • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 am",
-      "artist": "Bob Dylan",
-      "title": "Jokerman"
-    },
     {
       "time": "4:50 am",
       "artist": "Olivia Rodrigo",
@@ -26,9 +21,20 @@
       "time": "4:57 am",
       "artist": "Fleetwood Mac",
       "title": "Songbird"
+    },
+    {
+      "time": "5:00 am",
+      "artist": "Sigur Ros",
+      "title": "Hoppipolla"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 am",
+      "artist": "Bob Dylan",
+      "title": "Jokerman",
+      "album": "Infidels • 1983"
+    },
     {
       "time": "4:40 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Edison Lighthouse",
       "title": "Love Grows (Where My Rosemary Goes)",
       "album": "Already • 1971"
-    },
-    {
-      "time": "3:15 am",
-      "artist": "Usher",
-      "title": "DJ Got Us Falling In Love",
-      "album": "Raymond v. Raymond • 2010"
     }
   ]
 }
