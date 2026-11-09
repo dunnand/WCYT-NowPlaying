@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T20:24:32",
+  "updatedAt": "2026-11-08T20:26:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "It's Only Love",
-    "album": "single • 1965",
+    "artist": "ABBA",
+    "title": "Mamma Mia",
+    "album": "ABBA • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:26 pm",
-      "artist": "ABBA",
-      "title": "Mamma Mia"
-    },
     {
       "time": "8:29 pm",
       "artist": "Sixpence None The Richer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:26 pm",
+      "artist": "ABBA",
+      "title": "Mamma Mia",
+      "album": "ABBA • 1975"
+    },
     {
       "time": "8:24 pm",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Yo La Tengo",
       "title": "Nowhere Near",
       "album": "Painful • 1993"
-    },
-    {
-      "time": "6:52 pm",
-      "artist": "Maggie Rogers",
-      "title": "Alaska",
-      "album": "Heard It in a Past Life • 2019"
     }
   ]
 }
