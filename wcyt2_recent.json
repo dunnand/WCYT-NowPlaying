@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T07:41:14",
+  "updatedAt": "2026-11-09T07:41:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "Big Shot",
+    "album": "52nd Street • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:41 am",
-      "artist": "Billy Joel",
-      "title": "Big Shot"
-    },
     {
       "time": "7:45 am",
       "artist": "Uncle Kracker",
@@ -31,9 +26,20 @@
       "time": "7:56 am",
       "artist": "Buena Vista Social Club",
       "title": "Chan Chan"
+    },
+    {
+      "time": "8:00 am",
+      "artist": "The Crickets",
+      "title": "That'll Be the Day"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 am",
+      "artist": "Billy Joel",
+      "title": "Big Shot",
+      "album": "52nd Street • 1979"
+    },
     {
       "time": "7:39 am",
       "artist": "The Shins",
@@ -177,12 +183,6 @@
       "artist": "Yo La Tengo",
       "title": "Cherry Chapstick",
       "album": "And Then Nothing Turned Itself Inside • 2000"
-    },
-    {
-      "time": "6:16 am",
-      "artist": "Elvis Presley",
-      "title": "Don't",
-      "album": "single • 1958"
     }
   ]
 }
