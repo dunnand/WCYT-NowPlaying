@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T09:23:13",
+  "updatedAt": "2026-11-09T09:26:28",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "I'm Goin' Down",
-    "album": "Born in the U.S.A. • 1984",
+    "artist": "Taylor Swift",
+    "title": "I Knew It, I Knew You",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:26 am",
-      "artist": "Taylor Swift",
-      "title": "I Knew It, I Knew You"
-    },
     {
       "time": "9:29 am",
       "artist": "Yo La Tengo",
@@ -21,9 +16,20 @@
       "time": "9:39 am",
       "artist": "The White Stripes",
       "title": "Black Math"
+    },
+    {
+      "time": "9:42 am",
+      "artist": "The Afghan Whigs",
+      "title": "Algiers"
     }
   ],
   "recent": [
+    {
+      "time": "9:26 am",
+      "artist": "Taylor Swift",
+      "title": "I Knew It, I Knew You",
+      "album": ""
+    },
     {
       "time": "9:23 am",
       "artist": "Bruce Springsteen",
@@ -167,12 +173,6 @@
       "artist": "Buena Vista Social Club",
       "title": "Chan Chan",
       "album": ""
-    },
-    {
-      "time": "7:51 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Fire Down Below",
-      "album": "Night Moves • 1976"
     }
   ]
 }
