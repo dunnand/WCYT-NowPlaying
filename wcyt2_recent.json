@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T09:26:28",
+  "updatedAt": "2026-11-09T09:29:22",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "I Knew It, I Knew You",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Last Days of Disco",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:29 am",
-      "artist": "Yo La Tengo",
-      "title": "Last Days of Disco"
-    },
     {
       "time": "9:39 am",
       "artist": "The White Stripes",
@@ -21,9 +16,20 @@
       "time": "9:42 am",
       "artist": "The Afghan Whigs",
       "title": "Algiers"
+    },
+    {
+      "time": "9:46 am",
+      "artist": "Black Sabbath",
+      "title": "Black Sabbath"
     }
   ],
   "recent": [
+    {
+      "time": "9:29 am",
+      "artist": "Yo La Tengo",
+      "title": "Last Days of Disco",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "9:26 am",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "The Crickets",
       "title": "That'll Be the Day",
       "album": "The Chirping Crickets • 1957"
-    },
-    {
-      "time": "7:56 am",
-      "artist": "Buena Vista Social Club",
-      "title": "Chan Chan",
-      "album": ""
     }
   ]
 }
