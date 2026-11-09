@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T00:32:03",
+  "updatedAt": "2026-11-09T00:32:15",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beach House",
+    "title": "Dive",
+    "album": "7 • 2018",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:32 am",
-      "artist": "Beach House",
-      "title": "Dive"
-    },
     {
       "time": "12:36 am",
       "artist": "Big Thief",
@@ -26,9 +21,20 @@
       "time": "12:44 am",
       "artist": "Ken Park",
       "title": "shatter"
+    },
+    {
+      "time": "12:47 am",
+      "artist": "Guided by Voices",
+      "title": "Motor Away"
     }
   ],
   "recent": [
+    {
+      "time": "12:32 am",
+      "artist": "Beach House",
+      "title": "Dive",
+      "album": "7 • 2018"
+    },
     {
       "time": "12:28 am",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "Julia Jacklin",
       "title": "The Hardest Thing",
       "album": "The Gem • 2026"
-    },
-    {
-      "time": "10:53 pm",
-      "artist": "Sadurn",
-      "title": "the weight",
-      "album": "The Underworld • 2026"
     }
   ]
 }
