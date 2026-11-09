@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T05:22:45",
+  "updatedAt": "2026-11-09T05:22:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Honey Don't",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:22 am",
-      "artist": "The Beatles",
-      "title": "Honey Don't"
-    },
     {
       "time": "5:25 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "5:37 am",
       "artist": "Pavement",
       "title": "Major Leagues"
+    },
+    {
+      "time": "5:40 am",
+      "artist": "Bob Dylan",
+      "title": "Most of the Time"
     }
   ],
   "recent": [
+    {
+      "time": "5:22 am",
+      "artist": "The Beatles",
+      "title": "Honey Don't",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "5:19 am",
       "artist": "Yeah Yeah Yeahs",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "stupid song",
       "album": ""
-    },
-    {
-      "time": "3:48 am",
-      "artist": "Black Flag",
-      "title": "TV Party",
-      "album": "Damaged • 1981"
     }
   ]
 }
