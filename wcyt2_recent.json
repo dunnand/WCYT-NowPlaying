@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T11:59:12",
+  "updatedAt": "2026-11-09T11:59:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Catherine Wheel",
+    "title": "Crank",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:59 am",
-      "artist": "Catherine Wheel",
-      "title": "Crank"
-    },
     {
       "time": "12:02 pm",
       "artist": "Beastie Boys",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Bruce Springsteen",
       "title": "The Ties That Bind"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "The Weeknd",
+      "title": "Blinding Lights"
     }
   ],
   "recent": [
+    {
+      "time": "11:59 am",
+      "artist": "Catherine Wheel",
+      "title": "Crank",
+      "album": ""
+    },
     {
       "time": "11:55 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Gordon Lightfoot",
       "title": "If You Could Read My Mind",
       "album": "Sit Down Young Stranger • 1971"
-    },
-    {
-      "time": "10:28 am",
-      "artist": "Carly Simon",
-      "title": "That's The Way I've Always Heard It Should Be",
-      "album": "Carly Simon • 1971"
     }
   ]
 }
