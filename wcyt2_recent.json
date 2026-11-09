@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T12:06:33",
+  "updatedAt": "2026-11-09T12:06:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bruce Springsteen",
+    "title": "The River",
+    "album": "The River • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:06 pm",
-      "artist": "Bruce Springsteen",
-      "title": "The River"
-    },
     {
       "time": "12:11 pm",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "12:18 pm",
       "artist": "Barbra Streisand",
       "title": "The Way We Were"
+    },
+    {
+      "time": "12:22 pm",
+      "artist": "Dobie Gray",
+      "title": "Drift Away"
     }
   ],
   "recent": [
+    {
+      "time": "12:06 pm",
+      "artist": "Bruce Springsteen",
+      "title": "The River",
+      "album": "The River • 1980"
+    },
     {
       "time": "12:03 pm",
       "artist": "Beastie Boys",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "I'm Down",
       "album": "single • 1965"
-    },
-    {
-      "time": "10:36 am",
-      "artist": "Sufjan Stevens",
-      "title": "For the Widows in Paradise, For the Fatherless in Ypsilanti",
-      "album": "Michigan • 2003"
     }
   ]
 }
