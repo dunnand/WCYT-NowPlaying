@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T21:15:53",
+  "updatedAt": "2026-11-08T21:18:26",
   "now": {
-    "artist": "The Beatles",
-    "title": "Eight Days A Week",
-    "album": "Beatles for Sale • 1964",
+    "artist": "James Taylor",
+    "title": "Fire And Rain",
+    "album": "Sweet Baby James • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:18 pm",
-      "artist": "James Taylor",
-      "title": "Fire And Rain"
-    },
     {
       "time": "9:21 pm",
       "artist": "Dave Matthews Band",
@@ -26,9 +21,20 @@
       "time": "9:28 pm",
       "artist": "R.E.M.",
       "title": "Aftermath"
+    },
+    {
+      "time": "9:32 pm",
+      "artist": "The Beatles",
+      "title": "Every Little Thing"
     }
   ],
   "recent": [
+    {
+      "time": "9:18 pm",
+      "artist": "James Taylor",
+      "title": "Fire And Rain",
+      "album": "Sweet Baby James • 1970"
+    },
     {
       "time": "9:15 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Q-Tip",
       "title": "Vivrant Thing",
       "album": "Amplified • 1999"
-    },
-    {
-      "time": "7:50 pm",
-      "artist": "Harry Styles",
-      "title": "Adore You",
-      "album": "Fine Line • 2019"
     }
   ]
 }
