@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T19:33:18",
+  "updatedAt": "2026-11-08T19:37:15",
   "now": {
-    "artist": "Mista",
-    "title": "Blackberry Molasses",
-    "album": "Mista • 1996",
+    "artist": "Ritchie Valens",
+    "title": "La Bamba",
+    "album": "Ritchie Valens • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:37 pm",
-      "artist": "Ritchie Valens",
-      "title": "La Bamba"
-    },
     {
       "time": "7:39 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -21,9 +16,20 @@
       "time": "7:43 pm",
       "artist": "The Beatles",
       "title": "Hey Jude"
+    },
+    {
+      "time": "7:50 pm",
+      "artist": "Harry Styles",
+      "title": "Adore You"
     }
   ],
   "recent": [
+    {
+      "time": "7:37 pm",
+      "artist": "Ritchie Valens",
+      "title": "La Bamba",
+      "album": "Ritchie Valens • 1959"
+    },
     {
       "time": "7:33 pm",
       "artist": "Mista",
@@ -167,12 +173,6 @@
       "artist": "Bau-haus",
       "title": "Dark Entries",
       "album": "Single • 1980"
-    },
-    {
-      "time": "6:03 pm",
-      "artist": "Green Day",
-      "title": "Chump",
-      "album": "Dookie • 1994"
     }
   ]
 }
