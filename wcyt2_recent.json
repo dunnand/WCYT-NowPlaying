@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:36:18",
+  "updatedAt": "2026-11-09T04:40:25",
   "now": {
-    "artist": "Soundgarden",
-    "title": "Spoonman",
-    "album": "Superunknown • 1994",
+    "artist": "Bob Dylan",
+    "title": "I'll Keep It With Mine",
+    "album": "Biograph • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:40 am",
-      "artist": "Bob Dylan",
-      "title": "I'll Keep It With Mine"
-    },
     {
       "time": "4:44 am",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:40 am",
+      "artist": "Bob Dylan",
+      "title": "I'll Keep It With Mine",
+      "album": "Biograph • 1985"
+    },
     {
       "time": "4:36 am",
       "artist": "Soundgarden",
@@ -172,12 +173,6 @@
       "artist": "Usher",
       "title": "DJ Got Us Falling In Love",
       "album": "Raymond v. Raymond • 2010"
-    },
-    {
-      "time": "3:09 am",
-      "artist": "Tom Waits",
-      "title": "Day After Tomorrow",
-      "album": "Real Gone • 2004"
     }
   ]
 }
