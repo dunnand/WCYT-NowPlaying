@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T02:02:48",
+  "updatedAt": "2026-11-09T02:08:20",
   "now": {
-    "artist": "Billy Joel",
-    "title": "Goodnight Saigon",
-    "album": "The Nylon Curtain • 1982",
+    "artist": "Weezer",
+    "title": "We Might as Well Be Strangers (feat. Wednesday)",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:08 am",
-      "artist": "Weezer",
-      "title": "We Might as Well Be Strangers (feat. Wednesday)"
-    },
     {
       "time": "2:12 am",
       "artist": "The Specials",
@@ -21,9 +16,20 @@
       "time": "2:15 am",
       "artist": "Three Dog Night",
       "title": "Black & White"
+    },
+    {
+      "time": "2:19 am",
+      "artist": "The Waterboys",
+      "title": "You in the Sky"
     }
   ],
   "recent": [
+    {
+      "time": "2:08 am",
+      "artist": "Weezer",
+      "title": "We Might as Well Be Strangers (feat. Wednesday)",
+      "album": ""
+    },
     {
       "time": "2:02 am",
       "artist": "Billy Joel",
@@ -167,12 +173,6 @@
       "artist": "Spiritualized",
       "title": "Ladies & Gentlemen We Are Floating in Space (I Can't Help Falling in Love)",
       "album": "Ladies and Gentlemen We Are Floating in Space • 1997"
-    },
-    {
-      "time": "12:46 am",
-      "artist": "Nilsson",
-      "title": "Without You",
-      "album": "Nilsson Schmilsson • 1971"
     }
   ]
 }
