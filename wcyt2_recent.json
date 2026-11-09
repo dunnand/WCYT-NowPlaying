@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:57:40",
+  "updatedAt": "2026-11-09T05:00:48",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Songbird",
-    "album": "Rumours • 1977",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Hoppipolla",
+    "album": "Takk... • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "Sigur Ros",
-      "title": "Hoppipolla"
-    },
     {
       "time": "5:05 am",
       "artist": "MGMT",
@@ -31,9 +26,20 @@
       "time": "5:17 am",
       "artist": "Sam Cooke",
       "title": "Only Sixteen"
+    },
+    {
+      "time": "5:19 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Maps"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "Sigur Ros",
+      "title": "Hoppipolla",
+      "album": "Takk... • 2005"
+    },
     {
       "time": "4:57 am",
       "artist": "Fleetwood Mac",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Happiness Is A Warm Gun",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "3:26 am",
-      "artist": "Sufjan Stevens",
-      "title": "The Dress Looks Nice on You",
-      "album": "Seven Swans • 2004"
     }
   ]
 }
