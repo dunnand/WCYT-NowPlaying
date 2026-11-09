@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:36:06",
+  "updatedAt": "2026-11-09T04:36:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Soundgarden",
+    "title": "Spoonman",
+    "album": "Superunknown • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:36 am",
-      "artist": "Soundgarden",
-      "title": "Spoonman"
-    },
     {
       "time": "4:40 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "4:50 am",
       "artist": "Olivia Rodrigo",
       "title": "the cure"
+    },
+    {
+      "time": "4:55 am",
+      "artist": "The White Stripes",
+      "title": "Hotel Yorba"
     }
   ],
   "recent": [
+    {
+      "time": "4:36 am",
+      "artist": "Soundgarden",
+      "title": "Spoonman",
+      "album": "Superunknown • 1994"
+    },
     {
       "time": "4:33 am",
       "artist": "Sebadoh",
@@ -172,12 +178,6 @@
       "artist": "Tom Waits",
       "title": "Day After Tomorrow",
       "album": "Real Gone • 2004"
-    },
-    {
-      "time": "3:06 am",
-      "artist": "Cornelius Brothers & Sister Rose",
-      "title": "Too Late To Turn Back Now",
-      "album": "Cornelius Brothers & Sister Rose • 1972"
     }
   ]
 }
