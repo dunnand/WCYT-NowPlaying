@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T11:37:21",
+  "updatedAt": "2026-11-09T11:41:28",
   "now": {
-    "artist": "Willie Nelson",
-    "title": "Georgia On My Mind",
-    "album": "Stardust • 1978",
+    "artist": "Ani DiFranco",
+    "title": "32 Flavors",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:41 am",
-      "artist": "Ani DiFranco",
-      "title": "32 Flavors"
-    },
     {
       "time": "11:47 am",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "11:50 am",
       "artist": "The Shins",
       "title": "So Says I"
+    },
+    {
+      "time": "11:53 am",
+      "artist": "The Beatles",
+      "title": "I've Just Seen A Face"
     }
   ],
   "recent": [
+    {
+      "time": "11:41 am",
+      "artist": "Ani DiFranco",
+      "title": "32 Flavors",
+      "album": ""
+    },
     {
       "time": "11:37 am",
       "artist": "Willie Nelson",
@@ -166,12 +172,6 @@
       "time": "10:11 am",
       "artist": "Nirvana",
       "title": "Aneurysm",
-      "album": ""
-    },
-    {
-      "time": "10:07 am",
-      "artist": "Nine Inch Nails",
-      "title": "Wish",
       "album": ""
     }
   ]
