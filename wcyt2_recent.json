@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T10:07:42",
+  "updatedAt": "2026-11-09T10:11:26",
   "now": {
-    "artist": "Nine Inch Nails",
-    "title": "Wish",
+    "artist": "Nirvana",
+    "title": "Aneurysm",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:11 am",
-      "artist": "Nirvana",
-      "title": "Aneurysm"
-    },
     {
       "time": "10:16 am",
       "artist": "Bruce Springsteen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:11 am",
+      "artist": "Nirvana",
+      "title": "Aneurysm",
+      "album": ""
+    },
     {
       "time": "10:07 am",
       "artist": "Nine Inch Nails",
@@ -172,12 +173,6 @@
       "artist": "The Carpenters",
       "title": "We've Only Just Begun",
       "album": "Close to You • 1970"
-    },
-    {
-      "time": "8:34 am",
-      "artist": "Rammstein",
-      "title": "Sonne",
-      "album": "Mutter • 2001"
     }
   ]
 }
