@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T10:01:52",
+  "updatedAt": "2026-11-09T10:03:25",
   "now": {
-    "artist": "The Beatles",
-    "title": "I'll Cry Instead",
-    "album": "A Hard Day's Night • 1964",
-    "category": "AUDIO"
+    "artist": "The Afghan Whigs",
+    "title": "The Lottery",
+    "album": "Do to the Beast • 2014",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:03 am",
-      "artist": "The Afghan Whigs",
-      "title": "The Lottery"
-    },
     {
       "time": "10:07 am",
       "artist": "Nine Inch Nails",
@@ -21,9 +16,20 @@
       "time": "10:11 am",
       "artist": "Nirvana",
       "title": "Aneurysm"
+    },
+    {
+      "time": "10:16 am",
+      "artist": "Bruce Springsteen",
+      "title": "Mansion on the Hill"
     }
   ],
   "recent": [
+    {
+      "time": "10:03 am",
+      "artist": "The Afghan Whigs",
+      "title": "The Lottery",
+      "album": "Do to the Beast • 2014"
+    },
     {
       "time": "10:01 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Bruno Mars",
       "title": "I Just Might",
       "album": ""
-    },
-    {
-      "time": "8:27 am",
-      "artist": "Bruce Springsteen",
-      "title": "Because the Night",
-      "album": "single • 1980"
     }
   ]
 }
