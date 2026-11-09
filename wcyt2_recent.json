@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:50:16",
+  "updatedAt": "2026-11-09T04:55:15",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "the cure",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Hotel Yorba",
+    "album": "White Blood Cells • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:55 am",
-      "artist": "The White Stripes",
-      "title": "Hotel Yorba"
-    },
     {
       "time": "4:57 am",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "5:05 am",
       "artist": "MGMT",
       "title": "Little Dark Age"
+    },
+    {
+      "time": "5:09 am",
+      "artist": "Bee Gees",
+      "title": "Fanny (Be Tender With My Love)"
     }
   ],
   "recent": [
+    {
+      "time": "4:55 am",
+      "artist": "The White Stripes",
+      "title": "Hotel Yorba",
+      "album": "White Blood Cells • 2002"
+    },
     {
       "time": "4:50 am",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "All Shook Up",
       "album": "single • 1957"
-    },
-    {
-      "time": "3:21 am",
-      "artist": "Throwing Muses",
-      "title": "Not Too Soon",
-      "album": "The Real Ramona • 1991"
     }
   ]
 }
