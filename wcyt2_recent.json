@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T11:30:52",
+  "updatedAt": "2026-11-09T11:35:26",
   "now": {
-    "artist": "The Jam",
-    "title": "Down in the Tube Station at Midnight",
-    "album": "All Mod Cons • 1978",
+    "artist": "The Beatles",
+    "title": "I'm So Tired",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:35 am",
-      "artist": "The Beatles",
-      "title": "I'm So Tired"
-    },
     {
       "time": "11:37 am",
       "artist": "Willie Nelson",
@@ -26,9 +21,20 @@
       "time": "11:47 am",
       "artist": "Chuck Berry",
       "title": "Sweet Little Sixteen"
+    },
+    {
+      "time": "11:50 am",
+      "artist": "The Shins",
+      "title": "So Says I"
     }
   ],
   "recent": [
+    {
+      "time": "11:35 am",
+      "artist": "The Beatles",
+      "title": "I'm So Tired",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "11:30 am",
       "artist": "The Jam",
@@ -172,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "The Lottery",
       "album": "Do to the Beast • 2014"
-    },
-    {
-      "time": "10:01 am",
-      "artist": "The Beatles",
-      "title": "I'll Cry Instead",
-      "album": "A Hard Day's Night • 1964"
     }
   ]
 }
