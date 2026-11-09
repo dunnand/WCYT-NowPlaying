@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T18:55:20",
+  "updatedAt": "2026-11-08T19:01:14",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Nowhere Near",
-    "album": "Painful • 1993",
-    "category": "TUNES"
+    "artist": "Tad",
+    "title": "Grease Box",
+    "album": "Inhaler • 1993",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:01 pm",
-      "artist": "Tad",
-      "title": "Grease Box"
-    },
     {
       "time": "7:05 pm",
       "artist": "Bauhaus",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:01 pm",
+      "artist": "Tad",
+      "title": "Grease Box",
+      "album": "Inhaler • 1993"
+    },
     {
       "time": "6:55 pm",
       "artist": "Yo La Tengo",
@@ -172,12 +173,6 @@
       "artist": "Neil Young",
       "title": "Heart Of Gold",
       "album": "Harvest • 1972"
-    },
-    {
-      "time": "5:29 pm",
-      "artist": "The Beatles",
-      "title": "Long, Long, Long",
-      "album": "The Beatles • 1968"
     }
   ]
 }
