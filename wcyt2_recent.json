@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T00:34:50",
+  "updatedAt": "2026-11-09T00:38:15",
   "now": {
-    "artist": "Joy Division",
-    "title": "Transmission",
-    "album": "Single • 1979",
+    "artist": "The Beatles",
+    "title": "For No One",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 am",
-      "artist": "The Beatles",
-      "title": "For No One"
-    },
     {
       "time": "12:40 am",
       "artist": "Kenny Rogers",
@@ -26,9 +21,20 @@
       "time": "12:46 am",
       "artist": "Nilsson",
       "title": "Without You"
+    },
+    {
+      "time": "12:49 am",
+      "artist": "Spiritualized",
+      "title": "Ladies & Gentlemen We Are Floating in Space (I Can't Help Falling in Love)"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 am",
+      "artist": "The Beatles",
+      "title": "For No One",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "12:34 am",
       "artist": "Joy Division",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "Aftermath",
       "album": "Reckoning • 2004"
-    },
-    {
-      "time": "9:25 pm",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music",
-      "album": "One Dozen Berrys • 1958"
     }
   ]
 }
