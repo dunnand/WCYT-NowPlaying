@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:44:21",
+  "updatedAt": "2026-11-09T04:50:16",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Jokerman",
-    "album": "Infidels • 1983",
+    "artist": "Olivia Rodrigo",
+    "title": "the cure",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Olivia Rodrigo",
-      "title": "the cure"
-    },
     {
       "time": "4:55 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "5:00 am",
       "artist": "Sigur Ros",
       "title": "Hoppipolla"
+    },
+    {
+      "time": "5:05 am",
+      "artist": "MGMT",
+      "title": "Little Dark Age"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Olivia Rodrigo",
+      "title": "the cure",
+      "album": ""
+    },
     {
       "time": "4:44 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Throwing Muses",
       "title": "Not Too Soon",
       "album": "The Real Ramona • 1991"
-    },
-    {
-      "time": "3:18 am",
-      "artist": "Edison Lighthouse",
-      "title": "Love Grows (Where My Rosemary Goes)",
-      "album": "Already • 1971"
     }
   ]
 }
