@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T20:21:45",
+  "updatedAt": "2026-11-08T20:21:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Say Yes! to M!ch!gan!",
+    "album": "Michigan • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:21 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Say Yes! to M!ch!gan!"
-    },
     {
       "time": "8:24 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "8:29 pm",
       "artist": "Sixpence None The Richer",
       "title": "Kiss Me"
+    },
+    {
+      "time": "8:33 pm",
+      "artist": "Elvis Presley",
+      "title": "I Want You, I Need You, I Love You"
     }
   ],
   "recent": [
+    {
+      "time": "8:21 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Say Yes! to M!ch!gan!",
+      "album": "Michigan • 2003"
+    },
     {
       "time": "8:17 pm",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Here Comes The Sun",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "6:42 pm",
-      "artist": "Sun Kil Moon",
-      "title": "Carry Me Ohio",
-      "album": "Ghosts of the Great Highway • 2003"
     }
   ]
 }
