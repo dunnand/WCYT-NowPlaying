@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T07:12:09",
+  "updatedAt": "2026-11-09T07:15:23",
   "now": {
-    "artist": "The Shins",
-    "title": "Caring Is Creepy",
-    "album": "Oh Inverted World • 2001",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "I Wanna Be Your Man",
+    "album": "With the Beatles • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 am",
-      "artist": "The Beatles",
-      "title": "I Wanna Be Your Man"
-    },
     {
       "time": "7:17 am",
       "artist": "Taylor Swift",
@@ -21,9 +16,25 @@
       "time": "7:20 am",
       "artist": "A Tribe Called Quest",
       "title": "Award Tour"
+    },
+    {
+      "time": "7:24 am",
+      "artist": "A Tribe Called Quest",
+      "title": "I Left My Wallet in El Segundo"
+    },
+    {
+      "time": "7:28 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Could You Be Loved"
     }
   ],
   "recent": [
+    {
+      "time": "7:15 am",
+      "artist": "The Beatles",
+      "title": "I Wanna Be Your Man",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "7:12 am",
       "artist": "The Shins",
@@ -167,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "Can’t Catch Me Now",
       "album": ""
-    },
-    {
-      "time": "5:45 am",
-      "artist": "Bob Dylan",
-      "title": "Ring Them Bells",
-      "album": "Oh Mercy • 1989"
     }
   ]
 }
