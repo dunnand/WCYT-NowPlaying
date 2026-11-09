@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T08:57:38",
+  "updatedAt": "2026-11-09T09:00:05",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Jailhouse Rock",
-    "album": "Jailhouse Rock • 1957",
-    "category": "AUDIO"
+    "artist": "Ween",
+    "title": "Tried and True",
+    "album": "Quebec • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:00 am",
-      "artist": "Ween",
-      "title": "Tried and True"
-    },
     {
       "time": "9:04 am",
       "artist": "The Beatles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:00 am",
+      "artist": "Ween",
+      "title": "Tried and True",
+      "album": "Quebec • 2003"
+    },
     {
       "time": "8:57 am",
       "artist": "Elvis Presley",
@@ -171,12 +172,6 @@
       "time": "7:32 am",
       "artist": "Bob Marley and the Wailers",
       "title": "Redemption Song",
-      "album": "Uprising • 1980"
-    },
-    {
-      "time": "7:28 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Could You Be Loved",
       "album": "Uprising • 1980"
     }
   ]
