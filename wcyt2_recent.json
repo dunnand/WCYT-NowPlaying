@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T01:40:39",
+  "updatedAt": "2026-11-09T01:43:23",
   "now": {
-    "artist": "Sam Cooke",
-    "title": "You Send Me",
-    "album": "Sam Cooke • 1957",
+    "artist": "Train",
+    "title": "Calling All Angels",
+    "album": "My Private Nation • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 am",
-      "artist": "Train",
-      "title": "Calling All Angels"
-    },
     {
       "time": "1:47 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "1:49 am",
       "artist": "Taylor Swift",
       "title": "Bad Blood"
+    },
+    {
+      "time": "1:53 am",
+      "artist": "Modest Mouse",
+      "title": "Heart Cooks Brain"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 am",
+      "artist": "Train",
+      "title": "Calling All Angels",
+      "album": "My Private Nation • 2003"
+    },
     {
       "time": "1:40 am",
       "artist": "Sam Cooke",
@@ -167,12 +173,6 @@
       "artist": "Beat Happening",
       "title": "I Love You",
       "album": "Beat Happening • 1985"
-    },
-    {
-      "time": "12:26 am",
-      "artist": "Beat Happening",
-      "title": "Cast a Shadow",
-      "album": "Black Candy • 1989"
     }
   ]
 }
