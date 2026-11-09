@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T21:11:26",
+  "updatedAt": "2026-11-08T21:15:53",
   "now": {
-    "artist": "Rage Against the Machine",
-    "title": "Renegades of Funk",
-    "album": "Renegades • 2000",
+    "artist": "The Beatles",
+    "title": "Eight Days A Week",
+    "album": "Beatles for Sale • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "The Beatles",
-      "title": "Eight Days A Week"
-    },
     {
       "time": "9:18 pm",
       "artist": "James Taylor",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "The Beatles",
+      "title": "Eight Days A Week",
+      "album": "Beatles for Sale • 1964"
+    },
     {
       "time": "9:11 pm",
       "artist": "Rage Against the Machine",
@@ -177,12 +178,6 @@
       "artist": "Harry Styles",
       "title": "Adore You",
       "album": "Fine Line • 2019"
-    },
-    {
-      "time": "7:43 pm",
-      "artist": "The Beatles",
-      "title": "Hey Jude",
-      "album": "single • 1968"
     }
   ]
 }
