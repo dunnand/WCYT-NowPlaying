@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T01:40:28",
+  "updatedAt": "2026-11-09T01:40:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sam Cooke",
+    "title": "You Send Me",
+    "album": "Sam Cooke • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:40 am",
-      "artist": "Sam Cooke",
-      "title": "You Send Me"
-    },
     {
       "time": "1:43 am",
       "artist": "Train",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:40 am",
+      "artist": "Sam Cooke",
+      "title": "You Send Me",
+      "album": "Sam Cooke • 1957"
+    },
     {
       "time": "1:38 am",
       "artist": "Randy Newman",
@@ -172,12 +173,6 @@
       "artist": "Beat Happening",
       "title": "Cast a Shadow",
       "album": "Black Candy • 1989"
-    },
-    {
-      "time": "12:21 am",
-      "artist": "Slowdive",
-      "title": "Machine Gun",
-      "album": "Souvlaki • 1993"
     }
   ]
 }
