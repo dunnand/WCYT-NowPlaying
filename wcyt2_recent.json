@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:11:09",
+  "updatedAt": "2026-11-09T04:14:23",
   "now": {
-    "artist": "The Beatles",
-    "title": "Hey Bulldog",
-    "album": "Yellow Submarine • 1969",
+    "artist": "Edwin Starr",
+    "title": "War",
+    "album": "War & Peace • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:14 am",
-      "artist": "Edwin Starr",
-      "title": "War"
-    },
     {
       "time": "4:17 am",
       "artist": "Ride",
@@ -26,9 +21,20 @@
       "time": "4:22 am",
       "artist": "Bat for Lashes",
       "title": "Daniel"
+    },
+    {
+      "time": "4:27 am",
+      "artist": "The Beatles",
+      "title": "Hold Me Tight"
     }
   ],
   "recent": [
+    {
+      "time": "4:14 am",
+      "artist": "Edwin Starr",
+      "title": "War",
+      "album": "War & Peace • 1970"
+    },
     {
       "time": "4:11 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Flaming Lips",
       "title": "Buggin'",
       "album": "The Soft Bulletin • 1999"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "Tame Impala",
-      "title": "The Less I Know The Better",
-      "album": "Currents • 2015"
     }
   ]
 }
