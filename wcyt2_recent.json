@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T01:52:59",
+  "updatedAt": "2026-11-09T01:53:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Heart Cooks Brain",
+    "album": "Lonesome Crowded West • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "Modest Mouse",
-      "title": "Heart Cooks Brain"
-    },
     {
       "time": "1:57 am",
       "artist": "Neutral Milk Hotel",
@@ -26,9 +21,20 @@
       "time": "2:02 am",
       "artist": "Billy Joel",
       "title": "Goodnight Saigon"
+    },
+    {
+      "time": "2:08 am",
+      "artist": "Weezer",
+      "title": "We Might as Well Be Strangers (feat. Wednesday)"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "Modest Mouse",
+      "title": "Heart Cooks Brain",
+      "album": "Lonesome Crowded West • 1998"
+    },
     {
       "time": "1:49 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "For No One",
       "album": "Revolver • 1966"
-    },
-    {
-      "time": "12:34 am",
-      "artist": "Joy Division",
-      "title": "Transmission",
-      "album": "Single • 1979"
     }
   ]
 }
