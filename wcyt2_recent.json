@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T06:24:03",
+  "updatedAt": "2026-11-09T06:24:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Honey Pie",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:24 am",
-      "artist": "The Beatles",
-      "title": "Honey Pie"
-    },
     {
       "time": "6:26 am",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:24 am",
+      "artist": "The Beatles",
+      "title": "Honey Pie",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "6:19 am",
       "artist": "Yo La Tengo",
@@ -172,12 +173,6 @@
       "artist": "Olivia Rodrigo",
       "title": "the cure",
       "album": ""
-    },
-    {
-      "time": "4:44 am",
-      "artist": "Bob Dylan",
-      "title": "Jokerman",
-      "album": "Infidels • 1983"
     }
   ]
 }
