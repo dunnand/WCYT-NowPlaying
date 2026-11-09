@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T20:26:17",
+  "updatedAt": "2026-11-08T20:29:42",
   "now": {
-    "artist": "ABBA",
-    "title": "Mamma Mia",
-    "album": "ABBA • 1975",
+    "artist": "Sixpence None The Richer",
+    "title": "Kiss Me",
+    "album": "Sixpence None the Richer • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:29 pm",
-      "artist": "Sixpence None The Richer",
-      "title": "Kiss Me"
-    },
     {
       "time": "8:33 pm",
       "artist": "Elvis Presley",
@@ -21,9 +16,20 @@
       "time": "8:35 pm",
       "artist": "Yeah Yeah Yeahs",
       "title": "Rich"
+    },
+    {
+      "time": "8:39 pm",
+      "artist": "The Beatles",
+      "title": "Doctor Robert"
     }
   ],
   "recent": [
+    {
+      "time": "8:29 pm",
+      "artist": "Sixpence None The Richer",
+      "title": "Kiss Me",
+      "album": "Sixpence None the Richer • 1998"
+    },
     {
       "time": "8:26 pm",
       "artist": "ABBA",
@@ -167,12 +173,6 @@
       "artist": "Tad",
       "title": "Grease Box",
       "album": "Inhaler • 1993"
-    },
-    {
-      "time": "6:55 pm",
-      "artist": "Yo La Tengo",
-      "title": "Nowhere Near",
-      "album": "Painful • 1993"
     }
   ]
 }
