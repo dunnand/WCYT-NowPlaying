@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T00:21:55",
+  "updatedAt": "2026-11-09T00:26:01",
   "now": {
-    "artist": "Slowdive",
-    "title": "Machine Gun",
-    "album": "Souvlaki • 1993",
-    "category": "TUNES"
+    "artist": "Beat Happening",
+    "title": "Cast a Shadow",
+    "album": "Black Candy • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:25 am",
-      "artist": "Beat Happening",
-      "title": "Cast a Shadow"
-    },
     {
       "time": "12:28 am",
       "artist": "Beat Happening",
@@ -21,9 +16,20 @@
       "time": "12:30 am",
       "artist": "HAIM",
       "title": "The Wire"
+    },
+    {
+      "time": "12:34 am",
+      "artist": "Joy Division",
+      "title": "Transmission"
     }
   ],
   "recent": [
+    {
+      "time": "12:26 am",
+      "artist": "Beat Happening",
+      "title": "Cast a Shadow",
+      "album": "Black Candy • 1989"
+    },
     {
       "time": "12:21 am",
       "artist": "Slowdive",
@@ -167,12 +173,6 @@
       "artist": "The Beatles",
       "title": "Eight Days A Week",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Rage Against the Machine",
-      "title": "Renegades of Funk",
-      "album": "Renegades • 2000"
     }
   ]
 }
