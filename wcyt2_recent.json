@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T21:11:14",
+  "updatedAt": "2026-11-08T21:11:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rage Against the Machine",
+    "title": "Renegades of Funk",
+    "album": "Renegades • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:11 pm",
-      "artist": "Rage Against the Machine",
-      "title": "Renegades of Funk"
-    },
     {
       "time": "9:15 pm",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "9:26 pm",
       "artist": "Chuck Berry",
       "title": "Rock & Roll Music"
+    },
+    {
+      "time": "9:28 pm",
+      "artist": "R.E.M.",
+      "title": "Aftermath"
     }
   ],
   "recent": [
+    {
+      "time": "9:11 pm",
+      "artist": "Rage Against the Machine",
+      "title": "Renegades of Funk",
+      "album": "Renegades • 2000"
+    },
     {
       "time": "9:07 pm",
       "artist": "Eric Clapton",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Hey Jude",
       "album": "single • 1968"
-    },
-    {
-      "time": "7:39 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Y Control",
-      "album": "Fever To Tell • 2003"
     }
   ]
 }
