@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T20:21:57",
+  "updatedAt": "2026-11-08T20:24:32",
   "now": {
-    "artist": "Sufjan Stevens",
-    "title": "Say Yes! to M!ch!gan!",
-    "album": "Michigan • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "It's Only Love",
+    "album": "single • 1965",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 pm",
-      "artist": "The Beatles",
-      "title": "It's Only Love"
-    },
     {
       "time": "8:26 pm",
       "artist": "ABBA",
@@ -26,9 +21,20 @@
       "time": "8:33 pm",
       "artist": "Elvis Presley",
       "title": "I Want You, I Need You, I Love You"
+    },
+    {
+      "time": "8:35 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Rich"
     }
   ],
   "recent": [
+    {
+      "time": "8:24 pm",
+      "artist": "The Beatles",
+      "title": "It's Only Love",
+      "album": "single • 1965"
+    },
     {
       "time": "8:21 pm",
       "artist": "Sufjan Stevens",
@@ -172,12 +178,6 @@
       "artist": "Maggie Rogers",
       "title": "Alaska",
       "album": "Heard It in a Past Life • 2019"
-    },
-    {
-      "time": "6:49 pm",
-      "artist": "The Beatles",
-      "title": "Here Comes The Sun",
-      "album": "Abbey Road • 1969"
     }
   ]
 }
