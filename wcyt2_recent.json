@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T14:09:52",
+  "updatedAt": "2026-11-09T14:14:57",
   "now": {
-    "artist": "Rod Stewart",
-    "title": "Hot Legs",
-    "album": "Foot Loose & Fancy Free • 1978",
+    "artist": "The Beatles",
+    "title": "Lovely Rita",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:14 pm",
-      "artist": "The Beatles",
-      "title": "Lovely Rita"
-    },
     {
       "time": "2:17 pm",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "2:29 pm",
       "artist": "The Everly Brothers",
       "title": "All I Have To Do Is Dream"
+    },
+    {
+      "time": "2:32 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Date With The Night"
     }
   ],
   "recent": [
+    {
+      "time": "2:14 pm",
+      "artist": "The Beatles",
+      "title": "Lovely Rita",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "2:09 pm",
       "artist": "Rod Stewart",
@@ -172,12 +178,6 @@
       "artist": "The Afghan Whigs",
       "title": "Arabian Heights",
       "album": "In Spades • 2017"
-    },
-    {
-      "time": "12:34 pm",
-      "artist": "Chris Cornell",
-      "title": "Seasons",
-      "album": ""
     }
   ]
 }
