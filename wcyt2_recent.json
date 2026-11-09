@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T09:45:57",
+  "updatedAt": "2026-11-09T09:51:36",
   "now": {
-    "artist": "Black Sabbath",
-    "title": "Black Sabbath",
-    "album": "Black Sabbath • 1970",
+    "artist": "Hooverphonic",
+    "title": "Mad About You",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:51 am",
-      "artist": "Hooverphonic",
-      "title": "Mad About You"
-    },
     {
       "time": "9:55 am",
       "artist": "Perez Prado y Su Orquesta",
@@ -21,9 +16,20 @@
       "time": "9:58 am",
       "artist": "St. Vincent",
       "title": "The Strangers"
+    },
+    {
+      "time": "10:01 am",
+      "artist": "The Beatles",
+      "title": "I'll Cry Instead"
     }
   ],
   "recent": [
+    {
+      "time": "9:51 am",
+      "artist": "Hooverphonic",
+      "title": "Mad About You",
+      "album": ""
+    },
     {
       "time": "9:45 am",
       "artist": "Black Sabbath",
@@ -167,12 +173,6 @@
       "artist": "Ministry",
       "title": "N.W.O.",
       "album": ""
-    },
-    {
-      "time": "8:08 am",
-      "artist": "Zedd",
-      "title": "Clarity",
-      "album": "Clarity • 2012"
     }
   ]
 }
