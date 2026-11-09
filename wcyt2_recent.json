@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T05:45:06",
+  "updatedAt": "2026-11-09T05:48:01",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Ring Them Bells",
-    "album": "Oh Mercy • 1989",
+    "artist": "Olivia Rodrigo",
+    "title": "Can’t Catch Me Now",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:47 am",
-      "artist": "Olivia Rodrigo",
-      "title": "Can’t Catch Me Now"
-    },
     {
       "time": "5:51 am",
       "artist": "Spoon",
@@ -26,9 +21,20 @@
       "time": "5:58 am",
       "artist": "The Ready Set",
       "title": "Give Me Your Hand"
+    },
+    {
+      "time": "6:02 am",
+      "artist": "Tyler, the Creator",
+      "title": "IGOR'S THEME"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 am",
+      "artist": "Olivia Rodrigo",
+      "title": "Can’t Catch Me Now",
+      "album": ""
+    },
     {
       "time": "5:45 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Ride",
       "title": "Kaleidoscope",
       "album": "Nowhere • 1990"
-    },
-    {
-      "time": "4:14 am",
-      "artist": "Edwin Starr",
-      "title": "War",
-      "album": "War & Peace • 1970"
     }
   ]
 }
