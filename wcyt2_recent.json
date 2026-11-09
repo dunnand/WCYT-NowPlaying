@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T03:29:10",
+  "updatedAt": "2026-11-09T03:29:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Happiness Is A Warm Gun",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:29 am",
-      "artist": "The Beatles",
-      "title": "Happiness Is A Warm Gun"
-    },
     {
       "time": "3:31 am",
       "artist": "Robyn",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:29 am",
+      "artist": "The Beatles",
+      "title": "Happiness Is A Warm Gun",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "3:26 am",
       "artist": "Sufjan Stevens",
@@ -172,12 +173,6 @@
       "artist": "Weezer",
       "title": "We Might as Well Be Strangers (feat. Wednesday)",
       "album": ""
-    },
-    {
-      "time": "2:02 am",
-      "artist": "Billy Joel",
-      "title": "Goodnight Saigon",
-      "album": "The Nylon Curtain • 1982"
     }
   ]
 }
