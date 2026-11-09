@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T07:00:07",
+  "updatedAt": "2026-11-09T07:02:12",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Call Your Name",
-    "album": "Long Tall Sally • 1964",
+    "artist": "Eagles",
+    "title": "Peaceful Easy Feeling",
+    "album": "Eagles • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 am",
-      "artist": "Eagles",
-      "title": "Peaceful Easy Feeling"
-    },
     {
       "time": "7:06 am",
       "artist": "Sophie B. Hawkins",
@@ -26,9 +21,20 @@
       "time": "7:12 am",
       "artist": "The Shins",
       "title": "Caring Is Creepy"
+    },
+    {
+      "time": "7:15 am",
+      "artist": "The Beatles",
+      "title": "I Wanna Be Your Man"
     }
   ],
   "recent": [
+    {
+      "time": "7:02 am",
+      "artist": "Eagles",
+      "title": "Peaceful Easy Feeling",
+      "album": "Eagles • 1973"
+    },
     {
       "time": "7:00 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Time Trap",
       "album": "Keep It Like A Secret • 1999"
-    },
-    {
-      "time": "5:25 am",
-      "artist": "Thom Yorke",
-      "title": "The Mother Lode",
-      "album": "Tomorrow's Modern Boxes • 2014"
     }
   ]
 }
