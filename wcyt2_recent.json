@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T00:59:05",
+  "updatedAt": "2026-11-09T01:01:06",
   "now": {
-    "artist": "The Beatles",
-    "title": "Good Day Sunshine",
-    "album": "Revolver • 1966",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Diane Young",
+    "album": "Modern Vampires Of The City • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Vampire Weekend",
-      "title": "Diane Young"
-    },
     {
       "time": "1:03 am",
       "artist": "Pavement",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Vampire Weekend",
+      "title": "Diane Young",
+      "album": "Modern Vampires Of The City • 2013"
+    },
     {
       "time": "12:59 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Rascal Flatts",
       "title": "Life is a Highway",
       "album": "Cars soundtrack • 2006"
-    },
-    {
-      "time": "9:52 pm",
-      "artist": "HAIM",
-      "title": "Falling",
-      "album": ""
     }
   ]
 }
