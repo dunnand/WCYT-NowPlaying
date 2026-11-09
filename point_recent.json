@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T12:47:06",
+  "updatedAt": "2026-11-09T12:47:18",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
+    "artist": "The Jayhawks",
+    "title": "Blue",
     "album": "",
-    "category": "IDS"
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 pm",
-      "artist": "The Jayhawks",
-      "title": "Blue"
-    },
     {
       "time": "12:50 pm",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "12:59 pm",
       "artist": "Iron & Wine",
       "title": "Flightless Bird, American Mouth"
+    },
+    {
+      "time": "1:03 pm",
+      "artist": "Sweet Pill",
+      "title": "Starchild"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 pm",
+      "artist": "The Jayhawks",
+      "title": "Blue",
+      "album": ""
+    },
     {
       "time": "12:44 pm",
       "artist": "Sylvan Esso",
@@ -172,12 +178,6 @@
       "artist": "Father John Misty",
       "title": "The X-panded Universe",
       "album": "single • 2026"
-    },
-    {
-      "time": "11:13 am",
-      "artist": "Victoryland",
-      "title": "The Ugliest Girl On The Beach",
-      "album": "My Heart Is A Room With No Cameras In It • 2026"
     }
   ]
 }
