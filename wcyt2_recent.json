@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T21:21:41",
+  "updatedAt": "2026-11-08T21:25:57",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "Ants Marching",
-    "album": "Under The Table And Dreaming • 1995",
+    "artist": "Chuck Berry",
+    "title": "Rock & Roll Music",
+    "album": "One Dozen Berrys • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 pm",
-      "artist": "Chuck Berry",
-      "title": "Rock & Roll Music"
-    },
     {
       "time": "9:28 pm",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "9:34 pm",
       "artist": "Frank Ocean",
       "title": "Thinkin Bout You"
+    },
+    {
+      "time": "9:37 pm",
+      "artist": "Janet Jackson",
+      "title": "What's Gonna Be"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 pm",
+      "artist": "Chuck Berry",
+      "title": "Rock & Roll Music",
+      "album": "One Dozen Berrys • 1958"
+    },
     {
       "time": "9:21 pm",
       "artist": "Dave Matthews Band",
@@ -172,12 +178,6 @@
       "artist": "Bauhaus",
       "title": "The Passion of Lovers",
       "album": "Mask • 1981"
-    },
-    {
-      "time": "7:57 pm",
-      "artist": "The Magnetic Fields",
-      "title": "Fear of Trains",
-      "album": "The Charm of the Highway Strip • 1994"
     }
   ]
 }
