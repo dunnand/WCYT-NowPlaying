@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T02:40:04",
+  "updatedAt": "2026-11-09T02:40:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Got To Get You Into My Life",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 am",
-      "artist": "The Beatles",
-      "title": "Got To Get You Into My Life"
-    },
     {
       "time": "2:42 am",
       "artist": "Tame Impala",
@@ -26,9 +21,20 @@
       "time": "2:50 am",
       "artist": "Guided by Voices",
       "title": "My Valuable Hunting Knife"
+    },
+    {
+      "time": "2:52 am",
+      "artist": "Black Flag",
+      "title": "Gimmie Gimmie Gimmie"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 am",
+      "artist": "The Beatles",
+      "title": "Got To Get You Into My Life",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "2:36 am",
       "artist": "Spoon",
@@ -172,12 +178,6 @@
       "artist": "HAIM",
       "title": "Honey & I",
       "album": ""
-    },
-    {
-      "time": "1:13 am",
-      "artist": "Beat Happening",
-      "title": "Our Secret",
-      "album": "Beat Happening • 1985"
     }
   ]
 }
