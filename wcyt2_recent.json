@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T09:04:02",
+  "updatedAt": "2026-11-09T09:04:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I'll Be Back",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:04 am",
-      "artist": "The Beatles",
-      "title": "I'll Be Back"
-    },
     {
       "time": "9:06 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "9:15 am",
       "artist": "Hooverphonic",
       "title": "2Wicky"
+    },
+    {
+      "time": "9:20 am",
+      "artist": "Bruce Springsteen",
+      "title": "Cadillac Ranch"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 am",
+      "artist": "The Beatles",
+      "title": "I'll Be Back",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "9:00 am",
       "artist": "Ween",
@@ -172,12 +178,6 @@
       "artist": "Charli XCX",
       "title": "SS26",
       "album": ""
-    },
-    {
-      "time": "7:32 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Redemption Song",
-      "album": "Uprising • 1980"
     }
   ]
 }
