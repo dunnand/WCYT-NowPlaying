@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T00:58:53",
+  "updatedAt": "2026-11-09T00:59:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Good Day Sunshine",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:58 am",
-      "artist": "The Beatles",
-      "title": "Good Day Sunshine"
-    },
     {
       "time": "1:01 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "1:06 am",
       "artist": "Wyclef Jean",
       "title": "Gone Till November (feat. The New York Philharmonic Orchestra)"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "Beat Happening",
+      "title": "Indian Summer"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "The Beatles",
+      "title": "Good Day Sunshine",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "12:55 am",
       "artist": "System of a Down",
@@ -172,12 +178,6 @@
       "artist": "HAIM",
       "title": "Falling",
       "album": ""
-    },
-    {
-      "time": "9:49 pm",
-      "artist": "Beat Happening",
-      "title": "Bewitched",
-      "album": "Jamboree • 1988"
     }
   ]
 }
