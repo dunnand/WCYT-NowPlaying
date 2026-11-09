@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T21:03:26",
+  "updatedAt": "2026-11-08T21:07:00",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "I Write The Songs",
-    "album": "Tryin' to Get the Feeling • 1975",
+    "artist": "Eric Clapton",
+    "title": "I Shot The Sheriff",
+    "album": "461 Ocean Boulevard • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:06 pm",
-      "artist": "Eric Clapton",
-      "title": "I Shot The Sheriff"
-    },
     {
       "time": "9:11 pm",
       "artist": "Rage Against the Machine",
@@ -26,9 +21,20 @@
       "time": "9:18 pm",
       "artist": "James Taylor",
       "title": "Fire And Rain"
+    },
+    {
+      "time": "9:21 pm",
+      "artist": "Dave Matthews Band",
+      "title": "Ants Marching"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "Eric Clapton",
+      "title": "I Shot The Sheriff",
+      "album": "461 Ocean Boulevard • 1974"
+    },
     {
       "time": "9:03 pm",
       "artist": "Barry Manilow",
@@ -172,12 +178,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Y Control",
       "album": "Fever To Tell • 2003"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "Ritchie Valens",
-      "title": "La Bamba",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
