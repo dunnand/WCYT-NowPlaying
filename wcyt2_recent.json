@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T13:17:15",
+  "updatedAt": "2026-11-09T13:21:32",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Sweet Emotion",
-    "album": "Toys in the Attic • 1975",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Joga",
+    "album": "Homogenic • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:21 pm",
-      "artist": "Bjork",
-      "title": "Joga"
-    },
     {
       "time": "1:26 pm",
       "artist": "Alexandra Stan",
@@ -23,12 +18,18 @@
       "title": "Your Mistake"
     },
     {
-      "time": "1:34 pm",
+      "time": "1:33 pm",
       "artist": "The White Stripes",
       "title": "Death Letter"
     }
   ],
   "recent": [
+    {
+      "time": "1:21 pm",
+      "artist": "Bjork",
+      "title": "Joga",
+      "album": "Homogenic • 1997"
+    },
     {
       "time": "1:17 pm",
       "artist": "Aerosmith",
@@ -172,12 +173,6 @@
       "artist": "The Beatles",
       "title": "I've Just Seen A Face",
       "album": "Help! • 1965"
-    },
-    {
-      "time": "11:50 am",
-      "artist": "The Shins",
-      "title": "So Says I",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
