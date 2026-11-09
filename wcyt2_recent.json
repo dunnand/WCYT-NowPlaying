@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T08:49:30",
+  "updatedAt": "2026-11-09T08:53:34",
   "now": {
-    "artist": "Steely Dan",
-    "title": "Do It Again",
-    "album": "Cant Buy a Thrill • 1973",
+    "artist": "Enigma",
+    "title": "Return To Innocence",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:53 am",
-      "artist": "Enigma",
-      "title": "Return To Innocence"
-    },
     {
       "time": "8:57 am",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "9:04 am",
       "artist": "The Beatles",
       "title": "I'll Be Back"
+    },
+    {
+      "time": "9:06 am",
+      "artist": "Thom Yorke",
+      "title": "Dawn Chorus"
     }
   ],
   "recent": [
+    {
+      "time": "8:53 am",
+      "artist": "Enigma",
+      "title": "Return To Innocence",
+      "album": ""
+    },
     {
       "time": "8:49 am",
       "artist": "Steely Dan",
@@ -172,12 +178,6 @@
       "artist": "A Tribe Called Quest",
       "title": "I Left My Wallet in El Segundo",
       "album": ""
-    },
-    {
-      "time": "7:20 am",
-      "artist": "A Tribe Called Quest",
-      "title": "Award Tour",
-      "album": "Midnight Marauders • 1993"
     }
   ]
 }
