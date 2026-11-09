@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T00:28:36",
+  "updatedAt": "2026-11-09T00:30:31",
   "now": {
-    "artist": "Beat Happening",
-    "title": "I Love You",
-    "album": "Beat Happening • 1985",
+    "artist": "HAIM",
+    "title": "The Wire",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 am",
-      "artist": "HAIM",
-      "title": "The Wire"
-    },
     {
       "time": "12:34 am",
       "artist": "Joy Division",
@@ -21,9 +16,20 @@
       "time": "12:38 am",
       "artist": "The Beatles",
       "title": "For No One"
+    },
+    {
+      "time": "12:40 am",
+      "artist": "Kenny Rogers",
+      "title": "You Decorated My Life"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 am",
+      "artist": "HAIM",
+      "title": "The Wire",
+      "album": ""
+    },
     {
       "time": "12:28 am",
       "artist": "Beat Happening",
@@ -167,12 +173,6 @@
       "artist": "Dave Matthews Band",
       "title": "Ants Marching",
       "album": "Under The Table And Dreaming • 1995"
-    },
-    {
-      "time": "9:18 pm",
-      "artist": "James Taylor",
-      "title": "Fire And Rain",
-      "album": "Sweet Baby James • 1970"
     }
   ]
 }
