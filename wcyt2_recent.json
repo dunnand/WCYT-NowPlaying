@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T14:03:11",
+  "updatedAt": "2026-11-09T14:03:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Dave Loggins",
+    "title": "Please Come To Boston",
+    "album": "Apprentice • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:03 pm",
-      "artist": "Dave Loggins",
-      "title": "Please Come To Boston"
-    },
     {
       "time": "2:07 pm",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "2:15 pm",
       "artist": "The Beatles",
       "title": "Lovely Rita"
+    },
+    {
+      "time": "2:17 pm",
+      "artist": "Rolling Stones",
+      "title": "You Can't Always Get What You Want"
     }
   ],
   "recent": [
+    {
+      "time": "2:03 pm",
+      "artist": "Dave Loggins",
+      "title": "Please Come To Boston",
+      "album": "Apprentice • 1974"
+    },
     {
       "time": "1:59 pm",
       "artist": "BTS",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "If I Needed Someone",
       "album": "Rubber Soul • 1965"
-    },
-    {
-      "time": "12:26 pm",
-      "artist": "The White Stripes",
-      "title": "Fell in Love With a Girl",
-      "album": "White Blood Cells • 2001"
     }
   ]
 }
