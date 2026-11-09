@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T20:00:20",
+  "updatedAt": "2026-11-08T20:00:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bauhaus",
+    "title": "The Passion of Lovers",
+    "album": "Mask • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:00 pm",
-      "artist": "Bauhaus",
-      "title": "The Passion of Lovers"
-    },
     {
       "time": "8:04 pm",
       "artist": "Bauhaus",
@@ -26,9 +21,20 @@
       "time": "8:12 pm",
       "artist": "Bob Dylan",
       "title": "Forever Young"
+    },
+    {
+      "time": "8:17 pm",
+      "artist": "Queen",
+      "title": "Fat Bottomed Girls"
     }
   ],
   "recent": [
+    {
+      "time": "8:00 pm",
+      "artist": "Bauhaus",
+      "title": "The Passion of Lovers",
+      "album": "Mask • 1981"
+    },
     {
       "time": "7:57 pm",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "Karmin",
       "title": "Broken Hearted",
       "album": "Hello • 2012"
-    },
-    {
-      "time": "6:28 pm",
-      "artist": "Train",
-      "title": "Hey Soul Sister",
-      "album": "Save Me, San Francisco • 2009"
     }
   ]
 }
