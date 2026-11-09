@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-11-09T01:46:37",
+  "updatedAt": "2026-11-09T01:46:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Good Morning Good Morning",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:46 am",
+      "time": "1:49 am",
+      "artist": "Train",
+      "title": "Calling All Angels"
+    },
+    {
+      "time": "1:53 am",
       "artist": "The Beatles",
       "title": "Good Morning Good Morning"
     },
     {
-      "time": "1:49 am",
+      "time": "1:55 am",
       "artist": "Taylor Swift",
       "title": "Bad Blood"
-    },
-    {
-      "time": "1:53 am",
-      "artist": "Modest Mouse",
-      "title": "Heart Cooks Brain"
-    },
-    {
-      "time": "1:57 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "You've Passed"
     }
   ],
   "recent": [
+    {
+      "time": "1:46 am",
+      "artist": "The Beatles",
+      "title": "Good Morning Good Morning",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "1:43 am",
       "artist": "Train",
@@ -172,12 +173,6 @@
       "artist": "HAIM",
       "title": "The Wire",
       "album": ""
-    },
-    {
-      "time": "12:28 am",
-      "artist": "Beat Happening",
-      "title": "I Love You",
-      "album": "Beat Happening • 1985"
     }
   ]
 }
