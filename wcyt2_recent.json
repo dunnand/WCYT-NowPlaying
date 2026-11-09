@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T00:40:08",
+  "updatedAt": "2026-11-09T00:40:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kenny Rogers",
+    "title": "You Decorated My Life",
+    "album": "Kenny • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 am",
-      "artist": "Kenny Rogers",
-      "title": "You Decorated My Life"
-    },
     {
       "time": "12:43 am",
       "artist": "The Beatles",
@@ -31,9 +26,20 @@
       "time": "12:53 am",
       "artist": "Paul Anka",
       "title": "Put Your Head On My Shoulder"
+    },
+    {
+      "time": "12:56 am",
+      "artist": "System of a Down",
+      "title": "Lonely Day"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "Kenny Rogers",
+      "title": "You Decorated My Life",
+      "album": "Kenny • 1979"
+    },
     {
       "time": "12:38 am",
       "artist": "The Beatles",
@@ -177,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Every Little Thing",
       "album": "Beatles for Sale • 1964"
-    },
-    {
-      "time": "9:28 pm",
-      "artist": "R.E.M.",
-      "title": "Aftermath",
-      "album": "Reckoning • 2004"
     }
   ]
 }
