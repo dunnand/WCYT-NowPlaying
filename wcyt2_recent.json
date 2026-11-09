@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T04:26:41",
+  "updatedAt": "2026-11-09T04:27:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Hold Me Tight",
+    "album": "With the Beatles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:27 am",
-      "artist": "The Beatles",
-      "title": "Hold Me Tight"
-    },
     {
       "time": "4:29 am",
       "artist": "Slowdive",
@@ -26,9 +21,20 @@
       "time": "4:36 am",
       "artist": "Soundgarden",
       "title": "Spoonman"
+    },
+    {
+      "time": "4:40 am",
+      "artist": "Bob Dylan",
+      "title": "I'll Keep It With Mine"
     }
   ],
   "recent": [
+    {
+      "time": "4:27 am",
+      "artist": "The Beatles",
+      "title": "Hold Me Tight",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "4:22 am",
       "artist": "Bat for Lashes",
@@ -172,12 +178,6 @@
       "artist": "Olivia Rodrigo",
       "title": "drop dead",
       "album": ""
-    },
-    {
-      "time": "2:54 am",
-      "artist": "Black Flag",
-      "title": "My War",
-      "album": "My War • 1984"
     }
   ]
 }
