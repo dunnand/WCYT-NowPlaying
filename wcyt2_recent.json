@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T06:16:43",
+  "updatedAt": "2026-11-09T06:19:36",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Don't",
-    "album": "single • 1958",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Cherry Chapstick",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:19 am",
-      "artist": "Yo La Tengo",
-      "title": "Cherry Chapstick"
-    },
     {
       "time": "6:24 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "6:26 am",
       "artist": "Taylor Swift",
       "title": "Back To Decemeber"
+    },
+    {
+      "time": "6:31 am",
+      "artist": "Portishead",
+      "title": "Sour Times"
     }
   ],
   "recent": [
+    {
+      "time": "6:19 am",
+      "artist": "Yo La Tengo",
+      "title": "Cherry Chapstick",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "6:16 am",
       "artist": "Elvis Presley",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Jokerman",
       "album": "Infidels • 1983"
-    },
-    {
-      "time": "4:40 am",
-      "artist": "Bob Dylan",
-      "title": "I'll Keep It With Mine",
-      "album": "Biograph • 1985"
     }
   ]
 }
