@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-11-09T01:46:58",
+  "updatedAt": "2026-11-09T01:49:25",
   "now": {
-    "artist": "The Beatles",
-    "title": "Good Morning Good Morning",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Taylor Swift",
+    "title": "Bad Blood",
+    "album": "1989 • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "1:49 am",
-      "artist": "Train",
-      "title": "Calling All Angels"
-    },
-    {
       "time": "1:53 am",
-      "artist": "The Beatles",
-      "title": "Good Morning Good Morning"
+      "artist": "Modest Mouse",
+      "title": "Heart Cooks Brain"
     },
     {
-      "time": "1:55 am",
-      "artist": "Taylor Swift",
-      "title": "Bad Blood"
+      "time": "1:57 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "You've Passed"
+    },
+    {
+      "time": "2:00 am",
+      "artist": "Beat Happening",
+      "title": "What's Important"
     }
   ],
   "recent": [
+    {
+      "time": "1:49 am",
+      "artist": "Taylor Swift",
+      "title": "Bad Blood",
+      "album": "1989 • 2014"
+    },
     {
       "time": "1:46 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Joy Division",
       "title": "Transmission",
       "album": "Single • 1979"
-    },
-    {
-      "time": "12:30 am",
-      "artist": "HAIM",
-      "title": "The Wire",
-      "album": ""
     }
   ]
 }
