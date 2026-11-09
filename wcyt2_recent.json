@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T07:15:23",
+  "updatedAt": "2026-11-09T07:17:08",
   "now": {
-    "artist": "The Beatles",
-    "title": "I Wanna Be Your Man",
-    "album": "With the Beatles • 1963",
+    "artist": "Taylor Swift",
+    "title": "Lover",
+    "album": "Lover • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:17 am",
-      "artist": "Taylor Swift",
-      "title": "Lover"
-    },
     {
       "time": "7:20 am",
       "artist": "A Tribe Called Quest",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:17 am",
+      "artist": "Taylor Swift",
+      "title": "Lover",
+      "album": "Lover • 2019"
+    },
     {
       "time": "7:15 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Spoon",
       "title": "All the Pretty Girls Go to the City",
       "album": "Kill The Moonlight • 2002"
-    },
-    {
-      "time": "5:48 am",
-      "artist": "Olivia Rodrigo",
-      "title": "Can’t Catch Me Now",
-      "album": ""
     }
   ]
 }
