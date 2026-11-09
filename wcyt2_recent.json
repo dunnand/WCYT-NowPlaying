@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-08T20:12:43",
+  "updatedAt": "2026-11-08T20:17:29",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Forever Young",
-    "album": "Planet Waves • 1974",
+    "artist": "Queen",
+    "title": "Fat Bottomed Girls",
+    "album": "Jazz • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:17 pm",
-      "artist": "Queen",
-      "title": "Fat Bottomed Girls"
-    },
     {
       "time": "8:21 pm",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "8:26 pm",
       "artist": "ABBA",
       "title": "Mamma Mia"
+    },
+    {
+      "time": "8:29 pm",
+      "artist": "Sixpence None The Richer",
+      "title": "Kiss Me"
     }
   ],
   "recent": [
+    {
+      "time": "8:17 pm",
+      "artist": "Queen",
+      "title": "Fat Bottomed Girls",
+      "album": "Jazz • 1978"
+    },
     {
       "time": "8:12 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Sun Kil Moon",
       "title": "Carry Me Ohio",
       "album": "Ghosts of the Great Highway • 2003"
-    },
-    {
-      "time": "6:40 pm",
-      "artist": "Archie Bleyer",
-      "title": "Hernando's Hideaway",
-      "album": "single • 1954"
     }
   ]
 }
