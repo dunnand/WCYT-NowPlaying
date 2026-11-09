@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T08:30:57",
+  "updatedAt": "2026-11-09T08:34:24",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "I Just Might",
-    "album": "",
+    "artist": "Rammstein",
+    "title": "Sonne",
+    "album": "Mutter • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:34 am",
-      "artist": "Rammstein",
-      "title": "Sonne"
-    },
     {
       "time": "8:38 am",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "8:46 am",
       "artist": "Vampire Weekend",
       "title": "Unbelievers"
+    },
+    {
+      "time": "8:49 am",
+      "artist": "Steely Dan",
+      "title": "Do It Again"
     }
   ],
   "recent": [
+    {
+      "time": "8:34 am",
+      "artist": "Rammstein",
+      "title": "Sonne",
+      "album": "Mutter • 2001"
+    },
     {
       "time": "8:30 am",
       "artist": "Bruno Mars",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "Tell All the World About You",
       "album": "single • 1958"
-    },
-    {
-      "time": "7:06 am",
-      "artist": "Sophie B. Hawkins",
-      "title": "As I Lay Me Down",
-      "album": "Whaler • 1995"
     }
   ]
 }
