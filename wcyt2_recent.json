@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-09T10:16:13",
+  "updatedAt": "2026-11-09T10:20:10",
   "now": {
     "artist": "Bruce Springsteen",
-    "title": "Mansion on the Hill",
+    "title": "Nebraska",
     "album": "Nebraska • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 am",
-      "artist": "Bruce Springsteen",
-      "title": "Nebraska"
-    },
     {
       "time": "10:24 am",
       "artist": "Harry Styles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:20 am",
+      "artist": "Bruce Springsteen",
+      "title": "Nebraska",
+      "album": "Nebraska • 1982"
+    },
     {
       "time": "10:16 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +173,6 @@
       "artist": "Vampire Weekend",
       "title": "Unbelievers",
       "album": "Modern Vampires Of The City • 2013"
-    },
-    {
-      "time": "8:42 am",
-      "artist": "Rihanna",
-      "title": "Pon de Replay",
-      "album": "Music of the Sun • 2005"
     }
   ]
 }
