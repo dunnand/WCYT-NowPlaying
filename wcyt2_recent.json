@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T01:57:47",
+  "updatedAt": "2026-11-10T01:59:43",
   "now": {
-    "artist": "The Beatles",
-    "title": "Sgt. Pepper's Lonely Hearts Club Band",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Bee Gees",
+    "title": "Stayin' Alive",
+    "album": "Saturday Night Fever • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:59 am",
-      "artist": "Bee Gees",
-      "title": "Stayin' Alive"
-    },
     {
       "time": "2:04 am",
       "artist": "Q Lazzarus",
@@ -26,9 +21,20 @@
       "time": "2:10 am",
       "artist": "Spoon",
       "title": "Stay Don't Go"
+    },
+    {
+      "time": "2:13 am",
+      "artist": "The Beatles",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)"
     }
   ],
   "recent": [
+    {
+      "time": "1:59 am",
+      "artist": "Bee Gees",
+      "title": "Stayin' Alive",
+      "album": "Saturday Night Fever • 1978"
+    },
     {
       "time": "1:57 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Tina Turner",
       "title": "I Don't Wanna Fight",
       "album": "What's Love Got to Do with It • 1993"
-    },
-    {
-      "time": "12:12 am",
-      "artist": "Charles Bradley",
-      "title": "Heartaches and Pain",
-      "album": "No Time For Dreaming • 2011"
     }
   ]
 }
