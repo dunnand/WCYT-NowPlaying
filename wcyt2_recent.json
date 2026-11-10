@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T03:44:00",
+  "updatedAt": "2026-11-10T03:46:44",
   "now": {
-    "artist": "The Who",
-    "title": "Squeeze Box",
-    "album": "The Who By Numbers • 1975",
+    "artist": "Chicago",
+    "title": "25 Or 6 To 4",
+    "album": "Chicago • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 am",
-      "artist": "Chicago",
-      "title": "25 Or 6 To 4"
-    },
     {
       "time": "3:49 am",
       "artist": "The Dandy Warhols",
@@ -26,9 +21,20 @@
       "time": "3:55 am",
       "artist": "Elvis Presley",
       "title": "Burning Love"
+    },
+    {
+      "time": "3:58 am",
+      "artist": "Seatbelts",
+      "title": "Tank!"
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "Chicago",
+      "title": "25 Or 6 To 4",
+      "album": "Chicago • 1970"
+    },
     {
       "time": "3:44 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Stay Don't Go",
       "album": "Kill The Moonlight • 2002"
-    },
-    {
-      "time": "2:07 am",
-      "artist": "Mickey & Sylvia",
-      "title": "Love Is Strange",
-      "album": "Single • 1956"
     }
   ]
 }
