@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T03:52:57",
+  "updatedAt": "2026-11-10T03:55:20",
   "now": {
-    "artist": "The Beatles",
-    "title": "She Said She Said",
-    "album": "Revolver • 1966",
+    "artist": "Elvis Presley",
+    "title": "Burning Love",
+    "album": "single • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:55 am",
-      "artist": "Elvis Presley",
-      "title": "Burning Love"
-    },
     {
       "time": "3:58 am",
       "artist": "Seatbelts",
@@ -26,9 +21,20 @@
       "time": "4:03 am",
       "artist": "U2",
       "title": "All Because Of You"
+    },
+    {
+      "time": "4:07 am",
+      "artist": "The Beatles",
+      "title": "Slow Down"
     }
   ],
   "recent": [
+    {
+      "time": "3:55 am",
+      "artist": "Elvis Presley",
+      "title": "Burning Love",
+      "album": "single • 1972"
+    },
     {
       "time": "3:52 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Bled White",
       "album": "XO • 1998"
-    },
-    {
-      "time": "2:15 am",
-      "artist": "Charles Bradley",
-      "title": "Victim Of Loving",
-      "album": "Victim of Love • 2013"
     }
   ]
 }
