@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T05:51:30",
+  "updatedAt": "2026-11-10T05:53:53",
   "now": {
-    "artist": "The Beatles",
-    "title": "Taxman",
-    "album": "Revolver • 1966",
+    "artist": "Coldplay",
+    "title": "Paradise",
+    "album": "Mylo Xyloto • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 am",
-      "artist": "Coldplay",
-      "title": "Paradise"
-    },
     {
       "time": "5:58 am",
       "artist": "Tom Cochrane",
@@ -21,9 +16,20 @@
       "time": "6:02 am",
       "artist": "Shanice",
       "title": "I Love Your Smile"
+    },
+    {
+      "time": "6:06 am",
+      "artist": "Depeche Mode",
+      "title": "Blasphemous Rumours"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 am",
+      "artist": "Coldplay",
+      "title": "Paradise",
+      "album": "Mylo Xyloto • 2011"
+    },
     {
       "time": "5:51 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The Roots",
       "title": "Don't Feel Right",
       "album": "Game Theory • 2006"
-    },
-    {
-      "time": "4:30 am",
-      "artist": "Run The Jewels",
-      "title": "walking in the snow",
-      "album": "RTJ4 • 2020"
     }
   ]
 }
