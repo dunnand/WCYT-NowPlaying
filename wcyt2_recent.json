@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T11:15:36",
+  "updatedAt": "2026-11-10T11:15:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Jam",
+    "title": "In the City",
+    "album": "In the City • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:15 am",
-      "artist": "The Jam",
-      "title": "In the City"
-    },
     {
       "time": "11:17 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "11:22 am",
       "artist": "The Beatles",
       "title": "When I'm Sixty-Four"
+    },
+    {
+      "time": "11:25 am",
+      "artist": "Frank Sinatra",
+      "title": "My Way"
     }
   ],
   "recent": [
+    {
+      "time": "11:15 am",
+      "artist": "The Jam",
+      "title": "In the City",
+      "album": "In the City • 1977"
+    },
     {
       "time": "11:12 am",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Maybelene",
       "album": "After School Session • 1957"
-    },
-    {
-      "time": "9:36 am",
-      "artist": "Bjork",
-      "title": "It's Oh So Quiet",
-      "album": "Post • 1995"
     }
   ]
 }
