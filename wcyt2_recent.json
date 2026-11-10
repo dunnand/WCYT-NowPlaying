@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T01:48:26",
+  "updatedAt": "2026-11-10T01:51:19",
   "now": {
-    "artist": "The Beatles",
-    "title": "Savoy Truffle",
-    "album": "The Beatles • 1968",
+    "artist": "Eagles",
+    "title": "Lyin' Eyes",
+    "album": "One of These Nights • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:51 am",
-      "artist": "Eagles",
-      "title": "Lyin' Eyes"
-    },
     {
       "time": "1:57 am",
       "artist": "The Beatles",
@@ -26,9 +21,25 @@
       "time": "2:04 am",
       "artist": "Q Lazzarus",
       "title": "Goodbye Horses"
+    },
+    {
+      "time": "2:07 am",
+      "artist": "Mickey & Sylvia",
+      "title": "Love Is Strange"
+    },
+    {
+      "time": "2:10 am",
+      "artist": "Spoon",
+      "title": "Stay Don't Go"
     }
   ],
   "recent": [
+    {
+      "time": "1:51 am",
+      "artist": "Eagles",
+      "title": "Lyin' Eyes",
+      "album": "One of These Nights • 1975"
+    },
     {
       "time": "1:48 am",
       "artist": "The Beatles",
@@ -172,12 +183,6 @@
       "artist": "The Beatles",
       "title": "Rocky Racoon",
       "album": "The Beatles • 1968"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "The Mars Volta",
-      "title": "Inertiatic ESP",
-      "album": "De-Loused in the Comatorium • 2003"
     }
   ]
 }
