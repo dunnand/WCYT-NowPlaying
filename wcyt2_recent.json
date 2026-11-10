@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T05:51:18",
+  "updatedAt": "2026-11-10T05:51:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Taxman",
+    "album": "Revolver • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:51 am",
-      "artist": "The Beatles",
-      "title": "Taxman"
-    },
     {
       "time": "5:53 am",
       "artist": "Coldplay",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:51 am",
+      "artist": "The Beatles",
+      "title": "Taxman",
+      "album": "Revolver • 1966"
+    },
     {
       "time": "5:49 am",
       "artist": "The White Stripes",
@@ -172,12 +173,6 @@
       "artist": "Run The Jewels",
       "title": "walking in the snow",
       "album": "RTJ4 • 2020"
-    },
-    {
-      "time": "4:25 am",
-      "artist": "De La Soul",
-      "title": "Say No Go",
-      "album": "3 Feet High and Rising • 1989"
     }
   ]
 }
