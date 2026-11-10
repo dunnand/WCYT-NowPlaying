@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T09:30:33",
+  "updatedAt": "2026-11-10T09:32:36",
   "now": {
-    "artist": "The Beatles",
-    "title": "Wait",
-    "album": "Rubber Soul • 1965",
+    "artist": "The Temptations",
+    "title": "Just My Imagination (Running Away With Me)",
+    "album": "Sky's the Limit • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:32 am",
-      "artist": "The Temptations",
-      "title": "Just My Imagination (Running Away With Me)"
-    },
     {
       "time": "9:36 am",
       "artist": "Bjork",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:32 am",
+      "artist": "The Temptations",
+      "title": "Just My Imagination (Running Away With Me)",
+      "album": "Sky's the Limit • 1971"
+    },
     {
       "time": "9:30 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Yo La Tengo",
       "title": "Did I Tell You",
       "album": "Fakebook • 1990"
-    },
-    {
-      "time": "7:51 am",
-      "artist": "Daft Punk",
-      "title": "Doin' It Right (feat. Panda Bear)",
-      "album": "Random Access Memories • 2013"
     }
   ]
 }
