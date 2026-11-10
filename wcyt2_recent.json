@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T12:08:31",
+  "updatedAt": "2026-11-10T12:15:17",
   "now": {
-    "artist": "Love",
-    "title": "You Set the Scene",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "While My Guitar Gently Weeps",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 pm",
-      "artist": "The Beatles",
-      "title": "While My Guitar Gently Weeps"
-    },
     {
       "time": "12:20 pm",
       "artist": "Van Morrison",
@@ -26,9 +21,20 @@
       "time": "12:29 pm",
       "artist": "Jefferson Starship",
       "title": "Jane"
+    },
+    {
+      "time": "12:33 pm",
+      "artist": "Janet Jackson",
+      "title": "Together Again"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 pm",
+      "artist": "The Beatles",
+      "title": "While My Guitar Gently Weeps",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:08 pm",
       "artist": "Love",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Campus",
       "album": "Vampire Weekend • 2008"
-    },
-    {
-      "time": "10:42 am",
-      "artist": "David Bowie",
-      "title": "I Can't Give Everything Away",
-      "album": "Blackstar • 2016"
     }
   ]
 }
