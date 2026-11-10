@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T09:58:28",
+  "updatedAt": "2026-11-10T10:02:22",
   "now": {
-    "artist": "Superchunk",
-    "title": "Hello Hawk",
-    "album": "Come Pick Me Up • 1999",
-    "category": "TUNES"
+    "artist": "U2",
+    "title": "Mysterious Ways",
+    "album": "Achtung Baby • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:02 am",
-      "artist": "U2",
-      "title": "Mysterious Ways"
-    },
     {
       "time": "10:06 am",
       "artist": "DEVO",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:02 am",
+      "artist": "U2",
+      "title": "Mysterious Ways",
+      "album": "Achtung Baby • 1991"
+    },
     {
       "time": "9:58 am",
       "artist": "Superchunk",
@@ -172,12 +173,6 @@
       "artist": "The Exploding Hearts",
       "title": "Modern Kicks",
       "album": "Guitar Romantic • 2003"
-    },
-    {
-      "time": "8:26 am",
-      "artist": "Sly and the Family Stone",
-      "title": "Spaced Cowboy",
-      "album": "There's a Riot Going On • 1971"
     }
   ]
 }
