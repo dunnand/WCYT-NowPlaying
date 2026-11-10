@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T00:23:38",
+  "updatedAt": "2026-11-10T00:24:00",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Fashion",
+    "album": "Scary Monsters • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:23 am",
-      "artist": "David Bowie",
-      "title": "Fashion"
-    },
     {
       "time": "12:28 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "12:40 am",
       "artist": "Bellamy Brothers",
       "title": "Let Your Love Flow"
+    },
+    {
+      "time": "12:43 am",
+      "artist": "Ace",
+      "title": "How Long"
     }
   ],
   "recent": [
+    {
+      "time": "12:24 am",
+      "artist": "David Bowie",
+      "title": "Fashion",
+      "album": "Scary Monsters • 1980"
+    },
     {
       "time": "12:19 am",
       "artist": "R.E.M.",
@@ -172,12 +178,6 @@
       "artist": "Superchunk",
       "title": "Detroit Has a Skyline",
       "album": "Here's Where the Strings Come In • 1995"
-    },
-    {
-      "time": "1:44 pm",
-      "artist": "Stone Temple Pilots",
-      "title": "Interstate Love Song",
-      "album": "Purple • 1994"
     }
   ]
 }
