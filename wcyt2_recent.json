@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T05:05:10",
+  "updatedAt": "2026-11-10T05:09:34",
   "now": {
-    "artist": "Coldplay",
-    "title": "A Sky Full of Stars",
-    "album": "Ghost Stories • 2014",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Ballad of Big Nothing",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:09 am",
-      "artist": "Elliott Smith",
-      "title": "Ballad of Big Nothing"
-    },
     {
       "time": "5:12 am",
       "artist": "The Magnetic Fields",
@@ -21,9 +16,25 @@
       "time": "5:15 am",
       "artist": "De La Soul",
       "title": "The Magic Number"
+    },
+    {
+      "time": "5:18 am",
+      "artist": "Depeche Mode",
+      "title": "Behind the Wheel"
+    },
+    {
+      "time": "5:24 am",
+      "artist": "Asuka Ito, Daisuke Matsuoka",
+      "title": "Staff Credits ~From 'Tomodachi Life'~"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 am",
+      "artist": "Elliott Smith",
+      "title": "Ballad of Big Nothing",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "5:05 am",
       "artist": "Coldplay",
@@ -167,12 +178,6 @@
       "artist": "Chicago",
       "title": "25 Or 6 To 4",
       "album": "Chicago • 1970"
-    },
-    {
-      "time": "3:44 am",
-      "artist": "The Who",
-      "title": "Squeeze Box",
-      "album": "The Who By Numbers • 1975"
     }
   ]
 }
