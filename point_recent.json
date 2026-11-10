@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T03:55:30",
+  "updatedAt": "2026-11-10T03:59:16",
   "now": {
-    "artist": "Superchunk",
-    "title": "Hello Hawk",
-    "album": "Come Pick Me Up • 1999",
+    "artist": "Esther Rose",
+    "title": "New Bad",
+    "album": "Want • 2025",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "Esther Rose",
-      "title": "New Bad"
-    },
     {
       "time": "4:03 am",
       "artist": "Christine and the Queens",
@@ -26,9 +21,20 @@
       "time": "4:11 am",
       "artist": "Built to Spill",
       "title": "In Your Mind"
+    },
+    {
+      "time": "4:15 am",
+      "artist": "Ratboys",
+      "title": "Anywhere"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 am",
+      "artist": "Esther Rose",
+      "title": "New Bad",
+      "album": "Want • 2025"
+    },
     {
       "time": "3:55 am",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "Angel Olsen",
       "title": "Fly On Your Wall",
       "album": "Our First 100 Days • 2017"
-    },
-    {
-      "time": "2:25 am",
-      "artist": "Queens of the Stone Age",
-      "title": "Run Away From the Mob",
-      "album": "Perfecth • 2026"
     }
   ]
 }
