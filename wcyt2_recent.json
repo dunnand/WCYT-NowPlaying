@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T00:08:44",
+  "updatedAt": "2026-11-10T00:09:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Rocky Racoon",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:09 am",
-      "artist": "The Beatles",
-      "title": "Rocky Racoon"
-    },
     {
       "time": "12:12 am",
       "artist": "Charles Bradley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:09 am",
+      "artist": "The Beatles",
+      "title": "Rocky Racoon",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "12:04 am",
       "artist": "The Mars Volta",
@@ -172,12 +173,6 @@
       "artist": "Sister Hazel",
       "title": "Your Mistake",
       "album": "single • 2002"
-    },
-    {
-      "time": "1:26 pm",
-      "artist": "Alexandra Stan",
-      "title": "Mr. Saxobeat",
-      "album": "Saxobeats • 2011"
     }
   ]
 }
