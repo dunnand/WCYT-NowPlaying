@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T11:20:12",
+  "updatedAt": "2026-11-10T11:22:33",
   "now": {
-    "artist": "The Jam",
-    "title": "All Around The World",
-    "album": "single • 1977",
+    "artist": "The Beatles",
+    "title": "When I'm Sixty-Four",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:22 am",
-      "artist": "The Beatles",
-      "title": "When I'm Sixty-Four"
-    },
     {
       "time": "11:25 am",
       "artist": "Frank Sinatra",
@@ -26,9 +21,20 @@
       "time": "11:33 am",
       "artist": "David Bowie",
       "title": "The Stars (Are Out Tonight)"
+    },
+    {
+      "time": "11:37 am",
+      "artist": "Songs Ohia",
+      "title": "Lioness"
     }
   ],
   "recent": [
+    {
+      "time": "11:22 am",
+      "artist": "The Beatles",
+      "title": "When I'm Sixty-Four",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "11:20 am",
       "artist": "The Jam",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Blackstar",
       "album": "Blackstar • 2016"
-    },
-    {
-      "time": "9:45 am",
-      "artist": "The Beatles",
-      "title": "What Goes On",
-      "album": "single • 1965"
     }
   ]
 }
