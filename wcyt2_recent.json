@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T00:49:40",
+  "updatedAt": "2026-11-10T00:52:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "Roll Over Beethoven",
-    "album": "With the Beatles • 1963",
+    "artist": "Don Cherry",
+    "title": "Brown Rice",
+    "album": "Don Cherry • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:52 am",
-      "artist": "Don Cherry",
-      "title": "Brown Rice"
-    },
     {
       "time": "12:57 am",
       "artist": "The Magnetic Fields",
@@ -26,9 +21,20 @@
       "time": "1:06 am",
       "artist": "Yeasayer",
       "title": "2080"
+    },
+    {
+      "time": "1:11 am",
+      "artist": "Songs Ohia",
+      "title": "Blue Chicago Moon"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 am",
+      "artist": "Don Cherry",
+      "title": "Brown Rice",
+      "album": "Don Cherry • 1975"
+    },
     {
       "time": "12:49 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Lovely Rita",
       "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
-    },
-    {
-      "time": "2:09 pm",
-      "artist": "Rod Stewart",
-      "title": "Hot Legs",
-      "album": "Foot Loose & Fancy Free • 1978"
     }
   ]
 }
