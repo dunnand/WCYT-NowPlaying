@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T07:04:13",
+  "updatedAt": "2026-11-10T07:04:35",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Spoon",
+    "title": "My Mathematical Mind",
+    "album": "Gimme Fiction • 2005",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:04 am",
-      "artist": "Spoon",
-      "title": "My Mathematical Mind"
-    },
     {
       "time": "7:09 am",
       "artist": "Bush Tetras",
@@ -31,9 +26,20 @@
       "time": "7:18 am",
       "artist": "Freak Slug",
       "title": "Muse"
+    },
+    {
+      "time": "7:21 am",
+      "artist": "Queens of the Stone Age",
+      "title": "Insignificant Other"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 am",
+      "artist": "Spoon",
+      "title": "My Mathematical Mind",
+      "album": "Gimme Fiction • 2005"
+    },
     {
       "time": "7:00 am",
       "artist": "Vampire Weekend",
@@ -177,12 +183,6 @@
       "artist": "Fontaines D.C.",
       "title": "Japan",
       "album": "Dopamine Chamber • 2026"
-    },
-    {
-      "time": "5:25 am",
-      "artist": "Death Cab for Cutie",
-      "title": "Riptides",
-      "album": "I Built You A Tower • 2026"
     }
   ]
 }
