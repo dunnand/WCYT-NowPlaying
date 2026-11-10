@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T08:15:38",
+  "updatedAt": "2026-11-10T08:15:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Diana Ross",
+    "title": "Love Hangover",
+    "album": "Diana Ross • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 am",
-      "artist": "Diana Ross",
-      "title": "Love Hangover"
-    },
     {
       "time": "8:26 am",
       "artist": "Sly and the Family Stone",
@@ -26,9 +21,20 @@
       "time": "8:33 am",
       "artist": "The Beatles",
       "title": "This Boy"
+    },
+    {
+      "time": "8:35 am",
+      "artist": "Sly and the Family Stone",
+      "title": "Thank You (Falettinme Be Mice Elf Agin)"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Diana Ross",
+      "title": "Love Hangover",
+      "album": "Diana Ross • 1976"
+    },
     {
       "time": "8:11 am",
       "artist": "Koji Kondo",
@@ -172,12 +178,6 @@
       "artist": "Billie Holiday",
       "title": "I'll Be Seeing You",
       "album": "Billie Holiday • 1957"
-    },
-    {
-      "time": "6:41 am",
-      "artist": "The Flaming Lips",
-      "title": "Turn it On",
-      "album": "Transmissions From The Satellite Heart • 1993"
     }
   ]
 }
