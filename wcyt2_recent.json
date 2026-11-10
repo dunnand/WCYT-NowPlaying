@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T14:34:23",
+  "updatedAt": "2026-11-10T14:34:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Rocky Racoon",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:34 pm",
-      "artist": "The Beatles",
-      "title": "Rocky Racoon"
-    },
     {
       "time": "2:38 pm",
       "artist": "Charles Bradley",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:34 pm",
+      "artist": "The Beatles",
+      "title": "Rocky Racoon",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "2:26 pm",
       "artist": "The Magnetic Fields",
@@ -172,12 +173,6 @@
       "artist": "Jefferson Starship",
       "title": "Jane",
       "album": ""
-    },
-    {
-      "time": "12:24 pm",
-      "artist": "The Beatles",
-      "title": "Within You Without You",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
     }
   ]
 }
