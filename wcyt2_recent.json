@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T05:35:31",
+  "updatedAt": "2026-11-10T05:38:37",
   "now": {
-    "artist": "System of a Down",
-    "title": "Hypnotize",
-    "album": "Hypnotize • 2005",
+    "artist": "The Beatles",
+    "title": "Sun King",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:38 am",
-      "artist": "The Beatles",
-      "title": "Sun King"
-    },
     {
       "time": "5:41 am",
       "artist": "Creedence Clearwater Revival",
@@ -26,9 +21,20 @@
       "time": "5:46 am",
       "artist": "Elvis Presley",
       "title": "Love Me"
+    },
+    {
+      "time": "5:49 am",
+      "artist": "The White Stripes",
+      "title": "You're Pretty Good Looking For A Girl"
     }
   ],
   "recent": [
+    {
+      "time": "5:38 am",
+      "artist": "The Beatles",
+      "title": "Sun King",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "5:35 am",
       "artist": "System of a Down",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "Sober",
       "album": "STN MTN / Kauai • 2014"
-    },
-    {
-      "time": "4:07 am",
-      "artist": "The Beatles",
-      "title": "Slow Down",
-      "album": "Long Tall Sally • 1964"
     }
   ]
 }
