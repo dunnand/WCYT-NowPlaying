@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T09:25:25",
+  "updatedAt": "2026-11-10T09:25:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "U2",
+    "title": "Walk On",
+    "album": "All That You Can't Leave Behind • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 am",
-      "artist": "U2",
-      "title": "Walk On"
-    },
     {
       "time": "9:30 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "9:36 am",
       "artist": "Bjork",
       "title": "It's Oh So Quiet"
+    },
+    {
+      "time": "9:40 am",
+      "artist": "Chuck Berry",
+      "title": "Maybelene"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 am",
+      "artist": "U2",
+      "title": "Walk On",
+      "album": "All That You Can't Leave Behind • 2000"
+    },
     {
       "time": "9:22 am",
       "artist": "Sly and the Family Stone",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Things We Said Today",
       "album": "A Hard Day's Night • 1964"
-    },
-    {
-      "time": "7:46 am",
-      "artist": "The Shins",
-      "title": "Fighting in a Sack",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
