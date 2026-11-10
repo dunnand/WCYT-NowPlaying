@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T07:48:31",
+  "updatedAt": "2026-11-10T07:48:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Things We Said Today",
+    "album": "A Hard Day's Night • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:48 am",
-      "artist": "The Beatles",
-      "title": "Things We Said Today"
-    },
     {
       "time": "7:51 am",
       "artist": "Daft Punk",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:48 am",
+      "artist": "The Beatles",
+      "title": "Things We Said Today",
+      "album": "A Hard Day's Night • 1964"
+    },
     {
       "time": "7:46 am",
       "artist": "The Shins",
@@ -172,12 +173,6 @@
       "artist": "Panda Bear & Sonic Boom",
       "title": "Edge of the Edge",
       "album": "Edge of the Edge • 2022"
-    },
-    {
-      "time": "6:12 am",
-      "artist": "Depeche Mode",
-      "title": "Everything Counts",
-      "album": "Construction Time Again • 1983"
     }
   ]
 }
