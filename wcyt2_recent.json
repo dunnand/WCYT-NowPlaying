@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T03:55:20",
+  "updatedAt": "2026-11-10T03:58:13",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Burning Love",
-    "album": "single • 1972",
+    "artist": "Seatbelts",
+    "title": "Tank!",
+    "album": "Cowboy Bebop • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 am",
-      "artist": "Seatbelts",
-      "title": "Tank!"
-    },
     {
       "time": "4:01 am",
       "artist": "Buddy Holly",
@@ -26,9 +21,20 @@
       "time": "4:07 am",
       "artist": "The Beatles",
       "title": "Slow Down"
+    },
+    {
+      "time": "4:10 am",
+      "artist": "Childish Gambino",
+      "title": "Sober"
     }
   ],
   "recent": [
+    {
+      "time": "3:58 am",
+      "artist": "Seatbelts",
+      "title": "Tank!",
+      "album": "Cowboy Bebop • 1998"
+    },
     {
       "time": "3:55 am",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "The Reverend Horton Heat",
       "title": "Psychobilly Freakout",
       "album": "Smoke 'em if You Got 'em • 1990"
-    },
-    {
-      "time": "2:18 am",
-      "artist": "Elliott Smith",
-      "title": "Bled White",
-      "album": "XO • 1998"
     }
   ]
 }
