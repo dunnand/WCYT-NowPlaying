@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T09:45:25",
+  "updatedAt": "2026-11-10T09:47:58",
   "now": {
-    "artist": "The Beatles",
-    "title": "What Goes On",
-    "album": "single • 1965",
+    "artist": "David Bowie",
+    "title": "Blackstar",
+    "album": "Blackstar • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:48 am",
-      "artist": "David Bowie",
-      "title": "Blackstar"
-    },
     {
       "time": "9:58 am",
       "artist": "Superchunk",
@@ -21,9 +16,20 @@
       "time": "10:02 am",
       "artist": "U2",
       "title": "Mysterious Ways"
+    },
+    {
+      "time": "10:06 am",
+      "artist": "DEVO",
+      "title": "Freedom of Choice"
     }
   ],
   "recent": [
+    {
+      "time": "9:47 am",
+      "artist": "David Bowie",
+      "title": "Blackstar",
+      "album": "Blackstar • 2016"
+    },
     {
       "time": "9:45 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Diana Ross",
       "title": "Love Hangover",
       "album": "Diana Ross • 1976"
-    },
-    {
-      "time": "8:11 am",
-      "artist": "Koji Kondo",
-      "title": "Super Mario World (Ending)",
-      "album": "Nintendo Music •"
     }
   ]
 }
