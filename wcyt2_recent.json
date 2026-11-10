@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T12:24:28",
+  "updatedAt": "2026-11-10T12:29:31",
   "now": {
-    "artist": "The Beatles",
-    "title": "Within You Without You",
-    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
+    "artist": "Jefferson Starship",
+    "title": "Jane",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:29 pm",
-      "artist": "Jefferson Starship",
-      "title": "Jane"
-    },
     {
       "time": "12:33 pm",
       "artist": "Janet Jackson",
@@ -26,9 +21,20 @@
       "time": "12:42 pm",
       "artist": "Robert Randolph and the Family Band",
       "title": "Baptise Me"
+    },
+    {
+      "time": "12:46 pm",
+      "artist": "The Rapture",
+      "title": "House of Jealous Lovers"
     }
   ],
   "recent": [
+    {
+      "time": "12:29 pm",
+      "artist": "Jefferson Starship",
+      "title": "Jane",
+      "album": ""
+    },
     {
       "time": "12:24 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "Up in Arms",
       "album": "The Colour and the Shape • 1997"
-    },
-    {
-      "time": "10:54 am",
-      "artist": "David Bowie",
-      "title": "Lazarus",
-      "album": "Blackstar • 2016"
     }
   ]
 }
