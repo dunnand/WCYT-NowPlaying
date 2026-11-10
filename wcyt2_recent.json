@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T04:38:21",
+  "updatedAt": "2026-11-10T04:41:33",
   "now": {
-    "artist": "John Lennon",
-    "title": "Instant Karma! (We All Shine On)",
-    "album": "Instant Karma! • 1970",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Cape Cod Kwassa Kwassa",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:41 am",
-      "artist": "Vampire Weekend",
-      "title": "Cape Cod Kwassa Kwassa"
-    },
     {
       "time": "4:44 am",
       "artist": "Childish Gambino",
@@ -26,9 +21,20 @@
       "time": "4:52 am",
       "artist": "Toad The Wet Sprocket",
       "title": "All I Want"
+    },
+    {
+      "time": "4:55 am",
+      "artist": "Coasters",
+      "title": "Charlie Brown"
     }
   ],
   "recent": [
+    {
+      "time": "4:41 am",
+      "artist": "Vampire Weekend",
+      "title": "Cape Cod Kwassa Kwassa",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "4:38 am",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "She Came In Through The Bathroom Window",
       "album": "Abbey Road • 1969"
-    },
-    {
-      "time": "3:07 am",
-      "artist": "The White Stripes",
-      "title": "There's No Home for You Here",
-      "album": "Elephant • 2003"
     }
   ]
 }
