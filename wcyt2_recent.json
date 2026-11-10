@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T10:48:19",
+  "updatedAt": "2026-11-10T10:48:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "Campus",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:48 am",
-      "artist": "Vampire Weekend",
-      "title": "Campus"
-    },
     {
       "time": "10:51 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "11:00 am",
       "artist": "Foo Fighters",
       "title": "Up in Arms"
+    },
+    {
+      "time": "11:02 am",
+      "artist": "Alanis Morissette",
+      "title": "Hand In My Pocket"
     }
   ],
   "recent": [
+    {
+      "time": "10:48 am",
+      "artist": "Vampire Weekend",
+      "title": "Campus",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "10:42 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "DEVO",
       "title": "Beautiful World",
       "album": "New Traditionists • 1981"
-    },
-    {
-      "time": "9:08 am",
-      "artist": "Depeche Mode",
-      "title": "Stripped",
-      "album": "Black Celebration • 1986"
     }
   ]
 }
