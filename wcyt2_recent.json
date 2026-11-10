@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T00:47:05",
+  "updatedAt": "2026-11-10T00:49:40",
   "now": {
-    "artist": "The Unicorns",
-    "title": "I Was Born (A Unicorn)",
-    "album": "Who Will Cut Our Hair When We're Gone • 2003",
-    "category": "TUNES"
+    "artist": "The Beatles",
+    "title": "Roll Over Beethoven",
+    "album": "With the Beatles • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "The Beatles",
-      "title": "Roll Over Beethoven"
-    },
     {
       "time": "12:52 am",
       "artist": "Don Cherry",
@@ -26,9 +21,20 @@
       "time": "1:02 am",
       "artist": "Charles Bradley",
       "title": "Strictly Reserved For You"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Yeasayer",
+      "title": "2080"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "The Beatles",
+      "title": "Roll Over Beethoven",
+      "album": "With the Beatles • 1963"
+    },
     {
       "time": "12:47 am",
       "artist": "The Unicorns",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "Hot Legs",
       "album": "Foot Loose & Fancy Free • 1978"
-    },
-    {
-      "time": "2:07 pm",
-      "artist": "The Beatles",
-      "title": "Love Me Do",
-      "album": "Love Me Do • 1962"
     }
   ]
 }
