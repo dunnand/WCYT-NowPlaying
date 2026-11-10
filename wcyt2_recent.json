@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T12:20:02",
+  "updatedAt": "2026-11-10T12:24:28",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Sweet Thing",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "Within You Without You",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:24 pm",
-      "artist": "The Beatles",
-      "title": "Within You Without You"
-    },
     {
       "time": "12:29 pm",
       "artist": "Jefferson Starship",
@@ -26,9 +21,20 @@
       "time": "12:37 pm",
       "artist": "Erykah Badu",
       "title": "Window Seat"
+    },
+    {
+      "time": "12:42 pm",
+      "artist": "Robert Randolph and the Family Band",
+      "title": "Baptise Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:24 pm",
+      "artist": "The Beatles",
+      "title": "Within You Without You",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band • 1967"
+    },
     {
       "time": "12:20 pm",
       "artist": "Van Morrison",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Lazarus",
       "album": "Blackstar • 2016"
-    },
-    {
-      "time": "10:51 am",
-      "artist": "Vampire Weekend",
-      "title": "A-Punk",
-      "album": "Vampire Weekend • 2008"
     }
   ]
 }
