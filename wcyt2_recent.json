@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-10T07:55:23",
+  "updatedAt": "2026-11-10T07:55:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Did I Tell You",
+    "album": "Fakebook • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "7:55 am",
-      "artist": "Yo La Tengo",
-      "title": "Did I Tell You"
-    },
-    {
-      "time": "7:58 am",
+      "time": "7:59 am",
       "artist": "Green Day",
       "title": "Nice Guys Finish Last"
     },
@@ -26,9 +21,20 @@
       "time": "8:06 am",
       "artist": "Depeche Mode",
       "title": "Strangelove"
+    },
+    {
+      "time": "8:11 am",
+      "artist": "Koji Kondo",
+      "title": "Super Mario World (Ending)"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "Yo La Tengo",
+      "title": "Did I Tell You",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "7:51 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Creedence Clearwater Revival",
       "title": "Heard It Through The Grapevine",
       "album": "Cosmo's Factory • 1970"
-    },
-    {
-      "time": "6:20 am",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Have You Ever Seen the Rain?",
-      "album": "Pendulum • 1970"
     }
   ]
 }
