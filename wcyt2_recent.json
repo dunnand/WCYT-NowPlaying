@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T00:09:16",
+  "updatedAt": "2026-11-10T00:12:42",
   "now": {
-    "artist": "The Beatles",
-    "title": "Rocky Racoon",
-    "album": "The Beatles • 1968",
+    "artist": "Charles Bradley",
+    "title": "Heartaches and Pain",
+    "album": "No Time For Dreaming • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 am",
-      "artist": "Charles Bradley",
-      "title": "Heartaches and Pain"
-    },
     {
       "time": "12:15 am",
       "artist": "Tina Turner",
@@ -21,9 +16,20 @@
       "time": "12:19 am",
       "artist": "R.E.M.",
       "title": "Shiny Happy People"
+    },
+    {
+      "time": "12:24 am",
+      "artist": "David Bowie",
+      "title": "Fashion"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 am",
+      "artist": "Charles Bradley",
+      "title": "Heartaches and Pain",
+      "album": "No Time For Dreaming • 2011"
+    },
     {
       "time": "12:09 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The White Stripes",
       "title": "Death Letter",
       "album": "De Stijl • 2000"
-    },
-    {
-      "time": "1:29 pm",
-      "artist": "Sister Hazel",
-      "title": "Your Mistake",
-      "album": "single • 2002"
     }
   ]
 }
