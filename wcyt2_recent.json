@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T05:01:12",
+  "updatedAt": "2026-11-10T05:05:10",
   "now": {
-    "artist": "The Beatles",
-    "title": "Strawberry Fields Forever",
-    "album": "Magical Mystery Tour • 1967",
+    "artist": "Coldplay",
+    "title": "A Sky Full of Stars",
+    "album": "Ghost Stories • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 am",
-      "artist": "Coldplay",
-      "title": "A Sky Full of Stars"
-    },
     {
       "time": "5:09 am",
       "artist": "Elliott Smith",
@@ -21,9 +16,20 @@
       "time": "5:12 am",
       "artist": "The Magnetic Fields",
       "title": "All the Umbrellas in London"
+    },
+    {
+      "time": "5:15 am",
+      "artist": "De La Soul",
+      "title": "The Magic Number"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 am",
+      "artist": "Coldplay",
+      "title": "A Sky Full of Stars",
+      "album": "Ghost Stories • 2014"
+    },
     {
       "time": "5:01 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "The Who",
       "title": "Squeeze Box",
       "album": "The Who By Numbers • 1975"
-    },
-    {
-      "time": "3:33 am",
-      "artist": "Toru Minegishi, Asuka Hayazaki",
-      "title": "The Legend of Zelda: Twilight Princess (Staff Roll)",
-      "album": "Nintendo Music •"
     }
   ]
 }
