@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T03:58:13",
+  "updatedAt": "2026-11-10T04:01:39",
   "now": {
-    "artist": "Seatbelts",
-    "title": "Tank!",
-    "album": "Cowboy Bebop • 1998",
+    "artist": "Buddy Holly",
+    "title": "I'm Gonna Love You Too",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:01 am",
-      "artist": "Buddy Holly",
-      "title": "I'm Gonna Love You Too"
-    },
     {
       "time": "4:03 am",
       "artist": "U2",
@@ -26,9 +21,20 @@
       "time": "4:10 am",
       "artist": "Childish Gambino",
       "title": "Sober"
+    },
+    {
+      "time": "4:14 am",
+      "artist": "Scorpions",
+      "title": "Wind Of Change"
     }
   ],
   "recent": [
+    {
+      "time": "4:01 am",
+      "artist": "Buddy Holly",
+      "title": "I'm Gonna Love You Too",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "3:58 am",
       "artist": "Seatbelts",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Teenage Wildlife",
       "album": "Scary Monsters • 1980"
-    },
-    {
-      "time": "2:21 am",
-      "artist": "The Reverend Horton Heat",
-      "title": "Psychobilly Freakout",
-      "album": "Smoke 'em if You Got 'em • 1990"
     }
   ]
 }
