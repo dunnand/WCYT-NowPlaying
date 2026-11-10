@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T05:35:20",
+  "updatedAt": "2026-11-10T05:35:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "System of a Down",
+    "title": "Hypnotize",
+    "album": "Hypnotize • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 am",
-      "artist": "System of a Down",
-      "title": "Hypnotize"
-    },
     {
       "time": "5:38 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "5:43 am",
       "artist": "Pavement",
       "title": "Shoot The Singer (1 Sick Verse)"
+    },
+    {
+      "time": "5:46 am",
+      "artist": "Elvis Presley",
+      "title": "Love Me"
     }
   ],
   "recent": [
+    {
+      "time": "5:35 am",
+      "artist": "System of a Down",
+      "title": "Hypnotize",
+      "album": "Hypnotize • 2005"
+    },
     {
       "time": "5:32 am",
       "artist": "Creedence Clearwater Revival",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Slow Down",
       "album": "Long Tall Sally • 1964"
-    },
-    {
-      "time": "4:03 am",
-      "artist": "U2",
-      "title": "All Because Of You",
-      "album": "How to Dismantle an Atomic Bomb • 2004"
     }
   ]
 }
