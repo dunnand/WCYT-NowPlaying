@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T01:43:09",
+  "updatedAt": "2026-11-10T01:48:26",
   "now": {
-    "artist": "Elton John",
-    "title": "Levon",
-    "album": "Madman Across the Water • 1972",
+    "artist": "The Beatles",
+    "title": "Savoy Truffle",
+    "album": "The Beatles • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:48 am",
-      "artist": "The Beatles",
-      "title": "Savoy Truffle"
-    },
     {
       "time": "1:51 am",
       "artist": "Eagles",
@@ -26,9 +21,20 @@
       "time": "1:59 am",
       "artist": "Bee Gees",
       "title": "Stayin' Alive"
+    },
+    {
+      "time": "2:04 am",
+      "artist": "Q Lazzarus",
+      "title": "Goodbye Horses"
     }
   ],
   "recent": [
+    {
+      "time": "1:48 am",
+      "artist": "The Beatles",
+      "title": "Savoy Truffle",
+      "album": "The Beatles • 1968"
+    },
     {
       "time": "1:43 am",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "The Mars Volta",
       "title": "Inertiatic ESP",
       "album": "De-Loused in the Comatorium • 2003"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Lloyd Price",
-      "title": "Personality",
-      "album": "Mr. Personality • 1959"
     }
   ]
 }
