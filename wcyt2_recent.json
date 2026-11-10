@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T07:48:43",
+  "updatedAt": "2026-11-10T07:51:17",
   "now": {
-    "artist": "The Beatles",
-    "title": "Things We Said Today",
-    "album": "A Hard Day's Night • 1964",
+    "artist": "Daft Punk",
+    "title": "Doin' It Right (feat. Panda Bear)",
+    "album": "Random Access Memories • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:51 am",
-      "artist": "Daft Punk",
-      "title": "Doin' It Right (feat. Panda Bear)"
-    },
     {
       "time": "7:55 am",
       "artist": "Yo La Tengo",
@@ -21,9 +16,20 @@
       "time": "7:59 am",
       "artist": "Green Day",
       "title": "Nice Guys Finish Last"
+    },
+    {
+      "time": "8:01 am",
+      "artist": "Depeche Mode",
+      "title": "Shake the Disease"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 am",
+      "artist": "Daft Punk",
+      "title": "Doin' It Right (feat. Panda Bear)",
+      "album": "Random Access Memories • 2013"
+    },
     {
       "time": "7:48 am",
       "artist": "The Beatles",
@@ -167,12 +173,6 @@
       "artist": "Creedence Clearwater Revival",
       "title": "Have You Ever Seen the Rain?",
       "album": "Pendulum • 1970"
-    },
-    {
-      "time": "6:16 am",
-      "artist": "Panda Bear & Sonic Boom",
-      "title": "Edge of the Edge",
-      "album": "Edge of the Edge • 2022"
     }
   ]
 }
