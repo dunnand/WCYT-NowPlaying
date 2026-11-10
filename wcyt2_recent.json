@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T10:54:29",
+  "updatedAt": "2026-11-10T11:00:33",
   "now": {
-    "artist": "David Bowie",
-    "title": "Lazarus",
-    "album": "Blackstar • 2016",
+    "artist": "Foo Fighters",
+    "title": "Up in Arms",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:00 am",
-      "artist": "Foo Fighters",
-      "title": "Up in Arms"
-    },
     {
       "time": "11:02 am",
       "artist": "Alanis Morissette",
@@ -26,9 +21,20 @@
       "time": "11:09 am",
       "artist": "DEVO",
       "title": "Through Being Cool"
+    },
+    {
+      "time": "11:12 am",
+      "artist": "Superchunk",
+      "title": "Slack"
     }
   ],
   "recent": [
+    {
+      "time": "11:00 am",
+      "artist": "Foo Fighters",
+      "title": "Up in Arms",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "10:54 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Sly and the Family Stone",
       "title": "Family Affair",
       "album": "Theres a Riot Goin On • 1971"
-    },
-    {
-      "time": "9:19 am",
-      "artist": "Sly and the Family Stone",
-      "title": "If You Want Me to Stay",
-      "album": "Fresh • 1973"
     }
   ]
 }
