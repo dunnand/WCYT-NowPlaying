@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-10T05:38:37",
+  "updatedAt": "2026-11-10T05:41:09",
   "now": {
-    "artist": "The Beatles",
-    "title": "Sun King",
-    "album": "Abbey Road • 1969",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Lookin' Out My Back Door",
+    "album": "Cosmo's Factory • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:41 am",
-      "artist": "Creedence Clearwater Revival",
-      "title": "Lookin' Out My Back Door"
-    },
     {
       "time": "5:43 am",
       "artist": "Pavement",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:41 am",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Lookin' Out My Back Door",
+      "album": "Cosmo's Factory • 1970"
+    },
     {
       "time": "5:38 am",
       "artist": "The Beatles",
@@ -172,12 +173,6 @@
       "artist": "Scorpions",
       "title": "Wind Of Change",
       "album": "Crazy World • 1991"
-    },
-    {
-      "time": "4:10 am",
-      "artist": "Childish Gambino",
-      "title": "Sober",
-      "album": "STN MTN / Kauai • 2014"
     }
   ]
 }
