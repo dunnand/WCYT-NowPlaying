@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T07:01:34",
+  "updatedAt": "2026-11-11T07:04:53",
   "now": {
-    "artist": "M",
-    "title": "Pop Muzik",
-    "album": "New York - London - Paris - Munich • 1979",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "A Movie Script Ending",
+    "album": "The Photo Album • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:04 am",
-      "artist": "Death Cab for Cutie",
-      "title": "A Movie Script Ending"
-    },
     {
       "time": "7:09 am",
       "artist": "Lana Del Rey",
@@ -26,9 +21,20 @@
       "time": "7:17 am",
       "artist": "Pantera",
       "title": "Mouth for War"
+    },
+    {
+      "time": "7:21 am",
+      "artist": "Louis Armstrong",
+      "title": "A Kiss to Build a Dream On"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 am",
+      "artist": "Death Cab for Cutie",
+      "title": "A Movie Script Ending",
+      "album": "The Photo Album • 2001"
+    },
     {
       "time": "7:01 am",
       "artist": "M",
@@ -172,12 +178,6 @@
       "artist": "Cat Power",
       "title": "Werewolf",
       "album": "You Are Free • 2003"
-    },
-    {
-      "time": "5:18 am",
-      "artist": "Patsy Cline",
-      "title": "Walkin' After Midnight",
-      "album": "Patsy Cline • 1957"
     }
   ]
 }
