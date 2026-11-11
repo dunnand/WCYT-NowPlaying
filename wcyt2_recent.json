@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T07:04:53",
+  "updatedAt": "2026-11-11T07:09:08",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "A Movie Script Ending",
-    "album": "The Photo Album • 2001",
-    "category": "TUNES"
+    "artist": "Lana Del Rey",
+    "title": "Summertime Sadness",
+    "album": "Born to Die • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:09 am",
-      "artist": "Lana Del Rey",
-      "title": "Summertime Sadness"
-    },
     {
       "time": "7:13 am",
       "artist": "Kenny Loggins",
@@ -26,9 +21,20 @@
       "time": "7:21 am",
       "artist": "Louis Armstrong",
       "title": "A Kiss to Build a Dream On"
+    },
+    {
+      "time": "7:25 am",
+      "artist": "Britney Spears",
+      "title": "Oops....I Did It Again"
     }
   ],
   "recent": [
+    {
+      "time": "7:09 am",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness",
+      "album": "Born to Die • 2012"
+    },
     {
       "time": "7:04 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "The Kinks",
       "title": "Dedicated Follower of Fashion",
       "album": "single • 1966"
-    },
-    {
-      "time": "5:20 am",
-      "artist": "Cat Power",
-      "title": "Werewolf",
-      "album": "You Are Free • 2003"
     }
   ]
 }
