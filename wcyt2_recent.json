@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T08:23:15",
+  "updatedAt": "2026-11-11T08:23:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:23 am",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "8:25 am",
       "artist": "The Apples in Stereo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:23 am",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "8:18 am",
       "artist": "Portishead",
@@ -172,12 +173,6 @@
       "artist": "Gang of Four",
       "title": "What We All Want",
       "album": "single • 1981"
-    },
-    {
-      "time": "6:36 am",
-      "artist": "Ozzy Osbourne",
-      "title": "No More Tears",
-      "album": "No More Tears • 1991"
     }
   ]
 }
