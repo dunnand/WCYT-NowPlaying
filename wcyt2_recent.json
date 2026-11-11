@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T08:54:19",
+  "updatedAt": "2026-11-11T08:54:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Guess Who",
+    "title": "American Woman",
+    "album": "American Woman • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 am",
-      "artist": "The Guess Who",
-      "title": "American Woman"
-    },
     {
       "time": "8:58 am",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "9:12 am",
       "artist": "The Kinks",
       "title": "Tired of Waiting for You"
+    },
+    {
+      "time": "9:15 am",
+      "artist": "Manfred Mann's Earth Band",
+      "title": "Blinded By The Light"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 am",
+      "artist": "The Guess Who",
+      "title": "American Woman",
+      "album": "American Woman • 1970"
+    },
     {
       "time": "8:51 am",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Louis Armstrong",
       "title": "A Kiss to Build a Dream On",
       "album": "Hello, Dolly! • 1951"
-    },
-    {
-      "time": "7:17 am",
-      "artist": "Pantera",
-      "title": "Mouth for War",
-      "album": "Vulgar Display of Power • 1992"
     }
   ]
 }
