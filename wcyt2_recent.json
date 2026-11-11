@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T10:58:15",
+  "updatedAt": "2026-11-11T11:01:32",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "Mandy",
-    "album": "Barry Manilow II • 1974",
+    "artist": "The Kinks",
+    "title": "Waterloo Sunset",
+    "album": "Something Else by the Kinks • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:01 am",
-      "artist": "The Kinks",
-      "title": "Waterloo Sunset"
-    },
     {
       "time": "11:04 am",
       "artist": "Bill Withers",
@@ -26,9 +21,20 @@
       "time": "11:09 am",
       "artist": "Eric Clapton",
       "title": "After Midnight"
+    },
+    {
+      "time": "11:12 am",
+      "artist": "Spice Girls",
+      "title": "Wannabe"
     }
   ],
   "recent": [
+    {
+      "time": "11:01 am",
+      "artist": "The Kinks",
+      "title": "Waterloo Sunset",
+      "album": "Something Else by the Kinks • 1967"
+    },
     {
       "time": "10:58 am",
       "artist": "Barry Manilow",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Passenger",
       "album": "White Pony • 2000"
-    },
-    {
-      "time": "9:22 am",
-      "artist": "Little Richard",
-      "title": "Lucille",
-      "album": "Little Richard • 1958"
     }
   ]
 }
