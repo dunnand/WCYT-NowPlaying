@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T12:17:39",
+  "updatedAt": "2026-11-11T12:20:43",
   "now": {
-    "artist": "M.I.A.",
-    "title": "Go Off",
-    "album": "AIM • 2016",
+    "artist": "Suede",
+    "title": "Trash",
+    "album": "Coming Up • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:20 pm",
-      "artist": "Suede",
-      "title": "Trash"
-    },
     {
       "time": "12:24 pm",
       "artist": "Temple of the Dog",
@@ -21,9 +16,20 @@
       "time": "12:31 pm",
       "artist": "Husker Du",
       "title": "Don't Want to Know If You Are Lonely"
+    },
+    {
+      "time": "12:34 pm",
+      "artist": "Husker Du",
+      "title": "I Apologize"
     }
   ],
   "recent": [
+    {
+      "time": "12:20 pm",
+      "artist": "Suede",
+      "title": "Trash",
+      "album": "Coming Up • 1996"
+    },
     {
       "time": "12:17 pm",
       "artist": "M.I.A.",
@@ -167,12 +173,6 @@
       "artist": "The Kinks",
       "title": "Waterloo Sunset",
       "album": "Something Else by the Kinks • 1967"
-    },
-    {
-      "time": "10:58 am",
-      "artist": "Barry Manilow",
-      "title": "Mandy",
-      "album": "Barry Manilow II • 1974"
     }
   ]
 }
