@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T03:28:07",
+  "updatedAt": "2026-11-11T03:30:42",
   "now": {
-    "artist": "Fats Domino",
-    "title": "The Fat Man",
-    "album": "Rock and Rollin' With Fats Domino • 1956",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Junk Bond Trader",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "Elliott Smith",
-      "title": "Junk Bond Trader"
-    },
     {
       "time": "3:34 am",
       "artist": "The Isley Brothers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "Elliott Smith",
+      "title": "Junk Bond Trader",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "3:28 am",
       "artist": "Fats Domino",
@@ -171,12 +172,6 @@
       "time": "1:42 am",
       "artist": "Galaxie 500",
       "title": "Isn't It a Pity",
-      "album": "On Fire • 1989"
-    },
-    {
-      "time": "1:38 am",
-      "artist": "Galaxie 500",
-      "title": "Decomposing Trees",
       "album": "On Fire • 1989"
     }
   ]
