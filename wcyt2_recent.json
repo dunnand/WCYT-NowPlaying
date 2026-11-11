@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T08:23:27",
+  "updatedAt": "2026-11-11T08:25:42",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Well...All Right",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "The Apples in Stereo",
+    "title": "Please",
+    "album": "Velocity of Sound • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:25 am",
-      "artist": "The Apples in Stereo",
-      "title": "Please"
-    },
     {
       "time": "8:28 am",
       "artist": "The Kinks",
@@ -21,9 +16,20 @@
       "time": "8:31 am",
       "artist": "Leon Bridges",
       "title": "Bad Bad News"
+    },
+    {
+      "time": "8:35 am",
+      "artist": "Pulp",
+      "title": "This.Is.Hardcore"
     }
   ],
   "recent": [
+    {
+      "time": "8:25 am",
+      "artist": "The Apples in Stereo",
+      "title": "Please",
+      "album": "Velocity of Sound • 2002"
+    },
     {
       "time": "8:23 am",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "George Harrison",
       "title": "Cheer Down",
       "album": "Lethal Weapon 2 Soundtrack • 1989"
-    },
-    {
-      "time": "6:43 am",
-      "artist": "Gang of Four",
-      "title": "What We All Want",
-      "album": "single • 1981"
     }
   ]
 }
