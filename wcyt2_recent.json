@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T15:48:20",
+  "updatedAt": "2026-11-11T15:50:13",
   "now": {
     "artist": "Husker Du",
-    "title": "Something I Learned Today",
+    "title": "What's Going On?",
     "album": "Zen Arcade • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:50 pm",
-      "artist": "Husker Du",
-      "title": "What's Going On?"
-    },
     {
       "time": "3:54 pm",
       "artist": "Malcolm Todd",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:50 pm",
+      "artist": "Husker Du",
+      "title": "What's Going On?",
+      "album": "Zen Arcade • 1984"
+    },
     {
       "time": "3:48 pm",
       "artist": "Husker Du",
@@ -172,12 +173,6 @@
       "artist": "Three Dog Night",
       "title": "Mama Told Me (Not To Come)",
       "album": "It Ain't Easy • 1970"
-    },
-    {
-      "time": "2:21 pm",
-      "artist": "The Meters",
-      "title": "Cissy Strut",
-      "album": "The Meters • 1969"
     }
   ]
 }
