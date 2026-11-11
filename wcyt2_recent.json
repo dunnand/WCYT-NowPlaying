@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T09:22:44",
+  "updatedAt": "2026-11-11T09:25:00",
   "now": {
-    "artist": "Little Richard",
-    "title": "Lucille",
-    "album": "Little Richard • 1958",
+    "artist": "Deftones",
+    "title": "Passenger",
+    "album": "White Pony • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 am",
-      "artist": "Deftones",
-      "title": "Passenger"
-    },
     {
       "time": "9:30 am",
       "artist": "The Kinks",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:25 am",
+      "artist": "Deftones",
+      "title": "Passenger",
+      "album": "White Pony • 2000"
+    },
     {
       "time": "9:22 am",
       "artist": "Little Richard",
@@ -172,12 +173,6 @@
       "artist": "The Go-Betweens",
       "title": "Bow Down",
       "album": "Liberty Belle and the Black Diamond Express • 1986"
-    },
-    {
-      "time": "7:49 am",
-      "artist": "The Go-Betweens",
-      "title": "Streets of Your Town",
-      "album": "16 Lovers Lane • 1988"
     }
   ]
 }
