@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T04:55:15",
+  "updatedAt": "2026-11-11T04:55:37",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "My Life",
+    "album": "52nd Street • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:55 am",
-      "artist": "Billy Joel",
-      "title": "My Life"
-    },
     {
       "time": "4:59 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "5:08 am",
       "artist": "The Kinks",
       "title": "Death of a Clown"
+    },
+    {
+      "time": "5:11 am",
+      "artist": "The Carpenters",
+      "title": "Rainy Days And Mondays"
     }
   ],
   "recent": [
+    {
+      "time": "4:55 am",
+      "artist": "Billy Joel",
+      "title": "My Life",
+      "album": "52nd Street • 1979"
+    },
     {
       "time": "4:52 am",
       "artist": "Bleachers",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "The Fat Man",
       "album": "Rock and Rollin' With Fats Domino • 1956"
-    },
-    {
-      "time": "3:23 am",
-      "artist": "Mad Season",
-      "title": "River of Deceit",
-      "album": "Above • 1995"
     }
   ]
 }
