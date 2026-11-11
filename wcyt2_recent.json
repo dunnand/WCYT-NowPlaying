@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T09:12:50",
+  "updatedAt": "2026-11-11T09:15:23",
   "now": {
-    "artist": "The Kinks",
-    "title": "Tired of Waiting for You",
-    "album": "Kinda Kinks • 1965",
+    "artist": "Manfred Mann's Earth Band",
+    "title": "Blinded By The Light",
+    "album": "The Roaring Silence • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:15 am",
-      "artist": "Manfred Mann's Earth Band",
-      "title": "Blinded By The Light"
-    },
     {
       "time": "9:19 am",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "9:25 am",
       "artist": "Deftones",
       "title": "Passenger"
+    },
+    {
+      "time": "9:30 am",
+      "artist": "The Kinks",
+      "title": "Victoria"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 am",
+      "artist": "Manfred Mann's Earth Band",
+      "title": "Blinded By The Light",
+      "album": "The Roaring Silence • 1976"
+    },
     {
       "time": "9:12 am",
       "artist": "The Kinks",
@@ -172,12 +178,6 @@
       "artist": "Pete Rock & C.L. Smooth",
       "title": "Straighten It Out",
       "album": "Mecca and The Soul Brother • 1992"
-    },
-    {
-      "time": "7:35 am",
-      "artist": "Leonard Cohen",
-      "title": "I Want It Darker",
-      "album": "You Want It Darker • 2016"
     }
   ]
 }
