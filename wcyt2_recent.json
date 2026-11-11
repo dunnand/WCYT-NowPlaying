@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T11:59:03",
+  "updatedAt": "2026-11-11T12:01:18",
   "now": {
-    "artist": "The Lovin' Spoonful",
-    "title": "Daydream",
-    "album": "Daydream • 1966",
+    "artist": "John Denver",
+    "title": "Thank God I'm A Country Boy",
+    "album": "Back Home Again • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "John Denver",
-      "title": "Thank God I'm A Country Boy"
-    },
     {
       "time": "12:04 pm",
       "artist": "Stereolab",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Death Cab for Cutie",
       "title": "Title and Registration"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "The Lovin' Spoonful",
+      "title": "Do You Believe in Magic"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "John Denver",
+      "title": "Thank God I'm A Country Boy",
+      "album": "Back Home Again • 1974"
+    },
     {
       "time": "11:59 am",
       "artist": "The Lovin' Spoonful",
@@ -172,12 +178,6 @@
       "artist": "Smog",
       "title": "Cold Blooded Old Times",
       "album": "Knock Knock • 1999"
-    },
-    {
-      "time": "10:35 am",
-      "artist": "Leon Bridges",
-      "title": "Smooth Sailin'",
-      "album": "Coming Home • 2015"
     }
   ]
 }
