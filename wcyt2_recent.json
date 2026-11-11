@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T10:58:05",
+  "updatedAt": "2026-11-11T10:58:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barry Manilow",
+    "title": "Mandy",
+    "album": "Barry Manilow II • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:58 am",
-      "artist": "Barry Manilow",
-      "title": "Mandy"
-    },
     {
       "time": "11:01 am",
       "artist": "The Kinks",
@@ -26,9 +21,20 @@
       "time": "11:06 am",
       "artist": "The Kinks",
       "title": "Well Respected Man"
+    },
+    {
+      "time": "11:09 am",
+      "artist": "Eric Clapton",
+      "title": "After Midnight"
     }
   ],
   "recent": [
+    {
+      "time": "10:58 am",
+      "artist": "Barry Manilow",
+      "title": "Mandy",
+      "album": "Barry Manilow II • 1974"
+    },
     {
       "time": "10:54 am",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Little Richard",
       "title": "Lucille",
       "album": "Little Richard • 1958"
-    },
-    {
-      "time": "9:19 am",
-      "artist": "Rolling Stones",
-      "title": "Love Is Strong",
-      "album": "Voodoo Lounge • 1994"
     }
   ]
 }
