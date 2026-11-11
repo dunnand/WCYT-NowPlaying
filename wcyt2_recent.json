@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T12:34:44",
+  "updatedAt": "2026-11-11T12:38:20",
   "now": {
-    "artist": "Husker Du",
-    "title": "I Apologize",
-    "album": "New Day Rising • 1985",
+    "artist": "Taylor Swift",
+    "title": "august",
+    "album": "folklore • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 pm",
-      "artist": "Taylor Swift",
-      "title": "august"
-    },
     {
       "time": "12:42 pm",
       "artist": "Black Eyed Peas",
@@ -26,9 +21,20 @@
       "time": "12:49 pm",
       "artist": "Aesop Rock",
       "title": "None Shall Pass"
+    },
+    {
+      "time": "12:54 pm",
+      "artist": "Moses Sumney",
+      "title": "Bless Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 pm",
+      "artist": "Taylor Swift",
+      "title": "august",
+      "album": "folklore • 2020"
+    },
     {
       "time": "12:34 pm",
       "artist": "Husker Du",
@@ -172,12 +178,6 @@
       "artist": "Spice Girls",
       "title": "Wannabe",
       "album": "Spice • 1996"
-    },
-    {
-      "time": "11:09 am",
-      "artist": "Eric Clapton",
-      "title": "After Midnight",
-      "album": "Eric Clapton • 1970"
     }
   ]
 }
