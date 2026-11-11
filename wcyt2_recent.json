@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T12:34:33",
+  "updatedAt": "2026-11-11T12:34:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Husker Du",
+    "title": "I Apologize",
+    "album": "New Day Rising • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Husker Du",
-      "title": "I Apologize"
-    },
     {
       "time": "12:38 pm",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "12:46 pm",
       "artist": "Joy Division",
       "title": "She's Lost Control"
+    },
+    {
+      "time": "12:49 pm",
+      "artist": "Aesop Rock",
+      "title": "None Shall Pass"
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Husker Du",
+      "title": "I Apologize",
+      "album": "New Day Rising • 1985"
+    },
     {
       "time": "12:31 pm",
       "artist": "Husker Du",
@@ -172,12 +178,6 @@
       "artist": "Eric Clapton",
       "title": "After Midnight",
       "album": "Eric Clapton • 1970"
-    },
-    {
-      "time": "11:06 am",
-      "artist": "The Kinks",
-      "title": "Well Respected Man",
-      "album": "single • 1965"
     }
   ]
 }
