@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T08:48:11",
+  "updatedAt": "2026-11-11T08:51:05",
   "now": {
-    "artist": "The Go-Go's",
-    "title": "How Much More",
-    "album": "Beauty and the Beat • 1981",
+    "artist": "Bleachers",
+    "title": "Goodmorning",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:51 am",
-      "artist": "Bleachers",
-      "title": "Goodmorning"
-    },
     {
       "time": "8:54 am",
       "artist": "The Guess Who",
@@ -21,9 +16,20 @@
       "time": "8:58 am",
       "artist": "Fleetwood Mac",
       "title": "Second Hand News"
+    },
+    {
+      "time": "9:01 am",
+      "artist": "Animal Collective",
+      "title": "Alvin Row"
     }
   ],
   "recent": [
+    {
+      "time": "8:51 am",
+      "artist": "Bleachers",
+      "title": "Goodmorning",
+      "album": ""
+    },
     {
       "time": "8:48 am",
       "artist": "The Go-Go's",
@@ -167,12 +173,6 @@
       "artist": "Pantera",
       "title": "Mouth for War",
       "album": "Vulgar Display of Power • 1992"
-    },
-    {
-      "time": "7:13 am",
-      "artist": "Kenny Loggins",
-      "title": "Whenever I Call You \"Friend\"",
-      "album": "Nightwatch • 1978"
     }
   ]
 }
