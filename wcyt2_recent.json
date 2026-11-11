@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T12:38:20",
+  "updatedAt": "2026-11-11T12:42:36",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "august",
-    "album": "folklore • 2020",
+    "artist": "Black Eyed Peas",
+    "title": "Let's Get It Started",
+    "album": "Elephunk • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 pm",
-      "artist": "Black Eyed Peas",
-      "title": "Let's Get It Started"
-    },
     {
       "time": "12:46 pm",
       "artist": "Joy Division",
@@ -26,9 +21,20 @@
       "time": "12:54 pm",
       "artist": "Moses Sumney",
       "title": "Bless Me"
+    },
+    {
+      "time": "12:58 pm",
+      "artist": "Kenny Rogers",
+      "title": "She Believes In Me"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 pm",
+      "artist": "Black Eyed Peas",
+      "title": "Let's Get It Started",
+      "album": "Elephunk • 2004"
+    },
     {
       "time": "12:38 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "M.I.A.",
       "title": "Bad Girls",
       "album": "Matangi • 2013"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "Spice Girls",
-      "title": "Wannabe",
-      "album": "Spice • 1996"
     }
   ]
 }
