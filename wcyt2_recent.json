@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T15:06:14",
+  "updatedAt": "2026-11-11T15:09:20",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Domino",
-    "album": "His Band and the Street Choir • 1971",
+    "artist": "The Miracles",
+    "title": "You've Really Got A Hold On Me",
+    "album": "The Fabulous Miracles • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:09 pm",
-      "artist": "The Miracles",
-      "title": "You've Really Got A Hold On Me"
-    },
     {
       "time": "3:12 pm",
       "artist": "Linda Ronstadt",
@@ -26,9 +21,20 @@
       "time": "3:18 pm",
       "artist": "Jim Ed Brown",
       "title": "Morning"
+    },
+    {
+      "time": "3:21 pm",
+      "artist": "The White Stripes",
+      "title": "The Big Three Killed My Baby"
     }
   ],
   "recent": [
+    {
+      "time": "3:09 pm",
+      "artist": "The Miracles",
+      "title": "You've Really Got A Hold On Me",
+      "album": "The Fabulous Miracles • 1963"
+    },
     {
       "time": "3:06 pm",
       "artist": "Van Morrison",
@@ -172,12 +178,6 @@
       "artist": "Arcade Fire",
       "title": "Crown of Love",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "1:34 pm",
-      "artist": "The Decemberists",
-      "title": "16 Military Wives",
-      "album": "Picaresque • 2005"
     }
   ]
 }
