@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T12:08:53",
+  "updatedAt": "2026-11-11T12:11:59",
   "now": {
-    "artist": "Howlin' Wolf",
-    "title": "Smokestack Lightnin'",
-    "album": "Moanin' in the Moonlight • 1959",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "Title and Registration",
+    "album": "Transatlanticism • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:11 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "Title and Registration"
-    },
     {
       "time": "12:15 pm",
       "artist": "The Lovin' Spoonful",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:11 pm",
+      "artist": "Death Cab for Cutie",
+      "title": "Title and Registration",
+      "album": "Transatlanticism • 2003"
+    },
     {
       "time": "12:08 pm",
       "artist": "Howlin' Wolf",
@@ -172,12 +173,6 @@
       "artist": "Husker Du",
       "title": "Celebrated Summer",
       "album": "New Day Rising • 1985"
-    },
-    {
-      "time": "10:44 am",
-      "artist": "Grateful Dead",
-      "title": "Touch of Grey",
-      "album": "In the Dark • 1987"
     }
   ]
 }
