@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T08:34:46",
+  "updatedAt": "2026-11-11T08:34:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pulp",
+    "title": "This.Is.Hardcore",
+    "album": "This Is Hardcore • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:34 am",
-      "artist": "Pulp",
-      "title": "This.Is.Hardcore"
-    },
     {
       "time": "8:41 am",
       "artist": "Rage Against the Machine",
@@ -26,9 +21,20 @@
       "time": "8:48 am",
       "artist": "The Go",
       "title": "Go's - How Much More"
+    },
+    {
+      "time": "8:51 am",
+      "artist": "Bleachers",
+      "title": "Goodmorning"
     }
   ],
   "recent": [
+    {
+      "time": "8:34 am",
+      "artist": "Pulp",
+      "title": "This.Is.Hardcore",
+      "album": "This Is Hardcore • 1998"
+    },
     {
       "time": "8:31 am",
       "artist": "Leon Bridges",
@@ -172,12 +178,6 @@
       "artist": "M",
       "title": "Pop Muzik",
       "album": "New York - London - Paris - Munich • 1979"
-    },
-    {
-      "time": "6:57 am",
-      "artist": "Built to Spill",
-      "title": "Strange",
-      "album": "Ancient Melodies Of The Future • 2001"
     }
   ]
 }
