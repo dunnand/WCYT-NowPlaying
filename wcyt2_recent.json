@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T09:19:10",
+  "updatedAt": "2026-11-11T09:22:44",
   "now": {
-    "artist": "Rolling Stones",
-    "title": "Love Is Strong",
-    "album": "Voodoo Lounge • 1994",
+    "artist": "Little Richard",
+    "title": "Lucille",
+    "album": "Little Richard • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:22 am",
-      "artist": "Little Richard",
-      "title": "Lucille"
-    },
     {
       "time": "9:25 am",
       "artist": "Deftones",
@@ -23,12 +18,23 @@
       "title": "Victoria"
     },
     {
-      "time": "9:34 am",
+      "time": "9:33 am",
       "artist": "Leon Bridges",
       "title": "Beyond"
+    },
+    {
+      "time": "9:37 am",
+      "artist": "Sarah McLachlan",
+      "title": "Angel"
     }
   ],
   "recent": [
+    {
+      "time": "9:22 am",
+      "artist": "Little Richard",
+      "title": "Lucille",
+      "album": "Little Richard • 1958"
+    },
     {
       "time": "9:19 am",
       "artist": "Rolling Stones",
@@ -172,12 +178,6 @@
       "artist": "The Go-Betweens",
       "title": "Streets of Your Town",
       "album": "16 Lovers Lane • 1988"
-    },
-    {
-      "time": "7:44 am",
-      "artist": "The Pharcyde",
-      "title": "Runnin'",
-      "album": "Labcabincalifornia • 1995"
     }
   ]
 }
