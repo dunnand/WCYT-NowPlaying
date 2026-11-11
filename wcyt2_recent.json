@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T11:09:28",
+  "updatedAt": "2026-11-11T11:12:33",
   "now": {
-    "artist": "Eric Clapton",
-    "title": "After Midnight",
-    "album": "Eric Clapton • 1970",
+    "artist": "Spice Girls",
+    "title": "Wannabe",
+    "album": "Spice • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "Spice Girls",
-      "title": "Wannabe"
-    },
     {
       "time": "11:15 am",
       "artist": "M.I.A.",
@@ -23,12 +18,18 @@
       "title": "Frontier Psychiatrist"
     },
     {
-      "time": "11:24 am",
+      "time": "11:23 am",
       "artist": "Beyonce",
       "title": "Halo"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "Spice Girls",
+      "title": "Wannabe",
+      "album": "Spice • 1996"
+    },
     {
       "time": "11:09 am",
       "artist": "Eric Clapton",
@@ -172,12 +173,6 @@
       "artist": "Sinead O'Connor",
       "title": "Nothing Compares 2 U",
       "album": "I Do Not Want What I Havent Got • 1990"
-    },
-    {
-      "time": "9:37 am",
-      "artist": "Sarah McLachlan",
-      "title": "Angel",
-      "album": "Surfacing • 1998"
     }
   ]
 }
