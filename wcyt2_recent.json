@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T07:44:45",
+  "updatedAt": "2026-11-12T07:44:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kraftwerk",
+    "title": "Tour de France",
+    "album": "single • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:44 am",
-      "artist": "Kraftwerk",
-      "title": "Tour de France"
-    },
     {
       "time": "7:49 am",
       "artist": "Bershy",
@@ -26,9 +21,20 @@
       "time": "7:57 am",
       "artist": "Steve Miller Band",
       "title": "Fly Like An Eagle"
+    },
+    {
+      "time": "8:00 am",
+      "artist": "Death Cab for Cutie",
+      "title": "The New Year"
     }
   ],
   "recent": [
+    {
+      "time": "7:44 am",
+      "artist": "Kraftwerk",
+      "title": "Tour de France",
+      "album": "single • 1983"
+    },
     {
       "time": "7:39 am",
       "artist": "Kraftwerk",
@@ -172,12 +178,6 @@
       "artist": "Bob Seger & The Silver Bullet Band",
       "title": "Old Time Rock & Roll",
       "album": "Stranger in Town • 1979"
-    },
-    {
-      "time": "6:01 am",
-      "artist": "The Velvet Underground",
-      "title": "I'll Be Your Mirror",
-      "album": "The Velvet Underground & Nico • 1967"
     }
   ]
 }
