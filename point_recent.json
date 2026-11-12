@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T03:07:12",
+  "updatedAt": "2026-11-12T03:10:27",
   "now": {
-    "artist": "Stereolab",
-    "title": "Wow and Flutter",
-    "album": "Mars Audiac Quintet • 1994",
+    "artist": "Widowspeak",
+    "title": "If You Change",
+    "album": "Roses • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:10 am",
-      "artist": "Widowspeak",
-      "title": "If You Change"
-    },
     {
       "time": "3:14 am",
       "artist": "The Beths",
@@ -26,9 +21,20 @@
       "time": "3:21 am",
       "artist": "Friko",
       "title": "Choo Choo"
+    },
+    {
+      "time": "3:24 am",
+      "artist": "Last Dinosaurs",
+      "title": "Collect Call"
     }
   ],
   "recent": [
+    {
+      "time": "3:10 am",
+      "artist": "Widowspeak",
+      "title": "If You Change",
+      "album": "Roses • 2026"
+    },
     {
       "time": "3:07 am",
       "artist": "Stereolab",
@@ -172,12 +178,6 @@
       "artist": "Husker Du",
       "title": "I Apologize",
       "album": "New Day Rising • 1985"
-    },
-    {
-      "time": "1:41 am",
-      "artist": "Mac DeMarco",
-      "title": "Brother",
-      "album": "Salad Days • 2014"
     }
   ]
 }
