@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T16:43:52",
+  "updatedAt": "2026-11-12T16:44:14",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Aphex Twin",
+    "title": "Xtal",
+    "album": "Selected Ambient Works 85-92 • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 pm",
-      "artist": "Aphex Twin",
-      "title": "Xtal"
-    },
     {
       "time": "4:48 pm",
       "artist": "Gilla Band",
@@ -21,9 +16,20 @@
       "time": "4:52 pm",
       "artist": "DIIV",
       "title": "Trillions"
+    },
+    {
+      "time": "4:55 pm",
+      "artist": "Whitney",
+      "title": "Strange Overtones"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 pm",
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "album": "Selected Ambient Works 85-92 • 1992"
+    },
     {
       "time": "4:40 pm",
       "artist": "Star Moles",
@@ -167,12 +173,6 @@
       "artist": "Big Thief",
       "title": "Incomprehensible",
       "album": "Double Infinity • 2025"
-    },
-    {
-      "time": "2:57 pm",
-      "artist": "Freak Slug",
-      "title": "Muse",
-      "album": "Amulet • 2026"
     }
   ]
 }
