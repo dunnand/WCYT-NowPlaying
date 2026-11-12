@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T16:33:52",
+  "updatedAt": "2026-11-12T16:34:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "California Kids",
+    "album": "Weezer • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:34 pm",
-      "artist": "Weezer",
-      "title": "California Kids"
-    },
     {
       "time": "4:37 pm",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "4:44 pm",
       "artist": "Metallica",
       "title": "Master of Puppets"
+    },
+    {
+      "time": "4:53 pm",
+      "artist": "Metallica",
+      "title": "One"
     }
   ],
   "recent": [
+    {
+      "time": "4:34 pm",
+      "artist": "Weezer",
+      "title": "California Kids",
+      "album": "Weezer • 2016"
+    },
     {
       "time": "4:30 pm",
       "artist": "Audioslave",
@@ -172,12 +178,6 @@
       "artist": "Little Peggy March",
       "title": "I Will Follow Him",
       "album": "I Will Follow Him • 1963"
-    },
-    {
-      "time": "2:53 pm",
-      "artist": "Weezer",
-      "title": "Hero",
-      "album": "Van Weezer • 2021"
     }
   ]
 }
