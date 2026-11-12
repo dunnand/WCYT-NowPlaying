@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T02:58:25",
+  "updatedAt": "2026-11-12T03:02:15",
   "now": {
-    "artist": "Cat Power",
-    "title": "Good Woman",
-    "album": "You Are Free • 2003",
-    "category": "TUNES"
+    "artist": "The Velvet Underground",
+    "title": "After Hours",
+    "album": "The Velvet Underground • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:02 am",
-      "artist": "The Velvet Underground",
-      "title": "After Hours"
-    },
     {
       "time": "3:04 am",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "3:11 am",
       "artist": "Radiohead",
       "title": "Present Tense"
+    },
+    {
+      "time": "3:16 am",
+      "artist": "Aesop Rock",
+      "title": "Labor"
     }
   ],
   "recent": [
+    {
+      "time": "3:02 am",
+      "artist": "The Velvet Underground",
+      "title": "After Hours",
+      "album": "The Velvet Underground • 1969"
+    },
     {
       "time": "2:58 am",
       "artist": "Cat Power",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Lotus Flower",
       "album": "The King of Limbs • 2011"
-    },
-    {
-      "time": "1:15 am",
-      "artist": "Amadou & Mariam",
-      "title": "Sabali",
-      "album": "Welcome to Mali • 2008"
     }
   ]
 }
