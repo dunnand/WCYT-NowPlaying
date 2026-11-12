@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T20:02:52",
+  "updatedAt": "2026-11-11T20:03:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Say You Love Me",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Say You Love Me"
-    },
     {
       "time": "8:07 pm",
       "artist": "Paul Davis",
@@ -26,9 +21,20 @@
       "time": "8:14 pm",
       "artist": "The Who",
       "title": "My Generation"
+    },
+    {
+      "time": "8:17 pm",
+      "artist": "Elton John",
+      "title": "Goodbye Yellow Brick Road"
     }
   ],
   "recent": [
+    {
+      "time": "8:03 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Say You Love Me",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "8:00 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "New",
       "album": "New • 2013"
-    },
-    {
-      "time": "6:27 pm",
-      "artist": "Bush",
-      "title": "Swallowed",
-      "album": "Razorblade Suitcase • 1996"
     }
   ]
 }
