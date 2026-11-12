@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T04:52:07",
+  "updatedAt": "2026-11-12T04:52:39",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "New Pollution",
+    "album": "Odelay • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:52 am",
-      "artist": "Beck",
-      "title": "New Pollution"
-    },
     {
       "time": "4:56 am",
       "artist": "Trace Mountains",
@@ -26,9 +21,20 @@
       "time": "5:08 am",
       "artist": "Rogue Wave",
       "title": "Eyes"
+    },
+    {
+      "time": "5:10 am",
+      "artist": "Tame Impala",
+      "title": "Endors Toi"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 am",
+      "artist": "Beck",
+      "title": "New Pollution",
+      "album": "Odelay • 1996"
+    },
     {
       "time": "4:49 am",
       "artist": "beabadoobee",
@@ -172,12 +178,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "You've Passed",
       "album": "On Avery Island • 1996"
-    },
-    {
-      "time": "3:14 am",
-      "artist": "The Beths",
-      "title": "Whatever",
-      "album": "Warm Blood • 2016"
     }
   ]
 }
