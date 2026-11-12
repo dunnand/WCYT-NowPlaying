@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T09:31:22",
+  "updatedAt": "2026-11-12T09:31:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "I Don't Blame You",
+    "album": "You Are Free • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:31 am",
-      "artist": "Cat Power",
-      "title": "I Don't Blame You"
-    },
     {
       "time": "9:34 am",
       "artist": "Dirty Projectors",
@@ -26,9 +21,20 @@
       "time": "9:43 am",
       "artist": "Cher",
       "title": "Believe"
+    },
+    {
+      "time": "9:47 am",
+      "artist": "Edwin McCain",
+      "title": "I'll Be"
     }
   ],
   "recent": [
+    {
+      "time": "9:31 am",
+      "artist": "Cat Power",
+      "title": "I Don't Blame You",
+      "album": "You Are Free • 2003"
+    },
     {
       "time": "9:28 am",
       "artist": "SAULT",
@@ -172,12 +178,6 @@
       "artist": "Kraftwerk",
       "title": "Tour de France",
       "album": "single • 1983"
-    },
-    {
-      "time": "7:39 am",
-      "artist": "Kraftwerk",
-      "title": "Pocket Calculator",
-      "album": "Computer World • 1981"
     }
   ]
 }
