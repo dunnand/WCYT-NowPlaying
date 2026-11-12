@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T00:03:40",
+  "updatedAt": "2026-11-12T00:06:16",
   "now": {
-    "artist": "Ray Charles",
-    "title": "Mess Around",
-    "album": "single • 1953",
-    "category": "AUDIO"
+    "artist": "Broken Social Scene",
+    "title": "Cause = Time",
+    "album": "You Forgot It In People • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:06 am",
-      "artist": "Broken Social Scene",
-      "title": "Cause = Time"
-    },
     {
       "time": "12:12 am",
       "artist": "Townes Van Zandt",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:06 am",
+      "artist": "Broken Social Scene",
+      "title": "Cause = Time",
+      "album": "You Forgot It In People • 2002"
+    },
     {
       "time": "12:03 am",
       "artist": "Ray Charles",
@@ -172,12 +173,6 @@
       "artist": "Arcade Fire",
       "title": "In the Backseat",
       "album": "Funeral • 2004"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "Joe Turner & His Blues Kings",
-      "title": "Shake, Rattle And Roll",
-      "album": "The Boss of the Blues • 1956"
     }
   ]
 }
