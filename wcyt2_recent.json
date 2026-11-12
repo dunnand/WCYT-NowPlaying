@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T15:11:53",
+  "updatedAt": "2026-11-12T15:13:56",
   "now": {
-    "artist": "Dave Clark Five",
-    "title": "Over And Over",
-    "album": "The Story of Dave Clark Five • 1979",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Say Yes",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:13 pm",
-      "artist": "Elliott Smith",
-      "title": "Say Yes"
-    },
     {
       "time": "3:16 pm",
       "artist": "Teddy Bears",
@@ -21,9 +16,20 @@
       "time": "3:18 pm",
       "artist": "Air",
       "title": "Cherry Blossom Girl"
+    },
+    {
+      "time": "3:22 pm",
+      "artist": "Rolling Stones",
+      "title": "Jumpin' Jack Flash"
     }
   ],
   "recent": [
+    {
+      "time": "3:13 pm",
+      "artist": "Elliott Smith",
+      "title": "Say Yes",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "3:11 pm",
       "artist": "Dave Clark Five",
@@ -167,12 +173,6 @@
       "artist": "The Black Keys",
       "title": "The Lengths",
       "album": "Rubber Factory • 2004"
-    },
-    {
-      "time": "1:39 pm",
-      "artist": "The Flamingos",
-      "title": "I Only Have Eyes for You",
-      "album": "Flamingo Serenade • 1959"
     }
   ]
 }
