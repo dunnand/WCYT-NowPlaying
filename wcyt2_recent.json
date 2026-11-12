@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T17:34:11",
+  "updatedAt": "2026-11-12T17:34:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "album": "With a Little Help from My Friends • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 pm",
-      "artist": "Joe Cocker",
-      "title": "With A Little Help From My Friends"
-    },
     {
       "time": "5:39 pm",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:34 pm",
+      "artist": "Joe Cocker",
+      "title": "With A Little Help From My Friends",
+      "album": "With a Little Help from My Friends • 1968"
+    },
     {
       "time": "5:30 pm",
       "artist": "At the Drive-In",
@@ -172,12 +173,6 @@
       "artist": "Grimes",
       "title": "My Name Is Dark",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "Metallica",
-      "title": "For Whom the Bell Tolls",
-      "album": "Ride the Lightning • 1984"
     }
   ]
 }
