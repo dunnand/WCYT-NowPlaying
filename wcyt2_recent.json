@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T03:02:15",
+  "updatedAt": "2026-11-12T03:04:17",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "After Hours",
-    "album": "The Velvet Underground • 1969",
+    "artist": "Fleetwood Mac",
+    "title": "You Make Loving Fun",
+    "album": "Rumours • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:04 am",
-      "artist": "Fleetwood Mac",
-      "title": "You Make Loving Fun"
-    },
     {
       "time": "3:07 am",
       "artist": "Sting",
@@ -26,9 +21,20 @@
       "time": "3:16 am",
       "artist": "Aesop Rock",
       "title": "Labor"
+    },
+    {
+      "time": "3:18 am",
+      "artist": "The Apples in Stereo",
+      "title": "Go"
     }
   ],
   "recent": [
+    {
+      "time": "3:04 am",
+      "artist": "Fleetwood Mac",
+      "title": "You Make Loving Fun",
+      "album": "Rumours • 1977"
+    },
     {
       "time": "3:02 am",
       "artist": "The Velvet Underground",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "So Far Away",
       "album": "Great American Songbook, Vol. 2 • 1995"
-    },
-    {
-      "time": "1:18 am",
-      "artist": "Radiohead",
-      "title": "Lotus Flower",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
