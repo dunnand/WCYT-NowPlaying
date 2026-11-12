@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T16:26:09",
+  "updatedAt": "2026-11-12T16:30:05",
   "now": {
-    "artist": "Deftones",
-    "title": "Digital Bath",
-    "album": "White Pony • 2000",
+    "artist": "Audioslave",
+    "title": "Cochise",
+    "album": "Audioslave • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:30 pm",
-      "artist": "Audioslave",
-      "title": "Cochise"
-    },
     {
       "time": "4:34 pm",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "4:42 pm",
       "artist": "Del Amitri",
       "title": "Roll To Me"
+    },
+    {
+      "time": "4:44 pm",
+      "artist": "Metallica",
+      "title": "Master of Puppets"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 pm",
+      "artist": "Audioslave",
+      "title": "Cochise",
+      "album": "Audioslave • 2002"
+    },
     {
       "time": "4:26 pm",
       "artist": "Deftones",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Hero",
       "album": "Van Weezer • 2021"
-    },
-    {
-      "time": "2:46 pm",
-      "artist": "Meat Puppets",
-      "title": "Up on the Sun",
-      "album": "Up on the Sun • 1985"
     }
   ]
 }
