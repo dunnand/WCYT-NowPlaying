@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T04:10:44",
+  "updatedAt": "2026-11-12T04:14:09",
   "now": {
-    "artist": "Tom Petty",
-    "title": "You Wreck Me",
-    "album": "Wildflowers • 1994",
+    "artist": "Buddy Holly",
+    "title": "Everyday",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:14 am",
-      "artist": "Buddy Holly",
-      "title": "Everyday"
-    },
     {
       "time": "4:16 am",
       "artist": "David Guetta feat Kid Cudi",
@@ -26,9 +21,20 @@
       "time": "4:23 am",
       "artist": "Radiohead",
       "title": "The Numbers"
+    },
+    {
+      "time": "4:29 am",
+      "artist": "Wallflowers",
+      "title": "6th Avenue Heartache"
     }
   ],
   "recent": [
+    {
+      "time": "4:14 am",
+      "artist": "Buddy Holly",
+      "title": "Everyday",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "4:10 am",
       "artist": "Tom Petty",
@@ -172,12 +178,6 @@
       "artist": "John Prine",
       "title": "Speed of the Sound of Loneliness",
       "album": "German Afternoons • 1986"
-    },
-    {
-      "time": "2:33 am",
-      "artist": "Sigur Ros",
-      "title": "Olsen Olsen",
-      "album": "Agaetis byrjun • 1999"
     }
   ]
 }
