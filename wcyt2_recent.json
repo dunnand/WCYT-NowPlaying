@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T00:23:31",
+  "updatedAt": "2026-11-12T00:23:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Primal Scream",
+    "title": "Come Together",
+    "album": "Screamadelica • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:23 am",
-      "artist": "Primal Scream",
-      "title": "Come Together"
-    },
     {
       "time": "12:33 am",
       "artist": "John Cale",
@@ -26,9 +21,20 @@
       "time": "12:40 am",
       "artist": "Toosii",
       "title": "Favorite Song"
+    },
+    {
+      "time": "12:43 am",
+      "artist": "Beyonce",
+      "title": "Diva"
     }
   ],
   "recent": [
+    {
+      "time": "12:23 am",
+      "artist": "Primal Scream",
+      "title": "Come Together",
+      "album": "Screamadelica • 1991"
+    },
     {
       "time": "12:20 am",
       "artist": "The Presidents of the United States of America",
@@ -172,12 +178,6 @@
       "artist": "Lush",
       "title": "Sweetness and Light",
       "album": "Gala • 1990"
-    },
-    {
-      "time": "10:41 pm",
-      "artist": "Low",
-      "title": "Lullaby",
-      "album": "I Could Live in Hope • 1994"
     }
   ]
 }
