@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T05:50:37",
+  "updatedAt": "2026-11-12T05:50:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Anka",
+    "title": "(You're) Having My Baby",
+    "album": "Anka • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:50 am",
-      "artist": "Paul Anka",
-      "title": "(You're) Having My Baby"
-    },
     {
       "time": "5:53 am",
       "artist": "Billy Joel",
@@ -26,9 +21,20 @@
       "time": "6:01 am",
       "artist": "The Velvet Underground",
       "title": "I'll Be Your Mirror"
+    },
+    {
+      "time": "6:03 am",
+      "artist": "Bob Seger & The Silver Bullet Band",
+      "title": "Old Time Rock & Roll"
     }
   ],
   "recent": [
+    {
+      "time": "5:50 am",
+      "artist": "Paul Anka",
+      "title": "(You're) Having My Baby",
+      "album": "Anka • 1974"
+    },
     {
       "time": "5:48 am",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Buddy Holly",
       "title": "Everyday",
       "album": "Buddy Holly • 1958"
-    },
-    {
-      "time": "4:10 am",
-      "artist": "Tom Petty",
-      "title": "You Wreck Me",
-      "album": "Wildflowers • 1994"
     }
   ]
 }
