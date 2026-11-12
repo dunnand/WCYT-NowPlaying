@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T16:37:35",
+  "updatedAt": "2026-11-12T16:40:17",
   "now": {
-    "artist": "The White Stripes",
-    "title": "Hello Operator",
-    "album": "De Stijl • 2000",
+    "artist": "Star Moles",
+    "title": "Born Again",
+    "album": "Highway to Hell • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:40 pm",
-      "artist": "Star Moles",
-      "title": "Born Again"
-    },
     {
       "time": "4:44 pm",
       "artist": "Aphex Twin",
@@ -21,9 +16,20 @@
       "time": "4:48 pm",
       "artist": "Gilla Band",
       "title": "Alogia"
+    },
+    {
+      "time": "4:52 pm",
+      "artist": "DIIV",
+      "title": "Trillions"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 pm",
+      "artist": "Star Moles",
+      "title": "Born Again",
+      "album": "Highway to Hell • 2026"
+    },
     {
       "time": "4:37 pm",
       "artist": "The White Stripes",
@@ -167,12 +173,6 @@
       "artist": "Freak Slug",
       "title": "Muse",
       "album": "Amulet • 2026"
-    },
-    {
-      "time": "2:42 pm",
-      "artist": "Radiohead",
-      "title": "Exit Music (for a Film)",
-      "album": "OK Computer • 1997"
     }
   ]
 }
