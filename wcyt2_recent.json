@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T14:08:41",
+  "updatedAt": "2026-11-12T14:14:39",
   "now": {
-    "artist": "Boston",
-    "title": "Don't Look Back",
-    "album": "Don’t Look Back • 1978",
+    "artist": "Bruce Springsteen",
+    "title": "Born To Run",
+    "album": "Born to Run • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:14 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Born To Run"
-    },
     {
       "time": "2:19 pm",
       "artist": "Bon Iver",
@@ -26,9 +21,20 @@
       "time": "2:25 pm",
       "artist": "Carly Simon",
       "title": "Nobody Does It Better"
+    },
+    {
+      "time": "2:29 pm",
+      "artist": "Duncan Sheik",
+      "title": "Barely Breathing"
     }
   ],
   "recent": [
+    {
+      "time": "2:14 pm",
+      "artist": "Bruce Springsteen",
+      "title": "Born To Run",
+      "album": "Born to Run • 1975"
+    },
     {
       "time": "2:08 pm",
       "artist": "Boston",
@@ -172,12 +178,6 @@
       "artist": "Aphex Twin",
       "title": "Avril 14th",
       "album": "Drukqs • 2001"
-    },
-    {
-      "time": "12:20 pm",
-      "artist": "Thao And The Get Down Stay Down",
-      "title": "Temple",
-      "album": "We the Common • 2013"
     }
   ]
 }
