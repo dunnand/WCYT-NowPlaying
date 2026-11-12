@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T11:55:56",
+  "updatedAt": "2026-11-12T12:00:13",
   "now": {
-    "artist": "Aesop Rock",
-    "title": "Daylight",
-    "album": "Labor Days • 2001",
+    "artist": "ABBA",
+    "title": "Thank You for the Music",
+    "album": "ABBA: The Album • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:00 pm",
-      "artist": "ABBA",
-      "title": "Thank You for the Music"
-    },
     {
       "time": "12:03 pm",
       "artist": "Broadcast",
@@ -26,9 +21,25 @@
       "time": "12:11 pm",
       "artist": "America",
       "title": "A Horse With No Name"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "Built to Spill",
+      "title": "You Were Right"
+    },
+    {
+      "time": "12:20 pm",
+      "artist": "Thao And The Get Down Stay Down",
+      "title": "Temple"
     }
   ],
   "recent": [
+    {
+      "time": "12:00 pm",
+      "artist": "ABBA",
+      "title": "Thank You for the Music",
+      "album": "ABBA: The Album • 1977"
+    },
     {
       "time": "11:55 am",
       "artist": "Aesop Rock",
@@ -172,12 +183,6 @@
       "artist": "Drake",
       "title": "Forever",
       "album": "Music Inspired by More than a Game • 2009"
-    },
-    {
-      "time": "10:35 am",
-      "artist": "Son Little",
-      "title": "Blue Magic (Waikiki)",
-      "album": "Son Little • 2015"
     }
   ]
 }
