@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T21:03:49",
+  "updatedAt": "2026-11-11T21:07:12",
   "now": {
-    "artist": "Bee Gees",
-    "title": "How Deep Is Your Love",
-    "album": "Saturday Night Fever • 1977",
+    "artist": "The Who",
+    "title": "Substitute",
+    "album": "single • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:07 pm",
-      "artist": "The Who",
-      "title": "Substitute"
-    },
     {
       "time": "9:11 pm",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "9:17 pm",
       "artist": "The Who",
       "title": "Won't Get Fooled Again"
+    },
+    {
+      "time": "9:25 pm",
+      "artist": "Heavenly",
+      "title": "Atta Girl"
     }
   ],
   "recent": [
+    {
+      "time": "9:07 pm",
+      "artist": "The Who",
+      "title": "Substitute",
+      "album": "single • 1966"
+    },
     {
       "time": "9:03 pm",
       "artist": "Bee Gees",
@@ -172,12 +178,6 @@
       "artist": "Beyonce",
       "title": "Single Ladies",
       "album": "I Am... Sasha Fierce • 2008"
-    },
-    {
-      "time": "7:29 pm",
-      "artist": "Fats Domino",
-      "title": "I'm In Love Again",
-      "album": "single • 1956"
     }
   ]
 }
