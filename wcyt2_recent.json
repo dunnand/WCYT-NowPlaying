@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-12T06:53:19",
+  "updatedAt": "2026-11-12T06:55:43",
   "now": {
-    "artist": "The Carpenters",
-    "title": "For All We Know",
-    "album": "Carpenters • 1971",
+    "artist": "Paul McCartney and Wings",
+    "title": "Band On The Run",
+    "album": "Band on the Run • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "6:55 am",
-      "artist": "Paul McCartney and Wings",
-      "title": "Band On The Run"
-    },
-    {
-      "time": "7:01 am",
+      "time": "7:00 am",
       "artist": "Death Cab for Cutie",
       "title": "405"
     },
@@ -26,9 +21,20 @@
       "time": "7:09 am",
       "artist": "Steely Dan",
       "title": "Reeling In The Years"
+    },
+    {
+      "time": "7:13 am",
+      "artist": "Barbra Streisand And Bryan Adams",
+      "title": "I Finally Found Someone"
     }
   ],
   "recent": [
+    {
+      "time": "6:55 am",
+      "artist": "Paul McCartney and Wings",
+      "title": "Band On The Run",
+      "album": "Band on the Run • 1973"
+    },
     {
       "time": "6:53 am",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Clinic",
       "title": "Distortions",
       "album": "Internal Wrangler • 2007"
-    },
-    {
-      "time": "5:14 am",
-      "artist": "Billie Holiday",
-      "title": "Strange Fruit",
-      "album": "Billie Holiday • 1947"
     }
   ]
 }
