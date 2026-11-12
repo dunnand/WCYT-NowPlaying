@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T20:03:02",
+  "updatedAt": "2026-11-11T20:07:09",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Say You Love Me",
-    "album": "Fleetwood Mac • 1975",
+    "artist": "Paul Davis",
+    "title": "Sweet Life",
+    "album": "Singer of Songs  Teller of Tales • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 pm",
-      "artist": "Paul Davis",
-      "title": "Sweet Life"
-    },
     {
       "time": "8:10 pm",
       "artist": "The Beta Band",
@@ -26,9 +21,20 @@
       "time": "8:17 pm",
       "artist": "Elton John",
       "title": "Goodbye Yellow Brick Road"
+    },
+    {
+      "time": "8:20 pm",
+      "artist": "Elton John",
+      "title": "Can You Feel The Love Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 pm",
+      "artist": "Paul Davis",
+      "title": "Sweet Life",
+      "album": "Singer of Songs  Teller of Tales • 1978"
+    },
     {
       "time": "8:03 pm",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Air",
       "title": "Playground Love",
       "album": "The Virgin Suicides • 2000"
-    },
-    {
-      "time": "6:32 pm",
-      "artist": "Paul McCartney",
-      "title": "New",
-      "album": "New • 2013"
     }
   ]
 }
