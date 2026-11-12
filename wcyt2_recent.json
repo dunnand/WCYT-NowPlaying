@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T21:03:37",
+  "updatedAt": "2026-11-11T21:03:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "How Deep Is Your Love",
+    "album": "Saturday Night Fever • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:03 pm",
-      "artist": "Bee Gees",
-      "title": "How Deep Is Your Love"
-    },
     {
       "time": "9:07 pm",
       "artist": "The Who",
@@ -26,9 +21,20 @@
       "time": "9:14 pm",
       "artist": "The Who",
       "title": "Tattoo"
+    },
+    {
+      "time": "9:17 pm",
+      "artist": "The Who",
+      "title": "Won't Get Fooled Again"
     }
   ],
   "recent": [
+    {
+      "time": "9:03 pm",
+      "artist": "Bee Gees",
+      "title": "How Deep Is Your Love",
+      "album": "Saturday Night Fever • 1977"
+    },
     {
       "time": "9:00 pm",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "I'm In Love Again",
       "album": "single • 1956"
-    },
-    {
-      "time": "7:24 pm",
-      "artist": "Death Cab for Cutie",
-      "title": "Amputations",
-      "album": "Something About Airplanes • 1998"
     }
   ]
 }
