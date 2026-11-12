@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T15:31:06",
+  "updatedAt": "2026-11-12T15:31:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Green Day",
+    "title": "Coming Clean",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:31 pm",
-      "artist": "Green Day",
-      "title": "Coming Clean"
-    },
     {
       "time": "3:33 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "3:43 pm",
       "artist": "Metallica",
       "title": "For Whom the Bell Tolls"
+    },
+    {
+      "time": "3:48 pm",
+      "artist": "Grimes",
+      "title": "My Name Is Dark"
     }
   ],
   "recent": [
+    {
+      "time": "3:31 pm",
+      "artist": "Green Day",
+      "title": "Coming Clean",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "3:25 pm",
       "artist": "Travis Scott",
@@ -172,12 +178,6 @@
       "artist": "Meat Puppets",
       "title": "Lake of Fire",
       "album": "Meat Puppets II • 1984"
-    },
-    {
-      "time": "1:58 pm",
-      "artist": "Pavement",
-      "title": "Frontwards",
-      "album": "Slanted & Enchanted • 1992"
     }
   ]
 }
