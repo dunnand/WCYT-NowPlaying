@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T06:36:16",
+  "updatedAt": "2026-11-12T06:40:03",
   "now": {
     "artist": "Kraftwerk",
-    "title": "The Telephone Call",
-    "album": "Electric Caf • 1986",
+    "title": "Computer Love",
+    "album": "Computer World • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:40 am",
-      "artist": "Kraftwerk",
-      "title": "Computer Love"
-    },
     {
       "time": "6:47 am",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:40 am",
+      "artist": "Kraftwerk",
+      "title": "Computer Love",
+      "album": "Computer World • 1981"
+    },
     {
       "time": "6:36 am",
       "artist": "Kraftwerk",
@@ -172,12 +173,6 @@
       "artist": "Eagles",
       "title": "New Kid In Town",
       "album": "Hotel California • 1976"
-    },
-    {
-      "time": "4:59 am",
-      "artist": "Radiohead",
-      "title": "Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
