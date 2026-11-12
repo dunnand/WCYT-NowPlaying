@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T05:56:57",
+  "updatedAt": "2026-11-12T05:57:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Amy Winehouse",
+    "title": "Back to Black",
+    "album": "Back to Black • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:57 am",
-      "artist": "Amy Winehouse",
-      "title": "Back to Black"
-    },
     {
       "time": "6:01 am",
       "artist": "The Velvet Underground",
@@ -26,9 +21,20 @@
       "time": "6:06 am",
       "artist": "Brandy",
       "title": "Have You Ever?"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "The Diamonds",
+      "title": "Little Darlin'"
     }
   ],
   "recent": [
+    {
+      "time": "5:57 am",
+      "artist": "Amy Winehouse",
+      "title": "Back to Black",
+      "album": "Back to Black • 2006"
+    },
     {
       "time": "5:53 am",
       "artist": "Billy Joel",
@@ -172,12 +178,6 @@
       "artist": "The Velvet Underground",
       "title": "Candy Says",
       "album": "The Velvet Underground • 1969"
-    },
-    {
-      "time": "4:16 am",
-      "artist": "David Guetta feat Kid Cudi",
-      "title": "Memories",
-      "album": "One Love • 2009"
     }
   ]
 }
