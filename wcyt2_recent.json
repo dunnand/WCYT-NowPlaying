@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T05:04:34",
+  "updatedAt": "2026-11-12T05:09:29",
   "now": {
-    "artist": "Eagles",
-    "title": "New Kid In Town",
-    "album": "Hotel California • 1976",
+    "artist": "Aerosmith",
+    "title": "Cryin'",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:09 am",
-      "artist": "Aerosmith",
-      "title": "Cryin'"
-    },
     {
       "time": "5:14 am",
       "artist": "Billie Holiday",
@@ -21,9 +16,20 @@
       "time": "5:17 am",
       "artist": "Clinic",
       "title": "Distortions"
+    },
+    {
+      "time": "5:22 am",
+      "artist": "The Velvet Underground",
+      "title": "Femme Fatale"
     }
   ],
   "recent": [
+    {
+      "time": "5:09 am",
+      "artist": "Aerosmith",
+      "title": "Cryin'",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "5:04 am",
       "artist": "Eagles",
@@ -167,12 +173,6 @@
       "artist": "The Cardigans",
       "title": "My Favourite Game",
       "album": "Gran Turismo • 1998"
-    },
-    {
-      "time": "3:27 am",
-      "artist": "Sugar Ray",
-      "title": "Fly",
-      "album": "Floored • 1997"
     }
   ]
 }
