@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T12:55:31",
+  "updatedAt": "2026-11-12T12:55:43",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beastie Boys",
+    "title": "Sure Shot",
+    "album": "Ill Communication • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "Beastie Boys",
-      "title": "Sure Shot"
-    },
     {
       "time": "12:58 pm",
       "artist": "Friendship",
@@ -26,9 +21,20 @@
       "time": "1:07 pm",
       "artist": "Beirut",
       "title": "Gibraltar"
+    },
+    {
+      "time": "1:11 pm",
+      "artist": "Joy Division",
+      "title": "Love Will Tear Us Apart"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "Beastie Boys",
+      "title": "Sure Shot",
+      "album": "Ill Communication • 1994"
+    },
     {
       "time": "12:51 pm",
       "artist": "Babehoven",
@@ -172,12 +178,6 @@
       "artist": "M83",
       "title": "Midnight City",
       "album": "Hurry Up, We're Dreaming • 2011"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "Protomartyr",
-      "title": "Sounds We Cannot Hear",
-      "album": "Hotel Usona • 2026"
     }
   ]
 }
