@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T04:03:54",
+  "updatedAt": "2026-11-12T04:10:44",
   "now": {
-    "artist": "Larry Young",
-    "title": "Turn Off the Lights",
-    "album": "Fuel • 1975",
+    "artist": "Tom Petty",
+    "title": "You Wreck Me",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:10 am",
-      "artist": "Tom Petty",
-      "title": "You Wreck Me"
-    },
     {
       "time": "4:14 am",
       "artist": "Buddy Holly",
@@ -26,9 +21,20 @@
       "time": "4:19 am",
       "artist": "The Velvet Underground",
       "title": "Candy Says"
+    },
+    {
+      "time": "4:23 am",
+      "artist": "Radiohead",
+      "title": "The Numbers"
     }
   ],
   "recent": [
+    {
+      "time": "4:10 am",
+      "artist": "Tom Petty",
+      "title": "You Wreck Me",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "4:03 am",
       "artist": "Larry Young",
@@ -172,12 +178,6 @@
       "artist": "Sigur Ros",
       "title": "Olsen Olsen",
       "album": "Agaetis byrjun • 1999"
-    },
-    {
-      "time": "2:28 am",
-      "artist": "Seal",
-      "title": "Crazy",
-      "album": "Seal • 1991"
     }
   ]
 }
