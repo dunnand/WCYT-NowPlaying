@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T04:19:37",
+  "updatedAt": "2026-11-12T04:19:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Velvet Underground",
+    "title": "Candy Says",
+    "album": "The Velvet Underground • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:19 am",
-      "artist": "The Velvet Underground",
-      "title": "Candy Says"
-    },
     {
       "time": "4:23 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:33 am",
       "artist": "Ween",
       "title": "Voodoo Lady"
+    },
+    {
+      "time": "4:37 am",
+      "artist": "Jungle Brothers",
+      "title": "Acknowledge Your Own History"
     }
   ],
   "recent": [
+    {
+      "time": "4:19 am",
+      "artist": "The Velvet Underground",
+      "title": "Candy Says",
+      "album": "The Velvet Underground • 1969"
+    },
     {
       "time": "4:16 am",
       "artist": "David Guetta feat Kid Cudi",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "cardigan",
       "album": "Folklore • 2020"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "Jonathan Richman & The Modern Lovers",
-      "title": "Dancin' Late at Night",
-      "album": "Modern Lovers 88 • 1987"
     }
   ]
 }
