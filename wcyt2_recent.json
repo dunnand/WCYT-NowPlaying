@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T23:41:32",
+  "updatedAt": "2026-11-11T23:47:39",
   "now": {
-    "artist": "Radiohead",
-    "title": "Ful Stop",
-    "album": "A Moon Shaped Pool • 2016",
+    "artist": "Michael Jackson",
+    "title": "Black or White",
+    "album": "Dangerous • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 pm",
-      "artist": "Michael Jackson",
-      "title": "Black or White"
-    },
     {
       "time": "11:50 pm",
       "artist": "The Olivia Tremor Control",
@@ -21,9 +16,20 @@
       "time": "11:53 pm",
       "artist": "The Jesus and Mary Chain",
       "title": "You Trip Me Up"
+    },
+    {
+      "time": "11:56 pm",
+      "artist": "Joan Jett",
+      "title": "Bad Reputation"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 pm",
+      "artist": "Michael Jackson",
+      "title": "Black or White",
+      "album": "Dangerous • 1991"
+    },
     {
       "time": "11:41 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "The Who",
       "title": "The Kids Are Alright",
       "album": "My Generation • 1965"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "Maxine Nightingale",
-      "title": "Right Back Where We Started From",
-      "album": "Right Back Where We Started From • 1976"
     }
   ]
 }
