@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T15:36:59",
+  "updatedAt": "2026-11-12T15:43:48",
   "now": {
     "artist": "Metallica",
-    "title": "Fade to Black",
+    "title": "For Whom the Bell Tolls",
     "album": "Ride the Lightning • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 pm",
-      "artist": "Metallica",
-      "title": "For Whom the Bell Tolls"
-    },
     {
       "time": "3:48 pm",
       "artist": "Grimes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:43 pm",
+      "artist": "Metallica",
+      "title": "For Whom the Bell Tolls",
+      "album": "Ride the Lightning • 1984"
+    },
     {
       "time": "3:36 pm",
       "artist": "Metallica",
@@ -172,12 +173,6 @@
       "artist": "Boston",
       "title": "Don't Look Back",
       "album": "Don’t Look Back • 1978"
-    },
-    {
-      "time": "2:06 pm",
-      "artist": "Mario 3D World Big Band",
-      "title": "The Credits Roll",
-      "album": "Nintendo Music •"
     }
   ]
 }
