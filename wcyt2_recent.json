@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T23:59:09",
+  "updatedAt": "2026-11-12T00:03:40",
   "now": {
-    "artist": "Phil Collins",
-    "title": "Something Happened On The Way To Heaven",
-    "album": "...But Seriously • 1990",
+    "artist": "Ray Charles",
+    "title": "Mess Around",
+    "album": "single • 1953",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "Ray Charles",
-      "title": "Mess Around"
-    },
     {
       "time": "12:06 am",
       "artist": "Broken Social Scene",
@@ -26,9 +21,20 @@
       "time": "12:17 am",
       "artist": "Radiohead",
       "title": "Glass Eyes"
+    },
+    {
+      "time": "12:20 am",
+      "artist": "The Presidents of the United States of America",
+      "title": "Video Killed The Radio Star"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "Ray Charles",
+      "title": "Mess Around",
+      "album": "single • 1953"
+    },
     {
       "time": "11:59 pm",
       "artist": "Phil Collins",
@@ -172,12 +178,6 @@
       "artist": "Joe Turner & His Blues Kings",
       "title": "Shake, Rattle And Roll",
       "album": "The Boss of the Blues • 1956"
-    },
-    {
-      "time": "10:23 pm",
-      "artist": "John Prine",
-      "title": "All the Best",
-      "album": "The Missing Years • 1991"
     }
   ]
 }
