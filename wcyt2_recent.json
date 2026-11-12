@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T01:45:36",
+  "updatedAt": "2026-11-12T01:49:51",
   "now": {
-    "artist": "Queen",
-    "title": "A Kind of Magic",
-    "album": "",
+    "artist": "Townes Van Zandt",
+    "title": "I'll Be Here in the Morning",
+    "album": "Townes Van Zandt • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:49 am",
-      "artist": "Townes Van Zandt",
-      "title": "I'll Be Here in the Morning"
-    },
     {
       "time": "1:52 am",
       "artist": "The Knack",
@@ -26,9 +21,20 @@
       "time": "1:59 am",
       "artist": "Jimmy Buffett",
       "title": "Margaritaville"
+    },
+    {
+      "time": "2:04 am",
+      "artist": "Roxette",
+      "title": "Fading Like A Flower (Every Time You Leave)"
     }
   ],
   "recent": [
+    {
+      "time": "1:49 am",
+      "artist": "Townes Van Zandt",
+      "title": "I'll Be Here in the Morning",
+      "album": "Townes Van Zandt • 1969"
+    },
     {
       "time": "1:45 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Broken Social Scene",
       "title": "Cause = Time",
       "album": "You Forgot It In People • 2002"
-    },
-    {
-      "time": "12:03 am",
-      "artist": "Ray Charles",
-      "title": "Mess Around",
-      "album": "single • 1953"
     }
   ]
 }
