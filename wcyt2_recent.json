@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T20:10:33",
+  "updatedAt": "2026-11-11T20:14:18",
   "now": {
-    "artist": "The Beta Band",
-    "title": "Squares",
-    "album": "Hot Shots II • 2001",
+    "artist": "The Who",
+    "title": "My Generation",
+    "album": "My Generation • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:14 pm",
-      "artist": "The Who",
-      "title": "My Generation"
-    },
     {
       "time": "8:17 pm",
       "artist": "Elton John",
@@ -26,9 +21,20 @@
       "time": "8:24 pm",
       "artist": "Radiohead",
       "title": "Burn the Witch"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "The Corrs",
+      "title": "Breathless"
     }
   ],
   "recent": [
+    {
+      "time": "8:14 pm",
+      "artist": "The Who",
+      "title": "My Generation",
+      "album": "My Generation • 1965"
+    },
     {
       "time": "8:10 pm",
       "artist": "The Beta Band",
@@ -172,12 +178,6 @@
       "artist": "Prince",
       "title": "Manic Monday",
       "album": "Originals • 2019"
-    },
-    {
-      "time": "6:39 pm",
-      "artist": "Bright Eyes",
-      "title": "Lua",
-      "album": "Fevers Mirrors • 2000"
     }
   ]
 }
