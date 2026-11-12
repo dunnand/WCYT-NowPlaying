@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T09:51:21",
+  "updatedAt": "2026-11-12T09:57:08",
   "now": {
     "artist": "Leonard Cohen",
-    "title": "First We Take Manhattan",
+    "title": "Everybody Knows",
     "album": "Im Your Man • 1988",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:57 am",
-      "artist": "Leonard Cohen",
-      "title": "Everybody Knows"
-    },
     {
       "time": "10:02 am",
       "artist": "Taylor Swift",
@@ -21,9 +16,20 @@
       "time": "10:12 am",
       "artist": "Marvin Gaye",
       "title": "Let's Get It On"
+    },
+    {
+      "time": "10:16 am",
+      "artist": "The Velvet Underground",
+      "title": "There She Goes Again"
     }
   ],
   "recent": [
+    {
+      "time": "9:57 am",
+      "artist": "Leonard Cohen",
+      "title": "Everybody Knows",
+      "album": "Im Your Man • 1988"
+    },
     {
       "time": "9:51 am",
       "artist": "Leonard Cohen",
@@ -167,12 +173,6 @@
       "artist": "Chicago",
       "title": "If You Leave Me Now",
       "album": "Chicago X • 1976"
-    },
-    {
-      "time": "8:03 am",
-      "artist": "Run The Jewels",
-      "title": "Early",
-      "album": "Run the Jewels 2 • 2014"
     }
   ]
 }
