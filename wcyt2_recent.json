@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T06:53:07",
+  "updatedAt": "2026-11-12T06:53:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "For All We Know",
+    "album": "Carpenters • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:53 am",
-      "artist": "The Carpenters",
-      "title": "For All We Know"
-    },
     {
       "time": "6:55 am",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "7:04 am",
       "artist": "The Velvet Underground",
       "title": "Lady Godiva's Operation"
+    },
+    {
+      "time": "7:09 am",
+      "artist": "Steely Dan",
+      "title": "Reeling In The Years"
     }
   ],
   "recent": [
+    {
+      "time": "6:53 am",
+      "artist": "The Carpenters",
+      "title": "For All We Know",
+      "album": "Carpenters • 1971"
+    },
     {
       "time": "6:47 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Billie Holiday",
       "title": "Strange Fruit",
       "album": "Billie Holiday • 1947"
-    },
-    {
-      "time": "5:09 am",
-      "artist": "Aerosmith",
-      "title": "Cryin'",
-      "album": "Get a Grip • 1993"
     }
   ]
 }
