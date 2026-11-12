@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-11T23:56:12",
+  "updatedAt": "2026-11-11T23:56:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joan Jett",
+    "title": "Bad Reputation",
+    "album": "Bad Reputation • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:56 pm",
-      "artist": "Joan Jett",
-      "title": "Bad Reputation"
-    },
     {
       "time": "11:59 pm",
       "artist": "Turnstile",
@@ -26,9 +21,20 @@
       "time": "12:08 am",
       "artist": "Rod Stewart",
       "title": "Reason To Believe"
+    },
+    {
+      "time": "12:12 am",
+      "artist": "Bjork",
+      "title": "Pagan Poetry"
     }
   ],
   "recent": [
+    {
+      "time": "11:56 pm",
+      "artist": "Joan Jett",
+      "title": "Bad Reputation",
+      "album": "Bad Reputation • 1980"
+    },
     {
       "time": "11:53 pm",
       "artist": "The Jesus and Mary Chain",
@@ -172,12 +178,6 @@
       "artist": "LaBelle",
       "title": "Lady Marmalade",
       "album": "Nightbirds • 1974"
-    },
-    {
-      "time": "10:17 pm",
-      "artist": "Toots & The Maytals",
-      "title": "54-46 Was My Number",
-      "album": "Sweet and Dandy • 1968"
     }
   ]
 }
