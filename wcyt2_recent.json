@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T00:11:52",
+  "updatedAt": "2026-11-12T00:12:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Townes Van Zandt",
+    "title": "For the Sake of the Song",
+    "album": "Townes Van Zandt • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 am",
-      "artist": "Townes Van Zandt",
-      "title": "For the Sake of the Song"
-    },
     {
       "time": "12:17 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "12:23 am",
       "artist": "Primal Scream",
       "title": "Come Together"
+    },
+    {
+      "time": "12:33 am",
+      "artist": "John Cale",
+      "title": "(I Keep a) Close Watch"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 am",
+      "artist": "Townes Van Zandt",
+      "title": "For the Sake of the Song",
+      "album": "Townes Van Zandt • 1969"
+    },
     {
       "time": "12:06 am",
       "artist": "Broken Social Scene",
@@ -172,12 +178,6 @@
       "artist": "Toots & The Maytals",
       "title": "Pressure Drop",
       "album": "Sweet and Dandy • 1968"
-    },
-    {
-      "time": "10:29 pm",
-      "artist": "Arcade Fire",
-      "title": "In the Backseat",
-      "album": "Funeral • 2004"
     }
   ]
 }
