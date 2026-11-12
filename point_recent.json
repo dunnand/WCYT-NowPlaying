@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T01:21:20",
+  "updatedAt": "2026-11-12T01:21:40",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Dummy",
+    "title": "Touch the Perfect Speed",
+    "album": "do you love the color of the sky? • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:21 am",
-      "artist": "Dummy",
-      "title": "Touch the Perfect Speed"
-    },
     {
       "time": "1:26 am",
       "artist": "Way Dynamic",
@@ -26,9 +21,20 @@
       "time": "1:31 am",
       "artist": "The Decemberists",
       "title": "Sons & Daughters"
+    },
+    {
+      "time": "1:37 am",
+      "artist": "Perfume Genius",
+      "title": "Natural High"
     }
   ],
   "recent": [
+    {
+      "time": "1:21 am",
+      "artist": "Dummy",
+      "title": "Touch the Perfect Speed",
+      "album": "do you love the color of the sky? • 2026"
+    },
     {
       "time": "1:17 am",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Junior Pro",
       "title": "Cool",
       "album": "Cool • 2026"
-    },
-    {
-      "time": "11:43 pm",
-      "artist": "Talking Heads",
-      "title": "The Lady Don't Mind",
-      "album": "Little Creatures • 1985"
     }
   ]
 }
