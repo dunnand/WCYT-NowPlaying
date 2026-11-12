@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T15:43:48",
+  "updatedAt": "2026-11-12T15:48:45",
   "now": {
-    "artist": "Metallica",
-    "title": "For Whom the Bell Tolls",
-    "album": "Ride the Lightning • 1984",
+    "artist": "Grimes",
+    "title": "My Name Is Dark",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:48 pm",
-      "artist": "Grimes",
-      "title": "My Name Is Dark"
-    },
     {
       "time": "3:55 pm",
       "artist": "Dionne Warwick",
@@ -21,9 +16,20 @@
       "time": "3:58 pm",
       "artist": "Dire Straits",
       "title": "Sultans Of Swing"
+    },
+    {
+      "time": "4:03 pm",
+      "artist": "The Flaming Lips",
+      "title": "Ego Tripping at the Gates of Hell"
     }
   ],
   "recent": [
+    {
+      "time": "3:48 pm",
+      "artist": "Grimes",
+      "title": "My Name Is Dark",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "3:43 pm",
       "artist": "Metallica",
@@ -167,12 +173,6 @@
       "artist": "Bruce Springsteen",
       "title": "Born To Run",
       "album": "Born to Run • 1975"
-    },
-    {
-      "time": "2:08 pm",
-      "artist": "Boston",
-      "title": "Don't Look Back",
-      "album": "Don’t Look Back • 1978"
     }
   ]
 }
