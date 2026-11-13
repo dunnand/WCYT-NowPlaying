@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-13T00:04:56",
+  "updatedAt": "2026-11-13T00:09:13",
   "now": {
-    "artist": "Elbow",
-    "title": "Station Approach",
-    "album": "Leaders of the Free World • 2005",
-    "category": "TUNES"
+    "artist": "Dave Matthews Band",
+    "title": "Where Are You Going",
+    "album": "Busted Stuff • 2002",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:09 am",
-      "artist": "Dave Matthews Band",
-      "title": "Where Are You Going"
-    },
     {
       "time": "12:13 am",
       "artist": "Wilco",
       "title": "Citizens"
     },
     {
-      "time": "12:16 am",
+      "time": "12:15 am",
       "artist": "Frank Black",
       "title": "Headache"
     },
@@ -26,9 +21,20 @@
       "time": "12:18 am",
       "artist": "The Flaming Lips",
       "title": "Suddenly Everything Has Changed"
+    },
+    {
+      "time": "12:22 am",
+      "artist": "Mission of Burma",
+      "title": "Trem Two"
     }
   ],
   "recent": [
+    {
+      "time": "12:09 am",
+      "artist": "Dave Matthews Band",
+      "title": "Where Are You Going",
+      "album": "Busted Stuff • 2002"
+    },
     {
       "time": "12:04 am",
       "artist": "Elbow",
@@ -172,12 +178,6 @@
       "artist": "Neutral Milk Hotel",
       "title": "The King of Carrot Flowers, Parts Two & Three",
       "album": "In The Aeroplane Over The Sea • 1998"
-    },
-    {
-      "time": "10:37 pm",
-      "artist": "Modest Mouse",
-      "title": "Broke",
-      "album": "Building Nothing Out of Something • 1999"
     }
   ]
 }
