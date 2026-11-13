@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T14:19:49",
+  "updatedAt": "2026-11-13T14:20:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Everything Reminds Me of Her",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:19 pm",
-      "artist": "Elliott Smith",
-      "title": "Everything Reminds Me of Her"
-    },
     {
       "time": "2:22 pm",
       "artist": "Death Cab for Cutie",
@@ -26,9 +21,20 @@
       "time": "2:29 pm",
       "artist": "Aaron Neville",
       "title": "Everybody Plays The Fool"
+    },
+    {
+      "time": "2:33 pm",
+      "artist": "Madonna",
+      "title": "Beautiful Stranger"
     }
   ],
   "recent": [
+    {
+      "time": "2:20 pm",
+      "artist": "Elliott Smith",
+      "title": "Everything Reminds Me of Her",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "2:15 pm",
       "artist": "Black Sheep",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "False Prophet",
       "album": "Rough and Rowdy Ways • 2020"
-    },
-    {
-      "time": "12:07 pm",
-      "artist": "Paul Simon",
-      "title": "Diamonds on the Soles of Her Shoes",
-      "album": "Graceland • 1986"
     }
   ]
 }
