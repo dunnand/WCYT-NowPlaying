@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T08:11:53",
+  "updatedAt": "2026-11-13T08:14:37",
   "now": {
-    "artist": "Tom Jones",
-    "title": "She's A Lady",
-    "album": "Tom Jones Sings She's a Lady • 1971",
+    "artist": "Mary Hopkin",
+    "title": "Those Were the Days",
+    "album": "Post Card • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:14 am",
-      "artist": "Mary Hopkin",
-      "title": "Those Were the Days"
-    },
     {
       "time": "8:19 am",
       "artist": "William Onyeabor",
@@ -26,9 +21,20 @@
       "time": "8:28 am",
       "artist": "Willie Nelson",
       "title": "My Heroes Have Always Been Cowboys"
+    },
+    {
+      "time": "8:31 am",
+      "artist": "Def Leppard",
+      "title": "Have You Ever Needed Someone So Bad"
     }
   ],
   "recent": [
+    {
+      "time": "8:14 am",
+      "artist": "Mary Hopkin",
+      "title": "Those Were the Days",
+      "album": "Post Card • 1969"
+    },
     {
       "time": "8:11 am",
       "artist": "Tom Jones",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "All My Life",
       "album": "One by One • 2002"
-    },
-    {
-      "time": "6:41 am",
-      "artist": "Eddie Cochran",
-      "title": "Summertime Blues",
-      "album": "single • 1958"
     }
   ]
 }
