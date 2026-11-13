@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T21:00:27",
+  "updatedAt": "2026-11-12T21:02:28",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Ballad Of A Teenage Queen",
-    "album": "Ballad Of A Teenage Queen • 1958",
-    "category": "AUDIO"
+    "artist": "Clap Your Hands Say Yeah",
+    "title": "The Skin of My Yellow Country Teeth",
+    "album": "Clap Your Hands Say Yeah • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:02 pm",
-      "artist": "Clap Your Hands Say Yeah",
-      "title": "The Skin of My Yellow Country Teeth"
-    },
     {
       "time": "9:08 pm",
       "artist": "Nico",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:02 pm",
+      "artist": "Clap Your Hands Say Yeah",
+      "title": "The Skin of My Yellow Country Teeth",
+      "album": "Clap Your Hands Say Yeah • 2005"
+    },
     {
       "time": "9:00 pm",
       "artist": "Johnny Cash",
@@ -171,12 +172,6 @@
       "time": "7:39 pm",
       "artist": "Minutemen",
       "title": "Viet Nam",
-      "album": "Double Nickels on the Dime • 1984"
-    },
-    {
-      "time": "7:37 pm",
-      "artist": "Minutemen",
-      "title": "History Lesson-Part II",
       "album": "Double Nickels on the Dime • 1984"
     }
   ]
