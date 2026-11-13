@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T01:08:02",
+  "updatedAt": "2026-11-13T01:11:09",
   "now": {
-    "artist": "Wilco",
-    "title": "Cold Slope",
-    "album": "Star Wars • 2015",
+    "artist": "Mariah Carey",
+    "title": "One Sweet Day",
+    "album": "Daydream • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:11 am",
-      "artist": "Mariah Carey",
-      "title": "One Sweet Day"
-    },
     {
       "time": "1:15 am",
       "artist": "Oasis",
@@ -21,9 +16,20 @@
       "time": "1:20 am",
       "artist": "Neil Young",
       "title": "Transformer Man"
+    },
+    {
+      "time": "1:23 am",
+      "artist": "New Order",
+      "title": "Age of Consent"
     }
   ],
   "recent": [
+    {
+      "time": "1:11 am",
+      "artist": "Mariah Carey",
+      "title": "One Sweet Day",
+      "album": "Daydream • 1995"
+    },
     {
       "time": "1:08 am",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "Kool & The Gang",
       "title": "Summer Madness",
       "album": "Light of Worlds • 1974"
-    },
-    {
-      "time": "11:33 pm",
-      "artist": "Meat Puppets",
-      "title": "Split Myself in Two",
-      "album": "Meat Puppets II • 1984"
     }
   ]
 }
