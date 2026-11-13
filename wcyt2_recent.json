@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T13:34:59",
+  "updatedAt": "2026-11-13T13:35:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Graceland",
+    "album": "Graceland • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 pm",
-      "artist": "Paul Simon",
-      "title": "Graceland"
-    },
     {
       "time": "1:39 pm",
       "artist": "Paul Simon",
@@ -26,9 +21,20 @@
       "time": "1:48 pm",
       "artist": "Norman Greenbaum",
       "title": "Spirit In The Sky"
+    },
+    {
+      "time": "1:52 pm",
+      "artist": "Janis Joplin",
+      "title": "Me And Bobby McGee"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 pm",
+      "artist": "Paul Simon",
+      "title": "Graceland",
+      "album": "Graceland • 1986"
+    },
     {
       "time": "1:30 pm",
       "artist": "Pavement",
@@ -172,12 +178,6 @@
       "artist": "Spencer Davis Group",
       "title": "I'm A Man",
       "album": "Im a Man • 1967"
-    },
-    {
-      "time": "11:24 am",
-      "artist": "Gram Parsons",
-      "title": "She",
-      "album": "GP • 1973"
     }
   ]
 }
