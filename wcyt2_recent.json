@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T15:22:56",
+  "updatedAt": "2026-11-13T15:26:52",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Blank Space",
-    "album": "1989 • 2014",
+    "artist": "Alice in Chains",
+    "title": "Rooster",
+    "album": "Dirt • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 pm",
-      "artist": "Alice in Chains",
-      "title": "Rooster"
-    },
     {
       "time": "3:33 pm",
       "artist": "Aphex Twin",
@@ -21,9 +16,20 @@
       "time": "3:38 pm",
       "artist": "Paul Simon",
       "title": "The Boy in the Bubble"
+    },
+    {
+      "time": "3:42 pm",
+      "artist": "Paul Simon",
+      "title": "Train in the Distance"
     }
   ],
   "recent": [
+    {
+      "time": "3:26 pm",
+      "artist": "Alice in Chains",
+      "title": "Rooster",
+      "album": "Dirt • 1992"
+    },
     {
       "time": "3:22 pm",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "Nirvana.",
       "title": "Something in the Way",
       "album": "Nevermind • 1991"
-    },
-    {
-      "time": "1:52 pm",
-      "artist": "Norman Greenbaum",
-      "title": "Spirit In The Sky",
-      "album": "Spirit in the Sky • 1970"
     }
   ]
 }
