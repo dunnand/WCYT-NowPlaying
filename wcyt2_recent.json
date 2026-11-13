@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T15:11:02",
+  "updatedAt": "2026-11-13T15:15:10",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Crazy",
-    "album": "Get a Grip • 1994",
+    "artist": "Jamies",
+    "title": "Summertime, Summertime",
+    "album": "Single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:15 pm",
-      "artist": "Jamies",
-      "title": "Summertime, Summertime"
-    },
     {
       "time": "3:17 pm",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "3:22 pm",
       "artist": "Taylor Swift",
       "title": "Blank Space"
+    },
+    {
+      "time": "3:26 pm",
+      "artist": "Alice in Chains",
+      "title": "Rooster"
     }
   ],
   "recent": [
+    {
+      "time": "3:15 pm",
+      "artist": "Jamies",
+      "title": "Summertime, Summertime",
+      "album": "Single • 1958"
+    },
     {
       "time": "3:11 pm",
       "artist": "Aerosmith",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Hearts and Bones",
       "album": "Hearts and Bones • 1983"
-    },
-    {
-      "time": "1:35 pm",
-      "artist": "Paul Simon",
-      "title": "Graceland",
-      "album": "Graceland • 1986"
     }
   ]
 }
