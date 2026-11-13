@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T19:54:04",
+  "updatedAt": "2026-11-12T19:56:55",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Fake Tales of San Francisco",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "Jim Reeves",
+    "title": "He'll Have To Go",
+    "album": "Hell Have to Go • 1960",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:56 pm",
-      "artist": "Jim Reeves",
-      "title": "He'll Have To Go"
-    },
     {
       "time": "7:59 pm",
       "artist": "James Taylor",
@@ -26,9 +21,20 @@
       "time": "8:07 pm",
       "artist": "Weezer",
       "title": "Memories"
+    },
+    {
+      "time": "8:10 pm",
+      "artist": "Beck",
+      "title": "Paper Tiger"
     }
   ],
   "recent": [
+    {
+      "time": "7:56 pm",
+      "artist": "Jim Reeves",
+      "title": "He'll Have To Go",
+      "album": "Hell Have to Go • 1960"
+    },
     {
       "time": "7:54 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Feels Like Summer",
       "album": "Pacific Daydream • 2017"
-    },
-    {
-      "time": "6:29 pm",
-      "artist": "Broken Social Scene",
-      "title": "Almost Crimes (Radio Kills remix)",
-      "album": "You Forgot It In People • 2002"
     }
   ]
 }
