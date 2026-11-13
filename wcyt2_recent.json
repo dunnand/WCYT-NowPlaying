@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T01:01:17",
+  "updatedAt": "2026-11-13T01:03:23",
   "now": {
-    "artist": "Carl Perkins",
-    "title": "Blue Suede Shoes",
-    "album": "Dance Album of Carl Perkins • 1957",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Somebody That I Used To Know",
+    "album": "Figure 8 • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:03 am",
-      "artist": "Elliott Smith",
-      "title": "Somebody That I Used To Know"
-    },
     {
       "time": "1:05 am",
       "artist": "Ricky Nelson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:03 am",
+      "artist": "Elliott Smith",
+      "title": "Somebody That I Used To Know",
+      "album": "Figure 8 • 2000"
+    },
     {
       "time": "1:01 am",
       "artist": "Carl Perkins",
@@ -172,12 +173,6 @@
       "artist": "Babes in Toyland",
       "title": "Sweet '69",
       "album": "Nemesisters • 1995"
-    },
-    {
-      "time": "11:20 pm",
-      "artist": "Travis Scott",
-      "title": "goosebumps",
-      "album": "Birds in the Trap Sing McKnight • 2016"
     }
   ]
 }
