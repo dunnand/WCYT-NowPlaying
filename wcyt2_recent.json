@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T01:05:26",
+  "updatedAt": "2026-11-13T01:05:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ricky Nelson",
+    "title": "Travelin' Man",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 am",
-      "artist": "Ricky Nelson",
-      "title": "Travelin' Man"
-    },
     {
       "time": "1:07 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "1:15 am",
       "artist": "Oasis",
       "title": "Wonderwall"
+    },
+    {
+      "time": "1:20 am",
+      "artist": "Neil Young",
+      "title": "Transformer Man"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "Ricky Nelson",
+      "title": "Travelin' Man",
+      "album": "single • 1961"
+    },
     {
       "time": "1:03 am",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Chapterhouse",
       "title": "Pearl",
       "album": "Whirlpool • 1991"
-    },
-    {
-      "time": "11:24 pm",
-      "artist": "Babes in Toyland",
-      "title": "Sweet '69",
-      "album": "Nemesisters • 1995"
     }
   ]
 }
