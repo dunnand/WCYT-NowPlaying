@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T04:58:13",
+  "updatedAt": "2026-11-13T05:00:56",
   "now": {
-    "artist": "Wilco",
-    "title": "North American Kids",
-    "album": "Schmilco • 2016",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Meaningless",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "The Magnetic Fields",
-      "title": "Meaningless"
-    },
     {
       "time": "5:03 am",
       "artist": "Alanis Morissette",
@@ -21,9 +16,20 @@
       "time": "5:06 am",
       "artist": "New Order",
       "title": "The Village"
+    },
+    {
+      "time": "5:11 am",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "From Her to Eternity"
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "The Magnetic Fields",
+      "title": "Meaningless",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "4:58 am",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "Stiff Little Fingers",
       "title": "Suspect Device",
       "album": "Inflammable Material • 1979"
-    },
-    {
-      "time": "3:27 am",
-      "artist": "Smokey Robinson",
-      "title": "Cruisin'",
-      "album": "Where There's Smoke... • 1979"
     }
   ]
 }
