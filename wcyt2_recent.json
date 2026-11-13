@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T10:40:47",
+  "updatedAt": "2026-11-13T10:44:22",
   "now": {
-    "artist": "Blind Melon",
-    "title": "No Rain",
-    "album": "Blind Melon • 1993",
-    "category": "AUDIO"
+    "artist": "Thom Yorke",
+    "title": "Twist",
+    "album": "ANIMA • 2019",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:44 am",
-      "artist": "Thom Yorke",
-      "title": "Twist"
-    },
     {
       "time": "10:51 am",
       "artist": "Del the Funky Homosapien",
@@ -21,9 +16,20 @@
       "time": "10:55 am",
       "artist": "Animal Collective",
       "title": "Grass"
+    },
+    {
+      "time": "10:58 am",
+      "artist": "Train",
+      "title": "Drive By"
     }
   ],
   "recent": [
+    {
+      "time": "10:44 am",
+      "artist": "Thom Yorke",
+      "title": "Twist",
+      "album": "ANIMA • 2019"
+    },
     {
       "time": "10:40 am",
       "artist": "Blind Melon",
@@ -167,12 +173,6 @@
       "artist": "Nirvana",
       "title": "Negative Creep",
       "album": "Bleach • 1989"
-    },
-    {
-      "time": "8:56 am",
-      "artist": "The Beta Band",
-      "title": "Dry the Rain",
-      "album": "Champion Version EP • 1997"
     }
   ]
 }
