@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T05:38:16",
+  "updatedAt": "2026-11-13T05:40:59",
   "now": {
-    "artist": "Sam Cooke",
-    "title": "You Send Me",
-    "album": "Sam Cooke • 1957",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Fluorescent Adolescent",
+    "album": "Favourite Worst Nightmare • 2007",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:40 am",
-      "artist": "Arctic Monkeys",
-      "title": "Fluorescent Adolescent"
-    },
     {
       "time": "5:44 am",
       "artist": "Rolling Stones",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:40 am",
+      "artist": "Arctic Monkeys",
+      "title": "Fluorescent Adolescent",
+      "album": "Favourite Worst Nightmare • 2007"
+    },
     {
       "time": "5:38 am",
       "artist": "Sam Cooke",
@@ -172,12 +173,6 @@
       "artist": "New Order",
       "title": "Temptation (original 7\" version)",
       "album": "single • 1982"
-    },
-    {
-      "time": "4:10 am",
-      "artist": "New Order",
-      "title": "Sub-Culture",
-      "album": "Low-Life • 1985"
     }
   ]
 }
