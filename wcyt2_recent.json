@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T01:28:32",
+  "updatedAt": "2026-11-13T01:33:17",
   "now": {
-    "artist": "Beyonce",
-    "title": "BLACK PARADE",
-    "album": "The Lion King: The Gift • 2020",
-    "category": "AUDIO"
+    "artist": "Camera Obscura",
+    "title": "Eighties Fan",
+    "album": "Biggest Bluest Hi-Fi • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:33 am",
-      "artist": "Camera Obscura",
-      "title": "Eighties Fan"
-    },
     {
       "time": "1:37 am",
       "artist": "Pere Ubu",
@@ -26,9 +21,20 @@
       "time": "1:46 am",
       "artist": "Wilco",
       "title": "Everyone Hides"
+    },
+    {
+      "time": "1:49 am",
+      "artist": "The Police",
+      "title": "Roxanne"
     }
   ],
   "recent": [
+    {
+      "time": "1:33 am",
+      "artist": "Camera Obscura",
+      "title": "Eighties Fan",
+      "album": "Biggest Bluest Hi-Fi • 2001"
+    },
     {
       "time": "1:28 am",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Born Alone",
       "album": "The Whole Love • 2011"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "Elliott Smith",
-      "title": "Southern Belle",
-      "album": "Elliott Smith • 1995"
     }
   ]
 }
