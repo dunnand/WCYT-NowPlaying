@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T03:45:11",
+  "updatedAt": "2026-11-13T03:49:59",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Two-Headed Boy, Part Two",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Little Richard",
+    "title": "Rip It Up",
+    "album": "Here's Little Richard • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "Little Richard",
-      "title": "Rip It Up"
-    },
     {
       "time": "3:52 am",
       "artist": "Dilated Peoples",
@@ -26,9 +21,20 @@
       "time": "3:58 am",
       "artist": "Wilco",
       "title": "Love Is Everywhere (Beware)"
+    },
+    {
+      "time": "4:01 am",
+      "artist": "Dr. Octagon",
+      "title": "Blue Flowers"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "Little Richard",
+      "title": "Rip It Up",
+      "album": "Here's Little Richard • 1957"
+    },
     {
       "time": "3:45 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Bizarre Love Triangle",
       "album": "Brotherhood • 1986"
-    },
-    {
-      "time": "2:16 am",
-      "artist": "Soundgarden",
-      "title": "Fell on Black Days",
-      "album": "Superunknown • 1994"
     }
   ]
 }
