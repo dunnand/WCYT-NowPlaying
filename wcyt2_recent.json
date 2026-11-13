@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T10:28:08",
+  "updatedAt": "2026-11-13T10:32:43",
   "now": {
-    "artist": "Beck",
-    "title": "The Golden Age",
-    "album": "Sea Change • 2002",
-    "category": "TUNES"
+    "artist": "Grimes",
+    "title": "Violence",
+    "album": "Miss Anthropocene • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:32 am",
-      "artist": "Grimes",
-      "title": "Violence"
-    },
     {
       "time": "10:36 am",
       "artist": "Marianne Faithfull",
@@ -26,9 +21,20 @@
       "time": "10:44 am",
       "artist": "Thom Yorke",
       "title": "Twist"
+    },
+    {
+      "time": "10:51 am",
+      "artist": "Del the Funky Homosapien",
+      "title": "If You Must"
     }
   ],
   "recent": [
+    {
+      "time": "10:32 am",
+      "artist": "Grimes",
+      "title": "Violence",
+      "album": "Miss Anthropocene • 2019"
+    },
     {
       "time": "10:28 am",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Whole Love",
       "album": "The Whole Love • 2011"
-    },
-    {
-      "time": "8:46 am",
-      "artist": "Electric Six",
-      "title": "Danger! High Voltage",
-      "album": "Fire • 2003"
     }
   ]
 }
