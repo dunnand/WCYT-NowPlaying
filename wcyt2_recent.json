@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T12:12:37",
+  "updatedAt": "2026-11-13T12:18:24",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "False Prophet",
-    "album": "Rough and Rowdy Ways • 2020",
+    "artist": "Feist",
+    "title": "1234",
+    "album": "The Reminder • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 pm",
-      "artist": "Feist",
-      "title": "1234"
-    },
     {
       "time": "12:21 pm",
       "artist": "King Harvest",
@@ -26,9 +21,20 @@
       "time": "12:27 pm",
       "artist": "Vampire Weekend",
       "title": "White Sky"
+    },
+    {
+      "time": "12:30 pm",
+      "artist": "Ozark Mountain Daredevils",
+      "title": "Jackie Blue"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 pm",
+      "artist": "Feist",
+      "title": "1234",
+      "album": "The Reminder • 2008"
+    },
     {
       "time": "12:12 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Thom Yorke",
       "title": "Twist",
       "album": "ANIMA • 2019"
-    },
-    {
-      "time": "10:40 am",
-      "artist": "Blind Melon",
-      "title": "No Rain",
-      "album": "Blind Melon • 1993"
     }
   ]
 }
