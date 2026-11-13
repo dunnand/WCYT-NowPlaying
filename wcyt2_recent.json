@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T18:57:44",
+  "updatedAt": "2026-11-13T18:57:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Monday Morning",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:57 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Monday Morning"
-    },
     {
       "time": "7:00 pm",
       "artist": "Swinging Blue Jeans",
@@ -26,9 +21,20 @@
       "time": "7:05 pm",
       "artist": "Peter & Gordon",
       "title": "A World Without Love"
+    },
+    {
+      "time": "7:08 pm",
+      "artist": "Blondie",
+      "title": "(I'm Always Touched by Your) Presence Dear"
     }
   ],
   "recent": [
+    {
+      "time": "6:57 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Monday Morning",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "6:54 pm",
       "artist": "James Brown",
@@ -172,12 +178,6 @@
       "artist": "Ritchie Valens",
       "title": "Come on, Let's Go",
       "album": "Ritchie Valens • 1959"
-    },
-    {
-      "time": "5:21 pm",
-      "artist": "Phil Collins",
-      "title": "Do You Remember?",
-      "album": "...But Seriously • 1990"
     }
   ]
 }
