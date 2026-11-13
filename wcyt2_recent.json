@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T11:01:15",
+  "updatedAt": "2026-11-13T11:05:25",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Needle In The Hay",
-    "album": "Elliott Smith • 1995",
-    "category": "TUNES"
+    "artist": "Green Day",
+    "title": "When I Come Around",
+    "album": "Dookie • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 am",
-      "artist": "Green Day",
-      "title": "When I Come Around"
-    },
     {
       "time": "11:08 am",
       "artist": "Orchestral Manoeuvres in the Dark",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:05 am",
+      "artist": "Green Day",
+      "title": "When I Come Around",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "11:01 am",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Sylvester",
       "title": "Over And Over (Special 12\" Disco Mix)",
       "album": "Sylvester • 1977"
-    },
-    {
-      "time": "9:17 am",
-      "artist": "Martha Reeves & The Vandellas",
-      "title": "Jimmy Mack",
-      "album": "Watchout! • 1966"
     }
   ]
 }
