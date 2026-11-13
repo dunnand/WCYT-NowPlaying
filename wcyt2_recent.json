@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-12T21:11:46",
+  "updatedAt": "2026-11-12T21:15:09",
   "now": {
-    "artist": "Weezer",
-    "title": "The Futurescope Trilogy: II. Anonymous",
-    "album": "Everything Will Be Alright in the End • 2014",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Song 2",
+    "album": "Blur • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:15 pm",
-      "artist": "Blur",
-      "title": "Song 2"
-    },
     {
       "time": "9:17 pm",
       "artist": "Portishead",
@@ -21,9 +16,20 @@
       "time": "9:21 pm",
       "artist": "Mission of Burma",
       "title": "Forget"
+    },
+    {
+      "time": "9:24 pm",
+      "artist": "Mission of Burma",
+      "title": "Mica"
     }
   ],
   "recent": [
+    {
+      "time": "9:15 pm",
+      "artist": "Blur",
+      "title": "Song 2",
+      "album": "Blur • 1997"
+    },
     {
       "time": "9:11 pm",
       "artist": "Weezer",
@@ -167,12 +173,6 @@
       "artist": "Jackson Browne",
       "title": "Running On Empty",
       "album": "Running on Empty • 1978"
-    },
-    {
-      "time": "7:44 pm",
-      "artist": "Iggy Pop",
-      "title": "Five Foot One",
-      "album": "New Values • 1979"
     }
   ]
 }
