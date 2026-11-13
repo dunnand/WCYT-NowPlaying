@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T02:33:42",
+  "updatedAt": "2026-11-13T02:33:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Randy Newman",
+    "title": "Sail Away",
+    "album": "Sail Away • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:33 am",
-      "artist": "Randy Newman",
-      "title": "Sail Away"
-    },
     {
       "time": "2:36 am",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "2:42 am",
       "artist": "Steppenwolf",
       "title": "Born To Be Wild"
+    },
+    {
+      "time": "2:45 am",
+      "artist": "Rose Royce",
+      "title": "Car Wash"
     }
   ],
   "recent": [
+    {
+      "time": "2:33 am",
+      "artist": "Randy Newman",
+      "title": "Sail Away",
+      "album": "Sail Away • 1972"
+    },
     {
       "time": "2:29 am",
       "artist": "American Football",
@@ -172,12 +178,6 @@
       "artist": "Carl Perkins",
       "title": "Blue Suede Shoes",
       "album": "Dance Album of Carl Perkins • 1957"
-    },
-    {
-      "time": "12:56 am",
-      "artist": "Guided by Voices",
-      "title": "I Am a Tree",
-      "album": "Mag Earwhig! • 1997"
     }
   ]
 }
