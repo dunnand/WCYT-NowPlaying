@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-11-13T05:46:48",
+  "updatedAt": "2026-11-13T05:52:36",
   "now": {
-    "artist": "Wilco",
-    "title": "Quiet Amplifier",
-    "album": "Ode to Joy • 2019",
+    "artist": "Dave Matthews Band",
+    "title": "Crash into Me",
+    "album": "Crash • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:52 am",
-      "artist": "Dave Matthews Band",
-      "title": "Crash into Me"
-    },
     {
       "time": "5:57 am",
       "artist": "Janet Jackson",
       "title": "That's The Way Love Goes"
     },
     {
-      "time": "6:02 am",
+      "time": "6:01 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "The Mercy Seat"
+    },
+    {
+      "time": "6:09 am",
+      "artist": "Nick Drake",
+      "title": "Black Eyed Dog"
     }
   ],
   "recent": [
+    {
+      "time": "5:52 am",
+      "artist": "Dave Matthews Band",
+      "title": "Crash into Me",
+      "album": "Crash • 1996"
+    },
     {
       "time": "5:46 am",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "The Temptations",
       "title": "Papa Was A Rollin' Stone",
       "album": "All Directions • 1972"
-    },
-    {
-      "time": "4:23 am",
-      "artist": "The Black Keys",
-      "title": "10 A.M. Automatic",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
