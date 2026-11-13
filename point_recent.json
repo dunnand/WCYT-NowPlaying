@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T12:02:56",
+  "updatedAt": "2026-11-13T12:03:16",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Kim Gordon",
+    "title": "NOT TODAY",
+    "album": "PLAY ME • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 pm",
-      "artist": "Kim Gordon",
-      "title": "NOT TODAY"
-    },
     {
       "time": "12:06 pm",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "12:13 pm",
       "artist": "Beach House",
       "title": "Woo"
+    },
+    {
+      "time": "12:18 pm",
+      "artist": "Avalon Emerson",
+      "title": "Jupiter and Mars"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 pm",
+      "artist": "Kim Gordon",
+      "title": "NOT TODAY",
+      "album": "PLAY ME • 2026"
+    },
     {
       "time": "11:58 am",
       "artist": "Talking Heads",
@@ -172,12 +178,6 @@
       "artist": "Ty Segall",
       "title": "Hospital",
       "album": "Chrome • 2026"
-    },
-    {
-      "time": "10:27 am",
-      "artist": "Radiohead",
-      "title": "Little by Little",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
