@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T02:54:28",
+  "updatedAt": "2026-11-13T02:56:40",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blue Monday",
-    "album": "This Is Fats Domino! • 1956",
-    "category": "AUDIO"
+    "artist": "Circulatory System",
+    "title": "Yesterday's World",
+    "album": "Circulatory System • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:56 am",
-      "artist": "Circulatory System",
-      "title": "Yesterday's World"
-    },
     {
       "time": "3:01 am",
       "artist": "Monkees",
@@ -21,9 +16,20 @@
       "time": "3:03 am",
       "artist": "Wilco",
       "title": "Locator"
+    },
+    {
+      "time": "3:06 am",
+      "artist": "Cornershop",
+      "title": "Brimful of Asha"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 am",
+      "artist": "Circulatory System",
+      "title": "Yesterday's World",
+      "album": "Circulatory System • 2001"
+    },
     {
       "time": "2:54 am",
       "artist": "Fats Domino",
@@ -167,12 +173,6 @@
       "artist": "New Order",
       "title": "Age of Consent",
       "album": "Power, Corruption & Lies • 1983"
-    },
-    {
-      "time": "1:20 am",
-      "artist": "Neil Young",
-      "title": "Transformer Man",
-      "album": "Trans • 1982"
     }
   ]
 }
