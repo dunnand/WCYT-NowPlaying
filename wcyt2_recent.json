@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T04:46:16",
+  "updatedAt": "2026-11-13T04:50:30",
   "now": {
-    "artist": "Breathe",
-    "title": "Hands To Heaven",
-    "album": "All That Jazz • 1990",
+    "artist": "Ray Charles",
+    "title": "Lonely Avenue",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Ray Charles",
-      "title": "Lonely Avenue"
-    },
     {
       "time": "4:52 am",
       "artist": "Guided by Voices",
@@ -26,9 +21,20 @@
       "time": "4:58 am",
       "artist": "Wilco",
       "title": "North American Kids"
+    },
+    {
+      "time": "5:00 am",
+      "artist": "The Magnetic Fields",
+      "title": "Meaningless"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Ray Charles",
+      "title": "Lonely Avenue",
+      "album": "single • 1956"
+    },
     {
       "time": "4:46 am",
       "artist": "Breathe",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Leave Me Alone",
       "album": "Power, Corruption & Lies • 1983"
-    },
-    {
-      "time": "3:11 am",
-      "artist": "Modest Mouse",
-      "title": "Polar Opposites",
-      "album": "Lonesome Crowded West • 1998"
     }
   ]
 }
