@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T06:24:58",
+  "updatedAt": "2026-11-13T06:28:34",
   "now": {
-    "artist": "Arcade Fire",
-    "title": "Une année sans lumière",
-    "album": "Funeral • 2004",
-    "category": "TUNES"
+    "artist": "Wilco",
+    "title": "Random Name Generator",
+    "album": "Star Wars • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:28 am",
-      "artist": "Wilco",
-      "title": "Random Name Generator"
-    },
     {
       "time": "6:32 am",
       "artist": "The Stooges",
@@ -26,9 +21,20 @@
       "time": "6:41 am",
       "artist": "Eddie Cochran",
       "title": "Summertime Blues"
+    },
+    {
+      "time": "6:43 am",
+      "artist": "Foo Fighters",
+      "title": "All My Life"
     }
   ],
   "recent": [
+    {
+      "time": "6:28 am",
+      "artist": "Wilco",
+      "title": "Random Name Generator",
+      "album": "Star Wars • 2015"
+    },
     {
       "time": "6:24 am",
       "artist": "Arcade Fire",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "North American Kids",
       "album": "Schmilco • 2016"
-    },
-    {
-      "time": "4:55 am",
-      "artist": "Roy Orbison",
-      "title": "Blue Bayou",
-      "album": "In Dreams • 1963"
     }
   ]
 }
