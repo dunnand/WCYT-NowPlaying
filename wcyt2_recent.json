@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T11:46:15",
+  "updatedAt": "2026-11-13T11:46:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Temptations",
+    "title": "Cloud Nine",
+    "album": "Cloud Nine • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:46 am",
-      "artist": "The Temptations",
-      "title": "Cloud Nine"
-    },
     {
       "time": "11:49 am",
       "artist": "Shontelle",
@@ -26,9 +21,20 @@
       "time": "11:57 am",
       "artist": "4 Non Blondes",
       "title": "What's Up"
+    },
+    {
+      "time": "12:02 pm",
+      "artist": "Patti Smith",
+      "title": "People Have the Power"
     }
   ],
   "recent": [
+    {
+      "time": "11:46 am",
+      "artist": "The Temptations",
+      "title": "Cloud Nine",
+      "album": "Cloud Nine • 1969"
+    },
     {
       "time": "11:39 am",
       "artist": "Chromatics",
@@ -172,12 +178,6 @@
       "artist": "Aaron Frazer",
       "title": "Over You",
       "album": "Introducing... • 2021"
-    },
-    {
-      "time": "10:08 am",
-      "artist": "Orchestral Manoeuvres in the Dark",
-      "title": "So in Love",
-      "album": "Crush • 1985"
     }
   ]
 }
