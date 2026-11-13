@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T10:58:12",
+  "updatedAt": "2026-11-13T11:01:15",
   "now": {
-    "artist": "Train",
-    "title": "Drive By",
-    "album": "California 37 • 2011",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Needle In The Hay",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:01 am",
-      "artist": "Elliott Smith",
-      "title": "Needle In The Hay"
-    },
     {
       "time": "11:05 am",
       "artist": "Green Day",
@@ -23,12 +18,23 @@
       "title": "Enola Gay"
     },
     {
-      "time": "11:12 am",
+      "time": "11:11 am",
       "artist": "Orchestral Manoeuvres in the Dark",
       "title": "Souvenir"
+    },
+    {
+      "time": "11:15 am",
+      "artist": "Charli XCX",
+      "title": "Von dutch"
     }
   ],
   "recent": [
+    {
+      "time": "11:01 am",
+      "artist": "Elliott Smith",
+      "title": "Needle In The Hay",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "10:58 am",
       "artist": "Train",
@@ -172,12 +178,6 @@
       "artist": "Martha Reeves & The Vandellas",
       "title": "Jimmy Mack",
       "album": "Watchout! • 1966"
-    },
-    {
-      "time": "9:13 am",
-      "artist": "ZZ Top",
-      "title": "La Grange",
-      "album": "Tres Hombres • 1974"
     }
   ]
 }
