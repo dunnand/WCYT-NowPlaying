@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T10:58:02",
+  "updatedAt": "2026-11-13T10:58:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Train",
+    "title": "Drive By",
+    "album": "California 37 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:58 am",
-      "artist": "Train",
-      "title": "Drive By"
-    },
     {
       "time": "11:01 am",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "11:08 am",
       "artist": "Orchestral Manoeuvres in the Dark",
       "title": "Enola Gay"
+    },
+    {
+      "time": "11:12 am",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "title": "Souvenir"
     }
   ],
   "recent": [
+    {
+      "time": "10:58 am",
+      "artist": "Train",
+      "title": "Drive By",
+      "album": "California 37 • 2011"
+    },
     {
       "time": "10:55 am",
       "artist": "Animal Collective",
@@ -172,12 +178,6 @@
       "artist": "ZZ Top",
       "title": "La Grange",
       "album": "Tres Hombres • 1974"
-    },
-    {
-      "time": "9:10 am",
-      "artist": "Billie Eilish",
-      "title": "LUNCH",
-      "album": "Hit Me Hard and Soft • 2024"
     }
   ]
 }
