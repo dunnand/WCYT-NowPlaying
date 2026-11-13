@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T00:01:11",
+  "updatedAt": "2026-11-13T00:04:56",
   "now": {
-    "artist": "Wilco",
-    "title": "Born Alone",
-    "album": "The Whole Love • 2011",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Station Approach",
+    "album": "Leaders of the Free World • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Elbow",
-      "title": "Station Approach"
-    },
     {
       "time": "12:09 am",
       "artist": "Dave Matthews Band",
@@ -26,9 +21,20 @@
       "time": "12:16 am",
       "artist": "Frank Black",
       "title": "Headache"
+    },
+    {
+      "time": "12:18 am",
+      "artist": "The Flaming Lips",
+      "title": "Suddenly Everything Has Changed"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Elbow",
+      "title": "Station Approach",
+      "album": "Leaders of the Free World • 2005"
+    },
     {
       "time": "12:01 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Modest Mouse",
       "title": "Broke",
       "album": "Building Nothing Out of Something • 1999"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "The Killers",
-      "title": "The Man",
-      "album": "Wonderful Wonderful • 2017"
     }
   ]
 }
