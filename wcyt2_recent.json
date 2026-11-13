@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T15:04:38",
+  "updatedAt": "2026-11-13T15:11:02",
   "now": {
-    "artist": "Stevie Wonder",
-    "title": "Isn't She Lovely",
-    "album": "Songs in the Key of Life • 1976",
+    "artist": "Aerosmith",
+    "title": "Crazy",
+    "album": "Get a Grip • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:11 pm",
-      "artist": "Aerosmith",
-      "title": "Crazy"
-    },
     {
       "time": "3:15 pm",
       "artist": "Jamies",
@@ -26,9 +21,20 @@
       "time": "3:20 pm",
       "artist": "Ray Peterson",
       "title": "Corina, Corina"
+    },
+    {
+      "time": "3:22 pm",
+      "artist": "Taylor Swift",
+      "title": "Blank Space"
     }
   ],
   "recent": [
+    {
+      "time": "3:11 pm",
+      "artist": "Aerosmith",
+      "title": "Crazy",
+      "album": "Get a Grip • 1994"
+    },
     {
       "time": "3:04 pm",
       "artist": "Stevie Wonder",
@@ -172,12 +178,6 @@
       "artist": "Paul Simon",
       "title": "Graceland",
       "album": "Graceland • 1986"
-    },
-    {
-      "time": "1:30 pm",
-      "artist": "Pavement",
-      "title": "Carrot Rope",
-      "album": "Terror Twilight • 1999"
     }
   ]
 }
