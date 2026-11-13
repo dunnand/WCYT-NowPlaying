@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T09:13:44",
+  "updatedAt": "2026-11-13T09:17:18",
   "now": {
-    "artist": "ZZ Top",
-    "title": "La Grange",
-    "album": "Tres Hombres • 1974",
+    "artist": "Martha Reeves & The Vandellas",
+    "title": "Jimmy Mack",
+    "album": "Watchout! • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:17 am",
-      "artist": "Martha Reeves & The Vandellas",
-      "title": "Jimmy Mack"
-    },
     {
       "time": "9:20 am",
       "artist": "Sylvester",
@@ -26,9 +21,20 @@
       "time": "9:32 am",
       "artist": "Gary Wright",
       "title": "Dream Weaver"
+    },
+    {
+      "time": "9:36 am",
+      "artist": "Dionne Farris",
+      "title": "I Know"
     }
   ],
   "recent": [
+    {
+      "time": "9:17 am",
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "Jimmy Mack",
+      "album": "Watchout! • 1966"
+    },
     {
       "time": "9:13 am",
       "artist": "ZZ Top",
@@ -172,12 +178,6 @@
       "artist": "Beyonce",
       "title": "Irreplaceable",
       "album": "B-Day • 2006"
-    },
-    {
-      "time": "7:38 am",
-      "artist": "Wilco",
-      "title": "Taste the Ceiling",
-      "album": "Star Wars • 2015"
     }
   ]
 }
