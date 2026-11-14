@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T18:57:58",
+  "updatedAt": "2026-11-13T19:00:42",
   "now": {
-    "artist": "Fleetwood Mac",
-    "title": "Monday Morning",
-    "album": "Fleetwood Mac • 1975",
+    "artist": "Swinging Blue Jeans",
+    "title": "Hippy Hippy Shake",
+    "album": "Hippy Hippy Shake • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:00 pm",
-      "artist": "Swinging Blue Jeans",
-      "title": "Hippy Hippy Shake"
-    },
     {
       "time": "7:02 pm",
       "artist": "Four Tops",
@@ -26,9 +21,20 @@
       "time": "7:08 pm",
       "artist": "Blondie",
       "title": "(I'm Always Touched by Your) Presence Dear"
+    },
+    {
+      "time": "7:10 pm",
+      "artist": "The Magnetic Fields",
+      "title": "All My Little Words"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 pm",
+      "artist": "Swinging Blue Jeans",
+      "title": "Hippy Hippy Shake",
+      "album": "Hippy Hippy Shake • 1964"
+    },
     {
       "time": "6:57 pm",
       "artist": "Fleetwood Mac",
@@ -172,12 +178,6 @@
       "artist": "Califone",
       "title": "The Orchids",
       "album": "Roots & Crowns • 2006"
-    },
-    {
-      "time": "5:26 pm",
-      "artist": "Ritchie Valens",
-      "title": "Come on, Let's Go",
-      "album": "Ritchie Valens • 1959"
     }
   ]
 }
