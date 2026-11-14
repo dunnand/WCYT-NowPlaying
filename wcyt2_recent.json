@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T00:21:45",
+  "updatedAt": "2026-11-14T00:25:30",
   "now": {
-    "artist": "Blur",
-    "title": "Country House",
-    "album": "The Great Escape • 1995",
-    "category": "TUNES"
+    "artist": "Pixies",
+    "title": "Here Comes Your Man",
+    "album": "Doolittle • 1989",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:25 am",
-      "artist": "Pixies",
-      "title": "Here Comes Your Man"
-    },
     {
       "time": "12:28 am",
       "artist": "Pixies",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:25 am",
+      "artist": "Pixies",
+      "title": "Here Comes Your Man",
+      "album": "Doolittle • 1989"
+    },
     {
       "time": "12:21 am",
       "artist": "Blur",
@@ -172,12 +173,6 @@
       "artist": "Stevie Wonder",
       "title": "Fingertips - Pt. 2",
       "album": "Recorded Live: The 12 Year Old Genius • 1963"
-    },
-    {
-      "time": "10:54 pm",
-      "artist": "The Decemberists",
-      "title": "Billy Liar",
-      "album": "Her Majesty the Decemberists • 2003"
     }
   ]
 }
