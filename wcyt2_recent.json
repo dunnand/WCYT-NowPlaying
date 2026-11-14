@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T00:21:24",
+  "updatedAt": "2026-11-14T00:21:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Country House",
+    "album": "The Great Escape • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:21 am",
-      "artist": "Blur",
-      "title": "Country House"
-    },
     {
       "time": "12:25 am",
       "artist": "Pixies",
@@ -26,9 +21,20 @@
       "time": "12:31 am",
       "artist": "Deftones",
       "title": "Ohms"
+    },
+    {
+      "time": "12:35 am",
+      "artist": "The Flaming Lips",
+      "title": "Fight Test"
     }
   ],
   "recent": [
+    {
+      "time": "12:21 am",
+      "artist": "Blur",
+      "title": "Country House",
+      "album": "The Great Escape • 1995"
+    },
     {
       "time": "12:17 am",
       "artist": "Blues Traveler",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Billy Liar",
       "album": "Her Majesty the Decemberists • 2003"
-    },
-    {
-      "time": "10:51 pm",
-      "artist": "Lene Lovich",
-      "title": "Lucky Number",
-      "album": "Stateless • 1978"
     }
   ]
 }
