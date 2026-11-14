@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T01:01:26",
+  "updatedAt": "2026-11-14T01:01:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Basement Jaxx",
+    "title": "Romeo",
+    "album": "Rooty • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:01 am",
-      "artist": "Basement Jaxx",
-      "title": "Romeo"
-    },
     {
       "time": "1:05 am",
       "artist": "Coldplay",
@@ -26,9 +21,20 @@
       "time": "1:12 am",
       "artist": "Celine Dion",
       "title": "My Heart Will Go On"
+    },
+    {
+      "time": "1:17 am",
+      "artist": "Dinosaur Jr.",
+      "title": "Puke + Cry"
     }
   ],
   "recent": [
+    {
+      "time": "1:01 am",
+      "artist": "Basement Jaxx",
+      "title": "Romeo",
+      "album": "Rooty • 2001"
+    },
     {
       "time": "12:57 am",
       "artist": "School Of Seven Bells",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "G.i.g.a.n.t.i.c.",
       "album": "Surfer Rosa • 1988"
-    },
-    {
-      "time": "11:30 pm",
-      "artist": "Pixies",
-      "title": "Debaser",
-      "album": "Doolittle • 1989"
     }
   ]
 }
