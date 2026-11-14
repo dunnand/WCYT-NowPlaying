@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T10:46:43",
+  "updatedAt": "2026-11-14T10:49:36",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Don't Take Your Guns To Town",
-    "album": "The Fabulous Johnny Cash •",
+    "artist": "Dave Matthews Band",
+    "title": "The Space Between",
+    "album": "Everyday • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:49 am",
-      "artist": "Dave Matthews Band",
-      "title": "The Space Between"
-    },
     {
       "time": "10:53 am",
       "artist": "Roy Orbison",
@@ -21,9 +16,20 @@
       "time": "10:56 am",
       "artist": "Superchunk",
       "title": "Learned to Surf"
+    },
+    {
+      "time": "11:00 am",
+      "artist": "The Flaming Lips",
+      "title": "The Spark That Bled"
     }
   ],
   "recent": [
+    {
+      "time": "10:49 am",
+      "artist": "Dave Matthews Band",
+      "title": "The Space Between",
+      "album": "Everyday • 2001"
+    },
     {
       "time": "10:46 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Public Image Limited",
       "title": "Rise",
       "album": "Album • 1986"
-    },
-    {
-      "time": "9:11 am",
-      "artist": "Public Enemy",
-      "title": "Rebel Without a Pause",
-      "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
     }
   ]
 }
