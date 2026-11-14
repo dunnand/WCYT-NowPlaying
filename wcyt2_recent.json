@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T04:06:05",
+  "updatedAt": "2026-11-14T04:08:28",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Ring of Fire",
-    "album": "Ring of Fire • 1963",
-    "category": "AUDIO"
+    "artist": "Tame Impala",
+    "title": "New Person, Same Old Mistakes",
+    "album": "Currents • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:08 am",
-      "artist": "Tame Impala",
-      "title": "New Person, Same Old Mistakes"
-    },
     {
       "time": "4:14 am",
       "artist": "Natalie Merchant",
@@ -21,9 +16,20 @@
       "time": "4:17 am",
       "artist": "Pantera",
       "title": "Walk"
+    },
+    {
+      "time": "4:22 am",
+      "artist": "Prince and The Revolution",
+      "title": "Kiss"
     }
   ],
   "recent": [
+    {
+      "time": "4:08 am",
+      "artist": "Tame Impala",
+      "title": "New Person, Same Old Mistakes",
+      "album": "Currents • 2015"
+    },
     {
       "time": "4:06 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Death Cab For Cutie",
       "title": "Company Calls",
       "album": "We Have the Facts and We're Voting Yes • 2000"
-    },
-    {
-      "time": "2:29 am",
-      "artist": "Arctic Monkeys",
-      "title": "There'd Better Be A Mirrorball",
-      "album": "The Car • 2022"
     }
   ]
 }
