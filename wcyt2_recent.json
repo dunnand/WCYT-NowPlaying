@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T11:52:44",
+  "updatedAt": "2026-11-14T11:57:00",
   "now": {
-    "artist": "Mariah Carey",
-    "title": "Hero",
-    "album": "Music Box • 1993",
-    "category": "AUDIO"
+    "artist": "Ride",
+    "title": "Taste",
+    "album": "Nowhere • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:56 am",
-      "artist": "Ride",
-      "title": "Taste"
-    },
     {
       "time": "12:00 pm",
       "artist": "Queen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:57 am",
+      "artist": "Ride",
+      "title": "Taste",
+      "album": "Nowhere • 1990"
+    },
     {
       "time": "11:52 am",
       "artist": "Mariah Carey",
@@ -172,12 +173,6 @@
       "artist": "Rod Stewart",
       "title": "The First Cut Is The Deepest",
       "album": "A Night on the Town • 1976"
-    },
-    {
-      "time": "10:27 am",
-      "artist": "Roger Miller",
-      "title": "Chug-A-Lug",
-      "album": "Roger and Out • 1964"
     }
   ]
 }
