@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T08:41:08",
+  "updatedAt": "2026-11-14T08:41:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Only Yesterday",
+    "album": "Horizon • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 am",
-      "artist": "The Carpenters",
-      "title": "Only Yesterday"
-    },
     {
       "time": "8:44 am",
       "artist": "Roy Orbison",
@@ -31,9 +26,20 @@
       "time": "8:54 am",
       "artist": "Johnny & The Hurricanes",
       "title": "Red River Rock"
+    },
+    {
+      "time": "8:56 am",
+      "artist": "The Flaming Lips",
+      "title": "Do You Realize??"
     }
   ],
   "recent": [
+    {
+      "time": "8:41 am",
+      "artist": "The Carpenters",
+      "title": "Only Yesterday",
+      "album": "Horizon • 1975"
+    },
     {
       "time": "8:38 am",
       "artist": "Spiral Staircase",
@@ -177,12 +183,6 @@
       "artist": "Elton John",
       "title": "This Train Don't Stop There Anymore",
       "album": "Songs from the West Coast • 2002"
-    },
-    {
-      "time": "7:01 am",
-      "artist": "Arctic Monkeys",
-      "title": "Brianstorm",
-      "album": "Favourite Worst Nightmare • 2007"
     }
   ]
 }
