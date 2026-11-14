@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-14T01:47:17",
+  "updatedAt": "2026-11-14T01:52:55",
   "now": {
-    "artist": "James Brown",
-    "title": "Mother Popcorn",
-    "album": "Sex Machine • 1970",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "Last Stop: This Town",
+    "album": "Electro Shock Blues • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:52 am",
-      "artist": "Eels",
-      "title": "Last Stop: This Town"
-    },
     {
       "time": "1:56 am",
       "artist": "John Lee Hooker",
       "title": "I'm in the Mood"
     },
     {
-      "time": "1:59 am",
+      "time": "1:58 am",
       "artist": "Camera Obscura",
       "title": "Lloyd, I'm Ready To Be Heartbroken"
     },
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "Simon & Garfunkel",
       "title": "I Am A Rock"
+    },
+    {
+      "time": "2:05 am",
+      "artist": "Slowdive",
+      "title": "No Longer Making Time"
     }
   ],
   "recent": [
+    {
+      "time": "1:52 am",
+      "artist": "Eels",
+      "title": "Last Stop: This Town",
+      "album": "Electro Shock Blues • 1998"
+    },
     {
       "time": "1:47 am",
       "artist": "James Brown",
@@ -172,12 +178,6 @@
       "artist": "Blur",
       "title": "Country House",
       "album": "The Great Escape • 1995"
-    },
-    {
-      "time": "12:17 am",
-      "artist": "Blues Traveler",
-      "title": "Run-Around",
-      "album": "Four • 1995"
     }
   ]
 }
