@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T08:51:26",
+  "updatedAt": "2026-11-14T08:54:19",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Bottle Up and Explode!",
-    "album": "XO • 1998",
-    "category": "TUNES"
+    "artist": "Johnny & The Hurricanes",
+    "title": "Red River Rock",
+    "album": "Red River Rock • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 am",
-      "artist": "Johnny & The Hurricanes",
-      "title": "Red River Rock"
-    },
     {
       "time": "8:56 am",
       "artist": "The Flaming Lips",
@@ -26,9 +21,20 @@
       "time": "9:02 am",
       "artist": "Vampire Weekend",
       "title": "This Life"
+    },
+    {
+      "time": "9:06 am",
+      "artist": "Green Day",
+      "title": "In the End"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 am",
+      "artist": "Johnny & The Hurricanes",
+      "title": "Red River Rock",
+      "album": "Red River Rock • 1959"
+    },
     {
       "time": "8:51 am",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Prince and The Revolution",
       "title": "Pop Life",
       "album": "Around the World in a Day • 1985"
-    },
-    {
-      "time": "7:16 am",
-      "artist": "Busta Rhymes",
-      "title": "Put Your Hands Where My Eyes Could See",
-      "album": "When Disaster Strikes... • 1997"
     }
   ]
 }
