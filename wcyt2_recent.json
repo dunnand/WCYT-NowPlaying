@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T07:32:52",
+  "updatedAt": "2026-11-14T07:33:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Faces",
+    "title": "Ooh La La",
+    "album": "Ooh La La • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:33 am",
-      "artist": "Faces",
-      "title": "Ooh La La"
-    },
     {
       "time": "7:36 am",
       "artist": "The Temptations",
@@ -26,9 +21,20 @@
       "time": "7:52 am",
       "artist": "Lou Christie",
       "title": "Lightnin' Strikes"
+    },
+    {
+      "time": "7:55 am",
+      "artist": "Billy Joel",
+      "title": "Piano Man"
     }
   ],
   "recent": [
+    {
+      "time": "7:33 am",
+      "artist": "Faces",
+      "title": "Ooh La La",
+      "album": "Ooh La La • 1973"
+    },
     {
       "time": "7:27 am",
       "artist": "Little Simz",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Bye, Bye Love",
       "album": "The Everly Brothers • 1958"
-    },
-    {
-      "time": "5:57 am",
-      "artist": "The Chemical Brothers",
-      "title": "Setting Sun",
-      "album": "Dig Your Own Hole • 1997"
     }
   ]
 }
