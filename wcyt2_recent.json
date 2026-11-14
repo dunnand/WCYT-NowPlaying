@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T09:02:16",
+  "updatedAt": "2026-11-14T09:06:42",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "This Life",
-    "album": "Father of the Bride • 2019",
+    "artist": "Green Day",
+    "title": "In the End",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:06 am",
-      "artist": "Green Day",
-      "title": "In the End"
-    },
     {
       "time": "9:08 am",
       "artist": "Sleater",
@@ -21,9 +16,20 @@
       "time": "9:11 am",
       "artist": "Public Enemy",
       "title": "Rebel Without a Pause"
+    },
+    {
+      "time": "9:15 am",
+      "artist": "Public Image Limited",
+      "title": "Rise"
     }
   ],
   "recent": [
+    {
+      "time": "9:06 am",
+      "artist": "Green Day",
+      "title": "In the End",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "9:02 am",
       "artist": "Vampire Weekend",
@@ -167,12 +173,6 @@
       "artist": "The Temptations",
       "title": "My Girl",
       "album": "The Temptations Sing Smokey • 1965"
-    },
-    {
-      "time": "7:33 am",
-      "artist": "Faces",
-      "title": "Ooh La La",
-      "album": "Ooh La La • 1973"
     }
   ]
 }
