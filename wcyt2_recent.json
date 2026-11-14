@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T21:40:40",
+  "updatedAt": "2026-11-13T21:45:36",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "The Gunners Dream",
-    "album": "The Final Cut • 1983",
+    "artist": "Deftones",
+    "title": "Genesis",
+    "album": "Ohms • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:45 pm",
-      "artist": "Deftones",
-      "title": "Genesis"
-    },
     {
       "time": "9:50 pm",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "10:00 pm",
       "artist": "DJ Shadow",
       "title": "Six Days"
+    },
+    {
+      "time": "10:05 pm",
+      "artist": "Slowdive",
+      "title": "Don't Know Why"
     }
   ],
   "recent": [
+    {
+      "time": "9:45 pm",
+      "artist": "Deftones",
+      "title": "Genesis",
+      "album": "Ohms • 2020"
+    },
     {
       "time": "9:40 pm",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Bjork",
       "title": "Bachelorette",
       "album": "Homogenic • 1997"
-    },
-    {
-      "time": "8:02 pm",
-      "artist": "Electric Light Orchestra",
-      "title": "Strange Magic",
-      "album": "Face the Music • 1976"
     }
   ]
 }
