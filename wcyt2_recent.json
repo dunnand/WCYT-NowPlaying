@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T21:33:18",
+  "updatedAt": "2026-11-13T21:35:41",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Punch and Judy",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Pink Floyd",
+    "title": "The Final Cut",
+    "album": "The Final Cut • 1983",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:35 pm",
-      "artist": "Pink Floyd",
-      "title": "The Final Cut"
-    },
     {
       "time": "9:40 pm",
       "artist": "Pink Floyd",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:35 pm",
+      "artist": "Pink Floyd",
+      "title": "The Final Cut",
+      "album": "The Final Cut • 1983"
+    },
     {
       "time": "9:33 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "The Animals",
       "title": "The House of the Rising Sun",
       "album": "The Animals • 1964"
-    },
-    {
-      "time": "7:55 pm",
-      "artist": "The Decemberists",
-      "title": "July, July!",
-      "album": "Castaways and Cutouts • 2002"
     }
   ]
 }
