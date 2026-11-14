@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T07:01:00",
+  "updatedAt": "2026-11-14T07:03:50",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Brianstorm",
-    "album": "Favourite Worst Nightmare • 2007",
-    "category": "TUNES"
+    "artist": "Elton John",
+    "title": "This Train Don't Stop There Anymore",
+    "album": "Songs from the West Coast • 2002",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:03 am",
-      "artist": "Elton John",
-      "title": "This Train Don't Stop There Anymore"
-    },
     {
       "time": "7:08 am",
       "artist": "Ride",
@@ -26,9 +21,20 @@
       "time": "7:16 am",
       "artist": "Busta Rhymes",
       "title": "Put Your Hands Where My Eyes Could See"
+    },
+    {
+      "time": "7:19 am",
+      "artist": "Prince and The Revolution",
+      "title": "Pop Life"
     }
   ],
   "recent": [
+    {
+      "time": "7:03 am",
+      "artist": "Elton John",
+      "title": "This Train Don't Stop There Anymore",
+      "album": "Songs from the West Coast • 2002"
+    },
     {
       "time": "7:01 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Chappell Roan",
       "title": "Good Luck, Babe!",
       "album": "single • 2024"
-    },
-    {
-      "time": "5:33 am",
-      "artist": "Prince",
-      "title": "Starfish and Coffee",
-      "album": "Sign o the Times • 1987"
     }
   ]
 }
