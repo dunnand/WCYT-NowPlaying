@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T18:45:26",
+  "updatedAt": "2026-11-14T18:47:39",
   "now": {
-    "artist": "Elton Britt",
-    "title": "Uranium Fever",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Grandaddy",
+    "title": "Now It's On",
+    "album": "Sumday • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:47 pm",
-      "artist": "Grandaddy",
-      "title": "Now It's On"
-    },
     {
       "time": "6:51 pm",
       "artist": "John Coltrane",
@@ -21,9 +16,20 @@
       "time": "7:05 pm",
       "artist": "Taylor Swift",
       "title": "Style"
+    },
+    {
+      "time": "7:09 pm",
+      "artist": "Bryan Adams",
+      "title": "Please Forgive Me"
     }
   ],
   "recent": [
+    {
+      "time": "6:47 pm",
+      "artist": "Grandaddy",
+      "title": "Now It's On",
+      "album": "Sumday • 2003"
+    },
     {
       "time": "6:45 pm",
       "artist": "Elton Britt",
@@ -167,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "We Walk",
       "album": "Murmur • 1983"
-    },
-    {
-      "time": "5:13 pm",
-      "artist": "R.E.M.",
-      "title": "These Days",
-      "album": "Lifes Rich Pageant • 1986"
     }
   ]
 }
