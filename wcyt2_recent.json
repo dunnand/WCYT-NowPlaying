@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T21:08:32",
+  "updatedAt": "2026-11-13T21:13:06",
   "now": {
-    "artist": "Superchunk",
-    "title": "Watery Hands",
-    "album": "Indoor Living • 1997",
-    "category": "TUNES"
+    "artist": "Buddy Holly",
+    "title": "Take Your Time",
+    "album": "Buddy Holly • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time"
-    },
     {
       "time": "9:14 pm",
       "artist": "Enrique Iglesias",
@@ -26,9 +21,20 @@
       "time": "9:26 pm",
       "artist": "Rihanna",
       "title": "Higher"
+    },
+    {
+      "time": "9:28 pm",
+      "artist": "U2",
+      "title": "Who's Gonna Ride Your Wild Horses"
     }
   ],
   "recent": [
+    {
+      "time": "9:13 pm",
+      "artist": "Buddy Holly",
+      "title": "Take Your Time",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "9:08 pm",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "Peter Gabriel",
       "title": "Solsbury Hill",
       "album": "Peter Gabriel • 1982"
-    },
-    {
-      "time": "7:31 pm",
-      "artist": "Beck",
-      "title": "Deadweight",
-      "album": "Odelay • 1996"
     }
   ]
 }
