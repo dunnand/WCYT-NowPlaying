@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T09:39:08",
+  "updatedAt": "2026-11-14T09:45:08",
   "now": {
-    "artist": "George Duke",
-    "title": "Dukey Stick",
-    "album": "Don't Let Go • 1978",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Speeding Motorcycle",
+    "album": "Fakebook • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:45 am",
-      "artist": "Yo La Tengo",
-      "title": "Speeding Motorcycle"
-    },
     {
       "time": "9:48 am",
       "artist": "Yola",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:45 am",
+      "artist": "Yo La Tengo",
+      "title": "Speeding Motorcycle",
+      "album": "Fakebook • 1990"
+    },
     {
       "time": "9:39 am",
       "artist": "George Duke",
@@ -172,12 +173,6 @@
       "artist": "Built to Spill",
       "title": "In The Morning",
       "album": "Theres Nothing Wrong With Love • 1994"
-    },
-    {
-      "time": "8:18 am",
-      "artist": "Pavement",
-      "title": "Elevate Me Later",
-      "album": "Crooked Rain, Crooked Rain • 1994"
     }
   ]
 }
