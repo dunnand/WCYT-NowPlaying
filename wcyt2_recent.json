@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T13:28:00",
+  "updatedAt": "2026-11-14T13:28:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "The Biggest Lie",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:28 pm",
-      "artist": "Elliott Smith",
-      "title": "The Biggest Lie"
-    },
     {
       "time": "1:30 pm",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "1:36 pm",
       "artist": "Sudan Archives",
       "title": "MY TYPE"
+    },
+    {
+      "time": "1:40 pm",
+      "artist": "Crystal Castles",
+      "title": "Crimewave"
     }
   ],
   "recent": [
+    {
+      "time": "1:28 pm",
+      "artist": "Elliott Smith",
+      "title": "The Biggest Lie",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "1:23 pm",
       "artist": "Destiny's Child",
@@ -172,12 +178,6 @@
       "artist": "Queen",
       "title": "Who Wants to Live Forever",
       "album": "A Kind of Magic • 1986"
-    },
-    {
-      "time": "11:57 am",
-      "artist": "Ride",
-      "title": "Taste",
-      "album": "Nowhere • 1990"
     }
   ]
 }
