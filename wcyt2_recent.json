@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T21:40:28",
+  "updatedAt": "2026-11-13T21:40:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "The Gunners Dream",
+    "album": "The Final Cut • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:40 pm",
-      "artist": "Pink Floyd",
-      "title": "The Gunners Dream"
-    },
     {
       "time": "9:45 pm",
       "artist": "Deftones",
@@ -26,9 +21,20 @@
       "time": "9:55 pm",
       "artist": "Free",
       "title": "All Right Now"
+    },
+    {
+      "time": "10:00 pm",
+      "artist": "DJ Shadow",
+      "title": "Six Days"
     }
   ],
   "recent": [
+    {
+      "time": "9:40 pm",
+      "artist": "Pink Floyd",
+      "title": "The Gunners Dream",
+      "album": "The Final Cut • 1983"
+    },
     {
       "time": "9:35 pm",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Electric Light Orchestra",
       "title": "Strange Magic",
       "album": "Face the Music • 1976"
-    },
-    {
-      "time": "7:58 pm",
-      "artist": "The Animals",
-      "title": "The House of the Rising Sun",
-      "album": "The Animals • 1964"
     }
   ]
 }
