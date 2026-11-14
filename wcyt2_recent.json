@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T08:59:47",
+  "updatedAt": "2026-11-14T08:59:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Louis Armstrong",
+    "title": "Hello, Dolly!",
+    "album": "Hello, Dolly! • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 am",
-      "artist": "Louis Armstrong",
-      "title": "Hello, Dolly!"
-    },
     {
       "time": "9:02 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "9:08 am",
       "artist": "Sleater",
       "title": "Kinney - Good Things"
+    },
+    {
+      "time": "9:11 am",
+      "artist": "Public Enemy",
+      "title": "Rebel Without a Pause"
     }
   ],
   "recent": [
+    {
+      "time": "8:59 am",
+      "artist": "Louis Armstrong",
+      "title": "Hello, Dolly!",
+      "album": "Hello, Dolly! • 1964"
+    },
     {
       "time": "8:56 am",
       "artist": "The Flaming Lips",
@@ -172,12 +178,6 @@
       "artist": "Little Simz",
       "title": "Angel",
       "album": "NO THANK YOU • 2022"
-    },
-    {
-      "time": "7:23 am",
-      "artist": "Public Enemy",
-      "title": "Bring The Noise",
-      "album": "It Takes a Nation of Millions to Hold Us Back • 1988"
     }
   ]
 }
