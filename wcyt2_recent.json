@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T19:47:18",
+  "updatedAt": "2026-11-13T19:51:03",
   "now": {
-    "artist": "The Cars",
-    "title": "Just What I Needed",
-    "album": "The Cars • 1978",
+    "artist": "Commodores",
+    "title": "Easy",
+    "album": "Commodores • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 pm",
-      "artist": "Commodores",
-      "title": "Easy"
-    },
     {
       "time": "7:55 pm",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "8:03 pm",
       "artist": "Electric Light Orchestra",
       "title": "Strange Magic"
+    },
+    {
+      "time": "8:07 pm",
+      "artist": "Bjork",
+      "title": "Bachelorette"
     }
   ],
   "recent": [
+    {
+      "time": "7:51 pm",
+      "artist": "Commodores",
+      "title": "Easy",
+      "album": "Commodores • 1977"
+    },
     {
       "time": "7:47 pm",
       "artist": "The Cars",
@@ -172,12 +178,6 @@
       "artist": "Erykah Badu",
       "title": "Penitentiary Philosophy",
       "album": "Mama's Gun • 2000"
-    },
-    {
-      "time": "6:21 pm",
-      "artist": "Usher",
-      "title": "Numb",
-      "album": "Looking 4 Myself • 2012"
     }
   ]
 }
