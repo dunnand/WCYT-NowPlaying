@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T02:16:23",
+  "updatedAt": "2026-11-14T02:21:18",
   "now": {
-    "artist": "Fiona Apple",
-    "title": "A Mistake",
-    "album": "When the Pawn • 1999",
-    "category": "TUNES"
+    "artist": "Pixies",
+    "title": "Where-Is-My-Mind?",
+    "album": "Surfer Rosa • 1988",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:21 am",
-      "artist": "Pixies",
-      "title": "Where-Is-My-Mind?"
-    },
     {
       "time": "2:25 am",
       "artist": "Prefab Sprout",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:21 am",
+      "artist": "Pixies",
+      "title": "Where-Is-My-Mind?",
+      "album": "Surfer Rosa • 1988"
+    },
     {
       "time": "2:16 am",
       "artist": "Fiona Apple",
@@ -172,12 +173,6 @@
       "artist": "Grimes",
       "title": "So Heavy I Fell Through the Earth",
       "album": "Miss Anthropocene • 2019"
-    },
-    {
-      "time": "12:43 am",
-      "artist": "The Black Keys",
-      "title": "All Hands Against His Own",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
