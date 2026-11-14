@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T08:33:57",
+  "updatedAt": "2026-11-14T08:38:25",
   "now": {
-    "artist": "Bob Seger & The Silver Bullet Band",
-    "title": "We’ve Got Tonight",
-    "album": "Stranger in Town • 1979",
+    "artist": "Spiral Staircase",
+    "title": "More Today Than Yesterday",
+    "album": "More Today Than Yesterday • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:38 am",
-      "artist": "Spiral Staircase",
-      "title": "More Today Than Yesterday"
-    },
     {
       "time": "8:41 am",
       "artist": "The Carpenters",
@@ -26,9 +21,20 @@
       "time": "8:47 am",
       "artist": "Steely Dan",
       "title": "Peg"
+    },
+    {
+      "time": "8:51 am",
+      "artist": "Elliott Smith",
+      "title": "Bottle Up and Explode!"
     }
   ],
   "recent": [
+    {
+      "time": "8:38 am",
+      "artist": "Spiral Staircase",
+      "title": "More Today Than Yesterday",
+      "album": "More Today Than Yesterday • 1969"
+    },
     {
       "time": "8:33 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -172,12 +178,6 @@
       "artist": "Arctic Monkeys",
       "title": "Brianstorm",
       "album": "Favourite Worst Nightmare • 2007"
-    },
-    {
-      "time": "6:57 am",
-      "artist": "Tegan & Sara",
-      "title": "Closer",
-      "album": "Heartthrob • 2013"
     }
   ]
 }
