@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T02:16:02",
+  "updatedAt": "2026-11-14T02:16:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Fiona Apple",
+    "title": "A Mistake",
+    "album": "When the Pawn • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:16 am",
-      "artist": "Fiona Apple",
-      "title": "A Mistake"
-    },
     {
       "time": "2:21 am",
       "artist": "Pixies",
@@ -26,9 +21,20 @@
       "time": "2:29 am",
       "artist": "Arctic Monkeys",
       "title": "There'd Better Be A Mirrorball"
+    },
+    {
+      "time": "2:33 am",
+      "artist": "Death Cab For Cutie",
+      "title": "Company Calls"
     }
   ],
   "recent": [
+    {
+      "time": "2:16 am",
+      "artist": "Fiona Apple",
+      "title": "A Mistake",
+      "album": "When the Pawn • 1999"
+    },
     {
       "time": "2:11 am",
       "artist": "Eric Clapton",
@@ -172,12 +178,6 @@
       "artist": "The Black Keys",
       "title": "All Hands Against His Own",
       "album": "Rubber Factory • 2004"
-    },
-    {
-      "time": "12:39 am",
-      "artist": "ABBA",
-      "title": "Fernando",
-      "album": "Greatest Hits • 1975"
     }
   ]
 }
