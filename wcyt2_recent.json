@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T02:06:01",
+  "updatedAt": "2026-11-14T02:11:37",
   "now": {
-    "artist": "Slowdive",
-    "title": "No Longer Making Time",
-    "album": "Slowdive • 2017",
-    "category": "TUNES"
+    "artist": "Eric Clapton",
+    "title": "Tears In Heaven",
+    "album": "Rush {soundtrack} • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:11 am",
-      "artist": "Eric Clapton",
-      "title": "Tears In Heaven"
-    },
     {
       "time": "2:16 am",
       "artist": "Fiona Apple",
@@ -21,9 +16,20 @@
       "time": "2:21 am",
       "artist": "Pixies",
       "title": "Where-Is-My-Mind?"
+    },
+    {
+      "time": "2:25 am",
+      "artist": "Prefab Sprout",
+      "title": "Bonny"
     }
   ],
   "recent": [
+    {
+      "time": "2:11 am",
+      "artist": "Eric Clapton",
+      "title": "Tears In Heaven",
+      "album": "Rush {soundtrack} • 1992"
+    },
     {
       "time": "2:06 am",
       "artist": "Slowdive",
@@ -167,12 +173,6 @@
       "artist": "ABBA",
       "title": "Fernando",
       "album": "Greatest Hits • 1975"
-    },
-    {
-      "time": "12:35 am",
-      "artist": "The Flaming Lips",
-      "title": "Fight Test",
-      "album": "Yoshimi Battles The Pink Robots • 2002"
     }
   ]
 }
