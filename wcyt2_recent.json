@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T21:45:36",
+  "updatedAt": "2026-11-13T21:50:45",
   "now": {
-    "artist": "Deftones",
-    "title": "Genesis",
-    "album": "Ohms • 2020",
-    "category": "AUDIO"
+    "artist": "The Decemberists",
+    "title": "The Engine Driver",
+    "album": "Picaresque • 2005",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:50 pm",
-      "artist": "The Decemberists",
-      "title": "The Engine Driver"
-    },
     {
       "time": "9:55 pm",
       "artist": "Free",
@@ -26,9 +21,20 @@
       "time": "10:05 pm",
       "artist": "Slowdive",
       "title": "Don't Know Why"
+    },
+    {
+      "time": "10:09 pm",
+      "artist": "Eagles",
+      "title": "Witchy Woman"
     }
   ],
   "recent": [
+    {
+      "time": "9:50 pm",
+      "artist": "The Decemberists",
+      "title": "The Engine Driver",
+      "album": "Picaresque • 2005"
+    },
     {
       "time": "9:45 pm",
       "artist": "Deftones",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Horchata",
       "album": "Contra • 2010"
-    },
-    {
-      "time": "8:07 pm",
-      "artist": "Bjork",
-      "title": "Bachelorette",
-      "album": "Homogenic • 1997"
     }
   ]
 }
