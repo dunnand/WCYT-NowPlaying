@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T03:50:13",
+  "updatedAt": "2026-11-14T03:52:17",
   "now": {
     "artist": "The Clash",
-    "title": "Brand New Cadillac",
-    "album": "London Calling • 1979",
+    "title": "Should I Stay or Should I Go",
+    "album": "Combat Rock • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:52 am",
-      "artist": "The Clash",
-      "title": "Should I Stay or Should I Go"
-    },
     {
       "time": "3:55 am",
       "artist": "The Cure",
@@ -26,9 +21,20 @@
       "time": "4:01 am",
       "artist": "The Lemon Twigs",
       "title": "I Just Can't Get Over Losing You"
+    },
+    {
+      "time": "4:03 am",
+      "artist": "Iron & Wine",
+      "title": "In Your Ocean"
     }
   ],
   "recent": [
+    {
+      "time": "3:52 am",
+      "artist": "The Clash",
+      "title": "Should I Stay or Should I Go",
+      "album": "Combat Rock • 1982"
+    },
     {
       "time": "3:50 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "The Beths",
       "title": "Happy Unhappy",
       "album": "Future Me Hates Me • 2018"
-    },
-    {
-      "time": "2:18 am",
-      "artist": "Future Islands",
-      "title": "Balance",
-      "album": "On The Water • 2011"
     }
   ]
 }
