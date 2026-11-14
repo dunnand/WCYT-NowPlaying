@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T07:33:04",
+  "updatedAt": "2026-11-14T07:36:29",
   "now": {
-    "artist": "Faces",
-    "title": "Ooh La La",
-    "album": "Ooh La La • 1973",
+    "artist": "The Temptations",
+    "title": "My Girl",
+    "album": "The Temptations Sing Smokey • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:36 am",
-      "artist": "The Temptations",
-      "title": "My Girl"
-    },
     {
       "time": "7:39 am",
       "artist": "Peter Frampton",
@@ -26,9 +21,20 @@
       "time": "7:55 am",
       "artist": "Billy Joel",
       "title": "Piano Man"
+    },
+    {
+      "time": "7:59 am",
+      "artist": "Concrete Blonde",
+      "title": "Joey"
     }
   ],
   "recent": [
+    {
+      "time": "7:36 am",
+      "artist": "The Temptations",
+      "title": "My Girl",
+      "album": "The Temptations Sing Smokey • 1965"
+    },
     {
       "time": "7:33 am",
       "artist": "Faces",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Son of Sam",
       "album": "Figure 8 • 2000"
-    },
-    {
-      "time": "6:03 am",
-      "artist": "The Everly Brothers",
-      "title": "Bye, Bye Love",
-      "album": "The Everly Brothers • 1958"
     }
   ]
 }
