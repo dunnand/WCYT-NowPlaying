@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T01:08:52",
+  "updatedAt": "2026-11-14T01:12:39",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Run",
-    "album": "Contra • 2010",
-    "category": "TUNES"
+    "artist": "Celine Dion",
+    "title": "My Heart Will Go On",
+    "album": "Let's Talk About Love • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:12 am",
-      "artist": "Celine Dion",
-      "title": "My Heart Will Go On"
-    },
     {
       "time": "1:17 am",
       "artist": "Dinosaur Jr.",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "Pixies",
       "title": "Wave of Mutilation"
+    },
+    {
+      "time": "1:25 am",
+      "artist": "Childish Gambino",
+      "title": "19.10"
     }
   ],
   "recent": [
+    {
+      "time": "1:12 am",
+      "artist": "Celine Dion",
+      "title": "My Heart Will Go On",
+      "album": "Let's Talk About Love • 1997"
+    },
     {
       "time": "1:08 am",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Kansas",
       "title": "Dust In The Wind",
       "album": "Point of Know Return • 1978"
-    },
-    {
-      "time": "11:40 pm",
-      "artist": "Bloc Party",
-      "title": "Helicopter",
-      "album": "Silent Alarm • 2005"
     }
   ]
 }
