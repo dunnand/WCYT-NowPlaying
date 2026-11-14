@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T03:02:12",
+  "updatedAt": "2026-11-14T03:04:14",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "The Sound of Settling",
-    "album": "Transatlanticism • 2003",
-    "category": "TUNES"
+    "artist": "Amy Winehouse",
+    "title": "You Know I'm No Good",
+    "album": "Back to Black • 2006",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:04 am",
-      "artist": "Amy Winehouse",
-      "title": "You Know I'm No Good"
-    },
     {
       "time": "3:08 am",
       "artist": "Grimes",
@@ -26,9 +21,20 @@
       "time": "3:16 am",
       "artist": "Lenny Kravitz",
       "title": "Always on the Run"
+    },
+    {
+      "time": "3:20 am",
+      "artist": "Prince",
+      "title": "Controversy"
     }
   ],
   "recent": [
+    {
+      "time": "3:04 am",
+      "artist": "Amy Winehouse",
+      "title": "You Know I'm No Good",
+      "album": "Back to Black • 2006"
+    },
     {
       "time": "3:02 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Childish Gambino",
       "title": "19.10",
       "album": "3.15.20 • 2020"
-    },
-    {
-      "time": "1:23 am",
-      "artist": "Pixies",
-      "title": "Wave of Mutilation",
-      "album": "Doolittle • 1989"
     }
   ]
 }
