@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T00:35:47",
+  "updatedAt": "2026-11-14T00:39:33",
   "now": {
-    "artist": "The Flaming Lips",
-    "title": "Fight Test",
-    "album": "Yoshimi Battles The Pink Robots • 2002",
-    "category": "TUNES"
+    "artist": "ABBA",
+    "title": "Fernando",
+    "album": "Greatest Hits • 1975",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 am",
-      "artist": "ABBA",
-      "title": "Fernando"
-    },
     {
       "time": "12:43 am",
       "artist": "The Black Keys",
@@ -26,9 +21,25 @@
       "time": "12:50 am",
       "artist": "Barry Manilow",
       "title": "Can't Smile Without You"
+    },
+    {
+      "time": "12:53 am",
+      "artist": "Bruce Springsteen",
+      "title": "Streets Of Philadelphia"
+    },
+    {
+      "time": "12:57 am",
+      "artist": "School Of Seven Bells",
+      "title": "Windstorm"
     }
   ],
   "recent": [
+    {
+      "time": "12:39 am",
+      "artist": "ABBA",
+      "title": "Fernando",
+      "album": "Greatest Hits • 1975"
+    },
     {
       "time": "12:35 am",
       "artist": "The Flaming Lips",
@@ -172,12 +183,6 @@
       "artist": "Dixie Chicks",
       "title": "Not Ready to Make Nice",
       "album": "Taking the Long Way • 2006"
-    },
-    {
-      "time": "11:07 pm",
-      "artist": "Ray Charles",
-      "title": "I Got a Woman",
-      "album": "single • 1954"
     }
   ]
 }
