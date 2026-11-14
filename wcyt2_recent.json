@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T01:43:11",
+  "updatedAt": "2026-11-14T01:47:17",
   "now": {
-    "artist": "Steppenwolf",
-    "title": "Magic Carpet Ride",
-    "album": "The Second • 1968",
+    "artist": "James Brown",
+    "title": "Mother Popcorn",
+    "album": "Sex Machine • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:47 am",
-      "artist": "James Brown",
-      "title": "Mother Popcorn"
-    },
     {
       "time": "1:52 am",
       "artist": "Eels",
@@ -26,9 +21,20 @@
       "time": "1:59 am",
       "artist": "Camera Obscura",
       "title": "Lloyd, I'm Ready To Be Heartbroken"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Simon & Garfunkel",
+      "title": "I Am A Rock"
     }
   ],
   "recent": [
+    {
+      "time": "1:47 am",
+      "artist": "James Brown",
+      "title": "Mother Popcorn",
+      "album": "Sex Machine • 1970"
+    },
     {
       "time": "1:43 am",
       "artist": "Steppenwolf",
@@ -172,12 +178,6 @@
       "artist": "Blues Traveler",
       "title": "Run-Around",
       "album": "Four • 1995"
-    },
-    {
-      "time": "12:13 am",
-      "artist": "Toro y Moi",
-      "title": "Rose Quartz",
-      "album": "Anything in Return • 2013"
     }
   ]
 }
