@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-13T19:47:06",
+  "updatedAt": "2026-11-13T19:47:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "Just What I Needed",
+    "album": "The Cars • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 pm",
-      "artist": "The Cars",
-      "title": "Just What I Needed"
-    },
     {
       "time": "7:50 pm",
       "artist": "Commodores",
@@ -26,9 +21,20 @@
       "time": "7:58 pm",
       "artist": "The Animals",
       "title": "The House of the Rising Sun"
+    },
+    {
+      "time": "8:03 pm",
+      "artist": "Electric Light Orchestra",
+      "title": "Strange Magic"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 pm",
+      "artist": "The Cars",
+      "title": "Just What I Needed",
+      "album": "The Cars • 1978"
+    },
     {
       "time": "7:44 pm",
       "artist": "Kacey Musgraves",
@@ -172,12 +178,6 @@
       "artist": "Usher",
       "title": "Numb",
       "album": "Looking 4 Myself • 2012"
-    },
-    {
-      "time": "6:17 pm",
-      "artist": "The Flaming Lips",
-      "title": "This Here Giraffe",
-      "album": "Clouds Taste Metallic • 1995"
     }
   ]
 }
