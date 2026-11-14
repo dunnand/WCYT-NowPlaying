@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T01:52:55",
+  "updatedAt": "2026-11-14T01:56:20",
   "now": {
-    "artist": "Eels",
-    "title": "Last Stop: This Town",
-    "album": "Electro Shock Blues • 1998",
-    "category": "TUNES"
+    "artist": "John Lee Hooker",
+    "title": "I'm in the Mood",
+    "album": "single • 1951",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "John Lee Hooker",
-      "title": "I'm in the Mood"
-    },
     {
       "time": "1:58 am",
       "artist": "Camera Obscura",
@@ -26,9 +21,20 @@
       "time": "2:05 am",
       "artist": "Slowdive",
       "title": "No Longer Making Time"
+    },
+    {
+      "time": "2:11 am",
+      "artist": "Eric Clapton",
+      "title": "Tears In Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "John Lee Hooker",
+      "title": "I'm in the Mood",
+      "album": "single • 1951"
+    },
     {
       "time": "1:52 am",
       "artist": "Eels",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "Here Comes Your Man",
       "album": "Doolittle • 1989"
-    },
-    {
-      "time": "12:21 am",
-      "artist": "Blur",
-      "title": "Country House",
-      "album": "The Great Escape • 1995"
     }
   ]
 }
