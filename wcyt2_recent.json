@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T15:28:20",
+  "updatedAt": "2026-11-14T15:31:45",
   "now": {
-    "artist": "AC/DC",
-    "title": "Highway to Hell",
-    "album": "Highway to Hell • 1979",
+    "artist": "Rolling Stones",
+    "title": "(I Can't Get No) Satisfaction",
+    "album": "single • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:31 pm",
-      "artist": "Rolling Stones",
-      "title": "(I Can't Get No) Satisfaction"
-    },
     {
       "time": "3:35 pm",
       "artist": "The Allman Brothers Band",
@@ -26,9 +21,20 @@
       "time": "3:42 pm",
       "artist": "Boney M.",
       "title": "Rasputin"
+    },
+    {
+      "time": "3:48 pm",
+      "artist": "Depeche Mode",
+      "title": "Personal Jesus"
     }
   ],
   "recent": [
+    {
+      "time": "3:31 pm",
+      "artist": "Rolling Stones",
+      "title": "(I Can't Get No) Satisfaction",
+      "album": "single • 1965"
+    },
     {
       "time": "3:28 pm",
       "artist": "AC/DC",
@@ -172,12 +178,6 @@
       "artist": "The Apples in Stereo",
       "title": "Tidal Wave",
       "album": "Fun Trick Noisemaker • 1995"
-    },
-    {
-      "time": "1:54 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Teach Your Children",
-      "album": "Dj Vu • 1970"
     }
   ]
 }
