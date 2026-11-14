@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T13:47:21",
+  "updatedAt": "2026-11-14T13:50:36",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "When the Sun Goes Down",
-    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
-    "category": "TUNES"
+    "artist": "Taylor Swift",
+    "title": "Shake It Off",
+    "album": "1989 • 2014",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 pm",
-      "artist": "Taylor Swift",
-      "title": "Shake It Off"
-    },
     {
       "time": "1:54 pm",
       "artist": "Crosby, Stills, Nash & Young",
@@ -26,9 +21,20 @@
       "time": "2:00 pm",
       "artist": "Blood Orange",
       "title": "Champagne Coast"
+    },
+    {
+      "time": "2:05 pm",
+      "artist": "The Decemberists",
+      "title": "Red Right Ankle"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "album": "1989 • 2014"
+    },
     {
       "time": "1:47 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Step",
       "album": "Modern Vampires Of The City • 2013"
-    },
-    {
-      "time": "12:25 pm",
-      "artist": "Neil Diamond",
-      "title": "Girl, You'll Be A Woman Soon",
-      "album": "Just for You • 1967"
     }
   ]
 }
