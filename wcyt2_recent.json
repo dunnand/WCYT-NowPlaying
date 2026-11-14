@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T08:14:38",
+  "updatedAt": "2026-11-14T08:18:23",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Eyes Open",
-    "album": "The Hunger Games • 2012",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Elevate Me Later",
+    "album": "Crooked Rain, Crooked Rain • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:18 am",
-      "artist": "Pavement",
-      "title": "Elevate Me Later"
-    },
     {
       "time": "8:21 am",
       "artist": "Built to Spill",
@@ -26,9 +21,20 @@
       "time": "8:26 am",
       "artist": "Public Enemy",
       "title": "Don't Believe the Hype"
+    },
+    {
+      "time": "8:31 am",
+      "artist": "Lil Nas X",
+      "title": "MONTERO (Call Me By Your Name)"
     }
   ],
   "recent": [
+    {
+      "time": "8:18 am",
+      "artist": "Pavement",
+      "title": "Elevate Me Later",
+      "album": "Crooked Rain, Crooked Rain • 1994"
+    },
     {
       "time": "8:14 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Minnie Riperton",
       "title": "Les Fleur",
       "album": "Come to My Garden • 1970"
-    },
-    {
-      "time": "6:36 am",
-      "artist": "Fleetwood Mac",
-      "title": "Warm Ways",
-      "album": "Fleetwood Mac • 1975"
     }
   ]
 }
