@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T13:56:56",
+  "updatedAt": "2026-11-14T14:00:11",
   "now": {
-    "artist": "The Apples in Stereo",
-    "title": "Tidal Wave",
-    "album": "Fun Trick Noisemaker • 1995",
-    "category": "TUNES"
+    "artist": "Blood Orange",
+    "title": "Champagne Coast",
+    "album": "Coastal Grooves • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:00 pm",
-      "artist": "Blood Orange",
-      "title": "Champagne Coast"
-    },
     {
       "time": "2:05 pm",
       "artist": "The Decemberists",
@@ -21,9 +16,20 @@
       "time": "2:08 pm",
       "artist": "Counting Crows",
       "title": "Big Yellow Taxi"
+    },
+    {
+      "time": "2:12 pm",
+      "artist": "Grimes",
+      "title": "Vowels = Space and Time"
     }
   ],
   "recent": [
+    {
+      "time": "2:00 pm",
+      "artist": "Blood Orange",
+      "title": "Champagne Coast",
+      "album": "Coastal Grooves • 2011"
+    },
     {
       "time": "1:56 pm",
       "artist": "The Apples in Stereo",
@@ -167,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "9-9",
       "album": "Murmur • 1983"
-    },
-    {
-      "time": "12:38 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Two-Headed Boy",
-      "album": "In The Aeroplane Over The Sea • 1998"
     }
   ]
 }
