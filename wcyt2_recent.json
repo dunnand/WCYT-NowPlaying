@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T08:14:24",
+  "updatedAt": "2026-11-14T08:14:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Taylor Swift",
+    "title": "Eyes Open",
+    "album": "The Hunger Games • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:14 am",
-      "artist": "Taylor Swift",
-      "title": "Eyes Open"
-    },
     {
       "time": "8:18 am",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "8:23 am",
       "artist": "Public Enemy",
       "title": "Can't Do Nuttin' For Ya, Man!"
+    },
+    {
+      "time": "8:26 am",
+      "artist": "Public Enemy",
+      "title": "Don't Believe the Hype"
     }
   ],
   "recent": [
+    {
+      "time": "8:14 am",
+      "artist": "Taylor Swift",
+      "title": "Eyes Open",
+      "album": "The Hunger Games • 2012"
+    },
     {
       "time": "8:10 am",
       "artist": "Deftones",
@@ -172,12 +178,6 @@
       "artist": "Fleetwood Mac",
       "title": "Warm Ways",
       "album": "Fleetwood Mac • 1975"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Khruangbin & Leon Bridges",
-      "title": "Texas Sun",
-      "album": "Texas Sun • 2020"
     }
   ]
 }
