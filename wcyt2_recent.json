@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T13:41:57",
+  "updatedAt": "2026-11-15T13:42:07",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joe",
+    "title": "I Wanna Know",
+    "album": "My Name Is Joe • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 pm",
-      "artist": "Joe",
-      "title": "I Wanna Know"
-    },
     {
       "time": "1:46 pm",
       "artist": "Interpol",
@@ -26,9 +21,20 @@
       "time": "1:54 pm",
       "artist": "His Name Is Alive",
       "title": "Universal Frequencies"
+    },
+    {
+      "time": "1:57 pm",
+      "artist": "Blur",
+      "title": "Parklife"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 pm",
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "album": "My Name Is Joe • 2000"
+    },
     {
       "time": "1:37 pm",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "Modest Mouse",
       "title": "Paper Thin Walls",
       "album": "The Moon & Antarctica • 2000"
-    },
-    {
-      "time": "12:08 pm",
-      "artist": "Chuck Berry",
-      "title": "Brown Eyed Handsome Man",
-      "album": "After School Session • 1957"
     }
   ]
 }
