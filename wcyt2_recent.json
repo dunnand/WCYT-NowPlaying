@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T00:45:56",
+  "updatedAt": "2026-11-15T00:49:22",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Float On",
-    "album": "Good News for People Who Love Bad News • 2004",
-    "category": "TUNES"
+    "artist": "Rihanna",
+    "title": "Diamonds",
+    "album": "Unapologetic • 2012",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "Rihanna",
-      "title": "Diamonds"
-    },
     {
       "time": "12:53 am",
       "artist": "Roxy Music",
@@ -26,9 +21,20 @@
       "time": "1:01 am",
       "artist": "Fats Domino",
       "title": "The Fat Man"
+    },
+    {
+      "time": "1:03 am",
+      "artist": "Interpol",
+      "title": "Hands Away"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "Rihanna",
+      "title": "Diamonds",
+      "album": "Unapologetic • 2012"
+    },
     {
       "time": "12:45 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "R.E.M.",
       "title": "(Don't Go Back to) Rockville",
       "album": "Reckoning • 1984"
-    },
-    {
-      "time": "10:16 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Higher Ground",
-      "album": "Mothers Milk • 1989"
     }
   ]
 }
