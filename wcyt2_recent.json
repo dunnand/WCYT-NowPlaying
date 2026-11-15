@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T04:27:41",
+  "updatedAt": "2026-11-15T04:27:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rush",
+    "title": "Tom Sawyer",
+    "album": "Moving Pictures • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:27 am",
-      "artist": "Rush",
-      "title": "Tom Sawyer"
-    },
     {
       "time": "4:32 am",
       "artist": "Rush",
@@ -26,9 +21,20 @@
       "time": "4:40 am",
       "artist": "Squeeze",
       "title": "Up The Junction"
+    },
+    {
+      "time": "4:43 am",
+      "artist": "The Staple Singers",
+      "title": "I'll Take You There"
     }
   ],
   "recent": [
+    {
+      "time": "4:27 am",
+      "artist": "Rush",
+      "title": "Tom Sawyer",
+      "album": "Moving Pictures • 1981"
+    },
     {
       "time": "4:23 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "The Paragons",
       "title": "The Tide Is High",
       "album": "On the Beach • 1967"
-    },
-    {
-      "time": "2:55 am",
-      "artist": "Tom Petty & The Heartbreakers",
-      "title": "Don't Do Me Like That",
-      "album": "Damn the Torpedoes • 1979"
     }
   ]
 }
