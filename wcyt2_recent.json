@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T08:15:24",
+  "updatedAt": "2026-11-15T08:19:11",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "22",
-    "album": "Red • 2012",
-    "category": "AUDIO"
+    "artist": "Sigur Ros",
+    "title": "Star�lfur",
+    "album": "Agaetis byrjun • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:19 am",
-      "artist": "Sigur Ros",
-      "title": "Star�lfur"
-    },
     {
       "time": "8:24 am",
       "artist": "Sting",
@@ -21,9 +16,20 @@
       "time": "8:29 am",
       "artist": "Sonic Youth",
       "title": "Starpower"
+    },
+    {
+      "time": "8:34 am",
+      "artist": "Sonic Youth",
+      "title": "Teenage Riot"
     }
   ],
   "recent": [
+    {
+      "time": "8:19 am",
+      "artist": "Sigur Ros",
+      "title": "Star�lfur",
+      "album": "Agaetis byrjun • 1999"
+    },
     {
       "time": "8:15 am",
       "artist": "Taylor Swift",
@@ -167,12 +173,6 @@
       "artist": "The Byrds",
       "title": "I'll Feel a Whole Lot Better",
       "album": "Mr. Tambourine Man • 1965"
-    },
-    {
-      "time": "6:49 am",
-      "artist": "The Stills-Young Band",
-      "title": "Long May You Run",
-      "album": "Long May You Run • 1976"
     }
   ]
 }
