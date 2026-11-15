@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T16:34:40",
+  "updatedAt": "2026-11-15T16:40:38",
   "now": {
-    "artist": "Black Sabbath",
-    "title": "N.I.B.",
-    "album": "Black Sabbath • 1970",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Interstate 8",
+    "album": "Building Nothing out of Something • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:40 pm",
-      "artist": "Modest Mouse",
-      "title": "Interstate 8"
-    },
     {
       "time": "4:45 pm",
       "artist": "Perez Prado",
@@ -26,9 +21,20 @@
       "time": "4:50 pm",
       "artist": "Traffic",
       "title": "Feelin' Alright"
+    },
+    {
+      "time": "4:54 pm",
+      "artist": "B.O.B",
+      "title": "NothinOnYou"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 pm",
+      "artist": "Modest Mouse",
+      "title": "Interstate 8",
+      "album": "Building Nothing out of Something • 1999"
+    },
     {
       "time": "4:34 pm",
       "artist": "Black Sabbath",
@@ -172,12 +178,6 @@
       "artist": "Goldfinger",
       "title": "Superman",
       "album": "Hang-Ups • 1997"
-    },
-    {
-      "time": "2:52 pm",
-      "artist": "Macy Gray",
-      "title": "I Try",
-      "album": "On How Life Is • 1999"
     }
   ]
 }
