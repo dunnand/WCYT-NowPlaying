@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T20:24:16",
+  "updatedAt": "2026-11-14T20:29:24",
   "now": {
-    "artist": "Simon & Garfunkel",
-    "title": "The Boxer",
-    "album": "Bridge Over Troubled Water • 1969",
+    "artist": "Michael Jackson",
+    "title": "Rock With You",
+    "album": "Off the Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:29 pm",
-      "artist": "Michael Jackson",
-      "title": "Rock With You"
-    },
     {
       "time": "8:32 pm",
       "artist": "Deee",
@@ -21,9 +16,20 @@
       "time": "8:36 pm",
       "artist": "Rolling Stones",
       "title": "19th Nervous Breakdown"
+    },
+    {
+      "time": "8:40 pm",
+      "artist": "Olivia Newton",
+      "title": "John - Please Mr. Please"
     }
   ],
   "recent": [
+    {
+      "time": "8:29 pm",
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "album": "Off the Wall • 1979"
+    },
     {
       "time": "8:24 pm",
       "artist": "Simon & Garfunkel",
@@ -167,12 +173,6 @@
       "artist": "John Coltrane",
       "title": "My Favorite Things",
       "album": "My Favorite Things • 1961"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "Grandaddy",
-      "title": "Now It's On",
-      "album": "Sumday • 2003"
     }
   ]
 }
