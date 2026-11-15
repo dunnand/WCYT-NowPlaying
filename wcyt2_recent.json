@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T04:03:09",
+  "updatedAt": "2026-11-15T04:05:12",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Well...All Right",
-    "album": "Buddy Holly • 1958",
+    "artist": "Nick Cave and the Bad Seeds",
+    "title": "As I Sat Sadly By Her Side",
+    "album": "No More Shall We Part • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "As I Sat Sadly By Her Side"
-    },
     {
       "time": "4:11 am",
       "artist": "Tom Jones",
@@ -21,9 +16,20 @@
       "time": "4:14 am",
       "artist": "Wiz Khalifa",
       "title": "Black & Yellow"
+    },
+    {
+      "time": "4:18 am",
+      "artist": "Jeff Buckley",
+      "title": "Grace"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 am",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "As I Sat Sadly By Her Side",
+      "album": "No More Shall We Part • 2001"
+    },
     {
       "time": "4:03 am",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "Rush",
       "title": "Red Barchetta",
       "album": "Moving Pictures • 1981"
-    },
-    {
-      "time": "2:30 am",
-      "artist": "Rush",
-      "title": "Freewill",
-      "album": "Permanent Waves • 1980"
     }
   ]
 }
