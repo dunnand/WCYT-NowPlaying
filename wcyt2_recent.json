@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T00:11:13",
+  "updatedAt": "2026-11-15T00:15:41",
   "now": {
-    "artist": "Rihanna",
-    "title": "What's My Name",
-    "album": "Loud • 2010",
+    "artist": "Counting Crows",
+    "title": "Mr. Jones",
+    "album": "August and Everything After • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:15 am",
-      "artist": "Counting Crows",
-      "title": "Mr. Jones"
-    },
     {
       "time": "12:20 am",
       "artist": "David Byrne",
@@ -21,9 +16,20 @@
       "time": "12:24 am",
       "artist": "The Replacements",
       "title": "Swingin Party"
+    },
+    {
+      "time": "12:28 am",
+      "artist": "The Replacements",
+      "title": "Unsatisfied"
     }
   ],
   "recent": [
+    {
+      "time": "12:15 am",
+      "artist": "Counting Crows",
+      "title": "Mr. Jones",
+      "album": "August and Everything After • 1994"
+    },
     {
       "time": "12:11 am",
       "artist": "Rihanna",
@@ -167,12 +173,6 @@
       "artist": "Neil Diamond",
       "title": "Song Sung Blue",
       "album": "Moods • 1972"
-    },
-    {
-      "time": "9:48 pm",
-      "artist": "The Mamas & The Papas",
-      "title": "California Dreamin'",
-      "album": "If You Can Believe Your Eyes and Ears • 1966"
     }
   ]
 }
