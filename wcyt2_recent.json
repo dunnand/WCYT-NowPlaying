@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T18:35:11",
+  "updatedAt": "2026-11-15T18:35:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Linkin Park",
+    "title": "In The End",
+    "album": "Hybrid Theory • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:35 pm",
-      "artist": "Linkin Park",
-      "title": "In The End"
-    },
     {
       "time": "6:38 pm",
       "artist": "The Monks",
@@ -26,9 +21,20 @@
       "time": "6:48 pm",
       "artist": "Pretenders",
       "title": "I'll Stand By You"
+    },
+    {
+      "time": "6:52 pm",
+      "artist": "Ray Charles",
+      "title": "Tell All the World About You"
     }
   ],
   "recent": [
+    {
+      "time": "6:35 pm",
+      "artist": "Linkin Park",
+      "title": "In The End",
+      "album": "Hybrid Theory • 2001"
+    },
     {
       "time": "6:32 pm",
       "artist": "Kool & The Gang",
@@ -172,12 +178,6 @@
       "artist": "Traffic",
       "title": "Feelin' Alright",
       "album": "Traffic • 1968"
-    },
-    {
-      "time": "4:47 pm",
-      "artist": "Klaxons",
-      "title": "Golden Skans",
-      "album": "Myths of the Near Future • 2006"
     }
   ]
 }
