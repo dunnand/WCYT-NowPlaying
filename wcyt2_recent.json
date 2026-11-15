@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T04:02:57",
+  "updatedAt": "2026-11-15T04:03:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Well...All Right",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right"
-    },
     {
       "time": "4:05 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "Buddy Holly",
+      "title": "Well...All Right",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "3:58 am",
       "artist": "Jamiroquai",
@@ -172,12 +173,6 @@
       "artist": "Rush",
       "title": "Freewill",
       "album": "Permanent Waves • 1980"
-    },
-    {
-      "time": "2:26 am",
-      "artist": "Fugees",
-      "title": "Fu-Gee-La",
-      "album": "The Score • 1996"
     }
   ]
 }
