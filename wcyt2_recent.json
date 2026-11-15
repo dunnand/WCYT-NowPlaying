@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T02:05:14",
+  "updatedAt": "2026-11-15T02:05:36",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "The Glow",
+    "album": "It Was Hot, We Stayed in the Water • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:05 am",
-      "artist": "The Microphones",
-      "title": "The Glow"
-    },
     {
       "time": "2:16 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "2:23 am",
       "artist": "Fugazi",
       "title": "Repeater"
+    },
+    {
+      "time": "2:26 am",
+      "artist": "Fugees",
+      "title": "Fu-Gee-La"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 am",
+      "artist": "The Microphones",
+      "title": "The Glow",
+      "album": "It Was Hot, We Stayed in the Water • 2000"
+    },
     {
       "time": "2:00 am",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "The Replacements",
       "title": "Unsatisfied",
       "album": "Let It Be • 1984"
-    },
-    {
-      "time": "12:24 am",
-      "artist": "The Replacements",
-      "title": "Swingin Party",
-      "album": "Tim • 1985"
     }
   ]
 }
