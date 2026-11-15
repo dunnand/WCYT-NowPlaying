@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T16:54:41",
+  "updatedAt": "2026-11-15T16:58:17",
   "now": {
-    "artist": "B.O.B",
-    "title": "NothinOnYou",
-    "album": "May 25th • 2010",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Oh Comely",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:58 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Oh Comely"
-    },
     {
       "time": "5:06 pm",
       "artist": "Monica",
@@ -21,9 +16,20 @@
       "time": "5:10 pm",
       "artist": "Talk Talk",
       "title": "Such a Shame"
+    },
+    {
+      "time": "5:15 pm",
+      "artist": "Talk Talk",
+      "title": "The Rainbow"
     }
   ],
   "recent": [
+    {
+      "time": "4:58 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Oh Comely",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "4:54 pm",
       "artist": "B.O.B",
@@ -167,12 +173,6 @@
       "artist": "The Carpenters",
       "title": "Yesterday Once More",
       "album": "Now and Then • 1973"
-    },
-    {
-      "time": "3:18 pm",
-      "artist": "Maroon 5",
-      "title": "This Love",
-      "album": "Songs About Jane • 2002"
     }
   ]
 }
