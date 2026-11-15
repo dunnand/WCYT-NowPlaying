@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T20:40:53",
+  "updatedAt": "2026-11-14T20:44:16",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "Please Mr. Please",
-    "album": "Have You Never Been Mellow • 1975",
+    "artist": "Roy Orbison",
+    "title": "Only The Lonely",
+    "album": "Lonely and Blue • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:44 pm",
-      "artist": "Roy Orbison",
-      "title": "Only The Lonely"
-    },
     {
       "time": "8:46 pm",
       "artist": "Paul McCartney",
@@ -26,9 +21,20 @@
       "time": "8:55 pm",
       "artist": "Huey \"Piano\" Smith",
       "title": "Rocking Pneumonia and the Boogie Woogie Flu"
+    },
+    {
+      "time": "8:57 pm",
+      "artist": "Eels",
+      "title": "I Like Birds"
     }
   ],
   "recent": [
+    {
+      "time": "8:44 pm",
+      "artist": "Roy Orbison",
+      "title": "Only The Lonely",
+      "album": "Lonely and Blue • 1960"
+    },
     {
       "time": "8:40 pm",
       "artist": "Olivia Newton-John",
@@ -172,12 +178,6 @@
       "artist": "The Replacements",
       "title": "Favorite Thing",
       "album": "Pleased to Meet Me • 1987"
-    },
-    {
-      "time": "7:14 pm",
-      "artist": "Built to Spill",
-      "title": "I Would Hurt a Fly",
-      "album": "Perfect From Now On • 1997"
     }
   ]
 }
