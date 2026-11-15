@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T20:22:24",
+  "updatedAt": "2026-11-14T20:24:16",
   "now": {
-    "artist": "Animal Collective",
-    "title": "Who Could Win a Rabbit",
-    "album": "Sung Tongs • 2004",
-    "category": "TUNES"
+    "artist": "Simon & Garfunkel",
+    "title": "The Boxer",
+    "album": "Bridge Over Troubled Water • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:24 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "The Boxer"
-    },
     {
       "time": "8:29 pm",
       "artist": "Michael Jackson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:24 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "The Boxer",
+      "album": "Bridge Over Troubled Water • 1969"
+    },
     {
       "time": "8:22 pm",
       "artist": "Animal Collective",
@@ -172,12 +173,6 @@
       "artist": "Grandaddy",
       "title": "Now It's On",
       "album": "Sumday • 2003"
-    },
-    {
-      "time": "6:45 pm",
-      "artist": "Elton Britt",
-      "title": "Uranium Fever",
-      "album": ""
     }
   ]
 }
