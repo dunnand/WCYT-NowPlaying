@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T18:51:56",
+  "updatedAt": "2026-11-14T19:05:35",
   "now": {
-    "artist": "John Coltrane",
-    "title": "My Favorite Things",
-    "album": "My Favorite Things • 1961",
+    "artist": "Taylor Swift",
+    "title": "Style",
+    "album": "1989 • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:05 pm",
-      "artist": "Taylor Swift",
-      "title": "Style"
-    },
     {
       "time": "7:09 pm",
       "artist": "Bryan Adams",
@@ -21,9 +16,20 @@
       "time": "7:14 pm",
       "artist": "Built to Spill",
       "title": "I Would Hurt a Fly"
+    },
+    {
+      "time": "7:19 pm",
+      "artist": "The Replacements",
+      "title": "Favorite Thing"
     }
   ],
   "recent": [
+    {
+      "time": "7:05 pm",
+      "artist": "Taylor Swift",
+      "title": "Style",
+      "album": "1989 • 2014"
+    },
     {
       "time": "6:51 pm",
       "artist": "John Coltrane",
@@ -167,12 +173,6 @@
       "artist": "Boards of Canada",
       "title": "1969",
       "album": "Geogaddi • 2002"
-    },
-    {
-      "time": "5:19 pm",
-      "artist": "Haim",
-      "title": "Now I'm In It",
-      "album": "Women in Music, Pt. III • 2020"
     }
   ]
 }
