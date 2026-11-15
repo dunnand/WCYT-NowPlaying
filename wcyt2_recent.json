@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T09:20:41",
+  "updatedAt": "2026-11-15T09:24:18",
   "now": {
-    "artist": "Wallflowers",
-    "title": "The Difference",
-    "album": "Bringing Down the Horse • 1997",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "The Sprawl",
+    "album": "Daydream Nation • 1988",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:24 am",
-      "artist": "Sonic Youth",
-      "title": "The Sprawl"
-    },
     {
       "time": "9:32 am",
       "artist": "Sparks",
@@ -21,9 +16,20 @@
       "time": "9:35 am",
       "artist": "Haim",
       "title": "Don't Wanna"
+    },
+    {
+      "time": "9:39 am",
+      "artist": "The Cars",
+      "title": "You're All I've Got Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "9:24 am",
+      "artist": "Sonic Youth",
+      "title": "The Sprawl",
+      "album": "Daydream Nation • 1988"
+    },
     {
       "time": "9:20 am",
       "artist": "Wallflowers",
@@ -167,12 +173,6 @@
       "artist": "James Taylor",
       "title": "Handy Man",
       "album": "JT • 1977"
-    },
-    {
-      "time": "7:47 am",
-      "artist": "Traffic",
-      "title": "Dear Mr. Fantasy",
-      "album": "Mr. Fantasy • 1968"
     }
   ]
 }
