@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T13:42:07",
+  "updatedAt": "2026-11-15T13:46:52",
   "now": {
-    "artist": "Joe",
-    "title": "I Wanna Know",
-    "album": "My Name Is Joe • 2000",
-    "category": "AUDIO"
+    "artist": "Interpol",
+    "title": "Roland",
+    "album": "Turn on the Bright Lights • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:46 pm",
-      "artist": "Interpol",
-      "title": "Roland"
-    },
     {
       "time": "1:50 pm",
       "artist": "Angel Olsen",
@@ -26,9 +21,20 @@
       "time": "1:57 pm",
       "artist": "Blur",
       "title": "Parklife"
+    },
+    {
+      "time": "2:00 pm",
+      "artist": "Talking Heads",
+      "title": "Slippery People"
     }
   ],
   "recent": [
+    {
+      "time": "1:46 pm",
+      "artist": "Interpol",
+      "title": "Roland",
+      "album": "Turn on the Bright Lights • 2002"
+    },
     {
       "time": "1:42 pm",
       "artist": "Joe",
@@ -172,12 +178,6 @@
       "artist": "Thunderclap Newman",
       "title": "Something In The Air",
       "album": "Hollywood Dream • 1969"
-    },
-    {
-      "time": "12:11 pm",
-      "artist": "Modest Mouse",
-      "title": "Paper Thin Walls",
-      "album": "The Moon & Antarctica • 2000"
     }
   ]
 }
