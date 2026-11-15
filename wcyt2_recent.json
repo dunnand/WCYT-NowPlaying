@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T04:46:58",
+  "updatedAt": "2026-11-15T04:51:34",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "The World At Large",
-    "album": "Good News for People Who Love Bad News • 2004",
-    "category": "TUNES"
+    "artist": "The Zombies",
+    "title": "Time Of The Season",
+    "album": "Odessey and Oracle • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:51 am",
-      "artist": "The Zombies",
-      "title": "Time Of The Season"
-    },
     {
       "time": "4:54 am",
       "artist": "The Only Ones",
@@ -26,9 +21,20 @@
       "time": "5:01 am",
       "artist": "Chordettes",
       "title": "Mr. Sandman"
+    },
+    {
+      "time": "5:04 am",
+      "artist": "LCD Soundsystem",
+      "title": "Someone Great"
     }
   ],
   "recent": [
+    {
+      "time": "4:51 am",
+      "artist": "The Zombies",
+      "title": "Time Of The Season",
+      "album": "Odessey and Oracle • 1969"
+    },
     {
       "time": "4:46 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Sturgill Simpson",
       "title": "Sing Along",
       "album": "Sing Along • 2019"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "The Standells",
-      "title": "Dirty Water",
-      "album": "Dirty Water • 1966"
     }
   ]
 }
