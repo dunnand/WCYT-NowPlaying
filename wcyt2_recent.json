@@ -1,39 +1,40 @@
 {
-  "updatedAt": "2026-11-15T15:21:38",
+  "updatedAt": "2026-11-15T15:21:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Carpenters",
+    "title": "Yesterday Once More",
+    "album": "Now and Then • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "3:21 pm",
+      "time": "3:25 pm",
+      "artist": "Maroon 5",
+      "title": "This Love"
+    },
+    {
+      "time": "3:29 pm",
       "artist": "The Carpenters",
       "title": "Yesterday Once More"
     },
     {
-      "time": "3:25 pm",
+      "time": "3:33 pm",
       "artist": "Phoenix",
       "title": "If I Ever Feel Better"
     },
     {
-      "time": "3:29 pm",
+      "time": "3:37 pm",
       "artist": "Black Eyed Peas",
       "title": "Just Can't Get Enough"
-    },
-    {
-      "time": "3:33 pm",
-      "artist": "Paul McCartney and Wings",
-      "title": "Silly Love Songs"
-    },
-    {
-      "time": "3:39 pm",
-      "artist": "Pavement",
-      "title": "Here"
     }
   ],
   "recent": [
+    {
+      "time": "3:21 pm",
+      "artist": "The Carpenters",
+      "title": "Yesterday Once More",
+      "album": "Now and Then • 1973"
+    },
     {
       "time": "3:18 pm",
       "artist": "Maroon 5",
@@ -177,12 +178,6 @@
       "artist": "Joe",
       "title": "I Wanna Know",
       "album": "My Name Is Joe • 2000"
-    },
-    {
-      "time": "1:37 pm",
-      "artist": "Beach House",
-      "title": "Wild",
-      "album": "Bloom • 2012"
     }
   ]
 }
