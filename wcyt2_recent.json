@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T08:12:21",
+  "updatedAt": "2026-11-15T08:15:24",
   "now": {
-    "artist": "Three Dog Night",
-    "title": "One",
-    "album": "Three Dog Night • 1968",
+    "artist": "Taylor Swift",
+    "title": "22",
+    "album": "Red • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 am",
-      "artist": "Taylor Swift",
-      "title": "22"
-    },
     {
       "time": "8:19 am",
       "artist": "Sigur Ros",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Taylor Swift",
+      "title": "22",
+      "album": "Red • 2012"
+    },
     {
       "time": "8:12 am",
       "artist": "Three Dog Night",
@@ -172,12 +173,6 @@
       "artist": "The Stills-Young Band",
       "title": "Long May You Run",
       "album": "Long May You Run • 1976"
-    },
-    {
-      "time": "6:44 am",
-      "artist": "Magdalena Bay",
-      "title": "Cry for Me",
-      "album": "Imaginal Disk • 2024"
     }
   ]
 }
