@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T00:02:09",
+  "updatedAt": "2026-11-15T00:04:22",
   "now": {
-    "artist": "Les Paul",
-    "title": "How High The Moon",
-    "album": "single • 1951",
-    "category": "AUDIO"
+    "artist": "Les Savy Fav",
+    "title": "The Sweat Descends",
+    "album": "Inches • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Les Savy Fav",
-      "title": "The Sweat Descends"
-    },
     {
       "time": "12:08 am",
       "artist": "Ricky Nelson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Les Savy Fav",
+      "title": "The Sweat Descends",
+      "album": "Inches • 2004"
+    },
     {
       "time": "12:02 am",
       "artist": "Les Paul",
@@ -172,12 +173,6 @@
       "artist": "The Black Keys",
       "title": "When The Lights Go Out",
       "album": "Rubber Factory • 2004"
-    },
-    {
-      "time": "9:35 pm",
-      "artist": "Talking Heads",
-      "title": "Take Me To The River",
-      "album": "More Songs About Buildings and Food • 1978"
     }
   ]
 }
