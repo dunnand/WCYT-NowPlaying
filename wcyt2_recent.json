@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T04:46:38",
+  "updatedAt": "2026-11-15T04:46:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "The World At Large",
+    "album": "Good News for People Who Love Bad News • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "Modest Mouse",
-      "title": "The World At Large"
-    },
     {
       "time": "4:51 am",
       "artist": "The Zombies",
@@ -26,9 +21,20 @@
       "time": "4:57 am",
       "artist": "Low",
       "title": "Over the Ocean"
+    },
+    {
+      "time": "5:01 am",
+      "artist": "Chordettes",
+      "title": "Mr. Sandman"
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "Modest Mouse",
+      "title": "The World At Large",
+      "album": "Good News for People Who Love Bad News • 2004"
+    },
     {
       "time": "4:43 am",
       "artist": "The Staple Singers",
@@ -172,12 +178,6 @@
       "artist": "The Standells",
       "title": "Dirty Water",
       "album": "Dirty Water • 1966"
-    },
-    {
-      "time": "3:10 am",
-      "artist": "MGMT",
-      "title": "Electric Feel",
-      "album": "Oracular Spectacular • 2007"
     }
   ]
 }
