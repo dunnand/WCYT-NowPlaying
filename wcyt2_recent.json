@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T01:42:13",
+  "updatedAt": "2026-11-15T01:42:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "One Big Holiday",
+    "album": "It Still Moves • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "My Morning Jacket",
-      "title": "One Big Holiday"
-    },
     {
       "time": "1:47 am",
       "artist": "Percy Sledge",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "My Morning Jacket",
+      "title": "One Big Holiday",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "1:37 am",
       "artist": "Simon & Garfunkel",
@@ -177,12 +178,6 @@
       "artist": "Ricky Nelson",
       "title": "Hello Mary Lou",
       "album": "single • 1961"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "Les Savy Fav",
-      "title": "The Sweat Descends",
-      "album": "Inches • 2004"
     }
   ]
 }
