@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T20:04:33",
+  "updatedAt": "2026-11-14T20:04:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ray Charles",
+    "title": "Shake a Tail Feather",
+    "album": "Blues Brothers • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:04 pm",
-      "artist": "Ray Charles",
-      "title": "Shake a Tail Feather"
-    },
     {
       "time": "8:07 pm",
       "artist": "Red Hot Chili Peppers",
@@ -26,9 +21,20 @@
       "time": "8:14 pm",
       "artist": "Genesis",
       "title": "Follow You Follow Me"
+    },
+    {
+      "time": "8:18 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Dreams"
     }
   ],
   "recent": [
+    {
+      "time": "8:04 pm",
+      "artist": "Ray Charles",
+      "title": "Shake a Tail Feather",
+      "album": "Blues Brothers • 1980"
+    },
     {
       "time": "8:00 pm",
       "artist": "R.E.M.",
@@ -172,12 +178,6 @@
       "artist": "Gil Scott-Heron",
       "title": "Lady Day and John Coltrane",
       "album": "Pieces of a Man • 1971"
-    },
-    {
-      "time": "6:20 pm",
-      "artist": "George McCrae",
-      "title": "Rock Your Baby",
-      "album": "Rock Your Baby • 1974"
     }
   ]
 }
