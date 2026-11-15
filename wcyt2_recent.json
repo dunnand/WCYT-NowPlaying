@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T01:42:35",
+  "updatedAt": "2026-11-15T01:47:51",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "One Big Holiday",
-    "album": "It Still Moves • 2003",
-    "category": "TUNES"
+    "artist": "Percy Sledge",
+    "title": "When A Man Loves A Woman",
+    "album": "When a Man Loves a Woman • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:47 am",
-      "artist": "Percy Sledge",
-      "title": "When A Man Loves A Woman"
-    },
     {
       "time": "1:50 am",
       "artist": "The Chi",
@@ -26,9 +21,20 @@
       "time": "2:00 am",
       "artist": "Vampire Weekend",
       "title": "Harmony Hall"
+    },
+    {
+      "time": "2:05 am",
+      "artist": "The Microphones",
+      "title": "The Glow"
     }
   ],
   "recent": [
+    {
+      "time": "1:47 am",
+      "artist": "Percy Sledge",
+      "title": "When A Man Loves A Woman",
+      "album": "When a Man Loves a Woman • 1966"
+    },
     {
       "time": "1:42 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Rihanna",
       "title": "What's My Name",
       "album": "Loud • 2010"
-    },
-    {
-      "time": "12:08 am",
-      "artist": "Ricky Nelson",
-      "title": "Hello Mary Lou",
-      "album": "single • 1961"
     }
   ]
 }
