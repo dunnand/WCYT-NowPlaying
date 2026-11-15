@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T14:20:23",
+  "updatedAt": "2026-11-15T14:24:28",
   "now": {
-    "artist": "The Flying Burrito Brothers",
-    "title": "Sin City",
-    "album": "The Gilded Palace of Sin • 1969",
+    "artist": "Billy Joel",
+    "title": "Just The Way You Are",
+    "album": "The Stranger • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:24 pm",
-      "artist": "Billy Joel",
-      "title": "Just The Way You Are"
-    },
     {
       "time": "2:27 pm",
       "artist": "The Who",
@@ -26,9 +21,25 @@
       "time": "2:34 pm",
       "artist": "Portishead",
       "title": "Strangers"
+    },
+    {
+      "time": "2:38 pm",
+      "artist": "Little Richard",
+      "title": "Tutti Frutti"
+    },
+    {
+      "time": "2:40 pm",
+      "artist": "John Mayer",
+      "title": "Daughters"
     }
   ],
   "recent": [
+    {
+      "time": "2:24 pm",
+      "artist": "Billy Joel",
+      "title": "Just The Way You Are",
+      "album": "The Stranger • 1977"
+    },
     {
       "time": "2:20 pm",
       "artist": "The Flying Burrito Brothers",
@@ -172,12 +183,6 @@
       "artist": "Okkervil River",
       "title": "For Real",
       "album": "Black Sheep Boy • 2005"
-    },
-    {
-      "time": "12:48 pm",
-      "artist": "Stealers Wheel",
-      "title": "Stuck In The Middle With You",
-      "album": "Stealers Wheel • 1973"
     }
   ]
 }
