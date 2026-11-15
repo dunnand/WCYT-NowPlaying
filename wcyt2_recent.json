@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T20:46:39",
+  "updatedAt": "2026-11-14T20:50:16",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Maybe I'm Amazed",
-    "album": "McCartney • 1970",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Venus as a Boy",
+    "album": "Debut • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:50 pm",
-      "artist": "Bjork",
-      "title": "Venus as a Boy"
-    },
     {
       "time": "8:55 pm",
       "artist": "Huey \"Piano\" Smith",
@@ -21,9 +16,20 @@
       "time": "8:57 pm",
       "artist": "Eels",
       "title": "I Like Birds"
+    },
+    {
+      "time": "8:59 pm",
+      "artist": "Russell Morris",
+      "title": "The Real Thing"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 pm",
+      "artist": "Bjork",
+      "title": "Venus as a Boy",
+      "album": "Debut • 1993"
+    },
     {
       "time": "8:46 pm",
       "artist": "Paul McCartney",
@@ -167,12 +173,6 @@
       "artist": "Haim",
       "title": "Gasoline",
       "album": "Women in Music, Pt. III • 2020"
-    },
-    {
-      "time": "7:22 pm",
-      "artist": "The Replacements",
-      "title": "Left of the Dial",
-      "album": "Tim • 1985"
     }
   ]
 }
