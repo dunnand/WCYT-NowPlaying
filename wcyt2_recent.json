@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T02:45:42",
+  "updatedAt": "2026-11-15T02:53:00",
   "now": {
-    "artist": "The Spinners",
-    "title": "The Rubberband Man",
-    "album": "Happiness Is Being with the Spinners • 1976",
+    "artist": "Roy Orbison",
+    "title": "Running Scared",
+    "album": "Crying • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:53 am",
-      "artist": "Roy Orbison",
-      "title": "Running Scared"
-    },
     {
       "time": "2:55 am",
       "artist": "Tom Petty & The Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "3:00 am",
       "artist": "Van Halen",
       "title": "Jamie's Cryin'"
+    },
+    {
+      "time": "3:04 am",
+      "artist": "Gang Starr",
+      "title": "Mass Appeal"
     }
   ],
   "recent": [
+    {
+      "time": "2:53 am",
+      "artist": "Roy Orbison",
+      "title": "Running Scared",
+      "album": "Crying • 1962"
+    },
     {
       "time": "2:45 am",
       "artist": "The Spinners",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "Hands Away",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "1:01 am",
-      "artist": "Fats Domino",
-      "title": "The Fat Man",
-      "album": "Rock and Rollin' With Fats Domino • 1956"
     }
   ]
 }
