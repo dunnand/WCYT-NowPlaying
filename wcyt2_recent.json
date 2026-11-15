@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T08:49:53",
+  "updatedAt": "2026-11-15T08:52:48",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Cruel Summer",
-    "album": "Lover • 2019",
+    "artist": "Blondie",
+    "title": "Heart of Glass",
+    "album": "Parallel Lines • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:52 am",
-      "artist": "Blondie",
-      "title": "Heart of Glass"
-    },
     {
       "time": "8:57 am",
       "artist": "Sugar Ray",
@@ -26,9 +21,20 @@
       "time": "9:06 am",
       "artist": "The Magnetic Fields",
       "title": "I Don't Believe You"
+    },
+    {
+      "time": "9:09 am",
+      "artist": "Modest Mouse",
+      "title": "Gravity Rides Everything"
     }
   ],
   "recent": [
+    {
+      "time": "8:52 am",
+      "artist": "Blondie",
+      "title": "Heart of Glass",
+      "album": "Parallel Lines • 1978"
+    },
     {
       "time": "8:49 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Rihanna",
       "title": "You Da One",
       "album": "Talk That Talk • 2011"
-    },
-    {
-      "time": "7:17 am",
-      "artist": "P.O.S",
-      "title": "Drumroll (We're All Thirsty)",
-      "album": "Never Better • 2009"
     }
   ]
 }
