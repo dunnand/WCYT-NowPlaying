@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T16:40:38",
+  "updatedAt": "2026-11-15T16:45:15",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Interstate 8",
-    "album": "Building Nothing out of Something • 1999",
-    "category": "TUNES"
+    "artist": "Perez Prado",
+    "title": "Patricia",
+    "album": "single • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 pm",
-      "artist": "Perez Prado",
-      "title": "Patricia"
-    },
     {
       "time": "4:47 pm",
       "artist": "Klaxons",
@@ -26,9 +21,20 @@
       "time": "4:54 pm",
       "artist": "B.O.B",
       "title": "NothinOnYou"
+    },
+    {
+      "time": "4:58 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Oh Comely"
     }
   ],
   "recent": [
+    {
+      "time": "4:45 pm",
+      "artist": "Perez Prado",
+      "title": "Patricia",
+      "album": "single • 1958"
+    },
     {
       "time": "4:40 pm",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Talk Talk",
       "title": "I Believe in You",
       "album": "Spirit of Eden • 1988"
-    },
-    {
-      "time": "2:56 pm",
-      "artist": "Goldfinger",
-      "title": "Superman",
-      "album": "Hang-Ups • 1997"
     }
   ]
 }
