@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T00:53:07",
+  "updatedAt": "2026-11-15T00:57:04",
   "now": {
-    "artist": "Roxy Music",
-    "title": "Love Is The Drug",
-    "album": "Siren • 1975",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "President of What?",
+    "album": "Something About Airplanes • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:56 am",
-      "artist": "Death Cab for Cutie",
-      "title": "President of What?"
-    },
     {
       "time": "1:01 am",
       "artist": "Fats Domino",
@@ -21,9 +16,20 @@
       "time": "1:03 am",
       "artist": "Interpol",
       "title": "Hands Away"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Spirit",
+      "title": "I Got A Line On You"
     }
   ],
   "recent": [
+    {
+      "time": "12:57 am",
+      "artist": "Death Cab for Cutie",
+      "title": "President of What?",
+      "album": "Something About Airplanes • 1998"
+    },
     {
       "time": "12:53 am",
       "artist": "Roxy Music",
@@ -167,12 +173,6 @@
       "artist": "Elton John",
       "title": "Harmony",
       "album": "Goodbye Yellow Brick Road • 1973"
-    },
-    {
-      "time": "10:23 pm",
-      "artist": "Pearl Jam",
-      "title": "Dance Of The Clairvoyants",
-      "album": "Gigaton • 2020"
     }
   ]
 }
