@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T03:16:34",
+  "updatedAt": "2026-11-15T03:19:27",
   "now": {
-    "artist": "Sturgill Simpson",
-    "title": "Sing Along",
-    "album": "Sing Along • 2019",
+    "artist": "Genesis",
+    "title": "I Can't Dance",
+    "album": "We Can't Dance • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:19 am",
-      "artist": "Genesis",
-      "title": "I Can't Dance"
-    },
     {
       "time": "3:23 am",
       "artist": "Heavenly",
@@ -21,9 +16,20 @@
       "time": "3:26 am",
       "artist": "Rush",
       "title": "Subdivisions"
+    },
+    {
+      "time": "3:32 am",
+      "artist": "Rush",
+      "title": "The Spirit of Radio"
     }
   ],
   "recent": [
+    {
+      "time": "3:19 am",
+      "artist": "Genesis",
+      "title": "I Can't Dance",
+      "album": "We Can't Dance • 1992"
+    },
     {
       "time": "3:16 am",
       "artist": "Sturgill Simpson",
@@ -167,12 +173,6 @@
       "artist": "Simon & Garfunkel",
       "title": "Bridge Over Troubled Water",
       "album": "Bridge Over Troubled Water • 1970"
-    },
-    {
-      "time": "1:33 am",
-      "artist": "Shuggie Otis",
-      "title": "Inspiration/Information",
-      "album": "Inspiration Information • 1974"
     }
   ]
 }
