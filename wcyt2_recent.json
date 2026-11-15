@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-14T20:14:18",
+  "updatedAt": "2026-11-14T20:14:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Genesis",
+    "title": "Follow You Follow Me",
+    "album": "... And Then There Were Three... • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:14 pm",
-      "artist": "Genesis",
-      "title": "Follow You Follow Me"
-    },
     {
       "time": "8:18 pm",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "8:24 pm",
       "artist": "Simon & Garfunkel",
       "title": "The Boxer"
+    },
+    {
+      "time": "8:29 pm",
+      "artist": "Michael Jackson",
+      "title": "Rock With You"
     }
   ],
   "recent": [
+    {
+      "time": "8:14 pm",
+      "artist": "Genesis",
+      "title": "Follow You Follow Me",
+      "album": "... And Then There Were Three... • 1978"
+    },
     {
       "time": "8:11 pm",
       "artist": "GENER8ION",
@@ -172,12 +178,6 @@
       "artist": "Herbie Hancock",
       "title": "Watermelon Man",
       "album": "Head Hunters • 1973"
-    },
-    {
-      "time": "6:33 pm",
-      "artist": "Joe Jones",
-      "title": "You Talk Too Much",
-      "album": "You Talk Too Much • 1960"
     }
   ]
 }
