@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T15:25:35",
+  "updatedAt": "2026-11-15T15:29:51",
   "now": {
-    "artist": "Phoenix",
-    "title": "If I Ever Feel Better",
-    "album": "United • 2000",
-    "category": "TUNES"
+    "artist": "Black Eyed Peas",
+    "title": "Just Can't Get Enough",
+    "album": "The Beginning • 2010",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:29 pm",
-      "artist": "Black Eyed Peas",
-      "title": "Just Can't Get Enough"
-    },
     {
       "time": "3:33 pm",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "3:43 pm",
       "artist": "Bruno Mars",
       "title": "Lazy Song"
+    },
+    {
+      "time": "3:46 pm",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do"
     }
   ],
   "recent": [
+    {
+      "time": "3:29 pm",
+      "artist": "Black Eyed Peas",
+      "title": "Just Can't Get Enough",
+      "album": "The Beginning • 2010"
+    },
     {
       "time": "3:25 pm",
       "artist": "Phoenix",
@@ -172,12 +178,6 @@
       "artist": "Angel Olsen",
       "title": "Shut Up Kiss Me",
       "album": "My Woman • 2016"
-    },
-    {
-      "time": "1:46 pm",
-      "artist": "Interpol",
-      "title": "Roland",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
