@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T00:08:27",
+  "updatedAt": "2026-11-15T00:08:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ricky Nelson",
+    "title": "Hello Mary Lou",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 am",
-      "artist": "Ricky Nelson",
-      "title": "Hello Mary Lou"
-    },
     {
       "time": "12:11 am",
       "artist": "Rihanna",
@@ -26,9 +21,20 @@
       "time": "12:20 am",
       "artist": "David Byrne",
       "title": "Angels"
+    },
+    {
+      "time": "12:24 am",
+      "artist": "The Replacements",
+      "title": "Swingin Party"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "Ricky Nelson",
+      "title": "Hello Mary Lou",
+      "album": "single • 1961"
+    },
     {
       "time": "12:04 am",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "Missy Elliott",
       "title": "Get Ur Freak On",
       "album": "Miss E ...So Addictive • 2001"
-    },
-    {
-      "time": "9:40 pm",
-      "artist": "The Black Keys",
-      "title": "When The Lights Go Out",
-      "album": "Rubber Factory • 2004"
     }
   ]
 }
