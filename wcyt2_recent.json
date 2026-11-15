@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T15:43:10",
+  "updatedAt": "2026-11-15T15:46:26",
   "now": {
-    "artist": "Bruno Mars",
-    "title": "Lazy Song",
-    "album": "Doo-Wops & Hooligans • 2010",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Just Because I Do",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:46 pm",
-      "artist": "My Morning Jacket",
-      "title": "Just Because I Do"
-    },
     {
       "time": "3:49 pm",
       "artist": "My Morning Jacket",
@@ -21,9 +16,25 @@
       "time": "3:54 pm",
       "artist": "Arctic Monkeys",
       "title": "Do I Wanna Know"
+    },
+    {
+      "time": "3:59 pm",
+      "artist": "Linda Scott",
+      "title": "I've Told Every Little Star"
+    },
+    {
+      "time": "4:01 pm",
+      "artist": "The Magnetic Fields",
+      "title": "I Think I Need a New Heart"
     }
   ],
   "recent": [
+    {
+      "time": "3:46 pm",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "3:43 pm",
       "artist": "Bruno Mars",
@@ -167,12 +178,6 @@
       "artist": "Talking Heads",
       "title": "Totally Nude",
       "album": "Naked • 1988"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "Talking Heads",
-      "title": "Slippery People",
-      "album": "Speaking in Tongues • 1983"
     }
   ]
 }
