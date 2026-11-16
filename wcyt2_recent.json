@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T15:00:58",
+  "updatedAt": "2026-11-16T15:01:20",
   "now": {
-    "artist": "The Beatles",
-    "title": "Yer Majesty",
-    "album": "Abbey Road • 1969",
+    "artist": "Fleetwood Mac",
+    "title": "Say You Love Me",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:01 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Say You Love Me"
-    },
     {
       "time": "3:05 pm",
       "artist": "Them",
@@ -26,9 +21,20 @@
       "time": "3:11 pm",
       "artist": "Tom Jones",
       "title": "Delilah"
+    },
+    {
+      "time": "3:15 pm",
+      "artist": "Eagles",
+      "title": "Take It To The Limit"
     }
   ],
   "recent": [
+    {
+      "time": "3:01 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Say You Love Me",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "3:00 pm",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Nelly Furtado",
       "title": "I'm Like A Bird",
       "album": "Whoa, Nelly! • 2000"
-    },
-    {
-      "time": "1:28 pm",
-      "artist": "Johnny Cash",
-      "title": "Cry! Cry! Cry!",
-      "album": "Cry! Cry! Cry! • 1955"
     }
   ]
 }
