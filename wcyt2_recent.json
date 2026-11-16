@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T03:05:48",
+  "updatedAt": "2026-11-16T03:10:04",
   "now": {
-    "artist": "HAIM",
-    "title": "Falling",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Alone, Together.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:09 am",
-      "artist": "The Strokes",
-      "title": "Alone, Together."
-    },
     {
       "time": "3:13 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "3:20 am",
       "artist": "FKA twigs",
       "title": "Pendulum"
+    },
+    {
+      "time": "3:25 am",
+      "artist": "The Who",
+      "title": "Baba O'Reilly"
     }
   ],
   "recent": [
+    {
+      "time": "3:10 am",
+      "artist": "The Strokes",
+      "title": "Alone, Together.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "3:05 am",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Bobby Darin",
       "title": "Beyond the Sea",
       "album": "single • 1950"
-    },
-    {
-      "time": "1:47 am",
-      "artist": "Pavement",
-      "title": "In the Mouth a Desert",
-      "album": "Slanted & Enchanted • 1992"
     }
   ]
 }
