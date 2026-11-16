@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T00:51:28",
+  "updatedAt": "2026-11-16T00:55:30",
   "now": {
-    "artist": "New Order",
-    "title": "Regret",
-    "album": "Republic • 1993",
+    "artist": "Little Richard",
+    "title": "Good Golly Miss Molly",
+    "album": "Little Richard • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 am",
-      "artist": "Little Richard",
-      "title": "Good Golly Miss Molly"
-    },
     {
       "time": "12:57 am",
       "artist": "Justice",
@@ -26,9 +21,20 @@
       "time": "1:04 am",
       "artist": "The Decemberists",
       "title": "Once in My Life"
+    },
+    {
+      "time": "1:09 am",
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 am",
+      "artist": "Little Richard",
+      "title": "Good Golly Miss Molly",
+      "album": "Little Richard • 1958"
+    },
     {
       "time": "12:51 am",
       "artist": "New Order",
@@ -172,12 +178,6 @@
       "artist": "The Ventures",
       "title": "Walk Don't Run",
       "album": "Walk Don't Run • 1960"
-    },
-    {
-      "time": "11:18 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Get Innocuous!",
-      "album": "Sound of Silver • 2007"
     }
   ]
 }
