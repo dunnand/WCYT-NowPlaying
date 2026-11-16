@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T22:25:49",
+  "updatedAt": "2026-11-15T22:26:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "Carey",
+    "album": "Blue • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 pm",
-      "artist": "Joni Mitchell",
-      "title": "Carey"
-    },
     {
       "time": "10:28 pm",
       "artist": "Peter Bjorn and John",
@@ -26,9 +21,20 @@
       "time": "10:37 pm",
       "artist": "Pink Floyd",
       "title": "The Great Gig in the Sky"
+    },
+    {
+      "time": "10:42 pm",
+      "artist": "Talking Heads",
+      "title": "Stay Up Late"
     }
   ],
   "recent": [
+    {
+      "time": "10:26 pm",
+      "artist": "Joni Mitchell",
+      "title": "Carey",
+      "album": "Blue • 1971"
+    },
     {
       "time": "10:20 pm",
       "artist": "Justice",
@@ -172,12 +178,6 @@
       "artist": "Tommy Roe",
       "title": "Dizzy",
       "album": "Dizzy • 1969"
-    },
-    {
-      "time": "8:58 pm",
-      "artist": "Iron & Wine",
-      "title": "Naked As We Came",
-      "album": "Our Endless Numbered Days • 2004"
     }
   ]
 }
