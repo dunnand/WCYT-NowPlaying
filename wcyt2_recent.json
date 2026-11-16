@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T07:00:10",
+  "updatedAt": "2026-11-16T07:02:45",
   "now": {
-    "artist": "The Strokes",
-    "title": "12:51",
-    "album": "Room on Fire • 2003",
-    "category": "TUNES"
+    "artist": "The Who",
+    "title": "I Can See For Miles",
+    "album": "The Who Sell Out • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 am",
-      "artist": "The Who",
-      "title": "I Can See For Miles"
-    },
     {
       "time": "7:06 am",
       "artist": "Queen",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:02 am",
+      "artist": "The Who",
+      "title": "I Can See For Miles",
+      "album": "The Who Sell Out • 1967"
+    },
     {
       "time": "7:00 am",
       "artist": "The Strokes",
@@ -177,12 +178,6 @@
       "artist": "clipping.",
       "title": "Nothing Is Safe",
       "album": "There Existed an Addiction to Blood • 2019"
-    },
-    {
-      "time": "5:21 am",
-      "artist": "Van Morrison",
-      "title": "Madame George",
-      "album": "Astral Weeks • 1968"
     }
   ]
 }
