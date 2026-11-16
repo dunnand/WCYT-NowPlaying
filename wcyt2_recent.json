@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T15:15:04",
+  "updatedAt": "2026-11-16T15:19:28",
   "now": {
-    "artist": "Eagles",
-    "title": "Take It To The Limit",
-    "album": "One of These Nights • 1975",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "Cross Bones Style",
+    "album": "Moon Pix • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:19 pm",
-      "artist": "Cat Power",
-      "title": "Cross Bones Style"
-    },
     {
       "time": "3:24 pm",
       "artist": "Nina Simone",
@@ -21,9 +16,20 @@
       "time": "3:28 pm",
       "artist": "Nine Inch Nails",
       "title": "Every Day Is Exactly the Same"
+    },
+    {
+      "time": "3:33 pm",
+      "artist": "Trini Lopez",
+      "title": "If I Had A Hammer"
     }
   ],
   "recent": [
+    {
+      "time": "3:19 pm",
+      "artist": "Cat Power",
+      "title": "Cross Bones Style",
+      "album": "Moon Pix • 1998"
+    },
     {
       "time": "3:15 pm",
       "artist": "Eagles",
@@ -167,12 +173,6 @@
       "artist": "Tom Petty",
       "title": "A Face in the Crowd",
       "album": "Full Moon Fever • 1989"
-    },
-    {
-      "time": "1:45 pm",
-      "artist": "Guided by Voices",
-      "title": "Motor Away",
-      "album": "Alien Lanes • 1995"
     }
   ]
 }
