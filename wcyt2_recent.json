@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T18:29:49",
+  "updatedAt": "2026-11-16T18:30:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Bloody Valentine",
+    "title": "Sometimes",
+    "album": "Loveless • 1991",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:30 pm",
-      "artist": "My Bloody Valentine",
-      "title": "Sometimes"
-    },
     {
       "time": "6:35 pm",
       "artist": "My Bloody Valentine",
@@ -26,9 +21,20 @@
       "time": "6:43 pm",
       "artist": "Tom Waits",
       "title": "Way Down in the Hole"
+    },
+    {
+      "time": "6:47 pm",
+      "artist": "BTS",
+      "title": "Dynamite"
     }
   ],
   "recent": [
+    {
+      "time": "6:30 pm",
+      "artist": "My Bloody Valentine",
+      "title": "Sometimes",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "6:26 pm",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Parliament",
       "title": "Up For The Down Stroke",
       "album": "Up for the Down Stroke • 1974"
-    },
-    {
-      "time": "4:56 pm",
-      "artist": "The Hold Steady",
-      "title": "Stay Positive",
-      "album": "Stay Positive • 2008"
     }
   ]
 }
