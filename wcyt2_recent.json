@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T07:20:46",
+  "updatedAt": "2026-11-16T07:23:27",
   "now": {
-    "artist": "The Dave Clark Five",
-    "title": "Glad All Over",
-    "album": "Glad All Over • 1964",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Roman Candle",
+    "album": "Roman Candle • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:23 am",
-      "artist": "Elliott Smith",
-      "title": "Roman Candle"
-    },
     {
       "time": "7:27 am",
       "artist": "Opus III",
@@ -21,9 +16,20 @@
       "time": "7:30 am",
       "artist": "The The",
       "title": "This Is the Day"
+    },
+    {
+      "time": "7:35 am",
+      "artist": "The The",
+      "title": "Uncertain Smile"
     }
   ],
   "recent": [
+    {
+      "time": "7:23 am",
+      "artist": "Elliott Smith",
+      "title": "Roman Candle",
+      "album": "Roman Candle • 1994"
+    },
     {
       "time": "7:20 am",
       "artist": "The Dave Clark Five",
@@ -167,12 +173,6 @@
       "artist": "The Strokes",
       "title": "Barely Legal.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "5:52 am",
-      "artist": "Weezer",
-      "title": "We Might as Well Be Strangers (feat. Wednesday)",
-      "album": ""
     }
   ]
 }
