@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T04:21:39",
+  "updatedAt": "2026-11-16T04:25:23",
   "now": {
-    "artist": "The Magnetic Fields",
-    "title": "Born on a Train",
-    "album": "The Charm of the Highway Strip • 1994",
-    "category": "TUNES"
+    "artist": "Jerry Lee Lewis",
+    "title": "Great Balls of Fire",
+    "album": "Single • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:25 am",
-      "artist": "Jerry Lee Lewis",
-      "title": "Great Balls of Fire"
-    },
     {
       "time": "4:27 am",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "4:32 am",
       "artist": "Beyonce",
       "title": "Hold Up"
+    },
+    {
+      "time": "4:36 am",
+      "artist": "A Tribe Called Quest",
+      "title": "Can I Kick It?"
     }
   ],
   "recent": [
+    {
+      "time": "4:25 am",
+      "artist": "Jerry Lee Lewis",
+      "title": "Great Balls of Fire",
+      "album": "Single • 1957"
+    },
     {
       "time": "4:21 am",
       "artist": "The Magnetic Fields",
@@ -172,12 +178,6 @@
       "artist": "The Cramps",
       "title": "I Can't Hardly Stand It",
       "album": "Bad Music for Bad People • 1984"
-    },
-    {
-      "time": "2:56 am",
-      "artist": "Sebadoh",
-      "title": "Flame",
-      "album": "The Sebadoh • 1999"
     }
   ]
 }
