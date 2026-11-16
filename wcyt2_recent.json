@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T07:02:45",
+  "updatedAt": "2026-11-16T07:06:39",
   "now": {
-    "artist": "The Who",
-    "title": "I Can See For Miles",
-    "album": "The Who Sell Out • 1967",
+    "artist": "Queen",
+    "title": "One Vision",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:06 am",
-      "artist": "Queen",
-      "title": "One Vision"
-    },
     {
       "time": "7:11 am",
       "artist": "Kristin Hersh",
@@ -26,9 +21,20 @@
       "time": "7:16 am",
       "artist": "The Strokes",
       "title": "Reptilia"
+    },
+    {
+      "time": "7:20 am",
+      "artist": "The Dave Clark Five",
+      "title": "Glad All Over"
     }
   ],
   "recent": [
+    {
+      "time": "7:06 am",
+      "artist": "Queen",
+      "title": "One Vision",
+      "album": ""
+    },
     {
       "time": "7:02 am",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "Red Hot Chili Peppers",
       "title": "Soul To Squeeze",
       "album": "Coneheads Soundtrack • 1993"
-    },
-    {
-      "time": "5:30 am",
-      "artist": "clipping.",
-      "title": "Nothing Is Safe",
-      "album": "There Existed an Addiction to Blood • 2019"
     }
   ]
 }
