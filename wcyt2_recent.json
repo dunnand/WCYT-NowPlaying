@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T04:57:47",
+  "updatedAt": "2026-11-16T04:57:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Over My Head",
+    "album": "Fleetwood Mac • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "Fleetwood Mac",
-      "title": "Over My Head"
-    },
     {
       "time": "5:01 am",
       "artist": "The Strokes",
@@ -31,9 +26,20 @@
       "time": "5:12 am",
       "artist": "Bjork",
       "title": "I Miss You"
+    },
+    {
+      "time": "5:16 am",
+      "artist": "Lloyd Price",
+      "title": "Lawdy Miss Clawdy"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "Fleetwood Mac",
+      "title": "Over My Head",
+      "album": "Fleetwood Mac • 1975"
+    },
     {
       "time": "4:54 am",
       "artist": "The Strokes",
@@ -177,12 +183,6 @@
       "artist": "The Strokes",
       "title": "Soma.",
       "album": "Is This It • 2001"
-    },
-    {
-      "time": "3:35 am",
-      "artist": "Ricky Nelson",
-      "title": "Never Be Anyone Else But You",
-      "album": "single • 1959"
     }
   ]
 }
