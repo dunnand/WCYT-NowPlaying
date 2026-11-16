@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T07:27:02",
+  "updatedAt": "2026-11-16T07:27:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Opus III",
+    "title": "It's A Fine Day",
+    "album": "Mind Fruit • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:27 am",
-      "artist": "Opus III",
-      "title": "It's A Fine Day"
-    },
     {
       "time": "7:30 am",
       "artist": "The The",
@@ -26,9 +21,20 @@
       "time": "7:42 am",
       "artist": "Olivia Rodrigo",
       "title": "stupid song"
+    },
+    {
+      "time": "7:46 am",
+      "artist": "The Strokes",
+      "title": "The Way It Is"
     }
   ],
   "recent": [
+    {
+      "time": "7:27 am",
+      "artist": "Opus III",
+      "title": "It's A Fine Day",
+      "album": "Mind Fruit • 1992"
+    },
     {
       "time": "7:23 am",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "The Congos",
       "title": "Fisherman",
       "album": "Heart of the Congos • 1977"
-    },
-    {
-      "time": "5:55 am",
-      "artist": "The Strokes",
-      "title": "Barely Legal.",
-      "album": "Is This It • 2001"
     }
   ]
 }
