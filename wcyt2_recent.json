@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T13:00:40",
+  "updatedAt": "2026-11-16T13:03:01",
   "now": {
-    "artist": "They Might Be Giants",
-    "title": "They'll Need a Crane",
-    "album": "Lincoln • 1988",
+    "artist": "Taylor Swift",
+    "title": "I Knew It, I Knew You",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:03 pm",
-      "artist": "Taylor Swift",
-      "title": "I Knew It, I Knew You"
-    },
     {
       "time": "1:06 pm",
       "artist": "Rod Stewart",
@@ -21,9 +16,20 @@
       "time": "1:11 pm",
       "artist": "Wilson Pickett",
       "title": "I'm in Love"
+    },
+    {
+      "time": "1:14 pm",
+      "artist": "Rolling Stones",
+      "title": "Brown Sugar"
     }
   ],
   "recent": [
+    {
+      "time": "1:03 pm",
+      "artist": "Taylor Swift",
+      "title": "I Knew It, I Knew You",
+      "album": ""
+    },
     {
       "time": "1:00 pm",
       "artist": "They Might Be Giants",
@@ -167,12 +173,6 @@
       "artist": "Lisa Loeb",
       "title": "I Do",
       "album": "Firecracker • 1997"
-    },
-    {
-      "time": "11:42 am",
-      "artist": "Three Dog Night",
-      "title": "Shambala",
-      "album": "Cyan • 1973"
     }
   ]
 }
