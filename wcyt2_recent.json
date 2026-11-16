@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T18:30:21",
+  "updatedAt": "2026-11-16T18:35:15",
   "now": {
     "artist": "My Bloody Valentine",
-    "title": "Sometimes",
+    "title": "Only Shallow",
     "album": "Loveless • 1991",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:35 pm",
-      "artist": "My Bloody Valentine",
-      "title": "Only Shallow"
-    },
     {
       "time": "6:39 pm",
       "artist": "Tom Waits",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:35 pm",
+      "artist": "My Bloody Valentine",
+      "title": "Only Shallow",
+      "album": "Loveless • 1991"
+    },
     {
       "time": "6:30 pm",
       "artist": "My Bloody Valentine",
@@ -172,12 +173,6 @@
       "artist": "Gorillaz",
       "title": "19-2000",
       "album": "Gorillaz • 2001"
-    },
-    {
-      "time": "4:59 pm",
-      "artist": "Parliament",
-      "title": "Up For The Down Stroke",
-      "album": "Up for the Down Stroke • 1974"
     }
   ]
 }
