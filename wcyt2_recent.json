@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T05:40:40",
+  "updatedAt": "2026-11-16T05:44:13",
   "now": {
-    "artist": "Superchunk",
-    "title": "Hyper Enough",
-    "album": "Here's Where the Strings Come In • 1995",
-    "category": "TUNES"
+    "artist": "The Kinks",
+    "title": "Living on a Thin Line",
+    "album": "Word of Mouth • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 am",
-      "artist": "The Kinks",
-      "title": "Living on a Thin Line"
-    },
     {
       "time": "5:48 am",
       "artist": "The Specials",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:44 am",
+      "artist": "The Kinks",
+      "title": "Living on a Thin Line",
+      "album": "Word of Mouth • 1984"
+    },
     {
       "time": "5:40 am",
       "artist": "Superchunk",
@@ -172,12 +173,6 @@
       "artist": "The Zombies",
       "title": "This Will Be Our Year",
       "album": "Odessey and Oracle • 1968"
-    },
-    {
-      "time": "4:12 am",
-      "artist": "The Strokes",
-      "title": "Trying Your Luck.",
-      "album": "Is This It • 2001"
     }
   ]
 }
