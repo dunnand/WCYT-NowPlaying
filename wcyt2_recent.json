@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T03:25:13",
+  "updatedAt": "2026-11-16T03:30:09",
   "now": {
-    "artist": "The Who",
-    "title": "Baba O'Reilly",
-    "album": "Who's Next • 1971",
+    "artist": "Soundgarden",
+    "title": "Black Hole Sun",
+    "album": "Superunknown • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:30 am",
-      "artist": "Soundgarden",
-      "title": "Black Hole Sun"
-    },
     {
       "time": "3:35 am",
       "artist": "Ricky Nelson",
@@ -21,9 +16,20 @@
       "time": "3:37 am",
       "artist": "The Strokes",
       "title": "Soma."
+    },
+    {
+      "time": "3:40 am",
+      "artist": "Smokey Robinson & The Miracles",
+      "title": "Shop Around"
     }
   ],
   "recent": [
+    {
+      "time": "3:30 am",
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "album": "Superunknown • 1994"
+    },
     {
       "time": "3:25 am",
       "artist": "The Who",
@@ -167,12 +173,6 @@
       "artist": "Guided by Voices",
       "title": "A Salty Salute",
       "album": "Alien Lanes • 1995"
-    },
-    {
-      "time": "2:04 am",
-      "artist": "The Flaming Lips",
-      "title": "Waitin' For a Superman",
-      "album": "The Soft Bulletin • 1999"
     }
   ]
 }
