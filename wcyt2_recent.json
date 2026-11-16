@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T21:37:56",
+  "updatedAt": "2026-11-15T21:40:39",
   "now": {
-    "artist": "Orange Juice",
-    "title": "Blue Boy",
-    "album": "The Glasgow School • 2005",
+    "artist": "The Who",
+    "title": "I Can't Explain",
+    "album": "The Who Sings My Generation • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:40 pm",
-      "artist": "The Who",
-      "title": "I Can't Explain"
-    },
     {
       "time": "9:42 pm",
       "artist": "Sun Ra",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:40 pm",
+      "artist": "The Who",
+      "title": "I Can't Explain",
+      "album": "The Who Sings My Generation • 1965"
+    },
     {
       "time": "9:37 pm",
       "artist": "Orange Juice",
@@ -177,12 +178,6 @@
       "artist": "The Clash",
       "title": "Pressure Drop",
       "album": "Black Market Clash • 1980"
-    },
-    {
-      "time": "8:05 pm",
-      "artist": "New Radicals",
-      "title": "You Get What You Give",
-      "album": "Maybe Youve Been Brainwashed Too • 1998"
     }
   ]
 }
