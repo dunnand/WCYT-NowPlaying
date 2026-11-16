@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T19:46:15",
+  "updatedAt": "2026-11-15T19:48:30",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blueberry Hill",
-    "album": "This Is Fats Domino! • 1956",
+    "artist": "Lady Gaga",
+    "title": "Alejandro",
+    "album": "The Fame Monster • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:48 pm",
-      "artist": "Lady Gaga",
-      "title": "Alejandro"
-    },
     {
       "time": "7:53 pm",
       "artist": "The Young Rascals",
@@ -21,9 +16,20 @@
       "time": "7:55 pm",
       "artist": "Adele",
       "title": "Someone Like You"
+    },
+    {
+      "time": "8:00 pm",
+      "artist": "Hootie & The Blowfish",
+      "title": "Let Her Cry"
     }
   ],
   "recent": [
+    {
+      "time": "7:48 pm",
+      "artist": "Lady Gaga",
+      "title": "Alejandro",
+      "album": "The Fame Monster • 2009"
+    },
     {
       "time": "7:46 pm",
       "artist": "Fats Domino",
@@ -167,12 +173,6 @@
       "artist": "The Clash",
       "title": "Charlie Don't Surf",
       "album": "Sandinista! • 1980"
-    },
-    {
-      "time": "6:14 pm",
-      "artist": "The Clash",
-      "title": "Bankrobber",
-      "album": "Black Market Clash • 1980"
     }
   ]
 }
