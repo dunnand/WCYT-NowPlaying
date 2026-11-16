@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T10:31:09",
+  "updatedAt": "2026-11-16T10:34:14",
   "now": {
-    "artist": "John Denver",
-    "title": "Take Me Home, Country Roads",
-    "album": "Poems, Prayers & Promises • 1971",
+    "artist": "Joy Division",
+    "title": "Disorder",
+    "album": "Unknown Pleasures • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:34 am",
-      "artist": "Joy Division",
-      "title": "Disorder"
-    },
     {
       "time": "10:37 am",
       "artist": "Kaiser Chiefs",
@@ -26,9 +21,20 @@
       "time": "10:45 am",
       "artist": "Kenny Rogers",
       "title": "Coward Of The County"
+    },
+    {
+      "time": "10:50 am",
+      "artist": "Missy Elliott",
+      "title": "The Rain (Supa Dupa Fly)"
     }
   ],
   "recent": [
+    {
+      "time": "10:34 am",
+      "artist": "Joy Division",
+      "title": "Disorder",
+      "album": "Unknown Pleasures • 1979"
+    },
     {
       "time": "10:31 am",
       "artist": "John Denver",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "PDA",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "9:03 am",
-      "artist": "Platters",
-      "title": "Only You (And You Alone)",
-      "album": "Only You • 1955"
     }
   ]
 }
