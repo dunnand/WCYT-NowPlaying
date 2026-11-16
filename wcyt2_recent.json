@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-11-16T14:56:52",
+  "updatedAt": "2026-11-16T15:00:58",
   "now": {
-    "artist": "ABBA",
-    "title": "Fernando",
-    "album": "Greatest Hits • 1975",
+    "artist": "The Beatles",
+    "title": "Yer Majesty",
+    "album": "Abbey Road • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "3:00 pm",
-      "artist": "Muna",
-      "title": "Silk Chiffon"
-    },
-    {
-      "time": "3:04 pm",
+      "time": "3:01 pm",
       "artist": "Fleetwood Mac",
       "title": "Say You Love Me"
     },
     {
-      "time": "3:08 pm",
+      "time": "3:05 pm",
       "artist": "Them",
       "title": "Gloria"
+    },
+    {
+      "time": "3:08 pm",
+      "artist": "Rick Derringer",
+      "title": "Rock And Roll, Hoochie Koo"
+    },
+    {
+      "time": "3:11 pm",
+      "artist": "Tom Jones",
+      "title": "Delilah"
     }
   ],
   "recent": [
+    {
+      "time": "3:00 pm",
+      "artist": "The Beatles",
+      "title": "Yer Majesty",
+      "album": "Abbey Road • 1969"
+    },
     {
       "time": "2:56 pm",
       "artist": "ABBA",
@@ -167,12 +178,6 @@
       "artist": "Johnny Cash",
       "title": "Cry! Cry! Cry!",
       "album": "Cry! Cry! Cry! • 1955"
-    },
-    {
-      "time": "1:24 pm",
-      "artist": "Pavement",
-      "title": "Rattled By The Rush",
-      "album": "Wowee Zowee • 1995"
     }
   ]
 }
