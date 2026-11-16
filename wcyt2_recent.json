@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T13:38:58",
+  "updatedAt": "2026-11-16T13:42:13",
   "now": {
-    "artist": "Carly Rae Jepsen",
-    "title": "Call Me Maybe",
-    "album": "Kiss • 2011",
-    "category": "AUDIO"
+    "artist": "The Flaming Lips",
+    "title": "Slow Motion",
+    "album": "The Soft Bulletin • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:42 pm",
-      "artist": "The Flaming Lips",
-      "title": "Slow Motion"
-    },
     {
       "time": "1:45 pm",
       "artist": "Guided by Voices",
@@ -21,9 +16,25 @@
       "time": "1:48 pm",
       "artist": "Tom Petty",
       "title": "A Face in the Crowd"
+    },
+    {
+      "time": "1:51 pm",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "All Mixed Up"
+    },
+    {
+      "time": "1:55 pm",
+      "artist": "Harry Styles",
+      "title": "Season 2 Weight Loss"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 pm",
+      "artist": "The Flaming Lips",
+      "title": "Slow Motion",
+      "album": "The Soft Bulletin • 1999"
+    },
     {
       "time": "1:38 pm",
       "artist": "Carly Rae Jepsen",
@@ -167,12 +178,6 @@
       "artist": "Roberta Flack",
       "title": "Killing Me Softly With His Song",
       "album": "Killing Me Softly • 1973"
-    },
-    {
-      "time": "12:19 pm",
-      "artist": "Van Morrison",
-      "title": "Wild Night",
-      "album": "Tupelo Honey • 1971"
     }
   ]
 }
