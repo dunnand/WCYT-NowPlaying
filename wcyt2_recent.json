@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T07:42:38",
+  "updatedAt": "2026-11-16T07:45:53",
   "now": {
-    "artist": "Olivia Rodrigo",
-    "title": "stupid song",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "The Way It Is",
+    "album": "Room on Fire • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:45 am",
-      "artist": "The Strokes",
-      "title": "The Way It Is"
-    },
     {
       "time": "7:48 am",
       "artist": "ABBA",
@@ -26,9 +21,20 @@
       "time": "7:56 am",
       "artist": "Christina Perri",
       "title": "Jar Of Hearts"
+    },
+    {
+      "time": "8:00 am",
+      "artist": "Barry Manilow",
+      "title": "Somewhere In The Night"
     }
   ],
   "recent": [
+    {
+      "time": "7:45 am",
+      "artist": "The Strokes",
+      "title": "The Way It Is",
+      "album": "Room on Fire • 2003"
+    },
     {
       "time": "7:42 am",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Even Better Than The Real Thing",
       "album": "Achtung Baby • 1992"
-    },
-    {
-      "time": "6:12 am",
-      "artist": "Sparks",
-      "title": "When I'm with You",
-      "album": "Terminal Jive • 1979"
     }
   ]
 }
