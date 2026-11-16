@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T06:21:36",
+  "updatedAt": "2026-11-16T06:23:39",
   "now": {
-    "artist": "Ritchie Valens",
-    "title": "La Bamba",
-    "album": "Ritchie Valens • 1959",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Someday.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:23 am",
-      "artist": "The Strokes",
-      "title": "Someday."
-    },
     {
       "time": "6:26 am",
       "artist": "The Groop",
@@ -21,9 +16,20 @@
       "time": "6:28 am",
       "artist": "Bruno Mars",
       "title": "When I Was Your Man"
+    },
+    {
+      "time": "6:32 am",
+      "artist": "Mudhoney",
+      "title": "Suck You Dry"
     }
   ],
   "recent": [
+    {
+      "time": "6:23 am",
+      "artist": "The Strokes",
+      "title": "Someday.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "6:21 am",
       "artist": "Ritchie Valens",
@@ -167,12 +173,6 @@
       "artist": "The Gizmos",
       "title": "The Midwest Can Be Allright",
       "album": "The Midwest Can Be Allright • 1981"
-    },
-    {
-      "time": "4:46 am",
-      "artist": "The Gizmos",
-      "title": "Bible Belt Baby",
-      "album": "Hoosier Hysteria • 1980"
     }
   ]
 }
