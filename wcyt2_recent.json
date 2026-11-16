@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T09:40:41",
+  "updatedAt": "2026-11-16T09:43:03",
   "now": {
-    "artist": "James Taylor",
-    "title": "Don't Let Me Be Lonely Tonight",
-    "album": "One Man Dog • 1972",
-    "category": "AUDIO"
+    "artist": "The Microphones",
+    "title": "Something",
+    "album": "It Was Hot, We Stayed in the Water • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:43 am",
-      "artist": "The Microphones",
-      "title": "Something"
-    },
     {
       "time": "9:46 am",
       "artist": "Clairo",
@@ -26,9 +21,20 @@
       "time": "9:53 am",
       "artist": "Pavement",
       "title": "Grounded"
+    },
+    {
+      "time": "9:57 am",
+      "artist": "Elvis Presley",
+      "title": "(Let Me Be Your) Teddy Bear"
     }
   ],
   "recent": [
+    {
+      "time": "9:43 am",
+      "artist": "The Microphones",
+      "title": "Something",
+      "album": "It Was Hot, We Stayed in the Water • 2000"
+    },
     {
       "time": "9:40 am",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "Grateful Dead",
       "title": "China Cat Sunflower",
       "album": "Aoxomoxoa • 1969"
-    },
-    {
-      "time": "8:09 am",
-      "artist": "Phoenix",
-      "title": "1901",
-      "album": "Wolfgang Amadeus Phoenix • 2009"
     }
   ]
 }
