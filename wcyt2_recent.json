@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T03:13:19",
+  "updatedAt": "2026-11-16T03:16:42",
   "now": {
-    "artist": "John Prine",
-    "title": "How Lucky",
-    "album": "Pink Cadillac • 1979",
-    "category": "AUDIO"
+    "artist": "The Strokes",
+    "title": "Hard To Explain.",
+    "album": "Is This It • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:16 am",
-      "artist": "The Strokes",
-      "title": "Hard To Explain."
-    },
     {
       "time": "3:20 am",
       "artist": "FKA twigs",
@@ -26,9 +21,20 @@
       "time": "3:30 am",
       "artist": "Soundgarden",
       "title": "Black Hole Sun"
+    },
+    {
+      "time": "3:35 am",
+      "artist": "Ricky Nelson",
+      "title": "Never Be Anyone Else But You"
     }
   ],
   "recent": [
+    {
+      "time": "3:16 am",
+      "artist": "The Strokes",
+      "title": "Hard To Explain.",
+      "album": "Is This It • 2001"
+    },
     {
       "time": "3:13 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Yardbirds",
       "title": "For Your Love",
       "album": "For Your Love • 1965"
-    },
-    {
-      "time": "1:54 am",
-      "artist": "The Strokes",
-      "title": "You Talk Way Too Much",
-      "album": "Room on Fire • 2003"
     }
   ]
 }
