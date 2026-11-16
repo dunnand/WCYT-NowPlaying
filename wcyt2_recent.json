@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T07:35:53",
+  "updatedAt": "2026-11-16T07:42:38",
   "now": {
-    "artist": "The The",
-    "title": "Uncertain Smile",
-    "album": "Soul Mining • 1983",
+    "artist": "Olivia Rodrigo",
+    "title": "stupid song",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "Olivia Rodrigo",
-      "title": "stupid song"
-    },
     {
       "time": "7:45 am",
       "artist": "The Strokes",
@@ -26,9 +21,20 @@
       "time": "7:53 am",
       "artist": "Lenny Kravitz",
       "title": "Stillness Of Heart"
+    },
+    {
+      "time": "7:56 am",
+      "artist": "Christina Perri",
+      "title": "Jar Of Hearts"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "Olivia Rodrigo",
+      "title": "stupid song",
+      "album": ""
+    },
     {
       "time": "7:35 am",
       "artist": "The The",
@@ -172,12 +178,6 @@
       "artist": "Sparks",
       "title": "When I'm with You",
       "album": "Terminal Jive • 1979"
-    },
-    {
-      "time": "6:08 am",
-      "artist": "Billie Eilish",
-      "title": "everything i wanted",
-      "album": "single • 2019"
     }
   ]
 }
