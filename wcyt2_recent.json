@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-15T21:40:39",
+  "updatedAt": "2026-11-15T21:42:44",
   "now": {
-    "artist": "The Who",
-    "title": "I Can't Explain",
-    "album": "The Who Sings My Generation • 1965",
+    "artist": "Sun Ra",
+    "title": "The Night of the Purple Moon",
+    "album": "The Night of the Purple Moon • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:42 pm",
-      "artist": "Sun Ra",
-      "title": "The Night of the Purple Moon"
-    },
     {
       "time": "9:46 pm",
       "artist": "Phil Collins",
@@ -26,9 +21,20 @@
       "time": "9:54 pm",
       "artist": "Johnny Cash",
       "title": "I'm Free From the Chain Gang Now"
+    },
+    {
+      "time": "9:57 pm",
+      "artist": "The Lovin' Spoonful",
+      "title": "Summer in the City"
     }
   ],
   "recent": [
+    {
+      "time": "9:42 pm",
+      "artist": "Sun Ra",
+      "title": "The Night of the Purple Moon",
+      "album": "The Night of the Purple Moon • 1970"
+    },
     {
       "time": "9:40 pm",
       "artist": "The Who",
@@ -172,12 +178,6 @@
       "artist": "The Clash",
       "title": "Rock the Casbah",
       "album": "Combat Rock • 1982"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "The Clash",
-      "title": "Pressure Drop",
-      "album": "Black Market Clash • 1980"
     }
   ]
 }
