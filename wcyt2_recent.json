@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T00:12:50",
+  "updatedAt": "2026-11-16T00:13:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Beach House",
+    "title": "Used to Be",
+    "album": "Teen Dream • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:13 am",
-      "artist": "Beach House",
-      "title": "Used to Be"
-    },
     {
       "time": "12:16 am",
       "artist": "Mary J. Blige",
@@ -26,9 +21,20 @@
       "time": "12:25 am",
       "artist": "The Clash",
       "title": "Straight to Hell"
+    },
+    {
+      "time": "12:30 am",
+      "artist": "The Clash",
+      "title": "The Magnificent Seven"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 am",
+      "artist": "Beach House",
+      "title": "Used to Be",
+      "album": "Teen Dream • 2010"
+    },
     {
       "time": "12:08 am",
       "artist": "Justin Timberlake",
@@ -172,12 +178,6 @@
       "artist": "Bat for Lashes",
       "title": "Laura",
       "album": "The Haunted Man • 2012"
-    },
-    {
-      "time": "10:28 pm",
-      "artist": "Peter Bjorn and John",
-      "title": "Young Folk",
-      "album": "Writer's Block • 2006"
     }
   ]
 }
