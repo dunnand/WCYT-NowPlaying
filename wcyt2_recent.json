@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T07:53:41",
+  "updatedAt": "2026-11-17T07:56:23",
   "now": {
-    "artist": "ABBA",
-    "title": "Waterloo",
-    "album": "Waterloo • 1974",
-    "category": "AUDIO"
+    "artist": "Le Tigre",
+    "title": "Deceptacon",
+    "album": "Le Tigre • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:56 am",
-      "artist": "Le Tigre",
-      "title": "Deceptacon"
-    },
     {
       "time": "7:59 am",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "8:02 am",
       "artist": "Nine Inch Nails",
       "title": "Survivalism"
+    },
+    {
+      "time": "8:06 am",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Fortunate Song"
     }
   ],
   "recent": [
+    {
+      "time": "7:56 am",
+      "artist": "Le Tigre",
+      "title": "Deceptacon",
+      "album": "Le Tigre • 1999"
+    },
     {
       "time": "7:53 am",
       "artist": "ABBA",
@@ -167,12 +173,6 @@
       "artist": "Jewel",
       "title": "Foolish Games",
       "album": "Pieces of You • 1997"
-    },
-    {
-      "time": "6:12 am",
-      "artist": "Goo Goo Dolls",
-      "title": "Name",
-      "album": "A Boy Named Goo • 1995"
     }
   ]
 }
