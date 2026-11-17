@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T03:36:44",
+  "updatedAt": "2026-11-17T03:36:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "Honesty",
+    "album": "52nd Street • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:36 am",
-      "artist": "Billy Joel",
-      "title": "Honesty"
-    },
     {
       "time": "3:40 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "3:50 am",
       "artist": "Diana Ross & The Supremes",
       "title": "Stop! In The Name Of Love"
+    },
+    {
+      "time": "3:52 am",
+      "artist": "The Carpenters",
+      "title": "Superstar"
     }
   ],
   "recent": [
+    {
+      "time": "3:36 am",
+      "artist": "Billy Joel",
+      "title": "Honesty",
+      "album": "52nd Street • 1978"
+    },
     {
       "time": "3:33 am",
       "artist": "unknown",
@@ -172,12 +178,6 @@
       "artist": "Little Willie John",
       "title": "Fever",
       "album": "single • 1956"
-    },
-    {
-      "time": "1:57 am",
-      "artist": "David Bowie",
-      "title": "The Wedding Song",
-      "album": "Black Tie White Noise • 1993"
     }
   ]
 }
