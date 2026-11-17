@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T00:00:47",
+  "updatedAt": "2026-11-17T00:04:50",
   "now": {
-    "artist": "Land of Talk",
-    "title": "Dogs",
-    "album": "LASTS • 2026",
+    "artist": "Vacations",
+    "title": "Next Exit",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Vacations",
-      "title": "Next Exit"
-    },
     {
       "time": "12:08 am",
       "artist": "Father John Misty",
@@ -26,9 +21,20 @@
       "time": "12:17 am",
       "artist": "Portishead",
       "title": "Numb"
+    },
+    {
+      "time": "12:21 am",
+      "artist": "Franz Ferdinand",
+      "title": "Night Or Day"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Vacations",
+      "title": "Next Exit",
+      "album": ""
+    },
     {
       "time": "12:00 am",
       "artist": "Land of Talk",
@@ -172,12 +178,6 @@
       "artist": "Dead Man's Bones",
       "title": "Lost In The Night",
       "album": "• 2026"
-    },
-    {
-      "time": "10:33 pm",
-      "artist": "Cut Worms",
-      "title": "Windows on the World",
-      "album": "Transmitter • 2026"
     }
   ]
 }
