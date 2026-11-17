@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T20:51:23",
+  "updatedAt": "2026-11-16T20:54:28",
   "now": {
-    "artist": "Wild Cherry",
-    "title": "Play That Funky Music",
-    "album": "Wild Cherry • 1976",
+    "artist": "The Beach Boys",
+    "title": "Feel Flows",
+    "album": "Surf's Up • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:54 pm",
-      "artist": "The Beach Boys",
-      "title": "Feel Flows"
-    },
     {
       "time": "8:59 pm",
       "artist": "of Montreal",
@@ -26,9 +21,20 @@
       "time": "9:05 pm",
       "artist": "Blondie",
       "title": "Hanging on the Telephone"
+    },
+    {
+      "time": "9:07 pm",
+      "artist": "Another Sunny Day",
+      "title": "I'm In Love With A Girl Who Doesn't Know I Exist"
     }
   ],
   "recent": [
+    {
+      "time": "8:54 pm",
+      "artist": "The Beach Boys",
+      "title": "Feel Flows",
+      "album": "Surf's Up • 1971"
+    },
     {
       "time": "8:51 pm",
       "artist": "Wild Cherry",
@@ -172,12 +178,6 @@
       "artist": "Joanna Newsom",
       "title": "Peach, Plum, Pear",
       "album": "The Milk Eyed Mender • 2004"
-    },
-    {
-      "time": "7:15 pm",
-      "artist": "Ed Sheeran",
-      "title": "Shape of You",
-      "album": "Single • 2017"
     }
   ]
 }
