@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T07:47:01",
+  "updatedAt": "2026-11-17T07:50:58",
   "now": {
-    "artist": "My Morning Jacket",
-    "title": "Lowdown",
-    "album": "At Dawn • 2001",
-    "category": "TUNES"
+    "artist": "A Tribe Called Quest",
+    "title": "We The People",
+    "album": "We The People.... • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "A Tribe Called Quest",
-      "title": "We The People"
-    },
     {
       "time": "7:53 am",
       "artist": "ABBA",
@@ -26,9 +21,20 @@
       "time": "7:59 am",
       "artist": "Chuck Berry",
       "title": "Rock & Roll Music"
+    },
+    {
+      "time": "8:02 am",
+      "artist": "Nine Inch Nails",
+      "title": "Survivalism"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "A Tribe Called Quest",
+      "title": "We The People",
+      "album": "We The People.... • 2016"
+    },
     {
       "time": "7:47 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Coldplay",
       "title": "Princess of China",
       "album": "Mylo Xyloto • 2011"
-    },
-    {
-      "time": "6:04 am",
-      "artist": "Glen Campbell",
-      "title": "Wichita Lineman",
-      "album": ""
     }
   ]
 }
