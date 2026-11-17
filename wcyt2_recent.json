@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T21:52:08",
+  "updatedAt": "2026-11-16T21:52:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Cat Stevens",
+    "title": "Another Saturday Night",
+    "album": "Saturnight • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:52 pm",
-      "artist": "Cat Stevens",
-      "title": "Another Saturday Night"
-    },
     {
       "time": "9:54 pm",
       "artist": "Drifters",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:52 pm",
+      "artist": "Cat Stevens",
+      "title": "Another Saturday Night",
+      "album": "Saturnight • 1974"
+    },
     {
       "time": "9:49 pm",
       "artist": "Drifters",
@@ -167,12 +168,6 @@
       "artist": "Gary Lewis & The Playboys",
       "title": "Green Grass",
       "album": "Hits Again • 1966"
-    },
-    {
-      "time": "8:15 pm",
-      "artist": "Goldfrapp",
-      "title": "Strict Machine",
-      "album": "Black Cherry • 2003"
     }
   ]
 }
