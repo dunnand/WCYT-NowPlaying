@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T20:27:11",
+  "updatedAt": "2026-11-16T20:30:35",
   "now": {
-    "artist": "The Cure",
-    "title": "Mint Car",
-    "album": "Wild Mood Swings • 1996",
+    "artist": "The Chambers Brothers",
+    "title": "Time Has Come Today",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:30 pm",
-      "artist": "The Chambers Brothers",
-      "title": "Time Has Come Today"
-    },
     {
       "time": "8:41 pm",
       "artist": "Violent Femmes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:30 pm",
+      "artist": "The Chambers Brothers",
+      "title": "Time Has Come Today",
+      "album": ""
+    },
     {
       "time": "8:27 pm",
       "artist": "The Cure",
@@ -172,12 +173,6 @@
       "artist": "The Microphones",
       "title": "I Felt Your Shape",
       "album": "The Glow, Part 2 • 2001"
-    },
-    {
-      "time": "6:53 pm",
-      "artist": "Pink Floyd",
-      "title": "Have a Cigar",
-      "album": "Wish You Were Here • 1975"
     }
   ]
 }
