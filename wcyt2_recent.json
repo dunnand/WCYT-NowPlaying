@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T03:44:07",
+  "updatedAt": "2026-11-17T03:44:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Joanna Newsom",
+    "title": "Sadie",
+    "album": "The Milk Eyed Mender • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:44 am",
-      "artist": "Joanna Newsom",
-      "title": "Sadie"
-    },
     {
       "time": "3:49 am",
       "artist": "Diana Ross & The Supremes",
@@ -31,9 +26,20 @@
       "time": "3:59 am",
       "artist": "The Dave Brubeck Quartet",
       "title": "Take Five"
+    },
+    {
+      "time": "4:04 am",
+      "artist": "Green Day",
+      "title": "Boulevard Of Broken Dreams"
     }
   ],
   "recent": [
+    {
+      "time": "3:44 am",
+      "artist": "Joanna Newsom",
+      "title": "Sadie",
+      "album": "The Milk Eyed Mender • 2004"
+    },
     {
       "time": "3:40 am",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -177,12 +183,6 @@
       "artist": "Chantay's",
       "title": "Pipeline",
       "album": "Pipeline • 1963"
-    },
-    {
-      "time": "2:04 am",
-      "artist": "Modest Mouse",
-      "title": "Alone Down There",
-      "album": "The Moon & Antarctica • 2000"
     }
   ]
 }
