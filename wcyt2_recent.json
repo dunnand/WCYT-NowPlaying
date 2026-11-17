@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T05:31:12",
+  "updatedAt": "2026-11-17T05:31:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Ray Charles",
+    "title": "America The Beautiful",
+    "album": "A Message From the People • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:31 am",
-      "artist": "Ray Charles",
-      "title": "America The Beautiful"
-    },
     {
       "time": "5:35 am",
       "artist": "The Selecter",
@@ -26,9 +21,20 @@
       "time": "5:43 am",
       "artist": "Simon & Garfunkel",
       "title": "America"
+    },
+    {
+      "time": "5:46 am",
+      "artist": "Bee Gees",
+      "title": "Too Much Heaven"
     }
   ],
   "recent": [
+    {
+      "time": "5:31 am",
+      "artist": "Ray Charles",
+      "title": "America The Beautiful",
+      "album": "A Message From the People • 1972"
+    },
     {
       "time": "5:26 am",
       "artist": "David Wise",
@@ -172,12 +178,6 @@
       "artist": "The Dave Brubeck Quartet",
       "title": "Take Five",
       "album": "Time Out • 1959"
-    },
-    {
-      "time": "3:56 am",
-      "artist": "Eels",
-      "title": "3 Speed",
-      "album": "Electro Shock Blues • 1998"
     }
   ]
 }
