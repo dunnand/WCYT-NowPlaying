@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T10:59:28",
+  "updatedAt": "2026-11-17T10:59:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Phoenix",
+    "title": "Long Distance Call",
+    "album": "It's Never Been Like That • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:59 am",
-      "artist": "Phoenix",
-      "title": "Long Distance Call"
-    },
     {
       "time": "11:02 am",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "11:10 am",
       "artist": "Naughty by Nature",
       "title": "Hip Hop Hooray"
+    },
+    {
+      "time": "11:15 am",
+      "artist": "No Doubt",
+      "title": "Don't Speak"
     }
   ],
   "recent": [
+    {
+      "time": "10:59 am",
+      "artist": "Phoenix",
+      "title": "Long Distance Call",
+      "album": "It's Never Been Like That • 2006"
+    },
     {
       "time": "10:55 am",
       "artist": "Eminem",
@@ -172,12 +178,6 @@
       "artist": "Joy Division",
       "title": "The Eternal",
       "album": "Closer • 1980"
-    },
-    {
-      "time": "9:25 am",
-      "artist": "Genesis",
-      "title": "In Too Deep",
-      "album": "Invisible Touch • 1987"
     }
   ]
 }
