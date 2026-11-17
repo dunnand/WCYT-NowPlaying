@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T03:52:50",
+  "updatedAt": "2026-11-17T03:56:22",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Superstar",
-    "album": "Carpenters • 1971",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "3 Speed",
+    "album": "Electro Shock Blues • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:56 am",
-      "artist": "Eels",
-      "title": "3 Speed"
-    },
     {
       "time": "3:59 am",
       "artist": "The Dave Brubeck Quartet",
@@ -26,9 +21,20 @@
       "time": "4:08 am",
       "artist": "Gene Chandler",
       "title": "Duke Of Earl"
+    },
+    {
+      "time": "4:11 am",
+      "artist": "DJ Shadow",
+      "title": "Rocket Fuel (Feat. De La Soul)"
     }
   ],
   "recent": [
+    {
+      "time": "3:56 am",
+      "artist": "Eels",
+      "title": "3 Speed",
+      "album": "Electro Shock Blues • 1998"
+    },
     {
       "time": "3:52 am",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "I Don't Think So",
       "album": "Without a Sound • 1994"
-    },
-    {
-      "time": "2:12 am",
-      "artist": "Deftones",
-      "title": "Bored",
-      "album": "Adrenaline • 1995"
     }
   ]
 }
