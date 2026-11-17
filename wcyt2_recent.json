@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T07:42:34",
+  "updatedAt": "2026-11-17T07:47:01",
   "now": {
-    "artist": "The Brothers Johnson",
-    "title": "Strawberry Letter 23",
-    "album": "Right on Time • 1977",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Lowdown",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:47 am",
-      "artist": "My Morning Jacket",
-      "title": "Lowdown"
-    },
     {
       "time": "7:50 am",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "7:56 am",
       "artist": "Le Tigre",
       "title": "Deceptacon"
+    },
+    {
+      "time": "7:59 am",
+      "artist": "Chuck Berry",
+      "title": "Rock & Roll Music"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 am",
+      "artist": "My Morning Jacket",
+      "title": "Lowdown",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "7:42 am",
       "artist": "The Brothers Johnson",
@@ -172,12 +178,6 @@
       "artist": "Glen Campbell",
       "title": "Wichita Lineman",
       "album": ""
-    },
-    {
-      "time": "6:00 am",
-      "artist": "John Mayer",
-      "title": "Why Georgia",
-      "album": "Room for Squares • 2003"
     }
   ]
 }
