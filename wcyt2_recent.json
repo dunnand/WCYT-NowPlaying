@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T07:38:07",
+  "updatedAt": "2026-11-17T07:42:34",
   "now": {
-    "artist": "Les Savy Fav",
-    "title": "Meet Me in the Dollar Bin",
-    "album": "Inches • 2004",
-    "category": "TUNES"
+    "artist": "The Brothers Johnson",
+    "title": "Strawberry Letter 23",
+    "album": "Right on Time • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "The Brothers Johnson",
-      "title": "Strawberry Letter 23"
-    },
     {
       "time": "7:47 am",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "7:53 am",
       "artist": "ABBA",
       "title": "Waterloo"
+    },
+    {
+      "time": "7:56 am",
+      "artist": "Le Tigre",
+      "title": "Deceptacon"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "The Brothers Johnson",
+      "title": "Strawberry Letter 23",
+      "album": "Right on Time • 1977"
+    },
     {
       "time": "7:38 am",
       "artist": "Les Savy Fav",
@@ -172,12 +178,6 @@
       "artist": "John Mayer",
       "title": "Why Georgia",
       "album": "Room for Squares • 2003"
-    },
-    {
-      "time": "5:55 am",
-      "artist": "Louis Armstrong & His All-Stars",
-      "title": "Ain't Misbehavin'",
-      "album": "Satch Plays Fats: A Tribute to the Immortal Fats Waller • 1955"
     }
   ]
 }
