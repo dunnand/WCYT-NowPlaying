@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T05:31:42",
+  "updatedAt": "2026-11-17T05:35:08",
   "now": {
-    "artist": "Ray Charles",
-    "title": "America The Beautiful",
-    "album": "A Message From the People • 1972",
+    "artist": "The Selecter",
+    "title": "On My Radio",
+    "album": "single • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 am",
-      "artist": "The Selecter",
-      "title": "On My Radio"
-    },
     {
       "time": "5:38 am",
       "artist": "The Postal Service",
@@ -26,9 +21,20 @@
       "time": "5:46 am",
       "artist": "Bee Gees",
       "title": "Too Much Heaven"
+    },
+    {
+      "time": "5:51 am",
+      "artist": "Gloria Estefan",
+      "title": "Turn The Beat Around"
     }
   ],
   "recent": [
+    {
+      "time": "5:35 am",
+      "artist": "The Selecter",
+      "title": "On My Radio",
+      "album": "single • 1979"
+    },
     {
       "time": "5:31 am",
       "artist": "Ray Charles",
@@ -172,12 +178,6 @@
       "artist": "Green Day",
       "title": "Boulevard Of Broken Dreams",
       "album": "American Idiot • 2004"
-    },
-    {
-      "time": "3:59 am",
-      "artist": "The Dave Brubeck Quartet",
-      "title": "Take Five",
-      "album": "Time Out • 1959"
     }
   ]
 }
