@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T04:41:18",
+  "updatedAt": "2026-11-17T04:44:12",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "One Chance",
-    "album": "Good News for People Who Love Bad News • 2004",
-    "category": "TUNES"
+    "artist": "David Byrne",
+    "title": "Everybody's Coming to My House",
+    "album": "American Utopia • 2018",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 am",
-      "artist": "David Byrne",
-      "title": "Everybody's Coming to My House"
-    },
     {
       "time": "4:47 am",
       "artist": "Steve Miller Band",
@@ -26,9 +21,20 @@
       "time": "4:57 am",
       "artist": "Wilbert Harrison",
       "title": "Kansas City"
+    },
+    {
+      "time": "4:59 am",
+      "artist": "M83",
+      "title": "We Own The Sky"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 am",
+      "artist": "David Byrne",
+      "title": "Everybody's Coming to My House",
+      "album": "American Utopia • 2018"
+    },
     {
       "time": "4:41 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Foster The People",
       "title": "Pumped Up Kicks",
       "album": "Torches • 2010"
-    },
-    {
-      "time": "3:03 am",
-      "artist": "The Guess Who",
-      "title": "These Eyes",
-      "album": "Wheatfield Soul • 1969"
     }
   ]
 }
