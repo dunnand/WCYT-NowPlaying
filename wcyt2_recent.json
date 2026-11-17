@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T08:34:06",
+  "updatedAt": "2026-11-17T08:34:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Your Smiling Face",
+    "album": "JT • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:34 am",
-      "artist": "James Taylor",
-      "title": "Your Smiling Face"
-    },
     {
       "time": "8:36 am",
       "artist": "Tommy James",
@@ -26,9 +21,20 @@
       "time": "8:44 am",
       "artist": "Creedence Clearwater Revival",
       "title": "Suzie Q"
+    },
+    {
+      "time": "8:52 am",
+      "artist": "Tubeway Army",
+      "title": "Are 'Friends' Electric?"
     }
   ],
   "recent": [
+    {
+      "time": "8:34 am",
+      "artist": "James Taylor",
+      "title": "Your Smiling Face",
+      "album": "JT • 1977"
+    },
     {
       "time": "8:30 am",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Chantels",
       "title": "Maybe",
       "album": "We Are The Chantels • 1958"
-    },
-    {
-      "time": "6:55 am",
-      "artist": "KRS-One",
-      "title": "Sound of da Police",
-      "album": "Return of the Boom Bap • 1993"
     }
   ]
 }
