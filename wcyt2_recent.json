@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-11-17T00:05:06",
+  "updatedAt": "2026-11-17T00:09:30",
   "now": {
-    "artist": "Low",
-    "title": "Sunflower",
-    "album": "Things We Lost In The Fire • 2001",
-    "category": "TUNES"
+    "artist": "Gerry & The Pacemakers",
+    "title": "You'll Never Walk Alone",
+    "album": "How Do You Like It? • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:09 am",
+      "time": "12:12 am",
+      "artist": "Low",
+      "title": "Sunflower"
+    },
+    {
+      "time": "12:16 am",
       "artist": "Gerry & The Pacemakers",
       "title": "You'll Never Walk Alone"
     },
     {
-      "time": "12:12 am",
+      "time": "12:19 am",
       "artist": "Avenged Sevenfold",
       "title": "Shepherd of Fire"
-    },
-    {
-      "time": "12:17 am",
-      "artist": "Bonnie 'Prince' Billy",
-      "title": "I See a Darkness"
     }
   ],
   "recent": [
+    {
+      "time": "12:09 am",
+      "artist": "Gerry & The Pacemakers",
+      "title": "You'll Never Walk Alone",
+      "album": "How Do You Like It? • 1963"
+    },
     {
       "time": "12:05 am",
       "artist": "Low",
@@ -167,12 +173,6 @@
       "artist": "Mahito Yokota",
       "title": "Donkey Kong Jungle Beat (Staff Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "8:46 pm",
-      "artist": "Violent Femmes",
-      "title": "Blister in the Sun",
-      "album": "Violent Femmes • 1983"
     }
   ]
 }
