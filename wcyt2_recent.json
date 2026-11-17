@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T06:04:44",
+  "updatedAt": "2026-11-17T06:04:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
+    "artist": "Glen Campbell",
+    "title": "Wichita Lineman",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:04 am",
-      "artist": "Glen Campbell",
-      "title": "Wichita Lineman"
-    },
     {
       "time": "6:07 am",
       "artist": "Coldplay",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:04 am",
+      "artist": "Glen Campbell",
+      "title": "Wichita Lineman",
+      "album": ""
+    },
     {
       "time": "6:00 am",
       "artist": "John Mayer",
@@ -172,12 +173,6 @@
       "artist": "Mahito Yokota",
       "title": "Super Mario Galaxy",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "4:24 am",
-      "artist": "XTC",
-      "title": "Senses Working Overtime",
-      "album": "English Settlement • 1982"
     }
   ]
 }
