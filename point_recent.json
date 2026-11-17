@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T10:37:11",
+  "updatedAt": "2026-11-17T10:37:21",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Junior Pro",
+    "title": "Cool",
+    "album": "Cool • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:37 am",
-      "artist": "Junior Pro",
-      "title": "Cool"
-    },
     {
       "time": "10:40 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "10:49 am",
       "artist": "Broken Social Scene",
       "title": "Only The Good I Keep"
+    },
+    {
+      "time": "10:53 am",
+      "artist": "Kevin Morby",
+      "title": "PBJ"
     }
   ],
   "recent": [
+    {
+      "time": "10:37 am",
+      "artist": "Junior Pro",
+      "title": "Cool",
+      "album": "Cool • 2026"
+    },
     {
       "time": "10:33 am",
       "artist": "Eric Slick",
@@ -172,12 +178,6 @@
       "artist": "Alvvays",
       "title": "After The Earthquake",
       "album": "Blue Rev • 2022"
-    },
-    {
-      "time": "9:01 am",
-      "artist": "Mount Kimbie",
-      "title": "Shipwreck",
-      "album": "The Sunset Violent • 2024"
     }
   ]
 }
