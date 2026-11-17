@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-16T19:08:27",
+  "updatedAt": "2026-11-16T19:15:00",
   "now": {
-    "artist": "My Bloody Valentine",
-    "title": "Soon",
-    "album": "Loveless • 1991",
-    "category": "TUNES"
+    "artist": "Ed Sheeran",
+    "title": "Shape of You",
+    "album": "Single • 2017",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 pm",
-      "artist": "Ed Sheeran",
-      "title": "Shape of You"
-    },
     {
       "time": "7:19 pm",
       "artist": "Joanna Newsom",
@@ -21,9 +16,20 @@
       "time": "7:22 pm",
       "artist": "Joanna Newsom",
       "title": "The Book of Right-on"
+    },
+    {
+      "time": "7:26 pm",
+      "artist": "Demi Lovato",
+      "title": "Give Your Heart A Break"
     }
   ],
   "recent": [
+    {
+      "time": "7:15 pm",
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "album": "Single • 2017"
+    },
     {
       "time": "7:08 pm",
       "artist": "My Bloody Valentine",
@@ -167,12 +173,6 @@
       "artist": "Tom Waits",
       "title": "Rain Dogs",
       "album": "Rain Dogs • 1985"
-    },
-    {
-      "time": "5:34 pm",
-      "artist": "All-4-One",
-      "title": "I Can Love You Like That",
-      "album": "And the Music Speaks • 1995"
     }
   ]
 }
