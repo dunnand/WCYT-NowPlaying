@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T12:30:15",
+  "updatedAt": "2026-11-17T12:30:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "One More Saturday Night",
+    "album": "Europe '72 • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "Grateful Dead",
-      "title": "One More Saturday Night"
-    },
     {
       "time": "12:35 pm",
       "artist": "Diana Ross & The Supremes",
@@ -26,9 +21,20 @@
       "time": "12:41 pm",
       "artist": "Diana Ross & The Supremes",
       "title": "You Keep Me Hangin' On"
+    },
+    {
+      "time": "12:44 pm",
+      "artist": "Waylon Jennings",
+      "title": "Are You Sure Hank Done It This Way"
     }
   ],
   "recent": [
+    {
+      "time": "12:30 pm",
+      "artist": "Grateful Dead",
+      "title": "One More Saturday Night",
+      "album": "Europe '72 • 1972"
+    },
     {
       "time": "12:26 pm",
       "artist": "Koji Kondo",
@@ -172,12 +178,6 @@
       "artist": "Eminem",
       "title": "Love The Way You Lie",
       "album": "Recovery • 2010"
-    },
-    {
-      "time": "10:51 am",
-      "artist": "Natalie Merchant",
-      "title": "Wonder",
-      "album": "Tigerlily • 1995"
     }
   ]
 }
