@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T19:43:27",
+  "updatedAt": "2026-11-17T19:47:54",
   "now": {
-    "artist": "Elton John",
-    "title": "Rocket Man",
-    "album": "Honky Chteau • 1972",
+    "artist": "Joni Mitchell",
+    "title": "In France They Kiss on Main Street",
+    "album": "The Hissing of Summer Lawns • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 pm",
-      "artist": "Joni Mitchell",
-      "title": "In France They Kiss on Main Street"
-    },
     {
       "time": "7:51 pm",
       "artist": "Junior Senior",
@@ -26,9 +21,20 @@
       "time": "7:56 pm",
       "artist": "Grateful Dead",
       "title": "Estimated Prophet"
+    },
+    {
+      "time": "8:02 pm",
+      "artist": "Wilson Phillips",
+      "title": "You're In Love"
     }
   ],
   "recent": [
+    {
+      "time": "7:47 pm",
+      "artist": "Joni Mitchell",
+      "title": "In France They Kiss on Main Street",
+      "album": "The Hissing of Summer Lawns • 1975"
+    },
     {
       "time": "7:43 pm",
       "artist": "Elton John",
@@ -172,12 +178,6 @@
       "artist": "M83",
       "title": "Don't Save Us From The Flames",
       "album": "Before The Dawn Heals Us • 2005"
-    },
-    {
-      "time": "6:06 pm",
-      "artist": "Bruno Mars",
-      "title": "Treasure",
-      "album": "Unorthodox Jukebox • 2012"
     }
   ]
 }
