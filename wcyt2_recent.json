@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T05:30:30",
+  "updatedAt": "2026-11-18T05:30:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Chaka Khan",
+    "title": "I Feel For You",
+    "album": "I Feel for You • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:30 am",
-      "artist": "Chaka Khan",
-      "title": "I Feel For You"
-    },
     {
       "time": "5:34 am",
       "artist": "Bleachers",
@@ -26,9 +21,20 @@
       "time": "5:42 am",
       "artist": "Barry White",
       "title": "You're The First, The Last, My Everything"
+    },
+    {
+      "time": "5:45 am",
+      "artist": "Muse",
+      "title": "Supermassive Black Hole"
     }
   ],
   "recent": [
+    {
+      "time": "5:30 am",
+      "artist": "Chaka Khan",
+      "title": "I Feel For You",
+      "album": "I Feel for You • 1984"
+    },
     {
       "time": "5:26 am",
       "artist": "Chris DeBurgh",
@@ -172,12 +178,6 @@
       "artist": "ABBA",
       "title": "Take A Chance On Me",
       "album": "ABBA: The Album • 1977"
-    },
-    {
-      "time": "3:47 am",
-      "artist": "Breathe Carolina",
-      "title": "Blackout",
-      "album": "Hell Is What You Make It • 2011"
     }
   ]
 }
