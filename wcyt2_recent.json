@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T07:42:46",
+  "updatedAt": "2026-11-18T07:42:58",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beach Boys",
+    "title": "Surfer Girl",
+    "album": "Surfer Girl • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:42 am",
-      "artist": "The Beach Boys",
-      "title": "Surfer Girl"
-    },
     {
       "time": "7:45 am",
       "artist": "Cher",
@@ -26,9 +21,20 @@
       "time": "7:51 am",
       "artist": "The Crickets",
       "title": "Maybe Baby"
+    },
+    {
+      "time": "7:53 am",
+      "artist": "Bad Religion",
+      "title": "Sorrow"
     }
   ],
   "recent": [
+    {
+      "time": "7:42 am",
+      "artist": "The Beach Boys",
+      "title": "Surfer Girl",
+      "album": "Surfer Girl • 1963"
+    },
     {
       "time": "7:38 am",
       "artist": "Cheap Trick",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "A Million Ways",
       "album": "Oh No • 2005"
-    },
-    {
-      "time": "5:59 am",
-      "artist": "Dell-Vikings",
-      "title": "Come Go With Me",
-      "album": "Come Go With the Del-Vikings • 1957"
     }
   ]
 }
