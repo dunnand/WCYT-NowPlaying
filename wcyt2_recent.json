@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T00:39:23",
+  "updatedAt": "2026-11-18T00:42:57",
   "now": {
-    "artist": "Blondie",
-    "title": "One Way or Another",
-    "album": "Parallel Lines • 1978",
+    "artist": "Ella Fitzgerald",
+    "title": "After You've Gone",
+    "album": "Rhythm Is My Business • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "Ella Fitzgerald",
-      "title": "After You've Gone"
-    },
     {
       "time": "12:47 am",
       "artist": "The Cars",
@@ -26,9 +21,20 @@
       "time": "12:54 am",
       "artist": "Chicago",
       "title": "Wishing You Were Here"
+    },
+    {
+      "time": "12:58 am",
+      "artist": "Modest Mouse",
+      "title": "Doin' the Cockroach"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "Ella Fitzgerald",
+      "title": "After You've Gone",
+      "album": "Rhythm Is My Business • 1962"
+    },
     {
       "time": "12:39 am",
       "artist": "Blondie",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "New Heart Design",
       "album": "Glow On • 2021"
-    },
-    {
-      "time": "11:09 pm",
-      "artist": "Steve Miller Band",
-      "title": "Jungle Love",
-      "album": "Book of Dreams • 1977"
     }
   ]
 }
