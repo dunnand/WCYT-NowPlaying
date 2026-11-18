@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T00:51:31",
+  "updatedAt": "2026-11-18T00:54:24",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Can't Help Falling In Love",
-    "album": "Blue Hawaii • 1961",
+    "artist": "Chicago",
+    "title": "Wishing You Were Here",
+    "album": "Chicago VII • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:54 am",
-      "artist": "Chicago",
-      "title": "Wishing You Were Here"
-    },
     {
       "time": "12:58 am",
       "artist": "Modest Mouse",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:54 am",
+      "artist": "Chicago",
+      "title": "Wishing You Were Here",
+      "album": "Chicago VII • 1974"
+    },
     {
       "time": "12:51 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Billy Joel",
       "title": "She's Got A Way",
       "album": "Cold Spring Harbor • 1971"
-    },
-    {
-      "time": "11:19 pm",
-      "artist": "The Sonics",
-      "title": "Have Love Will Travel",
-      "album": ""
     }
   ]
 }
