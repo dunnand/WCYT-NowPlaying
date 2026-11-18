@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T00:39:11",
+  "updatedAt": "2026-11-18T00:39:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Blondie",
+    "title": "One Way or Another",
+    "album": "Parallel Lines • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:39 am",
-      "artist": "Blondie",
-      "title": "One Way or Another"
-    },
     {
       "time": "12:42 am",
       "artist": "Ella Fitzgerald",
@@ -26,9 +21,20 @@
       "time": "12:51 am",
       "artist": "Elvis Presley",
       "title": "Can't Help Falling In Love"
+    },
+    {
+      "time": "12:54 am",
+      "artist": "Chicago",
+      "title": "Wishing You Were Here"
     }
   ],
   "recent": [
+    {
+      "time": "12:39 am",
+      "artist": "Blondie",
+      "title": "One Way or Another",
+      "album": "Parallel Lines • 1978"
+    },
     {
       "time": "12:36 am",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Steve Miller Band",
       "title": "Jungle Love",
       "album": "Book of Dreams • 1977"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "Billy Joe Royal",
-      "title": "Down In The Boondocks",
-      "album": "Down in the Boondocks • 1965"
     }
   ]
 }
