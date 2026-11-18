@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T00:47:01",
+  "updatedAt": "2026-11-18T00:47:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "Bye Bye Love",
+    "album": "The Cars • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 am",
-      "artist": "The Cars",
-      "title": "Bye Bye Love"
-    },
     {
       "time": "12:51 am",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "12:58 am",
       "artist": "Modest Mouse",
       "title": "Doin' the Cockroach"
+    },
+    {
+      "time": "1:03 am",
+      "artist": "Mickey & Sylvia",
+      "title": "Love Is Strange"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "The Cars",
+      "title": "Bye Bye Love",
+      "album": "The Cars • 1978"
+    },
     {
       "time": "12:42 am",
       "artist": "Ella Fitzgerald",
@@ -172,12 +178,6 @@
       "artist": "Al Green",
       "title": "Love and Happiness",
       "album": "I'm Still in Love With You • 1972"
-    },
-    {
-      "time": "11:12 pm",
-      "artist": "Turnstile",
-      "title": "New Heart Design",
-      "album": "Glow On • 2021"
     }
   ]
 }
