@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T19:56:49",
+  "updatedAt": "2026-11-17T20:02:26",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Estimated Prophet",
-    "album": "Terrapin Station • 1977",
+    "artist": "Wilson Phillips",
+    "title": "You're In Love",
+    "album": "Wilson Phillips • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:02 pm",
-      "artist": "Wilson Phillips",
-      "title": "You're In Love"
-    },
     {
       "time": "8:07 pm",
       "artist": "Bobby Darin",
@@ -21,9 +16,20 @@
       "time": "8:10 pm",
       "artist": "Interpol",
       "title": "Take You On A Cruise"
+    },
+    {
+      "time": "8:15 pm",
+      "artist": "Scott Walker",
+      "title": "It’s Raining Today"
     }
   ],
   "recent": [
+    {
+      "time": "8:02 pm",
+      "artist": "Wilson Phillips",
+      "title": "You're In Love",
+      "album": "Wilson Phillips • 1990"
+    },
     {
       "time": "7:56 pm",
       "artist": "Grateful Dead",
@@ -167,12 +173,6 @@
       "artist": "Uncle Tupelo",
       "title": "Gun",
       "album": "Still Feel Gone • 1991"
-    },
-    {
-      "time": "6:21 pm",
-      "artist": "TLC",
-      "title": "No Scrubs",
-      "album": "FanMail • 1999"
     }
   ]
 }
