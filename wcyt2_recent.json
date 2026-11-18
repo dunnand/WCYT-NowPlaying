@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T09:45:55",
+  "updatedAt": "2026-11-18T09:49:59",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "No. 1 Party Anthem",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "CAKE",
+    "title": "I Will Survive",
+    "album": "Fashion Nugget • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:49 am",
-      "artist": "CAKE",
-      "title": "I Will Survive"
-    },
     {
       "time": "9:55 am",
       "artist": "Aphex Twin",
@@ -26,9 +21,20 @@
       "time": "10:04 am",
       "artist": "John Cougar Mellencamp",
       "title": "Small Town"
+    },
+    {
+      "time": "10:08 am",
+      "artist": "Bleachers",
+      "title": "dirty wedding dress"
     }
   ],
   "recent": [
+    {
+      "time": "9:49 am",
+      "artist": "CAKE",
+      "title": "I Will Survive",
+      "album": "Fashion Nugget • 1996"
+    },
     {
       "time": "9:45 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Dave Clark Five",
       "title": "Catch Us If You Can",
       "album": "The Story of Dave Clark Five • 1979"
-    },
-    {
-      "time": "8:23 am",
-      "artist": "Christopher Cross",
-      "title": "Ride Like The Wind",
-      "album": "Christopher Cross • 1979"
     }
   ]
 }
