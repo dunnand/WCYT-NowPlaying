@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T00:47:13",
+  "updatedAt": "2026-11-18T00:51:31",
   "now": {
-    "artist": "The Cars",
-    "title": "Bye Bye Love",
-    "album": "The Cars • 1978",
+    "artist": "Elvis Presley",
+    "title": "Can't Help Falling In Love",
+    "album": "Blue Hawaii • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:51 am",
-      "artist": "Elvis Presley",
-      "title": "Can't Help Falling In Love"
-    },
     {
       "time": "12:54 am",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "1:03 am",
       "artist": "Mickey & Sylvia",
       "title": "Love Is Strange"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Panda Bear",
+      "title": "Bros"
     }
   ],
   "recent": [
+    {
+      "time": "12:51 am",
+      "artist": "Elvis Presley",
+      "title": "Can't Help Falling In Love",
+      "album": "Blue Hawaii • 1961"
+    },
     {
       "time": "12:47 am",
       "artist": "The Cars",
@@ -172,12 +178,6 @@
       "artist": "The Sonics",
       "title": "Have Love Will Travel",
       "album": ""
-    },
-    {
-      "time": "11:14 pm",
-      "artist": "Al Green",
-      "title": "Love and Happiness",
-      "album": "I'm Still in Love With You • 1972"
     }
   ]
 }
