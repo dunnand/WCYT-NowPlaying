@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T19:43:17",
+  "updatedAt": "2026-11-17T19:43:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Rocket Man",
+    "album": "Honky Chteau • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 pm",
-      "artist": "Elton John",
-      "title": "Rocket Man"
-    },
     {
       "time": "7:47 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "7:54 pm",
       "artist": "Sam Cooke",
       "title": "Nothing Can Change This Love"
+    },
+    {
+      "time": "7:56 pm",
+      "artist": "Grateful Dead",
+      "title": "Estimated Prophet"
     }
   ],
   "recent": [
+    {
+      "time": "7:43 pm",
+      "artist": "Elton John",
+      "title": "Rocket Man",
+      "album": "Honky Chteau • 1972"
+    },
     {
       "time": "7:40 pm",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Bruno Mars",
       "title": "Treasure",
       "album": "Unorthodox Jukebox • 2012"
-    },
-    {
-      "time": "6:02 pm",
-      "artist": "Third Eye Blind",
-      "title": "Jumper",
-      "album": "Third Eye Blind • 1997"
     }
   ]
 }
