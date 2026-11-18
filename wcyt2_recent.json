@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T08:10:21",
+  "updatedAt": "2026-11-18T08:10:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Aerosmith",
+    "title": "Love In An Elevator",
+    "album": "Pump • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:10 am",
-      "artist": "Aerosmith",
-      "title": "Love In An Elevator"
-    },
     {
       "time": "8:16 am",
       "artist": "Cyndi Lauper",
@@ -26,9 +21,20 @@
       "time": "8:23 am",
       "artist": "Christopher Cross",
       "title": "Ride Like The Wind"
+    },
+    {
+      "time": "8:27 am",
+      "artist": "Dave Clark Five",
+      "title": "Catch Us If You Can"
     }
   ],
   "recent": [
+    {
+      "time": "8:10 am",
+      "artist": "Aerosmith",
+      "title": "Love In An Elevator",
+      "album": "Pump • 1989"
+    },
     {
       "time": "8:06 am",
       "artist": "The Afghan Whigs",
@@ -172,12 +178,6 @@
       "artist": "Boston",
       "title": "More Than A Feeling",
       "album": "Boston • 1976"
-    },
-    {
-      "time": "6:34 am",
-      "artist": "OK Go",
-      "title": "Do What You Want",
-      "album": "Oh No • 2005"
     }
   ]
 }
