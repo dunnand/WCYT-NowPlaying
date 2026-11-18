@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T04:54:57",
+  "updatedAt": "2026-11-18T05:03:04",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Drown",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "I'm Gonna Love You Too",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 am",
-      "artist": "Buddy Holly",
-      "title": "I'm Gonna Love You Too"
-    },
     {
       "time": "5:05 am",
       "artist": "Kings of Leon",
@@ -26,9 +21,20 @@
       "time": "5:10 am",
       "artist": "Alvvays",
       "title": "In Undertow"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "Tricky",
+      "title": "Black Steel"
     }
   ],
   "recent": [
+    {
+      "time": "5:03 am",
+      "artist": "Buddy Holly",
+      "title": "I'm Gonna Love You Too",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "4:54 am",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +178,6 @@
       "artist": "Flying Lizards",
       "title": "Money (That's What I Want)",
       "album": "The Flying Lizards • 1980"
-    },
-    {
-      "time": "3:22 am",
-      "artist": "Spacehog",
-      "title": "In the Meantime",
-      "album": ""
     }
   ]
 }
