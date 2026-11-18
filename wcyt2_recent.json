@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T04:26:18",
+  "updatedAt": "2026-11-18T04:26:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Idol",
+    "title": "Dancing With Myself",
+    "album": "Billy Idol • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:26 am",
-      "artist": "Billy Idol",
-      "title": "Dancing With Myself"
-    },
     {
       "time": "4:29 am",
       "artist": "R.E.M.",
@@ -26,9 +21,20 @@
       "time": "4:37 am",
       "artist": "America",
       "title": "Ventura Highway"
+    },
+    {
+      "time": "4:40 am",
+      "artist": "Bachman",
+      "title": "Turner Overdrive - Takin' Care Of Business"
     }
   ],
   "recent": [
+    {
+      "time": "4:26 am",
+      "artist": "Billy Idol",
+      "title": "Dancing With Myself",
+      "album": "Billy Idol • 1982"
+    },
     {
       "time": "4:22 am",
       "artist": "Pearl Jam",
@@ -172,12 +178,6 @@
       "artist": "Etta James",
       "title": "Something's Got a Hold on Me",
       "album": "Etta James • 1962"
-    },
-    {
-      "time": "2:51 am",
-      "artist": "Paul McCartney",
-      "title": "Uncle Albert/Admiral Halsey",
-      "album": "Ram • 1971"
     }
   ]
 }
