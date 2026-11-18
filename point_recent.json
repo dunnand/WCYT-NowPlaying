@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-17T23:46:53",
+  "updatedAt": "2026-11-17T23:47:25",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Television",
+    "title": "Venus",
+    "album": "Marquee Moon • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:47 pm",
-      "artist": "Television",
-      "title": "Venus"
-    },
     {
       "time": "11:51 pm",
       "artist": "Sharp Pins",
@@ -21,9 +16,20 @@
       "time": "11:54 pm",
       "artist": "The Flaming Lips",
       "title": "God Will Control The Werewolves"
+    },
+    {
+      "time": "11:59 pm",
+      "artist": "Bon Iver",
+      "title": "Michicant"
     }
   ],
   "recent": [
+    {
+      "time": "11:47 pm",
+      "artist": "Television",
+      "title": "Venus",
+      "album": "Marquee Moon • 1977"
+    },
     {
       "time": "11:43 pm",
       "artist": "Justice",
@@ -167,12 +173,6 @@
       "artist": "Samia",
       "title": "Fit N Full",
       "album": "The Baby • 2020"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Lydia Lunch & Rowland S. Howard",
-      "title": "Some Velvet Morning",
-      "album": "Single • 1982"
     }
   ]
 }
