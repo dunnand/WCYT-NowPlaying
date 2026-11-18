@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T18:12:41",
+  "updatedAt": "2026-11-18T18:15:32",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Sloop John B.",
-    "album": "Pet Sounds • 1966",
+    "artist": "Rose Royce",
+    "title": "I'm Going Down",
+    "album": "Car Wash • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:15 pm",
-      "artist": "Rose Royce",
-      "title": "I'm Going Down"
-    },
     {
       "time": "6:19 pm",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "6:26 pm",
       "artist": "Coldplay",
       "title": "In My Place"
+    },
+    {
+      "time": "6:30 pm",
+      "artist": "Coldplay",
+      "title": "Speed of Sound"
     }
   ],
   "recent": [
+    {
+      "time": "6:15 pm",
+      "artist": "Rose Royce",
+      "title": "I'm Going Down",
+      "album": "Car Wash • 1976"
+    },
     {
       "time": "6:12 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "A Summer Wasting",
       "album": "The Boy with the Arab Strap • 1998"
-    },
-    {
-      "time": "4:41 pm",
-      "artist": "Frank Ocean",
-      "title": "White Ferrari",
-      "album": "Blonde • 2016"
     }
   ]
 }
