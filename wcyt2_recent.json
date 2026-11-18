@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T00:21:29",
+  "updatedAt": "2026-11-18T00:25:35",
   "now": {
-    "artist": "Jane Child",
-    "title": "Don't Wanna Fall In Love",
-    "album": "Jane Child • 1990",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "No Name No. 5",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:25 am",
-      "artist": "Elliott Smith",
-      "title": "No Name No. 5"
-    },
     {
       "time": "12:29 am",
       "artist": "Alabama",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:25 am",
+      "artist": "Elliott Smith",
+      "title": "No Name No. 5",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "12:21 am",
       "artist": "Jane Child",
@@ -172,12 +173,6 @@
       "artist": "George Thorogood & The Destroyers",
       "title": "Bad To The Bone",
       "album": "Bad to the Bone • 1982"
-    },
-    {
-      "time": "10:48 pm",
-      "artist": "Dazz Band",
-      "title": "Let It Whip",
-      "album": "Keep It Live • 1982"
     }
   ]
 }
