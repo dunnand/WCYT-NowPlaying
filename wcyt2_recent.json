@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T12:31:28",
+  "updatedAt": "2026-11-18T12:35:33",
   "now": {
     "artist": "blink-182",
-    "title": "Always",
+    "title": "I Miss You",
     "album": "blink-182 • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:35 pm",
-      "artist": "blink",
-      "title": "182 - I Miss You"
-    },
     {
       "time": "12:39 pm",
       "artist": "The Decemberists",
@@ -26,9 +21,20 @@
       "time": "12:46 pm",
       "artist": "Arrested Development",
       "title": "Tennessee"
+    },
+    {
+      "time": "12:51 pm",
+      "artist": "The Police",
+      "title": "Every Little Thing She Does Is Magic"
     }
   ],
   "recent": [
+    {
+      "time": "12:35 pm",
+      "artist": "blink-182",
+      "title": "I Miss You",
+      "album": "blink-182 • 2003"
+    },
     {
       "time": "12:31 pm",
       "artist": "blink-182",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "Rollercoaster",
       "album": ""
-    },
-    {
-      "time": "11:05 am",
-      "artist": "Peter Gabriel",
-      "title": "Sledgehammer",
-      "album": "So • 1984"
     }
   ]
 }
