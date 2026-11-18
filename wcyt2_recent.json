@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T15:12:07",
+  "updatedAt": "2026-11-18T15:12:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kate Bush",
+    "title": "Wuthering Heights",
+    "album": "The Kick Inside • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:12 pm",
-      "artist": "Kate Bush",
-      "title": "Wuthering Heights"
-    },
     {
       "time": "3:16 pm",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "3:22 pm",
       "artist": "Chicago",
       "title": "Does Anybody Really Know What Time It Is?"
+    },
+    {
+      "time": "3:27 pm",
+      "artist": "Kool & The Gang",
+      "title": "Hollywood Swinging"
     }
   ],
   "recent": [
+    {
+      "time": "3:12 pm",
+      "artist": "Kate Bush",
+      "title": "Wuthering Heights",
+      "album": "The Kick Inside • 1978"
+    },
     {
       "time": "3:07 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Diana Ross & The Supremes",
       "title": "Someday We'll Be Together",
       "album": "Cream of the Crop • 1969"
-    },
-    {
-      "time": "1:44 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "Excursions",
-      "album": "The Low End Theory • 1991"
     }
   ]
 }
