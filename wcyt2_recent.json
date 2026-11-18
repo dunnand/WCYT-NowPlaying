@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T11:05:42",
+  "updatedAt": "2026-11-18T11:10:16",
   "now": {
-    "artist": "Peter Gabriel",
-    "title": "Sledgehammer",
-    "album": "So • 1984",
+    "artist": "Bleachers",
+    "title": "Rollercoaster",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:10 am",
-      "artist": "Bleachers",
-      "title": "Rollercoaster"
-    },
     {
       "time": "11:13 am",
       "artist": "Gordon Lightfoot",
@@ -21,9 +16,20 @@
       "time": "11:17 am",
       "artist": "Astrud Gilberto",
       "title": "Summer Samba (So Nice)"
+    },
+    {
+      "time": "11:19 am",
+      "artist": "Hall & Oates",
+      "title": "Sara Smile"
     }
   ],
   "recent": [
+    {
+      "time": "11:10 am",
+      "artist": "Bleachers",
+      "title": "Rollercoaster",
+      "album": ""
+    },
     {
       "time": "11:05 am",
       "artist": "Peter Gabriel",
@@ -167,12 +173,6 @@
       "artist": "The Presidents of the United States of America",
       "title": "Lump",
       "album": "The Presidents of the United States of America • 1995"
-    },
-    {
-      "time": "9:28 am",
-      "artist": "Earth, Wind & Fire",
-      "title": "Shining Star",
-      "album": "That's the Way of the World • 1975"
     }
   ]
 }
