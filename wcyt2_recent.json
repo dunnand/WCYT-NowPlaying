@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T14:27:21",
+  "updatedAt": "2026-11-18T14:33:05",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Thunder on the Mountain",
-    "album": "Modern Times • 2006",
+    "artist": "The Beach Boys",
+    "title": "Barbara Ann",
+    "album": "Beach Boy Party! • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:33 pm",
-      "artist": "The Beach Boys",
-      "title": "Barbara Ann"
-    },
     {
       "time": "2:35 pm",
       "artist": "Judee Sill",
@@ -26,9 +21,20 @@
       "time": "2:41 pm",
       "artist": "Bruno Mars",
       "title": "Locked Out Of Heaven"
+    },
+    {
+      "time": "2:46 pm",
+      "artist": "CAKE",
+      "title": "Comfort Eagle"
     }
   ],
   "recent": [
+    {
+      "time": "2:33 pm",
+      "artist": "The Beach Boys",
+      "title": "Barbara Ann",
+      "album": "Beach Boy Party! • 1965"
+    },
     {
       "time": "2:27 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "The Decemberists",
       "title": "Calamity Song",
       "album": "The King Is Dead • 2011"
-    },
-    {
-      "time": "12:35 pm",
-      "artist": "blink-182",
-      "title": "I Miss You",
-      "album": "blink-182 • 2003"
     }
   ]
 }
