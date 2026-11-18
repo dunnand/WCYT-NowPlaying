@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T04:09:10",
+  "updatedAt": "2026-11-18T04:11:14",
   "now": {
-    "artist": "The Byrds",
-    "title": "Mr. Tambourine Man",
-    "album": "Mr. Tambourine Man • 1965",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Stonemilker",
+    "album": "Vulnicura • 2015",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:11 am",
-      "artist": "Bjork",
-      "title": "Stonemilker"
-    },
     {
       "time": "4:17 am",
       "artist": "Tori Amos",
@@ -21,9 +16,20 @@
       "time": "4:22 am",
       "artist": "Pearl Jam",
       "title": "State of Love and Trust"
+    },
+    {
+      "time": "4:26 am",
+      "artist": "Billy Idol",
+      "title": "Dancing With Myself"
     }
   ],
   "recent": [
+    {
+      "time": "4:11 am",
+      "artist": "Bjork",
+      "title": "Stonemilker",
+      "album": "Vulnicura • 2015"
+    },
     {
       "time": "4:09 am",
       "artist": "The Byrds",
@@ -167,12 +173,6 @@
       "artist": "Olivia Newton-John",
       "title": "Have You Never Been Mellow",
       "album": "Have You Never Been Mellow • 1975"
-    },
-    {
-      "time": "2:41 am",
-      "artist": "Taylor Swift",
-      "title": "Mastermind",
-      "album": "Midnights • 2022"
     }
   ]
 }
