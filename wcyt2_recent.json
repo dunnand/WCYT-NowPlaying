@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T15:12:17",
+  "updatedAt": "2026-11-18T15:16:38",
   "now": {
-    "artist": "Kate Bush",
-    "title": "Wuthering Heights",
-    "album": "The Kick Inside • 1978",
+    "artist": "Elvis Presley",
+    "title": "Little Sister",
+    "album": "single • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:16 pm",
-      "artist": "Elvis Presley",
-      "title": "Little Sister"
-    },
     {
       "time": "3:19 pm",
       "artist": "Kenny Rogers",
@@ -26,9 +21,20 @@
       "time": "3:27 pm",
       "artist": "Kool & The Gang",
       "title": "Hollywood Swinging"
+    },
+    {
+      "time": "3:31 pm",
+      "artist": "Beat Happening",
+      "title": "Hot Chocolate Boy"
     }
   ],
   "recent": [
+    {
+      "time": "3:16 pm",
+      "artist": "Elvis Presley",
+      "title": "Little Sister",
+      "album": "single • 1961"
+    },
     {
       "time": "3:12 pm",
       "artist": "Kate Bush",
@@ -172,12 +178,6 @@
       "artist": "Beyonce",
       "title": "Formation",
       "album": "Lemonade • 2016"
-    },
-    {
-      "time": "1:48 pm",
-      "artist": "Diana Ross & The Supremes",
-      "title": "Someday We'll Be Together",
-      "album": "Cream of the Crop • 1969"
     }
   ]
 }
