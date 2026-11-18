@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T07:42:58",
+  "updatedAt": "2026-11-18T07:45:11",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Surfer Girl",
-    "album": "Surfer Girl • 1963",
+    "artist": "Cher",
+    "title": "Gypsys, Tramps & Thieves",
+    "album": "Gypsys, Tramps & Thieves • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:45 am",
-      "artist": "Cher",
-      "title": "Gypsys, Tramps & Thieves"
-    },
     {
       "time": "7:47 am",
       "artist": "The Afghan Whigs",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:45 am",
+      "artist": "Cher",
+      "title": "Gypsys, Tramps & Thieves",
+      "album": "Gypsys, Tramps & Thieves • 1971"
+    },
     {
       "time": "7:42 am",
       "artist": "The Beach Boys",
@@ -172,12 +173,6 @@
       "artist": "Fats Domino",
       "title": "Walking To New Orleans",
       "album": "single • 1960"
-    },
-    {
-      "time": "6:02 am",
-      "artist": "OK Go",
-      "title": "A Million Ways",
-      "album": "Oh No • 2005"
     }
   ]
 }
