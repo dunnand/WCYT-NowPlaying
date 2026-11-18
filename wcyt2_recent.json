@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T15:19:02",
+  "updatedAt": "2026-11-18T15:19:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kenny Rogers",
+    "title": "The Gambler",
+    "album": "The Gambler • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:19 pm",
-      "artist": "Kenny Rogers",
-      "title": "The Gambler"
-    },
     {
       "time": "3:22 pm",
       "artist": "Chicago",
@@ -26,9 +21,20 @@
       "time": "3:31 pm",
       "artist": "Beat Happening",
       "title": "Hot Chocolate Boy"
+    },
+    {
+      "time": "3:34 pm",
+      "artist": "Chuck Berry",
+      "title": "Roll Over Beethoven"
     }
   ],
   "recent": [
+    {
+      "time": "3:19 pm",
+      "artist": "Kenny Rogers",
+      "title": "The Gambler",
+      "album": "The Gambler • 1978"
+    },
     {
       "time": "3:16 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Kenny Loggins",
       "title": "Danger Zone",
       "album": "Top Gun: Original Motion Picture Soundtrack • 1986"
-    },
-    {
-      "time": "1:52 pm",
-      "artist": "Beyonce",
-      "title": "Formation",
-      "album": "Lemonade • 2016"
     }
   ]
 }
