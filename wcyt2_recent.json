@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T08:41:36",
+  "updatedAt": "2026-11-19T08:41:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Shame Shame",
+    "album": "Medicine at Midnight • 2021",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:41 am",
-      "artist": "Foo Fighters",
-      "title": "Shame Shame"
-    },
     {
       "time": "8:46 am",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "8:55 am",
       "artist": "Depeche Mode",
       "title": "Walking in My Shoes"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "Depeche Mode",
+      "title": "World in My Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "8:41 am",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame",
+      "album": "Medicine at Midnight • 2021"
+    },
     {
       "time": "8:38 am",
       "artist": "Lil Nas X",
@@ -172,12 +178,6 @@
       "artist": "Air Supply",
       "title": "Every Woman In The World",
       "album": "Lost in Love • 1980"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "Whitney Houston",
-      "title": "You Give Good Love",
-      "album": "Whitney Houston • 1985"
     }
   ]
 }
