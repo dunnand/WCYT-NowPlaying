@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T01:04:05",
+  "updatedAt": "2026-11-19T01:04:35",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Mac DeMarco",
+    "title": "This Old Dog",
+    "album": "This Old Dog • 2017",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:04 am",
-      "artist": "Mac DeMarco",
-      "title": "This Old Dog"
-    },
     {
       "time": "1:06 am",
       "artist": "Wilco",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:04 am",
+      "artist": "Mac DeMarco",
+      "title": "This Old Dog",
+      "album": "This Old Dog • 2017"
+    },
     {
       "time": "12:58 am",
       "artist": "Slint",
@@ -154,11 +155,6 @@
       "time": "11:05 pm",
       "artist": "Caroline Polachek",
       "title": "Door"
-    },
-    {
-      "time": "11:01 pm",
-      "artist": "King Krule",
-      "title": "Flimsier"
     }
   ]
 }
