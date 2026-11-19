@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T01:00:21",
+  "updatedAt": "2026-11-19T01:04:15",
   "now": {
     "artist": "Daft Punk",
-    "title": "Face to Face",
+    "title": "Harder, Better, Faster, Stronger",
     "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:04 am",
-      "artist": "Daft Punk",
-      "title": "Harder, Better, Faster, Stronger"
-    },
     {
       "time": "1:08 am",
       "artist": "John Prine",
@@ -26,9 +21,20 @@
       "time": "1:16 am",
       "artist": "The Boo Radleys",
       "title": "Lazarus"
+    },
+    {
+      "time": "1:21 am",
+      "artist": "The Alan Parsons Project",
+      "title": "Games People Play"
     }
   ],
   "recent": [
+    {
+      "time": "1:04 am",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "1:00 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Glitch",
       "album": "Midnights 3am • 2022"
-    },
-    {
-      "time": "10:47 pm",
-      "artist": "Huey Lewis & The News",
-      "title": "Do You Believe In Love",
-      "album": "Picture This • 1982"
     }
   ]
 }
