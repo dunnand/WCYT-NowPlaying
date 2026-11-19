@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T14:10:01",
+  "updatedAt": "2026-11-19T14:10:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Angels",
+    "title": "My Boyfriend's Back",
+    "album": "My Boyfriend's Back • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 pm",
-      "artist": "The Angels",
-      "title": "My Boyfriend's Back"
-    },
     {
       "time": "2:12 pm",
       "artist": "Lizzo",
@@ -26,9 +21,20 @@
       "time": "2:19 pm",
       "artist": "Foo Fighters",
       "title": "Learn to Fly"
+    },
+    {
+      "time": "2:23 pm",
+      "artist": "The Smiths",
+      "title": "How Soon Is Now"
     }
   ],
   "recent": [
+    {
+      "time": "2:10 pm",
+      "artist": "The Angels",
+      "title": "My Boyfriend's Back",
+      "album": "My Boyfriend's Back • 1963"
+    },
     {
       "time": "2:06 pm",
       "artist": "Johnny Cash",
@@ -172,12 +178,6 @@
       "artist": "Grimes",
       "title": "IDORU",
       "album": "Miss Anthropocene • 2020"
-    },
-    {
-      "time": "12:20 pm",
-      "artist": "Men At Work",
-      "title": "Overkill",
-      "album": "Cargo • 1983"
     }
   ]
 }
