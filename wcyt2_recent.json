@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T14:51:49",
+  "updatedAt": "2026-11-19T14:55:55",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "My Hero",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Preservation Hall Jazz Band",
+    "title": "That's It!",
+    "album": "Preservation Hall Jazz Band • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 pm",
-      "artist": "Preservation Hall Jazz Band",
-      "title": "That's It!"
-    },
     {
       "time": "2:59 pm",
       "artist": "Justin Timberlake",
@@ -21,9 +16,20 @@
       "time": "3:04 pm",
       "artist": "Justin Timberlake",
       "title": "Like I Love You"
+    },
+    {
+      "time": "3:08 pm",
+      "artist": "Katy Perry",
+      "title": "The One That Got Away"
     }
   ],
   "recent": [
+    {
+      "time": "2:55 pm",
+      "artist": "Preservation Hall Jazz Band",
+      "title": "That's It!",
+      "album": "Preservation Hall Jazz Band • 2013"
+    },
     {
       "time": "2:51 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Neil Diamond",
       "title": "Love On The Rocks",
       "album": "The Jazz Singer • 1980"
-    },
-    {
-      "time": "1:21 pm",
-      "artist": "Foo Fighters",
-      "title": "Breakout",
-      "album": "There Is Nothing Left to Lose • 1999"
     }
   ]
 }
