@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T13:21:59",
+  "updatedAt": "2026-11-19T13:25:27",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Breakout",
-    "album": "There Is Nothing Left to Lose • 1999",
+    "artist": "Neil Diamond",
+    "title": "Love On The Rocks",
+    "album": "The Jazz Singer • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:25 pm",
-      "artist": "Neil Diamond",
-      "title": "Love On The Rocks"
-    },
     {
       "time": "1:29 pm",
       "artist": "The Pogues",
@@ -21,9 +16,25 @@
       "time": "1:32 pm",
       "artist": "Taylor Swift",
       "title": "All Too Well (10 Minute Version)"
+    },
+    {
+      "time": "1:42 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "Cecilia"
+    },
+    {
+      "time": "1:45 pm",
+      "artist": "Stevie Wonder",
+      "title": "Living For The City"
     }
   ],
   "recent": [
+    {
+      "time": "1:25 pm",
+      "artist": "Neil Diamond",
+      "title": "Love On The Rocks",
+      "album": "The Jazz Singer • 1980"
+    },
     {
       "time": "1:21 pm",
       "artist": "Foo Fighters",
@@ -167,12 +178,6 @@
       "artist": "Joey Bad",
       "title": "For My People",
       "album": "All-Amerikkkan • 2017"
-    },
-    {
-      "time": "11:35 am",
-      "artist": "Gorillaz",
-      "title": "Feel Good Inc.",
-      "album": "Demon Days • 2005"
     }
   ]
 }
