@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T03:21:45",
+  "updatedAt": "2026-11-19T03:21:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Van Morrison",
+    "title": "Moondance",
+    "album": "Moondance • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:21 am",
-      "artist": "Van Morrison",
-      "title": "Moondance"
-    },
     {
       "time": "3:26 am",
       "artist": "Herman's Hermits",
@@ -26,9 +21,20 @@
       "time": "3:36 am",
       "artist": "Elvis Presley",
       "title": "It's Now Or Never"
+    },
+    {
+      "time": "3:40 am",
+      "artist": "Willie Nelson",
+      "title": "Time of the Preacher"
     }
   ],
   "recent": [
+    {
+      "time": "3:21 am",
+      "artist": "Van Morrison",
+      "title": "Moondance",
+      "album": "Moondance • 1977"
+    },
     {
       "time": "3:17 am",
       "artist": "Turnstile",
@@ -160,11 +166,6 @@
       "time": "1:38 am",
       "artist": "Henry Mancini",
       "title": "Moon River"
-    },
-    {
-      "time": "1:33 am",
-      "artist": "The Stooges",
-      "title": "1970"
     }
   ]
 }
