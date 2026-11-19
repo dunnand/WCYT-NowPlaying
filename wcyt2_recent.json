@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T13:19:38",
+  "updatedAt": "2026-11-19T13:19:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Big Me",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:19 pm",
-      "artist": "Foo Fighters",
-      "title": "Big Me"
-    },
     {
       "time": "1:21 pm",
       "artist": "Foo Fighters",
@@ -26,9 +21,20 @@
       "time": "1:29 pm",
       "artist": "The Pogues",
       "title": "Dirty Old Town"
+    },
+    {
+      "time": "1:32 pm",
+      "artist": "Taylor Swift",
+      "title": "All Too Well (10 Minute Version)"
     }
   ],
   "recent": [
+    {
+      "time": "1:19 pm",
+      "artist": "Foo Fighters",
+      "title": "Big Me",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "1:15 pm",
       "artist": "Kendrick Lamar & SZA",
@@ -172,12 +178,6 @@
       "artist": "Prince",
       "title": "Why You Wanna Treat Me So Bad?",
       "album": "Prince • 1979"
-    },
-    {
-      "time": "11:27 am",
-      "artist": "Gorillaz",
-      "title": "Dirty Harry",
-      "album": "Demon Days • 2005"
     }
   ]
 }
