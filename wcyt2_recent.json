@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T19:21:35",
+  "updatedAt": "2026-11-18T19:26:39",
   "now": {
     "artist": "Coldplay",
-    "title": "Talk",
-    "album": "X&Y • 2005",
+    "title": "The Scientist",
+    "album": "A Rush of Blood to the Head • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 pm",
-      "artist": "Coldplay",
-      "title": "The Scientist"
-    },
     {
       "time": "7:31 pm",
       "artist": "J Cole",
@@ -26,9 +21,20 @@
       "time": "7:40 pm",
       "artist": "Belle and Sebastian",
       "title": "The Boy With the Arab Strap"
+    },
+    {
+      "time": "7:45 pm",
+      "artist": "Kate Bush",
+      "title": "All We Ever Look For"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 pm",
+      "artist": "Coldplay",
+      "title": "The Scientist",
+      "album": "A Rush of Blood to the Head • 2002"
+    },
     {
       "time": "7:21 pm",
       "artist": "Coldplay",
@@ -172,12 +178,6 @@
       "artist": "Malcolm Todd",
       "title": "Roommates",
       "album": "Single • 2023"
-    },
-    {
-      "time": "5:53 pm",
-      "artist": "Edie Brickell & New Bohemians",
-      "title": "What I Am",
-      "album": "Shooting Rubberbands at the Stars • 1989"
     }
   ]
 }
