@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T22:32:08",
+  "updatedAt": "2026-11-18T22:36:39",
   "now": {
-    "artist": "John Denver",
-    "title": "Rocky Mountain High",
-    "album": "Rocky Mountain High • 1972",
+    "artist": "Beastie Boys",
+    "title": "Gratitude",
+    "album": "Check Your Head • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:36 pm",
-      "artist": "Beastie Boys",
-      "title": "Gratitude"
-    },
     {
       "time": "10:39 pm",
       "artist": "Ray Charles",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:36 pm",
+      "artist": "Beastie Boys",
+      "title": "Gratitude",
+      "album": "Check Your Head • 1992"
+    },
     {
       "time": "10:32 pm",
       "artist": "John Denver",
@@ -167,12 +168,6 @@
       "artist": "One Direction",
       "title": "Little Things",
       "album": "Take Me Home • 2012"
-    },
-    {
-      "time": "9:04 pm",
-      "artist": "Common",
-      "title": "GO!",
-      "album": "Be • 2005"
     }
   ]
 }
