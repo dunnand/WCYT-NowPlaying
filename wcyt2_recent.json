@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T10:27:54",
+  "updatedAt": "2026-11-19T10:30:46",
   "now": {
-    "artist": "Neil Diamond",
-    "title": "Cracklin' Rosie",
-    "album": "Tap Root Manuscript • 1970",
+    "artist": "Dion",
+    "title": "Runaround Sue",
+    "album": "Runaround Sue • 1961",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:30 am",
-      "artist": "Dion",
-      "title": "Runaround Sue"
-    },
     {
       "time": "10:33 am",
       "artist": "The O'Jays",
@@ -26,9 +21,20 @@
       "time": "10:38 am",
       "artist": "Paul Simon",
       "title": "Kodachrome"
+    },
+    {
+      "time": "10:42 am",
+      "artist": "Dinosaur Jr.",
+      "title": "The Wagon"
     }
   ],
   "recent": [
+    {
+      "time": "10:30 am",
+      "artist": "Dion",
+      "title": "Runaround Sue",
+      "album": "Runaround Sue • 1961"
+    },
     {
       "time": "10:27 am",
       "artist": "Neil Diamond",
@@ -172,12 +178,6 @@
       "artist": "Foo Fighters",
       "title": "Shame Shame",
       "album": "Medicine at Midnight • 2021"
-    },
-    {
-      "time": "8:38 am",
-      "artist": "Lil Nas X",
-      "title": "Old Town Road (feat. Billy Ray Cyrus)",
-      "album": "7 • 2019"
     }
   ]
 }
