@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T22:11:12",
+  "updatedAt": "2026-11-18T22:11:44",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "Play The Game",
+    "album": "The Game • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:11 pm",
-      "artist": "Queen",
-      "title": "Play The Game"
-    },
     {
       "time": "10:15 pm",
       "artist": "The Killers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:11 pm",
+      "artist": "Queen",
+      "title": "Play The Game",
+      "album": "The Game • 1980"
+    },
     {
       "time": "10:07 pm",
       "artist": "Prince and The Revolution",
@@ -172,12 +173,6 @@
       "artist": "Belle and Sebastian",
       "title": "This Is Just A Modern Rock Song",
       "album": "This Is Just A Modern Rock Song • 1998"
-    },
-    {
-      "time": "8:33 pm",
-      "artist": "Belle and Sebastian",
-      "title": "The State I Am In",
-      "album": "Tigermilk • 1996"
     }
   ]
 }
