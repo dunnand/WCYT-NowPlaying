@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T08:41:56",
+  "updatedAt": "2026-11-19T08:46:14",
   "now": {
     "artist": "Foo Fighters",
-    "title": "Shame Shame",
-    "album": "Medicine at Midnight • 2021",
+    "title": "The Pretender",
+    "album": "Echoes, Silence, Patience & Grace • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:46 am",
-      "artist": "Foo Fighters",
-      "title": "The Pretender"
-    },
     {
       "time": "8:50 am",
       "artist": "James Blake",
@@ -26,9 +21,20 @@
       "time": "9:00 am",
       "artist": "Depeche Mode",
       "title": "World in My Eyes"
+    },
+    {
+      "time": "9:04 am",
+      "artist": "Bon Jovi",
+      "title": "Wanted Dead Or Alive"
     }
   ],
   "recent": [
+    {
+      "time": "8:46 am",
+      "artist": "Foo Fighters",
+      "title": "The Pretender",
+      "album": "Echoes, Silence, Patience & Grace • 2007"
+    },
     {
       "time": "8:41 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "SEEIN' STARS",
       "album": "NEVER ENOUGH • 2025"
-    },
-    {
-      "time": "7:03 am",
-      "artist": "Air Supply",
-      "title": "Every Woman In The World",
-      "album": "Lost in Love • 1980"
     }
   ]
 }
