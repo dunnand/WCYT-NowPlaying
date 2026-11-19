@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T01:33:03",
+  "updatedAt": "2026-11-19T01:33:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Stooges",
+    "title": "1970",
+    "album": "Fun House • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:33 am",
-      "artist": "The Stooges",
-      "title": "1970"
-    },
     {
       "time": "1:38 am",
       "artist": "Henry Mancini",
@@ -26,9 +21,20 @@
       "time": "1:45 am",
       "artist": "The Beach Boys",
       "title": "I Get Around"
+    },
+    {
+      "time": "1:47 am",
+      "artist": "Three Dog Night",
+      "title": "Celebrate"
     }
   ],
   "recent": [
+    {
+      "time": "1:33 am",
+      "artist": "The Stooges",
+      "title": "1970",
+      "album": "Fun House • 1970"
+    },
     {
       "time": "1:29 am",
       "artist": "Shogo Sakai, Megumi Ohara",
@@ -172,12 +178,6 @@
       "artist": "Silhouettes",
       "title": "Get A Job",
       "album": "single • 1957"
-    },
-    {
-      "time": "11:58 pm",
-      "artist": "blink-182",
-      "title": "What's My Age Again?",
-      "album": "Enema of the State • 1999"
     }
   ]
 }
