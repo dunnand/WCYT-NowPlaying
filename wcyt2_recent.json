@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T21:15:35",
+  "updatedAt": "2026-11-18T21:19:37",
   "now": {
-    "artist": "blink-182",
-    "title": "Adam's Song",
-    "album": "Enema of the State • 1999",
+    "artist": "Howlin' Wolf",
+    "title": "Smokestack Lightnin'",
+    "album": "Moanin' in the Moonlight • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:19 pm",
-      "artist": "Howlin' Wolf",
-      "title": "Smokestack Lightnin'"
-    },
     {
       "time": "9:22 pm",
       "artist": "Common",
@@ -26,9 +21,20 @@
       "time": "9:29 pm",
       "artist": "FUN.",
       "title": "We Are Young"
+    },
+    {
+      "time": "9:33 pm",
+      "artist": "blink",
+      "title": "182 - All the Small Things"
     }
   ],
   "recent": [
+    {
+      "time": "9:19 pm",
+      "artist": "Howlin' Wolf",
+      "title": "Smokestack Lightnin'",
+      "album": "Moanin' in the Moonlight • 1959"
+    },
     {
       "time": "9:15 pm",
       "artist": "blink-182",
@@ -172,12 +178,6 @@
       "artist": "Kate Bush",
       "title": "All We Ever Look For",
       "album": "Never for Ever • 1980"
-    },
-    {
-      "time": "7:40 pm",
-      "artist": "Belle and Sebastian",
-      "title": "The Boy With the Arab Strap",
-      "album": "The Boy with the Arab Strap • 1998"
     }
   ]
 }
