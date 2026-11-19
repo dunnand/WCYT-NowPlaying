@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T02:52:25",
+  "updatedAt": "2026-11-19T02:52:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Technologic",
+    "album": "Human After All • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:52 am",
-      "artist": "Daft Punk",
-      "title": "Technologic"
-    },
     {
       "time": "2:57 am",
       "artist": "The Dandy Warhols",
@@ -26,9 +21,20 @@
       "time": "3:04 am",
       "artist": "CAKE",
       "title": "Never There"
+    },
+    {
+      "time": "3:07 am",
+      "artist": "CAKE",
+      "title": "Perhaps, Perhaps, Perhaps"
     }
   ],
   "recent": [
+    {
+      "time": "2:52 am",
+      "artist": "Daft Punk",
+      "title": "Technologic",
+      "album": "Human After All • 2005"
+    },
     {
       "time": "2:47 am",
       "artist": "Lana Del Rey",
@@ -152,11 +158,6 @@
       "time": "1:04 am",
       "artist": "Daft Punk",
       "title": "Harder, Better, Faster, Stronger"
-    },
-    {
-      "time": "1:00 am",
-      "artist": "Daft Punk",
-      "title": "Face to Face"
     }
   ]
 }
