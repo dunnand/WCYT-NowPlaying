@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T09:52:23",
+  "updatedAt": "2026-11-19T09:56:35",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Times Like These",
-    "album": "One by One • 2002",
+    "artist": "Fugazi",
+    "title": "Cashout",
+    "album": "The Argument • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 am",
-      "artist": "Fugazi",
-      "title": "Cashout"
-    },
     {
       "time": "10:01 am",
       "artist": "KOKOKO!",
@@ -26,9 +21,20 @@
       "time": "10:09 am",
       "artist": "Digable Planets",
       "title": "Where I'm From"
+    },
+    {
+      "time": "10:14 am",
+      "artist": "Dead Kennedys",
+      "title": "Holiday in Cambodia"
     }
   ],
   "recent": [
+    {
+      "time": "9:56 am",
+      "artist": "Fugazi",
+      "title": "Cashout",
+      "album": "The Argument • 2001"
+    },
     {
       "time": "9:52 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "T.L.C. (Turnstile Love Connection)",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "8:09 am",
-      "artist": "Bob Seger & The Silver Bullet Band",
-      "title": "Shame On The Moon",
-      "album": "The Distance • 1982"
     }
   ]
 }
