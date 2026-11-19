@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T08:46:14",
+  "updatedAt": "2026-11-19T08:50:38",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "The Pretender",
-    "album": "Echoes, Silence, Patience & Grace • 2007",
+    "artist": "James Blake",
+    "title": "The Wilhelm Scream",
+    "album": "James Blake • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:50 am",
-      "artist": "James Blake",
-      "title": "The Wilhelm Scream"
-    },
     {
       "time": "8:55 am",
       "artist": "Depeche Mode",
@@ -26,9 +21,20 @@
       "time": "9:04 am",
       "artist": "Bon Jovi",
       "title": "Wanted Dead Or Alive"
+    },
+    {
+      "time": "9:09 am",
+      "artist": "Boogie Down Productions",
+      "title": "South Bronx"
     }
   ],
   "recent": [
+    {
+      "time": "8:50 am",
+      "artist": "James Blake",
+      "title": "The Wilhelm Scream",
+      "album": "James Blake • 2011"
+    },
     {
       "time": "8:46 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Erykah Badu",
       "title": "Didn't Cha Know",
       "album": "Mama's Gun • 2000"
-    },
-    {
-      "time": "7:06 am",
-      "artist": "Turnstile",
-      "title": "SEEIN' STARS",
-      "album": "NEVER ENOUGH • 2025"
     }
   ]
 }
