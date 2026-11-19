@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T15:29:15",
+  "updatedAt": "2026-11-19T15:29:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Van Halen",
+    "title": "Dance The Night Away",
+    "album": "Van Halen II • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:29 pm",
-      "artist": "Van Halen",
-      "title": "Dance The Night Away"
-    },
     {
       "time": "3:32 pm",
       "artist": "Inez Foxx",
@@ -26,9 +21,20 @@
       "time": "3:38 pm",
       "artist": "Glen Campbell",
       "title": "By The Time I Get To Phoenix"
+    },
+    {
+      "time": "3:41 pm",
+      "artist": "War",
+      "title": "Why Can't We Be Friends?"
     }
   ],
   "recent": [
+    {
+      "time": "3:29 pm",
+      "artist": "Van Halen",
+      "title": "Dance The Night Away",
+      "album": "Van Halen II • 1979"
+    },
     {
       "time": "3:26 pm",
       "artist": "Beauty Queen",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "All Shook Up",
       "album": "single • 1957"
-    },
-    {
-      "time": "2:00 pm",
-      "artist": "Foo Fighters",
-      "title": "Everlong",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
