@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T05:14:18",
+  "updatedAt": "2026-11-19T05:14:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "AC/DC",
+    "title": "T.N.T.",
+    "album": "High Voltage • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:14 am",
-      "artist": "AC/DC",
-      "title": "T.N.T."
-    },
     {
       "time": "5:17 am",
       "artist": "The Allman Brothers Band",
@@ -26,9 +21,20 @@
       "time": "5:28 am",
       "artist": "Herb Alpert & The Tijuana Brass",
       "title": "Taste Of Honey"
+    },
+    {
+      "time": "5:30 am",
+      "artist": "Boney M.",
+      "title": "Rivers of Babylon"
     }
   ],
   "recent": [
+    {
+      "time": "5:14 am",
+      "artist": "AC/DC",
+      "title": "T.N.T.",
+      "album": "High Voltage • 1975"
+    },
     {
       "time": "5:10 am",
       "artist": "The Killers",
@@ -172,12 +178,6 @@
       "artist": "Doris Day",
       "title": "A Guy Is A Guy",
       "album": "single • 1952"
-    },
-    {
-      "time": "3:42 am",
-      "artist": "CAKE",
-      "title": "Race Car Ya-Yas",
-      "album": "Fashion Nugget • 1996"
     }
   ]
 }
