@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T00:16:40",
+  "updatedAt": "2026-11-19T00:17:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Make You Feel My Love",
+    "album": "Make You Feel My Love • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:17 am",
-      "artist": "Bob Dylan",
-      "title": "Make You Feel My Love"
-    },
     {
       "time": "12:20 am",
       "artist": "Janet Jackson",
@@ -26,9 +21,20 @@
       "time": "12:28 am",
       "artist": "Turnstile",
       "title": "MYSTERY"
+    },
+    {
+      "time": "12:31 am",
+      "artist": "Daft Punk",
+      "title": "Television Rules the Nation"
     }
   ],
   "recent": [
+    {
+      "time": "12:17 am",
+      "artist": "Bob Dylan",
+      "title": "Make You Feel My Love",
+      "album": "Make You Feel My Love • 1997"
+    },
     {
       "time": "12:15 am",
       "artist": "Boards of Canada",
@@ -172,12 +178,6 @@
       "artist": "Prince and The Revolution",
       "title": "When Doves Cry",
       "album": "Purple Rain • 1984"
-    },
-    {
-      "time": "10:04 pm",
-      "artist": "Bad Religion",
-      "title": "American Jesus",
-      "album": "Recipe for Hate • 1993"
     }
   ]
 }
