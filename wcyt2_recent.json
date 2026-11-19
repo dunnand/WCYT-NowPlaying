@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T11:54:43",
+  "updatedAt": "2026-11-19T11:55:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Gorillaz",
+    "title": "Rock the House",
+    "album": "Gorillaz • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:54 am",
-      "artist": "Gorillaz",
-      "title": "Rock the House"
-    },
     {
       "time": "11:59 am",
       "artist": "Jason Isbell and the 400 Unit",
@@ -26,9 +21,20 @@
       "time": "12:06 pm",
       "artist": "Erykah Badu",
       "title": "Next Lifetime"
+    },
+    {
+      "time": "12:12 pm",
+      "artist": "Erykah Badu",
+      "title": "On & On"
     }
   ],
   "recent": [
+    {
+      "time": "11:55 am",
+      "artist": "Gorillaz",
+      "title": "Rock the House",
+      "album": "Gorillaz • 2001"
+    },
     {
       "time": "11:51 am",
       "artist": "Justin Bieber",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Little Fury Things",
       "album": "You're Living All Over Me • 1987"
-    },
-    {
-      "time": "10:14 am",
-      "artist": "Dead Kennedys",
-      "title": "Holiday in Cambodia",
-      "album": "Fresh Fruit for Rotting Vegetables • 1980"
     }
   ]
 }
