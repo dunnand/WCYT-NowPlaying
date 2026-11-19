@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T22:29:23",
+  "updatedAt": "2026-11-18T22:32:08",
   "now": {
-    "artist": "Dion",
-    "title": "Donna The Prima Donna",
-    "album": "Donna the Prima Donna • 1963",
+    "artist": "John Denver",
+    "title": "Rocky Mountain High",
+    "album": "Rocky Mountain High • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:32 pm",
-      "artist": "John Denver",
-      "title": "Rocky Mountain High"
-    },
     {
       "time": "10:36 pm",
       "artist": "Beastie Boys",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:32 pm",
+      "artist": "John Denver",
+      "title": "Rocky Mountain High",
+      "album": "Rocky Mountain High • 1972"
+    },
     {
       "time": "10:29 pm",
       "artist": "Dion",
@@ -172,12 +173,6 @@
       "artist": "Common",
       "title": "GO!",
       "album": "Be • 2005"
-    },
-    {
-      "time": "9:00 pm",
-      "artist": "The Band",
-      "title": "The Shape I'm In",
-      "album": "Stage Fright • 1970"
     }
   ]
 }
