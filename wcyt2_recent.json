@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T22:19:09",
+  "updatedAt": "2026-11-18T22:23:01",
   "now": {
-    "artist": "Joe Cocker",
-    "title": "Feeling Alright",
-    "album": "With a Little Help from My Friends • 1972",
+    "artist": "Elvis Presley",
+    "title": "In The Ghetto",
+    "album": "From Elvis in Memphis • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:23 pm",
-      "artist": "Elvis Presley",
-      "title": "In The Ghetto"
-    },
     {
       "time": "10:25 pm",
       "artist": "Joe Jackson",
@@ -26,9 +21,20 @@
       "time": "10:32 pm",
       "artist": "John Denver",
       "title": "Rocky Mountain High"
+    },
+    {
+      "time": "10:36 pm",
+      "artist": "Beastie Boys",
+      "title": "Gratitude"
     }
   ],
   "recent": [
+    {
+      "time": "10:23 pm",
+      "artist": "Elvis Presley",
+      "title": "In The Ghetto",
+      "album": "From Elvis in Memphis • 1969"
+    },
     {
       "time": "10:19 pm",
       "artist": "Joe Cocker",
@@ -172,12 +178,6 @@
       "artist": "Yola",
       "title": "Shady Grove",
       "album": "Stand for Myself • 2021"
-    },
-    {
-      "time": "8:49 pm",
-      "artist": "Asia",
-      "title": "Heat Of The Moment",
-      "album": "Asia • 1982"
     }
   ]
 }
