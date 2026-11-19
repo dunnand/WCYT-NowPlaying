@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T20:53:17",
+  "updatedAt": "2026-11-18T20:55:50",
   "now": {
-    "artist": "Yola",
-    "title": "Shady Grove",
-    "album": "Stand for Myself • 2021",
+    "artist": "Coldplay",
+    "title": "Yellow",
+    "album": "Parachutes • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:55 pm",
-      "artist": "Coldplay",
-      "title": "Yellow"
-    },
     {
       "time": "9:00 pm",
       "artist": "The Band",
@@ -26,9 +21,20 @@
       "time": "9:08 pm",
       "artist": "One Direction",
       "title": "Little Things"
+    },
+    {
+      "time": "9:11 pm",
+      "artist": "The Bar",
+      "title": "Kays - Holy Ghost"
     }
   ],
   "recent": [
+    {
+      "time": "8:55 pm",
+      "artist": "Coldplay",
+      "title": "Yellow",
+      "album": "Parachutes • 2000"
+    },
     {
       "time": "8:53 pm",
       "artist": "Yola",
@@ -172,12 +178,6 @@
       "artist": "Justin Bieber",
       "title": "Sorry",
       "album": "Purpose • 2015"
-    },
-    {
-      "time": "7:14 pm",
-      "artist": "Belle and Sebastian",
-      "title": "Seeing Other People",
-      "album": "If You're Feeling Sinister • 1996"
     }
   ]
 }
