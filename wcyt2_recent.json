@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T00:59:50",
+  "updatedAt": "2026-11-19T01:00:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Daft Punk",
+    "title": "Face to Face",
+    "album": "Discovery • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Daft Punk",
-      "title": "Face to Face"
-    },
     {
       "time": "1:04 am",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "1:11 am",
       "artist": "The Boo Radleys",
       "title": "Barney (...and Me)"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "The Boo Radleys",
+      "title": "Lazarus"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "Daft Punk",
+      "title": "Face to Face",
+      "album": "Discovery • 2001"
+    },
     {
       "time": "12:55 am",
       "artist": "Jamila Woods",
@@ -172,12 +178,6 @@
       "artist": "Huey Lewis & The News",
       "title": "Do You Believe In Love",
       "album": "Picture This • 1982"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "Bob Dylan",
-      "title": "Summer Days",
-      "album": "Love and Theft • 2001"
     }
   ]
 }
