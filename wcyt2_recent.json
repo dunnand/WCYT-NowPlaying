@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T14:00:27",
+  "updatedAt": "2026-11-19T14:04:30",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Everlong",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Elvis Presley",
+    "title": "All Shook Up",
+    "album": "single • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:04 pm",
-      "artist": "Elvis Presley",
-      "title": "All Shook Up"
-    },
     {
       "time": "2:06 pm",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "2:12 pm",
       "artist": "Lizzo",
       "title": "Juice"
+    },
+    {
+      "time": "2:15 pm",
+      "artist": "Foo Fighters",
+      "title": "I'll Stick Around"
     }
   ],
   "recent": [
+    {
+      "time": "2:04 pm",
+      "artist": "Elvis Presley",
+      "title": "All Shook Up",
+      "album": "single • 1957"
+    },
     {
       "time": "2:00 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "John Cougar",
       "title": "Hurts So Good",
       "album": "American Fool • 1982"
-    },
-    {
-      "time": "12:12 pm",
-      "artist": "Erykah Badu",
-      "title": "On & On",
-      "album": "Baduizm • 1997"
     }
   ]
 }
