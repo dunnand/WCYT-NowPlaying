@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T15:16:33",
+  "updatedAt": "2026-11-19T15:20:17",
   "now": {
-    "artist": "Fugazi",
-    "title": "Blueprint",
-    "album": "Repeater • 1990",
+    "artist": "ZZ Top",
+    "title": "Gimme All Your Lovin'",
+    "album": "Eliminator • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:20 pm",
-      "artist": "ZZ Top",
-      "title": "Gimme All Your Lovin'"
-    },
     {
       "time": "3:24 pm",
       "artist": "Cyclones",
@@ -21,9 +16,20 @@
       "time": "3:26 pm",
       "artist": "Beauty Queen",
       "title": "On Edge"
+    },
+    {
+      "time": "3:29 pm",
+      "artist": "Van Halen",
+      "title": "Dance The Night Away"
     }
   ],
   "recent": [
+    {
+      "time": "3:20 pm",
+      "artist": "ZZ Top",
+      "title": "Gimme All Your Lovin'",
+      "album": "Eliminator • 1983"
+    },
     {
       "time": "3:16 pm",
       "artist": "Fugazi",
@@ -167,12 +173,6 @@
       "artist": "The Four Seasons",
       "title": "Big Girls Don't Cry",
       "album": "Sherry & 11 Others • 1962"
-    },
-    {
-      "time": "1:52 pm",
-      "artist": "Johnny Cash",
-      "title": "God's Gonna Cut You Down",
-      "album": "American V: A Hundred Highways • 2006"
     }
   ]
 }
