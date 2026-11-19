@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T14:12:30",
+  "updatedAt": "2026-11-19T14:15:42",
   "now": {
-    "artist": "Lizzo",
-    "title": "Juice",
-    "album": "Cuz I Love You • 2019",
+    "artist": "Foo Fighters",
+    "title": "I'll Stick Around",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:15 pm",
-      "artist": "Foo Fighters",
-      "title": "I'll Stick Around"
-    },
     {
       "time": "2:19 pm",
       "artist": "Foo Fighters",
@@ -21,9 +16,20 @@
       "time": "2:23 pm",
       "artist": "The Smiths",
       "title": "How Soon Is Now"
+    },
+    {
+      "time": "2:27 pm",
+      "artist": "The Jam",
+      "title": "Beat Surrender"
     }
   ],
   "recent": [
+    {
+      "time": "2:15 pm",
+      "artist": "Foo Fighters",
+      "title": "I'll Stick Around",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "2:12 pm",
       "artist": "Lizzo",
@@ -167,12 +173,6 @@
       "artist": "Buck Owens and the Buckaroos",
       "title": "Act Naturally",
       "album": "single • 1963"
-    },
-    {
-      "time": "12:31 pm",
-      "artist": "Rolling Stones",
-      "title": "Gimme Shelter",
-      "album": "Let It Bleed • 1970"
     }
   ]
 }
