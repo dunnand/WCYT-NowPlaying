@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T22:39:34",
+  "updatedAt": "2026-11-18T22:42:07",
   "now": {
-    "artist": "Ray Charles",
-    "title": "Mess Around",
-    "album": "single • 1953",
+    "artist": "Bob Dylan",
+    "title": "Summer Days",
+    "album": "Love and Theft • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:42 pm",
-      "artist": "Bob Dylan",
-      "title": "Summer Days"
-    },
     {
       "time": "10:47 pm",
       "artist": "Huey Lewis & The News",
@@ -21,9 +16,20 @@
       "time": "10:50 pm",
       "artist": "Taylor Swift",
       "title": "Glitch"
+    },
+    {
+      "time": "10:53 pm",
+      "artist": "Common",
+      "title": "The Light"
     }
   ],
   "recent": [
+    {
+      "time": "10:42 pm",
+      "artist": "Bob Dylan",
+      "title": "Summer Days",
+      "album": "Love and Theft • 2001"
+    },
     {
       "time": "10:39 pm",
       "artist": "Ray Charles",
@@ -167,12 +173,6 @@
       "artist": "blink-182",
       "title": "Adam's Song",
       "album": "Enema of the State • 1999"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "The Bar-Kays",
-      "title": "Holy Ghost",
-      "album": "Money Talks • 1978"
     }
   ]
 }
