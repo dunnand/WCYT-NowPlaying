@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T13:42:05",
+  "updatedAt": "2026-11-19T13:42:15",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Simon & Garfunkel",
+    "title": "Cecilia",
+    "album": "Bridge Over Troubled Water • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "Cecilia"
-    },
     {
       "time": "1:44 pm",
       "artist": "Stevie Wonder",
@@ -26,9 +21,20 @@
       "time": "1:55 pm",
       "artist": "The Four Seasons",
       "title": "Big Girls Don't Cry"
+    },
+    {
+      "time": "1:57 pm",
+      "artist": "The Chi",
+      "title": "Lites - Out of My Mind"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "Cecilia",
+      "album": "Bridge Over Troubled Water • 1970"
+    },
     {
       "time": "1:32 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Justin Bieber",
       "title": "Boyfriend",
       "album": "Believe • 2012"
-    },
-    {
-      "time": "11:47 am",
-      "artist": "Erykah Badu",
-      "title": "Certainly",
-      "album": "Baduizm • 1997"
     }
   ]
 }
