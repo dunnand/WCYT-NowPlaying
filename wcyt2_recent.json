@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T08:23:23",
+  "updatedAt": "2026-11-19T08:27:27",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Best of You",
-    "album": "In Your Honor • 2005",
+    "artist": "Pink",
+    "title": "Just Give Me A Reason",
+    "album": "The Truth About Love • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:27 am",
-      "artist": "Pink",
-      "title": "Just Give Me A Reason"
-    },
     {
       "time": "8:31 am",
       "artist": "Gil Scott",
@@ -26,9 +21,20 @@
       "time": "8:39 am",
       "artist": "Lil Nas X",
       "title": "Old Town Road (feat. Billy Ray Cyrus)"
+    },
+    {
+      "time": "8:41 am",
+      "artist": "Foo Fighters",
+      "title": "Shame Shame"
     }
   ],
   "recent": [
+    {
+      "time": "8:27 am",
+      "artist": "Pink",
+      "title": "Just Give Me A Reason",
+      "album": "The Truth About Love • 2012"
+    },
     {
       "time": "8:23 am",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Passion Pit",
       "title": "Take A Walk",
       "album": "Gossamer • 2012"
-    },
-    {
-      "time": "6:44 am",
-      "artist": "Bobby Day",
-      "title": "Rockin' Robin",
-      "album": "Rockin' With Robin • 1960"
     }
   ]
 }
