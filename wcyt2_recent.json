@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T04:38:25",
+  "updatedAt": "2026-11-19T04:40:57",
   "now": {
-    "artist": "Jackie Wilson",
-    "title": "Lonely Teardrops",
-    "album": "Lonely Teardrops • 1958",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Asleep In The Back",
+    "album": "Asleep In the Back • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:40 am",
-      "artist": "Elbow",
-      "title": "Asleep In The Back"
-    },
     {
       "time": "4:44 am",
       "artist": "Jefferson Airplane",
@@ -21,9 +16,20 @@
       "time": "4:47 am",
       "artist": "OK Go",
       "title": "The Writing's On the Wall"
+    },
+    {
+      "time": "4:50 am",
+      "artist": "Daft Punk",
+      "title": "Da Funk"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 am",
+      "artist": "Elbow",
+      "title": "Asleep In The Back",
+      "album": "Asleep In the Back • 2001"
+    },
     {
       "time": "4:38 am",
       "artist": "Jackie Wilson",
@@ -167,12 +173,6 @@
       "artist": "Billy Joel",
       "title": "You May Be Right",
       "album": "Glass Houses • 1980"
-    },
-    {
-      "time": "3:09 am",
-      "artist": "Tom Waits",
-      "title": "16 Shells From a Thirty-Ought-Six",
-      "album": "Swordfishtrombones • 1983"
     }
   ]
 }
