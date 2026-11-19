@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T14:38:50",
+  "updatedAt": "2026-11-19T14:43:02",
   "now": {
-    "artist": "Snail Mail",
-    "title": "My Maker",
-    "album": "Ricochet • 2026",
+    "artist": "Sufjan Stevens",
+    "title": "Chicago",
+    "album": "Illinois • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:43 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Chicago"
-    },
     {
       "time": "2:48 pm",
       "artist": "The Smiths",
@@ -26,9 +21,20 @@
       "time": "2:54 pm",
       "artist": "boygenius",
       "title": "Salt in the Wound"
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "Misfits",
+      "title": "Hybrid Moments"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Chicago",
+      "album": "Illinois • 2005"
+    },
     {
       "time": "2:38 pm",
       "artist": "Snail Mail",
@@ -172,11 +178,6 @@
       "artist": "Kurt Vile",
       "title": "99 BPM",
       "album": "philadelphia's been good to me • 2026"
-    },
-    {
-      "time": "12:01 pm",
-      "artist": "M83",
-      "title": "Do It, Try"
     }
   ]
 }
