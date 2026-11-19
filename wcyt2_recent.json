@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T10:38:44",
+  "updatedAt": "2026-11-19T10:42:08",
   "now": {
-    "artist": "Paul Simon",
-    "title": "Kodachrome",
-    "album": "There Goes Rhymin Simon • 1973",
+    "artist": "Dinosaur Jr.",
+    "title": "The Wagon",
+    "album": "Green Mind • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:42 am",
-      "artist": "Dinosaur Jr.",
-      "title": "The Wagon"
-    },
     {
       "time": "10:46 am",
       "artist": "Gene Vincent & His Blue Caps",
@@ -26,9 +21,20 @@
       "time": "10:53 am",
       "artist": "The Mothers of Invention",
       "title": "Trouble Every Day"
+    },
+    {
+      "time": "10:59 am",
+      "artist": "LCD Soundsystem",
+      "title": "All I Want"
     }
   ],
   "recent": [
+    {
+      "time": "10:42 am",
+      "artist": "Dinosaur Jr.",
+      "title": "The Wagon",
+      "album": "Green Mind • 1991"
+    },
     {
       "time": "10:38 am",
       "artist": "Paul Simon",
@@ -172,12 +178,6 @@
       "artist": "Depeche Mode",
       "title": "World in My Eyes",
       "album": "Violator • 1990"
-    },
-    {
-      "time": "8:55 am",
-      "artist": "Depeche Mode",
-      "title": "Walking in My Shoes",
-      "album": "Songs of Faith and Devotion • 1993"
     }
   ]
 }
