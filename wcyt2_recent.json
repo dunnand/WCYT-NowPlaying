@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T19:08:08",
+  "updatedAt": "2026-11-18T19:10:27",
   "now": {
-    "artist": "13th Floor Elevators",
-    "title": "You're Gonna Miss Me",
-    "album": "The Psychedelic Sounds of the 13th Floor Elevators • 1966",
+    "artist": "Supertramp",
+    "title": "The Logical Song",
+    "album": "Breakfast in America • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 pm",
-      "artist": "Supertramp",
-      "title": "The Logical Song"
-    },
     {
       "time": "7:14 pm",
       "artist": "Belle and Sebastian",
@@ -26,9 +21,20 @@
       "time": "7:21 pm",
       "artist": "Coldplay",
       "title": "Talk"
+    },
+    {
+      "time": "7:26 pm",
+      "artist": "Coldplay",
+      "title": "The Scientist"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 pm",
+      "artist": "Supertramp",
+      "title": "The Logical Song",
+      "album": "Breakfast in America • 1979"
+    },
     {
       "time": "7:08 pm",
       "artist": "13th Floor Elevators",
@@ -172,12 +178,6 @@
       "artist": "Belle and Sebastian",
       "title": "I Don't Love Anyone",
       "album": "Tigermilk • 1996"
-    },
-    {
-      "time": "5:36 pm",
-      "artist": "Justin Timberlake",
-      "title": "Suit & Tie",
-      "album": "The 20/20 Experience • 2013"
     }
   ]
 }
