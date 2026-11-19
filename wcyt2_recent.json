@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T20:38:23",
+  "updatedAt": "2026-11-18T20:38:33",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Belle and Sebastian",
+    "title": "This Is Just A Modern Rock Song",
+    "album": "This Is Just A Modern Rock Song • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:38 pm",
-      "artist": "Belle and Sebastian",
-      "title": "This Is Just A Modern Rock Song"
-    },
     {
       "time": "8:45 pm",
       "artist": "Al Jarreau",
@@ -26,9 +21,20 @@
       "time": "8:53 pm",
       "artist": "Yola",
       "title": "Shady Grove"
+    },
+    {
+      "time": "8:56 pm",
+      "artist": "Coldplay",
+      "title": "Yellow"
     }
   ],
   "recent": [
+    {
+      "time": "8:38 pm",
+      "artist": "Belle and Sebastian",
+      "title": "This Is Just A Modern Rock Song",
+      "album": "This Is Just A Modern Rock Song • 1998"
+    },
     {
       "time": "8:33 pm",
       "artist": "Belle and Sebastian",
@@ -172,12 +178,6 @@
       "artist": "Stiff Little Fingers",
       "title": "Alternative Ulster",
       "album": "Inflammable Material • 1979"
-    },
-    {
-      "time": "7:02 pm",
-      "artist": "Dionne Warwick",
-      "title": "I Say A Little Prayer",
-      "album": "The Windows of the World • 1967"
     }
   ]
 }
