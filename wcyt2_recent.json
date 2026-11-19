@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T03:21:55",
+  "updatedAt": "2026-11-19T03:26:27",
   "now": {
-    "artist": "Van Morrison",
-    "title": "Moondance",
-    "album": "Moondance • 1977",
+    "artist": "Herman's Hermits",
+    "title": "I'm Into Something Good",
+    "album": "Herman's Hermits • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:26 am",
-      "artist": "Herman's Hermits",
-      "title": "I'm Into Something Good"
-    },
     {
       "time": "3:29 am",
       "artist": "William Onyeabor",
@@ -26,9 +21,20 @@
       "time": "3:40 am",
       "artist": "Willie Nelson",
       "title": "Time of the Preacher"
+    },
+    {
+      "time": "3:42 am",
+      "artist": "CAKE",
+      "title": "Race Car Ya-Yas"
     }
   ],
   "recent": [
+    {
+      "time": "3:26 am",
+      "artist": "Herman's Hermits",
+      "title": "I'm Into Something Good",
+      "album": "Herman's Hermits • 1965"
+    },
     {
       "time": "3:21 am",
       "artist": "Van Morrison",
@@ -161,11 +167,6 @@
       "time": "1:41 am",
       "artist": "Thin Lizzy",
       "title": "Jailbreak"
-    },
-    {
-      "time": "1:38 am",
-      "artist": "Henry Mancini",
-      "title": "Moon River"
     }
   ]
 }
