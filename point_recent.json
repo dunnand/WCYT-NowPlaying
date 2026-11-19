@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T11:55:03",
+  "updatedAt": "2026-11-19T11:55:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Blur",
+    "title": "Beetlebum",
+    "album": "Blur • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 am",
-      "artist": "Blur",
-      "title": "Beetlebum"
-    },
     {
       "time": "12:00 pm",
       "artist": "Car Seat Headrest",
@@ -26,9 +21,20 @@
       "time": "12:10 pm",
       "artist": "Joy Division",
       "title": "Isolation"
+    },
+    {
+      "time": "12:13 pm",
+      "artist": "Alex G",
+      "title": "Gretel"
     }
   ],
   "recent": [
+    {
+      "time": "11:55 am",
+      "artist": "Blur",
+      "title": "Beetlebum",
+      "album": "Blur • 1997"
+    },
     {
       "time": "11:51 am",
       "artist": "Queens of the Stone Age",
@@ -152,11 +158,6 @@
       "time": "9:51 am",
       "artist": "Modest Mouse",
       "title": "Other People's Lives"
-    },
-    {
-      "time": "9:50 am",
-      "artist": "Descendents",
-      "title": "Suburban Home"
     }
   ]
 }
