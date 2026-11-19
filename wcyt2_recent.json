@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T15:08:57",
+  "updatedAt": "2026-11-19T15:12:41",
   "now": {
-    "artist": "Katy Perry",
-    "title": "The One That Got Away",
-    "album": "Teenage Dream • 2010",
+    "artist": "Foo Fighters",
+    "title": "This Is a Call",
+    "album": "Foo Fighters • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:12 pm",
-      "artist": "Foo Fighters",
-      "title": "This Is a Call"
-    },
     {
       "time": "3:16 pm",
       "artist": "Fugazi",
@@ -26,9 +21,20 @@
       "time": "3:24 pm",
       "artist": "Cyclones",
       "title": "I'm In Heaven"
+    },
+    {
+      "time": "3:26 pm",
+      "artist": "Beauty Queen",
+      "title": "On Edge"
     }
   ],
   "recent": [
+    {
+      "time": "3:12 pm",
+      "artist": "Foo Fighters",
+      "title": "This Is a Call",
+      "album": "Foo Fighters • 1995"
+    },
     {
       "time": "3:08 pm",
       "artist": "Katy Perry",
@@ -172,12 +178,6 @@
       "artist": "Stevie Wonder",
       "title": "Living For The City",
       "album": "Innervisions • 1973"
-    },
-    {
-      "time": "1:42 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "Cecilia",
-      "album": "Bridge Over Troubled Water • 1970"
     }
   ]
 }
