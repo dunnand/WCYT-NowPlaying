@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T00:39:07",
+  "updatedAt": "2026-11-19T00:42:27",
   "now": {
-    "artist": "Daft Punk",
-    "title": "Aerodynamic",
-    "album": "Discovery • 2001",
+    "artist": "Katy Perry",
+    "title": "Last Friday Night (TGIF)",
+    "album": "Teenage Dream • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "Katy Perry",
-      "title": "Last Friday Night (TGIF)"
-    },
     {
       "time": "12:46 am",
       "artist": "Spinners",
@@ -26,9 +21,20 @@
       "time": "12:55 am",
       "artist": "Jamila Woods",
       "title": "Betty (for Boogie)"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Daft Punk",
+      "title": "Face to Face"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "Katy Perry",
+      "title": "Last Friday Night (TGIF)",
+      "album": "Teenage Dream • 2010"
+    },
     {
       "time": "12:39 am",
       "artist": "Daft Punk",
@@ -172,12 +178,6 @@
       "artist": "John Denver",
       "title": "Rocky Mountain High",
       "album": "Rocky Mountain High • 1972"
-    },
-    {
-      "time": "10:29 pm",
-      "artist": "Dion",
-      "title": "Donna The Prima Donna",
-      "album": "Donna the Prima Donna • 1963"
     }
   ]
 }
