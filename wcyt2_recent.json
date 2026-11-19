@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T00:42:27",
+  "updatedAt": "2026-11-19T00:46:10",
   "now": {
-    "artist": "Katy Perry",
-    "title": "Last Friday Night (TGIF)",
-    "album": "Teenage Dream • 2010",
+    "artist": "Spinners",
+    "title": "I'll Be Around",
+    "album": "Spinners • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:46 am",
-      "artist": "Spinners",
-      "title": "I'll Be Around"
-    },
     {
       "time": "12:49 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "1:00 am",
       "artist": "Daft Punk",
       "title": "Face to Face"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger"
     }
   ],
   "recent": [
+    {
+      "time": "12:46 am",
+      "artist": "Spinners",
+      "title": "I'll Be Around",
+      "album": "Spinners • 1973"
+    },
     {
       "time": "12:42 am",
       "artist": "Katy Perry",
@@ -172,12 +178,6 @@
       "artist": "Beastie Boys",
       "title": "Gratitude",
       "album": "Check Your Head • 1992"
-    },
-    {
-      "time": "10:32 pm",
-      "artist": "John Denver",
-      "title": "Rocky Mountain High",
-      "album": "Rocky Mountain High • 1972"
     }
   ]
 }
