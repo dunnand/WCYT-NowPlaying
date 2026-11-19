@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T10:07:16",
+  "updatedAt": "2026-11-19T10:10:28",
   "now": {
-    "artist": "Wilco",
-    "title": "Taste the Ceiling",
-    "album": "Star Wars • 2015",
+    "artist": "Radiohead",
+    "title": "Just",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 am",
-      "artist": "Radiohead",
-      "title": "Just"
-    },
     {
       "time": "10:14 am",
       "artist": "Sweeping Promises",
@@ -26,9 +21,20 @@
       "time": "10:21 am",
       "artist": "Sufjan Stevens",
       "title": "Jacksonville"
+    },
+    {
+      "time": "10:27 am",
+      "artist": "Interpol",
+      "title": "Wings On Fire"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 am",
+      "artist": "Radiohead",
+      "title": "Just",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "10:07 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "DIIV",
       "title": "Trillions",
       "album": "ZIRP! • 2026"
-    },
-    {
-      "time": "8:36 am",
-      "artist": "Spoon",
-      "title": "The Ghost of You Lingers",
-      "album": "Ga Ga Ga Ga Ga • 2007"
     }
   ]
 }
