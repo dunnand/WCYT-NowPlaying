@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T12:31:12",
+  "updatedAt": "2026-11-19T12:31:43",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Gimme Shelter",
+    "album": "Let It Bleed • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "Rolling Stones",
-      "title": "Gimme Shelter"
-    },
     {
       "time": "12:36 pm",
       "artist": "Buck Owens and the Buckaroos",
@@ -26,9 +21,20 @@
       "time": "12:41 pm",
       "artist": "Etta James",
       "title": "I Just Want To Make Love To You"
+    },
+    {
+      "time": "12:44 pm",
+      "artist": "Shuggie Otis",
+      "title": "Strawberry Letter 23"
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "Rolling Stones",
+      "title": "Gimme Shelter",
+      "album": "Let It Bleed • 1970"
+    },
     {
       "time": "12:24 pm",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "Gene Vincent & His Blue Caps",
       "title": "Be-Bop-A-Lula",
       "album": "single • 1956"
-    },
-    {
-      "time": "10:42 am",
-      "artist": "Dinosaur Jr.",
-      "title": "The Wagon",
-      "album": "Green Mind • 1991"
     }
   ]
 }
