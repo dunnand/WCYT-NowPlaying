@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T15:12:41",
+  "updatedAt": "2026-11-19T15:16:33",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "This Is a Call",
-    "album": "Foo Fighters • 1995",
+    "artist": "Fugazi",
+    "title": "Blueprint",
+    "album": "Repeater • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:16 pm",
-      "artist": "Fugazi",
-      "title": "Blueprint"
-    },
     {
       "time": "3:20 pm",
       "artist": "ZZ Top",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:16 pm",
+      "artist": "Fugazi",
+      "title": "Blueprint",
+      "album": "Repeater • 1990"
+    },
     {
       "time": "3:12 pm",
       "artist": "Foo Fighters",
@@ -172,12 +173,6 @@
       "artist": "Johnny Cash",
       "title": "God's Gonna Cut You Down",
       "album": "American V: A Hundred Highways • 2006"
-    },
-    {
-      "time": "1:44 pm",
-      "artist": "Stevie Wonder",
-      "title": "Living For The City",
-      "album": "Innervisions • 1973"
     }
   ]
 }
