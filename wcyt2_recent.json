@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T05:14:26",
+  "updatedAt": "2026-11-19T05:17:58",
   "now": {
-    "artist": "AC/DC",
-    "title": "T.N.T.",
-    "album": "High Voltage • 1975",
+    "artist": "The Allman Brothers Band",
+    "title": "Blue Sky",
+    "album": "Eat a Peach • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:17 am",
-      "artist": "The Allman Brothers Band",
-      "title": "Blue Sky"
-    },
     {
       "time": "5:23 am",
       "artist": "Elbow",
@@ -26,9 +21,20 @@
       "time": "5:30 am",
       "artist": "Boney M.",
       "title": "Rivers of Babylon"
+    },
+    {
+      "time": "5:35 am",
+      "artist": "Daft Punk",
+      "title": "Revolution 909"
     }
   ],
   "recent": [
+    {
+      "time": "5:17 am",
+      "artist": "The Allman Brothers Band",
+      "title": "Blue Sky",
+      "album": "Eat a Peach • 1972"
+    },
     {
       "time": "5:14 am",
       "artist": "AC/DC",
@@ -172,12 +178,6 @@
       "artist": "De La Soul",
       "title": "Rock Kane Flow feat. MF DOOM",
       "album": "The Grind Date • 2004"
-    },
-    {
-      "time": "3:43 am",
-      "artist": "Doris Day",
-      "title": "A Guy Is A Guy",
-      "album": "single • 1952"
     }
   ]
 }
