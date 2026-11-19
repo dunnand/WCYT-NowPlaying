@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T14:19:35",
+  "updatedAt": "2026-11-19T14:19:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Foo Fighters",
+    "title": "Learn to Fly",
+    "album": "There Is Nothing Left to Lose • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:19 pm",
-      "artist": "Foo Fighters",
-      "title": "Learn to Fly"
-    },
     {
       "time": "2:23 pm",
       "artist": "The Smiths",
@@ -26,9 +21,20 @@
       "time": "2:30 pm",
       "artist": "Weezer",
       "title": "A Little Bit Of Love"
+    },
+    {
+      "time": "2:33 pm",
+      "artist": "Johnny Cash",
+      "title": "Personal Jesus"
     }
   ],
   "recent": [
+    {
+      "time": "2:19 pm",
+      "artist": "Foo Fighters",
+      "title": "Learn to Fly",
+      "album": "There Is Nothing Left to Lose • 1999"
+    },
     {
       "time": "2:15 pm",
       "artist": "Foo Fighters",
@@ -172,12 +178,6 @@
       "artist": "Roxy Music",
       "title": "Virginia Plain",
       "album": "Roxy Music • 1972"
-    },
-    {
-      "time": "12:36 pm",
-      "artist": "Buck Owens and the Buckaroos",
-      "title": "Act Naturally",
-      "album": "single • 1963"
     }
   ]
 }
