@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T04:40:57",
+  "updatedAt": "2026-11-19T04:44:45",
   "now": {
-    "artist": "Elbow",
-    "title": "Asleep In The Back",
-    "album": "Asleep In the Back • 2001",
-    "category": "TUNES"
+    "artist": "Jefferson Airplane",
+    "title": "White Rabbit",
+    "album": "Surrealistic Pillow • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 am",
-      "artist": "Jefferson Airplane",
-      "title": "White Rabbit"
-    },
     {
       "time": "4:47 am",
       "artist": "OK Go",
@@ -21,9 +16,20 @@
       "time": "4:50 am",
       "artist": "Daft Punk",
       "title": "Da Funk"
+    },
+    {
+      "time": "4:56 am",
+      "artist": "Daft Punk",
+      "title": "Around the World"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 am",
+      "artist": "Jefferson Airplane",
+      "title": "White Rabbit",
+      "album": "Surrealistic Pillow • 1967"
+    },
     {
       "time": "4:40 am",
       "artist": "Elbow",
@@ -167,12 +173,6 @@
       "artist": "Turnstile",
       "title": "I CARE",
       "album": "NEVER ENOUGH • 2025"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "Billy Joel",
-      "title": "You May Be Right",
-      "album": "Glass Houses • 1980"
     }
   ]
 }
