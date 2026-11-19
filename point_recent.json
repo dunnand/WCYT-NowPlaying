@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T04:49:31",
+  "updatedAt": "2026-11-19T04:49:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Beck",
+    "title": "Deadweight",
+    "album": "Odelay • 1996",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:49 am",
-      "artist": "Beck",
-      "title": "Deadweight"
-    },
     {
       "time": "4:54 am",
       "artist": "Animal Collective",
@@ -26,9 +21,20 @@
       "time": "5:10 am",
       "artist": "Minutemen",
       "title": "West Germany"
+    },
+    {
+      "time": "5:12 am",
+      "artist": "The War on Drugs",
+      "title": "Lost In The Dream"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 am",
+      "artist": "Beck",
+      "title": "Deadweight",
+      "album": "Odelay • 1996"
+    },
     {
       "time": "4:45 am",
       "artist": "Dummy",
@@ -172,12 +178,6 @@
       "artist": "The Beths",
       "title": "Great No One",
       "album": "Future Me Hates Me • 2018"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "mary in the junkyard",
-      "title": "New Muscles",
-      "album": "Role Model Hermit • 2026"
     }
   ]
 }
