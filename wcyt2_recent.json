@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T13:44:47",
+  "updatedAt": "2026-11-19T13:52:22",
   "now": {
-    "artist": "Stevie Wonder",
-    "title": "Living For The City",
-    "album": "Innervisions • 1973",
+    "artist": "Johnny Cash",
+    "title": "God's Gonna Cut You Down",
+    "album": "American V: A Hundred Highways • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:52 pm",
-      "artist": "Johnny Cash",
-      "title": "God's Gonna Cut You Down"
-    },
     {
       "time": "1:54 pm",
       "artist": "The Four Seasons",
@@ -26,9 +21,25 @@
       "time": "2:00 pm",
       "artist": "Foo Fighters",
       "title": "Everlong"
+    },
+    {
+      "time": "2:04 pm",
+      "artist": "Elvis Presley",
+      "title": "All Shook Up"
+    },
+    {
+      "time": "2:06 pm",
+      "artist": "Johnny Cash",
+      "title": "Hurt"
     }
   ],
   "recent": [
+    {
+      "time": "1:52 pm",
+      "artist": "Johnny Cash",
+      "title": "God's Gonna Cut You Down",
+      "album": "American V: A Hundred Highways • 2006"
+    },
     {
       "time": "1:44 pm",
       "artist": "Stevie Wonder",
@@ -172,12 +183,6 @@
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Be Afriad",
       "album": "Reunions • 2020"
-    },
-    {
-      "time": "11:55 am",
-      "artist": "Gorillaz",
-      "title": "Rock the House",
-      "album": "Gorillaz • 2001"
     }
   ]
 }
