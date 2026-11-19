@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T04:50:48",
+  "updatedAt": "2026-11-19T04:56:11",
   "now": {
     "artist": "Daft Punk",
-    "title": "Da Funk",
+    "title": "Around the World",
     "album": "Homework • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:56 am",
-      "artist": "Daft Punk",
-      "title": "Around the World"
-    },
     {
       "time": "5:03 am",
       "artist": "Joy Division",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:56 am",
+      "artist": "Daft Punk",
+      "title": "Around the World",
+      "album": "Homework • 1997"
+    },
     {
       "time": "4:50 am",
       "artist": "Daft Punk",
@@ -172,12 +173,6 @@
       "artist": "William Onyeabor",
       "title": "Atomic Bomb",
       "album": "Atomic Bomb • 1978"
-    },
-    {
-      "time": "3:26 am",
-      "artist": "Herman's Hermits",
-      "title": "I'm Into Something Good",
-      "album": "Herman's Hermits • 1965"
     }
   ]
 }
