@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T05:42:19",
+  "updatedAt": "2026-11-19T05:42:40",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Junior Pro",
+    "title": "Cool",
+    "album": "Cool • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:42 am",
-      "artist": "Junior Pro",
-      "title": "Cool"
-    },
     {
       "time": "5:45 am",
       "artist": "Kurt Vile",
@@ -26,9 +21,20 @@
       "time": "5:55 am",
       "artist": "Quivers",
       "title": "Bottle The Nervous"
+    },
+    {
+      "time": "5:58 am",
+      "artist": "Joanna Newsom",
+      "title": "Peach, Plum, Pear"
     }
   ],
   "recent": [
+    {
+      "time": "5:42 am",
+      "artist": "Junior Pro",
+      "title": "Cool",
+      "album": "Cool • 2026"
+    },
     {
       "time": "5:37 am",
       "artist": "The Stone Roses",
@@ -154,11 +160,6 @@
       "time": "3:49 am",
       "artist": "Fontaines D.C.",
       "title": "Japan"
-    },
-    {
-      "time": "3:45 am",
-      "artist": "The Magnetic Fields",
-      "title": "I Don't Believe You"
     }
   ]
 }
