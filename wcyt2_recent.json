@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T04:17:46",
+  "updatedAt": "2026-11-19T04:19:59",
   "now": {
-    "artist": "ZZ Top",
-    "title": "Tush",
-    "album": "Fandango! • 1975",
-    "category": "AUDIO"
+    "artist": "Elbow",
+    "title": "Any Day Now",
+    "album": "Asleep in the Back • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:19 am",
-      "artist": "Elbow",
-      "title": "Any Day Now"
-    },
     {
       "time": "4:25 am",
       "artist": "M83",
@@ -26,9 +21,20 @@
       "time": "4:33 am",
       "artist": "Cocteau Twins",
       "title": "Heaven or Las Vegas"
+    },
+    {
+      "time": "4:38 am",
+      "artist": "Jackie Wilson",
+      "title": "Lonely Teardrops"
     }
   ],
   "recent": [
+    {
+      "time": "4:19 am",
+      "artist": "Elbow",
+      "title": "Any Day Now",
+      "album": "Asleep in the Back • 2001"
+    },
     {
       "time": "4:17 am",
       "artist": "ZZ Top",
@@ -172,12 +178,6 @@
       "artist": "The Dandy Warhols",
       "title": "Bohemian Like You",
       "album": "Thirteen Tales From Urban Bohemia • 2000"
-    },
-    {
-      "time": "2:52 am",
-      "artist": "Daft Punk",
-      "title": "Technologic",
-      "album": "Human After All • 2005"
     }
   ]
 }
