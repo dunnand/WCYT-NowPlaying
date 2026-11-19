@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T22:11:44",
+  "updatedAt": "2026-11-18T22:15:07",
   "now": {
-    "artist": "Queen",
-    "title": "Play The Game",
-    "album": "The Game • 1980",
+    "artist": "The Killers",
+    "title": "Caution",
+    "album": "Imploding the Mirage • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:15 pm",
-      "artist": "The Killers",
-      "title": "Caution"
-    },
     {
       "time": "10:19 pm",
       "artist": "Joe Cocker",
@@ -21,9 +16,20 @@
       "time": "10:23 pm",
       "artist": "Elvis Presley",
       "title": "In The Ghetto"
+    },
+    {
+      "time": "10:26 pm",
+      "artist": "Joe Jackson",
+      "title": "Is She Really Going Out With Him?"
     }
   ],
   "recent": [
+    {
+      "time": "10:15 pm",
+      "artist": "The Killers",
+      "title": "Caution",
+      "album": "Imploding the Mirage • 2020"
+    },
     {
       "time": "10:11 pm",
       "artist": "Queen",
@@ -167,12 +173,6 @@
       "artist": "Al Jarreau",
       "title": "We're In This Love Together",
       "album": "Breakin' Away • 1981"
-    },
-    {
-      "time": "8:38 pm",
-      "artist": "Belle and Sebastian",
-      "title": "This Is Just A Modern Rock Song",
-      "album": "This Is Just A Modern Rock Song • 1998"
     }
   ]
 }
