@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-18T20:38:33",
+  "updatedAt": "2026-11-18T20:45:39",
   "now": {
-    "artist": "Belle and Sebastian",
-    "title": "This Is Just A Modern Rock Song",
-    "album": "This Is Just A Modern Rock Song • 1998",
-    "category": "TUNES"
+    "artist": "Al Jarreau",
+    "title": "We're In This Love Together",
+    "album": "Breakin' Away • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:45 pm",
-      "artist": "Al Jarreau",
-      "title": "We're In This Love Together"
-    },
     {
       "time": "8:49 pm",
       "artist": "Asia",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:45 pm",
+      "artist": "Al Jarreau",
+      "title": "We're In This Love Together",
+      "album": "Breakin' Away • 1981"
+    },
     {
       "time": "8:38 pm",
       "artist": "Belle and Sebastian",
@@ -172,12 +173,6 @@
       "artist": "13th Floor Elevators",
       "title": "You're Gonna Miss Me",
       "album": "The Psychedelic Sounds of the 13th Floor Elevators • 1966"
-    },
-    {
-      "time": "7:05 pm",
-      "artist": "Stiff Little Fingers",
-      "title": "Alternative Ulster",
-      "album": "Inflammable Material • 1979"
     }
   ]
 }
