@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T05:10:18",
+  "updatedAt": "2026-11-20T05:12:42",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Mystery Train",
-    "album": "Rock N Roll • 1956",
+    "artist": "OK Go",
+    "title": "Here It Goes Again",
+    "album": "Oh No • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 am",
-      "artist": "OK Go",
-      "title": "Here It Goes Again"
-    },
     {
       "time": "5:15 am",
       "artist": "The Four Seasons",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:12 am",
+      "artist": "OK Go",
+      "title": "Here It Goes Again",
+      "album": "Oh No • 2005"
+    },
     {
       "time": "5:10 am",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Hall & Oates",
       "title": "Adult Education",
       "album": "Rock 'n Soul Part 1 • 1984"
-    },
-    {
-      "time": "3:32 am",
-      "artist": "The Go-Go's",
-      "title": "Our Lips Are Sealed",
-      "album": "Beauty and the Beat • 1981"
     }
   ]
 }
