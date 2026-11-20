@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T12:31:47",
+  "updatedAt": "2026-11-20T12:31:57",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Everly Brothers",
+    "title": "Wake Up Little Susie",
+    "album": "The Everly Brothers • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:31 pm",
-      "artist": "The Everly Brothers",
-      "title": "Wake Up Little Susie"
-    },
     {
       "time": "12:33 pm",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:31 pm",
+      "artist": "The Everly Brothers",
+      "title": "Wake Up Little Susie",
+      "album": "The Everly Brothers • 1958"
+    },
     {
       "time": "12:27 pm",
       "artist": "Paul Simon",
@@ -172,12 +173,6 @@
       "artist": "New Order",
       "title": "The Perfect Kiss",
       "album": "Low-Life • 1985"
-    },
-    {
-      "time": "10:55 am",
-      "artist": "Oasis",
-      "title": "Rock 'n' Roll Star",
-      "album": "Definitely Maybe • 1994"
     }
   ]
 }
