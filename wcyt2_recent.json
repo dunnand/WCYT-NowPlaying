@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-20T16:40:59",
+  "updatedAt": "2026-11-20T16:46:03",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Shelter From the Storm",
-    "album": "Shelter From the Storm • 1975",
+    "artist": "Pearl Jam",
+    "title": "In My Tree",
+    "album": "No Code • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:46 pm",
-      "artist": "Pearl Jam",
-      "title": "In My Tree"
-    },
     {
       "time": "4:49 pm",
       "artist": "LCD Soundsystem",
       "title": "Call the Police"
     },
     {
-      "time": "4:57 pm",
+      "time": "4:56 pm",
       "artist": "Radiohead",
       "title": "Idioteque"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:46 pm",
+      "artist": "Pearl Jam",
+      "title": "In My Tree",
+      "album": "No Code • 1996"
+    },
     {
       "time": "4:40 pm",
       "artist": "Bob Dylan",
@@ -150,11 +151,6 @@
       "time": "2:39 pm",
       "artist": "Qt",
       "title": "Hey QT"
-    },
-    {
-      "time": "2:36 pm",
-      "artist": "Pearl Jam",
-      "title": "Elderly Woman Behind the Counter in a Small Town"
     }
   ]
 }
