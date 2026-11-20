@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:38:31",
+  "updatedAt": "2026-11-20T02:38:53",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Rock and Roll",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:38 am",
-      "artist": "Led Zeppelin",
-      "title": "Rock and Roll"
-    },
     {
       "time": "2:42 am",
       "artist": "Herman's Hermits",
@@ -26,9 +21,20 @@
       "time": "2:53 am",
       "artist": "Bobby Vinton",
       "title": "Blue Velvet"
+    },
+    {
+      "time": "2:56 am",
+      "artist": "Average",
+      "title": "White-Band - Pick up the Pieces"
     }
   ],
   "recent": [
+    {
+      "time": "2:38 am",
+      "artist": "Led Zeppelin",
+      "title": "Rock and Roll",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "2:34 am",
       "artist": "Christine and the Queens",
@@ -172,12 +178,6 @@
       "artist": "Little Richard and His Band",
       "title": "Ready Teddy",
       "album": "Heres Little Richard • 1957"
-    },
-    {
-      "time": "1:05 am",
-      "artist": "Meat Puppets",
-      "title": "Violet Eyes",
-      "album": "Too High To Die • 1994"
     }
   ]
 }
