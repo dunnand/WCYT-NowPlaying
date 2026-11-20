@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T01:50:13",
+  "updatedAt": "2026-11-20T01:53:26",
   "now": {
-    "artist": "James Taylor",
-    "title": "Country Road",
-    "album": "Sweet Baby James • 1970",
+    "artist": "My Chemical Romance",
+    "title": "Dead!",
+    "album": "The Black Parade • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:53 am",
-      "artist": "My Chemical Romance",
-      "title": "Dead!"
-    },
     {
       "time": "1:56 am",
       "artist": "Kendrick Lamar",
@@ -23,7 +18,7 @@
       "title": "I Wanna Be Your Boyfriend"
     },
     {
-      "time": "2:02 am",
+      "time": "2:01 am",
       "artist": "Misfits",
       "title": "Hybrid Moments"
     },
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "My Chemical Romance",
+      "title": "Dead!",
+      "album": "The Black Parade • 2006"
+    },
     {
       "time": "1:50 am",
       "artist": "James Taylor",
@@ -168,11 +169,6 @@
       "time": "11:29 pm",
       "artist": "Muse",
       "title": "Knights of Cydonia"
-    },
-    {
-      "time": "11:25 pm",
-      "artist": "Barbra Streisand & Neil Diamond",
-      "title": "You Don't Bring Me Flowers"
     }
   ]
 }
