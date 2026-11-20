@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T17:23:22",
+  "updatedAt": "2026-11-20T17:25:45",
   "now": {
-    "artist": "Elvis Costello & The Attractions",
-    "title": "High Fidelity",
-    "album": "Get Happy!! • 1980",
+    "artist": "Jessie Ware",
+    "title": "Spotlight",
+    "album": "What's Your Pleasure • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:25 pm",
-      "artist": "Jessie Ware",
-      "title": "Spotlight"
-    },
     {
       "time": "5:31 pm",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "5:35 pm",
       "artist": "The Everly Brothers",
       "title": "Let It Be Me"
+    },
+    {
+      "time": "5:38 pm",
+      "artist": "Bob Dylan",
+      "title": "Tangled Up in Blue"
     }
   ],
   "recent": [
+    {
+      "time": "5:25 pm",
+      "artist": "Jessie Ware",
+      "title": "Spotlight",
+      "album": "What's Your Pleasure • 2020"
+    },
     {
       "time": "5:23 pm",
       "artist": "Elvis Costello & The Attractions",
@@ -154,11 +160,6 @@
       "time": "3:22 pm",
       "artist": "Bob Dylan",
       "title": "Isis"
-    },
-    {
-      "time": "3:16 pm",
-      "artist": "Bob Dylan",
-      "title": "False Prophet"
     }
   ]
 }
