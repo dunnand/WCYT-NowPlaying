@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T17:35:45",
+  "updatedAt": "2026-11-20T17:38:18",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Let It Be Me",
-    "album": "single • 1960",
+    "artist": "Bob Dylan",
+    "title": "Tangled Up in Blue",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:38 pm",
-      "artist": "Bob Dylan",
-      "title": "Tangled Up in Blue"
-    },
     {
       "time": "5:44 pm",
       "artist": "Gloria Jones",
@@ -26,9 +21,20 @@
       "time": "5:51 pm",
       "artist": "Pearl Jam",
       "title": "Last Kiss"
+    },
+    {
+      "time": "5:54 pm",
+      "artist": "Buddy Holly",
+      "title": "Peggy Sue"
     }
   ],
   "recent": [
+    {
+      "time": "5:38 pm",
+      "artist": "Bob Dylan",
+      "title": "Tangled Up in Blue",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "5:35 pm",
       "artist": "The Everly Brothers",
@@ -162,11 +168,6 @@
       "time": "3:43 pm",
       "artist": "Aretha Franklin",
       "title": "I Never Loved a Man (The Way I Love You)"
-    },
-    {
-      "time": "3:32 pm",
-      "artist": "Bob Dylan",
-      "title": "Joey"
     }
   ]
 }
