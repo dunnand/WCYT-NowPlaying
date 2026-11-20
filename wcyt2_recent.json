@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T17:31:31",
+  "updatedAt": "2026-11-20T17:35:45",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Simple Twist of Fate",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "The Everly Brothers",
+    "title": "Let It Be Me",
+    "album": "single • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:35 pm",
-      "artist": "The Everly Brothers",
-      "title": "Let It Be Me"
-    },
     {
       "time": "5:38 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "5:46 pm",
       "artist": "Bob Dylan",
       "title": "You're a Big Girl Now"
+    },
+    {
+      "time": "5:51 pm",
+      "artist": "Pearl Jam",
+      "title": "Last Kiss"
     }
   ],
   "recent": [
+    {
+      "time": "5:35 pm",
+      "artist": "The Everly Brothers",
+      "title": "Let It Be Me",
+      "album": "single • 1960"
+    },
     {
       "time": "5:31 pm",
       "artist": "Bob Dylan",
@@ -161,11 +167,6 @@
       "time": "3:32 pm",
       "artist": "Bob Dylan",
       "title": "Joey"
-    },
-    {
-      "time": "3:29 pm",
-      "artist": "Desmond Dekker",
-      "title": "007 (Shanty Town)"
     }
   ]
 }
