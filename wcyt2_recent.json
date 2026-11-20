@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T08:08:42",
+  "updatedAt": "2026-11-20T08:12:08",
   "now": {
-    "artist": "Nirvana.",
-    "title": "Come as You Are",
-    "album": "Nevermind • 1991",
+    "artist": "Eddie Murphy",
+    "title": "Party All The Time",
+    "album": "How Could It Be • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:12 am",
-      "artist": "Eddie Murphy",
-      "title": "Party All The Time"
-    },
     {
       "time": "8:16 am",
       "artist": "Gerard McMann",
@@ -21,9 +16,20 @@
       "time": "8:21 am",
       "artist": "Chappell Roan",
       "title": "Red Wine Supernova"
+    },
+    {
+      "time": "8:24 am",
+      "artist": "Al Green",
+      "title": "Call Me (Come Back Home)"
     }
   ],
   "recent": [
+    {
+      "time": "8:12 am",
+      "artist": "Eddie Murphy",
+      "title": "Party All The Time",
+      "album": "How Could It Be • 1985"
+    },
     {
       "time": "8:08 am",
       "artist": "Nirvana.",
@@ -167,12 +173,6 @@
       "artist": "Ke$ha",
       "title": "BlahBlahBlah Feat 3Oh3",
       "album": "Animal • 2010"
-    },
-    {
-      "time": "6:49 am",
-      "artist": "Olivia Rodrigo",
-      "title": "happier",
-      "album": "SOUR • 2021"
     }
   ]
 }
