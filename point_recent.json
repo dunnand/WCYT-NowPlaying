@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T20:26:11",
+  "updatedAt": "2026-11-19T20:26:19",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Dummy",
+    "title": "Full Spectrum Dominance",
+    "album": "do you love the color of the sky? • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:26 pm",
-      "artist": "Dummy",
-      "title": "Full Spectrum Dominance"
-    },
     {
       "time": "8:29 pm",
       "artist": "Julien Baker",
@@ -26,9 +21,20 @@
       "time": "8:38 pm",
       "artist": "Khruangbin",
       "title": "White Gloves ii"
+    },
+    {
+      "time": "8:43 pm",
+      "artist": "untitled (halo)",
+      "title": "how to make your love (stay)"
     }
   ],
   "recent": [
+    {
+      "time": "8:26 pm",
+      "artist": "Dummy",
+      "title": "Full Spectrum Dominance",
+      "album": "do you love the color of the sky? • 2026"
+    },
     {
       "time": "8:22 pm",
       "artist": "Florist",
@@ -150,11 +156,6 @@
       "time": "6:20 pm",
       "artist": "Father John Misty",
       "title": "God's Favorite Customer"
-    },
-    {
-      "time": "6:17 pm",
-      "artist": "Rebounder",
-      "title": "Downtown People"
     }
   ]
 }
