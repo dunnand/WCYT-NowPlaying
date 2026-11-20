@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T17:31:20",
+  "updatedAt": "2026-11-20T17:31:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Simple Twist of Fate",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:31 pm",
-      "artist": "Bob Dylan",
-      "title": "Simple Twist of Fate"
-    },
     {
       "time": "5:35 pm",
       "artist": "The Everly Brothers",
@@ -26,9 +21,20 @@
       "time": "5:44 pm",
       "artist": "Gloria Jones",
       "title": "Tainted Love"
+    },
+    {
+      "time": "5:46 pm",
+      "artist": "Bob Dylan",
+      "title": "You're a Big Girl Now"
     }
   ],
   "recent": [
+    {
+      "time": "5:31 pm",
+      "artist": "Bob Dylan",
+      "title": "Simple Twist of Fate",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "5:25 pm",
       "artist": "Jessie Ware",
@@ -160,11 +166,6 @@
       "time": "3:29 pm",
       "artist": "Desmond Dekker",
       "title": "007 (Shanty Town)"
-    },
-    {
-      "time": "3:22 pm",
-      "artist": "Bob Dylan",
-      "title": "Isis"
     }
   ]
 }
