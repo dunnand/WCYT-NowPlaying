@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T01:01:11",
+  "updatedAt": "2026-11-20T01:05:59",
   "now": {
-    "artist": "ABBA",
-    "title": "The Name of the Game",
-    "album": "ABBA: The Album • 1977",
+    "artist": "Meat Puppets",
+    "title": "Violet Eyes",
+    "album": "Too High To Die • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:05 am",
-      "artist": "Meat Puppets",
-      "title": "Violet Eyes"
-    },
     {
       "time": "1:09 am",
       "artist": "Little Richard and His Band",
@@ -26,9 +21,20 @@
       "time": "1:15 am",
       "artist": "Crystals",
       "title": "Then He Kissed Me"
+    },
+    {
+      "time": "1:18 am",
+      "artist": "The Highwomen",
+      "title": "Highwomen"
     }
   ],
   "recent": [
+    {
+      "time": "1:05 am",
+      "artist": "Meat Puppets",
+      "title": "Violet Eyes",
+      "album": "Too High To Die • 1994"
+    },
     {
       "time": "1:01 am",
       "artist": "ABBA",
@@ -151,11 +157,6 @@
       "time": "10:37 pm",
       "artist": "Lucinda Williams",
       "title": "Car Wheels on a Gravel Road"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "Cerrone",
-      "title": "Supernature"
     }
   ]
 }
