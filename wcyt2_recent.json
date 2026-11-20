@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T09:48:05",
+  "updatedAt": "2026-11-20T09:51:46",
   "now": {
-    "artist": "Justin Bieber",
-    "title": "Beauty And A Beat",
-    "album": "Believe • 2012",
+    "artist": "Nirvana.",
+    "title": "Something in the Way",
+    "album": "Nevermind • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:51 am",
-      "artist": "Nirvana.",
-      "title": "Something in the Way"
-    },
     {
       "time": "9:55 am",
       "artist": "Oasis",
@@ -21,9 +16,20 @@
       "time": "10:00 am",
       "artist": "Adolescents",
       "title": "Amoeba"
+    },
+    {
+      "time": "10:04 am",
+      "artist": "Black Sabbath",
+      "title": "Heaven and Hell"
     }
   ],
   "recent": [
+    {
+      "time": "9:51 am",
+      "artist": "Nirvana.",
+      "title": "Something in the Way",
+      "album": "Nevermind • 1991"
+    },
     {
       "time": "9:48 am",
       "artist": "Justin Bieber",
@@ -167,12 +173,6 @@
       "artist": "Cream",
       "title": "Strange Brew",
       "album": "Disraeli Gears • 1967"
-    },
-    {
-      "time": "8:24 am",
-      "artist": "Al Green",
-      "title": "Call Me (Come Back Home)",
-      "album": "Call Me • 1973"
     }
   ]
 }
