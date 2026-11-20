@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T01:36:20",
+  "updatedAt": "2026-11-20T01:40:22",
   "now": {
-    "artist": "Barry Manilow",
-    "title": "I Made It Through The Rain",
-    "album": "Barry • 1980",
+    "artist": "Arctic Monkeys",
+    "title": "Body Paint",
+    "album": "The Car • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:40 am",
-      "artist": "Arctic Monkeys",
-      "title": "Body Paint"
-    },
     {
       "time": "1:45 am",
       "artist": "Muse",
@@ -26,9 +21,20 @@
       "time": "1:53 am",
       "artist": "My Chemical Romance",
       "title": "Dead!"
+    },
+    {
+      "time": "1:56 am",
+      "artist": "Kendrick Lamar",
+      "title": "DNA."
     }
   ],
   "recent": [
+    {
+      "time": "1:40 am",
+      "artist": "Arctic Monkeys",
+      "title": "Body Paint",
+      "album": "The Car • 2022"
+    },
     {
       "time": "1:36 am",
       "artist": "Barry Manilow",
@@ -160,11 +166,6 @@
       "time": "11:18 pm",
       "artist": "Miley Cyrus",
       "title": "Flowers"
-    },
-    {
-      "time": "11:08 pm",
-      "artist": "Funky 4+1",
-      "title": "That's the Joint"
     }
   ]
 }
