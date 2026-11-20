@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:15:49",
+  "updatedAt": "2026-11-20T02:16:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Maroon 5",
+    "title": "Love Somebody",
+    "album": "HA201314 4 • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:15 am",
-      "artist": "Maroon 5",
-      "title": "Love Somebody"
-    },
     {
       "time": "2:19 am",
       "artist": "Misfits",
@@ -26,9 +21,20 @@
       "time": "2:26 am",
       "artist": "Boston",
       "title": "Amanda"
+    },
+    {
+      "time": "2:30 am",
+      "artist": "Fleetwood Mac",
+      "title": "Hold Me"
     }
   ],
   "recent": [
+    {
+      "time": "2:15 am",
+      "artist": "Maroon 5",
+      "title": "Love Somebody",
+      "album": "HA201314 4 • 2012"
+    },
     {
       "time": "2:10 am",
       "artist": "My Chemical Romance",
@@ -170,11 +176,6 @@
       "time": "12:15 am",
       "artist": "LCD Soundsystem",
       "title": "Home"
-    },
-    {
-      "time": "12:10 am",
-      "artist": "Muse",
-      "title": "Starlight"
     }
   ]
 }
