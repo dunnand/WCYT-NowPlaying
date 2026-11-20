@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T17:18:46",
+  "updatedAt": "2026-11-20T17:23:22",
   "now": {
-    "artist": "Elton John",
-    "title": "I Guess That's Why They Call It The Blues",
-    "album": "Too Low for Zero • 1983",
+    "artist": "Elvis Costello & The Attractions",
+    "title": "High Fidelity",
+    "album": "Get Happy!! • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:23 pm",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "High Fidelity"
-    },
     {
       "time": "5:25 pm",
       "artist": "Jessie Ware",
@@ -21,9 +16,20 @@
       "time": "5:31 pm",
       "artist": "Bob Dylan",
       "title": "Simple Twist of Fate"
+    },
+    {
+      "time": "5:35 pm",
+      "artist": "The Everly Brothers",
+      "title": "Let It Be Me"
     }
   ],
   "recent": [
+    {
+      "time": "5:23 pm",
+      "artist": "Elvis Costello & The Attractions",
+      "title": "High Fidelity",
+      "album": "Get Happy!! • 1980"
+    },
     {
       "time": "5:18 pm",
       "artist": "Elton John",
@@ -153,11 +159,6 @@
       "time": "3:16 pm",
       "artist": "Bob Dylan",
       "title": "False Prophet"
-    },
-    {
-      "time": "3:12 pm",
-      "artist": "Chicago",
-      "title": "Hard Habit To Break"
     }
   ]
 }
