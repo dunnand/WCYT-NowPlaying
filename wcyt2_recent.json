@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:21:32",
+  "updatedAt": "2026-11-20T02:26:19",
   "now": {
-    "artist": "Neil Young",
-    "title": "Harvest Moon",
-    "album": "Harvest Moon • 1992",
+    "artist": "Boston",
+    "title": "Amanda",
+    "album": "Third Stage • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:26 am",
-      "artist": "Boston",
-      "title": "Amanda"
-    },
     {
       "time": "2:30 am",
       "artist": "Fleetwood Mac",
@@ -21,9 +16,20 @@
       "time": "2:34 am",
       "artist": "Christine and the Queens",
       "title": "People, I've been sad"
+    },
+    {
+      "time": "2:38 am",
+      "artist": "Led Zeppelin",
+      "title": "Rock and Roll"
     }
   ],
   "recent": [
+    {
+      "time": "2:26 am",
+      "artist": "Boston",
+      "title": "Amanda",
+      "album": "Third Stage • 1986"
+    },
     {
       "time": "2:21 am",
       "artist": "Neil Young",
@@ -167,12 +173,6 @@
       "artist": "Bruce Channel",
       "title": "Hey! Baby",
       "album": "Hey! Baby • 1962"
-    },
-    {
-      "time": "12:54 am",
-      "artist": "Rolling Stones",
-      "title": "Miss You",
-      "album": "Some Girls • 1978"
     }
   ]
 }
