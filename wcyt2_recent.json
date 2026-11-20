@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T15:32:16",
+  "updatedAt": "2026-11-20T15:32:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Joey",
+    "album": "Desire • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:32 pm",
-      "artist": "Bob Dylan",
-      "title": "Joey"
-    },
     {
       "time": "3:43 pm",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "3:48 pm",
       "artist": "Pearl Jam",
       "title": "Glorified G"
+    },
+    {
+      "time": "3:52 pm",
+      "artist": "Ricky Nelson",
+      "title": "Poor Little Fool"
     }
   ],
   "recent": [
+    {
+      "time": "3:32 pm",
+      "artist": "Bob Dylan",
+      "title": "Joey",
+      "album": "Desire • 1976"
+    },
     {
       "time": "3:29 pm",
       "artist": "Desmond Dekker",
@@ -172,12 +178,6 @@
       "artist": "Bill Withers",
       "title": "Lean on Me",
       "album": "Still Bill • 1972"
-    },
-    {
-      "time": "1:44 pm",
-      "artist": "Elvis Presley",
-      "title": "Are You Lonesome Tonight?",
-      "album": "single • 1960"
     }
   ]
 }
