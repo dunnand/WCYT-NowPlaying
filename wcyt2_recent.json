@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T01:18:31",
+  "updatedAt": "2026-11-20T01:21:54",
   "now": {
-    "artist": "The Highwomen",
-    "title": "Highwomen",
-    "album": "The Highwomen • 2019",
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "album": "Metallica • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:21 am",
-      "artist": "Metallica",
-      "title": "Enter Sandman"
-    },
     {
       "time": "1:27 am",
       "artist": "Metallica",
@@ -21,9 +16,20 @@
       "time": "1:33 am",
       "artist": "Avengers",
       "title": "We Are the One"
+    },
+    {
+      "time": "1:36 am",
+      "artist": "Barry Manilow",
+      "title": "I Made It Through The Rain"
     }
   ],
   "recent": [
+    {
+      "time": "1:21 am",
+      "artist": "Metallica",
+      "title": "Enter Sandman",
+      "album": "Metallica • 1991"
+    },
     {
       "time": "1:18 am",
       "artist": "The Highwomen",
@@ -151,11 +157,6 @@
       "time": "10:56 pm",
       "artist": "Lucinda Williams",
       "title": "Jackson"
-    },
-    {
-      "time": "10:52 pm",
-      "artist": "Jessie J",
-      "title": "Price Tag"
     }
   ]
 }
