@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T07:13:13",
+  "updatedAt": "2026-11-20T07:13:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Nirvana",
+    "title": "Pennyroyal Tea",
+    "album": "In Utero • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:13 am",
-      "artist": "Nirvana",
-      "title": "Pennyroyal Tea"
-    },
     {
       "time": "7:16 am",
       "artist": "Nirvana",
@@ -26,9 +21,20 @@
       "time": "7:22 am",
       "artist": "Talking Heads",
       "title": "Wild Wild Life"
+    },
+    {
+      "time": "7:26 am",
+      "artist": "Lizzo",
+      "title": "Special"
     }
   ],
   "recent": [
+    {
+      "time": "7:13 am",
+      "artist": "Nirvana",
+      "title": "Pennyroyal Tea",
+      "album": "In Utero • 1993"
+    },
     {
       "time": "7:10 am",
       "artist": "Joey Bad",
@@ -172,12 +178,6 @@
       "artist": "The Beach Boys",
       "title": "All I Wanna Do",
       "album": "Sunflower • 1970"
-    },
-    {
-      "time": "5:48 am",
-      "artist": "Olivia Rodrigo",
-      "title": "bad idea right?",
-      "album": "Guts • 2023"
     }
   ]
 }
