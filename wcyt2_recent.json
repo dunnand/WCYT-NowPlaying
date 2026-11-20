@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:07:19",
+  "updatedAt": "2026-11-20T02:10:36",
   "now": {
     "artist": "My Chemical Romance",
-    "title": "Helena",
-    "album": "Three Cheers for Sweet Revenge • 2004",
+    "title": "Welcome to the Black Parade",
+    "album": "The Black Parade • 2006",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:10 am",
-      "artist": "My Chemical Romance",
-      "title": "Welcome to the Black Parade"
-    },
     {
       "time": "2:15 am",
       "artist": "Maroon 5",
@@ -26,9 +21,20 @@
       "time": "2:21 am",
       "artist": "Neil Young",
       "title": "Harvest Moon"
+    },
+    {
+      "time": "2:26 am",
+      "artist": "Boston",
+      "title": "Amanda"
     }
   ],
   "recent": [
+    {
+      "time": "2:10 am",
+      "artist": "My Chemical Romance",
+      "title": "Welcome to the Black Parade",
+      "album": "The Black Parade • 2006"
+    },
     {
       "time": "2:07 am",
       "artist": "My Chemical Romance",
@@ -169,11 +175,6 @@
       "time": "12:10 am",
       "artist": "Muse",
       "title": "Starlight"
-    },
-    {
-      "time": "12:07 am",
-      "artist": "Muse",
-      "title": "Plug In Baby"
     }
   ]
 }
