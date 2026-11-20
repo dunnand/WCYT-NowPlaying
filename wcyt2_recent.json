@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T18:54:15",
+  "updatedAt": "2026-11-20T18:58:27",
   "now": {
     "artist": "Radiohead",
-    "title": "Knives Out",
+    "title": "Life in a Glasshouse",
     "album": "Amnesiac • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:58 pm",
-      "artist": "Radiohead",
-      "title": "Life in a Glasshouse"
-    },
     {
       "time": "7:03 pm",
       "artist": "LCD Soundsystem",
@@ -26,9 +21,20 @@
       "time": "7:13 pm",
       "artist": "Pearl Jam",
       "title": "Yellow Ledbetter"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "George Michael",
+      "title": "Father Figurer"
     }
   ],
   "recent": [
+    {
+      "time": "6:58 pm",
+      "artist": "Radiohead",
+      "title": "Life in a Glasshouse",
+      "album": "Amnesiac • 2001"
+    },
     {
       "time": "6:54 pm",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Jessie Ware",
       "title": "Spotlight",
       "album": "What's Your Pleasure • 2020"
-    },
-    {
-      "time": "5:23 pm",
-      "artist": "Elvis Costello & The Attractions",
-      "title": "High Fidelity",
-      "album": "Get Happy!! • 1980"
     }
   ]
 }
