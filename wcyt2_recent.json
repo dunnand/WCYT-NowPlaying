@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T21:55:49",
+  "updatedAt": "2026-11-19T21:59:42",
   "now": {
-    "artist": "Lucinda Williams",
-    "title": "Sweet Old World",
-    "album": "Sweet Old World • 1992",
+    "artist": "David Bowie",
+    "title": "China Girl",
+    "album": "Lets Dance • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:59 pm",
-      "artist": "David Bowie",
-      "title": "China Girl"
-    },
     {
       "time": "10:05 pm",
       "artist": "Big Black",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:59 pm",
+      "artist": "David Bowie",
+      "title": "China Girl",
+      "album": "Lets Dance • 1983"
+    },
     {
       "time": "9:55 pm",
       "artist": "Lucinda Williams",
@@ -158,11 +159,6 @@
       "time": "8:14 pm",
       "artist": "Grimes",
       "title": "My Name Is Dark"
-    },
-    {
-      "time": "8:12 pm",
-      "artist": "R.E.M.",
-      "title": "Get Up"
     }
   ]
 }
