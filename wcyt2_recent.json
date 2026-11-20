@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-11-20T15:09:16",
+  "updatedAt": "2026-11-20T15:12:21",
   "now": {
-    "artist": "The Cars",
-    "title": "You Might Think",
-    "album": "Heartbeat City • 1984",
+    "artist": "Chicago",
+    "title": "Hard Habit To Break",
+    "album": "Chicago 17 • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:12 pm",
-      "artist": "Chicago",
-      "title": "Hard Habit To Break"
-    },
     {
       "time": "3:17 pm",
       "artist": "Bob Dylan",
       "title": "False Prophet"
     },
     {
-      "time": "3:23 pm",
+      "time": "3:22 pm",
       "artist": "Bob Dylan",
       "title": "Isis"
+    },
+    {
+      "time": "3:29 pm",
+      "artist": "Desmond Dekker",
+      "title": "007 (Shanty Town)"
     }
   ],
   "recent": [
+    {
+      "time": "3:12 pm",
+      "artist": "Chicago",
+      "title": "Hard Habit To Break",
+      "album": "Chicago 17 • 1984"
+    },
     {
       "time": "3:09 pm",
       "artist": "The Cars",
@@ -167,12 +173,6 @@
       "artist": "Big Star",
       "title": "Thirteen",
       "album": "#1 Record • 1972"
-    },
-    {
-      "time": "1:31 pm",
-      "artist": "Billie Eilish",
-      "title": "LUNCH",
-      "album": "Hit Me Hard and Soft • 2024"
     }
   ]
 }
