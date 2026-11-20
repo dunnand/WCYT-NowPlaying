@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T12:02:12",
+  "updatedAt": "2026-11-20T12:02:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Janet Jackson",
+    "title": "Nasty",
+    "album": "Control • 1986",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:02 pm",
-      "artist": "Janet Jackson",
-      "title": "Nasty"
-    },
     {
       "time": "12:06 pm",
       "artist": "Beyonce",
@@ -26,9 +21,20 @@
       "time": "12:14 pm",
       "artist": "Big Star",
       "title": "September Gurls"
+    },
+    {
+      "time": "12:16 pm",
+      "artist": "Radiohead",
+      "title": "2 + 2 = 5 (The Lukewarm.)"
     }
   ],
   "recent": [
+    {
+      "time": "12:02 pm",
+      "artist": "Janet Jackson",
+      "title": "Nasty",
+      "album": "Control • 1986"
+    },
     {
       "time": "11:57 am",
       "artist": "Huey Lewis & The News",
@@ -172,12 +178,6 @@
       "artist": "Aretha Franklin",
       "title": "Rock Steady",
       "album": "Young, Gifted and Black • 1972"
-    },
-    {
-      "time": "10:25 am",
-      "artist": "One Direction",
-      "title": "Kiss You",
-      "album": "Take Me Home • 2012"
     }
   ]
 }
