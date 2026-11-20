@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T21:02:10",
+  "updatedAt": "2026-11-19T21:04:54",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Rusty Cage",
-    "album": "Unchained • 1996",
+    "artist": "The Carpenters",
+    "title": "Touch Me When We're Dancing",
+    "album": "Made in America • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:04 pm",
-      "artist": "The Carpenters",
-      "title": "Touch Me When We're Dancing"
-    },
     {
       "time": "9:08 pm",
       "artist": "Buster Poindexter And His Banshees Of Blue",
@@ -21,9 +16,20 @@
       "time": "9:12 pm",
       "artist": "Little Simz",
       "title": "Introvert"
+    },
+    {
+      "time": "9:18 pm",
+      "artist": "Cat Stevens",
+      "title": "Wild World"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 pm",
+      "artist": "The Carpenters",
+      "title": "Touch Me When We're Dancing",
+      "album": "Made in America • 1981"
+    },
     {
       "time": "9:02 pm",
       "artist": "Johnny Cash",
@@ -155,11 +161,6 @@
       "time": "7:04 pm",
       "artist": "Cheap Trick",
       "title": "Tonight It's You"
-    },
-    {
-      "time": "7:02 pm",
-      "artist": "The Halo Benders",
-      "title": "Your Asterisk"
     }
   ]
 }
