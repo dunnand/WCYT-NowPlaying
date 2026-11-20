@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T00:44:22",
+  "updatedAt": "2026-11-20T00:50:07",
   "now": {
-    "artist": "Rod Stewart",
-    "title": "Every Picture Tells A Story",
-    "album": "Every Picture Tells a Story • 1971",
+    "artist": "Ike and Tina Turner",
+    "title": "River Deep - Mountain High",
+    "album": "River Deep  Mountain High • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:50 am",
-      "artist": "Ike and Tina Turner",
-      "title": "River Deep - Mountain High"
-    },
     {
       "time": "12:54 am",
       "artist": "Rolling Stones",
@@ -26,9 +21,20 @@
       "time": "1:01 am",
       "artist": "ABBA",
       "title": "The Name of the Game"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "Meat Puppets",
+      "title": "Violet Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "12:50 am",
+      "artist": "Ike and Tina Turner",
+      "title": "River Deep - Mountain High",
+      "album": "River Deep  Mountain High • 1966"
+    },
     {
       "time": "12:44 am",
       "artist": "Rod Stewart",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Bliss",
       "album": "Origin of Symmetry • 2001"
-    },
-    {
-      "time": "10:42 pm",
-      "artist": "Dean Martin",
-      "title": "That's Amore",
-      "album": "Dean Martin Sings • 1953"
     }
   ]
 }
