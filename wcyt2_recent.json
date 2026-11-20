@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T16:56:40",
+  "updatedAt": "2026-11-20T16:56:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Idioteque",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:56 pm",
-      "artist": "Radiohead",
-      "title": "Idioteque"
-    },
     {
       "time": "5:01 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "5:09 pm",
       "artist": "Pearl Jam",
       "title": "Indifference"
+    },
+    {
+      "time": "5:13 pm",
+      "artist": "Pearl Jam",
+      "title": "Jeremy"
     }
   ],
   "recent": [
+    {
+      "time": "4:56 pm",
+      "artist": "Radiohead",
+      "title": "Idioteque",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "4:49 pm",
       "artist": "LCD Soundsystem",
@@ -152,11 +158,6 @@
       "time": "2:48 pm",
       "artist": "Radiohead",
       "title": "How to Disappear Completely"
-    },
-    {
-      "time": "2:43 pm",
-      "artist": "Radiohead",
-      "title": "House of Cards"
     }
   ]
 }
