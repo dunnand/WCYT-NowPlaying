@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T00:54:01",
+  "updatedAt": "2026-11-20T00:54:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Rolling Stones",
+    "title": "Miss You",
+    "album": "Some Girls • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:54 am",
-      "artist": "Rolling Stones",
-      "title": "Miss You"
-    },
     {
       "time": "12:59 am",
       "artist": "Bruce Channel",
@@ -31,9 +26,20 @@
       "time": "1:09 am",
       "artist": "Little Richard and His Band",
       "title": "Ready Teddy"
+    },
+    {
+      "time": "1:12 am",
+      "artist": "Muse",
+      "title": "Time Is Running Out"
     }
   ],
   "recent": [
+    {
+      "time": "12:54 am",
+      "artist": "Rolling Stones",
+      "title": "Miss You",
+      "album": "Some Girls • 1978"
+    },
     {
       "time": "12:22 am",
       "artist": "Massive Attack",
@@ -153,11 +159,6 @@
       "time": "10:20 pm",
       "artist": "M.I.A.",
       "title": "Paper Planes"
-    },
-    {
-      "time": "10:17 pm",
-      "artist": "Buckingham Nicks",
-      "title": "Crying in the Night"
     }
   ]
 }
