@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T11:20:35",
+  "updatedAt": "2026-11-20T11:20:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "Jive Talkin'",
+    "album": "Main Course • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:20 am",
-      "artist": "Bee Gees",
-      "title": "Jive Talkin'"
-    },
     {
       "time": "11:24 am",
       "artist": "Dionne Warwick",
@@ -31,9 +26,20 @@
       "time": "11:36 am",
       "artist": "Platters",
       "title": "Twilight Time"
+    },
+    {
+      "time": "11:39 am",
+      "artist": "Public Enemy",
+      "title": "Harder Than You Think"
     }
   ],
   "recent": [
+    {
+      "time": "11:20 am",
+      "artist": "Bee Gees",
+      "title": "Jive Talkin'",
+      "album": "Main Course • 1975"
+    },
     {
       "time": "11:17 am",
       "artist": "Howlin' Wolf",
@@ -169,11 +175,6 @@
       "time": "9:27 am",
       "artist": "Glen Campbell",
       "title": "Gentle On My Mind"
-    },
-    {
-      "time": "9:25 am",
-      "artist": "Al Green",
-      "title": "Tired of Being Alone"
     }
   ]
 }
