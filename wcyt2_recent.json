@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T07:46:46",
+  "updatedAt": "2026-11-20T07:50:22",
   "now": {
-    "artist": "Nirvana",
-    "title": "The Man Who Sold the World",
-    "album": "Unplugged In New York • 1993",
+    "artist": "Gotye",
+    "title": "Somebody That I Used To Know",
+    "album": "Making Mirrors • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "Gotye",
-      "title": "Somebody That I Used To Know"
-    },
     {
       "time": "7:54 am",
       "artist": "OutKast",
@@ -21,9 +16,20 @@
       "time": "7:58 am",
       "artist": "OutKast",
       "title": "Ms. Jackson"
+    },
+    {
+      "time": "8:02 am",
+      "artist": "Imagine Dragons",
+      "title": "Radioactive"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "Gotye",
+      "title": "Somebody That I Used To Know",
+      "album": "Making Mirrors • 2011"
+    },
     {
       "time": "7:46 am",
       "artist": "Nirvana",
@@ -167,12 +173,6 @@
       "artist": "Eddie Money",
       "title": "Take Me Home Tonight",
       "album": "Can't Hold Back • 1986"
-    },
-    {
-      "time": "6:27 am",
-      "artist": "Nirvana",
-      "title": "Heart-Shaped Box",
-      "album": "In Utero • 1993"
     }
   ]
 }
