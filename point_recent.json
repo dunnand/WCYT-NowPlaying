@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T03:53:48",
+  "updatedAt": "2026-11-20T03:53:59",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Radiohead",
+    "title": "Lift",
+    "album": "Single •",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:53 am",
-      "artist": "Radiohead",
-      "title": "Lift"
-    },
     {
       "time": "3:57 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:06 am",
       "artist": "Land of Talk",
       "title": "Dogs"
+    },
+    {
+      "time": "4:10 am",
+      "artist": "Wild Pink",
+      "title": "Round Of Applause At The End Of The World"
     }
   ],
   "recent": [
+    {
+      "time": "3:53 am",
+      "artist": "Radiohead",
+      "title": "Lift",
+      "album": "Single •"
+    },
     {
       "time": "3:49 am",
       "artist": "Alabama Shakes",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Blackbird Chain",
       "album": "Morning Phase • 2014"
-    },
-    {
-      "time": "2:18 am",
-      "artist": "The National",
-      "title": "Conversation 16",
-      "album": "High Violet • 2011"
     }
   ]
 }
