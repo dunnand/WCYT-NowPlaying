@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T18:27:39",
+  "updatedAt": "2026-11-20T18:30:22",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "You're Gonna Make Me Lonesome When You Go",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "Bob Dylan & The Band",
+    "title": "This Wheel's on Fire",
+    "album": "This Wheel's on Fire • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:30 pm",
-      "artist": "Bob Dylan & The Band",
-      "title": "This Wheel's on Fire"
-    },
     {
       "time": "6:34 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "6:41 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "Bend Down Low"
+    },
+    {
+      "time": "6:44 pm",
+      "artist": "Pearl Jam",
+      "title": "Present Tense"
     }
   ],
   "recent": [
+    {
+      "time": "6:30 pm",
+      "artist": "Bob Dylan & The Band",
+      "title": "This Wheel's on Fire",
+      "album": "This Wheel's on Fire • 1975"
+    },
     {
       "time": "6:27 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Idioteque",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "4:49 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Call the Police",
-      "album": "American Dream • 2017"
     }
   ]
 }
