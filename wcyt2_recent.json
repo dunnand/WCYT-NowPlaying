@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T15:54:39",
+  "updatedAt": "2026-11-20T15:59:33",
   "now": {
-    "artist": "Radiohead",
-    "title": "I Might Be Wrong",
-    "album": "Amnesiac • 2001",
+    "artist": "James Brown",
+    "title": "Out Of Sight",
+    "album": "Out Of Sight • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 pm",
-      "artist": "James Brown",
-      "title": "Out Of Sight"
-    },
     {
       "time": "4:01 pm",
       "artist": "Jessie J",
@@ -21,9 +16,20 @@
       "time": "4:05 pm",
       "artist": "Pearl Jam",
       "title": "Hail, Hail"
+    },
+    {
+      "time": "4:09 pm",
+      "artist": "Pearl Jam",
+      "title": "Immortality"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 pm",
+      "artist": "James Brown",
+      "title": "Out Of Sight",
+      "album": "Out Of Sight • 1964"
+    },
     {
       "time": "3:54 pm",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Pearl Jam",
       "title": "Black",
       "album": "Ten • 1991"
-    },
-    {
-      "time": "2:08 pm",
-      "artist": "LCD Soundsystem",
-      "title": "American Dream",
-      "album": "American Dream • 2017"
     }
   ]
 }
