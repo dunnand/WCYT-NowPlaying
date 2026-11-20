@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:38:53",
+  "updatedAt": "2026-11-20T02:42:27",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Rock and Roll",
-    "album": "Led Zeppelin IV • 1971",
+    "artist": "Herman's Hermits",
+    "title": "I'm Henry The VIII, I Am",
+    "album": "Herman's Hermits • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 am",
-      "artist": "Herman's Hermits",
-      "title": "I'm Henry The VIII, I Am"
-    },
     {
       "time": "2:44 am",
       "artist": "Bauhaus",
@@ -26,9 +21,20 @@
       "time": "2:56 am",
       "artist": "Average",
       "title": "White-Band - Pick up the Pieces"
+    },
+    {
+      "time": "3:00 am",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "Do You Love Me?"
     }
   ],
   "recent": [
+    {
+      "time": "2:42 am",
+      "artist": "Herman's Hermits",
+      "title": "I'm Henry The VIII, I Am",
+      "album": "Herman's Hermits • 1965"
+    },
     {
       "time": "2:38 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Muse",
       "title": "Time Is Running Out",
       "album": "Absolution • 2003"
-    },
-    {
-      "time": "1:09 am",
-      "artist": "Little Richard and His Band",
-      "title": "Ready Teddy",
-      "album": "Heres Little Richard • 1957"
     }
   ]
 }
