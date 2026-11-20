@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T01:35:58",
+  "updatedAt": "2026-11-20T01:36:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barry Manilow",
+    "title": "I Made It Through The Rain",
+    "album": "Barry • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:36 am",
-      "artist": "Barry Manilow",
-      "title": "I Made It Through The Rain"
-    },
     {
       "time": "1:40 am",
       "artist": "Arctic Monkeys",
@@ -26,9 +21,20 @@
       "time": "1:50 am",
       "artist": "James Taylor",
       "title": "Country Road"
+    },
+    {
+      "time": "1:53 am",
+      "artist": "My Chemical Romance",
+      "title": "Dead!"
     }
   ],
   "recent": [
+    {
+      "time": "1:36 am",
+      "artist": "Barry Manilow",
+      "title": "I Made It Through The Rain",
+      "album": "Barry • 1980"
+    },
     {
       "time": "1:33 am",
       "artist": "Avengers",
@@ -159,11 +165,6 @@
       "time": "11:08 pm",
       "artist": "Funky 4+1",
       "title": "That's the Joint"
-    },
-    {
-      "time": "11:04 pm",
-      "artist": "Frida",
-      "title": "I Know There's Something Going On"
     }
   ]
 }
