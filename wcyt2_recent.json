@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T17:13:31",
+  "updatedAt": "2026-11-20T17:18:46",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Jeremy",
-    "album": "Ten • 1991",
+    "artist": "Elton John",
+    "title": "I Guess That's Why They Call It The Blues",
+    "album": "Too Low for Zero • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:18 pm",
-      "artist": "Elton John",
-      "title": "I Guess That's Why They Call It The Blues"
-    },
     {
       "time": "5:23 pm",
       "artist": "Elvis Costello & The Attractions",
@@ -21,9 +16,20 @@
       "time": "5:25 pm",
       "artist": "Jessie Ware",
       "title": "Spotlight"
+    },
+    {
+      "time": "5:31 pm",
+      "artist": "Bob Dylan",
+      "title": "Simple Twist of Fate"
     }
   ],
   "recent": [
+    {
+      "time": "5:18 pm",
+      "artist": "Elton John",
+      "title": "I Guess That's Why They Call It The Blues",
+      "album": "Too Low for Zero • 1983"
+    },
     {
       "time": "5:13 pm",
       "artist": "Pearl Jam",
@@ -152,11 +158,6 @@
       "time": "3:12 pm",
       "artist": "Chicago",
       "title": "Hard Habit To Break"
-    },
-    {
-      "time": "3:09 pm",
-      "artist": "The Cars",
-      "title": "You Might Think"
     }
   ]
 }
