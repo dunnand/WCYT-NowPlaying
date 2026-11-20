@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T10:20:29",
+  "updatedAt": "2026-11-20T10:25:28",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Light Years",
-    "album": "Binaural • 2000",
+    "artist": "One Direction",
+    "title": "Kiss You",
+    "album": "Take Me Home • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:25 am",
-      "artist": "One Direction",
-      "title": "Kiss You"
-    },
     {
       "time": "10:28 am",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "10:36 am",
       "artist": "Pink",
       "title": "Try"
+    },
+    {
+      "time": "10:40 am",
+      "artist": "Pearl Jam",
+      "title": "World Wide Suicide"
     }
   ],
   "recent": [
+    {
+      "time": "10:25 am",
+      "artist": "One Direction",
+      "title": "Kiss You",
+      "album": "Take Me Home • 2012"
+    },
     {
       "time": "10:20 am",
       "artist": "Pearl Jam",
@@ -150,11 +156,6 @@
       "time": "8:37 am",
       "artist": "Al Green",
       "title": "Let's Stay Together"
-    },
-    {
-      "time": "8:33 am",
-      "artist": "Bobbie Gentry",
-      "title": "Ode To Billie Joe"
     }
   ]
 }
