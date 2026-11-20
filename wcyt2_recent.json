@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:19:39",
+  "updatedAt": "2026-11-20T02:21:32",
   "now": {
-    "artist": "Misfits",
-    "title": "Last Caress",
-    "album": "Static Age • 1997",
+    "artist": "Neil Young",
+    "title": "Harvest Moon",
+    "album": "Harvest Moon • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:21 am",
-      "artist": "Neil Young",
-      "title": "Harvest Moon"
-    },
     {
       "time": "2:26 am",
       "artist": "Boston",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:21 am",
+      "artist": "Neil Young",
+      "title": "Harvest Moon",
+      "album": "Harvest Moon • 1992"
+    },
     {
       "time": "2:19 am",
       "artist": "Misfits",
@@ -172,11 +173,6 @@
       "artist": "Rolling Stones",
       "title": "Miss You",
       "album": "Some Girls • 1978"
-    },
-    {
-      "time": "12:22 am",
-      "artist": "Massive Attack",
-      "title": "Unfinished Sympathy"
     }
   ]
 }
