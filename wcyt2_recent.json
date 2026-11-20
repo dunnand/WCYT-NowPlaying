@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T22:11:22",
+  "updatedAt": "2026-11-19T22:14:06",
   "now": {
-    "artist": "John Prine",
-    "title": "I Remember Everything",
-    "album": "I Remeber Everything • 2020",
+    "artist": "M.I.A.",
+    "title": "Jimmy",
+    "album": "Kala • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:14 pm",
-      "artist": "M.I.A.",
-      "title": "Jimmy"
-    },
     {
       "time": "10:17 pm",
       "artist": "Buckingham Nicks",
@@ -26,9 +21,20 @@
       "time": "10:24 pm",
       "artist": "Maroon 5",
       "title": "Moves Like Jagger feat. Christina Aguilera"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "Cerrone",
+      "title": "Supernature"
     }
   ],
   "recent": [
+    {
+      "time": "10:14 pm",
+      "artist": "M.I.A.",
+      "title": "Jimmy",
+      "album": "Kala • 2007"
+    },
     {
       "time": "10:11 pm",
       "artist": "John Prine",
@@ -161,11 +167,6 @@
       "time": "8:32 pm",
       "artist": "Lucinda Williams",
       "title": "Fruits of My Labor"
-    },
-    {
-      "time": "8:24 pm",
-      "artist": "Bob Dylan",
-      "title": "Idiot Wind"
     }
   ]
 }
