@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T01:53:26",
+  "updatedAt": "2026-11-20T01:56:32",
   "now": {
-    "artist": "My Chemical Romance",
-    "title": "Dead!",
-    "album": "The Black Parade • 2006",
+    "artist": "Kendrick Lamar",
+    "title": "DNA.",
+    "album": "Single • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "Kendrick Lamar",
-      "title": "DNA."
-    },
     {
       "time": "1:59 am",
       "artist": "Ramones",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "Katy Perry",
       "title": "Part of Me"
+    },
+    {
+      "time": "2:07 am",
+      "artist": "My Chemical Romance",
+      "title": "Helena"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "Kendrick Lamar",
+      "title": "DNA.",
+      "album": "Single • 2017"
+    },
     {
       "time": "1:53 am",
       "artist": "My Chemical Romance",
@@ -164,11 +170,6 @@
       "time": "11:35 pm",
       "artist": "Blood, Sweat & Tears",
       "title": "Spinning Wheel"
-    },
-    {
-      "time": "11:29 pm",
-      "artist": "Muse",
-      "title": "Knights of Cydonia"
     }
   ]
 }
