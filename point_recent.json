@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T06:13:51",
+  "updatedAt": "2026-11-20T06:17:14",
   "now": {
-    "artist": "Beach House",
-    "title": "Dark Spring",
-    "album": "7 • 2018",
+    "artist": "Blur",
+    "title": "Song 2",
+    "album": "Blur • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:17 am",
-      "artist": "Blur",
-      "title": "Song 2"
-    },
     {
       "time": "6:19 am",
       "artist": "Young Jesus",
@@ -26,9 +21,20 @@
       "time": "6:26 am",
       "artist": "Superchunk",
       "title": "The First Part"
+    },
+    {
+      "time": "6:30 am",
+      "artist": "Phoebe Bridgers",
+      "title": "I Can't Wait"
     }
   ],
   "recent": [
+    {
+      "time": "6:17 am",
+      "artist": "Blur",
+      "title": "Song 2",
+      "album": "Blur • 1997"
+    },
     {
       "time": "6:13 am",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "feeble little horse",
       "title": "Dior",
       "album": "bitknot • 2026"
-    },
-    {
-      "time": "4:42 am",
-      "artist": "Deafheaven",
-      "title": "Shellstar",
-      "album": "Infinite Granite • 2021"
     }
   ]
 }
