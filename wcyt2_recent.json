@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T15:05:20",
+  "updatedAt": "2026-11-20T15:09:16",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "Given to Fly",
-    "album": "Yield • 1998",
+    "artist": "The Cars",
+    "title": "You Might Think",
+    "album": "Heartbeat City • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:09 pm",
-      "artist": "The Cars",
-      "title": "You Might Think"
-    },
     {
       "time": "3:12 pm",
       "artist": "Chicago",
@@ -21,9 +16,20 @@
       "time": "3:17 pm",
       "artist": "Bob Dylan",
       "title": "False Prophet"
+    },
+    {
+      "time": "3:23 pm",
+      "artist": "Bob Dylan",
+      "title": "Isis"
     }
   ],
   "recent": [
+    {
+      "time": "3:09 pm",
+      "artist": "The Cars",
+      "title": "You Might Think",
+      "album": "Heartbeat City • 1984"
+    },
     {
       "time": "3:05 pm",
       "artist": "Pearl Jam",
@@ -167,12 +173,6 @@
       "artist": "Billie Eilish",
       "title": "LUNCH",
       "album": "Hit Me Hard and Soft • 2024"
-    },
-    {
-      "time": "1:25 pm",
-      "artist": "Sonic Youth",
-      "title": "Death Valley '69 (feat. Lydia Lunch)",
-      "album": "Bad Moon Rising • 1985"
     }
   ]
 }
