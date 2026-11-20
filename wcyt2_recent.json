@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:30:23",
+  "updatedAt": "2026-11-20T02:30:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Hold Me",
+    "album": "Mirage • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:30 am",
-      "artist": "Fleetwood Mac",
-      "title": "Hold Me"
-    },
     {
       "time": "2:34 am",
       "artist": "Christine and the Queens",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:30 am",
+      "artist": "Fleetwood Mac",
+      "title": "Hold Me",
+      "album": "Mirage • 1982"
+    },
     {
       "time": "2:26 am",
       "artist": "Boston",
@@ -172,12 +173,6 @@
       "artist": "ABBA",
       "title": "The Name of the Game",
       "album": "ABBA: The Album • 1977"
-    },
-    {
-      "time": "12:58 am",
-      "artist": "Bruce Channel",
-      "title": "Hey! Baby",
-      "album": "Hey! Baby • 1962"
     }
   ]
 }
