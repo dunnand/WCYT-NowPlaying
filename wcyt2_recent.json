@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T10:31:33",
+  "updatedAt": "2026-11-20T10:36:04",
   "now": {
-    "artist": "Oasis",
-    "title": "Live Forever",
-    "album": "Definitely Maybe • 1994",
+    "artist": "Pink",
+    "title": "Try",
+    "album": "The Truth About Love • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:36 am",
-      "artist": "Pink",
-      "title": "Try"
-    },
     {
       "time": "10:40 am",
       "artist": "Pearl Jam",
@@ -21,9 +16,20 @@
       "time": "10:43 am",
       "artist": "Prince",
       "title": "Musicology"
+    },
+    {
+      "time": "10:48 am",
+      "artist": "Post Malone",
+      "title": "Sunflower"
     }
   ],
   "recent": [
+    {
+      "time": "10:36 am",
+      "artist": "Pink",
+      "title": "Try",
+      "album": "The Truth About Love • 2012"
+    },
     {
       "time": "10:31 am",
       "artist": "Oasis",
@@ -148,11 +154,6 @@
       "time": "8:49 am",
       "artist": "OutKast",
       "title": "The Way You Move"
-    },
-    {
-      "time": "8:44 am",
-      "artist": "Justin Timberlake",
-      "title": "Mirrors"
     }
   ]
 }
