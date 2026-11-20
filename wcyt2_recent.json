@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T03:43:59",
+  "updatedAt": "2026-11-20T03:47:13",
   "now": {
-    "artist": "Bee Gees",
-    "title": "Night Fever",
-    "album": "Saturday Night Fever • 1978",
+    "artist": "Doobie Brothers",
+    "title": "Jesus Is Just Alright",
+    "album": "Toulouse Street • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:47 am",
-      "artist": "Doobie Brothers",
-      "title": "Jesus Is Just Alright"
-    },
     {
       "time": "3:52 am",
       "artist": "Nick Cave and the Bad Seeds",
@@ -26,9 +21,20 @@
       "time": "3:59 am",
       "artist": "The Who",
       "title": "Behind Blue Eyes"
+    },
+    {
+      "time": "4:03 am",
+      "artist": "Nick Cave and the Bad Seeds",
+      "title": "Into My Arms"
     }
   ],
   "recent": [
+    {
+      "time": "3:47 am",
+      "artist": "Doobie Brothers",
+      "title": "Jesus Is Just Alright",
+      "album": "Toulouse Street • 1972"
+    },
     {
       "time": "3:43 am",
       "artist": "Bee Gees",
@@ -172,12 +178,6 @@
       "artist": "My Chemical Romance",
       "title": "Helena",
       "album": "Three Cheers for Sweet Revenge • 2004"
-    },
-    {
-      "time": "2:03 am",
-      "artist": "Katy Perry",
-      "title": "Part of Me",
-      "album": "Teenage Dream: The Complete Confection • 2012"
     }
   ]
 }
