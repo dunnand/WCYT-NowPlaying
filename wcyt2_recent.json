@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T16:46:03",
+  "updatedAt": "2026-11-20T16:49:53",
   "now": {
-    "artist": "Pearl Jam",
-    "title": "In My Tree",
-    "album": "No Code • 1996",
-    "category": "AUDIO"
+    "artist": "LCD Soundsystem",
+    "title": "Call the Police",
+    "album": "American Dream • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:49 pm",
-      "artist": "LCD Soundsystem",
-      "title": "Call the Police"
-    },
     {
       "time": "4:56 pm",
       "artist": "Radiohead",
@@ -21,9 +16,20 @@
       "time": "5:02 pm",
       "artist": "Radiohead",
       "title": "In Limbo"
+    },
+    {
+      "time": "5:05 pm",
+      "artist": "John Prine",
+      "title": "Summer's End"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 pm",
+      "artist": "LCD Soundsystem",
+      "title": "Call the Police",
+      "album": "American Dream • 2017"
+    },
     {
       "time": "4:46 pm",
       "artist": "Pearl Jam",
@@ -146,11 +152,6 @@
       "time": "2:43 pm",
       "artist": "Radiohead",
       "title": "House of Cards"
-    },
-    {
-      "time": "2:39 pm",
-      "artist": "Qt",
-      "title": "Hey QT"
     }
   ]
 }
