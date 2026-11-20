@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T03:43:48",
+  "updatedAt": "2026-11-20T03:43:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "Night Fever",
+    "album": "Saturday Night Fever • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:43 am",
-      "artist": "Bee Gees",
-      "title": "Night Fever"
-    },
     {
       "time": "3:47 am",
       "artist": "Doobie Brothers",
@@ -26,9 +21,20 @@
       "time": "3:57 am",
       "artist": "Diana Ross & The Supremes",
       "title": "Where Did Our Love Go"
+    },
+    {
+      "time": "3:59 am",
+      "artist": "The Who",
+      "title": "Behind Blue Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "3:43 am",
+      "artist": "Bee Gees",
+      "title": "Night Fever",
+      "album": "Saturday Night Fever • 1978"
+    },
     {
       "time": "3:40 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "Katy Perry",
       "title": "Part of Me",
       "album": "Teenage Dream: The Complete Confection • 2012"
-    },
-    {
-      "time": "2:01 am",
-      "artist": "Misfits",
-      "title": "Hybrid Moments",
-      "album": "Static Age • 1997"
     }
   ]
 }
