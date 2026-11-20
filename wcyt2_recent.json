@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T17:38:18",
+  "updatedAt": "2026-11-20T17:44:01",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Tangled Up in Blue",
-    "album": "Blood on the Tracks • 1975",
+    "artist": "Gloria Jones",
+    "title": "Tainted Love",
+    "album": "single • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "Gloria Jones",
-      "title": "Tainted Love"
-    },
     {
       "time": "5:46 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "5:54 pm",
       "artist": "Buddy Holly",
       "title": "Peggy Sue"
+    },
+    {
+      "time": "5:56 pm",
+      "artist": "Radiohead",
+      "title": "Jigsaw Falling Into Place"
     }
   ],
   "recent": [
+    {
+      "time": "5:43 pm",
+      "artist": "Gloria Jones",
+      "title": "Tainted Love",
+      "album": "single • 1965"
+    },
     {
       "time": "5:38 pm",
       "artist": "Bob Dylan",
@@ -163,11 +169,6 @@
       "time": "3:46 pm",
       "artist": "Bob Dylan",
       "title": "Knockin' on Heaven's Door"
-    },
-    {
-      "time": "3:43 pm",
-      "artist": "Aretha Franklin",
-      "title": "I Never Loved a Man (The Way I Love You)"
     }
   ]
 }
