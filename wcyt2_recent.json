@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T14:30:56",
+  "updatedAt": "2026-11-20T14:33:51",
   "now": {
-    "artist": "Lizzo",
-    "title": "Truth Hurts",
-    "album": "Cuz I Love You • 2019",
+    "artist": "Bob Dylan",
+    "title": "If Not For You",
+    "album": "New Morning • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:33 pm",
-      "artist": "Bob Dylan",
-      "title": "If Not For You"
-    },
     {
       "time": "2:36 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "2:43 pm",
       "artist": "Radiohead",
       "title": "House of Cards"
+    },
+    {
+      "time": "2:49 pm",
+      "artist": "Radiohead",
+      "title": "How to Disappear Completely"
     }
   ],
   "recent": [
+    {
+      "time": "2:33 pm",
+      "artist": "Bob Dylan",
+      "title": "If Not For You",
+      "album": "New Morning • 1970"
+    },
     {
       "time": "2:30 pm",
       "artist": "Lizzo",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "Wake Up Little Susie",
       "album": "The Everly Brothers • 1958"
-    },
-    {
-      "time": "12:27 pm",
-      "artist": "Paul Simon",
-      "title": "The Obvious Child",
-      "album": "The Rhythm of the Saints • 1990"
     }
   ]
 }
