@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T13:44:06",
+  "updatedAt": "2026-11-20T13:47:07",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Are You Lonesome Tonight?",
-    "album": "single • 1960",
+    "artist": "Bill Withers",
+    "title": "Lean on Me",
+    "album": "Still Bill • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:47 pm",
-      "artist": "Bill Withers",
-      "title": "Lean on Me"
-    },
     {
       "time": "1:51 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "1:59 pm",
       "artist": "Radiohead",
       "title": "Bodysnatchers"
+    },
+    {
+      "time": "2:03 pm",
+      "artist": "Radiohead",
+      "title": "Dollars and Cents"
     }
   ],
   "recent": [
+    {
+      "time": "1:47 pm",
+      "artist": "Bill Withers",
+      "title": "Lean on Me",
+      "album": "Still Bill • 1972"
+    },
     {
       "time": "1:44 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Paul McCartney",
       "title": "Calico Skies",
       "album": "Flaming Pie • 1997"
-    },
-    {
-      "time": "11:45 am",
-      "artist": "Nicki Minaj",
-      "title": "Starships",
-      "album": "Pink Friday: Roman Reloaded • 2012"
     }
   ]
 }
