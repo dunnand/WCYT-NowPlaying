@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T07:01:28",
+  "updatedAt": "2026-11-20T07:01:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Johnny Cash",
+    "title": "I Walk The Line",
+    "album": "I Walk The Line • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:01 am",
-      "artist": "Johnny Cash",
-      "title": "I Walk The Line"
-    },
     {
       "time": "7:04 am",
       "artist": "Olivia Rodrigo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:01 am",
+      "artist": "Johnny Cash",
+      "title": "I Walk The Line",
+      "album": "I Walk The Line • 1956"
+    },
     {
       "time": "6:57 am",
       "artist": "Nirvana",
@@ -172,12 +173,6 @@
       "artist": "Donna Summer",
       "title": "State of Independence",
       "album": "Donna Summer • 1982"
-    },
-    {
-      "time": "5:25 am",
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "Red Right Hand",
-      "album": "Let Love In • 1994"
     }
   ]
 }
