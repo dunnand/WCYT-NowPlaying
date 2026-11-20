@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-19T20:36:56",
+  "updatedAt": "2026-11-19T20:39:17",
   "now": {
-    "artist": "The Everly Brothers",
-    "title": "Cathy's Clown",
-    "album": "A Date with the Everly Brothers • 1960",
+    "artist": "Queen",
+    "title": "Killer Queen",
+    "album": "Sheer Heart Attack • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:39 pm",
-      "artist": "Queen",
-      "title": "Killer Queen"
-    },
     {
       "time": "8:42 pm",
       "artist": "Hole",
@@ -26,9 +21,20 @@
       "time": "8:48 pm",
       "artist": "M.I.A.",
       "title": "Bird Flu"
+    },
+    {
+      "time": "8:51 pm",
+      "artist": "M.I.A.",
+      "title": "Boys"
     }
   ],
   "recent": [
+    {
+      "time": "8:39 pm",
+      "artist": "Queen",
+      "title": "Killer Queen",
+      "album": "Sheer Heart Attack • 1975"
+    },
     {
       "time": "8:36 pm",
       "artist": "The Everly Brothers",
@@ -152,11 +158,6 @@
       "time": "6:32 pm",
       "artist": "Elton John",
       "title": "Crocodile Rock"
-    },
-    {
-      "time": "6:29 pm",
-      "artist": "Diana Ross & The Supremes",
-      "title": "Love Child"
     }
   ]
 }
