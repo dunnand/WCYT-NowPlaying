@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:49:03",
+  "updatedAt": "2026-11-20T21:56:20",
   "now": {
-    "artist": "Prince",
-    "title": "Gold",
-    "album": "The Gold Experience • 1995",
+    "artist": "Carl Perkins",
+    "title": "Blue Suede Shoes",
+    "album": "Dance Album of Carl Perkins • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 pm",
-      "artist": "Carl Perkins",
-      "title": "Blue Suede Shoes"
-    },
     {
       "time": "9:58 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "10:07 pm",
       "artist": "Pitbull",
       "title": "Feel This Moment"
+    },
+    {
+      "time": "10:10 pm",
+      "artist": "Prince",
+      "title": "Nothing Compares 2 U"
     }
   ],
   "recent": [
+    {
+      "time": "9:56 pm",
+      "artist": "Carl Perkins",
+      "title": "Blue Suede Shoes",
+      "album": "Dance Album of Carl Perkins • 1957"
+    },
     {
       "time": "9:49 pm",
       "artist": "Prince",
@@ -172,12 +178,6 @@
       "artist": "Jackson Browne",
       "title": "Somebody's Baby",
       "album": "Fast Times at Ridgemont High Soundtrack • 1982"
-    },
-    {
-      "time": "8:17 pm",
-      "artist": "Pixies",
-      "title": "Hey",
-      "album": "Doolittle • 1999"
     }
   ]
 }
