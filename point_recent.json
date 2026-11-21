@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T00:16:35",
+  "updatedAt": "2026-11-21T00:16:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Girls",
+    "title": "Laura",
+    "album": "Album • 2009",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:16 am",
-      "artist": "Girls",
-      "title": "Laura"
-    },
     {
       "time": "12:21 am",
       "artist": "2nd Grade",
@@ -26,9 +21,20 @@
       "time": "12:28 am",
       "artist": "Mike D",
       "title": "Switch Up"
+    },
+    {
+      "time": "12:31 am",
+      "artist": "Waxahatchee",
+      "title": "Where's Your Love Now"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 am",
+      "artist": "Girls",
+      "title": "Laura",
+      "album": "Album • 2009"
+    },
     {
       "time": "12:13 am",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Sharp Pins",
       "title": "Saturday Sun",
       "album": "Electric My Icebox • 2027"
-    },
-    {
-      "time": "10:48 pm",
-      "artist": "Ok Cowgirl",
-      "title": "Cruise the Town",
-      "album": "Rhinestone Cowgirl • 2026"
     }
   ]
 }
