@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T08:36:42",
+  "updatedAt": "2026-11-21T08:38:55",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Wouldn't It Be Nice",
-    "album": "Pet Sounds • 1966",
+    "artist": "Buzzcocks",
+    "title": "Autonomy",
+    "album": "Another Music In A Different Kitchen • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:38 am",
-      "artist": "Buzzcocks",
-      "title": "Autonomy"
-    },
     {
       "time": "8:42 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "8:50 am",
       "artist": "R.E.M.",
       "title": "All the Way to Reno (You're Gonna Be a Star)"
+    },
+    {
+      "time": "8:55 am",
+      "artist": "Arthur Conley",
+      "title": "Sweet Soul Music"
     }
   ],
   "recent": [
+    {
+      "time": "8:38 am",
+      "artist": "Buzzcocks",
+      "title": "Autonomy",
+      "album": "Another Music In A Different Kitchen • 1978"
+    },
     {
       "time": "8:36 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Planet Telex",
       "album": "The Bends • 1995"
-    },
-    {
-      "time": "6:54 am",
-      "artist": "Taylor Swift",
-      "title": "Bad Blood",
-      "album": "1989 • 2014"
     }
   ]
 }
