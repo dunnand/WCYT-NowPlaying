@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T01:52:17",
+  "updatedAt": "2026-11-21T01:56:59",
   "now": {
-    "artist": "Radiohead",
-    "title": "Airbag",
-    "album": "OK Computer • 1997",
+    "artist": "Eddie Cochran",
+    "title": "C'mon Everybody",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:56 am",
-      "artist": "Eddie Cochran",
-      "title": "C'mon Everybody"
-    },
     {
       "time": "1:58 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "2:07 am",
       "artist": "Maggie Rogers",
       "title": "Alaska"
+    },
+    {
+      "time": "2:10 am",
+      "artist": "Radiohead",
+      "title": "Black Star"
     }
   ],
   "recent": [
+    {
+      "time": "1:56 am",
+      "artist": "Eddie Cochran",
+      "title": "C'mon Everybody",
+      "album": "single • 1958"
+    },
     {
       "time": "1:52 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "Madness",
       "title": "Baggy Trousers",
       "album": "Absolutely • 1980"
-    },
-    {
-      "time": "12:19 am",
-      "artist": "Public Enemy",
-      "title": "Welcome to the Terrordome",
-      "album": "Fear of a Black Planet • 1990"
     }
   ]
 }
