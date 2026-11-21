@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T19:43:37",
+  "updatedAt": "2026-11-20T19:47:01",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "No Woman, No Cry",
-    "album": "Natty Dread • 1974",
+    "artist": "B.B. King",
+    "title": "The Thrill Is Gone",
+    "album": "Completely Well • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:47 pm",
-      "artist": "B.B. King",
-      "title": "The Thrill Is Gone"
-    },
     {
       "time": "7:52 pm",
       "artist": "Bob Marley and the Wailers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:47 pm",
+      "artist": "B.B. King",
+      "title": "The Thrill Is Gone",
+      "album": "Completely Well • 1969"
+    },
     {
       "time": "7:43 pm",
       "artist": "Bob Marley and the Wailers",
@@ -177,12 +178,6 @@
       "artist": "Portugal The Man",
       "title": "Feel It Still",
       "album": "Woodstock • 2017"
-    },
-    {
-      "time": "6:01 pm",
-      "artist": "Gary Lewis & The Playboys",
-      "title": "Everybody Loves A Clown",
-      "album": "Everybody Loves a Clown • 1965"
     }
   ]
 }
