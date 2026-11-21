@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T04:40:48",
+  "updatedAt": "2026-11-21T04:44:14",
   "now": {
     "artist": "Red Hot Chili Peppers",
-    "title": "By the Way",
+    "title": "Can't Stop",
     "album": "By the Way • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:44 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Can't Stop"
-    },
     {
       "time": "4:48 am",
       "artist": "Taio Cruz",
@@ -26,9 +21,20 @@
       "time": "4:56 am",
       "artist": "Radiohead",
       "title": "Let Down"
+    },
+    {
+      "time": "5:01 am",
+      "artist": "The Stone Roses",
+      "title": "I Am The Resurrection"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 am",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can't Stop",
+      "album": "By the Way • 2002"
+    },
     {
       "time": "4:40 am",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +178,6 @@
       "artist": "Lizzo",
       "title": "2 Be Loved (Am I Ready)",
       "album": "Special • 2022"
-    },
-    {
-      "time": "3:17 am",
-      "artist": "Stevie Wonder",
-      "title": "Lately",
-      "album": "Hotter Than July • 1980"
     }
   ]
 }
