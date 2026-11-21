@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T22:35:10",
+  "updatedAt": "2026-11-20T22:35:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Get Up, Stand Up",
+    "album": "Burnin' • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:35 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Get Up, Stand Up"
-    },
     {
       "time": "10:38 pm",
       "artist": "Radiohead",
@@ -31,9 +26,20 @@
       "time": "10:50 pm",
       "artist": "Bangles",
       "title": "Manic Monday"
+    },
+    {
+      "time": "10:53 pm",
+      "artist": "Aaron Frazer",
+      "title": "Over You"
     }
   ],
   "recent": [
+    {
+      "time": "10:35 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Get Up, Stand Up",
+      "album": "Burnin' • 1973"
+    },
     {
       "time": "10:31 pm",
       "artist": "Radiohead",
@@ -177,12 +183,6 @@
       "artist": "Radiohead",
       "title": "Motion Picture Soundtrack",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "8:54 pm",
-      "artist": "Billie Holiday",
-      "title": "Strange Fruit",
-      "album": "Billie Holiday • 1947"
     }
   ]
 }
