@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T01:47:41",
+  "updatedAt": "2026-11-21T01:52:17",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Waiting In Vain",
-    "album": "Exodus • 1977",
+    "artist": "Radiohead",
+    "title": "Airbag",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:52 am",
-      "artist": "Radiohead",
-      "title": "Airbag"
-    },
     {
       "time": "1:56 am",
       "artist": "Eddie Cochran",
@@ -26,9 +21,20 @@
       "time": "2:04 am",
       "artist": "Diana Ross & The Supremes",
       "title": "Come See About Me"
+    },
+    {
+      "time": "2:07 am",
+      "artist": "Maggie Rogers",
+      "title": "Alaska"
     }
   ],
   "recent": [
+    {
+      "time": "1:52 am",
+      "artist": "Radiohead",
+      "title": "Airbag",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "1:47 am",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Public Enemy",
       "title": "Welcome to the Terrordome",
       "album": "Fear of a Black Planet • 1990"
-    },
-    {
-      "time": "12:16 am",
-      "artist": "Public Enemy",
-      "title": "He Got Game feat. Stephen Stills",
-      "album": "He Got Game soundtrack • 1998"
     }
   ]
 }
