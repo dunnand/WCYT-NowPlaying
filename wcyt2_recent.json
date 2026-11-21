@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T04:48:50",
+  "updatedAt": "2026-11-21T04:52:10",
   "now": {
-    "artist": "Taio Cruz",
-    "title": "Dynamite",
-    "album": "Rokstarr • 2011",
+    "artist": "Radiohead",
+    "title": "Karma Police",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:52 am",
-      "artist": "Radiohead",
-      "title": "Karma Police"
-    },
     {
       "time": "4:56 am",
       "artist": "Radiohead",
@@ -23,12 +18,23 @@
       "title": "I Am The Resurrection"
     },
     {
-      "time": "5:10 am",
+      "time": "5:09 am",
       "artist": "Tom Petty",
       "title": "Free Fallin'"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "Childish Gambino",
+      "title": "19.10"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 am",
+      "artist": "Radiohead",
+      "title": "Karma Police",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "4:48 am",
       "artist": "Taio Cruz",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "When Will I Be Loved",
       "album": "The Fabulous Style of The Everly Brothers • 1960"
-    },
-    {
-      "time": "3:25 am",
-      "artist": "The Wailers",
-      "title": "Burnin' and Lootin'",
-      "album": "Burnin' • 1973"
     }
   ]
 }
