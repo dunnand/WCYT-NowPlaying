@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T06:24:19",
+  "updatedAt": "2026-11-21T06:24:51",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Yo La Tengo",
+    "title": "Winter A-Go-Go",
+    "album": "Summer Sun • 2003",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:24 am",
-      "artist": "Yo La Tengo",
-      "title": "Winter A-Go-Go"
-    },
     {
       "time": "6:28 am",
       "artist": "Dummy",
@@ -26,9 +21,20 @@
       "time": "6:37 am",
       "artist": "Beatrix",
       "title": "Dead Dog"
+    },
+    {
+      "time": "6:41 am",
+      "artist": "Rostam",
+      "title": "Back Of A Truck"
     }
   ],
   "recent": [
+    {
+      "time": "6:24 am",
+      "artist": "Yo La Tengo",
+      "title": "Winter A-Go-Go",
+      "album": "Summer Sun • 2003"
+    },
     {
       "time": "6:20 am",
       "artist": "Interpol",
@@ -160,11 +166,6 @@
       "time": "4:38 am",
       "artist": "2nd Grade",
       "title": "Radio Boys"
-    },
-    {
-      "time": "4:34 am",
-      "artist": "Snail Mail",
-      "title": "Light on Our Feet"
     }
   ]
 }
