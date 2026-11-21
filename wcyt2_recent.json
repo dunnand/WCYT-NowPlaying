@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:38:23",
+  "updatedAt": "2026-11-20T21:44:06",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "The Lonesome Death of Hattie Carroll",
-    "album": "The Times They Are A-Changin' • 1964",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Exodus",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:44 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Exodus"
-    },
     {
       "time": "9:49 pm",
       "artist": "Prince",
@@ -26,9 +21,20 @@
       "time": "9:58 pm",
       "artist": "Radiohead",
       "title": "Optimistic"
+    },
+    {
+      "time": "10:04 pm",
+      "artist": "Dee Clark",
+      "title": "Raindrops"
     }
   ],
   "recent": [
+    {
+      "time": "9:44 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Exodus",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "9:38 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "Dig for Fire",
       "album": "Bossanova • 1990"
-    },
-    {
-      "time": "8:09 pm",
-      "artist": "Phoebe Bridgers",
-      "title": "Motion Sickness",
-      "album": "Stranger in the Alps • 2017"
     }
   ]
 }
