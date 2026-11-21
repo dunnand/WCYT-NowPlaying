@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-11-21T15:53:15",
+  "updatedAt": "2026-11-21T15:53:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Smashing Pumpkins",
+    "title": "Ava Adore",
+    "album": "Adore • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "3:53 pm",
+      "time": "3:57 pm",
+      "artist": "Slowdive",
+      "title": "When the Sun Hits"
+    },
+    {
+      "time": "4:02 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Ava Adore"
     },
     {
-      "time": "3:57 pm",
+      "time": "4:06 pm",
       "artist": "Madonna",
       "title": "Dress You Up"
-    },
-    {
-      "time": "4:01 pm",
-      "artist": "De La Soul",
-      "title": "Me Myself and I"
-    },
-    {
-      "time": "4:05 pm",
-      "artist": "Grimes",
-      "title": "We Appreciate Power (feat. Hana)"
     }
   ],
   "recent": [
+    {
+      "time": "3:53 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Ava Adore",
+      "album": "Adore • 1998"
+    },
     {
       "time": "3:48 pm",
       "artist": "Slowdive",
@@ -172,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "Do You Believe in Rapture?",
       "album": "Rather Ripped • 2006"
-    },
-    {
-      "time": "2:05 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Helpless",
-      "album": "Dj Vu • 1970"
     }
   ]
 }
