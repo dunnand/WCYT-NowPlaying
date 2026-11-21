@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:34:18",
+  "updatedAt": "2026-11-20T21:38:23",
   "now": {
-    "artist": "Radiohead",
-    "title": "Nude",
-    "album": "In Rainbows • 2007",
+    "artist": "Bob Dylan",
+    "title": "The Lonesome Death of Hattie Carroll",
+    "album": "The Times They Are A-Changin' • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:38 pm",
-      "artist": "Bob Dylan",
-      "title": "The Lonesome Death of Hattie Carroll"
-    },
     {
       "time": "9:44 pm",
       "artist": "Bob Marley and the Wailers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:38 pm",
+      "artist": "Bob Dylan",
+      "title": "The Lonesome Death of Hattie Carroll",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "9:34 pm",
       "artist": "Radiohead",
@@ -177,12 +178,6 @@
       "artist": "Phoebe Bridgers",
       "title": "Motion Sickness",
       "album": "Stranger in the Alps • 2017"
-    },
-    {
-      "time": "8:07 pm",
-      "artist": "Crystals",
-      "title": "Da Doo Ron Ron",
-      "album": "single • 1963"
     }
   ]
 }
