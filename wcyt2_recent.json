@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:44:06",
+  "updatedAt": "2026-11-20T21:49:03",
   "now": {
-    "artist": "Bob Marley and the Wailers",
-    "title": "Exodus",
-    "album": "Exodus • 1977",
+    "artist": "Prince",
+    "title": "Gold",
+    "album": "The Gold Experience • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:49 pm",
-      "artist": "Prince",
-      "title": "Gold"
-    },
     {
       "time": "9:56 pm",
       "artist": "Carl Perkins",
@@ -26,9 +21,20 @@
       "time": "10:04 pm",
       "artist": "Dee Clark",
       "title": "Raindrops"
+    },
+    {
+      "time": "10:07 pm",
+      "artist": "Pitbull",
+      "title": "Feel This Moment"
     }
   ],
   "recent": [
+    {
+      "time": "9:49 pm",
+      "artist": "Prince",
+      "title": "Gold",
+      "album": "The Gold Experience • 1995"
+    },
     {
       "time": "9:44 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Pixies",
       "title": "Hey",
       "album": "Doolittle • 1999"
-    },
-    {
-      "time": "8:13 pm",
-      "artist": "Pixies",
-      "title": "Dig for Fire",
-      "album": "Bossanova • 1990"
     }
   ]
 }
