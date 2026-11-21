@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T07:40:39",
+  "updatedAt": "2026-11-21T07:43:43",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Tenth Avenue Freeze-Out",
-    "album": "Born to Run • 1975",
+    "artist": "Radiohead",
+    "title": "Subterranean Homesick Alien",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:43 am",
-      "artist": "Radiohead",
-      "title": "Subterranean Homesick Alien"
-    },
     {
       "time": "7:48 am",
       "artist": "Tame Impala",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:43 am",
+      "artist": "Radiohead",
+      "title": "Subterranean Homesick Alien",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "7:40 am",
       "artist": "Bruce Springsteen",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "No Surprises",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "5:55 am",
-      "artist": "Radiohead",
-      "title": "My Iron Lung",
-      "album": "The Bends • 1995"
     }
   ]
 }
