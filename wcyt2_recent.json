@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T10:52:06",
+  "updatedAt": "2026-11-21T10:56:07",
   "now": {
     "artist": "Red Hot Chili Peppers",
-    "title": "Otherside",
+    "title": "Parallel Universe",
     "album": "Californication • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:56 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Parallel Universe"
-    },
     {
       "time": "11:00 am",
       "artist": "Neneh Cherry",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:56 am",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Parallel Universe",
+      "album": "Californication • 1999"
+    },
     {
       "time": "10:52 am",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +173,6 @@
       "artist": "R.E.M.",
       "title": "Imitation of Life",
       "album": "Reveal • 2001"
-    },
-    {
-      "time": "9:25 am",
-      "artist": "Buzzcocks",
-      "title": "Boredom",
-      "album": "Spiral Scratch • 1977"
     }
   ]
 }
