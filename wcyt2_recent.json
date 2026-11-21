@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T17:16:34",
+  "updatedAt": "2026-11-21T17:19:15",
   "now": {
-    "artist": "Herman's Hermits",
-    "title": "Mrs. Brown You've Got A Lovely Daughter",
-    "album": "Herman's Hermits • 1965",
+    "artist": "David Bowie",
+    "title": "Heroes",
+    "album": "Heroes • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:19 pm",
-      "artist": "David Bowie",
-      "title": "\"Heroes\""
-    },
     {
       "time": "5:25 pm",
       "artist": "The Smashing Pumpkins",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:19 pm",
+      "artist": "David Bowie",
+      "title": "Heroes",
+      "album": "Heroes • 1977"
+    },
     {
       "time": "5:16 pm",
       "artist": "Herman's Hermits",
@@ -157,11 +158,6 @@
       "time": "3:19 pm",
       "artist": "Curtis Mayfield",
       "title": "Move on Up"
-    },
-    {
-      "time": "3:16 pm",
-      "artist": "Bobby Bare",
-      "title": "Four Strong Winds"
     }
   ]
 }
