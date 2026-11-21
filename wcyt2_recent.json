@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T17:29:24",
+  "updatedAt": "2026-11-21T17:29:54",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bill Haley and his Comets",
+    "title": "(We're Gonna) Rock Around the Clock",
+    "album": "Shake Rattle and Roll • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:29 pm",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock"
-    },
     {
       "time": "5:32 pm",
       "artist": "Super Furry Animals",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:29 pm",
+      "artist": "Bill Haley and his Comets",
+      "title": "(We're Gonna) Rock Around the Clock",
+      "album": "Shake Rattle and Roll • 1955"
+    },
     {
       "time": "5:25 pm",
       "artist": "The Smashing Pumpkins",
@@ -159,11 +160,6 @@
       "time": "3:33 pm",
       "artist": "Elvis Presley",
       "title": "Don't Be Cruel"
-    },
-    {
-      "time": "3:27 pm",
-      "artist": "Slowdive",
-      "title": "Shine"
     }
   ]
 }
