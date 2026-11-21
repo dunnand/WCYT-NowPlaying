@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T06:11:49",
+  "updatedAt": "2026-11-21T06:11:59",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Julien Baker",
+    "title": "Hound",
+    "album": "This World Or The Next • 2027",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:12 am",
-      "artist": "Julien Baker",
-      "title": "Hound"
-    },
     {
       "time": "6:16 am",
       "artist": "The Shins",
@@ -26,9 +21,20 @@
       "time": "6:24 am",
       "artist": "Yo La Tengo",
       "title": "Winter A-Go-Go"
+    },
+    {
+      "time": "6:28 am",
+      "artist": "Dummy",
+      "title": "Full Spectrum Dominance"
     }
   ],
   "recent": [
+    {
+      "time": "6:11 am",
+      "artist": "Julien Baker",
+      "title": "Hound",
+      "album": "This World Or The Next • 2027"
+    },
     {
       "time": "6:08 am",
       "artist": "R.E.M.",
@@ -157,11 +163,6 @@
       "time": "4:28 am",
       "artist": "Band of Horses",
       "title": "The General Specific"
-    },
-    {
-      "time": "4:24 am",
-      "artist": "DIIV",
-      "title": "Dare Me"
     }
   ]
 }
