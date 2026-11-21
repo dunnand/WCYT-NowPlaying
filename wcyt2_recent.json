@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T03:59:03",
+  "updatedAt": "2026-11-21T03:59:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Fake Plastic Trees",
+    "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "Radiohead",
-      "title": "Fake Plastic Trees"
-    },
     {
       "time": "4:03 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:12 am",
       "artist": "The English Beat",
       "title": "Jeanette"
+    },
+    {
+      "time": "4:14 am",
+      "artist": "Deftones",
+      "title": "Ohms"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 am",
+      "artist": "Radiohead",
+      "title": "Fake Plastic Trees",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "3:56 am",
       "artist": "Olly Murs",
@@ -172,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "War",
       "album": "Rastaman Vibration • 1976"
-    },
-    {
-      "time": "2:25 am",
-      "artist": "Radiohead",
-      "title": "There There. (The Boney King of Nowhere.)",
-      "album": "Hail to the Thief • 2003"
     }
   ]
 }
