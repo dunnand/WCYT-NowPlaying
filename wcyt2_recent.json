@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T10:40:00",
+  "updatedAt": "2026-11-21T10:40:10",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elvis Presley",
+    "title": "Love Me",
+    "album": "Elvis • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:40 am",
-      "artist": "Elvis Presley",
-      "title": "Love Me"
-    },
     {
       "time": "10:42 am",
       "artist": "Run The Jewels",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:40 am",
+      "artist": "Elvis Presley",
+      "title": "Love Me",
+      "album": "Elvis • 1956"
+    },
     {
       "time": "10:36 am",
       "artist": "Red Hot Chili Peppers",
@@ -172,12 +173,6 @@
       "artist": "The Pastels",
       "title": "I'm Alright With You",
       "album": "Up for a Bit with The Pastels • 1987"
-    },
-    {
-      "time": "9:04 am",
-      "artist": "Rancid",
-      "title": "Time Bomb",
-      "album": "...And Out Come the Wolves • 1995"
     }
   ]
 }
