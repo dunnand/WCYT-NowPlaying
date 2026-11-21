@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T04:28:06",
+  "updatedAt": "2026-11-21T04:30:28",
   "now": {
-    "artist": "Buffalo Springfield",
-    "title": "Sit Down I Think I Love You",
-    "album": "Buffalo Springfield • 1967",
+    "artist": "Eno",
+    "title": "Needles in the Camel's Eye",
+    "album": "Here Come the Warm Jets • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:30 am",
-      "artist": "Eno",
-      "title": "Needles in the Camel's Eye"
-    },
     {
       "time": "4:33 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "4:40 am",
       "artist": "Red Hot Chili Peppers",
       "title": "By the Way"
+    },
+    {
+      "time": "4:44 am",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can't Stop"
     }
   ],
   "recent": [
+    {
+      "time": "4:30 am",
+      "artist": "Eno",
+      "title": "Needles in the Camel's Eye",
+      "album": "Here Come the Warm Jets • 1974"
+    },
     {
       "time": "4:28 am",
       "artist": "Buffalo Springfield",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Climbing Up the Walls",
       "album": "OK Computer • 1997"
-    },
-    {
-      "time": "3:02 am",
-      "artist": "Frank Ocean",
-      "title": "Thinkin Bout You",
-      "album": "channel ORANGE • 2012"
     }
   ]
 }
