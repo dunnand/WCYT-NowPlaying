@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:56:20",
+  "updatedAt": "2026-11-20T21:58:29",
   "now": {
-    "artist": "Carl Perkins",
-    "title": "Blue Suede Shoes",
-    "album": "Dance Album of Carl Perkins • 1957",
+    "artist": "Radiohead",
+    "title": "Optimistic",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:58 pm",
-      "artist": "Radiohead",
-      "title": "Optimistic"
-    },
     {
       "time": "10:04 pm",
       "artist": "Dee Clark",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:58 pm",
+      "artist": "Radiohead",
+      "title": "Optimistic",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "9:56 pm",
       "artist": "Carl Perkins",
@@ -172,12 +173,6 @@
       "artist": "J. Geils Band",
       "title": "Freeze-Frame",
       "album": "Freeze-Frame • 1982"
-    },
-    {
-      "time": "8:20 pm",
-      "artist": "Jackson Browne",
-      "title": "Somebody's Baby",
-      "album": "Fast Times at Ridgemont High Soundtrack • 1982"
     }
   ]
 }
