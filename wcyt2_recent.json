@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T20:16:46",
+  "updatedAt": "2026-11-20T20:17:08",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pixies",
+    "title": "Hey",
+    "album": "Doolittle • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:17 pm",
-      "artist": "Pixies",
-      "title": "Hey"
-    },
     {
       "time": "8:20 pm",
       "artist": "Jackson Browne",
@@ -26,9 +21,20 @@
       "time": "8:28 pm",
       "artist": "Chappell Roan",
       "title": "HOT TO GO!"
+    },
+    {
+      "time": "8:32 pm",
+      "artist": "Radiohead",
+      "title": "Morning Bell"
     }
   ],
   "recent": [
+    {
+      "time": "8:17 pm",
+      "artist": "Pixies",
+      "title": "Hey",
+      "album": "Doolittle • 1999"
+    },
     {
       "time": "8:13 pm",
       "artist": "Pixies",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Kid A",
       "album": "Kid A • 2000"
-    },
-    {
-      "time": "6:30 pm",
-      "artist": "Bob Dylan & The Band",
-      "title": "This Wheel's on Fire",
-      "album": "This Wheel's on Fire • 1975"
     }
   ]
 }
