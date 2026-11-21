@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T17:08:48",
+  "updatedAt": "2026-11-21T17:11:30",
   "now": {
-    "artist": "The D",
-    "title": "Neat Neat Neat",
-    "album": "DDD • 1977",
+    "artist": "Gerry & The Pacemakers",
+    "title": "Ferry Cross The Mersey",
+    "album": "Ferry Cross the Mersey • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:11 pm",
-      "artist": "Gerry & The Pacemakers",
-      "title": "Ferry Cross The Mersey"
-    },
     {
       "time": "5:14 pm",
       "artist": "The D",
@@ -26,9 +21,20 @@
       "time": "5:19 pm",
       "artist": "David Bowie",
       "title": "\"Heroes\""
+    },
+    {
+      "time": "5:25 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Tonight, Tonight"
     }
   ],
   "recent": [
+    {
+      "time": "5:11 pm",
+      "artist": "Gerry & The Pacemakers",
+      "title": "Ferry Cross The Mersey",
+      "album": "Ferry Cross the Mersey • 1965"
+    },
     {
       "time": "5:08 pm",
       "artist": "The D",
@@ -154,11 +160,6 @@
       "time": "3:07 pm",
       "artist": "Jeannie C. Riley",
       "title": "Harper Valley P.T.A."
-    },
-    {
-      "time": "3:01 pm",
-      "artist": "Curits Mayfield",
-      "title": "Freddie's Dead"
     }
   ]
 }
