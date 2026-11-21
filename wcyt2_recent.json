@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T05:55:06",
+  "updatedAt": "2026-11-21T05:59:42",
   "now": {
     "artist": "Radiohead",
-    "title": "My Iron Lung",
-    "album": "The Bends • 1995",
+    "title": "No Surprises",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:59 am",
-      "artist": "Radiohead",
-      "title": "No Surprises"
-    },
     {
       "time": "6:03 am",
       "artist": "Toto",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:59 am",
+      "artist": "Radiohead",
+      "title": "No Surprises",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "5:55 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "You and Whose Army?",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "4:22 am",
-      "artist": "Eno",
-      "title": "In Dark Trees",
-      "album": "Another Green World • 1975"
     }
   ]
 }
