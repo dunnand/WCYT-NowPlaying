@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T23:59:20",
+  "updatedAt": "2026-11-21T00:03:55",
   "now": {
-    "artist": "Public Enemy",
-    "title": "Fight the Power",
-    "album": "Fear of a Black Planet • 1990",
+    "artist": "Buddy Holly",
+    "title": "Oh, Boy!",
+    "album": "The Chirping Crickets • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "Buddy Holly",
-      "title": "Oh, Boy!"
-    },
     {
       "time": "12:05 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "12:13 am",
       "artist": "Orville Peck",
       "title": "Turn to Hate"
+    },
+    {
+      "time": "12:16 am",
+      "artist": "Public Enemy",
+      "title": "He Got Game feat. Stephen Stills"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "Buddy Holly",
+      "title": "Oh, Boy!",
+      "album": "The Chirping Crickets • 1957"
+    },
     {
       "time": "11:59 pm",
       "artist": "Public Enemy",
@@ -172,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Get Up, Stand Up",
       "album": "Burnin' • 1973"
-    },
-    {
-      "time": "10:31 pm",
-      "artist": "Radiohead",
-      "title": "Packt Like Sardines in a Crushd Tin Box",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
