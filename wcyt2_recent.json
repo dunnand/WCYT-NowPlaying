@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:26:01",
+  "updatedAt": "2026-11-20T21:30:03",
   "now": {
     "artist": "Bob Marley and the Wailers",
-    "title": "Turn Your Lights Down Low",
-    "album": "Exodus • 1977",
+    "title": "Concrete Jungle",
+    "album": "Catch a Fire • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Concrete Jungle"
-    },
     {
       "time": "9:34 pm",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "9:44 pm",
       "artist": "Bob Marley and the Wailers",
       "title": "Exodus"
+    },
+    {
+      "time": "9:49 pm",
+      "artist": "Prince",
+      "title": "Gold"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 pm",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Concrete Jungle",
+      "album": "Catch a Fire • 1973"
+    },
     {
       "time": "9:26 pm",
       "artist": "Bob Marley and the Wailers",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Like Spinning Plates",
       "album": "Amnesiac • 2001"
-    },
-    {
-      "time": "8:00 pm",
-      "artist": "Harry Belafonte",
-      "title": "Day-O (Banana Boat Song)",
-      "album": "Calypso • 1956"
     }
   ]
 }
