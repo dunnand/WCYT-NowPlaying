@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T23:14:40",
+  "updatedAt": "2026-11-20T23:17:34",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Don't",
-    "album": "single • 1958",
+    "artist": "Radiohead",
+    "title": "Everything in Its Right Place",
+    "album": "Kid A • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:17 pm",
-      "artist": "Radiohead",
-      "title": "Everything in Its Right Place"
-    },
     {
       "time": "11:21 pm",
       "artist": "Earth, Wind & Fire",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:17 pm",
+      "artist": "Radiohead",
+      "title": "Everything in Its Right Place",
+      "album": "Kid A • 2000"
+    },
     {
       "time": "11:14 pm",
       "artist": "Elvis Presley",
@@ -172,12 +173,6 @@
       "artist": "Prince",
       "title": "Gold",
       "album": "The Gold Experience • 1995"
-    },
-    {
-      "time": "9:44 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Exodus",
-      "album": "Exodus • 1977"
     }
   ]
 }
