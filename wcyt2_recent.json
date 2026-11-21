@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T23:05:53",
+  "updatedAt": "2026-11-20T23:07:56",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "Return To Sender",
-    "album": "Girls! Girls! Girls! • 1962",
+    "artist": "Bob Dylan",
+    "title": "Buckets of Rain",
+    "album": "Blood on the Tracks • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:07 pm",
-      "artist": "Bob Dylan",
-      "title": "Buckets of Rain"
-    },
     {
       "time": "11:11 pm",
       "artist": "Pearl Jam",
@@ -26,9 +21,20 @@
       "time": "11:17 pm",
       "artist": "Radiohead",
       "title": "Everything in Its Right Place"
+    },
+    {
+      "time": "11:21 pm",
+      "artist": "Earth, Wind & Fire",
+      "title": "September"
     }
   ],
   "recent": [
+    {
+      "time": "11:07 pm",
+      "artist": "Bob Dylan",
+      "title": "Buckets of Rain",
+      "album": "Blood on the Tracks • 1975"
+    },
     {
       "time": "11:05 pm",
       "artist": "Elvis Presley",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Nude",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "9:30 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Concrete Jungle",
-      "album": "Catch a Fire • 1973"
     }
   ]
 }
