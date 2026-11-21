@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T00:10:40",
+  "updatedAt": "2026-11-21T00:10:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bee Gees",
+    "title": "Massachusetts",
+    "album": "Horizontal • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 am",
-      "artist": "Bee Gees",
-      "title": "Massachusetts"
-    },
     {
       "time": "12:13 am",
       "artist": "Orville Peck",
@@ -26,9 +21,20 @@
       "time": "12:20 am",
       "artist": "Public Enemy",
       "title": "Welcome to the Terrordome"
+    },
+    {
+      "time": "12:25 am",
+      "artist": "Madness",
+      "title": "Baggy Trousers"
     }
   ],
   "recent": [
+    {
+      "time": "12:10 am",
+      "artist": "Bee Gees",
+      "title": "Massachusetts",
+      "album": "Horizontal • 1968"
+    },
     {
       "time": "12:05 am",
       "artist": "Radiohead",
@@ -172,12 +178,6 @@
       "artist": "OK Go",
       "title": "I Wont Let You Down",
       "album": "Hungry Ghosts • 2014"
-    },
-    {
-      "time": "10:38 pm",
-      "artist": "Radiohead",
-      "title": "Pulk/Pull Revolving Doors",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
