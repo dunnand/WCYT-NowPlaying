@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T03:45:55",
+  "updatedAt": "2026-11-21T03:46:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Johnny Cash",
+    "title": "Folsom Prison Blues",
+    "album": "Folsom Prison Blues • 1955",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:46 am",
-      "artist": "Johnny Cash",
-      "title": "Folsom Prison Blues"
-    },
     {
       "time": "3:48 am",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:46 am",
+      "artist": "Johnny Cash",
+      "title": "Folsom Prison Blues",
+      "album": "Folsom Prison Blues • 1955"
+    },
     {
       "time": "3:41 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Operation Ivy",
       "title": "Unity",
       "album": "Energy • 1989"
-    },
-    {
-      "time": "2:14 am",
-      "artist": "Radiohead",
-      "title": "Bones",
-      "album": "The Bends • 1995"
     }
   ]
 }
