@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T05:38:40",
+  "updatedAt": "2026-11-21T05:42:54",
   "now": {
-    "artist": "Radiohead",
-    "title": "Lucky",
-    "album": "OK Computer • 1997",
+    "artist": "Paul Anka",
+    "title": "Put Your Head On My Shoulder",
+    "album": "single • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:42 am",
-      "artist": "Paul Anka",
-      "title": "Put Your Head On My Shoulder"
-    },
     {
       "time": "5:45 am",
       "artist": "Red Hot Chili Peppers",
@@ -21,9 +16,20 @@
       "time": "5:50 am",
       "artist": "Del Shannon",
       "title": "Hats Off To Larry"
+    },
+    {
+      "time": "5:52 am",
+      "artist": "Vampire Weekend",
+      "title": "Diane Young"
     }
   ],
   "recent": [
+    {
+      "time": "5:42 am",
+      "artist": "Paul Anka",
+      "title": "Put Your Head On My Shoulder",
+      "album": "single • 1959"
+    },
     {
       "time": "5:38 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "The Sugarcubes",
       "title": "Birthday",
       "album": "Lifes Too Good • 1988"
-    },
-    {
-      "time": "4:03 am",
-      "artist": "Radiohead",
-      "title": "High and Dry",
-      "album": "The Bends • 1995"
     }
   ]
 }
