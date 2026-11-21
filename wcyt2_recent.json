@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T17:14:05",
+  "updatedAt": "2026-11-21T17:16:34",
   "now": {
-    "artist": "The D",
-    "title": "New Rose",
-    "album": "DDD • 1977",
+    "artist": "Herman's Hermits",
+    "title": "Mrs. Brown You've Got A Lovely Daughter",
+    "album": "Herman's Hermits • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:16 pm",
-      "artist": "Herman's Hermits",
-      "title": "Mrs. Brown You've Got A Lovely Daughter"
-    },
     {
       "time": "5:19 pm",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "5:30 pm",
       "artist": "Bill Haley and his Comets",
       "title": "(We're Gonna) Rock Around the Clock"
+    },
+    {
+      "time": "5:32 pm",
+      "artist": "Super Furry Animals",
+      "title": "Ice Hockey Hair"
     }
   ],
   "recent": [
+    {
+      "time": "5:16 pm",
+      "artist": "Herman's Hermits",
+      "title": "Mrs. Brown You've Got A Lovely Daughter",
+      "album": "Herman's Hermits • 1965"
+    },
     {
       "time": "5:14 pm",
       "artist": "The D",
@@ -156,11 +162,6 @@
       "time": "3:16 pm",
       "artist": "Bobby Bare",
       "title": "Four Strong Winds"
-    },
-    {
-      "time": "3:10 pm",
-      "artist": "Curtis Mayfield",
-      "title": "Billy Jack"
     }
   ]
 }
