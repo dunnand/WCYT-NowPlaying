@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:34:07",
+  "updatedAt": "2026-11-20T21:34:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Radiohead",
+    "title": "Nude",
+    "album": "In Rainbows • 2007",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:34 pm",
-      "artist": "Radiohead",
-      "title": "Nude"
-    },
     {
       "time": "9:38 pm",
       "artist": "Bob Dylan",
@@ -31,9 +26,20 @@
       "time": "9:56 pm",
       "artist": "Carl Perkins",
       "title": "Blue Suede Shoes"
+    },
+    {
+      "time": "9:58 pm",
+      "artist": "Radiohead",
+      "title": "Optimistic"
     }
   ],
   "recent": [
+    {
+      "time": "9:34 pm",
+      "artist": "Radiohead",
+      "title": "Nude",
+      "album": "In Rainbows • 2007"
+    },
     {
       "time": "9:30 pm",
       "artist": "Bob Marley and the Wailers",
@@ -177,12 +183,6 @@
       "artist": "Crystals",
       "title": "Da Doo Ron Ron",
       "album": "single • 1963"
-    },
-    {
-      "time": "8:03 pm",
-      "artist": "Radiohead",
-      "title": "Like Spinning Plates",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
