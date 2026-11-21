@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T01:41:54",
+  "updatedAt": "2026-11-21T01:42:06",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Marley and the Wailers",
+    "title": "Three Little Birds",
+    "album": "Exodus • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Three Little Birds"
-    },
     {
       "time": "1:45 am",
       "artist": "The Four Seasons",
@@ -31,9 +26,20 @@
       "time": "1:56 am",
       "artist": "Eddie Cochran",
       "title": "C'mon Everybody"
+    },
+    {
+      "time": "1:58 am",
+      "artist": "Radiohead",
+      "title": "The National Anthem"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Three Little Birds",
+      "album": "Exodus • 1977"
+    },
     {
       "time": "1:39 am",
       "artist": "Four Tops",
@@ -177,12 +183,6 @@
       "artist": "Bee Gees",
       "title": "Massachusetts",
       "album": "Horizontal • 1968"
-    },
-    {
-      "time": "12:05 am",
-      "artist": "Radiohead",
-      "title": "Pyramid Song",
-      "album": "Amnesiac • 2001"
     }
   ]
 }
