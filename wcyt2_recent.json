@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T08:07:58",
+  "updatedAt": "2026-11-21T08:11:50",
   "now": {
-    "artist": "Radiohead",
-    "title": "The Bends",
-    "album": "The Bends • 1995",
+    "artist": "Jesse Johnson",
+    "title": "Get To Know Yah",
+    "album": "Jesse Johnsons Revue • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:11 am",
-      "artist": "Jesse Johnson",
-      "title": "Get To Know Yah"
-    },
     {
       "time": "8:15 am",
       "artist": "My Bloody Valentine",
@@ -21,9 +16,20 @@
       "time": "8:19 am",
       "artist": "H.E.R.",
       "title": "Fight For You"
+    },
+    {
+      "time": "8:24 am",
+      "artist": "Bruce Springsteen",
+      "title": "The Promised Land"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 am",
+      "artist": "Jesse Johnson",
+      "title": "Get To Know Yah",
+      "album": "Jesse Johnsons Revue • 1985"
+    },
     {
       "time": "8:07 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Happenings",
       "title": "See You In September",
       "album": "The Happenings • 1966"
-    },
-    {
-      "time": "6:24 am",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Snow ((Hey Oh))",
-      "album": "Stadium Arcadium • 2006"
     }
   ]
 }
