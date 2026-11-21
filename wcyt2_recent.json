@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T01:11:31",
+  "updatedAt": "2026-11-21T01:15:04",
   "now": {
-    "artist": "Karmin",
-    "title": "Broken Hearted",
-    "album": "Hello • 2012",
+    "artist": "Queen",
+    "title": "The Show Must Go On",
+    "album": "Innuendo • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:15 am",
-      "artist": "Queen",
-      "title": "The Show Must Go On"
-    },
     {
       "time": "1:19 am",
       "artist": "Radiohead",
@@ -26,9 +21,20 @@
       "time": "1:26 am",
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Deanna"
+    },
+    {
+      "time": "1:30 am",
+      "artist": "Deftones",
+      "title": "Genesis"
     }
   ],
   "recent": [
+    {
+      "time": "1:15 am",
+      "artist": "Queen",
+      "title": "The Show Must Go On",
+      "album": "Innuendo • 1991"
+    },
     {
       "time": "1:11 am",
       "artist": "Karmin",
@@ -172,12 +178,6 @@
       "artist": "Blondie",
       "title": "The Tide Is High",
       "album": "Autoamerican • 1980"
-    },
-    {
-      "time": "11:35 pm",
-      "artist": "Big Country",
-      "title": "Porrohman",
-      "album": "The Crossing • 1983"
     }
   ]
 }
