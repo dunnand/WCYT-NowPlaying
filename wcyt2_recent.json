@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T05:32:14",
+  "updatedAt": "2026-11-21T05:38:40",
   "now": {
-    "artist": "Bruce Springsteen",
-    "title": "Backstreets",
-    "album": "Born to Run • 1975",
+    "artist": "Radiohead",
+    "title": "Lucky",
+    "album": "OK Computer • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:38 am",
-      "artist": "Radiohead",
-      "title": "Lucky"
-    },
     {
       "time": "5:42 am",
       "artist": "Paul Anka",
@@ -21,9 +16,20 @@
       "time": "5:45 am",
       "artist": "Red Hot Chili Peppers",
       "title": "Dani California"
+    },
+    {
+      "time": "5:50 am",
+      "artist": "Del Shannon",
+      "title": "Hats Off To Larry"
     }
   ],
   "recent": [
+    {
+      "time": "5:38 am",
+      "artist": "Radiohead",
+      "title": "Lucky",
+      "album": "OK Computer • 1997"
+    },
     {
       "time": "5:32 am",
       "artist": "Bruce Springsteen",
@@ -166,12 +172,6 @@
       "time": "4:03 am",
       "artist": "Radiohead",
       "title": "High and Dry",
-      "album": "The Bends • 1995"
-    },
-    {
-      "time": "3:59 am",
-      "artist": "Radiohead",
-      "title": "Fake Plastic Trees",
       "album": "The Bends • 1995"
     }
   ]
