@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T22:55:50",
+  "updatedAt": "2026-11-20T22:59:55",
   "now": {
-    "artist": "Bill Withers",
-    "title": "Loveley Day",
-    "album": "Menagerie • 1977",
+    "artist": "Chiffons",
+    "title": "One Fine Day",
+    "album": "One Fine Day • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:59 pm",
-      "artist": "Chiffons",
-      "title": "One Fine Day"
-    },
     {
       "time": "11:02 pm",
       "artist": "Bill Withers",
@@ -26,9 +21,20 @@
       "time": "11:07 pm",
       "artist": "Bob Dylan",
       "title": "Buckets of Rain"
+    },
+    {
+      "time": "11:11 pm",
+      "artist": "Pearl Jam",
+      "title": "Daughter"
     }
   ],
   "recent": [
+    {
+      "time": "10:59 pm",
+      "artist": "Chiffons",
+      "title": "One Fine Day",
+      "album": "One Fine Day • 1963"
+    },
     {
       "time": "10:55 pm",
       "artist": "Bill Withers",
@@ -172,12 +178,6 @@
       "artist": "James Brown",
       "title": "We Got To Change",
       "album": "Single • 2024"
-    },
-    {
-      "time": "9:17 pm",
-      "artist": "Julee Cruise",
-      "title": "Falling",
-      "album": "Floating Into the Night • 1989"
     }
   ]
 }
