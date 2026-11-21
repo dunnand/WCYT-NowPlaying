@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-20T23:02:06",
+  "updatedAt": "2026-11-20T23:05:53",
   "now": {
-    "artist": "Bill Withers",
-    "title": "Use Me",
-    "album": "Still Bill • 1972",
+    "artist": "Elvis Presley",
+    "title": "Return To Sender",
+    "album": "Girls! Girls! Girls! • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:05 pm",
-      "artist": "Elvis Presley",
-      "title": "Return To Sender"
-    },
     {
       "time": "11:07 pm",
       "artist": "Bob Dylan",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:05 pm",
+      "artist": "Elvis Presley",
+      "title": "Return To Sender",
+      "album": "Girls! Girls! Girls! • 1962"
+    },
     {
       "time": "11:02 pm",
       "artist": "Bill Withers",
@@ -177,12 +178,6 @@
       "artist": "Bob Marley and the Wailers",
       "title": "Concrete Jungle",
       "album": "Catch a Fire • 1973"
-    },
-    {
-      "time": "9:26 pm",
-      "artist": "Bob Marley and the Wailers",
-      "title": "Turn Your Lights Down Low",
-      "album": "Exodus • 1977"
     }
   ]
 }
