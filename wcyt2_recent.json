@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T03:59:14",
+  "updatedAt": "2026-11-21T04:04:00",
   "now": {
     "artist": "Radiohead",
-    "title": "Fake Plastic Trees",
+    "title": "High and Dry",
     "album": "The Bends • 1995",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:03 am",
-      "artist": "Radiohead",
-      "title": "High and Dry"
-    },
     {
       "time": "4:08 am",
       "artist": "The Sugarcubes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:03 am",
+      "artist": "Radiohead",
+      "title": "High and Dry",
+      "album": "The Bends • 1995"
+    },
     {
       "time": "3:59 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Radiohead",
       "title": "Videotape",
       "album": "In Rainbows • 2007"
-    },
-    {
-      "time": "2:31 am",
-      "artist": "Bob Marley and the Wailers",
-      "title": "War",
-      "album": "Rastaman Vibration • 1976"
     }
   ]
 }
