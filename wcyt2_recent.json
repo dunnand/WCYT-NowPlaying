@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T02:42:13",
+  "updatedAt": "2026-11-22T02:46:00",
   "now": {
-    "artist": "Barbra Streisand",
-    "title": "People",
-    "album": "Funny Girl • 1964",
+    "artist": "David Bowie",
+    "title": "Ziggy Stardust",
+    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:45 am",
-      "artist": "David Bowie",
-      "title": "Ziggy Stardust"
-    },
     {
       "time": "2:49 am",
       "artist": "Browns",
@@ -26,9 +21,25 @@
       "time": "2:54 am",
       "artist": "Stone Temple Pilots",
       "title": "Lady Picture Show"
+    },
+    {
+      "time": "2:58 am",
+      "artist": "Impalas",
+      "title": "Sorry (I Ran All The Way Home)"
+    },
+    {
+      "time": "3:01 am",
+      "artist": "Thundercat",
+      "title": "Funny Thing"
     }
   ],
   "recent": [
+    {
+      "time": "2:45 am",
+      "artist": "David Bowie",
+      "title": "Ziggy Stardust",
+      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
+    },
     {
       "time": "2:42 am",
       "artist": "Barbra Streisand",
@@ -172,12 +183,6 @@
       "artist": "The Four Seasons",
       "title": "Candy Girl",
       "album": "Ain't That a Shame and 11 Others • 1963"
-    },
-    {
-      "time": "1:00 am",
-      "artist": "The Streets",
-      "title": "Fit but You Know It",
-      "album": "A Grand Don't Come for Free • 2004"
     }
   ]
 }
