@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T19:01:58",
+  "updatedAt": "2026-11-21T19:02:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Drive-In Saturday",
+    "album": "Aladdin Sane • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 pm",
-      "artist": "David Bowie",
-      "title": "Drive-In Saturday"
-    },
     {
       "time": "7:06 pm",
       "artist": "Chiffons",
@@ -26,9 +21,20 @@
       "time": "7:12 pm",
       "artist": "The Beach Boys",
       "title": "Help Me, Rhonda"
+    },
+    {
+      "time": "7:15 pm",
+      "artist": "David Bowie",
+      "title": "Fantastic Voyage"
     }
   ],
   "recent": [
+    {
+      "time": "7:02 pm",
+      "artist": "David Bowie",
+      "title": "Drive-In Saturday",
+      "album": "Aladdin Sane • 1973"
+    },
     {
       "time": "6:58 pm",
       "artist": "Kenji Yamamoto",
@@ -172,12 +178,6 @@
       "artist": "Bill Haley and his Comets",
       "title": "(We're Gonna) Rock Around the Clock",
       "album": "Shake Rattle and Roll • 1955"
-    },
-    {
-      "time": "5:25 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Tonight, Tonight",
-      "album": "Mellon Collie and the Infinite Sadness • 1995"
     }
   ]
 }
