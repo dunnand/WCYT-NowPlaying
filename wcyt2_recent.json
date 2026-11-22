@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T05:43:05",
+  "updatedAt": "2026-11-22T05:43:26",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Keep Fishin'",
+    "album": "Maladroit • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:43 am",
-      "artist": "Weezer",
-      "title": "Keep Fishin'"
-    },
     {
       "time": "5:46 am",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "5:53 am",
       "artist": "Super Furry Animals",
       "title": "Something 4 the Weekend"
+    },
+    {
+      "time": "5:56 am",
+      "artist": "Super Furry Animals",
+      "title": "The International Language of Screaming"
     }
   ],
   "recent": [
+    {
+      "time": "5:43 am",
+      "artist": "Weezer",
+      "title": "Keep Fishin'",
+      "album": "Maladroit • 2002"
+    },
     {
       "time": "5:39 am",
       "artist": "Charles Bradley",
@@ -157,11 +163,6 @@
       "time": "3:52 am",
       "artist": "Vic Chesnutt",
       "title": "You Are Never Alone"
-    },
-    {
-      "time": "3:50 am",
-      "artist": "The Everly Brothers",
-      "title": "Bye, Bye Love"
     }
   ]
 }
