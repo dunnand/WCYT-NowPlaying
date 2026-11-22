@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T23:57:58",
+  "updatedAt": "2026-11-22T00:01:04",
   "now": {
-    "artist": "Sonic Youth",
-    "title": "Bull in the Heather",
-    "album": "Experimental Jet Set, Trash and No Star • 1994",
-    "category": "TUNES"
+    "artist": "Little Richard",
+    "title": "Lucille",
+    "album": "Little Richard • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Little Richard",
-      "title": "Lucille"
-    },
     {
       "time": "12:03 am",
       "artist": "The Killers",
@@ -26,9 +21,20 @@
       "time": "12:10 am",
       "artist": "Billie Eilish",
       "title": "bury a friend"
+    },
+    {
+      "time": "12:13 am",
+      "artist": "Sonic Youth",
+      "title": "Dirty Boots"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Little Richard",
+      "title": "Lucille",
+      "album": "Little Richard • 1958"
+    },
     {
       "time": "11:57 pm",
       "artist": "Sonic Youth",
@@ -172,12 +178,6 @@
       "artist": "Waylon Jennings, Willie Nelson, Johnny Cash, Kris Kristofferson",
       "title": "Highwayman",
       "album": "Highwayman • 1985"
-    },
-    {
-      "time": "9:39 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Soma",
-      "album": "Siamese Dream • 1993"
     }
   ]
 }
