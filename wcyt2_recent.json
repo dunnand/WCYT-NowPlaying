@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-22T01:10:52",
+  "updatedAt": "2026-11-22T01:15:32",
   "now": {
     "artist": "Sonic Youth",
-    "title": "Sunday",
-    "album": "A Thousand Leaves • 1998",
-    "category": "TUNES"
+    "title": "Superstar",
+    "album": "If I Were A Carpenter • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:15 am",
-      "artist": "Sonic Youth",
-      "title": "Superstar"
-    },
     {
       "time": "1:19 am",
       "artist": "Musical Youth",
       "title": "Pass The Dutchie"
     },
     {
-      "time": "1:23 am",
+      "time": "1:22 am",
       "artist": "Aerosmith",
       "title": "Dude (Looks Like A Lady)"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:15 am",
+      "artist": "Sonic Youth",
+      "title": "Superstar",
+      "album": "If I Were A Carpenter • 1994"
+    },
     {
       "time": "1:10 am",
       "artist": "Sonic Youth",
@@ -172,12 +173,6 @@
       "artist": "The Killers",
       "title": "Smile Like You Mean It",
       "album": "Hot Fuss • 2004"
-    },
-    {
-      "time": "10:49 pm",
-      "artist": "David Bowie",
-      "title": "Starman",
-      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
     }
   ]
 }
