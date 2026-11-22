@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T17:42:38",
+  "updatedAt": "2026-11-22T17:45:56",
   "now": {
-    "artist": "Gorillaz",
-    "title": "Rhinestone Eyes",
-    "album": "Plastic Beach • 2010",
+    "artist": "Weezer",
+    "title": "Buddy Holly",
+    "album": "Weezer • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:45 pm",
-      "artist": "Weezer",
-      "title": "Buddy Holly"
-    },
     {
       "time": "5:49 pm",
       "artist": "Weezer",
@@ -21,9 +16,20 @@
       "time": "5:51 pm",
       "artist": "Phil Collins",
       "title": "I Wish It Would Rain Down"
+    },
+    {
+      "time": "5:57 pm",
+      "artist": "Run",
+      "title": "D.M.C. - Sucker M.C.'s (Krush-Groove 1)"
     }
   ],
   "recent": [
+    {
+      "time": "5:45 pm",
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "album": "Weezer • 1994"
+    },
     {
       "time": "5:42 pm",
       "artist": "Gorillaz",
@@ -167,12 +173,6 @@
       "artist": "Funkadelic",
       "title": "One Nation Under a Groove",
       "album": "One Nation Under a Groove • 1978"
-    },
-    {
-      "time": "4:14 pm",
-      "artist": "Modest Mouse",
-      "title": "Ocean Breathes Salty",
-      "album": "Good News for People Who Love Bad News • 2004"
     }
   ]
 }
