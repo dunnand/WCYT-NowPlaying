@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T20:59:14",
+  "updatedAt": "2026-11-21T20:59:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Life on Mars?",
+    "album": "Hunky Dory • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:59 pm",
-      "artist": "David Bowie",
-      "title": "Life on Mars?"
-    },
     {
       "time": "9:03 pm",
       "artist": "The Killers",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:59 pm",
+      "artist": "David Bowie",
+      "title": "Life on Mars?",
+      "album": "Hunky Dory • 1971"
+    },
     {
       "time": "8:55 pm",
       "artist": "The Killers",
@@ -177,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Exile feat. Bon Iver",
       "album": "folklore • 2020"
-    },
-    {
-      "time": "7:21 pm",
-      "artist": "Buddy Holly",
-      "title": "Well...All Right",
-      "album": "Buddy Holly • 1958"
     }
   ]
 }
