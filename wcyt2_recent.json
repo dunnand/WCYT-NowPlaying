@@ -1,19 +1,40 @@
 {
-  "updatedAt": "2026-11-21T22:57:31",
+  "updatedAt": "2026-11-21T22:59:54",
   "now": {
-    "artist": "Don Gibson",
-    "title": "Lonesome Number One",
-    "album": "I Wrote a Song • 1961",
+    "artist": "David Bowie",
+    "title": "Suffragette City",
+    "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "10:59 pm",
-      "artist": "David Bowie",
-      "title": "Suffragette City"
+      "time": "11:03 pm",
+      "artist": "Public Enemy",
+      "title": "Fight the Power"
+    },
+    {
+      "time": "11:07 pm",
+      "artist": "Buddy Holly",
+      "title": "Oh, Boy!"
+    },
+    {
+      "time": "11:09 pm",
+      "artist": "Radiohead",
+      "title": "Pyramid Song"
+    },
+    {
+      "time": "11:14 pm",
+      "artist": "Bee Gees",
+      "title": "Massachusetts"
     }
   ],
   "recent": [
+    {
+      "time": "10:59 pm",
+      "artist": "David Bowie",
+      "title": "Suffragette City",
+      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
+    },
     {
       "time": "10:57 pm",
       "artist": "Don Gibson",
@@ -157,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Rocket",
       "album": "Siamese Dream • 1993"
-    },
-    {
-      "time": "9:32 pm",
-      "artist": "A Tribe Called Quest",
-      "title": "Dis Generation",
-      "album": "We got it from Here... Thank You 4 Your service • 2016"
     }
   ]
 }
