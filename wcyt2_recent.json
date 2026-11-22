@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T13:35:02",
+  "updatedAt": "2026-11-22T13:37:47",
   "now": {
-    "artist": "Roy Orbison",
-    "title": "It's Over",
-    "album": "Orbisongs • 1965",
+    "artist": "Eric Carmen",
+    "title": "All by Myself",
+    "album": "Eric Carmen • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:37 pm",
-      "artist": "Eric Carmen",
-      "title": "All by Myself"
-    },
     {
       "time": "1:44 pm",
       "artist": "They Might Be Giants",
@@ -26,9 +21,20 @@
       "time": "1:51 pm",
       "artist": "Tom Petty",
       "title": "It's Good to Be King"
+    },
+    {
+      "time": "1:56 pm",
+      "artist": "Tom Petty",
+      "title": "Wildflowers"
     }
   ],
   "recent": [
+    {
+      "time": "1:37 pm",
+      "artist": "Eric Carmen",
+      "title": "All by Myself",
+      "album": "Eric Carmen • 1975"
+    },
     {
       "time": "1:35 pm",
       "artist": "Roy Orbison",
@@ -172,12 +178,6 @@
       "artist": "The Prodigy",
       "title": "Breathe",
       "album": "The Fat of the Land • 1997"
-    },
-    {
-      "time": "11:46 am",
-      "artist": "Daft Punk",
-      "title": "Doin' It Right (feat. Panda Bear)",
-      "album": "Random Access Memories • 2013"
     }
   ]
 }
