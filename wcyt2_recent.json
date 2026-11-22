@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T20:59:25",
+  "updatedAt": "2026-11-21T21:03:01",
   "now": {
-    "artist": "David Bowie",
-    "title": "Life on Mars?",
-    "album": "Hunky Dory • 1971",
+    "artist": "The Killers",
+    "title": "Human",
+    "album": "Day & Age • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:03 pm",
-      "artist": "The Killers",
-      "title": "Human"
-    },
     {
       "time": "9:07 pm",
       "artist": "Daft Punk",
@@ -26,9 +21,20 @@
       "time": "9:17 pm",
       "artist": "The Smashing Pumpkins",
       "title": "Rhinoceros"
+    },
+    {
+      "time": "9:23 pm",
+      "artist": "Danny & The Juniors",
+      "title": "At The Hop"
     }
   ],
   "recent": [
+    {
+      "time": "9:02 pm",
+      "artist": "The Killers",
+      "title": "Human",
+      "album": "Day & Age • 2008"
+    },
     {
       "time": "8:59 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Dixie Cups",
       "title": "Chapel Of Love",
       "album": "Chapel of Love • 1964"
-    },
-    {
-      "time": "7:23 pm",
-      "artist": "Taylor Swift",
-      "title": "Exile feat. Bon Iver",
-      "album": "folklore • 2020"
     }
   ]
 }
