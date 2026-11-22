@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T14:22:57",
+  "updatedAt": "2026-11-22T14:27:01",
   "now": {
-    "artist": "David Bowie",
-    "title": "Where Are We Now?",
-    "album": "The Next Day • 2013",
+    "artist": "Fleetwood Mac",
+    "title": "Tusk",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:27 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Tusk"
-    },
     {
       "time": "2:30 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -26,9 +21,20 @@
       "time": "2:39 pm",
       "artist": "Grandaddy",
       "title": "The Crystal Lake"
+    },
+    {
+      "time": "2:44 pm",
+      "artist": "Gwen Stefani",
+      "title": "The Sweet Escape"
     }
   ],
   "recent": [
+    {
+      "time": "2:27 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Tusk",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "2:22 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Spiders (Kidsmoke)",
       "album": "A Ghost Is Born • 2004"
-    },
-    {
-      "time": "12:40 pm",
-      "artist": "Chuck Berry",
-      "title": "Johnny B. Goode",
-      "album": "Berry Is on Top • 1959"
     }
   ]
 }
