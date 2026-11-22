@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T20:36:42",
+  "updatedAt": "2026-11-21T20:42:16",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Mayonaise",
-    "album": "Siamese Dream • 1993",
+    "artist": "Ozzy Osbourne",
+    "title": "Mr. Crowley",
+    "album": "Blizzard of Ozz • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:42 pm",
-      "artist": "Ozzy Osbourne",
-      "title": "Mr. Crowley"
-    },
     {
       "time": "8:47 pm",
       "artist": "Peabo Bryson",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:42 pm",
+      "artist": "Ozzy Osbourne",
+      "title": "Mr. Crowley",
+      "album": "Blizzard of Ozz • 1980"
+    },
     {
       "time": "8:36 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "Help Me, Rhonda",
       "album": "Summer Days • 1965"
-    },
-    {
-      "time": "7:08 pm",
-      "artist": "David Bowie",
-      "title": "Fame",
-      "album": "Young Americans • 1975"
     }
   ]
 }
