@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T07:06:12",
+  "updatedAt": "2026-11-22T07:06:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Candle in the Wind",
+    "album": "Goodbye Yellow Brick Road • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:06 am",
-      "artist": "Elton John",
-      "title": "Candle in the Wind"
-    },
     {
       "time": "7:10 am",
       "artist": "Bobby Vinton",
@@ -26,9 +21,20 @@
       "time": "7:18 am",
       "artist": "Dion",
       "title": "The Wanderer"
+    },
+    {
+      "time": "7:21 am",
+      "artist": "Elton John",
+      "title": "Honky Cat"
     }
   ],
   "recent": [
+    {
+      "time": "7:06 am",
+      "artist": "Elton John",
+      "title": "Candle in the Wind",
+      "album": "Goodbye Yellow Brick Road • 1973"
+    },
     {
       "time": "7:02 am",
       "artist": "Magdalena Bay",
@@ -172,12 +178,6 @@
       "artist": "Charles Bradley",
       "title": "Strictly Reserved For You",
       "album": "Victim of Love • 2013"
-    },
-    {
-      "time": "5:36 am",
-      "artist": "Super Furry Animals",
-      "title": "Play It Cool",
-      "album": "Fuzzy Logic • 1996"
     }
   ]
 }
