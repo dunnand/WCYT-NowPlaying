@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T19:02:09",
+  "updatedAt": "2026-11-21T19:06:33",
   "now": {
-    "artist": "David Bowie",
-    "title": "Drive-In Saturday",
-    "album": "Aladdin Sane • 1973",
+    "artist": "Chiffons",
+    "title": "He's So Fine",
+    "album": "The Chiffons • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:06 pm",
-      "artist": "Chiffons",
-      "title": "He's So Fine"
-    },
     {
       "time": "7:08 pm",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "7:15 pm",
       "artist": "David Bowie",
       "title": "Fantastic Voyage"
+    },
+    {
+      "time": "7:18 pm",
+      "artist": "The Smashing Pumpkins",
+      "title": "Disarm"
     }
   ],
   "recent": [
+    {
+      "time": "7:06 pm",
+      "artist": "Chiffons",
+      "title": "He's So Fine",
+      "album": "The Chiffons • 1963"
+    },
     {
       "time": "7:02 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Super Furry Animals",
       "title": "Ice Hockey Hair",
       "album": "Rings Around the World • 2001"
-    },
-    {
-      "time": "5:29 pm",
-      "artist": "Bill Haley and his Comets",
-      "title": "(We're Gonna) Rock Around the Clock",
-      "album": "Shake Rattle and Roll • 1955"
     }
   ]
 }
