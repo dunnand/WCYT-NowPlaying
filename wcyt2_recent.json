@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T08:17:12",
+  "updatedAt": "2026-11-22T08:17:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Elton John",
+    "title": "Tonight",
+    "album": "Blue Moves • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:17 am",
-      "artist": "Elton John",
-      "title": "Tonight"
-    },
     {
       "time": "8:25 am",
       "artist": "Wilco",
@@ -31,9 +26,20 @@
       "time": "8:37 am",
       "artist": "Talk Talk",
       "title": "New Grass"
+    },
+    {
+      "time": "8:47 am",
+      "artist": "Childish Gambino",
+      "title": "This Is America"
     }
   ],
   "recent": [
+    {
+      "time": "8:17 am",
+      "artist": "Elton John",
+      "title": "Tonight",
+      "album": "Blue Moves • 1976"
+    },
     {
       "time": "8:14 am",
       "artist": "Wilco",
@@ -177,12 +183,6 @@
       "artist": "Weezer",
       "title": "Photograph",
       "album": "Weezer • 2001"
-    },
-    {
-      "time": "6:32 am",
-      "artist": "Charles Bradley",
-      "title": "Victim Of Loving",
-      "album": "Victim of Love • 2013"
     }
   ]
 }
