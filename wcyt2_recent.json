@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T01:10:40",
+  "updatedAt": "2026-11-22T01:10:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Sunday",
+    "album": "A Thousand Leaves • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Sonic Youth",
-      "title": "Sunday"
-    },
     {
       "time": "1:15 am",
       "artist": "Sonic Youth",
@@ -26,9 +21,20 @@
       "time": "1:23 am",
       "artist": "Aerosmith",
       "title": "Dude (Looks Like A Lady)"
+    },
+    {
+      "time": "1:27 am",
+      "artist": "Haim",
+      "title": "Now I'm In It"
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Sonic Youth",
+      "title": "Sunday",
+      "album": "A Thousand Leaves • 1998"
+    },
     {
       "time": "1:06 am",
       "artist": "Brandi Carlile",
@@ -172,12 +178,6 @@
       "artist": "David Bowie",
       "title": "Starman",
       "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
-    },
-    {
-      "time": "10:46 pm",
-      "artist": "David Bowie",
-      "title": "Sound and Vision",
-      "album": "Low • 1977"
     }
   ]
 }
