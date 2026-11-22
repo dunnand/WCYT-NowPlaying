@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T00:01:04",
+  "updatedAt": "2026-11-22T00:03:25",
   "now": {
-    "artist": "Little Richard",
-    "title": "Lucille",
-    "album": "Little Richard • 1958",
+    "artist": "The Killers",
+    "title": "Spaceman",
+    "album": "Day & Age • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "The Killers",
-      "title": "Spaceman"
-    },
     {
       "time": "12:08 am",
       "artist": "Connie Francis",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "The Killers",
+      "title": "Spaceman",
+      "album": "Day & Age • 2008"
+    },
     {
       "time": "12:01 am",
       "artist": "Little Richard",
@@ -172,12 +173,6 @@
       "artist": "Half Man Half Biscuit",
       "title": "All I Want for Chrismas Is a Dukla Prague Away Kit",
       "album": "Back Again in the D.H.S.S. • 1987"
-    },
-    {
-      "time": "9:46 pm",
-      "artist": "Waylon Jennings, Willie Nelson, Johnny Cash, Kris Kristofferson",
-      "title": "Highwayman",
-      "album": "Highwayman • 1985"
     }
   ]
 }
