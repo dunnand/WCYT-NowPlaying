@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T04:12:10",
+  "updatedAt": "2026-11-22T04:12:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Journey",
+    "title": "Who's Crying Now",
+    "album": "Escape • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:12 am",
-      "artist": "Journey",
-      "title": "Who's Crying Now"
-    },
     {
       "time": "4:17 am",
       "artist": "Midnight Oil",
@@ -26,9 +21,20 @@
       "time": "4:24 am",
       "artist": "DEVO",
       "title": "Jocko Homo"
+    },
+    {
+      "time": "4:27 am",
+      "artist": "DEVO",
+      "title": "S.I.B. (Swelling Itching Brain)"
     }
   ],
   "recent": [
+    {
+      "time": "4:12 am",
+      "artist": "Journey",
+      "title": "Who's Crying Now",
+      "album": "Escape • 1981"
+    },
     {
       "time": "4:08 am",
       "artist": "Stone Temple Pilots",
@@ -172,12 +178,6 @@
       "artist": "Browns",
       "title": "The Old Lamplighter",
       "album": "Town & Country • 1960"
-    },
-    {
-      "time": "2:45 am",
-      "artist": "David Bowie",
-      "title": "Ziggy Stardust",
-      "album": "Rise & Fall of Ziggy Stardust and the Spiders from Marss • 1972"
     }
   ]
 }
