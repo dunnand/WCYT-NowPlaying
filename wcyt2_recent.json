@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T01:30:28",
+  "updatedAt": "2026-11-22T01:30:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Time",
+    "album": "Aladdin Sane • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:30 am",
-      "artist": "David Bowie",
-      "title": "Time"
-    },
     {
       "time": "1:35 am",
       "artist": "David Bowie",
@@ -26,9 +21,20 @@
       "time": "1:47 am",
       "artist": "Diana Ross & The Supremes",
       "title": "My World Is Empty Without You"
+    },
+    {
+      "time": "1:50 am",
+      "artist": "David Bowie",
+      "title": "Win"
     }
   ],
   "recent": [
+    {
+      "time": "1:30 am",
+      "artist": "David Bowie",
+      "title": "Time",
+      "album": "Aladdin Sane • 1973"
+    },
     {
       "time": "1:27 am",
       "artist": "Haim",
@@ -172,12 +178,6 @@
       "artist": "Little Richard",
       "title": "Lucille",
       "album": "Little Richard • 1958"
-    },
-    {
-      "time": "11:57 pm",
-      "artist": "Sonic Youth",
-      "title": "Bull in the Heather",
-      "album": "Experimental Jet Set, Trash and No Star • 1994"
     }
   ]
 }
