@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T19:12:39",
+  "updatedAt": "2026-11-21T19:15:23",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Help Me, Rhonda",
-    "album": "Summer Days • 1965",
+    "artist": "David Bowie",
+    "title": "Fantastic Voyage",
+    "album": "Lodger • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 pm",
-      "artist": "David Bowie",
-      "title": "Fantastic Voyage"
-    },
     {
       "time": "7:18 pm",
       "artist": "The Smashing Pumpkins",
@@ -26,9 +21,20 @@
       "time": "7:23 pm",
       "artist": "Taylor Swift",
       "title": "Exile feat. Bon Iver"
+    },
+    {
+      "time": "7:28 pm",
+      "artist": "Dixie Cups",
+      "title": "Chapel Of Love"
     }
   ],
   "recent": [
+    {
+      "time": "7:15 pm",
+      "artist": "David Bowie",
+      "title": "Fantastic Voyage",
+      "album": "Lodger • 1979"
+    },
     {
       "time": "7:12 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Untitled",
       "album": "The Aeroplane Flies High • 1996"
-    },
-    {
-      "time": "5:40 pm",
-      "artist": "The Beach Boys",
-      "title": "Heroes and Villains",
-      "album": "The Smile Sessions • 2011"
     }
   ]
 }
