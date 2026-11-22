@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T01:30:38",
+  "updatedAt": "2026-11-22T01:35:43",
   "now": {
     "artist": "David Bowie",
-    "title": "Time",
-    "album": "Aladdin Sane • 1973",
+    "title": "Wild Is the Wind",
+    "album": "Station to Station • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:35 am",
-      "artist": "David Bowie",
-      "title": "Wild Is the Wind"
-    },
     {
       "time": "1:41 am",
       "artist": "The Weeknd",
@@ -26,9 +21,20 @@
       "time": "1:50 am",
       "artist": "David Bowie",
       "title": "Win"
+    },
+    {
+      "time": "1:54 am",
+      "artist": "Sonic Youth",
+      "title": "Tunic (Song for Karen)"
     }
   ],
   "recent": [
+    {
+      "time": "1:35 am",
+      "artist": "David Bowie",
+      "title": "Wild Is the Wind",
+      "album": "Station to Station • 1976"
+    },
     {
       "time": "1:30 am",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Spaceman",
       "album": "Day & Age • 2008"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Little Richard",
-      "title": "Lucille",
-      "album": "Little Richard • 1958"
     }
   ]
 }
