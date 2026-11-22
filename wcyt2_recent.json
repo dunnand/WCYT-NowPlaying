@@ -1,34 +1,40 @@
 {
-  "updatedAt": "2026-11-22T16:48:28",
+  "updatedAt": "2026-11-22T16:52:12",
   "now": {
-    "artist": "Goo Goo Dolls",
-    "title": "Here Is Gone",
-    "album": "Gutterflower • 2002",
+    "artist": "Gorillaz",
+    "title": "On Melancholy Hill",
+    "album": "Plastic Beach • 2010",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "4:52 pm",
+      "time": "4:55 pm",
+      "artist": "Goo Goo Dolls",
+      "title": "Here Is Gone"
+    },
+    {
+      "time": "5:00 pm",
       "artist": "Gorillaz",
       "title": "On Melancholy Hill"
     },
     {
-      "time": "4:56 pm",
+      "time": "5:03 pm",
       "artist": "Vic Chesnutt",
       "title": "Replenished"
     },
     {
-      "time": "5:00 pm",
+      "time": "5:07 pm",
       "artist": "Violent Femmes",
       "title": "American Music"
-    },
-    {
-      "time": "5:03 pm",
-      "artist": "Huey Lewis & The News",
-      "title": "I Want A New Drug"
     }
   ],
   "recent": [
+    {
+      "time": "4:52 pm",
+      "artist": "Gorillaz",
+      "title": "On Melancholy Hill",
+      "album": "Plastic Beach • 2010"
+    },
     {
       "time": "4:48 pm",
       "artist": "Goo Goo Dolls",
@@ -172,12 +178,6 @@
       "artist": "Funkadelic",
       "title": "Can You Get to That",
       "album": "Maggot Brain • 1971"
-    },
-    {
-      "time": "3:09 pm",
-      "artist": "HAIM",
-      "title": "Lost Track",
-      "album": "Single •"
     }
   ]
 }
