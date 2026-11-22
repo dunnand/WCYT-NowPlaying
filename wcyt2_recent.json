@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T15:49:31",
+  "updatedAt": "2026-11-22T15:53:53",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Rope",
-    "album": "Wasting Light • 2011",
+    "artist": "Tom Petty and the Heartbreakers",
+    "title": "Out in the Cold",
+    "album": "Into the Great Wide Open • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:53 pm",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Out in the Cold"
-    },
     {
       "time": "3:57 pm",
       "artist": "Tom Petty and the Heartbreakers",
@@ -21,9 +16,20 @@
       "time": "4:03 pm",
       "artist": "James Taylor & J.D. Souther",
       "title": "Her Town Too"
+    },
+    {
+      "time": "4:08 pm",
+      "artist": "Cocteau Twins",
+      "title": "Ivo"
     }
   ],
   "recent": [
+    {
+      "time": "3:53 pm",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Out in the Cold",
+      "album": "Into the Great Wide Open • 1991"
+    },
     {
       "time": "3:49 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Fleetwood Mac",
       "title": "Sisters of the Moon",
       "album": "Tusk • 1979"
-    },
-    {
-      "time": "2:09 pm",
-      "artist": "Wilco",
-      "title": "You Never Know",
-      "album": "Wilco • 2009"
     }
   ]
 }
