@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T14:18:52",
+  "updatedAt": "2026-11-22T14:22:57",
   "now": {
-    "artist": "Interpol",
-    "title": "Narc",
-    "album": "Antics • 2004",
-    "category": "TUNES"
+    "artist": "David Bowie",
+    "title": "Where Are We Now?",
+    "album": "The Next Day • 2013",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:22 pm",
-      "artist": "David Bowie",
-      "title": "Where Are We Now?"
-    },
     {
       "time": "2:27 pm",
       "artist": "Fleetwood Mac",
@@ -26,9 +21,20 @@
       "time": "2:34 pm",
       "artist": "Erykah Badu",
       "title": "Window Seat"
+    },
+    {
+      "time": "2:39 pm",
+      "artist": "Grandaddy",
+      "title": "The Crystal Lake"
     }
   ],
   "recent": [
+    {
+      "time": "2:22 pm",
+      "artist": "David Bowie",
+      "title": "Where Are We Now?",
+      "album": "The Next Day • 2013"
+    },
     {
       "time": "2:18 pm",
       "artist": "Interpol",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Johnny B. Goode",
       "album": "Berry Is on Top • 1959"
-    },
-    {
-      "time": "12:33 pm",
-      "artist": "The Prodigy",
-      "title": "No Good (Start the Dance)",
-      "album": "Music for the Jilted Generation • 1994"
     }
   ]
 }
