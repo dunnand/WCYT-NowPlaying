@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T07:09:50",
+  "updatedAt": "2026-11-22T07:10:12",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The National",
+    "title": "Light Years",
+    "album": "I Am Easy To Find • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 am",
-      "artist": "The National",
-      "title": "Light Years"
-    },
     {
       "time": "7:13 am",
       "artist": "Declan McKenna",
@@ -26,9 +21,20 @@
       "time": "7:20 am",
       "artist": "The Decemberists",
       "title": "Oh No!"
+    },
+    {
+      "time": "7:25 am",
+      "artist": "Julien Baker",
+      "title": "Hound"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 am",
+      "artist": "The National",
+      "title": "Light Years",
+      "album": "I Am Easy To Find • 2019"
+    },
     {
       "time": "7:07 am",
       "artist": "Twisted Teens",
@@ -165,11 +171,6 @@
       "time": "5:32 am",
       "artist": "@",
       "title": "Bird"
-    },
-    {
-      "time": "5:28 am",
-      "artist": "Deep Sea Diver",
-      "title": "Teardrop"
     }
   ]
 }
