@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T07:18:28",
+  "updatedAt": "2026-11-22T07:21:10",
   "now": {
-    "artist": "Dion",
-    "title": "The Wanderer",
-    "album": "Runaround Sue • 1961",
+    "artist": "Elton John",
+    "title": "Honky Cat",
+    "album": "Honky Chteau • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:21 am",
-      "artist": "Elton John",
-      "title": "Honky Cat"
-    },
     {
       "time": "7:26 am",
       "artist": "Supergrass",
@@ -26,9 +21,20 @@
       "time": "7:33 am",
       "artist": "Weezer",
       "title": "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)"
+    },
+    {
+      "time": "7:39 am",
+      "artist": "Bee Gees",
+      "title": "I Started A Joke"
     }
   ],
   "recent": [
+    {
+      "time": "7:21 am",
+      "artist": "Elton John",
+      "title": "Honky Cat",
+      "album": "Honky Chteau • 1972"
+    },
     {
       "time": "7:18 am",
       "artist": "Dion",
@@ -172,12 +178,6 @@
       "artist": "Super Furry Animals",
       "title": "Something 4 the Weekend",
       "album": "Fuzzy Logic • 1996"
-    },
-    {
-      "time": "5:50 am",
-      "artist": "Charles Bradley",
-      "title": "The World (Is Going Up in Flames)",
-      "album": "No Time For Dreaming • 2011"
     }
   ]
 }
