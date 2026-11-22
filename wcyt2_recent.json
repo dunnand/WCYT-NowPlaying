@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T00:50:14",
+  "updatedAt": "2026-11-22T00:54:01",
   "now": {
-    "artist": "David Bowie",
-    "title": "The Man Who Sold the World",
-    "album": "The Man Who Sold the World • 1970",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "Kool Thing",
+    "album": "Goo • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:54 am",
-      "artist": "Sonic Youth",
-      "title": "Kool Thing"
-    },
     {
       "time": "12:58 am",
       "artist": "Little Richard",
@@ -21,9 +16,20 @@
       "time": "1:00 am",
       "artist": "The Streets",
       "title": "Fit but You Know It"
+    },
+    {
+      "time": "1:03 am",
+      "artist": "The Four Seasons",
+      "title": "Candy Girl"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "Sonic Youth",
+      "title": "Kool Thing",
+      "album": "Goo • 1990"
+    },
     {
       "time": "12:50 am",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Sonic Youth",
       "title": "100%",
       "album": "Dirty • 1992"
-    },
-    {
-      "time": "10:31 pm",
-      "artist": "The Smashing Pumpkins",
-      "title": "Today",
-      "album": "Siamese Dream • 1993"
     }
   ]
 }
