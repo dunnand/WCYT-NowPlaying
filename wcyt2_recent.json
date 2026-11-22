@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T05:36:24",
+  "updatedAt": "2026-11-22T05:39:31",
   "now": {
-    "artist": "Super Furry Animals",
-    "title": "Play It Cool",
-    "album": "Fuzzy Logic • 1996",
+    "artist": "Charles Bradley",
+    "title": "Strictly Reserved For You",
+    "album": "Victim of Love • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:39 am",
-      "artist": "Charles Bradley",
-      "title": "Strictly Reserved For You"
-    },
     {
       "time": "5:43 am",
       "artist": "Weezer",
@@ -21,9 +16,20 @@
       "time": "5:46 am",
       "artist": "Weezer",
       "title": "Perfect Situation"
+    },
+    {
+      "time": "5:50 am",
+      "artist": "Charles Bradley",
+      "title": "The World (Is Going Up in Flames)"
     }
   ],
   "recent": [
+    {
+      "time": "5:39 am",
+      "artist": "Charles Bradley",
+      "title": "Strictly Reserved For You",
+      "album": "Victim of Love • 2013"
+    },
     {
       "time": "5:36 am",
       "artist": "Super Furry Animals",
@@ -151,11 +157,6 @@
       "time": "3:50 am",
       "artist": "The Everly Brothers",
       "title": "Bye, Bye Love"
-    },
-    {
-      "time": "3:46 am",
-      "artist": "Stone Temple Pilots",
-      "title": "Tumble in the Rough"
     }
   ]
 }
