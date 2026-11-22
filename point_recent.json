@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T05:57:03",
+  "updatedAt": "2026-11-22T05:57:25",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Dummy",
+    "title": "Touch the Perfect Speed",
+    "album": "do you love the color of the sky? • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:57 am",
-      "artist": "Dummy",
-      "title": "Touch the Perfect Speed"
-    },
     {
       "time": "6:01 am",
       "artist": "Angel Olsen",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:57 am",
+      "artist": "Dummy",
+      "title": "Touch the Perfect Speed",
+      "album": "do you love the color of the sky? • 2026"
+    },
     {
       "time": "5:53 am",
       "artist": "The Beths",
@@ -172,12 +173,6 @@
       "artist": "Silver Jews",
       "title": "People",
       "album": "American Water • 1998"
-    },
-    {
-      "time": "4:24 am",
-      "artist": "Babehoven",
-      "title": "Blue Around You",
-      "album": "I See Them, I See Me • 2026"
     }
   ]
 }
