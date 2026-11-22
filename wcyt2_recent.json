@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T13:47:02",
+  "updatedAt": "2026-11-22T13:50:56",
   "now": {
-    "artist": "David Bowie",
-    "title": "The Stars (Are Out Tonight)",
-    "album": "The Next Day • 2013",
+    "artist": "Tom Petty",
+    "title": "It's Good to Be King",
+    "album": "Wildflowers • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:50 pm",
-      "artist": "Tom Petty",
-      "title": "It's Good to Be King"
-    },
     {
       "time": "1:56 pm",
       "artist": "Tom Petty",
@@ -21,9 +16,20 @@
       "time": "1:59 pm",
       "artist": "U2",
       "title": "Seconds"
+    },
+    {
+      "time": "2:02 pm",
+      "artist": "Bruce Springsteen",
+      "title": "One Step Up"
     }
   ],
   "recent": [
+    {
+      "time": "1:50 pm",
+      "artist": "Tom Petty",
+      "title": "It's Good to Be King",
+      "album": "Wildflowers • 1994"
+    },
     {
       "time": "1:47 pm",
       "artist": "David Bowie",
@@ -167,12 +173,6 @@
       "artist": "Fleetwood Mac",
       "title": "Seven Wonders",
       "album": "Tango in the Night • 1987"
-    },
-    {
-      "time": "12:00 pm",
-      "artist": "Mr. Mister",
-      "title": "Broken Wings",
-      "album": "Welcome to the Real World • 1985"
     }
   ]
 }
