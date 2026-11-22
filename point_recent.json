@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T12:01:21",
+  "updatedAt": "2026-11-22T12:01:52",
   "now": {
-    "artist": "Sponsor",
-    "title": "Sponsor",
-    "album": "",
-    "category": "IDS"
+    "artist": "Sufjan Stevens",
+    "title": "Tonya Harding",
+    "album": "Tonya •",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Tonya Harding"
-    },
     {
       "time": "12:06 pm",
       "artist": "Junior Pro",
@@ -21,9 +16,25 @@
       "time": "12:09 pm",
       "artist": "Violent Femmes",
       "title": "Blister in the Sun"
+    },
+    {
+      "time": "12:12 pm",
+      "artist": "Death Cab For Cutie",
+      "title": "Punching The Flowers"
+    },
+    {
+      "time": "12:15 pm",
+      "artist": "The Beths",
+      "title": "Out of Sight"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Tonya Harding",
+      "album": "Tonya •"
+    },
     {
       "time": "11:57 am",
       "artist": "Westside Cowboy",
@@ -167,12 +178,6 @@
       "artist": "Eric Slick",
       "title": "Talking Too Much",
       "album": "Bounce House • 2026"
-    },
-    {
-      "time": "10:19 am",
-      "artist": "shame",
-      "title": "Quiet Life",
-      "album": "Cutthroat • 2025"
     }
   ]
 }
