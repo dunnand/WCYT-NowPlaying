@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T00:58:13",
+  "updatedAt": "2026-11-22T01:00:24",
   "now": {
-    "artist": "Little Richard",
-    "title": "Keep a Knockin'",
-    "album": "Little Richard • 1958",
+    "artist": "The Streets",
+    "title": "Fit but You Know It",
+    "album": "A Grand Don't Come for Free • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "The Streets",
-      "title": "Fit but You Know It"
-    },
     {
       "time": "1:03 am",
       "artist": "The Four Seasons",
@@ -21,9 +16,20 @@
       "time": "1:06 am",
       "artist": "Brandi Carlile",
       "title": "The Joke"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "Sonic Youth",
+      "title": "Sunday"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "The Streets",
+      "title": "Fit but You Know It",
+      "album": "A Grand Don't Come for Free • 2004"
+    },
     {
       "time": "12:58 am",
       "artist": "Little Richard",
@@ -167,12 +173,6 @@
       "artist": "Men Without Hats",
       "title": "The Safety Dance",
       "album": "Rhythm of Youth • 1982"
-    },
-    {
-      "time": "10:36 pm",
-      "artist": "Kenny Rogers & Dolly Parton",
-      "title": "Islands In The Stream",
-      "album": "Eyes That See in the Dark • 1983"
     }
   ]
 }
