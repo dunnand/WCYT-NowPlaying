@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-21T22:31:06",
+  "updatedAt": "2026-11-21T22:34:17",
   "now": {
-    "artist": "The Smashing Pumpkins",
-    "title": "Today",
-    "album": "Siamese Dream • 1993",
-    "category": "AUDIO"
+    "artist": "Sonic Youth",
+    "title": "100%",
+    "album": "Dirty • 1992",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:34 pm",
-      "artist": "Sonic Youth",
-      "title": "100%"
-    },
     {
       "time": "10:36 pm",
       "artist": "Kenny Rogers & Dolly Parton",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:34 pm",
+      "artist": "Sonic Youth",
+      "title": "100%",
+      "album": "Dirty • 1992"
+    },
     {
       "time": "10:31 pm",
       "artist": "The Smashing Pumpkins",
@@ -172,12 +173,6 @@
       "artist": "The Killers",
       "title": "Human",
       "album": "Day & Age • 2008"
-    },
-    {
-      "time": "8:59 pm",
-      "artist": "David Bowie",
-      "title": "Life on Mars?",
-      "album": "Hunky Dory • 1971"
     }
   ]
 }
