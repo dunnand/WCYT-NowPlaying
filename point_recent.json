@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T04:22:38",
+  "updatedAt": "2026-11-22T04:22:48",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Mac DeMarco",
+    "title": "Home",
+    "album": "Guitar • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:22 am",
-      "artist": "Mac DeMarco",
-      "title": "Home"
-    },
     {
       "time": "4:24 am",
       "artist": "Babehoven",
@@ -26,9 +21,20 @@
       "time": "4:33 am",
       "artist": "the Mountain Goats",
       "title": "Candlebox"
+    },
+    {
+      "time": "4:36 am",
+      "artist": "Ty Segall",
+      "title": "Glass"
     }
   ],
   "recent": [
+    {
+      "time": "4:22 am",
+      "artist": "Mac DeMarco",
+      "title": "Home",
+      "album": "Guitar • 2025"
+    },
     {
       "time": "4:18 am",
       "artist": "Nick Cave & the Bad Seeds",
@@ -172,12 +178,6 @@
       "artist": "Queens of the Stone Age",
       "title": "Insignificant Other",
       "album": "Perfecth • 2026"
-    },
-    {
-      "time": "2:41 am",
-      "artist": "Mamalarky",
-      "title": "Anhedonia",
-      "album": "Hex Key • 2025"
     }
   ]
 }
