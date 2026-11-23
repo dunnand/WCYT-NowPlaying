@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T09:22:11",
+  "updatedAt": "2026-11-23T09:26:24",
   "now": {
-    "artist": "Lana Del Rey",
-    "title": "Summertime Sadness",
-    "album": "Born to Die • 2012",
+    "artist": "Soundgarden",
+    "title": "Rusty Cage",
+    "album": "Badmotorfinger • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:26 am",
-      "artist": "Soundgarden",
-      "title": "Rusty Cage"
-    },
     {
       "time": "9:31 am",
       "artist": "Lou Bega",
@@ -21,9 +16,20 @@
       "time": "9:34 am",
       "artist": "Queen",
       "title": "Another One Bites The Dust"
+    },
+    {
+      "time": "9:38 am",
+      "artist": "Tom Petty",
+      "title": "Yer So Bad"
     }
   ],
   "recent": [
+    {
+      "time": "9:26 am",
+      "artist": "Soundgarden",
+      "title": "Rusty Cage",
+      "album": "Badmotorfinger • 1991"
+    },
     {
       "time": "9:22 am",
       "artist": "Lana Del Rey",
@@ -167,12 +173,6 @@
       "artist": "John Lennon",
       "title": "#9 Dream",
       "album": "Walls and Bridges • 1974"
-    },
-    {
-      "time": "7:49 am",
-      "artist": "John Cale",
-      "title": "Paris 1919",
-      "album": "Paris 1919 • 1973"
     }
   ]
 }
