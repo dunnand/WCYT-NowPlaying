@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T11:38:06",
+  "updatedAt": "2026-11-23T11:41:28",
   "now": {
-    "artist": "ABC",
-    "title": "Poison Arrow",
-    "album": "The Lexicon of Love • 1982",
+    "artist": "Olivia Rodrigo",
+    "title": "drop dead",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:41 am",
-      "artist": "Olivia Rodrigo",
-      "title": "drop dead"
-    },
     {
       "time": "11:45 am",
       "artist": "John Prine",
@@ -21,9 +16,20 @@
       "time": "11:48 am",
       "artist": "John Prine",
       "title": "Sam Stone"
+    },
+    {
+      "time": "11:53 am",
+      "artist": "The Mountain Goats",
+      "title": "Fall of the Star High School Running Back"
     }
   ],
   "recent": [
+    {
+      "time": "11:41 am",
+      "artist": "Olivia Rodrigo",
+      "title": "drop dead",
+      "album": ""
+    },
     {
       "time": "11:38 am",
       "artist": "ABC",
@@ -167,12 +173,6 @@
       "artist": "Jim O'Rourke",
       "title": "Ghost Ship in a Storm",
       "album": "x •"
-    },
-    {
-      "time": "10:00 am",
-      "artist": "John Prine",
-      "title": "Angel From Montgomery",
-      "album": "John Prine • 1971"
     }
   ]
 }
