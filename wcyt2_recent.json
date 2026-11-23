@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T10:27:10",
+  "updatedAt": "2026-11-23T10:30:34",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Rose Parade",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Van Halen",
+    "title": "Jump",
+    "album": "1984 • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:30 am",
-      "artist": "Van Halen",
-      "title": "Jump"
-    },
     {
       "time": "10:34 am",
       "artist": "Wipers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:30 am",
+      "artist": "Van Halen",
+      "title": "Jump",
+      "album": "1984 • 1984"
+    },
     {
       "time": "10:27 am",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Lana Del Rey",
       "title": "Brooklyn Baby",
       "album": "Ultraviolence • 2014"
-    },
-    {
-      "time": "8:53 am",
-      "artist": "The Microphones",
-      "title": "I Want Wind to Blow",
-      "album": "The Glow, Part 2 • 2001"
     }
   ]
 }
