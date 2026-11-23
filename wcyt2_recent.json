@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T22:24:59",
+  "updatedAt": "2026-11-22T22:31:13",
   "now": {
-    "artist": "David Bowie",
-    "title": "Lazarus",
-    "album": "Blackstar • 2016",
+    "artist": "Fleetwood Mac",
+    "title": "Not That Funny",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:31 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Not That Funny"
-    },
     {
       "time": "10:34 pm",
       "artist": "Tom Petty",
@@ -26,9 +21,20 @@
       "time": "10:40 pm",
       "artist": "Wilco",
       "title": "You And I"
+    },
+    {
+      "time": "10:44 pm",
+      "artist": "Neil Diamond",
+      "title": "Cherry, Cherry"
     }
   ],
   "recent": [
+    {
+      "time": "10:31 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Not That Funny",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "10:24 pm",
       "artist": "David Bowie",
@@ -172,12 +178,6 @@
       "artist": "Grateful Dead",
       "title": "Casey Jones",
       "album": "Workingman's Dead • 1970"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "Yuka Tsujiyoko",
-      "title": "Fire Emblem: Seisen no Keifu (The Continent Thereafter)",
-      "album": "Nintendo Music •"
     }
   ]
 }
