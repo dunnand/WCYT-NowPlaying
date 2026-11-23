@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T10:23:25",
+  "updatedAt": "2026-11-23T10:27:06",
   "now": {
-    "artist": "Mr Vegas",
-    "title": "Heads High",
-    "album": "Heads High • 1998",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Rose Parade",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:27 am",
-      "artist": "Elliott Smith",
-      "title": "Rose Parade"
-    },
     {
       "time": "10:30 am",
       "artist": "Van Halen",
@@ -21,9 +16,25 @@
       "time": "10:34 am",
       "artist": "Wipers",
       "title": "Youth of America"
+    },
+    {
+      "time": "10:44 am",
+      "artist": "Weezer",
+      "title": "We Might as Well Be Strangers (feat. Wednesday)"
+    },
+    {
+      "time": "10:48 am",
+      "artist": "Jose Gonzalez",
+      "title": "Heartbeats"
     }
   ],
   "recent": [
+    {
+      "time": "10:27 am",
+      "artist": "Elliott Smith",
+      "title": "Rose Parade",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "10:23 am",
       "artist": "Mr Vegas",
@@ -167,12 +178,6 @@
       "artist": "The Microphones",
       "title": "I Want Wind to Blow",
       "album": "The Glow, Part 2 • 2001"
-    },
-    {
-      "time": "8:50 am",
-      "artist": "John Lennon",
-      "title": "Isolation",
-      "album": "John Lennon/Plastic Ono Band • 1970"
     }
   ]
 }
