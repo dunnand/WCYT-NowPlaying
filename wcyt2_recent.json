@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T20:12:35",
+  "updatedAt": "2026-11-22T20:15:57",
   "now": {
-    "artist": "Peter, Paul & Mary",
-    "title": "Puff The Magic Dragon",
-    "album": "Moving • 1963",
+    "artist": "Grateful Dead",
+    "title": "Box Of Rain",
+    "album": "American Beauty • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 pm",
-      "artist": "Grateful Dead",
-      "title": "Box Of Rain"
-    },
     {
       "time": "8:21 pm",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:15 pm",
+      "artist": "Grateful Dead",
+      "title": "Box Of Rain",
+      "album": "American Beauty • 1970"
+    },
     {
       "time": "8:12 pm",
       "artist": "Peter, Paul & Mary",
@@ -172,12 +173,6 @@
       "artist": "Weezer",
       "title": "Falling for You",
       "album": "Pinkerton • 1996"
-    },
-    {
-      "time": "6:33 pm",
-      "artist": "Gorillaz",
-      "title": "Stylo feat. Mos Def and Bobby Womack",
-      "album": "Plastic Beach • 2010"
     }
   ]
 }
