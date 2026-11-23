@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T16:02:39",
+  "updatedAt": "2026-11-23T16:04:54",
   "now": {
-    "artist": "Louis Armstrong",
-    "title": "What a Wonderful World",
-    "album": "single • 1967",
+    "artist": "Led Zeppelin",
+    "title": "Dancing Days",
+    "album": "Houses of the Holy • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:04 pm",
-      "artist": "Led Zeppelin",
-      "title": "Dancing Days"
-    },
     {
       "time": "4:08 pm",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "4:19 pm",
       "artist": "Outkast",
       "title": "B.O.B. (Bombs Over Baghdad)"
+    },
+    {
+      "time": "4:23 pm",
+      "artist": "Guided by Voices",
+      "title": "Chasing Heather Crazy"
     }
   ],
   "recent": [
+    {
+      "time": "4:04 pm",
+      "artist": "Led Zeppelin",
+      "title": "Dancing Days",
+      "album": "Houses of the Holy • 1973"
+    },
     {
       "time": "4:02 pm",
       "artist": "Louis Armstrong",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Independence Day",
       "album": "XO • 1998"
-    },
-    {
-      "time": "2:28 pm",
-      "artist": "OK Go",
-      "title": "This Too Shall Pass",
-      "album": "Of the Blue Colour of the Sky • 2010"
     }
   ]
 }
