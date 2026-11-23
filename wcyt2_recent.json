@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T04:57:12",
+  "updatedAt": "2026-11-23T05:00:24",
   "now": {
-    "artist": "PJ Harvey",
-    "title": "Good Fortune",
-    "album": "Stories from the City, Stories from the Sea • 2000",
-    "category": "TUNES"
+    "artist": "Simon & Garfunkel",
+    "title": "Homeward Bound",
+    "album": "Parsley, Sage, Rosemary and Thyme • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:00 am",
-      "artist": "Simon & Garfunkel",
-      "title": "Homeward Bound"
-    },
     {
       "time": "5:02 am",
       "artist": "James Brown",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:00 am",
+      "artist": "Simon & Garfunkel",
+      "title": "Homeward Bound",
+      "album": "Parsley, Sage, Rosemary and Thyme • 1966"
+    },
     {
       "time": "4:57 am",
       "artist": "PJ Harvey",
@@ -173,11 +174,6 @@
       "time": "2:51 am",
       "artist": "Isaac Hayes",
       "title": "Never Can Say Goodbye"
-    },
-    {
-      "time": "2:48 am",
-      "artist": "Rolling Stones",
-      "title": "Ruby Tuesday"
     }
   ]
 }
