@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T00:05:01",
+  "updatedAt": "2026-11-23T00:05:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "My Morning Jacket",
+    "title": "Bermuda Highway",
+    "album": "At Dawn • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:05 am",
-      "artist": "My Morning Jacket",
-      "title": "Bermuda Highway"
-    },
     {
       "time": "12:08 am",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "12:18 am",
       "artist": "Wilco",
       "title": "Casino Queen"
+    },
+    {
+      "time": "12:21 am",
+      "artist": "Wilco",
+      "title": "Far, Far Away"
     }
   ],
   "recent": [
+    {
+      "time": "12:05 am",
+      "artist": "My Morning Jacket",
+      "title": "Bermuda Highway",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "12:01 am",
       "artist": "Jason Isbell and the 400 Unit",
@@ -172,12 +178,6 @@
       "artist": "They Might Be Giants",
       "title": "Istanbul (Not Constantinople)",
       "album": "Flood • 1990"
-    },
-    {
-      "time": "9:56 pm",
-      "artist": "They Might Be Giants",
-      "title": "I Should Be Allowed to Think",
-      "album": "John Henry • 1994"
     }
   ]
 }
