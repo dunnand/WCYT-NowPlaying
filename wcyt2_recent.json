@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T09:41:04",
+  "updatedAt": "2026-11-23T09:45:12",
   "now": {
-    "artist": "HAIM",
-    "title": "Honey & I",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "You Said Something",
+    "album": "Stories from the City, Stories from the Sea • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:45 am",
-      "artist": "PJ Harvey",
-      "title": "You Said Something"
-    },
     {
       "time": "9:48 am",
       "artist": "John Lennon",
@@ -26,9 +21,20 @@
       "time": "9:56 am",
       "artist": "Leonard Cohen",
       "title": "I Want It Darker"
+    },
+    {
+      "time": "10:01 am",
+      "artist": "John Prine",
+      "title": "Angel From Montgomery"
     }
   ],
   "recent": [
+    {
+      "time": "9:45 am",
+      "artist": "PJ Harvey",
+      "title": "You Said Something",
+      "album": "Stories from the City, Stories from the Sea • 2000"
+    },
     {
       "time": "9:41 am",
       "artist": "HAIM",
@@ -172,12 +178,6 @@
       "artist": "Ritchie Valens",
       "title": "Donna",
       "album": "Ritchie Valens • 1959"
-    },
-    {
-      "time": "8:05 am",
-      "artist": "Pavement",
-      "title": "Range Life",
-      "album": "Crooked Rain, Crooked Rain • 1994"
     }
   ]
 }
