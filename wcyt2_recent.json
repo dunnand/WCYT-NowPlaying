@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T09:04:57",
+  "updatedAt": "2026-11-23T09:09:01",
   "now": {
-    "artist": "John Lennon",
-    "title": "Jealous Guy",
-    "album": "Imagine • 1971",
-    "category": "AUDIO"
+    "artist": "Sebadoh",
+    "title": "Weird",
+    "album": "The Sebadoh • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:09 am",
-      "artist": "Sebadoh",
-      "title": "Weird"
-    },
     {
       "time": "9:12 am",
       "artist": "Ritchie Valens",
@@ -26,9 +21,20 @@
       "time": "9:19 am",
       "artist": "Johnny Rivers",
       "title": "Baby I Need Your Lovin'"
+    },
+    {
+      "time": "9:22 am",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness"
     }
   ],
   "recent": [
+    {
+      "time": "9:08 am",
+      "artist": "Sebadoh",
+      "title": "Weird",
+      "album": "The Sebadoh • 1999"
+    },
     {
       "time": "9:04 am",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "Joan Osborne",
       "title": "One Of Us",
       "album": "Relish • 1995"
-    },
-    {
-      "time": "7:28 am",
-      "artist": "Guided by Voices",
-      "title": "Echos Myron",
-      "album": "Bee Thousand • 1994"
     }
   ]
 }
