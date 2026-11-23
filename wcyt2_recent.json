@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T08:00:21",
+  "updatedAt": "2026-11-23T08:03:04",
   "now": {
-    "artist": "Stan Getz & Astrud Gilberto",
-    "title": "The Girl From Ipanema",
-    "album": "Getz/Gilberto • 1964",
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "album": "Imagine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:03 am",
-      "artist": "John Lennon",
-      "title": "Imagine"
-    },
     {
       "time": "8:06 am",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "8:13 am",
       "artist": "Guided by Voices",
       "title": "The Best of Jill Hives"
+    },
+    {
+      "time": "8:16 am",
+      "artist": "Peter, Paul & Mary",
+      "title": "Leaving On A Jet Plane"
     }
   ],
   "recent": [
+    {
+      "time": "8:03 am",
+      "artist": "John Lennon",
+      "title": "Imagine",
+      "album": "Imagine • 1971"
+    },
     {
       "time": "8:00 am",
       "artist": "Stan Getz & Astrud Gilberto",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Until The End Of The World",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "6:24 am",
-      "artist": "Kendrick Lamar",
-      "title": "i",
-      "album": "To Pimp a Butterfly • 2015"
     }
   ]
 }
