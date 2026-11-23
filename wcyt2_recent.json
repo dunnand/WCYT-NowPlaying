@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T12:34:50",
+  "updatedAt": "2026-11-23T12:38:32",
   "now": {
-    "artist": "A Flock Of Seagulls",
-    "title": "Space Age Love Song",
-    "album": "A Flock of Seagulls • 1982",
+    "artist": "Olivia Rodrigo",
+    "title": "stupid song",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:38 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "stupid song"
-    },
     {
       "time": "12:42 pm",
       "artist": "Joni Mitchell",
@@ -21,9 +16,20 @@
       "time": "12:46 pm",
       "artist": "Solomon Burke",
       "title": "Cry to Me"
+    },
+    {
+      "time": "12:49 pm",
+      "artist": "Joni Mitchell",
+      "title": "Amelia"
     }
   ],
   "recent": [
+    {
+      "time": "12:38 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "stupid song",
+      "album": ""
+    },
     {
       "time": "12:34 pm",
       "artist": "A Flock Of Seagulls",
@@ -167,12 +173,6 @@
       "artist": "The Smashing Pumpkins",
       "title": "Perfect",
       "album": "Adore • 1998"
-    },
-    {
-      "time": "11:02 am",
-      "artist": "John Prine",
-      "title": "Illegal Smile",
-      "album": "John Prine • 1971"
     }
   ]
 }
