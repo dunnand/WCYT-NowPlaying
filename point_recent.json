@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T03:49:38",
+  "updatedAt": "2026-11-23T03:50:00",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Tom Waits",
+    "title": "Downtown Train",
+    "album": "Rain Dogs • 1985",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "Tom Waits",
-      "title": "Downtown Train"
-    },
     {
       "time": "3:53 am",
       "artist": "Big Thief",
@@ -26,9 +21,20 @@
       "time": "4:04 am",
       "artist": "Mandy, Indiana",
       "title": "Cursive"
+    },
+    {
+      "time": "4:09 am",
+      "artist": "Alvvays",
+      "title": "Lollipop (Ode To Jim)"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "Tom Waits",
+      "title": "Downtown Train",
+      "album": "Rain Dogs • 1985"
+    },
     {
       "time": "3:46 am",
       "artist": "Junior Pro",
@@ -149,11 +155,6 @@
       "time": "2:05 am",
       "artist": "Mac DeMarco",
       "title": "Baby's Wearing Blue Jeans"
-    },
-    {
-      "time": "2:01 am",
-      "artist": "Eaves Wilder",
-      "title": "Just Say No!"
     }
   ]
 }
