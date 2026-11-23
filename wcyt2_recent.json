@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T08:10:49",
+  "updatedAt": "2026-11-23T08:13:21",
   "now": {
-    "artist": "Ritchie Valens",
-    "title": "Donna",
-    "album": "Ritchie Valens • 1959",
-    "category": "AUDIO"
+    "artist": "Guided by Voices",
+    "title": "The Best of Jill Hives",
+    "album": "Earthquake Glue • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:13 am",
-      "artist": "Guided by Voices",
-      "title": "The Best of Jill Hives"
-    },
     {
       "time": "8:16 am",
       "artist": "Peter, Paul & Mary",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:13 am",
+      "artist": "Guided by Voices",
+      "title": "The Best of Jill Hives",
+      "album": "Earthquake Glue • 2003"
+    },
     {
       "time": "8:10 am",
       "artist": "Ritchie Valens",
@@ -172,12 +173,6 @@
       "artist": "U2",
       "title": "Two Hearts Beat as One",
       "album": "War • 1983"
-    },
-    {
-      "time": "6:36 am",
-      "artist": "The Fall",
-      "title": "Paint Work",
-      "album": "This Nation's Saving Grace • 1985"
     }
   ]
 }
