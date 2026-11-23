@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T15:55:00",
+  "updatedAt": "2026-11-23T15:59:19",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "D'yer Mak'er",
-    "album": "Houses of the Holy • 1973",
+    "artist": "Lady Gaga",
+    "title": "Paparazzi",
+    "album": "The Fame • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 pm",
-      "artist": "Lady Gaga",
-      "title": "Paparazzi"
-    },
     {
       "time": "4:02 pm",
       "artist": "Louis Armstrong",
@@ -26,9 +21,20 @@
       "time": "4:08 pm",
       "artist": "Pink Floyd",
       "title": "High Hopes"
+    },
+    {
+      "time": "4:15 pm",
+      "artist": "One Direction",
+      "title": "If I Could Fly"
     }
   ],
   "recent": [
+    {
+      "time": "3:59 pm",
+      "artist": "Lady Gaga",
+      "title": "Paparazzi",
+      "album": "The Fame • 2008"
+    },
     {
       "time": "3:54 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "Monkees",
       "title": "I'm A Believer",
       "album": "More of the Monkees • 1967"
-    },
-    {
-      "time": "2:20 pm",
-      "artist": "Hot Chip",
-      "title": "And I Was a Boy From School",
-      "album": "The Warning • 2006"
     }
   ]
 }
