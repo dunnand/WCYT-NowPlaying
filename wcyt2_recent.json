@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T16:26:18",
+  "updatedAt": "2026-11-23T16:29:12",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "New",
-    "album": "New • 2013",
+    "artist": "Love Battery",
+    "title": "Foot",
+    "album": "Dayglo • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:29 pm",
-      "artist": "Love Battery",
-      "title": "Foot"
-    },
     {
       "time": "4:32 pm",
       "artist": "Puff Daddy",
@@ -26,9 +21,20 @@
       "time": "4:40 pm",
       "artist": "Don Henley",
       "title": "All She Wants To Do Is Dance"
+    },
+    {
+      "time": "4:44 pm",
+      "artist": "The Weeknd",
+      "title": "Blinding Lights"
     }
   ],
   "recent": [
+    {
+      "time": "4:29 pm",
+      "artist": "Love Battery",
+      "title": "Foot",
+      "album": "Dayglo • 1992"
+    },
     {
       "time": "4:26 pm",
       "artist": "Paul McCartney",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Achilles Last Stand",
       "album": "Presence • 1976"
-    },
-    {
-      "time": "2:49 pm",
-      "artist": "Kraftwerk",
-      "title": "Trans-Europe Express",
-      "album": "Trans-Europe Express • 1977"
     }
   ]
 }
