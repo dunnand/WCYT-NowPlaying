@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T11:33:29",
+  "updatedAt": "2026-11-23T11:38:06",
   "now": {
-    "artist": "ABBA",
-    "title": "The Winner Takes It All",
-    "album": "Super Trouper • 1980",
+    "artist": "ABC",
+    "title": "Poison Arrow",
+    "album": "The Lexicon of Love • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:38 am",
-      "artist": "ABC",
-      "title": "Poison Arrow"
-    },
     {
       "time": "11:41 am",
       "artist": "Olivia Rodrigo",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:38 am",
+      "artist": "ABC",
+      "title": "Poison Arrow",
+      "album": "The Lexicon of Love • 1982"
+    },
     {
       "time": "11:33 am",
       "artist": "ABBA",
@@ -172,12 +173,6 @@
       "artist": "John Prine",
       "title": "Angel From Montgomery",
       "album": "John Prine • 1971"
-    },
-    {
-      "time": "9:56 am",
-      "artist": "Leonard Cohen",
-      "title": "I Want It Darker",
-      "album": "You Want It Darker • 2016"
     }
   ]
 }
