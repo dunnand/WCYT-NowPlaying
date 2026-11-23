@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T20:15:57",
+  "updatedAt": "2026-11-22T20:21:07",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Box Of Rain",
-    "album": "American Beauty • 1970",
+    "artist": "Weezer",
+    "title": "The Good Life",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:21 pm",
-      "artist": "Weezer",
-      "title": "The Good Life"
-    },
     {
       "time": "8:25 pm",
       "artist": "Coasters",
@@ -21,9 +16,20 @@
       "time": "8:28 pm",
       "artist": "Liquid Liquid",
       "title": "Cavern"
+    },
+    {
+      "time": "8:33 pm",
+      "artist": "Martha Reeves & The Vandellas",
+      "title": "(Love Is Like A) Heat Wave"
     }
   ],
   "recent": [
+    {
+      "time": "8:21 pm",
+      "artist": "Weezer",
+      "title": "The Good Life",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "8:15 pm",
       "artist": "Grateful Dead",
@@ -167,12 +173,6 @@
       "artist": "Weezer",
       "title": "My Name Is Jonas",
       "album": "Weezer • 1994"
-    },
-    {
-      "time": "6:38 pm",
-      "artist": "Weezer",
-      "title": "Falling for You",
-      "album": "Pinkerton • 1996"
     }
   ]
 }
