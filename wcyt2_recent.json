@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T11:45:14",
+  "updatedAt": "2026-11-23T11:48:46",
   "now": {
     "artist": "John Prine",
-    "title": "Pretty Good",
+    "title": "Sam Stone",
     "album": "John Prine • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:48 am",
-      "artist": "John Prine",
-      "title": "Sam Stone"
-    },
     {
       "time": "11:53 am",
       "artist": "The Mountain Goats",
@@ -26,9 +21,20 @@
       "time": "11:57 am",
       "artist": "John Prine",
       "title": "Sweet Revenge"
+    },
+    {
+      "time": "12:00 pm",
+      "artist": "MF DOOM",
+      "title": "Doomsday"
     }
   ],
   "recent": [
+    {
+      "time": "11:48 am",
+      "artist": "John Prine",
+      "title": "Sam Stone",
+      "album": "John Prine • 1971"
+    },
     {
       "time": "11:45 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "The Knife",
       "title": "Heartbeats",
       "album": "Deep Cuts • 2003"
-    },
-    {
-      "time": "10:07 am",
-      "artist": "Ray Charles",
-      "title": "What'd I Say, Pt. 1 & 2",
-      "album": "single • 1959"
     }
   ]
 }
