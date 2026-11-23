@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T01:37:23",
+  "updatedAt": "2026-11-23T01:41:46",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Uncle John's Band",
-    "album": "Workingman's Dead • 1970",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "I Thought You Were My Boyfriend",
+    "album": "i • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:41 am",
-      "artist": "The Magnetic Fields",
-      "title": "I Thought You Were My Boyfriend"
-    },
     {
       "time": "1:46 am",
       "artist": "Justin Timberlake",
@@ -26,9 +21,20 @@
       "time": "1:55 am",
       "artist": "Wilco",
       "title": "Monday"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "Johnny Cash",
+      "title": "Ballad Of A Teenage Queen"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 am",
+      "artist": "The Magnetic Fields",
+      "title": "I Thought You Were My Boyfriend",
+      "album": "i • 2004"
+    },
     {
       "time": "1:37 am",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "My Morning Jacket",
       "title": "Steam Engine",
       "album": "It Still Moves • 2003"
-    },
-    {
-      "time": "12:05 am",
-      "artist": "My Morning Jacket",
-      "title": "Bermuda Highway",
-      "album": "At Dawn • 2001"
     }
   ]
 }
