@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T04:15:13",
+  "updatedAt": "2026-11-23T04:18:47",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "A Boy Named Sue",
-    "album": "At San Quentin • 1969",
+    "artist": "Kamasi Washington",
+    "title": "Street Fighter Mas",
+    "album": "Heaven and Earth • 2018",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:18 am",
-      "artist": "Kamasi Washington",
-      "title": "Street Fighter Mas"
-    },
     {
       "time": "4:25 am",
       "artist": "Yo La Tengo",
@@ -21,9 +16,20 @@
       "time": "4:27 am",
       "artist": "The Magnetic Fields",
       "title": "100,000 Fireflies"
+    },
+    {
+      "time": "4:31 am",
+      "artist": "Joy Division",
+      "title": "Love Will Tear Us Apart"
     }
   ],
   "recent": [
+    {
+      "time": "4:18 am",
+      "artist": "Kamasi Washington",
+      "title": "Street Fighter Mas",
+      "album": "Heaven and Earth • 2018"
+    },
     {
       "time": "4:15 am",
       "artist": "Johnny Cash",
@@ -154,11 +160,6 @@
       "time": "2:16 am",
       "artist": "Wilco",
       "title": "She's a Jar"
-    },
-    {
-      "time": "2:10 am",
-      "artist": "Kamasi Washington",
-      "title": "Final Thought"
     }
   ]
 }
