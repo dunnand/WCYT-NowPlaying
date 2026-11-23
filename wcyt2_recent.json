@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T22:43:36",
+  "updatedAt": "2026-11-22T22:43:47",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Diamond",
+    "title": "Cherry, Cherry",
+    "album": "The Feel of Neil Diamond (1966 • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:43 pm",
-      "artist": "Neil Diamond",
-      "title": "Cherry, Cherry"
-    },
     {
       "time": "10:46 pm",
       "artist": "Wilco",
@@ -21,9 +16,20 @@
       "time": "10:49 pm",
       "artist": "Madonna",
       "title": "True Blue"
+    },
+    {
+      "time": "10:53 pm",
+      "artist": "Marshall Crenshaw",
+      "title": "Someday, Someway"
     }
   ],
   "recent": [
+    {
+      "time": "10:43 pm",
+      "artist": "Neil Diamond",
+      "title": "Cherry, Cherry",
+      "album": "The Feel of Neil Diamond (1966 • 1966"
+    },
     {
       "time": "10:40 pm",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "Grateful Dead",
       "title": "Franklin's Tower",
       "album": "Blues for Allah • 1975"
-    },
-    {
-      "time": "9:16 pm",
-      "artist": "Rolling Stones",
-      "title": "Get Off My Cloud",
-      "album": "Single • 1965"
     }
   ]
 }
