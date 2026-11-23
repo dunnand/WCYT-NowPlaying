@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T03:25:14",
+  "updatedAt": "2026-11-23T03:25:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Green Day",
+    "title": "Basket Case",
+    "album": "Dookie • 1994",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:25 am",
-      "artist": "Green Day",
-      "title": "Basket Case"
-    },
     {
       "time": "3:28 am",
       "artist": "Genesis",
@@ -26,9 +21,20 @@
       "time": "3:37 am",
       "artist": "Son Little",
       "title": "about her. again"
+    },
+    {
+      "time": "3:41 am",
+      "artist": "Modest Mouse",
+      "title": "Blame It on the Tetons"
     }
   ],
   "recent": [
+    {
+      "time": "3:25 am",
+      "artist": "Green Day",
+      "title": "Basket Case",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "3:21 am",
       "artist": "Go West",
@@ -172,12 +178,6 @@
       "artist": "The Magnetic Fields",
       "title": "I Thought You Were My Boyfriend",
       "album": "i • 2004"
-    },
-    {
-      "time": "1:37 am",
-      "artist": "Grateful Dead",
-      "title": "Uncle John's Band",
-      "album": "Workingman's Dead • 1970"
     }
   ]
 }
