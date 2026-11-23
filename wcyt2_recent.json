@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T06:12:43",
+  "updatedAt": "2026-11-23T06:15:25",
   "now": {
-    "artist": "Superchunk",
-    "title": "Precision Auto",
-    "album": "On The Mouth • 1993",
-    "category": "TUNES"
+    "artist": "The Orioles",
+    "title": "Crying in the Chapel",
+    "album": "single • 1953",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:15 am",
-      "artist": "The Orioles",
-      "title": "Crying in the Chapel"
-    },
     {
       "time": "6:18 am",
       "artist": "Kylie Minogue",
@@ -26,9 +21,20 @@
       "time": "6:24 am",
       "artist": "Kendrick Lamar",
       "title": "i"
+    },
+    {
+      "time": "6:27 am",
+      "artist": "U2",
+      "title": "Until The End Of The World"
     }
   ],
   "recent": [
+    {
+      "time": "6:15 am",
+      "artist": "The Orioles",
+      "title": "Crying in the Chapel",
+      "album": "single • 1953"
+    },
     {
       "time": "6:12 am",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "Joy Division",
       "title": "Love Will Tear Us Apart",
       "album": "Single • 1980"
-    },
-    {
-      "time": "4:27 am",
-      "artist": "The Magnetic Fields",
-      "title": "100,000 Fireflies",
-      "album": "Distant Plastic Trees • 1991"
     }
   ]
 }
