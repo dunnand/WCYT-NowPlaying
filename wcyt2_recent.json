@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T19:01:28",
+  "updatedAt": "2026-11-22T19:04:21",
   "now": {
     "artist": "George Harrison",
-    "title": "Awaiting On You All",
-    "album": "All Things Must Pass • 1970",
+    "title": "Blow Away",
+    "album": "George Harrison • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:04 pm",
-      "artist": "George Harrison",
-      "title": "Blow Away"
-    },
     {
       "time": "7:08 pm",
       "artist": "Iron & Wine",
@@ -26,9 +21,20 @@
       "time": "7:14 pm",
       "artist": "George Harrison",
       "title": "Isn't It a Pity"
+    },
+    {
+      "time": "7:21 pm",
+      "artist": "Weezer",
+      "title": "Pink Triangle"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 pm",
+      "artist": "George Harrison",
+      "title": "Blow Away",
+      "album": "George Harrison • 1979"
+    },
     {
       "time": "7:01 pm",
       "artist": "George Harrison",
@@ -172,12 +178,6 @@
       "artist": "No Doubt",
       "title": "It's My Life",
       "album": "The Singles 1992 - 2003 • 2003"
-    },
-    {
-      "time": "5:34 pm",
-      "artist": "Fats Domino",
-      "title": "I'm Walkin'",
-      "album": "Here Stands Fats Domino • 1957"
     }
   ]
 }
