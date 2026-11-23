@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T00:36:09",
+  "updatedAt": "2026-11-23T00:40:21",
   "now": {
-    "artist": "Grateful Dead",
-    "title": "Scarlet Begonias",
-    "album": "From the Mars Hotel • 1974",
+    "artist": "The McCoys",
+    "title": "Hang On Sloopy",
+    "album": "Hang On Sloopy • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 am",
-      "artist": "The McCoys",
-      "title": "Hang On Sloopy"
-    },
     {
       "time": "12:43 am",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "12:49 am",
       "artist": "Grateful Dead",
       "title": "Truckin'"
+    },
+    {
+      "time": "12:54 am",
+      "artist": "Wilco",
+      "title": "How to Fight Loneliness"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 am",
+      "artist": "The McCoys",
+      "title": "Hang On Sloopy",
+      "album": "Hang On Sloopy • 1965"
+    },
     {
       "time": "12:36 am",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Tom Petty",
       "title": "A Higher Place",
       "album": "Wildflowers • 1994"
-    },
-    {
-      "time": "10:31 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Not That Funny",
-      "album": "Tusk • 1979"
     }
   ]
 }
