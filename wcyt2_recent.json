@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T17:56:19",
+  "updatedAt": "2026-11-23T17:59:28",
   "now": {
-    "artist": "Ray Charles",
-    "title": "Born To Lose",
-    "album": "Dedicated to You • 1961",
+    "artist": "Led Zeppelin",
+    "title": "Misty Mountain Hop",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:59 pm",
-      "artist": "Led Zeppelin",
-      "title": "Misty Mountain Hop"
-    },
     {
       "time": "6:04 pm",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "6:12 pm",
       "artist": "Jurassic 5",
       "title": "Quality Control"
+    },
+    {
+      "time": "6:17 pm",
+      "artist": "Justice",
+      "title": "D.A.N.C.E."
     }
   ],
   "recent": [
+    {
+      "time": "5:59 pm",
+      "artist": "Led Zeppelin",
+      "title": "Misty Mountain Hop",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "5:56 pm",
       "artist": "Ray Charles",
@@ -170,11 +176,6 @@
       "time": "4:08 pm",
       "artist": "Pink Floyd",
       "title": "High Hopes"
-    },
-    {
-      "time": "4:04 pm",
-      "artist": "Led Zeppelin",
-      "title": "Dancing Days"
     }
   ]
 }
