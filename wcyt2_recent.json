@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T08:15:52",
+  "updatedAt": "2026-11-23T08:16:13",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Peter, Paul & Mary",
+    "title": "Leaving On A Jet Plane",
+    "album": "Album 1700 • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:16 am",
-      "artist": "Peter, Paul & Mary",
-      "title": "Leaving On A Jet Plane"
-    },
     {
       "time": "8:19 am",
       "artist": "Lady Gaga",
@@ -26,9 +21,20 @@
       "time": "8:27 am",
       "artist": "Ride",
       "title": "Twisterella"
+    },
+    {
+      "time": "8:30 am",
+      "artist": "Eric B. & Rakim",
+      "title": "I Ain't No Joke"
     }
   ],
   "recent": [
+    {
+      "time": "8:16 am",
+      "artist": "Peter, Paul & Mary",
+      "title": "Leaving On A Jet Plane",
+      "album": "Album 1700 • 1967"
+    },
     {
       "time": "8:13 am",
       "artist": "Guided by Voices",
@@ -172,12 +178,6 @@
       "artist": "Nick Cave and the Bad Seeds",
       "title": "Dig, Lazarus, Dig!!!",
       "album": ""
-    },
-    {
-      "time": "6:43 am",
-      "artist": "U2",
-      "title": "Two Hearts Beat as One",
-      "album": "War • 1983"
     }
   ]
 }
