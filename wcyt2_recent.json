@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T16:47:43",
+  "updatedAt": "2026-11-23T16:53:49",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Fool in the Rain",
-    "album": "In Through the Out Door • 1979",
+    "artist": "Righteous Brothers",
+    "title": "Ebb Tide",
+    "album": "Just Once in My Life • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:53 pm",
-      "artist": "Righteous Brothers",
-      "title": "Ebb Tide"
-    },
     {
       "time": "4:56 pm",
       "artist": "Led Zeppelin",
@@ -26,9 +21,20 @@
       "time": "5:02 pm",
       "artist": "Led Zeppelin",
       "title": "Houses of the Holy"
+    },
+    {
+      "time": "5:06 pm",
+      "artist": "The Flaming Lips",
+      "title": "She Don't Use Jelly"
     }
   ],
   "recent": [
+    {
+      "time": "4:53 pm",
+      "artist": "Righteous Brothers",
+      "title": "Ebb Tide",
+      "album": "Just Once in My Life • 1965"
+    },
     {
       "time": "4:47 pm",
       "artist": "Led Zeppelin",
@@ -152,11 +158,6 @@
       "time": "3:06 pm",
       "artist": "Kings of Leon",
       "title": "Wasted Time"
-    },
-    {
-      "time": "2:56 pm",
-      "artist": "Led Zeppelin",
-      "title": "Achilles Last Stand"
     }
   ]
 }
