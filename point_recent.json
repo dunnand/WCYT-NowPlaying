@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T14:42:42",
+  "updatedAt": "2026-11-23T14:42:54",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Peter Bjorn and John",
+    "title": "Gut Feeling",
+    "album": "Darker Days •",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:42 pm",
-      "artist": "Peter Bjorn and John",
-      "title": "Gut Feeling"
-    },
     {
       "time": "2:45 pm",
       "artist": "M83",
@@ -26,9 +21,20 @@
       "time": "2:54 pm",
       "artist": "The Clash",
       "title": "Hitsville U.K."
+    },
+    {
+      "time": "2:58 pm",
+      "artist": "Grandaddy",
+      "title": "Cabin in My Mind"
     }
   ],
   "recent": [
+    {
+      "time": "2:42 pm",
+      "artist": "Peter Bjorn and John",
+      "title": "Gut Feeling",
+      "album": "Darker Days •"
+    },
     {
       "time": "2:39 pm",
       "artist": "Metric",
@@ -172,12 +178,6 @@
       "artist": "Good Looks",
       "title": "Self-destructor",
       "album": "Lived Here for A While • 2024"
-    },
-    {
-      "time": "1:17 pm",
-      "artist": "The Jesus and Mary Chain",
-      "title": "Far Gone and Out",
-      "album": "Honey's Dead • 1992"
     }
   ]
 }
