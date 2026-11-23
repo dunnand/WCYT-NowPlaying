@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T04:00:39",
+  "updatedAt": "2026-11-23T04:04:02",
   "now": {
-    "artist": "The Jacksons",
-    "title": "Blame It on the Boogie",
-    "album": "Destiny • 1978",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "I Wanna Be Your Joey Ramone",
+    "album": "Call The Doctor • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:04 am",
-      "artist": "Sleater",
-      "title": "Kinney - I Wanna Be Your Joey Ramone"
-    },
     {
       "time": "4:06 am",
       "artist": "Peggy Lee",
@@ -21,9 +16,20 @@
       "time": "4:09 am",
       "artist": "Hot Chip",
       "title": "Over and Over"
+    },
+    {
+      "time": "4:15 am",
+      "artist": "Johnny Cash",
+      "title": "A Boy Named Sue"
     }
   ],
   "recent": [
+    {
+      "time": "4:04 am",
+      "artist": "Sleater-Kinney",
+      "title": "I Wanna Be Your Joey Ramone",
+      "album": "Call The Doctor • 1996"
+    },
     {
       "time": "4:00 am",
       "artist": "The Jacksons",
@@ -150,11 +156,6 @@
       "time": "1:59 am",
       "artist": "Johnny Cash",
       "title": "Ballad Of A Teenage Queen"
-    },
-    {
-      "time": "1:55 am",
-      "artist": "Wilco",
-      "title": "Monday"
     }
   ]
 }
