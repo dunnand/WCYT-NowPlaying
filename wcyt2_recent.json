@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T08:03:04",
+  "updatedAt": "2026-11-23T08:05:56",
   "now": {
-    "artist": "John Lennon",
-    "title": "Imagine",
-    "album": "Imagine • 1971",
-    "category": "AUDIO"
+    "artist": "Pavement",
+    "title": "Range Life",
+    "album": "Crooked Rain, Crooked Rain • 1994",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:06 am",
-      "artist": "Pavement",
-      "title": "Range Life"
-    },
     {
       "time": "8:10 am",
       "artist": "Ritchie Valens",
@@ -26,9 +21,20 @@
       "time": "8:16 am",
       "artist": "Peter, Paul & Mary",
       "title": "Leaving On A Jet Plane"
+    },
+    {
+      "time": "8:19 am",
+      "artist": "Lady Gaga",
+      "title": "Million Reasons"
     }
   ],
   "recent": [
+    {
+      "time": "8:05 am",
+      "artist": "Pavement",
+      "title": "Range Life",
+      "album": "Crooked Rain, Crooked Rain • 1994"
+    },
     {
       "time": "8:03 am",
       "artist": "John Lennon",
@@ -172,12 +178,6 @@
       "artist": "Haddaway",
       "title": "What Is Love",
       "album": "The Album • 1993"
-    },
-    {
-      "time": "6:27 am",
-      "artist": "U2",
-      "title": "Until The End Of The World",
-      "album": "Achtung Baby • 1991"
     }
   ]
 }
