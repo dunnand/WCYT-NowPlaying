@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T01:37:11",
+  "updatedAt": "2026-11-23T01:37:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grateful Dead",
+    "title": "Uncle John's Band",
+    "album": "Workingman's Dead • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:37 am",
-      "artist": "Grateful Dead",
-      "title": "Uncle John's Band"
-    },
     {
       "time": "1:41 am",
       "artist": "The Magnetic Fields",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:37 am",
+      "artist": "Grateful Dead",
+      "title": "Uncle John's Band",
+      "album": "Workingman's Dead • 1970"
+    },
     {
       "time": "1:33 am",
       "artist": "The Mountain Goats",
@@ -177,12 +178,6 @@
       "artist": "My Morning Jacket",
       "title": "Bermuda Highway",
       "album": "At Dawn • 2001"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Jason Isbell and the 400 Unit",
-      "title": "If We Were Vampires",
-      "album": "The Nashville Sound • 2017"
     }
   ]
 }
