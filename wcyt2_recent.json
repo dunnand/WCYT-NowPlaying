@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T09:38:02",
+  "updatedAt": "2026-11-23T09:38:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tom Petty",
+    "title": "Yer So Bad",
+    "album": "Full Moon Fever • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:38 am",
-      "artist": "Tom Petty",
-      "title": "Yer So Bad"
-    },
     {
       "time": "9:41 am",
       "artist": "HAIM",
@@ -26,9 +21,20 @@
       "time": "9:48 am",
       "artist": "John Lennon",
       "title": "Mind Games"
+    },
+    {
+      "time": "9:52 am",
+      "artist": "Neko Case",
+      "title": "I Wish I Was the Moon"
     }
   ],
   "recent": [
+    {
+      "time": "9:38 am",
+      "artist": "Tom Petty",
+      "title": "Yer So Bad",
+      "album": "Full Moon Fever • 1989"
+    },
     {
       "time": "9:34 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "John Lennon",
       "title": "Imagine",
       "album": "Imagine • 1971"
-    },
-    {
-      "time": "8:00 am",
-      "artist": "Stan Getz & Astrud Gilberto",
-      "title": "The Girl From Ipanema",
-      "album": "Getz/Gilberto • 1964"
     }
   ]
 }
