@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T09:38:12",
+  "updatedAt": "2026-11-23T09:41:04",
   "now": {
-    "artist": "Tom Petty",
-    "title": "Yer So Bad",
-    "album": "Full Moon Fever • 1989",
+    "artist": "HAIM",
+    "title": "Honey & I",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:41 am",
-      "artist": "HAIM",
-      "title": "Honey & I"
-    },
     {
       "time": "9:45 am",
       "artist": "PJ Harvey",
@@ -26,9 +21,20 @@
       "time": "9:52 am",
       "artist": "Neko Case",
       "title": "I Wish I Was the Moon"
+    },
+    {
+      "time": "9:56 am",
+      "artist": "Leonard Cohen",
+      "title": "I Want It Darker"
     }
   ],
   "recent": [
+    {
+      "time": "9:41 am",
+      "artist": "HAIM",
+      "title": "Honey & I",
+      "album": ""
+    },
     {
       "time": "9:38 am",
       "artist": "Tom Petty",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Range Life",
       "album": "Crooked Rain, Crooked Rain • 1994"
-    },
-    {
-      "time": "8:03 am",
-      "artist": "John Lennon",
-      "title": "Imagine",
-      "album": "Imagine • 1971"
     }
   ]
 }
