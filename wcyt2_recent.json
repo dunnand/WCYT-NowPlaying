@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T11:33:17",
+  "updatedAt": "2026-11-23T11:33:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "ABBA",
+    "title": "The Winner Takes It All",
+    "album": "Super Trouper • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:33 am",
-      "artist": "ABBA",
-      "title": "The Winner Takes It All"
-    },
     {
       "time": "11:38 am",
       "artist": "ABC",
@@ -26,9 +21,20 @@
       "time": "11:45 am",
       "artist": "John Prine",
       "title": "Pretty Good"
+    },
+    {
+      "time": "11:48 am",
+      "artist": "John Prine",
+      "title": "Sam Stone"
     }
   ],
   "recent": [
+    {
+      "time": "11:33 am",
+      "artist": "ABBA",
+      "title": "The Winner Takes It All",
+      "album": "Super Trouper • 1980"
+    },
     {
       "time": "11:28 am",
       "artist": "LL Cool J",
@@ -172,12 +178,6 @@
       "artist": "Leonard Cohen",
       "title": "I Want It Darker",
       "album": "You Want It Darker • 2016"
-    },
-    {
-      "time": "9:52 am",
-      "artist": "Neko Case",
-      "title": "I Wish I Was the Moon",
-      "album": "Blacklisted • 2002"
     }
   ]
 }
