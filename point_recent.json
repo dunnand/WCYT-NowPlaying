@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T17:42:06",
+  "updatedAt": "2026-11-23T17:42:25",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Junior Pro",
+    "title": "Cool",
+    "album": "Cool • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:42 pm",
-      "artist": "Junior Pro",
-      "title": "Cool"
-    },
     {
       "time": "5:45 pm",
       "artist": "Fleet Foxes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:42 pm",
+      "artist": "Junior Pro",
+      "title": "Cool",
+      "album": "Cool • 2026"
+    },
     {
       "time": "5:37 pm",
       "artist": "Hana Vu",
@@ -172,12 +173,6 @@
       "artist": "MGMT",
       "title": "Little Dark Age",
       "album": "Little Dark Age • 2018"
-    },
-    {
-      "time": "3:58 pm",
-      "artist": "Big Thief",
-      "title": "Spud Infinity",
-      "album": "Dragon New Warm Mountain I Believe In You • 2022"
     }
   ]
 }
