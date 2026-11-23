@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T00:17:52",
+  "updatedAt": "2026-11-23T00:18:10",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "This Is Lorelei",
+    "title": "Name the Band",
+    "album": "Holo Boy • 2025",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:18 am",
-      "artist": "This Is Lorelei",
-      "title": "Name the Band"
-    },
     {
       "time": "12:19 am",
       "artist": "Kevin Morby",
@@ -26,9 +21,20 @@
       "time": "12:25 am",
       "artist": "Elliott Smith",
       "title": "Bled White"
+    },
+    {
+      "time": "12:28 am",
+      "artist": "Cassandra Jenkins",
+      "title": "Hard Drive"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 am",
+      "artist": "This Is Lorelei",
+      "title": "Name the Band",
+      "album": "Holo Boy • 2025"
+    },
     {
       "time": "12:14 am",
       "artist": "Dirty Projectors",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Your Silent Face",
       "album": "Power, Corruption & Lies • 1983"
-    },
-    {
-      "time": "10:39 pm",
-      "artist": "Avalon Emerson",
-      "title": "Written into Changes",
-      "album": "Written Into Changes • 2026"
     }
   ]
 }
