@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T02:37:14",
+  "updatedAt": "2026-11-23T02:40:44",
   "now": {
     "artist": "Iggy Pop",
-    "title": "Some Weird Sin",
+    "title": "The Passenger",
     "album": "Lust for Life • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 am",
-      "artist": "Iggy Pop",
-      "title": "The Passenger"
-    },
     {
       "time": "2:45 am",
       "artist": "*NSYNC",
@@ -26,9 +21,20 @@
       "time": "2:52 am",
       "artist": "Isaac Hayes",
       "title": "Never Can Say Goodbye"
+    },
+    {
+      "time": "2:57 am",
+      "artist": "Wipers",
+      "title": "When It's Over"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 am",
+      "artist": "Iggy Pop",
+      "title": "The Passenger",
+      "album": "Lust for Life • 1977"
+    },
     {
       "time": "2:37 am",
       "artist": "Iggy Pop",
@@ -172,12 +178,6 @@
       "artist": "Interpol",
       "title": "Untitled",
       "album": "Turn on the Bright Lights • 2002"
-    },
-    {
-      "time": "12:58 am",
-      "artist": "La Vern Baker",
-      "title": "Jim Dandy",
-      "album": "Lavern Baker • 1957"
     }
   ]
 }
