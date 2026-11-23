@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T09:09:01",
+  "updatedAt": "2026-11-23T09:12:23",
   "now": {
-    "artist": "Sebadoh",
-    "title": "Weird",
-    "album": "The Sebadoh • 1999",
-    "category": "TUNES"
+    "artist": "Ritchie Valens",
+    "title": "Come on, Let's Go",
+    "album": "Ritchie Valens • 1959",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:12 am",
-      "artist": "Ritchie Valens",
-      "title": "Come on, Let's Go"
-    },
     {
       "time": "9:14 am",
       "artist": "My Morning Jacket",
@@ -26,9 +21,20 @@
       "time": "9:22 am",
       "artist": "Lana Del Rey",
       "title": "Summertime Sadness"
+    },
+    {
+      "time": "9:26 am",
+      "artist": "Soundgarden",
+      "title": "Rusty Cage"
     }
   ],
   "recent": [
+    {
+      "time": "9:12 am",
+      "artist": "Ritchie Valens",
+      "title": "Come on, Let's Go",
+      "album": "Ritchie Valens • 1959"
+    },
     {
       "time": "9:08 am",
       "artist": "Sebadoh",
@@ -172,12 +178,6 @@
       "artist": "Whitney Houston",
       "title": "Didn't We Almost Have It All",
       "album": "Whitney • 1987"
-    },
-    {
-      "time": "7:30 am",
-      "artist": "Joan Osborne",
-      "title": "One Of Us",
-      "album": "Relish • 1995"
     }
   ]
 }
