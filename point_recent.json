@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T07:48:12",
+  "updatedAt": "2026-11-23T07:48:32",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Modest Mouse",
+    "title": "3rd Planet",
+    "album": "The Moon & Antarctica • 2000",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:48 am",
-      "artist": "Modest Mouse",
-      "title": "3rd Planet"
-    },
     {
       "time": "7:52 am",
       "artist": "Big Thief",
@@ -26,9 +21,20 @@
       "time": "8:01 am",
       "artist": "gglum",
       "title": "SPLAT!"
+    },
+    {
+      "time": "8:03 am",
+      "artist": "Amber Arcades",
+      "title": "Something's Gonna Take Your Love Away"
     }
   ],
   "recent": [
+    {
+      "time": "7:48 am",
+      "artist": "Modest Mouse",
+      "title": "3rd Planet",
+      "album": "The Moon & Antarctica • 2000"
+    },
     {
       "time": "7:45 am",
       "artist": "Dazy",
@@ -158,11 +164,6 @@
       "time": "6:07 am",
       "artist": "Geese",
       "title": "Taxes"
-    },
-    {
-      "time": "6:05 am",
-      "artist": "Parquet Courts",
-      "title": "Homosapien"
     }
   ]
 }
