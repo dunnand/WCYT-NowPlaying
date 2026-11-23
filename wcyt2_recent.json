@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T19:08:24",
+  "updatedAt": "2026-11-22T19:12:08",
   "now": {
-    "artist": "Iron & Wine",
-    "title": "Passing Afternoon",
-    "album": "Our Endless Numbered Days • 2004",
-    "category": "TUNES"
+    "artist": "Sam Cooke",
+    "title": "Another Saturday Night",
+    "album": "single • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:12 pm",
-      "artist": "Sam Cooke",
-      "title": "Another Saturday Night"
-    },
     {
       "time": "7:14 pm",
       "artist": "George Harrison",
@@ -26,9 +21,20 @@
       "time": "7:25 pm",
       "artist": "Jackie Wilson",
       "title": "Lonely Teardrops"
+    },
+    {
+      "time": "7:28 pm",
+      "artist": "Junior Boys",
+      "title": "In The Morning"
     }
   ],
   "recent": [
+    {
+      "time": "7:12 pm",
+      "artist": "Sam Cooke",
+      "title": "Another Saturday Night",
+      "album": "single • 1963"
+    },
     {
       "time": "7:08 pm",
       "artist": "Iron & Wine",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Rhinestone Eyes",
       "album": "Plastic Beach • 2010"
-    },
-    {
-      "time": "5:40 pm",
-      "artist": "Sam Cooke",
-      "title": "Chain Gang",
-      "album": "Swing Low • 1961"
     }
   ]
 }
