@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T13:41:18",
+  "updatedAt": "2026-11-23T13:41:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Crowded House",
+    "title": "Don't Dream It's Over",
+    "album": "Crowded House • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:41 pm",
-      "artist": "Crowded House",
-      "title": "Don't Dream It's Over"
-    },
     {
       "time": "1:45 pm",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "1:51 pm",
       "artist": "Kraftwerk",
       "title": "The Model"
+    },
+    {
+      "time": "1:55 pm",
+      "artist": "The Microphones",
+      "title": "The Moon"
     }
   ],
   "recent": [
+    {
+      "time": "1:41 pm",
+      "artist": "Crowded House",
+      "title": "Don't Dream It's Over",
+      "album": "Crowded House • 1987"
+    },
     {
       "time": "1:36 pm",
       "artist": "Crosby, Stills & Nash",
@@ -172,12 +178,6 @@
       "artist": "Leon Bridges",
       "title": "River",
       "album": "Coming Home • 2015"
-    },
-    {
-      "time": "12:00 pm",
-      "artist": "MF DOOM",
-      "title": "Doomsday",
-      "album": "Operation: Doomsday • 1999"
     }
   ]
 }
