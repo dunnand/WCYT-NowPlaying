@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T19:12:08",
+  "updatedAt": "2026-11-22T19:14:29",
   "now": {
-    "artist": "Sam Cooke",
-    "title": "Another Saturday Night",
-    "album": "single • 1963",
+    "artist": "George Harrison",
+    "title": "Isn't It a Pity",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:14 pm",
-      "artist": "George Harrison",
-      "title": "Isn't It a Pity"
-    },
     {
       "time": "7:21 pm",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:14 pm",
+      "artist": "George Harrison",
+      "title": "Isn't It a Pity",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "7:12 pm",
       "artist": "Sam Cooke",
@@ -172,12 +173,6 @@
       "artist": "Weezer",
       "title": "Buddy Holly",
       "album": "Weezer • 1994"
-    },
-    {
-      "time": "5:42 pm",
-      "artist": "Gorillaz",
-      "title": "Rhinestone Eyes",
-      "album": "Plastic Beach • 2010"
     }
   ]
 }
