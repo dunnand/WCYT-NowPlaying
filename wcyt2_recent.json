@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T00:05:11",
+  "updatedAt": "2026-11-23T00:08:23",
   "now": {
     "artist": "My Morning Jacket",
-    "title": "Bermuda Highway",
-    "album": "At Dawn • 2001",
+    "title": "Steam Engine",
+    "album": "It Still Moves • 2003",
     "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:08 am",
-      "artist": "My Morning Jacket",
-      "title": "Steam Engine"
-    },
     {
       "time": "12:15 am",
       "artist": "Johnny Cash",
@@ -26,9 +21,20 @@
       "time": "12:21 am",
       "artist": "Wilco",
       "title": "Far, Far Away"
+    },
+    {
+      "time": "12:24 am",
+      "artist": "Night Ranger",
+      "title": "Sister Christian"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "My Morning Jacket",
+      "title": "Steam Engine",
+      "album": "It Still Moves • 2003"
+    },
     {
       "time": "12:05 am",
       "artist": "My Morning Jacket",
@@ -172,12 +178,6 @@
       "artist": "Jefferson Starship",
       "title": "Find Your Way Back",
       "album": "Modern Times • 1981"
-    },
-    {
-      "time": "9:59 pm",
-      "artist": "They Might Be Giants",
-      "title": "Istanbul (Not Constantinople)",
-      "album": "Flood • 1990"
     }
   ]
 }
