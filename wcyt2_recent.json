@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T21:04:12",
+  "updatedAt": "2026-11-22T21:08:37",
   "now": {
     "artist": "Grateful Dead",
-    "title": "Casey Jones",
-    "album": "Workingman's Dead • 1970",
+    "title": "Fire on the Mountain",
+    "album": "Shakedown Street • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:08 pm",
-      "artist": "Grateful Dead",
-      "title": "Fire on the Mountain"
-    },
     {
       "time": "9:12 pm",
       "artist": "The Hold Steady",
@@ -26,9 +21,20 @@
       "time": "9:19 pm",
       "artist": "Grateful Dead",
       "title": "Franklin's Tower"
+    },
+    {
+      "time": "9:23 pm",
+      "artist": "Weezer",
+      "title": "Why Bother?"
     }
   ],
   "recent": [
+    {
+      "time": "9:08 pm",
+      "artist": "Grateful Dead",
+      "title": "Fire on the Mountain",
+      "album": "Shakedown Street • 1978"
+    },
     {
       "time": "9:04 pm",
       "artist": "Grateful Dead",
@@ -172,12 +178,6 @@
       "artist": "Junior Boys",
       "title": "In The Morning",
       "album": "So This Is Goodbye • 2006"
-    },
-    {
-      "time": "7:25 pm",
-      "artist": "Jackie Wilson",
-      "title": "Lonely Teardrops",
-      "album": "Lonely Teardrops • 1958"
     }
   ]
 }
