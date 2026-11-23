@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T02:45:19",
+  "updatedAt": "2026-11-23T02:45:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "*NSYNC",
+    "title": "Bye Bye Bye",
+    "album": "No Strings Attached • 2000",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:45 am",
-      "artist": "*NSYNC",
-      "title": "Bye Bye Bye"
-    },
     {
       "time": "2:48 am",
       "artist": "Rolling Stones",
@@ -31,9 +26,20 @@
       "time": "3:03 am",
       "artist": "Coasters",
       "title": "Charlie Brown"
+    },
+    {
+      "time": "3:05 am",
+      "artist": "Interpol",
+      "title": "Say Hello to the Angels"
     }
   ],
   "recent": [
+    {
+      "time": "2:45 am",
+      "artist": "*NSYNC",
+      "title": "Bye Bye Bye",
+      "album": "No Strings Attached • 2000"
+    },
     {
       "time": "2:40 am",
       "artist": "Iggy Pop",
@@ -177,12 +183,6 @@
       "artist": "Tammy Wynette",
       "title": "D-I-V-O-R-C-E",
       "album": "D-I-V-O-R-C-E • 1968"
-    },
-    {
-      "time": "1:00 am",
-      "artist": "Interpol",
-      "title": "Untitled",
-      "album": "Turn on the Bright Lights • 2002"
     }
   ]
 }
