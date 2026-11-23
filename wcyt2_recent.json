@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T22:17:01",
+  "updatedAt": "2026-11-22T22:17:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Fleetwood Mac",
+    "title": "Angel",
+    "album": "Tusk • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:17 pm",
-      "artist": "Fleetwood Mac",
-      "title": "Angel"
-    },
     {
       "time": "10:22 pm",
       "artist": "Wilco",
@@ -31,9 +26,20 @@
       "time": "10:34 pm",
       "artist": "Tom Petty",
       "title": "A Higher Place"
+    },
+    {
+      "time": "10:38 pm",
+      "artist": "Chordettes",
+      "title": "Mr. Sandman"
     }
   ],
   "recent": [
+    {
+      "time": "10:17 pm",
+      "artist": "Fleetwood Mac",
+      "title": "Angel",
+      "album": "Tusk • 1979"
+    },
     {
       "time": "10:13 pm",
       "artist": "Wilco",
@@ -177,12 +183,6 @@
       "artist": "Joe Cocker & Jennifer Warnes",
       "title": "Up Where We Belong",
       "album": "An Officer and a Gentleman • 1982"
-    },
-    {
-      "time": "8:45 pm",
-      "artist": "Weezer",
-      "title": "Undone - The Sweater Song",
-      "album": "Weezer • 1994"
     }
   ]
 }
