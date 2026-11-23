@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-23T09:48:49",
+  "updatedAt": "2026-11-23T09:52:52",
   "now": {
-    "artist": "John Lennon",
-    "title": "Mind Games",
-    "album": "Mind Games • 1973",
-    "category": "AUDIO"
+    "artist": "Neko Case",
+    "title": "I Wish I Was the Moon",
+    "album": "Blacklisted • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:52 am",
-      "artist": "Neko Case",
-      "title": "I Wish I Was the Moon"
-    },
     {
       "time": "9:56 am",
       "artist": "Leonard Cohen",
       "title": "I Want It Darker"
     },
     {
-      "time": "10:01 am",
+      "time": "10:00 am",
       "artist": "John Prine",
       "title": "Angel From Montgomery"
     },
@@ -31,9 +26,20 @@
       "time": "10:08 am",
       "artist": "Ray Charles",
       "title": "What'd I Say, Pt. 1 & 2"
+    },
+    {
+      "time": "10:13 am",
+      "artist": "The Knife",
+      "title": "Heartbeats"
     }
   ],
   "recent": [
+    {
+      "time": "9:52 am",
+      "artist": "Neko Case",
+      "title": "I Wish I Was the Moon",
+      "album": "Blacklisted • 2002"
+    },
     {
       "time": "9:48 am",
       "artist": "John Lennon",
@@ -177,12 +183,6 @@
       "artist": "Peter, Paul & Mary",
       "title": "Leaving On A Jet Plane",
       "album": "Album 1700 • 1967"
-    },
-    {
-      "time": "8:13 am",
-      "artist": "Guided by Voices",
-      "title": "The Best of Jill Hives",
-      "album": "Earthquake Glue • 2003"
     }
   ]
 }
