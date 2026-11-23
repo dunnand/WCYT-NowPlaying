@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T04:57:00",
+  "updatedAt": "2026-11-23T04:57:12",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "PJ Harvey",
+    "title": "Good Fortune",
+    "album": "Stories from the City, Stories from the Sea • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:57 am",
-      "artist": "PJ Harvey",
-      "title": "Good Fortune"
-    },
     {
       "time": "5:00 am",
       "artist": "Simon & Garfunkel",
@@ -31,9 +26,20 @@
       "time": "5:10 am",
       "artist": "Buddy Holly",
       "title": "Words of Love"
+    },
+    {
+      "time": "5:12 am",
+      "artist": "Grandaddy",
+      "title": "He's Simple, He's Dumb, He's the Pilot"
     }
   ],
   "recent": [
+    {
+      "time": "4:57 am",
+      "artist": "PJ Harvey",
+      "title": "Good Fortune",
+      "album": "Stories from the City, Stories from the Sea • 2000"
+    },
     {
       "time": "4:46 am",
       "artist": "James Brown",
@@ -172,11 +178,6 @@
       "time": "2:48 am",
       "artist": "Rolling Stones",
       "title": "Ruby Tuesday"
-    },
-    {
-      "time": "2:45 am",
-      "artist": "*NSYNC",
-      "title": "Bye Bye Bye"
     }
   ]
 }
