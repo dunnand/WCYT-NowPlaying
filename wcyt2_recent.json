@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T16:25:58",
+  "updatedAt": "2026-11-23T16:26:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney",
+    "title": "New",
+    "album": "New • 2013",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:26 pm",
-      "artist": "Paul McCartney",
-      "title": "New"
-    },
     {
       "time": "4:29 pm",
       "artist": "Love Battery",
@@ -26,9 +21,20 @@
       "time": "4:36 pm",
       "artist": "Dinosaur Jr.",
       "title": "Freak Scene"
+    },
+    {
+      "time": "4:40 pm",
+      "artist": "Don Henley",
+      "title": "All She Wants To Do Is Dance"
     }
   ],
   "recent": [
+    {
+      "time": "4:26 pm",
+      "artist": "Paul McCartney",
+      "title": "New",
+      "album": "New • 2013"
+    },
     {
       "time": "4:23 pm",
       "artist": "Guided by Voices",
@@ -172,12 +178,6 @@
       "artist": "Kraftwerk",
       "title": "Trans-Europe Express",
       "album": "Trans-Europe Express • 1977"
-    },
-    {
-      "time": "2:45 pm",
-      "artist": "Harry Styles",
-      "title": "Season 2 Weight Loss",
-      "album": ""
     }
   ]
 }
