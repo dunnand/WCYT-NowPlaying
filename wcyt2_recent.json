@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T09:52:52",
+  "updatedAt": "2026-11-23T09:56:14",
   "now": {
-    "artist": "Neko Case",
-    "title": "I Wish I Was the Moon",
-    "album": "Blacklisted • 2002",
-    "category": "TUNES"
+    "artist": "Leonard Cohen",
+    "title": "I Want It Darker",
+    "album": "You Want It Darker • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:56 am",
-      "artist": "Leonard Cohen",
-      "title": "I Want It Darker"
-    },
     {
       "time": "10:00 am",
       "artist": "John Prine",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:56 am",
+      "artist": "Leonard Cohen",
+      "title": "I Want It Darker",
+      "album": "You Want It Darker • 2016"
+    },
     {
       "time": "9:52 am",
       "artist": "Neko Case",
@@ -177,12 +178,6 @@
       "artist": "Lady Gaga",
       "title": "Million Reasons",
       "album": "Joanne • 2016"
-    },
-    {
-      "time": "8:16 am",
-      "artist": "Peter, Paul & Mary",
-      "title": "Leaving On A Jet Plane",
-      "album": "Album 1700 • 1967"
     }
   ]
 }
