@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T19:14:29",
+  "updatedAt": "2026-11-22T19:21:23",
   "now": {
-    "artist": "George Harrison",
-    "title": "Isn't It a Pity",
-    "album": "All Things Must Pass • 1970",
+    "artist": "Weezer",
+    "title": "Pink Triangle",
+    "album": "Pinkerton • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:21 pm",
-      "artist": "Weezer",
-      "title": "Pink Triangle"
-    },
     {
       "time": "7:25 pm",
       "artist": "Jackie Wilson",
@@ -21,9 +16,20 @@
       "time": "7:28 pm",
       "artist": "Junior Boys",
       "title": "In The Morning"
+    },
+    {
+      "time": "7:32 pm",
+      "artist": "Johnny Cash",
+      "title": "Orange Blossom Special"
     }
   ],
   "recent": [
+    {
+      "time": "7:21 pm",
+      "artist": "Weezer",
+      "title": "Pink Triangle",
+      "album": "Pinkerton • 1996"
+    },
     {
       "time": "7:14 pm",
       "artist": "George Harrison",
@@ -167,12 +173,6 @@
       "artist": "Weezer",
       "title": "Butterfly",
       "album": "Pinkerton • 1996"
-    },
-    {
-      "time": "5:45 pm",
-      "artist": "Weezer",
-      "title": "Buddy Holly",
-      "album": "Weezer • 1994"
     }
   ]
 }
