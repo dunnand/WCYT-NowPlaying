@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T20:07:40",
+  "updatedAt": "2026-11-22T20:12:35",
   "now": {
-    "artist": "LCD Soundsystem",
-    "title": "Disco Infiltrator",
-    "album": "LCD Soundsystem • 2005",
-    "category": "TUNES"
+    "artist": "Peter, Paul & Mary",
+    "title": "Puff The Magic Dragon",
+    "album": "Moving • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:12 pm",
-      "artist": "Peter, Paul & Mary",
-      "title": "Puff The Magic Dragon"
-    },
     {
       "time": "8:15 pm",
       "artist": "Grateful Dead",
@@ -26,9 +21,20 @@
       "time": "8:25 pm",
       "artist": "Coasters",
       "title": "Poison Ivy"
+    },
+    {
+      "time": "8:28 pm",
+      "artist": "Liquid Liquid",
+      "title": "Cavern"
     }
   ],
   "recent": [
+    {
+      "time": "8:12 pm",
+      "artist": "Peter, Paul & Mary",
+      "title": "Puff The Magic Dragon",
+      "album": "Moving • 1963"
+    },
     {
       "time": "8:07 pm",
       "artist": "LCD Soundsystem",
@@ -172,12 +178,6 @@
       "artist": "Gorillaz",
       "title": "Stylo feat. Mos Def and Bobby Womack",
       "album": "Plastic Beach • 2010"
-    },
-    {
-      "time": "6:31 pm",
-      "artist": "Otis Redding",
-      "title": "Pain in My Heart",
-      "album": "Pain in My Heart • 1964"
     }
   ]
 }
