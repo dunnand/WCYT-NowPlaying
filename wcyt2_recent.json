@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T16:56:32",
+  "updatedAt": "2026-11-23T16:56:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "Going to California",
+    "album": "Led Zeppelin IV • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:56 pm",
-      "artist": "Led Zeppelin",
-      "title": "Going to California"
-    },
     {
       "time": "5:00 pm",
       "artist": "Roger Miller",
@@ -26,9 +21,20 @@
       "time": "5:06 pm",
       "artist": "The Flaming Lips",
       "title": "She Don't Use Jelly"
+    },
+    {
+      "time": "5:09 pm",
+      "artist": "Frankie Lymon & The Teenagers",
+      "title": "Why Do Fools Fall In Love"
     }
   ],
   "recent": [
+    {
+      "time": "4:56 pm",
+      "artist": "Led Zeppelin",
+      "title": "Going to California",
+      "album": "Led Zeppelin IV • 1971"
+    },
     {
       "time": "4:53 pm",
       "artist": "Righteous Brothers",
@@ -153,11 +159,6 @@
       "time": "3:09 pm",
       "artist": "Solomon Burke",
       "title": "Everybody Needs Somebody to Love"
-    },
-    {
-      "time": "3:06 pm",
-      "artist": "Kings of Leon",
-      "title": "Wasted Time"
     }
   ]
 }
