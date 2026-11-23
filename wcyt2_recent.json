@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-22T21:23:42",
+  "updatedAt": "2026-11-22T21:25:45",
   "now": {
-    "artist": "Weezer",
-    "title": "Why Bother?",
-    "album": "Pinkerton • 1996",
+    "artist": "Ricky Nelson",
+    "title": "I'm Walkin'",
+    "album": "Ricky • 1957",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:25 pm",
-      "artist": "Ricky Nelson",
-      "title": "I'm Walkin'"
-    },
     {
       "time": "9:27 pm",
       "artist": "The Hold Steady",
@@ -26,9 +21,20 @@
       "time": "9:33 pm",
       "artist": "Jason Isbell and the 400 Unit",
       "title": "Alabama Pines"
+    },
+    {
+      "time": "9:37 pm",
+      "artist": "Wilco",
+      "title": "A Shot In The Arm"
     }
   ],
   "recent": [
+    {
+      "time": "9:25 pm",
+      "artist": "Ricky Nelson",
+      "title": "I'm Walkin'",
+      "album": "Ricky • 1957"
+    },
     {
       "time": "9:23 pm",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Pointer Sisters",
       "title": "I'm So Excited",
       "album": "So Excited! • 1982"
-    },
-    {
-      "time": "7:42 pm",
-      "artist": "Weezer",
-      "title": "Susanne",
-      "album": "Mallrats Soundtrack • 1995"
     }
   ]
 }
