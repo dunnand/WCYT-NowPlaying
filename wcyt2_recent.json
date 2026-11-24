@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T07:12:11",
+  "updatedAt": "2026-11-24T07:17:04",
   "now": {
-    "artist": "Radiohead",
-    "title": "Lotus Flower",
-    "album": "The King of Limbs • 2011",
-    "category": "AUDIO"
+    "artist": "The Dismemberment Plan",
+    "title": "The City",
+    "album": "Emergency & I • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:17 am",
-      "artist": "The Dismemberment Plan",
-      "title": "The City"
-    },
     {
       "time": "7:21 am",
       "artist": "Elastica",
@@ -21,9 +16,20 @@
       "time": "7:23 am",
       "artist": "Oingo Boingo",
       "title": "Just Another Day"
+    },
+    {
+      "time": "7:28 am",
+      "artist": "Pat Benatar",
+      "title": "Hit Me With Your Best Shot"
     }
   ],
   "recent": [
+    {
+      "time": "7:17 am",
+      "artist": "The Dismemberment Plan",
+      "title": "The City",
+      "album": "Emergency & I • 1999"
+    },
     {
       "time": "7:12 am",
       "artist": "Radiohead",
@@ -167,12 +173,6 @@
       "artist": "Marvin Gaye",
       "title": "Got to Give It Up",
       "album": "Live at the London Palladium • 1977"
-    },
-    {
-      "time": "5:34 am",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Tuesday's Gone",
-      "album": "pronounced leh-nrd skin-nrd • 1973"
     }
   ]
 }
