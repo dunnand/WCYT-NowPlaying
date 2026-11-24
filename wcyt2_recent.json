@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T23:02:14",
+  "updatedAt": "2026-11-23T23:02:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Holland, 1945",
+    "album": "In The Aeroplane Over The Sea • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:02 pm",
-      "artist": "Neutral Milk Hotel",
-      "title": "Holland, 1945"
-    },
     {
       "time": "11:05 pm",
       "artist": "Pet Shop Boys",
@@ -26,9 +21,20 @@
       "time": "11:17 pm",
       "artist": "Commodores",
       "title": "Lady (You Bring Me Up)"
+    },
+    {
+      "time": "11:21 pm",
+      "artist": "Bruno Mars",
+      "title": "I Just Might"
     }
   ],
   "recent": [
+    {
+      "time": "11:02 pm",
+      "artist": "Neutral Milk Hotel",
+      "title": "Holland, 1945",
+      "album": "In The Aeroplane Over The Sea • 1998"
+    },
     {
       "time": "10:57 pm",
       "artist": "Nick Cave and the Bad Seeds",
@@ -172,12 +178,6 @@
       "artist": "KISS",
       "title": "Strutter",
       "album": "Kiss • 1974"
-    },
-    {
-      "time": "9:29 pm",
-      "artist": "Paul Anka",
-      "title": "Puppy Love",
-      "album": "single • 1960"
     }
   ]
 }
