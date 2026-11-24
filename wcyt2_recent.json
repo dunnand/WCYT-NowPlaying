@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-24T04:39:18",
+  "updatedAt": "2026-11-24T04:45:00",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Simple Man",
-    "album": "pronounced leh-nrd skin-nrd • 1973",
-    "category": "AUDIO"
+    "artist": "Stephen Malkmus and the Jicks",
+    "title": "Vanessa From Queens",
+    "album": "Pig Lib • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:45 am",
-      "artist": "Stephen Malkmus and the Jicks",
-      "title": "Vanessa From Queens"
-    },
     {
       "time": "4:48 am",
       "artist": "Radiohead",
       "title": "Glass Eyes"
     },
     {
-      "time": "4:51 am",
+      "time": "4:50 am",
       "artist": "Lynyrd Skynyrd",
       "title": "Sweet Home Alabama"
     },
@@ -26,9 +21,20 @@
       "time": "4:55 am",
       "artist": "Bob Dylan",
       "title": "Blind Willie McTell"
+    },
+    {
+      "time": "5:01 am",
+      "artist": "Big Bopper",
+      "title": "Chantilly Lace"
     }
   ],
   "recent": [
+    {
+      "time": "4:44 am",
+      "artist": "Stephen Malkmus and the Jicks",
+      "title": "Vanessa From Queens",
+      "album": "Pig Lib • 2003"
+    },
     {
       "time": "4:39 am",
       "artist": "Lynyrd Skynyrd",
@@ -156,11 +162,6 @@
       "time": "2:43 am",
       "artist": "Loretta Lynn",
       "title": "Coal Miner's Daughter"
-    },
-    {
-      "time": "2:37 am",
-      "artist": "Pulp",
-      "title": "Sunrise"
     }
   ]
 }
