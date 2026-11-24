@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T10:36:04",
+  "updatedAt": "2026-11-24T10:36:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Old Man",
+    "album": "Harvest • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:36 am",
-      "artist": "Neil Young",
-      "title": "Old Man"
-    },
     {
       "time": "10:39 am",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "10:50 am",
       "artist": "The Beach Boys",
       "title": "California Girls"
+    },
+    {
+      "time": "10:53 am",
+      "artist": "Neil Young",
+      "title": "Southern Man"
     }
   ],
   "recent": [
+    {
+      "time": "10:36 am",
+      "artist": "Neil Young",
+      "title": "Old Man",
+      "album": "Harvest • 1972"
+    },
     {
       "time": "10:32 am",
       "artist": "Silk Sonic",
@@ -172,12 +178,6 @@
       "artist": "Monotones",
       "title": "Book Of Love",
       "album": "Book of Love • 1958"
-    },
-    {
-      "time": "8:49 am",
-      "artist": "Genesis",
-      "title": "Jesus He Knows Me",
-      "album": "We Can't Dance • 1991"
     }
   ]
 }
