@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T09:00:05",
+  "updatedAt": "2026-11-24T09:00:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Sam Cooke",
+    "title": "Cupid",
+    "album": "Cookes Tour • 1960",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:00 am",
-      "artist": "Sam Cooke",
-      "title": "Cupid"
-    },
     {
       "time": "9:02 am",
       "artist": "Radiohead",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:00 am",
+      "artist": "Sam Cooke",
+      "title": "Cupid",
+      "album": "Cookes Tour • 1960"
+    },
     {
       "time": "8:55 am",
       "artist": "TV on the Radio",
@@ -172,12 +173,6 @@
       "artist": "unknown",
       "title": "NES Remix Pack (Records Roll)",
       "album": "Nintendo Music •"
-    },
-    {
-      "time": "7:28 am",
-      "artist": "Pat Benatar",
-      "title": "Hit Me With Your Best Shot",
-      "album": "Crimes of Passion • 1980"
     }
   ]
 }
