@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-11-24T00:05:31",
+  "updatedAt": "2026-11-24T00:08:36",
   "now": {
-    "artist": "Norah Jones",
-    "title": "Don't Know Why",
-    "album": "Come Away with Me • 2002",
+    "artist": "Simon & Garfunkel",
+    "title": "Mrs. Robinson",
+    "album": "Bookends • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "12:08 am",
+      "time": "12:12 am",
       "artist": "Simon & Garfunkel",
       "title": "Mrs. Robinson"
     },
     {
-      "time": "12:12 am",
+      "time": "12:15 am",
       "artist": "Radiohead",
       "title": "Codex"
     },
     {
-      "time": "12:17 am",
+      "time": "12:20 am",
       "artist": "Bjork",
       "title": "Big Time Sensuality"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "Simon & Garfunkel",
+      "title": "Mrs. Robinson",
+      "album": "Bookends • 1968"
+    },
     {
       "time": "12:05 am",
       "artist": "Norah Jones",
@@ -167,12 +173,6 @@
       "artist": "Paula Abdul",
       "title": "Rush Rush",
       "album": "Spellbound • 1991"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Moses Sumney",
-      "title": "Bless Me",
-      "album": "Aromanticism • 2017"
     }
   ]
 }
