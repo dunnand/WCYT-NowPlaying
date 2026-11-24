@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T07:55:23",
+  "updatedAt": "2026-11-24T07:59:31",
   "now": {
-    "artist": "Elton John",
-    "title": "Blessed",
-    "album": "Made in England • 1995",
+    "artist": "The Crests",
+    "title": "Sixteen Candles",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:59 am",
-      "artist": "The Crests",
-      "title": "Sixteen Candles"
-    },
     {
       "time": "8:02 am",
       "artist": "The Ting Tings",
@@ -21,9 +16,20 @@
       "time": "8:05 am",
       "artist": "Jimmy Jones",
       "title": "Handy Man"
+    },
+    {
+      "time": "8:07 am",
+      "artist": "Radiohead",
+      "title": "Present Tense"
     }
   ],
   "recent": [
+    {
+      "time": "7:59 am",
+      "artist": "The Crests",
+      "title": "Sixteen Candles",
+      "album": "single • 1958"
+    },
     {
       "time": "7:55 am",
       "artist": "Elton John",
@@ -167,12 +173,6 @@
       "artist": "Neil Diamond",
       "title": "Hello Again",
       "album": "The Jazz Singer • 1980"
-    },
-    {
-      "time": "6:26 am",
-      "artist": "David Byrne",
-      "title": "Hanging Upside Down",
-      "album": "Uh-oh • 1992"
     }
   ]
 }
