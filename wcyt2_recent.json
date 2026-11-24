@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T09:54:13",
+  "updatedAt": "2026-11-24T10:01:04",
   "now": {
-    "artist": "Jeff Buckley",
-    "title": "Hallelujah",
-    "album": "Grace • 1994",
+    "artist": "Neil Sedaka",
+    "title": "Oh! Carol",
+    "album": "single • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:01 am",
-      "artist": "Neil Sedaka",
-      "title": "Oh! Carol"
-    },
     {
       "time": "10:03 am",
       "artist": "Vanessa Carlton",
@@ -21,9 +16,20 @@
       "time": "10:07 am",
       "artist": "The Beach Boys",
       "title": "All Summer Long"
+    },
+    {
+      "time": "10:09 am",
+      "artist": "Radiohead",
+      "title": "The Numbers"
     }
   ],
   "recent": [
+    {
+      "time": "10:01 am",
+      "artist": "Neil Sedaka",
+      "title": "Oh! Carol",
+      "album": "single • 1959"
+    },
     {
       "time": "9:54 am",
       "artist": "Jeff Buckley",
@@ -167,12 +173,6 @@
       "artist": "The Pogues",
       "title": "A Rainy Night in Soho",
       "album": "Poguetry in Motion EP • 1986"
-    },
-    {
-      "time": "8:15 am",
-      "artist": "Gang Starr",
-      "title": "Just to Get a Rep",
-      "album": "Step in the Arena • 1991"
     }
   ]
 }
