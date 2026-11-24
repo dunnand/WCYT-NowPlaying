@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T11:55:19",
+  "updatedAt": "2026-11-24T11:57:19",
   "now": {
-    "artist": "Neil Young",
-    "title": "The Needle and the Damage Done",
-    "album": "Harvest • 1972",
+    "artist": "The Beach Boys",
+    "title": "Darlin'",
+    "album": "Wild Honey • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:57 am",
-      "artist": "The Beach Boys",
-      "title": "Darlin'"
-    },
     {
       "time": "11:59 am",
       "artist": "Neil Young",
@@ -26,9 +21,20 @@
       "time": "12:08 pm",
       "artist": "Red Hot Chili Peppers",
       "title": "Dark Necessities"
+    },
+    {
+      "time": "12:14 pm",
+      "artist": "Sonic Youth",
+      "title": "The Empty Page"
     }
   ],
   "recent": [
+    {
+      "time": "11:57 am",
+      "artist": "The Beach Boys",
+      "title": "Darlin'",
+      "album": "Wild Honey • 1967"
+    },
     {
       "time": "11:55 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "Radiohead",
       "title": "The Numbers",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "10:07 am",
-      "artist": "The Beach Boys",
-      "title": "All Summer Long",
-      "album": "All Summer Long • 1964"
     }
   ]
 }
