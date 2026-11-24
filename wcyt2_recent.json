@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T18:24:02",
+  "updatedAt": "2026-11-24T18:26:03",
   "now": {
-    "artist": "Fats Domino",
-    "title": "I'm In Love Again",
-    "album": "single • 1956",
+    "artist": "The Fall",
+    "title": "Blindness",
+    "album": "Fall Heads Roll • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:26 pm",
-      "artist": "The Fall",
-      "title": "Blindness"
-    },
     {
       "time": "6:33 pm",
       "artist": "The Beach Boys",
@@ -21,9 +16,20 @@
       "time": "6:35 pm",
       "artist": "Son Little",
       "title": "The River"
+    },
+    {
+      "time": "6:40 pm",
+      "artist": "Madonna",
+      "title": "Vogue"
     }
   ],
   "recent": [
+    {
+      "time": "6:26 pm",
+      "artist": "The Fall",
+      "title": "Blindness",
+      "album": "Fall Heads Roll • 2005"
+    },
     {
       "time": "6:24 pm",
       "artist": "Fats Domino",
@@ -167,12 +173,6 @@
       "artist": "Starship",
       "title": "We Built This City",
       "album": "Knee Deep in the Hoopla • 1985"
-    },
-    {
-      "time": "4:49 pm",
-      "artist": "Squeeze",
-      "title": "Tempted",
-      "album": "Sweets from a Stranger • 1982"
     }
   ]
 }
