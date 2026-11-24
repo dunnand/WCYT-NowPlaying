@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T19:22:23",
+  "updatedAt": "2026-11-23T19:26:17",
   "now": {
-    "artist": "The B-52's",
-    "title": "Roam",
-    "album": "Cosmic Thing • 1989",
+    "artist": "Olivia Rodrigo",
+    "title": "the cure",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "the cure"
-    },
     {
       "time": "7:31 pm",
       "artist": "Joni Mitchell",
@@ -21,9 +16,20 @@
       "time": "7:35 pm",
       "artist": "Joni Mitchell",
       "title": "Free Man in Paris"
+    },
+    {
+      "time": "7:38 pm",
+      "artist": "Interpol",
+      "title": "Evil"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "the cure",
+      "album": ""
+    },
     {
       "time": "7:22 pm",
       "artist": "The B-52's",
@@ -167,12 +173,6 @@
       "artist": "Led Zeppelin",
       "title": "Immigrant Song",
       "album": "Led Zeppelin III • 1970"
-    },
-    {
-      "time": "5:37 pm",
-      "artist": "The Weeknd",
-      "title": "Can't Feel My Face",
-      "album": ""
     }
   ]
 }
