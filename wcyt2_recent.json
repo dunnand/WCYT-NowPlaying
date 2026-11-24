@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T03:42:13",
+  "updatedAt": "2026-11-24T03:45:54",
   "now": {
-    "artist": "Spoon",
-    "title": "The Underdog",
-    "album": "Ga Ga Ga Ga Ga • 2007",
-    "category": "TUNES"
+    "artist": "MC5",
+    "title": "Kick Out the Jams",
+    "album": "Kick Out the Jams • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:45 am",
-      "artist": "MC5",
-      "title": "Kick Out the Jams"
-    },
     {
       "time": "3:48 am",
       "artist": "Lynyrd Skynyrd",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:45 am",
+      "artist": "MC5",
+      "title": "Kick Out the Jams",
+      "album": "Kick Out the Jams • 1969"
+    },
     {
       "time": "3:42 am",
       "artist": "Spoon",
@@ -177,12 +178,6 @@
       "artist": "Radiohead",
       "title": "Desert Island Disk",
       "album": "A Moon Shaped Pool • 2016"
-    },
-    {
-      "time": "2:13 am",
-      "artist": "Procol Harum",
-      "title": "A Whiter Shade Of Pale",
-      "album": "single • 1967"
     }
   ]
 }
