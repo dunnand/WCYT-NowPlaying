@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T20:33:32",
+  "updatedAt": "2026-11-23T20:36:22",
   "now": {
-    "artist": "Peter, Paul & Mary",
-    "title": "Blowin' In The Wind",
-    "album": "Peter, Paul and Mary • 1962",
+    "artist": "KISS",
+    "title": "I Was Made for Lovin' You",
+    "album": "Dynasty • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:36 pm",
-      "artist": "KISS",
-      "title": "I Was Made for Lovin' You"
-    },
     {
       "time": "8:40 pm",
       "artist": "JAY",
@@ -26,9 +21,20 @@
       "time": "8:48 pm",
       "artist": "M83",
       "title": "Kim & Jessie"
+    },
+    {
+      "time": "8:53 pm",
+      "artist": "Lady Gaga",
+      "title": "Bad Romance"
     }
   ],
   "recent": [
+    {
+      "time": "8:36 pm",
+      "artist": "KISS",
+      "title": "I Was Made for Lovin' You",
+      "album": "Dynasty • 1979"
+    },
     {
       "time": "8:33 pm",
       "artist": "Peter, Paul & Mary",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Over The Hills and Far Away",
       "album": "Houses of the Holy • 1973"
-    },
-    {
-      "time": "6:50 pm",
-      "artist": "Neil Sedaka",
-      "title": "Breaking Up Is Hard To Do",
-      "album": "single • 1962"
     }
   ]
 }
