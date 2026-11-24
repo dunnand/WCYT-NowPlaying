@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T14:27:38",
+  "updatedAt": "2026-11-24T14:29:27",
   "now": {
-    "artist": "Nick Drake",
-    "title": "Pink Moon",
-    "album": "Pink Moon • 1972",
+    "artist": "Sting",
+    "title": "Brand New Day",
+    "album": "Brand New Day • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:29 pm",
-      "artist": "Sting",
-      "title": "Brand New Day"
-    },
     {
       "time": "2:33 pm",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "2:36 pm",
       "artist": "The White Stripes",
       "title": "Ball and Biscuit"
+    },
+    {
+      "time": "2:44 pm",
+      "artist": "The Beach Boys",
+      "title": "God Only Knows"
     }
   ],
   "recent": [
+    {
+      "time": "2:29 pm",
+      "artist": "Sting",
+      "title": "Brand New Day",
+      "album": "Brand New Day • 1999"
+    },
     {
       "time": "2:27 pm",
       "artist": "Nick Drake",
@@ -167,12 +173,6 @@
       "artist": "Primal Scream",
       "title": "Higher Than The Sun",
       "album": "Screamadelica • 1991"
-    },
-    {
-      "time": "12:25 pm",
-      "artist": "The Olivia Tremor Control",
-      "title": "Jumping Fences",
-      "album": "Music from the Unrealized Film Script: Dusk at Cubist Castle • 1996"
     }
   ]
 }
