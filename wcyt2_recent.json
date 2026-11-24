@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T04:48:02",
+  "updatedAt": "2026-11-24T04:50:46",
   "now": {
-    "artist": "Radiohead",
-    "title": "Glass Eyes",
-    "album": "A Moon Shaped Pool • 2016",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Sweet Home Alabama",
+    "album": "Second Helping • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Lynyrd Skynyrd",
-      "title": "Sweet Home Alabama"
-    },
     {
       "time": "4:55 am",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Sweet Home Alabama",
+      "album": "Second Helping • 1974"
+    },
     {
       "time": "4:48 am",
       "artist": "Radiohead",
@@ -158,11 +159,6 @@
       "time": "2:49 am",
       "artist": "Radiohead",
       "title": "Feral"
-    },
-    {
-      "time": "2:46 am",
-      "artist": "The Unicorns",
-      "title": "Tuff Ghost"
     }
   ]
 }
