@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T22:27:59",
+  "updatedAt": "2026-11-23T22:28:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Barbra Streisand",
+    "title": "Memory",
+    "album": "Memories • 1981",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:28 pm",
-      "artist": "Barbra Streisand",
-      "title": "Memory"
-    },
     {
       "time": "10:32 pm",
       "artist": "Bobby Brown",
@@ -26,9 +21,20 @@
       "time": "10:38 pm",
       "artist": "KISS",
       "title": "Detroit Rock City"
+    },
+    {
+      "time": "10:42 pm",
+      "artist": "KISS",
+      "title": "Deuce"
     }
   ],
   "recent": [
+    {
+      "time": "10:28 pm",
+      "artist": "Barbra Streisand",
+      "title": "Memory",
+      "album": "Memories • 1981"
+    },
     {
       "time": "10:22 pm",
       "artist": "Meat Loaf",
@@ -172,12 +178,6 @@
       "artist": "Pavement",
       "title": "Stereo",
       "album": "Brighten the Corners • 1997"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "Muse",
-      "title": "Madness",
-      "album": "The 2nd Law • 2012"
     }
   ]
 }
