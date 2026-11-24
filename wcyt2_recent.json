@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T23:59:57",
+  "updatedAt": "2026-11-24T00:03:06",
   "now": {
-    "artist": "Beck",
-    "title": "Devil's Haircut",
-    "album": "Odelay • 1996",
+    "artist": "Shirley & Lee",
+    "title": "Let The Good Times Roll",
+    "album": "single • 1956",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:03 am",
-      "artist": "Shirley & Lee",
-      "title": "Let The Good Times Roll"
-    },
     {
       "time": "12:05 am",
       "artist": "Norah Jones",
@@ -21,9 +16,20 @@
       "time": "12:08 am",
       "artist": "Simon & Garfunkel",
       "title": "Mrs. Robinson"
+    },
+    {
+      "time": "12:12 am",
+      "artist": "Radiohead",
+      "title": "Codex"
     }
   ],
   "recent": [
+    {
+      "time": "12:03 am",
+      "artist": "Shirley & Lee",
+      "title": "Let The Good Times Roll",
+      "album": "single • 1956"
+    },
     {
       "time": "11:59 pm",
       "artist": "Beck",
@@ -167,12 +173,6 @@
       "artist": "Jim Reeves",
       "title": "Is It Really Over?",
       "album": "Single • 1965"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "Kings of Leon",
-      "title": "Use Somebody",
-      "album": "Only by the Night • 2008"
     }
   ]
 }
