@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T12:34:16",
+  "updatedAt": "2026-11-24T12:34:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Scorpions",
+    "title": "No One Like You",
+    "album": "Blackout • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "Scorpions",
-      "title": "No One Like You"
-    },
     {
       "time": "12:38 pm",
       "artist": "Run The Jewels",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "Scorpions",
+      "title": "No One Like You",
+      "album": "Blackout • 1982"
+    },
     {
       "time": "12:30 pm",
       "artist": "Sade",
@@ -172,12 +173,6 @@
       "artist": "Neil Young",
       "title": "Southern Man",
       "album": "After the Gold Rush • 1970"
-    },
-    {
-      "time": "10:50 am",
-      "artist": "The Beach Boys",
-      "title": "California Girls",
-      "album": "Summer Days • 1965"
     }
   ]
 }
