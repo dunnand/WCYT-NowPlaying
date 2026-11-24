@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-11-24T00:16:30",
+  "updatedAt": "2026-11-24T00:16:42",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Big Time Sensuality",
+    "album": "Debut • 1993",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "12:16 am",
+      "time": "12:20 am",
+      "artist": "Radiohead",
+      "title": "Codex"
+    },
+    {
+      "time": "12:25 am",
       "artist": "Bjork",
       "title": "Big Time Sensuality"
     },
     {
-      "time": "12:20 am",
+      "time": "12:29 am",
       "artist": "Superchunk",
       "title": "Throwing Things"
-    },
-    {
-      "time": "12:24 am",
-      "artist": "Falco",
-      "title": "Der Kommissar"
-    },
-    {
-      "time": "12:27 am",
-      "artist": "Glenn Frey",
-      "title": "The Heat Is On"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 am",
+      "artist": "Bjork",
+      "title": "Big Time Sensuality",
+      "album": "Debut • 1993"
+    },
     {
       "time": "12:12 am",
       "artist": "Radiohead",
@@ -172,12 +173,6 @@
       "artist": "Barbra Streisand",
       "title": "Memory",
       "album": "Memories • 1981"
-    },
-    {
-      "time": "10:22 pm",
-      "artist": "Meat Loaf",
-      "title": "I'd Do Anything For Love (But I Won't Do That)",
-      "album": "Bat Out of Hell II: Back into Hell • 1993"
     }
   ]
 }
