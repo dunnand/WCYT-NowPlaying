@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T06:57:10",
+  "updatedAt": "2026-11-24T07:01:00",
   "now": {
-    "artist": "Marvin Gaye",
-    "title": "What's Going On",
-    "album": "Whats Going On • 1971",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "Pictures in an Exhibition",
+    "album": "Something About Airplanes • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:01 am",
-      "artist": "Death Cab for Cutie",
-      "title": "Pictures in an Exhibition"
-    },
     {
       "time": "7:04 am",
       "artist": "Coasters",
@@ -26,9 +21,20 @@
       "time": "7:09 am",
       "artist": "Simon & Garfunkel",
       "title": "A Hazy Shade Of Winter"
+    },
+    {
+      "time": "7:12 am",
+      "artist": "Radiohead",
+      "title": "Lotus Flower"
     }
   ],
   "recent": [
+    {
+      "time": "7:00 am",
+      "artist": "Death Cab for Cutie",
+      "title": "Pictures in an Exhibition",
+      "album": "Something About Airplanes • 1998"
+    },
     {
       "time": "6:57 am",
       "artist": "Marvin Gaye",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Untrustable/Part 2 (About Someone Else)",
       "album": "Perfect From Now On • 1997"
-    },
-    {
-      "time": "5:16 am",
-      "artist": "Bryan Adams",
-      "title": "Have You Ever Really Loved A Woman?",
-      "album": "18 til I Die • 1995"
     }
   ]
 }
