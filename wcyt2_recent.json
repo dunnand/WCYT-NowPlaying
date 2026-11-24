@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T00:35:19",
+  "updatedAt": "2026-11-24T00:43:10",
   "now": {
     "artist": "Led Zeppelin",
-    "title": "Stairway to Heaven",
-    "album": "Led Zeppelin IV • 1971",
+    "title": "Trampled Under Foot",
+    "album": "Physical Graffiti • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:43 am",
-      "artist": "Led Zeppelin",
-      "title": "Trampled Under Foot"
-    },
     {
       "time": "12:49 am",
       "artist": "Justin Timberlake",
@@ -26,9 +21,20 @@
       "time": "12:57 am",
       "artist": "Led Zeppelin",
       "title": "When The Levee Breaks"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "U2",
+      "title": "Love Is Blindness"
     }
   ],
   "recent": [
+    {
+      "time": "12:43 am",
+      "artist": "Led Zeppelin",
+      "title": "Trampled Under Foot",
+      "album": "Physical Graffiti • 1975"
+    },
     {
       "time": "12:35 am",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "LCD Soundsystem",
       "title": "North American Scum",
       "album": "Sound of Silver • 2007"
-    },
-    {
-      "time": "10:45 pm",
-      "artist": "Patsy Cline",
-      "title": "Walkin' After Midnight",
-      "album": "Patsy Cline • 1957"
     }
   ]
 }
