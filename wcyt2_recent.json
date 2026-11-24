@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T17:43:15",
+  "updatedAt": "2026-11-24T17:47:25",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "Ghost",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Steve Perry",
+    "title": "Oh Sherrie",
+    "album": "Street Talk • 1984",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:47 pm",
-      "artist": "Steve Perry",
-      "title": "Oh Sherrie"
-    },
     {
       "time": "5:51 pm",
       "artist": "Styx",
@@ -21,9 +16,20 @@
       "time": "5:56 pm",
       "artist": "Olivia Rodrigo",
       "title": "vampire"
+    },
+    {
+      "time": "6:00 pm",
+      "artist": "Parliament",
+      "title": "Mothership Connection (Star Child)"
     }
   ],
   "recent": [
+    {
+      "time": "5:47 pm",
+      "artist": "Steve Perry",
+      "title": "Oh Sherrie",
+      "album": "Street Talk • 1984"
+    },
     {
       "time": "5:43 pm",
       "artist": "Neutral Milk Hotel",
@@ -167,12 +173,6 @@
       "artist": "The Beach Boys",
       "title": "I Can Hear Music",
       "album": "20/20 • 1969"
-    },
-    {
-      "time": "4:09 pm",
-      "artist": "Nilsson",
-      "title": "Jump Into the Fire",
-      "album": "Nilsson Schmilsson • 1971"
     }
   ]
 }
