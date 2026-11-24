@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T11:57:19",
+  "updatedAt": "2026-11-24T11:59:32",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Darlin'",
-    "album": "Wild Honey • 1967",
+    "artist": "Neil Young",
+    "title": "Tonight's the Night",
+    "album": "Tonight's the Night • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:59 am",
-      "artist": "Neil Young",
-      "title": "Tonight's the Night"
-    },
     {
       "time": "12:04 pm",
       "artist": "Michael Jackson",
@@ -26,9 +21,20 @@
       "time": "12:14 pm",
       "artist": "Sonic Youth",
       "title": "The Empty Page"
+    },
+    {
+      "time": "12:18 pm",
+      "artist": "Sigur Ros",
+      "title": "Vio spilum endalaust  (We Play Endlessly)"
     }
   ],
   "recent": [
+    {
+      "time": "11:59 am",
+      "artist": "Neil Young",
+      "title": "Tonight's the Night",
+      "album": "Tonight's the Night • 1975"
+    },
     {
       "time": "11:57 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "John Prine",
       "title": "In Spite of Ourselves feat. Iris DeMent",
       "album": "In Spite of Ourselves • 1999"
-    },
-    {
-      "time": "10:09 am",
-      "artist": "Radiohead",
-      "title": "The Numbers",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
