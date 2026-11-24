@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T19:31:10",
+  "updatedAt": "2026-11-23T19:31:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joni Mitchell",
+    "title": "California",
+    "album": "Blue • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:31 pm",
-      "artist": "Joni Mitchell",
-      "title": "California"
-    },
     {
       "time": "7:35 pm",
       "artist": "Joni Mitchell",
@@ -26,9 +21,20 @@
       "time": "7:41 pm",
       "artist": "Sam the Sham and the Pharaohs",
       "title": "Wooly Bully"
+    },
+    {
+      "time": "7:44 pm",
+      "artist": "Joni Mitchell",
+      "title": "Help Me"
     }
   ],
   "recent": [
+    {
+      "time": "7:31 pm",
+      "artist": "Joni Mitchell",
+      "title": "California",
+      "album": "Blue • 1971"
+    },
     {
       "time": "7:26 pm",
       "artist": "Olivia Rodrigo",
@@ -172,12 +178,6 @@
       "artist": "Led Zeppelin",
       "title": "Kashmir",
       "album": "Physical Graffiti • 1975"
-    },
-    {
-      "time": "5:41 pm",
-      "artist": "Led Zeppelin",
-      "title": "Immigrant Song",
-      "album": "Led Zeppelin III • 1970"
     }
   ]
 }
