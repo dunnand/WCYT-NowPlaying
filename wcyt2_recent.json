@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T11:20:32",
+  "updatedAt": "2026-11-24T11:25:55",
   "now": {
-    "artist": "Metallica",
-    "title": "Sad but True",
-    "album": "Metallica • 1991",
+    "artist": "Michael Bolton",
+    "title": "Time, Love And Tenderness",
+    "album": "Time, Love & Tenderness • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:25 am",
-      "artist": "Michael Bolton",
-      "title": "Time, Love And Tenderness"
-    },
     {
       "time": "11:30 am",
       "artist": "Romeo Void",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:25 am",
+      "artist": "Michael Bolton",
+      "title": "Time, Love And Tenderness",
+      "album": "Time, Love & Tenderness • 1991"
+    },
     {
       "time": "11:20 am",
       "artist": "Metallica",
@@ -172,12 +173,6 @@
       "artist": "Ted Leo and the Pharmacists",
       "title": "Where Have All The Rude Boys Gone",
       "album": "Hearts of Oak • 2003"
-    },
-    {
-      "time": "9:35 am",
-      "artist": "Neil Young",
-      "title": "Don't Let It Bring You Down",
-      "album": "After the Gold Rush • 1970"
     }
   ]
 }
