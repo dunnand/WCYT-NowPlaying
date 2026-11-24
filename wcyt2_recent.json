@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T21:35:12",
+  "updatedAt": "2026-11-23T21:39:37",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Custom Concern",
-    "album": "This is a Long Drive for Someone with Nothing to Think About • 1996",
-    "category": "TUNES"
+    "artist": "Olivia Rodrigo",
+    "title": "Can’t Catch Me Now",
+    "album": "",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:39 pm",
-      "artist": "Olivia Rodrigo",
-      "title": "Can’t Catch Me Now"
-    },
     {
       "time": "9:43 pm",
       "artist": "Joni Mitchell",
@@ -21,9 +16,20 @@
       "time": "9:47 pm",
       "artist": "Lesley Gore",
       "title": "Judy's Turn To Cry"
+    },
+    {
+      "time": "9:50 pm",
+      "artist": "Joni Mitchell",
+      "title": "Woodstock"
     }
   ],
   "recent": [
+    {
+      "time": "9:39 pm",
+      "artist": "Olivia Rodrigo",
+      "title": "Can’t Catch Me Now",
+      "album": ""
+    },
     {
       "time": "9:35 pm",
       "artist": "Modest Mouse",
@@ -167,12 +173,6 @@
       "artist": "M.I.A.",
       "title": "Go Off",
       "album": "AIM • 2016"
-    },
-    {
-      "time": "8:00 pm",
-      "artist": "The Mountain Goats",
-      "title": "Your Belgian Things",
-      "album": "We Shall All Be Healed • 2004"
     }
   ]
 }
