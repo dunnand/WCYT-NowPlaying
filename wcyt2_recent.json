@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T19:56:12",
+  "updatedAt": "2026-11-23T19:56:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Hanson",
+    "title": "MMMBop",
+    "album": "Middle Of Nowhere • 2004",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:56 pm",
-      "artist": "Hanson",
-      "title": "MMMBop"
-    },
     {
       "time": "8:00 pm",
       "artist": "The Mountain Goats",
@@ -26,9 +21,20 @@
       "time": "8:07 pm",
       "artist": "Phil Collins",
       "title": "You'll Be In My Heart"
+    },
+    {
+      "time": "8:11 pm",
+      "artist": "Rod Stewart",
+      "title": "This Old Heart Of Mine"
     }
   ],
   "recent": [
+    {
+      "time": "7:56 pm",
+      "artist": "Hanson",
+      "title": "MMMBop",
+      "album": "Middle Of Nowhere • 2004"
+    },
     {
       "time": "7:52 pm",
       "artist": "M.I.A.",
@@ -172,12 +178,6 @@
       "artist": "Justice",
       "title": "D.A.N.C.E.",
       "album": "Cross • 2007"
-    },
-    {
-      "time": "6:12 pm",
-      "artist": "Jurassic 5",
-      "title": "Quality Control",
-      "album": "Quality Control • 2000"
     }
   ]
 }
