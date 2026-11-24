@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T14:15:48",
+  "updatedAt": "2026-11-24T14:18:10",
   "now": {
-    "artist": "Nick Drake",
-    "title": "From the Morning",
-    "album": "Pink Moon • 1972",
+    "artist": "The Beach Boys",
+    "title": "Don't Worry Baby",
+    "album": "Shut Down Volume 2 • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:18 pm",
-      "artist": "The Beach Boys",
-      "title": "Don't Worry Baby"
-    },
     {
       "time": "2:21 pm",
       "artist": "Nick Drake",
@@ -26,9 +21,20 @@
       "time": "2:27 pm",
       "artist": "Nick Drake",
       "title": "Pink Moon"
+    },
+    {
+      "time": "2:29 pm",
+      "artist": "Sting",
+      "title": "Brand New Day"
     }
   ],
   "recent": [
+    {
+      "time": "2:18 pm",
+      "artist": "The Beach Boys",
+      "title": "Don't Worry Baby",
+      "album": "Shut Down Volume 2 • 1964"
+    },
     {
       "time": "2:15 pm",
       "artist": "Nick Drake",
@@ -172,12 +178,6 @@
       "artist": "Sonic Youth",
       "title": "The Empty Page",
       "album": "Murray Street • 2002"
-    },
-    {
-      "time": "12:08 pm",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Dark Necessities",
-      "album": "The Getaway • 2016"
     }
   ]
 }
