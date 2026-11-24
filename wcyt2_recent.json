@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T05:08:52",
+  "updatedAt": "2026-11-24T05:11:54",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Foxy Lady",
-    "album": "Are You Experienced • 1967",
+    "artist": "Radiohead",
+    "title": "Identikit",
+    "album": "A Moon Shaped Pool • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:12 am",
-      "artist": "Radiohead",
-      "title": "Identikit"
-    },
     {
       "time": "5:16 am",
       "artist": "Bryan Adams",
@@ -21,9 +16,20 @@
       "time": "5:21 am",
       "artist": "Built to Spill",
       "title": "Untrustable/Part 2 (About Someone Else)"
+    },
+    {
+      "time": "5:25 am",
+      "artist": "Mudhoney",
+      "title": "Touch Me I'm Sick"
     }
   ],
   "recent": [
+    {
+      "time": "5:11 am",
+      "artist": "Radiohead",
+      "title": "Identikit",
+      "album": "A Moon Shaped Pool • 2016"
+    },
     {
       "time": "5:08 am",
       "artist": "The Jimi Hendrix Experience",
@@ -158,11 +164,6 @@
       "time": "3:06 am",
       "artist": "Kyu Sakamoto",
       "title": "Sukiyaki"
-    },
-    {
-      "time": "3:02 am",
-      "artist": "Whitney Houston & Enrique Iglesias",
-      "title": "Could I Have This Kiss Forever"
     }
   ]
 }
