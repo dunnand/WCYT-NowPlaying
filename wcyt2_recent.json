@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T10:50:42",
+  "updatedAt": "2026-11-24T10:53:13",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "California Girls",
-    "album": "Summer Days • 1965",
+    "artist": "Neil Young",
+    "title": "Southern Man",
+    "album": "After the Gold Rush • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:53 am",
-      "artist": "Neil Young",
-      "title": "Southern Man"
-    },
     {
       "time": "10:58 am",
       "artist": "Lush",
@@ -26,9 +21,20 @@
       "time": "11:07 am",
       "artist": "Sting",
       "title": "Desert Rose feat. Cheb Mami"
+    },
+    {
+      "time": "11:11 am",
+      "artist": "Yo La Tengo",
+      "title": "You Can Have It All"
     }
   ],
   "recent": [
+    {
+      "time": "10:53 am",
+      "artist": "Neil Young",
+      "title": "Southern Man",
+      "album": "After the Gold Rush • 1970"
+    },
     {
       "time": "10:50 am",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Heavenly",
       "title": "P.U.N.K. Girl",
       "album": "Atta Girl • 1993"
-    },
-    {
-      "time": "9:02 am",
-      "artist": "Radiohead",
-      "title": "Separator",
-      "album": "The King of Limbs • 2011"
     }
   ]
 }
