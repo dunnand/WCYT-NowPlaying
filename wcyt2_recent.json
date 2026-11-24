@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T13:43:09",
+  "updatedAt": "2026-11-24T13:43:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "System of a Down",
+    "title": "Toxicity",
+    "album": "Toxicity • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 pm",
-      "artist": "System of a Down",
-      "title": "Toxicity"
-    },
     {
       "time": "1:47 pm",
       "artist": "The Unicorns",
@@ -26,9 +21,20 @@
       "time": "1:52 pm",
       "artist": "Seal",
       "title": "Kiss From A Rose"
+    },
+    {
+      "time": "1:56 pm",
+      "artist": "Sigur Ros",
+      "title": "Svefn-g-englar"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 pm",
+      "artist": "System of a Down",
+      "title": "Toxicity",
+      "album": "Toxicity • 2001"
+    },
     {
       "time": "1:39 pm",
       "artist": "Run The Jewels",
@@ -172,12 +178,6 @@
       "artist": "Roxy Music",
       "title": "More Than This",
       "album": "Avalon • 1982"
-    },
-    {
-      "time": "11:29 am",
-      "artist": "Romeo Void",
-      "title": "A Girl In Trouble (Is A Temporary Thing)",
-      "album": "Instincts • 1984"
     }
   ]
 }
