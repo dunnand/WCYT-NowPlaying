@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T04:50:46",
+  "updatedAt": "2026-11-24T04:55:19",
   "now": {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Sweet Home Alabama",
-    "album": "Second Helping • 1974",
+    "artist": "Bob Dylan",
+    "title": "Blind Willie McTell",
+    "album": "The Bootleg Series Volumes 1-3 • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:55 am",
-      "artist": "Bob Dylan",
-      "title": "Blind Willie McTell"
-    },
     {
       "time": "5:01 am",
       "artist": "Big Bopper",
@@ -21,9 +16,20 @@
       "time": "5:03 am",
       "artist": "School Of Seven Bells",
       "title": "My Cabal"
+    },
+    {
+      "time": "5:08 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Foxy Lady"
     }
   ],
   "recent": [
+    {
+      "time": "4:55 am",
+      "artist": "Bob Dylan",
+      "title": "Blind Willie McTell",
+      "album": "The Bootleg Series Volumes 1-3 • 1991"
+    },
     {
       "time": "4:50 am",
       "artist": "Lynyrd Skynyrd",
@@ -154,11 +160,6 @@
       "time": "2:52 am",
       "artist": "Lou Reed",
       "title": "Perfect Day"
-    },
-    {
-      "time": "2:49 am",
-      "artist": "Radiohead",
-      "title": "Feral"
     }
   ]
 }
