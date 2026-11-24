@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T20:11:51",
+  "updatedAt": "2026-11-23T20:15:55",
   "now": {
-    "artist": "Rod Stewart",
-    "title": "This Old Heart Of Mine",
-    "album": "Soulbook • 1990",
+    "artist": "Bad Brains",
+    "title": "Sailin' On",
+    "album": "Bad Brains • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:15 pm",
-      "artist": "Bad Brains",
-      "title": "Sailin' On"
-    },
     {
       "time": "8:18 pm",
       "artist": "Bananarama",
@@ -21,9 +16,20 @@
       "time": "8:21 pm",
       "artist": "of Montreal",
       "title": "The Past Is a Grotesque Animal"
+    },
+    {
+      "time": "8:33 pm",
+      "artist": "Peter, Paul & Mary",
+      "title": "Blowin' In The Wind"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 pm",
+      "artist": "Bad Brains",
+      "title": "Sailin' On",
+      "album": "Bad Brains • 1982"
+    },
     {
       "time": "8:11 pm",
       "artist": "Rod Stewart",
@@ -167,12 +173,6 @@
       "artist": "Eurythmics",
       "title": "Would I Lie To You",
       "album": "Be Yourself Tonight • 1985"
-    },
-    {
-      "time": "6:32 pm",
-      "artist": "Elvis Costello",
-      "title": "Veronica",
-      "album": "Spike • 1989"
     }
   ]
 }
