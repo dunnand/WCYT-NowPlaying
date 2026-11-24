@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-23T21:20:07",
+  "updatedAt": "2026-11-23T21:23:50",
   "now": {
-    "artist": "KISS",
-    "title": "Rock and Roll All Nite",
-    "album": "Dressed to Kill • 1975",
+    "artist": "Marvin Gaye",
+    "title": "You're All I Need to Get By",
+    "album": "Youre All I Need • 1968",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:23 pm",
-      "artist": "Marvin Gaye",
-      "title": "You're All I Need to Get By"
-    },
     {
       "time": "9:26 pm",
       "artist": "KISS",
@@ -26,9 +21,20 @@
       "time": "9:32 pm",
       "artist": "KISS",
       "title": "Strutter"
+    },
+    {
+      "time": "9:35 pm",
+      "artist": "Modest Mouse",
+      "title": "Custom Concern"
     }
   ],
   "recent": [
+    {
+      "time": "9:23 pm",
+      "artist": "Marvin Gaye",
+      "title": "You're All I Need to Get By",
+      "album": "Youre All I Need • 1968"
+    },
     {
       "time": "9:20 pm",
       "artist": "KISS",
@@ -172,12 +178,6 @@
       "artist": "Joni Mitchell",
       "title": "Help Me",
       "album": "Court and Spark • 1974"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "Sam the Sham and the Pharaohs",
-      "title": "Wooly Bully",
-      "album": "Wooly Bully • 1965"
     }
   ]
 }
