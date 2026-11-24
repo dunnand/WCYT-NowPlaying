@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T07:01:00",
+  "updatedAt": "2026-11-24T07:04:48",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "Pictures in an Exhibition",
-    "album": "Something About Airplanes • 1998",
-    "category": "TUNES"
+    "artist": "Coasters",
+    "title": "Yakety Yak",
+    "album": "single • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:04 am",
-      "artist": "Coasters",
-      "title": "Yakety Yak"
-    },
     {
       "time": "7:06 am",
       "artist": "Bleachers",
@@ -26,9 +21,20 @@
       "time": "7:12 am",
       "artist": "Radiohead",
       "title": "Lotus Flower"
+    },
+    {
+      "time": "7:17 am",
+      "artist": "The Dismemberment Plan",
+      "title": "The City"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 am",
+      "artist": "Coasters",
+      "title": "Yakety Yak",
+      "album": "single • 1958"
+    },
     {
       "time": "7:00 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Mudhoney",
       "title": "Touch Me I'm Sick",
       "album": "Superfuzz • 1988"
-    },
-    {
-      "time": "5:21 am",
-      "artist": "Built to Spill",
-      "title": "Untrustable/Part 2 (About Someone Else)",
-      "album": "Perfect From Now On • 1997"
     }
   ]
 }
