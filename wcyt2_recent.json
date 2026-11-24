@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T05:01:24",
+  "updatedAt": "2026-11-24T05:03:36",
   "now": {
-    "artist": "Big Bopper",
-    "title": "Chantilly Lace",
-    "album": "Chantilly Lace • 1959",
+    "artist": "School Of Seven Bells",
+    "title": "My Cabal",
+    "album": "Alpinisms • 2008",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 am",
-      "artist": "School Of Seven Bells",
-      "title": "My Cabal"
-    },
     {
       "time": "5:08 am",
       "artist": "The Jimi Hendrix Experience",
@@ -21,9 +16,20 @@
       "time": "5:12 am",
       "artist": "Radiohead",
       "title": "Identikit"
+    },
+    {
+      "time": "5:16 am",
+      "artist": "Bryan Adams",
+      "title": "Have You Ever Really Loved A Woman?"
     }
   ],
   "recent": [
+    {
+      "time": "5:03 am",
+      "artist": "School Of Seven Bells",
+      "title": "My Cabal",
+      "album": "Alpinisms • 2008"
+    },
     {
       "time": "5:01 am",
       "artist": "Big Bopper",
@@ -156,11 +162,6 @@
       "time": "2:59 am",
       "artist": "Jerry Lee Lewis",
       "title": "Whole Lotta Shakin' Going on"
-    },
-    {
-      "time": "2:56 am",
-      "artist": "PJ Harvey",
-      "title": "Down by the Water"
     }
   ]
 }
