@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T10:36:24",
+  "updatedAt": "2026-11-24T10:39:36",
   "now": {
     "artist": "Neil Young",
-    "title": "Old Man",
-    "album": "Harvest • 1972",
+    "title": "On the Beach",
+    "album": "On the Beach • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:39 am",
-      "artist": "Neil Young",
-      "title": "On the Beach"
-    },
     {
       "time": "10:46 am",
       "artist": "Yo La Tengo",
@@ -26,9 +21,20 @@
       "time": "10:53 am",
       "artist": "Neil Young",
       "title": "Southern Man"
+    },
+    {
+      "time": "10:58 am",
+      "artist": "Lush",
+      "title": "For Love"
     }
   ],
   "recent": [
+    {
+      "time": "10:39 am",
+      "artist": "Neil Young",
+      "title": "On the Beach",
+      "album": "On the Beach • 1974"
+    },
     {
       "time": "10:36 am",
       "artist": "Neil Young",
@@ -172,12 +178,6 @@
       "artist": "TV on the Radio",
       "title": "Ambulance",
       "album": "Desperate Youth, Blood Thirsty Babes • 2004"
-    },
-    {
-      "time": "8:53 am",
-      "artist": "Monotones",
-      "title": "Book Of Love",
-      "album": "Book of Love • 1958"
     }
   ]
 }
