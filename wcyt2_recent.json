@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T13:30:09",
+  "updatedAt": "2026-11-24T13:32:10",
   "now": {
-    "artist": "The Beach Boys",
-    "title": "Don't Hurt My Little Sister",
-    "album": "The Beach Boys Today! • 1965",
+    "artist": "Neil Young & Crazy Horse",
+    "title": "My My, Hey Hey (Out of the Blue)",
+    "album": "Rust Never Sleeps • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:32 pm",
-      "artist": "Neil Young & Crazy Horse",
-      "title": "My My, Hey Hey (Out of the Blue)"
-    },
     {
       "time": "1:35 pm",
       "artist": "Roxette",
@@ -26,9 +21,20 @@
       "time": "1:43 pm",
       "artist": "System of a Down",
       "title": "Toxicity"
+    },
+    {
+      "time": "1:47 pm",
+      "artist": "The Unicorns",
+      "title": "I Don't Wanna Die"
     }
   ],
   "recent": [
+    {
+      "time": "1:32 pm",
+      "artist": "Neil Young & Crazy Horse",
+      "title": "My My, Hey Hey (Out of the Blue)",
+      "album": "Rust Never Sleeps • 1979"
+    },
     {
       "time": "1:30 pm",
       "artist": "The Beach Boys",
@@ -172,12 +178,6 @@
       "artist": "Metallica",
       "title": "Sad but True",
       "album": "Metallica • 1991"
-    },
-    {
-      "time": "11:15 am",
-      "artist": "Radiohead",
-      "title": "True Love Waits",
-      "album": "A Moon Shaped Pool • 2016"
     }
   ]
 }
