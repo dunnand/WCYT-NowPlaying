@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T08:45:35",
+  "updatedAt": "2026-11-24T08:49:07",
   "now": {
-    "artist": "Mott the Hoople",
-    "title": "All the Young Dudes",
-    "album": "All the Young Dudes • 1972",
+    "artist": "Genesis",
+    "title": "Jesus He Knows Me",
+    "album": "We Can't Dance • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:49 am",
-      "artist": "Genesis",
-      "title": "Jesus He Knows Me"
-    },
     {
       "time": "8:53 am",
       "artist": "Monotones",
@@ -21,9 +16,20 @@
       "time": "8:55 am",
       "artist": "TV on the Radio",
       "title": "Ambulance"
+    },
+    {
+      "time": "9:00 am",
+      "artist": "Sam Cooke",
+      "title": "Cupid"
     }
   ],
   "recent": [
+    {
+      "time": "8:49 am",
+      "artist": "Genesis",
+      "title": "Jesus He Knows Me",
+      "album": "We Can't Dance • 1991"
+    },
     {
       "time": "8:45 am",
       "artist": "Mott the Hoople",
@@ -167,12 +173,6 @@
       "artist": "Elastica",
       "title": "Vaseline",
       "album": "Elastica • 1995"
-    },
-    {
-      "time": "7:17 am",
-      "artist": "The Dismemberment Plan",
-      "title": "The City",
-      "album": "Emergency & I • 1999"
     }
   ]
 }
