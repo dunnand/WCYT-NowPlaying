@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T02:46:05",
+  "updatedAt": "2026-11-25T02:52:40",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Time",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "Bob Dylan",
+    "title": "Balad of a Thin Man",
+    "album": "Highway 61 Revisited • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:52 am",
-      "artist": "Bob Dylan",
-      "title": "Balad of a Thin Man"
-    },
     {
       "time": "2:58 am",
       "artist": "Pink Floyd",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:52 am",
+      "artist": "Bob Dylan",
+      "title": "Balad of a Thin Man",
+      "album": "Highway 61 Revisited • 1965"
+    },
     {
       "time": "2:46 am",
       "artist": "Pink Floyd",
@@ -177,12 +178,6 @@
       "artist": "Weezer",
       "title": "Can't Knock the Hustle",
       "album": "Weezer • 2019"
-    },
-    {
-      "time": "1:10 am",
-      "artist": "Bob Dylan",
-      "title": "All Along the Watchtower",
-      "album": "John Wesley Harding • 1967"
     }
   ]
 }
