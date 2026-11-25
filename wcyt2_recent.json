@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T23:54:43",
+  "updatedAt": "2026-11-24T23:55:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Was a Sunny Day",
+    "album": "There Goes Rhymin Simon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:55 pm",
-      "artist": "Paul Simon",
-      "title": "Was a Sunny Day"
-    },
     {
       "time": "11:58 pm",
       "artist": "Aretha Franklin",
@@ -24,6 +19,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:55 pm",
+      "artist": "Paul Simon",
+      "title": "Was a Sunny Day",
+      "album": "There Goes Rhymin Simon • 1973"
+    },
     {
       "time": "11:52 pm",
       "artist": "Aretha Franklin",
@@ -167,12 +168,6 @@
       "artist": "Taylor Swift",
       "title": "Love Story",
       "album": "Fearless • 2008"
-    },
-    {
-      "time": "10:24 pm",
-      "artist": "The Shins",
-      "title": "Pink Bullets",
-      "album": "Chutes Too Narrow • 2003"
     }
   ]
 }
