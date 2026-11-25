@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T07:59:11",
+  "updatedAt": "2026-11-25T07:59:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "Oh!",
+    "album": "One Beat • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:59 am",
-      "artist": "Sleater",
-      "title": "Kinney - Oh!"
-    },
     {
       "time": "8:03 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "8:09 am",
       "artist": "Tom Petty and the Heartbreakers",
       "title": "Kings Highway"
+    },
+    {
+      "time": "8:12 am",
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue"
     }
   ],
   "recent": [
+    {
+      "time": "7:59 am",
+      "artist": "Sleater-Kinney",
+      "title": "Oh!",
+      "album": "One Beat • 2002"
+    },
     {
       "time": "7:33 am",
       "artist": "Suede",
@@ -148,11 +154,6 @@
       "time": "5:50 am",
       "artist": "Weezer",
       "title": "Turning Up the Radio"
-    },
-    {
-      "time": "5:47 am",
-      "artist": "Spoon",
-      "title": "The Way We Get By"
     }
   ]
 }
