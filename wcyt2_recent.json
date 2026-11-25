@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T22:17:50",
+  "updatedAt": "2026-11-24T22:20:03",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Between the Bars",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "The Weekend",
+    "title": "Die For You",
+    "album": "Starboy • 2016",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 pm",
-      "artist": "The Weekend",
-      "title": "Die For You"
-    },
     {
       "time": "10:24 pm",
       "artist": "The Shins",
@@ -21,9 +16,20 @@
       "time": "10:27 pm",
       "artist": "Taylor Swift",
       "title": "Love Story"
+    },
+    {
+      "time": "10:32 pm",
+      "artist": "Thundercat",
+      "title": "Them Changes"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 pm",
+      "artist": "The Weekend",
+      "title": "Die For You",
+      "album": "Starboy • 2016"
+    },
     {
       "time": "10:17 pm",
       "artist": "Elliott Smith",
@@ -167,12 +173,6 @@
       "artist": "Whitesnake",
       "title": "Is This Love",
       "album": "Whitesnake • 1987"
-    },
-    {
-      "time": "8:41 pm",
-      "artist": "Oasis",
-      "title": "Champagne Supernova",
-      "album": "Whats the Story) Morning Glory? • 1996"
     }
   ]
 }
