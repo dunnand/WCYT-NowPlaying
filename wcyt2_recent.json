@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T04:46:28",
+  "updatedAt": "2026-11-25T04:50:02",
   "now": {
-    "artist": "Queen",
-    "title": "'39",
-    "album": "A Night at the Opera • 1975",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "M79",
+    "album": "Vampire Weekend • 2008",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:50 am",
-      "artist": "Vampire Weekend",
-      "title": "M79"
-    },
     {
       "time": "4:54 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,25 @@
       "time": "5:07 am",
       "artist": "Gin Blossoms",
       "title": "Hey Jealousy"
+    },
+    {
+      "time": "5:11 am",
+      "artist": "Elvis Presley",
+      "title": "Heartbreak Hotel"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "The Shins",
+      "title": "Turn a Square"
     }
   ],
   "recent": [
+    {
+      "time": "4:50 am",
+      "artist": "Vampire Weekend",
+      "title": "M79",
+      "album": "Vampire Weekend • 2008"
+    },
     {
       "time": "4:46 am",
       "artist": "Queen",
@@ -172,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "Blowin' in the Wind",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "3:13 am",
-      "artist": "U2",
-      "title": "Sometimes You Can't Make It On Your Own",
-      "album": "How to Dismantle an Atomic Bomb • 2005"
     }
   ]
 }
