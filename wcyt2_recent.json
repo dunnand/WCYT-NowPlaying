@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T00:45:20",
+  "updatedAt": "2026-11-25T00:45:31",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Another Brick in the Wall, Part 2",
+    "album": "The Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:45 am",
-      "artist": "Pink Floyd",
-      "title": "Another Brick in the Wall, Part 2"
-    },
     {
       "time": "12:49 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "1:00 am",
       "artist": "Tracy Chapman",
       "title": "Give Me One Reason"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "Mark Dinning",
+      "title": "Teen Angel"
     }
   ],
   "recent": [
+    {
+      "time": "12:45 am",
+      "artist": "Pink Floyd",
+      "title": "Another Brick in the Wall, Part 2",
+      "album": "The Wall • 1979"
+    },
     {
       "time": "12:42 am",
       "artist": "Ben E. King",
@@ -152,11 +158,6 @@
       "time": "10:55 pm",
       "artist": "Paul Simon",
       "title": "Duncan"
-    },
-    {
-      "time": "10:53 pm",
-      "artist": "Nintendo",
-      "title": "SNES Donut Plains (Super Mario Kart)"
     }
   ]
 }
