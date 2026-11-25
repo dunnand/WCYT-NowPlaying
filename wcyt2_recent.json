@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T20:06:50",
+  "updatedAt": "2026-11-24T20:07:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul McCartney",
+    "title": "Junk",
+    "album": "McCartney • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 pm",
-      "artist": "Paul McCartney",
-      "title": "Junk"
-    },
     {
       "time": "8:08 pm",
       "artist": "Big Brother & the Holding Company",
@@ -26,9 +21,20 @@
       "time": "8:18 pm",
       "artist": "Simon & Garfunkel",
       "title": "Scarborough Fair / Canticle"
+    },
+    {
+      "time": "8:21 pm",
+      "artist": "Paul McCartney",
+      "title": "Too Many People"
     }
   ],
   "recent": [
+    {
+      "time": "8:07 pm",
+      "artist": "Paul McCartney",
+      "title": "Junk",
+      "album": "McCartney • 1970"
+    },
     {
       "time": "8:04 pm",
       "artist": "Superchunk",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "I'm In Love Again",
       "album": "single • 1956"
-    },
-    {
-      "time": "6:21 pm",
-      "artist": "Sleater Kinney",
-      "title": "Words and Guitar",
-      "album": "Dig Me Out • 1997"
     }
   ]
 }
