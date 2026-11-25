@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T14:58:07",
+  "updatedAt": "2026-11-25T15:02:52",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Just Like a Woman",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "Wilco",
+    "title": "The Joke Explained",
+    "album": "Star Wars • 2015",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:02 pm",
-      "artist": "Wilco",
-      "title": "The Joke Explained"
-    },
     {
       "time": "3:05 pm",
       "artist": "Madonna",
@@ -21,9 +16,20 @@
       "time": "3:09 pm",
       "artist": "Foo Fighters",
       "title": "Monkey Wrench"
+    },
+    {
+      "time": "3:13 pm",
+      "artist": "Kim Carnes",
+      "title": "Bette Davis Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "3:02 pm",
+      "artist": "Wilco",
+      "title": "The Joke Explained",
+      "album": "Star Wars • 2015"
+    },
     {
       "time": "2:58 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Rodriguez",
       "title": "Sugar Man",
       "album": "Cold Fact • 1970"
-    },
-    {
-      "time": "1:15 pm",
-      "artist": "Bleachers",
-      "title": "you and forever",
-      "album": "everyone for ten minutes • 2026"
     }
   ]
 }
