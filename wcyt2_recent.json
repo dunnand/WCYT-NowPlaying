@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T04:23:19",
+  "updatedAt": "2026-11-25T04:23:29",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Eric Clapton",
+    "title": "My Father's Eyes",
+    "album": "Pilgrim • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:23 am",
-      "artist": "Eric Clapton",
-      "title": "My Father's Eyes"
-    },
     {
       "time": "4:28 am",
       "artist": "Fiona Apple",
@@ -26,9 +21,20 @@
       "time": "4:37 am",
       "artist": "Johnny Hates Jazz",
       "title": "Shattered Dreams"
+    },
+    {
+      "time": "4:40 am",
+      "artist": "Turnstile",
+      "title": "UNDERWATER BOI"
     }
   ],
   "recent": [
+    {
+      "time": "4:23 am",
+      "artist": "Eric Clapton",
+      "title": "My Father's Eyes",
+      "album": "Pilgrim • 1998"
+    },
     {
       "time": "4:19 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Baby, Let Me Follow You Down",
       "album": "Bob Dylan • 1962"
-    },
-    {
-      "time": "2:37 am",
-      "artist": "Pink Floyd",
-      "title": "Mother",
-      "album": "The Wall • 1979"
     }
   ]
 }
