@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T01:04:06",
+  "updatedAt": "2026-11-25T01:06:37",
   "now": {
-    "artist": "Mark Dinning",
-    "title": "Teen Angel",
-    "album": "Single • 1959",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "New Slang",
+    "album": "Oh Inverted World • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:06 am",
-      "artist": "The Shins",
-      "title": "New Slang"
-    },
     {
       "time": "1:10 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "1:13 am",
       "artist": "Weezer",
       "title": "Can't Knock the Hustle"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Steve Earle",
+      "title": "The Mountain"
     }
   ],
   "recent": [
+    {
+      "time": "1:06 am",
+      "artist": "The Shins",
+      "title": "New Slang",
+      "album": "Oh Inverted World • 2001"
+    },
     {
       "time": "1:04 am",
       "artist": "Mark Dinning",
@@ -152,11 +158,6 @@
       "time": "11:14 pm",
       "artist": "Pavement",
       "title": "Unfair"
-    },
-    {
-      "time": "11:09 pm",
-      "artist": "Paul Simon",
-      "title": "Something So Right"
     }
   ]
 }
