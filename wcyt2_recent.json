@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T14:19:54",
+  "updatedAt": "2026-11-25T14:24:25",
   "now": {
-    "artist": "Rush",
-    "title": "The Trees",
-    "album": "Hemispheres • 1978",
+    "artist": "Bob Dylan",
+    "title": "It's Alright, Ma",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:24 pm",
-      "artist": "Bob Dylan",
-      "title": "It's Alright, Ma"
-    },
     {
       "time": "2:32 pm",
       "artist": "Rush",
@@ -26,9 +21,20 @@
       "time": "2:42 pm",
       "artist": "Sex Pistols",
       "title": "Anarchy in the U.K."
+    },
+    {
+      "time": "2:45 pm",
+      "artist": "Silver Jews",
+      "title": "Random Rules"
     }
   ],
   "recent": [
+    {
+      "time": "2:24 pm",
+      "artist": "Bob Dylan",
+      "title": "It's Alright, Ma",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "2:19 pm",
       "artist": "Rush",
@@ -172,12 +178,6 @@
       "artist": "Stephen Malkmus",
       "title": "Jenny & the Ess-Dog",
       "album": "Stephen Malkmus • 2001"
-    },
-    {
-      "time": "12:46 pm",
-      "artist": "Wilco",
-      "title": "Quiet Amplifier",
-      "album": "Ode to Joy • 2019"
     }
   ]
 }
