@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T02:58:34",
+  "updatedAt": "2026-11-25T03:05:59",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Us and Them",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "Celine Dion",
+    "title": "The Power Of Love",
+    "album": "The Colour of My Love • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:06 am",
-      "artist": "Celine Dion",
-      "title": "The Power Of Love"
-    },
     {
       "time": "3:10 am",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "3:18 am",
       "artist": "Bob Dylan",
       "title": "Blowin' in the Wind"
+    },
+    {
+      "time": "3:20 am",
+      "artist": "Weezer",
+      "title": "L.A. Girlz"
     }
   ],
   "recent": [
+    {
+      "time": "3:05 am",
+      "artist": "Celine Dion",
+      "title": "The Power Of Love",
+      "album": "The Colour of My Love • 1993"
+    },
     {
       "time": "2:58 am",
       "artist": "Pink Floyd",
@@ -172,12 +178,6 @@
       "artist": "Built to Spill",
       "title": "Car",
       "album": "Theres Nothing Wrong With Love • 1994"
-    },
-    {
-      "time": "1:16 am",
-      "artist": "Steve Earle",
-      "title": "The Mountain",
-      "album": "The Mountain • 1999"
     }
   ]
 }
