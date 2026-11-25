@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T00:56:04",
+  "updatedAt": "2026-11-25T00:59:51",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Brain Damage",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "Tracy Chapman",
+    "title": "Give Me One Reason",
+    "album": "New Beginning • 1996",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:59 am",
-      "artist": "Tracy Chapman",
-      "title": "Give Me One Reason"
-    },
     {
       "time": "1:04 am",
       "artist": "Mark Dinning",
@@ -21,9 +16,20 @@
       "time": "1:06 am",
       "artist": "The Shins",
       "title": "New Slang"
+    },
+    {
+      "time": "1:10 am",
+      "artist": "Bob Dylan",
+      "title": "All Along the Watchtower"
     }
   ],
   "recent": [
+    {
+      "time": "12:59 am",
+      "artist": "Tracy Chapman",
+      "title": "Give Me One Reason",
+      "album": "New Beginning • 1996"
+    },
     {
       "time": "12:56 am",
       "artist": "Pink Floyd",
@@ -150,11 +156,6 @@
       "time": "11:06 pm",
       "artist": "Aretha Franklin",
       "title": "I Say a Little Prayer"
-    },
-    {
-      "time": "11:03 pm",
-      "artist": "Paul Simon",
-      "title": "Me and Julio Down by the Schoolyard"
     }
   ]
 }
