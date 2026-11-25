@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T08:03:24",
+  "updatedAt": "2026-11-25T08:07:07",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Don't Think Twice, It's All Right",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "artist": "Ramones",
+    "title": "Blitzkrieg Bop",
+    "album": "Ramones • 1976",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:07 am",
-      "artist": "Ramones",
-      "title": "Blitzkrieg Bop"
-    },
     {
       "time": "8:09 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:07 am",
+      "artist": "Ramones",
+      "title": "Blitzkrieg Bop",
+      "album": "Ramones • 1976"
+    },
     {
       "time": "8:03 am",
       "artist": "Bob Dylan",
@@ -150,11 +151,6 @@
       "time": "5:57 am",
       "artist": "Matchbox Twenty",
       "title": "Real World"
-    },
-    {
-      "time": "5:53 am",
-      "artist": "Queen",
-      "title": "Don't Stop Me Now"
     }
   ]
 }
