@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T11:06:31",
+  "updatedAt": "2026-11-25T11:09:17",
   "now": {
-    "artist": "Wilco",
-    "title": "More...",
-    "album": "Star Wars • 2015",
-    "category": "AUDIO"
+    "artist": "Neutral Milk Hotel",
+    "title": "Song Against Sex",
+    "album": "On Avery Island • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:09 am",
-      "artist": "Neutral Milk Hotel",
-      "title": "Song Against Sex"
-    },
     {
       "time": "11:12 am",
       "artist": "A Tribe Called Quest",
@@ -26,9 +21,20 @@
       "time": "11:20 am",
       "artist": "Kate Bush",
       "title": "Night of the Swallow"
+    },
+    {
+      "time": "11:25 am",
+      "artist": "Bleachers",
+      "title": "Tiny Moves"
     }
   ],
   "recent": [
+    {
+      "time": "11:09 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Song Against Sex",
+      "album": "On Avery Island • 1996"
+    },
     {
       "time": "11:06 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Ramones",
       "title": "Pinhead",
       "album": "Leave Home • 1977"
-    },
-    {
-      "time": "9:36 am",
-      "artist": "Songs Ohia",
-      "title": "Farewell Transmission",
-      "album": "The Magnolia Electric Co • 2003"
     }
   ]
 }
