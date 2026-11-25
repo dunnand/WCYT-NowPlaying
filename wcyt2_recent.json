@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T23:58:56",
+  "updatedAt": "2026-11-25T00:04:02",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Autumn Sweater",
-    "album": "I Can Hear the Heart Beating as One • 1997",
-    "category": "TUNES"
+    "artist": "Weezer",
+    "title": "Africa",
+    "album": "Weezer • 2019",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Weezer",
-      "title": "Africa"
-    },
     {
       "time": "12:08 am",
       "artist": "TV on the Radio",
@@ -21,9 +16,20 @@
       "time": "12:12 am",
       "artist": "The White Stripes",
       "title": "Hello Operator"
+    },
+    {
+      "time": "12:14 am",
+      "artist": "Weezer",
+      "title": "California Kids"
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Weezer",
+      "title": "Africa",
+      "album": "Weezer • 2019"
+    },
     {
       "time": "11:58 pm",
       "artist": "Yo La Tengo",
@@ -167,12 +173,6 @@
       "artist": "Siouxsie and the Banshees",
       "title": "Kiss Them for Me",
       "album": "Superstition • 1991"
-    },
-    {
-      "time": "10:32 pm",
-      "artist": "Thundercat",
-      "title": "Them Changes",
-      "album": "Drunk • 2017"
     }
   ]
 }
