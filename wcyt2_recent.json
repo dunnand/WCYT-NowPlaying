@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T22:55:38",
+  "updatedAt": "2026-11-24T22:55:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Duncan",
+    "album": "Paul Simon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:55 pm",
-      "artist": "Paul Simon",
-      "title": "Duncan"
-    },
     {
       "time": "11:00 pm",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "11:06 pm",
       "artist": "Aretha Franklin",
       "title": "I Say a Little Prayer"
+    },
+    {
+      "time": "11:10 pm",
+      "artist": "Paul Simon",
+      "title": "Something So Right"
     }
   ],
   "recent": [
+    {
+      "time": "10:55 pm",
+      "artist": "Paul Simon",
+      "title": "Duncan",
+      "album": "Paul Simon • 1972"
+    },
     {
       "time": "10:53 pm",
       "artist": "Nintendo",
@@ -172,12 +178,6 @@
       "artist": "Ray Charles",
       "title": "I Got a Woman",
       "album": "single • 1954"
-    },
-    {
-      "time": "9:16 pm",
-      "artist": "Ride",
-      "title": "Dreams Burn Down",
-      "album": "Nowhere • 1990"
     }
   ]
 }
