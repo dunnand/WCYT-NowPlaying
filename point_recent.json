@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T02:47:31",
+  "updatedAt": "2026-11-25T02:47:52",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "My Morning Jacket",
+    "title": "Just Because I Do",
+    "album": "At Dawn • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:47 am",
-      "artist": "My Morning Jacket",
-      "title": "Just Because I Do"
-    },
     {
       "time": "2:50 am",
       "artist": "DIIV",
@@ -26,9 +21,20 @@
       "time": "2:57 am",
       "artist": "Angel Olsen",
       "title": "Ghost On"
+    },
+    {
+      "time": "3:02 am",
+      "artist": "Wilco",
+      "title": "Via Chicago"
     }
   ],
   "recent": [
+    {
+      "time": "2:47 am",
+      "artist": "My Morning Jacket",
+      "title": "Just Because I Do",
+      "album": "At Dawn • 2001"
+    },
     {
       "time": "2:44 am",
       "artist": "Fontaines D.C.",
@@ -172,12 +178,6 @@
       "artist": "Mdou Moctar",
       "title": "Imouhar",
       "album": "Funeral For Justice • 2024"
-    },
-    {
-      "time": "1:17 am",
-      "artist": "Brigitte Calls Me Baby",
-      "title": "Eddie My Love",
-      "album": "This House is Made of Corners • 2023"
     }
   ]
 }
