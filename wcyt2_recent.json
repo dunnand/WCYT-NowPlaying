@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T22:14:07",
+  "updatedAt": "2026-11-24T22:17:50",
   "now": {
-    "artist": "Paul Simon",
-    "title": "American Tune",
-    "album": "There Goes Rhymin Simon • 1973",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Between the Bars",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:17 pm",
-      "artist": "Elliott Smith",
-      "title": "Between the Bars"
-    },
     {
       "time": "10:20 pm",
       "artist": "The Weekend",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:17 pm",
+      "artist": "Elliott Smith",
+      "title": "Between the Bars",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "10:14 pm",
       "artist": "Paul Simon",
@@ -172,12 +173,6 @@
       "artist": "Oasis",
       "title": "Champagne Supernova",
       "album": "Whats the Story) Morning Glory? • 1996"
-    },
-    {
-      "time": "8:37 pm",
-      "artist": "Mariah Carey",
-      "title": "Fantasy",
-      "album": "Daydream • 1995"
     }
   ]
 }
