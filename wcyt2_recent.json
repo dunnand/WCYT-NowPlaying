@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T02:13:52",
+  "updatedAt": "2026-11-25T02:17:12",
   "now": {
-    "artist": "Weezer",
-    "title": "Feels Like Summer",
-    "album": "Pacific Daydream • 2017",
-    "category": "AUDIO"
+    "artist": "Blur",
+    "title": "Tender",
+    "album": "13 • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:17 am",
-      "artist": "Blur",
-      "title": "Tender"
-    },
     {
       "time": "2:24 am",
       "artist": "Bruce Springsteen",
@@ -26,9 +21,20 @@
       "time": "2:32 am",
       "artist": "Michael Damian",
       "title": "Rock On"
+    },
+    {
+      "time": "2:36 am",
+      "artist": "Turnstile",
+      "title": "New Heart Design"
     }
   ],
   "recent": [
+    {
+      "time": "2:17 am",
+      "artist": "Blur",
+      "title": "Tender",
+      "album": "13 • 1999"
+    },
     {
       "time": "2:13 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Ben E. King",
       "title": "Stand by Me",
       "album": "Don't Play That Song! • 1962"
-    },
-    {
-      "time": "12:36 am",
-      "artist": "Pink Floyd",
-      "title": "Money",
-      "album": "The Dark Side of the Moon • 1973"
     }
   ]
 }
