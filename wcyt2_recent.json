@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T05:13:11",
+  "updatedAt": "2026-11-25T05:16:09",
   "now": {
-    "artist": "The Shins",
-    "title": "Turn a Square",
-    "album": "Chutes Too Narrow • 2003",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Corrina, Corrina",
+    "album": "The Freewheelin Bob Dylan • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:16 am",
-      "artist": "Bob Dylan",
-      "title": "Corrina, Corrina"
-    },
     {
       "time": "5:18 am",
       "artist": "Weezer",
@@ -26,9 +21,20 @@
       "time": "5:26 am",
       "artist": "Lenny Kravitz",
       "title": "Are You Gonna Go My Way"
+    },
+    {
+      "time": "5:29 am",
+      "artist": "The Pimsouls",
+      "title": "A Million Miles Away"
     }
   ],
   "recent": [
+    {
+      "time": "5:16 am",
+      "artist": "Bob Dylan",
+      "title": "Corrina, Corrina",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "5:13 am",
       "artist": "The Shins",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "All My Favorite Songs",
       "album": "OK Human • 2021"
-    },
-    {
-      "time": "3:35 am",
-      "artist": "Happy Mondays",
-      "title": "Wrote for Luck",
-      "album": "Bummed • 1988"
     }
   ]
 }
