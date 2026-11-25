@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T00:36:02",
+  "updatedAt": "2026-11-25T00:42:28",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Money",
-    "album": "The Dark Side of the Moon • 1973",
+    "artist": "Ben E. King",
+    "title": "Stand by Me",
+    "album": "Don't Play That Song! • 1962",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "Ben E. King",
-      "title": "Stand by Me"
-    },
     {
       "time": "12:45 am",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "12:56 am",
       "artist": "Pink Floyd",
       "title": "Brain Damage"
+    },
+    {
+      "time": "1:00 am",
+      "artist": "Tracy Chapman",
+      "title": "Give Me One Reason"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "Ben E. King",
+      "title": "Stand by Me",
+      "album": "Don't Play That Song! • 1962"
+    },
     {
       "time": "12:36 am",
       "artist": "Pink Floyd",
@@ -151,11 +157,6 @@
       "time": "10:53 pm",
       "artist": "Nintendo",
       "title": "SNES Donut Plains (Super Mario Kart)"
-    },
-    {
-      "time": "10:49 pm",
-      "artist": "Love And Rockets",
-      "title": "So Alive"
     }
   ]
 }
