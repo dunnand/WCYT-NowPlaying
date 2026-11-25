@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T15:31:23",
+  "updatedAt": "2026-11-25T15:35:35",
   "now": {
-    "artist": "Songs Ohia",
-    "title": "Just Be Simple",
-    "album": "The Magnolia Electric Co • 2003",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Lay Lady Lay",
+    "album": "Lay Lady Lay • 1969",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:35 pm",
-      "artist": "Bob Dylan",
-      "title": "Lay Lady Lay"
-    },
     {
       "time": "3:38 pm",
       "artist": "Smokey Robinson",
@@ -26,9 +21,20 @@
       "time": "3:50 pm",
       "artist": "Wilco",
       "title": "We Were Lucky"
+    },
+    {
+      "time": "3:55 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Our Time"
     }
   ],
   "recent": [
+    {
+      "time": "3:35 pm",
+      "artist": "Bob Dylan",
+      "title": "Lay Lady Lay",
+      "album": "Lay Lady Lay • 1969"
+    },
     {
       "time": "3:31 pm",
       "artist": "Songs Ohia",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Taste the Ceiling",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "1:50 pm",
-      "artist": "The Strokes",
-      "title": "What Ever Happened?",
-      "album": "Room on Fire • 2003"
     }
   ]
 }
