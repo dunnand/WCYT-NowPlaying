@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T05:53:39",
+  "updatedAt": "2026-11-25T05:57:03",
   "now": {
-    "artist": "Queen",
-    "title": "Don't Stop Me Now",
-    "album": "Jazz • 1978",
+    "artist": "Matchbox Twenty",
+    "title": "Real World",
+    "album": "Yourself or Someone Like You • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:57 am",
-      "artist": "Matchbox Twenty",
-      "title": "Real World"
-    },
     {
       "time": "6:00 am",
       "artist": "Billie Holiday",
@@ -26,9 +21,20 @@
       "time": "6:07 am",
       "artist": "Bob Dylan",
       "title": "Dear Landlord"
+    },
+    {
+      "time": "6:10 am",
+      "artist": "Wilco",
+      "title": "Art of Almost"
     }
   ],
   "recent": [
+    {
+      "time": "5:56 am",
+      "artist": "Matchbox Twenty",
+      "title": "Real World",
+      "album": "Yourself or Someone Like You • 1998"
+    },
     {
       "time": "5:53 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Fiona Apple",
       "title": "Limp",
       "album": "When the Pawn • 1999"
-    },
-    {
-      "time": "4:23 am",
-      "artist": "Eric Clapton",
-      "title": "My Father's Eyes",
-      "album": "Pilgrim • 1998"
     }
   ]
 }
