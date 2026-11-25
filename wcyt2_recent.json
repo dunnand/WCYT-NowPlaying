@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T11:38:41",
+  "updatedAt": "2026-11-25T11:41:13",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "In My Time of Dyin'",
-    "album": "Bob Dylan • 1962",
+    "artist": "Rodriguez",
+    "title": "Crucify Your Mind",
+    "album": "Cold Fact • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:41 am",
-      "artist": "Rodriguez",
-      "title": "Crucify Your Mind"
-    },
     {
       "time": "11:43 am",
       "artist": "Beck",
@@ -26,9 +21,20 @@
       "time": "11:50 am",
       "artist": "Ugly Casanova",
       "title": "Barnacles"
+    },
+    {
+      "time": "11:55 am",
+      "artist": "Bob Dylan",
+      "title": "It Ain't Me Babe"
     }
   ],
   "recent": [
+    {
+      "time": "11:41 am",
+      "artist": "Rodriguez",
+      "title": "Crucify Your Mind",
+      "album": "Cold Fact • 1970"
+    },
     {
       "time": "11:38 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Elliott Smith",
       "title": "Waltz #2 (XO)",
       "album": "XO • 1998"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Wilco",
-      "title": "Locator",
-      "album": "Schmilco • 2016"
     }
   ]
 }
