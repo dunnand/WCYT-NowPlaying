@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T15:05:36",
+  "updatedAt": "2026-11-25T15:09:50",
   "now": {
-    "artist": "Madonna",
-    "title": "Secret",
-    "album": "Bedtime Stories • 1994",
+    "artist": "Foo Fighters",
+    "title": "Monkey Wrench",
+    "album": "The Colour and the Shape • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:09 pm",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench"
-    },
     {
       "time": "3:13 pm",
       "artist": "Kim Carnes",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:09 pm",
+      "artist": "Foo Fighters",
+      "title": "Monkey Wrench",
+      "album": "The Colour and the Shape • 1997"
+    },
     {
       "time": "3:05 pm",
       "artist": "Madonna",
@@ -172,12 +173,6 @@
       "artist": "Rolling Stones",
       "title": "Can't You Hear Me Knocking",
       "album": "Sticky Fingers • 1971"
-    },
-    {
-      "time": "1:23 pm",
-      "artist": "Bob Dylan",
-      "title": "It Take a Lot to Laugh, It Take a Train to Cry",
-      "album": "It Takes a Lot to Laugh, It Takes a Train to Cry • 1965"
     }
   ]
 }
