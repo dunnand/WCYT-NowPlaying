@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T16:53:33",
+  "updatedAt": "2026-11-25T16:53:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Buddy Holly",
+    "title": "Take Your Time",
+    "album": "Buddy Holly • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:53 pm",
-      "artist": "Buddy Holly",
-      "title": "Take Your Time"
-    },
     {
       "time": "4:55 pm",
       "artist": "Sun Kil Moon",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:53 pm",
+      "artist": "Buddy Holly",
+      "title": "Take Your Time",
+      "album": "Buddy Holly • 1958"
+    },
     {
       "time": "4:48 pm",
       "artist": "Aphex Twin",
@@ -172,12 +173,6 @@
       "artist": "Kim Carnes",
       "title": "Bette Davis Eyes",
       "album": "Mistaken Identity • 1981"
-    },
-    {
-      "time": "3:09 pm",
-      "artist": "Foo Fighters",
-      "title": "Monkey Wrench",
-      "album": "The Colour and the Shape • 1997"
     }
   ]
 }
