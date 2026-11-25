@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T07:15:16",
+  "updatedAt": "2026-11-25T07:26:34",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Desolation Row",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Wilco",
+    "title": "Citizens",
+    "album": "Ode to Joy • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:26 am",
-      "artist": "Wilco",
-      "title": "Citizens"
-    },
     {
       "time": "7:29 am",
       "artist": "Pulp",
@@ -21,9 +16,20 @@
       "time": "7:33 am",
       "artist": "Suede",
       "title": "The Drowners"
+    },
+    {
+      "time": "7:37 am",
+      "artist": "Phil Collins",
+      "title": "Another Day In Paradise"
     }
   ],
   "recent": [
+    {
+      "time": "7:26 am",
+      "artist": "Wilco",
+      "title": "Citizens",
+      "album": "Ode to Joy • 2019"
+    },
     {
       "time": "7:15 am",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Jennifer Lopez",
       "title": "Love Don't Cost A Thing",
       "album": "J.Lo • 2001"
-    },
-    {
-      "time": "5:36 am",
-      "artist": "The Neighbourhood",
-      "title": "Devil's Advocate",
-      "album": "Chip Chrome & the Mono-Tones • 2020"
     }
   ]
 }
