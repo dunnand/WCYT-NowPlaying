@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-11-24T20:27:30",
+  "updatedAt": "2026-11-24T20:30:12",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "School Days",
-    "album": "After School Session • 1957",
-    "category": "AUDIO"
+    "artist": "The Shins",
+    "title": "Kissing the Lipless",
+    "album": "Chutes Too Narrow • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:30 pm",
-      "artist": "The Shins",
-      "title": "Kissing the Lipless"
-    },
     {
       "time": "8:33 pm",
       "artist": "The Killers",
       "title": "Runaways"
+    },
+    {
+      "time": "8:37 pm",
+      "artist": "Mariah Carey",
+      "title": "Fantasy"
     }
   ],
   "recent": [
+    {
+      "time": "8:30 pm",
+      "artist": "The Shins",
+      "title": "Kissing the Lipless",
+      "album": "Chutes Too Narrow • 2003"
+    },
     {
       "time": "8:27 pm",
       "artist": "Chuck Berry",
@@ -162,12 +168,6 @@
       "artist": "Tom Petty & The Heartbreakers",
       "title": "Refugee",
       "album": "Damn the Torpedoes • 1980"
-    },
-    {
-      "time": "6:48 pm",
-      "artist": "The Jam",
-      "title": "When You're Young",
-      "album": "single • 1980"
     }
   ]
 }
