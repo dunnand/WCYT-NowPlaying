@@ -1,34 +1,35 @@
 {
-  "updatedAt": "2026-11-25T03:17:36",
+  "updatedAt": "2026-11-25T03:20:22",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Blowin' in the Wind",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "artist": "Weezer",
+    "title": "L.A. Girlz",
+    "album": "Weezer • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "3:20 am",
-      "artist": "Bob Dylan",
-      "title": "Blowin' in the Wind"
-    },
-    {
       "time": "3:23 am",
-      "artist": "Weezer",
-      "title": "L.A. Girlz"
-    },
-    {
-      "time": "3:26 am",
       "artist": "Cocteau Twins",
       "title": "Iceblink Luck"
     },
     {
-      "time": "3:29 am",
+      "time": "3:27 am",
       "artist": "Dinosaur Jr.",
       "title": "Start Choppin"
+    },
+    {
+      "time": "3:32 am",
+      "artist": "The Mighty Lemon Drops",
+      "title": "Another Girl, Another Planet"
     }
   ],
   "recent": [
+    {
+      "time": "3:20 am",
+      "artist": "Weezer",
+      "title": "L.A. Girlz",
+      "album": "Weezer • 2016"
+    },
     {
       "time": "3:17 am",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Childhood's End",
       "album": "Obscured by Clouds • 1972"
-    },
-    {
-      "time": "1:31 am",
-      "artist": "Grimes",
-      "title": "4ÆM",
-      "album": "Miss Anthropocene • 2020"
     }
   ]
 }
