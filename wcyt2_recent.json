@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T16:02:05",
+  "updatedAt": "2026-11-25T16:05:51",
   "now": {
-    "artist": "Wilco",
-    "title": "Whole Love",
-    "album": "The Whole Love • 2011",
+    "artist": "Aerosmith",
+    "title": "Amazing",
+    "album": "Get a Grip • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:05 pm",
-      "artist": "Aerosmith",
-      "title": "Amazing"
-    },
     {
       "time": "4:10 pm",
       "artist": "Alice in Chains",
@@ -26,9 +21,20 @@
       "time": "4:18 pm",
       "artist": "Cyndi Lauper",
       "title": "True Colors"
+    },
+    {
+      "time": "4:21 pm",
+      "artist": "Bleachers",
+      "title": "Goodmorning"
     }
   ],
   "recent": [
+    {
+      "time": "4:05 pm",
+      "artist": "Aerosmith",
+      "title": "Amazing",
+      "album": "Get a Grip • 1993"
+    },
     {
       "time": "4:02 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "It's Alright, Ma",
       "album": "Bringing It All Back Home • 1965"
-    },
-    {
-      "time": "2:19 pm",
-      "artist": "Rush",
-      "title": "The Trees",
-      "album": "Hemispheres • 1978"
     }
   ]
 }
