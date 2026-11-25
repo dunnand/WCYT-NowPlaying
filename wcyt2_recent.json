@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T00:35:53",
+  "updatedAt": "2026-11-25T00:36:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Money",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:36 am",
-      "artist": "Pink Floyd",
-      "title": "Money"
-    },
     {
       "time": "12:42 am",
       "artist": "Ben E. King",
@@ -26,9 +21,20 @@
       "time": "12:49 am",
       "artist": "Bob Dylan",
       "title": "A Hard Rain's A-Gonna Fall"
+    },
+    {
+      "time": "12:56 am",
+      "artist": "Pink Floyd",
+      "title": "Brain Damage"
     }
   ],
   "recent": [
+    {
+      "time": "12:36 am",
+      "artist": "Pink Floyd",
+      "title": "Money",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "12:33 am",
       "artist": "Grimes",
@@ -150,11 +156,6 @@
       "time": "10:49 pm",
       "artist": "Love And Rockets",
       "title": "So Alive"
-    },
-    {
-      "time": "10:43 pm",
-      "artist": "Herbie Hancock",
-      "title": "Rockit"
     }
   ]
 }
