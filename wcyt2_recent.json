@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T08:07:07",
+  "updatedAt": "2026-11-25T08:09:08",
   "now": {
-    "artist": "Ramones",
-    "title": "Blitzkrieg Bop",
-    "album": "Ramones • 1976",
+    "artist": "Tom Petty and the Heartbreakers",
+    "title": "Kings Highway",
+    "album": "Into the Great Wide Open • 1991",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:09 am",
-      "artist": "Tom Petty and the Heartbreakers",
-      "title": "Kings Highway"
-    },
     {
       "time": "8:12 am",
       "artist": "The Fleetwoods",
@@ -21,9 +16,20 @@
       "time": "8:15 am",
       "artist": "Sufjan Stevens",
       "title": "Flint (For the Unemployed and Underpaid)"
+    },
+    {
+      "time": "8:19 am",
+      "artist": "Bob Dylan",
+      "title": "Girl From the North Country"
     }
   ],
   "recent": [
+    {
+      "time": "8:09 am",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "Kings Highway",
+      "album": "Into the Great Wide Open • 1991"
+    },
     {
       "time": "8:07 am",
       "artist": "Ramones",
@@ -146,11 +152,6 @@
       "time": "6:00 am",
       "artist": "Billie Holiday",
       "title": "Strange Fruit"
-    },
-    {
-      "time": "5:57 am",
-      "artist": "Matchbox Twenty",
-      "title": "Real World"
     }
   ]
 }
