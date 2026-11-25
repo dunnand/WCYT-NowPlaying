@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T10:18:06",
+  "updatedAt": "2026-11-25T10:20:42",
   "now": {
-    "artist": "The Magnetic Fields",
-    "title": "Strange Powers",
-    "album": "Holiday • 1994",
-    "category": "TUNES"
+    "artist": "Echo & the Bunnymen",
+    "title": "The Cutter",
+    "album": "Porcupine • 1983",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:20 am",
-      "artist": "Echo & the Bunnymen",
-      "title": "The Cutter"
-    },
     {
       "time": "10:24 am",
       "artist": "The Go",
@@ -21,9 +16,20 @@
       "time": "10:27 am",
       "artist": "Bleachers",
       "title": "Alma Mater (feat. Lana Del Ray, Bartees Strange, Clairo)"
+    },
+    {
+      "time": "10:31 am",
+      "artist": "Ramones",
+      "title": "Sheena Is a Punk Rocker"
     }
   ],
   "recent": [
+    {
+      "time": "10:20 am",
+      "artist": "Echo & the Bunnymen",
+      "title": "The Cutter",
+      "album": "Porcupine • 1983"
+    },
     {
       "time": "10:18 am",
       "artist": "The Magnetic Fields",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Highway 61 Revisited",
       "album": "Highway 61 Revisited • 1965"
-    },
-    {
-      "time": "8:51 am",
-      "artist": "Sheryl Crow",
-      "title": "Soak Up The Sun",
-      "album": "Cmon, Cmon • 2002"
     }
   ]
 }
