@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T01:10:32",
+  "updatedAt": "2026-11-25T01:13:01",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "All Along the Watchtower",
-    "album": "John Wesley Harding • 1967",
+    "artist": "Weezer",
+    "title": "Can't Knock the Hustle",
+    "album": "Weezer • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:13 am",
-      "artist": "Weezer",
-      "title": "Can't Knock the Hustle"
-    },
     {
       "time": "1:16 am",
       "artist": "Steve Earle",
@@ -21,9 +16,20 @@
       "time": "1:21 am",
       "artist": "Built to Spill",
       "title": "Car"
+    },
+    {
+      "time": "1:24 am",
+      "artist": "Madonna",
+      "title": "Cherish"
     }
   ],
   "recent": [
+    {
+      "time": "1:13 am",
+      "artist": "Weezer",
+      "title": "Can't Knock the Hustle",
+      "album": "Weezer • 2019"
+    },
     {
       "time": "1:10 am",
       "artist": "Bob Dylan",
@@ -154,11 +160,6 @@
       "time": "11:21 pm",
       "artist": "Ted Leo and the Pharmacists",
       "title": "Me and Mia"
-    },
-    {
-      "time": "11:16 pm",
-      "artist": "Travis Scott",
-      "title": "goosebumps"
     }
   ]
 }
