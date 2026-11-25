@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T13:54:06",
+  "updatedAt": "2026-11-25T13:57:18",
   "now": {
-    "artist": "Wilco",
-    "title": "Taste the Ceiling",
-    "album": "Star Wars • 2015",
+    "artist": "System of a Down",
+    "title": "Spiders",
+    "album": "System Of A Down • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:57 pm",
-      "artist": "System of a Down",
-      "title": "Spiders"
-    },
     {
       "time": "2:00 pm",
       "artist": "Mercury Rev",
@@ -26,9 +21,20 @@
       "time": "2:07 pm",
       "artist": "New Order",
       "title": "Blue Monday"
+    },
+    {
+      "time": "2:15 pm",
+      "artist": "Bleachers",
+      "title": "dirty wedding dress"
     }
   ],
   "recent": [
+    {
+      "time": "1:57 pm",
+      "artist": "System of a Down",
+      "title": "Spiders",
+      "album": "System Of A Down • 1999"
+    },
     {
       "time": "1:54 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Rodriguez",
       "title": "I Think of You",
       "album": "Coming from Reality • 1971"
-    },
-    {
-      "time": "12:23 pm",
-      "artist": "U2",
-      "title": "Beautiful Day",
-      "album": "All That You Can't Leave Behind • 2000"
     }
   ]
 }
