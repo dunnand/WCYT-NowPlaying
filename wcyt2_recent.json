@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T11:58:49",
+  "updatedAt": "2026-11-25T12:01:44",
   "now": {
-    "artist": "Wilco",
-    "title": "North American Kids",
-    "album": "Schmilco • 2016",
-    "category": "AUDIO"
+    "artist": "Bjork",
+    "title": "Hyperballad",
+    "album": "Post • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:01 pm",
-      "artist": "Bjork",
-      "title": "Hyperballad"
-    },
     {
       "time": "12:07 pm",
       "artist": "Superchunk",
@@ -21,9 +16,20 @@
       "time": "12:11 pm",
       "artist": "Michael Sembello",
       "title": "Maniac"
+    },
+    {
+      "time": "12:16 pm",
+      "artist": "Rush",
+      "title": "Limelight"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 pm",
+      "artist": "Bjork",
+      "title": "Hyperballad",
+      "album": "Post • 1995"
+    },
     {
       "time": "11:58 am",
       "artist": "Wilco",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "I Shall Be Free",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "10:31 am",
-      "artist": "Ramones",
-      "title": "Sheena Is a Punk Rocker",
-      "album": "Rocket to Russia • 1977"
     }
   ]
 }
