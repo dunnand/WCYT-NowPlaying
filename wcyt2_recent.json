@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T01:46:04",
+  "updatedAt": "2026-11-25T01:49:57",
   "now": {
-    "artist": "Ted Leo and the Pharmacists",
-    "title": "Timorous Me",
-    "album": "The Tyranny of Distance • 2001",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "All I Really Want To Do",
+    "album": "Another Side of Bob Dylan • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:49 am",
-      "artist": "Bob Dylan",
-      "title": "All I Really Want To Do"
-    },
     {
       "time": "1:54 am",
       "artist": "Pink Floyd",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "Weezer",
       "title": "Cleopatra"
+    },
+    {
+      "time": "2:07 am",
+      "artist": "Spoon",
+      "title": "Jonathon Fisk"
     }
   ],
   "recent": [
+    {
+      "time": "1:49 am",
+      "artist": "Bob Dylan",
+      "title": "All I Really Want To Do",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "1:46 am",
       "artist": "Ted Leo and the Pharmacists",
@@ -168,11 +174,6 @@
       "time": "11:52 pm",
       "artist": "Aretha Franklin",
       "title": "Respect"
-    },
-    {
-      "time": "11:49 pm",
-      "artist": "Paul Simon",
-      "title": "Still Crazy After All These Years"
     }
   ]
 }
