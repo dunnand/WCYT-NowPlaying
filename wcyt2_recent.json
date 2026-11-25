@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T15:35:35",
+  "updatedAt": "2026-11-25T15:38:49",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Lay Lady Lay",
-    "album": "Lay Lady Lay • 1969",
+    "artist": "Smokey Robinson",
+    "title": "Quiet Storm",
+    "album": "A Quiet Storm • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:38 pm",
-      "artist": "Smokey Robinson",
-      "title": "Quiet Storm"
-    },
     {
       "time": "3:46 pm",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "3:55 pm",
       "artist": "Yeah Yeah Yeahs",
       "title": "Our Time"
+    },
+    {
+      "time": "3:58 pm",
+      "artist": "Train",
+      "title": "Hey Soul Sister"
     }
   ],
   "recent": [
+    {
+      "time": "3:38 pm",
+      "artist": "Smokey Robinson",
+      "title": "Quiet Storm",
+      "album": "A Quiet Storm • 1975"
+    },
     {
       "time": "3:35 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "System of a Down",
       "title": "Spiders",
       "album": "System Of A Down • 1999"
-    },
-    {
-      "time": "1:54 pm",
-      "artist": "Wilco",
-      "title": "Taste the Ceiling",
-      "album": "Star Wars • 2015"
     }
   ]
 }
