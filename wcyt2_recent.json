@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T23:03:35",
+  "updatedAt": "2026-11-24T23:03:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Me and Julio Down by the Schoolyard",
+    "album": "Paul Simon • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:03 pm",
-      "artist": "Paul Simon",
-      "title": "Me and Julio Down by the Schoolyard"
-    },
     {
       "time": "11:06 pm",
       "artist": "Aretha Franklin",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:03 pm",
+      "artist": "Paul Simon",
+      "title": "Me and Julio Down by the Schoolyard",
+      "album": "Paul Simon • 1972"
+    },
     {
       "time": "11:00 pm",
       "artist": "Aretha Franklin",
@@ -177,12 +178,6 @@
       "artist": "Aretha Franklin",
       "title": "A Change Is Gonna Come",
       "album": "I Never Loved A Man The Way I Love You • 1967"
-    },
-    {
-      "time": "9:25 pm",
-      "artist": "The Darkness",
-      "title": "I Believe in a Thing Called Love",
-      "album": "Permission to Land • 2003"
     }
   ]
 }
