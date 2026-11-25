@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T06:07:09",
+  "updatedAt": "2026-11-25T06:07:19",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Dear Landlord",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:07 am",
-      "artist": "Bob Dylan",
-      "title": "Dear Landlord"
-    },
     {
       "time": "6:10 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "6:21 am",
       "artist": "Pantera",
       "title": "This Love"
+    },
+    {
+      "time": "6:28 am",
+      "artist": "Mr. Fingers",
+      "title": "Can You Feel It"
     }
   ],
   "recent": [
+    {
+      "time": "6:07 am",
+      "artist": "Bob Dylan",
+      "title": "Dear Landlord",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "6:03 am",
       "artist": "TV on the Radio",
@@ -172,12 +178,6 @@
       "artist": "Turnstile",
       "title": "UNDERWATER BOI",
       "album": "GLOW ON • 2021"
-    },
-    {
-      "time": "4:37 am",
-      "artist": "Johnny Hates Jazz",
-      "title": "Shattered Dreams",
-      "album": "Turn Back the Clock • 1988"
     }
   ]
 }
