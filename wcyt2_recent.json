@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T18:04:06",
+  "updatedAt": "2026-11-25T18:10:53",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "Twist",
-    "album": "ANIMA • 2019",
-    "category": "TUNES"
+    "artist": "Rod Stewart",
+    "title": "Ooh La La",
+    "album": "If We Fall in Love Tonight • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:10 pm",
-      "artist": "Rod Stewart",
-      "title": "Ooh La La"
-    },
     {
       "time": "6:14 pm",
       "artist": "They Might Be Giants",
@@ -26,9 +21,20 @@
       "time": "6:20 pm",
       "artist": "John Cougar Mellencamp",
       "title": "Lonely Ol' Night"
+    },
+    {
+      "time": "6:23 pm",
+      "artist": "The Killers",
+      "title": "Caution"
     }
   ],
   "recent": [
+    {
+      "time": "6:10 pm",
+      "artist": "Rod Stewart",
+      "title": "Ooh La La",
+      "album": "If We Fall in Love Tonight • 1998"
+    },
     {
       "time": "6:04 pm",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Leopard-Skin Pill-Box Hat",
       "album": "Blonde on Blonde • 1966"
-    },
-    {
-      "time": "4:25 pm",
-      "artist": "Steely Dan",
-      "title": "Fire In The Hole",
-      "album": "Cant Buy a Thrill • 1972"
     }
   ]
 }
