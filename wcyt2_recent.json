@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T08:18:46",
+  "updatedAt": "2026-11-25T08:19:17",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Girl From the North Country",
+    "album": "Girl From the North Country • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:19 am",
-      "artist": "Bob Dylan",
-      "title": "Girl From the North Country"
-    },
     {
       "time": "8:22 am",
       "artist": "Wilco",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:19 am",
+      "artist": "Bob Dylan",
+      "title": "Girl From the North Country",
+      "album": "Girl From the North Country • 1963"
+    },
     {
       "time": "8:15 am",
       "artist": "Sufjan Stevens",
@@ -154,11 +155,6 @@
       "time": "6:10 am",
       "artist": "Wilco",
       "title": "Art of Almost"
-    },
-    {
-      "time": "6:07 am",
-      "artist": "Bob Dylan",
-      "title": "Dear Landlord"
     }
   ]
 }
