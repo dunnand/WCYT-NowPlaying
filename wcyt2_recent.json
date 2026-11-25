@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T18:51:29",
+  "updatedAt": "2026-11-25T18:53:32",
   "now": {
-    "artist": "Buddy Holly",
-    "title": "Everyday",
-    "album": "Buddy Holly • 1958",
-    "category": "AUDIO"
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Rich",
+    "album": "Fever To Tell • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:53 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Rich"
-    },
     {
       "time": "6:57 pm",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "7:02 pm",
       "artist": "Train",
       "title": "Drive By"
+    },
+    {
+      "time": "7:05 pm",
+      "artist": "Warren G",
+      "title": "Regulate"
     }
   ],
   "recent": [
+    {
+      "time": "6:53 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Rich",
+      "album": "Fever To Tell • 2003"
+    },
     {
       "time": "6:51 pm",
       "artist": "Buddy Holly",
@@ -167,12 +173,6 @@
       "artist": "The Fixx",
       "title": "One Things Leads To Another",
       "album": "Reach the Beach • 1983"
-    },
-    {
-      "time": "5:18 pm",
-      "artist": "Duran Duran",
-      "title": "Hungry Like the Wolf",
-      "album": "Rio • 1982"
     }
   ]
 }
