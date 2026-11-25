@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T17:01:56",
+  "updatedAt": "2026-11-25T17:05:49",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Maggie's Farm",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Wilco",
+    "title": "You Satellite",
+    "album": "Star Wars • 2015",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 pm",
-      "artist": "Wilco",
-      "title": "You Satellite"
-    },
     {
       "time": "5:11 pm",
       "artist": "Built to Spill",
@@ -21,9 +16,20 @@
       "time": "5:14 pm",
       "artist": "Hootie & The Blowfish",
       "title": "I Go Blind"
+    },
+    {
+      "time": "5:18 pm",
+      "artist": "Duran Duran",
+      "title": "Hungry Like the Wolf"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 pm",
+      "artist": "Wilco",
+      "title": "You Satellite",
+      "album": "Star Wars • 2015"
+    },
     {
       "time": "5:01 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Sex Pistols",
       "title": "God Save the Queen",
       "album": "Never Mind the Bollocks, Heres the Sex Pistols • 1977"
-    },
-    {
-      "time": "3:21 pm",
-      "artist": "Bleachers",
-      "title": "Rollercoaster",
-      "album": ""
     }
   ]
 }
