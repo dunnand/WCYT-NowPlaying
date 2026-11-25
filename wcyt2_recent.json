@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T21:12:20",
+  "updatedAt": "2026-11-24T21:17:01",
   "now": {
-    "artist": "Paul McCartney and Wings",
-    "title": "Let Me Roll It",
-    "album": "Band on the Run • 1973",
-    "category": "AUDIO"
+    "artist": "Ride",
+    "title": "Dreams Burn Down",
+    "album": "Nowhere • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:17 pm",
-      "artist": "Ride",
-      "title": "Dreams Burn Down"
-    },
     {
       "time": "9:23 pm",
       "artist": "Ray Charles",
@@ -21,9 +16,20 @@
       "time": "9:26 pm",
       "artist": "The Darkness",
       "title": "I Believe in a Thing Called Love"
+    },
+    {
+      "time": "9:30 pm",
+      "artist": "Aretha Franklin",
+      "title": "A Change Is Gonna Come"
     }
   ],
   "recent": [
+    {
+      "time": "9:16 pm",
+      "artist": "Ride",
+      "title": "Dreams Burn Down",
+      "album": "Nowhere • 1990"
+    },
     {
       "time": "9:12 pm",
       "artist": "Paul McCartney and Wings",
@@ -167,12 +173,6 @@
       "artist": "Screaming Trees",
       "title": "Nearly Lost You",
       "album": "Sweet Oblivion • 1992"
-    },
-    {
-      "time": "7:39 pm",
-      "artist": "The Chemical Brothers",
-      "title": "Go",
-      "album": "Born in the Echoes • 2015"
     }
   ]
 }
