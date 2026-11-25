@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T02:17:12",
+  "updatedAt": "2026-11-25T02:24:36",
   "now": {
-    "artist": "Blur",
-    "title": "Tender",
-    "album": "13 • 1999",
-    "category": "TUNES"
+    "artist": "Bruce Springsteen",
+    "title": "Secret Garden",
+    "album": "Jerry Maguire Soundtrack • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:24 am",
-      "artist": "Bruce Springsteen",
-      "title": "Secret Garden"
-    },
     {
       "time": "2:29 am",
       "artist": "Prince",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:24 am",
+      "artist": "Bruce Springsteen",
+      "title": "Secret Garden",
+      "album": "Jerry Maguire Soundtrack • 1997"
+    },
     {
       "time": "2:17 am",
       "artist": "Blur",
@@ -172,12 +173,6 @@
       "artist": "Pink Floyd",
       "title": "Another Brick in the Wall, Part 2",
       "album": "The Wall • 1979"
-    },
-    {
-      "time": "12:42 am",
-      "artist": "Ben E. King",
-      "title": "Stand by Me",
-      "album": "Don't Play That Song! • 1962"
     }
   ]
 }
