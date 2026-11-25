@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-25T00:45:31",
+  "updatedAt": "2026-11-25T00:49:13",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Another Brick in the Wall, Part 2",
-    "album": "The Wall • 1979",
+    "artist": "Bob Dylan",
+    "title": "A Hard Rain's A-Gonna Fall",
+    "album": "The Freewheelin Bob Dylan • 1963",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:49 am",
-      "artist": "Bob Dylan",
-      "title": "A Hard Rain's A-Gonna Fall"
-    },
     {
       "time": "12:56 am",
       "artist": "Pink Floyd",
       "title": "Brain Damage"
     },
     {
-      "time": "1:00 am",
+      "time": "12:59 am",
       "artist": "Tracy Chapman",
       "title": "Give Me One Reason"
     },
@@ -26,9 +21,20 @@
       "time": "1:04 am",
       "artist": "Mark Dinning",
       "title": "Teen Angel"
+    },
+    {
+      "time": "1:06 am",
+      "artist": "The Shins",
+      "title": "New Slang"
     }
   ],
   "recent": [
+    {
+      "time": "12:49 am",
+      "artist": "Bob Dylan",
+      "title": "A Hard Rain's A-Gonna Fall",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "12:45 am",
       "artist": "Pink Floyd",
@@ -153,11 +159,6 @@
       "time": "11:00 pm",
       "artist": "Aretha Franklin",
       "title": "Do Right Woman, Do Right Man"
-    },
-    {
-      "time": "10:55 pm",
-      "artist": "Paul Simon",
-      "title": "Duncan"
     }
   ]
 }
