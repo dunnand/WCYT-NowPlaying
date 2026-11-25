@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T07:37:12",
+  "updatedAt": "2026-11-25T07:37:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Phil Collins",
+    "title": "Another Day In Paradise",
+    "album": "...But Seriously • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:37 am",
-      "artist": "Phil Collins",
-      "title": "Another Day In Paradise"
-    },
     {
       "time": "7:42 am",
       "artist": "Run",
@@ -26,9 +21,20 @@
       "time": "7:50 am",
       "artist": "Queen",
       "title": "The March of the Black Queen"
+    },
+    {
+      "time": "7:56 am",
+      "artist": "Ramones",
+      "title": "Beat on the Brat"
     }
   ],
   "recent": [
+    {
+      "time": "7:37 am",
+      "artist": "Phil Collins",
+      "title": "Another Day In Paradise",
+      "album": "...But Seriously • 1989"
+    },
     {
       "time": "7:33 am",
       "artist": "Suede",
@@ -172,12 +178,6 @@
       "artist": "Weezer",
       "title": "Turning Up the Radio",
       "album": "Death to False Metal • 2010"
-    },
-    {
-      "time": "5:47 am",
-      "artist": "Spoon",
-      "title": "The Way We Get By",
-      "album": "Kill The Moonlight • 2002"
     }
   ]
 }
