@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T21:06:16",
+  "updatedAt": "2026-11-24T21:06:27",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "Island in the Sun",
+    "album": "Weezer • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:06 pm",
-      "artist": "Weezer",
-      "title": "Island in the Sun"
-    },
     {
       "time": "9:09 pm",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "9:17 pm",
       "artist": "Ride",
       "title": "Dreams Burn Down"
+    },
+    {
+      "time": "9:23 pm",
+      "artist": "Ray Charles",
+      "title": "I Got a Woman"
     }
   ],
   "recent": [
+    {
+      "time": "9:06 pm",
+      "artist": "Weezer",
+      "title": "Island in the Sun",
+      "album": "Weezer • 2001"
+    },
     {
       "time": "9:01 pm",
       "artist": "Paul McCartney and Wings",
@@ -172,12 +178,6 @@
       "artist": "Vanessa Carlton",
       "title": "A Thousand Miles",
       "album": "Be Not Nobody • 2002"
-    },
-    {
-      "time": "7:26 pm",
-      "artist": "Thao And The Get Down Stay Down",
-      "title": "Temple",
-      "album": "We the Common • 2013"
     }
   ]
 }
