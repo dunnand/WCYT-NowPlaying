@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T10:11:11",
+  "updatedAt": "2026-11-25T10:11:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Wilco",
+    "title": "Locator",
+    "album": "Schmilco • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:11 am",
-      "artist": "Wilco",
-      "title": "Locator"
-    },
     {
       "time": "10:13 am",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "10:20 am",
       "artist": "Echo & the Bunnymen",
       "title": "The Cutter"
+    },
+    {
+      "time": "10:24 am",
+      "artist": "The Go",
+      "title": "Go's - Vacation"
     }
   ],
   "recent": [
+    {
+      "time": "10:11 am",
+      "artist": "Wilco",
+      "title": "Locator",
+      "album": "Schmilco • 2016"
+    },
     {
       "time": "10:05 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Ramones",
       "title": "Gimme Gimme Shock Treatment",
       "album": "Leave Home • 1977"
-    },
-    {
-      "time": "8:43 am",
-      "artist": "Bleachers",
-      "title": "I Wanna Get Better",
-      "album": ""
     }
   ]
 }
