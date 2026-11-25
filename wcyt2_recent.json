@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T02:52:40",
+  "updatedAt": "2026-11-25T02:58:34",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Balad of a Thin Man",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Pink Floyd",
+    "title": "Us and Them",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:58 am",
-      "artist": "Pink Floyd",
-      "title": "Us and Them"
-    },
     {
       "time": "3:06 am",
       "artist": "Celine Dion",
@@ -26,9 +21,20 @@
       "time": "3:13 am",
       "artist": "U2",
       "title": "Sometimes You Can't Make It On Your Own"
+    },
+    {
+      "time": "3:18 am",
+      "artist": "Bob Dylan",
+      "title": "Blowin' in the Wind"
     }
   ],
   "recent": [
+    {
+      "time": "2:58 am",
+      "artist": "Pink Floyd",
+      "title": "Us and Them",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "2:52 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Steve Earle",
       "title": "The Mountain",
       "album": "The Mountain • 1999"
-    },
-    {
-      "time": "1:13 am",
-      "artist": "Weezer",
-      "title": "Can't Knock the Hustle",
-      "album": "Weezer • 2019"
     }
   ]
 }
