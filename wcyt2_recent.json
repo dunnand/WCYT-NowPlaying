@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T08:12:40",
+  "updatedAt": "2026-11-25T08:15:02",
   "now": {
-    "artist": "The Fleetwoods",
-    "title": "Mr. Blue",
-    "album": "Mr. Blue • 1959",
-    "category": "AUDIO"
+    "artist": "Sufjan Stevens",
+    "title": "Flint (For the Unemployed and Underpaid)",
+    "album": "Michigan • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:15 am",
-      "artist": "Sufjan Stevens",
-      "title": "Flint (For the Unemployed and Underpaid)"
-    },
     {
       "time": "8:19 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "8:22 am",
       "artist": "Wilco",
       "title": "Cold Slope"
+    },
+    {
+      "time": "8:26 am",
+      "artist": "Van Halen",
+      "title": "Right Now"
     }
   ],
   "recent": [
+    {
+      "time": "8:15 am",
+      "artist": "Sufjan Stevens",
+      "title": "Flint (For the Unemployed and Underpaid)",
+      "album": "Michigan • 2003"
+    },
     {
       "time": "8:12 am",
       "artist": "The Fleetwoods",
@@ -148,11 +154,6 @@
       "time": "6:07 am",
       "artist": "Bob Dylan",
       "title": "Dear Landlord"
-    },
-    {
-      "time": "6:03 am",
-      "artist": "TV on the Radio",
-      "title": "Staring at the Sun"
     }
   ]
 }
