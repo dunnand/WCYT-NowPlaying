@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T09:09:15",
+  "updatedAt": "2026-11-25T09:09:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "I Don't Believe You",
+    "album": "Another Side of Bob Dylan • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:09 am",
-      "artist": "Bob Dylan",
-      "title": "I Don't Believe You"
-    },
     {
       "time": "9:14 am",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "9:21 am",
       "artist": "The Verve",
       "title": "Bitter Sweet Symphony"
+    },
+    {
+      "time": "9:25 am",
+      "artist": "Little River Band",
+      "title": "Take It Easy On Me"
     }
   ],
   "recent": [
+    {
+      "time": "9:09 am",
+      "artist": "Bob Dylan",
+      "title": "I Don't Believe You",
+      "album": "Another Side of Bob Dylan • 1964"
+    },
     {
       "time": "9:05 am",
       "artist": "System of a Down",
@@ -169,11 +175,6 @@
       "time": "7:26 am",
       "artist": "Wilco",
       "title": "Citizens"
-    },
-    {
-      "time": "7:15 am",
-      "artist": "Bob Dylan",
-      "title": "Desolation Row"
     }
   ]
 }
