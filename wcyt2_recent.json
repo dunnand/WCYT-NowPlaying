@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T20:13:12",
+  "updatedAt": "2026-11-24T20:18:24",
   "now": {
-    "artist": "Paul McCartney",
-    "title": "Monkberry Moon Delight",
-    "album": "Ram • 1971",
+    "artist": "Simon & Garfunkel",
+    "title": "Scarborough Fair / Canticle",
+    "album": "Parsley, Sage, Rosemary and Thyme • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:18 pm",
-      "artist": "Simon & Garfunkel",
-      "title": "Scarborough Fair / Canticle"
-    },
     {
       "time": "8:21 pm",
       "artist": "Paul McCartney",
@@ -26,9 +21,20 @@
       "time": "8:27 pm",
       "artist": "Chuck Berry",
       "title": "School Days"
+    },
+    {
+      "time": "8:30 pm",
+      "artist": "The Shins",
+      "title": "Kissing the Lipless"
     }
   ],
   "recent": [
+    {
+      "time": "8:18 pm",
+      "artist": "Simon & Garfunkel",
+      "title": "Scarborough Fair / Canticle",
+      "album": "Parsley, Sage, Rosemary and Thyme • 1966"
+    },
     {
       "time": "8:13 pm",
       "artist": "Paul McCartney",
@@ -172,12 +178,6 @@
       "artist": "Son Little",
       "title": "The River",
       "album": "Son Little • 2015"
-    },
-    {
-      "time": "6:33 pm",
-      "artist": "The Beach Boys",
-      "title": "You're So Good to Me",
-      "album": "Summer Days • 1965"
     }
   ]
 }
