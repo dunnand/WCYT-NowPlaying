@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T09:09:48",
+  "updatedAt": "2026-11-25T09:14:11",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "I Don't Believe You",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "Wilco",
+    "title": "Everyone Hides",
+    "album": "Ode to Joy • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:14 am",
-      "artist": "Wilco",
-      "title": "Everyone Hides"
-    },
     {
       "time": "9:17 am",
       "artist": "Santana",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:14 am",
+      "artist": "Wilco",
+      "title": "Everyone Hides",
+      "album": "Ode to Joy • 2019"
+    },
     {
       "time": "9:09 am",
       "artist": "Bob Dylan",
@@ -170,11 +171,6 @@
       "time": "7:29 am",
       "artist": "Pulp",
       "title": "Sorted for E's & Wizz"
-    },
-    {
-      "time": "7:26 am",
-      "artist": "Wilco",
-      "title": "Citizens"
     }
   ]
 }
