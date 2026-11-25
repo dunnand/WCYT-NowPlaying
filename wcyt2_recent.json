@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T16:39:28",
+  "updatedAt": "2026-11-25T16:45:22",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Like a Rolling Stone",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Stevie Wonder",
+    "title": "You Haven't Done Nothin'",
+    "album": "Fulfillingness First Finale • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:45 pm",
-      "artist": "Stevie Wonder",
-      "title": "You Haven't Done Nothin'"
-    },
     {
       "time": "4:48 pm",
       "artist": "Aphex Twin",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:45 pm",
+      "artist": "Stevie Wonder",
+      "title": "You Haven't Done Nothin'",
+      "album": "Fulfillingness First Finale • 1974"
+    },
     {
       "time": "4:39 pm",
       "artist": "Bob Dylan",
@@ -172,12 +173,6 @@
       "artist": "Madonna",
       "title": "Secret",
       "album": "Bedtime Stories • 1994"
-    },
-    {
-      "time": "3:02 pm",
-      "artist": "Wilco",
-      "title": "The Joke Explained",
-      "album": "Star Wars • 2015"
     }
   ]
 }
