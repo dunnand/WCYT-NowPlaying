@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T10:11:21",
+  "updatedAt": "2026-11-25T10:13:33",
   "now": {
-    "artist": "Wilco",
-    "title": "Locator",
-    "album": "Schmilco • 2016",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Waltz #2 (XO)",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "10:13 am",
-      "artist": "Elliott Smith",
-      "title": "Waltz #2 (XO)"
-    },
     {
       "time": "10:18 am",
       "artist": "The Magnetic Fields",
@@ -26,9 +21,20 @@
       "time": "10:24 am",
       "artist": "The Go",
       "title": "Go's - Vacation"
+    },
+    {
+      "time": "10:27 am",
+      "artist": "Bleachers",
+      "title": "Alma Mater (feat. Lana Del Ray, Bartees Strange, Clairo)"
     }
   ],
   "recent": [
+    {
+      "time": "10:13 am",
+      "artist": "Elliott Smith",
+      "title": "Waltz #2 (XO)",
+      "album": "XO • 1998"
+    },
     {
       "time": "10:11 am",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Ramones",
       "title": "Havana Affair",
       "album": "Ramones • 1976"
-    },
-    {
-      "time": "8:47 am",
-      "artist": "Ramones",
-      "title": "Gimme Gimme Shock Treatment",
-      "album": "Leave Home • 1977"
     }
   ]
 }
