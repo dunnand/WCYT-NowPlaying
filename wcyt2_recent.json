@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T03:44:45",
+  "updatedAt": "2026-11-25T03:49:07",
   "now": {
-    "artist": "The Walkmen",
-    "title": "In the New Year",
-    "album": "You & Me • 2008",
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "album": "Wish You Were Here • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "Pink Floyd",
-      "title": "Wish You Were Here"
-    },
     {
       "time": "3:53 am",
       "artist": "TV on the Radio",
@@ -26,9 +21,20 @@
       "time": "4:01 am",
       "artist": "Prince",
       "title": "I Wanna Be Your Lover"
+    },
+    {
+      "time": "4:06 am",
+      "artist": "Eels",
+      "title": "Novocaine For The Soul"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "Pink Floyd",
+      "title": "Wish You Were Here",
+      "album": "Wish You Were Here • 1975"
+    },
     {
       "time": "3:44 am",
       "artist": "The Walkmen",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Jonathon Fisk",
       "album": "Kill The Moonlight • 2002"
-    },
-    {
-      "time": "2:03 am",
-      "artist": "Weezer",
-      "title": "Cleopatra",
-      "album": "Everything Will Be Alright in the End • 2014"
     }
   ]
 }
