@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T05:51:27",
+  "updatedAt": "2026-11-25T05:51:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Elliott Smith",
+    "title": "Angeles",
+    "album": "Either Or • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:51 am",
-      "artist": "Elliott Smith",
-      "title": "Angeles"
-    },
     {
       "time": "5:54 am",
       "artist": "The Avalanches",
@@ -26,9 +21,20 @@
       "time": "6:00 am",
       "artist": "The War on Drugs",
       "title": "Brothers"
+    },
+    {
+      "time": "6:05 am",
+      "artist": "Tom Waits",
+      "title": "All the World Is Green"
     }
   ],
   "recent": [
+    {
+      "time": "5:51 am",
+      "artist": "Elliott Smith",
+      "title": "Angeles",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "5:47 am",
       "artist": "Atlas Sound",
@@ -172,12 +178,6 @@
       "artist": "Courtney Barnett",
       "title": "One Thing At A Time",
       "album": "Creature Of Habit • 2026"
-    },
-    {
-      "time": "4:17 am",
-      "artist": "Iron & Wine",
-      "title": "All In Good Time feat. Fiona Apple",
-      "album": "Light Verse • 2024"
     }
   ]
 }
