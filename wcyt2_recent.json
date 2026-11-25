@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T07:50:01",
+  "updatedAt": "2026-11-25T07:50:11",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Queen",
+    "title": "The March of the Black Queen",
+    "album": "Queen II • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:50 am",
-      "artist": "Queen",
-      "title": "The March of the Black Queen"
-    },
     {
       "time": "7:56 am",
       "artist": "Ramones",
@@ -26,9 +21,20 @@
       "time": "8:03 am",
       "artist": "Bob Dylan",
       "title": "Don't Think Twice, It's All Right"
+    },
+    {
+      "time": "8:07 am",
+      "artist": "Ramones",
+      "title": "Blitzkrieg Bop"
     }
   ],
   "recent": [
+    {
+      "time": "7:50 am",
+      "artist": "Queen",
+      "title": "The March of the Black Queen",
+      "album": "Queen II • 1974"
+    },
     {
       "time": "7:47 am",
       "artist": "Turnstile",
@@ -172,12 +178,6 @@
       "artist": "Billie Holiday",
       "title": "Strange Fruit",
       "album": "Billie Holiday • 1947"
-    },
-    {
-      "time": "5:56 am",
-      "artist": "Matchbox Twenty",
-      "title": "Real World",
-      "album": "Yourself or Someone Like You • 1998"
     }
   ]
 }
