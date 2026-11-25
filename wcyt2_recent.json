@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T01:49:57",
+  "updatedAt": "2026-11-25T01:53:56",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "All I Really Want To Do",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "Pink Floyd",
+    "title": "Hey You",
+    "album": "The Wall • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:54 am",
-      "artist": "Pink Floyd",
-      "title": "Hey You"
-    },
     {
       "time": "1:58 am",
       "artist": "The Band",
@@ -26,9 +21,20 @@
       "time": "2:07 am",
       "artist": "Spoon",
       "title": "Jonathon Fisk"
+    },
+    {
+      "time": "2:10 am",
+      "artist": "The Script",
+      "title": "Breakeven"
     }
   ],
   "recent": [
+    {
+      "time": "1:53 am",
+      "artist": "Pink Floyd",
+      "title": "Hey You",
+      "album": "The Wall • 1979"
+    },
     {
       "time": "1:49 am",
       "artist": "Bob Dylan",
@@ -169,11 +175,6 @@
       "time": "11:55 pm",
       "artist": "Paul Simon",
       "title": "Was a Sunny Day"
-    },
-    {
-      "time": "11:52 pm",
-      "artist": "Aretha Franklin",
-      "title": "Respect"
     }
   ]
 }
