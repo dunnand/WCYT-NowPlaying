@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T05:50:06",
+  "updatedAt": "2026-11-25T05:53:39",
   "now": {
-    "artist": "Weezer",
-    "title": "Turning Up the Radio",
-    "album": "Death to False Metal • 2010",
+    "artist": "Queen",
+    "title": "Don't Stop Me Now",
+    "album": "Jazz • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 am",
-      "artist": "Queen",
-      "title": "Don't Stop Me Now"
-    },
     {
       "time": "5:57 am",
       "artist": "Matchbox Twenty",
@@ -26,9 +21,20 @@
       "time": "6:03 am",
       "artist": "TV on the Radio",
       "title": "Staring at the Sun"
+    },
+    {
+      "time": "6:07 am",
+      "artist": "Bob Dylan",
+      "title": "Dear Landlord"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 am",
+      "artist": "Queen",
+      "title": "Don't Stop Me Now",
+      "album": "Jazz • 1978"
+    },
     {
       "time": "5:50 am",
       "artist": "Weezer",
@@ -172,12 +178,6 @@
       "artist": "Eric Clapton",
       "title": "My Father's Eyes",
       "album": "Pilgrim • 1998"
-    },
-    {
-      "time": "4:19 am",
-      "artist": "Weezer",
-      "title": "Thank God for Girls",
-      "album": "Weezer • 2016"
     }
   ]
 }
