@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T04:54:17",
+  "updatedAt": "2026-11-25T05:01:23",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Chimes of Freedom",
-    "album": "Chimes of Freedom • 1964",
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "album": "A Night at the Opera • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:01 am",
-      "artist": "Queen",
-      "title": "Bohemian Rhapsody"
-    },
     {
       "time": "5:07 am",
       "artist": "Gin Blossoms",
@@ -26,9 +21,20 @@
       "time": "5:13 am",
       "artist": "The Shins",
       "title": "Turn a Square"
+    },
+    {
+      "time": "5:16 am",
+      "artist": "Bob Dylan",
+      "title": "Corrina, Corrina"
     }
   ],
   "recent": [
+    {
+      "time": "5:01 am",
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody",
+      "album": "A Night at the Opera • 1975"
+    },
     {
       "time": "4:54 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Cocteau Twins",
       "title": "Iceblink Luck",
       "album": "Heaven or Las Vegas • 1990"
-    },
-    {
-      "time": "3:20 am",
-      "artist": "Weezer",
-      "title": "L.A. Girlz",
-      "album": "Weezer • 2016"
     }
   ]
 }
