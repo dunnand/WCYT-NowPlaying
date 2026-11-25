@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T16:05:51",
+  "updatedAt": "2026-11-25T16:10:24",
   "now": {
-    "artist": "Aerosmith",
-    "title": "Amazing",
-    "album": "Get a Grip • 1993",
+    "artist": "Alice in Chains",
+    "title": "Them Bones",
+    "album": "Dirt • 1992",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:10 pm",
-      "artist": "Alice in Chains",
-      "title": "Them Bones"
-    },
     {
       "time": "4:12 pm",
       "artist": "Aerosmith",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:10 pm",
+      "artist": "Alice in Chains",
+      "title": "Them Bones",
+      "album": "Dirt • 1992"
+    },
     {
       "time": "4:05 pm",
       "artist": "Aerosmith",
@@ -172,12 +173,6 @@
       "artist": "Rush",
       "title": "Working Man",
       "album": "Rush • 1974"
-    },
-    {
-      "time": "2:24 pm",
-      "artist": "Bob Dylan",
-      "title": "It's Alright, Ma",
-      "album": "Bringing It All Back Home • 1965"
     }
   ]
 }
