@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T01:10:24",
+  "updatedAt": "2026-11-25T01:10:32",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "All Along the Watchtower",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:10 am",
-      "artist": "Bob Dylan",
-      "title": "All Along the Watchtower"
-    },
     {
       "time": "1:13 am",
       "artist": "Weezer",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:10 am",
+      "artist": "Bob Dylan",
+      "title": "All Along the Watchtower",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "1:06 am",
       "artist": "The Shins",
@@ -158,11 +159,6 @@
       "time": "11:16 pm",
       "artist": "Travis Scott",
       "title": "goosebumps"
-    },
-    {
-      "time": "11:14 pm",
-      "artist": "Pavement",
-      "title": "Unfair"
     }
   ]
 }
