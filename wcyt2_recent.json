@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T17:49:47",
+  "updatedAt": "2026-11-25T17:53:29",
   "now": {
-    "artist": "Phil Collins",
-    "title": "True Colors",
-    "album": "...Hits • 1998",
+    "artist": "Grimes",
+    "title": "Violence",
+    "album": "Miss Anthropocene • 2019",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:53 pm",
-      "artist": "Grimes",
-      "title": "Violence"
-    },
     {
       "time": "5:57 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -21,9 +16,20 @@
       "time": "6:01 pm",
       "artist": "Sufjan Stevens",
       "title": "Say Yes! to M!ch!gan!"
+    },
+    {
+      "time": "6:04 pm",
+      "artist": "Thom Yorke",
+      "title": "Twist"
     }
   ],
   "recent": [
+    {
+      "time": "5:53 pm",
+      "artist": "Grimes",
+      "title": "Violence",
+      "album": "Miss Anthropocene • 2019"
+    },
     {
       "time": "5:49 pm",
       "artist": "Phil Collins",
@@ -167,12 +173,6 @@
       "artist": "Aerosmith",
       "title": "Angel",
       "album": "Permanent Vacation • 1988"
-    },
-    {
-      "time": "4:10 pm",
-      "artist": "Alice in Chains",
-      "title": "Them Bones",
-      "album": "Dirt • 1992"
     }
   ]
 }
