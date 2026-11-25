@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T02:45:35",
+  "updatedAt": "2026-11-25T02:46:05",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "album": "The Dark Side of the Moon • 1973",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:46 am",
-      "artist": "Pink Floyd",
-      "title": "Time"
-    },
     {
       "time": "2:52 am",
       "artist": "Bob Dylan",
@@ -31,9 +26,20 @@
       "time": "3:10 am",
       "artist": "Ray Charles",
       "title": "Lonely Avenue"
+    },
+    {
+      "time": "3:13 am",
+      "artist": "U2",
+      "title": "Sometimes You Can't Make It On Your Own"
     }
   ],
   "recent": [
+    {
+      "time": "2:46 am",
+      "artist": "Pink Floyd",
+      "title": "Time",
+      "album": "The Dark Side of the Moon • 1973"
+    },
     {
       "time": "2:43 am",
       "artist": "Bob Dylan",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "All Along the Watchtower",
       "album": "John Wesley Harding • 1967"
-    },
-    {
-      "time": "1:06 am",
-      "artist": "The Shins",
-      "title": "New Slang",
-      "album": "Oh Inverted World • 2001"
     }
   ]
 }
