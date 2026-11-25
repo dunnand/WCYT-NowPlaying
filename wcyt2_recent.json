@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T15:55:21",
+  "updatedAt": "2026-11-25T15:58:31",
   "now": {
-    "artist": "Yeah Yeah Yeahs",
-    "title": "Our Time",
-    "album": "Yeah Yeah Yeahs • 2001",
-    "category": "TUNES"
+    "artist": "Train",
+    "title": "Hey Soul Sister",
+    "album": "Save Me, San Francisco • 2009",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:58 pm",
-      "artist": "Train",
-      "title": "Hey Soul Sister"
-    },
     {
       "time": "4:02 pm",
       "artist": "Wilco",
@@ -26,9 +21,20 @@
       "time": "4:10 pm",
       "artist": "Alice in Chains",
       "title": "Them Bones"
+    },
+    {
+      "time": "4:13 pm",
+      "artist": "Aerosmith",
+      "title": "Angel"
     }
   ],
   "recent": [
+    {
+      "time": "3:58 pm",
+      "artist": "Train",
+      "title": "Hey Soul Sister",
+      "album": "Save Me, San Francisco • 2009"
+    },
     {
       "time": "3:55 pm",
       "artist": "Yeah Yeah Yeahs",
@@ -172,12 +178,6 @@
       "artist": "Bleachers",
       "title": "dirty wedding dress",
       "album": ""
-    },
-    {
-      "time": "2:07 pm",
-      "artist": "New Order",
-      "title": "Blue Monday",
-      "album": "single • 1983"
     }
   ]
 }
