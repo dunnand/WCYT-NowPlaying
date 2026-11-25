@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-25T01:53:56",
+  "updatedAt": "2026-11-25T01:58:29",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Hey You",
-    "album": "The Wall • 1979",
+    "artist": "The Band",
+    "title": "Atlantic City",
+    "album": "Jericho • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:58 am",
-      "artist": "The Band",
-      "title": "Atlantic City"
-    },
     {
       "time": "2:03 am",
       "artist": "Weezer",
       "title": "Cleopatra"
     },
     {
-      "time": "2:07 am",
+      "time": "2:06 am",
       "artist": "Spoon",
       "title": "Jonathon Fisk"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "1:58 am",
+      "artist": "The Band",
+      "title": "Atlantic City",
+      "album": "Jericho • 1993"
+    },
     {
       "time": "1:53 am",
       "artist": "Pink Floyd",
@@ -170,11 +171,6 @@
       "time": "11:58 pm",
       "artist": "Yo La Tengo",
       "title": "Autumn Sweater"
-    },
-    {
-      "time": "11:55 pm",
-      "artist": "Paul Simon",
-      "title": "Was a Sunny Day"
     }
   ]
 }
