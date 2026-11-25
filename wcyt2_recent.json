@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T04:50:02",
+  "updatedAt": "2026-11-25T04:54:17",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "M79",
-    "album": "Vampire Weekend • 2008",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Chimes of Freedom",
+    "album": "Chimes of Freedom • 1964",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:54 am",
-      "artist": "Bob Dylan",
-      "title": "Chimes of Freedom"
-    },
     {
       "time": "5:01 am",
       "artist": "Queen",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "4:54 am",
+      "artist": "Bob Dylan",
+      "title": "Chimes of Freedom",
+      "album": "Chimes of Freedom • 1964"
+    },
     {
       "time": "4:50 am",
       "artist": "Vampire Weekend",
@@ -177,12 +178,6 @@
       "artist": "Weezer",
       "title": "L.A. Girlz",
       "album": "Weezer • 2016"
-    },
-    {
-      "time": "3:17 am",
-      "artist": "Bob Dylan",
-      "title": "Blowin' in the Wind",
-      "album": "The Freewheelin Bob Dylan • 1963"
     }
   ]
 }
