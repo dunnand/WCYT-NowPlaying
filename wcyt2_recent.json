@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T01:24:30",
+  "updatedAt": "2026-11-25T01:24:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Madonna",
+    "title": "Cherish",
+    "album": "Like a Prayer • 1989",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:24 am",
-      "artist": "Madonna",
-      "title": "Cherish"
-    },
     {
       "time": "1:28 am",
       "artist": "Pete Townshend",
@@ -26,9 +21,20 @@
       "time": "1:35 am",
       "artist": "Pink Floyd",
       "title": "Childhood's End"
+    },
+    {
+      "time": "1:39 am",
+      "artist": "Pink Floyd",
+      "title": "Comfortably Numb"
     }
   ],
   "recent": [
+    {
+      "time": "1:24 am",
+      "artist": "Madonna",
+      "title": "Cherish",
+      "album": "Like a Prayer • 1989"
+    },
     {
       "time": "1:21 am",
       "artist": "Built to Spill",
@@ -162,11 +168,6 @@
       "time": "11:33 pm",
       "artist": "Green Day",
       "title": "Sassafras Roots"
-    },
-    {
-      "time": "11:28 pm",
-      "artist": "Travis Scott",
-      "title": "SICKO MODE"
     }
   ]
 }
