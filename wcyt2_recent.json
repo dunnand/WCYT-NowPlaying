@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T08:54:25",
+  "updatedAt": "2026-11-25T08:57:47",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Highway 61 Revisited",
-    "album": "Highway 61 Revisited • 1965",
+    "artist": "Ramones",
+    "title": "I Wanna Be Sedated",
+    "album": "Road to Ruin • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 am",
-      "artist": "Ramones",
-      "title": "I Wanna Be Sedated"
-    },
     {
       "time": "9:00 am",
       "artist": "Rembrandts",
@@ -26,9 +21,20 @@
       "time": "9:05 am",
       "artist": "System of a Down",
       "title": "Aerials"
+    },
+    {
+      "time": "9:09 am",
+      "artist": "Bob Dylan",
+      "title": "I Don't Believe You"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 am",
+      "artist": "Ramones",
+      "title": "I Wanna Be Sedated",
+      "album": "Road to Ruin • 1978"
+    },
     {
       "time": "8:54 am",
       "artist": "Bob Dylan",
@@ -165,11 +171,6 @@
       "time": "7:02 am",
       "artist": "Portishead",
       "title": "Roads"
-    },
-    {
-      "time": "6:59 am",
-      "artist": "Queen",
-      "title": "Stone Cold Crazy"
     }
   ]
 }
