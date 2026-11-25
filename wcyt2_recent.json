@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T06:00:45",
+  "updatedAt": "2026-11-25T06:03:48",
   "now": {
-    "artist": "Billie Holiday",
-    "title": "Strange Fruit",
-    "album": "Billie Holiday • 1947",
-    "category": "AUDIO"
+    "artist": "TV on the Radio",
+    "title": "Staring at the Sun",
+    "album": "Young Liars • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "6:03 am",
-      "artist": "TV on the Radio",
-      "title": "Staring at the Sun"
-    },
     {
       "time": "6:07 am",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "6:03 am",
+      "artist": "TV on the Radio",
+      "title": "Staring at the Sun",
+      "album": "Young Liars • 2003"
+    },
     {
       "time": "6:00 am",
       "artist": "Billie Holiday",
@@ -172,12 +173,6 @@
       "artist": "Johnny Hates Jazz",
       "title": "Shattered Dreams",
       "album": "Turn Back the Clock • 1988"
-    },
-    {
-      "time": "4:31 am",
-      "artist": "Indeep",
-      "title": "Last Night a D.J. Saved My Life",
-      "album": "Last Night a D.J. Saved My Life • 1982"
     }
   ]
 }
