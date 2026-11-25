@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T12:52:08",
+  "updatedAt": "2026-11-25T12:52:18",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Stephen Malkmus",
+    "title": "Jenny & the Ess-Dog",
+    "album": "Stephen Malkmus • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:52 pm",
-      "artist": "Stephen Malkmus",
-      "title": "Jenny & the Ess-Dog"
-    },
     {
       "time": "12:54 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "1:01 pm",
       "artist": "Wonders",
       "title": "That Thing You Do!"
+    },
+    {
+      "time": "1:04 pm",
+      "artist": "The Flaming Lips",
+      "title": "What Is the Light?"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 pm",
+      "artist": "Stephen Malkmus",
+      "title": "Jenny & the Ess-Dog",
+      "album": "Stephen Malkmus • 2001"
+    },
     {
       "time": "12:46 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "Kate Bush",
       "title": "Night of the Swallow",
       "album": "The Dreaming • 1982"
-    },
-    {
-      "time": "11:16 am",
-      "artist": "Hall & Oates",
-      "title": "I Can't Go For That (No Can Do)",
-      "album": "Private Eyes • 1982"
     }
   ]
 }
