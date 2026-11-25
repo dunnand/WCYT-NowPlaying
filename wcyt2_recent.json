@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T00:14:41",
+  "updatedAt": "2026-11-25T00:14:55",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Weezer",
+    "title": "California Kids",
+    "album": "Weezer • 2016",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:14 am",
-      "artist": "Weezer",
-      "title": "California Kids"
-    },
     {
       "time": "12:18 am",
       "artist": "Sublime",
@@ -26,9 +21,20 @@
       "time": "12:24 am",
       "artist": "Patty Smyth",
       "title": "The Warrior"
+    },
+    {
+      "time": "12:28 am",
+      "artist": "Patrice Rushen",
+      "title": "Forget Me Nots"
     }
   ],
   "recent": [
+    {
+      "time": "12:14 am",
+      "artist": "Weezer",
+      "title": "California Kids",
+      "album": "Weezer • 2016"
+    },
     {
       "time": "12:12 am",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Love And Rockets",
       "title": "So Alive",
       "album": "Love and Rockets • 1989"
-    },
-    {
-      "time": "10:43 pm",
-      "artist": "Herbie Hancock",
-      "title": "Rockit",
-      "album": "Future Shock • 1983"
     }
   ]
 }
