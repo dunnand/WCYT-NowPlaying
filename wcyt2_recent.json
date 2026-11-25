@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T05:01:23",
+  "updatedAt": "2026-11-25T05:07:13",
   "now": {
-    "artist": "Queen",
-    "title": "Bohemian Rhapsody",
-    "album": "A Night at the Opera • 1975",
+    "artist": "Gin Blossoms",
+    "title": "Hey Jealousy",
+    "album": "New Miserable Experience • 1993",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:07 am",
-      "artist": "Gin Blossoms",
-      "title": "Hey Jealousy"
-    },
     {
       "time": "5:11 am",
       "artist": "Elvis Presley",
@@ -26,9 +21,20 @@
       "time": "5:16 am",
       "artist": "Bob Dylan",
       "title": "Corrina, Corrina"
+    },
+    {
+      "time": "5:18 am",
+      "artist": "Weezer",
+      "title": "The Futurescope Trilogy: II. Anonymous"
     }
   ],
   "recent": [
+    {
+      "time": "5:07 am",
+      "artist": "Gin Blossoms",
+      "title": "Hey Jealousy",
+      "album": "New Miserable Experience • 1993"
+    },
     {
       "time": "5:01 am",
       "artist": "Queen",
@@ -172,12 +178,6 @@
       "artist": "Dinosaur Jr.",
       "title": "Start Choppin",
       "album": "Where You Been • 1993"
-    },
-    {
-      "time": "3:23 am",
-      "artist": "Cocteau Twins",
-      "title": "Iceblink Luck",
-      "album": "Heaven or Las Vegas • 1990"
     }
   ]
 }
