@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T08:12:10",
+  "updatedAt": "2026-11-25T08:12:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Fleetwoods",
+    "title": "Mr. Blue",
+    "album": "Mr. Blue • 1959",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:12 am",
-      "artist": "The Fleetwoods",
-      "title": "Mr. Blue"
-    },
     {
       "time": "8:15 am",
       "artist": "Sufjan Stevens",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:12 am",
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue",
+      "album": "Mr. Blue • 1959"
+    },
     {
       "time": "8:09 am",
       "artist": "Tom Petty and the Heartbreakers",
@@ -152,11 +153,6 @@
       "time": "6:03 am",
       "artist": "TV on the Radio",
       "title": "Staring at the Sun"
-    },
-    {
-      "time": "6:00 am",
-      "artist": "Billie Holiday",
-      "title": "Strange Fruit"
     }
   ]
 }
