@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T14:32:00",
+  "updatedAt": "2026-11-25T14:39:06",
   "now": {
-    "artist": "Rush",
-    "title": "Working Man",
-    "album": "Rush • 1974",
+    "artist": "Bob Dylan",
+    "title": "John Wesley Harding",
+    "album": "John Wesley Harding • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:39 pm",
-      "artist": "Bob Dylan",
-      "title": "John Wesley Harding"
-    },
     {
       "time": "2:42 pm",
       "artist": "Sex Pistols",
@@ -26,9 +21,20 @@
       "time": "2:49 pm",
       "artist": "The Isley Brothers",
       "title": "Shout, Pts. 1 & 2"
+    },
+    {
+      "time": "2:53 pm",
+      "artist": "Queens of the Stone Age",
+      "title": "No One Knows"
     }
   ],
   "recent": [
+    {
+      "time": "2:39 pm",
+      "artist": "Bob Dylan",
+      "title": "John Wesley Harding",
+      "album": "John Wesley Harding • 1967"
+    },
     {
       "time": "2:31 pm",
       "artist": "Rush",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Random Name Generator",
       "album": "Star Wars • 2015"
-    },
-    {
-      "time": "12:55 pm",
-      "artist": "Sleater-Kinney",
-      "title": "All Hands On The Bad One",
-      "album": "All Hands On The Bad One • 2000"
     }
   ]
 }
