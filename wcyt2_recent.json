@@ -1,19 +1,14 @@
 {
-  "updatedAt": "2026-11-25T01:39:41",
+  "updatedAt": "2026-11-25T01:46:00",
   "now": {
-    "artist": "Pink Floyd",
-    "title": "Comfortably Numb",
-    "album": "The Wall • 1979",
-    "category": "AUDIO"
+    "artist": "Ted Leo and the Pharmacists",
+    "title": "Timorous Me",
+    "album": "The Tyranny of Distance • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
     {
-      "time": "1:46 am",
-      "artist": "Ted Leo and the Pharmacists",
-      "title": "Timorous Me"
-    },
-    {
-      "time": "1:50 am",
+      "time": "1:49 am",
       "artist": "Bob Dylan",
       "title": "All I Really Want To Do"
     },
@@ -26,9 +21,20 @@
       "time": "1:58 am",
       "artist": "The Band",
       "title": "Atlantic City"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Weezer",
+      "title": "Cleopatra"
     }
   ],
   "recent": [
+    {
+      "time": "1:46 am",
+      "artist": "Ted Leo and the Pharmacists",
+      "title": "Timorous Me",
+      "album": "The Tyranny of Distance • 2001"
+    },
     {
       "time": "1:39 am",
       "artist": "Pink Floyd",
@@ -167,11 +173,6 @@
       "time": "11:49 pm",
       "artist": "Paul Simon",
       "title": "Still Crazy After All These Years"
-    },
-    {
-      "time": "11:46 pm",
-      "artist": "Malcolm Todd",
-      "title": "Earrings"
     }
   ]
 }
