@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T17:36:46",
+  "updatedAt": "2026-11-25T17:41:17",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "Harrowdown Hill",
-    "album": "The Eraser • 2006",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Masters of War",
+    "album": "The Freewheelin Bob Dylan • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:41 pm",
-      "artist": "Bob Dylan",
-      "title": "Masters of War"
-    },
     {
       "time": "5:45 pm",
       "artist": "Stevie Wright",
@@ -26,9 +21,20 @@
       "time": "5:53 pm",
       "artist": "Grimes",
       "title": "Violence"
+    },
+    {
+      "time": "5:57 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Y Control"
     }
   ],
   "recent": [
+    {
+      "time": "5:41 pm",
+      "artist": "Bob Dylan",
+      "title": "Masters of War",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "5:36 pm",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Wilco",
       "title": "Whole Love",
       "album": "The Whole Love • 2011"
-    },
-    {
-      "time": "3:58 pm",
-      "artist": "Train",
-      "title": "Hey Soul Sister",
-      "album": "Save Me, San Francisco • 2009"
     }
   ]
 }
