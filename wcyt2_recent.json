@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-24T23:48:54",
+  "updatedAt": "2026-11-24T23:49:04",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Paul Simon",
+    "title": "Still Crazy After All These Years",
+    "album": "Still Crazy After All These Years • 1975",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:49 pm",
-      "artist": "Paul Simon",
-      "title": "Still Crazy After All These Years"
-    },
     {
       "time": "11:52 pm",
       "artist": "Aretha Franklin",
@@ -26,9 +21,20 @@
       "time": "11:58 pm",
       "artist": "Aretha Franklin",
       "title": "Think"
+    },
+    {
+      "time": "12:01 am",
+      "artist": "Pere Ubu",
+      "title": "Final Solution"
     }
   ],
   "recent": [
+    {
+      "time": "11:49 pm",
+      "artist": "Paul Simon",
+      "title": "Still Crazy After All These Years",
+      "album": "Still Crazy After All These Years • 1975"
+    },
     {
       "time": "11:46 pm",
       "artist": "Malcolm Todd",
@@ -172,12 +178,6 @@
       "artist": "The Weekend",
       "title": "Die For You",
       "album": "Starboy • 2016"
-    },
-    {
-      "time": "10:17 pm",
-      "artist": "Elliott Smith",
-      "title": "Between the Bars",
-      "album": "Either Or • 1997"
     }
   ]
 }
