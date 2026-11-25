@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T08:26:22",
+  "updatedAt": "2026-11-25T08:31:29",
   "now": {
-    "artist": "Van Halen",
-    "title": "Right Now",
-    "album": "For Unlawful Carnal Knowledge • 1991",
+    "artist": "Wilson Phillips",
+    "title": "Impulsive",
+    "album": "Wilson Phillips • 1990",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:31 am",
-      "artist": "Wilson Phillips",
-      "title": "Impulsive"
-    },
     {
       "time": "8:35 am",
       "artist": "Howard Jones",
@@ -23,12 +18,18 @@
       "title": "My Hometown"
     },
     {
-      "time": "8:44 am",
+      "time": "8:43 am",
       "artist": "Bleachers",
       "title": "I Wanna Get Better"
     }
   ],
   "recent": [
+    {
+      "time": "8:31 am",
+      "artist": "Wilson Phillips",
+      "title": "Impulsive",
+      "album": "Wilson Phillips • 1990"
+    },
     {
       "time": "8:26 am",
       "artist": "Van Halen",
@@ -157,11 +158,6 @@
       "time": "6:27 am",
       "artist": "Mr. Fingers",
       "title": "Can You Feel It"
-    },
-    {
-      "time": "6:21 am",
-      "artist": "Pantera",
-      "title": "This Love"
     }
   ]
 }
