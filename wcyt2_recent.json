@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T15:55:11",
+  "updatedAt": "2026-11-25T15:55:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Our Time",
+    "album": "Yeah Yeah Yeahs • 2001",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:55 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Our Time"
-    },
     {
       "time": "3:58 pm",
       "artist": "Train",
@@ -26,9 +21,20 @@
       "time": "4:05 pm",
       "artist": "Aerosmith",
       "title": "Amazing"
+    },
+    {
+      "time": "4:10 pm",
+      "artist": "Alice in Chains",
+      "title": "Them Bones"
     }
   ],
   "recent": [
+    {
+      "time": "3:55 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Our Time",
+      "album": "Yeah Yeah Yeahs • 2001"
+    },
     {
       "time": "3:50 pm",
       "artist": "Wilco",
@@ -172,12 +178,6 @@
       "artist": "New Order",
       "title": "Blue Monday",
       "album": "single • 1983"
-    },
-    {
-      "time": "2:03 pm",
-      "artist": "Katrina & The Waves",
-      "title": "Walking On Sunshine",
-      "album": "Walking On Sunshine • 1983"
     }
   ]
 }
