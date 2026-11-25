@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T07:59:31",
+  "updatedAt": "2026-11-25T08:03:24",
   "now": {
-    "artist": "Sleater-Kinney",
-    "title": "Oh!",
-    "album": "One Beat • 2002",
-    "category": "TUNES"
+    "artist": "Bob Dylan",
+    "title": "Don't Think Twice, It's All Right",
+    "album": "The Freewheelin Bob Dylan • 1963",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:03 am",
-      "artist": "Bob Dylan",
-      "title": "Don't Think Twice, It's All Right"
-    },
     {
       "time": "8:07 am",
       "artist": "Ramones",
@@ -26,9 +21,20 @@
       "time": "8:12 am",
       "artist": "The Fleetwoods",
       "title": "Mr. Blue"
+    },
+    {
+      "time": "8:15 am",
+      "artist": "Sufjan Stevens",
+      "title": "Flint (For the Unemployed and Underpaid)"
     }
   ],
   "recent": [
+    {
+      "time": "8:03 am",
+      "artist": "Bob Dylan",
+      "title": "Don't Think Twice, It's All Right",
+      "album": "The Freewheelin Bob Dylan • 1963"
+    },
     {
       "time": "7:59 am",
       "artist": "Sleater-Kinney",
@@ -149,11 +155,6 @@
       "time": "5:53 am",
       "artist": "Queen",
       "title": "Don't Stop Me Now"
-    },
-    {
-      "time": "5:50 am",
-      "artist": "Weezer",
-      "title": "Turning Up the Radio"
     }
   ]
 }
