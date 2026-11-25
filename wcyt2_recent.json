@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T01:16:34",
+  "updatedAt": "2026-11-25T01:16:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Steve Earle",
+    "title": "The Mountain",
+    "album": "The Mountain • 1999",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:16 am",
-      "artist": "Steve Earle",
-      "title": "The Mountain"
-    },
     {
       "time": "1:21 am",
       "artist": "Built to Spill",
@@ -26,9 +21,20 @@
       "time": "1:28 am",
       "artist": "Pete Townshend",
       "title": "Let My Love Open The Door"
+    },
+    {
+      "time": "1:31 am",
+      "artist": "Grimes",
+      "title": "4ÆM"
     }
   ],
   "recent": [
+    {
+      "time": "1:16 am",
+      "artist": "Steve Earle",
+      "title": "The Mountain",
+      "album": "The Mountain • 1999"
+    },
     {
       "time": "1:13 am",
       "artist": "Weezer",
@@ -160,11 +166,6 @@
       "time": "11:24 pm",
       "artist": "Vampire Weekend",
       "title": "Walcott"
-    },
-    {
-      "time": "11:21 pm",
-      "artist": "Ted Leo and the Pharmacists",
-      "title": "Me and Mia"
     }
   ]
 }
