@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T14:24:25",
+  "updatedAt": "2026-11-25T14:31:55",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "It's Alright, Ma",
-    "album": "Bringing It All Back Home • 1965",
+    "artist": "Rush",
+    "title": "Working Man",
+    "album": "Rush • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:32 pm",
-      "artist": "Rush",
-      "title": "Working Man"
-    },
     {
       "time": "2:39 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "2:45 pm",
       "artist": "Silver Jews",
       "title": "Random Rules"
+    },
+    {
+      "time": "2:49 pm",
+      "artist": "The Isley Brothers",
+      "title": "Shout, Pts. 1 & 2"
     }
   ],
   "recent": [
+    {
+      "time": "2:31 pm",
+      "artist": "Rush",
+      "title": "Working Man",
+      "album": "Rush • 1974"
+    },
     {
       "time": "2:24 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Sleater-Kinney",
       "title": "All Hands On The Bad One",
       "album": "All Hands On The Bad One • 2000"
-    },
-    {
-      "time": "12:52 pm",
-      "artist": "Stephen Malkmus",
-      "title": "Jenny & the Ess-Dog",
-      "album": "Stephen Malkmus • 2001"
     }
   ]
 }
