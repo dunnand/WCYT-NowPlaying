@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T18:20:11",
+  "updatedAt": "2026-11-25T18:23:52",
   "now": {
-    "artist": "John Cougar Mellencamp",
-    "title": "Lonely Ol' Night",
-    "album": "Scarecrow • 1985",
+    "artist": "The Killers",
+    "title": "Caution",
+    "album": "Imploding the Mirage • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "6:23 pm",
-      "artist": "The Killers",
-      "title": "Caution"
-    },
     {
       "time": "6:27 pm",
       "artist": "Suicid",
@@ -21,9 +16,20 @@
       "time": "6:31 pm",
       "artist": "Bob Dylan",
       "title": "Most Likely You Go Your Way and I'll Go Mine"
+    },
+    {
+      "time": "6:35 pm",
+      "artist": "Suicid",
+      "title": "Ghost Rider"
     }
   ],
   "recent": [
+    {
+      "time": "6:23 pm",
+      "artist": "The Killers",
+      "title": "Caution",
+      "album": "Imploding the Mirage • 2020"
+    },
     {
       "time": "6:20 pm",
       "artist": "John Cougar Mellencamp",
@@ -167,12 +173,6 @@
       "artist": "Aphex Twin",
       "title": "Xtal",
       "album": "Selected Ambient Works 85-92 • 1992"
-    },
-    {
-      "time": "4:45 pm",
-      "artist": "Stevie Wonder",
-      "title": "You Haven't Done Nothin'",
-      "album": "Fulfillingness First Finale • 1974"
     }
   ]
 }
