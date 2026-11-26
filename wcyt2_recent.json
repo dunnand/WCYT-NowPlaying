@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T02:40:43",
+  "updatedAt": "2026-11-26T02:43:05",
   "now": {
-    "artist": "The Beatles",
-    "title": "For You Blue",
-    "album": "Let It Be • 1970",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Hotel Yorba",
+    "album": "White Blood Cells • 2002",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:43 am",
-      "artist": "The White Stripes",
-      "title": "Hotel Yorba"
-    },
     {
       "time": "2:45 am",
       "artist": "Buffalo Springfield",
@@ -23,12 +18,23 @@
       "title": "Get Back"
     },
     {
-      "time": "2:51 am",
+      "time": "2:50 am",
       "artist": "Pavement",
       "title": "Date With IKEA"
+    },
+    {
+      "time": "2:53 am",
+      "artist": "Vampire Weekend",
+      "title": "Horchata"
     }
   ],
   "recent": [
+    {
+      "time": "2:43 am",
+      "artist": "The White Stripes",
+      "title": "Hotel Yorba",
+      "album": "White Blood Cells • 2002"
+    },
     {
       "time": "2:40 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Yo La Tengo",
       "title": "Our Way to Fall",
       "album": "And Then Nothing Turned Itself Inside • 2000"
-    },
-    {
-      "time": "1:05 am",
-      "artist": "Sufjan Stevens",
-      "title": "The Dress Looks Nice on You",
-      "album": "Seven Swans • 2004"
     }
   ]
 }
