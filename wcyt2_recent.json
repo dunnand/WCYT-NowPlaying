@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T13:42:49",
+  "updatedAt": "2026-11-26T13:48:43",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Enchanted (Taylor's version)",
-    "album": "Speak Now • 2023",
-    "category": "AUDIO"
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Date With The Night",
+    "album": "Fever To Tell • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:48 pm",
-      "artist": "Yeah Yeah Yeahs",
-      "title": "Date With The Night"
-    },
     {
       "time": "1:51 pm",
       "artist": "The Isley Brothers",
@@ -26,9 +21,20 @@
       "time": "1:59 pm",
       "artist": "Ride",
       "title": "Home Is a Feeling"
+    },
+    {
+      "time": "2:02 pm",
+      "artist": "The Isley Brothers",
+      "title": "Summer Breeze"
     }
   ],
   "recent": [
+    {
+      "time": "1:48 pm",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Date With The Night",
+      "album": "Fever To Tell • 2003"
+    },
     {
       "time": "1:42 pm",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Chuck Berry",
       "title": "Memphis, Tennessee",
       "album": "single • 1958"
-    },
-    {
-      "time": "12:12 pm",
-      "artist": "Nine Inch Nails",
-      "title": "Wish",
-      "album": ""
     }
   ]
 }
