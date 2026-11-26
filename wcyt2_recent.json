@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T17:47:56",
+  "updatedAt": "2026-11-26T17:48:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "AC/DC",
+    "title": "Back in Black",
+    "album": "Back in Black • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:48 pm",
-      "artist": "AC/DC",
-      "title": "Back in Black"
-    },
     {
       "time": "5:52 pm",
       "artist": "Bangles",
@@ -26,9 +21,20 @@
       "time": "5:58 pm",
       "artist": "The Specials",
       "title": "You're Wondering Now"
+    },
+    {
+      "time": "6:01 pm",
+      "artist": "The Stranglers",
+      "title": "Hanging Around"
     }
   ],
   "recent": [
+    {
+      "time": "5:48 pm",
+      "artist": "AC/DC",
+      "title": "Back in Black",
+      "album": "Back in Black • 1980"
+    },
     {
       "time": "5:43 pm",
       "artist": "U2",
@@ -165,11 +171,6 @@
       "time": "4:05 pm",
       "artist": "The Kinks",
       "title": "Strangers"
-    },
-    {
-      "time": "4:01 pm",
-      "artist": "The Kinks",
-      "title": "Lola"
     }
   ]
 }
