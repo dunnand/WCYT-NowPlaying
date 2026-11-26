@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T00:01:51",
+  "updatedAt": "2026-11-26T00:04:32",
   "now": {
-    "artist": "Serge Gainsbourg",
-    "title": "Le poinconneur des Lilas",
-    "album": "Du chant  la une! • 1958",
+    "artist": "Spoon",
+    "title": "Everything Hits at Once",
+    "album": "Girls Can Tell • 2001",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:04 am",
-      "artist": "Spoon",
-      "title": "Everything Hits at Once"
-    },
     {
       "time": "12:08 am",
       "artist": "Bob Dylan",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:04 am",
+      "artist": "Spoon",
+      "title": "Everything Hits at Once",
+      "album": "Girls Can Tell • 2001"
+    },
     {
       "time": "12:01 am",
       "artist": "Serge Gainsbourg",
@@ -165,11 +166,6 @@
       "time": "10:10 pm",
       "artist": "Bob Dylan",
       "title": "Song to Woody"
-    },
-    {
-      "time": "10:07 pm",
-      "artist": "The Unicorns",
-      "title": "Rocket Ship"
     }
   ]
 }
