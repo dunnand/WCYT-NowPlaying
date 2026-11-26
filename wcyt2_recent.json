@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T05:36:23",
+  "updatedAt": "2026-11-26T05:40:32",
   "now": {
-    "artist": "Mariah Carey",
-    "title": "Always Be My Baby",
-    "album": "Daydream • 1996",
-    "category": "AUDIO"
+    "artist": "Ride",
+    "title": "Kaleidoscope",
+    "album": "Nowhere • 1990",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:40 am",
-      "artist": "Ride",
-      "title": "Kaleidoscope"
-    },
     {
       "time": "5:43 am",
       "artist": "The Fall",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:40 am",
+      "artist": "Ride",
+      "title": "Kaleidoscope",
+      "album": "Nowhere • 1990"
+    },
     {
       "time": "5:36 am",
       "artist": "Mariah Carey",
@@ -172,12 +173,6 @@
       "artist": "Yo La Tengo",
       "title": "Cherry Chapstick",
       "album": "And Then Nothing Turned Itself Inside • 2000"
-    },
-    {
-      "time": "4:14 am",
-      "artist": "The Beatles",
-      "title": "Two of Us",
-      "album": "Let It Be • 1970"
     }
   ]
 }
