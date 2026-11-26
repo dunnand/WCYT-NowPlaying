@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T12:05:31",
+  "updatedAt": "2026-11-26T12:12:15",
   "now": {
-    "artist": "The Doors",
-    "title": "Riders on the Storm",
-    "album": "L.A. Woman • 1971",
+    "artist": "Nine Inch Nails",
+    "title": "Wish",
+    "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 pm",
-      "artist": "Nine Inch Nails",
-      "title": "Wish"
-    },
     {
       "time": "12:16 pm",
       "artist": "Chuck Berry",
@@ -21,9 +16,20 @@
       "time": "12:18 pm",
       "artist": "The White Stripes",
       "title": "Hardest Button To Button"
+    },
+    {
+      "time": "12:22 pm",
+      "artist": "Donovan",
+      "title": "Colours"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 pm",
+      "artist": "Nine Inch Nails",
+      "title": "Wish",
+      "album": ""
+    },
     {
       "time": "12:05 pm",
       "artist": "The Doors",
@@ -149,11 +155,6 @@
       "time": "10:17 am",
       "artist": "Elvis Presley",
       "title": "Love Me Tender"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Ministry",
-      "title": "N.W.O."
     }
   ]
 }
