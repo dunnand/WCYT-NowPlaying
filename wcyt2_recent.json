@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T01:45:29",
+  "updatedAt": "2026-11-26T01:45:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "I Me Mine",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:45 am",
-      "artist": "The Beatles",
-      "title": "I Me Mine"
-    },
     {
       "time": "1:48 am",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "1:59 am",
       "artist": "Sheryl Crow",
       "title": "A Change Would Do You Good"
+    },
+    {
+      "time": "2:03 am",
+      "artist": "Johnny Cash",
+      "title": "Ballad Of A Teenage Queen"
     }
   ],
   "recent": [
+    {
+      "time": "1:45 am",
+      "artist": "The Beatles",
+      "title": "I Me Mine",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "1:42 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Temporary Like Achilles",
       "album": "Blonde on Blonde • 1966"
-    },
-    {
-      "time": "12:04 am",
-      "artist": "Spoon",
-      "title": "Everything Hits at Once",
-      "album": "Girls Can Tell • 2001"
     }
   ]
 }
