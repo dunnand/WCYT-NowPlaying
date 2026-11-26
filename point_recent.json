@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T11:55:42",
+  "updatedAt": "2026-11-26T11:56:02",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Blur",
+    "title": "Beetlebum",
+    "album": "Blur • 1997",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:56 am",
-      "artist": "Blur",
-      "title": "Beetlebum"
-    },
     {
       "time": "12:01 pm",
       "artist": "Car Seat Headrest",
@@ -26,9 +21,20 @@
       "time": "12:11 pm",
       "artist": "Joy Division",
       "title": "Isolation"
+    },
+    {
+      "time": "12:14 pm",
+      "artist": "Alex G",
+      "title": "Gretel"
     }
   ],
   "recent": [
+    {
+      "time": "11:56 am",
+      "artist": "Blur",
+      "title": "Beetlebum",
+      "album": "Blur • 1997"
+    },
     {
       "time": "11:51 am",
       "artist": "Queens of the Stone Age",
@@ -172,12 +178,6 @@
       "artist": "Sweeping Promises",
       "title": "Accent",
       "album": "You Say I Romanticize • 2026"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Radiohead",
-      "title": "Just",
-      "album": "The Bends • 1995"
     }
   ]
 }
