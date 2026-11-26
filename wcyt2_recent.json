@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T03:30:43",
+  "updatedAt": "2026-11-26T03:31:03",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Beatles",
+    "title": "One After 909",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:31 am",
-      "artist": "The Beatles",
-      "title": "One After 909"
-    },
     {
       "time": "3:33 am",
       "artist": "Cat Stevens",
@@ -31,9 +26,20 @@
       "time": "3:43 am",
       "artist": "Elvis Presley",
       "title": "Mystery Train"
+    },
+    {
+      "time": "3:45 am",
+      "artist": "Spoon",
+      "title": "All the Pretty Girls Go to the City"
     }
   ],
   "recent": [
+    {
+      "time": "3:31 am",
+      "artist": "The Beatles",
+      "title": "One After 909",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "3:28 am",
       "artist": "Buffalo Springfield",
@@ -177,12 +183,6 @@
       "artist": "Bob Dylan",
       "title": "With God on Our Side",
       "album": "With God on Our Side • 1964"
-    },
-    {
-      "time": "2:05 am",
-      "artist": "Bat for Lashes",
-      "title": "Daniel",
-      "album": "Two Suns • 2009"
     }
   ]
 }
