@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T09:42:29",
+  "updatedAt": "2026-11-26T09:42:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Kate Bush",
+    "title": "Hello Earth",
+    "album": "Hounds of Love • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:42 am",
-      "artist": "Kate Bush",
-      "title": "Hello Earth"
-    },
     {
       "time": "9:45 am",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:42 am",
+      "artist": "Kate Bush",
+      "title": "Hello Earth",
+      "album": "Hounds of Love • 1985"
+    },
     {
       "time": "9:38 am",
       "artist": "Kajagoogoo",
@@ -172,12 +173,6 @@
       "artist": "The Clash",
       "title": "Lost in the Supermarket",
       "album": "London Calling • 1979"
-    },
-    {
-      "time": "8:00 am",
-      "artist": "School Of Seven Bells",
-      "title": "Windstorm",
-      "album": "Disconnect From Desire • 2010"
     }
   ]
 }
