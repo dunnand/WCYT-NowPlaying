@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T18:57:36",
+  "updatedAt": "2026-11-25T19:01:56",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "My Back Pages",
-    "album": "Another Side of Bob Dylan • 1964",
+    "artist": "Train",
+    "title": "Drive By",
+    "album": "California 37 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:02 pm",
-      "artist": "Train",
-      "title": "Drive By"
-    },
     {
       "time": "7:05 pm",
       "artist": "Warren G",
@@ -21,9 +16,20 @@
       "time": "7:09 pm",
       "artist": "Elliott Smith",
       "title": "Pictures of Me"
+    },
+    {
+      "time": "7:13 pm",
+      "artist": "Journey",
+      "title": "Faithfully"
     }
   ],
   "recent": [
+    {
+      "time": "7:01 pm",
+      "artist": "Train",
+      "title": "Drive By",
+      "album": "California 37 • 2011"
+    },
     {
       "time": "6:57 pm",
       "artist": "Bob Dylan",
@@ -167,12 +173,6 @@
       "artist": "Stevie Wright",
       "title": "Evie (Evie)",
       "album": "Hard Road • 1974"
-    },
-    {
-      "time": "5:24 pm",
-      "artist": "Nourished By Time",
-      "title": "Tossed Away",
-      "album": "The Passionate Ones • 2025"
     }
   ]
 }
