@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T07:08:16",
+  "updatedAt": "2026-11-26T07:11:34",
   "now": {
-    "artist": "The Clash",
-    "title": "London Calling",
-    "album": "London Calling • 1979",
-    "category": "AUDIO"
+    "artist": "Built to Spill",
+    "title": "Time Trap",
+    "album": "Keep It Like A Secret • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:11 am",
-      "artist": "Built to Spill",
-      "title": "Time Trap"
-    },
     {
       "time": "7:16 am",
       "artist": "Ray Charles",
@@ -26,9 +21,20 @@
       "time": "7:23 am",
       "artist": "Cream",
       "title": "Sunshine of Your Love"
+    },
+    {
+      "time": "7:27 am",
+      "artist": "Grimes",
+      "title": "So Heavy I Fell Through the Earth"
     }
   ],
   "recent": [
+    {
+      "time": "7:11 am",
+      "artist": "Built to Spill",
+      "title": "Time Trap",
+      "album": "Keep It Like A Secret • 1999"
+    },
     {
       "time": "7:08 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Ride",
       "title": "Kaleidoscope",
       "album": "Nowhere • 1990"
-    },
-    {
-      "time": "5:36 am",
-      "artist": "Mariah Carey",
-      "title": "Always Be My Baby",
-      "album": "Daydream • 1996"
     }
   ]
 }
