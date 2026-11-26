@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T01:38:35",
+  "updatedAt": "2026-11-26T01:42:20",
   "now": {
-    "artist": "The Beatles",
-    "title": "Dig a Pony",
-    "album": "Let It Be • 1970",
+    "artist": "Bob Dylan",
+    "title": "The Times They Are A-Changin'",
+    "album": "The Times They Are A-Changin' • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:42 am",
-      "artist": "Bob Dylan",
-      "title": "The Times They Are A-Changin'"
-    },
     {
       "time": "1:45 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "1:55 am",
       "artist": "The Beatles",
       "title": "Let It Be"
+    },
+    {
+      "time": "1:59 am",
+      "artist": "Sheryl Crow",
+      "title": "A Change Would Do You Good"
     }
   ],
   "recent": [
+    {
+      "time": "1:42 am",
+      "artist": "Bob Dylan",
+      "title": "The Times They Are A-Changin'",
+      "album": "The Times They Are A-Changin' • 1964"
+    },
     {
       "time": "1:38 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Spoon",
       "title": "Everything Hits at Once",
       "album": "Girls Can Tell • 2001"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Serge Gainsbourg",
-      "title": "Le poinconneur des Lilas",
-      "album": "Du chant  la une! • 1958"
     }
   ]
 }
