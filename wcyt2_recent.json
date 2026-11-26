@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T21:04:13",
+  "updatedAt": "2026-11-25T21:04:23",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Washed Out",
+    "title": "All I Know",
+    "album": "Paracosm • 2013",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:04 pm",
-      "artist": "Washed Out",
-      "title": "All I Know"
-    },
     {
       "time": "9:09 pm",
       "artist": "Green Day",
@@ -26,9 +21,20 @@
       "time": "9:15 pm",
       "artist": "The Police",
       "title": "Don't Stand So Close To Me"
+    },
+    {
+      "time": "9:19 pm",
+      "artist": "Pretenders",
+      "title": "Back On The Chain Gang"
     }
   ],
   "recent": [
+    {
+      "time": "9:04 pm",
+      "artist": "Washed Out",
+      "title": "All I Know",
+      "album": "Paracosm • 2013"
+    },
     {
       "time": "8:57 pm",
       "artist": "Sigur Ros",
@@ -164,11 +170,6 @@
       "time": "7:09 pm",
       "artist": "Elliott Smith",
       "title": "Pictures of Me"
-    },
-    {
-      "time": "7:05 pm",
-      "artist": "Warren G",
-      "title": "Regulate"
     }
   ]
 }
