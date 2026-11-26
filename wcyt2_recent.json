@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T00:08:35",
+  "updatedAt": "2026-11-26T00:13:28",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Temporary Like Achilles",
-    "album": "Blonde on Blonde • 1966",
+    "artist": "Taylor Swift",
+    "title": "Delicate",
+    "album": "reputation • 2017",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 am",
-      "artist": "Taylor Swift",
-      "title": "Delicate"
-    },
     {
       "time": "12:16 am",
       "artist": "Cat Power",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:13 am",
+      "artist": "Taylor Swift",
+      "title": "Delicate",
+      "album": "reputation • 2017"
+    },
     {
       "time": "12:08 am",
       "artist": "Bob Dylan",
@@ -167,11 +168,6 @@
       "time": "10:15 pm",
       "artist": "Tad",
       "title": "Grease Box"
-    },
-    {
-      "time": "10:13 pm",
-      "artist": "Vampire Weekend",
-      "title": "Cousins"
     }
   ]
 }
