@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T12:16:08",
+  "updatedAt": "2026-11-26T12:18:20",
   "now": {
-    "artist": "Chuck Berry",
-    "title": "Memphis, Tennessee",
-    "album": "single • 1958",
-    "category": "AUDIO"
+    "artist": "The White Stripes",
+    "title": "Hardest Button To Button",
+    "album": "Elephant • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:18 pm",
-      "artist": "The White Stripes",
-      "title": "Hardest Button To Button"
-    },
     {
       "time": "12:22 pm",
       "artist": "Donovan",
@@ -21,9 +16,20 @@
       "time": "12:24 pm",
       "artist": "Thom Yorke",
       "title": "Traffic"
+    },
+    {
+      "time": "12:30 pm",
+      "artist": "Nirvana",
+      "title": "Aneurysm"
     }
   ],
   "recent": [
+    {
+      "time": "12:18 pm",
+      "artist": "The White Stripes",
+      "title": "Hardest Button To Button",
+      "album": "Elephant • 2003"
+    },
     {
       "time": "12:16 pm",
       "artist": "Chuck Berry",
@@ -151,11 +157,6 @@
       "time": "10:22 am",
       "artist": "David Bowie",
       "title": "Space Oddity"
-    },
-    {
-      "time": "10:20 am",
-      "artist": "The Shins",
-      "title": "So Says I"
     }
   ]
 }
