@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T21:59:21",
+  "updatedAt": "2026-11-25T22:05:17",
   "now": {
-    "artist": "Yo La Tengo",
-    "title": "Nowhere Near",
-    "album": "Painful • 1993",
-    "category": "TUNES"
+    "artist": "Connie Francis",
+    "title": "My Happiness",
+    "album": "single • 1958",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:05 pm",
-      "artist": "Connie Francis",
-      "title": "My Happiness"
-    },
     {
       "time": "10:07 pm",
       "artist": "The Unicorns",
@@ -26,9 +21,20 @@
       "time": "10:13 pm",
       "artist": "Vampire Weekend",
       "title": "Cousins"
+    },
+    {
+      "time": "10:15 pm",
+      "artist": "Tad",
+      "title": "Grease Box"
     }
   ],
   "recent": [
+    {
+      "time": "10:05 pm",
+      "artist": "Connie Francis",
+      "title": "My Happiness",
+      "album": "single • 1958"
+    },
     {
       "time": "9:59 pm",
       "artist": "Yo La Tengo",
@@ -172,12 +178,6 @@
       "artist": "Peter Gabriel",
       "title": "Big Time",
       "album": "So • 1987"
-    },
-    {
-      "time": "8:10 pm",
-      "artist": "The Sugarcubes",
-      "title": "Hit",
-      "album": "Stick Around for Joy • 1992"
     }
   ]
 }
