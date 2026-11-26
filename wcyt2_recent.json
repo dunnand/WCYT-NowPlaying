@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T04:03:51",
+  "updatedAt": "2026-11-26T04:04:01",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joy Division",
+    "title": "Atmosphere",
+    "album": "Single • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:04 am",
-      "artist": "Joy Division",
-      "title": "Atmosphere"
-    },
     {
       "time": "4:08 am",
       "artist": "Turnstile",
@@ -26,9 +21,20 @@
       "time": "4:14 am",
       "artist": "The Beatles",
       "title": "Two of Us"
+    },
+    {
+      "time": "4:18 am",
+      "artist": "Yo La Tengo",
+      "title": "Cherry Chapstick"
     }
   ],
   "recent": [
+    {
+      "time": "4:04 am",
+      "artist": "Joy Division",
+      "title": "Atmosphere",
+      "album": "Single • 1980"
+    },
     {
       "time": "3:59 am",
       "artist": "Genesis",
@@ -172,12 +178,6 @@
       "artist": "The Beatles",
       "title": "Get Back",
       "album": "Let It Be • 1970"
-    },
-    {
-      "time": "2:45 am",
-      "artist": "Buffalo Springfield",
-      "title": "For What It's Worth",
-      "album": "Buffalo Springfield • 1967"
     }
   ]
 }
