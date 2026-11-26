@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T16:44:12",
+  "updatedAt": "2026-11-26T16:49:04",
   "now": {
-    "artist": "Bjork",
-    "title": "Joga",
-    "album": "Homogenic • 1997",
-    "category": "TUNES"
+    "artist": "Phil Collins",
+    "title": "In The Air Tonight",
+    "album": "Face Value • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:49 pm",
-      "artist": "Phil Collins",
-      "title": "In The Air Tonight"
-    },
     {
       "time": "4:54 pm",
       "artist": "Mantronix",
@@ -21,9 +16,20 @@
       "time": "4:58 pm",
       "artist": "Taylor Swift",
       "title": "All Too Well (10 Minute Version)"
+    },
+    {
+      "time": "5:08 pm",
+      "artist": "The Specials",
+      "title": "A Message to You Rudy"
     }
   ],
   "recent": [
+    {
+      "time": "4:49 pm",
+      "artist": "Phil Collins",
+      "title": "In The Air Tonight",
+      "album": "Face Value • 1981"
+    },
     {
       "time": "4:44 pm",
       "artist": "Bjork",
@@ -145,11 +151,6 @@
       "time": "2:57 pm",
       "artist": "Donovan",
       "title": "Mellow Yellow"
-    },
-    {
-      "time": "2:51 pm",
-      "artist": "The Kinks",
-      "title": "20th Century Man"
     }
   ]
 }
