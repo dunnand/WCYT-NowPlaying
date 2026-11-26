@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T00:13:28",
+  "updatedAt": "2026-11-26T00:16:30",
   "now": {
-    "artist": "Taylor Swift",
-    "title": "Delicate",
-    "album": "reputation • 2017",
-    "category": "AUDIO"
+    "artist": "Cat Power",
+    "title": "Metal Heart",
+    "album": "Moon Pix • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:16 am",
-      "artist": "Cat Power",
-      "title": "Metal Heart"
-    },
     {
       "time": "12:20 am",
       "artist": "Dave Matthews Band",
@@ -21,9 +16,20 @@
       "time": "12:25 am",
       "artist": "Peter Schilling",
       "title": "Major Tom (Coming Home)"
+    },
+    {
+      "time": "12:30 am",
+      "artist": "Klymaxx",
+      "title": "I Miss You"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 am",
+      "artist": "Cat Power",
+      "title": "Metal Heart",
+      "album": "Moon Pix • 1998"
+    },
     {
       "time": "12:13 am",
       "artist": "Taylor Swift",
@@ -163,11 +169,6 @@
       "time": "10:19 pm",
       "artist": "Mista",
       "title": "Blackberry Molasses"
-    },
-    {
-      "time": "10:15 pm",
-      "artist": "Tad",
-      "title": "Grease Box"
     }
   ]
 }
