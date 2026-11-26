@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T20:26:29",
+  "updatedAt": "2026-11-25T20:26:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Syd Barrett",
+    "title": "Terrapin",
+    "album": "The Madcap Laughs • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:26 pm",
-      "artist": "Syd Barrett",
-      "title": "Terrapin"
-    },
     {
       "time": "8:31 pm",
       "artist": "Bob Dylan",
@@ -26,9 +21,20 @@
       "time": "8:38 pm",
       "artist": "Bob Dylan",
       "title": "Oxford Town"
+    },
+    {
+      "time": "8:40 pm",
+      "artist": "Talking Heads",
+      "title": "Psycho Killer"
     }
   ],
   "recent": [
+    {
+      "time": "8:26 pm",
+      "artist": "Syd Barrett",
+      "title": "Terrapin",
+      "album": "The Madcap Laughs • 1970"
+    },
     {
       "time": "8:22 pm",
       "artist": "Taylor Swift",
@@ -155,11 +161,6 @@
       "time": "6:35 pm",
       "artist": "Suicid",
       "title": "Ghost Rider"
-    },
-    {
-      "time": "6:31 pm",
-      "artist": "Bob Dylan",
-      "title": "Most Likely You Go Your Way and I'll Go Mine"
     }
   ]
 }
