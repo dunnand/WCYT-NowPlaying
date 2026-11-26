@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T21:04:23",
+  "updatedAt": "2026-11-25T21:09:45",
   "now": {
-    "artist": "Washed Out",
-    "title": "All I Know",
-    "album": "Paracosm • 2013",
-    "category": "TUNES"
+    "artist": "Green Day",
+    "title": "Chump",
+    "album": "Dookie • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:09 pm",
-      "artist": "Green Day",
-      "title": "Chump"
-    },
     {
       "time": "9:12 pm",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "9:19 pm",
       "artist": "Pretenders",
       "title": "Back On The Chain Gang"
+    },
+    {
+      "time": "9:23 pm",
+      "artist": "Grimes",
+      "title": "Delete Forever."
     }
   ],
   "recent": [
+    {
+      "time": "9:09 pm",
+      "artist": "Green Day",
+      "title": "Chump",
+      "album": "Dookie • 1994"
+    },
     {
       "time": "9:04 pm",
       "artist": "Washed Out",
@@ -165,11 +171,6 @@
       "time": "7:13 pm",
       "artist": "Journey",
       "title": "Faithfully"
-    },
-    {
-      "time": "7:09 pm",
-      "artist": "Elliott Smith",
-      "title": "Pictures of Me"
     }
   ]
 }
