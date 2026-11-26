@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T02:45:16",
+  "updatedAt": "2026-11-26T02:47:46",
   "now": {
-    "artist": "Buffalo Springfield",
-    "title": "For What It's Worth",
-    "album": "Buffalo Springfield • 1967",
+    "artist": "The Beatles",
+    "title": "Get Back",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:47 am",
-      "artist": "The Beatles",
-      "title": "Get Back"
-    },
     {
       "time": "2:50 am",
       "artist": "Pavement",
@@ -26,9 +21,20 @@
       "time": "2:57 am",
       "artist": "Sigur Ros",
       "title": "Hoppipolla"
+    },
+    {
+      "time": "3:01 am",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Maps"
     }
   ],
   "recent": [
+    {
+      "time": "2:47 am",
+      "artist": "The Beatles",
+      "title": "Get Back",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "2:45 am",
       "artist": "Buffalo Springfield",
@@ -172,12 +178,6 @@
       "artist": "Mazzy Star",
       "title": "Look on Down From the Bridge",
       "album": "Among My Swan • 1996"
-    },
-    {
-      "time": "1:12 am",
-      "artist": "Steve Lacy",
-      "title": "Playground",
-      "album": "Apollo XXI • 2019"
     }
   ]
 }
