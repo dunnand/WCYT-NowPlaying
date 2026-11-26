@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T12:12:15",
+  "updatedAt": "2026-11-26T12:16:08",
   "now": {
-    "artist": "Nine Inch Nails",
-    "title": "Wish",
-    "album": "",
+    "artist": "Chuck Berry",
+    "title": "Memphis, Tennessee",
+    "album": "single • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:16 pm",
-      "artist": "Chuck Berry",
-      "title": "Memphis, Tennessee"
-    },
     {
       "time": "12:18 pm",
       "artist": "The White Stripes",
@@ -21,9 +16,20 @@
       "time": "12:22 pm",
       "artist": "Donovan",
       "title": "Colours"
+    },
+    {
+      "time": "12:24 pm",
+      "artist": "Thom Yorke",
+      "title": "Traffic"
     }
   ],
   "recent": [
+    {
+      "time": "12:16 pm",
+      "artist": "Chuck Berry",
+      "title": "Memphis, Tennessee",
+      "album": "single • 1958"
+    },
     {
       "time": "12:12 pm",
       "artist": "Nine Inch Nails",
@@ -150,11 +156,6 @@
       "time": "10:20 am",
       "artist": "The Shins",
       "title": "So Says I"
-    },
-    {
-      "time": "10:17 am",
-      "artist": "Elvis Presley",
-      "title": "Love Me Tender"
     }
   ]
 }
