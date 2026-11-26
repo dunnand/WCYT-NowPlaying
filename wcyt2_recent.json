@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T02:40:03",
+  "updatedAt": "2026-11-26T02:40:43",
   "now": {
     "artist": "The Beatles",
-    "title": "Maggie Mae",
+    "title": "For You Blue",
     "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:40 am",
-      "artist": "The Beatles",
-      "title": "For You Blue"
-    },
     {
       "time": "2:43 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "2:47 am",
       "artist": "The Beatles",
       "title": "Get Back"
+    },
+    {
+      "time": "2:51 am",
+      "artist": "Pavement",
+      "title": "Date With IKEA"
     }
   ],
   "recent": [
+    {
+      "time": "2:40 am",
+      "artist": "The Beatles",
+      "title": "For You Blue",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "2:40 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "The Dress Looks Nice on You",
       "album": "Seven Swans • 2004"
-    },
-    {
-      "time": "1:01 am",
-      "artist": "Usher",
-      "title": "Numb",
-      "album": "Looking 4 Myself • 2012"
     }
   ]
 }
