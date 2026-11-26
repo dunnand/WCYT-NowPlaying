@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T00:20:33",
+  "updatedAt": "2026-11-26T00:24:55",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "Ants Marching",
-    "album": "Under The Table And Dreaming • 1995",
+    "artist": "Peter Schilling",
+    "title": "Major Tom (Coming Home)",
+    "album": "Error In The System / Fehler im System • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:25 am",
-      "artist": "Peter Schilling",
-      "title": "Major Tom (Coming Home)"
-    },
     {
       "time": "12:30 am",
       "artist": "Klymaxx",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:24 am",
+      "artist": "Peter Schilling",
+      "title": "Major Tom (Coming Home)",
+      "album": "Error In The System / Fehler im System • 1982"
+    },
     {
       "time": "12:20 am",
       "artist": "Dave Matthews Band",
@@ -170,11 +171,6 @@
       "time": "10:27 pm",
       "artist": "Rick Springfield",
       "title": "I've Done Everything For You"
-    },
-    {
-      "time": "10:23 pm",
-      "artist": "Prince",
-      "title": "Little Red Corvette"
     }
   ]
 }
