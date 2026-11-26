@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T10:22:41",
+  "updatedAt": "2026-11-26T10:22:51",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Space Oddity",
+    "album": "David Bowie • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:22 am",
-      "artist": "David Bowie",
-      "title": "Space Oddity"
-    },
     {
       "time": "10:27 am",
       "artist": "Grimes",
@@ -26,9 +21,20 @@
       "time": "10:37 am",
       "artist": "Enigma",
       "title": "Return To Innocence"
+    },
+    {
+      "time": "10:41 am",
+      "artist": "U2",
+      "title": "Desire"
     }
   ],
   "recent": [
+    {
+      "time": "10:22 am",
+      "artist": "David Bowie",
+      "title": "Space Oddity",
+      "album": "David Bowie • 1969"
+    },
     {
       "time": "10:19 am",
       "artist": "The Shins",
@@ -172,12 +178,6 @@
       "artist": "The Killers",
       "title": "Bright Lights",
       "album": "single • 2024"
-    },
-    {
-      "time": "8:40 am",
-      "artist": "Peter Murphy",
-      "title": "Cuts You Up",
-      "album": "Deep • 1989"
     }
   ]
 }
