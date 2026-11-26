@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T05:43:10",
+  "updatedAt": "2026-11-26T05:43:22",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Junior Pro",
+    "title": "Cool",
+    "album": "Cool • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:43 am",
-      "artist": "Junior Pro",
-      "title": "Cool"
-    },
     {
       "time": "5:46 am",
       "artist": "Kurt Vile",
@@ -26,9 +21,20 @@
       "time": "5:56 am",
       "artist": "Quivers",
       "title": "Bottle The Nervous"
+    },
+    {
+      "time": "5:59 am",
+      "artist": "Joanna Newsom",
+      "title": "Peach, Plum, Pear"
     }
   ],
   "recent": [
+    {
+      "time": "5:43 am",
+      "artist": "Junior Pro",
+      "title": "Cool",
+      "album": "Cool • 2026"
+    },
     {
       "time": "5:38 am",
       "artist": "The Stone Roses",
@@ -165,11 +171,6 @@
       "time": "3:37 am",
       "artist": "Naps",
       "title": "Social Skills"
-    },
-    {
-      "time": "3:33 am",
-      "artist": "Damien Jurado",
-      "title": "Ohio"
     }
   ]
 }
