@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T19:12:55",
+  "updatedAt": "2026-11-25T19:13:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Journey",
+    "title": "Faithfully",
+    "album": "Frontiers • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:13 pm",
-      "artist": "Journey",
-      "title": "Faithfully"
-    },
     {
       "time": "7:17 pm",
       "artist": "Kraftwerk",
@@ -26,9 +21,20 @@
       "time": "7:27 pm",
       "artist": "Syd Barrett",
       "title": "Dark Globe"
+    },
+    {
+      "time": "7:29 pm",
+      "artist": "Syd Barrett",
+      "title": "Love Song"
     }
   ],
   "recent": [
+    {
+      "time": "7:13 pm",
+      "artist": "Journey",
+      "title": "Faithfully",
+      "album": "Frontiers • 1983"
+    },
     {
       "time": "7:09 pm",
       "artist": "Elliott Smith",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "Masters of War",
       "album": "The Freewheelin Bob Dylan • 1963"
-    },
-    {
-      "time": "5:36 pm",
-      "artist": "Thom Yorke",
-      "title": "Harrowdown Hill",
-      "album": "The Eraser • 2006"
     }
   ]
 }
