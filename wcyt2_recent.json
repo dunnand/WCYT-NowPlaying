@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T23:06:09",
+  "updatedAt": "2026-11-25T23:08:21",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Subterranean Homesick Blues",
-    "album": "Bringing It All Back Home • 1965",
-    "category": "AUDIO"
+    "artist": "St. Vincent",
+    "title": "Los Ageless",
+    "album": "Masseduction • 2018",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:08 pm",
-      "artist": "St. Vincent",
-      "title": "Los Ageless"
-    },
     {
       "time": "11:13 pm",
       "artist": "The Magnetic Fields",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "11:08 pm",
+      "artist": "St. Vincent",
+      "title": "Los Ageless",
+      "album": "Masseduction • 2018"
+    },
     {
       "time": "11:06 pm",
       "artist": "Bob Dylan",
@@ -152,11 +153,6 @@
       "time": "9:09 pm",
       "artist": "Green Day",
       "title": "Chump"
-    },
-    {
-      "time": "9:04 pm",
-      "artist": "Washed Out",
-      "title": "All I Know"
     }
   ]
 }
