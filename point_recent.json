@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T00:47:26",
+  "updatedAt": "2026-11-26T00:47:43",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "The Chemical Brothers",
+    "title": "The Boxer",
+    "album": "Push The Button • 2006",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:47 am",
-      "artist": "The Chemical Brothers",
-      "title": "The Boxer"
-    },
     {
       "time": "12:51 am",
       "artist": "The Replacements",
@@ -26,9 +21,20 @@
       "time": "12:59 am",
       "artist": "Slint",
       "title": "Nosferatu Man"
+    },
+    {
+      "time": "1:04 am",
+      "artist": "Vampire Weekend",
+      "title": "Worship You"
     }
   ],
   "recent": [
+    {
+      "time": "12:47 am",
+      "artist": "The Chemical Brothers",
+      "title": "The Boxer",
+      "album": "Push The Button • 2006"
+    },
     {
       "time": "12:42 am",
       "artist": "Julien Baker",
@@ -172,12 +178,6 @@
       "artist": "CAKE",
       "title": "Love You Madly",
       "album": "Comfort Eagle • 2001"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "The Antlers",
-      "title": "Drift Dive",
-      "album": "Undersea • 2012"
     }
   ]
 }
