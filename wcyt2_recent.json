@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T03:56:25",
+  "updatedAt": "2026-11-26T03:56:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Speed Trials",
+    "album": "Either Or • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:56 am",
-      "artist": "Elliott Smith",
-      "title": "Speed Trials"
-    },
     {
       "time": "3:59 am",
       "artist": "Genesis",
@@ -26,9 +21,20 @@
       "time": "4:08 am",
       "artist": "Turnstile",
       "title": "MYSTERY"
+    },
+    {
+      "time": "4:10 am",
+      "artist": "The Ready Set",
+      "title": "Give Me Your Hand"
     }
   ],
   "recent": [
+    {
+      "time": "3:56 am",
+      "artist": "Elliott Smith",
+      "title": "Speed Trials",
+      "album": "Either Or • 1997"
+    },
     {
       "time": "3:53 am",
       "artist": "Neutral Milk Hotel",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "Hotel Yorba",
       "album": "White Blood Cells • 2002"
-    },
-    {
-      "time": "2:40 am",
-      "artist": "The Beatles",
-      "title": "For You Blue",
-      "album": "Let It Be • 1970"
     }
   ]
 }
