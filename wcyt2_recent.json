@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T12:29:59",
+  "updatedAt": "2026-11-26T12:34:32",
   "now": {
-    "artist": "Nirvana",
-    "title": "Aneurysm",
+    "artist": "The Jon Spencer Blues Explosion",
+    "title": "Bellbottoms",
     "album": "",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:34 pm",
-      "artist": "The Jon Spencer Blues Explosion",
-      "title": "Bellbottoms"
-    },
     {
       "time": "12:40 pm",
       "artist": "Matthew Wilder",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "12:34 pm",
+      "artist": "The Jon Spencer Blues Explosion",
+      "title": "Bellbottoms",
+      "album": ""
+    },
     {
       "time": "12:29 pm",
       "artist": "Nirvana",
@@ -160,11 +161,6 @@
       "time": "10:41 am",
       "artist": "U2",
       "title": "Desire"
-    },
-    {
-      "time": "10:37 am",
-      "artist": "Enigma",
-      "title": "Return To Innocence"
     }
   ]
 }
