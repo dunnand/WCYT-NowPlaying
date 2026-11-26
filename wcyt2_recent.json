@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T20:26:45",
+  "updatedAt": "2026-11-25T20:31:47",
   "now": {
-    "artist": "Syd Barrett",
-    "title": "Terrapin",
-    "album": "The Madcap Laughs • 1970",
+    "artist": "Bob Dylan",
+    "title": "One Too Many Mornings",
+    "album": "The Times They Are A-Changin • 1964",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:31 pm",
-      "artist": "Bob Dylan",
-      "title": "One Too Many Mornings"
-    },
     {
       "time": "8:34 pm",
       "artist": "Talking Heads",
@@ -26,9 +21,20 @@
       "time": "8:40 pm",
       "artist": "Talking Heads",
       "title": "Psycho Killer"
+    },
+    {
+      "time": "8:44 pm",
+      "artist": "Tori Amos",
+      "title": "Cornflake Girl"
     }
   ],
   "recent": [
+    {
+      "time": "8:31 pm",
+      "artist": "Bob Dylan",
+      "title": "One Too Many Mornings",
+      "album": "The Times They Are A-Changin • 1964"
+    },
     {
       "time": "8:26 pm",
       "artist": "Syd Barrett",
@@ -156,11 +162,6 @@
       "time": "6:37 pm",
       "artist": "Bob Dylan",
       "title": "Mr. Tambourine Man"
-    },
-    {
-      "time": "6:35 pm",
-      "artist": "Suicid",
-      "title": "Ghost Rider"
     }
   ]
 }
