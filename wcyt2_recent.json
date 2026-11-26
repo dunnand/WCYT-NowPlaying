@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T04:14:38",
+  "updatedAt": "2026-11-26T04:17:51",
   "now": {
-    "artist": "The Beatles",
-    "title": "Two of Us",
-    "album": "Let It Be • 1970",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Cherry Chapstick",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "4:18 am",
-      "artist": "Yo La Tengo",
-      "title": "Cherry Chapstick"
-    },
     {
       "time": "4:22 am",
       "artist": "Slowdive",
@@ -26,9 +21,20 @@
       "time": "4:31 am",
       "artist": "The Flaming Lips",
       "title": "Buggin'"
+    },
+    {
+      "time": "4:34 am",
+      "artist": "Jimmy \"C\" Newman",
+      "title": "A Fallen Star"
     }
   ],
   "recent": [
+    {
+      "time": "4:17 am",
+      "artist": "Yo La Tengo",
+      "title": "Cherry Chapstick",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "4:14 am",
       "artist": "The Beatles",
@@ -172,12 +178,6 @@
       "artist": "Yeah Yeah Yeahs",
       "title": "Maps",
       "album": "Fever To Tell • 2003"
-    },
-    {
-      "time": "2:56 am",
-      "artist": "Sigur Ros",
-      "title": "Hoppipolla",
-      "album": "Takk... • 2005"
     }
   ]
 }
