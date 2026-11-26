@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-11-25T23:43:58",
+  "updatedAt": "2026-11-25T23:46:49",
   "now": {
-    "artist": "The xx",
-    "title": "Angels",
-    "album": "Coexist • 2012",
-    "category": "TUNES"
+    "artist": "The Band",
+    "title": "Stage Fright",
+    "album": "Stage Fright • 1970",
+    "category": "AUDIO"
   },
   "comingUp": [
     {
-      "time": "11:46 pm",
+      "time": "11:50 pm",
+      "artist": "The xx",
+      "title": "Angels"
+    },
+    {
+      "time": "11:53 pm",
       "artist": "The Band",
       "title": "Stage Fright"
     }
   ],
   "recent": [
+    {
+      "time": "11:46 pm",
+      "artist": "The Band",
+      "title": "Stage Fright",
+      "album": "Stage Fright • 1970"
+    },
     {
       "time": "11:43 pm",
       "artist": "The xx",
@@ -147,11 +158,6 @@
       "time": "9:59 pm",
       "artist": "Yo La Tengo",
       "title": "Nowhere Near"
-    },
-    {
-      "time": "9:55 pm",
-      "artist": "Television",
-      "title": "See No Evil"
     }
   ]
 }
