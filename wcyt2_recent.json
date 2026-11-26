@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T07:45:42",
+  "updatedAt": "2026-11-26T07:49:01",
   "now": {
-    "artist": "Toosii",
-    "title": "Favorite Song",
-    "album": "NAUJOUR • 2023",
-    "category": "AUDIO"
+    "artist": "Yo La Tengo",
+    "title": "Last Days of Disco",
+    "album": "And Then Nothing Turned Itself Inside • 2000",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:49 am",
-      "artist": "Yo La Tengo",
-      "title": "Last Days of Disco"
-    },
     {
       "time": "7:55 am",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "8:00 am",
       "artist": "School Of Seven Bells",
       "title": "Windstorm"
+    },
+    {
+      "time": "8:04 am",
+      "artist": "The Clash",
+      "title": "Lost in the Supermarket"
     }
   ],
   "recent": [
+    {
+      "time": "7:48 am",
+      "artist": "Yo La Tengo",
+      "title": "Last Days of Disco",
+      "album": "And Then Nothing Turned Itself Inside • 2000"
+    },
     {
       "time": "7:45 am",
       "artist": "Toosii",
@@ -172,12 +178,6 @@
       "artist": "Don Gibson",
       "title": "Sea Of Heartbreak",
       "album": "Sea Of Heartbreak • 1954"
-    },
-    {
-      "time": "6:16 am",
-      "artist": "Sebadoh",
-      "title": "Magnet's Coil",
-      "album": "Bakesale • 1994"
     }
   ]
 }
