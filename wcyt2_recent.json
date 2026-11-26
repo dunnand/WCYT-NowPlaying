@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T03:12:18",
+  "updatedAt": "2026-11-26T03:14:20",
   "now": {
-    "artist": "Randy Newman",
-    "title": "You've Got a Friend in Me",
-    "album": "Toy Story soundtrack • 1995",
+    "artist": "Michael McDonald",
+    "title": "I Keep Forgettin' (Every Time You're Near)",
+    "album": "If Thats What It Takes • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 am",
-      "artist": "Michael McDonald",
-      "title": "I Keep Forgettin' (Every Time You're Near)"
-    },
     {
       "time": "3:18 am",
       "artist": "Billy Joel",
@@ -21,9 +16,20 @@
       "time": "3:22 am",
       "artist": "Taylor Swift",
       "title": "Glitch"
+    },
+    {
+      "time": "3:24 am",
+      "artist": "The Beatles",
+      "title": "I've Got a Feeling"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 am",
+      "artist": "Michael McDonald",
+      "title": "I Keep Forgettin' (Every Time You're Near)",
+      "album": "If Thats What It Takes • 1982"
+    },
     {
       "time": "3:12 am",
       "artist": "Randy Newman",
@@ -167,12 +173,6 @@
       "artist": "Bob Dylan",
       "title": "Visions of Johanna",
       "album": "Blonde on Blonde • 1966"
-    },
-    {
-      "time": "1:45 am",
-      "artist": "The Beatles",
-      "title": "I Me Mine",
-      "album": "Let It Be • 1970"
     }
   ]
 }
