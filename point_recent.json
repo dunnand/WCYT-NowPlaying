@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T17:44:38",
+  "updatedAt": "2026-11-26T17:44:46",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Husker Du",
+    "title": "Eight Miles High",
+    "album": "Eight Miles High • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:44 pm",
-      "artist": "Husker Du",
-      "title": "Eight Miles High"
-    },
     {
       "time": "5:48 pm",
       "artist": "Star Moles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:44 pm",
+      "artist": "Husker Du",
+      "title": "Eight Miles High",
+      "album": "Eight Miles High • 1984"
+    },
     {
       "time": "5:39 pm",
       "artist": "Alt J",
@@ -172,12 +173,6 @@
       "artist": "Dummy",
       "title": "Touch the Perfect Speed",
       "album": "do you love the color of the sky? • 2026"
-    },
-    {
-      "time": "4:08 pm",
-      "artist": "Sigur Ros",
-      "title": "Hoppipolla",
-      "album": "Takk... • 2005"
     }
   ]
 }
