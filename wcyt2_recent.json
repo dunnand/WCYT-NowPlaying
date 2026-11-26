@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T23:23:42",
+  "updatedAt": "2026-11-25T23:24:02",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Tina Turner",
+    "title": "Private Dancer",
+    "album": "Private Dancer • 1985",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:24 pm",
-      "artist": "Tina Turner",
-      "title": "Private Dancer"
-    },
     {
       "time": "11:28 pm",
       "artist": "Malcolm Todd",
@@ -26,9 +21,20 @@
       "time": "11:35 pm",
       "artist": "The Band",
       "title": "Ophelia"
+    },
+    {
+      "time": "11:38 pm",
+      "artist": "The Waterboys",
+      "title": "You in the Sky"
     }
   ],
   "recent": [
+    {
+      "time": "11:24 pm",
+      "artist": "Tina Turner",
+      "title": "Private Dancer",
+      "album": "Private Dancer • 1985"
+    },
     {
       "time": "11:19 pm",
       "artist": "Rolling Stones",
@@ -156,11 +162,6 @@
       "time": "9:23 pm",
       "artist": "Grimes",
       "title": "Delete Forever."
-    },
-    {
-      "time": "9:19 pm",
-      "artist": "Pretenders",
-      "title": "Back On The Chain Gang"
     }
   ]
 }
