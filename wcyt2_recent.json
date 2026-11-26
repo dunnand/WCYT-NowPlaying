@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T05:03:04",
+  "updatedAt": "2026-11-26T05:03:14",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Brand New Cadillac",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:03 am",
-      "artist": "The Clash",
-      "title": "Brand New Cadillac"
-    },
     {
       "time": "5:05 am",
       "artist": "The Clash",
@@ -26,9 +21,20 @@
       "time": "5:10 am",
       "artist": "Cream",
       "title": "Badge"
+    },
+    {
+      "time": "5:13 am",
+      "artist": "The Clash",
+      "title": "Clampdown"
     }
   ],
   "recent": [
+    {
+      "time": "5:03 am",
+      "artist": "The Clash",
+      "title": "Brand New Cadillac",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "4:59 am",
       "artist": "Shogo Sakai, Megumi Ohara",
@@ -172,12 +178,6 @@
       "artist": "Elvis Presley",
       "title": "Mystery Train",
       "album": "Rock N Roll • 1956"
-    },
-    {
-      "time": "3:39 am",
-      "artist": "Modest Mouse",
-      "title": "Heart Cooks Brain",
-      "album": "Lonesome Crowded West • 1998"
     }
   ]
 }
