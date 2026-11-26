@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T17:28:48",
+  "updatedAt": "2026-11-26T17:30:31",
   "now": {
-    "artist": "Elvis Presley",
-    "title": "(Let Me Be Your) Teddy Bear",
-    "album": "Loving You • 1957",
+    "artist": "Spoon",
+    "title": "Anything You Want",
+    "album": "Girls Can Tell • 2002",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:30 pm",
-      "artist": "Spoon",
-      "title": "Anything You Want"
-    },
     {
       "time": "5:33 pm",
       "artist": "Dusty Springfield",
@@ -21,9 +16,20 @@
       "time": "5:36 pm",
       "artist": "Rihanna",
       "title": "Work"
+    },
+    {
+      "time": "5:40 pm",
+      "artist": "Superchunk",
+      "title": "Detroit Has a Skyline"
     }
   ],
   "recent": [
+    {
+      "time": "5:30 pm",
+      "artist": "Spoon",
+      "title": "Anything You Want",
+      "album": "Girls Can Tell • 2002"
+    },
     {
       "time": "5:28 pm",
       "artist": "Elvis Presley",
@@ -155,11 +161,6 @@
       "time": "3:37 pm",
       "artist": "Weezer",
       "title": "Only in Dreams"
-    },
-    {
-      "time": "3:33 pm",
-      "artist": "Nada Surf",
-      "title": "Popular"
     }
   ]
 }
