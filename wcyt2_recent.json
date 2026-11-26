@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T03:56:35",
+  "updatedAt": "2026-11-26T03:59:28",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Speed Trials",
-    "album": "Either Or • 1997",
-    "category": "TUNES"
+    "artist": "Genesis",
+    "title": "No Reply At All",
+    "album": "Abacab • 1981",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "Genesis",
-      "title": "No Reply At All"
-    },
     {
       "time": "4:04 am",
       "artist": "Joy Division",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:59 am",
+      "artist": "Genesis",
+      "title": "No Reply At All",
+      "album": "Abacab • 1981"
+    },
     {
       "time": "3:56 am",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Buffalo Springfield",
       "title": "For What It's Worth",
       "album": "Buffalo Springfield • 1967"
-    },
-    {
-      "time": "2:43 am",
-      "artist": "The White Stripes",
-      "title": "Hotel Yorba",
-      "album": "White Blood Cells • 2002"
     }
   ]
 }
