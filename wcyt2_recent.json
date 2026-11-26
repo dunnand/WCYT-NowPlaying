@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T09:42:41",
+  "updatedAt": "2026-11-26T09:45:47",
   "now": {
-    "artist": "Kate Bush",
-    "title": "Hello Earth",
-    "album": "Hounds of Love • 1985",
+    "artist": "Taylor Swift",
+    "title": "cardigan",
+    "album": "Folklore • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:45 am",
-      "artist": "Taylor Swift",
-      "title": "cardigan"
-    },
     {
       "time": "9:49 am",
       "artist": "The Clash",
@@ -21,9 +16,20 @@
       "time": "9:53 am",
       "artist": "Cream",
       "title": "White Room"
+    },
+    {
+      "time": "9:58 am",
+      "artist": "The Clash",
+      "title": "The Guns of Brixton"
     }
   ],
   "recent": [
+    {
+      "time": "9:45 am",
+      "artist": "Taylor Swift",
+      "title": "cardigan",
+      "album": "Folklore • 2020"
+    },
     {
       "time": "9:42 am",
       "artist": "Kate Bush",
@@ -167,12 +173,6 @@
       "artist": "Portishead",
       "title": "Sour Times",
       "album": "Dummy • 1994"
-    },
-    {
-      "time": "8:04 am",
-      "artist": "The Clash",
-      "title": "Lost in the Supermarket",
-      "album": "London Calling • 1979"
     }
   ]
 }
