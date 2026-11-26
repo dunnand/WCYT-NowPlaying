@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T07:55:16",
+  "updatedAt": "2026-11-26T07:55:28",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "London's Burning",
+    "album": "The Clash • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:55 am",
-      "artist": "The Clash",
-      "title": "London's Burning"
-    },
     {
       "time": "7:57 am",
       "artist": "The White Stripes",
@@ -31,9 +26,20 @@
       "time": "8:08 am",
       "artist": "Portishead",
       "title": "Sour Times"
+    },
+    {
+      "time": "8:12 am",
+      "artist": "Vampire Weekend",
+      "title": "Run"
     }
   ],
   "recent": [
+    {
+      "time": "7:55 am",
+      "artist": "The Clash",
+      "title": "London's Burning",
+      "album": "The Clash • 1977"
+    },
     {
       "time": "7:48 am",
       "artist": "Yo La Tengo",
@@ -177,12 +183,6 @@
       "artist": "Destroyer",
       "title": "It's Gonna Take An Airplane",
       "album": "Your Blues • 2004"
-    },
-    {
-      "time": "6:18 am",
-      "artist": "Don Gibson",
-      "title": "Sea Of Heartbreak",
-      "album": "Sea Of Heartbreak • 1954"
     }
   ]
 }
