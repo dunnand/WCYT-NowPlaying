@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T20:01:49",
+  "updatedAt": "2026-11-25T20:04:51",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "White Sky",
-    "album": "Contra • 2010",
-    "category": "TUNES"
+    "artist": "Social Distortion",
+    "title": "Ball and Chain",
+    "album": "Social Distortion • 1990",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:04 pm",
-      "artist": "Social Distortion",
-      "title": "Ball and Chain"
-    },
     {
       "time": "8:10 pm",
       "artist": "The Sugarcubes",
@@ -26,9 +21,20 @@
       "time": "8:18 pm",
       "artist": "Pet Shop Boys",
       "title": "What Have I Done to Deserve This?"
+    },
+    {
+      "time": "8:22 pm",
+      "artist": "Taylor Swift",
+      "title": "august"
     }
   ],
   "recent": [
+    {
+      "time": "8:04 pm",
+      "artist": "Social Distortion",
+      "title": "Ball and Chain",
+      "album": "Social Distortion • 1990"
+    },
     {
       "time": "8:01 pm",
       "artist": "Vampire Weekend",
@@ -150,11 +156,6 @@
       "time": "6:16 pm",
       "artist": "INXS",
       "title": "What You Need"
-    },
-    {
-      "time": "6:14 pm",
-      "artist": "They Might Be Giants",
-      "title": "Particle Man"
     }
   ]
 }
