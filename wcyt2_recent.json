@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T10:44:38",
+  "updatedAt": "2026-11-26T10:44:48",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Lakeside",
+    "title": "Fantastic Voyage",
+    "album": "Fantastic Voyage • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:44 am",
-      "artist": "Lakeside",
-      "title": "Fantastic Voyage"
-    },
     {
       "time": "10:48 am",
       "artist": "Turnstile",
@@ -26,9 +21,20 @@
       "time": "10:53 am",
       "artist": "The Clash",
       "title": "Train in Vain"
+    },
+    {
+      "time": "10:56 am",
+      "artist": "The Thermals",
+      "title": "A Pillar of Salt"
     }
   ],
   "recent": [
+    {
+      "time": "10:44 am",
+      "artist": "Lakeside",
+      "title": "Fantastic Voyage",
+      "album": "Fantastic Voyage • 1980"
+    },
     {
       "time": "10:41 am",
       "artist": "U2",
@@ -172,12 +178,6 @@
       "artist": "The Clash",
       "title": "Safe European Home",
       "album": "Give 'Em Enough Rope • 1978"
-    },
-    {
-      "time": "9:01 am",
-      "artist": "Cream",
-      "title": "Tales of Brave Ulysses",
-      "album": "Disraeli Gears • 1967"
     }
   ]
 }
