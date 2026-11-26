@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T19:37:02",
+  "updatedAt": "2026-11-25T19:41:45",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "One of Us Must Know (Sooner or Later)",
-    "album": "One of Us Must Know • 1966",
+    "artist": "Syd Barrett",
+    "title": "Octopus",
+    "album": "The Madcap Laughs • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:41 pm",
-      "artist": "Syd Barrett",
-      "title": "Octopus"
-    },
     {
       "time": "7:45 pm",
       "artist": "Shawn Mullins",
@@ -26,9 +21,20 @@
       "time": "7:53 pm",
       "artist": "R.E.M.",
       "title": "Aftermath"
+    },
+    {
+      "time": "7:57 pm",
+      "artist": "Rascal Flatts",
+      "title": "Life is a Highway"
     }
   ],
   "recent": [
+    {
+      "time": "7:41 pm",
+      "artist": "Syd Barrett",
+      "title": "Octopus",
+      "album": "The Madcap Laughs • 1970"
+    },
     {
       "time": "7:37 pm",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "Rod Stewart",
       "title": "Ooh La La",
       "album": "If We Fall in Love Tonight • 1998"
-    },
-    {
-      "time": "6:04 pm",
-      "artist": "Thom Yorke",
-      "title": "Twist",
-      "album": "ANIMA • 2019"
     }
   ]
 }
