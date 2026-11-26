@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T01:51:16",
+  "updatedAt": "2026-11-26T01:51:47",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Elbow",
+    "title": "Red",
+    "album": "Asleep In the Back • 2001",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:51 am",
-      "artist": "Elbow",
-      "title": "Red"
-    },
     {
       "time": "1:56 am",
       "artist": "St. Vincent",
@@ -26,9 +21,20 @@
       "time": "2:03 am",
       "artist": "The Orielles",
       "title": "The Room"
+    },
+    {
+      "time": "2:08 am",
+      "artist": "Ian Dury",
+      "title": "Billericay Dickey"
     }
   ],
   "recent": [
+    {
+      "time": "1:51 am",
+      "artist": "Elbow",
+      "title": "Red",
+      "album": "Asleep In the Back • 2001"
+    },
     {
       "time": "1:48 am",
       "artist": "Being Dead",
@@ -172,12 +178,6 @@
       "artist": "The Linda Lindas",
       "title": "Burning Out",
       "album": "GOTTA GET OUT • 2026"
-    },
-    {
-      "time": "12:18 am",
-      "artist": "Beck",
-      "title": "Gamma Ray",
-      "album": "Modern Guilt • 2008"
     }
   ]
 }
