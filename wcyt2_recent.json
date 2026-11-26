@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T02:03:06",
+  "updatedAt": "2026-11-26T02:05:18",
   "now": {
-    "artist": "Johnny Cash",
-    "title": "Ballad Of A Teenage Queen",
-    "album": "Ballad Of A Teenage Queen • 1958",
+    "artist": "Bat for Lashes",
+    "title": "Daniel",
+    "album": "Two Suns • 2009",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:05 am",
-      "artist": "Bat for Lashes",
-      "title": "Daniel"
-    },
     {
       "time": "2:09 am",
       "artist": "Bob Dylan",
@@ -21,9 +16,20 @@
       "time": "2:16 am",
       "artist": "Grimes",
       "title": "Flesh Without Blood"
+    },
+    {
+      "time": "2:21 am",
+      "artist": "Slowdive",
+      "title": "Machine Gun"
     }
   ],
   "recent": [
+    {
+      "time": "2:05 am",
+      "artist": "Bat for Lashes",
+      "title": "Daniel",
+      "album": "Two Suns • 2009"
+    },
     {
       "time": "2:03 am",
       "artist": "Johnny Cash",
@@ -167,12 +173,6 @@
       "artist": "Klymaxx",
       "title": "I Miss You",
       "album": "Meeting in the Ladies Room • 1984"
-    },
-    {
-      "time": "12:24 am",
-      "artist": "Peter Schilling",
-      "title": "Major Tom (Coming Home)",
-      "album": "Error In The System / Fehler im System • 1982"
     }
   ]
 }
