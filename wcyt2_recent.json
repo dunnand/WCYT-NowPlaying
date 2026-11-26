@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T17:40:41",
+  "updatedAt": "2026-11-26T17:43:27",
   "now": {
-    "artist": "Superchunk",
-    "title": "Detroit Has a Skyline",
-    "album": "Here's Where the Strings Come In • 1995",
-    "category": "TUNES"
+    "artist": "U2",
+    "title": "One",
+    "album": "Achtung Baby • 1991",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:43 pm",
-      "artist": "U2",
-      "title": "One"
-    },
     {
       "time": "5:48 pm",
       "artist": "AC/DC",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "5:43 pm",
+      "artist": "U2",
+      "title": "One",
+      "album": "Achtung Baby • 1991"
+    },
     {
       "time": "5:40 pm",
       "artist": "Superchunk",
@@ -164,11 +165,6 @@
       "time": "4:01 pm",
       "artist": "The Kinks",
       "title": "Lola"
-    },
-    {
-      "time": "3:54 pm",
-      "artist": "Grimes",
-      "title": "IDORU"
     }
   ]
 }
