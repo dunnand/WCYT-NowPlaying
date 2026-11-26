@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T09:49:40",
+  "updatedAt": "2026-11-26T09:49:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Clash",
+    "title": "Spanish Bombs",
+    "album": "London Calling • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:49 am",
-      "artist": "The Clash",
-      "title": "Spanish Bombs"
-    },
     {
       "time": "9:53 am",
       "artist": "Cream",
@@ -26,9 +21,20 @@
       "time": "10:01 am",
       "artist": "Crosby, Stills & Nash",
       "title": "Suite: Judy Blue Eyes"
+    },
+    {
+      "time": "10:08 am",
+      "artist": "The Clash",
+      "title": "Tommy Gun"
     }
   ],
   "recent": [
+    {
+      "time": "9:49 am",
+      "artist": "The Clash",
+      "title": "Spanish Bombs",
+      "album": "London Calling • 1979"
+    },
     {
       "time": "9:45 am",
       "artist": "Taylor Swift",
@@ -172,12 +178,6 @@
       "artist": "Vampire Weekend",
       "title": "Run",
       "album": "Contra • 2010"
-    },
-    {
-      "time": "8:07 am",
-      "artist": "Portishead",
-      "title": "Sour Times",
-      "album": "Dummy • 1994"
     }
   ]
 }
