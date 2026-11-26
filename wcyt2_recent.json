@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T00:45:45",
+  "updatedAt": "2026-11-26T00:51:39",
   "now": {
-    "artist": "Tom Waits",
-    "title": "Day After Tomorrow",
-    "album": "Real Gone • 2004",
+    "artist": "Jamie Foxx",
+    "title": "Fly Love",
+    "album": "Rio Soundtrack • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:51 am",
-      "artist": "Jamie Foxx",
-      "title": "Fly Love"
-    },
     {
       "time": "12:54 am",
       "artist": "The Beatles",
@@ -26,9 +21,20 @@
       "time": "1:01 am",
       "artist": "Usher",
       "title": "Numb"
+    },
+    {
+      "time": "1:05 am",
+      "artist": "Sufjan Stevens",
+      "title": "The Dress Looks Nice on You"
     }
   ],
   "recent": [
+    {
+      "time": "12:51 am",
+      "artist": "Jamie Foxx",
+      "title": "Fly Love",
+      "album": "Rio Soundtrack • 2011"
+    },
     {
       "time": "12:45 am",
       "artist": "Tom Waits",
@@ -172,12 +178,6 @@
       "artist": "St. Vincent",
       "title": "Los Ageless",
       "album": "Masseduction • 2018"
-    },
-    {
-      "time": "11:06 pm",
-      "artist": "Bob Dylan",
-      "title": "Subterranean Homesick Blues",
-      "album": "Bringing It All Back Home • 1965"
     }
   ]
 }
