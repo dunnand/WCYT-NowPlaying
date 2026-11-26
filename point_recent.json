@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T16:13:28",
+  "updatedAt": "2026-11-26T16:13:39",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Dummy",
+    "title": "Touch the Perfect Speed",
+    "album": "do you love the color of the sky? • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:13 pm",
-      "artist": "Dummy",
-      "title": "Touch the Perfect Speed"
-    },
     {
       "time": "4:18 pm",
       "artist": "Alabama Shakes",
@@ -21,9 +16,20 @@
       "time": "4:21 pm",
       "artist": "Wishy",
       "title": "Covergirl"
+    },
+    {
+      "time": "4:25 pm",
+      "artist": "strongboi",
+      "title": "dizzy"
     }
   ],
   "recent": [
+    {
+      "time": "4:13 pm",
+      "artist": "Dummy",
+      "title": "Touch the Perfect Speed",
+      "album": "do you love the color of the sky? • 2026"
+    },
     {
       "time": "4:08 pm",
       "artist": "Sigur Ros",
@@ -167,12 +173,6 @@
       "artist": "Misfits",
       "title": "Hybrid Moments",
       "album": "Static Age • 1997"
-    },
-    {
-      "time": "2:42 pm",
-      "artist": "boygenius",
-      "title": "Salt in the Wound",
-      "album": "boygenius • 2018"
     }
   ]
 }
