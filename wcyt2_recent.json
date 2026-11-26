@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T20:01:39",
+  "updatedAt": "2026-11-25T20:01:49",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Vampire Weekend",
+    "title": "White Sky",
+    "album": "Contra • 2010",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:01 pm",
-      "artist": "Vampire Weekend",
-      "title": "White Sky"
-    },
     {
       "time": "8:04 pm",
       "artist": "Social Distortion",
@@ -26,9 +21,20 @@
       "time": "8:14 pm",
       "artist": "Peter Gabriel",
       "title": "Big Time"
+    },
+    {
+      "time": "8:18 pm",
+      "artist": "Pet Shop Boys",
+      "title": "What Have I Done to Deserve This?"
     }
   ],
   "recent": [
+    {
+      "time": "8:01 pm",
+      "artist": "Vampire Weekend",
+      "title": "White Sky",
+      "album": "Contra • 2010"
+    },
     {
       "time": "7:57 pm",
       "artist": "Rascal Flatts",
@@ -149,11 +155,6 @@
       "time": "6:14 pm",
       "artist": "They Might Be Giants",
       "title": "Particle Man"
-    },
-    {
-      "time": "6:10 pm",
-      "artist": "Rod Stewart",
-      "title": "Ooh La La"
     }
   ]
 }
