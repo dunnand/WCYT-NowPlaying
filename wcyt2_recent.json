@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T21:09:45",
+  "updatedAt": "2026-11-25T21:12:37",
   "now": {
-    "artist": "Green Day",
-    "title": "Chump",
-    "album": "Dookie • 1994",
-    "category": "AUDIO"
+    "artist": "Sleater-Kinney",
+    "title": "Dig Me Out",
+    "album": "Dig Me Out • 1997",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:12 pm",
-      "artist": "Sleater",
-      "title": "Kinney - Dig Me Out"
-    },
     {
       "time": "9:15 pm",
       "artist": "The Police",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:12 pm",
+      "artist": "Sleater-Kinney",
+      "title": "Dig Me Out",
+      "album": "Dig Me Out • 1997"
+    },
     {
       "time": "9:09 pm",
       "artist": "Green Day",
@@ -166,11 +167,6 @@
       "time": "7:17 pm",
       "artist": "Kraftwerk",
       "title": "Numbers"
-    },
-    {
-      "time": "7:13 pm",
-      "artist": "Journey",
-      "title": "Faithfully"
     }
   ]
 }
