@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T03:18:02",
+  "updatedAt": "2026-11-26T03:22:06",
   "now": {
-    "artist": "Billy Joel",
-    "title": "I Go To Extremes",
-    "album": "Storm Front • 1989",
+    "artist": "Taylor Swift",
+    "title": "Glitch",
+    "album": "Midnights 3am • 2022",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:22 am",
-      "artist": "Taylor Swift",
-      "title": "Glitch"
-    },
     {
       "time": "3:24 am",
       "artist": "The Beatles",
@@ -21,9 +16,20 @@
       "time": "3:28 am",
       "artist": "Buffalo Springfield",
       "title": "Mr. Soul"
+    },
+    {
+      "time": "3:31 am",
+      "artist": "The Beatles",
+      "title": "One After 909"
     }
   ],
   "recent": [
+    {
+      "time": "3:22 am",
+      "artist": "Taylor Swift",
+      "title": "Glitch",
+      "album": "Midnights 3am • 2022"
+    },
     {
       "time": "3:18 am",
       "artist": "Billy Joel",
@@ -167,12 +173,6 @@
       "artist": "Sheryl Crow",
       "title": "A Change Would Do You Good",
       "album": "Tuesday Night Music Club • 1997"
-    },
-    {
-      "time": "1:55 am",
-      "artist": "The Beatles",
-      "title": "Let It Be",
-      "album": "Let It Be • 1970"
     }
   ]
 }
