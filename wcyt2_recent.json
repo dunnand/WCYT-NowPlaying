@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T23:57:58",
+  "updatedAt": "2026-11-26T00:01:51",
   "now": {
-    "artist": "Alanis Morissette",
-    "title": "You Learn",
-    "album": "Jagged Little Pill • 1996",
+    "artist": "Serge Gainsbourg",
+    "title": "Le poinconneur des Lilas",
+    "album": "Du chant  la une! • 1958",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:01 am",
-      "artist": "Serge Gainsbourg",
-      "title": "Le poinconneur des Lilas"
-    },
     {
       "time": "12:04 am",
       "artist": "Spoon",
@@ -26,9 +21,20 @@
       "time": "12:13 am",
       "artist": "Taylor Swift",
       "title": "Delicate"
+    },
+    {
+      "time": "12:16 am",
+      "artist": "Cat Power",
+      "title": "Metal Heart"
     }
   ],
   "recent": [
+    {
+      "time": "12:01 am",
+      "artist": "Serge Gainsbourg",
+      "title": "Le poinconneur des Lilas",
+      "album": "Du chant  la une! • 1958"
+    },
     {
       "time": "11:57 pm",
       "artist": "Alanis Morissette",
@@ -164,11 +170,6 @@
       "time": "10:07 pm",
       "artist": "The Unicorns",
       "title": "Rocket Ship"
-    },
-    {
-      "time": "10:05 pm",
-      "artist": "Connie Francis",
-      "title": "My Happiness"
     }
   ]
 }
