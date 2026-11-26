@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T12:24:45",
+  "updatedAt": "2026-11-26T12:29:59",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "Traffic",
-    "album": "ANIMA • 2019",
-    "category": "TUNES"
+    "artist": "Nirvana",
+    "title": "Aneurysm",
+    "album": "",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:30 pm",
-      "artist": "Nirvana",
-      "title": "Aneurysm"
-    },
     {
       "time": "12:34 pm",
       "artist": "The Jon Spencer Blues Explosion",
@@ -21,9 +16,25 @@
       "time": "12:40 pm",
       "artist": "Matthew Wilder",
       "title": "Break My Stride"
+    },
+    {
+      "time": "12:42 pm",
+      "artist": "New Order",
+      "title": "Your Silent Face"
+    },
+    {
+      "time": "12:48 pm",
+      "artist": "Turnstile",
+      "title": "DULL"
     }
   ],
   "recent": [
+    {
+      "time": "12:29 pm",
+      "artist": "Nirvana",
+      "title": "Aneurysm",
+      "album": ""
+    },
     {
       "time": "12:24 pm",
       "artist": "Thom Yorke",
@@ -154,11 +165,6 @@
       "time": "10:37 am",
       "artist": "Enigma",
       "title": "Return To Innocence"
-    },
-    {
-      "time": "10:31 am",
-      "artist": "Concrete Blonde",
-      "title": "Bloodletting (The Vampire Song)"
     }
   ]
 }
