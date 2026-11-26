@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T03:33:50",
+  "updatedAt": "2026-11-26T03:35:55",
   "now": {
-    "artist": "Cat Stevens",
-    "title": "I'm Gonna Get a Gun",
-    "album": "Matthew and Son • 1967",
+    "artist": "The Beatles",
+    "title": "The Long and Winding Road",
+    "album": "Let It Be • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:35 am",
-      "artist": "The Beatles",
-      "title": "The Long and Winding Road"
-    },
     {
       "time": "3:39 am",
       "artist": "Modest Mouse",
@@ -26,9 +21,20 @@
       "time": "3:45 am",
       "artist": "Spoon",
       "title": "All the Pretty Girls Go to the City"
+    },
+    {
+      "time": "3:49 am",
+      "artist": "Cat Stevens",
+      "title": "Matthew and Son"
     }
   ],
   "recent": [
+    {
+      "time": "3:35 am",
+      "artist": "The Beatles",
+      "title": "The Long and Winding Road",
+      "album": "Let It Be • 1970"
+    },
     {
       "time": "3:33 am",
       "artist": "Cat Stevens",
@@ -172,12 +178,6 @@
       "artist": "Slowdive",
       "title": "Machine Gun",
       "album": "Souvlaki • 1993"
-    },
-    {
-      "time": "2:16 am",
-      "artist": "Grimes",
-      "title": "Flesh Without Blood",
-      "album": "Art Angels • 2015"
     }
   ]
 }
