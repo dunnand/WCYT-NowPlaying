@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T21:27:18",
+  "updatedAt": "2026-11-25T21:30:03",
   "now": {
-    "artist": "Talking Heads",
-    "title": "Uh-Oh, Love Comes to Town",
-    "album": "Talking Heads: 77 • 1977",
+    "artist": "Bob Dylan",
+    "title": "Pledging My Time",
+    "album": "Pledging My Time • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:30 pm",
-      "artist": "Bob Dylan",
-      "title": "Pledging My Time"
-    },
     {
       "time": "9:34 pm",
       "artist": "Television",
@@ -26,9 +21,20 @@
       "time": "9:55 pm",
       "artist": "Television",
       "title": "See No Evil"
+    },
+    {
+      "time": "9:59 pm",
+      "artist": "Yo La Tengo",
+      "title": "Nowhere Near"
     }
   ],
   "recent": [
+    {
+      "time": "9:30 pm",
+      "artist": "Bob Dylan",
+      "title": "Pledging My Time",
+      "album": "Pledging My Time • 1966"
+    },
     {
       "time": "9:27 pm",
       "artist": "Talking Heads",
@@ -171,11 +177,6 @@
       "time": "7:37 pm",
       "artist": "Bob Dylan",
       "title": "One of Us Must Know (Sooner or Later)  (19"
-    },
-    {
-      "time": "7:32 pm",
-      "artist": "Rage Against the Machine",
-      "title": "Renegades of Funk"
     }
   ]
 }
