@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T00:08:25",
+  "updatedAt": "2026-11-26T00:08:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Temporary Like Achilles",
+    "album": "Blonde on Blonde • 1966",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 am",
-      "artist": "Bob Dylan",
-      "title": "Temporary Like Achilles"
-    },
     {
       "time": "12:13 am",
       "artist": "Taylor Swift",
@@ -26,9 +21,20 @@
       "time": "12:20 am",
       "artist": "Dave Matthews Band",
       "title": "Ants Marching"
+    },
+    {
+      "time": "12:25 am",
+      "artist": "Peter Schilling",
+      "title": "Major Tom (Coming Home)"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "Bob Dylan",
+      "title": "Temporary Like Achilles",
+      "album": "Blonde on Blonde • 1966"
+    },
     {
       "time": "12:04 am",
       "artist": "Spoon",
@@ -166,11 +172,6 @@
       "time": "10:13 pm",
       "artist": "Vampire Weekend",
       "title": "Cousins"
-    },
-    {
-      "time": "10:10 pm",
-      "artist": "Bob Dylan",
-      "title": "Song to Woody"
     }
   ]
 }
