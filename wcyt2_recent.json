@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T12:51:10",
+  "updatedAt": "2026-11-26T12:55:06",
   "now": {
     "artist": "The Doors",
-    "title": "Roadhouse Blues",
+    "title": "Waiting for the Sun",
     "album": "Morrison Hotel • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:55 pm",
-      "artist": "The Doors",
-      "title": "Waiting for the Sun"
-    },
     {
       "time": "12:59 pm",
       "artist": "Sister Hazel",
@@ -26,9 +21,20 @@
       "time": "1:06 pm",
       "artist": "The Isley Brothers",
       "title": "Fight the Power, Pts. 1 & 2"
+    },
+    {
+      "time": "1:11 pm",
+      "artist": "Edwyn Collins",
+      "title": "A Girl Like You"
     }
   ],
   "recent": [
+    {
+      "time": "12:55 pm",
+      "artist": "The Doors",
+      "title": "Waiting for the Sun",
+      "album": "Morrison Hotel • 1970"
+    },
     {
       "time": "12:51 pm",
       "artist": "The Doors",
@@ -165,11 +171,6 @@
       "time": "10:56 am",
       "artist": "The Thermals",
       "title": "A Pillar of Salt"
-    },
-    {
-      "time": "10:53 am",
-      "artist": "The Clash",
-      "title": "Train in Vain"
     }
   ]
 }
