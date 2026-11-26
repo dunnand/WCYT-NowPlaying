@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T20:38:21",
+  "updatedAt": "2026-11-25T20:40:06",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Oxford Town",
-    "album": "The Freewheelin Bob Dylan • 1963",
+    "artist": "Talking Heads",
+    "title": "Psycho Killer",
+    "album": "Talking Heads: 77 • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:40 pm",
-      "artist": "Talking Heads",
-      "title": "Psycho Killer"
-    },
     {
       "time": "8:44 pm",
       "artist": "Tori Amos",
@@ -26,9 +21,20 @@
       "time": "8:53 pm",
       "artist": "Train",
       "title": "Drops Of Jupiter (Tell Me)"
+    },
+    {
+      "time": "8:57 pm",
+      "artist": "Sigur Ros",
+      "title": "Vaka (Untitled Track 1)"
     }
   ],
   "recent": [
+    {
+      "time": "8:40 pm",
+      "artist": "Talking Heads",
+      "title": "Psycho Killer",
+      "album": "Talking Heads: 77 • 1977"
+    },
     {
       "time": "8:38 pm",
       "artist": "Bob Dylan",
@@ -159,11 +165,6 @@
       "time": "6:51 pm",
       "artist": "Buddy Holly",
       "title": "Everyday"
-    },
-    {
-      "time": "6:47 pm",
-      "artist": "Tom Petty",
-      "title": "You Don't Know How It Feels"
     }
   ]
 }
