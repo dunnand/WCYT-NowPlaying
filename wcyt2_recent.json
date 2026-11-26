@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T23:05:59",
+  "updatedAt": "2026-11-25T23:06:09",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Bob Dylan",
+    "title": "Subterranean Homesick Blues",
+    "album": "Bringing It All Back Home • 1965",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:06 pm",
-      "artist": "Bob Dylan",
-      "title": "Subterranean Homesick Blues"
-    },
     {
       "time": "11:08 pm",
       "artist": "St. Vincent",
@@ -26,9 +21,20 @@
       "time": "11:16 pm",
       "artist": "Sixpence None The Richer",
       "title": "Kiss Me"
+    },
+    {
+      "time": "11:19 pm",
+      "artist": "Rolling Stones",
+      "title": "She's So Cold"
     }
   ],
   "recent": [
+    {
+      "time": "11:06 pm",
+      "artist": "Bob Dylan",
+      "title": "Subterranean Homesick Blues",
+      "album": "Bringing It All Back Home • 1965"
+    },
     {
       "time": "11:02 pm",
       "artist": "The Killers",
@@ -151,11 +157,6 @@
       "time": "9:04 pm",
       "artist": "Washed Out",
       "title": "All I Know"
-    },
-    {
-      "time": "8:57 pm",
-      "artist": "Sigur Ros",
-      "title": "Vaka (Untitled Track 1)"
     }
   ]
 }
