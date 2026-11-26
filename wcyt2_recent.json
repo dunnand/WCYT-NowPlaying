@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T08:15:54",
+  "updatedAt": "2026-11-26T08:16:25",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "St. Vincent",
+    "title": "The Strangers",
+    "album": "Actor • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "8:16 am",
-      "artist": "St. Vincent",
-      "title": "The Strangers"
-    },
     {
       "time": "8:20 am",
       "artist": "Sufjan Stevens",
@@ -26,9 +21,20 @@
       "time": "8:29 am",
       "artist": "The Magnetic Fields",
       "title": "The One You Really Love"
+    },
+    {
+      "time": "8:32 am",
+      "artist": "Sophie B. Hawkins",
+      "title": "As I Lay Me Down"
     }
   ],
   "recent": [
+    {
+      "time": "8:16 am",
+      "artist": "St. Vincent",
+      "title": "The Strangers",
+      "album": "Actor • 2009"
+    },
     {
       "time": "8:12 am",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Madonna",
       "title": "Papa Don't Preach",
       "album": "True Blue • 1986"
-    },
-    {
-      "time": "6:40 am",
-      "artist": "Malcolm McLaren",
-      "title": "Buffalo Gals",
-      "album": "Duck Rock • 1983"
     }
   ]
 }
