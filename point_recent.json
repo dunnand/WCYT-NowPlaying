@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T14:26:51",
+  "updatedAt": "2026-11-26T14:31:06",
   "now": {
-    "artist": "Snail Mail",
-    "title": "My Maker",
-    "album": "Ricochet • 2026",
+    "artist": "Sufjan Stevens",
+    "title": "Chicago",
+    "album": "Illinois • 2005",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:31 pm",
-      "artist": "Sufjan Stevens",
-      "title": "Chicago"
-    },
     {
       "time": "2:36 pm",
       "artist": "The Smiths",
@@ -26,9 +21,20 @@
       "time": "2:42 pm",
       "artist": "boygenius",
       "title": "Salt in the Wound"
+    },
+    {
+      "time": "2:46 pm",
+      "artist": "Misfits",
+      "title": "Hybrid Moments"
     }
   ],
   "recent": [
+    {
+      "time": "2:31 pm",
+      "artist": "Sufjan Stevens",
+      "title": "Chicago",
+      "album": "Illinois • 2005"
+    },
     {
       "time": "2:26 pm",
       "artist": "Snail Mail",
@@ -172,12 +178,6 @@
       "artist": "Darkside",
       "title": "S.N.C.",
       "album": "Nothing • 2025"
-    },
-    {
-      "time": "12:51 pm",
-      "artist": "The Nerves",
-      "title": "Hanging On The Telephone",
-      "album": "The Nerves • 1976"
     }
   ]
 }
