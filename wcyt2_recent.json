@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-25T20:10:28",
+  "updatedAt": "2026-11-25T20:14:15",
   "now": {
-    "artist": "The Sugarcubes",
-    "title": "Hit",
-    "album": "Stick Around for Joy • 1992",
+    "artist": "Peter Gabriel",
+    "title": "Big Time",
+    "album": "So • 1987",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:14 pm",
-      "artist": "Peter Gabriel",
-      "title": "Big Time"
-    },
     {
       "time": "8:18 pm",
       "artist": "Pet Shop Boys",
@@ -21,9 +16,20 @@
       "time": "8:22 pm",
       "artist": "Taylor Swift",
       "title": "august"
+    },
+    {
+      "time": "8:27 pm",
+      "artist": "Syd Barrett",
+      "title": "Terrapin"
     }
   ],
   "recent": [
+    {
+      "time": "8:14 pm",
+      "artist": "Peter Gabriel",
+      "title": "Big Time",
+      "album": "So • 1987"
+    },
     {
       "time": "8:10 pm",
       "artist": "The Sugarcubes",
@@ -147,11 +153,6 @@
       "time": "6:23 pm",
       "artist": "The Killers",
       "title": "Caution"
-    },
-    {
-      "time": "6:20 pm",
-      "artist": "John Cougar Mellencamp",
-      "title": "Lonely Ol' Night"
     }
   ]
 }
