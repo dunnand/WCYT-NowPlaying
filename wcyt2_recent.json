@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T20:09:20",
+  "updatedAt": "2026-11-26T20:11:54",
   "now": {
-    "artist": "Foo Fighters",
-    "title": "Wind Up",
-    "album": "The Colour and the Shape • 1997",
+    "artist": "Grimes",
+    "title": "Be a Body",
+    "album": "Visions • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:11 pm",
-      "artist": "Grimes",
-      "title": "Be a Body"
-    },
     {
       "time": "8:16 pm",
       "artist": "Santana",
@@ -21,9 +16,20 @@
       "time": "8:20 pm",
       "artist": "The Mars Volta",
       "title": "Inertiatic ESP"
+    },
+    {
+      "time": "8:25 pm",
+      "artist": "Thom Yorke",
+      "title": "Suspirium"
     }
   ],
   "recent": [
+    {
+      "time": "8:11 pm",
+      "artist": "Grimes",
+      "title": "Be a Body",
+      "album": "Visions • 2012"
+    },
     {
       "time": "8:09 pm",
       "artist": "Foo Fighters",
@@ -167,12 +173,6 @@
       "artist": "Big Country",
       "title": "Fields of Fire",
       "album": "The Crossing • 1983"
-    },
-    {
-      "time": "6:37 pm",
-      "artist": "Vertical Horizon",
-      "title": "Everything You Want",
-      "album": "Everything You Want • 1999"
     }
   ]
 }
