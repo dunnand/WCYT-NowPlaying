@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T03:44:40",
+  "updatedAt": "2026-11-27T03:49:16",
   "now": {
-    "artist": "The Velvet Underground",
-    "title": "Rock & Roll",
-    "album": "Loaded • 1970",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Bled White",
+    "album": "XO • 1998",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "3:49 am",
-      "artist": "Elliott Smith",
-      "title": "Bled White"
-    },
     {
       "time": "3:52 am",
       "artist": "Billie Holiday",
@@ -26,9 +21,20 @@
       "time": "3:59 am",
       "artist": "The Jimi Hendrix Experience",
       "title": "Are You Experienced?"
+    },
+    {
+      "time": "4:03 am",
+      "artist": "Thom Yorke",
+      "title": "Has Ended"
     }
   ],
   "recent": [
+    {
+      "time": "3:49 am",
+      "artist": "Elliott Smith",
+      "title": "Bled White",
+      "album": "XO • 1998"
+    },
     {
       "time": "3:44 am",
       "artist": "The Velvet Underground",
@@ -164,11 +170,6 @@
       "time": "1:52 am",
       "artist": "Tina Turner",
       "title": "I Don't Wanna Fight"
-    },
-    {
-      "time": "1:49 am",
-      "artist": "T. Rex",
-      "title": "Metal Guru"
     }
   ]
 }
