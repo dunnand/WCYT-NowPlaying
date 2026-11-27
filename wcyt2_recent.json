@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T03:49:16",
+  "updatedAt": "2026-11-27T03:52:19",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Bled White",
-    "album": "XO • 1998",
-    "category": "TUNES"
+    "artist": "Billie Holiday",
+    "title": "I'll Be Seeing You",
+    "album": "Billie Holiday • 1957",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:52 am",
-      "artist": "Billie Holiday",
-      "title": "I'll Be Seeing You"
-    },
     {
       "time": "3:55 am",
       "artist": "The White Stripes",
@@ -26,9 +21,20 @@
       "time": "4:03 am",
       "artist": "Thom Yorke",
       "title": "Has Ended"
+    },
+    {
+      "time": "4:08 am",
+      "artist": "The Reverend Horton Heat",
+      "title": "Psychobilly Freakout"
     }
   ],
   "recent": [
+    {
+      "time": "3:52 am",
+      "artist": "Billie Holiday",
+      "title": "I'll Be Seeing You",
+      "album": "Billie Holiday • 1957"
+    },
     {
       "time": "3:49 am",
       "artist": "Elliott Smith",
@@ -165,11 +171,6 @@
       "time": "1:56 am",
       "artist": "Songs Ohia",
       "title": "Captain B"
-    },
-    {
-      "time": "1:52 am",
-      "artist": "Tina Turner",
-      "title": "I Don't Wanna Fight"
     }
   ]
 }
