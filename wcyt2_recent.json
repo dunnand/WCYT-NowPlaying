@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T21:09:13",
+  "updatedAt": "2026-11-26T21:09:24",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Brown",
+    "title": "Cold Sweat",
+    "album": "Cold Sweat • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:09 pm",
-      "artist": "James Brown",
-      "title": "Cold Sweat"
-    },
     {
       "time": "9:16 pm",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "9:25 pm",
       "artist": "Queensryche",
       "title": "Silent Lucidity"
+    },
+    {
+      "time": "9:30 pm",
+      "artist": "Elton John",
+      "title": "Little Jeannie"
     }
   ],
   "recent": [
+    {
+      "time": "9:09 pm",
+      "artist": "James Brown",
+      "title": "Cold Sweat",
+      "album": "Cold Sweat • 1967"
+    },
     {
       "time": "9:06 pm",
       "artist": "The Unicorns",
@@ -172,12 +178,6 @@
       "artist": "Taylor Swift",
       "title": "Anti-Hero",
       "album": "Midnights • 2022"
-    },
-    {
-      "time": "7:41 pm",
-      "artist": "Chicago",
-      "title": "You're The Inspiration",
-      "album": "Chicago 17 • 1984"
     }
   ]
 }
