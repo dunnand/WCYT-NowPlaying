@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T07:09:29",
+  "updatedAt": "2026-11-27T07:12:31",
   "now": {
-    "artist": "Vampire Weekend",
-    "title": "Campus",
-    "album": "Vampire Weekend • 2008",
-    "category": "TUNES"
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Hey Joe",
+    "album": "Are You Experienced • 1967",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:12 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Hey Joe"
-    },
     {
       "time": "7:15 am",
       "artist": "Billy Joel",
@@ -26,9 +21,20 @@
       "time": "7:23 am",
       "artist": "Vampire Weekend",
       "title": "Harmony Hall"
+    },
+    {
+      "time": "7:28 am",
+      "artist": "Vampire Weekend",
+      "title": "A-Punk"
     }
   ],
   "recent": [
+    {
+      "time": "7:12 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Hey Joe",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "7:09 am",
       "artist": "Vampire Weekend",
@@ -172,12 +178,6 @@
       "artist": "Rihanna",
       "title": "What's My Name",
       "album": "Loud • 2010"
-    },
-    {
-      "time": "5:47 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Castles Made of Sand",
-      "album": "Axis: Bold as Love • 1967"
     }
   ]
 }
