@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T03:38:58",
+  "updatedAt": "2026-11-27T03:40:49",
   "now": {
-    "artist": "The White Stripes",
-    "title": "You're Pretty Good Looking For A Girl",
-    "album": "De Stijl • 2000",
-    "category": "TUNES"
+    "artist": "The Jimi Hendrix Experience",
+    "title": "All Along the Watchtower",
+    "album": "Electric Ladyland • 1968",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:40 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "All Along the Watchtower"
-    },
     {
       "time": "3:44 am",
       "artist": "The Velvet Underground",
@@ -34,6 +29,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "3:40 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "All Along the Watchtower",
+      "album": "Electric Ladyland • 1968"
+    },
     {
       "time": "3:38 am",
       "artist": "The White Stripes",
@@ -167,11 +168,6 @@
       "time": "1:45 am",
       "artist": "Sturgill Simpson",
       "title": "I Don't Mind"
-    },
-    {
-      "time": "1:41 am",
-      "artist": "The Roots",
-      "title": "Don't Feel Right"
     }
   ]
 }
