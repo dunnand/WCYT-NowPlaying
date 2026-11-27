@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T19:29:56",
+  "updatedAt": "2026-11-26T19:32:59",
   "now": {
-    "artist": "Elliott Smith",
-    "title": "Coming Up Roses",
-    "album": "Elliott Smith • 1995",
-    "category": "TUNES"
+    "artist": "Madonna",
+    "title": "Ray Of Light",
+    "album": "Ray of Light • 1998",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:33 pm",
-      "artist": "Madonna",
-      "title": "Ray Of Light"
-    },
     {
       "time": "7:38 pm",
       "artist": "The Cars",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:32 pm",
+      "artist": "Madonna",
+      "title": "Ray Of Light",
+      "album": "Ray of Light • 1998"
+    },
     {
       "time": "7:29 pm",
       "artist": "Elliott Smith",
@@ -172,12 +173,6 @@
       "artist": "Rufus Wainwright",
       "title": "The Art Teacher",
       "album": "Want Two • 2004"
-    },
-    {
-      "time": "6:01 pm",
-      "artist": "The Stranglers",
-      "title": "Hanging Around",
-      "album": "Rattus Norvegicus • 1977"
     }
   ]
 }
