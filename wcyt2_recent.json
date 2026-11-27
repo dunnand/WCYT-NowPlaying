@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T10:51:11",
+  "updatedAt": "2026-11-27T10:51:21",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Cars",
+    "title": "My Best Friend's Girl",
+    "album": "The Cars • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:51 am",
-      "artist": "The Cars",
-      "title": "My Best Friend's Girl"
-    },
     {
       "time": "10:55 am",
       "artist": "Joni Mitchell",
@@ -31,9 +26,20 @@
       "time": "11:05 am",
       "artist": "Louis Armstrong",
       "title": "A Kiss to Build a Dream On"
+    },
+    {
+      "time": "11:09 am",
+      "artist": "Fall Out Boy",
+      "title": "Thnks Fr Th Mmrs"
     }
   ],
   "recent": [
+    {
+      "time": "10:51 am",
+      "artist": "The Cars",
+      "title": "My Best Friend's Girl",
+      "album": "The Cars • 1978"
+    },
     {
       "time": "10:46 am",
       "artist": "Joni Mitchell",
@@ -177,12 +183,6 @@
       "artist": "Joni Mitchell",
       "title": "Both Sides, Now",
       "album": "Clouds • 1969"
-    },
-    {
-      "time": "9:19 am",
-      "artist": "The Rapture",
-      "title": "House of Jealous Lovers",
-      "album": "Echoes • 2003"
     }
   ]
 }
