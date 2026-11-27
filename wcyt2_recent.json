@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T22:47:33",
+  "updatedAt": "2026-11-26T22:54:40",
   "now": {
-    "artist": "Songs Ohia",
-    "title": "The Black Crow",
-    "album": "The Lioness • 2000",
-    "category": "TUNES"
+    "artist": "James Brown",
+    "title": "It's a Man's Man's World",
+    "album": "It's a Man's Man's Man's World • 1966",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:54 pm",
-      "artist": "James Brown",
-      "title": "It's a Man's Man's World"
-    },
     {
       "time": "10:58 pm",
       "artist": "T. Rex",
@@ -19,6 +14,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:54 pm",
+      "artist": "James Brown",
+      "title": "It's a Man's Man's World",
+      "album": "It's a Man's Man's Man's World • 1966"
+    },
     {
       "time": "10:47 pm",
       "artist": "Songs Ohia",
@@ -159,11 +160,6 @@
       "time": "8:55 pm",
       "artist": "The Jackson 5",
       "title": "I Want You Back"
-    },
-    {
-      "time": "8:51 pm",
-      "artist": "Townes Van Zandt",
-      "title": "If I Needed You"
     }
   ]
 }
