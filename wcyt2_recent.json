@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T16:44:32",
+  "updatedAt": "2026-11-27T16:48:25",
   "now": {
-    "artist": "Chicago",
-    "title": "Saturday In The Park",
-    "album": "Chicago V • 1972",
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Our House",
+    "album": "Dj Vu • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:48 pm",
-      "artist": "Crosby, Stills, Nash & Young",
-      "title": "Our House"
-    },
     {
       "time": "4:51 pm",
       "artist": "Bright Eyes",
@@ -26,9 +21,20 @@
       "time": "5:00 pm",
       "artist": "Elvis Presley",
       "title": "Kentucky Rain"
+    },
+    {
+      "time": "5:03 pm",
+      "artist": "Air",
+      "title": "La Femme d'argent"
     }
   ],
   "recent": [
+    {
+      "time": "4:48 pm",
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Our House",
+      "album": "Dj Vu • 1970"
+    },
     {
       "time": "4:44 pm",
       "artist": "Chicago",
@@ -172,12 +178,6 @@
       "artist": "Beck",
       "title": "Already Dead",
       "album": "Sea Change • 2002"
-    },
-    {
-      "time": "3:07 pm",
-      "artist": "Tinnie Tempah",
-      "title": "Written In The Stars",
-      "album": "Disc-Overy • 2010"
     }
   ]
 }
