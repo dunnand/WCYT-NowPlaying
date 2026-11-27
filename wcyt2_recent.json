@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T13:39:44",
+  "updatedAt": "2026-11-27T13:43:13",
   "now": {
-    "artist": "Sparks",
-    "title": "Amateur Hour",
-    "album": "Kimono My House • 1974",
+    "artist": "Led Zeppelin",
+    "title": "Good Times Bad Times",
+    "album": "Led Zeppelin • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:43 pm",
-      "artist": "Led Zeppelin",
-      "title": "Good Times Bad Times"
-    },
     {
       "time": "1:46 pm",
       "artist": "Bobby Goldsboro",
@@ -26,9 +21,20 @@
       "time": "1:52 pm",
       "artist": "Bonnie Pointer",
       "title": "Heaven Must Have Sent You"
+    },
+    {
+      "time": "1:56 pm",
+      "artist": "Mazzy Star",
+      "title": "Flowers in December"
     }
   ],
   "recent": [
+    {
+      "time": "1:43 pm",
+      "artist": "Led Zeppelin",
+      "title": "Good Times Bad Times",
+      "album": "Led Zeppelin • 1969"
+    },
     {
       "time": "1:39 pm",
       "artist": "Sparks",
@@ -151,11 +157,6 @@
       "time": "11:35 am",
       "artist": "Chappell Roan",
       "title": "Red Wine Supernova"
-    },
-    {
-      "time": "11:31 am",
-      "artist": "The Cult",
-      "title": "She Sells Sanctuary"
     }
   ]
 }
