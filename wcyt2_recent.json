@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T02:35:31",
+  "updatedAt": "2026-11-27T02:35:41",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "T. Rex",
+    "title": "Ride a White Swan",
+    "album": "T. Rex • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:35 am",
-      "artist": "T. Rex",
-      "title": "Ride a White Swan"
-    },
     {
       "time": "2:37 am",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "2:43 am",
       "artist": "The Jimi Hendrix Experience",
       "title": "Voodoo Child (Slight Return)"
+    },
+    {
+      "time": "2:48 am",
+      "artist": "Van Morrison",
+      "title": "Crazy Love"
     }
   ],
   "recent": [
+    {
+      "time": "2:35 am",
+      "artist": "T. Rex",
+      "title": "Ride a White Swan",
+      "album": "T. Rex • 1970"
+    },
     {
       "time": "2:32 am",
       "artist": "John Prine",
@@ -172,12 +178,6 @@
       "artist": "Fats Domino",
       "title": "Blue Monday",
       "album": "This Is Fats Domino! • 1956"
-    },
-    {
-      "time": "12:53 am",
-      "artist": "Modest Mouse",
-      "title": "Other People's Lives",
-      "album": "Building Nothing Out of Something • 1999"
     }
   ]
 }
