@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T12:06:45",
+  "updatedAt": "2026-11-27T12:13:20",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Babe I'm Gonna Leave You",
-    "album": "Led Zeppelin • 1969",
+    "artist": "Taylor Swift",
+    "title": "22",
+    "album": "Red • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:13 pm",
-      "artist": "Taylor Swift",
-      "title": "22"
-    },
     {
       "time": "12:17 pm",
       "artist": "Alanis Morissette",
@@ -21,9 +16,20 @@
       "time": "12:21 pm",
       "artist": "Cat Power",
       "title": "King Rides By"
+    },
+    {
+      "time": "12:25 pm",
+      "artist": "Madonna",
+      "title": "Express Yourself"
     }
   ],
   "recent": [
+    {
+      "time": "12:13 pm",
+      "artist": "Taylor Swift",
+      "title": "22",
+      "album": "Red • 2012"
+    },
     {
       "time": "12:06 pm",
       "artist": "Led Zeppelin",
@@ -167,12 +173,6 @@
       "artist": "Blondie",
       "title": "Sunday Girl",
       "album": "Parallel Lines • 1978"
-    },
-    {
-      "time": "10:40 am",
-      "artist": "Lizzo",
-      "title": "Special",
-      "album": "Special • 2022"
     }
   ]
 }
