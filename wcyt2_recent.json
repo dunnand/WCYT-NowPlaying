@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T11:12:25",
+  "updatedAt": "2026-11-27T11:12:34",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Led Zeppelin",
+    "title": "What Is and What Should Never Be",
+    "album": "Led Zeppelin II • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:12 am",
-      "artist": "Led Zeppelin",
-      "title": "What Is and What Should Never Be"
-    },
     {
       "time": "11:17 am",
       "artist": "Vampire Weekend",
@@ -26,9 +21,20 @@
       "time": "11:24 am",
       "artist": "Madonna",
       "title": "Deeper And Deeper"
+    },
+    {
+      "time": "11:28 am",
+      "artist": "UB40",
+      "title": "Red Red Wine"
     }
   ],
   "recent": [
+    {
+      "time": "11:12 am",
+      "artist": "Led Zeppelin",
+      "title": "What Is and What Should Never Be",
+      "album": "Led Zeppelin II • 1969"
+    },
     {
       "time": "11:09 am",
       "artist": "Fall Out Boy",
@@ -172,12 +178,6 @@
       "artist": "American Football",
       "title": "Uncomfortably Numb (feat. Hayley Williams)",
       "album": "American Football •"
-    },
-    {
-      "time": "9:43 am",
-      "artist": "Wipers",
-      "title": "Mystery",
-      "album": "Is This Real? • 1980"
     }
   ]
 }
