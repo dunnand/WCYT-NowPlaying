@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T08:06:01",
+  "updatedAt": "2026-11-27T08:09:46",
   "now": {
-    "artist": "The Carpenters",
-    "title": "Goodbye To Love",
-    "album": "A Song for You • 1972",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "The Wind Cries Mary",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:09 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "The Wind Cries Mary"
-    },
     {
       "time": "8:13 am",
       "artist": "Paul McCartney and Wings",
@@ -26,9 +21,20 @@
       "time": "8:20 am",
       "artist": "Sturgill Simpson",
       "title": "Sing Along"
+    },
+    {
+      "time": "8:23 am",
+      "artist": "Wolf Parade",
+      "title": "I'll Believe In Anything"
     }
   ],
   "recent": [
+    {
+      "time": "8:09 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "The Wind Cries Mary",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "8:06 am",
       "artist": "The Carpenters",
@@ -172,12 +178,6 @@
       "artist": "Sharon Jones and the Dap-Kings",
       "title": "Matter of Time",
       "album": "Soul of a Woman • 2017"
-    },
-    {
-      "time": "6:37 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Crosstown Traffic",
-      "album": "Electric Ladyland • 1968"
     }
   ]
 }
