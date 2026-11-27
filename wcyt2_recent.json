@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T17:43:07",
+  "updatedAt": "2026-11-27T17:46:06",
   "now": {
-    "artist": "Olivia Newton-John",
-    "title": "Hopelessly Devoted To You",
-    "album": "Grease Soundtrack • 1978",
+    "artist": "Leonard Cohen",
+    "title": "One of Us Cannot Be Wrong",
+    "album": "Songs of Leonard Cohen • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:46 pm",
-      "artist": "Leonard Cohen",
-      "title": "One of Us Cannot Be Wrong"
-    },
     {
       "time": "5:50 pm",
       "artist": "Parliament",
@@ -26,9 +21,20 @@
       "time": "6:00 pm",
       "artist": "Paul McCartney",
       "title": "Another Day"
+    },
+    {
+      "time": "6:04 pm",
+      "artist": "Another Sunny Day",
+      "title": "You Should All Be"
     }
   ],
   "recent": [
+    {
+      "time": "5:46 pm",
+      "artist": "Leonard Cohen",
+      "title": "One of Us Cannot Be Wrong",
+      "album": "Songs of Leonard Cohen • 1967"
+    },
     {
       "time": "5:43 pm",
       "artist": "Olivia Newton-John",
@@ -172,12 +178,6 @@
       "artist": "Franz Ferdinand",
       "title": "No You Girls",
       "album": "Tonight Franz Ferdinand • 2007"
-    },
-    {
-      "time": "4:12 pm",
-      "artist": "Jerry Lee Lewis",
-      "title": "Great Balls of Fire",
-      "album": "Single • 1957"
     }
   ]
 }
