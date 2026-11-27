@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T03:27:19",
+  "updatedAt": "2026-11-27T03:27:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Van Morrison",
+    "title": "Into the Mystic",
+    "album": "Moondance • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:27 am",
-      "artist": "Van Morrison",
-      "title": "Into the Mystic"
-    },
     {
       "time": "3:31 am",
       "artist": "The Velvet Underground",
@@ -26,9 +21,20 @@
       "time": "3:40 am",
       "artist": "The Jimi Hendrix Experience",
       "title": "All Along the Watchtower"
+    },
+    {
+      "time": "3:44 am",
+      "artist": "The Velvet Underground",
+      "title": "Rock & Roll"
     }
   ],
   "recent": [
+    {
+      "time": "3:27 am",
+      "artist": "Van Morrison",
+      "title": "Into the Mystic",
+      "album": "Moondance • 1970"
+    },
     {
       "time": "3:24 am",
       "artist": "Miley Cyrus",
@@ -159,11 +165,6 @@
       "time": "1:33 am",
       "artist": "U2",
       "title": "All Because Of You"
-    },
-    {
-      "time": "1:28 am",
-      "artist": "Little Simz",
-      "title": "Introvert"
     }
   ]
 }
