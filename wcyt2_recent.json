@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T00:25:04",
+  "updatedAt": "2026-11-27T00:29:18",
   "now": {
-    "artist": "Guns N' Roses",
-    "title": "Welcome to the Jungle",
-    "album": "Appetite for Destruction • 1987",
+    "artist": "Grimes",
+    "title": "My Name Is Dark",
+    "album": "Miss Anthropocene • 2020",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:29 am",
-      "artist": "Grimes",
-      "title": "My Name Is Dark"
-    },
     {
       "time": "12:35 am",
       "artist": "T. Rex",
@@ -21,9 +16,20 @@
       "time": "12:40 am",
       "artist": "James Brown",
       "title": "Papa's Got a Brand New Bag, Part 1"
+    },
+    {
+      "time": "12:42 am",
+      "artist": "T. Rex",
+      "title": "Jeepster"
     }
   ],
   "recent": [
+    {
+      "time": "12:29 am",
+      "artist": "Grimes",
+      "title": "My Name Is Dark",
+      "album": "Miss Anthropocene • 2020"
+    },
     {
       "time": "12:25 am",
       "artist": "Guns N' Roses",
@@ -167,12 +173,6 @@
       "artist": "Tom Petty & The Heartbreakers",
       "title": "Learning To Fly",
       "album": "Tom Petty & The Heartbreakers Greatest Hits • 1991"
-    },
-    {
-      "time": "10:00 pm",
-      "artist": "Townes Van Zandt",
-      "title": "To Live Is to Fly",
-      "album": "The Late Great Townes Van Zandt • 1972"
     }
   ]
 }
