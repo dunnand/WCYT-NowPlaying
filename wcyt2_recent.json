@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T12:45:45",
+  "updatedAt": "2026-11-27T12:52:09",
   "now": {
-    "artist": "Led Zeppelin",
-    "title": "Dazed and Confused",
-    "album": "Led Zeppelin • 1969",
+    "artist": "George Harrison",
+    "title": "My Sweet Lord",
+    "album": "All Things Must Pass • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:52 pm",
-      "artist": "George Harrison",
-      "title": "My Sweet Lord"
-    },
     {
       "time": "12:56 pm",
       "artist": "Dave Matthews Band",
@@ -26,9 +21,20 @@
       "time": "1:04 pm",
       "artist": "Arcade Fire",
       "title": "Neighborhood #4 (7 Kettles)"
+    },
+    {
+      "time": "1:08 pm",
+      "artist": "DJ Shadow",
+      "title": "You Can't Go Home Again"
     }
   ],
   "recent": [
+    {
+      "time": "12:52 pm",
+      "artist": "George Harrison",
+      "title": "My Sweet Lord",
+      "album": "All Things Must Pass • 1970"
+    },
     {
       "time": "12:45 pm",
       "artist": "Led Zeppelin",
@@ -172,12 +178,6 @@
       "artist": "U2",
       "title": "Mysterious Ways",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "11:17 am",
-      "artist": "Vampire Weekend",
-      "title": "Worship You",
-      "album": "Modern Vampires Of The City • 2013"
     }
   ]
 }
