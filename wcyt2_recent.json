@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T22:14:44",
+  "updatedAt": "2026-11-26T22:17:23",
   "now": {
-    "artist": "James Brown",
-    "title": "I Got You (I Feel Good)",
-    "album": "Single • 1965",
+    "artist": "Taylor Swift",
+    "title": "Shake It Off",
+    "album": "1989 • 2014",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:17 pm",
-      "artist": "Taylor Swift",
-      "title": "Shake It Off"
-    },
     {
       "time": "10:21 pm",
       "artist": "Pavement",
@@ -21,9 +16,20 @@
       "time": "10:24 pm",
       "artist": "Eric's Trip",
       "title": "Behind The Garage"
+    },
+    {
+      "time": "10:27 pm",
+      "artist": "Foreigner",
+      "title": "Urgent"
     }
   ],
   "recent": [
+    {
+      "time": "10:17 pm",
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "album": "1989 • 2014"
+    },
     {
       "time": "10:14 pm",
       "artist": "James Brown",
@@ -155,11 +161,6 @@
       "time": "8:25 pm",
       "artist": "Thom Yorke",
       "title": "Suspirium"
-    },
-    {
-      "time": "8:20 pm",
-      "artist": "The Mars Volta",
-      "title": "Inertiatic ESP"
     }
   ]
 }
