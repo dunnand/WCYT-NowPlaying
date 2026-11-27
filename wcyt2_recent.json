@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T02:14:24",
+  "updatedAt": "2026-11-27T02:18:07",
   "now": {
-    "artist": "R.E.M.",
-    "title": "Shiny Happy People",
-    "album": "Out of Time • 1991",
-    "category": "AUDIO"
+    "artist": "The Magnetic Fields",
+    "title": "Papa Was a Rodeo",
+    "album": "69 Love Songs • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "2:18 am",
-      "artist": "The Magnetic Fields",
-      "title": "Papa Was a Rodeo"
-    },
     {
       "time": "2:23 am",
       "artist": "Joan Jett & The Blackhearts",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "2:18 am",
+      "artist": "The Magnetic Fields",
+      "title": "Papa Was a Rodeo",
+      "album": "69 Love Songs • 1999"
+    },
     {
       "time": "2:14 am",
       "artist": "R.E.M.",
@@ -172,12 +173,6 @@
       "artist": "T. Rex",
       "title": "Jeepster",
       "album": "Electric Warrior • 1971"
-    },
-    {
-      "time": "12:40 am",
-      "artist": "James Brown",
-      "title": "Papa's Got a Brand New Bag, Part 1",
-      "album": "Single • 1965"
     }
   ]
 }
