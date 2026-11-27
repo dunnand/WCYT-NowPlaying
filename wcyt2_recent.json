@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T00:42:05",
+  "updatedAt": "2026-11-27T00:42:16",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "T. Rex",
+    "title": "Jeepster",
+    "album": "Electric Warrior • 1971",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:42 am",
-      "artist": "T. Rex",
-      "title": "Jeepster"
-    },
     {
       "time": "12:46 am",
       "artist": "James Brown",
@@ -31,9 +26,20 @@
       "time": "1:00 am",
       "artist": "Fats Domino",
       "title": "Blue Monday"
+    },
+    {
+      "time": "1:02 am",
+      "artist": "The Dandy Warhols",
+      "title": "We Used to Be Friends"
     }
   ],
   "recent": [
+    {
+      "time": "12:42 am",
+      "artist": "T. Rex",
+      "title": "Jeepster",
+      "album": "Electric Warrior • 1971"
+    },
     {
       "time": "12:40 am",
       "artist": "James Brown",
@@ -177,12 +183,6 @@
       "artist": "James Brown",
       "title": "I Got You (I Feel Good)",
       "album": "Single • 1965"
-    },
-    {
-      "time": "10:10 pm",
-      "artist": "Spoon",
-      "title": "Stay Don't Go",
-      "album": "Kill The Moonlight • 2002"
     }
   ]
 }
