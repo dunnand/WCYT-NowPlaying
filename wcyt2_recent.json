@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T00:12:10",
+  "updatedAt": "2026-11-27T00:12:20",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Grimes",
+    "title": "Vowels = Space and Time",
+    "album": "Visions • 2012",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:12 am",
-      "artist": "Grimes",
-      "title": "Vowels = Space and Time"
-    },
     {
       "time": "12:16 am",
       "artist": "The Flaming Lips",
@@ -26,9 +21,20 @@
       "time": "12:22 am",
       "artist": "George Michael",
       "title": "Faith"
+    },
+    {
+      "time": "12:25 am",
+      "artist": "Guns N' Roses",
+      "title": "Welcome to the Jungle"
     }
   ],
   "recent": [
+    {
+      "time": "12:12 am",
+      "artist": "Grimes",
+      "title": "Vowels = Space and Time",
+      "album": "Visions • 2012"
+    },
     {
       "time": "12:08 am",
       "artist": "The White Stripes",
@@ -172,12 +178,6 @@
       "artist": "Yeasayer",
       "title": "2080",
       "album": "All Hour Cymbals • 2007"
-    },
-    {
-      "time": "9:40 pm",
-      "artist": "Yola",
-      "title": "I Don't Wanna Lie",
-      "album": "Stand for Myself • 2021"
     }
   ]
 }
