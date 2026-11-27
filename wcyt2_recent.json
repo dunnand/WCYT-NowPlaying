@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T19:07:24",
+  "updatedAt": "2026-11-26T19:10:49",
   "now": {
-    "artist": "The Who",
-    "title": "The Real Me",
-    "album": "Quadrophenia • 1973",
+    "artist": "Sister Hazel",
+    "title": "All For You",
+    "album": "...Somewhere More Familiar • 1997",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:10 pm",
-      "artist": "Sister Hazel",
-      "title": "All For You"
-    },
     {
       "time": "7:14 pm",
       "artist": "Penguins",
@@ -21,9 +16,20 @@
       "time": "7:17 pm",
       "artist": "TV on the Radio",
       "title": "Young Liars"
+    },
+    {
+      "time": "7:22 pm",
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There"
     }
   ],
   "recent": [
+    {
+      "time": "7:10 pm",
+      "artist": "Sister Hazel",
+      "title": "All For You",
+      "album": "...Somewhere More Familiar • 1997"
+    },
     {
       "time": "7:07 pm",
       "artist": "The Who",
@@ -167,12 +173,6 @@
       "artist": "U2",
       "title": "One",
       "album": "Achtung Baby • 1991"
-    },
-    {
-      "time": "5:40 pm",
-      "artist": "Superchunk",
-      "title": "Detroit Has a Skyline",
-      "album": "Here's Where the Strings Come In • 1995"
     }
   ]
 }
