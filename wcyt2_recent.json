@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T15:11:24",
+  "updatedAt": "2026-11-27T15:14:38",
   "now": {
-    "artist": "Beck",
-    "title": "Already Dead",
-    "album": "Sea Change • 2002",
-    "category": "TUNES"
+    "artist": "Broadcast",
+    "title": "America's Boy",
+    "album": "Tender Buttons • 2005",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:14 pm",
-      "artist": "Broadcast",
-      "title": "America's Boy"
-    },
     {
       "time": "3:18 pm",
       "artist": "Rihanna",
@@ -26,9 +21,20 @@
       "time": "3:26 pm",
       "artist": "Neutral Milk Hotel",
       "title": "The King of Carrot Flowers Pt. One"
+    },
+    {
+      "time": "3:28 pm",
+      "artist": "Peter Gabriel",
+      "title": "In Your Eyes"
     }
   ],
   "recent": [
+    {
+      "time": "3:14 pm",
+      "artist": "Broadcast",
+      "title": "America's Boy",
+      "album": "Tender Buttons • 2005"
+    },
     {
       "time": "3:11 pm",
       "artist": "Beck",
@@ -165,11 +171,6 @@
       "time": "1:01 pm",
       "artist": "Taylor Swift",
       "title": "Cruel Summer"
-    },
-    {
-      "time": "12:56 pm",
-      "artist": "Dave Matthews Band",
-      "title": "Stay (Wasting Time)"
     }
   ]
 }
