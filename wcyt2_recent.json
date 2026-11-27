@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T07:12:31",
+  "updatedAt": "2026-11-27T07:15:44",
   "now": {
-    "artist": "The Jimi Hendrix Experience",
-    "title": "Hey Joe",
-    "album": "Are You Experienced • 1967",
+    "artist": "Billy Joel",
+    "title": "She's Always A Woman",
+    "album": "The Stranger • 1977",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:15 am",
-      "artist": "Billy Joel",
-      "title": "She's Always A Woman"
-    },
     {
       "time": "7:19 am",
       "artist": "Tom Cochrane",
@@ -26,9 +21,20 @@
       "time": "7:28 am",
       "artist": "Vampire Weekend",
       "title": "A-Punk"
+    },
+    {
+      "time": "7:30 am",
+      "artist": "Songs Ohia",
+      "title": "Lioness"
     }
   ],
   "recent": [
+    {
+      "time": "7:15 am",
+      "artist": "Billy Joel",
+      "title": "She's Always A Woman",
+      "album": "The Stranger • 1977"
+    },
     {
       "time": "7:12 am",
       "artist": "The Jimi Hendrix Experience",
@@ -172,12 +178,6 @@
       "artist": "Tears For Fears",
       "title": "Break It Down Again",
       "album": "Elemental • 1993"
-    },
-    {
-      "time": "5:49 am",
-      "artist": "Rihanna",
-      "title": "What's My Name",
-      "album": "Loud • 2010"
     }
   ]
 }
