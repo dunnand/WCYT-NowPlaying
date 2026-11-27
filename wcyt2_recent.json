@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T19:29:46",
+  "updatedAt": "2026-11-26T19:29:56",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Elliott Smith",
+    "title": "Coming Up Roses",
+    "album": "Elliott Smith • 1995",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:30 pm",
-      "artist": "Elliott Smith",
-      "title": "Coming Up Roses"
-    },
     {
       "time": "7:33 pm",
       "artist": "Madonna",
@@ -26,9 +21,20 @@
       "time": "7:41 pm",
       "artist": "Chicago",
       "title": "You're The Inspiration"
+    },
+    {
+      "time": "7:45 pm",
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero"
     }
   ],
   "recent": [
+    {
+      "time": "7:29 pm",
+      "artist": "Elliott Smith",
+      "title": "Coming Up Roses",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "7:25 pm",
       "artist": "Grimes",
@@ -172,12 +178,6 @@
       "artist": "The Stranglers",
       "title": "Hanging Around",
       "album": "Rattus Norvegicus • 1977"
-    },
-    {
-      "time": "5:58 pm",
-      "artist": "The Specials",
-      "title": "You're Wondering Now",
-      "album": "Specials • 1979"
     }
   ]
 }
