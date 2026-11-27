@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T05:04:57",
+  "updatedAt": "2026-11-27T05:05:38",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Seatbelts",
+    "title": "Tank!",
+    "album": "Cowboy Bebop • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:05 am",
-      "artist": "Seatbelts",
-      "title": "Tank!"
-    },
     {
       "time": "5:09 am",
       "artist": "Missing Persons",
@@ -26,9 +21,20 @@
       "time": "5:16 am",
       "artist": "Arctic Monkeys",
       "title": "Body Paint"
+    },
+    {
+      "time": "5:20 am",
+      "artist": "The Shins",
+      "title": "Fighting in a Sack"
     }
   ],
   "recent": [
+    {
+      "time": "5:05 am",
+      "artist": "Seatbelts",
+      "title": "Tank!",
+      "album": "Cowboy Bebop • 1998"
+    },
     {
       "time": "5:00 am",
       "artist": "Soul Asylum",
@@ -172,12 +178,6 @@
       "artist": "The White Stripes",
       "title": "You're Pretty Good Looking For A Girl",
       "album": "De Stijl • 2000"
-    },
-    {
-      "time": "3:31 am",
-      "artist": "The Velvet Underground",
-      "title": "Oh! Sweet Nuthin'",
-      "album": "Loaded • 1970"
     }
   ]
 }
