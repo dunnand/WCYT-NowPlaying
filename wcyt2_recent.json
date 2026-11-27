@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T15:26:23",
+  "updatedAt": "2026-11-27T15:28:31",
   "now": {
-    "artist": "Neutral Milk Hotel",
-    "title": "The King of Carrot Flowers Pt. One",
-    "album": "In The Aeroplane Over The Sea • 1998",
-    "category": "TUNES"
+    "artist": "Peter Gabriel",
+    "title": "In Your Eyes",
+    "album": "So • 1986",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:28 pm",
-      "artist": "Peter Gabriel",
-      "title": "In Your Eyes"
-    },
     {
       "time": "3:34 pm",
       "artist": "Prince and The Revolution",
@@ -21,9 +16,20 @@
       "time": "3:37 pm",
       "artist": "Beyonce",
       "title": "16 CARRIAGES"
+    },
+    {
+      "time": "3:41 pm",
+      "artist": "Boz Scaggs",
+      "title": "Lido Shuffle"
     }
   ],
   "recent": [
+    {
+      "time": "3:28 pm",
+      "artist": "Peter Gabriel",
+      "title": "In Your Eyes",
+      "album": "So • 1986"
+    },
     {
       "time": "3:26 pm",
       "artist": "Neutral Milk Hotel",
@@ -164,11 +170,6 @@
       "time": "1:20 pm",
       "artist": "De La Soul",
       "title": "Ego Trippin', Part Two"
-    },
-    {
-      "time": "1:15 pm",
-      "artist": "Vampire Weekend",
-      "title": "Ya Hey"
     }
   ]
 }
