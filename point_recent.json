@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T05:34:14",
+  "updatedAt": "2026-11-27T05:34:30",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Bully",
+    "title": "I Remember",
+    "album": "Feels Like • 2015",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:34 am",
-      "artist": "Bully",
-      "title": "I Remember"
-    },
     {
       "time": "5:36 am",
       "artist": "Andrew Bird",
@@ -26,9 +21,20 @@
       "time": "5:43 am",
       "artist": "Woods",
       "title": "Bend Beyond"
+    },
+    {
+      "time": "5:48 am",
+      "artist": "Destroyer",
+      "title": "Savage Night At The Opera"
     }
   ],
   "recent": [
+    {
+      "time": "5:34 am",
+      "artist": "Bully",
+      "title": "I Remember",
+      "album": "Feels Like • 2015"
+    },
     {
       "time": "5:32 am",
       "artist": "Adrianne Lenker",
@@ -172,12 +178,6 @@
       "artist": "Lucy Dacus",
       "title": "Bullseye",
       "album": "Forever Is A Feeling • 2025"
-    },
-    {
-      "time": "3:58 am",
-      "artist": "Talking Heads",
-      "title": "Totally Nude",
-      "album": "Naked • 1988"
     }
   ]
 }
