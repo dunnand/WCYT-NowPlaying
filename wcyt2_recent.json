@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T11:42:57",
+  "updatedAt": "2026-11-27T11:45:30",
   "now": {
-    "artist": "Commodores",
-    "title": "Machine Gun",
-    "album": "Machine Gun • 1974",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Crying Lightning",
+    "album": "Humbug • 2009",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "11:45 am",
-      "artist": "Arctic Monkeys",
-      "title": "Crying Lightning"
-    },
     {
       "time": "11:49 am",
       "artist": "Rihanna",
@@ -26,9 +21,20 @@
       "time": "11:58 am",
       "artist": "Foo Fighters",
       "title": "Up in Arms"
+    },
+    {
+      "time": "12:00 pm",
+      "artist": "Sister Rosetta Tharpe",
+      "title": "Up Above My Head I Hear Music In The Air"
     }
   ],
   "recent": [
+    {
+      "time": "11:45 am",
+      "artist": "Arctic Monkeys",
+      "title": "Crying Lightning",
+      "album": "Humbug • 2009"
+    },
     {
       "time": "11:42 am",
       "artist": "Commodores",
@@ -172,12 +178,6 @@
       "artist": "Sufjan Stevens",
       "title": "Chicago",
       "album": "Illinois • 2005"
-    },
-    {
-      "time": "10:12 am",
-      "artist": "The White Stripes",
-      "title": "Little Bird",
-      "album": "De Stijl • 2000"
     }
   ]
 }
