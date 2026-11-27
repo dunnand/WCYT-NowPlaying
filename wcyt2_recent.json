@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T00:53:18",
+  "updatedAt": "2026-11-27T01:00:35",
   "now": {
-    "artist": "Modest Mouse",
-    "title": "Other People's Lives",
-    "album": "Building Nothing Out of Something • 1999",
-    "category": "TUNES"
+    "artist": "Fats Domino",
+    "title": "Blue Monday",
+    "album": "This Is Fats Domino! • 1956",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:00 am",
-      "artist": "Fats Domino",
-      "title": "Blue Monday"
-    },
     {
       "time": "1:02 am",
       "artist": "The Dandy Warhols",
@@ -26,9 +21,20 @@
       "time": "1:08 am",
       "artist": "Solange",
       "title": "Losing You"
+    },
+    {
+      "time": "1:13 am",
+      "artist": "Neutral Milk Hotel",
+      "title": "Everything Is"
     }
   ],
   "recent": [
+    {
+      "time": "1:00 am",
+      "artist": "Fats Domino",
+      "title": "Blue Monday",
+      "album": "This Is Fats Domino! • 1956"
+    },
     {
       "time": "12:53 am",
       "artist": "Modest Mouse",
@@ -172,12 +178,6 @@
       "artist": "Foreigner",
       "title": "Urgent",
       "album": "4 • 1981"
-    },
-    {
-      "time": "10:24 pm",
-      "artist": "Eric's Trip",
-      "title": "Behind The Garage",
-      "album": "Love Tara • 1993"
     }
   ]
 }
