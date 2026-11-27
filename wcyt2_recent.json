@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-26T19:38:22",
+  "updatedAt": "2026-11-26T19:41:45",
   "now": {
-    "artist": "The Cars",
-    "title": "Shake It Up",
-    "album": "Shake It Up • 1982",
+    "artist": "Chicago",
+    "title": "You're The Inspiration",
+    "album": "Chicago 17 • 1984",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:41 pm",
-      "artist": "Chicago",
-      "title": "You're The Inspiration"
-    },
     {
       "time": "7:45 pm",
       "artist": "Taylor Swift",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "7:41 pm",
+      "artist": "Chicago",
+      "title": "You're The Inspiration",
+      "album": "Chicago 17 • 1984"
+    },
     {
       "time": "7:38 pm",
       "artist": "The Cars",
@@ -172,12 +173,6 @@
       "artist": "The Stranglers",
       "title": "No More Heroes",
       "album": "No More Heroes • 1977"
-    },
-    {
-      "time": "6:09 pm",
-      "artist": "Etta James",
-      "title": "At Last",
-      "album": "At Last! • 1960"
     }
   ]
 }
