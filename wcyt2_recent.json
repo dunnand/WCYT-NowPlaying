@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T11:45:30",
+  "updatedAt": "2026-11-27T11:49:10",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Crying Lightning",
-    "album": "Humbug • 2009",
-    "category": "TUNES"
+    "artist": "Rihanna",
+    "title": "You Da One",
+    "album": "Talk That Talk • 2011",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:49 am",
-      "artist": "Rihanna",
-      "title": "You Da One"
-    },
     {
       "time": "11:52 am",
       "artist": "Curtis Mayfield",
@@ -26,9 +21,20 @@
       "time": "12:00 pm",
       "artist": "Sister Rosetta Tharpe",
       "title": "Up Above My Head I Hear Music In The Air"
+    },
+    {
+      "time": "12:03 pm",
+      "artist": "Beyonce",
+      "title": "Sweet Dreams"
     }
   ],
   "recent": [
+    {
+      "time": "11:49 am",
+      "artist": "Rihanna",
+      "title": "You Da One",
+      "album": "Talk That Talk • 2011"
+    },
     {
       "time": "11:45 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Selena Gomez",
       "title": "Come & Get It",
       "album": "Stars Dance • 2013"
-    },
-    {
-      "time": "10:15 am",
-      "artist": "Sufjan Stevens",
-      "title": "Chicago",
-      "album": "Illinois • 2005"
     }
   ]
 }
