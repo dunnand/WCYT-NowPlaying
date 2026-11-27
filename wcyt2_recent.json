@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T00:51:05",
+  "updatedAt": "2026-11-27T00:53:18",
   "now": {
-    "artist": "T. Rex",
-    "title": "Mad Donna",
-    "album": "Tanx • 1973",
-    "category": "AUDIO"
+    "artist": "Modest Mouse",
+    "title": "Other People's Lives",
+    "album": "Building Nothing Out of Something • 1999",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "12:53 am",
-      "artist": "Modest Mouse",
-      "title": "Other People's Lives"
-    },
     {
       "time": "1:00 am",
       "artist": "Fats Domino",
@@ -26,9 +21,20 @@
       "time": "1:06 am",
       "artist": "The Jimi Hendrix Experience",
       "title": "Fire"
+    },
+    {
+      "time": "1:08 am",
+      "artist": "Solange",
+      "title": "Losing You"
     }
   ],
   "recent": [
+    {
+      "time": "12:53 am",
+      "artist": "Modest Mouse",
+      "title": "Other People's Lives",
+      "album": "Building Nothing Out of Something • 1999"
+    },
     {
       "time": "12:51 am",
       "artist": "T. Rex",
@@ -172,12 +178,6 @@
       "artist": "Eric's Trip",
       "title": "Behind The Garage",
       "album": "Love Tara • 1993"
-    },
-    {
-      "time": "10:21 pm",
-      "artist": "Pavement",
-      "title": "Unseen Power of the Picket Fence",
-      "album": "No Alternative • 1993"
     }
   ]
 }
