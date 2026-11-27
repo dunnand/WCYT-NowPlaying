@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T11:54:13",
+  "updatedAt": "2026-11-27T11:54:24",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Elliott Smith",
+    "title": "Needle In The Hay",
+    "album": "Elliott Smith • 1995",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:54 am",
-      "artist": "Elliott Smith",
-      "title": "Needle In The Hay"
-    },
     {
       "time": "11:58 am",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "12:04 pm",
       "artist": "King Gizzard And The Lizard Wizard",
       "title": "Rogue Wave"
+    },
+    {
+      "time": "12:09 pm",
+      "artist": "Dazy",
+      "title": "Beat Change"
     }
   ],
   "recent": [
+    {
+      "time": "11:54 am",
+      "artist": "Elliott Smith",
+      "title": "Needle In The Hay",
+      "album": "Elliott Smith • 1995"
+    },
     {
       "time": "11:50 am",
       "artist": "Way Dynamic",
@@ -172,12 +178,6 @@
       "artist": "Beach House",
       "title": "Elegy to the Void",
       "album": "Thank Your Lucky Stars • 2015"
-    },
-    {
-      "time": "10:11 am",
-      "artist": "Twisted Teens",
-      "title": "Stalks",
-      "album": "The Holy Cross Tigers • 2026"
     }
   ]
 }
