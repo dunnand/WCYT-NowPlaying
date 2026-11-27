@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T08:44:24",
+  "updatedAt": "2026-11-27T08:44:35",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Toto",
+    "title": "Africa",
+    "album": "Toto IV • 1982",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:44 am",
-      "artist": "Toto",
-      "title": "Africa"
-    },
     {
       "time": "8:49 am",
       "artist": "Beyonce",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "8:44 am",
+      "artist": "Toto",
+      "title": "Africa",
+      "album": "Toto IV • 1982"
+    },
     {
       "time": "8:40 am",
       "artist": "The Stone Roses",
@@ -172,12 +173,6 @@
       "artist": "Billy Joel",
       "title": "She's Always A Woman",
       "album": "The Stranger • 1977"
-    },
-    {
-      "time": "7:12 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Hey Joe",
-      "album": "Are You Experienced • 1967"
     }
   ]
 }
