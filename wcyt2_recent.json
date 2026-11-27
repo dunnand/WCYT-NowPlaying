@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T04:35:37",
+  "updatedAt": "2026-11-27T04:40:17",
   "now": {
-    "artist": "Thom Yorke",
-    "title": "A Brain In A Bottle",
-    "album": "Tomorrow's Modern Boxes • 2014",
-    "category": "TUNES"
+    "artist": "The Velvet Underground",
+    "title": "Who Loves the Sun",
+    "album": "Loaded • 1970",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:40 am",
-      "artist": "The Velvet Underground",
-      "title": "Who Loves the Sun"
-    },
     {
       "time": "4:43 am",
       "artist": "Veruca Salt",
@@ -26,9 +21,20 @@
       "time": "4:49 am",
       "artist": "Yeah Yeah Yeahs",
       "title": "Cheated Hearts"
+    },
+    {
+      "time": "4:53 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Bold as Love"
     }
   ],
   "recent": [
+    {
+      "time": "4:40 am",
+      "artist": "The Velvet Underground",
+      "title": "Who Loves the Sun",
+      "album": "Loaded • 1970"
+    },
     {
       "time": "4:35 am",
       "artist": "Thom Yorke",
@@ -172,12 +178,6 @@
       "artist": "Ricky Martin",
       "title": "Livin' La Vida Loca",
       "album": "Ricky Martin • 1999"
-    },
-    {
-      "time": "3:04 am",
-      "artist": "Solange",
-      "title": "Cranes in the Sky",
-      "album": "A Seat at the Table • 2016"
     }
   ]
 }
