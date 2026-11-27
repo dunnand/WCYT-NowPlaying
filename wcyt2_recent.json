@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T01:00:35",
+  "updatedAt": "2026-11-27T01:02:48",
   "now": {
-    "artist": "Fats Domino",
-    "title": "Blue Monday",
-    "album": "This Is Fats Domino! • 1956",
+    "artist": "The Dandy Warhols",
+    "title": "We Used to Be Friends",
+    "album": "Welcome to the Monkey's Game • 2003",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:02 am",
-      "artist": "The Dandy Warhols",
-      "title": "We Used to Be Friends"
-    },
     {
       "time": "1:06 am",
       "artist": "The Jimi Hendrix Experience",
@@ -26,9 +21,20 @@
       "time": "1:13 am",
       "artist": "Neutral Milk Hotel",
       "title": "Everything Is"
+    },
+    {
+      "time": "1:16 am",
+      "artist": "Shania Twain",
+      "title": "You've Got A Way"
     }
   ],
   "recent": [
+    {
+      "time": "1:02 am",
+      "artist": "The Dandy Warhols",
+      "title": "We Used to Be Friends",
+      "album": "Welcome to the Monkey's Game • 2003"
+    },
     {
       "time": "1:00 am",
       "artist": "Fats Domino",
@@ -172,12 +178,6 @@
       "artist": "George Harrison",
       "title": "Got My Mind Set On You",
       "album": "Cloud Nine • 1987"
-    },
-    {
-      "time": "10:27 pm",
-      "artist": "Foreigner",
-      "title": "Urgent",
-      "album": "4 • 1981"
     }
   ]
 }
