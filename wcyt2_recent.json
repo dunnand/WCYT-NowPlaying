@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T03:58:35",
+  "updatedAt": "2026-11-27T03:58:59",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Are You Experienced?",
+    "album": "Are You Experienced • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:59 am",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Are You Experienced?"
-    },
     {
       "time": "4:03 am",
       "artist": "Thom Yorke",
@@ -26,9 +21,20 @@
       "time": "4:11 am",
       "artist": "Pavement",
       "title": "Gold Soundz"
+    },
+    {
+      "time": "4:13 am",
+      "artist": "Madness",
+      "title": "It Must Be Love"
     }
   ],
   "recent": [
+    {
+      "time": "3:58 am",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Are You Experienced?",
+      "album": "Are You Experienced • 1967"
+    },
     {
       "time": "3:55 am",
       "artist": "The White Stripes",
@@ -167,11 +173,6 @@
       "time": "2:07 am",
       "artist": "Spoon",
       "title": "Lines in the Suit"
-    },
-    {
-      "time": "2:03 am",
-      "artist": "Vampire Weekend",
-      "title": "Cape Cod Kwassa Kwassa"
     }
   ]
 }
