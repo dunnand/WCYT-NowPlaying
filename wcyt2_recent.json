@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T00:08:20",
+  "updatedAt": "2026-11-28T00:08:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Neil Young",
+    "title": "Mr. Soul",
+    "album": "Buffalo Springfield Again • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:08 am",
-      "artist": "Neil Young",
-      "title": "Mr. Soul"
-    },
     {
       "time": "12:11 am",
       "artist": "Bruno Mars",
@@ -26,9 +21,20 @@
       "time": "12:19 am",
       "artist": "Fastball",
       "title": "The Way"
+    },
+    {
+      "time": "12:23 am",
+      "artist": "Soft Cell",
+      "title": "Tainted Love"
     }
   ],
   "recent": [
+    {
+      "time": "12:08 am",
+      "artist": "Neil Young",
+      "title": "Mr. Soul",
+      "album": "Buffalo Springfield Again • 1967"
+    },
     {
       "time": "12:04 am",
       "artist": "David Byrne & Brian Eno",
@@ -172,12 +178,6 @@
       "artist": "Cat Power",
       "title": "Werewolf",
       "album": "You Are Free • 2003"
-    },
-    {
-      "time": "9:31 pm",
-      "artist": "Black Flag",
-      "title": "Nervous Breakdown",
-      "album": "Nervous Breakdown • 1979"
     }
   ]
 }
