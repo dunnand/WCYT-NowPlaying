@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T02:35:29",
+  "updatedAt": "2026-11-28T02:35:39",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "David Bowie",
+    "title": "Let's Dance",
+    "album": "Lets Dance • 1983",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:35 am",
-      "artist": "David Bowie",
-      "title": "Let's Dance"
-    },
     {
       "time": "2:39 am",
       "artist": "James Brown",
@@ -26,9 +21,20 @@
       "time": "2:48 am",
       "artist": "Barry Manilow",
       "title": "I Write The Songs"
+    },
+    {
+      "time": "2:51 am",
+      "artist": "The Apples in Stereo",
+      "title": "Please"
     }
   ],
   "recent": [
+    {
+      "time": "2:35 am",
+      "artist": "David Bowie",
+      "title": "Let's Dance",
+      "album": "Lets Dance • 1983"
+    },
     {
       "time": "2:31 am",
       "artist": "Scandal",
@@ -172,12 +178,6 @@
       "artist": "Andy Gibb",
       "title": "I Just Want To Be Your Everything",
       "album": "Flowing Rivers • 1977"
-    },
-    {
-      "time": "12:46 am",
-      "artist": "Arctic Monkeys",
-      "title": "Do I Wanna Know",
-      "album": "AM • 2013"
     }
   ]
 }
