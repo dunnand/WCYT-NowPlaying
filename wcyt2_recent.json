@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T05:12:26",
+  "updatedAt": "2026-11-28T05:12:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Still Take You Home",
+    "album": "Whatever People Say I Am, That's What I'm Not • 2006",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "5:12 am",
-      "artist": "Arctic Monkeys",
-      "title": "Still Take You Home"
-    },
     {
       "time": "5:15 am",
       "artist": "Blonde Redhead",
@@ -26,9 +21,20 @@
       "time": "5:24 am",
       "artist": "Megadeth",
       "title": "Symphony of Destruction"
+    },
+    {
+      "time": "5:28 am",
+      "artist": "Melissa Etheridge",
+      "title": "I'm The Only One"
     }
   ],
   "recent": [
+    {
+      "time": "5:12 am",
+      "artist": "Arctic Monkeys",
+      "title": "Still Take You Home",
+      "album": "Whatever People Say I Am, That's What I'm Not • 2006"
+    },
     {
       "time": "5:09 am",
       "artist": "Charles Bradley",
@@ -172,12 +178,6 @@
       "artist": "Queen Latifah",
       "title": "Ladies First",
       "album": "All Hail the Queen • 1989"
-    },
-    {
-      "time": "3:39 am",
-      "artist": "Prince",
-      "title": "Uptown",
-      "album": "Dirty Mind • 1980"
     }
   ]
 }
