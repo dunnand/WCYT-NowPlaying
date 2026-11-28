@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T03:52:29",
+  "updatedAt": "2026-11-28T03:52:50",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "James Taylor",
+    "title": "Fire And Rain",
+    "album": "Sweet Baby James • 1970",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:52 am",
-      "artist": "James Taylor",
-      "title": "Fire And Rain"
-    },
     {
       "time": "3:56 am",
       "artist": "Nick Drake",
@@ -26,9 +21,20 @@
       "time": "4:03 am",
       "artist": "Nick Drake",
       "title": "Time Has Told Me"
+    },
+    {
+      "time": "4:07 am",
+      "artist": "John Denver",
+      "title": "Back Home Again"
     }
   ],
   "recent": [
+    {
+      "time": "3:52 am",
+      "artist": "James Taylor",
+      "title": "Fire And Rain",
+      "album": "Sweet Baby James • 1970"
+    },
     {
       "time": "3:49 am",
       "artist": "Kacey Musgraves",
@@ -172,12 +178,6 @@
       "artist": "The Everly Brothers",
       "title": "('Til) I Kissed You",
       "album": "single • 1959"
-    },
-    {
-      "time": "2:05 am",
-      "artist": "Gin Blossoms",
-      "title": "Found Out About You",
-      "album": "New Miserable Experience • 1993"
     }
   ]
 }
