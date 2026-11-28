@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T21:09:34",
+  "updatedAt": "2026-11-27T21:09:46",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Eels",
+    "title": "Susan's House",
+    "album": "Beautiful Freak • 1996",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:09 pm",
-      "artist": "Eels",
-      "title": "Susan's House"
-    },
     {
       "time": "9:13 pm",
       "artist": "Trouble Funk",
@@ -26,9 +21,20 @@
       "time": "9:23 pm",
       "artist": "Chappell Roan",
       "title": "Pink Pony Club"
+    },
+    {
+      "time": "9:27 pm",
+      "artist": "Antony and the Johnsons",
+      "title": "Hope There's Someone"
     }
   ],
   "recent": [
+    {
+      "time": "9:09 pm",
+      "artist": "Eels",
+      "title": "Susan's House",
+      "album": "Beautiful Freak • 1996"
+    },
     {
       "time": "9:05 pm",
       "artist": "Eagles",
@@ -172,12 +178,6 @@
       "artist": "Bob Dylan",
       "title": "False Prophet",
       "album": "Rough and Rowdy Ways • 2020"
-    },
-    {
-      "time": "7:27 pm",
-      "artist": "Kate Bush",
-      "title": "Babooshka",
-      "album": "Never for Ever • 1980"
     }
   ]
 }
