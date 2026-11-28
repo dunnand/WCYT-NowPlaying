@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T07:11:28",
+  "updatedAt": "2026-11-28T07:11:40",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Adele",
+    "title": "Set Fire To The Rain",
+    "album": "21 • 2011",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:11 am",
-      "artist": "Adele",
-      "title": "Set Fire To The Rain"
-    },
     {
       "time": "7:15 am",
       "artist": "Natalie Merchant",
@@ -26,9 +21,20 @@
       "time": "7:24 am",
       "artist": "Zapp",
       "title": "Computer Love"
+    },
+    {
+      "time": "7:28 am",
+      "artist": "Billy Joel",
+      "title": "We Didn't Start The Fire"
     }
   ],
   "recent": [
+    {
+      "time": "7:11 am",
+      "artist": "Adele",
+      "title": "Set Fire To The Rain",
+      "album": "21 • 2011"
+    },
     {
       "time": "7:07 am",
       "artist": "Black Eyed Peas",
@@ -172,12 +178,6 @@
       "artist": "Santana",
       "title": "Evil Ways",
       "album": "Santana • 1970"
-    },
-    {
-      "time": "5:39 am",
-      "artist": "Deftones",
-      "title": "Genesis",
-      "album": "Ohms • 2020"
     }
   ]
 }
