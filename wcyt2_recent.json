@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T20:53:24",
+  "updatedAt": "2026-11-27T20:57:26",
   "now": {
-    "artist": "Coldplay",
-    "title": "Viva la Vida",
-    "album": "Viva la Vida or Death and All His Friends • 2008",
+    "artist": "Nancy Sinatra",
+    "title": "You Only Live Twice",
+    "album": "You Only Live Twice • 1967",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "8:57 pm",
-      "artist": "Nancy Sinatra",
-      "title": "You Only Live Twice"
-    },
     {
       "time": "9:00 pm",
       "artist": "Big Thief",
@@ -21,9 +16,25 @@
       "time": "9:05 pm",
       "artist": "Eagles",
       "title": "Love Will Keep Us Alive"
+    },
+    {
+      "time": "9:09 pm",
+      "artist": "Eels",
+      "title": "Susan's House"
+    },
+    {
+      "time": "9:13 pm",
+      "artist": "Trouble Funk",
+      "title": "Pump Me Up"
     }
   ],
   "recent": [
+    {
+      "time": "8:57 pm",
+      "artist": "Nancy Sinatra",
+      "title": "You Only Live Twice",
+      "album": "You Only Live Twice • 1967"
+    },
     {
       "time": "8:53 pm",
       "artist": "Coldplay",
@@ -167,12 +178,6 @@
       "artist": "Bruce Springsteen",
       "title": "Human Touch",
       "album": "Human Touch • 1992"
-    },
-    {
-      "time": "7:14 pm",
-      "artist": "Bonnie 'Prince' Billy",
-      "title": "A Minor Place",
-      "album": "I See a Darkness • 1999"
     }
   ]
 }
