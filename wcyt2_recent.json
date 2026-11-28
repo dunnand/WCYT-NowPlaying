@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T07:04:22",
+  "updatedAt": "2026-11-28T07:07:54",
   "now": {
-    "artist": "Death Cab for Cutie",
-    "title": "Title and Registration",
-    "album": "Transatlanticism • 2003",
-    "category": "TUNES"
+    "artist": "Black Eyed Peas",
+    "title": "Let's Get It Started",
+    "album": "Elephunk • 2004",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "7:07 am",
-      "artist": "Black Eyed Peas",
-      "title": "Let's Get It Started"
-    },
     {
       "time": "7:11 am",
       "artist": "Adele",
@@ -26,9 +21,20 @@
       "time": "7:19 am",
       "artist": "Naughty By Nature",
       "title": "O.P.P"
+    },
+    {
+      "time": "7:24 am",
+      "artist": "Zapp",
+      "title": "Computer Love"
     }
   ],
   "recent": [
+    {
+      "time": "7:07 am",
+      "artist": "Black Eyed Peas",
+      "title": "Let's Get It Started",
+      "album": "Elephunk • 2004"
+    },
     {
       "time": "7:04 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Deftones",
       "title": "Genesis",
       "album": "Ohms • 2020"
-    },
-    {
-      "time": "5:36 am",
-      "artist": "Trio",
-      "title": "Da Da Da",
-      "album": "Da Da Da • 1982"
     }
   ]
 }
