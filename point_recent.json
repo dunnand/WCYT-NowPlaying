@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T00:10:13",
+  "updatedAt": "2026-11-28T00:10:23",
   "now": {
-    "artist": "Liners",
-    "title": "Liner",
-    "album": "",
-    "category": "IDS"
+    "artist": "Mamalarky",
+    "title": "Sad Songs",
+    "album": "Hover • 2026",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:10 am",
-      "artist": "Mamalarky",
-      "title": "Sad Songs"
-    },
     {
       "time": "12:12 am",
       "artist": "Sleater",
@@ -26,9 +21,20 @@
       "time": "12:20 am",
       "artist": "Beat Happening",
       "title": "Noise"
+    },
+    {
+      "time": "12:23 am",
+      "artist": "Fontaines D.C.",
+      "title": "Where Is Gone? (with ROSALÍA)"
     }
   ],
   "recent": [
+    {
+      "time": "12:10 am",
+      "artist": "Mamalarky",
+      "title": "Sad Songs",
+      "album": "Hover • 2026"
+    },
     {
       "time": "12:06 am",
       "artist": "The Clash",
@@ -172,12 +178,6 @@
       "artist": "Young Fathers",
       "title": "Toy",
       "album": "Cocoa Sugar • 2018"
-    },
-    {
-      "time": "10:29 pm",
-      "artist": "WHY?",
-      "title": "Pretend So Real",
-      "album": "Oh Golly / Yes Lord • 2026"
     }
   ]
 }
