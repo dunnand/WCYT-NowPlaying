@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T10:07:03",
+  "updatedAt": "2026-11-28T10:10:45",
   "now": {
-    "artist": "Beyonce",
-    "title": "Hold Up",
-    "album": "Lemonade • 2019",
+    "artist": "The Who",
+    "title": "Who Are You",
+    "album": "Who Are You • 1978",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:10 am",
-      "artist": "The Who",
-      "title": "Who Are You"
-    },
     {
       "time": "10:17 am",
       "artist": "Pulp",
@@ -26,9 +21,20 @@
       "time": "10:28 am",
       "artist": "Built to Spill",
       "title": "In Your Mind"
+    },
+    {
+      "time": "10:31 am",
+      "artist": "Eminem",
+      "title": "Lose Yourself"
     }
   ],
   "recent": [
+    {
+      "time": "10:10 am",
+      "artist": "The Who",
+      "title": "Who Are You",
+      "album": "Who Are You • 1978"
+    },
     {
       "time": "10:07 am",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Ozzy Osbourne",
       "title": "No More Tears",
       "album": "No More Tears • 1991"
-    },
-    {
-      "time": "8:20 am",
-      "artist": "FKA twigs",
-      "title": "Pendulum",
-      "album": "LP1 • 2014"
     }
   ]
 }
