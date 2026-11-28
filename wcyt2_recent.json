@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T03:52:50",
+  "updatedAt": "2026-11-28T03:56:05",
   "now": {
-    "artist": "James Taylor",
-    "title": "Fire And Rain",
-    "album": "Sweet Baby James • 1970",
+    "artist": "Nick Drake",
+    "title": "River Man",
+    "album": "Five Leaves Left • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "3:56 am",
-      "artist": "Nick Drake",
-      "title": "River Man"
-    },
     {
       "time": "4:00 am",
       "artist": "Jim Croce",
@@ -26,9 +21,20 @@
       "time": "4:07 am",
       "artist": "John Denver",
       "title": "Back Home Again"
+    },
+    {
+      "time": "4:12 am",
+      "artist": "Lenny Kravitz",
+      "title": "It Ain't Over 'Til It's Over"
     }
   ],
   "recent": [
+    {
+      "time": "3:56 am",
+      "artist": "Nick Drake",
+      "title": "River Man",
+      "album": "Five Leaves Left • 1969"
+    },
     {
       "time": "3:52 am",
       "artist": "James Taylor",
@@ -172,12 +178,6 @@
       "artist": "Britney Spears",
       "title": "Oops....I Did It Again",
       "album": "Oops!... I Did It Again • 2000"
-    },
-    {
-      "time": "2:09 am",
-      "artist": "The Everly Brothers",
-      "title": "('Til) I Kissed You",
-      "album": "single • 1959"
     }
   ]
 }
