@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T22:09:24",
+  "updatedAt": "2026-11-27T22:12:15",
   "now": {
-    "artist": "Andrew Bird",
-    "title": "Fake Palindromes",
-    "album": "Andrew Bird & the Mysterious Production of Eggs • 2005",
-    "category": "TUNES"
+    "artist": "Donna Summer",
+    "title": "I Feel Love",
+    "album": "I Remember Yesterday • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:12 pm",
-      "artist": "Donna Summer",
-      "title": "I Feel Love"
-    },
     {
       "time": "10:20 pm",
       "artist": "Elliott Smith",
@@ -26,9 +21,20 @@
       "time": "10:29 pm",
       "artist": "Dion",
       "title": "Born to Be With You"
+    },
+    {
+      "time": "10:35 pm",
+      "artist": "Cranberries",
+      "title": "When You're Gone"
     }
   ],
   "recent": [
+    {
+      "time": "10:12 pm",
+      "artist": "Donna Summer",
+      "title": "I Feel Love",
+      "album": "I Remember Yesterday • 1977"
+    },
     {
       "time": "10:09 pm",
       "artist": "Andrew Bird",
@@ -172,12 +178,6 @@
       "artist": "Stevie Wonder",
       "title": "As",
       "album": "Songs in the Key of Life • 1976"
-    },
-    {
-      "time": "8:31 pm",
-      "artist": "Nancy Sinatra",
-      "title": "These Boots Are Made for Walkin'",
-      "album": "Boots • 1966"
     }
   ]
 }
