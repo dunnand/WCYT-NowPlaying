@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T20:57:26",
+  "updatedAt": "2026-11-27T21:00:18",
   "now": {
-    "artist": "Nancy Sinatra",
-    "title": "You Only Live Twice",
-    "album": "You Only Live Twice • 1967",
-    "category": "AUDIO"
+    "artist": "Big Thief",
+    "title": "Mary",
+    "album": "Capacity • 2017",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "9:00 pm",
-      "artist": "Big Thief",
-      "title": "Mary"
-    },
     {
       "time": "9:05 pm",
       "artist": "Eagles",
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "9:00 pm",
+      "artist": "Big Thief",
+      "title": "Mary",
+      "album": "Capacity • 2017"
+    },
     {
       "time": "8:57 pm",
       "artist": "Nancy Sinatra",
@@ -172,12 +173,6 @@
       "artist": "Hall & Oates",
       "title": "You've Lost That Lovin' Feeling",
       "album": "Voices • 1980"
-    },
-    {
-      "time": "7:18 pm",
-      "artist": "Bruce Springsteen",
-      "title": "Human Touch",
-      "album": "Human Touch • 1992"
     }
   ]
 }
