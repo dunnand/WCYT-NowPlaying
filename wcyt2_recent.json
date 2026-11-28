@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T21:00:18",
+  "updatedAt": "2026-11-27T21:05:43",
   "now": {
-    "artist": "Big Thief",
-    "title": "Mary",
-    "album": "Capacity • 2017",
-    "category": "TUNES"
+    "artist": "Eagles",
+    "title": "Love Will Keep Us Alive",
+    "album": "Hell Freezes Over • 1994",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:05 pm",
-      "artist": "Eagles",
-      "title": "Love Will Keep Us Alive"
-    },
     {
       "time": "9:09 pm",
       "artist": "Eels",
@@ -21,9 +16,20 @@
       "time": "9:13 pm",
       "artist": "Trouble Funk",
       "title": "Pump Me Up"
+    },
+    {
+      "time": "9:20 pm",
+      "artist": "R.E.M.",
+      "title": "The One I Love"
     }
   ],
   "recent": [
+    {
+      "time": "9:05 pm",
+      "artist": "Eagles",
+      "title": "Love Will Keep Us Alive",
+      "album": "Hell Freezes Over • 1994"
+    },
     {
       "time": "9:00 pm",
       "artist": "Big Thief",
@@ -167,12 +173,6 @@
       "artist": "Kate Bush",
       "title": "Babooshka",
       "album": "Never for Ever • 1980"
-    },
-    {
-      "time": "7:23 pm",
-      "artist": "Hall & Oates",
-      "title": "You've Lost That Lovin' Feeling",
-      "album": "Voices • 1980"
     }
   ]
 }
