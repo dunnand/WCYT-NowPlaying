@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T02:53:47",
+  "updatedAt": "2026-11-28T02:56:51",
   "now": {
-    "artist": "Ed Sheeran",
-    "title": "Lego House",
-    "album": "HA201240 2 • 2011",
+    "artist": "Eric Clapton",
+    "title": "I Shot The Sheriff",
+    "album": "461 Ocean Boulevard • 1974",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "2:56 am",
-      "artist": "Eric Clapton",
-      "title": "I Shot The Sheriff"
-    },
     {
       "time": "3:01 am",
       "artist": "Jewel",
@@ -26,9 +21,20 @@
       "time": "3:10 am",
       "artist": "Animal Collective",
       "title": "Alvin Row"
+    },
+    {
+      "time": "3:21 am",
+      "artist": "Deftones",
+      "title": "Passenger"
     }
   ],
   "recent": [
+    {
+      "time": "2:56 am",
+      "artist": "Eric Clapton",
+      "title": "I Shot The Sheriff",
+      "album": "461 Ocean Boulevard • 1974"
+    },
     {
       "time": "2:53 am",
       "artist": "Ed Sheeran",
@@ -172,12 +178,6 @@
       "artist": "Fiona Apple",
       "title": "Criminal",
       "album": "Tidal • 1996"
-    },
-    {
-      "time": "1:12 am",
-      "artist": "Arctic Monkeys",
-      "title": "Four Out Of Five",
-      "album": "Tranquility Base Hotel & Casino •"
     }
   ]
 }
