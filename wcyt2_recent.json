@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T01:12:18",
+  "updatedAt": "2026-11-28T01:12:30",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Arctic Monkeys",
+    "title": "Four Out Of Five",
+    "album": "Tranquility Base Hotel & Casino •",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "1:12 am",
-      "artist": "Arctic Monkeys",
-      "title": "Four Out Of Five"
-    },
     {
       "time": "1:16 am",
       "artist": "Fiona Apple",
@@ -26,9 +21,20 @@
       "time": "1:28 am",
       "artist": "Yellowman",
       "title": "Zungguzungguguzungguzeng"
+    },
+    {
+      "time": "1:34 am",
+      "artist": "Todd Rundgren",
+      "title": "Bang The Drum All Day"
     }
   ],
   "recent": [
+    {
+      "time": "1:12 am",
+      "artist": "Arctic Monkeys",
+      "title": "Four Out Of Five",
+      "album": "Tranquility Base Hotel & Casino •"
+    },
     {
       "time": "1:07 am",
       "artist": "Death Cab for Cutie",
@@ -172,12 +178,6 @@
       "artist": "Platters",
       "title": "The Great Pretender",
       "album": "single • 1955"
-    },
-    {
-      "time": "10:35 pm",
-      "artist": "Cranberries",
-      "title": "When You're Gone",
-      "album": "To The Faithful Departed • 1996"
     }
   ]
 }
