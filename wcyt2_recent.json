@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T11:58:42",
+  "updatedAt": "2026-11-28T11:58:52",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Billy Joel",
+    "title": "Big Shot",
+    "album": "52nd Street • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:58 am",
-      "artist": "Billy Joel",
-      "title": "Big Shot"
-    },
     {
       "time": "12:02 pm",
       "artist": "Bob Seger & The Silver Bullet Band",
@@ -26,9 +21,20 @@
       "time": "12:12 pm",
       "artist": "Otis Redding",
       "title": "Hard to Handle"
+    },
+    {
+      "time": "12:14 pm",
+      "artist": "The Carpenters",
+      "title": "We've Only Just Begun"
     }
   ],
   "recent": [
+    {
+      "time": "11:58 am",
+      "artist": "Billy Joel",
+      "title": "Big Shot",
+      "album": "52nd Street • 1979"
+    },
     {
       "time": "11:57 am",
       "artist": "Toshiyuki Sudo, Daisuke Matsuoka",
@@ -172,12 +178,6 @@
       "artist": "Alicia Keys",
       "title": "Girl On Fire",
       "album": "HA201237 8 • 2012"
-    },
-    {
-      "time": "10:16 am",
-      "artist": "Pulp",
-      "title": "This.Is.Hardcore",
-      "album": "This Is Hardcore • 1998"
     }
   ]
 }
