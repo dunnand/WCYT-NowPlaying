@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T04:46:35",
+  "updatedAt": "2026-11-28T04:46:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Joy Division",
+    "title": "Transmission",
+    "album": "Single • 1979",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "4:46 am",
-      "artist": "Joy Division",
-      "title": "Transmission"
-    },
     {
       "time": "4:50 am",
       "artist": "Kenny Rogers",
@@ -26,9 +21,20 @@
       "time": "4:57 am",
       "artist": "Nilsson",
       "title": "One"
+    },
+    {
+      "time": "5:00 am",
+      "artist": "Nilsson",
+      "title": "Without You"
     }
   ],
   "recent": [
+    {
+      "time": "4:46 am",
+      "artist": "Joy Division",
+      "title": "Transmission",
+      "album": "Single • 1979"
+    },
     {
       "time": "4:42 am",
       "artist": "Beyonce",
@@ -172,12 +178,6 @@
       "artist": "Adele",
       "title": "Someone Like You",
       "album": "21 • 2011"
-    },
-    {
-      "time": "3:01 am",
-      "artist": "Jewel",
-      "title": "Who Will Save Your Soul",
-      "album": "Pieces of You • 1995"
     }
   ]
 }
