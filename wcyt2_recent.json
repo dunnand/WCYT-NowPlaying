@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T19:04:06",
+  "updatedAt": "2026-11-27T19:08:07",
   "now": {
-    "artist": "Dave Matthews Band",
-    "title": "Grey Street",
-    "album": "Busted Stuff • 2002",
-    "category": "AUDIO"
+    "artist": "The Black Keys",
+    "title": "Just Couldn't Tie Me Down",
+    "album": "Rubber Factory • 2004",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:08 pm",
-      "artist": "The Black Keys",
-      "title": "Just Couldn't Tie Me Down"
-    },
     {
       "time": "7:11 pm",
       "artist": "Blood Orange",
@@ -26,9 +21,20 @@
       "time": "7:18 pm",
       "artist": "Bruce Springsteen",
       "title": "Human Touch"
+    },
+    {
+      "time": "7:23 pm",
+      "artist": "Hall & Oates",
+      "title": "You've Lost That Lovin' Feeling"
     }
   ],
   "recent": [
+    {
+      "time": "7:08 pm",
+      "artist": "The Black Keys",
+      "title": "Just Couldn't Tie Me Down",
+      "album": "Rubber Factory • 2004"
+    },
     {
       "time": "7:04 pm",
       "artist": "Dave Matthews Band",
@@ -172,12 +178,6 @@
       "artist": "Aaron Frazer",
       "title": "Over You",
       "album": "Introducing... • 2021"
-    },
-    {
-      "time": "5:36 pm",
-      "artist": "Ray Parker, Jr.",
-      "title": "Ghostbusters",
-      "album": "Ghostbusters soundtrack • 1984"
     }
   ]
 }
