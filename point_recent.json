@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-27T23:13:17",
+  "updatedAt": "2026-11-27T23:13:35",
   "now": {
-    "artist": "",
-    "title": "",
-    "album": "",
+    "artist": "Babehoven",
+    "title": "Blue Around You",
+    "album": "I See Them, I See Me • 2026",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "11:13 pm",
-      "artist": "Babehoven",
-      "title": "Blue Around You"
-    },
     {
       "time": "11:17 pm",
       "artist": "The Black Keys",
@@ -21,9 +16,20 @@
       "time": "11:20 pm",
       "artist": "Sadurn",
       "title": "the weight"
+    },
+    {
+      "time": "11:26 pm",
+      "artist": "Eric Slick",
+      "title": "Talking Too Much"
     }
   ],
   "recent": [
+    {
+      "time": "11:13 pm",
+      "artist": "Babehoven",
+      "title": "Blue Around You",
+      "album": "I See Them, I See Me • 2026"
+    },
     {
       "time": "11:09 pm",
       "artist": "Yo La Tengo",
@@ -154,11 +160,6 @@
       "time": "9:16 pm",
       "artist": "MGMT",
       "title": "Hand It Over"
-    },
-    {
-      "time": "9:11 pm",
-      "artist": "Alex Cameron",
-      "title": "Red Hook Rain"
     }
   ]
 }
