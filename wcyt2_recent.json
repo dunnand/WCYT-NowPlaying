@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T00:46:57",
+  "updatedAt": "2026-11-28T00:51:30",
   "now": {
-    "artist": "Arctic Monkeys",
-    "title": "Do I Wanna Know",
-    "album": "AM • 2013",
-    "category": "TUNES"
+    "artist": "Andy Gibb",
+    "title": "I Just Want To Be Your Everything",
+    "album": "Flowing Rivers • 1977",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:51 am",
-      "artist": "Andy Gibb",
-      "title": "I Just Want To Be Your Everything"
-    },
     {
       "time": "12:55 am",
       "artist": "Fatboy Slim",
@@ -26,9 +21,20 @@
       "time": "1:04 am",
       "artist": "Built to Spill",
       "title": "Strange"
+    },
+    {
+      "time": "1:08 am",
+      "artist": "Death Cab for Cutie",
+      "title": "A Movie Script Ending"
     }
   ],
   "recent": [
+    {
+      "time": "12:51 am",
+      "artist": "Andy Gibb",
+      "title": "I Just Want To Be Your Everything",
+      "album": "Flowing Rivers • 1977"
+    },
     {
       "time": "12:46 am",
       "artist": "Arctic Monkeys",
@@ -172,12 +178,6 @@
       "artist": "Donna Summer",
       "title": "I Feel Love",
       "album": "I Remember Yesterday • 1977"
-    },
-    {
-      "time": "10:09 pm",
-      "artist": "Andrew Bird",
-      "title": "Fake Palindromes",
-      "album": "Andrew Bird & the Mysterious Production of Eggs • 2005"
     }
   ]
 }
