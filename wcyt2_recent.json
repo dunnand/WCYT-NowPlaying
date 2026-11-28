@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T09:58:23",
+  "updatedAt": "2026-11-28T09:58:45",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
+    "artist": "Doobie Brothers",
+    "title": "Listen To The Music",
+    "album": "Toulouse Street • 1972",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "9:58 am",
-      "artist": "Doobie Brothers",
-      "title": "Listen To The Music"
-    },
     {
       "time": "10:02 am",
       "artist": "Deftones",
@@ -31,9 +26,20 @@
       "time": "10:17 am",
       "artist": "Pulp",
       "title": "This.Is.Hardcore"
+    },
+    {
+      "time": "10:23 am",
+      "artist": "Alicia Keys",
+      "title": "Girl On Fire"
     }
   ],
   "recent": [
+    {
+      "time": "9:58 am",
+      "artist": "Doobie Brothers",
+      "title": "Listen To The Music",
+      "album": "Toulouse Street • 1972"
+    },
     {
       "time": "9:54 am",
       "artist": "Broken Social Scene",
@@ -177,12 +183,6 @@
       "artist": "Aesop Rock",
       "title": "None Shall Pass",
       "album": "None Shall Pass • 2007"
-    },
-    {
-      "time": "8:08 am",
-      "artist": "Drake",
-      "title": "Started From The Bottom",
-      "album": "HA201306 14 • 2013"
     }
   ]
 }
