@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T01:41:21",
+  "updatedAt": "2026-11-28T01:46:03",
   "now": {
-    "artist": "Bob Dylan",
-    "title": "Forever Young",
-    "album": "Planet Waves • 1974",
+    "artist": "Neil Young & Crazy Horse",
+    "title": "Cinnamon Girl",
+    "album": "Everybody Knows This Is Nowhere • 1969",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "1:46 am",
-      "artist": "Neil Young & Crazy Horse",
-      "title": "Cinnamon Girl"
-    },
     {
       "time": "1:49 am",
       "artist": "Queen",
@@ -26,9 +21,20 @@
       "time": "2:02 am",
       "artist": "ABBA",
       "title": "Mamma Mia"
+    },
+    {
+      "time": "2:06 am",
+      "artist": "Gin Blossoms",
+      "title": "Found Out About You"
     }
   ],
   "recent": [
+    {
+      "time": "1:46 am",
+      "artist": "Neil Young & Crazy Horse",
+      "title": "Cinnamon Girl",
+      "album": "Everybody Knows This Is Nowhere • 1969"
+    },
     {
       "time": "1:41 am",
       "artist": "Bob Dylan",
@@ -172,12 +178,6 @@
       "artist": "David Byrne & Brian Eno",
       "title": "Strange Overtones",
       "album": "Strange Overtones • 2008"
-    },
-    {
-      "time": "12:01 am",
-      "artist": "Lloyd Price",
-      "title": "Stagger Lee",
-      "album": "The Exciting Lloyd Price • 1959"
     }
   ]
 }
