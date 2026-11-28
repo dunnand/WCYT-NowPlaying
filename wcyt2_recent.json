@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T12:37:43",
+  "updatedAt": "2026-11-28T12:40:33",
   "now": {
-    "artist": "Spice Girls",
-    "title": "Wannabe",
-    "album": "Spice • 1996",
+    "artist": "Steely Dan",
+    "title": "Hey Nineteen",
+    "album": "Gaucho • 1980",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "12:40 pm",
-      "artist": "Steely Dan",
-      "title": "Hey Nineteen"
-    },
     {
       "time": "12:45 pm",
       "artist": "Air Supply",
@@ -21,9 +16,20 @@
       "time": "12:49 pm",
       "artist": "H.E.R.",
       "title": "Fight For You"
+    },
+    {
+      "time": "12:53 pm",
+      "artist": "Steely Dan",
+      "title": "Do It Again"
     }
   ],
   "recent": [
+    {
+      "time": "12:40 pm",
+      "artist": "Steely Dan",
+      "title": "Hey Nineteen",
+      "album": "Gaucho • 1980"
+    },
     {
       "time": "12:37 pm",
       "artist": "Spice Girls",
@@ -167,12 +173,6 @@
       "artist": "Otis Redding",
       "title": "(Sittin' on) The Dock of the Bay",
       "album": "The Dock of the Bay • 1968"
-    },
-    {
-      "time": "11:12 am",
-      "artist": "Dan Hill",
-      "title": "Sometimes When We Touch",
-      "album": "Longer Fuse • 1977"
     }
   ]
 }
