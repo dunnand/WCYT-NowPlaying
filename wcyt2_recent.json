@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T07:04:01",
+  "updatedAt": "2026-11-28T07:04:22",
   "now": {
-    "artist": "Liner",
-    "title": "Liner",
-    "album": "",
-    "category": "AUDIO"
+    "artist": "Death Cab for Cutie",
+    "title": "Title and Registration",
+    "album": "Transatlanticism • 2003",
+    "category": "TUNES"
   },
   "comingUp": [
-    {
-      "time": "7:04 am",
-      "artist": "Death Cab for Cutie",
-      "title": "Title and Registration"
-    },
     {
       "time": "7:07 am",
       "artist": "Black Eyed Peas",
@@ -26,9 +21,20 @@
       "time": "7:15 am",
       "artist": "Natalie Merchant",
       "title": "Carnival"
+    },
+    {
+      "time": "7:19 am",
+      "artist": "Naughty By Nature",
+      "title": "O.P.P"
     }
   ],
   "recent": [
+    {
+      "time": "7:04 am",
+      "artist": "Death Cab for Cutie",
+      "title": "Title and Registration",
+      "album": "Transatlanticism • 2003"
+    },
     {
       "time": "6:59 am",
       "artist": "Beck",
@@ -172,12 +178,6 @@
       "artist": "Trio",
       "title": "Da Da Da",
       "album": "Da Da Da • 1982"
-    },
-    {
-      "time": "5:32 am",
-      "artist": "Madonna",
-      "title": "Borderline",
-      "album": "Madonna • 1983"
     }
   ]
 }
