@@ -1,17 +1,12 @@
 {
-  "updatedAt": "2026-11-28T05:20:43",
+  "updatedAt": "2026-11-28T05:24:26",
   "now": {
-    "artist": "Beach House",
-    "title": "Used to Be",
-    "album": "Teen Dream • 2010",
-    "category": "TUNES"
+    "artist": "Megadeth",
+    "title": "Symphony of Destruction",
+    "album": "Countdown to Exinction • 1992",
+    "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "5:24 am",
-      "artist": "Megadeth",
-      "title": "Symphony of Destruction"
-    },
     {
       "time": "5:28 am",
       "artist": "Melissa Etheridge",
@@ -26,9 +21,20 @@
       "time": "5:36 am",
       "artist": "Trio",
       "title": "Da Da Da"
+    },
+    {
+      "time": "5:39 am",
+      "artist": "Deftones",
+      "title": "Genesis"
     }
   ],
   "recent": [
+    {
+      "time": "5:24 am",
+      "artist": "Megadeth",
+      "title": "Symphony of Destruction",
+      "album": "Countdown to Exinction • 1992"
+    },
     {
       "time": "5:20 am",
       "artist": "Beach House",
@@ -172,12 +178,6 @@
       "artist": "Nick Drake",
       "title": "River Man",
       "album": "Five Leaves Left • 1969"
-    },
-    {
-      "time": "3:52 am",
-      "artist": "James Taylor",
-      "title": "Fire And Rain",
-      "album": "Sweet Baby James • 1970"
     }
   ]
 }
