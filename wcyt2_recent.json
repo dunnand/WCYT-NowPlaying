@@ -1,24 +1,19 @@
 {
-  "updatedAt": "2026-11-28T10:10:45",
+  "updatedAt": "2026-11-28T10:17:00",
   "now": {
-    "artist": "The Who",
-    "title": "Who Are You",
-    "album": "Who Are You • 1978",
+    "artist": "Pulp",
+    "title": "This.Is.Hardcore",
+    "album": "This Is Hardcore • 1998",
     "category": "AUDIO"
   },
   "comingUp": [
-    {
-      "time": "10:17 am",
-      "artist": "Pulp",
-      "title": "This.Is.Hardcore"
-    },
     {
       "time": "10:23 am",
       "artist": "Alicia Keys",
       "title": "Girl On Fire"
     },
     {
-      "time": "10:28 am",
+      "time": "10:27 am",
       "artist": "Built to Spill",
       "title": "In Your Mind"
     },
@@ -29,6 +24,12 @@
     }
   ],
   "recent": [
+    {
+      "time": "10:16 am",
+      "artist": "Pulp",
+      "title": "This.Is.Hardcore",
+      "album": "This Is Hardcore • 1998"
+    },
     {
       "time": "10:10 am",
       "artist": "The Who",
@@ -172,12 +173,6 @@
       "artist": "Pantera",
       "title": "Mouth for War",
       "album": "Vulgar Display of Power • 1992"
-    },
-    {
-      "time": "8:24 am",
-      "artist": "Ozzy Osbourne",
-      "title": "No More Tears",
-      "album": "No More Tears • 1991"
     }
   ]
 }
